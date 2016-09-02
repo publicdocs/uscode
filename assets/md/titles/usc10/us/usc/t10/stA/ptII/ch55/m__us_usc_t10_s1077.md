@@ -287,11 +287,11 @@ Provisions similar to those in subsec. (b)(3) of this section were contained in 
 
 >     “(a) __Report and Plan on the Mental Health Care and Counseling Services Available to Military Children.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall conduct a comprehensive review of the mental health care and counseling services available to dependent children of members of the Armed Forces through the Department of Defense.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The review under paragraph (1) shall include an assessment of the following:
 
@@ -311,17 +311,17 @@ Provisions similar to those in subsec. (b)(3) of this section were contained in 
 
 >             “(H) Such other matters as the Secretary considers appropriate.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the review conducted under paragraph (1), including the findings and recommendations of the Secretary as a result of the review.
 
->     “(b) __Comprehensive Plan for Improvements in Access to Care and Counseling.—__ 
+>     “(b)  __Comprehensive Plan for Improvements in Access to Care and Counseling__  __.—__ 
 
 >     The Secretary shall develop and implement a comprehensive plan for improvements in access to quality mental health care and counseling services for military children in order to develop and promote psychological health and resilience in children of deploying and deployed members of the Armed Forces. The information in the report required by subsection (a) shall provide the basis for the development of the plan.
 
 >     “(c) __Pilot Program.—__ 
 
->         “(1) __Elements.—__ 
+>         “(1)  __Elements__  __.—__ 
 
 >         The Secretary of the Army shall carry out a pilot program on the mental health care needs of military children and adolescents. In carrying out the pilot program, the Secretary shall establish a center to—
 
@@ -357,11 +357,11 @@ Provisions similar to those in subsec. (b)(3) of this section were contained in 
 
 >     “(a) __Program on Mental Health Awareness.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall develop a program to improve awareness of the availability of mental health services for, and warning signs about mental health problems in, dependents of members of the Armed Forces whose sponsor served or will serve in a combat theater during the previous or next 60 days.
 
->         “(2) __Matters covered.—__ 
+>         “(2)  __Matters covered__  __.—__ 
 
 >         The program developed under paragraph (1) shall be designed to—
 
@@ -371,25 +371,25 @@ Provisions similar to those in subsec. (b)(3) of this section were contained in 
 
 >             “(C) increase awareness of mental health issues that may arise in dependents referred to in subparagraphs (A) and (B) whose sponsor is deployed to a combat theater.
 
->         “(3) __Coordination.—__ 
+>         “(3)  __Coordination__  __.—__ 
 
 >         The Secretary may permit the Department of Defense to coordinate the program developed under paragraph (1) with an accredited college, university, hospital-based, or community-based mental health center or engage mental health professionals to develop programs to help implement this section.
 
->         “(4) __Availability in other languages.—__ 
+>         “(4)  __Availability in other languages__  __.—__ 
 
 >         The Secretary shall evaluate whether the effectiveness of the program developed under paragraph (1) would be improved by providing materials in languages other than English and take action accordingly\[.\]
 
->         “(5) __Report.—__ 
+>         “(5)  __Report__  __.—__ 
 
 >         Not later than one year after implementation of the program developed under paragraph (1), the Secretary shall submit to Congress a report on the effectiveness of the program, including the extent to which the program is used by low-English-proficient individuals.
 
 >     “(b) __Pilot Project on Post Traumatic Stress Disorder.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The Secretary of Defense shall carry out a pilot project to evaluate the efficacy of various approaches to improving the capability of the military and civilian health care systems to provide early diagnosis and treatment of post traumatic stress disorder (PTSD) and other mental health conditions.
 
->         “(2) __Internet-based diagnosis and treatment.—__ 
+>         “(2)  __Internet-based diagnosis and treatment__  __.—__ 
 
 >         The pilot project shall be designed to evaluate—
 
@@ -397,7 +397,7 @@ Provisions similar to those in subsec. (b)(3) of this section were contained in 
 
 >             “(B) Internet-based tools available to family members of members of the Armed Forces in order to assist such family members in the identification of the emergence of post traumatic stress disorder.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than June 1, 2006, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot project. The report shall include a description of the pilot project, including the location of the pilot project and the scope and objectives of the pilot project.”
 

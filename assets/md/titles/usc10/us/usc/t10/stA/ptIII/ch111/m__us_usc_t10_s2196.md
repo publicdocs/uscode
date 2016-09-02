@@ -15,7 +15,7 @@
 
 ## § 2196. Manufacturing engineering education: grant program
 
-    (a) __Establishment of Grant Program.—__ 
+    (a)  __Establishment of Grant Program__  __.—__ 
 
         (1)
 
@@ -29,7 +29,7 @@
 
         (3) The Secretary shall establish the program in consultation with the Secretary of Education, the Director of the National Science Foundation, and the Director of the Office of Science and Technology Policy.
 
-    (b) __New Programs in Manufacturing Engineering Education.—__ 
+    (b)  __New Programs in Manufacturing Engineering Education__  __.—__ 
 
     A program in manufacturing engineering education to be established at an institution of higher education may be considered to be a new program for the purpose of subsection (a)(1)(B) regardless of whether the program is to be conducted—
 
@@ -39,25 +39,25 @@
 
         (3) within a manufacturing engineering school or center to be established separately from an existing school of engineering of such institution.
 
-    (c) __Minimum Number of Grants for New Programs.—__ 
+    (c)  __Minimum Number of Grants for New Programs__  __.—__ 
 
     Of the total number of grants awarded pursuant to this section, at least one-third shall be awarded for the purpose stated in subsection (a)(1)(B).
 
-    (d) __Geographical Distribution of Grants.—__ 
+    (d)  __Geographical Distribution of Grants__  __.—__ 
 
     In awarding grants under this subsection, the Secretary shall, to the maximum extent practicable, avoid geographical concentration of grant awards.
 
-    (e) __Coordination of Grant Program With the National Science Foundation.—__ 
+    (e)  __Coordination of Grant Program With the National Science Foundation__  __.—__ 
 
     The Secretary of Defense and the Director of the National Science Foundation shall enter into an agreement for carrying out the grant program established pursuant to this section. The agreement shall include procedures to ensure that the grant program is fully coordinated with similar existing programs of the National Science Foundation.
 
-    (f) __Covered Programs.—__ 
+    (f)  __Covered Programs__  __.—__ 
 
         (1) A program of engineering education supported with a grant awarded pursuant to this section shall meet the requirements of this section.
 
         (2) Such a grant may be made for a program of education to be conducted at the undergraduate level, at the graduate level, or at both the undergraduate and graduate levels.
 
-    (g) __Components of Program.—__ 
+    (g)  __Components of Program__  __.—__ 
 
     The program of education for which such a grant is made shall be a consolidated and integrated multidisciplinary program of education having each of the following components:
 
@@ -85,15 +85,15 @@
 
             (B) the enhanced quality and effectiveness of the instruction that result from that increased understanding.
 
-    (h) __Grant Proposals.—__ 
+    (h)  __Grant Proposals__  __.—__ 
 
     The Secretary of Defense, in coordination with the Director of the National Science Foundation, shall solicit from institutions of higher education in the United States (and from consortia of such institutions) proposals for grants to be made pursuant to this section for the support of programs of manufacturing engineering education that are consistent with the purposes of this section.
 
-    (i) __Merit Competition.—__ 
+    (i)  __Merit Competition__  __.—__ 
 
     Applications for grants shall be evaluated on the basis of merit pursuant to competitive procedures prescribed by the Secretary in consultation with the Director of the National Science Foundation.
 
-    (j) __Selection Criteria.—__ 
+    (j)  __Selection Criteria__  __.—__ 
 
     The Secretary may select a proposal for the award of a grant pursuant to this section if the proposal, at a minimum, does each of the following:
 
@@ -113,7 +113,7 @@
 
         (8) Proposes to achieve a significant level of participation by women, members of minority groups, and individuals with disabilities through active recruitment of students from among such persons.
 
-    (k) __Federal Support.—__ 
+    (k)  __Federal Support__  __.—__ 
 
     The amount of financial assistance furnished to an institution under this section may not exceed 50 percent of the estimated cost of carrying out the activities proposed to be supported in part with such financial assistance for the period for which the assistance is to be provided.
 

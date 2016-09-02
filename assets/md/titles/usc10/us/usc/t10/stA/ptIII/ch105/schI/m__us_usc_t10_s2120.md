@@ -43,13 +43,13 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 597, Oct. 14, 2008, [122 Stat. 4479][/us/stat/122/4479], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(8)][/us/pl/111/383/s1075/e/8], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense may conduct a demonstration project to encourage retired military nurses to serve as faculty at civilian nursing schools.
 
 >     “(b) __Eligibility Requirements.—__ 
 
->         “(1) __Individual.—__ 
+>         “(1)  __Individual__  __.—__ 
 
 >         An individual is eligible to participate in the demonstration project if the individual—
 
@@ -59,7 +59,7 @@
 
 >             “(C) possesses a doctoral or master degree in nursing that qualifies the officer to become a full faculty member of an accredited school of nursing.
 
->         “(2) __Institution.—__ 
+>         “(2)  __Institution__  __.—__ 
 
 >         An accredited school of nursing is eligible to participate in the demonstration project if the school or its parent institution of higher education—
 
@@ -73,7 +73,7 @@
 
 >             “(E) agrees to comply with subsection (d).
 
->     “(c) __Compensation.—__ 
+>     “(c)  __Compensation__  __.—__ 
 
 >     The Secretary of Defense may authorize a Secretary of a military department to authorize qualified institutions of higher education to employ as faculty those eligible individuals (as described in subsection (b)) who are receiving retired pay, whose qualifications are approved by the Secretary and the institution of higher education concerned, and who request such employment, subject to the following:
 
@@ -81,7 +81,7 @@
 
 >         “(2) Notwithstanding any other provision of law contained in title 10, title 32, or title 37, United States Code, such a retired nurse corps officer is not, while so employed, considered to be on active duty or inactive duty training for any purpose.
 
->     “(d) __Scholarships for Nurse Officer Candidates.—__ 
+>     “(d)  __Scholarships for Nurse Officer Candidates__  __.—__ 
 
 >     For purposes of the eligibility of an institution under subsection (b)(2)(E), the following requirements apply:
 
@@ -95,11 +95,11 @@
 
 >     “(e) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 24 months after the commencement of any demonstration project under this section, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the demonstration project. The report shall include a description of the project and a description of plans for the continuation of the project, if any.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report shall also include, at a minimum, the following:
 
@@ -121,11 +121,11 @@
 
 >             “(I) The recommendation of the Secretary of Defense as to whether the demonstration project should be extended.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘school of nursing’ and ‘accredited’ have the meanings given those terms in section 801 of the Public Health Service Act ([42 U.S.C. 296][/us/usc/t42/s296]).
 
->     “(g) __Sunset.—__ 
+>     “(g)  __Sunset__  __.—__ 
 
 >     The authority in this section shall expire on June 30, 2014.”
 

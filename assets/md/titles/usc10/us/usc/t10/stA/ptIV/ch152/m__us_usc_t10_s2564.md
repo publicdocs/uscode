@@ -15,11 +15,11 @@
 
 ## § 2564. Provision of support for certain sporting events
 
-    (a) __Security and Safety Assistance.—__ 
+    (a)  __Security and Safety Assistance__  __.—__ 
 
     At the request of a Federal, State, or local government agency responsible for providing law enforcement services, security services, or safety services, the Secretary of Defense may authorize the commander of a military installation or other facility of the Department of Defense or the commander of a specified or unified combatant command to provide assistance for the World Cup Soccer Games, the Goodwill Games, the Olympics, and any other civilian sporting event in support of essential security and safety at such event, but only if the Attorney General certifies that such assistance is necessary to meet essential security and safety needs.
 
-    (b) __Other Assistance.—__ 
+    (b)  __Other Assistance__  __.—__ 
 
     The Secretary of Defense may authorize a commander referred to in subsection (a) to provide assistance for a sporting event referred to in that subsection in support of other needs relating to such event, but only—
 
@@ -29,7 +29,7 @@
 
         (3) if the organization requesting such assistance agrees to reimburse the Department for amounts expended by the Department in providing the assistance in accordance with the provisions of [section 377 of this title][/us/usc/t10/s377] and other applicable provisions of law.
 
-    (c) __Inapplicability to Certain Events.—__ 
+    (c)  __Inapplicability to Certain Events__  __.—__ 
 
     Subsections (a) and (b) do not apply to the following sporting events:
 
@@ -59,11 +59,11 @@
 
             (C) in which at least 10 percent of the athletes participating in the sporting event are members or former members of the armed forces who are participating in the sporting event based upon an injury or wound incurred in the line of duty in the armed force and veterans who are participating in the sporting event based upon a service-connected disability.
 
-    (d) __Terms and Conditions.—__ 
+    (d)  __Terms and Conditions__  __.—__ 
 
     The Secretary of Defense may require such terms and conditions in connection with the provision of assistance under this section as the Secretary considers necessary and appropriate to protect the interests of the United States.
 
-    (e) __Report on Assistance.—__ 
+    (e)  __Report on Assistance__  __.—__ 
 
     Not later than January 30 of each year following a year in which the Secretary of Defense provides assistance under this section, the Secretary shall submit to Congress a report on the assistance provided. The report shall set forth—
 
@@ -81,11 +81,11 @@
 
             (B) the amount the Department was reimbursed under that subsection.
 
-    (f) __Relationship to Other Laws.—__ 
+    (f)  __Relationship to Other Laws__  __.—__ 
 
     Assistance provided under this section shall be subject to the provisions of sections 375 and 376 of this title.
 
-    (g) __Funding for Support of Certain Events.—__ 
+    (g)  __Funding for Support of Certain Events__  __.—__ 
 
         (1) Amounts for the provision of support for a sporting event described in paragraph (4) or (5) of subsection (c) may be derived from the Support for International Sporting Competitions, Defense account established by section 5802 of the Omnibus Consolidated Appropriations Act, 1997 ([Public Law 104–208][/us/pl/104/208]; [10 U.S.C. 2564][/us/usc/t10/s2564] note), notwithstanding any limitation under that section relating to the availability of funds in such account for the provision of support for international sporting competitions.
 

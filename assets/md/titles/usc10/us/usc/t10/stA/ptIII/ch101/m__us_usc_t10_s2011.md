@@ -15,7 +15,7 @@
 
 ## § 2011. Special operations forces: training with friendly foreign forces
 
-    (a) __Authority To Pay Training Expenses.—__ 
+    (a)  __Authority To Pay Training Expenses__  __.—__ 
 
     Under regulations prescribed pursuant to subsection (c), the commander of the special operations command established pursuant to [section 167 of this title][/us/usc/t10/s167] and the commander of any other unified or specified combatant command may pay, or authorize payment for, any of the following expenses:
 
@@ -25,15 +25,15 @@
 
         (3) In the case of training in conjunction with a friendly developing country, the incremental expenses incurred by that country as the direct result of such training.
 
-    (b) __Purpose of Training.—__ 
+    (b)  __Purpose of Training__  __.—__ 
 
     The primary purpose of the training for which payment may be made under subsection (a) shall be to train the special operations forces of the combatant command.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall require that training activities may be carried out under this section only with the prior approval of the Secretary of Defense. The regulations shall establish accounting procedures to ensure that the expenditures pursuant to this section are appropriate.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -41,7 +41,7 @@
 
         (2) The term “incremental expenses”, with respect to a developing country, means the reasonable and proper cost of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country, except that the term does not include pay, allowances, and other normal costs of such country’s personnel.
 
-    (e) __Reports.—__ 
+    (e)  __Reports__  __.—__ 
 
     Not later than April 1 of each year, the Secretary of Defense shall submit to Congress a report regarding training during the preceding fiscal year for which expenses were paid under this section. Each report shall specify the following:
 

@@ -15,11 +15,11 @@
 
 ## § 1079b. Procedures for charging fees for care provided to civilians; retention and use of fees collected
 
-    (a) __Requirement To Implement Procedures.—__ 
+    (a)  __Requirement To Implement Procedures__  __.—__ 
 
     The Secretary of Defense shall implement procedures under which a military medical treatment facility may charge civilians who are not covered beneficiaries (or their insurers) fees representing the costs, as determined by the Secretary, of trauma and other medical care provided to such civilians.
 
-    (b) __Use of Fees Collected.—__ 
+    (b)  __Use of Fees Collected__  __.—__ 
 
     A military medical treatment facility may retain and use the amounts collected under subsection (a) for—
 

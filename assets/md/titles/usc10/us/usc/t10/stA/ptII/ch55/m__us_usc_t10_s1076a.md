@@ -15,31 +15,31 @@
 
 ## § 1076a. TRICARE dental program
 
-    (a) __Establishment of Dental Plans.—__ 
+    (a)  __Establishment of Dental Plans__  __.—__ 
 
     The Secretary of Defense may establish, and in the case of the dental plan described in paragraph (1) shall establish, the following voluntary enrollment dental plans:
 
-        (1) __Plan for selected reserve and individual ready reserve.—__ 
+        (1)  __Plan for selected reserve and individual ready reserve__  __.—__ 
 
         A dental insurance plan for members of the Selected Reserve of the Ready Reserve and for members of the Individual Ready Reserve described in sub[section 10144(b) of this title][/us/usc/t10/s10144/b]. During the period beginning on the date of the enactment of this sentence and ending December 31, 2018, such plan shall provide that coverage for a member of the Selected Reserve who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall not terminate earlier than 180 days after the date on which the member is separated.
 
-        (2) __Plan for other reserves.—__ 
+        (2)  __Plan for other reserves__  __.—__ 
 
         A dental insurance plan for members of the Individual Ready Reserve not eligible to enroll in the plan established under paragraph (1).
 
-        (3) __Plan for active duty dependents.—__ 
+        (3)  __Plan for active duty dependents__  __.—__ 
 
         Dental benefits plans for eligible dependents of members of the uniformed services who are on active duty for a period of more than 30 days.
 
-        (4) __Plan for ready reserve dependents.—__ 
+        (4)  __Plan for ready reserve dependents__  __.—__ 
 
         A dental benefits plan for eligible dependents of members of the Ready Reserve of the reserve components who are not on active duty for more than 30 days.
 
-    (b) __Administration of Plans.—__ 
+    (b)  __Administration of Plans__  __.—__ 
 
     The plans established under this section shall be administered under regulations prescribed by the Secretary of Defense in consultation with the other administering Secretaries.
 
-    (c) __Care Available Under Plans.—__ 
+    (c)  __Care Available Under Plans__  __.—__ 
 
     Dental plans established under subsection (a) may provide for the following dental care:
 
@@ -51,7 +51,7 @@
 
     (d) __Premiums.—__ 
 
-        (1) __Premium sharing plans.—__ 
+        (1)  __Premium sharing plans__  __.—__ 
 
             (A) The dental insurance plan established under subsection (a)(1) and the dental benefits plans established under subsection (a)(3) are premium sharing plans.
 
@@ -67,17 +67,17 @@
 
             (D) The Secretary of Defense may reduce the monthly premium required to be paid under paragraph (1) in the case of enlisted members in pay grade E–1, E–2, E–3, or E–4 if the Secretary determines that such a reduction is appropriate to assist such members to participate in a dental plan referred to in subparagraph (A).
 
-        (2) __Full premium plans.—__ 
+        (2)  __Full premium plans__  __.—__ 
 
             (A) The dental insurance plan established under subsection (a)(2) and the dental benefits plan established under subsection (a)(4) are full premium plans.
 
             (B) Members enrolled in a full premium plan for themselves or for their dependents shall be required to pay the entire premium charged for the benefits provided under the plan.
 
-        (3) __Payment procedures.—__ 
+        (3)  __Payment procedures__  __.—__ 
 
         A member’s share of the premium for a plan established under subsection (a) may be paid by deductions from the basic pay of the member and from compensation paid under [section 206 of title 37][/us/usc/t37/s206], as the case may be. The regulations prescribed under subsection (b) shall specify the procedures for payment of the premiums by enrollees who do not receive such pay.
 
-    (e) __Copayments Under Premium Sharing Plans.—__ 
+    (e)  __Copayments Under Premium Sharing Plans__  __.—__ 
 
         (1)
 
@@ -95,23 +95,23 @@
 
             (B) The waiver under subparagraph (A) may apply only with respect to charges for coverage of dental care required for readiness.
 
-    (f) __Transfer of Members.—__ 
+    (f)  __Transfer of Members__  __.—__ 
 
     If a member whose dependents are enrolled in the plan established under subsection (a)(3) is transferred to a duty station where dental care is provided to the member’s eligible dependents under a program other than that plan, the member may discontinue participation under the plan. If the member is later transferred to a duty station where dental care is not provided to such member’s eligible dependents except under the plan established under subsection (a)(3), the member may re-enroll the dependents in that plan.
 
-    (g) __Care Outside the United States.—__ 
+    (g)  __Care Outside the United States__  __.—__ 
 
     The Secretary of Defense may exercise the authority provided under subsection (a) to establish dental insurance plans and dental benefits plans for dental benefits provided outside the United States for the eligible members and dependents of members of the uniformed services. In the case of such an overseas dental plan, the Secretary may waive or reduce any copayments required by subsection (e) to the extent the Secretary determines appropriate for the effective and efficient operation of the plan.
 
-    (h) __Waiver of Requirements for Surviving Dependents.—__ 
+    (h)  __Waiver of Requirements for Surviving Dependents__  __.—__ 
 
     The Secretary of Defense may waive (in whole or in part) any requirements of a dental plan established under this section as the Secretary determines necessary for the effective administration of the plan for a dependent who is an eligible dependent described in subsection (k)(2).
 
-    (i) __Authority Subject to Appropriations.—__ 
+    (i)  __Authority Subject to Appropriations__  __.—__ 
 
     The authority of the Secretary of Defense to enter into a contract under this section for any fiscal year is subject to the availability of appropriations for that purpose.
 
-    (j) __Limitation on Reduction of Benefits.—__ 
+    (j)  __Limitation on Reduction of Benefits__  __.—__ 
 
     The Secretary of Defense may not reduce benefits provided under a plan established under this section until—
 
@@ -119,7 +119,7 @@
 
         (2) one year has elapsed following the date of such notice.
 
-    (k) __Eligible Dependent Defined.—__ 
+    (k)  __Eligible Dependent Defined__  __.—__ 
 
         (1) In this section, the term “eligible dependent” means a dependent described in subparagraph (A), (D), or (I) of [section 1072(2) of this title][/us/usc/t10/s1072/2].
 
@@ -195,11 +195,11 @@
 
 [Pub. L. 103–160, div. A, title VII, § 703][/us/pl/103/160/s703], Nov. 30, 1993, [107 Stat. 1687][/us/stat/107/1687], provided that:
 
->     “(a) __Authority To Expand Program.—__ 
+>     “(a)  __Authority To Expand Program__  __.—__ 
 
 >     After March 31, 1994, the Secretary of Defense may expand the dependents’ dental program established under [section 1076a of title 10][/us/usc/t10/s1076a], United States Code, to permit a member of the uniformed services described in subsection (b) to enroll dependents described in subsection (a) of such section in a dental benefits plan under the program without regard to the length of the uncompleted portion of the member’s period of obligated service.
 
->     “(b) __Covered Members.—__ 
+>     “(b)  __Covered Members__  __.—__ 
 
 >     A member referred to in subsection (a) is a member of the uniformed services who is—
 
@@ -207,11 +207,11 @@
 
 >         “(2) reassigned from a permanent duty station where a dental benefits plan under the dependents’ dental program is not available to a permanent duty station where such a plan is available.
 
->     “(c) __Report on Advisability of Expansion.—__ 
+>     “(c)  __Report on Advisability of Expansion__  __.—__ 
 
 >     Not later than February 28, 1994, the Secretary shall submit to Congress a report evaluating the advisability of expanding the enrollment eligibility of members of the uniformed services in the dependents’ dental program in the manner authorized in subsection (a). The report shall include an analysis of the cost implications for such an expansion to the Federal Government, beneficiaries under the dependents’ dental program, and contractors under the program.
 
->     “(d) __Notification of Exercise of Authority.—__ 
+>     “(d)  __Notification of Exercise of Authority__  __.—__ 
 
 >     The Secretary shall notify Congress of any decision to expand the enrollment eligibility of dependents in the dependents’ dental program as provided in subsection (a) not later than 30 days before such expansion takes effect.”
 

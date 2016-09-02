@@ -15,11 +15,11 @@
 
 ## § 224. Ballistic missile defense programs: display of amounts for research, development, test, and evaluation
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     Any amount in the budget submitted to Congress under [section 1105 of title 31][/us/usc/t31/s1105] for any fiscal year for research, development, test, and evaluation for the integration of a ballistic missile defense element into the overall ballistic missile defense architecture shall be set forth under the account of the Department of Defense for Defense-wide research, development, test, and evaluation and, within that account, under the subaccount (or other budget activity level) for the Missile Defense Agency.
 
-    (b) __Transfer Criteria.—__ 
+    (b)  __Transfer Criteria__  __.—__ 
 
         (1)
 
@@ -33,15 +33,15 @@
 
         (2) The Secretary shall submit the criteria established, and any modifications to those criteria, to the congressional defense committees.
 
-    (c) __Notification of Transfer.—__ 
+    (c)  __Notification of Transfer__  __.—__ 
 
     Before responsibility for a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, the Secretary of Defense shall submit to the congressional defense committees notice in writing of the Secretary’s intent to make that transfer. The Secretary shall include with such notice a certification that the program has met the criteria established under subsection (b) for such a transfer. The transfer may then be carried out after the end of the 60-day period beginning on the date of such notice.
 
-    (d) __Conforming Budget and Planning Transfers.—__ 
+    (d)  __Conforming Budget and Planning Transfers__  __.—__ 
 
     When a ballistic missile defense program is transferred from the Missile Defense Agency to the Secretary of a military department in accordance with this section, the Secretary of Defense shall ensure that all appropriate conforming changes are made to proposed or projected funding allocations in the future-years defense program under [section 221 of this title][/us/usc/t10/s221] and other Department of Defense program, budget, and planning documents.
 
-    (e) __Follow-on Research, Development, Test, and Evaluation.—__ 
+    (e)  __Follow-on Research, Development, Test, and Evaluation__  __.—__ 
 
     The Secretary of Defense shall ensure that, before a ballistic missile defense program is transferred from the Director of the Missile Defense Agency to the Secretary of a military department, roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly delineated.
 

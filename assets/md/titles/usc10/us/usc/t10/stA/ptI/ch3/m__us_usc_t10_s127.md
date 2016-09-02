@@ -33,7 +33,7 @@
 
         (3) A notification under paragraph (1) and information referred to in paragraph (2) shall include the amount to be obligated or expended, as the case may be, and the purpose of the obligation or expenditure.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
     Not later than December 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on expenditures during the preceding fiscal year under subsections (a) and (b).
 

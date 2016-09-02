@@ -15,11 +15,11 @@
 
 ## § 1073a. Contracts for health care: best value contracting
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the administering Secretaries, health care contracts shall be awarded in the administration of this chapter to the offeror or offerors that will provide the best value to the United States to the maximum extent consistent with furnishing high-quality health care in a manner that protects the fiscal and other interests of the United States.
 
-    (b) __Factors Considered.—__ 
+    (b)  __Factors Considered__  __.—__ 
 
     In the determination of best value under subsection (a)—
 
@@ -27,7 +27,7 @@
 
         (2) greater weight shall be accorded to technical and performance-related factors than to cost and price-related factors.
 
-    (c) __Applicability.—__ 
+    (c)  __Applicability__  __.—__ 
 
     The authority under the regulations prescribed under subsection (a) shall apply to any contract in excess of $5,000,000.
 

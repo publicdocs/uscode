@@ -15,11 +15,11 @@
 
 ## § 183. Department of Defense Board of Actuaries
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There shall be in the Department of Defense a Department of Defense Board of Actuaries (hereinafter in this section referred to as the “Board”).
 
-    (b) __Members.—__ 
+    (b)  __Members__  __.—__ 
 
         (1) The Board shall consist of three members who shall be appointed by the Secretary of Defense from among qualified professional actuaries who are members of the Society of Actuaries.
 
@@ -29,7 +29,7 @@
 
         (4) A member of the Board who is not an employee of the United States is entitled to receive pay at the daily equivalent of the annual rate of basic pay of the highest rate of basic pay then currently being paid under the General Schedule of subchapter III of chapter 53 of title 5 for each day the member is engaged in the performance of the duties of the Board and is entitled to travel expenses, including a per diem allowance, in accordance with section 5703 of that title in connection with such duties.
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
     The Board shall have the following duties:
 
@@ -39,11 +39,11 @@
 
         (3) To review valuations of such other funds as the Secretary of Defense shall specify for purposes of this section and make recommendations to the President and Congress on such modifications to the funding or amortization of such funds as the Board considers appropriate to maintain such funds on a sound actuarial basis.
 
-    (d) __Records.—__ 
+    (d)  __Records__  __.—__ 
 
     The Secretary of Defense shall ensure that the Board has access to such records regarding the funds referred to in subsection (c) as the Board shall require to determine the actuarial status of such funds.
 
-    (e) __Reports.—__ 
+    (e)  __Reports__  __.—__ 
 
         (1)
 

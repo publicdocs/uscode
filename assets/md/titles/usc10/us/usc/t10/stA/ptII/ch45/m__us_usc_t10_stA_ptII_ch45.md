@@ -113,7 +113,7 @@
 
 [Pub. L. 111–84, div. A, title III, § 352][/us/pl/111/84/s352], Oct. 28, 2009, [123 Stat. 2262][/us/stat/123/2262], provided that:
 
->     “(a) __Establishment of Policy.—__ 
+>     “(a)  __Establishment of Policy__  __.—__ 
 
 >     It is the policy of the United States that the design and fielding of all future ground combat and camouflage utility uniforms of the Armed Forces may uniquely reflect the identity of the individual military services, as long as such ground combat and camouflage utility uniforms, to the maximum extent practicable—
 
@@ -123,7 +123,7 @@
 
 >         “(3) provide interoperability with other components of individual war fighter systems, including body armor and other individual protective systems.
 
->     “(b) __Comptroller General Assessment.—__ 
+>     “(b)  __Comptroller General Assessment__  __.—__ 
 
 >     The Comptroller General shall conduct an assessment of the ground combat uniforms and camouflage utility uniforms currently in use in the Department of Defense. The assessment shall examine, at a minimum, each of the following:
 
@@ -139,11 +139,11 @@
 
 >         “(6) Logistical requirements to field and support forces in varying combat or utility uniforms.
 
->     “(c) __Report Required.—__ 
+>     “(c)  __Report Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the results of the assessment conducted under subsection (b).
 
->     “(d) __Requirement for Joint Criteria.—__ 
+>     “(d)  __Requirement for Joint Criteria__  __.—__ 
 
 >     In support of the policy established in subsection (a), the Secretaries of the military departments, consistent with the authority set out in subtitles B, C, and D of title 10, United States Code, shall establish joint criteria for future ground combat uniforms by not later than 270 days after the Comptroller General submits the report required under subsection (c). The joint criteria shall take into account the findings and recommendations of such report and ensure that new technologies, advanced materials, and other advances in ground combat uniform design may be shared between the military services and are not precluded from being adapted for use by any military service due to military service-unique proprietary arrangements.”
 

@@ -129,11 +129,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 102–484, div. D, title XLIV, § 4403][/us/pl/102/484/s4403], Oct. 23, 1992, [106 Stat. 2702][/us/stat/106/2702], as amended by [Pub. L. 103–160, div. A, title V, § 561(a)][/us/pl/103/160/s561/a], Nov. 30, 1993, [107 Stat. 1667][/us/stat/107/1667]; [Pub. L. 104–106, div. A, title XV, § 1504(c)(3)][/us/pl/104/106/s1504/c/3], Feb. 10, 1996, [110 Stat. 514][/us/stat/110/514]; [Pub. L. 105–261, div. A, title V, § 561(a)][/us/pl/105/261/s561/a], Oct. 17, 1998, [112 Stat. 2025][/us/stat/112/2025]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 571(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–134; [Pub. L. 107–314, div. A, title V, § 554][/us/pl/107/314/s554], Dec. 2, 2002, [116 Stat. 2553][/us/stat/116/2553]; [Pub. L. 112–81, title V, § 504(b)][/us/pl/112/81/s504/b], Dec. 31, 2011, [125 Stat. 1390][/us/stat/125/1390]; [Pub. L. 112–239, div. A, title X, § 1076(k)][/us/pl/112/239/s1076/k], Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to provide the Secretary of Defense a temporary additional force management tool with which to effect the drawdown of military forces during the active force drawdown period.
 
->     “(b) __Retirement for 15 to 20 Years of Service.—__ 
+>     “(b)  __Retirement for__  __15__  __to__  __20__  __Years of Service__  __.—__ 
 
 >         (1)
 
@@ -165,11 +165,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(c) __Inapplicability of Certain Provisions.—__ 
 
->         “(1) __Increased retired pay for public or community service.—__ 
+>         “(1)  __Increased retired pay for public or community service__  __.—__ 
 
 >         The provisions of section 4464 of this Act ([10 U.S.C. 1143a][/us/usc/t10/s1143a] note) shall not apply with respect to a member or former member retired by reason of eligibility under this section during the active force drawdown period specified in subsection (i)(2).
 
->         “(2) __Coast guard and noaa.—__ 
+>         “(2)  __Coast guard and noaa__  __.—__ 
 
 >         During the period specified in subsection (i)(2), this section does not apply as follows:
 
@@ -177,15 +177,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) To members of the commissioned corps of the National Oceanic and Atmospheric Administration, notwithstanding section 566(c) of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106]; [10 U.S.C. 1293][/us/usc/t10/s1293] note).
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Secretary of each military department may prescribe regulations and policies regarding the criteria for eligibility for early retirement by reason of eligibility pursuant to this section and for the approval of applications for such retirement. Such criteria may include factors such as grade, years of service, and skill.
 
->     “(e) __Computation of Retired Pay.—__ 
+>     “(e)  __Computation of Retired Pay__  __.—__ 
 
 >     Retired or retainer pay of a member retired (or transferred to the Fleet Reserve or Fleet Marine Corps Reserve) under a provision of title 10, United States Code, by reason of eligibility pursuant to subsection (b) shall be reduced by 1⁄12th of 1 percent for each full month by which the number of months of active service of the member are less than 240 as of the date of the member’s retirement (or transfer to the Fleet Reserve or Fleet Marine Corps Reserve).
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >         (1) Notwithstanding [section 1463 of title 10][/us/usc/t10/s1463], United States Code, and subject to the availability of appropriations for this purpose, the Secretary of each military department shall provide in accordance with this section for the payment of retired pay payable during the fiscal years covered by the other provisions of this subsection to members of the Armed Forces under the jurisdiction of that Secretary who are being retired under the authority of this section.
 
@@ -203,17 +203,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) the term ‘retired pay’ shall be treated as including retainer pay.
 
->     “(g) __Coordination With Other Separation Provisions.—__ 
+>     “(g)  __Coordination With Other Separation Provisions__  __.—__ 
 
 >         (1) A member of the Armed Forces retired under the authority of this section is not entitled to benefits under section 1174 or 1175a of title 10, United States Code.
 
 >         “(2) \[Amended section 638a(b)(4)(C) \[now 638a(b)(3)(C)\] of this title.\]
 
->     “(h) __Members Receiving SSB, VSI, or VSP.—__ 
+>     “(h)  __Members Receiving SSB, VSI, or VSP__  __.—__ 
 
 >     The Secretary of a military department may retire (or transfer to the Fleet Reserve or Fleet Marine Corps Reserve) pursuant to the authority provided by this section a member of a reserve component who before the date of the enactment of this Act \[Oct. 23, 1992\] was separated from active duty pursuant to an agreement entered into under section 1174a or 1175 of title 10, United States Code or who before December 31, 2011, was separated from active duty pursuant to an agreement entered into under section 1175a of such title. The retired or retainer pay of any such member so retired (or transferred) by reason of the authority provided in this section shall be reduced by the amount of any payment to such member before the date of such retirement under the provisions of such agreement.
 
->     “(i) __Active Force Drawdown Period.—__ 
+>     “(i)  __Active Force Drawdown Period__  __.—__ 
 
 >     For purposes of this section, the active force drawdown period is (1) the period beginning on the date of the enactment of this Act and ending on September 1, 2002, and (2) the period beginning on December 31, 2011, and ending on December 31, 2018.”
 

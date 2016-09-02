@@ -15,7 +15,7 @@
 
 ## § 1564. Security clearance investigations
 
-    (a) __Expedited Process.—__ 
+    (a)  __Expedited Process__  __.—__ 
 
     The Secretary of Defense may prescribe a process for expediting the completion of the background investigations necessary for granting security clearances for—
 
@@ -43,7 +43,7 @@
 
                 (iii) the spouse of a member of the armed forces who dies, after January 7, 2011, as a result of a wound, injury, or illness incurred or aggravated in the line of duty (as determined by the Secretary concerned).
 
-    (b) __Required Features.—__ 
+    (b)  __Required Features__  __.—__ 
 
     The process developed under subsection (a) shall provide for the following:
 
@@ -53,19 +53,19 @@
 
         (3) Prioritization of the processing of background investigations on the basis of the categories of personnel determined under paragraph (2).
 
-    (c) __Annual Review.—__ 
+    (c)  __Annual Review__  __.—__ 
 
     The Secretary shall conduct an annual review of the process prescribed under subsection (a) and shall revise that process as determined necessary in relation to ongoing Department of Defense missions.
 
-    (d) __Consultation Requirement.—__ 
+    (d)  __Consultation Requirement__  __.—__ 
 
     The Secretary shall consult with the Secretaries of the military departments and the heads of Defense Agencies in carrying out this section.
 
-    (e) __Sensitive Duties.—__ 
+    (e)  __Sensitive Duties__  __.—__ 
 
     For the purposes of this section, it is not necessary for the performance of duties to involve classified activities or classified matters in order for the duties to be considered sensitive and critical to the national security.
 
-    (f) __Use of Appropriated Funds.—__ 
+    (f)  __Use of Appropriated Funds__  __.—__ 
 
     The Secretary of Defense may use funds authorized to be appropriated to the Department of Defense for operation and maintenance to conduct background investigations under this section for individuals described in subsection (a)(2).
 

@@ -15,7 +15,7 @@
 
 ## § 2670. Use of facilities by private organizations; use as polling places
 
-    (a) __Use by Red Cross.—__ 
+    (a)  __Use by Red Cross__  __.—__ 
 
     Under such conditions as he may prescribe, the Secretary of any military department may issue a revocable license to the American National Red Cross to—
 
@@ -25,7 +25,7 @@
 
         Supplies stored in buildings erected or used under this subsection are available to aid the civilian population in a serious national disaster.
 
-    (b) __Use of Certain Facilities as Polling Places.—__ 
+    (b)  __Use of Certain Facilities as Polling Places__  __.—__ 
 
         (1) Notwithstanding chapter 29 of title 18 (including sections 592 and 593 of such title) or any other provision of law, the Secretary of Defense or Secretary of a military department may not (except as provided in paragraph (3)) prohibit the designation or use of a qualifying facility under the jurisdiction of the Secretary as an official polling place for local, State, or Federal elections.
 
@@ -39,7 +39,7 @@
 
         (3) The limitation in paragraph (1) may be waived by the Secretary of Defense or Secretary of the military department concerned with respect to a particular Department of Defense facility if the Secretary of Defense or Secretary concerned determines that local security conditions require prohibition of the designation or use of that facility as an official polling place for any election.
 
-    (c) __Use of Space and Equipment by Veterans Service Organizations.—__ 
+    (c)  __Use of Space and Equipment by Veterans Service Organizations__  __.—__ 
 
         (1) Upon certification to the Secretary concerned by the Secretary of Veterans Affairs, the Secretary concerned shall allow accredited, paid, full-time representatives of the organizations named in [section 5902 of title 38][/us/usc/t38/s5902], or of other organizations recognized by the Secretary of Veterans Affairs, to function on military installations under the jurisdiction of the Secretary concerned that are on land and from which persons are discharged or released from active duty.
 

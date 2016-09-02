@@ -15,7 +15,7 @@
 
 ## § 2275. Reports on integration of acquisition and capability delivery schedules for segments of major satellite acquisition programs and funding for such programs
 
-    (a) __Reports Required.—__ 
+    (a)  __Reports Required__  __.—__ 
 
     The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees a report on each major satellite acquisition program in accordance with subsection (d) that assesses—
 
@@ -23,7 +23,7 @@
 
         (2) funding for the program.
 
-    (b) __Elements.—__ 
+    (b)  __Elements__  __.—__ 
 
     Each report required by subsection (a) with respect to a major satellite acquisition program shall include the following:
 
@@ -45,17 +45,17 @@
 
             (C) the risks and challenges that impede the ability of the Department of Defense to fully integrate those schedules.
 
-    (c) __Consideration by Milestone Decision Authority.—__ 
+    (c)  __Consideration by Milestone Decision Authority__  __.—__ 
 
     The Milestone Decision Authority shall include the report required by subsection (a) with respect to a major satellite acquisition program as part of the documentation used to approve the acquisition of the program.
 
-    (d) __Submittal of Reports.—__ 
+    (d)  __Submittal of Reports__  __.—__ 
 
         (1) In the case of a major satellite acquisition program initiated before the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program not later than one year after such date of enactment.
 
         (2) In the case of a major satellite acquisition program initiated on or after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013, the Under Secretary shall submit the report required by subsection (a) with respect to the program at the time of the Milestone B approval of the program.
 
-    (e) __Notification to Congress of Non-integrated Acquisition and Capability Delivery Schedules.—__ 
+    (e)  __Notification to Congress of Non-integrated Acquisition and Capability Delivery Schedules__  __.—__ 
 
     If, after submitting the report required by subsection (a) with respect to a major satellite acquisition program, the Under Secretary determines that the program is a non-integrated program, the Under Secretary shall, not later than 30 days after making that determination, submit to the congressional defense committees a report—
 
@@ -71,37 +71,37 @@
 
             (C) the risks and challenges that impede the ability of the Department of Defense to fully integrate those schedules.
 
-    (f) __Annual Updates for Non-integrated Programs.—__ 
+    (f)  __Annual Updates for Non-integrated Programs__  __.—__ 
 
-        (1) __Requirement.—__ 
+        (1)  __Requirement__  __.—__ 
 
         For each major satellite acquisition program that the Under Secretary has determined under subsection (b)(5) or subsection (e) is a non-integrated program, the Under Secretary shall annually submit to Congress, at the same time the budget of the President for a fiscal year is submitted under [section 1105 of title 31][/us/usc/t31/s1105], an update to the report required by subsection (a) for such program.
 
-        (2) __Termination of requirement.—__ 
+        (2)  __Termination of requirement__  __.—__ 
 
         The requirement to submit an annual report update for a program under paragraph (1) shall terminate on the date on which the Under Secretary submits to the congressional defense committees notice that the Under Secretary has determined that such program is no longer a non-integrated program, or on the date that is five years after the date on which the initial report update required under paragraph (1) is submitted, whichever is earlier.
 
-        (3) __GAO review of certain non-integrated programs.—__ 
+        (3)  __GAO review of certain non-integrated programs__  __.—__ 
 
         If at the time of the termination of the requirement to annually update a report for a program under paragraph (1) the Under Secretary has not provided notice to the congressional defense committees that the Under Secretary has determined that the program is no longer a non-integrated program, the Comptroller General shall conduct a review of such program and submit the results of such review to the congressional defense committees.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Segments.—__ 
+        (1)  __Segments__  __.—__ 
 
         The term “segments”, with respect to a major satellite acquisition program, refers to any satellites acquired under the program and the ground equipment and user terminals necessary to fully exploit the capabilities provided by those satellites.
 
-        (2) __Major satellite acquisition program.—__ 
+        (2)  __Major satellite acquisition program__  __.—__ 
 
         The term “major satellite acquisition program” means a major defense acquisition program (as defined in [section 2430 of this title][/us/usc/t10/s2430]) for the acquisition of a satellite.
 
-        (3) __Milestone b approval.—__ 
+        (3)  __Milestone b approval__  __.—__ 
 
         The term “Milestone B approval” has the meaning given that term in [section 2366(e)(7) of this title][/us/usc/t10/s2366/e/7].
 
-        (4) __Non-integrated program.—__ 
+        (4)  __Non-integrated program__  __.—__ 
 
         The term “non-integrated program” means a program with respect to which the schedules for the acquisition and the delivery of the capabilities of the segments for the program, or a related program that is necessary for the operational capability of the program, provide for the acquisition or the delivery of the capabilities of at least two of the three segments for the program or related program more than one year apart.
 

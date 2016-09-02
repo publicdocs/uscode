@@ -15,11 +15,11 @@
 
 ## § 7582. Naval and Marine Corps Historical Centers: fee for providing historical information to the public
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Except as provided in subsection (b), the Secretary of the Navy may charge a person a fee for providing the person with information from the United States Naval Historical Center or the Marine Corps Historical Center that is requested by that person.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     A fee may not be charged under this section—
 
@@ -27,15 +27,15 @@
 
         (2) for a release of information under [section 552 of title 5][/us/usc/t5/s552].
 
-    (c) __Limitation on Amount.—__ 
+    (c)  __Limitation on Amount__  __.—__ 
 
     A fee charged for providing information under this section may not exceed the cost of providing the information.
 
-    (d) __Retention of Fees.—__ 
+    (d)  __Retention of Fees__  __.—__ 
 
     Amounts received under subsection (a) for providing information from the United States Naval Historical Center or the Marine Corps Historical Center in any fiscal year shall be credited to the appropriation or appropriations charged the costs of providing information to the public from that historical center during that fiscal year.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

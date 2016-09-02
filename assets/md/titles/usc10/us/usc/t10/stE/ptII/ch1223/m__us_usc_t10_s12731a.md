@@ -15,7 +15,7 @@
 
 ## § 12731a. Temporary special retirement qualification authority
 
-    (a) __Retirement With At Least 15 Years of Service.—__ 
+    (a)  __Retirement With At Least__  __15__  __Years of Service__  __.—__ 
 
     For the purposes of [section 12731 of this title][/us/usc/t10/s12731], the Secretary concerned may—
 
@@ -29,11 +29,11 @@
 
         (2) upon the request of the member submitted to the Secretary, transfer the member to the Retired Reserve.
 
-    (b) __Period of Authority.—__ 
+    (b)  __Period of Authority__  __.—__ 
 
     The period referred to in subsection (a)(1) is the period beginning on October 23, 1992, and ending on December 31, 2001.
 
-    (c) __Applicability Subject to Needs of the Service.—__ 
+    (c)  __Applicability Subject to Needs of the Service__  __.—__ 
 
         (1) The Secretary concerned may limit the applicability of subsection (a) to any category of personnel defined by the Secretary in order to meet a need of the armed force under the jurisdiction of the Secretary to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
@@ -41,11 +41,11 @@
 
         (3) Notwithstanding the provisions of section 4415(2) of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of [Public Law 102–484][/us/pl/102/484]; [106 Stat. 2714][/us/stat/106/2714]), the Secretary concerned may, consistent with the other provisions of this section, provide the notification required by [section 12731(d) of this title][/us/usc/t10/s12731/d] to a member who no longer meets the qualifications for membership in the Selected Reserve solely because the member is unfit because of physical disability. Such notification may not be made if the disability is the result of the member’s intentional misconduct, willful neglect, or willful failure to comply with standards and qualifications for retention established by the Secretary concerned or was incurred during a period of unauthorized absence.
 
-    (d) __Exclusion.—__ 
+    (d)  __Exclusion__  __.—__ 
 
     This section does not apply to persons referred to in [section 12731(c) of this title][/us/usc/t10/s12731/c].
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The authority provided in this section shall be subject to regulations prescribed by the Secretary of Defense and by the Secretary of Homeland Security with respect to the Coast Guard.
 

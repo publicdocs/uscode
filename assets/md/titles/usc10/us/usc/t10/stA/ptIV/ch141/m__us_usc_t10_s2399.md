@@ -15,7 +15,7 @@
 
 ## § 2399. Operational test and evaluation of defense acquisition programs
 
-    (a) __Condition for Proceeding Beyond Low-rate Initial Production.—__ 
+    (a)  __Condition for Proceeding Beyond Low-rate Initial Production__  __.—__ 
 
         (1) The Secretary of Defense shall provide that a covered major defense acquisition program or a covered designated major subprogram may not proceed beyond low-rate initial production until initial operational test and evaluation of the program or subprogram is completed.
 
@@ -27,7 +27,7 @@
 
             (B) The term “covered designated major subprogram” means a major subprogram designated under [section 2430a(a)(1) of this title][/us/usc/t10/s2430a/a/1] that is a major subprogram of a covered major defense acquisition program.
 
-    (b) __Operational Test and Evaluation.—__ 
+    (b)  __Operational Test and Evaluation__  __.—__ 
 
         (1) Operational testing of a major defense acquisition program may not be conducted until the Director of Operational Test and Evaluation of the Department of Defense approves (in writing) the adequacy of the plans (including the projected level of funding) for operational test and evaluation to be conducted in connection with that program.
 
@@ -53,7 +53,7 @@
 
         (6) In this subsection, the term “major defense acquisition program” has the meaning given that term in [section 139(a)(2)(B) of this title][/us/usc/t10/s139/a/2/B].
 
-    (c) __Determination of Quantity of Articles Required for Operational Testing.—__ 
+    (c)  __Determination of Quantity of Articles Required for Operational Testing__  __.—__ 
 
     The quantity of articles of a new system that are to be procured for operational testing shall be determined by—
 
@@ -61,11 +61,11 @@
 
         (2) the operational test and evaluation agency of the military department concerned, in the case of a new system that is not a major defense acquisition program.
 
-    (d) __Impartiality of Contractor Testing Personnel.—__ 
+    (d)  __Impartiality of Contractor Testing Personnel__  __.—__ 
 
     In the case of a major defense acquisition program (as defined in subsection (a)(2)), no person employed by the contractor for the system being tested may be involved in the conduct of the operational test and evaluation required under subsection (a). The limitation in the preceding sentence does not apply to the extent that the Secretary of Defense plans for persons employed by that contractor to be involved in the operation, maintenance, and support of the system being tested when the system is deployed in combat.
 
-    (e) __Impartial Contracted Advisory and Assistance Services.—__ 
+    (e)  __Impartial Contracted Advisory and Assistance Services__  __.—__ 
 
         (1) The Director may not contract with any person for advisory and assistance services with regard to the test and evaluation of a system if that person participated in (or is participating in) the development, production, or testing of such system for a military department or Defense Agency (or for another contractor of the Department of Defense).
 
@@ -77,15 +77,15 @@
 
             (B) The limitation in subparagraph (A) does not apply to a contractor that has participated in such development, production, or testing solely in testing for the Federal Government.
 
-    (f) __Source of Funds for Testing.—__ 
+    (f)  __Source of Funds for Testing__  __.—__ 
 
     The costs for all tests required under subsection (a) shall be paid from funds available for the system being tested.
 
-    (g) __Director’s Annual Report.—__ 
+    (g)  __Director’s Annual Report__  __.—__ 
 
     As part of the annual report of the Director under [section 139 of this title][/us/usc/t10/s139], the Director shall describe for each program covered in the report the status of test and evaluation activities in comparison with the test and evaluation master plan for that program, as approved by the Director. The Director shall include in such annual report a description of each waiver granted under subsection (e)(2) since the last such report.
 
-    (h) __Operational Test and Evaluation Defined.—__ 
+    (h)  __Operational Test and Evaluation Defined__  __.—__ 
 
     In this section, the term “operational test and evaluation” has the meaning given that term in [section 139(a)(2)(A) of this title][/us/usc/t10/s139/a/2/A]. For purposes of subsection (a), that term does not include an operational assessment based exclusively on—
 
@@ -147,7 +147,7 @@
 
 [Pub. L. 101–189, div. A, title VIII, § 801][/us/pl/101/189/s801], Nov. 29, 1989, [103 Stat. 1483][/us/stat/103/1483], provided that:
 
->     “(a) __Establishment of Policy.—__ 
+>     “(a)  __Establishment of Policy__  __.—__ 
 
 >     The Secretary of Defense shall establish guidelines for—
 
@@ -155,11 +155,11 @@
 
 >         “(2) assessing the degree of risk associated with various degrees of concurrency.
 
->     “(b) __Report on Guidelines.—__ 
+>     “(b)  __Report on Guidelines__  __.—__ 
 
 >     The Secretary shall submit to Congress a report that describes the guidelines established under subsection (a) and the method used for assessing risk associated with concurrency.
 
->     “(c) __Report on Concurrency in Major Acquisition Programs.—__ 
+>     “(c)  __Report on Concurrency in Major Acquisition Programs__  __.—__ 
 
 >         (1) The Secretary shall also submit to Congress a report outlining the risk associated with concurrency for each major defense acquisition program that is in either full-scale development or low-rate initial production as of January 1, 1990.
 
@@ -179,11 +179,11 @@
 
 >             “(F) The plans for transition from development to production.
 
->     “(d) __Submission of Reports.—__ 
+>     “(d)  __Submission of Reports__  __.—__ 
 
 >     The reports under subsections (b) and (c) shall be submitted to Congress not later than March 1, 1990.
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘concurrency’ means the degree of overlap between the development and production processes of an acquisition program.”
 

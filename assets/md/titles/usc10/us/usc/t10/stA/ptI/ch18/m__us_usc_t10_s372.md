@@ -35,29 +35,29 @@
 
 >     “(a) __Authority to Provide Toxic Chemicals or Precursors.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense, in coordination with the heads of other elements of the Federal Government, may make available, to a State, a unit of local government, or a private entity incorporated in the United States, small quantities of a toxic chemical or precursor for the development or testing, in the United States, of material that is designed to be used for protective purposes.
 
->         “(2) __Terms and conditions.—__ 
+>         “(2)  __Terms and conditions__  __.—__ 
 
 >         Any use of the authority under paragraph (1) shall be subject to such terms and conditions as the Secretary considers appropriate.
 
 >     “(b) __Payment of Costs and Disposition of Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall ensure, through the advance payment required by paragraph (2) and through any other payments that may be required, that a recipient of toxic chemicals or precursors under subsection (a) pays for all actual costs, including direct and indirect costs, associated with providing the toxic chemicals or precursors.
 
->         “(2) __Advance payment.—__ 
+>         “(2)  __Advance payment__  __.—__ 
 
 >         In carrying out paragraph (1), the Secretary shall require each recipient to make an advance payment in an amount that the Secretary determines will equal all such actual costs.
 
->         “(3) __Credits.—__ 
+>         “(3)  __Credits__  __.—__ 
 
 >         A payment received under this subsection shall be credited to the account that was used to cover the costs for which the payment was provided. Amounts so credited shall be merged with amounts in that account, and shall be available for the same purposes, and subject to the same conditions and limitations, as other amounts in that account.
 
->     “(c) __Chemical Weapons Convention.—__ 
+>     “(c)  __Chemical Weapons Convention__  __.—__ 
 
 >     The Secretary shall ensure that toxic chemicals and precursors are made available under this section for uses and in quantities that comply with the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, signed at Paris on January 13, 1993, and entered into force with respect to the United States on April 29, 1997.
 
@@ -67,7 +67,7 @@
 
 >         “(2) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section, the terms ‘precursor’, ‘protective purposes’, and ‘toxic chemical’ have the meanings given those terms in the convention referred to in subsection (c), in paragraph 2, paragraph 9(b), and paragraph 1, respectively, of article II of that convention.”
 

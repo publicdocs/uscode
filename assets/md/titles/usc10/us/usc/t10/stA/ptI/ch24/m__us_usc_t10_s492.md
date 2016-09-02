@@ -15,7 +15,7 @@
 
 ## § 492. Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system
 
-    (a) __Biennial Assessments.—__ 
+    (a)  __Biennial Assessments__  __.—__ 
 
         (1) For each even-numbered year, each covered official shall assess the safety, security, reliability, sustainability, performance, and military effectiveness of the systems described in paragraph (2) for which such official has responsibility.
 
@@ -27,7 +27,7 @@
 
             (B) The nuclear command and control system.
 
-    (b) __Biennial Report.—__ 
+    (b)  __Biennial Report__  __.—__ 
 
         (1) Not later than December 1 of each even-numbered year, each covered official shall submit to the Secretary of Defense and the Nuclear Weapons Council established by [section 179 of this title][/us/usc/t10/s179] a report on the assessments conducted under subsection (a).
 
@@ -45,7 +45,7 @@
 
             (E) An identification and discussion of any matter having an adverse effect on the capability of the covered official to accurately determine the matters covered by the assessment.
 
-    (c) __Report to President and Congress.—__ 
+    (c)  __Report to President and Congress__  __.—__ 
 
         (1)
 
@@ -63,7 +63,7 @@
 
         (3) Each report under this subsection may be in classified form if the Secretary of Defense determines it necessary.
 
-    (d) __Covered Official Defined.—__ 
+    (d)  __Covered Official Defined__  __.—__ 
 
     In this section, the term “covered official” means—
 

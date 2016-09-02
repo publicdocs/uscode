@@ -15,11 +15,11 @@
 
 ## § 1761. Management information system
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to ensure that the military departments and Defense Agencies establish a management information system capable of providing standardized information to the Secretary on persons serving in acquisition positions.
 
-    (b) __Minimum Information.—__ 
+    (b)  __Minimum Information__  __.—__ 
 
     The management information system shall, at a minimum, provide for the following:
 

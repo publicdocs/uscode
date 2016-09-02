@@ -15,7 +15,7 @@
 
 ## § 2015. Payment of expenses to obtain professional credentials
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may pay for—
 
@@ -23,7 +23,7 @@
 
         (2) examinations to obtain such credentials.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     The authority under subsection (a) may not be used to pay the expenses of a member to obtain professional credentials that are a prerequisite for appointment in the armed forces.
 
@@ -33,11 +33,11 @@
 
 [Pub. L. 112–81, div. A, title V, § 558][/us/pl/112/81/s558], Dec. 31, 2011, [125 Stat. 1418][/us/stat/125/1418], as amended by [Pub. L. 112–239, div. A, title V, § 543][/us/pl/112/239/s543], Jan. 2, 2013, [126 Stat. 1737][/us/stat/126/1737], provided that:
 
->     “(a) __Pilot Program Required.—__ 
+>     “(a)  __Pilot Program Required__  __.—__ 
 
 >     Commencing not later than nine months after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall carry out a pilot program to assess the feasibility and advisability of permitting enlisted members of the Armed Forces to obtain civilian credentialing or licensing for skills required for military occupational specialties (MOS) or qualification for duty specialty codes.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     In carrying out the pilot program, the Secretary shall—
 
@@ -47,11 +47,11 @@
 
 >         “(3) permit enlisted members of the Armed Forces to obtain the credentials or licenses required for the specialities or codes so designated through civilian credentialing or licensing entities, institutions, or bodies selected by the Secretary for purposes of the pilot program, whether concurrently with military training, at the completion of military training, or both.
 
->     “(c) __Duration.—__ 
+>     “(c)  __Duration__  __.—__ 
 
 >     The Secretary shall complete the pilot program by not later than five years after the date of the commencement of the pilot program.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than one year after commencement of the pilot program, the Secretary shall submit to Congress a report on the pilot program. The report shall set forth the following:
 

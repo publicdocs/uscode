@@ -15,11 +15,11 @@
 
 ## § 1762. Demonstration project relating to certain acquisition personnel management policies and procedures
 
-    (a) __Commencement.—__ 
+    (a)  __Commencement__  __.—__ 
 
     The Secretary of Defense is authorized to carry out a demonstration project, the purpose of which is to determine the feasibility or desirability of one or more proposals for improving the personnel management policies or procedures that apply with respect to the acquisition workforce of the Department of Defense and supporting personnel assigned to work directly with the acquisition workforce.
 
-    (b) __Terms and Conditions.—__ 
+    (b)  __Terms and Conditions__  __.—__ 
 
         (1) Except as otherwise provided in this subsection, any demonstration project described in subsection (a) shall be subject to [section 4703 of title 5][/us/usc/t5/s4703] and all other provisions of such title that apply with respect to any demonstration project under such section.
 
@@ -47,15 +47,15 @@
 
             (B) the demonstration project commences before October 1, 2007.
 
-    (c) __Limitation on Number of Participants.—__ 
+    (c)  __Limitation on Number of Participants__  __.—__ 
 
     The total number of persons who may participate in the demonstration project under this section may not exceed 120,000.
 
-    (d) __Effect of Reorganizations.—__ 
+    (d)  __Effect of Reorganizations__  __.—__ 
 
     The applicability of paragraph (2) of subsection (b) to an organization or team shall not terminate by reason that the organization or team, after having satisfied the conditions in paragraph (3) of such subsection when it began to participate in a demonstration project under this section, ceases to meet one or both of the conditions set forth in subparagraph (A) of such paragraph (3) as a result of a reorganization, restructuring, realignment, consolidation, or other organizational change.
 
-    (e) __Assessments.—__ 
+    (e)  __Assessments__  __.—__ 
 
         (1) The Secretary of Defense shall designate an independent organization to conduct two assessments of the acquisition workforce demonstration project described in subsection (a).
 
@@ -95,7 +95,7 @@
 
         (3) The first assessment under this subsection shall be completed not later than September 30, 2012. The second and final assessment shall be completed not later than September 30, 2016. The Secretary shall submit to the covered congressional committees a copy of each assessment within 30 days after receipt by the Secretary of the assessment.
 
-    (f) __Covered Congressional Committees.—__ 
+    (f)  __Covered Congressional Committees__  __.—__ 
 
     In this section, the term “covered congressional committees” means—
 
@@ -105,11 +105,11 @@
 
         (3) the Committee on Oversight and Government Reform of the House of Representatives.
 
-    (g) __Termination of Authority.—__ 
+    (g)  __Termination of Authority__  __.—__ 
 
     The authority to conduct a demonstration program under this section shall terminate on September 30, 2017.
 
-    (h) __Conversion.—__ 
+    (h)  __Conversion__  __.—__ 
 
     Within 6 months after the authority to conduct a demonstration project under this section is terminated as provided in subsection (g), employees in the project shall convert to the civilian personnel system created pursuant to [section 9902 of title 5][/us/usc/t5/s9902].
 

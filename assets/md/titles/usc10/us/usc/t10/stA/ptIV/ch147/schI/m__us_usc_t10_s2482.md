@@ -15,7 +15,7 @@
 
 ## § 2482. Commissary stores: criteria for establishment or closure; store size
 
-    (a) __Primary Consideration for Establishment.—__ 
+    (a)  __Primary Consideration for Establishment__  __.—__ 
 
     The needs of members of the armed forces on active duty and the needs of dependents of such members shall be the primary consideration whenever the Secretary of Defense—
 
@@ -23,17 +23,17 @@
 
         (2) selects the actual location for the store.
 
-    (b) __Store Size.—__ 
+    (b)  __Store Size__  __.—__ 
 
     In determining the size of a commissary store, the Secretary of Defense shall take into consideration the number of all authorized patrons of the defense commissary system who are likely to use the store.
 
-    (c) __Closure Considerations.—__ 
+    (c)  __Closure Considerations__  __.—__ 
 
         (1) Whenever assessing whether to close a commissary store, the effect of the closure on the quality of life of members and dependents referred to in subsection (a) who use the store and on the welfare and security of the military community in which the commissary is located shall be a primary consideration.
 
         (2) Whenever assessing whether to close a commissary store, the Secretary of Defense shall also consider the effect of the closure on the quality of life of members of the reserve components of the armed forces.
 
-    (d) __Congressional Notification.—__ 
+    (d)  __Congressional Notification__  __.—__ 
 
         (1) The closure of a commissary store in the United States shall not take effect until the end of the 90-day period beginning on the date on which the Secretary of Defense submits to Congress written notice of the reasons supporting the closure. The written notice shall include an assessment of the impact closure will have on the quality of life for military patrons and the welfare and security of the military community in which the commissary is located.
 

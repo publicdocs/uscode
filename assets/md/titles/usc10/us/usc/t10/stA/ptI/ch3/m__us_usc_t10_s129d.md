@@ -15,7 +15,7 @@
 
 ## § 129d. Disclosure to litigation support contractors
 
-    (a) __Disclosure Authority.—__ 
+    (a)  __Disclosure Authority__  __.—__ 
 
     An officer or employee of the Department of Defense may disclose sensitive information to a litigation support contractor if—
 
@@ -33,7 +33,7 @@
 
             (D) that the violation of subparagraph (A), (B), or (C) is a basis for the Government to terminate the litigation support contract of the contractor.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section:
 

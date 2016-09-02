@@ -137,7 +137,7 @@
 
 [Pub. L. 112–81, div. A, title VIII, § 862][/us/pl/112/81/s862], Dec. 31, 2011, [125 Stat. 1521][/us/stat/125/1521], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop programs and incentives to ensure that Department of Defense contractors take appropriate steps to—
 
@@ -155,7 +155,7 @@
 
 >         “(7) conduct recruitment activities at historically black colleges and universities and other minority-serving institutions or offer internships or apprenticeships.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the steps taken to implement the requirements of this section.”
 

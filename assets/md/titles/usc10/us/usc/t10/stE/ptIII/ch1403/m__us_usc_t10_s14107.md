@@ -15,7 +15,7 @@
 
 ## § 14107. Information furnished by the Secretary concerned to promotion boards
 
-    (a) __Integrity of the Promotion Selection Board Process.—__ 
+    (a)  __Integrity of the Promotion Selection Board Process__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations governing information furnished to selection boards convened under [section 14101(a) of this title][/us/usc/t10/s14101/a]. Those regulations shall apply uniformly among the military departments. Any regulations prescribed by the Secretary of a military department to supplement those regulations may not take effect without the approval of the Secretary of Defense in writing.
 
@@ -57,7 +57,7 @@
 
             (B) If an officer cannot be given access to the information referred to in subparagraph (A) because of its classification status, the officer shall, to the maximum extent practicable, be furnished an appropriate summary of the information.
 
-    (b) __Information To Be Furnished.—__ 
+    (b)  __Information To Be Furnished__  __.—__ 
 
     The Secretary of the military department concerned shall furnish to a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] the following:
 
@@ -71,11 +71,11 @@
 
         (5) Such other information or guidelines as the Secretary concerned may determine to be necessary to enable the board to perform its functions.
 
-    (c) __Limitation on Modifying Furnished Information.—__ 
+    (c)  __Limitation on Modifying Furnished Information__  __.—__ 
 
     Information or guidelines furnished to a selection board under subsection (a) may not be modified, withdrawn, or supplemented after the board submits its report to the Secretary of the military department concerned pursuant to [section 14109(a) of this title][/us/usc/t10/s14109/a]. However, in the case of a report returned to a board pursuant to [section 14110(a) of this title][/us/usc/t10/s14110/a] for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
 
-    (d) __Officers in Health-Professions Competitive Categories.—__ 
+    (d)  __Officers in Health-Professions Competitive Categories__  __.—__ 
 
     The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of officers of the Navy Reserve, captain, a direction that the board give consideration to an officer’s clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer’s administrative and management skills.
 

@@ -15,11 +15,11 @@
 
 ## § 971. Service credit: officers may not count service performed while serving as cadet or midshipman
 
-    (a) __Prohibition on Counting Enlisted Service Performed While at Service Academy or in Navy Reserve.—__ 
+    (a)  __Prohibition on Counting Enlisted Service Performed While at Service Academy or in Navy Reserve__  __.—__ 
 
     The period of service under an enlistment or period of obligated service while also performing service as a cadet or midshipman or serving as a midshipman in the Navy Reserve may not be counted in computing, for any purpose, the length of service of an officer of an armed force or an officer in the Commissioned Corps of the Public Health Service.
 
-    (b) __Prohibition on Counting Service as a Cadet or Midshipman.—__ 
+    (b)  __Prohibition on Counting Service as a Cadet or Midshipman__  __.—__ 
 
     In computing length of service for any purpose, service as a cadet or midshipman may not be credited to any of the following officers:
 
@@ -31,7 +31,7 @@
 
         (4) An officer in the Commissioned Corps of the Public Health Service.
 
-    (c) __Service as a Cadet or Midshipman Defined.—__ 
+    (c)  __Service as a Cadet or Midshipman Defined__  __.—__ 
 
     In this section, the term “service as a cadet or midshipman” means—
 

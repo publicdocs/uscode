@@ -17,11 +17,11 @@
 
     (a) __Notice to HHS.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Defense shall notify the Secretary of Health and Human Services of the hazardous substances which the Secretary of Defense determines to be the most commonly found unregulated hazardous substances at facilities under the Secretary’s jurisdiction. The notification shall be of not less than the 25 most widely used such substances.
 
-        (2) __Definition.—__ 
+        (2)  __Definition__  __.—__ 
 
         In this subsection, the term “unregulated hazardous substance” means a hazardous substance—
 
@@ -29,7 +29,7 @@
 
             (B) for which no water quality criteria are in effect under any provision of the Clean Water Act.
 
-    (b) __Toxicological Profiles.—__ 
+    (b)  __Toxicological Profiles__  __.—__ 
 
     The Secretary of Health and Human Services shall take such steps as necessary to ensure the timely preparation of toxicological profiles of each of the substances of which the Secretary is notified under subsection (a). The profiles of such substances shall include each of the following:
 
@@ -39,13 +39,13 @@
 
         (3) Where appropriate, toxicological testing directed toward determining the maximum exposure level of a hazardous substance that is safe for humans.
 
-    (c) __DOD Support.—__ 
+    (c)  __DOD Support__  __.—__ 
 
     The Secretary of Defense shall transfer to the Secretary of Health and Human Services such toxicological data, such sums from amounts appropriated to the Department of Defense, and such personnel of the Department of Defense as may be necessary (1) for the preparation of toxicological profiles under subsection (b) or (2) for other health related activities under section 104(i) of CERCLA ([42 U.S.C. 9604(i)][/us/usc/t42/s9604/i]). The Secretary of Defense and the Secretary of Health and Human Services shall enter into a memorandum of understanding regarding the manner in which this section shall be carried out, including the manner for transferring funds and personnel and for coordination of activities under this section.
 
     (d) __EPA Health Advisories.—__ 
 
-        (1) __Preparation.—__ 
+        (1)  __Preparation__  __.—__ 
 
         At the request of the Secretary of Defense, the Administrator shall, in a timely manner, prepare health advisories on hazardous substances. Such an advisory shall be prepared on each hazardous substance—
 
@@ -55,19 +55,19 @@
 
             (C) which is emanating from a facility under the jurisdiction of the Secretary.
 
-        (2) __Content of health advisories.—__ 
+        (2)  __Content of health advisories__  __.—__ 
 
         Such health advisories shall provide specific advice on the levels of contaminants in drinking water at which adverse health effects would not be anticipated and which include a margin of safety so as to protect the most sensitive members of the population at risk. The advisories shall provide data on one-day, 10-day, and longer-term exposure periods where available toxicological data exist.
 
-        (3) __DOD support for health advisories.—__ 
+        (3)  __DOD support for health advisories__  __.—__ 
 
         The Secretary of Defense shall transfer to the Administrator such toxicological data, such sums from amounts appropriated to the Department of Defense, and such personnel of the Department of Defense as may be necessary for the preparation of such health advisories. The Secretary and the Administrator shall enter into a memorandum of understanding regarding the manner in which this subsection shall be carried out, including the manner for transferring funds and personnel and for coordination of activities under this subsection.
 
-    (e) __Cross Reference.—__ 
+    (e)  __Cross Reference__  __.—__ 
 
     Section 104(i) of CERCLA ([42 U.S.C. 9604(i)][/us/usc/t42/s9604/i]) applies to facilities under the jurisdiction of the Secretary of Defense in the manner prescribed in that section.
 
-    (f) __Functions of HHS To Be Carried Out Through ATSDR.—__ 
+    (f)  __Functions of HHS To Be Carried Out Through ATSDR__  __.—__ 
 
     The functions of the Secretary of Health and Human Services under this section shall be carried out through the Administrator of the Agency for Toxic Substances and Disease Registry of the Department of Health and Human Services established under section 104(i) of CERCLA ([42 U.S.C. 9604(i)][/us/usc/t42/s9604/i]).
 

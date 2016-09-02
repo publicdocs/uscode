@@ -15,11 +15,11 @@
 
 ## § 633. Retirement for years of service: regular lieutenant colonels and commanders
 
-    (a) __28 Years of Active Commissioned Service.—__ 
+    (a) __28__  __Years of Active Commissioned Service__  __.—__ 
 
     Except as provided in subsection (b) and as provided under [section 637(b) of this title][/us/usc/t10/s637/b], each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of lieutenant colonel, and each officer of the Regular Navy who holds the regular grade of commander, who is not on a list of officers recommended for promotion to the regular grade of colonel or captain, respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 28 years of active commissioned service.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) does not apply to the following:
 

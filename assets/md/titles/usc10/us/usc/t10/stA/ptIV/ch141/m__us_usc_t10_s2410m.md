@@ -15,7 +15,7 @@
 
 ## § 2410m. Retention of amounts collected from contractor during the pendency of contract dispute
 
-    (a) __Retention of Funds.—__ 
+    (a)  __Retention of Funds__  __.—__ 
 
     Notwithstanding sections 1552(a) and 3302(b) of title 31, any amount, including interest, collected from a contractor as a result of a claim made by a military department or Defense Agency under chapter 71 of title 41, shall remain available in accordance with this section to pay—
 
@@ -25,7 +25,7 @@
 
         (3) any judgment rendered in the contractor’s favor in an action on that claim in a court of the United States.
 
-    (b) __Period of Availability.—__ 
+    (b)  __Period of Availability__  __.—__ 
 
         (1)
 

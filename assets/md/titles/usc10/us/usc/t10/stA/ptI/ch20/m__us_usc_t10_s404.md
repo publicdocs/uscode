@@ -15,15 +15,15 @@
 
 ## § 404. Foreign disaster assistance
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The President may direct the Secretary of Defense to provide disaster assistance outside the United States to respond to manmade or natural disasters when necessary to prevent loss of lives or serious harm to the environment.
 
-    (b) __Forms of Assistance.—__ 
+    (b)  __Forms of Assistance__  __.—__ 
 
     Assistance provided under this section may include transportation, supplies, services, and equipment.
 
-    (c) __Notification Required.—__ 
+    (c)  __Notification Required__  __.—__ 
 
     Not later than 48 hours after the commencement of disaster assistance activities to provide assistance under this section, the President shall transmit to Congress a report containing notification of the assistance provided, and proposed to be provided, under this section and a description of so much of the following as is then available:
 
@@ -37,11 +37,11 @@
 
         (5) The anticipated duration of the disaster assistance activities.
 
-    (d) __Organizing Policies and Programs.—__ 
+    (d)  __Organizing Policies and Programs__  __.—__ 
 
     Amounts appropriated to the Department of Defense for any fiscal year for Overseas Humanitarian, Disaster, and Civic Aid (OHDACA) programs of the Department shall be available for organizing general policies and programs for disaster relief programs for disasters occurring outside the United States.
 
-    (e) __Limitation on Transportation Assistance.—__ 
+    (e)  __Limitation on Transportation Assistance__  __.—__ 
 
     Transportation services authorized under subsection (b) may be provided in response to a manmade or natural disaster to prevent serious harm to the environment, when human lives are not at risk, only if other sources to provide such transportation are not readily available.
 

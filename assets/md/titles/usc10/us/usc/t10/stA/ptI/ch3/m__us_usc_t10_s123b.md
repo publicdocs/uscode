@@ -15,15 +15,15 @@
 
 ## § 123b. Forces stationed abroad: limitation on number
 
-    (a) __End-Strength Limitation.—__ 
+    (a)  __End-Strength Limitation__  __.—__ 
 
     No funds appropriated to the Department of Defense may be used to support a strength level of members of the armed forces assigned to permanent duty ashore in nations outside the United States at the end of any fiscal year at a level in excess of 203,000.
 
-    (b) __Exception for Wartime.—__ 
+    (b)  __Exception for Wartime__  __.—__ 
 
     Subsection (a) does not apply in the event of a declaration of war or an armed attack on any member nation of the North Atlantic Treaty Organization, Japan, the Republic of Korea, or any other ally of the United States.
 
-    (c) __Presidential Waiver.—__ 
+    (c)  __Presidential Waiver__  __.—__ 
 
     The President may waive the operation of subsection (a) if the President declares an emergency. The President shall immediately notify Congress of any such waiver.
 

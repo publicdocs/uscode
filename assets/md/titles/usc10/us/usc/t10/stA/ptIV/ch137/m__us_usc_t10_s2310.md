@@ -15,11 +15,11 @@
 
 ## § 2310. Determinations and decisions
 
-    (a) __Individual or Class Determinations and Decisions Authorized.—__ 
+    (a)  __Individual or Class Determinations and Decisions Authorized__  __.—__ 
 
     Determinations and decisions required to be made under this chapter by the head of an agency may be made for an individual purchase or contract or, except to the extent expressly prohibited by another provision of law, for a class of purchases or contracts. Such determinations and decisions are final.
 
-    (b) __Written Findings Required.—__ 
+    (b)  __Written Findings Required__  __.—__ 
 
         (1) Each determination or decision under section 2306(g)(1), 2307(d), or 2313(c)(2)(B) of this title shall be based on a written finding by the person making the determination or decision. The finding shall set out facts and circumstances that support the determination or decision.
 

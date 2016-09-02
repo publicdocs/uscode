@@ -15,11 +15,11 @@
 
 ## § 7479. Civil service mariners of Military Sealift Command: release of drug test results to Coast Guard
 
-    (a) __Release of Drug Test Results to Coast Guard.—__ 
+    (a)  __Release of Drug Test Results to Coast Guard__  __.—__ 
 
     The Secretary of the Navy may release to the Commandant of the Coast Guard the results of a drug test of any employee of the Department of the Navy who is employed in any capacity on board a vessel of the Military Sealift Command. Any such release shall be in accordance with the standards and procedures applicable to the disclosure and reporting to the Coast Guard of drug tests results and drug test records of individuals employed on vessels documented under the laws of the United States.
 
-    (b) __Waiver.—__ 
+    (b)  __Waiver__  __.—__ 
 
     The results of a drug test of an employee may be released under subsection (a) without the prior written consent of the employee that is otherwise required under section 503(e) of the Supplemental Appropriations Act, 1987 ([5 U.S.C. 7301][/us/usc/t5/s7301] note).
 

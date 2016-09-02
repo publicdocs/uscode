@@ -15,7 +15,7 @@
 
 ## § 1784a. Education and training opportunities for military spouses to expand employment and portable career opportunities
 
-    (a) __Programs and Tuition Assistance.—__ 
+    (a)  __Programs and Tuition Assistance__  __.—__ 
 
         (1)
 
@@ -27,11 +27,11 @@
 
         (2) As an alternative to, or in addition to, establishing a program under this subsection, the Secretary may provide tuition assistance to an eligible spouse who is pursuing education, training, or a license or credential to expand the spouse’s employment and portable career opportunities.
 
-    (b) __Eligible Spouses.—__ 
+    (b)  __Eligible Spouses__  __.—__ 
 
     Assistance under this section is limited to a spouse of a member of the armed forces who is serving on active duty.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
     Subsection (b) does not include—
 
@@ -39,11 +39,11 @@
 
         (2) a spouse of a member of the armed forces who is also a member of the armed forces.
 
-    (d) __Portable Career Opportunities Defined.—__ 
+    (d)  __Portable Career Opportunities Defined__  __.—__ 
 
     In this section, the term “portable career” includes an occupation identified by the Secretary of Defense, in consultation with the Secretary of Labor, as requiring education and training that results in a credential that is recognized nationwide by industry or specific businesses.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to govern the availability and use of assistance under this section. The Secretary shall ensure that programs established under this section do not result in inequitable treatment for spouses of members of the armed forces who are also members, since they are excluded from participation in the programs under subsection (c)(2).
 

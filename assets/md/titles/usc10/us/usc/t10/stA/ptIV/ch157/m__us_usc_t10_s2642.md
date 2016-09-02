@@ -15,7 +15,7 @@
 
 ## § 2642. Airlift services provided to certain other agencies: use of Department of Defense reimbursement rate
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may authorize the use of the Department of Defense reimbursement rate for military airlift services provided by a component of the Department of Defense as follows:
 
@@ -25,7 +25,7 @@
 
         (3) During the period beginning on October 28, 2009, and ending on October 28, 2014, for military airlift services provided to any element of the Federal Government outside the Department of Defense in circumstances other than those specified in paragraphs (1) and (2), but only if the Secretary of Defense determines that the provision of such services will promote the improved use of airlift capacity without any negative effect on the national security objectives or the national security interests contained within the United States commercial air industry.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, the term “Department of Defense reimbursement rate” means the amount charged a component of the Department of Defense by another component of the Department of Defense.
 

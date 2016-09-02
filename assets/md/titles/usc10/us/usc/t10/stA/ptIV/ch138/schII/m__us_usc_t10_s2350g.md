@@ -15,7 +15,7 @@
 
 ## § 2350g. Authority to accept use of real property, services, and supplies from foreign countries in connection with mutual defense agreements and occupational arrangements
 
-    (a) __Authority To Accept.—__ 
+    (a)  __Authority To Accept__  __.—__ 
 
     The Secretary of Defense may accept from a foreign country, for the support of any element of the armed forces in an area of that country—
 
@@ -23,11 +23,11 @@
 
         (2) services furnished as reciprocal international courtesies or as services customarily made available without charge.
 
-    (b) __Authority to Use Property, Services, and Supplies.—__ 
+    (b)  __Authority to Use Property, Services, and Supplies__  __.—__ 
 
     Property, services, or supplies referred to in subsection (a) may be used by the Secretary of Defense without specific authorization, except that such property, services, and supplies may not be used in connection with any program, project, or activity if the use of such property, services, or supplies would result in the violation of any prohibition or limitation otherwise applicable to that program, project, or activity.
 
-    (c) __Periodic Audits by GAO.—__ 
+    (c)  __Periodic Audits by__  __GAO.—__ 
 
     The Comptroller General of the United States shall make periodic audits of money and property accepted under this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 

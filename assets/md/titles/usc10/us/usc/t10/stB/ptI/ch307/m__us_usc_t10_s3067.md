@@ -143,11 +143,11 @@ Aug. 9, 1955, ch. 654, § 3(a), 69 Stat. 579.  </td>
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 755(a), (b)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–197, provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of the Army and the Secretary of Health and Human Services may jointly conduct a program to augment the Army Medical Department by exercising any authorities provided to those officials in law for the detailing of reserve commissioned officers of the Public Health Service not in an active status to the Army Medical Department for that purpose.
 
->     “(b) __Agreement.—__ 
+>     “(b)  __Agreement__  __.—__ 
 
 >     The Secretary of the Army and the Secretary of Health and Human Services shall enter into an agreement governing any program conducted under subsection (a).”
 

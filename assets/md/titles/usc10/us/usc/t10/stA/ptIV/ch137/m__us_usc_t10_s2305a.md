@@ -15,11 +15,11 @@
 
 ## § 2305a. Design-build selection procedures
 
-    (a) __Authorization.—__ 
+    (a)  __Authorization__  __.—__ 
 
     Unless the traditional acquisition approach of design-bid-build established under chapter 11 of title 40 is used or another acquisition procedure authorized by law is used, the head of an agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) that the procedures are appropriate for use.
 
-    (b) __Criteria for Use.—__ 
+    (b)  __Criteria for Use__  __.—__ 
 
     A contracting officer shall make a determination whether two-phase selection procedures are appropriate for use for entering into a contract for the design and construction of a public building, facility, or work when the contracting officer anticipates that three or more offers will be received for such contract, design work must be performed before an offeror can develop a price or cost proposal for such contract, the offeror will incur a substantial amount of expense in preparing the offer, and the contracting officer has considered information such as the following:
 
@@ -35,7 +35,7 @@
 
         (6) Other criteria established by the agency.
 
-    (c) __Procedures Described.—__ 
+    (c)  __Procedures Described__  __.—__ 
 
     Two-phase selection procedures consist of the following:
 
@@ -75,11 +75,11 @@
 
         (5) The agency awards the contract in accordance with [section 2305(b)(4) of this title][/us/usc/t10/s2305/b/4].
 
-    (d) __Solicitation to State Number of Offerors To Be Selected for Phase Two Requests for Competitive Proposals.—__ 
+    (d)  __Solicitation to State Number of Offerors To Be Selected for Phase Two Requests for Competitive Proposals__  __.—__ 
 
     A solicitation issued pursuant to the procedures described in subsection (c) shall state the maximum number of offerors that are to be selected to submit competitive proposals pursuant to subsection (c)(4). The maximum number specified in the solicitation shall not exceed 5 unless the agency determines with respect to an individual solicitation that a specified number greater than 5 is in the Government’s interest and is consistent with the purposes and objectives of the two-phase selection process.
 
-    (e) __Requirement for Guidance and Regulations.—__ 
+    (e)  __Requirement for Guidance and Regulations__  __.—__ 
 
     The Federal Acquisition Regulation shall include guidance—
 
@@ -89,7 +89,7 @@
 
         (3) providing for a uniform approach to be used Government-wide.
 
-    (f) __Special Authority for Military Construction Projects.—__ 
+    (f)  __Special Authority for Military Construction Projects__  __.—__ 
 
         (1) The Secretary of a military department may use funds available to the Secretary under section 2807(a) or 18233(e) of this title to accelerate the design effort in connection with a military construction project for which the two-phase selection procedures described in subsection (c) are used to select the contractor for both the design and construction portion of the project before the project is specifically authorized by law and before funds are appropriated for the construction portion of the project. Notwithstanding the limitations contained in such sections, use of such funds for the design portion of a military construction project may continue despite the subsequent authorization of the project. The advance notice requirement of [section 2807(b) of this title][/us/usc/t10/s2807/b] shall continue to apply whenever the estimated cost of the design portion of the project exceeds the amount specified in such section.
 

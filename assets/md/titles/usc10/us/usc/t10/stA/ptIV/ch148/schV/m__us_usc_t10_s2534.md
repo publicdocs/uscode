@@ -15,19 +15,19 @@
 
 ## § 2534. Miscellaneous limitations on the procurement of goods other than United States goods
 
-    (a) __Limitation on Certain Procurements.—__ 
+    (a)  __Limitation on Certain Procurements__  __.—__ 
 
     The Secretary of Defense may procure any of the following items only if the manufacturer of the item satisfies the requirements of subsection (b):
 
-        (1) __Buses.—__ 
+        (1)  __Buses__  __.—__ 
 
         Multipassenger motor vehicles (buses).
 
-        (2) __Chemical weapons antidote.—__ 
+        (2)  __Chemical weapons antidote__  __.—__ 
 
         Chemical weapons antidote contained in automatic injectors (and components for such injectors).
 
-        (3) __Components for naval vessels.—__ 
+        (3)  __Components for naval vessels__  __.—__ 
 
             (A)
 
@@ -41,7 +41,7 @@
 
             (B) The following components of vessels, to the extent they are unique to marine applications: gyrocompasses, electronic navigation chart systems, steering controls, pumps, propulsion and machinery control systems, and totally enclosed lifeboats.
 
-        (4) __Valves and machine tools.—__ 
+        (4)  __Valves and machine tools__  __.—__ 
 
         Items in the following categories:
 
@@ -49,17 +49,17 @@
 
             (B) Machine tools in the Federal Supply Classes for metal-working machinery numbered 3405, 3408, 3410 through 3419, 3426, 3433, 3438, 3441 through 3443, 3445, 3446, 3448, 3449, 3460, and 3461.
 
-        (5) __Ball bearings and roller bearings.—__ 
+        (5)  __Ball bearings and roller bearings__  __.—__ 
 
         Ball bearings and roller bearings, in accordance with subpart 225.71 of part 225 of the Defense Federal Acquisition Regulation Supplement, as in effect on October 23, 1992, except ball bearings and roller bearings being procured for use in an end product manufactured by a manufacturer that does not satisfy the requirements of subsection (b) or in a component part manufactured by such a manufacturer.
 
     (b) __Manufacturer in the National Technology and Industrial Base.—__ 
 
-        (1) __General requirement.—__ 
+        (1)  __General requirement__  __.—__ 
 
         A manufacturer meets the requirements of this subsection if the manufacturer is part of the national technology and industrial base.
 
-        (2) __Manufacturers of chemical weapons antidote.—__ 
+        (2)  __Manufacturers of chemical weapons antidote__  __.—__ 
 
         In the case of a procurement of chemical weapons antidote referred to in subsection (a)(2), a manufacturer meets the requirements of this subsection only if the manufacturer—
 
@@ -71,7 +71,7 @@
 
             (D) when the contract for the procurement is awarded, has in existence in the national technology and industrial base the plant, equipment, and personnel necessary to perform the contract.
 
-        (3) __Manufacturer of vessel propellers.—__ 
+        (3)  __Manufacturer of vessel propellers__  __.—__ 
 
         In the case of a procurement of vessel propellers referred to in subsection (a)(3)(A)(iii), the manufacturer of the propellers meets the requirements of this subsection only if—
 
@@ -81,11 +81,11 @@
 
     (c) __Applicability to Certain Items.—__ 
 
-        (1) __Components for naval vessels.—__ 
+        (1)  __Components for naval vessels__  __.—__ 
 
         Subsection (a) does not apply to a procurement of spare or repair parts needed to support components for naval vessels produced or manufactured outside the United States.
 
-        (2) __Valves and machine tools.—__ 
+        (2)  __Valves and machine tools__  __.—__ 
 
             (A)
 
@@ -99,15 +99,15 @@
 
             (C) Subsection (a)(4) and this paragraph shall cease to be effective on October 1, 1996.
 
-        (3) __Ball bearings and roller bearings.—__ 
+        (3)  __Ball bearings and roller bearings__  __.—__ 
 
         Subsection (a)(5) and this paragraph shall cease to be effective on October 1, 2005.
 
-        (4) __Vessel propellers.—__ 
+        (4)  __Vessel propellers__  __.—__ 
 
         Subsection (a)(3)(A)(iii) and this paragraph shall cease to be effective on February 10, 1998.
 
-    (d) __Waiver Authority.—__ 
+    (d)  __Waiver Authority__  __.—__ 
 
     The Secretary of Defense may waive the limitation in subsection (a) with respect to the procurement of an item listed in that subsection if the Secretary determines that any of the following apply:
 
@@ -129,19 +129,19 @@
 
     (e) __Sonobuoys.—__ 
 
-        (1) __Limitation.—__ 
+        (1)  __Limitation__  __.—__ 
 
         The Secretary of Defense may not procure a sonobuoy manufactured in a foreign country if United States firms that manufacture sonobuoys are not permitted to compete on an equal basis with foreign manufacturing firms for the sale of sonobuoys in that foreign country.
 
-        (2) __Waiver authority.—__ 
+        (2)  __Waiver authority__  __.—__ 
 
         The Secretary may waive the limitation in paragraph (1) with respect to a particular procurement of sonobuoys if the Secretary determines that such procurement is in the national security interests of the United States.
 
-        (3) __Definition.—__ 
+        (3)  __Definition__  __.—__ 
 
         In this subsection, the term “United States firm” has the meaning given such term in [section 2532(d)(1) of this title][/us/usc/t10/s2532/d/1].
 
-    (f) __Principle of Construction With Future Laws.—__ 
+    (f)  __Principle of Construction With Future Laws__  __.—__ 
 
     A provision of law may not be construed as modifying or superseding the provisions of this section, or as requiring funds to be limited, or made available, by the Secretary of Defense to a particular domestic source by contract, unless that provision of law—
 
@@ -151,13 +151,13 @@
 
         (3) specifically identifies the particular domestic source involved and states that the contract to be awarded pursuant to such provision of law is being awarded in contravention of this section.
 
-    (g) __Inapplicability to Contracts under Simplified Acquisition Threshold.—__ 
+    (g)  __Inapplicability to Contracts under Simplified Acquisition Threshold__  __.—__ 
 
         (1) This section does not apply to a contract or subcontract for an amount that does not exceed the simplified acquisition threshold.
 
         (2) Paragraph (1) does not apply to contracts for items described in subsection (a)(5) (relating to ball bearings and roller bearings), notwithstanding [section 1905 of title 41][/us/usc/t41/s1905].
 
-    (h) __Implementation of Naval Vessel Component Limitation.—__ 
+    (h)  __Implementation of Naval Vessel Component Limitation__  __.—__ 
 
     In implementing subsection (a)(3)(B), the Secretary of Defense—
 
@@ -165,7 +165,7 @@
 
         (2) shall use management and oversight techniques that achieve the objective of the subsection without imposing a significant management burden on the Government or the contractor involved.
 
-    (i) __Implementation of Certain Waiver Authority.—__ 
+    (i)  __Implementation of Certain Waiver Authority__  __.—__ 
 
         (1) The Secretary of Defense may exercise the waiver authority described in paragraph (2) only if the waiver is made for a particular item listed in subsection (a) and for a particular foreign country.
 
@@ -177,7 +177,7 @@
 
         (5) Any waiver made by the Secretary under the waiver authority described in paragraph (2) shall be in effect for a period not greater than one year, as determined by the Secretary.
 
-    (j) __Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearings.—__ 
+    (j)  __Inapplicability to Certain Contracts To Purchase Ball Bearings or Roller Bearings__  __.—__ 
 
         (1)
 
@@ -361,11 +361,11 @@ Sept. 20, 1968, Pub. L. 90–500, § 404, 82 Stat. 851.  </td>
 
 [Pub. L. 111–383, div. A, title VIII, § 846][/us/pl/111/383/s846], Jan. 7, 2011, [124 Stat. 4285][/us/stat/124/4285], provided that:
 
->     “(a) __Contract Requirement.—__ 
+>     “(a)  __Contract Requirement__  __.—__ 
 
 >     The Secretary of Defense shall ensure that each contract described in subsection (b) awarded by the Department of Defense includes a provision requiring the photovoltaic devices provided under the contract to comply with the Buy American Act (\[former\] [41 U.S.C. 10a][/us/usc/t41/s10a] et seq.) \[see [41 U.S.C. 8301][/us/usc/t41/s8301] et seq.\], subject to the exceptions to that Act provided in the Trade Agreements Act of 1979 ([19 U.S.C. 2501][/us/usc/t19/s2501] et seq.) or otherwise provided by law.
 
->     “(b) __Contracts Described.—__ 
+>     “(b)  __Contracts Described__  __.—__ 
 
 >     The contracts described in this subsection include energy savings performance contracts, utility service contracts, land leases, and private housing contracts, to the extent that such contracts result in ownership of photovoltaic devices by the Department of Defense. For the purposes of this section, the Department of Defense is deemed to own a photovoltaic device if the device is—
 
@@ -373,7 +373,7 @@ Sept. 20, 1968, Pub. L. 90–500, § 404, 82 Stat. 851.  </td>
 
 >         “(2) reserved for the exclusive use of the Department of Defense for the full economic life of the device.
 
->     “(c) __Definition of Photovoltaic Devices.—__ 
+>     “(c)  __Definition of Photovoltaic Devices__  __.—__ 
 
 >     In this section, the term ‘photovoltaic devices’ means devices that convert light directly into electricity through a solid-state, semiconductor process.”
 
@@ -381,19 +381,19 @@ Sept. 20, 1968, Pub. L. 90–500, § 404, 82 Stat. 851.  </td>
 
 [Pub. L. 108–136, div. A, title VIII, § 821][/us/pl/108/136/s821], Nov. 24, 2003, [117 Stat. 1546][/us/stat/117/1546], provided that:
 
->     “(a) __Identification of Certain Countries.—__ 
+>     “(a)  __Identification of Certain Countries__  __.—__ 
 
 >     The Secretary of Defense, in coordination with the Secretary of State, shall identify and list foreign countries that restrict the provision or sale of military goods or services to the United States because of United States counterterrorism or military operations after the date of the enactment of this Act \[Nov. 24, 2003\]. The Secretary shall review and update the list as appropriate. The Secretary may remove a country from the list, if the Secretary determines that doing so would be in the interest of national defense.
 
->     “(b) __Prohibition on Procurement of Items From Identified Countries.—__ 
+>     “(b)  __Prohibition on Procurement of Items From Identified Countries__  __.—__ 
 
 >     The Secretary of Defense may not procure any items or components contained in military systems if the items or components, or the systems, are manufactured in any foreign country identified under subsection (a).
 
->     “(c) __Waiver Authority.—__ 
+>     “(c)  __Waiver Authority__  __.—__ 
 
 >     The Secretary of Defense may waive the limitation in subsection (b) if the Secretary determines in writing and notifies Congress that the Department of Defense’s need for the item is of such an unusual and compelling urgency that the Department would be unable to meet national security objectives.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >         (1) Subject to paragraph (2), subsection (b) applies to contracts in existence on the date of the enactment of this Act \[Nov. 24, 2003\] or entered into after such date.
 

@@ -15,19 +15,19 @@
 
 ## § 2410n. Products of Federal Prison Industries: procedural requirements
 
-    (a) __Products for Which Federal Prison Industries Does Not Have Significant Market Share.—__ 
+    (a)  __Products for Which Federal Prison Industries Does Not Have Significant Market Share__  __.—__ 
 
         (1) Before purchasing a product listed in the latest edition of the Federal Prison Industries catalog under [section 4124(d) of title 18][/us/usc/t18/s4124/d] for which Federal Prison Industries does not have a significant market share, the Secretary of Defense shall conduct market research to determine whether the product is comparable to products available from the private sector that best meet the needs of the Department in terms of price, quality, and time of delivery.
 
         (2) If the Secretary determines that a Federal Prison Industries product described in paragraph (1) is not comparable in price, quality, or time of delivery to products of the private sector that best meets the needs of the Department in terms of price, quality, and time of delivery, the Secretary shall use competitive procedures for the procurement of the product, or shall make an individual purchase under a multiple award contract in accordance with the competition requirements applicable to such contract. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries.
 
-    (b) __Products for Which Federal Prison Industries Has Significant Market Share.—__ 
+    (b)  __Products for Which Federal Prison Industries Has Significant Market Share__  __.—__ 
 
         (1) The Secretary of Defense may purchase a product listed in the latest edition of the Federal Prison Industries catalog for which Federal Prison Industries has a significant market share only if the Secretary uses competitive procedures for the procurement of the product or makes an individual purchase under a multiple award contract in accordance with the competition requirements applicable to such contract. In conducting such a competition, the Secretary shall consider a timely offer from Federal Prison Industries.
 
         (2) For purposes of this subsection, Federal Prison Industries shall be treated as having a significant share of the market for a product if the Secretary, in consultation with the Administrator of Federal Procurement Policy, determines that the Federal Prison Industries share of the Department of Defense market for the category of products including such product is greater than 5 percent.
 
-    (c) __Implementation by Secretary of Defense.—__ 
+    (c)  __Implementation by Secretary of Defense__  __.—__ 
 
     The Secretary of Defense shall ensure that—
 
@@ -35,11 +35,11 @@
 
         (2) Federal Prison Industries performs its contractual obligations to the same extent as any other contractor for the Department of Defense.
 
-    (d) __Market Research Determination Not Subject to Review.—__ 
+    (d)  __Market Research Determination Not Subject to Review__  __.—__ 
 
     A determination by a contracting officer regarding whether a product or service offered by Federal Prison Industries is comparable to products or services available from the private sector that best meet the Department’s needs in terms of price, quality, and time of delivery shall not be subject to review pursuant to [section 4124(b) of title 18][/us/usc/t18/s4124/b].
 
-    (e) __Performance as a Subcontractor.—__ 
+    (e)  __Performance as a Subcontractor__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (2) In this subsection, the term “contractor”, with respect to a contract, includes a subcontractor at any tier under the contract.
 
-    (f) __Protection of Classified and Sensitive Information.—__ 
+    (f)  __Protection of Classified and Sensitive Information__  __.—__ 
 
     The Secretary of Defense may not enter into any contract with Federal Prison Industries under which an inmate worker would have access to—
 
@@ -71,7 +71,7 @@
 
         (3) any personal or financial information about any individual private citizen, including information relating to such person’s real property however described, without the prior consent of the individual.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -135,15 +135,15 @@
 
 [Pub. L. 110–181, div. A, title VIII, § 827(b)][/us/pl/110/181/s827/b], Jan. 28, 2008, [122 Stat. 228][/us/stat/122/228], provided that:
 
->     “(1) __Initial list.—__ 
+>     “(1)  __Initial list__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall publish a list of product categories for which Federal Prison Industries’ share of the Department of Defense market is greater than 5 percent, based on the most recent fiscal year for which data is available.
 
->     “(2) __Modification.—__ 
+>     “(2)  __Modification__  __.—__ 
 
 >     The Secretary may modify the list published under paragraph (1) at any time if the Secretary determines that new data require adding a product category to the list or omitting a product category from the list.
 
->     “(3) __Consultation.—__ 
+>     “(3)  __Consultation__  __.—__ 
 
 >     The Secretary shall carry out this subsection in consultation with the Administrator for Federal Procurement Policy.”
 

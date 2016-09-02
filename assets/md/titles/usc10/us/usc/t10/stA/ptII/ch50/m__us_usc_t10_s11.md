@@ -17,7 +17,7 @@
 
 ## “SEC. 11. IMPROVING LIFE INSURANCE PRODUCT STANDARDS.
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     It is the sense of Congress that the NAIC should, after consultation with the Secretary of Defense, and not later than 6 months after the date of enactment of this Act \[Sept. 29, 2006\], conduct a study and submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives on—
 
@@ -31,7 +31,7 @@
 
 >         “(2) the extent to which life insurance products marketed to members of the Armed Forces comply with otherwise applicable provisions of State law.
 
->     “(b) __Conditional GAO Report.—__ 
+>     “(b)  __Conditional GAO Report__  __.—__ 
 
 >     If the NAIC does not submit the report as described in subsection (a), the Comptroller General of the United States shall—
 

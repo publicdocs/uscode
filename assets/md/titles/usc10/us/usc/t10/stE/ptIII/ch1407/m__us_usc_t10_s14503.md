@@ -15,7 +15,7 @@
 
 ## § 14503. Discharge of officers with less than six years of commissioned service or found not qualified for promotion to first lieutenant or lieutenant (junior grade)
 
-    (a) __Authorized Discharges.—__ 
+    (a)  __Authorized Discharges__  __.—__ 
 
     The Secretary of the military department concerned may discharge any reserve officer who—
 
@@ -23,7 +23,7 @@
 
         (2) is serving in the grade of second lieutenant or ensign and has been found not qualified for promotion to the grade of first lieutenant or lieutenant (junior grade).
 
-    (b) __Time for Discharge.—__ 
+    (b)  __Time for Discharge__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (2) Paragraph (1) shall not apply if the officer is sooner promoted.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     Discharges under this section shall be made under regulations prescribed by the Secretary of Defense and may be made without regard to [section 12645 of this title][/us/usc/t10/s12645].
 

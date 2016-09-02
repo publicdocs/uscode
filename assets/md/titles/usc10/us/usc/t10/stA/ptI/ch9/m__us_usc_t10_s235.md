@@ -15,11 +15,11 @@
 
 ## § 235. Procurement of contract services: specification of amounts requested in budget
 
-    (a) __Submission With Annual Budget Justification Materials.—__ 
+    (a)  __Submission With Annual Budget Justification Materials__  __.—__ 
 
     In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a]), the Secretary of Defense shall include the information described in subsection (b) with respect to the procurement of contract services.
 
-    (b) __Information Provided.—__ 
+    (b)  __Information Provided__  __.—__ 
 
     For each budget account, the materials submitted shall clearly and separately identify—
 
@@ -27,7 +27,7 @@
 
         (2) the number of full-time contractor employees (or the equivalent of full-time in the case of part-time contractor employees) projected and justified for each Department of Defense component, installation, or activity based on the inventory of contracts for services required by subsection (c) of [section 2330a of this title][/us/usc/t10/s2330a] and the review required by subsection (e) of such section.
 
-    (c) __Contract Services Defined.—__ 
+    (c)  __Contract Services Defined__  __.—__ 
 
     In this section, the term “contract services”—
 

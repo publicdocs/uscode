@@ -15,15 +15,15 @@
 
 ## § 2350j. Burden sharing contributions by designated countries and regional organizations
 
-    (a) __Authority To Accept Contributions.—__ 
+    (a)  __Authority To Accept Contributions__  __.—__ 
 
     The Secretary of Defense, after consultation with the Secretary of State, may accept cash contributions from any country or regional organization designated for purposes of this section by the Secretary of Defense, in consultation with the Secretary of State, for the purposes specified in subsection (c).
 
-    (b) __Accounting.—__ 
+    (b)  __Accounting__  __.—__ 
 
     Contributions accepted under subsection (a) which are not related to security assistance may be accepted, managed, and expended in dollars or in the currency of the host nation (or, in the case of a contribution from a regional organization, in the currency in which the contribution was provided). Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (c). The Secretary of Defense shall establish a separate account for such purpose for each country or regional organization from which such contributions are accepted under subsection (a).
 
-    (c) __Availability of Contributions.—__ 
+    (c)  __Availability of Contributions__  __.—__ 
 
     Contributions accepted under subsection (a) shall be available only for the payment of the following costs:
 
@@ -33,7 +33,7 @@
 
         (3) Supplies and services of the Department of Defense.
 
-    (d) __Authorization of Military Construction.—__ 
+    (d)  __Authorization of Military Construction__  __.—__ 
 
     Contributions placed in an account established under subsection (b) may be used—
 
@@ -41,7 +41,7 @@
 
         (2) by the Secretary of a military department, with the approval of the Secretary of Defense, to carry out such a project.
 
-    (e) __Notice and Wait Requirements.—__ 
+    (e)  __Notice and Wait Requirements__  __.—__ 
 
         (1)
 
@@ -67,7 +67,7 @@
 
                 (ii) a statement of the current estimated cost of the project, including the cost of any real property transaction in connection with the project.
 
-    (f) __Reports.—__ 
+    (f)  __Reports__  __.—__ 
 
     Not later than 30 days after the end of each fiscal year, the Secretary of Defense shall submit to Congress a report specifying separately for each country and regional organization from which contributions have been accepted by the Secretary under subsection (a)—
 

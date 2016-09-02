@@ -15,19 +15,19 @@
 
 ## § 948b. Military commissions generally
 
-    (a) __Purpose.—__ 
+    (a)  __Purpose__  __.—__ 
 
     This chapter establishes procedures governing the use of military commissions to try alien unprivileged enemy belligerents for violations of the law of war and other offenses triable by military commission.
 
-    (b) __Authority for Military Commissions Under This Chapter.—__ 
+    (b)  __Authority for Military Commissions Under This Chapter__  __.—__ 
 
     The President is authorized to establish military commissions under this chapter for offenses triable by military commission as provided in this chapter.
 
-    (c) __Construction of Provisions.—__ 
+    (c)  __Construction of Provisions__  __.—__ 
 
     The procedures for military commissions set forth in this chapter are based upon the procedures for trial by general courts-martial under chapter 47 of this title (the Uniform Code of Military Justice). Chapter 47 of this title does not, by its terms, apply to trial by military commission except as specifically provided therein or in this chapter, and many of the provisions of chapter 47 of this title are by their terms inapplicable to military commissions. The judicial construction and application of chapter 47 of this title, while instructive, is therefore not of its own force binding on military commissions established under this chapter.
 
-    (d) __Inapplicability of Certain Provisions.—__ 
+    (d)  __Inapplicability of Certain Provisions__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (2) Other provisions of chapter 47 of this title shall apply to trial by military commission under this chapter only to the extent provided by the terms of such provisions or by this chapter.
 
-    (e) __Geneva Conventions Not Establishing Private Right of Action.—__ 
+    (e)  __Geneva Conventions Not Establishing Private Right of Action__  __.—__ 
 
     No alien unprivileged enemy belligerent subject to trial by military commission under this chapter may invoke the Geneva Conventions as a basis for a private right of action.
 

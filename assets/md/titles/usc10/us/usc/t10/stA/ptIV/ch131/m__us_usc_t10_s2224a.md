@@ -15,11 +15,11 @@
 
 ## § 2224a. Information security: continued applicability of expiring Governmentwide requirements to the Department of Defense
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The provisions of subchapter II of chapter 35 of title 44 shall continue to apply through September 30, 2004, with respect to the Department of Defense, notwithstanding the expiration of authority under section 3536  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of such title.
 
-    (b) __Responsibilities.—__ 
+    (b)  __Responsibilities__  __.—__ 
 
     In administering the provisions of subchapter II of chapter 35 of title 44 with respect to the Department of Defense after the expiration of authority under section 3536 1 of such title, the Secretary of Defense shall perform the duties set forth in that subchapter for the Director of the Office of Management and Budget.
 

@@ -15,11 +15,11 @@
 
 ## § 4553. Armament Retooling and Manufacturing Support Initiative
 
-    (a) __Authority for Initiative.—__ 
+    (a)  __Authority for Initiative__  __.—__ 
 
     The Secretary may carry out a program to be known as the “Armament Retooling and Manufacturing Support Initiative”.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of the ARMS Initiative are as follows:
 
@@ -53,15 +53,15 @@
 
         (10) To reduce or eliminate the cost of asset disposal that would be incurred if property at an eligible facility was declared excess to the needs of the Department of the Army.
 
-    (c) __Availability of Facilities.—__ 
+    (c)  __Availability of Facilities__  __.—__ 
 
     The Secretary may make any eligible facility available for the purposes of the ARMS Initiative.
 
-    (d) __Consideration for Leases.—__ 
+    (d)  __Consideration for Leases__  __.—__ 
 
     [Section 1302 of title 40][/us/usc/t40/s1302] shall not apply to uses of property or facilities in accordance with the ARMS Initiative.
 
-    (e) __Program Support.—__ 
+    (e)  __Program Support__  __.—__ 
 
         (1) Funds appropriated for purposes of the ARMS Initiative may be used for administrative support and management.
 

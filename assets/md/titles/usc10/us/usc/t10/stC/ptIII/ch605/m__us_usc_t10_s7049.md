@@ -15,15 +15,15 @@
 
 ## § 7049. Defense industry civilians: admission to defense product development program
 
-    (a) __Authority for Admission.—__ 
+    (a)  __Authority for Admission__  __.—__ 
 
     The Secretary of the Navy may permit eligible defense industry employees to receive instruction at the Naval Postgraduate School in accordance with this section. Any such defense industry employee may only be enrolled in, and may only be provided instruction in, a program leading to a master’s degree or professional continuing education certificate in a curriculum related to defense product development and systems engineering. No more than 125 such defense industry employees may be enrolled at any one time. Upon successful completion of the course of instruction in which enrolled, any such defense industry employee may be awarded an appropriate degree under [section 7048 of this title][/us/usc/t10/s7048] or an appropriate professional continuing education certificate, as applicable.
 
-    (b) __Eligible Defense Industry Employees.—__ 
+    (b)  __Eligible Defense Industry Employees__  __.—__ 
 
     For purposes of this section, an eligible defense industry employee is an individual employed by a private firm that is engaged in providing to the Department of Defense significant and substantial defense-related systems, products, or services. A defense industry employee admitted for instruction at the school remains eligible for such instruction only so long as that person remains employed by the same firm.
 
-    (c) __Annual Determination by the Secretary of the Navy.—__ 
+    (c)  __Annual Determination by the Secretary of the Navy__  __.—__ 
 
     Defense industry employees may receive instruction at the school during any academic year only if, before the start of that academic year, the Secretary of the Navy determines that providing instruction to defense industry employees under this section during that year—
 
@@ -33,7 +33,7 @@
 
         (3) will be done on a space-available basis and not require an increase in the size of the faculty of the school, an increase in the course offerings of the school, or an increase in the laboratory facilities or other infrastructure of the school.
 
-    (d) __Program Requirements.—__ 
+    (d)  __Program Requirements__  __.—__ 
 
     The Secretary of the Navy shall ensure that—
 
@@ -41,15 +41,15 @@
 
         (2) the course offerings at the school continue to be determined solely by the needs of the Department of Defense.
 
-    (e) __Tuition.—__ 
+    (e)  __Tuition__  __.—__ 
 
     The President of the school shall charge tuition for students enrolled under this section at a rate not less than the rate charged for employees of the United States outside the Department of the Navy.
 
-    (f) __Standards of Conduct.—__ 
+    (f)  __Standards of Conduct__  __.—__ 
 
     While receiving instruction at the school, students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the school.
 
-    (g) __Use of Funds.—__ 
+    (g)  __Use of Funds__  __.—__ 
 
     Amounts received by the school for instruction of students enrolled under this section shall be retained by the school to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the school.
 

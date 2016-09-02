@@ -15,11 +15,11 @@
 
 ## § 2277. Report on foreign counter-space programs
 
-    (a) __Report Required.—__ 
+    (a)  __Report Required__  __.—__ 
 
     Not later than January 1 of each year, the Secretary of Defense and the Director of National Intelligence shall jointly submit to Congress a report on the counter-space programs of foreign countries.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     Each report required under subsection (a) shall include—
 
@@ -29,25 +29,25 @@
 
     (c) __Form.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Except as provided in paragraphs (2) and (3), each report required under subsection (a) shall be submitted in unclassified form.
 
-        (2) __Classified annex.—__ 
+        (2)  __Classified annex__  __.—__ 
 
         The Secretary of Defense and the Director of National Intelligence may submit to the covered congressional committees a classified annex to a report required under subsection (a) containing any classified information required to be submitted for such report.
 
         (3) __Foreign country names.—__ 
 
-            (A) __Unclassified form.—__ 
+            (A)  __Unclassified form__  __.—__ 
 
             Subject to subparagraph (B), each report required under subsection (a) shall include the information required under subsection (b)(2) in unclassified form.
 
-            (B) __National security waiver.—__ 
+            (B)  __National security waiver__  __.—__ 
 
             The Secretary of Defense and the Director of National Intelligence may waive the requirement under subparagraph (A) if the Secretary and the Director of National Intelligence jointly determine it is in the interests of national security to waive such requirement and submits to Congress an explanation of why the Secretary and the Director waived such requirement.
 
-    (d) __Covered Congressional Committees Defined.—__ 
+    (d)  __Covered Congressional Committees Defined__  __.—__ 
 
     In this section, the term “covered congressional committees” means the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate.
 

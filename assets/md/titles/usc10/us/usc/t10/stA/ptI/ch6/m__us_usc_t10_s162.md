@@ -15,7 +15,7 @@
 
 ## § 162. Combatant commands: assigned forces; chain of command
 
-    (a) __Assignment of Forces.—__ 
+    (a)  __Assignment of Forces__  __.—__ 
 
         (1) Except as provided in paragraph (2), the Secretaries of the military departments shall assign all forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
 
@@ -31,7 +31,7 @@
 
         (4) Except as otherwise directed by the Secretary of Defense, all forces operating within the geographic area assigned to a unified combatant command shall be assigned to, and under the command of, the commander of that command. The preceding sentence applies to forces assigned to a specified combatant command only as prescribed by the Secretary of Defense.
 
-    (b) __Chain of Command.—__ 
+    (b)  __Chain of Command__  __.—__ 
 
     Unless otherwise directed by the President, the chain of command to a unified or specified combatant command runs—
 

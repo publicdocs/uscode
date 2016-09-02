@@ -233,7 +233,7 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
 [Pub. L. 111–383, div. A, title III, § 345][/us/pl/111/383/s345], Jan. 7, 2011, [124 Stat. 4191][/us/stat/124/4191], provided that:
 
->     “(a) __Requirements.—__ 
+>     “(a)  __Requirements__  __.—__ 
 
 >     In proposing the transfer of ownership of any aircraft from ownership by a reserve component of the Air Force to ownership by a regular component of the Air Force, including such a transfer to be made on a temporary basis, the Secretary of the Air Force shall ensure that a written agreement regarding such transfer of ownership has been entered into between the Director of the Air National Guard, the Commander of the Air Force Reserve Command, and the Chief of Staff of the Air Force. Any such agreement shall specify each of the following:
 
@@ -259,7 +259,7 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
 >         “(7) Any other items the Director of the Air National Guard or the Commander of the Air Force Reserve Command determines are necessary in order to execute such a transfer.
 
->     “(b) __Submittal of Agreements to Congress.—__ 
+>     “(b)  __Submittal of Agreements to Congress__  __.—__ 
 
 >     The Secretary of the Air Force may not take any action to transfer the ownership of an aircraft as described in subsection (a) until the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an agreement entered into pursuant to such subsection regarding the transfer of ownership of the aircraft.”
 
@@ -267,19 +267,19 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 324, Oct. 14, 2008, [122 Stat. 4416][/us/stat/122/4416], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(4)][/us/pl/111/383/s1075/e/4], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
 
->     “(a) __Restriction on Implementation of Consolidation.—__ 
+>     “(a)  __Restriction on Implementation of Consolidation__  __.—__ 
 
 >     The Secretary of the Air Force shall not implement the consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard or the consolidation of aircraft repair facilities and personnel of the Air National Guard with aircraft repair facilities and personnel of the active Air Force unless and until the Secretary of the Air Force submits the reports required by (b) and (c), the Chief of the National Guard Bureau submits the assessment required by subsection (d), and the Secretary of Defense submits the certification required by subsection (e).
 
->     “(b) __Report on Criteria.—__ 
+>     “(b)  __Report on Criteria__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report stating all the criteria being used by the Department of the Air Force and the Rand Corporation to evaluate the feasibility of consolidating Air Force maintenance functions into organizations that would integrate active, Guard, and Reserve components into a total-force approach. The report shall include the assumptions that were provided to or developed by the Rand Corporation for its study of the feasibility of the consolidation proposal.
 
->     “(c) __Report on Feasibility Study.—__ 
+>     “(c)  __Report on Feasibility Study__  __.—__ 
 
 >     At least 90 days before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard, the Secretary of the Air Force shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the findings of the Rand Corporation feasibility study and the Rand Corporation’s recommendations, the Air Force’s assessment of the findings and recommendations, any plans developed for implementation of the consolidation, and a delineation of all infrastructure costs anticipated as a result of implementation.
 
->     “(d) __Assessment by Chief of the National Guard Bureau.—__ 
+>     “(d)  __Assessment by Chief of the National Guard Bureau__  __.—__ 
 
 >     Not later than 30 days after the date on which the report required by subsection (c) is submitted, the Chief of the National Guard Bureau shall submit to the Committees on Armed Services of the Senate and House of Representatives a written assessment of—
 
@@ -287,7 +287,7 @@ July 9, 1952, ch. 608, § 601, 66 Stat. 501.  </td>
 
 >         “(2) the information included in the report required by subsection (c).
 
->     “(e) __Certification by the Secretary of Defense.—__ 
+>     “(e)  __Certification by the Secretary of Defense__  __.—__ 
 
 >     After the Secretary of the Air Force submits the reports required by subsections (b) and (c), and before any consolidation of aircraft repair facilities and personnel of the active Air Force with aircraft repair facilities and personnel of the Air National Guard by the Secretary of the Air Force, the Secretary of Defense shall certify that such consolidation is in the national interest and will not adversely affect recruitment, retention, or execution of the Air National Guard mission in the individual States.”
 

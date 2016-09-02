@@ -15,23 +15,23 @@
 
 ## § 7311. Repair or maintenance of naval vessels: handling of hazardous waste
 
-    (a) __Contractual Provisions.—__ 
+    (a)  __Contractual Provisions__  __.—__ 
 
     The Secretary of the Navy shall ensure that each contract entered into for work on a naval vessel (other than new construction) includes the following provisions:
 
-        (1) __Identification of hazardous wastes.—__ 
+        (1)  __Identification of hazardous wastes__  __.—__ 
 
         A provision in which the Navy identifies the types and amounts of hazardous wastes that are required to be removed by the contractor from the vessel, or that are expected to be generated, during the performance of work under the contract, with such identification by the Navy to be in a form sufficient to enable the contractor to comply with Federal and State laws and regulations on the removal, handling, storage, transportation, or disposal of hazardous waste.
 
-        (2) __Compensation.—__ 
+        (2)  __Compensation__  __.—__ 
 
         A provision specifying that the contractor shall be compensated under the contract for work performed by the contractor for duties of the contractor specified under paragraph (3).
 
-        (3) __Statement of work.—__ 
+        (3)  __Statement of work__  __.—__ 
 
         A provision specifying the responsibilities of the Navy and of the contractor, respectively, for the removal (including the handling, storage, transportation, and disposal) of hazardous wastes.
 
-        (4) __Accountability for hazardous wastes.—__ 
+        (4)  __Accountability for hazardous wastes__  __.—__ 
 
             (A)
 
@@ -45,7 +45,7 @@
 
             (B) A determination under this paragraph of whether the Navy is a generator, a contractor is a generator, or both the Navy and a contractor are generators, shall be made in the same manner provided under subtitle C of the Solid Waste Disposal Act ([42 U.S.C. 6921][/us/usc/t42/s6921] et seq.) and regulations promulgated under that subtitle.
 
-    (b) __Renegotiation of Contract.—__ 
+    (b)  __Renegotiation of Contract__  __.—__ 
 
     The Secretary of the Navy shall renegotiate a contract described in subsection (a) if—
 
@@ -53,11 +53,11 @@
 
         (2) those hazardous wastes originated on, or resulted from material furnished by the Government for, the naval vessel on which the work is being performed.
 
-    (c) __Removal of Wastes.—__ 
+    (c)  __Removal of Wastes__  __.—__ 
 
     The Secretary of the Navy shall remove known hazardous wastes from a vessel before the vessel’s arrival at a contractor’s facility for performance of a contract, to the extent such removal is feasible.
 
-    (d) __Relationship to Solid Waste Disposal Act.—__ 
+    (d)  __Relationship to Solid Waste Disposal Act__  __.—__ 
 
     Nothing in this section shall be construed as altering or otherwise affecting those provisions of the Solid Waste Disposal Act ([42 U.S.C. 6901][/us/usc/t42/s6901] et seq.) that relate to generators of hazardous waste. For purposes of this section, any term used in this section for which a definition is provided by the Solid Waste Disposal Act (or regulations promulgated pursuant to such Act) has the meaning provided by that Act or regulations.
 

@@ -15,15 +15,15 @@
 
 ## § 16162. Educational assistance program
 
-    (a) __Program Establishment.—__ 
+    (a)  __Program Establishment__  __.—__ 
 
     The Secretary of each military department, under regulations prescribed by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall establish and maintain a program as prescribed in this chapter to provide educational assistance to members of the Ready Reserve of the armed forces under the jurisdiction of the Secretary concerned.
 
-    (b) __Authorized Education Programs.—__ 
+    (b)  __Authorized Education Programs__  __.—__ 
 
     Educational assistance may be provided under this chapter for pursuit of any program of education that is an approved program of education for purposes of chapter 30 of title 38.
 
-    (c) __Benefit Amount.—__ 
+    (c)  __Benefit Amount__  __.—__ 
 
         (1) The educational assistance program established under subsection (a) shall provide for payment by the Secretary concerned, through the Secretary of Veterans Affairs, an educational assistance allowance to each member entitled to educational assistance under this chapter who is pursuing a program of education authorized under subsection (b).
 
@@ -47,7 +47,7 @@
 
                 (ii) an aggregate of three years or more.
 
-    (d) __Maximum Months of Assistance.—__ 
+    (d)  __Maximum Months of Assistance__  __.—__ 
 
         (1) Subject to [section 3695 of title 38][/us/usc/t38/s3695], the maximum number of months of educational assistance that may be provided to any member under this chapter is 36 (or the equivalent thereof in part-time educational assistance).
 
@@ -71,11 +71,11 @@
 
             (C) The period for which, by reason of this subsection, an educational assistance allowance is not charged against entitlement or counted toward the applicable aggregate period under [section 3695 of title 38][/us/usc/t38/s3695] shall not exceed the portion of the period of enrollment in the course or courses for which the individual failed to receive credit or with respect to which the individual lost training time, as determined under subparagraph (B)(ii).
 
-    (e) __Availability of Assistance for Licensing and Certification Tests.—__ 
+    (e)  __Availability of Assistance for Licensing and Certification Tests__  __.—__ 
 
     The provisions of [section 16131(j) of this title][/us/usc/t10/s16131/j] shall apply to the provision of educational assistance under this chapter, except that, in applying such section under this chapter, the reference to subsection (b) in paragraph (2) of such section is deemed to be a reference to subsection (c) of this section.
 
-    (f) __Contributions for Increased Amount of Educational Assistance.—__ 
+    (f)  __Contributions for Increased Amount of Educational Assistance__  __.—__ 
 
         (1)
 

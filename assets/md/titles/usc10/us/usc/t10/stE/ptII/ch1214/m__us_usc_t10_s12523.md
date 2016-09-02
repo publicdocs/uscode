@@ -15,11 +15,11 @@
 
 ## § 12523. Risk insured
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The insurance program shall insure members of the Ready Reserve against the risk of being ordered into covered service.
 
-    (b) __Entitlement to Benefits.—__ 
+    (b)  __Entitlement to Benefits__  __.—__ 
 
         (1) An insured member ordered into covered service shall be entitled to payment of a benefit for each month (and fraction thereof) of covered service that exceeds 30 days of covered service, except that no member may be paid under the insurance program for more than 12 months of covered service served during any period of 18 consecutive months.
 

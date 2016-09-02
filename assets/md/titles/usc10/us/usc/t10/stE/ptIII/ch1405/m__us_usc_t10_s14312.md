@@ -15,7 +15,7 @@
 
 ## § 14312. Delay of promotion: voluntary
 
-    (a) __Authority for Voluntary Delays.—__ 
+    (a)  __Authority for Voluntary Delays__  __.—__ 
 
         (1) The Secretary of the military department concerned may, by regulation, permit delays of a promotion of an officer who is recommended for promotion by a mandatory selection board convened under section 14101(a) or a special selection board convened under [section 14502 of this title][/us/usc/t10/s14502] at the request of the officer concerned. Such delays, in the case of any promotion, may extend for any period not to exceed three years from the date on which the officer would otherwise be promoted.
 
@@ -27,11 +27,11 @@
 
             (B) denial of such a request shall not be considered to be a failure of selection for promotion unless the officer declines to accept a promotion under circumstances set forth in subsection (c).
 
-    (b) __Effect of Approval of Request.—__ 
+    (b)  __Effect of Approval of Request__  __.—__ 
 
     If a request for delay of a promotion under subsection (a) is approved, the officer’s name shall remain on the promotion list during the authorized period of delay (unless removed under any other provision of law). Upon the end of the period of the authorized delay, or at any time during such period, the officer may accept the promotion, which shall be effective on the date of acceptance. Such an acceptance of a promotion shall be made in accordance with regulations prescribed under this section.
 
-    (c) __Effect of Declining a Promotion.—__ 
+    (c)  __Effect of Declining a Promotion__  __.—__ 
 
     An officer’s name shall be removed from the promotion list and, if the officer is serving in a grade below colonel or, in the case of the Navy, captain, the officer shall be considered to have failed of selection for promotion if any of the following applies:
 

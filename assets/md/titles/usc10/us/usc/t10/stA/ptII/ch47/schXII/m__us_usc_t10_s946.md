@@ -15,11 +15,11 @@
 
 ## § 946. Art. 146. Code committee
 
-    (a) __Annual Survey.—__ 
+    (a)  __Annual Survey__  __.—__ 
 
     A committee shall meet at least annually and shall make an annual comprehensive survey of the operation of this chapter.
 
-    (b) __Composition of Committee.—__ 
+    (b)  __Composition of Committee__  __.—__ 
 
     The committee shall consist of—
 
@@ -29,7 +29,7 @@
 
         (3) two members of the public appointed by the Secretary of Defense.
 
-    (c) __Reports.—__ 
+    (c)  __Reports__  __.—__ 
 
         (1)
 
@@ -73,11 +73,11 @@
 
                 (iii) any other matter the committee considers appropriate.
 
-    (d) __Qualifications and Terms of Appointed Members.—__ 
+    (d)  __Qualifications and Terms of Appointed Members__  __.—__ 
 
     Each member of the committee appointed by the Secretary of Defense under subsection (b)(3) shall be a recognized authority in military justice or criminal law. Each such member shall be appointed for a term of three years.
 
-    (e) __Applicability of Federal Advisory Committee Act.—__ 
+    (e)  __Applicability of Federal Advisory Committee Act__  __.—__ 
 
     The Federal Advisory Committee Act (5 U.S.C. App. I) shall not apply to the committee.
 

@@ -15,11 +15,11 @@
 
 ## § 2872a. Utilities and services
 
-    (a) __Authority To Furnish.—__ 
+    (a)  __Authority To Furnish__  __.—__ 
 
     The Secretary concerned may furnish utilities and services referred to in subsection (b) in connection with any military housing acquired or constructed pursuant to the exercise of any authority or combination of authorities under this subchapter if the military housing is located on a military installation.
 
-    (b) __Covered Utilities and Services.—__ 
+    (b)  __Covered Utilities and Services__  __.—__ 
 
     The utilities and services that may be furnished under subsection (a) are the following:
 
@@ -47,7 +47,7 @@
 
         (12) Police protection services.
 
-    (c) __Reimbursement.—__ 
+    (c)  __Reimbursement__  __.—__ 
 
         (1) The Secretary concerned shall be reimbursed for any utilities or services furnished under subsection (a).
 

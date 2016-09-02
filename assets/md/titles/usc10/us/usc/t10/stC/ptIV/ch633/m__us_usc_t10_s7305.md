@@ -15,15 +15,15 @@
 
 ## § 7305. Vessels stricken from Naval Vessel Register: sale
 
-    (a) __Appraisal of Vessels Stricken From Naval Vessel Register.—__ 
+    (a)  __Appraisal of Vessels Stricken From Naval Vessel Register__  __.—__ 
 
     The Secretary of the Navy shall appraise each vessel stricken from the Naval Vessel Register under [section 7304 of this title][/us/usc/t10/s7304].
 
-    (b) __Authority To Sell Vessel.—__ 
+    (b)  __Authority To Sell Vessel__  __.—__ 
 
     If the Secretary considers that the sale of the vessel is in the national interest, the Secretary may sell the vessel. Any such sale shall be in accordance with regulations prescribed by the Secretary for the purposes of this section.
 
-    (c) __Procedures for Sale.—__ 
+    (c)  __Procedures for Sale__  __.—__ 
 
         (1) A vessel stricken from the Naval Vessel Register and not subject to disposal under any other law may be sold under this section.
 
@@ -37,7 +37,7 @@
 
         (3) Before entering into negotiations to sell a vessel under paragraph (2)(B), the Secretary shall publish notice of the intention to do so in the Commerce Business Daily sufficiently in advance of initiating the negotiations that all interested parties are given a reasonable opportunity to prepare and submit proposals. The Secretary shall afford an opportunity to participate in the negotiations to all acceptable offerors submitting proposals that the Secretary considers as having the potential to be the most advantageous to the United States (taking into account price and such other factors as the Secretary determines appropriate).
 
-    (d) __Applicability.—__ 
+    (d)  __Applicability__  __.—__ 
 
     This section does not apply to a vessel the disposal of which is authorized by subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, if it is to be disposed of under those provisions.
 

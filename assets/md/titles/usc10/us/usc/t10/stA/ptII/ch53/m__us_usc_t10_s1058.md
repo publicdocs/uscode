@@ -15,7 +15,7 @@
 
 ## § 1058. Responsibilities of military law enforcement officials at scenes of domestic violence
 
-    (a) __Immediate Actions Required.—__ 
+    (a)  __Immediate Actions Required__  __.—__ 
 
     Under regulations prescribed pursuant to subsection (c), the Secretary concerned shall ensure, in any case of domestic violence in which a military law enforcement official at the scene determines that physical injury has been inflicted or a deadly weapon or dangerous instrument has been used, that military law enforcement officials—
 
@@ -23,15 +23,15 @@
 
         (2) within 24 hours of the incident, provide a report of the domestic violence to the appropriate commander and to a local military family advocacy representative exercising responsibility over the area in which the incident took place.
 
-    (b) __Family Advocacy Committee.—__ 
+    (b)  __Family Advocacy Committee__  __.—__ 
 
     Under regulations prescribed pursuant to subsection (c), the Secretary concerned shall ensure that, whenever a report is provided to a commander under subsection (a)(2), a multidisciplinary family advocacy committee meets, with all due practicable speed, to review the situation and to make recommendations to the commander for appropriate action.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe by regulation the definition of “domestic violence” for purposes of this section and such other regulations as may be necessary for purposes of this section.
 
-    (d) __Military Law Enforcement Official.—__ 
+    (d)  __Military Law Enforcement Official__  __.—__ 
 
     In this section, the term “military law enforcement official” means a person authorized under regulations governing the armed forces to apprehend persons subject to the Uniform Code of Military Justice (chapter 47 of this title) or to trial thereunder.
 

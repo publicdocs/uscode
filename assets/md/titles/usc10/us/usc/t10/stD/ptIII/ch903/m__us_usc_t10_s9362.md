@@ -15,13 +15,13 @@
 
 ## § 9362. Support of athletic programs
 
-    (a) __Corporation for Support Authorized.—__ 
+    (a)  __Corporation for Support Authorized__  __.—__ 
 
         (1) The Secretary of the Air Force may, in accordance with the laws of the State of incorporation, establish a corporation (in this section referred to as the “corporation”) to support the athletic programs of the Academy. All stock of the corporation shall be owned by the United States and held in the name of and voted by the Secretary of the Air Force.
 
         (2) The corporation shall operate exclusively for charitable, educational, and civic purposes to support the athletic programs of the Academy.
 
-    (b) __Corporate Organization.—__ 
+    (b)  __Corporate Organization__  __.—__ 
 
     The corporation shall be organized and operated—
 
@@ -31,25 +31,25 @@
 
         (3) pursuant to the laws of the State of incorporation, its articles of incorporation, and its bylaws.
 
-    (c) __Corporate Board of Directors.—__ 
+    (c)  __Corporate Board of Directors__  __.—__ 
 
         (1) The members of the board of directors of the corporation shall serve without compensation as members of the board, except for reasonable travel and other related expenses for attendance at meetings of the board.
 
         (2) The Secretary of the Air Force may authorize military and civilian personnel of the Air Force under [section 1033 of this title][/us/usc/t10/s1033] to serve, in their official capacities, as members of the board of directors of the corporation, but such personnel shall not hold more than one-third of the directorships.
 
-    (d) __Transfers From Nonappropriated Fund Operation.—__ 
+    (d)  __Transfers From Nonappropriated Fund Operation__  __.—__ 
 
     The Secretary of the Air Force may, subject to the acceptance of the corporation, transfer to the corporation all title to and ownership of the assets and liabilities of the Air Force nonappropriated fund instrumentality whose functions include providing support for the athletic programs of the Academy, including bank accounts and financial reserves in its accounts, equipment, supplies, and other personal property, but excluding any interest in real property.
 
-    (e) __Acceptance of Gifts.—__ 
+    (e)  __Acceptance of Gifts__  __.—__ 
 
     The Secretary of the Air Force may accept from the corporation funds, supplies, and services for the support of cadets and Academy personnel during their participation in Academy or corporate events related to the athletic programs of the Academy.
 
-    (f) __Leases.—__ 
+    (f)  __Leases__  __.—__ 
 
     The Secretary of the Air Force may, in accordance with [section 2667 of this title][/us/usc/t10/s2667], lease real and personal property to the corporation for purposes related to the athletic programs of the Academy. Funds received from any such lease may be retained and spent by the Secretary to support athletic programs of the Academy.
 
-    (g) __Cooperative Agreements.—__ 
+    (g)  __Cooperative Agreements__  __.—__ 
 
     The Secretary of the Air Force may enter into cooperative agreements (as described in [section 6305 of title 31][/us/usc/t31/s6305]) with the corporation for purposes related to the athletic programs of the Academy.
 

@@ -15,19 +15,19 @@
 
 ## § 2167. National Defense University: admission of private sector civilians to professional military education program
 
-    (a) __Authority for Admission.—__ 
+    (a)  __Authority for Admission__  __.—__ 
 
     The Secretary of Defense may permit eligible private sector employees who work in organizations relevant to national security to receive instruction at the National Defense University in accordance with this section. No more than the equivalent of 35 full-time student positions may be filled at any one time by private sector employees enrolled under this section. Upon successful completion of the course of instruction in which enrolled, any such private sector employee may be awarded an appropriate diploma or degree under [section 2165 of this title][/us/usc/t10/s2165].
 
-    (b) __Eligible Private Sector Employees.—__ 
+    (b)  __Eligible Private Sector Employees__  __.—__ 
 
     For purposes of this section, an eligible private sector employee is an individual employed by a private firm that is engaged in providing to the Department of Defense or other Government departments or agencies significant and substantial defense-related systems, products, or services or whose work product is relevant to national security policy or strategy. A private sector employee admitted for instruction at the National Defense University remains eligible for such instruction only so long as that person remains employed by the same firm.
 
-    (c) __Annual Certification by Secretary of Defense.—__ 
+    (c)  __Annual Certification by Secretary of Defense__  __.—__ 
 
     Private sector employees may receive instruction at the National Defense University during any academic year only if, before the start of that academic year, the Secretary of Defense determines, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, that providing instruction to private sector employees under this section during that year will further national security interests of the United States.
 
-    (d) __Program Requirements.—__ 
+    (d)  __Program Requirements__  __.—__ 
 
     The Secretary of Defense shall ensure that—
 
@@ -35,7 +35,7 @@
 
         (2) the course offerings at the National Defense University continue to be determined solely by the needs of the Department of Defense.
 
-    (e) __Tuition.—__ 
+    (e)  __Tuition__  __.—__ 
 
     The President of the National Defense University shall charge students enrolled under this section a rate—
 
@@ -43,11 +43,11 @@
 
         (2) that considers the value to the school and course of the private sector student.
 
-    (f) __Standards of Conduct.—__ 
+    (f)  __Standards of Conduct__  __.—__ 
 
     While receiving instruction at the National Defense University, students enrolled under this section, to the extent practicable, are subject to the same regulations governing academic performance, attendance, norms of behavior, and enrollment as apply to Government civilian employees receiving instruction at the university.
 
-    (g) __Use of Funds.—__ 
+    (g)  __Use of Funds__  __.—__ 
 
     Amounts received by the National Defense University for instruction of students enrolled under this section shall be retained by the university to defray the costs of such instruction. The source, and the disposition, of such funds shall be specifically identified in records of the university.
 

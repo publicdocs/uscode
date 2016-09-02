@@ -15,7 +15,7 @@
 
 ## § 16203. Penalties and limitations
 
-    (a) __Failure to Complete Program of Training.—__ 
+    (a)  __Failure to Complete Program of Training__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) The Secretary of a military department, under regulations prescribed by the Secretary of Defense, may relieve a member participating in the program who is dropped from the program from any requirement that may be imposed under paragraph (1), but such relief shall not relieve him from any military obligation imposed by any other law.
 
-    (b) __Prohibitions of Duplicate Benefits.—__ 
+    (b)  __Prohibitions of Duplicate Benefits__  __.—__ 
 
     Financial assistance may not be provided under this section to a member receiving financial assistance under [section 2107 of this title][/us/usc/t10/s2107].
 

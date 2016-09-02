@@ -15,15 +15,15 @@
 
 ## § 949f. Challenges
 
-    (a) __Challenges Authorized.—__ 
+    (a)  __Challenges Authorized__  __.—__ 
 
     The military judge and members of a military commission under this chapter may be challenged by the accused or trial counsel for cause stated to the military commission. The military judge shall determine the relevance and validity of challenges for cause, and may not receive a challenge to more than one person at a time. Challenges by trial counsel shall ordinarily be presented and decided before those by the accused are offered.
 
-    (b) __Peremptory Challenges.—__ 
+    (b)  __Peremptory Challenges__  __.—__ 
 
     The accused and trial counsel are each entitled to one peremptory challenge, but the military judge may not be challenged except for cause.
 
-    (c) __Challenges Against Additional Members.—__ 
+    (c)  __Challenges Against Additional Members__  __.—__ 
 
     Whenever additional members are detailed to a military commission under this chapter, and after any challenges for cause against such additional members are presented and decided, the accused and trial counsel are each entitled to one peremptory challenge against members not previously subject to peremptory challenge.
 

@@ -15,27 +15,27 @@
 
 ## § 428. Defense industrial security
 
-    (a) __Responsibility for Defense Industrial Security.—__ 
+    (a)  __Responsibility for Defense Industrial Security__  __.—__ 
 
     The Secretary of Defense shall be responsible for the protection of classified information disclosed to contractors of the Department of Defense.
 
-    (b) __Consistency With Executive Orders and Directives.—__ 
+    (b)  __Consistency With Executive Orders and Directives__  __.—__ 
 
     The Secretary shall carry out the responsibility assigned under subsection (a) in a manner consistent with Executive Order 12829 (or any successor order to such executive order) and consistent with policies relating to the National Industrial Security Program (or any successor to such program).
 
-    (c) __Performance of Industrial Security Functions for Other Agencies.—__ 
+    (c)  __Performance of Industrial Security Functions for Other Agencies__  __.—__ 
 
     The Secretary may perform industrial security functions for other agencies of the Federal government upon request or upon designation of the Department of Defense as executive agent for the National Industrial Security Program (or any successor to such program).
 
-    (d) __Regulations and Policy Guidance.—__ 
+    (d)  __Regulations and Policy Guidance__  __.—__ 
 
     The Secretary shall prescribe, and from time to time revise, such regulations and policy guidance as are necessary to ensure the protection of classified information disclosed to contractors of the Department of Defense.
 
-    (e) __Dedication of Resources.—__ 
+    (e)  __Dedication of Resources__  __.—__ 
 
     The Secretary shall ensure that sufficient resources are provided to staff, train, and support such personnel as are necessary to fully protect classified information disclosed to contractors of the Department of Defense.
 
-    (f) __Biennial Report.—__ 
+    (f)  __Biennial Report__  __.—__ 
 
     The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President’s budget is submitted pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a] in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
 
@@ -67,11 +67,11 @@
 
 [Pub. L. 111–383, div. A, title VIII, § 845][/us/pl/111/383/s845], Jan. 7, 2011, [124 Stat. 4285][/us/stat/124/4285], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of Defense shall develop a plan to ensure that covered entities employ and maintain policies and procedures that meet requirements under the national industrial security program. In developing the plan, the Secretary shall consider whether or not covered entities, or any category of covered entities, should be required to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
 
->     “(b) __Covered Entity.—__ 
+>     “(b)  __Covered Entity__  __.—__ 
 
 >     A covered entity under this section is an entity—
 
@@ -79,11 +79,11 @@
 
 >         “(2) that is not subject to foreign ownership control or influence mitigation measures.
 
->     “(c) __Guidance.—__ 
+>     “(c)  __Guidance__  __.—__ 
 
 >     The Secretary of Defense shall issue guidance, including appropriate compliance mechanisms, to implement the requirement in subsection (a). To the extent determined appropriate by the Secretary, the guidance shall require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the plan developed pursuant to subsection (a) and the guidance issued pursuant to subsection (c). The report shall specifically address the rationale for the Secretary’s decision on whether or not to require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.”
 

@@ -199,7 +199,7 @@ June 30, 1950, ch. 421, § 3, 64 Stat. 304.  </td>
 
 >     “(a) __Policy Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than July 1, 2007, the Secretary of Defense shall prescribe the policy of the Department of Defense on—
 
@@ -207,11 +207,11 @@ June 30, 1950, ch. 421, § 3, 64 Stat. 304.  </td>
 
 >             “(B) if so, the obligations for service on active duty as commissioned officers of such graduates who participate in professional sports before the satisfaction of the obligations referred to in subparagraph (A).
 
->         “(2) __Review of current policies.—__ 
+>         “(2)  __Review of current policies__  __.—__ 
 
 >         In prescribing the policy, the Secretary shall review current policies, practices, and regulations of the military departments on the obligations for service on active duty as commissioned officers of graduates of the service academies and the Reserve Officers’ Training Corps, including policies on authorized leaves of absence and policies under excess leave programs.
 
->         “(3) __Considerations.—__ 
+>         “(3)  __Considerations__  __.—__ 
 
 >         In prescribing the policy, the Secretary shall take into account the following:
 
@@ -225,7 +225,7 @@ June 30, 1950, ch. 421, § 3, 64 Stat. 304.  </td>
 
 >             “(E) Any other matters that the Secretary considers appropriate.
 
->     “(b) __Elements of Policy.—__ 
+>     “(b)  __Elements of Policy__  __.—__ 
 
 >     The policy prescribed under subsection (a) shall address the following matters:
 
@@ -241,7 +241,7 @@ June 30, 1950, ch. 421, § 3, 64 Stat. 304.  </td>
 
 >         “(6) A prospective effective date for the policy and for the application of the policy to individuals serving on such effective date as a commissioned officer, cadet, or midshipman.
 
->     “(c) __Application of Policy to Armed Forces.—__ 
+>     “(c)  __Application of Policy to Armed Forces__  __.—__ 
 
 >     Not later than December 1, 2007, the Secretary of each military department shall prescribe regulations, or modify current regulations, in order to implement the policy prescribed by the Secretary of Defense under subsection (a) with respect to the Armed Forces under the jurisdiction of such Secretary.”
 

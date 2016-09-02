@@ -137,11 +137,11 @@ Aug. 1, 1946, ch. 727, § 1 (2d sentence), 60 Stat. 779.  </td>
 
 [Pub. L. 107–107, div. A, title II, § 262][/us/pl/107/107/s262], Dec. 28, 2001, [115 Stat. 1044][/us/stat/115/1044], provided that:
 
->     “(a) __Project Required.—__ 
+>     “(a)  __Project Required__  __.—__ 
 
 >     The Secretary of the Navy, acting through the Chief of Naval Research, shall carry out a demonstration project to increase access to Navy facilities of small businesses and universities that are engaged in science and technology research beneficial to the fleet.
 
->     “(b) __Project Elements.—__ 
+>     “(b)  __Project Elements__  __.—__ 
 
 >     In carrying out the demonstration project, the Secretary shall—
 
@@ -151,11 +151,11 @@ Aug. 1, 1946, ch. 727, § 1 (2d sentence), 60 Stat. 779.  </td>
 
 >         “(3) permit universities, institutions of higher learning, and federally funded research and development centers collaborating with participants referred to in paragraph (2) to access and use such facilities for such purposes, and charge such entities for such access and use at such rates.
 
->     “(c) __Period of Project.—__ 
+>     “(c)  __Period of Project__  __.—__ 
 
 >     The demonstration project shall be carried out during the three-year period beginning on the date of the enactment of this Act \[Dec. 28, 2001\].
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than February 1, 2004, the Secretary shall submit to Congress a report on the demonstration project. The report shall include a description of the activities carried out under the demonstration project and any recommendations for the improvement or expansion of the demonstration project that the Secretary considers appropriate.”
 

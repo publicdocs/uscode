@@ -15,15 +15,15 @@
 
 ## § 1074i. Reimbursement for certain travel expenses
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In any case in which a covered beneficiary is referred by a primary care physician to a specialty care provider who provides services more than 100 miles from the location in which the primary care provider provides services to the covered beneficiary, the Secretary of Defense shall provide reimbursement for reasonable travel expenses for the covered beneficiary and, when accompaniment by an adult is necessary, for a parent or guardian of the covered beneficiary or another member of the covered beneficiary’s family who is at least 21 years of age.
 
-    (b) __Reimbursement for Travel Under Exceptional Circumstances.—__ 
+    (b)  __Reimbursement for Travel Under Exceptional Circumstances__  __.—__ 
 
     The Secretary of Defense may provide reimbursement for reasonable travel expenses of travel of members of the armed forces on active duty and their dependents, and accompaniment, to a specialty care provider not otherwise authorized by subsection (a) under such exceptional circumstances as the Secretary considers appropriate for purposes of this section.
 
-    (c) __Outreach Program and Travel Reimbursement for Follow-on Specialty Care and Related Services.—__ 
+    (c)  __Outreach Program and Travel Reimbursement for Follow-on Specialty Care and Related Services__  __.—__ 
 
     The Secretary concerned shall ensure that an outreach program is implemented for each member of the uniformed services who incurred a combat-related disability and is entitled to retired or retainer pay, or equivalent pay, so that—
 
@@ -31,7 +31,7 @@
 
         (2) the member receives the travel reimbursement authorized by subsection (a) whenever the member requires follow-on specialty care, services, or supplies.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 

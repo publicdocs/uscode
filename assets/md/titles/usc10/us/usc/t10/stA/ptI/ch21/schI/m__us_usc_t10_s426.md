@@ -15,7 +15,7 @@
 
 ## § 426. Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities
 
-    (a) __ISR Integration Council.—__ 
+    (a) __ISR__  __Integration Council__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
         (4) Each Secretary of a military department may designate an officer or employee of such military department to attend the proceedings of the Council as a representative of such military department.
 
-    (b) __ISR Integration Roadmap.—__ 
+    (b) __ISR__  __Integration Roadmap__  __.—__ 
 
         (1) The Under Secretary of Defense for Intelligence shall develop a comprehensive plan, to be known as the “Defense Intelligence, Surveillance, and Reconnaissance Integration Roadmap”, to guide the development and integration of the Department of Defense intelligence, surveillance, and reconnaissance capabilities for the 15-year period of fiscal years 2004 through 2018.
 
@@ -59,7 +59,7 @@
 
 [Pub. L. 108–136, div. A, title IX, § 923(a)][/us/pl/108/136/s923/a], (b), Nov. 24, 2003, [117 Stat. 1574][/us/stat/117/1574], 1575, as amended by [Pub. L. 111–383, div. A, title IX, § 922(a)][/us/pl/111/383/s922/a], Jan. 7, 2011, [124 Stat. 4330][/us/stat/124/4330], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -73,7 +73,7 @@
 
 >         “(5) The position of Under Secretary of Defense for Intelligence was established in 2002 by [Public Law 107–314][/us/pl/107/314] \[see [10 U.S.C. 137][/us/usc/t10/s137]\] in order to facilitate resolution of the challenges to achieving an integrated intelligence, surveillance, and reconnaissance structure in the Department of Defense to meet such 21st century requirements.
 
->     “(b) __Goal.—__ 
+>     “(b)  __Goal__  __.—__ 
 
 >     It shall be a goal of the Department of Defense to fully integrate the intelligence, surveillance, and reconnaissance capabilities and coordinate the developmental activities of the military departments, intelligence agencies of the Department of Defense, and relevant combatant commands as those departments, agencies, and commands transform their intelligence, surveillance, and reconnaissance systems to meet current and future needs.”
 

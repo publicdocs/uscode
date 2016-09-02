@@ -15,7 +15,7 @@
 
 ## § 1565. DNA identification information: collection from certain offenders; use
 
-    (a) __Collection of DNA Samples.—__ 
+    (a)  __Collection of DNA Samples__  __.—__ 
 
         (1) The Secretary concerned shall collect a DNA sample from each member of the armed forces under the Secretary’s jurisdiction who is, or has been, convicted of a qualifying military offense (as determined under subsection (d)).
 
@@ -23,7 +23,7 @@
 
         (3) The Secretary concerned may enter into agreements with other Federal agencies, units of State or local government, or private entities to provide for the collection of samples described in paragraph (1).
 
-    (b) __Analysis and Use of Samples.—__ 
+    (b)  __Analysis and Use of Samples__  __.—__ 
 
     The Secretary concerned shall furnish each DNA sample collected under subsection (a) to the Secretary of Defense. The Secretary of Defense shall—
 
@@ -31,7 +31,7 @@
 
         (2) furnish the results of each such analysis to the Director of the Federal Bureau of Investigation for inclusion in CODIS.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -39,7 +39,7 @@
 
         (2) The term “DNA analysis” means analysis of the deoxyribonucleic acid (DNA) identification information in a bodily sample.
 
-    (d) __Qualifying Military Offenses.—__ 
+    (d)  __Qualifying Military Offenses__  __.—__ 
 
     The offenses that shall be treated for purposes of this section as qualifying military offenses are the following offenses, as determined by the Secretary of Defense, in consultation with the Attorney General:
 
@@ -47,7 +47,7 @@
 
         (2) Any other offense under the Uniform Code of Military Justice that is comparable to a qualifying Federal offense (as determined under section 3(d) of the DNA Analysis Backlog Elimination Act of 2000 ([42 U.S.C. 14135a(d)][/us/usc/t42/s14135a/d])).
 
-    (e) __Expungement.—__ 
+    (e)  __Expungement__  __.—__ 
 
         (1) The Secretary of Defense shall promptly expunge, from the index described in subsection (a) of section 210304 of the Violent Crime Control and Law Enforcement Act of 1994, the DNA analysis of a person included in the index on the basis of a qualifying military offense if the Secretary receives, for each conviction of the person of a qualifying offense, a certified copy of a final court order establishing that such conviction has been overturned.
 
@@ -63,7 +63,7 @@
 
         (3) For purposes of paragraph (1), a court order is not “final” if time remains for an appeal or application for discretionary review with respect to the order.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     This section shall be carried out under regulations prescribed by the Secretary of Defense, in consultation with the Secretary of Homeland Security and the Attorney General. Those regulations shall apply, to the extent practicable, uniformly throughout the armed forces.
 

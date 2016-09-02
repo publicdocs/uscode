@@ -15,11 +15,11 @@
 
 ## § 2695. Acceptance of funds to cover administrative expenses relating to certain real property transactions
 
-    (a) __Authority To Accept.—__ 
+    (a)  __Authority To Accept__  __.—__ 
 
     In connection with a real property transaction referred to in subsection (b) with a non-Federal person or entity, the Secretary of a military department may accept amounts provided by the person or entity to cover administrative expenses incurred by the Secretary in entering into the transaction.
 
-    (b) __Covered Transactions.—__ 
+    (b)  __Covered Transactions__  __.—__ 
 
     Subsection (a) applies to the following transactions involving real property under the control of the Secretary of a military department:
 
@@ -33,7 +33,7 @@
 
         (5) The conveyance of real property under [section 2694a of this title][/us/usc/t10/s2694a].
 
-    (c) __Use of Amounts Collected.—__ 
+    (c)  __Use of Amounts Collected__  __.—__ 
 
     Amounts collected under subsection (a) for administrative expenses shall be credited to the appropriation, fund, or account from which the expenses were paid. Amounts so credited shall be merged with funds in such appropriation, fund, or account and shall be available for the same purposes and subject to the same limitations as the funds with which merged.
 

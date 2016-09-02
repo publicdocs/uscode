@@ -15,7 +15,7 @@
 
 ## § 163. Role of Chairman of Joint Chiefs of Staff
 
-    (a) __Communications Through Chairman of JCS; Assignment of Duties.—__ 
+    (a)  __Communications Through Chairman of JCS; Assignment of Duties__  __.—__ 
 
     Subject to the limitations in [section 152(c) of this title][/us/usc/t10/s152/c], the President may—
 
@@ -23,7 +23,7 @@
 
         (2) assign duties to the Chairman to assist the President and the Secretary of Defense in performing their command function.
 
-    (b) __Oversight by Chairman of Joint Chiefs of Staff.—__ 
+    (b)  __Oversight by Chairman of Joint Chiefs of Staff__  __.—__ 
 
         (1) The Secretary of Defense may assign to the Chairman of the Joint Chiefs of Staff responsibility for overseeing the activities of the combatant commands. Such assignment by the Secretary to the Chairman does not confer any command authority on the Chairman and does not alter the responsibility of the commanders of the combatant commands prescribed in [section 164(b)(2) of this title][/us/usc/t10/s164/b/2].
 

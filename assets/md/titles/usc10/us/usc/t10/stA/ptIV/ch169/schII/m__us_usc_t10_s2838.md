@@ -15,17 +15,17 @@
 
 ## § 2838. Leasing of military family housing to Secretary of Defense
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
         (1) The Secretary of a military department may lease to the Secretary of Defense military family housing in the National Capital Region (as defined in [section 2674(f) of this title][/us/usc/t10/s2674/f]).
 
         (2) In determining the military housing unit to lease under this section, the Secretary of Defense should first consider any available military housing units that are already substantially equipped for executive communications and security.
 
-    (b) __Rental Rate.—__ 
+    (b)  __Rental Rate__  __.—__ 
 
     A lease under subsection (a) shall provide for the payment by the Secretary of Defense of consideration in an amount equal to 105 percent of the monthly rate of basic allowance for housing prescribed under [section 403(b) of title 37][/us/usc/t37/s403/b] for a member of the uniformed services in the pay grade of O–10 with dependents assigned to duty at the military installation on which the leased housing unit is located. A rate so established shall be considered the fair market value of the lease interest.
 
-    (c) __Treatment of Proceeds.—__ 
+    (c)  __Treatment of Proceeds__  __.—__ 
 
         (1) The Secretary of a military department shall deposit all amounts received pursuant to leases entered into by the Secretary under this section into a special account in the Treasury established for such military department.
 

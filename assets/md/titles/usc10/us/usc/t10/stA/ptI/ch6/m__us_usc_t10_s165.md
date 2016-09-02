@@ -15,15 +15,15 @@
 
 ## § 165. Combatant commands: administration and support
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall provide for the administration and support of forces assigned to each combatant command.
 
-    (b) __Responsibility of Secretaries of Military Departments.—__ 
+    (b)  __Responsibility of Secretaries of Military Departments__  __.—__ 
 
     Subject to the authority, direction, and control of the Secretary of Defense and subject to the authority of commanders of the combatant commands under [section 164(c) of this title][/us/usc/t10/s164/c], the Secretary of a military department is responsible for the administration and support of forces assigned by him to a combatant command.
 
-    (c) __Assignment of Responsibility to Other Components of DOD.—__ 
+    (c)  __Assignment of Responsibility to Other Components of DOD__  __.—__ 
 
     After consultation with the Secretaries of the military departments, the Secretary of Defense may assign the responsibility (or any part of the responsibility) for the administration and support of forces assigned to the combatant commands to other components of the Department of Defense (including Defense Agencies and combatant commands). A component assigned such a responsibility shall discharge that responsibility subject to the authority, direction, and control of the Secretary of Defense and subject to the authority of commanders of the combatant commands under [section 164(c) of this title][/us/usc/t10/s164/c].
 

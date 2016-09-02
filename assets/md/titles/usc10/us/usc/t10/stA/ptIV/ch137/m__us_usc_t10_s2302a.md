@@ -15,11 +15,11 @@
 
 ## § 2302a. Simplified acquisition threshold
 
-    (a) __Simplified Acquisition Threshold.—__ 
+    (a)  __Simplified Acquisition Threshold__  __.—__ 
 
     For purposes of acquisitions by agencies named in [section 2303 of this title][/us/usc/t10/s2303], the simplified acquisition threshold is as specified in [section 134 of title 41][/us/usc/t41/s134].
 
-    (b) __Inapplicable Laws.—__ 
+    (b)  __Inapplicable Laws__  __.—__ 
 
     No law properly listed in the Federal Acquisition Regulation pursuant to [section 1905 of title 41][/us/usc/t41/s1905] shall apply to or with respect to a contract or subcontract that is not greater than the simplified acquisition threshold.
 

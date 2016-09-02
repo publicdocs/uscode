@@ -15,7 +15,7 @@
 
 ## § 1092a. Persons entering the armed forces: baseline health data
 
-    (a) __Program Required.—__ 
+    (a)  __Program Required__  __.—__ 
 
     The Secretary of Defense shall carry out a program—
 
@@ -23,7 +23,7 @@
 
         (2) to provide for computerized compilation and maintenance of the baseline health data.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The program under this section shall be designed to achieve the following purposes:
 

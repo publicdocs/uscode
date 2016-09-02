@@ -15,7 +15,7 @@
 
 ## § 9315. Community College of the Air Force: associate degrees
 
-    (a) __Establishment and Mission.—__ 
+    (a)  __Establishment and Mission__  __.—__ 
 
     There is in the Air Force a Community College of the Air Force. Such college, in cooperation with civilian colleges and universities, shall—
 
@@ -23,7 +23,7 @@
 
         (2) monitor on a continuing basis the progress of members pursuing such programs.
 
-    (b) __Members Eligible for Programs.—__ 
+    (b)  __Members Eligible for Programs__  __.—__ 
 
     Subject to such other eligibility requirements as the Secretary concerned may prescribe, the following members of the armed forces are eligible to participate in programs of higher education under subsection (a)(1):
 
@@ -31,7 +31,7 @@
 
         (2) Enlisted members of the armed forces other than the Air Force who are serving as instructors at Air Force training schools.
 
-    (c) __Seriously Wounded, Ill, or Injured Former and Retired Enlisted Members.—__ 
+    (c)  __Seriously Wounded, Ill, or Injured Former and Retired Enlisted Members__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
         (4) The Secretary may not pay the tuition for participation in a program of higher education under subsection (a)(1) of a person participating in such program pursuant to an authorization under paragraph (1).
 
-    (d) __Associate Degrees.—__ 
+    (d)  __Associate Degrees__  __.—__ 
 
         (1) Subject to paragraph (2), an academic degree at the level of associate may be conferred under [section 9317 of this title][/us/usc/t10/s9317] upon any person who has completed a program prescribed by the Community College of the Air Force.
 

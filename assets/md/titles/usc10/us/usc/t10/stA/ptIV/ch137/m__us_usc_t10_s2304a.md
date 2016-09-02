@@ -15,11 +15,11 @@
 
 ## § 2304a. Task and delivery order contracts: general authority
 
-    (a) __Authority To Award.—__ 
+    (a)  __Authority To Award__  __.—__ 
 
     Subject to the requirements of this section, [section 2304c of this title][/us/usc/t10/s2304c], and other applicable law, the head of an agency may enter into a task or delivery order contract (as defined in [section 2304d of this title][/us/usc/t10/s2304d]) for procurement of services or property.
 
-    (b) __Solicitation.—__ 
+    (b)  __Solicitation__  __.—__ 
 
     The solicitation for a task or delivery order contract shall include the following:
 
@@ -29,11 +29,11 @@
 
         (3) A statement of work, specifications, or other description that reasonably describes the general scope, nature, complexity, and purposes of the services or property to be procured under the contract.
 
-    (c) __Applicability of Restriction on Use of Noncompetitive Procedures.—__ 
+    (c)  __Applicability of Restriction on Use of Noncompetitive Procedures__  __.—__ 
 
     The head of an agency may use procedures other than competitive procedures to enter into a task or delivery order contract under this section only if an exception in subsection (c) of [section 2304 of this title][/us/usc/t10/s2304] applies to the contract and the use of such procedures is approved in accordance with subsection (f) of such section.
 
-    (d) __Single and Multiple Contract Awards.—__ 
+    (d)  __Single and Multiple Contract Awards__  __.—__ 
 
         (1)
 
@@ -71,19 +71,19 @@
 
             (B) establish criteria for determining when award of multiple task or delivery order contracts would not be in the best interest of the Federal Government.
 
-    (e) __Contract Modifications.—__ 
+    (e)  __Contract Modifications__  __.—__ 
 
     A task or delivery order may not increase the scope, period, or maximum value of the task or delivery order contract under which the order is issued. The scope, period, or maximum value of the contract may be increased only by modification of the contract.
 
-    (f) __Contract Period.—__ 
+    (f)  __Contract Period__  __.—__ 
 
     The head of an agency entering into a task or delivery order contract under this section may provide for the contract to cover any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period.
 
-    (g) __Inapplicability to Contracts for Advisory and Assistance Services.—__ 
+    (g)  __Inapplicability to Contracts for Advisory and Assistance Services__  __.—__ 
 
     Except as otherwise specifically provided in [section 2304b of this title][/us/usc/t10/s2304b], this section does not apply to a task or delivery order contract for the procurement of advisory and assistance services (as defined in [section 1105(g) of title 31][/us/usc/t31/s1105/g]).
 
-    (h) __Relationship to Other Contracting Authority.—__ 
+    (h)  __Relationship to Other Contracting Authority__  __.—__ 
 
     Nothing in this section may be construed to limit or expand any authority of the head of an agency or the Administrator of General Services to enter into schedule, multiple award, or task or delivery order contracts under any other provision of law.
 

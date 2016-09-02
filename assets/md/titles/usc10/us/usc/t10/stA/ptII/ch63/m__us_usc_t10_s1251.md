@@ -15,11 +15,11 @@
 
 ## § 1251. Age 62: regular commissioned officers in grades below general and flag officer grades; exceptions
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps (other than an officer covered by [section 1252 of this title][/us/usc/t10/s1252] or a commissioned warrant officer) serving in a grade below brigadier general or rear admiral (lower half), in the case of an officer in the Navy, shall be retired on the first day of the month following the month in which the officer becomes 62 years of age.
 
-    (b) __Deferred Retirement of Health Professions Officers.—__ 
+    (b)  __Deferred Retirement of Health Professions Officers__  __.—__ 
 
         (1)
 
@@ -49,11 +49,11 @@
 
                 (iii) performing health care-related administrative duties.
 
-    (c) __Deferred Retirement of Chaplains.—__ 
+    (c)  __Deferred Retirement of Chaplains__  __.—__ 
 
     The Secretary of the military department concerned may, subject to subsection (d), defer the retirement under subsection (a) of an officer who is appointed or designated as a chaplain if the Secretary determines that such deferral is in the best interest of the military department concerned.
 
-    (d) __Limitation on Deferment of Retirements.—__ 
+    (d)  __Limitation on Deferment of Retirements__  __.—__ 
 
         (1) Except as provided in paragraph (2), a deferment under subsection (b) or (c) may not extend beyond the first day of the month following the month in which the officer becomes 68 years of age.
 

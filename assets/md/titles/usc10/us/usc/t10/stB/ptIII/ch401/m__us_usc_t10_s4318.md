@@ -15,11 +15,11 @@
 
 ## § 4318. Drill sergeant trainees: human relations training
 
-    (a) __Human Relations Training Required.—__ 
+    (a)  __Human Relations Training Required__  __.—__ 
 
     The Secretary of the Army shall include as part of the training program for drill sergeants a course in human relations. The course shall be a minimum of two days in duration.
 
-    (b) __Resources.—__ 
+    (b)  __Resources__  __.—__ 
 
     In developing a human relations course under this section, the Secretary shall use the capabilities and expertise of the Defense Equal Opportunity Management Institute (DEOMI).
 
@@ -35,11 +35,11 @@
 
 [Pub. L. 105–85, div. A, title V, § 556][/us/pl/105/85/s556], Nov. 18, 1997, [111 Stat. 1749][/us/stat/111/1749], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Army shall reform the process for selection and training of drill sergeants for the Army.
 
->     “(b) __Measures To Be Taken.—__ 
+>     “(b)  __Measures To Be Taken__  __.—__ 
 
 >     As part of such reform, the Secretary shall undertake the following measures (unless, in the case of any such measure, the Secretary determines that that measure would not result in improved effectiveness and efficiency in the drill sergeant selection and training process):
 
@@ -63,7 +63,7 @@
 
 >         “(7) Provide each drill sergeant in training with the opportunity, before or during that training, to work with new recruits in initial entry training and to be evaluated on that opportunity.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than March 31, 1998, the Secretary shall submit to the Committee on National Security of the House of Representatives and the Committee on Armed Services of the Senate a report of the reforms adopted pursuant to this section or, in the case of any measure specified in any of paragraphs (1) through (7) of subsection (b) that was not adopted, the rationale why that measure was not adopted.”
 

@@ -15,21 +15,21 @@
 
 ## § 2481. Defense commissary and exchange systems: existence and purpose
 
-    (a) __Separate Systems.—__ 
+    (a)  __Separate Systems__  __.—__ 
 
     The Secretary of Defense shall operate, in the manner provided by this chapter and other provisions of law, a world-wide system of commissary stores and a separate world-wide system of exchange stores. The stores of each system may sell, at reduced prices, food and other merchandise to members of the uniformed services on active duty, members of the uniformed services entitled to retired pay, dependents of such members, and persons authorized to use the system under chapter 54 of this title.
 
-    (b) __Purpose of Systems.—__ 
+    (b)  __Purpose of Systems__  __.—__ 
 
     The defense commissary system and the exchange system are intended to enhance the quality of life of members of the uniformed services, retired members, and dependents of such members, and to support military readiness, recruitment, and retention.
 
-    (c) __Oversight.—__ 
+    (c)  __Oversight__  __.—__ 
 
         (1) The Secretary of Defense shall designate a senior official of the Department of Defense to oversee the operation of both the defense commissary system and the exchange system.
 
         (2) The Secretary of Defense shall establish an executive governing body to provide advice to the senior official designated under paragraph (1) regarding the operation of the defense commissary and exchange systems and to ensure the complementary operation of the systems.
 
-    (d) __Reduced Prices Defined.—__ 
+    (d)  __Reduced Prices Defined__  __.—__ 
 
     In this section, the term “reduced prices” means prices for food and other merchandise determined using the price setting process specified in [section 2484 of this title][/us/usc/t10/s2484].
 

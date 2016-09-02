@@ -67,11 +67,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 112–81, div. B, title XXVIII, § 2828][/us/pl/112/81/s2828], Dec. 31, 2011, [125 Stat. 1694][/us/stat/125/1694], provided that:
 
->     “(a) __Metering Required.—__ 
+>     “(a)  __Metering Required__  __.—__ 
 
 >     The Secretary of the Navy shall meter Navy piers so that the energy consumption of naval vessels while in port can be accurately measured and captured and steps taken to improve the efficient use of energy by naval vessels while in port.
 
->     “(b) __Progress Reports.—__ 
+>     “(b)  __Progress Reports__  __.—__ 
 
 >     In each of the Department of Defense energy management reports submitted to Congress during fiscal years 2012 through 2017 under [section 2925(a) of title 10][/us/usc/t10/s2925/a], United States Code, the Secretary of the Navy shall include information on the progress being made to implement the metering of Navy piers, including information on any reductions in energy consumption achieved through the use of such metering.”
 
@@ -79,7 +79,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 111–84, div. A, title I, § 124(a)][/us/pl/111/84/s124/a], Oct. 28, 2009, [123 Stat. 2214][/us/stat/123/2214], provided that:
 
->     “(a) __Advance Procurement.—__ 
+>     “(a)  __Advance Procurement__  __.—__ 
 
 >     With respect to a naval vessel for which amounts are authorized to be appropriated or otherwise made available for fiscal year 2010 or any fiscal year thereafter for advance procurement in shipbuilding and conversion, Navy, the Secretary of the Navy may enter into a contract, in advance of a contract for construction of any vessel, for any of the following:
 
@@ -91,7 +91,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 111–84, div. A, title I, § 125][/us/pl/111/84/s125], Oct. 28, 2009, [123 Stat. 2214][/us/stat/123/2214], provided that:
 
->     “(a) __Limitation on Availability of Funds Pending Reports About Surface Combatant Shipbuilding Programs.—__ 
+>     “(a)  __Limitation on Availability of Funds Pending Reports About Surface Combatant Shipbuilding Programs__  __.—__ 
 
 >     The Secretary of the Navy may not obligate or expend funds for the construction of, or advanced procurement of materials for, a surface combatant to be constructed after fiscal year 2011 until the Secretary has submitted to Congress each of the following:
 
@@ -119,21 +119,21 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(4) The conclusions of a joint review by the Secretary of the Navy and the Director of the Missile Defense Agency setting forth additional requirements for investment in Aegis ballistic missile defense beyond the number of DDG–51 and CG–47 vessels planned to be equipped for this mission area in the budget of the President for fiscal year 2010 (as submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code).
 
->     “(b) __Future Surface Combatant Acquisition Strategy.—__ 
+>     “(b)  __Future Surface Combatant Acquisition Strategy__  __.—__ 
 
 >     Not later than the date upon which the President submits to Congress the budget for fiscal year 2012 (as so submitted), the Secretary of the Navy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an update to the open architecture report to Congress that reflects the Navy’s combat systems acquisition plans for the surface combatants to be procured in fiscal year 2012 and fiscal years thereafter.
 
->     “(c) __Naval Surface Fire Support.—__ 
+>     “(c)  __Naval Surface Fire Support__  __.—__ 
 
 >     Not later than 120 days after the enactment of this Act \[Oct. 28, 2009\], the Secretary of the Navy shall submit to the congressional defense committees an update to the March 2006 Report to Congress on Naval Surface Fire Support. The update shall identify how the Department of Defense intends to address any shortfalls between required naval surface fire support capability and the plan of the Navy to provide that capability. The update shall include addenda by the Chief of Naval Operations and Commandant of the Marine Corps, as was the case in the 2006 report.
 
 >     “(d) __Technology Roadmap for Future Surface Combatants and Fleet Modernization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act, the Secretary of the Navy shall develop a plan to incorporate into surface combatants constructed after 2011, and into fleet modernization programs, the technologies developed for the DDG–1000 destroyer and the DDG–51 and CG–47 Aegis ships, including technologies and systems designed to achieve significant manpower savings.
 
->         “(2) __Scope of plan.—__ 
+>         “(2)  __Scope of plan__  __.—__ 
 
 >         The plan required by paragraph (1) shall include sufficient detail for systems and subsystems to ensure that the plan—
 
@@ -143,7 +143,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >             “(C) fosters competition.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -155,7 +155,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 110–181, div. A, title I, § 124][/us/pl/110/181/s124], Jan. 28, 2008, [122 Stat. 28][/us/stat/122/28], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Concurrent with approving the start of construction of the first ship for any major shipbuilding program, the Secretary of the Navy shall—
 
@@ -163,7 +163,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(2) certify to the congressional defense committees that the findings of any such review support commencement of construction.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The report required by subsection (a)(1) shall include, at a minimum, an assessment of each of the following:
 
@@ -179,19 +179,19 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(6) The extent to which adequate processes and metrics are in place to measure and manage program risks.
 
->     “(c) __Applicability.—__ 
+>     “(c)  __Applicability__  __.—__ 
 
 >     This section applies to each major shipbuilding program beginning after the date of the enactment of this Act \[Jan. 28, 2008\].
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For the purposes of subsection (a):
 
->         “(1) __Start of construction.—__ 
+>         “(1)  __Start of construction__  __.—__ 
 
 >         The term ‘start of construction’ means the beginning of fabrication of the hull and superstructure of the ship.
 
->         “(2) __First ship.—__ 
+>         “(2)  __First ship__  __.—__ 
 
 >         The term ‘first ship’ applies to a ship if—
 
@@ -199,11 +199,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >             “(B) the shipyard at which the ship is to be constructed has not previously started construction on a ship under that shipbuilding program.
 
->         “(3) __Major shipbuilding program.—__ 
+>         “(3)  __Major shipbuilding program__  __.—__ 
 
 >         The term ‘major shipbuilding program’ means a program for the construction of combatant and support vessels required for the naval vessel force, as reported within the annual naval vessel construction plan required by [section 231 of title 10][/us/usc/t10/s231], United States Code.
 
->         “(4) __Production readiness review.—__ 
+>         “(4)  __Production readiness review__  __.—__ 
 
 >         The term ‘production readiness review’ means a formal examination of a program prior to the start of construction to determine if the design is ready for production, production engineering problems have been resolved, and the producer has accomplished adequate planning for the production phase.”
 
@@ -211,19 +211,19 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 110–181, div. A, title X, § 1012][/us/pl/110/181/s1012], Jan. 28, 2008, [122 Stat. 303][/us/stat/122/303], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1015, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 112–239, div. A, title X, § 1013][/us/pl/112/239/s1013], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908], provided that:
 
->     “(a) __Integrated Nuclear Power Systems.—__ 
+>     “(a)  __Integrated Nuclear Power Systems__  __.—__ 
 
 >     It is the policy of the United States to construct the major combatant vessels of the strike forces of the United States Navy, including all new classes of such vessels, with integrated nuclear power systems.
 
->     “(b) __Requirement To Request Nuclear Vessels.—__ 
+>     “(b)  __Requirement To Request Nuclear Vessels__  __.—__ 
 
 >     If a request is submitted to Congress in the budget for a fiscal year for construction of a new class of major combatant vessel for the strike forces of the United States, the request shall be for such a vessel with an integrated nuclear power system, unless the Secretary of the Navy notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that, as a result of a cost-benefit analysis, it would not be practical for the Navy to design the class of ships with an integrated nuclear power system.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Major combatant vessels of the strike forces of the united states navy.—__ 
+>         “(1)  __Major combatant vessels of the strike forces of the united states navy__  __.—__ 
 
 >         The term ‘major combatant vessels of the strike forces of the United States Navy’ means the following:
 
@@ -235,11 +235,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >             “(D) Amphibious assault ships, including dock landing ships (LSD), amphibious transport–dock ships (LPD), helicopter assault ships (LHA/LHD), and amphibious command ships (LCC), if such vessels exceed 15,000 dead weight ton light ship displacement.
 
->         “(2) __Integrated nuclear power system.—__ 
+>         “(2)  __Integrated nuclear power system__  __.—__ 
 
 >         The term ‘integrated nuclear power system’ means a ship engineering system that uses a naval nuclear reactor as its energy source and generates sufficient electric energy to provide power to the ship’s electrical loads, including its combat systems and propulsion motors.
 
->         “(3) __Budget.—__ 
+>         “(3)  __Budget__  __.—__ 
 
 >         The term ‘budget’ means the budget that is submitted to Congress by the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code.”
 
@@ -247,7 +247,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 109–364, div. A, title I, § 128][/us/pl/109/364/s128], Oct. 17, 2006, [120 Stat. 2109][/us/stat/120/2109], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -267,11 +267,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >             “(C) reduction in the requirement for replenishment vessels and the need to protect those vessels.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     In light of the findings in subsection (a), it is the sense of Congress that the Navy should make greater use of alternative technologies, including expanded application of integrated power systems, fuel cells, and nuclear power, for propulsion of future major surface combatant ships.
 
->     “(c) __Requirement.—__ 
+>     “(c)  __Requirement__  __.—__ 
 
 >     The Secretary of the Navy shall include integrated power systems, fuel cells, and nuclear power as propulsion alternatives to be evaluated within the analysis of alternatives for future major surface combatant ships.”
 
@@ -287,7 +287,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 102–484, div. A, title III, § 375][/us/pl/102/484/s375], Oct. 23, 1992, [106 Stat. 2385][/us/stat/106/2385], provided that:
 
->     “(a) __Consideration of Vessel Location in the Award of Layberth Contracts.—__ 
+>     “(a)  __Consideration of Vessel Location in the Award of Layberth Contracts__  __.—__ 
 
 >     As a factor in the evaluation of bids and proposals for the award of contracts to layberth sealift vessels of the Department of the Navy, the Secretary of the Navy shall include the location of the vessels, including whether the vessels should be layberthed at locations where—
 
@@ -295,11 +295,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(2) layberthing the vessels maximizes the ability of the vessels to meet mobility and training needs of the Department of Defense.
 
->     “(b) __Establishment of Location as a Major Criterion.—__ 
+>     “(b)  __Establishment of Location as a Major Criterion__  __.—__ 
 
 >     In the evaluation of bids and proposals referred to in subsection (a), the Secretary of the Navy shall give the same level of consideration to the location of the vessels as the Secretary gives to other major factors established by the Secretary.
 
->     “(c) __Applicability.—__ 
+>     “(c)  __Applicability__  __.—__ 
 
 >     Subsection (a) shall apply to any solicitation for bids or proposals issued after the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 23, 1992\].”
 
@@ -307,11 +307,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 102–484, div. A, title X, § 1031][/us/pl/102/484/s1031], Oct. 23, 1992, [106 Stat. 2489][/us/stat/106/2489], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall require that all sealift ships built under the fast sealift program established in section 1424 of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510]; [104 Stat. 1683][/us/stat/104/1683]) \[set out below\] shall be constructed and designed to commercial specifications.
 
->     “(b) __Interagency Working Group To Formulate a Program To Preserve Shipyard Industrial Base.—__ 
+>     “(b)  __Interagency Working Group To Formulate a Program To Preserve Shipyard Industrial Base__  __.—__ 
 
 >         (1) Not later than March 1, 1993, the President shall establish an interagency working group for the sole purpose of developing and implementing a comprehensive plan to enable and ensure that domestic shipyards can compete effectively in the international shipbuilding market.
 
@@ -319,11 +319,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(3) The President shall submit to Congress the comprehensive plan developed by the working group not later than October 1, 1993.
 
->     “(c) __Report on Ship Dumping Practices.—__ 
+>     “(c)  __Report on Ship Dumping Practices__  __.—__ 
 
 >     The Secretary of Transportation shall prepare a report on the countries that provide subsidies for the construction or repair of vessels in foreign shipyards or that engage in ship dumping practices.
 
->     “(d) __Report on Defense Contracts.—__ 
+>     “(d)  __Report on Defense Contracts__  __.—__ 
 
 >     The Secretary of Defense shall prepare a report on—
 
@@ -331,7 +331,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(2) the effect on defense programs of a prohibition of awarding contracts to companies physically located or headquartered in the countries identified in the Secretary of Transportation’s report under subsection (d).
 
->     “(e) __Report on Adequacy of United States Shipbuilding Industry.—__ 
+>     “(e)  __Report on Adequacy of United States Shipbuilding Industry__  __.—__ 
 
 >     The Secretary of Defense shall prepare a report on—
 
@@ -339,11 +339,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(2) the causes of any inadequacy identified and actions that could be taken to correct such inadequacies.
 
->     “(f) __Submission of Reports.—__ 
+>     “(f)  __Submission of Reports__  __.—__ 
 
 >     The reports under subsections (c), (d), and (e) shall be submitted to Congress with the President’s budget for fiscal year 1994.
 
->     “(g) __Penalty for Failure to Comply.—__ 
+>     “(g)  __Penalty for Failure to Comply__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), if the President fails to submit to Congress a comprehensive plan as required by subsection (b) by October 1, 1993, no funds appropriated to the Department of Defense for fiscal year 1994 may be used to enter into a contract for the construction, repair, or purchase of any product or service with any company that has headquarters in any country that continues to provide a subsidy to a foreign shipyard for the construction or repair of vessels or that engages in ship dumping practices.
 
@@ -355,7 +355,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >             “(B) includes with the notice a brief explanation of the reasons for the delay and a statement that the plan will be submitted by April 15, 1994.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     For purposes of subsection (c):
 
@@ -407,25 +407,25 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 102–484, div. A, title X, § 1021][/us/pl/102/484/s1021], Oct. 23, 1992, [106 Stat. 2485][/us/stat/106/2485], provided that:
 
->     “(a) __Acquisition and Conversion of U.__ 
+>     “(a)  __Acquisition and Conversion of U.S. Built Vessels__  __.—__ 
 
->     S. Built Vessels.—Notwithstanding any other provision of law, the Secretary of the Navy may use funds available for the Fast Sealift Program—
+>     Notwithstanding any other provision of law, the Secretary of the Navy may use funds available for the Fast Sealift Program—
 
 >         “(1) to acquire vessels for the program from among available vessels built in United States shipyards; and
 
 >         “(2) to convert in United States shipyards vessels built in United States shipyards.
 
->     “(b) __Acquisition of Five Foreign-Built Vessels.—__ 
+>     “(b)  __Acquisition of Five Foreign-Built Vessels__  __.—__ 
 
 >     Notwithstanding any other provision of law, funds available for the Fast Sealift Program may be used for the acquisition of five vessels built in foreign shipyards and for conversion of those vessels in United States shipyards if the Secretary of the Navy determines that acquisition of those vessels is necessary to expedite the availability of vessels for sealift.”
 
 [Pub. L. 101–510, div. A, title XIV, § 1424][/us/pl/101/510/s1424], Nov. 5, 1990, [104 Stat. 1683][/us/stat/104/1683], as amended by [Pub. L. 102–190, div. A, title X, § 1015][/us/pl/102/190/s1015], Dec. 5, 1991, [105 Stat. 1458][/us/stat/105/1458]; [Pub. L. 102–484, div. A, title X, § 1022][/us/pl/102/484/s1022], Oct. 23, 1992, [106 Stat. 2485][/us/stat/106/2485]; [Pub. L. 103–337, div. A, title I, § 125][/us/pl/103/337/s125], Oct. 5, 1994, [108 Stat. 2683][/us/stat/108/2683], provided that:
 
->     “(a) __Establishment of Program.—__ 
+>     “(a)  __Establishment of Program__  __.—__ 
 
 >     The Secretary of the Navy shall establish a program for the construction and operation, or conversion and operation, of cargo vessels that incorporate features essential for military use of the vessels.
 
->     “(b) __Program Requirements.—__ 
+>     “(b)  __Program Requirements__  __.—__ 
 
 >     The program under this section shall be carried out as follows:
 
@@ -453,7 +453,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >             “(B) the costs of compliance would be unreasonable compared to the costs of purchase from a foreign manufacturer.
 
->     “(c) __Charter of Vessels Constructed.—__ 
+>     “(c)  __Charter of Vessels Constructed__  __.—__ 
 
 >         (1)
 
@@ -471,7 +471,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(4) A contract for the charter of a vessel under paragraph (1) shall include a provision that the charter may be terminated for national security reasons without cost to the United States.
 
->     “(d) __Reports To Congress.—__ 
+>     “(d)  __Reports To Congress__  __.—__ 
 
 >         (1) Not later than six months after the date of the enactment of this Act \[Nov. 5, 1990\], the Secretary of the Navy shall submit to Congress a report describing the Secretary’s plan for implementing the fast sealift program authorized by this section.
 
@@ -479,7 +479,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >         “(3) The reports under paragraphs (1) and (2) shall be prepared in consultation with the Administrator of the Maritime Administration.
 
->     “(e) __Availability of Funds.—__ 
+>     “(e)  __Availability of Funds__  __.—__ 
 
 >     Amounts appropriated to the Department of Defense for any fiscal year for acquisition of fast sealift vessels may be used for the program under this section.”
 
@@ -487,11 +487,11 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 101–189, div. A, title XVI, § 1613][/us/pl/101/189/s1613], Nov. 29, 1989, [103 Stat. 1601][/us/stat/103/1601], provided that:
 
->     “(a) __Category for Funding.—__ 
+>     “(a)  __Category for Funding__  __.—__ 
 
 >     Any request submitted to Congress for appropriations for ship production engineering necessary to support the procurement of any ship included (at the time the request is submitted) in the five-year shipbuilding and conversion plan of the Navy shall be set forth in the Shipbuilding and Conversion account of the Navy (rather than in research and development accounts).
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     Subsection (a) shall apply only with respect to appropriations for a fiscal year after fiscal year 1990.”
 
@@ -513,7 +513,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 [Pub. L. 99–145, title XIV, § 1455][/us/pl/99/145/s1455], Nov. 8, 1985, [99 Stat. 761][/us/stat/99/761], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Navy shall take such steps as necessary—
 
@@ -529,7 +529,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
 >             “(B) to ensure, whenever practicable, that at least 51 percent of the dollar value of such construction is provided by United States firms.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For the purposes of this section, the term ‘sensitive warship technology’ means technology relating to the design or construction of a combatant naval vessel that is determined by the Secretary of Defense to be vital to United States security.”
 

@@ -15,11 +15,11 @@
 
 ## § 1510. Applicability to Coast Guard
 
-    (a) __Designated Officer To Have Responsibility.—__ 
+    (a)  __Designated Officer To Have Responsibility__  __.—__ 
 
     The Secretary of Homeland Security shall designate an officer of the Department of Homeland Security to have responsibility within the Department of Homeland Security for matters relating to missing persons who are members of the Coast Guard.
 
-    (b) __Procedures.—__ 
+    (b)  __Procedures__  __.—__ 
 
     The Secretary of Homeland Security shall prescribe procedures for the determination of the status of persons described in [section 1501(c) of this title][/us/usc/t10/s1501/c] who are members of the Coast Guard and for the collection, analysis, review, and update of information on such persons. To the maximum extent practicable, the procedures prescribed under this section shall be similar to the procedures prescribed by the Secretary of Defense under [section 1501(b) of this title][/us/usc/t10/s1501/b].
 

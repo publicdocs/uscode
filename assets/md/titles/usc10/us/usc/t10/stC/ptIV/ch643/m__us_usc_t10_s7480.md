@@ -15,15 +15,15 @@
 
 ## § 7480. Special agents of the Naval Criminal Investigative Service: authority to execute warrants and make arrests
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of the Navy may authorize any Department of the Navy civilian employee described in subsection (b) to have the same authority to execute and serve warrants and other processes issued under the authority of the United States and to make arrests without a warrant as may be authorized under [section 1585a of this title][/us/usc/t10/s1585a] for special agents of the Defense Criminal Investigative Service.
 
-    (b) __Agents To Have Authority.—__ 
+    (b)  __Agents To Have Authority__  __.—__ 
 
     Subsection (a) applies to any employee of the Department of the Navy who is a special agent of the Naval Criminal Investigative Service (or any successor to that service) whose duties include conducting, supervising, or coordinating investigations of criminal activity in programs and operations of the Department of the Navy.
 
-    (c) __Guidelines for Exercise of Authority.—__ 
+    (c)  __Guidelines for Exercise of Authority__  __.—__ 
 
     The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Secretary of the Navy and approved by the Secretary of Defense and the Attorney General and any other applicable guidelines prescribed by the Secretary of the Navy, the Secretary of Defense, or the Attorney General.
 

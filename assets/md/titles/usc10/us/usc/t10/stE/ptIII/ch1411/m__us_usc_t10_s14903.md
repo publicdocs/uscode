@@ -15,19 +15,19 @@
 
 ## § 14903. Boards of inquiry
 
-    (a) __Convening of Boards.—__ 
+    (a)  __Convening of Boards__  __.—__ 
 
     The Secretary of the military department concerned shall convene a board of inquiry at such time and place as the Secretary may prescribe to receive evidence and review the case of any officer who has been required to show cause for retention in an active status under [section 14902 of this title][/us/usc/t10/s14902]. Each board of inquiry shall be composed of not less than three officers who have the qualifications prescribed in [section 14906 of this title][/us/usc/t10/s14906].
 
-    (b) __Right to Fair Hearing.—__ 
+    (b)  __Right to Fair Hearing__  __.—__ 
 
     A board of inquiry shall give a fair and impartial hearing to each officer required under [section 14902 of this title][/us/usc/t10/s14902] to show cause for retention in an active status.
 
-    (c) __Recommendations to Secretary.—__ 
+    (c)  __Recommendations to Secretary__  __.—__ 
 
     If a board of inquiry determines that the officer has failed to establish that the officer should be retained in an active status, the board shall recommend to the Secretary concerned that the officer not be retained in an active status.
 
-    (d) __Action by Secretary.—__ 
+    (d)  __Action by Secretary__  __.—__ 
 
     After review of the recommendation of the board of inquiry, the Secretary may—
 
@@ -35,7 +35,7 @@
 
         (2) determine that the case be closed.
 
-    (e) __Action in Cases Where Cause for Retention Is Established.—__ 
+    (e)  __Action in Cases Where Cause for Retention Is Established__  __.—__ 
 
         (1) If a board of inquiry determines that an officer has established that the officer should be retained in an active status or if the Secretary determines that the case be closed, the officer’s case is closed.
 

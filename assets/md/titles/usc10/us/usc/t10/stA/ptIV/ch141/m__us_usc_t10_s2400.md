@@ -15,7 +15,7 @@
 
 ## § 2400. Low-rate initial production of new systems
 
-    (a) __Determination of Quantities To Be Procured for Low-Rate Initial Production.—__ 
+    (a)  __Determination of Quantities To Be Procured for Low-Rate Initial Production__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
         (5) The Secretary of Defense shall include a statement of the quantity determined under paragraph (1) in the first SAR submitted with respect to the program concerned after that quantity is determined. If the quantity exceeds 10 percent of the total number of articles to be produced, as determined at the milestone B decision with respect to that system, the Secretary shall include in the statement the reasons for such quantity. For purposes of this paragraph, the term “SAR” means a Selected Acquisition Report submitted under [section 2432 of this title][/us/usc/t10/s2432].
 
-    (b) __Low-Rate Initial Production of Weapon Systems.—__ 
+    (b)  __Low-Rate Initial Production of Weapon Systems__  __.—__ 
 
     Except as provided in subsection (c), low-rate initial production with respect to a new system is production of the system in the minimum quantity necessary—
 
@@ -43,7 +43,7 @@
 
         (3) to permit an orderly increase in the production rate for the system sufficient to lead to full-rate production upon the successful completion of operational testing.
 
-    (c) __Low-Rate Initial Production of Naval Vessel and Satellite Programs.—__ 
+    (c)  __Low-Rate Initial Production of Naval Vessel and Satellite Programs__  __.—__ 
 
     With respect to naval vessel programs and military satellite programs, low-rate initial production is production of items at the minimum quantity and rate that (1) preserves the mobilization production base for that system, and (2) is feasible, as determined pursuant to regulations prescribed by the Secretary of Defense.
 

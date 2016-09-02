@@ -15,11 +15,11 @@
 
 ## § 7310. Overhaul, repair, etc. of vessels in foreign shipyards: restrictions
 
-    (a) __Vessels With Homeport in United States or Guam.—__ 
+    (a)  __Vessels With Homeport in United States or Guam__  __.—__ 
 
     A naval vessel (or any other vessel under the jurisdiction of the Secretary of the Navy) the homeport of which is in the United States or Guam may not be overhauled, repaired, or maintained in a shipyard outside the United States or Guam, other than in the case of voyage repairs.
 
-    (b) __Vessel Changing Homeports.—__ 
+    (b)  __Vessel Changing Homeports__  __.—__ 
 
         (1) In the case of a naval vessel the homeport of which is not in the United States (or a territory of the United States), the Secretary of the Navy may not during the 15-month period preceding the planned reassignment of the vessel to a homeport in the United States (or a territory of the United States) begin any work for the overhaul, repair, or maintenance of the vessel that is scheduled to be for a period of more than six months.
 
@@ -31,7 +31,7 @@
 
             (B) to be for a period of more than six months.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
         (1) The Secretary of the Navy shall submit to Congress each year, at the time that the President’s budget is submitted to Congress that year under [section 1105(a) of title 31][/us/usc/t31/s1105/a], a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
 

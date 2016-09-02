@@ -15,11 +15,11 @@
 
 ## § 949m. Number of votes required
 
-    (a) __Conviction.—__ 
+    (a)  __Conviction__  __.—__ 
 
     No person may be convicted by a military commission under this chapter of any offense, except as provided in [section 949i(b) of this title][/us/usc/t10/s949i/b] or by concurrence of two-thirds of the members present at the time the vote is taken.
 
-    (b) __Sentences.—__ 
+    (b)  __Sentences__  __.—__ 
 
         (1) Except as provided in paragraphs (2) and (3), sentences shall be determined by a military commission by the concurrence of two-thirds of the members present at the time the vote is taken.
 
@@ -37,7 +37,7 @@
 
         (3) No person may be sentenced to life imprisonment, or to confinement for more than 10 years, by a military commission under this chapter except by the concurrence of three-fourths of the members present at the time the vote is taken.
 
-    (c) __Number of Members Required for Penalty of Death.—__ 
+    (c)  __Number of Members Required for Penalty of Death__  __.—__ 
 
         (1) Except as provided in paragraph (2), in a case in which the penalty of death is sought, the number of members of the military commission under this chapter shall be not less than 12 members.
 

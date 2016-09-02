@@ -15,7 +15,7 @@
 
 ## § 948k. Detail of trial counsel and defense counsel
 
-    (a) __Detail of Counsel Generally.—__ 
+    (a)  __Detail of Counsel Generally__  __.—__ 
 
         (1) Trial counsel and military defense counsel shall be detailed for each military commission under this chapter.
 
@@ -25,7 +25,7 @@
 
         (4) The Secretary of Defense shall prescribe regulations providing for the manner in which trial counsel and military defense counsel are detailed for military commissions under this chapter and for the persons who are authorized to detail such counsel for such military commissions.
 
-    (b) __Trial Counsel.—__ 
+    (b)  __Trial Counsel__  __.—__ 
 
     Subject to subsection (e), a trial counsel detailed for a military commission under this chapter shall be—
 
@@ -45,7 +45,7 @@
 
             (B) otherwise qualified to practice before the military commission pursuant to regulations prescribed by the Secretary of Defense.
 
-    (c) __Defense Counsel.—__ 
+    (c)  __Defense Counsel__  __.—__ 
 
         (1)
 
@@ -57,13 +57,13 @@
 
         (2) The Secretary of Defense shall prescribe regulations for the appointment and performance of defense counsel in capital cases under this chapter.
 
-    (d) __Chief Prosecutor; Chief Defense Counsel.—__ 
+    (d)  __Chief Prosecutor; Chief Defense Counsel__  __.—__ 
 
         (1) The Chief Prosecutor in a military commission under this chapter shall meet the requirements set forth in subsection (b)(1).
 
         (2) The Chief Defense Counsel in a military commission under this chapter shall meet the requirements set forth in subsection (c)(1).
 
-    (e) __Ineligibility of Certain Individuals.—__ 
+    (e)  __Ineligibility of Certain Individuals__  __.—__ 
 
     No person who has acted as an investigator, military judge, or member of a military commission under this chapter in any case may act later as trial counsel or military defense counsel in the same case. No person who has acted for the prosecution before a military commission under this chapter may act later in the same case for the defense, nor may any person who has acted for the defense before a military commission under this chapter act later in the same case for the prosecution.
 

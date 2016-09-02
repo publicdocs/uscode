@@ -15,11 +15,11 @@
 
 ## § 2410p. Contracts: limitations on lead system integrators
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), no entity performing lead system integrator functions in the acquisition of a major system by the Department of Defense may have any direct financial interest in the development or construction of any individual system or element of any system of systems.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     An entity described in subsection (a) may have a direct financial interest in the development or construction of an individual system or element of a system of systems if—
 
@@ -33,7 +33,7 @@
 
         (2) the entity was selected by a subcontractor to serve as a lower-tier subcontractor, through a process over which the entity exercised no control.
 
-    (c) __Construction.—__ 
+    (c)  __Construction__  __.—__ 
 
     Nothing in this section shall be construed to preclude an entity described in subsection (a) from performing work necessary to integrate two or more individual systems or elements of a system of systems with each other.
 
@@ -57,11 +57,11 @@
 
 >     “(a) __Prohibitions on the Use of Lead Systems Integrators.—__ 
 
->         “(1) __Prohibition on new lead systems integrators.—__ 
+>         “(1)  __Prohibition on new lead systems integrators__  __.—__ 
 
 >         Effective October 1, 2010, the Department of Defense may not award a new contract for lead systems integrator functions in the acquisition of a major system to any entity that was not performing lead systems integrator functions in the acquisition of the major system prior to the date of the enactment of this Act \[Jan. 28, 2008\].
 
->         “(2) __Prohibition on lead systems integrators beyond low-rate initial production.—__ 
+>         “(2)  __Prohibition on lead systems integrators beyond low-rate initial production__  __.—__ 
 
 >         Effective on the date of the enactment of this Act, the Department of Defense may award a new contract for lead systems integrator functions in the acquisition of a major system only if—
 
@@ -69,7 +69,7 @@
 
 >             “(B) the Secretary of Defense determines in writing that it would not be practicable to carry out the acquisition without continuing to use a contractor to perform lead systems integrator functions and that doing so is in the best interest of the Department.
 
->         “(3) __Requirements relating to determinations.—__ 
+>         “(3)  __Requirements relating to determinations__  __.—__ 
 
 >         A determination under paragraph (2)(B)—
 
@@ -83,7 +83,7 @@
 
 >     “(b) __Acquisition Workforce.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The Secretary of Defense shall ensure that the acquisition workforce is of the appropriate size and skill level necessary—
 
@@ -91,11 +91,11 @@
 
 >             “(B) to effectuate the purpose of subsection (a) to minimize and eventually eliminate the use of contractors to perform lead systems integrator functions.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         The Secretary shall include an update on the progress made in complying with paragraph (1) in the annual report required by section 820 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]; [120 Stat. 2330][/us/stat/120/2330]) \[[10 U.S.C. 1701][/us/usc/t10/s1701] note\].
 
->     “(c) __Exception for Contracts for Other Management Services.—__ 
+>     “(c)  __Exception for Contracts for Other Management Services__  __.—__ 
 
 >     The Department of Defense may continue to award contracts for the procurement of services the primary purpose of which is to perform acquisition support functions with respect to the development or production of a major system, if the following conditions are met with respect to each such contract:
 
@@ -111,11 +111,11 @@
 
 >         “(3) The contract requires that the prime contractor for the contract may not advise or recommend the award of a contract or subcontract for the development or production of the major system to an entity owned in whole or in part by the prime contractor.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Lead systems integrator.—__ 
+>         “(1)  __Lead systems integrator__  __.—__ 
 
 >         The term ‘lead systems integrator’ means—
 
@@ -123,21 +123,21 @@
 
 >             “(B) a prime contractor under a contract for the procurement of services the primary purpose of which is to perform acquisition functions closely associated with inherently governmental functions with respect to the development or production of a major system.
 
->         “(2) __Major system.—__ 
+>         “(2)  __Major system__  __.—__ 
 
 >         The term ‘major system’ has the meaning given such term in [section 2302d of title 10][/us/usc/t10/s2302d], United States Code.
 
->         “(3) __Low-rate initial production.—__ 
+>         “(3)  __Low-rate initial production__  __.—__ 
 
 >         The term ‘low-rate initial production’ has the meaning given such term in [section 2400 of title 10][/us/usc/t10/s2400], United States Code.
 
 >     “(e) __Status of Future Combat Systems Program Lead System Integrator.—__ 
 
->         “(1) __Lead systems integrator.—__ 
+>         “(1)  __Lead systems integrator__  __.—__ 
 
 >         In the case of the Future Combat Systems program, the prime contractor of the program shall be considered to be a lead systems integrator until 45 days after the Secretary of the Army certifies in writing to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that such contractor is no longer serving as the lead systems integrator.
 
->         “(2) __New contracts.—__ 
+>         “(2)  __New contracts__  __.—__ 
 
 >         In applying subsection (a)(1) or (a)(2), any modification to the existing contract for the Future Combat Systems program, for the purpose of entering into full-rate production of major systems or subsystems, shall be considered a new contract.”
 

@@ -15,21 +15,21 @@
 
 ## § 4541. Army arsenals: treatment of unutilized or underutilized plant-capacity costs
 
-    (a) __Estimate of Costs.—__ 
+    (a)  __Estimate of Costs__  __.—__ 
 
     The Secretary of the Army shall include in the budget justification documents submitted to Congress in support of the President’s budget for a fiscal year submitted under [section 1105 of title 31][/us/usc/t31/s1105] an estimate of the funds to be required in that fiscal year to cover unutilized and underutilized plant-capacity costs at Army arsenals.
 
-    (b) __Use of Funds.—__ 
+    (b)  __Use of Funds__  __.—__ 
 
     Funds appropriated to the Secretary of the Army for a fiscal year to cover unutilized and underutilized plant-capacity costs at Army arsenals shall be used in such fiscal year only for such costs.
 
-    (c) __Treatment of Costs.—__ 
+    (c)  __Treatment of Costs__  __.—__ 
 
         (1) The Secretary of the Army shall not include unutilized and underutilized plant-capacity costs when evaluating the bid of an Army arsenal for purposes of the arsenal’s contracting to provide a good or service to a Government agency.
 
         (2) When an Army arsenal is serving as a subcontractor to a private-sector entity with respect to a good or service to be provided to a Government agency, the cost charged by the arsenal shall not include unutilized and underutilized plant-capacity costs that are funded by a direct appropriation.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 

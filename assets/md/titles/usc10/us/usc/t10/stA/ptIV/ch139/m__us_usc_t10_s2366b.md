@@ -15,7 +15,7 @@
 
 ## § 2366b. Major defense acquisition programs: certification required before Milestone B approval
 
-    (a) __Certification.—__ 
+    (a)  __Certification__  __.—__ 
 
     A major defense acquisition program may not receive Milestone B approval until the milestone decision authority—
 
@@ -51,7 +51,7 @@
 
             (G) the program complies with all relevant policies, regulations, and directives of the Department of Defense.
 
-    (b) __Changes to Certification.—__ 
+    (b)  __Changes to Certification__  __.—__ 
 
         (1)
 
@@ -63,13 +63,13 @@
 
         (2) Upon receipt of information under paragraph (1), the milestone decision authority may withdraw the certification concerned or rescind Milestone B approval if the milestone decision authority determines that such certification or approval is no longer valid.
 
-    (c) __Submission to Congress.—__ 
+    (c)  __Submission to Congress__  __.—__ 
 
         (1) The certification required under subsection (a) with respect to a major defense acquisition program shall be submitted to the congressional defense committees with the first Selected Acquisition Report submitted under [section 2432 of this title][/us/usc/t10/s2432] after completion of the certification.
 
         (2) A summary of any information provided to the milestone decision authority pursuant to subsection (b) and a description of the actions taken as a result of such information shall be submitted with the first Selected Acquisition Report submitted under [section 2432 of this title][/us/usc/t10/s2432] after receipt of such information by the milestone decision authority.
 
-    (d) __Waiver for National Security.—__ 
+    (d)  __Waiver for National Security__  __.—__ 
 
         (1) The milestone decision authority may, at the time of Milestone B approval or at the time that such milestone decision authority withdraws a certification or rescinds Milestone B approval pursuant to subsection (b)(2), waive the applicability to a major defense acquisition program of one or more components (as specified in paragraph (1), (2), or (3) of subsection (a)) of the certification requirement if the milestone decision authority determines that, but for such a waiver, the Department would be unable to meet critical national security objectives.
 
@@ -95,15 +95,15 @@
 
             (B) submits the written determination, and an explanation of the basis for the determination, to the congressional defense committees.
 
-    (e) __Designation of Certification Status in Budget Documentation.—__ 
+    (e)  __Designation of Certification Status in Budget Documentation__  __.—__ 
 
     Any budget request, budget justification material, budget display, reprogramming request, Selected Acquisition Report, or other budget documentation or performance report submitted by the Secretary of Defense to the President regarding a major defense acquisition program receiving a waiver pursuant to subsection (d) shall prominently and clearly indicate that such program has not fully satisfied the certification requirements of this section until such time as the milestone decision authority makes the determination that such program has satisfied all such certification components.
 
-    (f) __Nondelegation.—__ 
+    (f)  __Nondelegation__  __.—__ 
 
     The milestone decision authority may not delegate the certification requirement under subsection (a) or the authority to waive any component of such requirement under subsection (d).
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -223,7 +223,7 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1047(d), Oct. 14, 2008, [122 Stat. 4603][/us/stat/122/4603], as amended by [Pub. L. 111–84, div. A, title X, § 1033][/us/pl/111/84/s1033], Oct. 28, 2009, [123 Stat. 2449][/us/stat/123/2449], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The Secretary of Defense and the Director of National Intelligence shall, as part of the Milestone B or Key Decision Point B approval process for any major defense acquisition program or major system acquisition program, establish a formal review process to ensure that—
 
@@ -231,7 +231,7 @@
 
 >         “(B) a determination will be made with respect to how to meet the bandwidth requirements for such program.
 
->     “(2) __Reports.—__ 
+>     “(2)  __Reports__  __.—__ 
 
 >     Not later than January 1 of each year, the Secretary of Defense and the Director of National Intelligence shall each submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on any determinations made under paragraph (1) with respect to meeting the bandwidth requirements for major defense acquisition programs and major system acquisition programs during the preceding fiscal year.”
 

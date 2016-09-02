@@ -37,15 +37,15 @@
 
 [Pub. L. 108–136, div. A, title X, § 1022][/us/pl/108/136/s1022], Nov. 24, 2003, [117 Stat. 1594][/us/stat/117/1594], as amended by [Pub. L. 109–163, div. A, title X, § 1022][/us/pl/109/163/s1022], Jan. 6, 2006, [119 Stat. 3427][/us/stat/119/3427]; [Pub. L. 110–181, div. A, title X, § 1021][/us/pl/110/181/s1021], Jan. 28, 2008, [122 Stat. 304][/us/stat/122/304]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1022, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 111–84, div. A, title X, § 1012][/us/pl/111/84/s1012], Oct. 28, 2009, [123 Stat. 2441][/us/stat/123/2441]; [Pub. L. 111–383, div. A, title X, § 1012(a)][/us/pl/111/383/s1012/a]–(b)(2), Jan. 7, 2011, [124 Stat. 4346][/us/stat/124/4346], 4347; [Pub. L. 112–81, div. A, title X, § 1004(a)][/us/pl/112/81/s1004/a], Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556]; [Pub. L. 112–239, div. A, title X, § 1011][/us/pl/112/239/s1011], Jan. 2, 2013, [126 Stat. 1907][/us/stat/126/1907], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     A joint task force of the Department of Defense that provides support to law enforcement agencies conducting counter-drug activities may also provide, subject to all applicable laws and regulations, support to law enforcement agencies conducting counter-terrorism activities.
 
->     “(b) __Availability of Funds.—__ 
+>     “(b)  __Availability of Funds__  __.—__ 
 
 >     During fiscal years 2006 through 2013, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
 
->     “(c) __Annual Report.—__ 
+>     “(c)  __Annual Report__  __.—__ 
 
 >     Not later than December 31 of each year after 2008 in which the authority in subsection (a) is in effect, the Secretary of Defense shall submit to Congress a report setting forth, for the one-year period ending on the date of such report, the following:
 
@@ -57,7 +57,7 @@
 
 >         “(4) A certification by the Secretary of Defense that any support provided under subsection (a) during such one-year period was provided in compliance with the requirements of subsection (d).
 
->     “(d) __Conditions.—__ 
+>     “(d)  __Conditions__  __.—__ 
 
 >         (1) Any support provided under subsection (a) may only be provided in the geographic area of responsibility of the joint task force.
 

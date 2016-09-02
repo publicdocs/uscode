@@ -15,19 +15,19 @@
 
 ## § 6957b. Foreign and cultural exchange activities
 
-    (a) __Attendance Authorized.—__ 
+    (a)  __Attendance Authorized__  __.—__ 
 
     The Secretary of the Navy may authorize the Naval Academy to permit students, officers, and other representatives of a foreign country to attend the Naval Academy for periods of not more than two weeks if the Secretary determines that the attendance of such persons contributes significantly to the development of foreign language, cross cultural interactions and understanding, and cultural immersion of midshipmen.
 
-    (b) __Costs and Expenses.—__ 
+    (b)  __Costs and Expenses__  __.—__ 
 
     The Secretary may pay the travel, subsistence, and similar personal expenses of persons incurred to attend the Naval Academy under subsection (a).
 
-    (c) __Effect of Attendance.—__ 
+    (c)  __Effect of Attendance__  __.—__ 
 
     Persons attending the Naval Academy under subsection (a) are not considered to be students enrolled at the Naval Academy and are in addition to persons receiving instruction at the Naval Academy under section 6957 or 6957a of this title.
 
-    (d) __Source of Funds; Limitation.—__ 
+    (d)  __Source of Funds; Limitation__  __.—__ 
 
         (1) The Naval Academy shall bear the costs of the attendance of persons under subsection (a) from funds appropriated for the Naval Academy and from such additional funds as may be available to the Naval Academy from a source, other than appropriated funds, to support cultural immersion, regional awareness, or foreign language training activities in connection with their attendance.
 

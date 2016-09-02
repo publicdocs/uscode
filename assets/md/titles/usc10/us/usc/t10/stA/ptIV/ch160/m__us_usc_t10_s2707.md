@@ -15,19 +15,19 @@
 
 ## § 2707. Environmental restoration projects for environmental responses
 
-    (a) __Environmental Restoration Projects Authorized.—__ 
+    (a)  __Environmental Restoration Projects Authorized__  __.—__ 
 
     The Secretary of Defense or the Secretary of a military department may carry out an environmental restoration project if that Secretary determines that the project is necessary to carry out a response under this chapter or CERCLA.
 
-    (b) __Treatment of Project.—__ 
+    (b)  __Treatment of Project__  __.—__ 
 
     Any construction, development, conversion, or extension of a structure, and any installation of equipment, that is included in an environmental restoration project under this section may not be considered military construction (as that term is defined in [section 2801(a) of this title][/us/usc/t10/s2801/a]).
 
-    (c) __Source of Funds.—__ 
+    (c)  __Source of Funds__  __.—__ 
 
     Funds authorized for deposit in an account established by [section 2703(a) of this title][/us/usc/t10/s2703/a] shall be the only source of funds to conduct an environmental restoration project under this section.
 
-    (d) __Environmental Restoration Project Defined.—__ 
+    (d)  __Environmental Restoration Project Defined__  __.—__ 
 
     In this section, the term “environmental restoration project” includes any construction, development, conversion, or extension of a structure, or installation of equipment, in direct support of a response.
 

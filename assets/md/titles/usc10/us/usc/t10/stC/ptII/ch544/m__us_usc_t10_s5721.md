@@ -15,7 +15,7 @@
 
 ## § 5721. Temporary promotions of certain Navy lieutenants
 
-    (a) __Promotion Authority for Certain Officers With Critical Skills.—__ 
+    (a)  __Promotion Authority for Certain Officers With Critical Skills__  __.—__ 
 
     An officer in the line of the Navy in the grade of lieutenant who—
 
@@ -25,21 +25,21 @@
 
         may be temporarily promoted to the grade of lieutenant commander under regulations to be prescribed by the Secretary of the Navy. Appointments under this section shall be made by the President, by and with the advice and consent of the Senate.
 
-    (b) __Status of Officers Appointed.—__ 
+    (b)  __Status of Officers Appointed__  __.—__ 
 
         (1) An appointment under this section does not change the position on the active-duty list or the permanent, probationary, or acting status of the officer so appointed, prejudice the officer in regard to other promotions or appointments, or abridge the rights or benefits of the officer.
 
         (2) For the purposes of [section 523 of this title][/us/usc/t10/s523], an officer holding an appointment under this section is considered as serving in the grade of lieutenant commander.
 
-    (c) __Board Recommendation Required.—__ 
+    (c)  __Board Recommendation Required__  __.—__ 
 
     A temporary promotion under this section may be made only upon the recommendation of a board of officers convened by the Secretary of the Navy for the purpose of recommending officers for such promotions.
 
-    (d) __Acceptance and Effective Date of Appointment.—__ 
+    (d)  __Acceptance and Effective Date of Appointment__  __.—__ 
 
     Each appointment under this section, unless expressly declined, is, without formal acceptance, regarded as accepted on the date such appointment is made, and a member so appointed is entitled to the pay and allowances of the grade of lieutenant commander from the date the appointment is made.
 
-    (e) __Termination of Appointment.—__ 
+    (e)  __Termination of Appointment__  __.—__ 
 
     Unless sooner terminated, an appointment under this section terminates—
 
@@ -47,7 +47,7 @@
 
         (2) on the date the officer is detached from a position described in subsection (a)(2), unless the officer is on a promotion list to the permanent grade of lieutenant commander, in which case the appointment terminates on the date the officer is promoted to that grade.
 
-    (f) __Limitation on Number of Eligible Positions.—__ 
+    (f)  __Limitation on Number of Eligible Positions__  __.—__ 
 
     An appointment under this section may only be made for service in a position designated by the Secretary of the Navy for purposes of this section. The number of positions so designated may not exceed 325.
 

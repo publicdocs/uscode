@@ -15,19 +15,19 @@
 
 ## § 197. Defense Logistics Agency: fees charged for logistics information
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may charge fees for providing information in the Federal Logistics Information System through Defense Logistics Information Services to a department or agency of the executive branch outside the Department of Defense, or to a State, a political subdivision of a State, or any person.
 
-    (b) __Amount.—__ 
+    (b)  __Amount__  __.—__ 
 
     The fee or fees prescribed under subsection (a) shall be such amount or amounts as the Secretary of Defense determines appropriate for recovering the costs of providing information as described in such subsection.
 
-    (c) __Retention of Fees.—__ 
+    (c)  __Retention of Fees__  __.—__ 
 
     Fees collected under this section shall be credited to the appropriation available for Defense Logistics Information Services for the fiscal year in which collected, shall be merged with other sums in such appropriation, and shall be available for the same purposes and period as the appropriation with which merged.
 
-    (d) __Defense Logistics Information Services Defined.—__ 
+    (d)  __Defense Logistics Information Services Defined__  __.—__ 
 
     In this section, the term “Defense Logistics Information Services” means the organization within the Defense Logistics Agency that is known as Defense Logistics Information Services.
 

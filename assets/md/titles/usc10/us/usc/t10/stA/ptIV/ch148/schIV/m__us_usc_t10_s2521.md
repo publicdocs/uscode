@@ -15,11 +15,11 @@
 
 ## § 2521. Manufacturing Technology Program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense shall establish a Manufacturing Technology Program to further the national security objectives of [section 2501(a) of this title][/us/usc/t10/s2501/a] through the development and application of advanced manufacturing technologies and processes that will reduce the acquisition and supportability costs of defense weapon systems and reduce manufacturing and repair cycle times across the life cycles of such systems. The Secretary shall use the joint planning process of the directors of the Department of Defense laboratories in establishing the program. The Under Secretary of Defense for Acquisition, Technology, and Logistics shall administer the program.
 
-    (b) __Purpose of Program.—__ 
+    (b)  __Purpose of Program__  __.—__ 
 
     The Secretary of Defense shall use the program—
 
@@ -39,7 +39,7 @@
 
         (8) to ensure appropriate coordination between the manufacturing technology programs and industrial preparedness programs of the Department of Defense and similar programs undertaken by other departments and agencies of the Federal Government or by the private sector.
 
-    (c) __Execution.—__ 
+    (c)  __Execution__  __.—__ 
 
         (1) The Secretary may carry out projects under the program through the Secretaries of the military departments and the heads of the Defense Agencies.
 
@@ -65,13 +65,13 @@
 
             (E) Shipyards.
 
-    (d) __Competition and Cost Sharing.—__ 
+    (d)  __Competition and Cost Sharing__  __.—__ 
 
         (1) In accordance with the policy stated in [section 2374 of this title][/us/usc/t10/s2374], competitive procedures shall be used for awarding all grants and entering into all contracts, cooperative agreements, and other transactions under the program.
 
         (2) Under the competitive procedures used, the factors to be considered in the evaluation of each proposed grant, contract, cooperative agreement, or other transaction for a project under the program shall include the extent to which that proposed transaction provides for the proposed recipient to share in the cost of the project. For a project for which the Government receives an offer from only one offeror, the contracting officer shall negotiate the ratio of contract recipient cost to Government cost that represents the best value to the Government.
 
-    (e) __Joint Defense Manufacturing Technology Panel.—__ 
+    (e)  __Joint Defense Manufacturing Technology Panel__  __.—__ 
 
         (1) There is in the Department of Defense the Joint Defense Manufacturing Technology Panel.
 
@@ -107,7 +107,7 @@
 
         (6) The administrative expenses of the Panel shall be borne by each military department and Defense Agency with manufacturing technology programs in such manner as the Panel shall provide.
 
-    (f) __Five-Year Strategic Plan.—__ 
+    (f)  __Five-Year Strategic Plan__  __.—__ 
 
         (1)
 
@@ -245,11 +245,11 @@
 
 [Pub. L. 110–181, div. A, title II, § 238(b)][/us/pl/110/181/s238/b], Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48], provided that:
 
->     “(1) __Development.—__ 
+>     “(1)  __Development__  __.—__ 
 
 >     The Secretary of Defense shall develop the strategic plan required by subsection (e) \[now (f)\] of [section 2521 of title 10][/us/usc/t10/s2521], United States Code (as added by subsection (a) of this section), so that the plan goes into effect at the beginning of fiscal year 2009.
 
->     “(2) __Submission.—__ 
+>     “(2)  __Submission__  __.—__ 
 
 >     Not later than the date on which the budget of the President for fiscal year 2010 is submitted to Congress under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the plan specified in paragraph (1).”
 
@@ -259,25 +259,25 @@
 
 > “SEC. 241. __PILOT PROGRAM FOR IDENTIFICATION AND TRANSITION OF ADVANCED MANUFACTURING PROCESSES AND TECHNOLOGIES.__ 
 
->     “(a) __Pilot Program Required.—__ 
+>     “(a)  __Pilot Program Required__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics shall conduct a pilot program under the authority of [section 2521 of title 10][/us/usc/t10/s2521], United States Code, to identify and transition advanced manufacturing processes and technologies the utilization of which would achieve significant productivity and efficiency gains in the defense manufacturing base.
 
->     “(b) __Consideration of Defense Priorities.—__ 
+>     “(b)  __Consideration of Defense Priorities__  __.—__ 
 
 >     In carrying out subsection (a), the Under Secretary shall take into consideration the defense priorities established in the most current Joint Warfighting Science and Technology plan, as required under section 270 of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [10 U.S.C. 2501][/us/usc/t10/s2501] note).
 
->     “(c) __Identification for Transition.—__ 
+>     “(c)  __Identification for Transition__  __.—__ 
 
 >     In identifying manufacturing processes and technologies for transition to the defense manufacturing base under the pilot program, the Under Secretary shall select the most promising transformational technologies and manufacturing processes, in consultation with the Assistant Secretary of Defense for Research and Engineering, the Joint Defense Manufacturing Technology Panel, and other such entities as may be appropriate, including the Director of the Small Business Innovation Research Program.
 
 > “SEC. 242. __TRANSITION OF TRANSFORMATIONAL MANUFACTURING PROCESSES AND TECHNOLOGIES TO DEFENSE MANUFACTURING BASE.__ 
 
->     “(a) __Prototypes and Test Beds.—__ 
+>     “(a)  __Prototypes and Test Beds__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics shall undertake the development of prototypes and test beds to validate the manufacturing processes and technologies selected for transition under the pilot program under section 241.
 
->     “(b) __Diffusion of Enhancements.—__ 
+>     “(b)  __Diffusion of Enhancements__  __.—__ 
 
 >     The Under Secretary shall seek the cooperation of industry in adopting such manufacturing processes and technologies through the following:
 
@@ -287,7 +287,7 @@
 
 > “SEC. 243. __MANUFACTURING TECHNOLOGY STRATEGIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics may—
 
@@ -295,17 +295,17 @@
 
 >         “(2) establish a task force, and act in cooperation, with the private sector to map the strategy for the development of manufacturing processes and technologies needed to support technology development in the area identified under paragraph (1).
 
->     “(b) __Commencement of Roadmapping.—__ 
+>     “(b)  __Commencement of Roadmapping__  __.—__ 
 
 >     The Under Secretary shall commence any roadmapping identified pursuant to subsection (a)(1) not later than January 2007.
 
 > “SEC. 244. __REPORT.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than December 31, 2007, the Under Secretary of the Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions undertaken by the Under Secretary under this subtitle during fiscal year 2006.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The report under subsection (a) shall include—
 
@@ -319,15 +319,15 @@
 
 > “In this subtitle:
 
->     “(1) __Defense manufacturing base.—__ 
+>     “(1)  __Defense manufacturing base__  __.—__ 
 
 >     The term ‘defense manufacturing base’ includes any supplier of the Department of Defense, including a supplier of raw materials.
 
->     “(2) __Manufacturing extension partnership program.—__ 
+>     “(2)  __Manufacturing extension partnership program__  __.—__ 
 
 >     The term ‘Manufacturing Extension Partnership Program’ means the Manufacturing Extension Partnership Program of the Department of Commerce.
 
->     “(3) __Small business innovation research program.—__ 
+>     “(3)  __Small business innovation research program__  __.—__ 
 
 >     The term ‘Small Business Innovation Research Program’ has the meaning given that term in [section 2500(11) of title 10][/us/usc/t10/s2500/11], United States Code.”
 
@@ -335,7 +335,7 @@
 
 [Pub. L. 108–136, div. A, title VIII, § 823][/us/pl/108/136/s823], Nov. 24, 2003, [117 Stat. 1547][/us/stat/117/1547], provided that:
 
->     “(a) __Technical Assistance.—__ 
+>     “(a)  __Technical Assistance__  __.—__ 
 
 >     The Secretary of Defense shall publish in the Federal Register information on Government contracting for purposes of assisting machine tool companies in the United States and entities that use machine tools. The information shall contain, at a minimum, the following:
 
@@ -343,7 +343,7 @@
 
 >         “(2) An identification of resources for locating opportunities for contracting with the Department of Defense, including information about defense contracts that are expected to be carried out that may require the use of machine tools.
 
->     “(b) __Science and Technology Initiatives.—__ 
+>     “(b)  __Science and Technology Initiatives__  __.—__ 
 
 >     The Secretary of Defense shall incorporate into the Department of Defense science and technology initiatives on manufacturing technology an objective of developing advanced machine tool capabilities. Such technologies shall be used to improve the technological capabilities of the United States domestic machine tool industrial base in meeting national security objectives.”
 

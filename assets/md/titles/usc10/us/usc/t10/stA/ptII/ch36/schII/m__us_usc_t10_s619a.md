@@ -15,11 +15,11 @@
 
 ## § 619a. Eligibility for consideration for promotion: designation as joint qualified officer required before promotion to general or flag grade; exceptions
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     An officer on the active-duty list of the Army, Navy, Air Force, or Marine Corps may not be appointed to the grade of brigadier general or rear admiral (lower half) unless the officer has been designated as a joint qualified officer in accordance with [section 661 of this title][/us/usc/t10/s661].
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subject to subsection (c), the Secretary of Defense may waive subsection (a) in the following circumstances:
 
@@ -41,23 +41,23 @@
 
         (5) In the case of an officer who served in a joint duty assignment that began before January 1, 1987, if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) for the officer’s service to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986.
 
-    (c) __Waiver To Be Individual.—__ 
+    (c)  __Waiver To Be Individual__  __.—__ 
 
     A waiver may be granted under subsection (b) only on a case-by-case basis in the case of an individual officer.
 
-    (d) __Special Rule for Good-of-the-Service Waiver.—__ 
+    (d)  __Special Rule for Good-of-the-Service Waiver__  __.—__ 
 
     In the case of a waiver under subsection (b)(1), the Secretary shall provide that the first duty assignment as a general or flag officer of the officer for whom the waiver is granted shall be in a joint duty assignment.
 
-    (e) __Limitation on Delegation of Waiver Authority.—__ 
+    (e)  __Limitation on Delegation of Waiver Authority__  __.—__ 
 
     The authority of the Secretary of Defense to grant a waiver under subsection (b) (other than under paragraph (1) of that subsection) may be delegated only to the Deputy Secretary of Defense, an Under Secretary of Defense, or an Assistant Secretary of Defense.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section. The regulations shall specifically identify for purposes of subsection (b)(2) those categories of officers for which selection for promotion to brigadier general or, in the case of the Navy, rear admiral (lower half) is based primarily upon scientific and technical qualifications for which joint requirements do not exist.
 
-    (g) __Limitation for General and Flag Officers Previously Receiving Joint Duty Assignment Waiver.—__ 
+    (g)  __Limitation for General and Flag Officers Previously Receiving Joint Duty Assignment Waiver__  __.—__ 
 
     A general officer or flag officer who before January 1, 1999, received a waiver of subsection (a) under the authority of this subsection (as in effect before that date) may not be appointed to the grade of lieutenant general or vice admiral until the officer completes a full tour of duty in a joint duty assignment.
 

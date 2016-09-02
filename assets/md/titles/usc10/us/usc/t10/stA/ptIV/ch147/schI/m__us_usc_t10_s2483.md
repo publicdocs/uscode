@@ -15,11 +15,11 @@
 
 ## § 2483. Commissary stores: use of appropriated funds to cover operating expenses
 
-    (a) __Operation of Agency and System.—__ 
+    (a)  __Operation of Agency and System__  __.—__ 
 
     Except as otherwise provided in this title, the operation of the Defense Commissary Agency and the defense commissary system shall be funded using such amounts as are appropriated for such purpose.
 
-    (b) __Operating Expenses of Commissary Stores.—__ 
+    (b)  __Operating Expenses of Commissary Stores__  __.—__ 
 
     Appropriated funds shall be used to cover the expenses of operating commissary stores and central product processing facilities of the defense commissary system. For purposes of this subsection, operating expenses include the following:
 
@@ -35,7 +35,7 @@
 
         (6) Any cost associated with above-store-level management or other indirect support of a commissary store or a central product processing facility, including equipment maintenance and information technology costs.
 
-    (c) __Supplemental Funds for Commissary Operations.—__ 
+    (c)  __Supplemental Funds for Commissary Operations__  __.—__ 
 
     Amounts appropriated to cover the expenses of operating the Defense Commissary Agency and the defense commissary system may be supplemented with additional funds from manufacturers’ coupon redemption fees, handling fees for tobacco products, and other amounts received as reimbursement for other support activities provided by commissary activities.
 

@@ -15,7 +15,7 @@
 
 ## § 2866. Water conservation at military installations
 
-    (a) __Water Conservation Activities.—__ 
+    (a)  __Water Conservation Activities__  __.—__ 
 
         (1) The Secretary of Defense shall permit and encourage each military department, Defense Agency, and other instrumentality of the Department of Defense to participate in programs conducted by a utility for the management of water demand or for water conservation.
 
@@ -37,7 +37,7 @@
 
             (C) An agreement under paragraph (3) shall provide that title to a water-saving device or technology installed at a military installation pursuant to the agreement shall vest in the United States. Such title may vest at such time during the term of the agreement, or upon expiration of the agreement, as determined to be in the best interests of the United States.
 
-    (b) __Use of Financial Incentives and Water Cost Savings.—__ 
+    (b)  __Use of Financial Incentives and Water Cost Savings__  __.—__ 
 
         (1) Financial incentives received from utilities for management of water demand or water conservation under subsection (a)(2) shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
 
@@ -59,7 +59,7 @@
 
         (3) The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105] a separate statement of the amounts available for obligation under this subsection in that fiscal year.
 
-    (c) __Water Conservation Construction Projects.—__ 
+    (c)  __Water Conservation Construction Projects__  __.—__ 
 
         (1) The Secretary of Defense may carry out a military construction project for water conservation, not previously authorized, using funds appropriated or otherwise made available to the Secretary for water conservation.
 

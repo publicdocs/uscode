@@ -15,7 +15,7 @@
 
 ## § 7545. Obsolete material and articles of historical interest: loan or gift
 
-    (a) __Authority To Make Loans and Gifts.—__ 
+    (a)  __Authority To Make Loans and Gifts__  __.—__ 
 
     The Secretary of the Navy may lend or give, without expense to the United States, items described in subsection (b) that are not needed by the Department of the Navy to any of the following:
 
@@ -43,7 +43,7 @@
 
         (12) A post of the Sons of Veterans Reserve.
 
-    (b) __Items Eligible for Disposal.—__ 
+    (b)  __Items Eligible for Disposal__  __.—__ 
 
     This section applies to the following types of property held by the Department of the Navy:
 
@@ -51,19 +51,19 @@
 
         (2) Captured, condemned, or obsolete combat or shipboard material.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     A loan or gift made under this section shall be subject to regulations prescribed by the Secretary and to regulations under [section 121 of title 40][/us/usc/t40/s121].
 
-    (d) __Maintenance of the Records of the Government.—__ 
+    (d)  __Maintenance of the Records of the Government__  __.—__ 
 
     Records of the Government as defined in [section 3301 of title 44][/us/usc/t44/s3301] may not be disposed of under this section.
 
-    (e) __Alternative Authorities To Make Gifts or Loans.—__ 
+    (e)  __Alternative Authorities To Make Gifts or Loans__  __.—__ 
 
     If any disposition is authorized by this section and [section 2572 of this title][/us/usc/t10/s2572], the Secretary may make the gift or loan under either section.
 
-    (f) __Authority To Transfer a Portion of a Vessel.—__ 
+    (f)  __Authority To Transfer a Portion of a Vessel__  __.—__ 
 
     The Secretary may lend, give, or otherwise transfer any portion of the hull or superstructure of a vessel stricken from the Naval Vessel Register and designated for scrapping to a qualified organization specified in subsection (a). The terms and conditions of an agreement for the transfer of a portion of a vessel under this section shall include a requirement that the transferee will maintain the material conveyed in a condition that will not diminish the historical value of the material or bring discredit upon the Navy.
 

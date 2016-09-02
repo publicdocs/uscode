@@ -15,15 +15,15 @@
 
 ## § 129a. General policy for total force management
 
-    (a) __Policies and Procedures.—__ 
+    (a)  __Policies and Procedures__  __.—__ 
 
     The Secretary of Defense shall establish policies and procedures for determining the most appropriate and cost efficient mix of military, civilian, and contractor personnel to perform the mission of the Department of Defense.
 
-    (b) __Risk Mitigation Over Cost.—__ 
+    (b)  __Risk Mitigation Over Cost__  __.—__ 
 
     In establishing the policies and procedures under subsection (a), the Secretary shall clearly provide that attainment of a Department of Defense workforce sufficiently sized and comprised of the appropriate mix of personnel necessary to carry out the mission of the Department and the core mission areas of the armed forces (as identified pursuant to [section 118b of this title][/us/usc/t10/s118b]) takes precedence over cost.
 
-    (c) __Delegation of Responsibilities.—__ 
+    (c)  __Delegation of Responsibilities__  __.—__ 
 
     The Secretary shall delegate responsibility for implementation of the policies and procedures established under subsection (a) as follows:
 
@@ -35,7 +35,7 @@
 
         (4) The Under Secretary of Defense (Comptroller) shall be responsible for ensuring that the budget for the Department of Defense is consistent with such policies and procedures. The Under Secretary shall notify the congressional defense committees of any deviations from such policies and procedures that are recommended in the budget.
 
-    (d) __Use of Plan, Inventory, and List.—__ 
+    (d)  __Use of Plan, Inventory, and List__  __.—__ 
 
     The policies and procedures established by the Secretary under subsection (a) shall specifically require the Department of Defense to use the following when making determinations regarding the appropriate workforce mix necessary to perform its mission:
 
@@ -47,7 +47,7 @@
 
         (4) The list of activities required by the Federal Activities Inventory Reform Act of 1998 ([Public Law 105–270][/us/pl/105/270]; [31 U.S.C. 501][/us/usc/t31/s501] note).
 
-    (e) __Considerations in Converting Performance of Functions.—__ 
+    (e)  __Considerations in Converting Performance of Functions__  __.—__ 
 
      If conversion of functions to performance by either Department of Defense civilian personnel or contractor personnel is considered, the Under Secretary of Defense for Personnel and Readiness shall ensure compliance with—
 
@@ -55,7 +55,7 @@
 
         (2) [section 2461 of this title][/us/usc/t10/s2461] (relating to public-private competition required before conversion to contractor performance).
 
-    (f) __Construction With Other Requirements.—__ 
+    (f)  __Construction With Other Requirements__  __.—__ 
 
     Nothing in this title may be construed as authorizing—
 
@@ -93,21 +93,21 @@
 
 [Pub. L. 112–239, div. A, title IX, § 955][/us/pl/112/239/s955], Jan. 2, 2013, [126 Stat. 1896][/us/stat/126/1896], provided that:
 
->     “(a) __Required Plan.—__ 
+>     “(a)  __Required Plan__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall ensure that the civilian personnel workforce and service contractor workforce of the Department of Defense are appropriately sized to support and execute the National Military Strategy, taking into account military personnel and force structure levels. Not later than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall develop and begin to execute an efficiencies plan for the civilian personnel workforce and service contractor workforce of the Department of Defense.
 
->         “(2) __Consistency with other policies and procedures.—__ 
+>         “(2)  __Consistency with other policies and procedures__  __.—__ 
 
 >         The Secretary shall ensure the plan required under this subsection is consistent with the policies and procedures required under [section 129a of title 10][/us/usc/t10/s129a], United States Code, as implemented under the policies issued by the Under Secretary of Defense for Personnel and Readiness for determining the most appropriate and cost-efficient mix of military, civilian, and service contractor personnel to perform the missions of the Department of Defense.
 
->     “(b) __Savings.—__ 
+>     “(b)  __Savings__  __.—__ 
 
 >     The plan required under subsection (a) shall achieve savings in the total funding for each workforce covered by such plan over the period from fiscal year 2012 through fiscal year 2017 that are not less, as a percentage of such funding, than the savings in funding for basic military personnel pay achieved from reductions in military end strengths over the same period of time.
 
->     “(c) __Exclusions.—__ 
+>     “(c)  __Exclusions__  __.—__ 
 
 >     In developing and implementing the plan required by subsection (a) and achieving the savings percentages required by subsection (b), the Secretary of Defense may exclude expenses related to the performance of functions identified as core or critical to the mission of the Department, consistent with the workload analysis and risk assessments required by sections 129 and 129a of title 10, United States Code. In making a determination of core or critical functions, the Secretary shall consider at least the following:
 
@@ -133,33 +133,33 @@
 
 >         “(3) Personnel expenses for personnel in the civilian personnel workforce or service contractor workforce performing such other critical functions as may be identified by the Secretary as requiring exemption in the interest of the national defense.
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including a comprehensive description of the plan required by subsection (a).
 
->         “(2) __Status reports.—__ 
+>         “(2)  __Status reports__  __.—__ 
 
 >         As part of the budget submitted by the President to Congress for each of fiscal years 2015 through 2018, the Secretary shall include a report describing the implementation of the plan during the prior fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include a summary of the savings achieved in such prior fiscal year through reductions in the military, civilian, and service contractor personnel workforces, and the number of military, civilian, and service contractor personnel reduced. In any case in which savings fall short of the annual target, the report shall include an explanation of the reasons for such shortfall.
 
->         “(3) __Exclusions.—__ 
+>         “(3)  __Exclusions__  __.—__ 
 
 >         Each report under paragraphs (1) and (2) shall specifically identify any exclusion granted by the Secretary under subsection (c) in the period of time covered by the report.
 
->     “(e) __Limitation on Transfers of Functions.—__ 
+>     “(e)  __Limitation on Transfers of Functions__  __.—__ 
 
 >     The Secretary shall ensure that the savings required by this section are not achieved through unjustified transfers of functions between or among the military, civilian, and service contractor personnel workforces of the Department of Defense. Nothing in this section shall be construed to preclude the Secretary from exercising authority available to the Department under sections 129a, 2330a, 2461, and 2463 of title 10, United States Code.
 
->     “(f) __Sense of Congress.—__ 
+>     “(f)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that an amount equal to 30 percent of the amount of the reductions in appropriated funds attributable to reduced budgets for the civilian and service contractor workforces of the Department by reason of the plan required by subsection (a) should be made available for costs of assisting military personnel separated from the Armed Forces in the transition from military service.
 
->     “(g) __Service Contractor Workforce Defined.—__ 
+>     “(g)  __Service Contractor Workforce Defined__  __.—__ 
 
 >     In this section, the term ‘service contractor workforce’ means contractor employees performing contract services, as defined in [section 2330(c)(2) of title 10][/us/usc/t10/s2330/c/2], United States Code, other than contract services that are funded out of amounts available for overseas contingency operations.
 
->     “(h) __Comptroller General Review and Report.—__ 
+>     “(h)  __Comptroller General Review and Report__  __.—__ 
 
 >     For each fiscal year from fiscal year 2015 through fiscal year 2018, the Comptroller General of the United States shall review the status reports submitted by the Secretary as required by subsection (d)(2) to determine whether the savings required by subsection (b) are being achieved in the civilian personnel workforce and the service contractor workforce and whether the plan required under subsection (a) is being implemented consistent with sourcing and workforce management laws, including sections 129, 129a, 2330a, 2461, and 2463 of title 10, United States Code. The Comptroller General shall submit a report on the findings of each review to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] not later than 120 days after the end of each fiscal year covered by this subsection.”
 

@@ -15,15 +15,15 @@
 
 ## § 2193b. Improvement of education in technical fields: program for support of elementary and secondary education in science, mathematics, and technology
 
-    (a) __Authority for Program.—__ 
+    (a)  __Authority for Program__  __.—__ 
 
     The Secretary of Defense may conduct a science, mathematics, and technology education improvement program known as the “Department of Defense STARBASE Program”. The Secretary shall carry out the program in coordination with the Secretaries of the military departments.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of the program is to improve knowledge and skills of students in kindergarten through twelfth grade in mathematics, science, and technology.
 
-    (c) __STARBASE Academies.—__ 
+    (c)  __STARBASE Academies__  __.—__ 
 
         (1) The Secretary shall provide for the establishment of at least 25 academies under the program.
 
@@ -35,25 +35,25 @@
 
             (B) The Secretary may support the establishment and operation of an academy in a State in excess of four academies in that State if the Secretary expressly waives, in writing, the limitation in subparagraph (A) with respect to that State. In the case of any such waiver, appropriated funds may be used for the establishment and operation of an academy in excess of four in that State only to the extent that appropriated funds are expressly available for that purpose. Any such waiver shall be made under criteria to be prescribed by the Secretary.
 
-    (d) __Persons Eligible To Participate in Program.—__ 
+    (d)  __Persons Eligible To Participate in Program__  __.—__ 
 
     The Secretary shall prescribe standards and procedures for selection of persons for participation in the program.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations governing the conduct of the program.
 
-    (f) __Authority to Accept Financial and Other Support.—__ 
+    (f)  __Authority to Accept Financial and Other Support__  __.—__ 
 
         (1) The Secretary of Defense and the Secretaries of the military departments may accept financial and other support for the program from other departments and agencies of the Federal Government, State governments, local governments, and not-for-profit and other organizations in the private sector.
 
         (2) The Secretary of Defense shall remain the executive agent to carry out the program regardless of the source of funds for the program or any transfer of jurisdiction over the program within the executive branch.
 
-    (g) __Annual Report.—__ 
+    (g)  __Annual Report__  __.—__ 
 
     Not later than March 31 of each year, the Secretary of Defense shall submit to Congress a report on the program under this section. The report shall contain a discussion of the design and conduct of the program and an evaluation of the effectiveness of the program.
 
-    (h) __State Defined.—__ 
+    (h)  __State Defined__  __.—__ 
 
     In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, and Guam.
 

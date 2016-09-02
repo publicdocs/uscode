@@ -15,11 +15,11 @@
 
 ## § 2491a. Department of Defense golf courses: limitation on use of appropriated funds
 
-    (a) __Limitation.—__ 
+    (a)  __Limitation__  __.—__ 
 
     Except as provided in subsection (b), funds appropriated to the Department of Defense may not be used to equip, operate, or maintain a golf course at a facility or installation of the Department of Defense.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
         (1) Subsection (a) does not apply to a golf course at a facility or installation outside the United States or at a facility or installation inside the United States at a location designated by the Secretary of Defense as a remote and isolated location.
 

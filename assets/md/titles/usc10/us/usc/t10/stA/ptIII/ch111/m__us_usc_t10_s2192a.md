@@ -15,11 +15,11 @@
 
 ## § 2192a. Science, Mathematics, and Research for Transformation (SMART) Defense Education Program
 
-    (a) __Requirement for Program.—__ 
+    (a)  __Requirement for Program__  __.—__ 
 
     The Secretary of Defense shall carry out a program to provide financial assistance for education in science, mathematics, engineering, and technology skills and disciplines that, as determined by the Secretary, are critical to the national security functions of the Department of Defense and are needed in the Department of Defense workforce.
 
-    (b) __Financial Assistance.—__ 
+    (b)  __Financial Assistance__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (3) Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
 
-    (c) __Service Agreement for Recipients of Financial Assistance.—__ 
+    (c)  __Service Agreement for Recipients of Financial Assistance__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
         (3) An agreement entered into under this subsection by a person pursuing an academic degree shall include any terms and conditions that the Secretary of Defense determines necessary to protect the interests of the United States or otherwise appropriate for carrying out this section.
 
-    (d) __Employment of Program Participants.—__ 
+    (d)  __Employment of Program Participants__  __.—__ 
 
     The Secretary of Defense—
 
@@ -57,7 +57,7 @@
 
         (2) may, upon satisfactory completion of 2 years of substantially continuous service by an incumbent who was appointed to an excepted service position under the authority of paragraph (1), convert the appointment of such individual, without competition, to a career or career conditional appointment.
 
-    (e) __Refund for Period of Unserved Obligated Service.—__ 
+    (e)  __Refund for Period of Unserved Obligated Service__  __.—__ 
 
         (1)
 
@@ -85,11 +85,11 @@
 
         (4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under this subsection.
 
-    (f) __Relationship to Other Programs.—__ 
+    (f)  __Relationship to Other Programs__  __.—__ 
 
     The Secretary of Defense shall coordinate the provision of financial assistance under the authority of this section with the provision of financial assistance under the other authorities provided in this chapter in order to maximize the benefits derived by the Department of Defense from the exercise of all such authorities.
 
-    (g) __Institution of Higher Education Defined.—__ 
+    (g)  __Institution of Higher Education Defined__  __.—__ 
 
     In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]).
 

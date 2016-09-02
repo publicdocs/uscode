@@ -17,51 +17,51 @@
 
     (a) __Authority.—__ 
 
-        (1) __Contracts and cooperative agreements.—__ 
+        (1)  __Contracts and cooperative agreements__  __.—__ 
 
         The Secretary of the Navy may enter into contracts and cooperative agreements with the Naval Academy Athletic Association for the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Notwithstanding [section 2304(k) of this title][/us/usc/t10/s2304/k], the Secretary may enter such contracts or cooperative agreements on a sole source basis pursuant to [section 2304(c)(5) of this title][/us/usc/t10/s2304/c/5]. Notwithstanding chapter 63 of title 31, a cooperative agreement under this section may be used to acquire property or services for the direct benefit or use of the Naval Academy.
 
-        (2) __Leases.—__ 
+        (2)  __Leases__  __.—__ 
 
         The Secretary may enter into leases, in accordance with [section 2667 of this title][/us/usc/t10/s2667], or licenses with the Association for the purpose of supporting the athletic and physical fitness programs of the Naval Academy. Any such lease or license shall be deemed to satisfy the conditions of [section 2667(h)(2) of this title][/us/usc/t10/s2667/h/2].
 
-    (b) __Use of Navy Personal Property by the Association.—__ 
+    (b)  __Use of Navy Personal Property by the Association__  __.—__ 
 
     The Secretary may allow the Association to use, at no cost, personal property of the Department of the Navy to assist the Association in supporting the athletic and physical fitness programs of the Naval Academy.
 
     (c) __Acceptance of Support.—__ 
 
-        (1) __Support received from the association.—__ 
+        (1)  __Support received from the association__  __.—__ 
 
         Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the Secretary may accept from the Association funds, supplies, and services for the support of the athletic and physical fitness programs of the Naval Academy. For purposes of this section, employees or personnel of the Association may not be considered to be employees of the United States.
 
-        (2) __Funds received from ncaa.—__ 
+        (2)  __Funds received from ncaa__  __.—__ 
 
         The Secretary may accept funds from the National Collegiate Athletic Association to support the athletic and physical fitness programs of the Naval Academy.
 
-        (3) __Limitation.—__ 
+        (3)  __Limitation__  __.—__ 
 
         The Secretary shall ensure that contributions under this subsection do not reflect unfavorably on the ability of the Department of the Navy, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or compromise the integrity or appearance of integrity of any program of the Department of the Navy, or any individual involved in such a program.
 
-    (d) __Retention and Use of Funds.—__ 
+    (d)  __Retention and Use of Funds__  __.—__ 
 
     Notwithstanding [section 2260(d) of this title][/us/usc/t10/s2260/d], funds received under this section may be retained for use in support of athletic and physical fitness programs of the Naval Academy and shall remain available until expended.
 
     (e) __Trademarks and Service Marks.—__ 
 
-        (1) __Licensing, marketing, and sponsorship agreements.—__ 
+        (1)  __Licensing, marketing, and sponsorship agreements__  __.—__ 
 
         An agreement under subsection (a)(1) may, consistent with sections 2260 (other than subsection (d)) and 5022(b)(3) of this title, authorize the Association to enter into licensing, marketing, and sponsorship agreements relating to trademarks and service marks identifying the Naval Academy, subject to the approval of the Department of the Navy.
 
-        (2) __Limitations.—__ 
+        (2)  __Limitations__  __.—__ 
 
         No such licensing, marketing, or sponsorship agreement may be entered into if it would reflect unfavorably on the ability of the Department of the Navy, any of its employees, or any member of the armed forces to carry out any responsibility or duty in a fair and objective manner, or if the Secretary determines that the use of the trademark or service mark would compromise the integrity or appearance of integrity of any program of the Department of the Navy, or any individual involved in such a program.
 
-    (f) __Service on Association Board of Control.—__ 
+    (f)  __Service on Association Board of Control__  __.—__ 
 
     The Association is a designated entity for which authorization under sections 1033(a) and 1589(a) of this title may be provided.
 
-    (g) __Conditions.—__ 
+    (g)  __Conditions__  __.—__ 
 
     The authority provided in this section with respect to the Association is available only so long as the Association continues to—
 
@@ -69,7 +69,7 @@
 
         (2) operate exclusively to support the athletic and physical fitness programs of the Naval Academy.
 
-    (h) __Association Defined.—__ 
+    (h)  __Association Defined__  __.—__ 
 
     In this section, the term “Association” means the Naval Academy Athletic Association.
 

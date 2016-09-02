@@ -15,11 +15,11 @@
 
 ## § 1411. Rules of construction
 
-    (a) __Construction of “First Became a Member”.—__ 
+    (a)  __Construction of “First Became a Member”__  __.—__ 
 
     For purposes of this chapter and other provisions of law providing for computation of retired or retainer pay of members of the uniformed services, a person shall be considered to first become a member of a uniformed service on the date the person is first enlisted, inducted, or appointed in a uniformed service.
 
-    (b) __References in Tables.—__ 
+    (b)  __References in Tables__  __.—__ 
 
     Section references in tables in this chapter are to sections of this title.
 

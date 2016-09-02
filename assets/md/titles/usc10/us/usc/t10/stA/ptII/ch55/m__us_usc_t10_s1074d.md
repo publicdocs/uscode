@@ -15,13 +15,13 @@
 
 ## § 1074d. Certain primary and preventive health care services
 
-    (a) __Services Available.—__ 
+    (a)  __Services Available__  __.—__ 
 
         (1) Female members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to primary and preventive health care services for women as part of such medical care. The services described in paragraphs (1) and (2) of subsection (b) shall be provided under such procedures and at such intervals as the Secretary of Defense shall prescribe.
 
         (2) Male members and former members of the uniformed services entitled to medical care under section 1074 or 1074a of this title shall also be entitled to preventive health care screening for colon or prostate cancer at such intervals and using such screening methods as the administering Secretaries consider appropriate.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, the term “primary and preventive health care services for women” means health care services, including related counseling services, provided to women with respect to the following:
 
@@ -61,23 +61,23 @@
 
 [Pub. L. 103–337, div. A, title II, § 241][/us/pl/103/337/s241], Oct. 5, 1994, [108 Stat. 2701][/us/stat/108/2701], provided that:
 
->     “(a) __Continuation of Program.—__ 
+>     “(a)  __Continuation of Program__  __.—__ 
 
 >     The Secretary of Defense shall continue the Defense Women’s Health Research Program established in fiscal year 1994 pursuant to the authority in section 251 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [107 Stat. 1606][/us/stat/107/1606]) \[set out below\]. The program shall continue to serve as the coordinating agent for multi-disciplinary and multi-institutional research within the Department of Defense on women’s health issues related to service in the Armed Forces. The program also shall continue to coordinate with research supported by other Federal agencies that is aimed at improving the health of women.
 
->     “(b) __Participation by All Military Departments.—__ 
+>     “(b)  __Participation by All Military Departments__  __.—__ 
 
 >     The Departments of the Army, Navy, and Air Force shall each participate in the activities under the program.
 
->     “(c) __Army To Be Executive Agent.—__ 
+>     “(c)  __Army To Be Executive Agent__  __.—__ 
 
 >     The Secretary of Defense shall designate the Secretary of the Army to be the executive agent for administering the program.
 
->     “(d) __Implementation Plan.—__ 
+>     “(d)  __Implementation Plan__  __.—__ 
 
 >     If the Secretary of Defense intends to change the plan for the implementation of the program previously submitted to the Committees on Armed Services of the Senate and House of Representatives, the amended plan shall be submitted to such committees before implementation.
 
->     “(e) __Program Activities.—__ 
+>     “(e)  __Program Activities__  __.—__ 
 
 >     The program shall include the following activities regarding health risks and health care for women in the Armed Forces:
 
@@ -91,17 +91,17 @@
 
 >         “(5) Research on interventions having a potential for addressing conditions of military service that adversely affect the health of women in the Armed Forces.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     Of the amount authorized to be appropriated pursuant to section 201 \[[108 Stat. 2690][/us/stat/108/2690]\], $40,000,000 shall be available for the Defense Women’s Health Research Program referred to in subsection (a).”
 
 [Pub. L. 103–160, div. A, title II, § 251][/us/pl/103/160/s251], Nov. 30, 1993, [107 Stat. 1606][/us/stat/107/1606], provided that:
 
->     “(a) __Authority To Establish Center.—__ 
+>     “(a)  __Authority To Establish Center__  __.—__ 
 
 >     The Secretary of Defense may establish a Defense Women’s Health Research Center (hereinafter in this section referred to as the ‘Center’) at an existing Department of Defense medical center to serve as the coordinating agent for multidisciplinary and multi-institutional research within the Department of Defense on women’s health issues related to service in the Armed Forces. The Secretary shall determine whether or not to establish the Center not later than May 1, 1994. If established, the Center shall also coordinate with research supported by the Department of Health and Human Services and other agencies that is aimed at improving the health of women.
 
->     “(b) __Support of Research.—__ 
+>     “(b)  __Support of Research__  __.—__ 
 
 >     The Center shall support health research into matters relating to the service of women in the military, including the following matters:
 
@@ -115,15 +115,15 @@
 
 >         “(5) Human factor studies related to women in combat areas.
 
->     “(c) __Competition Requirement Relating to Establishment of Center.—__ 
+>     “(c)  __Competition Requirement Relating to Establishment of Center__  __.—__ 
 
 >     The Center may be established only pursuant to a competition among existing Department of Defense medical centers.
 
->     “(d) __Implementation Plan.—__ 
+>     “(d)  __Implementation Plan__  __.—__ 
 
 >     The Secretary of Defense shall prepare a plan for the implementation of subsection (a). The plan shall be submitted to the Committees on Armed Services of the Senate and House of Representatives before May 1, 1994.
 
->     “(e) __Activities for Fiscal Year 1994.—__ 
+>     “(e)  __Activities for Fiscal Year__  __1994.—__ 
 
 >     During fiscal year 1994, the Center may address the following:
 
@@ -135,11 +135,11 @@
 
 >         “(4) Research protocols, cohort development, health surveillance, and epidemiologic studies, to be developed in coordination with the Centers for Disease Control and the National Institutes of Health whenever possible.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     Of the funds authorized to be appropriated pursuant to section 201 \[[107 Stat. 1583][/us/stat/107/1583]\], $20,000,000 shall be available for the establishment of the Center or for medical research at existing Department of Defense medical centers into matters relating to service by women in the military.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >         (1) If the Secretary of Defense determines not to establish a women’s health center under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives, not later than May 1, 1994, a report on the plans of the Secretary for the use of the funds described in subsection (f).
 

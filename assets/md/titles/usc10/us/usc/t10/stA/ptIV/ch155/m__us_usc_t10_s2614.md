@@ -15,7 +15,7 @@
 
 ## § 2614. Emergency communications equipment: acceptance from local public safety agencies for temporary use related to disasters
 
-    (a) __Authority to Accept Equipment.—__ 
+    (a)  __Authority to Accept Equipment__  __.—__ 
 
         (1) Subject to subsection (c), the Secretary concerned—
 
@@ -23,17 +23,17 @@
 
         (2) may accept services related to the operation and maintenance of such equipment.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The authority under subsection (a) shall be exercised under regulations prescribed by the Secretary of Defense.
 
-    (c) __Limitations.—__ 
+    (c)  __Limitations__  __.—__ 
 
         (1) Equipment may be accepted under subsection (a)(1) only to the extent that communications equipment under the control of the Secretary concerned at the potential disaster response site is inadequate to meet military requirements for communicating with public safety agencies during the period of response to the disaster.
 
         (2) Services may be accepted under subsection (a)(2) related to the operation and maintenance of communications equipment only to the extent that the necessary capabilities are not available to the military commander having custody of the equipment.
 
-    (d) __Liability.—__ 
+    (d)  __Liability__  __.—__ 
 
     A person providing services accepted under this section may not be considered, by reason of the provision of such services, to be an officer, employee, or agent of the United States for any purpose.
 

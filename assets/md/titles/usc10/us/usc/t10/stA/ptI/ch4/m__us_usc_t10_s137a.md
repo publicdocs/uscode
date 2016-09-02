@@ -69,11 +69,11 @@
 
 [Pub. L. 111–84, div. A, title IX, § 906(e)][/us/pl/111/84/s906/e], Oct. 28, 2009, [123 Stat. 2428][/us/stat/123/2428], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding the amendments made by this section \[enacting this section and amending sections 133a, 134a, 136a, 138, and 138a of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees\], the individual serving in a position specified in paragraph (2) on the day before the date of the enactment of this Act \[Oct. 28, 2009\] may continue to serve in such position without the requirement for appointment by the President, by and with the advice and consent of the Senate, for a period of up to four years after the date of the enactment of this Act.
 
->     “(2) __Covered positions.—__ 
+>     “(2)  __Covered positions__  __.—__ 
 
 >     The positions specified in this paragraph are the following:
 

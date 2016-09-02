@@ -15,7 +15,7 @@
 
 ## § 2013. Training at non-Government facilities
 
-    (a) __Authority To Enter Into Agreements.—__ 
+    (a)  __Authority To Enter Into Agreements__  __.—__ 
 
         (1) The Secretary concerned, without regard to section 6101(b)–(d) of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
 
@@ -35,7 +35,7 @@
 
             (F) The services and property of any of the foregoing providing the training.
 
-    (b) __Expenses.—__ 
+    (b)  __Expenses__  __.—__ 
 
     The Secretary concerned, from appropriations or other funds available to the Secretary, may—
 
@@ -57,7 +57,7 @@
 
             (F) Other services or facilities directly related to the training of the member.
 
-    (c) __Certain Expenses Excluded.—__ 
+    (c)  __Certain Expenses Excluded__  __.—__ 
 
     The expenses of training do not include membership fees except to the extent that the fee is a necessary cost directly related to the training itself or that payment of the fee is a condition precedent to undergoing the training.
 

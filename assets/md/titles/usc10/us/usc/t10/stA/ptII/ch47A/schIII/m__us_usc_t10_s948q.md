@@ -15,7 +15,7 @@
 
 ## § 948q. Charges and specifications
 
-    (a) __Charges and Specifications.—__ 
+    (a)  __Charges and Specifications__  __.—__ 
 
     Charges and specifications against an accused in a military commission under this chapter shall be signed by a person subject to chapter 47 of this title under oath before a commissioned officer of the armed forces authorized to administer oaths and shall state—
 
@@ -23,7 +23,7 @@
 
         (2) that such matters are true in fact to the best of the signer’s knowledge and belief.
 
-    (b) __Notice to Accused.—__ 
+    (b)  __Notice to Accused__  __.—__ 
 
     Upon the swearing of the charges and specifications in accordance with subsection (a), the accused shall be informed of the charges and specifications against the accused as soon as practicable.
 

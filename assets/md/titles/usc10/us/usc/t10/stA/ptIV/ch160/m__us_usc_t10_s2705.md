@@ -15,7 +15,7 @@
 
 ## § 2705. Notice of environmental restoration activities
 
-    (a) __Expedited Notice.—__ 
+    (a)  __Expedited Notice__  __.—__ 
 
     The Secretary of Defense shall take such actions as necessary to ensure that the regional offices of the Environmental Protection Agency and appropriate State and local authorities for the State in which a facility under the Secretary’s jurisdiction is located receive prompt notice of each of the following:
 
@@ -29,19 +29,19 @@
 
     (b) __Comment by EPA and State and Local Authorities.—__ 
 
-        (1) __Release notices.—__ 
+        (1)  __Release notices__  __.—__ 
 
         The Secretary shall ensure that the Administrator of the Environmental Protection Agency and appropriate State and local officials have an adequate opportunity to comment on notices under paragraphs (1) and (2) of subsection (a).
 
-        (2) __Proposals for response actions.—__ 
+        (2)  __Proposals for response actions__  __.—__ 
 
         The Secretary shall require that an adequate opportunity for timely review and comment be afforded to the Administrator and to appropriate State and local officials after making a proposal referred to in subsection (a)(3) and before undertaking an activity or action referred to in subsection (a)(4). The preceding sentence does not apply if the action is an emergency removal taken because of imminent and substantial endangerment to human health or the environment and consultation would be impractical.
 
-    (c) __Technical Review Committee.—__ 
+    (c)  __Technical Review Committee__  __.—__ 
 
     Whenever possible and practical, the Secretary shall establish a technical review committee to review and comment on Department of Defense actions and proposed actions with respect to releases or threatened releases of hazardous substances at installations. Members of any such committee shall include at least one representative of the Secretary, the Administrator, and appropriate State and local authorities and shall include a public representative of the community involved.
 
-    (d) __Restoration Advisory Board.—__ 
+    (d)  __Restoration Advisory Board__  __.—__ 
 
         (1) In lieu of establishing a technical review committee under subsection (c), the Secretary may permit the establishment of a restoration advisory board in connection with any installation (or group of nearby installations) where the Secretary is planning or implementing environmental restoration activities.
 
@@ -55,7 +55,7 @@
 
         (3) The Secretary may authorize the commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to pay routine administrative expenses of a restoration advisory board established for that installation. Such payments shall be made from funds available under subsection (g).
 
-    (e) __Technical Assistance.—__ 
+    (e)  __Technical Assistance__  __.—__ 
 
         (1) The Secretary may, upon the request of the technical review committee or restoration advisory board for an installation, authorize the commander of the installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) to obtain for the committee or advisory board, as the case may be, from private sector sources technical assistance for interpreting scientific and engineering issues with regard to the nature of environmental hazards at the installation and the restoration activities conducted, or proposed to be conducted, at the installation. The commander of an installation (or, if there is no such commander, an appropriate official of the Department of Defense designated by the Secretary) shall use funds made available under subsection (g) for obtaining assistance under this paragraph.
 
@@ -73,7 +73,7 @@
 
                 (ii) is likely to contribute to community acceptance of environmental restoration activities at the installation.
 
-    (f) __Involvement in Defense Environmental Restoration Program.—__ 
+    (f)  __Involvement in Defense Environmental Restoration Program__  __.—__ 
 
     If a technical review committee or restoration advisory board is established with respect to an installation (or group of installations), the Secretary shall consult with and seek the advice of the committee or board on the following issues:
 
@@ -87,7 +87,7 @@
 
         (5) Developing environmental restoration strategies for the installation or installations.
 
-    (g) __Funding.—__ 
+    (g)  __Funding__  __.—__ 
 
     The Secretary shall, to the extent provided in appropriations Acts, make funds available for administrative expenses and technical assistance under this section using funds in the following accounts:
 

@@ -15,7 +15,7 @@
 
 ## § 2636. Deductions from amounts due carriers
 
-    (a) __Amounts for Loss or Damage.—__ 
+    (a)  __Amounts for Loss or Damage__  __.—__ 
 
     An amount deducted from an amount due a carrier shall be credited as follows:
 
@@ -23,7 +23,7 @@
 
         (2) If deducted as an administrative offset for an overpayment previously made to the carrier under any Department of Defense contract for transportation services or as liquidated damages due under any such contract, the amount shall be credited to the appropriation or account from which payments for the transportation services were made.
 
-    (b) __Simplified Offset for Collection of Claims Not in Excess of the Simplified Acquisition Threshold.—__ 
+    (b)  __Simplified Offset for Collection of Claims Not in Excess of the Simplified Acquisition Threshold__  __.—__ 
 
         (1) In any case in which the total amount of a claim for the recovery of overpayments or liquidated damages under a contract described in subsection (a)(2) does not exceed the simplified acquisition threshold, the Secretary of Defense or the Secretary concerned, in exercising the authority to collect the claim by administrative offset under [section 3716 of title 31][/us/usc/t31/s3716], may apply paragraphs (2) and (3) of subsection (a) of that section with respect to that collection after (rather than before) the claim is so collected.
 

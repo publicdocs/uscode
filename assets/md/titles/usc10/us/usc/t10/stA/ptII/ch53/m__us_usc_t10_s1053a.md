@@ -15,15 +15,15 @@
 
 ## § 1053a. Expenses incurred in connection with leave canceled due to contingency operations: reimbursement
 
-    (a) __Authorization To Reimburse.—__ 
+    (a)  __Authorization To Reimburse__  __.—__ 
 
     The Secretary concerned may reimburse a member of the armed forces under the jurisdiction of the Secretary for travel and related expenses (to the extent not otherwise reimbursable under law) incurred by the member as a result of the cancellation of previously approved leave when the leave is canceled in connection with the member’s participation in a contingency operation and the cancellation occurs within 48 hours of the time the leave would have commenced.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to establish the criteria for the applicability of subsection (a).
 
-    (c) __Conclusiveness of Settlement.—__ 
+    (c)  __Conclusiveness of Settlement__  __.—__ 
 
     The settlement of an application for reimbursement under subsection (a) is final and conclusive.
 

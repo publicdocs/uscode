@@ -15,7 +15,7 @@
 
 ## § 1746. Defense Acquisition University
 
-    (a) __Defense Acquisition University Structure.—__ 
+    (a)  __Defense Acquisition University Structure__  __.—__ 
 
     The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish and maintain a defense acquisition university structure to provide for—
 
@@ -23,7 +23,7 @@
 
         (2) research and analysis of defense acquisition policy issues from an academic perspective.
 
-    (b) __Civilian Faculty Members.—__ 
+    (b)  __Civilian Faculty Members__  __.—__ 
 
         (1) The Secretary of Defense may employ as many civilians as professors, instructors, and lecturers in the defense acquisition university structure as the Secretary considers necessary.
 
@@ -31,7 +31,7 @@
 
         (3) In this subsection, the term “defense acquisition university” includes the Defense Systems Management College.
 
-    (c) __Curriculum Development.—__ 
+    (c)  __Curriculum Development__  __.—__ 
 
     The President of the Defense Acquisition University shall work with the relevant professional schools and degree-granting institutions of the Department of Defense and military departments to ensure that best practices are used in curriculum development to support acquisition workforce positions.
 

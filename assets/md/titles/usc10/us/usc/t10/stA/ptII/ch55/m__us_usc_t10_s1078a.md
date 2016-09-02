@@ -15,11 +15,11 @@
 
 ## § 1078a. Continued health benefits coverage
 
-    (a) __Provision of Continued Health Coverage.—__ 
+    (a)  __Provision of Continued Health Coverage__  __.—__ 
 
     The Secretary of Defense shall implement and carry out a program of continued health benefits coverage in accordance with this section to provide persons described in subsection (b) with temporary health benefits comparable to the health benefits provided for former civilian employees of the Federal Government and other persons under [section 8905a of title 5][/us/usc/t5/s8905a].
 
-    (b) __Eligible Persons.—__ 
+    (b)  __Eligible Persons__  __.—__ 
 
     The persons referred to in subsection (a) are the following:
 
@@ -55,7 +55,7 @@
 
         (4) Any other person specified in regulations prescribed by the Secretary of Defense for purposes of this paragraph who loses entitlement to health care services under this chapter or [section 1145 of this title][/us/usc/t10/s1145], subject to such terms and conditions as the Secretary shall prescribe in the regulations.
 
-    (c) __Notification of Eligibility.—__ 
+    (c)  __Notification of Eligibility__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations to provide for persons described in subsection (b) to be notified of eligibility to receive health benefits under this section.
 
@@ -71,7 +71,7 @@
 
         (4) In the case of a former spouse of a member or former member who becomes eligible for continued coverage under subsection (b)(3), the regulations shall provide appropriate notification provisions and a 60-day election period under subsection (d)(3).
 
-    (d) __Election of Coverage.—__ 
+    (d)  __Election of Coverage__  __.—__ 
 
     In order to obtain continued coverage under this section, an appropriate written election (submitted in such manner as the Secretary of Defense may prescribe) shall be made as follows:
 
@@ -107,11 +107,11 @@
 
         (4) In the case of a person described in subsection (b)(4), by such date as the Secretary shall prescribe in the regulations required for purposes of that subsection.
 
-    (e) __Coverage of Dependents.—__ 
+    (e)  __Coverage of Dependents__  __.—__ 
 
     A person eligible under subsection (b)(1) to elect to receive coverage may elect coverage either as an individual or, if appropriate, for self and dependents. A person eligible under subsection (b)(2) or subsection (b)(3) may elect only individual coverage.
 
-    (f) __Charges.—__ 
+    (f)  __Charges__  __.—__ 
 
         (1)
 
@@ -123,7 +123,7 @@
 
         (2) If a person elects to continue coverage under this section before the end of the applicable period under subsection (d), but after the person’s coverage under this chapter (and any transitional extension of coverage under [section 1145(a) of this title][/us/usc/t10/s1145/a]) expires, coverage shall be restored retroactively, with appropriate contributions (determined in accordance with paragraph (1)) and claims (if any), to the same extent and effect as though no break in coverage had occurred.
 
-    (g) __Period of Continued Coverage.—__ 
+    (g)  __Period of Continued Coverage__  __.—__ 
 
         (1)
 

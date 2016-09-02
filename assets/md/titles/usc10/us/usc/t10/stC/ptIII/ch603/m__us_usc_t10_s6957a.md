@@ -15,15 +15,15 @@
 
 ## § 6957a. Exchange program with foreign military academies
 
-    (a) __Exchange Program Authorized.—__ 
+    (a)  __Exchange Program Authorized__  __.—__ 
 
     The Secretary of the Navy may permit a student enrolled at a military academy of a foreign country to receive instruction at the Naval Academy in exchange for a midshipman receiving instruction at that foreign military academy pursuant to an exchange agreement entered into between the Secretary and appropriate officials of the foreign country. Students receiving instruction at the Academy under the exchange program shall be in addition to persons receiving instruction at the Academy under [section 6957 of this title][/us/usc/t10/s6957].
 
-    (b) __Limitations on Number and Duration of Exchanges.—__ 
+    (b)  __Limitations on Number and Duration of Exchanges__  __.—__ 
 
     An exchange agreement under this section between the Secretary and a foreign country shall provide for the exchange of students on a one-for-one basis each fiscal year. Not more than 100 midshipmen and a comparable number of students from all foreign military academies participating in the exchange program may be exchanged during any fiscal year. The duration of an exchange may not exceed the equivalent of one academic semester at the Naval Academy.
 
-    (c) __Costs and Expenses.—__ 
+    (c)  __Costs and Expenses__  __.—__ 
 
         (1) A student from a military academy of a foreign country is not entitled to the pay, allowances, and emoluments of a midshipman by reason of attendance at the Naval Academy under the exchange program, and the Department of Defense may not incur any cost of international travel required for transportation of such a student to and from the sponsoring foreign country.
 
@@ -33,11 +33,11 @@
 
         (4) Expenditures in support of the exchange program from funds appropriated for the Naval Academy may not exceed $1,000,000 during any fiscal year.
 
-    (d) __Application of Other Laws.—__ 
+    (d)  __Application of Other Laws__  __.—__ 
 
     Subsections (c) and (d) of [section 6957 of this title][/us/usc/t10/s6957] shall apply with respect to a student enrolled at a military academy of a foreign country while attending the Naval Academy under the exchange program.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations to implement this section. Such regulations may include qualification criteria and methods of selection for students of foreign military academies to participate in the exchange program.
 

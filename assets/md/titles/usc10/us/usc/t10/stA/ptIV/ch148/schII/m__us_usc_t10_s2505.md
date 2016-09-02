@@ -15,11 +15,11 @@
 
 ## § 2505. National technology and industrial base: periodic defense capability assessments
 
-    (a) __Periodic Assessment.—__ 
+    (a)  __Periodic Assessment__  __.—__ 
 
     Each fiscal year, the Secretary of Defense shall prepare selected assessments of the capability of the national technology and industrial base to attain the national security objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a]. The Secretary of Defense shall prepare such assessments in consultation with the Secretary of Commerce and the Secretary of Energy.
 
-    (b) __Assessment Process.—__ 
+    (b)  __Assessment Process__  __.—__ 
 
     The Secretary of Defense shall ensure that technology and industrial capability assessments—
 
@@ -31,7 +31,7 @@
 
         (4) consider the effects of the termination of major defense acquisition programs (as the term is defined in [section 2430 of this title][/us/usc/t10/s2430]) or major automated information system programs (as defined in [section 2445a of this title][/us/usc/t10/s2445a]) in the previous fiscal year on the sectors and capabilities in the assessment.
 
-    (c) __Assessment of Extent of Dependency on Foreign Source Items.—__ 
+    (c)  __Assessment of Extent of Dependency on Foreign Source Items__  __.—__ 
 
     Each assessment under subsection (a) shall include a separate discussion and presentation regarding the extent to which the national technology and industrial base is dependent on items for which the source of supply, manufacture, or technology is outside of the United States and Canada and for which there is no immediately available source in the United States or Canada. The discussion and presentation regarding foreign dependency shall—
 
@@ -39,7 +39,7 @@
 
         (2) present actions being taken or proposed to be taken to remedy the risk posed by the cases identified under paragraph (1), including efforts to develop a domestic source for the item in question.
 
-    (d) __Assessment of Extent of Effects of Foreign Boycotts.—__ 
+    (d)  __Assessment of Extent of Effects of Foreign Boycotts__  __.—__ 
 
     Each assessment under subsection (a) shall include an examination of the extent to which the national technology and industrial base is affected by foreign boycotts. If it is determined that a foreign boycott (other than a boycott addressed in a previous assessment) is subjecting the national technology and industrial base to significant harm, the assessment shall include a separate discussion and presentation regarding that foreign boycott that shall, at a minimum—
 
@@ -49,7 +49,7 @@
 
         (3) identify actions necessary to minimize the effects of such boycott on the national technology and industrial base.
 
-    (e) __Integrated Process.—__ 
+    (e)  __Integrated Process__  __.—__ 
 
     The Secretary of Defense shall ensure that consideration of the technology and industrial base assessments is integrated into the overall budget, acquisition, and logistics support decision processes of the Department of Defense.
 

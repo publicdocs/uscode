@@ -15,15 +15,15 @@
 
 ## § 1799. Child care services and youth program services for dependents: participation by children and youth otherwise ineligible
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may authorize participation in child care or youth programs of the Department of Defense, to the extent of the availability of space and services, by children and youth under the age of 19 who are not dependents of members of the armed forces or of employees of the Department of Defense and are not otherwise eligible for participation in those programs.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     Authorization of participation in a program under subsection (a) shall be limited to situations in which that participation promotes the attainment of the objectives set forth in subsection (c), as determined by the Secretary.
 
-    (c) __Objectives.—__ 
+    (c)  __Objectives__  __.—__ 
 
     The objectives for authorizing participation in a program under subsection (a) are as follows:
 

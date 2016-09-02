@@ -15,11 +15,11 @@
 
 ## § 777. Wearing of insignia of higher grade before promotion (frocking): authority; restrictions
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     An officer in a grade below the grade of major general or, in the case of the Navy, rear admiral, who has been selected for promotion to the next higher grade may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that next higher grade. An officer who is so authorized to wear the insignia of the next higher grade is said to be “frocked” to that grade.
 
-    (b) __Restrictions.—__ 
+    (b)  __Restrictions__  __.—__ 
 
     An officer may not be authorized to wear the insignia for a grade as described in subsection (a) unless—
 
@@ -35,7 +35,7 @@
 
             (B) the Secretary of Defense has submitted to Congress a written notification of the intent to authorize the officer to wear the insignia for that grade.
 
-    (c) __Benefits Not To Be Construed as Accruing.—__ 
+    (c)  __Benefits Not To Be Construed as Accruing__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
             (B) Time of service in that grade.
 
-    (d) __Limitation on Number of Officers Frocked to Specified Grades.—__ 
+    (d)  __Limitation on Number of Officers Frocked to Specified Grades__  __.—__ 
 
         (1) The total number of colonels, Navy captains, brigadier generals, and rear admirals (lower half) on the active-duty list who are authorized as described in subsection (a) to wear the insignia for the next higher grade may not exceed 85.
 

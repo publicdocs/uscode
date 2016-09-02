@@ -45,7 +45,7 @@
 
 [Pub. L. 109–163, div. A, title V, § 535][/us/pl/109/163/s535], Jan. 6, 2006, [119 Stat. 3249][/us/stat/119/3249], as amended by [Pub. L. 111–383, div. A, title X, § 1075(h)(2)][/us/pl/111/383/s1075/h/2], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall support the acquisition of foreign language skills among cadets and midshipmen in the Reserve Officers’ Training Corps, including through the development and implementation of—
 
@@ -53,7 +53,7 @@
 
 >         “(2) a recruiting strategy to target foreign language speakers, including members of heritage communities, to participate in the Reserve Officers’ Training Corps.
 
->     “(b) __Report Required.—__ 
+>     “(b)  __Report Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the actions taken to carry out this section.”
 

@@ -15,7 +15,7 @@
 
 ## § 231. Budgeting for construction of naval vessels: annual plan and certification
 
-    (a) __Annual Naval Vessel Construction Plan and Certification.—__ 
+    (a)  __Annual Naval Vessel Construction Plan and Certification__  __.—__ 
 
     The Secretary of Defense shall include with the defense budget materials for a fiscal year—
 
@@ -23,7 +23,7 @@
 
         (2) a certification by the Secretary that both the budget for that fiscal year and the future-years defense program submitted to Congress in relation to such budget under [section 221 of this title][/us/usc/t10/s221] provide for funding of the construction of naval vessels at a level that is sufficient for the procurement of the vessels provided for in the plan under paragraph (1) on the schedule provided in that plan.
 
-    (b) __Annual Naval Vessel Construction Plan.—__ 
+    (b)  __Annual Naval Vessel Construction Plan__  __.—__ 
 
         (1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the naval vessel force provided for under that plan is capable of supporting the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan should be designed so that the naval vessel force provided for under that plan is capable of supporting the ship force structure recommended in the report of the most recent quadrennial defense review.
 
@@ -37,21 +37,21 @@
 
             (C) The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
 
-    (c) __Assessment When Vessel Construction Budget Is Insufficient to Meet Applicable Requirements.—__ 
+    (c)  __Assessment When Vessel Construction Budget Is Insufficient to Meet Applicable Requirements__  __.—__ 
 
     If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
 
-    (d) __CBO Evaluation.—__ 
+    (d)  __CBO Evaluation__  __.—__ 
 
     Not later than 60 days after the date on which the congressional defense committees receive the plan under subsection (a)(1), the Director of the Congressional Budget Office shall submit to such committees a report assessing the sufficiency of the estimated levels of annual funding included in such plan with respect to the budget submitted during the year in which the plan is submitted and the future-years defense program submitted under [section 221 of this title][/us/usc/t10/s221].
 
-    (e) __Limitation on Availability of Funds for Fiscal Years Without Plan and Certification.—__ 
+    (e)  __Limitation on Availability of Funds for Fiscal Years Without Plan and Certification__  __.—__ 
 
         (1) If the Secretary of Defense does not include with the defense budget materials for a fiscal year the plan and certification under subsection (a), the Secretary of the Navy may not use more than 50 percent of the funds described in paragraph (2) during the fiscal year in which such materials are submitted until the date on which such plan and certification are submitted to the congressional defense committees.
 
         (2) The funds described in this paragraph are funds made available to the Secretary of the Navy for operation and maintenance, Navy, for emergencies and extraordinary expenses.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

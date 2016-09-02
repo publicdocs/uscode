@@ -15,7 +15,7 @@
 
 ## § 10216. Military technicians (dual status)
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
                 (iv) Department of Defense civilian employees.
 
-    (b) __Priority for Management of Military Technicians (Dual Status).—__ 
+    (b)  __Priority for Management of Military Technicians (Dual Status)__  __.—__ 
 
         (1)
 
@@ -77,7 +77,7 @@
 
         (3) Military technician (dual status) authorizations and personnel shall be exempt from any requirement (imposed by law or otherwise) for reductions in Department of Defense civilian personnel and shall only be reduced as part of military force structure reductions.
 
-    (c) __Information Required To Be Submitted With Annual End Strength Authorization Request.—__ 
+    (c)  __Information Required To Be Submitted With Annual End Strength Authorization Request__  __.—__ 
 
         (1)
 
@@ -97,7 +97,7 @@
 
             (B) Any justification submitted under subparagraph (A) shall clearly delineate the specific force structure reductions forming the basis for such requested technician reduction (and the numbers related to those reductions).
 
-    (d) __Unit Membership Requirement.—__ 
+    (d)  __Unit Membership Requirement__  __.—__ 
 
         (1)
 
@@ -111,17 +111,17 @@
 
         (3) Paragraph (1) does not apply to a military technician (dual status) who is employed by the Air Force Reserve in an area other than the Air Force Reserve unit program, except that not more than 50 of such technicians may be assigned outside of the unit program at the same time.
 
-    (e) __Dual Status Requirement.—__ 
+    (e)  __Dual Status Requirement__  __.—__ 
 
         (1) Funds appropriated for the Department of Defense may not (except as provided in paragraph (2)) be used for compensation as a military technician of any individual hired as a military technician (dual status) after February 10, 1996, who is no longer a member of the Selected Reserve.
 
         (2) Except as otherwise provided by law, the Secretary concerned may pay compensation described in paragraph (1) to an individual described in that paragraph who is no longer a member of the Selected Reserve for a period up to 12 months following the individual’s loss of membership in the Selected Reserve if the Secretary determines that such loss of membership was not due to the failure of that individual to meet military standards.
 
-    (f) __Authority for Deferral of Mandatory Separation.—__ 
+    (f)  __Authority for Deferral of Mandatory Separation__  __.—__ 
 
     The Secretary of the Army and the Secretary of the Air Force may each implement personnel policies so as to allow, at the discretion of the Secretary concerned, a military technician (dual status) who continues to meet the requirements of this section for dual status to continue to serve beyond a mandatory removal date, and any applicable maximum years of service limitation, until the military technician (dual status) reaches age 60 and attains eligibility for an unreduced annuity (as defined in [section 10218(c) of this title][/us/usc/t10/s10218/c]).
 
-    (g) __Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Disability.—__ 
+    (g)  __Retention of Military Technicians Who Lose Dual Status Due to Combat-Related Disability__  __.—__ 
 
         (1)
 

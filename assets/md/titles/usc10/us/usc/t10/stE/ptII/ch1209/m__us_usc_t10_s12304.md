@@ -15,11 +15,11 @@
 
 ## § 12304. Selected Reserve and certain Individual Ready Reserve members; order to active duty other than during war or national emergency
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Notwithstanding the provisions of section 12302(a) or any other provision of law, when the President determines that it is necessary to augment the active forces for any named operational mission or that it is necessary to provide assistance referred to in subsection (b), he may authorize the Secretary of Defense and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, without the consent of the members concerned, to order any unit, and any member not assigned to a unit organized to serve as a unit of the Selected Reserve (as defined in [section 10143(a) of this title][/us/usc/t10/s10143/a]), or any member in the Individual Ready Reserve mobilization category and designated as essential under regulations prescribed by the Secretary concerned, under their respective jurisdictions, to active duty for not more than 365 consecutive days.
 
-    (b) __Support for Responses to Certain Emergencies.—__ 
+    (b)  __Support for Responses to Certain Emergencies__  __.—__ 
 
     The authority under subsection (a) includes authority to order a unit or member to active duty to provide assistance in responding to an emergency involving—
 
@@ -27,7 +27,7 @@
 
         (2) a terrorist attack or threatened terrorist attack in the United States that results, or could result, in significant loss of life or property.
 
-    (c) __Limitations.—__ 
+    (c)  __Limitations__  __.—__ 
 
         (1) No unit or member of a reserve component may be ordered to active duty under this section to perform any of the functions authorized by chapter 15 or [section 12406 of this title][/us/usc/t10/s12406] or, except as provided in subsection (b), to provide assistance to either the Federal Government or a State in time of a serious natural or manmade disaster, accident, or catastrophe.
 
@@ -35,19 +35,19 @@
 
         (3) No unit or member of a reserve component may be ordered to active duty under this section to provide assistance referred to in subsection (b) unless the President determines that the requirements for responding to an emergency referred to in that subsection have exceeded, or will exceed, the response capabilities of local, State, and Federal civilian agencies.
 
-    (d) __Exclusion From Strength Limitations.—__ 
+    (d)  __Exclusion From Strength Limitations__  __.—__ 
 
     Members ordered to active duty under this section shall not be counted in computing authorized strength in members on active duty or members in grade under this title or any other law.
 
-    (e) __Policies and Procedures.—__ 
+    (e)  __Policies and Procedures__  __.—__ 
 
     The Secretary of Defense and the Secretary of Homeland Security shall prescribe such policies and procedures for the armed forces under their respective jurisdictions as they consider necessary to carry out this section.
 
-    (f) __Notification of Congress.—__ 
+    (f)  __Notification of Congress__  __.—__ 
 
     Whenever the President authorizes the Secretary of Defense or the Secretary of Homeland Security to order any unit or member of the Selected Reserve or Individual Ready Reserve to active duty, under the authority of subsection (a), he shall, within 24 hours after exercising such authority, submit to Congress a report, in writing, setting forth the circumstances necessitating the action taken under this section and describing the anticipated use of these units or members.
 
-    (g) __Termination of Duty.—__ 
+    (g)  __Termination of Duty__  __.—__ 
 
     Whenever any unit of the Selected Reserve or any member of the Selected Reserve not assigned to a unit organized to serve as a unit, or any member of the Individual Ready Reserve, is ordered to active duty under authority of subsection (a), the service of all units or members so ordered to active duty may be terminated by—
 
@@ -55,11 +55,11 @@
 
         (2) law.
 
-    (h) __Relationship to War Powers Resolution.—__ 
+    (h)  __Relationship to War Powers Resolution__  __.—__ 
 
     Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution ([50 U.S.C. 1541][/us/usc/t50/s1541] et seq.).
 
-    (i) __Considerations for Involuntary Order to Active Duty.—__ 
+    (i)  __Considerations for Involuntary Order to Active Duty__  __.—__ 
 
         (1)
 
@@ -75,7 +75,7 @@
 
         (2) The Secretary of Defense shall prescribe such policies and procedures as the Secretary considers necessary to carry out this subsection.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 

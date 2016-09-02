@@ -15,11 +15,11 @@
 
 ## § 4309. Rifle ranges: availability for use by members and civilians
 
-    (a) __Ranges Available.—__ 
+    (a)  __Ranges Available__  __.—__ 
 
     All rifle ranges constructed in whole or in part with funds provided by the United States may be used by members of the armed forces and by persons capable of bearing arms.
 
-    (b) __Military Ranges.—__ 
+    (b)  __Military Ranges__  __.—__ 
 
         (1) In the case of a rifle range referred to in subsection (a) that is located on a military installation, the Secretary concerned may establish reasonable fees for the use by civilians of that rifle range to cover the material and supply costs incurred by the armed forces to make that rifle range available to civilians.
 
@@ -27,7 +27,7 @@
 
         (3) Use of a rifle range referred to in paragraph (1) by civilians may not interfere with the use of the range by members of the armed forces.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     Regulations to carry out this section with respect to a rifle range shall be prescribed, subject to the approval of the Secretary concerned, by the authorities controlling the rifle range.
 

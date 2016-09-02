@@ -15,11 +15,11 @@
 
 ## § 1135. Replacement of military decorations
 
-    (a) __Replacement.—__ 
+    (a)  __Replacement__  __.—__ 
 
     In addition to other authorities available to the Secretary concerned to replace a military decoration, the Secretary concerned shall replace, on a one-time basis and without charge, a military decoration upon the request of the recipient of the military decoration or the immediate next of kin of a deceased recipient.
 
-    (b) __Military Decoration Defined.—__ 
+    (b)  __Military Decoration Defined__  __.—__ 
 
     In this section, the term “decoration” means any decoration or award (other than the medal of honor) that may be presented or awarded by the President or the Secretary concerned to a member of the armed forces.
 

@@ -15,23 +15,23 @@
 
 ## § 2608. Acceptance of contributions for defense programs, projects, and activities; Defense Cooperation Account
 
-    (a) __Acceptance Authority.—__ 
+    (a)  __Acceptance Authority__  __.—__ 
 
     The Secretary of Defense may accept from any person, foreign government, or international organization any contribution of money or real or personal property made by such person, foreign government, or international organization for use by the Department of Defense and may accept from any foreign government or international organization any contribution of services made by such foreign government or international organization for use by the Department of Defense.
 
-    (b) __Establishment of Defense Cooperation Account.—__ 
+    (b)  __Establishment of Defense Cooperation Account__  __.—__ 
 
         (1) There is established in the Treasury of the United States a special account to be known as the “Defense Cooperation Account”.
 
         (2) Contributions of money and proceeds from the sale of any property accepted by the Secretary of Defense under subsection (a) shall be credited to the Defense Cooperation Account.
 
-    (c) __Use of the Defense Cooperation Account.—__ 
+    (c)  __Use of the Defense Cooperation Account__  __.—__ 
 
         (1) Funds in the Defense Cooperation Account may be appropriated for a function described in [section 114 of this title][/us/usc/t10/s114] only to the extent that the appropriation of such funds for such purpose is authorized in accordance with that section.
 
         (2) Funds in the Defense Cooperation Account shall not be made available for obligation or expenditure except to the extent and in the manner provided in subsequent appropriations Acts.
 
-    (d) __Use of Property.—__ 
+    (d)  __Use of Property__  __.—__ 
 
     Any contribution of property received under this section may be—
 
@@ -41,7 +41,7 @@
 
         (3) converted into a form usable by the Department of Defense.
 
-    (e) __Reporting Requirement.—__ 
+    (e)  __Reporting Requirement__  __.—__ 
 
         (1) Not later than 30 days after the end of the second quarter and the fourth quarter of each fiscal year, the Secretary of Defense shall submit to Congress a report on contributions of property accepted by the Secretary under this section during the preceding two quarters. The Secretary shall include in each such report a description of all property having a value of more than $1,000,000.
 
@@ -53,29 +53,29 @@
 
             (B) components which, if assembled, would comprise all or a substantial part of an item of equipment or a facility.
 
-    (f) __Authority to Use Property.—__ 
+    (f)  __Authority to Use Property__  __.—__ 
 
     Property accepted under subsection (a) may be used by the Secretary of Defense without specific authorization, except that such property may not be used in connection with any program, project, or activity if the use of such property would result in the violation of any prohibition or limitation otherwise applicable to such program, project, or activity.
 
-    (g) __Investment of Money.—__ 
+    (g)  __Investment of Money__  __.—__ 
 
         (1) Upon request by the Secretary of Defense, the Secretary of the Treasury may invest money in the Defense Cooperation Account in securities of the United States or in securities guaranteed as to principal and interest by the United States.
 
         (2) Any interest or other income that accrues from investment in securities referred to in paragraph (1) shall be deposited to the credit of the Defense Cooperation Account.
 
-    (h) __Notification of Conditions.—__ 
+    (h)  __Notification of Conditions__  __.—__ 
 
     The Secretary of Defense shall notify Congress of any condition imposed by the donor on the use of any contribution accepted by the Secretary under the authority of this section.
 
-    (i) __Periodic Audits by GAO.—__ 
+    (i)  __Periodic Audits by__  __GAO.—__ 
 
     The Comptroller General of the United States shall make periodic audits of money and property accepted under this section, at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 
-    (j) __Items Included as Contributions.—__ 
+    (j)  __Items Included as Contributions__  __.—__ 
 
     In this section, the term “contribution” includes a devise of real property or a bequest of personal property.
 
-    (k) __Regulations.—__ 
+    (k)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 

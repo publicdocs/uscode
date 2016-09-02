@@ -27,11 +27,11 @@
 
 [Pub. L. 111–383, div. A, title V, § 587][/us/pl/111/383/s587], Jan. 7, 2011, [124 Stat. 4230][/us/stat/124/4230], provided that:
 
->     “(a) __Reports Required.—__ 
+>     “(a)  __Reports Required__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Jan. 7, 2011\], and every two years thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on Department of Defense child development centers and financial assistance for child care provided by the Department of Defense off-installation to members of the Armed Forces.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     Each report required by subsection (a) shall include the following, current as of the date of such report:
 

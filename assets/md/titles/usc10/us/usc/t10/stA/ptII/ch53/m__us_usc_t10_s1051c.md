@@ -15,23 +15,23 @@
 
 ## § 1051c. Multilateral, bilateral, or regional cooperation programs: assignments to improve education and training in information security
 
-    (a) __Assignments Authorized; Purpose.—__ 
+    (a)  __Assignments Authorized; Purpose__  __.—__ 
 
     The Secretary of Defense may authorize the temporary assignment of a member of the military forces of a foreign country to a Department of Defense organization for the purpose of assisting the member to obtain education and training to improve the member’s ability to understand and respond to information security threats, vulnerabilities of information security systems, and the consequences of information security incidents.
 
-    (b) __Payment of Certain Expenses.—__ 
+    (b)  __Payment of Certain Expenses__  __.—__ 
 
     To facilitate the assignment of a member of a foreign military force to a Department of Defense organization under subsection (a), the Secretary of Defense may pay such expenses in connection with the assignment as the Secretary considers in the national security interests of the United States.
 
-    (c) __Protection of Department Cybersecurity.—__ 
+    (c)  __Protection of Department Cybersecurity__  __.—__ 
 
     In authorizing the temporary assignment of members of foreign military forces to Department of Defense organizations under subsection (a), the Secretary of Defense shall require the inclusion of adequate safeguards to prevent any compromising of Department information security.
 
-    (d) __Multi-year Availability of Funds.—__ 
+    (d)  __Multi-year Availability of Funds__  __.—__ 
 
     Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
 
-    (e) __Information Security Defined.—__ 
+    (e)  __Information Security Defined__  __.—__ 
 
     In this section, the term “information security” refers to—
 

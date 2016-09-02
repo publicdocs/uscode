@@ -15,7 +15,7 @@
 
 ## § 2663. Land acquisition authorities
 
-    (a) __Acquisition of Land by Condemnation for Certain Military Purposes.—__ 
+    (a)  __Acquisition of Land by Condemnation for Certain Military Purposes__  __.—__ 
 
         (1)
 
@@ -29,11 +29,11 @@
 
         (2) In time of war or when war is imminent, the United States may, immediately upon the filing of a petition for condemnation under paragraph (1), take and use the land to the extent of the interest sought to be acquired.
 
-    (b) __Acquisition by Purchase in Lieu of Condemnation.—__ 
+    (b)  __Acquisition by Purchase in Lieu of Condemnation__  __.—__ 
 
     The Secretary of the military department concerned may contract for or buy any interest in land, including temporary use, needed for any purpose named in subsection (a), as soon as the owner fixes a price for it and the Secretary considers that price to be reasonable.
 
-    (c) __Acquisition of Low-Cost Interests in Land.—__ 
+    (c)  __Acquisition of Low-Cost Interests in Land__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (4) Appropriations available to the Department of Defense for operation and maintenance or construction may be used for the acquisition of land or interests in land under this subsection.
 
-    (d) __Acquisition of Interests in Land When Need Is Urgent.—__ 
+    (d)  __Acquisition of Interests in Land When Need Is Urgent__  __.—__ 
 
         (1)
 
@@ -71,7 +71,7 @@
 
         (3) Appropriations available for military construction may be used for the purposes of this subsection.
 
-    (e) __Survey Authority; Acquisition Methods.—__ 
+    (e)  __Survey Authority; Acquisition Methods__  __.—__ 
 
     Authority provided the Secretary of a military department by law to acquire an interest in real property (including a temporary interest) includes authority—
 
@@ -79,7 +79,7 @@
 
         (2) to acquire the interest in real property by gift, purchase, exchange of real property owned by the United States, or otherwise.
 
-    (f) __Advance Notice of Use of Condemnation.—__ 
+    (f)  __Advance Notice of Use of Condemnation__  __.—__ 
 
         (1)
 
@@ -99,11 +99,11 @@
 
         (2) The Secretary concerned may have proceedings brought in the name of the United States to acquire the land after the end of the 21-day period beginning on the date on which the report is received by the committees or, if over sooner, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (g) __Exception to Advance Notice Requirement.—__ 
+    (g)  __Exception to Advance Notice Requirement__  __.—__ 
 
     If the Secretary of a military department determines that the use of condemnation, eminent domain, or seizure to acquire an interest in land is required under subsection (a) to satisfy a requirement vital to national security, and that any delay would be detrimental to national security or the protection of health, safety, or the environment, the Secretary may have proceedings brought in the name of the United States to acquire the land in advance of submitting the report required by subsection (f)(1)(B). However, the Secretary shall submit the report not later than seven days after commencement of the legal proceedings with respect to the land.
 
-    (h) __Land Acquisition Options in Advance of Military Construction Projects.—__ 
+    (h)  __Land Acquisition Options in Advance of Military Construction Projects__  __.—__ 
 
         (1) The Secretary of a military department may acquire an option on a parcel of real property before or after its acquisition is authorized by law, if the Secretary considers it suitable and likely to be needed for a military project of the military department under the jurisdiction of the Secretary.
 

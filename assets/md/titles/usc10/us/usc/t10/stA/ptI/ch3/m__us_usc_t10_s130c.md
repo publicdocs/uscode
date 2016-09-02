@@ -15,11 +15,11 @@
 
 ## § 130c. Nondisclosure of information: certain sensitive information of foreign governments and international organizations
 
-    (a) __Exemption From Disclosure.—__ 
+    (a)  __Exemption From Disclosure__  __.—__ 
 
     The national security official concerned (as defined in subsection (h)) may withhold from public disclosure otherwise required by law sensitive information of foreign governments in accordance with this section.
 
-    (b) __Information Eligible for Exemption.—__ 
+    (b)  __Information Eligible for Exemption__  __.—__ 
 
     For the purposes of this section, information is sensitive information of a foreign government only if the national security official concerned makes each of the following determinations with respect to the information:
 
@@ -37,11 +37,11 @@
 
             (C) The information is an item of information, or is in a category of information, that the national security official concerned has specified in regulations prescribed under subsection (g) as being information the release of which would have an adverse effect on the ability of the United States Government to obtain the same or similar information in the future.
 
-    (c) __Information of Other Agencies.—__ 
+    (c)  __Information of Other Agencies__  __.—__ 
 
     If the national security official concerned provides to the head of another agency sensitive information of a foreign government, as determined by that national security official under subsection (b), and informs the head of the other agency of that determination, then the head of the other agency shall withhold the information from any public disclosure unless that national security official specifically authorizes the disclosure.
 
-    (d) __Limitations.—__ 
+    (d)  __Limitations__  __.—__ 
 
         (1) If a request for disclosure covers any sensitive information of a foreign government (as described in subsection (b)) that came into the possession or under the control of the United States Government before October 30, 2000, and more than 25 years before the request is received by an agency, the information may be withheld only as set forth in paragraph (3).
 
@@ -61,11 +61,11 @@
 
         (3) Information referred to in paragraph (1) or (2)(C) may be withheld under this section in the case of a request for disclosure only if, upon the notification of each foreign government and international organization concerned in accordance with the regulations prescribed under subsection (g)(2), any such government or organization requests in writing that the information not be disclosed for an additional period stated in the request of that government or organization. After the national security official concerned considers the request of the foreign government or international organization, the official shall designate a later date as the date after which the information is not to be withheld under this section. The later date may be extended in accordance with a later request of any such foreign government or international organization under this paragraph.
 
-    (e) __Information Protected Under Other Authority.—__ 
+    (e)  __Information Protected Under Other Authority__  __.—__ 
 
     This section does not apply to information or matters that are specifically required in the interest of national defense or foreign policy to be protected against unauthorized disclosure under criteria established by an Executive order and are classified, properly, at the confidential, secret, or top secret level pursuant to such Executive order.
 
-    (f) __Disclosures Not Affected.—__ 
+    (f)  __Disclosures Not Affected__  __.—__ 
 
     Nothing in this section shall be construed to authorize any official to withhold, or to authorize the withholding of, information from the following:
 
@@ -73,13 +73,13 @@
 
         (2) The Comptroller General, unless the information relates to activities that the President designates as foreign intelligence or counterintelligence activities.
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
         (1) The national security officials referred to in subsection (h)(1) shall each prescribe regulations to carry out this section. The regulations shall include criteria for making the determinations required under subsection (b). The regulations may provide for controls on access to and use of, and special markings and specific safeguards for, a category or categories of information subject to this section.
 
         (2) The regulations shall include procedures for notifying and consulting with each foreign government or international organization concerned about requests for disclosure of information to which this section applies.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 

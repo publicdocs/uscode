@@ -15,7 +15,7 @@
 
 ## § 495. Strategic delivery systems
 
-    (a) __Annual Certification.—__ 
+    (a)  __Annual Certification__  __.—__ 
 
     Beginning in fiscal year 2013, the President shall annually certify in writing to the congressional defense committees whether plans to modernize or replace strategic delivery systems are fully funded at levels equal to or more than the levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2549][/us/stat/123/2549]), including plans regarding—
 
@@ -29,7 +29,7 @@
 
         (5) maintaining the nuclear command and control system (as first reported under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 ([Public Law 112–81][/us/pl/112/81]; [125 Stat. 1576][/us/stat/125/1576])).
 
-    (b) __Additional Report Matters Following Certain Certifications.—__ 
+    (b)  __Additional Report Matters Following Certain Certifications__  __.—__ 
 
     If in any year before fiscal year 2020 the President certifies under subsection (a) that plans to modernize or replace strategic delivery systems are not fully funded, the President shall include in the next annual report transmitted to Congress under section 1043 of the National Defense Authorization Act for Fiscal Year 2012 the following:
 
@@ -51,7 +51,7 @@
 
         (3) A certification by the President of whether or not the President is committed to accomplishing the modernization and replacement of strategic delivery systems and will meet the obligations concerning nuclear modernization as set forth in declaration 12 of the Resolution of Advice and Consent to Ratification of the New START Treaty.
 
-    (c) __Prior Notification.—__ 
+    (c)  __Prior Notification__  __.—__ 
 
     Not later than 60 days before the date on which the President carries out any reduction to the number of strategic delivery systems, the President shall—
 
@@ -61,7 +61,7 @@
 
         (3) certify to the congressional defense committees whether the Russian Federation is in compliance with its strategic arms control obligations with the United States and is not engaged in activity in violation of, or inconsistent with, such obligations.
 
-    (d) __Treatment of Certain Reductions.—__ 
+    (d)  __Treatment of Certain Reductions__  __.—__ 
 
     Any certification under subsection (a) shall not take into account the following:
 
@@ -69,7 +69,7 @@
 
         (2) Strategic delivery systems that are retired or awaiting dismantlement on the date of the certification under subsection (a).
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

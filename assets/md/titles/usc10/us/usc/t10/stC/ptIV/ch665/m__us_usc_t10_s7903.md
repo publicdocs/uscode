@@ -15,7 +15,7 @@
 
 ## § 7903. Ocean Research Advisory Panel
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Council shall establish an Ocean Research Advisory Panel consisting of not less than 10 and not more than 18 members appointed by the chairman, including the following:
 
@@ -29,7 +29,7 @@
 
         (5) Members selected from among individuals eminent in the fields of marine science or marine policy, or related fields.
 
-    (b) __Responsibilities.—__ 
+    (b)  __Responsibilities__  __.—__ 
 
     The Council shall assign the following responsibilities to the Advisory Panel:
 
@@ -41,7 +41,7 @@
 
         (4) Any additional responsibilities that the Council considers appropriate.
 
-    (c) __Funding.—__ 
+    (c)  __Funding__  __.—__ 
 
     The Secretary of the Navy annually shall make funds available to support the activities of the Advisory Panel.
 

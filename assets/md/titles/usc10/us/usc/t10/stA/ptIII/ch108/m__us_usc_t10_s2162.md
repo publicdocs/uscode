@@ -15,11 +15,11 @@
 
 ## § 2162. Preparation of budget requests for operation of professional military education schools
 
-    (a) __Uniform Cost Accounting.—__ 
+    (a)  __Uniform Cost Accounting__  __.—__ 
 
     The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall promulgate a uniform cost accounting system for use by the Secretaries of the military departments in preparing budget requests for the operation of professional military education schools.
 
-    (b) __Preparation of Budget Requests.—__ 
+    (b)  __Preparation of Budget Requests__  __.—__ 
 
         (1) Amounts requested for a fiscal year for the operation of each professional military education school shall be set forth as a separate budget request in the materials submitted by the Secretary of Defense to Congress in support of the budget request for the Department of Defense.
 
@@ -27,11 +27,11 @@
 
         (3) The Secretary of a military department preparing a budget request for a professional military education school shall carefully consider the views of the Chairman of the Joint Chiefs of Staff, particularly with respect to the amount of the request for the operation of the schools of the National Defense University and the joint professional military education curricula of the other professional military education schools.
 
-    (c) __Comparison of Budget Requests.—__ 
+    (c)  __Comparison of Budget Requests__  __.—__ 
 
     Materials prepared in support of the budget request for a professional military education school shall describe whether the amount requested for that school is comparable to the amounts requested for other professional military education schools, taking into consideration the size and activities of the schools.
 
-    (d) __Professional Military Education Schools.—__ 
+    (d)  __Professional Military Education Schools__  __.—__ 
 
     This section applies to each of the following professional military education schools:
 

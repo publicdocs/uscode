@@ -15,11 +15,11 @@
 
 ## § 6980. Policy on sexual harassment and sexual violence
 
-    (a) __Required Policy.—__ 
+    (a)  __Required Policy__  __.—__ 
 
     Under guidance prescribed by the Secretary of Defense, the Secretary of the Navy shall direct the Superintendent of the Naval Academy to prescribe a policy on sexual harassment and sexual violence applicable to the midshipmen and other personnel of the Naval Academy.
 
-    (b) __Matters To Be Specified in Policy.—__ 
+    (b)  __Matters To Be Specified in Policy__  __.—__ 
 
     The policy on sexual harassment and sexual violence prescribed under this section shall include specification of the following:
 
@@ -41,7 +41,7 @@
 
         (5) Required training on the policy for all midshipmen and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
 
-    (c) __Annual Assessment.—__ 
+    (c)  __Annual Assessment__  __.—__ 
 
         (1) The Secretary of Defense, through the Secretary of the Navy, shall direct the Superintendent to conduct at the Academy during each Academy program year an assessment, to be administered by the Department of Defense, to determine the effectiveness of the policies, training, and procedures of the Academy with respect to sexual harassment and sexual violence involving Academy personnel.
 
@@ -69,7 +69,7 @@
 
                 (iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1) The Secretary of the Navy shall direct the Superintendent of the Naval Academy to submit to the Secretary a report on sexual harassment and sexual violence involving midshipmen or other personnel at the Academy for each Academy program year.
 

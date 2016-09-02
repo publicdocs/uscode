@@ -15,11 +15,11 @@
 
 ## § 2917. Development of geothermal energy on military lands
 
-    (a) __Development Authorized.—__ 
+    (a)  __Development Authorized__  __.—__ 
 
     The Secretary of a military department may develop, or authorize the development of, any geothermal energy resource within lands under the Secretary’s jurisdiction, including public lands, for the use or benefit of the Department of Defense if that development is in the public interest, as determined by the Secretary concerned, and will not deter commercial development and use of other portions of such resource if offered for leasing.
 
-    (b) __Consideration of Energy Security.—__ 
+    (b)  __Consideration of Energy Security__  __.—__ 
 
     The development of a geothermal energy project under subsection (a) should include consideration of energy security in the design and development of the project.
 

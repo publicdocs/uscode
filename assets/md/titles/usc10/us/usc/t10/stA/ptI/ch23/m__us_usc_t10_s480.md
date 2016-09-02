@@ -15,15 +15,15 @@
 
 ## § 480. Reports to Congress: submission in electronic form
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     Whenever the Secretary of Defense or any other official of the Department of Defense submits to Congress (or any committee of either House of Congress) a report that the Secretary (or other official) is required by law to submit, the Secretary (or other official) shall provide to Congress (or such committee) a copy of the report in an electronic medium.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     Subsection (a) does not apply to a report submitted in classified form.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “report” includes any certification, notification, or other communication in writing.
 

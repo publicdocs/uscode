@@ -15,7 +15,7 @@
 
 ## § 127a. Operations for which funds are not provided in advance: funding mechanisms
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1)
 
@@ -37,13 +37,13 @@
 
         (3) This section does not provide authority for the President or the Secretary of Defense to carry out any operation, but establishes mechanisms for the Department of Defense by which funds are provided for operations that the armed forces are required to carry out under some other authority.
 
-    (b) __Waiver of Requirement To Reimburse Support Units.—__ 
+    (b)  __Waiver of Requirement To Reimburse Support Units__  __.—__ 
 
         (1) The Secretary of Defense shall direct that, when a unit of the armed forces participating in an operation described in subsection (a) receives services from an element of the Department of Defense that operates through the Defense Business Operations Fund (or a successor fund), such unit of the armed forces may not be required to reimburse that element for the incremental costs incurred by that element in providing such services, notwithstanding any other provision of law or any Government accounting practice.
 
         (2) The amounts which but for paragraph (1) would be required to be reimbursed to an element of the Department of Defense (or a fund) shall be recorded as an expense attributable to the operation and shall be accounted for separately.
 
-    (c) __Transfer Authority.—__ 
+    (c)  __Transfer Authority__  __.—__ 
 
         (1) Whenever there is an operation of the Department of Defense described in subsection (a), the Secretary of Defense may transfer amounts described in paragraph (3) to accounts from which incremental expenses for that operation were incurred in order to reimburse those accounts for those incremental expenses. Amounts so transferred shall be merged with and be available for the same purposes as the accounts to which transferred.
 
@@ -59,25 +59,25 @@
 
     \[(d) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(3)][/us/pl/108/136/s1031/a/3], Nov. 24, 2003, [117 Stat. 1596][/us/stat/117/1596].\]
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
         (1) The Secretary may not restore balances in the Defense Business Operations Fund through increases in rates charged by that fund in order to compensate for costs incurred and not reimbursed due to subsection (b).
 
         (2) The Secretary may not restore balances in the Defense Business Operations Fund or any other fund or account through the use of unobligated amounts in an operation and maintenance appropriation that are available within that appropriation for (A) an account (known as a budget activity 1 account) that is specified as being for operating forces, or (B) an account (known as a budget activity 2 account) that is specified as being for mobilization.
 
-    (f) __Submission of Requests for Supplemental Appropriations.—__ 
+    (f)  __Submission of Requests for Supplemental Appropriations__  __.—__ 
 
     It is the sense of Congress that whenever there is an operation described in subsection (a), the President should, not later than 90 days after the date on which notification is provided pursuant to subsection (a)(3), submit to Congress a request for the enactment of supplemental appropriations for the then-current fiscal year in order to provide funds to replenish the Defense Business Operations Fund or any other fund or account of the Department of Defense from which funds for the incremental expenses of that operation were derived under this section and should, as necessary, submit subsequent requests for the enactment of such appropriations.
 
-    (g) __Incremental Costs.—__ 
+    (g)  __Incremental Costs__  __.—__ 
 
     For purposes of this section, incremental costs of the Department of Defense with respect to an operation are the costs of the Department that are directly attributable to the operation (and would not have been incurred but for the operation). Incremental costs do not include the cost of property or services acquired by the Department that are paid for by a source outside the Department or out of funds contributed by such a source.
 
-    (h) __Relationship to War Powers Resolution.—__ 
+    (h)  __Relationship to War Powers Resolution__  __.—__ 
 
     This section may not be construed as altering or superseding the War Powers Resolution. This section does not provide authority to conduct any military operation.
 
-    (i) __GAO Compliance Reviews.—__ 
+    (i)  __GAO Compliance Reviews__  __.—__ 
 
     The Comptroller General of the United States shall from time to time, and when requested by a committee of Congress, conduct a review of the defense funding structure under this section to determine whether the Department of Defense is complying with the requirements and limitations of this section.
 

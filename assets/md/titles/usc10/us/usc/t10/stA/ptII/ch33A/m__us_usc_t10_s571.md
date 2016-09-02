@@ -65,7 +65,7 @@
 
 [Pub. L. 103–337, div. A, title V, § 541(c)][/us/pl/103/337/s541/c], (d), Oct. 5, 1994, [108 Stat. 2765][/us/stat/108/2765], as amended by [Pub. L. 104–106, div. A, title XV, § 1504(a)(3)][/us/pl/104/106/s1504/a/3], Feb. 10, 1996, [110 Stat. 513][/us/stat/110/513], provided that:
 
->     “(c) __Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W–5.—__ 
+>     “(c)  __Transition for Certain Regular Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W__  __–5.—__ 
 
 >         (1)
 
@@ -83,7 +83,7 @@
 
 >         “(3) The date of rank of an officer referred to in paragraph (1)(A) who is promoted to the grade in which that warrant officer is serving on the effective date of this section is the date of that officer’s temporary appointment in that grade.
 
->     “(d) __Transition for Certain Reserve Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W–5.—__ 
+>     “(d)  __Transition for Certain Reserve Warrant Officers Serving in a Higher Temporary Grade Below Chief Warrant Officer, W__  __–5.—__ 
 
 >         (1)
 
@@ -115,7 +115,7 @@
 
 > “SEC. 1121. __TRANSITION FOR CERTAIN REGULAR WARRANT OFFICERS SERVING IN A HIGHER TEMPORARY GRADE BELOW CHIEF WARRANT OFFICER, W–5.__ 
 
->     “(a) __Certain Officers To Be Considered as Recommended for Promotion.—__ 
+>     “(a)  __Certain Officers To Be Considered as Recommended for Promotion__  __.—__ 
 
 >     A regular warrant officer of the Armed Forces (other than the Coast Guard) who on the effective date of this title \[Feb. 1, 1992\] is on active duty and—
 
@@ -127,17 +127,17 @@
 
 >         shall be considered to have been recommended by a board convened under [section 573 of title 10][/us/usc/t10/s573], United States Code, as added by this title, for promotion to the permanent grade equivalent to the grade in which he is serving or for which he has been recommended for promotion, as the case may be.
 
->     “(b) __Board Consideration for Officers Removed From Promotion List.—__ 
+>     “(b)  __Board Consideration for Officers Removed From Promotion List__  __.—__ 
 
 >     An officer referred to in paragraph (1) of subsection (a) who is not promoted to the grade to which he is considered under such subsection to have been recommended for promotion because his name is removed from a list of officers who are considered under such paragraph to have been recommended for promotion shall be considered by a board convened under [section 573 of title 10][/us/usc/t10/s573], United States Code, as amended by this title, for promotion to the permanent grade equivalent to the temporary grade in which he was serving on the effective date of this title as if he were serving in his permanent grade.
 
->     “(c) __Date of Rank.—__ 
+>     “(c)  __Date of Rank__  __.—__ 
 
 >     The date of rank of an officer referred to in subsection (a)(1) who is promoted to the grade in which he is serving on the effective date of this title is the date of his temporary appointment in that grade.
 
 > “SEC. 1122. __TRANSITION FOR CERTAIN RESERVE WARRANT OFFICERS SERVING IN A HIGHER TEMPORARY GRADE BELOW CHIEF WARRANT OFFICER, W–5.__ 
 
->     “(a) __Certain Officers To Be Considered as Recommended for Promotion.—__ 
+>     “(a)  __Certain Officers To Be Considered as Recommended for Promotion__  __.—__ 
 
 >         (1)
 
@@ -151,7 +151,7 @@
 
 >         “(2) The date of rank of a warrant officer referred to in paragraph (1)(A) who is promoted to the grade in which he is considered under such paragraph to have been recommended for promotion is the date of his temporary appointment in that grade.
 
->     “(b) __Reserves on Active Duty.—__ 
+>     “(b)  __Reserves on Active Duty__  __.—__ 
 
 >     A reserve warrant officer who on the effective date of this title—
 
@@ -175,7 +175,7 @@
 
 > “SEC. 1124. __SAVINGS PROVISION FOR CERTAIN REGULAR ARMY WARRANT OFFICERS FACING MANDATORY RETIREMENT FOR LENGTH OF SERVICE.__ 
 
->     “(a) __Savings Provision.—__ 
+>     “(a)  __Savings Provision__  __.—__ 
 
 >     Subject to subsection (b), a regular warrant officer of the Army who on the effective date of this title \[Feb. 1, 1992\]—
 
@@ -185,7 +185,7 @@
 
 >         may be retained on active duty until he completes 30 years of active service or 24 years of active warrant officer service, whichever is later, that could be credited to him under section 511 of the Career Compensation Act of 1949 ([70 Stat. 114][/us/stat/70/114]) \[act Oct. 12, 1949, formerly set out as a note under [section 580 of this title][/us/usc/t10/s580]\] (as in effect on the day before the effective date of this part \[Feb. 1, 1992\]), and then be retired under the appropriate provision of title 10, United States Code, on the first day of the month after the month in which he completes that service.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     Subsection (a) does not apply to a regular warrant officer who—
 

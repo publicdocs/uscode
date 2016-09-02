@@ -17,69 +17,69 @@
 
     (a) __Spouse and Former Spouse Annuities.—__ 
 
-        (1) __Required reduction in retired pay.—__ 
+        (1)  __Required reduction in retired pay__  __.—__ 
 
         Except as provided in subsection (b), the retired pay of a participant in the Plan who is providing spouse coverage (as described in paragraph (5)) shall be reduced as follows:
 
-            (A) __Standard annuity.—__ 
+            (A)  __Standard annuity__  __.—__ 
 
             If the annuity coverage being provided is a standard annuity, the reduction shall be as follows:
 
-                (i) __Disability and nonregular service retirees.—__ 
+                (i)  __Disability and nonregular service retirees__  __.—__ 
 
                 In the case of a person who is entitled to retired pay under chapter 61 or chapter 1223 of this title, the reduction shall be in whichever of the alternative reduction amounts is more favorable to that person.
 
-                (ii) __Members as of enactment of flat-rate reduction.—__ 
+                (ii)  __Members as of enactment of flat-rate reduction__  __.—__ 
 
                 In the case of a person who first became a member of a uniformed service before March 1, 1990, the reduction shall be in whichever of the alternative reduction amounts is more favorable to that person.
 
-                (iii) __New entrants after enactment of flat-rate reduction.—__ 
+                (iii)  __New entrants after enactment of flat-rate reduction__  __.—__ 
 
                 In the case of a person who first becomes a member of a uniformed service on or after March 1, 1990, and who is entitled to retired pay under a provision of law other than chapter 61 or chapter 1223 of this title, the reduction shall be in an amount equal to 6½ percent of the base amount.
 
-                (iv) __Alternative reduction amounts.—__ 
+                (iv)  __Alternative reduction amounts__  __.—__ 
 
                 For purposes of clauses (i) and (ii), the alternative reduction amounts are the following:
 
-                    (I) __Flat-rate reduction.—__ 
+                    (I)  __Flat-rate reduction__  __.—__ 
 
                     An amount equal to 6½ percent of the base amount.
 
-                    (II) __Amount under pre-flat-rate reduction.—__ 
+                    (II)  __Amount under pre-flat-rate reduction__  __.—__ 
 
                     An amount equal to 2½ percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount.
 
-            (B) __Reserve-component annuity.—__ 
+            (B)  __Reserve-component annuity__  __.—__ 
 
             If the annuity coverage being provided is a reserve-component annuity, the reduction shall be in whichever of the following amounts is more favorable to that person:
 
-                (i) __Flat-rate reduction.—__ 
+                (i)  __Flat-rate reduction__  __.—__ 
 
                 An amount equal to 6½ percent of the base amount plus an amount determined in accordance with regulations prescribed by the Secretary of Defense as a premium for the additional coverage provided through reserve-component annuity coverage under the Plan.
 
-                (ii) __Amount under pre-flat-rate reduction.—__ 
+                (ii)  __Amount under pre-flat-rate reduction__  __.—__ 
 
                 An amount equal to 2½ percent of the first $337 (as adjusted after November 1, 1989, under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount plus an amount determined in accordance with regulations prescribed by the Secretary of Defense as a premium for the additional coverage provided through reserve-component annuity coverage under the Plan.
 
-        (2) __Additional reduction for child coverage.—__ 
+        (2)  __Additional reduction for child coverage__  __.—__ 
 
         If there is a dependent child as well as a spouse or former spouse, the amount prescribed under paragraph (1) shall be increased by an amount prescribed under regulations of the Secretary of Defense.
 
-        (3) __No reduction when no beneficiary.—__ 
+        (3)  __No reduction when no beneficiary__  __.—__ 
 
         The reduction in retired pay prescribed by paragraph (1) shall not be applicable during any month in which there is no eligible spouse or former spouse beneficiary.
 
         (4) __Periodic adjustments.—__ 
 
-            (A) __Adjustments for increases in rates of basic pay.—__ 
+            (A)  __Adjustments for increases in rates of basic pay__  __.—__ 
 
             Whenever there is an increase in the rates of basic pay of members of the uniformed services effective on or after October 1, 1985, the amounts under paragraph (1) with respect to which the percentage factor of 2½ is applied shall be increased by the overall percentage of such increase in the rates of basic pay. The increase under the preceding sentence shall apply only with respect to persons whose retired pay is computed based on the rates of basic pay in effect on or after the date of such increase in rates of basic pay.
 
-            (B) __Adjustments for retired pay colas.—__ 
+            (B)  __Adjustments for retired pay colas__  __.—__ 
 
             In addition to the increase under subparagraph (A), the amounts under paragraph (1) with respect to which the percentage factor of 2½ is applied shall be further increased at the same time and by the same percentage as an increase in retired pay under [section 1401a of this title][/us/usc/t10/s1401a] effective on or after October 1, 1985. Such increase under the preceding sentence shall apply only with respect to a person who initially participates in the Plan on a date which is after both the effective date of such increase under section 1401a and the effective date of the rates of basic pay upon which that person’s retired pay is computed.
 
-        (5) __Spouse coverage described.—__ 
+        (5)  __Spouse coverage described__  __.—__ 
 
         For the purposes of paragraph (1), a participant in the Plan who is providing spouse coverage is a participant who—
 
@@ -89,19 +89,19 @@
 
     (b) __Child-Only Annuities.—__ 
 
-        (1) __Required reduction in retired pay.—__ 
+        (1)  __Required reduction in retired pay__  __.—__ 
 
         The retired pay of a participant in the Plan who is providing child-only coverage (as described in paragraph (4)) shall be reduced by an amount prescribed under regulations by the Secretary of Defense.
 
-        (2) __No reduction when no child.—__ 
+        (2)  __No reduction when no child__  __.—__ 
 
         There shall be no reduction in retired pay under paragraph (1) for any month during which the participant has no eligible dependent child.
 
-        (3) __Special rule for certain rcsbp participants.—__ 
+        (3)  __Special rule for certain rcsbp participants__  __.—__ 
 
         In the case of a participant in the Plan who is participating in the Plan under an election under [section 1448(a)(2)(B) of this title][/us/usc/t10/s1448/a/2/B] and who provided child-only coverage during a period before the participant becomes entitled to receive retired pay, the retired pay of the participant shall be reduced by an amount prescribed under regulations by the Secretary of Defense to reflect the coverage provided under the Plan during the period before the participant became entitled to receive retired pay. A reduction under this paragraph is in addition to any reduction under paragraph (1) and is made without regard to whether there is an eligible dependent child during a month for which the reduction is made.
 
-        (4) __Child-only coverage defined.—__ 
+        (4)  __Child-only coverage defined__  __.—__ 
 
         For the purposes of this subsection, a participant in the Plan who is providing child-only coverage is a participant who has a dependent child and who—
 
@@ -111,31 +111,31 @@
 
     (c) __Reduction for Insurable Interest Coverage.—__ 
 
-        (1) __Required reduction in retired pay.—__ 
+        (1)  __Required reduction in retired pay__  __.—__ 
 
         The retired pay of a person who has elected to provide an annuity to a person designated by him under [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4] shall be reduced as follows:
 
-            (A) __Standard annuity.—__ 
+            (A)  __Standard annuity__  __.—__ 
 
             In the case of a person providing a standard annuity, the reduction shall be by 10 percent plus 5 percent for each full five years the individual designated is younger than that person.
 
-            (B) __Reserve component annuity.—__ 
+            (B)  __Reserve component annuity__  __.—__ 
 
             In the case of a person providing a reserve-component annuity, the reduction shall be by an amount prescribed under regulations of the Secretary of Defense.
 
-        (2) __Limitation on total reduction.—__ 
+        (2)  __Limitation on total reduction__  __.—__ 
 
         The total reduction under paragraph (1) may not exceed 40 percent.
 
-        (3) __Duration of reduction.—__ 
+        (3)  __Duration of reduction__  __.—__ 
 
         The reduction in retired pay prescribed by this subsection shall continue during the lifetime of the person designated under [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4] or until the person receiving retired pay changes his election under [section 1450(f) of this title][/us/usc/t10/s1450/f].
 
-        (4) __Rule for computation.—__ 
+        (4)  __Rule for computation__  __.—__ 
 
         Computation of a member’s retired pay for purposes of this subsection shall be made without regard to any reduction under [section 1409(b)(2) of this title][/us/usc/t10/s1409/b/2].
 
-        (5) __Rule for designation of new insurable interest beneficiary following death of original beneficiary.—__ 
+        (5)  __Rule for designation of new insurable interest beneficiary following death of original beneficiary__  __.—__ 
 
         The Secretary of Defense shall prescribe in regulations premiums which a participant making an election under [section 1448(b)(1)(G) of this title][/us/usc/t10/s1448/b/1/G] shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
 
@@ -147,25 +147,25 @@
 
     (d) __Deposits To Cover Periods When Retired Pay Not Paid.—__ 
 
-        (1) __Required deposits.—__ 
+        (1)  __Required deposits__  __.—__ 
 
         If a person who has elected to participate in the Plan has been awarded retired pay and is not entitled to that pay for any period, that person must deposit in the Treasury the amount that would otherwise have been deducted from his pay for that period.
 
-        (2) __Deposits not required when participant on active duty.—__ 
+        (2)  __Deposits not required when participant on active duty__  __.—__ 
 
         Paragraph (1) does not apply to a person with respect to any period when that person is on active duty under a call or order to active duty for a period of more than 30 days.
 
-    (e) __Deposits Not Required for Certain Participants in CSRS and FERS.—__ 
+    (e)  __Deposits Not Required for Certain Participants in CSRS and FERS__  __.—__ 
 
     When a person who has elected to participate in the Plan waives that person’s retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, that person shall not be required to make the deposit otherwise required by subsection (d) as long as that waiver is in effect unless, in accordance with section 8339(j) or 8416(a) of title 5, that person has notified the Office of Personnel Management that he does not desire a spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of title 5.
 
     (f) __Refunds of Deductions Not Allowed.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         A person is not entitled to refund of any amount deducted from retired pay under this section.
 
-        (2) __Exceptions.—__ 
+        (2)  __Exceptions__  __.—__ 
 
         Paragraph (1) does not apply—
 
@@ -177,39 +177,39 @@
 
         (1) __Discontinuation.—__ 
 
-            (A) __Conditions.—__ 
+            (A)  __Conditions__  __.—__ 
 
             Notwithstanding any other provision of this subchapter but subject to paragraphs (2) and (3), a person who has elected to participate in the Plan and who is suffering from a service-connected disability rated by the Secretary of Veterans Affairs as totally disabling and has suffered from such disability while so rated for a continuous period of 10 or more years (or, if so rated for a lesser period, has suffered from such disability while so rated for a continuous period of not less than 5 years from the date of such person’s last discharge or release from active duty) may discontinue participation in the Plan by submitting to the Secretary concerned a request to discontinue participation in the Plan.
 
-            (B) __Effective date.—__ 
+            (B)  __Effective date__  __.—__ 
 
             Participation in the Plan of a person who submits a request under subparagraph (A) shall be discontinued effective on the first day of the first month following the month in which the request under subparagraph (A) is received by the Secretary concerned. Effective on such date, the Secretary concerned shall discontinue the reduction being made in such person’s retired pay on account of participation in the Plan or, in the case of a person who has been required to make deposits in the Treasury on account of participation in the Plan, such person may discontinue making such deposits effective on such date.
 
-            (C) __Form for request for discontinuation.—__ 
+            (C)  __Form for request for discontinuation__  __.—__ 
 
             Any request under this paragraph to discontinue participation in the Plan shall be in such form and shall contain such information as the Secretary concerned may require by regulation.
 
-        (2) __Consent of beneficiaries required.—__ 
+        (2)  __Consent of beneficiaries required__  __.—__ 
 
         A person described in paragraph (1) may not discontinue participation in the Plan under such paragraph without the written consent of the beneficiary or beneficiaries of such person under the Plan.
 
         (3) __Information on plan to be provided by secretary concerned.—__ 
 
-            (A) __Information to be provided promptly to participant.—__ 
+            (A)  __Information to be provided promptly to participant__  __.—__ 
 
             The Secretary concerned shall furnish promptly to each person who files a request under paragraph (1) to discontinue participation in the Plan a written statement of the advantages of participating in the Plan and the possible disadvantages of discontinuing participation.
 
-            (B) __Right to withdraw discontinuation request.—__ 
+            (B)  __Right to withdraw discontinuation request__  __.—__ 
 
             A person may withdraw a request made under paragraph (1) if it is withdrawn within 30 days after having been submitted to the Secretary concerned.
 
-        (4) __Refund of deductions from retired pay.—__ 
+        (4)  __Refund of deductions from retired pay__  __.—__ 
 
         Upon the death of a person described in paragraph (1) who discontinued participation in the Plan in accordance with this subsection, any amount deducted from the retired pay of that person under this section shall be refunded to the person’s surviving spouse.
 
         (5) __Resumption of participation in plan.—__ 
 
-            (A) __Conditions for resumption.—__ 
+            (A)  __Conditions for resumption__  __.—__ 
 
             A person described in paragraph (1) who discontinued participation in the Plan may elect to participate again in the Plan if—
 
@@ -217,35 +217,35 @@
 
                 (ii) that person applies to the Secretary concerned, within such period of time after the reduction in such person’s service-connected disability rating has been made as the Secretary concerned may prescribe, to again participate in the Plan and includes in such application such information as the Secretary concerned may require.
 
-            (B) __Effective date of resumed coverage.—__ 
+            (B)  __Effective date of resumed coverage__  __.—__ 
 
             Such person’s participation in the Plan under this paragraph is effective beginning on the first day of the month after the month in which the Secretary concerned receives the application for resumption of participation in the Plan.
 
-            (C) __Resumption of contributions.—__ 
+            (C)  __Resumption of contributions__  __.—__ 
 
             When a person elects to participate in the Plan under this paragraph, the Secretary concerned shall begin making reductions in that person’s retired pay, or require such person to make deposits in the Treasury under subsection (d), as appropriate, effective on the effective date of such participation under subparagraph (B).
 
     (h) __Increases in Reduction With Increases in Retired Pay.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         Whenever retired pay is increased under [section 1401a of this title][/us/usc/t10/s1401a] (or any other provision of law), the amount of the reduction to be made under subsection (a) or (b) in the retired pay of any person shall be increased at the same time and by the same percentage as such retired pay is so increased.
 
         (2) __Coordination when payment of increase in retired pay is delayed by law.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Notwithstanding paragraph (1), when the initial payment of an increase in retired pay under [section 1401a of this title][/us/usc/t10/s1401a] (or any other provision of law) to a person is for a month that begins later than the effective date of that increase by reason of the application of subsection (b)(2)(B) of such section (or [section 631(b) of Public Law 104–106][/us/pl/104/106/s631/b] ([110 Stat. 364][/us/stat/110/364])), then the amount of the reduction in the person’s retired pay shall be effective on the date of that initial payment of the increase in retired pay rather than the effective date of the increase in retired pay.
 
-            (B) __Delay not to affect computation of annuity.—__ 
+            (B)  __Delay not to affect computation of annuity__  __.—__ 
 
             Subparagraph (A) may not be construed as delaying, for purposes of determining the amount of a monthly annuity under [section 1451 of this title][/us/usc/t10/s1451], the effective date of an increase in a base amount under subsection (h) of such section from the effective date of an increase in retired pay under [section 1401a of this title][/us/usc/t10/s1401a] to the date on which the initial payment of that increase in retired pay is made in accordance with subsection (b)(2)(B) of such section.
 
-    (i) __Recomputation of Reduction Upon Recomputation of Retired Pay.—__ 
+    (i)  __Recomputation of Reduction Upon Recomputation of Retired Pay__  __.—__ 
 
     Whenever the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under [section 1410 of this title][/us/usc/t10/s1410] upon the person’s becoming 62 years of age, the amount of the reduction in such retired pay under this section shall be recomputed (effective on the effective date of the recomputation of such retired pay under [section 1410 of this title][/us/usc/t10/s1410]) so as to be the amount equal to the amount of such reduction that would be in effect on that date if increases in such retired pay under [section 1401a(b) of this title][/us/usc/t10/s1401a/b], and increases in reductions in such retired pay under subsection (h), had been computed as provided in paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] (rather than under paragraph (3) of that section).
 
-    (j) __Coverage Paid Up at 30 Years and Age 70.—__ 
+    (j)  __Coverage Paid Up at__  __30__  __Years and Age__  __70.—__ 
 
     Effective October 1, 2008, no reduction may be made under this section in the retired pay of a participant in the Plan for any month after the later of—
 
@@ -393,11 +393,11 @@
 
 [Pub. L. 101–189, div. A, title XIV, § 1402(d)][/us/pl/101/189/s1402/d], Nov. 29, 1989, [103 Stat. 1578][/us/stat/103/1578], provided that:
 
->     “(1) __Recomputation.—__ 
+>     “(1)  __Recomputation__  __.—__ 
 
 >     The Secretary concerned shall recompute the SBP premium of persons described in paragraph (2). Any such recomputation shall take effect on March 1, 1990.
 
->     “(2) __Persons covered.—__ 
+>     “(2)  __Persons covered__  __.—__ 
 
 >     A person referred to in paragraph (1) as described in this paragraph is a person who on March 1, 1990—
 
@@ -407,11 +407,11 @@
 
 >         “(C) is subject to an SBP premium in excess of 6½ percent of the base amount of that person under the Survivor Benefit Plan.
 
->     “(3) __Amount of recomputed premium.—__ 
+>     “(3)  __Amount of recomputed premium__  __.—__ 
 
 >     The amount of an SBP premium recomputed under this subsection shall be 6½ percent of the base amount under the Survivor Benefit Plan of the person whose premium is recomputed.
 
->     “(4) __SBP premium defined.—__ 
+>     “(4)  __SBP premium defined__  __.—__ 
 
 >     For purposes of this subsection, the term ‘SBP premium’ means a reduction in retired pay under [section 1452 of title 10][/us/usc/t10/s1452], United States Code.”
 

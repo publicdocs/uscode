@@ -15,15 +15,15 @@
 
 ## § 1563. Consideration of proposals for posthumous and honorary promotions and appointments: procedures for review
 
-    (a) __Review by Secretary Concerned.—__ 
+    (a)  __Review by Secretary Concerned__  __.—__ 
 
     Upon request of a Member of Congress, the Secretary concerned shall review a proposal for the posthumous or honorary promotion or appointment of a member or former member of the armed forces, or any other person considered qualified, that is not otherwise authorized by law. Based upon such review, the Secretary shall make a determination as to the merits of approving the posthumous or honorary promotion or appointment.
 
-    (b) __Notice of Results of Review.—__ 
+    (b)  __Notice of Results of Review__  __.—__ 
 
     Upon making a determination under subsection (a) as to the merits of approving the posthumous or honorary promotion or appointment, the Secretary concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives and to the requesting Member of Congress a detailed discussion of the rationale supporting the determination.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “Member of Congress” means—
 

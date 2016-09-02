@@ -95,11 +95,11 @@
 
 [Pub. L. 104–106, div. A, title X, § 1042][/us/pl/104/106/s1042], Feb. 10, 1996, [110 Stat. 434][/us/stat/110/434], provided that:
 
->     “(a) __Conforming Allowance to Allowances for Other Civilian Employees.—__ 
+>     “(a)  __Conforming Allowance to Allowances for Other Civilian Employees__  __.—__ 
 
 >     Subject to subsection (b), an overseas living quarters allowance paid from nonappropriated funds and provided to a nonappropriated fund instrumentality employee after the date of the enactment of this Act \[Feb. 10, 1996\] may not exceed the amount of a quarters allowance provided under subchapter III of chapter 59 of title 5 to a similarly situated civilian employee of the Department of Defense paid from appropriated funds.
 
->     “(b) __Application to Certain Current Employees.—__ 
+>     “(b)  __Application to Certain Current Employees__  __.—__ 
 
 >     In the case of a nonappropriated fund instrumentality employee who, as of the date of the enactment of this Act \[Feb. 10, 1996\], receives an overseas living quarters allowance under any other authority, subsection (a) shall apply to such employee only after the earlier of—
 
@@ -107,7 +107,7 @@
 
 >         “(2) the date on which the employee otherwise ceases to be eligible for such an allowance under such other authority.
 
->     “(c) __Nonappropriated Fund Instrumentality Employee Defined.—__ 
+>     “(c)  __Nonappropriated Fund Instrumentality Employee Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘nonappropriated fund instrumentality employee’ has the meaning given such term in [section 1587(a)(1) of title 10][/us/usc/t10/s1587/a/1], United States Code.”
 
@@ -115,15 +115,15 @@
 
 [Pub. L. 103–337, div. A, title III, § 349][/us/pl/103/337/s349], Oct. 5, 1994, [108 Stat. 2727][/us/stat/108/2727], as amended by [Pub. L. 108–375, div. A, title VI, § 652][/us/pl/108/375/s652], Oct. 28, 2004, [118 Stat. 1973][/us/stat/118/1973], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than October 1, 1995, the Secretary of Defense shall take such steps as may be necessary to provide a uniform health benefits program for employees of the Department of Defense assigned to a nonappropriated fund instrumentality of the Department.
 
->     “(b) __Progress Report.—__ 
+>     “(b)  __Progress Report__  __.—__ 
 
 >     Not later than March 15, 1995, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the progress made by the Secretary in implementing subsection (a).
 
->     “(c) __Treatment of Program as Federal Health Benefit Program.—__ 
+>     “(c)  __Treatment of Program as Federal Health Benefit Program__  __.—__ 
 
 >         (1) No State tax, fee, other monetary payment, or State health plan requirement, may be imposed, directly or indirectly, on the Nonappropriated Fund Uniform Health Benefits Program of the Department of Defense, or on a carrier or an underwriting or plan administration contractor of the Program, to the same extent as such prohibition applies to the health insurance program authorized by chapter 89 of title 5, United States Code, under section 8909(f) of such title.
 

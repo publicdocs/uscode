@@ -117,7 +117,7 @@ June 30, 1950, ch. 421, § 2 (1st proviso), 64 Stat. 304.  </td>
 
 [Pub. L. 108–136, div. A, title V, § 525][/us/pl/108/136/s525], Nov. 24, 2003, [117 Stat. 1465][/us/stat/117/1465], provided that:
 
->     “(a) __Inspector General Report as Basis for Readmission.—__ 
+>     “(a)  __Inspector General Report as Basis for Readmission__  __.—__ 
 
 >         (1) When a formal report by an Inspector General within the Department of Defense concerning the circumstances of the separation of a cadet or midshipman from one of the service academies contains a specific finding specified in paragraph (2), the Secretary of the military department concerned may use that report as the sole basis for readmission of the former cadet or midshipman to the respective service academy.
 
@@ -131,23 +131,23 @@ June 30, 1950, ch. 421, § 2 (1st proviso), 64 Stat. 304.  </td>
 
 >             “(C) otherwise suffered an injustice that contributed to the resignation of the cadet or midshipman.
 
->     “(b) __Readmission.—__ 
+>     “(b)  __Readmission__  __.—__ 
 
 >     In the case of a formal report by an Inspector General described in subsection (a), the Secretary concerned shall offer the former cadet or midshipman an opportunity for readmission to the service academy from which the former cadet or midshipman resigned, if the former cadet or midshipman is otherwise eligible for such readmission.
 
->     “(c) __Applications for Readmission.—__ 
+>     “(c)  __Applications for Readmission__  __.—__ 
 
 >     A former cadet or midshipman described in a report referred to in subsection (a) may apply for readmission to the service academy on the basis of that report and shall not be required to submit the request for readmission through a board for the correction of military records.
 
->     “(d) __Regulations to Minimize Adverse Impact Upon Readmission.—__ 
+>     “(d)  __Regulations to Minimize Adverse Impact Upon Readmission__  __.—__ 
 
 >     The Secretary of each military department shall prescribe regulations for the readmission of a former cadet or midshipman described in subsection (a), with the goal, to the maximum extent practicable, of readmitting the former cadet or midshipman at no loss of the academic or military status held by the former cadet at the time of resignation.
 
->     “(e) __Construction With Other Remedies.—__ 
+>     “(e)  __Construction With Other Remedies__  __.—__ 
 
 >     This section does not preempt or supersede any other remedy that may be available to a former cadet or midshipman.
 
->     “(f) __Service Academies.—__ 
+>     “(f)  __Service Academies__  __.—__ 
 
 >     In this section, the term ‘service academy’ means the following:
 

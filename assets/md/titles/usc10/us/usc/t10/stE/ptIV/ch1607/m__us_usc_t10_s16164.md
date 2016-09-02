@@ -15,7 +15,7 @@
 
 ## § 16164. Time limitation for use of entitlement
 
-    (a) __Duration of Entitlement.—__ 
+    (a)  __Duration of Entitlement__  __.—__ 
 
     Except as provided in subsection (b), a member remains entitled to educational assistance under this chapter—
 
@@ -29,7 +29,7 @@
 
         (2) in the case of a person who separates from the Selected Reserve of the Ready Reserve after completion of a period of active service described in [section 16163 of this title][/us/usc/t10/s16163] and completion of a service contract under honorable conditions, during the 10-year period beginning on the date on which the person separates from the Selected Reserve.
 
-    (b) __Duration of Entitlement for Disabled Members.—__ 
+    (b)  __Duration of Entitlement for Disabled Members__  __.—__ 
 
         (1) In the case of a person who is separated from the Ready Reserve because of a disability which was not the result of the individual’s own willful misconduct incurred on or after the date on which such person became entitled to educational assistance under this chapter, such person’s entitlement to educational assistance expires at the end of the 10-year period beginning on the date on which such person became entitled to such assistance.
 

@@ -15,7 +15,7 @@
 
 ## § 2409. Contractor employees: protection from reprisal for disclosure of certain information
 
-    (a) __Prohibition of Reprisals.—__ 
+    (a)  __Prohibition of Reprisals__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
             (B) a reprisal described in paragraph (1) is prohibited even if it is undertaken at the request of a Department or Administration official, unless the request takes the form of a nondiscretionary directive and is within the authority of the Department or Administration official making the request.
 
-    (b) __Investigation of Complaints.—__ 
+    (b)  __Investigation of Complaints__  __.—__ 
 
         (1) A person who believes that the person has been subjected to a reprisal prohibited by subsection (a) may submit a complaint to the Inspector General of the Department of Defense, or the Inspector General of the National Aeronautics and Space Administration in the case of a complaint regarding the National Aeronautics and Space Administration. Unless the Inspector General determines that the complaint is frivolous, fails to allege a violation of the prohibition in subsection (a), or has previously been addressed in another Federal or State judicial or administrative proceeding initiated by the complainant, the Inspector General shall investigate the complaint and, upon completion of such investigation, submit a report of the findings of the investigation to the person, the contractor concerned, and the head of the agency.
 
@@ -75,7 +75,7 @@
 
         (4) A complaint may not be brought under this subsection more than three years after the date on which the alleged reprisal took place.
 
-    (c) __Remedy and Enforcement Authority.—__ 
+    (c)  __Remedy and Enforcement Authority__  __.—__ 
 
         (1)
 
@@ -99,11 +99,11 @@
 
         (7) The rights and remedies provided for in this section may not be waived by any agreement, policy, form, or condition of employment.
 
-    (d) __Notification of Employees.—__ 
+    (d)  __Notification of Employees__  __.—__ 
 
     The Secretary of Defense and the Administrator of the National Aeronautics and Space Administration shall ensure that contractors and subcontractors of the Department of Defense and the National Aeronautics and Space Administration, as applicable, inform their employees in writing of the rights and remedies provided under this section, in the predominant native language of the workforce.
 
-    (e) __Exceptions.—__ 
+    (e)  __Exceptions__  __.—__ 
 
         (1) This section shall not apply to any element of the intelligence community, as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]).
 
@@ -115,11 +115,11 @@
 
             (B) was discovered during contract, subcontract, or grantee services provided to an element of the intelligence community.
 
-    (f) __Construction.—__ 
+    (f)  __Construction__  __.—__ 
 
     Nothing in this section may be construed to authorize the discharge of, demotion of, or discrimination against an employee for a disclosure other than a disclosure protected by subsection (a) or to modify or derogate from a right or remedy otherwise available to the employee.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -235,11 +235,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 842, Oct. 14, 2008, [122 Stat. 4539][/us/stat/122/4539], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall ensure that contractors of the Department of Defense inform their employees in writing of employee whistleblower rights and protections under [section 2409 of title 10][/us/usc/t10/s2409], United States Code, as implemented by subpart 3.9 of part I of title 48, Code of Federal Regulations.
 
->     “(b) __Contractor Defined.—__ 
+>     “(b)  __Contractor Defined__  __.—__ 
 
 >     In this section, the term ‘contractor’ has the meaning given that term in [section 2409(e)(4) of title 10][/us/usc/t10/s2409/e/4], United States Code.”
 

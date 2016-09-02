@@ -15,11 +15,11 @@
 
 ## § 7363. Settlement of claims
 
-    (a) __Authority to Settle Claim.—__ 
+    (a)  __Authority to Settle Claim__  __.—__ 
 
     The Secretary of the Navy may settle any claim by the United States for salvage services rendered by the Department of the Navy and may receive payment of any such claim.
 
-    (b) __Salvage Services Defined.—__ 
+    (b)  __Salvage Services Defined__  __.—__ 
 
     In this section, the term “salvage services” includes services performed in connection with a marine salvage operation that are intended to prevent, abate, or minimize damage to the environment.
 

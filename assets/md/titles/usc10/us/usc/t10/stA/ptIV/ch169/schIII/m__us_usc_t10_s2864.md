@@ -15,15 +15,15 @@
 
 ## § 2864. Master plans for major military installations
 
-    (a) __Plans Required.—__ 
+    (a)  __Plans Required__  __.—__ 
 
     At a time interval prescribed by the Secretary concerned (but not less frequently than once every 10 years), the commander of each major military installation under the jurisdiction of the Secretary shall ensure that an installation master plan is developed to address environmental planning, sustainable design and development, sustainable range planning, real property master planning, and transportation planning.
 
-    (b) __Transportation Component.—__ 
+    (b)  __Transportation Component__  __.—__ 
 
     The transportation component of the master plan for a major military installation shall be developed and updated in consultation with the metropolitan planning organization designated for the metropolitan planning area in which the military installation is located.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

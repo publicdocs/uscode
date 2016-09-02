@@ -15,11 +15,11 @@
 
 ## § 7902. National Ocean Research Leadership Council
 
-    (a) __Council.—__ 
+    (a)  __Council__  __.—__ 
 
     There is a National Ocean Research Leadership Council (hereinafter in this chapter referred to as the “Council”).
 
-    (b) __Membership.—__ 
+    (b)  __Membership__  __.—__ 
 
     The Council is composed of the following members:
 
@@ -51,13 +51,13 @@
 
         (14) Other Federal officials the Council considers appropriate.
 
-    (c) __Chairman and Vice Chairman.—__ 
+    (c)  __Chairman and Vice Chairman__  __.—__ 
 
         (1) Except as provided in paragraph (2), the chairman and vice chairman of the Council shall be appointed every two years by a selection committee of the Council composed of, at a minimum, the Secretary of the Navy, the Administrator of the National Oceanic and Atmospheric Administration, and the Director of the National Science Foundation. The term of office of the chairman and vice chairman shall be two years. A person who has previously served as chairman or vice chairman may be reappointed.
 
         (2) The first chairman of the Council shall be the Secretary of the Navy. The first vice chairman of the Council shall be the Administrator of the National Oceanic and Atmospheric Administration.
 
-    (d) __Responsibilities.—__ 
+    (d)  __Responsibilities__  __.—__ 
 
     The Council shall have the following responsibilities:
 
@@ -89,7 +89,7 @@
 
             (D) Preexisting facilities and expertise.
 
-    (e) __Annual Report.—__ 
+    (e)  __Annual Report__  __.—__ 
 
     Not later than March 1 of each year, the Council shall submit to Congress a report on the National Oceanographic Partnership Program. The report shall contain the following:
 
@@ -103,7 +103,7 @@
 
         (5) The amounts requested, in the budget submitted to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a] for the fiscal year following the fiscal year in which the report is prepared, for the programs, projects, and activities of the program and the estimated expenditures under such programs, projects, and activities during such following fiscal year.
 
-    (f) __Partnership Program Office.—__ 
+    (f)  __Partnership Program Office__  __.—__ 
 
         (1) The Council shall establish a partnership program office for the National Oceanographic Partnership Program. The Council shall use competitive procedures in selecting an operator for the partnership program office.
 
@@ -121,11 +121,11 @@
 
         (3) The Council shall supervise the performance of duties by the partnership program office.
 
-    (g) __Contract and Grant Authority.—__ 
+    (g)  __Contract and Grant Authority__  __.—__ 
 
     The Council may authorize one or more of the departments or agencies represented on the Council to enter into contracts and make grants, using funds appropriated pursuant to an authorization of appropriations for the National Oceanographic Partnership Program, for the purpose of implementing the program and carrying out the responsibilities of the Council.
 
-    (h) __Establishment and Forms of Partnership Projects.—__ 
+    (h)  __Establishment and Forms of Partnership Projects__  __.—__ 
 
         (1) A partnership project under the National Oceanographic Partnership Program may be established by any instrument that the Council considers appropriate, including a memorandum of understanding, a cooperative research and development agreement, and any similar instrument.
 

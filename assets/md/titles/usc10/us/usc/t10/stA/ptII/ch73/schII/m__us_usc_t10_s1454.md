@@ -15,11 +15,11 @@
 
 ## § 1454. Correction of administrative errors
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary concerned may, under regulations prescribed under [section 1455 of this title][/us/usc/t10/s1455], correct or revoke any election under this subchapter when the Secretary considers it necessary to correct an administrative error.
 
-    (b) __Finality.—__ 
+    (b)  __Finality__  __.—__ 
 
     Except when procured by fraud, a correction or revocation under this section is final and conclusive on all officers of the United States.
 

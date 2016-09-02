@@ -15,7 +15,7 @@
 
 ## § 2228. Office of Corrosion Policy and Oversight
 
-    (a) __Office and Director.—__ 
+    (a)  __Office and Director__  __.—__ 
 
         (1) There is an Office of Corrosion Policy and Oversight within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -31,7 +31,7 @@
 
         (4) The Secretary of Defense shall designate the position of Director as a critical acquisition position under [section 1733(b)(1)(C) of this title][/us/usc/t10/s1733/b/1/C].
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
         (1) The Director of Corrosion Policy and Oversight (in this section referred to as the “Director”) shall oversee and coordinate efforts throughout the Department of Defense to prevent and mitigate corrosion of the military equipment and infrastructure of the Department. The duties under this paragraph shall include the duties specified in paragraphs (2) through (5).
 
@@ -55,7 +55,7 @@
 
             (B) to ensure that, to the extent determined appropriate for each acquisition program, such technologies and treatments are incorporated into that program, particularly during the engineering and design phases of the acquisition process.
 
-    (c) __Additional Authorities for Director.—__ 
+    (c)  __Additional Authorities for Director__  __.—__ 
 
     The Director is authorized to—
 
@@ -65,7 +65,7 @@
 
         (3) interact directly with the corrosion prevention industry, trade associations, other government corrosion prevention agencies, academic research and educational institutions, and scientific organizations engaged in corrosion prevention, including the National Academy of Sciences.
 
-    (d) __Long-Term Strategy.—__ 
+    (d)  __Long-Term Strategy__  __.—__ 
 
         (1) The Secretary of Defense shall develop and implement a long-term strategy to reduce corrosion and the effects of corrosion on the military equipment and infrastructure of the Department of Defense.
 
@@ -91,7 +91,7 @@
 
             (C) An assessment of the necessary personnel and funding necessary to accomplish the long-term strategy.
 
-    (e) __Report.—__ 
+    (e)  __Report__  __.—__ 
 
         (1)
 
@@ -111,7 +111,7 @@
 
         (2) Each report under this section shall include, in an annex to the report, a copy of the annual corrosion report most recently submitted by the corrosion control and prevention executive of each military department under section 903(b)(5) of the Duncan Hunter National Defense Authorization Act for Fiscal Year 2009 ([Public Law 110–417][/us/pl/110/417]; [122 Stat. 4567][/us/stat/122/4567]; [10 U.S.C. 2228][/us/usc/t10/s2228] note).
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -175,11 +175,11 @@
 
 [Pub. L. 112–81, div. A, title III, § 324][/us/pl/112/81/s324], Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362], provided that:
 
->     “(a) __Implementation; Congressional Briefing.—__ 
+>     “(a)  __Implementation; Congressional Briefing__  __.—__ 
 
 >     Not later than January 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall implement the recommended actions described in subsection (b) and provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the actions taken by the Under Secretary to implement such recommended actions.
 
->     “(b) __Recommended Actions.—__ 
+>     “(b)  __Recommended Actions__  __.—__ 
 
 >     The recommended actions described in this subsection are the following four recommended actions included in the report of the Government Accountability Office report numbered GAO–11–117R and titled ‘Defense Management: DOD Needs to Monitor and Assess Corrective Actions Resulting from Its Corrosion Study of the F–35 Joint Strike Fighter’:
 
@@ -191,7 +191,7 @@
 
 >         “(4) The documentation of Department of Defense-wide recommendations made as a result of such corrosion study, the implementation of any needed changes in policies and practices to improve corrosion prevention and control in new systems acquired by the Department, and the establishment of a process for monitoring and assessing the effectiveness of the corrective actions taken by the Department in response to such recommendations.
 
->     “(c) __Deadline for Compliance.—__ 
+>     “(c)  __Deadline for Compliance__  __.—__ 
 
 >     Not later than December 31, 2012, the Under Secretary of Defense for Acquisition, Technology, and Logistics, in conjunction with the directors of the F–35 and F–22 program offices, the directors of the program offices for the weapons systems referred to in subsection (b)(2), the Secretary of the Army, the Secretary of the Air Force, and the Secretary of the Navy, shall—
 
@@ -199,7 +199,7 @@
 
 >         “(2) submit to the congressional defense committees written justification of why compliance was not feasible or achieved.
 
->     “(d) __Corrosion Study.—__ 
+>     “(d)  __Corrosion Study__  __.—__ 
 
 >     The corrosion study described in this subsection is the study required in House Report 111–166 accompanying H.R. 2647 of the 111th Congress \[[Pub. L. 111–84][/us/pl/111/84]\] conducted by the Office of the Director of Corrosion Policy and Oversight of the Office of the Secretary of Defense and titled ‘Corrosion Evaluation of the F–22 Raptor and F–35 Lightning II Joint Strike Fighter’.”
 
@@ -207,11 +207,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 903, Oct. 14, 2008, [122 Stat. 4566][/us/stat/122/4566], provided that:
 
->     “(a) __Requirement to Designate Corrosion Control and Prevention Executive.—__ 
+>     “(a)  __Requirement to Designate Corrosion Control and Prevention Executive__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Assistant Secretary of each military department with responsibility for acquisition, technology, and logistics shall designate an employee of the military department as the corrosion control and prevention executive. Such executive shall be the senior official in the department with responsibility for coordinating department-level corrosion control and prevention program activities (including budget programming) with the military department and the Office of the Secretary of Defense, the program executive officers of the military departments, and relevant major subordinate commands of the military departments.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >         (1)
 

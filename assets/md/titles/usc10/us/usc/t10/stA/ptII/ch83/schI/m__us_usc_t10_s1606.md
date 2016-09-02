@@ -15,19 +15,19 @@
 
 ## § 1606. Defense Intelligence Senior Executive Service
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense may establish a Defense Intelligence Senior Executive Service for defense intelligence positions established pursuant to [section 1601(a) of this title][/us/usc/t10/s1601/a] that are equivalent to Senior Executive Service positions. The number of positions in the Defense Intelligence Senior Executive Service may not exceed 594.
 
-    (b) __Regulations Consistent With Title 5 Provisions.—__ 
+    (b)  __Regulations Consistent With Title__  __5__  __Provisions__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the Defense Intelligence Senior Executive Service which are consistent with the requirements set forth in sections 3131, 3132(a)(2), 3396(c), 3592, 3595(a), 5384, and 6304 of title 5, subsections (a), (b), and (c) of section 7543 of such title (except that any hearing or appeal to which a member of the Defense Intelligence Senior Executive Service is entitled shall be held or decided pursuant to those regulations), and subchapter II of chapter 43 of such title. To the extent that the Secretary determines it practicable to apply to members of, or applicants for, the Defense Intelligence Senior Executive Service other provisions of title 5 that apply to members of, or applicants for, the Senior Executive Service, the Secretary shall also prescribe regulations to implement those provisions with respect to the Defense Intelligence Senior Executive Service.
 
-    (c) __Award of Rank to Members of the Defense Intelligence Senior Executive Service.—__ 
+    (c)  __Award of Rank to Members of the Defense Intelligence Senior Executive Service__  __.—__ 
 
     The President, based on the recommendations of the Secretary of Defense, may award a rank referred to in [section 4507 of title 5][/us/usc/t5/s4507] to members of the Defense Intelligence Senior Executive Service. The award of such rank shall be made in a manner consistent with the provisions of that section.
 
-    (d) __Performance Appraisals.—__ 
+    (d)  __Performance Appraisals__  __.—__ 
 
         (1) The Defense Intelligence Senior Executive Service shall be subject to a performance appraisal system which, as designed and applied, is certified by the Secretary of Defense under [section 5307 of title 5][/us/usc/t5/s5307] as making meaningful distinctions based on relative performance.
 

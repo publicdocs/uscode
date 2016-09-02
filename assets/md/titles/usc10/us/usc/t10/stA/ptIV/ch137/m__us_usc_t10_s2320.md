@@ -263,11 +263,11 @@
 
 [Pub. L. 112–81, div. A, title VIII, § 815(c)][/us/pl/112/81/s815/c], Dec. 31, 2011, [125 Stat. 1493][/us/stat/125/1493], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), the amendments made by this section \[amending this section and [section 2321 of this title][/us/usc/t10/s2321]\] shall take effect on the date of the enactment of this Act \[Dec. 31, 2011\].
 
->     “(2) __Exception.—__ 
+>     “(2)  __Exception__  __.—__ 
 
 >     The amendment made by subsection (a)(1)(C) \[amending this section\] shall take effect on January 7, 2011, immediately after the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ([Public Law 111–383][/us/pl/111/383]), to which such amendment relates.”
 
@@ -321,7 +321,7 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 822, Oct. 14, 2008, [122 Stat. 4532][/us/stat/122/4532], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(13)][/us/pl/111/383/s1075/e/13], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that:
 
->     “(a) __Policy Guidance.—__ 
+>     “(a)  __Policy Guidance__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall issue policy guidance with respect to rights in technical data under a non-FAR agreement. The guidance shall—
 
@@ -331,11 +331,11 @@
 
 >         “(3) require the program manager for a major weapon system or an item of personnel protective equipment that is to be developed using a non-FAR agreement to assess the long-term technical data needs of such system or item.
 
->     “(b) __Requirement to Include Provisions in Non-FAR Agreements.—__ 
+>     “(b)  __Requirement to Include Provisions in Non-FAR Agreements__  __.—__ 
 
 >     A non-FAR agreement shall contain appropriate provisions relating to rights in technical data consistent with the policy guidance issued pursuant to subsection (a).
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -357,7 +357,7 @@
 
 >             “(C) A consortium.
 
->     “(d) __Report on Life Cycle Planning for Technical Data Needs.—__ 
+>     “(d)  __Report on Life Cycle Planning for Technical Data Needs__  __.—__ 
 
 >     Not later than 270 days after the date of enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of the requirements in [section 2320(e) of title 10][/us/usc/t10/s2320/e], United States Code, for the assessment of long-term technical data needs to sustain major weapon systems. Such report shall include—
 

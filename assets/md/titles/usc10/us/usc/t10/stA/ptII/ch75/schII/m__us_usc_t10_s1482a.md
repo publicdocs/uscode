@@ -15,7 +15,7 @@
 
 ## § 1482a. Expenses incident to death: civilian employees serving with an armed force
 
-    (a) __Payment of Expenses.—__ 
+    (a)  __Payment of Expenses__  __.—__ 
 
     The Secretary concerned may pay the expenses incident to the death of a civilian employee who dies of injuries incurred in connection with the employee’s service with an armed force in a contingency operation, or who dies of injuries incurred in connection with a terrorist incident occurring during the employee’s service with an armed force, as follows:
 
@@ -25,11 +25,11 @@
 
         (3) Presentation of a flag of equal size to the flag presented under paragraph (2) to the parents or parent of the employee, if the person to be presented a flag under paragraph (2) is other than the parent of the employee.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Homeland Security shall prescribe regulations to implement this section with regard to civilian employees of the Department of Homeland Security. Regulations under this subsection shall be uniform to the extent possible and shall provide for the Secretary’s consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee’s service with the armed force.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

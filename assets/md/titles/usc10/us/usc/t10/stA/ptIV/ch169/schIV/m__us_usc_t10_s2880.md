@@ -15,11 +15,11 @@
 
 ## § 2880. Unit size and type
 
-    (a) __Conformity With Similar Housing Units in Locale.—__ 
+    (a)  __Conformity With Similar Housing Units in Locale__  __.—__ 
 
     The Secretary concerned shall ensure that the room patterns and floor areas of military family housing units and military unaccompanied housing units acquired or constructed under this subchapter are generally comparable to the room patterns and floor areas of similar housing units in the locality concerned.
 
-    (b) __Inapplicability of Limitations on Space by Pay Grade.—__ 
+    (b)  __Inapplicability of Limitations on Space by Pay Grade__  __.—__ 
 
     Sections 2826 and 2856 of this title shall not apply to military family housing or military unaccompanied housing units acquired or constructed under this subchapter.
 

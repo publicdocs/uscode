@@ -15,7 +15,7 @@
 
 ## § 2884. Reports
 
-    (a) __Project Reports.—__ 
+    (a)  __Project Reports__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
         (4) The report shall be submitted not later than 30 days before the date on which the Secretary issues the contract solicitation or offers the conveyance or lease or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (b) __Annual Reports to Accompany Budget Materials.—__ 
+    (b)  __Annual Reports to Accompany Budget Materials__  __.—__ 
 
     The Secretary of Defense shall include each year in the materials that the Secretary submits to Congress in support of the budget submitted by the President pursuant to [section 1105 of title 31][/us/usc/t31/s1105] the following:
 
@@ -85,7 +85,7 @@
 
         (4) A report identifying each family housing unit acquired or constructed under this subchapter that is used, or intended to be used, as quarters for a general officer or flag officer and for which the total operation, maintenance, and repair costs for the unit exceeded $50,000. For each housing unit so identified, the report shall also include the total of such operation, maintenance, and repair costs.
 
-    (c) __Annual Report on Privatization Projects.—__ 
+    (c)  __Annual Report on Privatization Projects__  __.—__ 
 
     The Secretary of Defense shall submit to the congressional defense committees a semi-annual report containing on  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “an”. </sup></sup>  evaluation of the status of oversight and accountability measures under [section 2885 of this title][/us/usc/t10/s2885] for military housing privatization projects. To the extent each Secretary concerned has the right to attain the information described in this subsection, each report shall include, at a minimum, the following:
 

@@ -15,7 +15,7 @@
 
 ## § 2332. Share-in-savings contracts
 
-    (a) __Authority To Enter Into Share-in-Savings Contracts.—__ 
+    (a)  __Authority To Enter Into Share-in-Savings Contracts__  __.—__ 
 
         (1) The head of an agency may enter into a share-in-savings contract for information technology (as defined in [section 11101(6) of title 40][/us/usc/t40/s11101/6]) in which the Government awards a contract to improve mission-related or administrative processes or to accelerate the achievement of its mission and share with the contractor in savings achieved through contract performance.
 
@@ -47,7 +47,7 @@
 
                 (ii) be applied first to fund any contingent liabilities associated with share-in-savings procurements that are not fully funded.
 
-    (b) __Cancellation and Termination.—__ 
+    (b)  __Cancellation and Termination__  __.—__ 
 
         (1)
 
@@ -79,7 +79,7 @@
 
             (B) The aggregate number of share-in-savings contracts that may be entered into under subparagraph (A) by all agencies to which this chapter applies in a fiscal year may not exceed 5 in each of fiscal years 2003, 2004, and 2005.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -113,7 +113,7 @@
 
                 (ii) acceleration of achievement of agency missions.
 
-    (d) __Termination.—__ 
+    (d)  __Termination__  __.—__ 
 
     No share-in-savings contracts may be entered into under this section after September 30, 2005.
 

@@ -15,11 +15,11 @@
 
 ## § 422. Use of funds for certain incidental purposes
 
-    (a) __Counterintelligence Official Reception and Representation Expenses.—__ 
+    (a)  __Counterintelligence Official Reception and Representation Expenses__  __.—__ 
 
     The Secretary of Defense may use funds available to the Department of Defense for counterintelligence programs to pay the expenses of hosting foreign officials in the United States under the auspices of the Department of Defense for consultation on counterintelligence matters.
 
-    (b) __Promotional Items for Recruitment Purposes.—__ 
+    (b)  __Promotional Items for Recruitment Purposes__  __.—__ 
 
     The Secretary of Defense may use funds available for an intelligence element of the Department of Defense to purchase promotional items of nominal value for use in the recruitment of individuals for employment by that element.
 

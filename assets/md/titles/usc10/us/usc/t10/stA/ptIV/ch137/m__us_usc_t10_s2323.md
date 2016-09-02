@@ -15,7 +15,7 @@
 
 ## § 2323. Contract goal for small disadvantaged businesses and certain institutions of higher education
 
-    (a) __Goal.—__ 
+    (a)  __Goal__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (3) The Federal Acquisition Regulation shall provide procedures or guidelines for contracting officers to set goals which agency prime contractors that are required to submit subcontracting plans under section 8(d)(4)(B) of the Small Business Act ([15 U.S.C. 637(d)(4)(B)][/us/usc/t15/s637/d/4/B]) in furtherance of the agency’s program to meet the 5 percent goal specified in paragraph (1) should meet in awarding subcontracts, including subcontracts to minority-owned media, to entities described in that paragraph.
 
-    (b) __Amount.—__ 
+    (b)  __Amount__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (3) With respect to the National Aeronautics and Space Administration, the requirements of subsection (a) for any fiscal year apply to the total value of all prime contract and subcontract awards entered into by the National Aeronautics and Space Administration for such fiscal year.
 
-    (c) __Types of Assistance.—__ 
+    (c)  __Types of Assistance__  __.—__ 
 
         (1) To attain the goal specified in subsection (a)(1), the head of an agency shall provide technical assistance to the entities referred to in that subsection and, in the case of historically Black colleges and universities, Hispanic-serving institutions, Native Hawaiian-serving institutions and Alaska Native-serving institutions, and minority institutions, shall also provide infrastructure assistance.
 
@@ -81,7 +81,7 @@
 
         (4) The head of the agency shall, to the maximum extent practical, carry out programs under this section at colleges, universities, and institutions that agree to bear a substantial portion of the cost associated with the programs.
 
-    (d) __Applicability.—__ 
+    (d)  __Applicability__  __.—__ 
 
     Subsection (a) does not apply to the Department of Defense—
 
@@ -89,7 +89,7 @@
 
         (2) if the Secretary notifies Congress of such determination and the reasons for such determination.
 
-    (e) __Competitive Procedures and Advance Payments.—__ 
+    (e)  __Competitive Procedures and Advance Payments__  __.—__ 
 
     To attain the goal of subsection (a):
 
@@ -153,13 +153,13 @@
 
             (H) Increased technical assistance to entities described in subsection (a)(1).
 
-    (f) __Penalties and Regulations Relating to Status.—__ 
+    (f)  __Penalties and Regulations Relating to Status__  __.—__ 
 
         (1) Whoever for the purpose of securing a contract or subcontract under subsection (a) misrepresents the status of any concern or person as a small business concern owned and controlled by a minority (as described in subsection (a)) or as a qualified HUBZone small business concern (as defined in section 3(p) of the Small Business Act), shall be punished by imprisonment for not more than one year, or a fine under title 18, or both.
 
         (2) The Federal Acquisition Regulation shall prohibit awarding a contract under this section to an entity described in subsection (a)(1) unless the entity agrees to comply with the requirements of section 15(o)(1)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Small Business Act ([15 U.S.C. 644][/us/usc/t15/s644](o)(1)).
 
-    (g) __Industry Categories.—__ 
+    (g)  __Industry Categories__  __.—__ 
 
         (1)
 
@@ -171,13 +171,13 @@
 
         (2) Under procedures prescribed by the head of the agency, a person may request the Secretary to determine whether the use of small disadvantaged business set asides by a contracting activity of the agency has caused a particular industry category to bear a disproportionate share of the contracts awarded to attain the goal established for that contracting activity for the purposes of this section. Upon making a determination that a particular industry category is bearing a disproportionate share, the head of the agency shall take appropriate actions to limit the contracting activity’s use of set asides in awarding contracts in that particular industry category.
 
-    (h) __Compliance With Subcontracting Plan Requirements.—__ 
+    (h)  __Compliance With Subcontracting Plan Requirements__  __.—__ 
 
         (1) The Federal Acquisition Regulation shall contain regulations to ensure that potential contractors submitting sealed bids or competitive proposals to the agency for procurement contracts to be awarded under the program provided for by this section are complying with applicable subcontracting plan requirements of section 8(d) of the Small Business Act ([15 U.S.C. 637(d)][/us/usc/t15/s637/d]).
 
         (2) The regulations required by paragraph (1) shall ensure that, with respect to a sealed bid or competitive proposal for which the bidder or offeror is required to negotiate or submit a subcontracting plan under section 8(d) of the Small Business Act ([15 U.S.C. 637(d)][/us/usc/t15/s637/d]), the subcontracting plan shall be a factor in evaluating the bid or proposal.
 
-    (i) __Annual Report.—__ 
+    (i)  __Annual Report__  __.—__ 
 
         (1) Not later than December 15 of each year, the head of the agency shall submit to Congress a report on the progress of the agency toward attaining the goal of subsection (a) during the preceding fiscal year.
 
@@ -189,7 +189,7 @@
 
             (B) A plan to achieve the goal, if necessary.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -197,7 +197,7 @@
 
         (2) The term “head of an agency” means the Secretary of Defense, the Secretary of Homeland Security, and the Administrator of the National Aeronautics and Space Administration.
 
-    (k) __Effective Date.—__ 
+    (k)  __Effective Date__  __.—__ 
 
         (1) This section applies in the Department of Defense to each of fiscal years 1987 through 2009.
 

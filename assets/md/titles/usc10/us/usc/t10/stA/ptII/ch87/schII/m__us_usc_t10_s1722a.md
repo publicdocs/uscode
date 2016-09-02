@@ -15,11 +15,11 @@
 
 ## § 1722a. Special requirements for military personnel in the acquisition field
 
-    (a) __Requirement for Policy and Guidance Regarding Military Personnel in Acquisition.—__ 
+    (a)  __Requirement for Policy and Guidance Regarding Military Personnel in Acquisition__  __.—__ 
 
     The Secretary of Defense shall require the Secretary of each military department (with respect to such military department) and the Under Secretary of Defense for Acquisition, Technology, and Logistics (with respect to the Office of the Secretary of Defense, the unified combatant commands, the Defense Agencies, and the Defense Field Activities) to establish policies and issue guidance to ensure the proper development, assignment, and employment of members of the armed forces in the acquisition field to achieve the objectives of this section as specified in subsection (b).
 
-    (b) __Objectives.—__ 
+    (b)  __Objectives__  __.—__ 
 
     Policies established and guidance issued pursuant to subsection (a) shall ensure, at a minimum, the following:
 
@@ -29,7 +29,7 @@
 
         (3) A number of qualified, trained members of the armed forces eligible for and active in the acquisition field sufficient to ensure the optimum management of the acquisition functions of the Department of Defense and the appropriate use of military personnel in contingency contracting.
 
-    (c) __Reservation of Acquisition Billets for General Officers and Flag Officers.—__ 
+    (c)  __Reservation of Acquisition Billets for General Officers and Flag Officers__  __.—__ 
 
         (1)
 
@@ -49,11 +49,11 @@
 
         (3) The Secretary of Defense shall ensure that a portion of the billets referred to in paragraphs (1) and (2) involve command of organizations primarily focused on contracting and are reserved for general officers and flag officers who have significant contracting experience.
 
-    (d) __Relationship to Limitation on Preference for Military Personnel.—__ 
+    (d)  __Relationship to Limitation on Preference for Military Personnel__  __.—__ 
 
     Any designation or reservation of a position for a member of the armed forces as a result of a policy established or guidance issued pursuant to this section shall be deemed to meet the requirements for an exception under paragraph (2) of [section 1722(b) of this title][/us/usc/t10/s1722/b] from the limitation in paragraph (1) of such section.
 
-    (e) __Report.—__ 
+    (e)  __Report__  __.—__ 
 
     Not later than January 1 of each year, the Secretary of each military department shall submit to the Under Secretary of Defense for Acquisition, Technology, and Logistics a report describing how the Secretary fulfilled the objectives of this section in the preceding calendar year. The report shall include information on the reservation of acquisition billets for general officers and flag officers within the department concerned.
 

@@ -15,7 +15,7 @@
 
 ## § 2430a. Major subprograms
 
-    (a) __Authority To Designate Major Subprograms as Subject to Acquisition Reporting Requirements.—__ 
+    (a)  __Authority To Designate Major Subprograms as Subject to Acquisition Reporting Requirements__  __.—__ 
 
         (1)
 
@@ -25,7 +25,7 @@
 
         (2) The Secretary shall notify the congressional defense committees in writing of any proposed designation pursuant to paragraph (1) not less than 30 days before the date such designation takes effect.
 
-    (b) __Reporting Requirements.—__ 
+    (b)  __Reporting Requirements__  __.—__ 
 
         (1)
 
@@ -37,11 +37,11 @@
 
         (2) For a major defense acquisition program for which a designation of a major subprogram has been made under subsection (a), unit costs under this chapter shall be submitted in accordance with the definitions in subsection (d).
 
-    (c) __Requirement to Cover Entire Major Defense Acquisition Program.—__ 
+    (c)  __Requirement to Cover Entire Major Defense Acquisition Program__  __.—__ 
 
     If a subprogram of a major defense acquisition program is designated as a major subprogram under subsection (a), all other elements of the major defense acquisition program shall be appropriately organized into one or more subprograms under the major defense acquisition program, each of which subprograms, as so organized, shall be treated as a major subprogram under subsection (a).
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     Notwithstanding paragraphs (1) and (2) of [section 2432(a) of this title][/us/usc/t10/s2432/a], in the case of a major defense acquisition program for which the Secretary has designated one or more major subprograms under this section for the purposes of this chapter—
 

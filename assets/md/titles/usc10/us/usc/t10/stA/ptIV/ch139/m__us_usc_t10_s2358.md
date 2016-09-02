@@ -15,7 +15,7 @@
 
 ## § 2358. Research and development projects
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense or the Secretary of a military department may engage in basic research, applied research, advanced research, and development projects that—
 
@@ -29,7 +29,7 @@
 
             (B) are of potential interest to the Department of Defense.
 
-    (b) __Authorized Means.—__ 
+    (b)  __Authorized Means__  __.—__ 
 
     The Secretary of Defense or the Secretary of a military department may perform research and development projects—
 
@@ -41,11 +41,11 @@
 
         (4) by mutual agreement with the head of any other department or agency of the Federal Government.
 
-    (c) __Requirement of Potential Department of Defense Interest.—__ 
+    (c)  __Requirement of Potential Department of Defense Interest__  __.—__ 
 
     Funds appropriated to the Department of Defense or to a military department may not be used to finance any research project or study unless the project or study is, in the opinion of the Secretary of Defense or the Secretary of that military department, respectively, of potential interest to the Department of Defense or to such military department, respectively.
 
-    (d) __Additional Provisions Applicable to Cooperative Agreements.—__ 
+    (d)  __Additional Provisions Applicable to Cooperative Agreements__  __.—__ 
 
     Additional authorities, conditions, and requirements relating to certain cooperative agreements authorized by this section are provided in sections 2371 and 2371a of this title.
 
@@ -141,11 +141,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 112–239, div. A, title II, § 252][/us/pl/112/239/s252], Jan. 2, 2013, [126 Stat. 1688][/us/stat/126/1688], provided that:
 
->     “(a) __Development of Innovative Advanced Technologies.—__ 
+>     “(a)  __Development of Innovative Advanced Technologies__  __.—__ 
 
 >     The Secretary of Defense may use the research and engineering network of the Department of Defense, including the organic industrial base, to support regional advanced technology clusters established by the Secretary of Commerce to encourage the development of innovative advanced technologies to address national security and homeland defense challenges.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the appropriate congressional committees a report describing—
 
@@ -175,11 +175,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(6) the use of any agreements entered into under the Intergovernmental Personnel Act of 1970 ([42 U.S.C. 4701][/us/usc/t42/s4701] et seq.) and any access granted to facilities of the Department of Defense for research and development purposes.
 
->     “(c) __Collaboration.—__ 
+>     “(c)  __Collaboration__  __.—__ 
 
 >     The Secretary of Defense may meet, collaborate, and share resources with other Federal agencies for purposes of assisting in the use and appropriate growth of regional advanced technology clusters under this section.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -199,11 +199,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 112–81, div. A, title II, § 222][/us/pl/112/81/s222], Dec. 31, 2011, [125 Stat. 1336][/us/stat/125/1336], provided that:
 
->     “(a) __Program Authorized.—__ 
+>     “(a)  __Program Authorized__  __.—__ 
 
 >     The Secretary of the Army may conduct a program for flight research and demonstration of advanced rotorcraft technology.
 
->     “(b) __Goals and Objectives.—__ 
+>     “(b)  __Goals and Objectives__  __.—__ 
 
 >     The goals and objectives of the program authorized by subsection (a) are as follows:
 
@@ -217,7 +217,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(B) have the ability to add such technology to the existing rotorcraft of the Department to extend the capability and life of such rotorcraft until next-generation platforms are fielded.
 
->     “(c) __Elements of Program.—__ 
+>     “(c)  __Elements of Program__  __.—__ 
 
 >     The program authorized by subsection (a) may include—
 
@@ -225,7 +225,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) flight demonstration of the advanced rotorcraft technology test bed under the experimental airworthiness process of the Federal Aviation Administration or other appropriate airworthiness process approved by the Secretary of Defense.
 
->     “(d) __Competition.—__ 
+>     “(d)  __Competition__  __.—__ 
 
 >     In awarding a contract under this section, the Secretary shall use competitive procedures in accordance with the requirements of [section 2304 of title 10][/us/usc/t10/s2304], United States Code, and shall consider a timely offer submitted by a small business concern (as defined in section 2225(f)(3) of such title) in accordance with the specifications and evaluation factors specified in the solicitation.”
 
@@ -233,11 +233,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 111–383, div. A, title II, § 214][/us/pl/111/383/s214], Jan. 7, 2011, [124 Stat. 4164][/us/stat/124/4164], provided that:
 
->     “(a) __Program Authorized.—__ 
+>     “(a)  __Program Authorized__  __.—__ 
 
 >     The Secretary of Defense may carry out a program for research and development on, and deployment of, advanced technology ground vehicles, ground vehicle systems, and components within the Department of Defense.
 
->     “(b) __Goals and Objectives.—__ 
+>     “(b)  __Goals and Objectives__  __.—__ 
 
 >     The goals and objectives of the program authorized by subsection (a) are as follows:
 
@@ -247,7 +247,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) To maximize the leverage of Federal and nongovernment funds used for the development and deployment of advanced technology ground vehicles, ground vehicle systems, and components.
 
->     “(c) __Elements of Program.—__ 
+>     “(c)  __Elements of Program__  __.—__ 
 
 >     The program authorized by subsection (a) may include—
 
@@ -277,7 +277,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >     “(d) __Cooperation With Industry and Academia.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may carry out the program authorized by subsection (a) through partnerships and other cooperative agreements with private sector entities, including—
 
@@ -289,11 +289,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(D) any other companies or private sector entities that the Secretary considers appropriate.
 
->         “(2) __Nature of cooperation.—__ 
+>         “(2)  __Nature of cooperation__  __.—__ 
 
 >         The Secretary shall ensure that any partnership or cooperative agreement under paragraph (1) provides for private sector participants to collectively contribute, in cash or in kind, not less than one-half of the total cost of the activities carried out under such partnership or cooperative agreement.
 
->     “(e) __Coordination With Other Federal Agencies.—__ 
+>     “(e)  __Coordination With Other Federal Agencies__  __.—__ 
 
 >     The program authorized by subsection (a) shall be carried out, to the maximum extent practicable, in coordination with the Department of Energy and other appropriate departments and agencies of the Federal Government.”
 
@@ -301,11 +301,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 111–383, div. A, title II, § 243][/us/pl/111/383/s243], Jan. 7, 2011, [124 Stat. 4178][/us/stat/124/4178], as amended by [Pub. L. 112–81, div. A, title II, § 252][/us/pl/112/81/s252], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Secretary of Defense shall carry out a pilot program to develop and incorporate technology protection features in a designated system during the research and development phase of such system.
 
->     “(b) __Cost-sharing.—__ 
+>     “(b)  __Cost-sharing__  __.—__ 
 
 >     Any contract for the design or development of a system resulting from activities under subsection (a) for the purpose of enhancing or enabling the exportability of the system either—
 
@@ -315,15 +315,15 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         shall include a cost-sharing provision that requires the contractor to bear at least one-half of the cost of such activities.
 
->     “(c) __Annual Reports.—__ 
+>     “(c)  __Annual Reports__  __.—__ 
 
 >     Not later than December 31 of each year in which the Secretary carries out the pilot program established under this section, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program, including a list of each designated system included in the program.
 
->     “(d) __Termination.—__ 
+>     “(d)  __Termination__  __.—__ 
 
 >     The pilot program established under this section shall terminate on October 1, 2015.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -335,27 +335,27 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 111–383, div. A, title X, § 1078][/us/pl/111/383/s1078], Jan. 7, 2011, [124 Stat. 4380][/us/stat/124/4380], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of Defense should support the research, development, test, and evaluation, procurement, and fielding of effective non-lethal weapons and technologies explicitly designed to, with respect to counterinsurgency operations, reduce military casualties and fatalities, improve military mission accomplishment and operational effectiveness, reduce civilian casualties and fatalities, and minimize undesired damage to property and the environment.
 
 >     “(b) __Program Required.—__ 
 
->         “(1) __Demonstration and assessment.—__ 
+>         “(1)  __Demonstration and assessment__  __.—__ 
 
 >         The Secretary of Defense, acting through the Executive Agent for Non-lethal Weapons and in coordination with the Secretaries of the military departments and the combatant commanders, shall carry out a program to demonstrate and assess the utility and effectiveness of non-lethal weapons to provide escalation of force options in counter-insurgency operations.
 
->         “(2) __Non-lethal weapons evaluated.—__ 
+>         “(2)  __Non-lethal weapons evaluated__  __.—__ 
 
 >         In evaluating non-lethal weapons under the program under this subsection, the Secretary shall include non-lethal weapons designed for counter-personnel and counter-materiel missions.
 
 >     “(c) __Report.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than October 1, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the role and utility of non-lethal weapons and technologies in counterinsurgency operations.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report under paragraph (1) shall include the following:
 
@@ -375,7 +375,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >     “(a) __Mechanisms to Provide Funds.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense, in consultation with the Secretaries of the military departments, shall establish mechanisms under which the director of a defense laboratory may use an amount of funds equal to not more than three percent of all funds available to the defense laboratory for the following purposes:
 
@@ -387,15 +387,15 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(D) To fund the revitalization and recapitalization of the laboratory pursuant to [section 2805(d) of title 10][/us/usc/t10/s2805/d], United States Code.
 
->         “(2) __Consultation required.—__ 
+>         “(2)  __Consultation required__  __.—__ 
 
 >         The mechanisms established under paragraph (1) shall provide that funding shall be used under paragraph (1) at the discretion of the director of a defense laboratory in consultation with the science and technology executive of the military department concerned.
 
->     “(b) __Annual Report on Use of Authority.—__ 
+>     “(b)  __Annual Report on Use of Authority__  __.—__ 
 
 >     Not later than March 1 of each year, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority under subsection (a) during the preceding year.
 
->     “(c) __Sunset.—__ 
+>     “(c)  __Sunset__  __.—__ 
 
 >     The authority under subsection (a) shall expire on September 30, 2016.”
 
@@ -403,11 +403,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XV, § 1504, Oct. 14, 2008, [122 Stat. 4650][/us/stat/122/4650], as amended by [Pub. L. 112–81, div. A, title X, § 1062(b)][/us/pl/112/81/s1062/b], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(D)][/us/pl/112/239/s1076/c/2/D], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
->     “(a) __Strategy Required.—__ 
+>     “(a)  __Strategy Required__  __.—__ 
 
 >     The Director of the Joint Improvised Explosive Device Defeat Organization (JIEDDO), jointly with the Assistant Secretary of Defense for Research and Engineering, shall develop a comprehensive science and technology investment strategy for countering the threat of improvised explosive devices (IEDs).
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The strategy developed under subsection (a) shall include the following:
 
@@ -433,15 +433,15 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 109–364, div. A, title II, § 218][/us/pl/109/364/s218], Oct. 17, 2006, [120 Stat. 2126][/us/stat/120/2126], as amended by [Pub. L. 112–81, div. A, title II, § 241][/us/pl/112/81/s241], Dec. 31, 2011, [125 Stat. 1343][/us/stat/125/1343], provided that:
 
->     “(a) __Establishment of Joint Technology Office on Hypersonics.—__ 
+>     “(a)  __Establishment of Joint Technology Office on Hypersonics__  __.—__ 
 
 >     The Secretary of Defense shall establish within the Office of the Secretary of Defense a joint technology office on hypersonics. The office shall carry out the program required under subsection (b), and shall have such other responsibilities relating to hypersonics as the Secretary shall specify.
 
->     “(b) __Program on Hypersonics.—__ 
+>     “(b)  __Program on Hypersonics__  __.—__ 
 
 >     The joint technology office established under subsection (a) shall carry out a program for the development of hypersonics for defense purposes.
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     In carrying out the program required by subsection (b), the joint technology office established under subsection (a) shall do the following:
 
@@ -463,15 +463,15 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >     “(d) __Roadmap.—__ 
 
->         “(1) __Roadmap required.—__ 
+>         “(1)  __Roadmap required__  __.—__ 
 
 >         The joint technology office established under subsection (a) shall develop, and every two years revise, a roadmap for the hypersonics programs of the Department of Defense.
 
->         “(2) __Coordination.—__ 
+>         “(2)  __Coordination__  __.—__ 
 
 >         The roadmap shall be developed and revised under paragraph (1) in coordination with the Joint Staff and in consultation with the National Aeronautics and Space Administration.
 
->         “(3) __Elements.—__ 
+>         “(3)  __Elements__  __.—__ 
 
 >         The roadmap shall include the following matters:
 
@@ -491,7 +491,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(E) Acquisition transition plans for hypersonics.
 
->         “(4) __Submittal to congress.—__ 
+>         “(4)  __Submittal to congress__  __.—__ 
 
 >         The Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]—
 
@@ -501,7 +501,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >     “(e) __Annual Review and Certification of Funding.—__ 
 
->         “(1) __Annual review.—__ 
+>         “(1)  __Annual review__  __.—__ 
 
 >         The joint technology office established under subsection (a) shall conduct on an annual basis a review of—
 
@@ -509,15 +509,15 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(B) the hypersonics demonstration programs of the Department, in order to determine whether or not such programs avoid duplication of effort and support the goals of the Department in a manner consistent with the roadmap developed under subsection (d).
 
->         “(2) __Certification.—__ 
+>         “(2)  __Certification__  __.—__ 
 
 >         The joint technology office shall, as a result of each review under paragraph (1), certify to the Secretary whether or not the funding and programs subject to such review are consistent with the roadmap developed under subsection (d).
 
->         “(3) __Termination.—__ 
+>         “(3)  __Termination__  __.—__ 
 
 >         The requirements of this subsection shall terminate after the submittal to Congress of the budget for fiscal year 2016 pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code.
 
->     “(f) __Reports to Congress.—__ 
+>     “(f)  __Reports to Congress__  __.—__ 
 
 >     If, as a result of a review under subsection (e), funding or a program on hypersonics is certified under that subsection not to be consistent with the roadmap developed under subsection (d), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], at the same time as the submittal to Congress of the budget (as submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code), a report on such funding or program, as the case may be, describing how such funding or program is not consistent with the roadmap, together with a statement of the actions to be taken by the Department.”
 
@@ -525,11 +525,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 108–375, div. A, title II, § 212][/us/pl/108/375/s212], Oct. 28, 2004, [118 Stat. 1832][/us/stat/118/1832], as amended by [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(iii)][/us/pl/112/239/s1076/c/2/A/iii], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     The Secretary of Defense shall establish a program for research and development in advanced vacuum electronics to meet the requirements of Department of Defense systems.
 
->     “(b) __Description of Program.—__ 
+>     “(b)  __Description of Program__  __.—__ 
 
 >     The program under subsection (a) shall be carried out collaboratively by the Assistant Secretary of Defense for Research and Engineering, the Secretary of the Navy, the Secretary of the Air Force, the Secretary of the Army, and other appropriate elements of the Department of Defense. The program shall include the following activities:
 
@@ -537,7 +537,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) Identification of legacy and developmental Department of Defense systems which may make use of advanced vacuum electronics under the program.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than January 31, 2005, the Assistant Secretary of Defense for Research and Engineering shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the implementation of the program under subsection (a). The report shall include the following:
 
@@ -559,11 +559,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 108–136, div. A, title II, § 234][/us/pl/108/136/s234], Nov. 24, 2003, [117 Stat. 1423][/us/stat/117/1423], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall carry out a program of research and development to promote the development of high-speed, high-bandwidth communications capabilities for support of network-centric operations by the Armed Forces.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the program required by subsection (a) are as follows:
 
@@ -571,7 +571,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) To provide for the development of equipment and technologies for military high-speed, high-bandwidth communications capabilities for support of network-centric operations.
 
->     “(c) __Description of Program.—__ 
+>     “(c)  __Description of Program__  __.—__ 
 
 >     In carrying out the program of research and development required by subsection (a), the Secretary shall—
 
@@ -599,7 +599,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(5) consult with other Federal entities and with private industry to develop cooperative research and development efforts, to the extent that such efforts are practicable.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >         (1) The Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\], together with the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2006 (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code), a report on the activities carried out under this section through the date on which the report is submitted.
 
@@ -625,17 +625,17 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 108–136, div. A, title XVI, § 1601][/us/pl/108/136/s1601], Nov. 24, 2003, [117 Stat. 1680][/us/stat/117/1680], as amended by [Pub. L. 112–81, div. A, title X, § 1062(g)(3)][/us/pl/112/81/s1062/g/3], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense (in this section referred to as the ‘Secretary’) shall carry out a program to accelerate the research, development and procurement of biomedical countermeasures, including but not limited to therapeutics and vaccines, for the protection of the Armed Forces from attack by one or more biological, chemical, radiological, or nuclear agents.
 
->     “(b) __Interagency Cooperation.—__ 
+>     “(b)  __Interagency Cooperation__  __.—__ 
 
 >         (1) In carrying out the program under subsection (a), the Secretary may enter into interagency agreements and other collaborative undertakings with other Federal agencies.
 
 >         “(2) The Secretary, through regular, structured, and close consultation with the Secretary of Health and Human Services and the Secretary of Homeland Security, shall ensure that the activities of the Department of Defense in carrying out the program are coordinated with, complement, and do not unnecessarily duplicate activities of the Department of Health and Human Services or the Department of Homeland Security.
 
->     “(c) __Expedited Procurement Authority.—__ 
+>     “(c)  __Expedited Procurement Authority__  __.—__ 
 
 >         (1)
 
@@ -657,7 +657,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) The Secretary shall institute appropriate internal controls for use of the authority under paragraph (1), including requirements for documenting the justification for each use of such authority.
 
->     “(d) __Department of Defense Facilities Authority.—__ 
+>     “(d)  __Department of Defense Facilities Authority__  __.—__ 
 
 >         (1) If the Secretary determines that it is necessary to acquire, lease, construct, or improve laboratories, research facilities, and other real property of the Department of Defense in order to carry out the program under this section, the Secretary may do so using the procedures set forth in paragraphs (2), (3), (4), and (5).
 
@@ -687,7 +687,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(6) In this subsection, the term ‘facility’ has the meaning given the term in [section 2801(c) of title 10][/us/usc/t10/s2801/c], United States Code.
 
->     “(e) __Authority for Personal Services Contracts.—__ 
+>     “(e)  __Authority for Personal Services Contracts__  __.—__ 
 
 >         (1) Subject to paragraph (2), the authority provided by [section 1091 of title 10][/us/usc/t10/s1091], United States Code, for personal services contracts to carry out health care responsibilities in medical treatment facilities of the Department of Defense shall also be available, subject to the same terms and conditions, for personal services contracts to carry out research and development activities under this section. The number of individuals whose personal services are obtained under this subsection may not exceed 30 at any time.
 
@@ -699,7 +699,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(B) it would not be practicable for the Department of Defense to obtain such services by other measures.
 
->     “(f) __Streamlined Personnel Authority.—__ 
+>     “(f)  __Streamlined Personnel Authority__  __.—__ 
 
 >         (1) The Secretary may appoint highly qualified experts, including scientific and technical personnel, to carry out research and development under this section in accordance with the authorities provided in section 342 of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337]; [108 Stat. 2721][/us/stat/108/2721]), section 1101 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261] \[[5 U.S.C. 3104][/us/usc/t5/s3104] note\]), and section 1101 of this Act \[enacting chapter 99 of Title 5, Government Organization and Employees, and provisions set out as a note under [section 9901 of Title 5][/us/usc/t5/s9901]\].
 
@@ -723,11 +723,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 107–314, div. A, title II, § 245][/us/pl/107/314/s245], Dec. 2, 2002, [116 Stat. 2500][/us/stat/116/2500], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     The Secretary of Defense shall carry out a program for the development of vehicle fuel cell technology.
 
->     “(b) __Goals and Objectives.—__ 
+>     “(b)  __Goals and Objectives__  __.—__ 
 
 >     The goals and objectives of the program shall be as follows:
 
@@ -737,7 +737,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) To maximize the leverage of Federal funds that are used for the development of fuel cell technology.
 
->     “(c) __Content of Program.—__ 
+>     “(c)  __Content of Program__  __.—__ 
 
 >     The program shall include—
 
@@ -745,7 +745,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) development of technologies necessary to address critical issues with respect to vehicle fuel cells, such as issues relating to hydrogen storage and hydrogen fuel infrastructure.
 
->     “(d) __Cooperation With Industry.—__ 
+>     “(d)  __Cooperation With Industry__  __.—__ 
 
 >         (1)
 
@@ -761,11 +761,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) The Secretary shall ensure that companies referred to in paragraph (1) collectively contribute, in cash or in kind, not less than one-half of the total cost of carrying out the program under this section.
 
->     “(e) __Coordination With Other Federal Agencies.—__ 
+>     “(e)  __Coordination With Other Federal Agencies__  __.—__ 
 
 >     The Secretary shall carry out the program using a coordinating mechanism for sharing information and resources with the Department of Energy and other Federal agencies.
 
->     “(f) __Intial \[sic\] Funding.—__ 
+>     “(f)  __Intial \[sic\] Funding__  __.—__ 
 
 >     Of the funds authorized to be appropriated by section 201(4) \[[116 Stat. 2479][/us/stat/116/2479]\], $10,000,000 shall be available for the program required by this section.”
 
@@ -773,11 +773,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 107–314, div. A, title II, § 246][/us/pl/107/314/s246], Dec. 2, 2002, [116 Stat. 2500][/us/stat/116/2500], as amended by [Pub. L. 110–181, div. A, title II, § 240][/us/pl/110/181/s240], Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48]; [Pub. L. 111–84, div. A, title II, § 242][/us/pl/111/84/s242], Oct. 28, 2009, [123 Stat. 2237][/us/stat/123/2237]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(iv)][/us/pl/112/239/s1076/c/2/A/iv], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall carry out a defense nanotechnology research and development program.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the program are as follows:
 
@@ -791,7 +791,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(5) To collect, synthesize, and disseminate critical information on nanoscale research and development.
 
->     “(c) __Administration.—__ 
+>     “(c)  __Administration__  __.—__ 
 
 >     In carrying out the program, the Secretary shall act through the Under Secretary of Defense for Acquisition, Technology, and Logistics, who shall supervise the planning, management, and coordination of the program. The Under Secretary, in consultation with the Secretaries of the military departments and the heads of participating Defense Agencies and other departments and agencies of the United States, shall—
 
@@ -803,7 +803,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(4) oversee Department of Defense participation in interagency coordination of the program with other departments and agencies participating in the National Nanotechnology Initiative.
 
->     “(d) __Strategic Plan.—__ 
+>     “(d)  __Strategic Plan__  __.—__ 
 
 >     The Under Secretary shall develop and maintain a strategic plan for defense nanotechnology research and development that—
 
@@ -811,7 +811,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) includes a clear strategy for transitioning the research into products needed by the Department.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the National Science and Technology Council information on the program that covers the information described in paragraphs (1) through (5) of section 2(d) of the 21st Century Nanotechnology Research and Development Act ([15 U.S.C. 7501(d)][/us/usc/t15/s7501/d]) to be included in the annual report submitted by the Council under that section.”
 
@@ -819,11 +819,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 107–314, div. A, title X, § 1032][/us/pl/107/314/s1032], Dec. 2, 2002, [116 Stat. 2643][/us/stat/116/2643], as amended by [Pub. L. 108–136, div. C, title XXXI, § 3135][/us/pl/108/136/s3135], Nov. 24, 2003, [117 Stat. 1752][/us/stat/117/1752], as amended by [Pub. L. 110–181, div. A, title X, § 1041][/us/pl/110/181/s1041], Jan. 28, 2008, [122 Stat. 310][/us/stat/122/310]; [Pub. L. 111–383, div. A, title X, § 1075(j)][/us/pl/111/383/s1075/j], Jan. 7, 2011, [124 Stat. 4378][/us/stat/124/4378], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     Not later than March 1, 2009, and every two years thereafter, the Secretary of Defense, the Secretary of Energy, and the Director of National Intelligence shall jointly submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Select Committee on Intelligence of the Senate, and the Permanent Select Committee on Intelligence of the House of Representatives a report on the research and development, procurement, and other activities undertaken during the preceding two fiscal years and planned for the current fiscal year and the next fiscal year by the Department of Defense, the Department of Energy, and the intelligence community to develop weapons and capabilities to defeat hardened and deeply buried targets.
 
->     “(b) __Report Elements.—__ 
+>     “(b)  __Report Elements__  __.—__ 
 
 >     A report submitted under subsection (a) shall—
 
@@ -839,15 +839,15 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(C) the intelligence community.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     In this section, the term ‘intelligence community’ has the meaning given such term in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].
 
->     “(d) __Termination.—__ 
+>     “(d)  __Termination__  __.—__ 
 
 >     No report is required under this section after the submission of the report that is due on March 1, 2013.
 
->     “(e) __Integration Activities in Fiscal Year 2003 With Respect to RNEP.—__ 
+>     “(e)  __Integration Activities in Fiscal Year__  __2003__  __With Respect to__  __RNEP.—__ 
 
 >     The report under subsection (a) that is due on April 1, 2004, shall include, in addition to the elements specified in subsection (b), a description of the integration and interoperability of the research and development, procurement, and other activities undertaken during fiscal year 2003 by the Department of Defense and the Department of Energy with respect to the Robust Nuclear Earth Penetrator.”
 
@@ -855,7 +855,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 107–314, div. A, title II, § 241][/us/pl/107/314/s241], Dec. 2, 2002, [116 Stat. 2492][/us/stat/116/2492], provided that:
 
->     “(a) __Additional Pilot Program.—__ 
+>     “(a)  __Additional Pilot Program__  __.—__ 
 
 >         (1) The Secretary of Defense may carry out a pilot program to demonstrate improved efficiency in the performance of research, development, test, and evaluation functions of the Department of Defense.
 
@@ -879,11 +879,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) The Secretary may carry out the pilot program under this subsection at each selected laboratory for a period of three years beginning not later than March 1, 2003.
 
->     “(b) __Relationship to Fiscal Years 1999 and 2000 Revitalization Pilot Programs.—__ 
+>     “(b)  __Relationship to Fiscal Years__  __1999__  __and__  __2000__  __Revitalization Pilot Programs__  __.—__ 
 
 >     The pilot program under this section is in addition to, but may be carried out in conjunction with, the fiscal years 1999 and 2000 revitalization pilot programs.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >         (1)
 
@@ -917,13 +917,13 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(D) Any proposal for legislation that the Secretary recommends on the basis of the experience at that laboratory under the pilot program.
 
->     “(d) __Extension of Authority for Other Revitalization Pilot Programs.—__ 
+>     “(d)  __Extension of Authority for Other Revitalization Pilot Programs__  __.—__ 
 
 >         (1) __\[Amended__  __[__  __section 246(a)(4) of Pub. L. 105–261__  __][/us/pl/105/261/s246/a/4]__  __, formerly set out as a note below.\]__ 
 
 >         “(2) __\[Amended__  __[__  __section 245(a)(4) of Pub. L. 106–65__  __][/us/pl/106/65/s245/a/4]__  __, formerly set out as a note below.\]__ 
 
->     “(e) __Partnerships Under Pilot Program.—__ 
+>     “(e)  __Partnerships Under Pilot Program__  __.—__ 
 
 >         (1) The Secretary of Defense may authorize one or more laboratories and test centers participating in the pilot program under subsection (a) or in one of the fiscal years 1999 and 2000 revitalization pilot programs to enter into a cooperative arrangement (in this subsection referred to as a ‘public-private partnership’) with entities in the private sector and institutions of higher education for the performance of work.
 
@@ -935,7 +935,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(B) An entity participating in a limited liability company as a party to a public-private partnership under the pilot program may contribute funds to the company, accept contributions of funds for the company, and provide materials, services, and use of facilities for research, technology, and infrastructure of the company, if it is determined under regulations prescribed by the Secretary of Defense that doing so will improve the efficiency of the performance of research, test, and evaluation functions of the Department of Defense.
 
->     “(f) __Fiscal Years 1999 and 2000 Revitalization Pilot Programs Defined.—__ 
+>     “(f)  __Fiscal Years__  __1999__  __and__  __2000__  __Revitalization Pilot Programs Defined__  __.—__ 
 
 >     In this section, the term ‘fiscal years 1999 and 2000 revitalization pilot programs’ means—
 
@@ -955,11 +955,11 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 103–337, div. A, title II, § 257][/us/pl/103/337/s257], Oct. 5, 1994, [108 Stat. 2705][/us/stat/108/2705], as amended by [Pub. L. 104–106, div. A, title II, § 273][/us/pl/104/106/s273], Feb. 10, 1996, [110 Stat. 239][/us/stat/110/239]; [Pub. L. 104–201, div. A, title II, § 264][/us/pl/104/201/s264], Sept. 23, 1996, [110 Stat. 2465][/us/stat/110/2465]; [Pub. L. 105–85, div. A, title II, § 243][/us/pl/105/85/s243], Nov. 18, 1997, [111 Stat. 1667][/us/stat/111/1667]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717]; [Pub. L. 107–314, div. A, title II, § 247][/us/pl/107/314/s247], Dec. 2, 2002, [116 Stat. 2502][/us/stat/116/2502]; [Pub. L. 110–181, div. A, title II, § 239][/us/pl/110/181/s239], Jan. 28, 2008, [122 Stat. 48][/us/stat/122/48]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(A)(v)][/us/pl/112/239/s1076/c/2/A/v], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering, shall carry out a Defense Experimental Program to Stimulate Competitive Research (DEPSCoR) as part of the university research programs of the Department of Defense.
 
->     “(b) __Program Objectives.—__ 
+>     “(b)  __Program Objectives__  __.—__ 
 
 >     The objectives of the program are as follows:
 
@@ -967,7 +967,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) To increase the probability of long-term growth in the competitively awarded financial assistance that institutions of higher education in eligible States receive from the Federal Government for science and engineering research.
 
->     “(c) __Program Activities.—__ 
+>     “(c)  __Program Activities__  __.—__ 
 
 >     In order to achieve the program objectives, the following activities are authorized under the program:
 
@@ -977,7 +977,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) Any other activities that are determined necessary to further the achievement of the objectives of the program.
 
->     “(d) __Eligible States.—__ 
+>     “(d)  __Eligible States__  __.—__ 
 
 >         (1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall designate which States are eligible States for the purposes of this section.
 
@@ -989,7 +989,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >             “(B) the State has demonstrated a commitment to developing research bases in the State and to improving science and engineering research and education programs at institutions of higher education in the State.
 
->     “(e) __Coordination With Similar Federal Programs.—__ 
+>     “(e)  __Coordination With Similar Federal Programs__  __.—__ 
 
 >         (1) The Secretary shall consult with the Director of the National Science Foundation and the Director of the Office of Science and Technology Policy in the planning, development, and execution of the program and shall coordinate the program with the Experimental Program to Stimulate Competitive Research conducted by the National Science Foundation and with similar programs sponsored by other departments and agencies of the Federal Government.
 
@@ -997,7 +997,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) A State committee referred to in paragraph (2) shall ensure that activities carried out in the State of that committee under the Defense Experimental Program to Stimulate Competitive Research are coordinated with the activities carried out in the State under other similar initiatives of the Federal Government to stimulate competitive research.
 
->     “(f) __State Defined.—__ 
+>     “(f)  __State Defined__  __.—__ 
 
 >     In this section, the term ‘State’ means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Virgin Islands, American Samoa, and the Commonwealth of the Northern Mariana Islands.”
 
@@ -1005,7 +1005,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 111–84, div. A, title XI, § 1105][/us/pl/111/84/s1105], Oct. 28, 2009, [123 Stat. 2486][/us/stat/123/2486], provided that:
 
->     “(a) __Designation of Laboratories.—__ 
+>     “(a)  __Designation of Laboratories__  __.—__ 
 
 >     Each of the following is hereby designated as a Department of Defense science and technology reinvention laboratory (as described in section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337]; [108 Stat. 2721][/us/stat/108/2721]) \[set out below\], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001):
 
@@ -1043,7 +1043,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(17) The laboratories within the Army Research Development and Engineering Command.
 
->     “(b) __Conversion Procedures.—__ 
+>     “(b)  __Conversion Procedures__  __.—__ 
 
 >     The Secretary of Defense shall implement procedures to convert the civilian personnel of each Department of Defense science and technology reinvention laboratory, as so designated by subsection (a), from the personnel system which applies as of the date of the enactment of this Act \[Oct. 28, 2009\] to the personnel system under an appropriate demonstration project (as referred to in such section 342(b)). Any conversion under this subsection—
 
@@ -1055,35 +1055,35 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(4) shall not apply to prevailing rate employees (as defined by [section 5342(a)(2) of title 5][/us/usc/t5/s5342/a/2], United States Code) or senior executives (as defined by section 3132(a)(3) of such title).
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     The science and technology reinvention laboratories, as so designated by subsection (a), may not implement any personnel system, other than a personnel system under an appropriate demonstration project (as referred to in such section 342(b) \[set out below\]), without prior congressional authorization.”
 
 [Pub. L. 110–181, div. A, title XI, § 1107][/us/pl/110/181/s1107], Jan. 28, 2008, [122 Stat. 357][/us/stat/122/357], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1109, Oct. 14, 2008, [122 Stat. 4618][/us/stat/122/4618]; [Pub. L. 111–84, div. A, title X, § 1073(d)][/us/pl/111/84/s1073/d], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 111–383, div. A, title XI, § 1101(b)][/us/pl/111/383/s1101/b], Jan. 7, 2011, [124 Stat. 4382][/us/stat/124/4382]; [Pub. L. 112–81, div. A, title X, § 1066(b)(2)][/us/pl/112/81/s1066/b/2], Dec. 31, 2011, [125 Stat. 1588][/us/stat/125/1588], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of Defense shall take all necessary actions to fully implement and use the authorities provided to the Secretary under section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337]; [108 Stat. 2721][/us/stat/108/2721]) \[set out below\], as amended by section 1114 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]; [114 Stat. 1654][/us/stat/114/1654]A–315), to carry out personnel management demonstration projects at Department of Defense laboratories designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2486][/us/stat/123/2486]; [10 U.S.C. 2358][/us/usc/t10/s2358] note) as Department of Defense science and technology reinvention laboratories.
 
->     “(b) __Process for Full Implementation.—__ 
+>     “(b)  __Process for Full Implementation__  __.—__ 
 
 >     The Secretary of Defense shall also implement a process and implementation plan to fully utilize the authorities described in subsection (a) to enhance the performance of the missions of the laboratories.
 
->     “(c) __Other Laboratories.—__ 
+>     “(c)  __Other Laboratories__  __.—__ 
 
 >     Any flexibility available to any demonstration laboratory shall be available for use at any other laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2486][/us/stat/123/2486]) as a Department of Defense science and technology reinvention laboratory.
 
->     “(d) __Submission of List and Description.—__ 
+>     “(d)  __Submission of List and Description__  __.—__ 
 
 >     Not later than March 1 of each year, the Secretary of Defense shall submit to Congress a report containing a list and description of the demonstration project notices, amendments, and changes requested by the laboratories during the preceding calendar year. The list shall include all approved and disapproved notices, amendments, and changes, and the reasons for disapproval or delay in approval.
 
 >     “(e) __Status Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall include in each report under subsection (d) the information described in paragraph (2).
 
->         “(2) __Information required.—__ 
+>         “(2)  __Information required__  __.—__ 
 
 >         Each report under subsection (d) shall describe the following:
 
@@ -1101,7 +1101,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >                 “(iii) in the case of any applications under clause (i) on which a final decision was not rendered, the date by which a final decision is anticipated.
 
->         “(3) __Definition.—__ 
+>         “(3)  __Definition__  __.—__ 
 
 >         For purposes of this subsection, the term ‘demonstration laboratory’ means a laboratory designated by the Secretary of Defense under the provisions of section 342(b) of the National Defense Authorization Act for Fiscal Year 1995 \[[Pub. L. 103–337][/us/pl/103/337], set out below\] (as cited in subsection (a)).”
 
@@ -1133,7 +1133,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 103–160, div. A, title II, § 252][/us/pl/103/160/s252], Nov. 30, 1993, [107 Stat. 1607][/us/stat/107/1607], provided that:
 
->     “(a) __General Rule.—__ 
+>     “(a)  __General Rule__  __.—__ 
 
 >     In conducting or supporting clinical research, the Secretary of Defense shall ensure that—
 
@@ -1141,7 +1141,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(2) members of minority groups who are members of the Armed Forces are included as subjects of such research.
 
->     “(b) __Waiver Authority.—__ 
+>     “(b)  __Waiver Authority__  __.—__ 
 
 >     The requirement in subsection (a) regarding women and members of minority groups who are members of the Armed Forces may be waived by the Secretary of Defense with respect to a project of clinical research if the Secretary determines that the inclusion, as subjects in the project, of women and members of minority groups, respectively—
 
@@ -1151,7 +1151,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >         “(3) is inappropriate under such other circumstances as the Secretary of Defense may designate.
 
->     “(c) __Requirement for Analysis of Research.—__ 
+>     “(c)  __Requirement for Analysis of Research__  __.—__ 
 
 >     In the case of a project of clinical research in which women or members of minority groups will under subsection (a) be included as subjects of the research, the Secretary of Defense shall ensure that the project is designed and carried out so as to provide for a valid analysis of whether the variables being tested in the research affect women or members of minority groups, as the case may be, differently than other persons who are subjects of the research.”
 
@@ -1159,31 +1159,31 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 [Pub. L. 103–160, div. A, title VIII, § 802][/us/pl/103/160/s802], Nov. 30, 1993, [107 Stat. 1701][/us/stat/107/1701], as amended by [Pub. L. 104–106, div. A, title II, § 275][/us/pl/104/106/s275], Feb. 10, 1996, [110 Stat. 241][/us/stat/110/241]; [Pub. L. 104–201, div. A, title II, § 263][/us/pl/104/201/s263], Sept. 23, 1996, [110 Stat. 2465][/us/stat/110/2465]; [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(E)][/us/pl/112/239/s1076/c/2/E], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense, through the Assistant Secretary of Defense for Research and Engineering, may establish a University Research Initiative Support Program.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     Under the program, the Assistant Secretary may award grants and contracts to eligible institutions of higher education to support the conduct of research and development relevant to requirements of the Department of Defense.
 
->     “(c) __Eligibility.—__ 
+>     “(c)  __Eligibility__  __.—__ 
 
 >     An institution of higher education is eligible for a grant or contract under the program if the institution has received less than a total of $2,000,000 in grants and contracts from the Department of Defense in the two most recent fiscal years for which complete statistics are available when proposals are requested for such grant or contract.
 
->     “(d) __Competition Required.—__ 
+>     “(d)  __Competition Required__  __.—__ 
 
 >     The Assistant Secretary shall use competitive procedures in awarding grants and contracts under the program.
 
->     “(e) __Selection Process.—__ 
+>     “(e)  __Selection Process__  __.—__ 
 
 >     In awarding grants and contracts under the program, the Assistant Secretary shall use a merit-based selection process that is consistent with the provisions of [section 2361(a) of title 10][/us/usc/t10/s2361/a], United States Code.
 
->     “(f) __Regulations.—__ 
+>     “(f)  __Regulations__  __.—__ 
 
 >     The Assistant Secretary shall prescribe regulations for carrying out the program.
 
->     “(g) __Funding.—__ 
+>     “(g)  __Funding__  __.—__ 
 
 >     Of the amounts authorized to be appropriated under section 201 \[[107 Stat. 1583][/us/stat/107/1583]\], $20,000,000 shall be available for the University Research Initiative Support Program.”
 

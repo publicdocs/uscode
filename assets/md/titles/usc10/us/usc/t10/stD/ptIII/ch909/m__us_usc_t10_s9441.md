@@ -15,13 +15,13 @@
 
 ## § 9441. Status as federally chartered corporation; purposes
 
-    (a) __Status.—__ 
+    (a)  __Status__  __.—__ 
 
         (1) The Civil Air Patrol is a nonprofit corporation that is federally chartered under [section 40301 of title 36][/us/usc/t36/s40301].
 
         (2) Except as provided in [section 9442(b)(2) of this title][/us/usc/t10/s9442/b/2], the Civil Air Patrol is not an instrumentality of the Federal Government for any purpose.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of the Civil Air Patrol are set forth in [section 40302 of title 36][/us/usc/t36/s40302].
 

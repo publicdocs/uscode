@@ -15,17 +15,17 @@
 
 ## § 1407. Retired pay base for members who first became members after September 7, 1980: high-36 month average
 
-    (a) __Use of Retired Pay Base in Computing Retired Pay.—__ 
+    (a)  __Use of Retired Pay Base in Computing Retired Pay__  __.—__ 
 
     The retired pay or retainer pay of any person entitled to that pay who first became a member of a uniformed service after September 7, 1980, is computed using the retired pay base or retainer pay base determined under this section.
 
-    (b) __High-Three Average.—__ 
+    (b)  __High-Three Average__  __.—__ 
 
     Except as provided in subsection (f), the retired pay base or retainer pay base of a person under this section is the person’s high-three average determined under subsection (c) or (d).
 
     (c) __Computation of High-Three Average for Members Entitled to Retired or Retainer Pay for Regular Service.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         The high-three average of a member entitled to retired or retainer pay under any provision of law other than section 1204 or 1205 or [section 12731 of this title][/us/usc/t10/s12731] is the amount equal to—
 
@@ -33,7 +33,7 @@
 
             (B) 36.
 
-        (2) __Special rule for short-term disability retirees.—__ 
+        (2)  __Special rule for short-term disability retirees__  __.—__ 
 
         In the case of a member who is entitled to retired pay under section 1201 or 1202 of this title and who has completed less than 36 months of active service, the member’s high-three average (notwithstanding paragraph (1)) is the amount equal to—
 
@@ -41,13 +41,13 @@
 
             (B) the number of months (including any fraction thereof) of the member’s active service.
 
-        (3) __Special Rule for Reserve Component Members.—__ 
+        (3)  __Special Rule for Reserve Component Members__  __.—__ 
 
         In the case of a member of a reserve component who is entitled to retired pay under section 1201 or 1202 of this title, the member’s high-three average (notwithstanding paragraphs (1) and (2)) is computed in the same manner as prescribed in paragraphs (2) and (3) of subsection (d) for a member entitled to retired pay under section 1204 or 1205 of this title.
 
     (d) __Computation of High-Three Average for Members and Former Members Entitled to Retired Pay for Nonregular Service.—__ 
 
-        (1) __Retired pay under chapter 1223.—__ 
+        (1)  __Retired pay under chapter 1223__  __.—__ 
 
         The high-three average of a member or former member entitled to retired pay under [section 12731 of this title][/us/usc/t10/s12731] is the amount equal to—
 
@@ -55,7 +55,7 @@
 
             (B) 36.
 
-        (2) __Nonregular service disability retired pay.—__ 
+        (2)  __Nonregular service disability retired pay__  __.—__ 
 
         The high-three average of a member entitled to retired pay under section 1204 or 1205 of this title is the amount equal to—
 
@@ -63,7 +63,7 @@
 
             (B) 36.
 
-        (3) __Special rule for short-term disability retirees.—__ 
+        (3)  __Special rule for short-term disability retirees__  __.—__ 
 
         In the case of a member who is entitled to retired pay under section 1204 or 1205 of this title and who was a member for less than 36 months before being retired under that section, the member’s high-three average (notwithstanding paragraph (2)) is the amount equal to—
 
@@ -71,21 +71,21 @@
 
             (B) the number of months (including any fraction thereof) which the member was a member before being so retired.
 
-        (4) __High-36 months.—__ 
+        (4)  __High-36 months__  __.—__ 
 
         The high-36 months of a member or former member whose retired pay is covered by paragraph (1) or (2) are the 36 months (whether or not consecutive) out of all the months before the member or former member became entitled to retired pay or, in the case of a member or former member entitled to retired pay by reason of an election under [section 12741(a) of this title][/us/usc/t10/s12741/a], before the member or former member completes the service required under such section 12741(a), for which the monthly basic pay to which the member or former member was entitled (or would have been entitled if serving on active duty during those months) was the highest. In the case of a former member, only months during which the former member was a member of a uniformed service may be used for purposes of the preceding sentence.
 
-    (e) __Limitation for Enlisted Members Retiring With Less Than 30 Years’ Service.—__ 
+    (e)  __Limitation for Enlisted Members Retiring With Less Than__  __30__  __Years’ Service__  __.—__ 
 
     In the case of a member who is retired under section 3914 or 8914 of this title or who is transferred to the Fleet Reserve or Fleet Marine Corps Reserve under [section 6330 of this title][/us/usc/t10/s6330], the member’s high-36 average shall be computed using only rates of basic pay applicable to months of active duty of the member as an enlisted member.
 
-    (f) __Exception for Enlisted Members Reduced in Grade and Officers Who Do Not Serve Satisfactorily in Highest Grade Held.—__ 
+    (f)  __Exception for Enlisted Members Reduced in Grade and Officers Who Do Not Serve Satisfactorily in Highest Grade Held__  __.—__ 
 
-        (1) __Computation based on pre-high-three rules.—__ 
+        (1)  __Computation based on pre-high-three rules__  __.—__ 
 
         In the case of a member or former member described in paragraph (2), the retired pay base or retainer pay base is determined under [section 1406 of this title][/us/usc/t10/s1406] in the same manner as if the member or former member first became a member of a uniformed service before September 8, 1980.
 
-        (2) __Affected members.—__ 
+        (2)  __Affected members__  __.—__ 
 
         A member or former member referred to in paragraph (1) is a member or former member who by reason of conduct occurring after October 30, 2000—
 
@@ -93,7 +93,7 @@
 
             (B) in the case of an officer, is retired in a grade lower than the highest grade in which served by reason of denial of a determination or certification under [section 1370 of this title][/us/usc/t10/s1370] that the officer served on active duty satisfactorily in that grade.
 
-        (3) __Special rule for enlisted members.—__ 
+        (3)  __Special rule for enlisted members__  __.—__ 
 
         In the case of a member who retires within three years after having been reduced in grade as described in paragraph (2)(A), who retires in an enlisted grade that is lower than the grade from which reduced, and who would be subject to paragraph (1) but for a subsequent promotion to a higher enlisted grade or a subsequent appointment to a warrant or commissioned grade, the rates of basic pay used in the computation of the member’s high-36 average for the period of the member’s service in a grade higher than the grade in which retired shall be the rates of pay that would apply if the member had been serving for that period in the grade in which retired.
 

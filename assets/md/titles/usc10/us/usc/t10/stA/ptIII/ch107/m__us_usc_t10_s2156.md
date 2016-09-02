@@ -15,11 +15,11 @@
 
 ## § 2156. Joint Forces Staff College: duration of principal course of instruction
 
-    (a) __Duration.—__ 
+    (a)  __Duration__  __.—__ 
 
     The duration of the principal course of instruction offered at the Joint Forces Staff College may not be less than 10 weeks of resident instruction.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, the term “principal course of instruction” means any course of instruction offered at the Joint Forces Staff College as Phase II joint professional military education.
 

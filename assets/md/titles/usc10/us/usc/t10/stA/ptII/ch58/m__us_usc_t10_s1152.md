@@ -15,15 +15,15 @@
 
 ## § 1152. Assistance to eligible members and former members to obtain employment with law enforcement agencies
 
-    (a) __Placement Program.—__ 
+    (a)  __Placement Program__  __.—__ 
 
     The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement with the Attorney General to establish or participate in a program to assist eligible members and former members of the armed forces to obtain employment as law enforcement officers with eligible law enforcement agencies following the discharge or release of such members or former members from active duty. Eligible law enforcement agencies shall consist of State law enforcement agencies, local law enforcement agencies, and Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior).
 
-    (b) __Eligible Members.—__ 
+    (b)  __Eligible Members__  __.—__ 
 
     Any individual who, during the 6-year period beginning on October 1, 1993, is a member of the armed forces and is separated with an honorable discharge or is released from service on active duty characterized as honorable by the Secretary concerned shall be eligible to participate in a program covered by an agreement referred to in subsection (a).
 
-    (c) __Selection.—__ 
+    (c)  __Selection__  __.—__ 
 
     In the selection of applicants for participation in a program covered by an agreement referred to in subsection (a), preference shall be given to a member or former member who—
 
@@ -31,7 +31,7 @@
 
         (2) has a military occupational specialty, training, or experience related to law enforcement (such as service as a member of the military police) or satisfies such other criteria for selection as the Secretary, the Attorney General, or a participating eligible law enforcement agency prescribed in accordance with the agreement.
 
-    (d) __Grants To Facilitate Employment.—__ 
+    (d)  __Grants To Facilitate Employment__  __.—__ 
 
         (1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may provide funds to the Attorney General for grants under this section to reimburse participating eligible law enforcement agencies for costs, including salary and fringe benefits, of employing members or former members pursuant to a program referred to in subsection (a).
 
@@ -41,15 +41,15 @@
 
         (4) Preference in awarding grants through existing law enforcement hiring programs shall be given to State or local law enforcement agencies or Indian tribes that agree to hire eligible members and former members.
 
-    (e) __Administrative Expenses.—__ 
+    (e)  __Administrative Expenses__  __.—__ 
 
     Ten percent of the amount, if any, appropriated for a fiscal year to carry out the program established pursuant to subsection (a) may be used to administer the program.
 
-    (f) __Requirement for Appropriation.—__ 
+    (f)  __Requirement for Appropriation__  __.—__ 
 
     No person may be selected to participate in the program established pursuant to subsection (a) unless a sufficient amount of appropriated funds is available at the time of the selection to satisfy the obligations to be incurred by the United States under an agreement referred to in subsection (a) that applies with respect to the person.
 
-    (g) __Authority To Expand Placement To Include Firefighters.—__ 
+    (g)  __Authority To Expand Placement To Include Firefighters__  __.—__ 
 
         (1) The Secretary may expand the placement activities authorized by subsection (a) to include the placement of eligible members and former members and eligible civilian employees of the Department of Defense as firefighters or members of rescue squads or ambulance crews with public fire departments.
 

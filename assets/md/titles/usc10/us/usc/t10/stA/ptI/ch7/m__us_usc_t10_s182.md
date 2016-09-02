@@ -15,11 +15,11 @@
 
 ## § 182. Center for Excellence in Disaster Management and Humanitarian Assistance
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense may operate a Center for Excellence in Disaster Management and Humanitarian Assistance (in this section referred to as the “Center”).
 
-    (b) __Missions.—__ 
+    (b)  __Missions__  __.—__ 
 
         (1) The Center shall be used to provide and facilitate education, training, and research in civil-military operations, particularly operations that require international disaster management and humanitarian assistance and operations that require coordination between the Department of Defense and other agencies.
 
@@ -43,11 +43,11 @@
 
         (5) The Center shall perform such other missions as the Secretary of Defense may specify.
 
-    (c) __Joint Operation With Educational Institution Authorized.—__ 
+    (c)  __Joint Operation With Educational Institution Authorized__  __.—__ 
 
     The Secretary of Defense may enter into an agreement with appropriate officials of an institution of higher education to provide for joint operation of the Center. Any such agreement shall provide for the institution to furnish necessary administrative services for the Center, including administration and allocation of funds.
 
-    (d) __Acceptance of Donations.—__ 
+    (d)  __Acceptance of Donations__  __.—__ 
 
         (1) Except as provided in paragraph (2), the Secretary of Defense may accept, on behalf of the Center, donations to be used to defray the costs of the Center or to enhance the operation of the Center. Such donations may be accepted from any agency of the Federal Government, any State or local government, any foreign government, any foundation or other charitable organization (including any that is organized or operates under the laws of a foreign country), or any other private source in the United States or a foreign country.
 

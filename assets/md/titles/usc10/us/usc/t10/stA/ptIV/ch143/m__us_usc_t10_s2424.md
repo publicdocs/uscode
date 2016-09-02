@@ -15,11 +15,11 @@
 
 ## § 2424. Procurement of supplies and services from exchange stores outside the United States
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may authorize an element of the Department of Defense to enter into a contract (through the use of procedures other than competitive procedures) with an exchange store operated under the jurisdiction of the Secretary of a military department outside the United States to procure supplies or services for use by the armed forces outside the United States.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
         (1) A contract may not be entered into under subsection (a) in an amount in excess of $100,000.
 
@@ -27,7 +27,7 @@
 
         (3) A contract entered into with an exchange store under subsection (a) may not provide for the procurement of services not regularly provided by that exchange store.
 
-    (c) __Exception.—__ 
+    (c)  __Exception__  __.—__ 
 
     Paragraphs (1) and (2) of subsection (b) do not apply to contracts for the procurement of soft drinks that are manufactured in the United States. The Secretary of Defense shall prescribe in regulations the standards and procedures for determining whether a particular beverage is a soft drink and whether the beverage was manufactured in the United States.
 
@@ -49,11 +49,11 @@
 
 [Pub. L. 103–160, div. A, title III, § 353][/us/pl/103/160/s353], Nov. 30, 1993, [107 Stat. 1627][/us/stat/107/1627], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of Defense shall provide for the commencement, not later than October 1, 1994, of the operation of Stars and Stripes bookstores outside of the United States by the military exchanges.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Secretary of Defense shall prescribe regulations to carry out subsection (a).”
 

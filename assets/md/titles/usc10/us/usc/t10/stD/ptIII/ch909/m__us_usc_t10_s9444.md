@@ -15,11 +15,11 @@
 
 ## § 9444. Activities performed as auxiliary of the Air Force
 
-    (a) __Air Force Support for Activities.—__ 
+    (a)  __Air Force Support for Activities__  __.—__ 
 
     The Secretary of the Air Force may furnish to the Civil Air Patrol in accordance with this section any equipment, supplies, and other resources that the Secretary determines necessary to enable the Civil Air Patrol to fulfill the missions assigned by the Secretary to the Civil Air Patrol as an auxiliary of the Air Force.
 
-    (b) __Forms of Air Force Support.—__ 
+    (b)  __Forms of Air Force Support__  __.—__ 
 
     The Secretary of the Air Force may, under subsection (a)—
 
@@ -65,7 +65,7 @@
 
         (12) provide support, including appropriated funds, for the Civil Air Patrol aerospace education program to the extent that the Secretary of the Air Force determines appropriate for furthering the fulfillment of Air Force missions and objectives.
 
-    (c) __Assistance by Other Agencies.—__ 
+    (c)  __Assistance by Other Agencies__  __.—__ 
 
         (1) The Secretary of the Air Force may arrange for the use by the Civil Air Patrol of such facilities and services under the jurisdiction of the Secretary of the Army, the Secretary of the Navy, or the head of any other department or agency of the United States as the Secretary of the Air Force considers to be needed by the Civil Air Patrol to carry out its mission.
 

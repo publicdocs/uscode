@@ -15,11 +15,11 @@
 
 ## § 2401a. Lease of vehicles, equipment, vessels, and aircraft
 
-    (a) __Leasing of Commercial Vehicles and Equipment.—__ 
+    (a)  __Leasing of Commercial Vehicles and Equipment__  __.—__ 
 
     The Secretary of Defense may use leasing in the acquisition of commercial vehicles and equipment whenever the Secretary determines that such leasing is practicable and efficient.
 
-    (b) __Limitation on Contracts With Terms of 18 Months or More.—__ 
+    (b)  __Limitation on Contracts With Terms of__  __18__  __Months or More__  __.—__ 
 
     The Secretary of Defense or the Secretary of a military department may not enter into any contract with a term of 18 months or more, or extend or renew any contract for a term of 18 months or more, for any vessel, aircraft, or vehicle, through a lease, charter, or similar agreement, unless the Secretary has considered all costs of such contract (including estimated termination liability) and has determined in writing that the contract is in the best interest of the Government.
 

@@ -15,11 +15,11 @@
 
 ## § 7901. National Oceanographic Partnership Program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of the Navy shall establish a program to be known as the “National Oceanographic Partnership Program”.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of the program are as follows:
 

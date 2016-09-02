@@ -15,11 +15,11 @@
 
 ## § 1074e. Medical care: certain Reserves who served in Southwest Asia during the Persian Gulf Conflict
 
-    (a) __Entitlement to Medical Care.—__ 
+    (a)  __Entitlement to Medical Care__  __.—__ 
 
     A member of the armed forces described in subsection (b) is entitled to medical care for a qualifying Persian Gulf symptom or illness to the same extent and under the same conditions (other than the requirement that the member be on active duty) as a member of a uniformed service who is entitled to such care under [section 1074(a) of this title][/us/usc/t10/s1074/a].
 
-    (b) __Covered Members.—__ 
+    (b)  __Covered Members__  __.—__ 
 
     Subsection (a) applies to a member of a reserve component who—
 
@@ -29,7 +29,7 @@
 
         (3) is not otherwise entitled to medical care for such symptom or illness under this chapter and is not otherwise eligible for hospital care and medical services for such symptom or illness under [section 1710 of title 38][/us/usc/t38/s1710].
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

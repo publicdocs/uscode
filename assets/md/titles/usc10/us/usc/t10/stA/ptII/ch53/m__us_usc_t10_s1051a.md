@@ -15,7 +15,7 @@
 
 ## § 1051a. Liaison officers of certain foreign nations; administrative services and support; travel, subsistence, medical care, and other personal expenses
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may provide administrative services and support for the performance of duties by a liaison officer of another nation involved in a military operation with the United States while the liaison officer is assigned temporarily as follows:
 
@@ -23,7 +23,7 @@
 
         (2) To the headquarters of the combatant command assigned by the Secretary of Defense the mission of joint warfighting experimentation and joint forces training.
 
-    (b) __Travel, Subsistence, and Medical Care Expenses.—__ 
+    (b)  __Travel, Subsistence, and Medical Care Expenses__  __.—__ 
 
         (1) The Secretary may pay the expenses specified in paragraph (2) of a liaison officer of a developing country in connection with the assignment of that officer to the headquarters of a combatant command as described in subsection (a), if the assignment is requested by the commander of the combatant command.
 
@@ -47,11 +47,11 @@
 
         (3) The Secretary may pay the mission-related travel expenses of a liaison officer described in subsection (a) if such travel is in support of the national interests of the United States and the commander of the headquarters to which the liaison officer is temporarily assigned directs round-trip travel from the assigned headquarters to one or more locations.
 
-    (c) __Reimbursement.—__ 
+    (c)  __Reimbursement__  __.—__ 
 
     To the extent that the Secretary determines appropriate, the Secretary may provide the services and support authorized by subsection (a) and the expenses authorized by subsection (b) with or without reimbursement from (or on behalf of) the recipients.
 
-    (d) __Definition.—__ 
+    (d)  __Definition__  __.—__ 
 
     In this section, the term “administrative services and support” includes base or installation support services, office space, utilities, copying services, fire and police protection, and computer support.
 

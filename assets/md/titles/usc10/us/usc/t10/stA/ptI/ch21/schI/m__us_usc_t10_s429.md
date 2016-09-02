@@ -15,23 +15,23 @@
 
 ## § 429. Appropriations for Defense intelligence elements: accounts for transfers; transfer authority
 
-    (a) __Accounts for Appropriations for Defense Intelligence Elements.—__ 
+    (a)  __Accounts for Appropriations for Defense Intelligence Elements__  __.—__ 
 
     The Secretary of Defense may transfer appropriations of the Department of Defense which are available for the activities of Defense intelligence elements to an account or accounts established for receipt of such transfers. Each such account may also receive transfers from the Director of National Intelligence if made pursuant to Section  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should not be capitalized. </sup></sup>  102A of the National Security Act of 1947 ([50 U.S.C. 403–1][/us/usc/t50/s403–1]), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  and transfers and reimbursements arising from transactions, as authorized by law, between a Defense intelligence element and another entity. Appropriation balances in each such account may be transferred back to the account or accounts from which such appropriations originated as appropriation refunds.
 
-    (b) __Recordation of Transfers.—__ 
+    (b)  __Recordation of Transfers__  __.—__ 
 
     Transfers made pursuant to subsection (a) shall be recorded as expenditure transfers.
 
-    (c) __Availability of Funds.—__ 
+    (c)  __Availability of Funds__  __.—__ 
 
     Funds transferred pursuant to subsection (a) shall remain available for the same time period and for the same purpose as the appropriation from which transferred, and shall remain subject to the same limitations provided in the act making the appropriation.
 
-    (d) __Obligation and Expenditure of Funds.—__ 
+    (d)  __Obligation and Expenditure of Funds__  __.—__ 
 
     Unless otherwise specifically authorized by law, funds transferred pursuant to subsection (a) shall only be obligated and expended in accordance with chapter 15 of title 31 and all other applicable provisions of law.
 
-    (e) __Defense Intelligence Element Defined.—__ 
+    (e)  __Defense Intelligence Element Defined__  __.—__ 
 
     In this section, the term “Defense intelligence element” means any of the Department of Defense agencies, offices, and elements included within the definition of “intelligence community” under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]).2
 

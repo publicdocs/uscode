@@ -15,7 +15,7 @@
 
 ## § 2462. Reports on public-private competition
 
-    (a) __Report on Public-Private Competition Results.—__ 
+    (a)  __Report on Public-Private Competition Results__  __.—__ 
 
         (1) Upon the completion of a public-private competition under [section 2461 of this title][/us/usc/t10/s2461], the Secretary of Defense shall submit to Congress a report containing the results of the public-private competition required by subsection (a) of such section.
 
@@ -43,7 +43,7 @@
 
             (B) Notwithstanding subparagraph (A), in the case of function performed at a Center of Industrial and Technical Excellence designated under [section 2474(a) of this title][/us/usc/t10/s2474/a] or an Army ammunition plant, the conversion of the function to performance by a contractor may not begin until at least 60 days after the submission of a report under paragraph (1).
 
-    (b) __Annual Report.—__ 
+    (b)  __Annual Report__  __.—__ 
 
     Not later than June 30 of each year, the Secretary of Defense shall submit to Congress a written report, which shall include the following:
 

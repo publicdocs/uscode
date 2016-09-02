@@ -15,7 +15,7 @@
 
 ## § 2541b. Administration
 
-    (a) __Agreements Required.—__ 
+    (a)  __Agreements Required__  __.—__ 
 
     The Secretary of Defense may enter into one or more agreements, each with an appropriate Federal or private entity, under which such entity may, under this subchapter—
 
@@ -25,7 +25,7 @@
 
         (3) provide any other services to the Secretary to administer this subchapter.
 
-    (b) __Treatment of Costs.—__ 
+    (b)  __Treatment of Costs__  __.—__ 
 
     The costs of such agreements shall be considered, for purposes of the special account established under section 2541a(c), to be costs of administrative expenses of the Department of Defense that are attributable to the loan guarantee program under this subchapter.
 

@@ -15,11 +15,11 @@
 
 ## § 14316. Army National Guard and Air National Guard: appointment to and Federal recognition in a higher reserve grade after selection for promotion
 
-    (a) __Opportunity for Promotion To Fill a Vacancy in the Guard.—__ 
+    (a)  __Opportunity for Promotion To Fill a Vacancy in the Guard__  __.—__ 
 
     If an officer of the Army National Guard of the United States or the Air National Guard of the United States is recommended by a mandatory selection board convened under section 14101(a) or a special selection board convened under [section 14502 of this title][/us/usc/t10/s14502] for promotion to the next higher grade, an opportunity shall be given to the appropriate authority of the State to promote that officer to fill a vacancy in the Army National Guard or the Air National Guard of that jurisdiction.
 
-    (b) __Automatic Federal Recognition.—__ 
+    (b)  __Automatic Federal Recognition__  __.—__ 
 
     An officer of the Army National Guard of the United States or the Air National Guard of the United States who is on a promotion list for promotion to the next higher grade as a result of selection for promotion as described in subsection (a) and who before the date of promotion is appointed in that higher grade to fill a vacancy in the Army National Guard or Air National Guard shall—
 
@@ -27,11 +27,11 @@
 
         (2) subject to [section 14311(e) of this title][/us/usc/t10/s14311/e], be promoted to that reserve grade effective on the date of the officer’s appointment in that grade in the Army National Guard or Air National Guard.
 
-    (c) __National Guard Officers Failed of Selection.—__ 
+    (c)  __National Guard Officers Failed of Selection__  __.—__ 
 
     An officer who is considered as failed of selection for promotion under [section 14501 of this title][/us/usc/t10/s14501] to a grade may be extended Federal recognition in that grade only if the Secretary of the military department concerned finds that the officer is the only qualified officer available to fill a vacancy. The Secretary concerned may not delegate the authority under the preceding sentence.
 
-    (d) __Transfer to Army Reserve or Air Force Reserve.—__ 
+    (d)  __Transfer to Army Reserve or Air Force Reserve__  __.—__ 
 
     If, on the date on which an officer of the Army National Guard of the United States or of the Air National Guard of the United States who is on a promotion list as described in subsection (a) is to be promoted, the officer has not been promoted to fill a vacancy in the higher grade in the Army National Guard or the Air National Guard, the officer’s Federal recognition in the officer’s reserve grade shall be withdrawn and the officer shall be promoted and transferred to the Army Reserve or the Air Force Reserve as appropriate.
 

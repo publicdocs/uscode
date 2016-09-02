@@ -15,7 +15,7 @@
 
 ## § 4554. Property management contracts and leases
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In the case of each eligible facility that is made available for the ARMS Initiative, the Secretary—
 
@@ -31,7 +31,7 @@
 
             (B) use procedures that are authorized to be used under [section 2304(c)(5) of this title][/us/usc/t10/s2304/c/5] when the contractor or subcontractor is a source specified in law.
 
-    (b) __Consideration for Use.—__ 
+    (b)  __Consideration for Use__  __.—__ 
 
         (1)
 

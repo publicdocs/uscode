@@ -15,11 +15,11 @@
 
 ## § 2773a. Departmental accountable officials
 
-    (a) __Designation by Secretary of Defense.—__ 
+    (a)  __Designation by Secretary of Defense__  __.—__ 
 
     The Secretary of Defense may designate any civilian employee of the Department of Defense or member of the armed forces under the Secretary’s jurisdiction who is described in subsection (b) as an employee or member who, in addition to any other potential accountability, may be held accountable through personal monetary liability for an illegal, improper, or incorrect payment made by the Department of Defense described in subsection (c). Any such designation shall be in writing. Any employee or member who is so designated may be referred to as a “departmental accountable official”.
 
-    (b) __Covered Employees and Members.—__ 
+    (b)  __Covered Employees and Members__  __.—__ 
 
     An employee or member of the armed forces described in this subsection is an employee or member who—
 
@@ -27,7 +27,7 @@
 
         (2) is not otherwise accountable under subtitle III of title 31 or any other provision of law for payments made on the basis of such vouchers.
 
-    (c) __Pecuniary Liability.—__ 
+    (c)  __Pecuniary Liability__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (3) Any pecuniary liability of a departmental accountable official under this subsection for a loss to the United States resulting from an illegal, improper, or incorrect payment is joint and several with that of any other officer or employee of the United States or member of the uniformed services who is pecuniarily liable for such loss.
 
-    (d) __Certifying Official Defined.—__ 
+    (d)  __Certifying Official Defined__  __.—__ 
 
     In this section, the term “certifying official” means an employee who has the responsibilities specified in [section 3528(a) of title 31][/us/usc/t31/s3528/a].
 

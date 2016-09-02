@@ -15,7 +15,7 @@
 
 ## § 14314. Army and Air Force commissioned officers: generals ceasing to occupy positions commensurate with grade; State adjutants general
 
-    (a) __General Officers.—__ 
+    (a)  __General Officers__  __.—__ 
 
     Within 30 days after a reserve officer of the Army or the Air Force on the reserve active-status list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a higher grade), the Secretary concerned shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
 
@@ -27,7 +27,7 @@
 
         (4) Discharge the officer from the officer’s reserve appointment.
 
-    (b) __Adjutants General.—__ 
+    (b)  __Adjutants General__  __.—__ 
 
     If a reserve officer who is federally recognized in the Army National Guard or the Air National Guard solely because of the officer’s appointment as adjutant general or assistant adjutant general of a State ceases to occupy that position, the Secretary concerned, not later than 30 days after the date on which the officer ceases to occupy that position, shall—
 
@@ -43,7 +43,7 @@
 
             (C) be discharged from the officer’s reserve appointment.
 
-    (c) __Credit for Service in Grade.—__ 
+    (c)  __Credit for Service in Grade__  __.—__ 
 
     An officer who is appointed under subsection (a)(3) or (b)(2)(B) shall be credited with an amount of service in the grade in which appointed that is equal to the amount of prior service in an active status in that grade and in any higher grade.
 

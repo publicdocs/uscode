@@ -15,13 +15,13 @@
 
 ## § 4303. Army Ranger training: instructor staffing; safety
 
-    (a) __Levels of Personnel Assigned.—__ 
+    (a)  __Levels of Personnel Assigned__  __.—__ 
 
         (1) The Secretary of the Army shall ensure that at all times the number of officers, and the number of enlisted members, permanently assigned to the Ranger Training Brigade (or other organizational element of the Army primarily responsible for Ranger student training) are not less than 90 percent of the required manning spaces for officers, and for enlisted members, respectively, for that brigade.
 
         (2) In this subsection, the term “required manning spaces” means the number of personnel spaces for officers, and the number of personnel spaces for enlisted members, that are designated in Army authorization documents as the number required to accomplish the missions of a particular unit or organization.
 
-    (b) __Training Safety Cells.—__ 
+    (b)  __Training Safety Cells__  __.—__ 
 
         (1) The Secretary of the Army shall establish and maintain an organizational entity known as a “safety cell” as part of the organizational elements of the Army responsible for conducting each of the three major phases of the Ranger Course. The safety cell in each different geographic area of Ranger Course training shall be comprised of personnel who have sufficient continuity and experience in that geographic area of such training to be knowledgeable of the local conditions year-round, including conditions of terrain, weather, water, and climate and other conditions and the potential effect on those conditions on Ranger student training and safety.
 
@@ -33,7 +33,7 @@
 
 [Pub. L. 104–106, div. A, title V, § 562(b)][/us/pl/104/106/s562/b], (c), Feb. 10, 1996, [110 Stat. 324][/us/stat/110/324], provided that:
 
->     “(b) __Accomplishment of Required Manning Levels.—__ 
+>     “(b)  __Accomplishment of Required Manning Levels__  __.—__ 
 
 >         (1)
 
@@ -45,7 +45,7 @@
 
 >         “(2) The requirement specified in subsection (a) of [section 4303 of title 10][/us/usc/t10/s4303], United States Code, as added by subsection (a), shall expire two years after the date (on or after the date of the enactment of this Act) on which the required manning levels referred to in paragraph (1) are first attained.
 
->     “(c) __GAO Assessment.—__ 
+>     “(c)  __GAO Assessment__  __.—__ 
 
 >         (1) Not later than one year after the date of the enactment of this Act \[Feb. 10, 1996\], the Comptroller General shall submit to Congress a report providing a preliminary assessment of the implementation and effectiveness of all corrective actions taken by the Army as a result of the February 1995 accident at the Florida Ranger Training Camp, including an evaluation of the implementation of the required manning levels established by subsection (a) of [section 4303 of title 10][/us/usc/t10/s4303], United States Code, as added by subsection (a).
 

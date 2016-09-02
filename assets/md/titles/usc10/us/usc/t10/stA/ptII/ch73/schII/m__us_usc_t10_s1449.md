@@ -15,17 +15,17 @@
 
 ## § 1449. Mental incompetency of member
 
-    (a) __Election by Secretary Concerned on Behalf of Mentally Incompetent Member.—__ 
+    (a)  __Election by Secretary Concerned on Behalf of Mentally Incompetent Member__  __.—__ 
 
     If a person to whom [section 1448 of this title][/us/usc/t10/s1448] applies is determined to be mentally incompetent by medical officers of the armed force concerned or of the Department of Veterans Affairs, or by a court of competent jurisdiction, an election described in subsection (a)(2) or (b) of [section 1448 of this title][/us/usc/t10/s1448] may be made on behalf of that person by the Secretary concerned.
 
     (b) __Revocation of Election by Member.—__ 
 
-        (1) __Authority upon subsequent determination of mental competence.—__ 
+        (1)  __Authority upon subsequent determination of mental competence__  __.—__ 
 
         If a person for whom the Secretary has made an election under subsection (a) is later determined to be mentally competent by an authority named in that subsection, that person may, within 180 days after that determination, revoke that election.
 
-        (2) __Deductions from retired pay not to be refunded.—__ 
+        (2)  __Deductions from retired pay not to be refunded__  __.—__ 
 
         Any deduction made from retired pay by reason of such an election may not be refunded.
 

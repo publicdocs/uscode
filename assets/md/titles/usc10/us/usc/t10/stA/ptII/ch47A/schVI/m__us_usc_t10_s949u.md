@@ -15,7 +15,7 @@
 
 ## § 949u. Execution of confinement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Under such regulations as the Secretary of Defense may prescribe, a sentence of confinement adjudged by a military commission under this chapter may be carried into execution by confinement—
 
@@ -23,7 +23,7 @@
 
         (2) in any penal or correctional institution under the control of the United States or its allies, or which the United States may be allowed to use.
 
-    (b) __Treatment During Confinement by Other Than the Armed Forces.—__ 
+    (b)  __Treatment During Confinement by Other Than the Armed Forces__  __.—__ 
 
     Persons confined under subsection (a)(2) in a penal or correctional institution not under the control of an armed force are subject to the same discipline and treatment as persons confined or committed by the courts of the United States or of the State, District of Columbia, or place in which the institution is situated.
 

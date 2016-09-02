@@ -129,7 +129,7 @@ R.S. 1320.  </td>
 
 [Pub. L. 112–81, div. A, title V, § 553][/us/pl/112/81/s553], Dec. 31, 2011, [125 Stat. 1413][/us/stat/125/1413], provided that:
 
->     “(a) __Waiver for Certain Enlisted Members.—__ 
+>     “(a)  __Waiver for Certain Enlisted Members__  __.—__ 
 
 >     The Secretary of the military department concerned may waive the maximum age limitation specified in section 4346(a), 6958(a)(1), or 9346(a) of title 10, United States Code, for the admission of an enlisted member of the Armed Forces to the United States Military Academy, the United States Naval Academy, or the United States Air Force Academy if the member—
 
@@ -137,19 +137,19 @@ R.S. 1320.  </td>
 
 >         “(2) was or is prevented from being admitted to a military service academy before the member reached the maximum age specified in such sections as a result of service on active duty in a theater of operations for Operation Iraqi Freedom, Operation Enduring Freedom, or Operation New Dawn.
 
->     “(b) __Maximum Age for Receipt of Waiver.—__ 
+>     “(b)  __Maximum Age for Receipt of Waiver__  __.—__ 
 
 >     A waiver may not be granted under this section if the candidate would pass the candidate’s twenty-sixth birthday by July 1 of the year in which the candidate would enter the military service academy pursuant to the waiver.
 
->     “(c) __Limitation on Number Admitted Using Waiver.—__ 
+>     “(c)  __Limitation on Number Admitted Using Waiver__  __.—__ 
 
 >     Not more than five candidates may be admitted to each of the military service academies for an academic year pursuant to a waiver granted under this section.
 
->     “(d) __Record Keeping Requirement.—__ 
+>     “(d)  __Record Keeping Requirement__  __.—__ 
 
 >     The Secretary of each military department shall maintain records on the number of graduates of the military service academy under the jurisdiction of the Secretary who are admitted pursuant to a waiver granted under this section and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation. The Secretary shall compare their retention rate to the retention rate of graduates of that academy generally.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     Not later than April 1, 2016, the Secretary of each military department shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report specifying—
 
@@ -161,7 +161,7 @@ R.S. 1320.  </td>
 
 >         “(4) beginning with the class of 2009, the number of graduates of the military service academy under the jurisdiction of the Secretary who, before admission to that academy, were enlisted members of the Armed Forces and who remain in the Armed Forces beyond the active duty service obligation assumed upon graduation.
 
->     “(f) __Duration of Waiver Authority.—__ 
+>     “(f)  __Duration of Waiver Authority__  __.—__ 
 
 >     The authority to grant a waiver under this section expires on September 30, 2016.”
 
@@ -169,7 +169,7 @@ R.S. 1320.  </td>
 
 [Pub. L. 102–190, div. A, title V, § 514][/us/pl/102/190/s514], Dec. 5, 1991, [105 Stat. 1361][/us/stat/105/1361], provided that:
 
->     “(a) __Waiver Authority.—__ 
+>     “(a)  __Waiver Authority__  __.—__ 
 
 >     The Secretary of the military department concerned may waive the maximum age limitation in section 4346(a), 6958(a)(1), or 9346(a) of title 10, United States Code, in the case of any enlisted member of the Armed Forces who—
 
@@ -177,7 +177,7 @@ R.S. 1320.  </td>
 
 >         “(2) was a candidate for admission to the service academy under the jurisdiction of such Secretary in 1990, was prevented from being admitted to the academy during that year by reason of the service of such person on active duty in the Persian Gulf area of operations in connection with Operation Desert Storm, and became 22 years of age after July 1, 1990, and before the end of such service in that area of operations.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

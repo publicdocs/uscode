@@ -15,15 +15,15 @@
 
 ## § 2540b. Limitations
 
-    (a) __Terms and Conditions of Loan Guarantees.—__ 
+    (a)  __Terms and Conditions of Loan Guarantees__  __.—__ 
 
     In issuing a guarantee under this subchapter for a medium-term or long-term loan, the Secretary may not offer terms and conditions more beneficial than those that would be provided to the recipient by the Export-Import Bank of the United States under similar circumstances in conjunction with the provision of guarantees for nondefense articles and services.
 
-    (b) __Losses Arising From Fraud or Misrepresentation.—__ 
+    (b)  __Losses Arising From Fraud or Misrepresentation__  __.—__ 
 
     No payment may be made under a guarantee issued under this subchapter for a loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 
-    (c) __No Right of Acceleration.—__ 
+    (c)  __No Right of Acceleration__  __.—__ 
 
     The Secretary of Defense may not accelerate any guaranteed loan or increment, and may not pay any amount, in respect of a guarantee issued under this subchapter, other than in accordance with the original payment terms of the loan.
 

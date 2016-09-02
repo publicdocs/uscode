@@ -15,11 +15,11 @@
 
 ## § 2271. Management of space programs: joint program offices and officer management programs
 
-    (a) __Joint Program Offices.—__ 
+    (a)  __Joint Program Offices__  __.—__ 
 
     The Secretary of Defense shall take appropriate actions to ensure, to the maximum extent practicable, that space development and acquisition programs of the Department of Defense are carried out through joint program offices.
 
-    (b) __Officer Management Programs.—__ 
+    (b)  __Officer Management Programs__  __.—__ 
 
         (1)
 
@@ -55,15 +55,15 @@
 
 [Pub. L. 110–181, div. A, title IX, § 911(a)][/us/pl/110/181/s911/a]–(f), Jan. 28, 2008, [122 Stat. 279][/us/stat/122/279], 280, provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the Sense of Congress that the United States should place greater priority on the protection of national security space systems.
 
->     “(b) __Strategy.—__ 
+>     “(b)  __Strategy__  __.—__ 
 
 >     The Secretary of Defense, in conjunction with the Director of National Intelligence, shall develop a strategy, to be known as the Space Protection Strategy, for the development and fielding by the United States of the capabilities that are necessary to ensure freedom of action in space for the United States.
 
->     “(c) __Matters Included.—__ 
+>     “(c)  __Matters Included__  __.—__ 
 
 >     The strategy required by subsection (b) shall include each of the following:
 
@@ -91,7 +91,7 @@
 
 >         “(8) A description of the organizational and management structure of the Department of Defense and the intelligence community for addressing policy, planning, acquisition, and operations with respect to capabilities, a description of the roles and responsibilities of each organization, and an identification of the actions of the Department and the intelligence community for addressing any inadequacies in that structure.
 
->     “(d) __Periods Covered.—__ 
+>     “(d)  __Periods Covered__  __.—__ 
 
 >     The strategy required by subsection (b) shall cover the following periods:
 
@@ -101,7 +101,7 @@
 
 >         “(3) Fiscal years 2020 through 2025.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section—
 
@@ -111,15 +111,15 @@
 
 >     “(f) __Report; Biennial Update.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress a report on the strategy required by subsection (b), including each of the matters required by subsection (c).
 
->         “(2) __Biennial update.—__ 
+>         “(2)  __Biennial update__  __.—__ 
 
 >         Not later than March 15 of each even-numbered year after 2008, the Secretary of Defense, in conjunction with the Director of National Intelligence, shall submit to Congress an update to the report required by paragraph (1).
 
->         “(3) __Classification.—__ 
+>         “(3)  __Classification__  __.—__ 
 
 >         The report required by paragraph (1), and each update required by paragraph (2), shall be in unclassified form, but may include a classified annex.”
 
@@ -137,7 +137,7 @@
 
 [Pub. L. 108–136, div. A, title V, § 547][/us/pl/108/136/s547], Nov. 24, 2003, [117 Stat. 1480][/us/stat/117/1480], as amended by [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814], provided that:
 
->     “(a) __Strategy Required.—__ 
+>     “(a)  __Strategy Required__  __.—__ 
 
 >     The Secretary of Defense shall develop a strategy for the Department of Defense that will—
 
@@ -145,7 +145,7 @@
 
 >         “(2) ensure that the space personnel career fields developed by the military departments are integrated with each other to the maximum extent practicable.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than February 1, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the strategy developed under subsection (a). The report shall include the following:
 
@@ -155,7 +155,7 @@
 
 >         “(3) A comprehensive assessment of the adequacy of the actions of the Secretary of Air Force pursuant to [section 8084 of title 10][/us/usc/t10/s8084], United States Code, to establish for Air Force officers a career field for space.
 
->     “(c) __Government Accountability Office Review and Reports.—__ 
+>     “(c)  __Government Accountability Office Review and Reports__  __.—__ 
 
 >         (1) The Comptroller General shall review the strategy developed under subsection (a) and the status of efforts by the military departments in developing space personnel career fields.
 

@@ -15,11 +15,11 @@
 
 ## § 702. Cadets and midshipmen
 
-    (a) __Graduation Leave.—__ 
+    (a)  __Graduation Leave__  __.—__ 
 
     Graduates of the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, or the Coast Guard Academy who, upon graduation, are appointed in a component of an armed force, may, in the discretion of the Secretary concerned or his designated representative, be granted graduation leave of not more than 60 days. Leave granted under this subsection is in addition to any other leave and may not be deducted from or charged against other leave authorized by this chapter, and must be completed within three months of the date of graduation. Leave under this subsection may not be carried forward as credit beyond the date of reporting to the first permanent duty station or to a port of embarkation for permanent duty outside the United States or in Alaska or Hawaii.
 
-    (b) __Involuntary Leave Without Pay for Suspended Academy Cadets and Midshipmen.—__ 
+    (b)  __Involuntary Leave Without Pay for Suspended Academy Cadets and Midshipmen__  __.—__ 
 
         (1)
 
@@ -35,15 +35,15 @@
 
         (3) Return of an academy cadet or midshipman to a pay status at the Academy concerned from involuntary leave status under paragraph (1) does not restore any entitlement of the cadet or midshipman to pay for the period of the involuntary leave.
 
-    (c) __Inapplicable Leave Provisions.—__ 
+    (c)  __Inapplicable Leave Provisions__  __.—__ 
 
     Sections 701, 703, and 704 of this title and subsection (a) do not apply to academy cadets or midshipmen or cadets or midshipmen serving elsewhere in the armed forces.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary concerned, or his designated representative, may prescribe regulations relating to leave for cadets and midshipmen.
 
-    (e) __Definition.—__ 
+    (e)  __Definition__  __.—__ 
 
     In this section, the term “academy cadet or midshipman” means—
 

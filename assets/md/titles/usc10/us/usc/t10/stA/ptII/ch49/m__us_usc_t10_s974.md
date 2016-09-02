@@ -15,7 +15,7 @@
 
 ## § 974. Military musical units and musicians: performance policies; restriction on performance in competition with local civilian musicians
 
-    (a) __Military Musicians Performing in an Official Capacity.—__ 
+    (a)  __Military Musicians Performing in an Official Capacity__  __.—__ 
 
         (1) A military musical unit, and a member of the armed forces who is a member of such a unit performing in an official capacity, may not engage in the performance of music in competition with local civilian musicians.
 
@@ -79,21 +79,21 @@
 
                 (ii) in support of fostering and sustaining a cooperative relationship with another nation.
 
-    (b) __Prohibition of Military Musicians Accepting Additional Remuneration for Official Performances.—__ 
+    (b)  __Prohibition of Military Musicians Accepting Additional Remuneration for Official Performances__  __.—__ 
 
     A military musical unit, and a member of the armed forces who is a member of such a unit performing in an official capacity, may not receive remuneration for an official performance, other than applicable military pay and allowances.
 
-    (c) __Recordings.—__ 
+    (c)  __Recordings__  __.—__ 
 
         (1) When authorized under regulations prescribed by the Secretary of Defense for purposes of this section, a military musical unit may produce recordings for distribution to the public, at a cost not to exceed expenses of production and distribution.
 
         (2) Amounts received in payment for a recording distributed to the public under this subsection shall be credited to the appropriation or account providing the funds for the production of the recording. Any amount so credited shall be merged with amounts in the appropriation or account to which credited, and shall be available for the same purposes, and subject to the same conditions and limitations, as amounts in such appropriation or account.
 
-    (d) __Performances at Foreign Locations.—__ 
+    (d)  __Performances at Foreign Locations__  __.—__ 
 
     Subsection (a) does not apply to a performance outside the United States, its commonwealths, or its possessions.
 
-    (e) __Military Musical Unit Defined.—__ 
+    (e)  __Military Musical Unit Defined__  __.—__ 
 
     In this section, the term “military musical unit” means a band, ensemble, chorus, or similar musical unit of the armed forces.
 

@@ -15,19 +15,19 @@
 
 ## § 2508. Industrial Base Fund
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense shall establish an Industrial Base Fund (in this section referred to as the “Fund”).
 
-    (b) __Control of Fund.—__ 
+    (b)  __Control of Fund__  __.—__ 
 
     The Fund shall be under the control of the Under Secretary of Defense for Acquisition, Technology, and Logistics, acting through the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy.
 
-    (c) __Amounts in Fund.—__ 
+    (c)  __Amounts in Fund__  __.—__ 
 
     The Fund shall consist of amounts appropriated or otherwise made available to the Fund.
 
-    (d) __Use of Fund.—__ 
+    (d)  __Use of Fund__  __.—__ 
 
     Subject to subsection (e), the Fund shall be used—
 
@@ -39,11 +39,11 @@
 
         (4) to address supply chain vulnerabilities.
 
-    (e) __Use of Fund Subject to Appropriations.—__ 
+    (e)  __Use of Fund Subject to Appropriations__  __.—__ 
 
     The authority of the Secretary of Defense to use the Fund under this section in any fiscal year is subject to the availability of appropriations for that purpose.
 
-    (f) __Expenditures.—__ 
+    (f)  __Expenditures__  __.—__ 
 
     The Secretary shall establish procedures for expending monies in the Fund in support of the uses identified in subsection (d), including the following:
 

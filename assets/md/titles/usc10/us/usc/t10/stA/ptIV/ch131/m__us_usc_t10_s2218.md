@@ -15,15 +15,15 @@
 
 ## § 2218. National Defense Sealift Fund
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established in the Treasury of the United States a fund to be known as the “National Defense Sealift Fund”.
 
-    (b) __Administration of Fund.—__ 
+    (b)  __Administration of Fund__  __.—__ 
 
     The Secretary of Defense shall administer the Fund consistent with the provisions of this section.
 
-    (c) __Fund Purposes.—__ 
+    (c)  __Fund Purposes__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (3) Funds obligated and expended for a purpose set forth in subparagraph (B) or (D) of paragraph (1) may be derived only from funds deposited in the National Defense Sealift Fund pursuant to subsection (d)(1).
 
-    (d) __Deposits.—__ 
+    (d)  __Deposits__  __.—__ 
 
     There shall be deposited in the Fund the following:
 
@@ -63,7 +63,7 @@
 
         (3) All receipts from the charter of vessels under section 1424(c) of the National Defense Authorization Act for Fiscal Year 1991 ([10 U.S.C. 7291][/us/usc/t10/s7291] note).
 
-    (e) __Acceptance of Support.—__ 
+    (e)  __Acceptance of Support__  __.—__ 
 
         (1) The Secretary of Defense may accept from any person, foreign government, or international organization any contribution of money, personal property (excluding vessels), or assistance in kind for support of the sealift functions of the Department of Defense.
 
@@ -71,17 +71,17 @@
 
         (3) The Secretary of Defense shall deposit in the Fund money and receipts from the disposition of any property accepted under paragraph (1).
 
-    (f) __Limitations.—__ 
+    (f)  __Limitations__  __.—__ 
 
         (1) A vessel built in a foreign ship yard may not be purchased with funds in the National Defense Sealift Fund pursuant to subsection (c)(1), unless specifically authorized by law.
 
         (2) Construction, alteration, or conversion of vessels with funds in the National Defense Sealift Fund pursuant to subsection (c)(1) shall be conducted in United States ship yards and shall be subject to [section 1424(b) of Public Law 101–510][/us/pl/101/510/s1424/b] ([104 Stat. 1683][/us/stat/104/1683]).
 
-    (g) __Expiration of Funds After 5 Years.—__ 
+    (g)  __Expiration of Funds After__  __5__  __Years__  __.—__ 
 
     No part of an appropriation that is deposited in the National Defense Sealift Fund pursuant to subsection (d)(1) shall remain available for obligation more than five years after the end of fiscal year for which appropriated except to the extent specifically provided by law.
 
-    (h) __Budget Requests.—__ 
+    (h)  __Budget Requests__  __.—__ 
 
     Budget requests submitted to Congress for the National Defense Sealift Fund shall separately identify—
 
@@ -93,11 +93,11 @@
 
         (4) the amount requested for programs, projects, and activities for research and development relating to national defense sealift.
 
-    (i) __Title or Management of Vessels.—__ 
+    (i)  __Title or Management of Vessels__  __.—__ 
 
     Nothing in this section (other than subsection (c)(1)(E)) shall be construed to affect or modify title to, management of, or funding responsibilities for, any vessel of the National Defense Reserve Fleet, or assigned to the Ready Reserve Force component of the National Defense Reserve Fleet, as established by section 11 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1744).
 
-    (j) __Contracts for Incorporation of Defense Features in Commercial Vessels.—__ 
+    (j)  __Contracts for Incorporation of Defense Features in Commercial Vessels__  __.—__ 
 
         (1) The head of an agency may enter into a contract with a company submitting an offer for that company to install and maintain defense features for national defense purposes in one or more commercial vessels owned or controlled by that company in accordance with the purpose for which funds in the National Defense Sealift Fund are available under subsection (c)(1)(C). The head of the agency may enter into such a contract only after the head of the agency makes a determination of the economic soundness of the offer. As consideration for a contract with the head of an agency under this subsection, the company entering into the contract shall agree with the Secretary of Defense to make any vessel covered by the contract available to the Secretary, fully crewed and ready for sea, at any time at any port determined by the Secretary, and for whatever duration the Secretary determines necessary.
 
@@ -129,7 +129,7 @@
 
         (6) The head of an agency may not enter into a contract under paragraph (1) that would provide for payments to the contractor as authorized in paragraph (2)(E) until notice of the proposed contract is submitted to the congressional defense committees and a period of 90 days has elapsed.
 
-    (k) __Definitions.—__ 
+    (k)  __Definitions__  __.—__ 
 
     In this section:
 

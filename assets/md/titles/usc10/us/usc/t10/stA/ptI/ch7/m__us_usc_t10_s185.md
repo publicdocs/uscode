@@ -15,7 +15,7 @@
 
 ## § 185. Financial Management Modernization Executive Committee
 
-    (a) __Establishment of Financial Management Modernization Executive Committee.—__ 
+    (a)  __Establishment of Financial Management Modernization Executive Committee__  __.—__ 
 
         (1) The Secretary of Defense shall establish a Financial Management Modernization Executive Committee.
 
@@ -35,7 +35,7 @@
 
         (3) The Committee shall be accountable to the Senior Executive Council (composed of the Secretary of Defense, the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Secretary of the Army, the Secretary of the Navy, and the Secretary of the Air Force).
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     In addition to other matters assigned to it by the Secretary of Defense, the Committee shall have the following duties:
 
@@ -57,7 +57,7 @@
 
         (6) To provide an annual accounting of each financial and data feeder system investment technology project to ensure that each such project is being implemented at acceptable cost and within a reasonable schedule and is contributing to tangible, observable improvements in mission performance.
 
-    (c) __Management Plan for Implementation of Financial Data Feeder Systems Compliance Process.—__ 
+    (c)  __Management Plan for Implementation of Financial Data Feeder Systems Compliance Process__  __.—__ 
 
     The management plan developed under subsection (b)(2) shall include among its principal elements at least the following elements:
 
@@ -71,7 +71,7 @@
 
         (5) Independent audit by the Inspector General of the Department, the audit agencies of the military departments, and private sector firms contracted to conduct validation audits (or any combination thereof) at the validation phase for each accounting, finance, and data feeder system.
 
-    (d) __Data Feeder Systems.—__ 
+    (d)  __Data Feeder Systems__  __.—__ 
 
     In this section, the term “data feeder system” means an automated or manual system from which information is derived for a financial management system or an accounting system.
 

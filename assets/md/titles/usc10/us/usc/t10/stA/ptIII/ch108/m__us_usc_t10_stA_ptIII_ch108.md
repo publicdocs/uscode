@@ -161,11 +161,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 106–65, div. A, title XII, § 1223][/us/pl/106/65/s1223], Oct. 5, 1999, [113 Stat. 787][/us/stat/113/787], provided that:
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     Congress finds that it is in the national interest of the United States to fully integrate Poland, Hungary, and the Czech Republic (the new member nations of the North Atlantic Treaty Organization) into the NATO alliance as quickly as possible.
 
->     “(b) __Military Education and Training Programs.—__ 
+>     “(b)  __Military Education and Training Programs__  __.—__ 
 
 >     The Secretary of each military department shall give due consideration to according a high priority to the attendance of military personnel of Poland, Hungary, and the Czech Republic at professional military education schools and training programs in the United States, including the United States Military Academy, the United States Naval Academy, the United States Air Force Academy, the National Defense University, the war colleges of the Armed Forces, the command and general staff officer courses of the Armed Forces, and other schools and training programs of the Armed Forces that admit personnel of foreign armed forces.”
 

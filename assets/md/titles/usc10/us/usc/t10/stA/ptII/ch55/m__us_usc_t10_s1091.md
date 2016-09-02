@@ -15,17 +15,17 @@
 
 ## § 1091. Personal services contracts
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
         (1) The Secretary of Defense, with respect to medical treatment facilities of the Department of Defense, and the Secretary of Homeland Security, with respect to medical treatment facilities of the Coast Guard when the Coast Guard is not operating as a service in the Navy, may enter into personal services contracts to carry out health care responsibilities in such facilities, as determined to be necessary by the Secretary. The authority provided in this subsection is in addition to any other contract authorities of the Secretary, including authorities relating to the management of such facilities and the administration of this chapter.
 
         (2) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may also enter into personal services contracts to carry out other health care responsibilities of the Secretary (such as the provision of medical screening examinations at Military Entrance Processing Stations) at locations outside medical treatment facilities, as determined necessary pursuant to regulations prescribed by the Secretary.
 
-    (b) __Limitation on Amount of Compensation.—__ 
+    (b)  __Limitation on Amount of Compensation__  __.—__ 
 
     In no case may the total amount of compensation paid to an individual in any year under a personal services contract entered into under subsection (a) exceed the amount of annual compensation (excluding the allowances for expenses) specified in [section 102 of title 3][/us/usc/t3/s102].
 
-    (c) __Procedures.—__ 
+    (c)  __Procedures__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
             (B) in the best interests of the agency.
 
-    (d) __Exceptions.—__ 
+    (d)  __Exceptions__  __.—__ 
 
     The procedures and exemptions provided under subsection (c) shall not apply to personal services contracts entered into under subsection (a) with entities other than individuals or to any contract that is not an authorized personal services contract under subsection (a).
 

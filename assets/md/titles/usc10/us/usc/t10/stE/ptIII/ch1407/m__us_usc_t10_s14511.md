@@ -15,11 +15,11 @@
 
 ## § 14511. Separation at age 64: officers in grade of major general or rear admiral and above
 
-    (a) __Separation Required.—__ 
+    (a)  __Separation Required__  __.—__ 
 
     Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, each reserve officer of the Army, Air Force, or Marine Corps in the grade of major general or above and each reserve officer of the Navy in the grade of rear admiral or above shall be separated in accordance with [section 14515 of this title][/us/usc/t10/s14515] on the last day of the month in which the officer becomes 64 years of age.
 
-    (b) __Exception for Officers Serving in O–9 and O–10 Positions.—__ 
+    (b)  __Exception for Officers Serving in__  __O–9__  __and__  __O–10__  __Positions__  __.—__ 
 
     The retirement of a reserve officer of the Army, Air Force, or Marine Corps in the grade of lieutenant general or general, or a reserve officer of the Navy in the grade of vice admiral or admiral, under subsection (a) may be deferred—
 
@@ -27,7 +27,7 @@
 
         (2) by the Secretary of Defense, but such a deferment may not extend beyond the first day of the month following the month in which the officer becomes 66 years of age.
 
-    (c) __Exception for Officers Holding Certain Offices.—__ 
+    (c)  __Exception for Officers Holding Certain Offices__  __.—__ 
 
     This section does not apply to an officer covered by [section 14512 of this title][/us/usc/t10/s14512].
 

@@ -15,11 +15,11 @@
 
 ## § 2709. Investment control process for environmental technologies
 
-    (a) __Investment Control Process.—__ 
+    (a)  __Investment Control Process__  __.—__ 
 
     The Secretary of Defense shall ensure that the technology planning process developed to implement [section 2501 of this title][/us/usc/t10/s2501] and section 270(b) of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [110 Stat. 2469][/us/stat/110/2469]) provides for an investment control process for the selection, prioritization, management, and evaluation of environmental technologies by the Department of Defense, the military departments, and the Defense Agencies.
 
-    (b) __Planning and Evaluation.—__ 
+    (b)  __Planning and Evaluation__  __.—__ 
 
     The environmental technology investment control process required by subsection (a) shall provide, at a minimum, for the following:
 

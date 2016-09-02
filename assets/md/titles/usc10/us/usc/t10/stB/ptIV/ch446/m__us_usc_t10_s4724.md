@@ -15,13 +15,13 @@
 
 ## § 4724. Executive Director
 
-    (a) __Appointment and Qualifications.—__ 
+    (a)  __Appointment and Qualifications__  __.—__ 
 
         (1) There shall be an Executive Director of the Army National Military Cemeteries who shall meet such professional qualifications as may be established by the Secretary of the Army.
 
         (2) The Executive Director reports directly to the Secretary.
 
-    (b) __Responsibilities.—__ 
+    (b)  __Responsibilities__  __.—__ 
 
     The Executive Director is responsible for the following:
 

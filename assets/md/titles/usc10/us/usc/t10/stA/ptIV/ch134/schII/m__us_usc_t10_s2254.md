@@ -15,13 +15,13 @@
 
 ## § 2254. Treatment of reports of aircraft accident investigations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) Whenever the Secretary of a military department conducts an accident investigation of an accident involving an aircraft under the jurisdiction of the Secretary, the records and report of the investigations shall be treated in accordance with this section.
 
         (2) For purposes of this section, an accident investigation is any form of investigation of an aircraft accident other than an investigation (known as a “safety investigation”) that is conducted solely to determine the cause of the accident and to obtain information that may prevent the occurrence of similar accidents.
 
-    (b) __Public Disclosure of Certain Accident Investigation Information.—__ 
+    (b)  __Public Disclosure of Certain Accident Investigation Information__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
         (2) A disclosure under paragraph (1) may not be made by or through officials with responsibility for, or who are conducting, a safety investigation with respect to the accident.
 
-    (c) __Opinions Regarding Causation of Accident.—__ 
+    (c)  __Opinions Regarding Causation of Accident__  __.—__ 
 
     Following a military aircraft accident—
 
@@ -47,11 +47,11 @@
 
         (2) if the evidence surrounding the accident is not sufficient for those investigators to come to an opinion as to the cause or causes of the accident, the final report of the accident investigation shall include a description of those factors, if any, that, in the opinion of the investigators, substantially contributed to or caused the accident.
 
-    (d) __Use of Information in Civil Proceedings.—__ 
+    (d)  __Use of Information in Civil Proceedings__  __.—__ 
 
     For purposes of any civil or criminal proceeding arising from an aircraft accident, any opinion of the accident investigators as to the cause of, or the factors contributing to, the accident set forth in the accident investigation report may not be considered as evidence in such proceeding, nor may such information be considered an admission of liability by the United States or by any person referred to in those conclusions or statements.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of each military department shall prescribe regulations to carry out this section.
 

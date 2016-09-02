@@ -15,15 +15,15 @@
 
 ## § 1150. Affiliation with Guard and Reserve units: waiver of certain limitations
 
-    (a) __Preference for Certain Persons.—__ 
+    (a)  __Preference for Certain Persons__  __.—__ 
 
     A person who is separated from the armed forces during the period beginning on October 1, 1990, and ending on December 31, 2001, and who applies to become a member of a National Guard or Reserve unit within one year after the date of such separation shall be given preference over other equally qualified applicants for existing or projected vacancies within the unit to which the member applies.
 
-    (b) __Limited Waiver of Strength Limitations.—__ 
+    (b)  __Limited Waiver of Strength Limitations__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, a person covered by subsection (a) who enters a National Guard or Reserve unit pursuant to an application described in such subsection may be retained in that unit for up to three years without regard to reserve-component strength limitations so long as the individual maintains good standing in that unit.
 
-    (c) __Coast Guard.—__ 
+    (c)  __Coast Guard__  __.—__ 
 
     This section shall apply to the Coast Guard in the same manner and to the same extent as it applies to the Department of Defense. The Secretary of Homeland Security shall prescribe regulations to implement this section for the Coast Guard when it is not operating as a service in the Navy.
 

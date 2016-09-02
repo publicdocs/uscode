@@ -15,11 +15,11 @@
 
 ## § 2213. Limitation on acquisition of excess supplies
 
-    (a) __Two-Year Supply.—__ 
+    (a)  __Two-Year Supply__  __.—__ 
 
     The Secretary of Defense may not incur any obligation against a stock fund of the Department of Defense for the acquisition of any item of supply if that acquisition is likely to result in an on-hand inventory (excluding war reserves) of that item of supply in excess of two years of operating stocks.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     The head of a procuring activity may authorize the acquisition of an item of supply in excess of the limitation contained in subsection (a) if that activity head determines in writing—
 

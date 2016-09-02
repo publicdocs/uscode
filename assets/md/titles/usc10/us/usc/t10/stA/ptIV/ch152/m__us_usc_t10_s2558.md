@@ -15,11 +15,11 @@
 
 ## § 2558. National military associations: assistance at national conventions
 
-    (a) __Authority To Provide Services.—__ 
+    (a)  __Authority To Provide Services__  __.—__ 
 
     The Secretary of a military department may provide services described in subsection (c) in connection with an annual conference or convention of a national military association.
 
-    (b) __Conditions for Providing Services.—__ 
+    (b)  __Conditions for Providing Services__  __.—__ 
 
     Services may be provided under this section only if—
 
@@ -29,7 +29,7 @@
 
         (3) the services can be provided within existing funds otherwise available to the Secretary concerned.
 
-    (c) __Covered Services.—__ 
+    (c)  __Covered Services__  __.—__ 
 
     Services that may be provided under this section are—
 
@@ -43,11 +43,11 @@
 
         (5) security support.
 
-    (d) __National Military Associations.—__ 
+    (d)  __National Military Associations__  __.—__ 
 
     The Secretary of Defense shall designate those organizations which are national military associations for purposes of this section.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 

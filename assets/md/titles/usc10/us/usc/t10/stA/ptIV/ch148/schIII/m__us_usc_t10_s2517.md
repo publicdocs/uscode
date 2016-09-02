@@ -15,11 +15,11 @@
 
 ## § 2517. Office for Foreign Defense Critical Technology Monitoring and Assessment
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall establish within the Office of the Assistant Secretary of Defense for Research and Engineering an office known as the “Office for Foreign Defense Critical Technology Monitoring and Assessment” (hereinafter in this section referred to as the “Office”).
 
-    (b) __Relationship to Department of Commerce.—__ 
+    (b)  __Relationship to Department of Commerce__  __.—__ 
 
     The head of the Office shall consult closely with appropriate officials of the Department of Commerce in order—
 
@@ -27,7 +27,7 @@
 
         (2) to ensure that the Office is effectively utilized to disseminate information to users of such information within the Federal Government.
 
-    (c) __Responsibilities.—__ 
+    (c)  __Responsibilities__  __.—__ 
 
     The Office shall have the following responsibilities:
 

@@ -15,15 +15,15 @@
 
 ## § 1154. Assistance to eligible members and former members to obtain employment as teachers: Troops-to-Teachers Program
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Charter school.—__ 
+        (1)  __Charter school__  __.—__ 
 
         The term “charter school” has the meaning given that term in section 5210(1) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7221i(1)][/us/usc/t20/s7221i/1]).
 
-        (2) __Eligible school.—__ 
+        (2)  __Eligible school__  __.—__ 
 
         The term “eligible school” means—
 
@@ -37,7 +37,7 @@
 
             (B) a Bureau-funded school as defined in section 1141(3) of the Education Amendments of 1978 ([25 U.S.C. 2021(3)][/us/usc/t25/s2021/3]).
 
-        (3) __High-need school.—__ 
+        (3)  __High-need school__  __.—__ 
 
         The term “high-need school” means—
 
@@ -47,27 +47,27 @@
 
             (C) a school that is in a local educational agency that is eligible under section 6211(b) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7345(b)][/us/usc/t20/s7345/b]).
 
-        (4) __Member of the armed forces.—__ 
+        (4)  __Member of the armed forces__  __.—__ 
 
         The term “member of the armed forces” includes a retired or former member of the armed forces.
 
-        (5) __Participant.—__ 
+        (5)  __Participant__  __.—__ 
 
         The term “participant” means an eligible member of the armed forces selected to participate in the Program.
 
-        (6) __Program.—__ 
+        (6)  __Program__  __.—__ 
 
         The term “Program” means the Troops-to-Teachers Program authorized by this section.
 
-        (7) __Secretary.—__ 
+        (7)  __Secretary__  __.—__ 
 
         The term “Secretary” means the Secretary of Defense.
 
-        (8) __Additional terms.—__ 
+        (8)  __Additional terms__  __.—__ 
 
         The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]).
 
-    (b) __Program Authorization.—__ 
+    (b)  __Program Authorization__  __.—__ 
 
     The Secretary of Defense may carry out a Troops-to-Teachers Program—
 
@@ -87,13 +87,13 @@
 
             (B) in elementary schools or secondary schools, or as career or technical teachers.
 
-    (c) __Counseling and Referral Services.—__ 
+    (c)  __Counseling and Referral Services__  __.—__ 
 
     The Secretary may provide counseling and referral services to members of the armed forces who do not meet the eligibility criteria described in subsection (d), including the education qualification requirements under paragraph (3)(B) of such subsection.
 
-    (d) __Eligibility and Application Process.—__ 
+    (d)  __Eligibility and Application Process__  __.—__ 
 
-        (1) __Eligible members.—__ 
+        (1)  __Eligible members__  __.—__ 
 
         The following members of the armed forces are eligible for selection to participate in the Program:
 
@@ -121,13 +121,13 @@
 
             (C) Any member who, on or after January 8, 2002, is retired or separated for physical disability under chapter 61 of this title.
 
-        (2) __Submission of applications.—__ 
+        (2)  __Submission of applications__  __.—__ 
 
             (A) Selection of eligible members of the armed forces to participate in the Program shall be made on the basis of applications submitted to the Secretary within the time periods specified in subparagraph (B). An application shall be in such form and contain such information as the Secretary may require.
 
             (B) In the case of an eligible member of the armed forces described in subparagraph (A)(i), (B), or (C) of paragraph (1), an application shall be considered to be submitted on a timely basis if the application is submitted not later than three years after the date on which the member is retired, separated, or released from active duty, whichever applies to the member.
 
-        (3) __Selection criteria; educational background requirements; honorable service requirement.—__ 
+        (3)  __Selection criteria; educational background requirements; honorable service requirement__  __.—__ 
 
             (A) The Secretary shall prescribe the criteria to be used to select eligible members of the armed forces to participate in the Program.
 
@@ -143,7 +143,7 @@
 
             (D) A member of the armed forces is eligible to participate in the Program only if the member’s last period of service in the armed forces was honorable, as characterized by the Secretary concerned. A member selected to participate in the Program before the retirement of the member or the separation or release of the member from active duty may continue to participate in the Program after the retirement, separation, or release only if the member’s last period of service is characterized as honorable by the Secretary concerned.
 
-        (4) __Selection priorities.—__ 
+        (4)  __Selection priorities__  __.—__ 
 
         In selecting eligible members of the armed forces to receive assistance under the Program, the Secretary—
 
@@ -157,15 +157,15 @@
 
             (B) may give priority to members who agree to seek employment in a high-need school.
 
-        (5) __Other conditions on selection.—__ 
+        (5)  __Other conditions on selection__  __.—__ 
 
             (A) Subject to subsection (i), the Secretary may not select an eligible member of the armed forces to participate in the Program and receive financial assistance unless the Secretary has sufficient appropriations for the Program available at the time of the selection to satisfy the obligations to be incurred by the United States under subsection (e) with respect to the member.
 
             (B) The Secretary may not select an eligible member of the armed forces described in paragraph (1)(B)(i) to participate in the Program and receive financial assistance under subsection (e) unless the member executes a written agreement to serve as a member of the Selected Reserve of a reserve component of the armed forces for a period of not less than three years.
 
-    (e) __Participation Agreement and Financial Assistance.—__ 
+    (e)  __Participation Agreement and Financial Assistance__  __.—__ 
 
-        (1) __Participation agreement.—__ 
+        (1)  __Participation agreement__  __.—__ 
 
             (A)
 
@@ -177,7 +177,7 @@
 
             (B) The Secretary may waive the three-year commitment described in subparagraph (A)(ii) for a participant if the Secretary determines such waiver to be appropriate. If the Secretary provides the waiver, the participant shall not be considered to be in violation of the agreement and shall not be required to provide reimbursement under subsection (f), for failure to meet the three-year commitment.
 
-        (2) __Violation of participation agreement; exceptions.—__ 
+        (2)  __Violation of participation agreement; exceptions__  __.—__ 
 
         A participant shall not be considered to be in violation of the participation agreement entered into under paragraph (1) during any period in which the participant—
 
@@ -193,7 +193,7 @@
 
             (F) satisfies the provisions of additional reimbursement exceptions that may be prescribed by the Secretary.
 
-        (3) __Stipend and bonus for participants.—__ 
+        (3)  __Stipend and bonus for participants__  __.—__ 
 
             (A) Subject to subparagraph (C), the Secretary may pay to a participant a stipend to cover expenses incurred by the participant to obtain the required educational level, certification, or licensing. Such stipend may not exceed $5,000 and may vary by participant.
 
@@ -213,13 +213,13 @@
 
                 (iv) The combination of a stipend under subparagraph (A) and a bonus under subparagraph (B) for any one participant may not exceed $10,000.
 
-        (4) __Treatment of stipend and bonus.—__ 
+        (4)  __Treatment of stipend and bonus__  __.—__ 
 
         A stipend or bonus paid under this subsection to a participant shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.).
 
     (f) __Reimbursement Under Certain Circumstances.—__ 
 
-        (1) __Reimbursement required.—__ 
+        (1)  __Reimbursement required__  __.—__ 
 
         A participant who is paid a stipend or bonus under this subsection shall be subject to the repayment provisions of [section 373 of title 37][/us/usc/t37/s373] under the following circumstances:
 
@@ -229,11 +229,11 @@
 
             (C) The participant executed a written agreement with the Secretary concerned under subsection (d)(5)(B) to serve as a member of a reserve component of the armed forces for a period of three years and fails to complete the required term of service.
 
-        (2) __Amount of reimbursement.—__ 
+        (2)  __Amount of reimbursement__  __.—__ 
 
         A participant required to reimburse the Secretary for a stipend or bonus paid to the participant under subsection (e) shall pay an amount that bears the same ratio to the amount of the stipend or bonus as the unserved portion of required service bears to the three years of required service.
 
-        (3) __Interest.—__ 
+        (3)  __Interest__  __.—__ 
 
         Any amount owed by a participant under this subsection shall bear interest at the rate equal to the highest rate being paid by the United States on the day on which the reimbursement is determined to be due for securities having maturities of 90 days or less and shall accrue from the day on which the participant is first notified of the amount due.
 
@@ -241,23 +241,23 @@
 
         A participant shall be excused from reimbursement under this subsection if the participant becomes permanently totally disabled as established by sworn affidavit of a qualified physician. The Secretary may also waive the reimbursement in cases of extreme hardship to the participant, as determined by the Secretary.
 
-    (g) __Relationship to Educational Assistance Under Montgomery GI Bill.—__ 
+    (g)  __Relationship to Educational Assistance Under Montgomery GI Bill__  __.—__ 
 
     Except as provided in subsection (e)(3)(C)(iii), the receipt by a participant of a stipend or bonus under subsection (e) shall not reduce or otherwise affect the entitlement of the participant to any benefits under chapter 30 or 33 of title 38 or chapter 1606 of this title.
 
     (h) __Participation by States.—__ 
 
-        (1) __Discharge of state activities through consortia of states.—__ 
+        (1)  __Discharge of state activities through consortia of states__  __.—__ 
 
         The Secretary may permit States participating in the Program to carry out activities authorized for such States under the Program through one or more consortia of such States.
 
-        (2) __Assistance to states.—__ 
+        (2)  __Assistance to states__  __.—__ 
 
             (A) Subject to subparagraph (B), the Secretary may make grants to States participating in the Program, or to consortia of such States, in order to permit such States or consortia of States to operate offices for purposes of recruiting eligible members of the armed forces for participation in the Program and facilitating the employment of participants as elementary school teachers, secondary school teachers, and career or technical teachers.
 
             (B) The total amount of grants made under subparagraph (A) in any fiscal year may not exceed $5,000,000.
 
-    (i) __Limitation on Total Fiscal-year Obligations.—__ 
+    (i)  __Limitation on Total Fiscal-year Obligations__  __.—__ 
 
     The total amount obligated by the Secretary under the Program for any fiscal year may not exceed $15,000,000.
 
@@ -279,11 +279,11 @@
 
 [Pub. L. 112–239, div. A, title V, § 541(a)][/us/pl/112/239/s541/a], Jan. 2, 2013, [126 Stat. 1728][/us/stat/126/1728], provided that:
 
->     “(1) __Transfer.—__ 
+>     “(1)  __Transfer__  __.—__ 
 
 >     The responsibility and authority for operation and administration of the Troops-to-Teachers Program in chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6671][/us/usc/t20/s6671] et seq.) is transferred from the Secretary of Education to the Secretary of Defense.
 
->     “(2) __Memorandum of agreement.—__ 
+>     “(2)  __Memorandum of agreement__  __.—__ 
 
 >     In connection with the transfer of responsibility and authority for operation and administration of the Troops-to-Teachers Program from the Secretary of Education to the Secretary of Defense under paragraph (1), the Secretaries shall enter into a memorandum of agreement pursuant to which the Secretary of Education will undertake the following:
 
@@ -297,7 +297,7 @@
 
 >         “(E) Identify geographic areas with critical teacher shortages, especially in high-need schools (as defined in subsection (a) of such section 1154).
 
->     “(3) __Effective date.—__ 
+>     “(3)  __Effective date__  __.—__ 
 
 >     The transfer of responsibility and authority for operation and administration of the Troops-to-Teachers Program under paragraph (1) shall take effect—
 

@@ -15,21 +15,21 @@
 
 ## § 1781c. Office of Community Support for Military Families With Special Needs
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is in the Office of the Under Secretary of Defense for Personnel and Readiness the Office of Community Support for Military Families With Special Needs (in this section referred to as the “Office”).
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of the Office is to enhance and improve Department of Defense support around the world for military families with special needs (whether medical or educational needs) through the development of appropriate policies, enhancement and dissemination of appropriate information throughout the Department of Defense, support for such families in obtaining referrals for services and in obtaining service, and oversight of the activities of the military departments in support of such families.
 
-    (c) __Director.—__ 
+    (c)  __Director__  __.—__ 
 
         (1) The head of the Office shall be the Director of the Office of Community Support for Military Families With Special Needs, who shall be a member of the Senior Executive Service or a general officer or flag officer.
 
         (2) In the discharge of the responsibilities of the Office, the Director shall be subject to the supervision, direction, and control of the Under Secretary of Defense for Personnel and Readiness.
 
-    (d) __Responsibilities.—__ 
+    (d)  __Responsibilities__  __.—__ 
 
     The Office shall have the responsibilities as follows:
 
@@ -49,7 +49,7 @@
 
         (8) To carry out such other matters with respect to the programs and activities of the Department of Defense regarding military families with special needs as the Under Secretary of Defense for Personnel and Readiness shall specify.
 
-    (e) __Policy.—__ 
+    (e)  __Policy__  __.—__ 
 
         (1) The Office shall develop, and update from time to time, a uniform policy for the Department of Defense regarding military families with special needs. The policy shall apply with respect to members of the armed forces without regard to their location, whether within or outside the continental United States.
 
@@ -87,7 +87,7 @@
 
             (G) Requirements for record keeping, reporting, and continuous monitoring of available resources and family needs under individualized services support plans for military families with special needs, including the establishment and maintenance of a central or various regional databases for such purposes.
 
-    (f) __Programs.—__ 
+    (f)  __Programs__  __.—__ 
 
         (1) The Office shall establish, maintain, and oversee a program to provide information and referral services on special needs matters to military families with special needs on a continuous basis regardless of the location of the member’s assignment. The program shall provide for timely access by members of such military families to individual case managers and counselors on matters relating to special needs.
 
@@ -107,11 +107,11 @@
 
             (C) Services under a program under this paragraph may be provided by contract or other arrangements with non-Department of Defense entities qualified to provide such services.
 
-    (g) __Resources.—__ 
+    (g)  __Resources__  __.—__ 
 
     The Secretary of Defense shall assign to the Office such resources, including personnel, as the Secretary considers necessary for the discharge of the responsibilities of the Office, including a sufficient number of members of the armed forces to ensure appropriate representation by the military departments in the personnel of the Office.
 
-    (h) __Reports.—__ 
+    (h)  __Reports__  __.—__ 
 
         (1) Not later than April 30 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the activities of the Office.
 
@@ -125,7 +125,7 @@
 
             (C) Such recommendations for legislative action as the Secretary considers appropriate to provide for the continuous improvement of support and services for military families with special needs.
 
-    (i) __Military Family With Special Needs.—__ 
+    (i)  __Military Family With Special Needs__  __.—__ 
 
     For purposes of this section, a military family with special needs is any military family with one or more members who has a medical or educational special need (as defined by the Secretary in regulations for purposes of this section), including a condition covered by the Extended Health Care Option Program under [section 1079f of this title][/us/usc/t10/s1079f].
 
@@ -147,11 +147,11 @@
 
 [Pub. L. 111–84, div. A, title V, § 563(b)][/us/pl/111/84/s563/b], Oct. 28, 2009, [123 Stat. 2307][/us/stat/123/2307], provided that:
 
->     “(1) __Establishment authorized.—__ 
+>     “(1)  __Establishment authorized__  __.—__ 
 
 >     The Secretary of Defense may establish a foundation for the provision of assistance to the Department of Defense in providing support to military families with special needs.
 
->     “(2) __Purposes.—__ 
+>     “(2)  __Purposes__  __.—__ 
 
 >     The purposes of the foundation shall be to assist the Department of Defense as follows:
 
@@ -173,11 +173,11 @@
 
 >         “(F) In carrying out other initiatives to contribute to improved support for military families with special needs.
 
->     “(3) __Department of defense funding.—__ 
+>     “(3)  __Department of defense funding__  __.—__ 
 
 >     The Secretary may provide the foundation such financial support as the Secretary considers appropriate, including the provision to the foundation of appropriated funds and non-appropriated funds available to the Department of Defense.
 
->     “(4) __Annual report.—__ 
+>     “(4)  __Annual report__  __.—__ 
 
 >     The foundation shall submit to the Secretary, and to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], each year a report on its activities under this subsection during the preceding year. Each report shall include, for the year covered by such report, the following:
 
@@ -185,7 +185,7 @@
 
 >         “(B) The budget of the foundation, including the sources of any funds provided to the foundation.
 
->     “(5) __Military family with special needs defined.—__ 
+>     “(5)  __Military family with special needs defined__  __.—__ 
 
 >     In this subsection, the term ‘military family with special needs’ has the meaning given such term in [section 1781c(i) of title 10][/us/usc/t10/s1781c/i], United States Code (as added by subsection (a)).”
 
@@ -199,15 +199,15 @@
 
 [Pub. L. 111–84, div. A, title V, § 563(d)][/us/pl/111/84/s563/d], as added [Pub. L. 111–383, div. A, title V, § 582(c)(2)][/us/pl/111/383/s582/c/2], Jan. 7, 2011, [124 Stat. 4227][/us/stat/124/4227], provided that:
 
->     “(1) __Establishment.—__ 
+>     “(1)  __Establishment__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this subsection \[Jan. 7, 2011\], the Secretary of Defense shall establish an advisory panel on community support for military families with special needs.
 
->     “(2) __Members.—__ 
+>     “(2)  __Members__  __.—__ 
 
 >     The advisory panel shall consist of seven individuals who are a member of a military family with special needs. The Secretary of Defense shall appoint the members of the advisory panel.
 
->     “(3) __Duties.—__ 
+>     “(3)  __Duties__  __.—__ 
 
 >     The advisory panel shall—
 
@@ -217,7 +217,7 @@
 
 >         “(C) otherwise advise and assist the Director in the discharge of the duties of the Office of Community Support for Military Families With Special Needs in such manner as the Secretary of Defense and the Director jointly determine appropriate.
 
->     “(4) __Meetings.—__ 
+>     “(4)  __Meetings__  __.—__ 
 
 >     The Director shall meet with the advisory panel at such times, and with such frequency, as the Director considers appropriate. The Director shall meet with the panel at least once each year. The Director may meet with the panel through teleconferencing or by other electronic means.”
 

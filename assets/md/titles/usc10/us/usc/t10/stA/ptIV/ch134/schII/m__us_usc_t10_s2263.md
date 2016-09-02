@@ -15,11 +15,11 @@
 
 ## § 2263. United States contributions to the North Atlantic Treaty Organization common-funded budgets
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The total amount contributed by the Secretary of Defense in any fiscal year for the common-funded budgets of NATO may be an amount in excess of the maximum amount that would otherwise be applicable to those contributions in such fiscal year under the fiscal year 1998 baseline limitation.
 
-    (b) __Reports.—__ 
+    (b)  __Reports__  __.—__ 
 
         (1) Not later than October 30 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the contributions made by the Secretary to the common-funded budgets of NATO in the preceding fiscal year.
 
@@ -31,15 +31,15 @@
 
             (B) For each budget and program to which the Secretary made such a contribution, the percentage of such budget or program during the fiscal year that such contribution represented.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Common-funded budgets of nato.—__ 
+        (1)  __Common-funded budgets of nato__  __.—__ 
 
         The term “common-funded budgets of NATO” means the Military Budget, the Security Investment Program, and the Civil Budget of the North Atlantic Treaty Organization (and any successor or additional account or program of NATO).
 
-        (2) __Fiscal year 1998 baseline limitation.—__ 
+        (2)  __Fiscal year 1998 baseline limitation__  __.—__ 
 
         The term “fiscal year 1998 baseline limitation” means the maximum annual amount of Department of Defense contributions for common-funded budgets of NATO that is set forth as the annual limitation in section 3(2)(C)(ii) of the resolution of the Senate giving the advice and consent of the Senate to the ratification of the Protocols to the North Atlantic Treaty of 1949 on the Accession of Poland, Hungary, and the Czech Republic (as defined in section 4(7) of that resolution), approved by the Senate on April 30, 1998.
 

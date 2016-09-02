@@ -15,7 +15,7 @@
 
 ## § 164. Commanders of combatant commands: assignment; powers and duties
 
-    (a) __Assignment as Combatant Commander.—__ 
+    (a)  __Assignment as Combatant Commander__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) The President may waive paragraph (1) in the case of an officer if the President determines that such action is necessary in the national interest.
 
-    (b) __Responsibilities of Combatant Commanders.—__ 
+    (b)  __Responsibilities of Combatant Commanders__  __.—__ 
 
         (1) The commander of a combatant command is responsible to the President and to the Secretary of Defense for the performance of missions assigned to that command by the President or by the Secretary with the approval of the President.
 
@@ -39,7 +39,7 @@
 
             (B) is directly responsible to the Secretary for the preparedness of the command to carry out missions assigned to the command.
 
-    (c) __Command Authority of Combatant Commanders.—__ 
+    (c)  __Command Authority of Combatant Commanders__  __.—__ 
 
         (1)
 
@@ -67,7 +67,7 @@
 
         (3) If a commander of a combatant command at any time considers his authority, direction, or control with respect to any of the commands or forces assigned to the command to be insufficient to command effectively, the commander shall promptly inform the Secretary of Defense.
 
-    (d) __Authority Over Subordinate Commanders.—__ 
+    (d)  __Authority Over Subordinate Commanders__  __.—__ 
 
     Unless otherwise directed by the President or the Secretary of Defense—
 
@@ -79,7 +79,7 @@
 
         (4) if directed by the commander of the combatant command, the commander of a command or force referred to in clause (1) shall advise the commander of the combatant command of all communications to and from other elements of the Department of Defense on any matter for which the commander of the combatant command has not been assigned authority under subsection (c).
 
-    (e) __Selection of Subordinate Commanders.—__ 
+    (e)  __Selection of Subordinate Commanders__  __.—__ 
 
         (1)
 
@@ -101,7 +101,7 @@
 
         (4) At least one deputy commander of the combatant command the geographic area of responsibility of which includes the United States shall be a qualified officer of the National Guard who is eligible for promotion to the grade of O–9, unless a National Guard officer is serving as commander of that combatant command.
 
-    (f) __Combatant Command Staff.—__ 
+    (f)  __Combatant Command Staff__  __.—__ 
 
         (1) Each unified and specified combatant command shall have a staff to assist the commander of the command in carrying out his responsibilities. Positions of responsibility on the combatant command staff shall be filled by officers from each of the armed forces having significant forces assigned to the command.
 
@@ -115,7 +115,7 @@
 
         (3) The Secretary of Defense may waive the requirement under paragraph (2) for the concurrence of the commander of a combatant command with regard to the assignment (or recommendation for assignment) of a particular officer to serve on the staff of the combatant command if the Secretary of Defense determines that such action is in the national interest.
 
-    (g) __Authority to Suspend Subordinates.—__ 
+    (g)  __Authority to Suspend Subordinates__  __.—__ 
 
     In accordance with procedures established by the Secretary of Defense, the commander of a combatant command may suspend from duty and recommend the reassignment of any officer assigned to such combatant command.
 

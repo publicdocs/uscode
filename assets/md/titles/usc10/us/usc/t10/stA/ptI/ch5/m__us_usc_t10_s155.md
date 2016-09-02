@@ -15,7 +15,7 @@
 
 ## § 155. Joint Staff
 
-    (a) __Appointment of Officers to Joint Staff.—__ 
+    (a)  __Appointment of Officers to Joint Staff__  __.—__ 
 
         (1) There is a Joint Staff under the Chairman of the Joint Chiefs of Staff. The Joint Staff assists the Chairman and, subject to the authority, direction, and control of the Chairman, the other members of the Joint Chiefs of Staff in carrying out their responsibilities.
 
@@ -31,15 +31,15 @@
 
         (3) Selection of officers of an armed force to serve on the Joint Staff shall be made by the Chairman from a list of officers submitted by the Secretary of the military department having jurisdiction over that armed force. Each officer whose name is submitted shall be among those officers considered to be the most outstanding officers of that armed force. The Chairman may specify the number of officers to be included on any such list.
 
-    (b) __Director.—__ 
+    (b)  __Director__  __.—__ 
 
     The Chairman of the Joint Chiefs of Staff, after consultation with the other members of the Joint Chiefs of Staff and with the approval of the Secretary of Defense, may select an officer to serve as Director of the Joint Staff.
 
-    (c) __Management of Joint Staff.—__ 
+    (c)  __Management of Joint Staff__  __.—__ 
 
     The Chairman of the Joint Chiefs of Staff manages the Joint Staff and the Director of the Joint Staff. The Joint Staff shall perform such duties as the Chairman prescribes and shall perform such duties under such procedures as the Chairman prescribes.
 
-    (d) __Operation of Joint Staff.—__ 
+    (d)  __Operation of Joint Staff__  __.—__ 
 
     The Secretary of Defense shall ensure that the Joint Staff is independently organized and operated so that the Joint Staff supports the Chairman of the Joint Chiefs of Staff in meeting the congressional purpose set forth in the last clause of section 2 of the National Security Act of 1947 ([50 U.S.C. 401][/us/usc/t50/s401])  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  to provide—
 
@@ -49,11 +49,11 @@
 
         (3) for their integration into an efficient team of land, naval, and air forces.
 
-    (e) __Prohibition of Function as Armed Forces General Staff.—__ 
+    (e)  __Prohibition of Function as Armed Forces General Staff__  __.—__ 
 
     The Joint Staff shall not operate or be organized as an overall Armed Forces General Staff and shall have no executive authority. The Joint Staff may be organized and may operate along conventional staff lines.
 
-    (f) __Tour of Duty of Joint Staff Officers.—__ 
+    (f)  __Tour of Duty of Joint Staff Officers__  __.—__ 
 
         (1) An officer who is assigned or detailed to permanent duty on the Joint Staff may not serve for a tour of duty of more than four years. However, such a tour of duty may be extended with the approval of the Secretary of Defense.
 
@@ -69,7 +69,7 @@
 
             (B) during a national emergency declared by the President or Congress.
 
-    (g) __Composition of Joint Staff.—__ 
+    (g)  __Composition of Joint Staff__  __.—__ 
 
         (1) The Joint Staff is composed of all members of the armed forces and civilian employees assigned or detailed to permanent duty in the executive part of the Department of Defense to perform the functions and duties prescribed under subsections (a) and (c).
 
@@ -113,7 +113,7 @@
 
 [Pub. L. 109–364, div. A, title X, § 1052][/us/pl/109/364/s1052], Oct. 17, 2006, [120 Stat. 2396][/us/stat/120/2396], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Amounts available to the Chairman of the Joint Chiefs of Staff for joint staff exercises may be available for any expenses as follows:
 
@@ -123,7 +123,7 @@
 
 >         “(3) Expenses relating to the breakout and operation of prepositioned watercraft and lighterage for joint logistics and over the shore exercises in connection with such exercises.
 
->     “(b) __Supplement Not Supplant.—__ 
+>     “(b)  __Supplement Not Supplant__  __.—__ 
 
 >     Any amounts made available by the Chairman of the Joint Chiefs of Staff under subsection (a) for expenses covered by that subsection are in addition to any other amounts available under law for such expenses.”
 

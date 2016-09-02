@@ -15,17 +15,17 @@
 
 ## § 1401a. Adjustment of retired pay and retainer pay to reflect changes in Consumer Price Index
 
-    (a) __Prohibition on Recomputation To Reflect Increases in Basic Pay.—__ 
+    (a)  __Prohibition on Recomputation To Reflect Increases in Basic Pay__  __.—__ 
 
     Unless otherwise specifically provided by law, the retired pay of a member or former member of an armed force may not be recomputed to reflect any increase in the rates of basic pay for members of the armed forces.
 
     (b) __Cost-of-Living Adjustments Based on CPI Increases.—__ 
 
-        (1) __Increase required.—__ 
+        (1)  __Increase required__  __.—__ 
 
         Effective on December 1 of each year, the Secretary of Defense shall increase the retired pay of members and former members entitled to that pay in accordance with paragraphs (2) and (3).
 
-        (2) __Percentage increase.—__ 
+        (2)  __Percentage increase__  __.—__ 
 
         Except as otherwise provided in this subsection, the Secretary shall increase the retired pay of each member and former member by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
 
@@ -33,7 +33,7 @@
 
             (B) the base index.
 
-        (3) __Reduced percentage for certain post-__  __august 1, 1986__  __members.—__ 
+        (3)  __Reduced percentage for certain post-__  __august 1, 1986__  __ members__  __.—__ 
 
         If the percent determined under paragraph (2) is greater than 1 percent, the Secretary shall increase the retired pay of each member and former member who first became a member on or after August 1, 1986, and has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or [section 354 of title 37][/us/usc/t37/s354], by the difference between—
 
@@ -41,17 +41,17 @@
 
             (B) 1 percent.
 
-        (4) __Special rule for paragraph (3).—__ 
+        (4)  __Special rule for paragraph (3)__  __.—__ 
 
         If in any case in which an increase in retired pay that would otherwise be made under paragraph (3) is not made by reason of law (other than any provision of this section), then (unless otherwise provided by law) when the next increase in retired pay is made under this subsection, the increase under paragraph (3) shall be carried out so as to achieve the same net increase in retired pay under that paragraph that would have been the case if that law had not been enacted.
 
-        (5) __Regulations.—__ 
+        (5)  __Regulations__  __.—__ 
 
         Any increase in retired pay under this subsection shall be made in accordance with regulations prescribed by the Secretary of Defense.
 
     (c) __First COLA Adjustment for Members With Retired Pay Computed Using Final Basic Pay.—__ 
 
-        (1) __First adjustment with intervening increase in basic pay.—__ 
+        (1)  __First adjustment with intervening increase in basic pay__  __.—__ 
 
         Notwithstanding subsection (b) but subject to subsection (f)(2), if a person described in paragraph (3) becomes entitled to retired pay based on rates of monthly basic pay that became effective after the last day of the calendar quarter of the base index, the retired pay of the member or former member shall be increased on the effective date of the next adjustment of retired pay under subsection (b) only by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
 
@@ -59,7 +59,7 @@
 
             (B) the price index for the calendar quarter immediately before the calendar quarter in which the rates of monthly basic pay on which the retired pay is based became effective.
 
-        (2) __First adjustment with no intervening increase in basic pay.—__ 
+        (2)  __First adjustment with no intervening increase in basic pay__  __.—__ 
 
         If a person described in paragraph (3) becomes entitled to retired pay on or after the effective date of an adjustment in retired pay under subsection (b) but before the effective date of the next increase in the rates of monthly basic pay, the retired pay of the member or former member shall be increased (subject to subsection (f)(2) as applied to other members whose retired pay is computed on the current rates of basic pay in the most recent adjustment under this section), effective on the date the member becomes entitled to that pay, by the percent (adjusted to the nearest one-tenth of 1 percent) by which—
 
@@ -67,11 +67,11 @@
 
             (B) the price index for the calendar quarter immediately before the calendar quarter in which the rates of monthly basic pay on which the retired pay is based became effective.
 
-        (3) __Members covered.—__ 
+        (3)  __Members covered__  __.—__ 
 
         Paragraphs (1) and (2) apply to a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, and whose retired pay base is determined under [section 1406 of this title][/us/usc/t10/s1406].
 
-    (d) __First COLA Adjustment for Members With Retired Pay Computed Using High-Three.—__ 
+    (d)  __First COLA Adjustment for Members With Retired Pay Computed Using High-Three__  __.—__ 
 
     Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service before August 1, 1986, or on or after August 1, 1986, if the member or former member did not elect to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or [section 354 of title 37][/us/usc/t37/s354] and whose retired pay base is determined under [section 1407 of this title][/us/usc/t10/s1407] shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between the percent by which—
 
@@ -79,7 +79,7 @@
 
         (2) the price index for the calendar quarter immediately before the calendar quarter during which the member became entitled to retired pay.
 
-    (e) __Pro Rating of Initial Adjustment.—__ 
+    (e)  __Pro Rating of Initial Adjustment__  __.—__ 
 
     Notwithstanding subsection (b) but subject to subsection (f)(2), the retired pay of a member or former member of an armed force who first became a member of a uniformed service on or after August 1, 1986, and elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or [section 354 of title 37][/us/usc/t37/s354] shall be increased on the effective date of the first adjustment of retired pay under subsection (b) after the member or former member becomes entitled to retired pay by the percent (adjusted to the nearest one-tenth of 1 percent) equal to the difference between—
 
@@ -97,15 +97,15 @@
 
     (f) __Prevention of Pay Inversions.—__ 
 
-        (1) __Prevention of retired pay inversions.—__ 
+        (1)  __Prevention of retired pay inversions__  __.—__ 
 
         Notwithstanding any other provision of law, the monthly retired pay of a member or a former member of an armed force who initially became entitled to that pay on or after January 1, 1971, may not be less than the monthly retired pay to which he would be entitled if he had become entitled to retired pay at an earlier date based on the grade in which the member is retired, adjusted to reflect any applicable increases in such pay under this section. In computing the amount of retired pay to which such a member or former member would have been entitled on that earlier date, the computation shall be based on his grade, length of service, and the rate of basic pay applicable to him at that time, except that such computation may not be based on a rate of basic pay for a grade higher than the grade in which the member is retired. This subsection does not authorize any increase in the monthly retired pay to which a member was entitled for any period before October 7, 1975.
 
-        (2) __Prevention of cola inversions.—__ 
+        (2)  __Prevention of cola inversions__  __.—__ 
 
         The percentage of the first adjustment under this section in the retired pay of any person, as determined under subsection (c)(1), (c)(2), (d), or (e), may not exceed the percentage increase in retired pay determined under subsection (b)(2) that is effective on the same date as the effective date of such first adjustment.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -117,17 +117,49 @@
 
         (4) The term “retired pay” includes retainer pay.
 
-    (h) __Price Index for a Quarter.—__ 
+    (h)  __Price Index for a Quarter__  __.—__ 
 
     For purposes of this section, the price index for a calendar quarter is the arithmetical mean of the price index for the three months comprising that quarter.
 
-(Added [Pub. L. 88–132, § 5(g)(1)][/us/pl/88/132/s5/g/1], Oct. 2, 1963, [77 Stat. 213][/us/stat/77/213]; amended [Pub. L. 89–132, § 5(b)][/us/pl/89/132/s5/b], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 90–207, § 2(a)(1)][/us/pl/90/207/s2/a/1], Dec. 16, 1967, [81 Stat. 652][/us/stat/81/652]; [Pub. L. 91–179, § 1][/us/pl/91/179/s1], Dec. 30, 1969, [83 Stat. 837][/us/stat/83/837]; [Pub. L. 94–106, title VIII, § 806][/us/pl/94/106/s806], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 94–361, title VIII, § 801(a)][/us/pl/94/361/s801/a], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 94–440, title XIII, § 1306(d)(1)][/us/pl/94/440/s1306/d/1], Oct. 1, 1976, [90 Stat. 1462][/us/stat/90/1462]; [Pub. L. 96–342, title VIII, § 812(b)(1)][/us/pl/96/342/s812/b/1], Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 921(a)(1), (b), 922(a)(2), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], 641; [Pub. L. 98–525, title XIV, § 1405(26)][/us/pl/98/525/s1405/26], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–348, title I, § 102][/us/pl/99/348/s102], July 1, 1986, [100 Stat. 683][/us/stat/100/683]; [Pub. L. 100–180, div. A, title XII, § 1231(21)][/us/pl/100/180/s1231/21], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–224, § 1][/us/pl/100/224/s1], Dec. 30, 1987, [101 Stat. 1536][/us/stat/101/1536]; [Pub. L. 100–456, div. A, title VI, § 622(a)][/us/pl/100/456/s622/a], Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983]; [Pub. L. 101–189, div. A, title VI, § 651(b)(1)][/us/pl/101/189/s651/b/1], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 103–66, title II, § 2001][/us/pl/103/66/s2001], Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335]; [Pub. L. 103–160, div. A, title XI, § 1182(e)][/us/pl/103/160/s1182/e], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–335, title VIII, § 8114A(b)(1)][/us/pl/103/335/s8114A/b/1], Sept. 30, 1994, [108 Stat. 2648][/us/stat/108/2648]; [Pub. L. 103–337, div. A, title VI, § 633(a)][/us/pl/103/337/s633/a], Oct. 5, 1994, [108 Stat. 2787][/us/stat/108/2787]; [Pub. L. 104–106, div. A, title VI, § 631(a)][/us/pl/104/106/s631/a], (c), Feb. 10, 1996, [110 Stat. 364][/us/stat/110/364], 365; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 631(a), 632(a), Sept. 23, 1996, [110 Stat. 2549][/us/stat/110/2549]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 641(b), 643(b)(1), title X, § 1066(a)(10), Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], 663, 771; [Pub. L. 107–314, div. A, title VI, § 633][/us/pl/107/314/s633], Dec. 2, 2002, [116 Stat. 2572][/us/stat/116/2572]; [Pub. L. 110–181, div. A, title VI, § 661(b)(3)][/us/pl/110/181/s661/b/3], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].)
+(Added [Pub. L. 88–132, § 5(g)(1)][/us/pl/88/132/s5/g/1], Oct. 2, 1963, [77 Stat. 213][/us/stat/77/213]; amended [Pub. L. 89–132, § 5(b)][/us/pl/89/132/s5/b], Aug. 21, 1965, [79 Stat. 547][/us/stat/79/547]; [Pub. L. 90–207, § 2(a)(1)][/us/pl/90/207/s2/a/1], Dec. 16, 1967, [81 Stat. 652][/us/stat/81/652]; [Pub. L. 91–179, § 1][/us/pl/91/179/s1], Dec. 30, 1969, [83 Stat. 837][/us/stat/83/837]; [Pub. L. 94–106, title VIII, § 806][/us/pl/94/106/s806], Oct. 7, 1975, [89 Stat. 538][/us/stat/89/538]; [Pub. L. 94–361, title VIII, § 801(a)][/us/pl/94/361/s801/a], July 14, 1976, [90 Stat. 929][/us/stat/90/929]; [Pub. L. 94–440, title XIII, § 1306(d)(1)][/us/pl/94/440/s1306/d/1], Oct. 1, 1976, [90 Stat. 1462][/us/stat/90/1462]; [Pub. L. 96–342, title VIII, § 812(b)(1)][/us/pl/96/342/s812/b/1], Sept. 8, 1980, [94 Stat. 1098][/us/stat/94/1098]; [Pub. L. 98–94, title IX][/us/pl/98/94], §§ 921(a)(1), (b), 922(a)(2), Sept. 24, 1983, [97 Stat. 640][/us/stat/97/640], 641; [Pub. L. 98–525, title XIV, § 1405(26)][/us/pl/98/525/s1405/26], Oct. 19, 1984, [98 Stat. 2623][/us/stat/98/2623]; [Pub. L. 99–348, title I, § 102][/us/pl/99/348/s102], July 1, 1986, [100 Stat. 683][/us/stat/100/683]; [Pub. L. 100–180, div. A, title XII, § 1231(21)][/us/pl/100/180/s1231/21], Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161]; [Pub. L. 100–224, § 1][/us/pl/100/224/s1], Dec. 30, 1987, [101 Stat. 1536][/us/stat/101/1536]; [Pub. L. 100–456, div. A, title VI, § 622(a)][/us/pl/100/456/s622/a], Sept. 29, 1988, [102 Stat. 1983][/us/stat/102/1983]; [Pub. L. 101–189, div. A, title VI, § 651(b)(1)][/us/pl/101/189/s651/b/1], Nov. 29, 1989, [103 Stat. 1460][/us/stat/103/1460]; [Pub. L. 103–66, title II, § 2001][/us/pl/103/66/s2001], Aug. 10, 1993, [107 Stat. 335][/us/stat/107/335]; [Pub. L. 103–160, div. A, title XI, § 1182(e)][/us/pl/103/160/s1182/e], Nov. 30, 1993, [107 Stat. 1773][/us/stat/107/1773]; [Pub. L. 103–335, title VIII, § 8114A(b)(1)][/us/pl/103/335/s8114A/b/1], Sept. 30, 1994, [108 Stat. 2648][/us/stat/108/2648]; [Pub. L. 103–337, div. A, title VI, § 633(a)][/us/pl/103/337/s633/a], Oct. 5, 1994, [108 Stat. 2787][/us/stat/108/2787]; [Pub. L. 104–106, div. A, title VI, § 631(a)][/us/pl/104/106/s631/a], (c), Feb. 10, 1996, [110 Stat. 364][/us/stat/110/364], 365; [Pub. L. 104–201, div. A, title VI][/us/pl/104/201], §§ 631(a), 632(a), Sept. 23, 1996, [110 Stat. 2549][/us/stat/110/2549]; [Pub. L. 106–65, div. A, title VI][/us/pl/106/65], §§ 641(b), 643(b)(1), title X, § 1066(a)(10), Oct. 5, 1999, [113 Stat. 662][/us/stat/113/662], 663, 771; [Pub. L. 107–314, div. A, title VI, § 633][/us/pl/107/314/s633], Dec. 2, 2002, [116 Stat. 2572][/us/stat/116/2572]; [Pub. L. 110–181, div. A, title VI, § 661(b)(3)][/us/pl/110/181/s661/b/3], Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178]; [Pub. L. 113–67, div. A, title IV, § 403(a)][/us/pl/113/67/s403/a], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186].)
+
+ __Amendment of Subsection (b)__ 
+
+[Pub. L. 113–67, div. A, title IV, § 403(a)][/us/pl/113/67/s403/a], (c), Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186], provided that, effective Dec. 1, 2015, subsection (b) of this section is amended:
+
+    (1) in paragraph (1), by striking “paragraphs (2) and (3)” and inserting “paragraph (2), (3), or (4)”;
+
+    (2) by redesignating paragraphs (4) and (5) as paragraphs (5) and (6), respectively; and
+
+    (3) by adding the following new paragraph (4):
+
+    (4) Reduced percentage for retired members under age 62.—
+
+    (A) In general.—Effective on December 1 of each year, the retired pay of each member and former member under 62 years of age entitled to that pay shall be adjusted in accordance with this paragraph instead of paragraph (2) or (3).
+
+    (B) CPI minus one.—If the percent determined under paragraph (2) is greater than 1 percent, the Secretary shall increase the retired pay of each member and former member by the difference between—
+
+    (i) the percent determined under paragraph (2); and
+
+    (ii) 1 percent.
+
+    (C) No negative adjustment.—If the percent determined under paragraph (2) is equal to or less than 1 percent, the Secretary shall not increase the retired pay of members and former members under this paragraph.
+
+    (D) Revised adjustment upon reaching age 62.—When a member or former member whose retired pay has been subject to adjustment under this paragraph becomes 62 years of age, the Secretary of Defense shall recompute the retired pay of the member or former member, to be effective on the date of the next adjustment of retired pay under this subsection, so as to be the amount equal to the amount of retired pay to which the member or former member would be entitled on that date if increases in the retired pay of the member or former member had been computed as provided in paragraph (2) or as specified in [section 1410 of this title][/us/usc/t10/s1410], as applicable, rather than this paragraph.
+
+    (E) Inapplicability of catch-up rule.—Paragraph (5) shall not apply in the case of adjustments made, or not made, as a result of application of this paragraph.
+
+    See 2013 Amendment notes below.
 
  __References in Text__ 
 
     [Section 322 of title 37][/us/usc/t37/s322] (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008), referred to in subsecs. (b)(3), (d), and (e), means [section 322 of title 37][/us/usc/t37/s322] as in effect before enactment of [Pub. L. 110–181][/us/pl/110/181]. [Section 322 of title 37][/us/usc/t37/s322] was renumbered as [section 354 of title 37][/us/usc/t37/s354] and amended by [Pub. L. 110–181, div. A, title VI, § 661(b)(1)][/us/pl/110/181/s661/b/1], (2), Jan. 28, 2008, [122 Stat. 178][/us/stat/122/178].
 
  __Amendments__ 
+
+    2013—Subsec. (b)(1). [Pub. L. 113–67, § 403(a)(1)][/us/pl/113/67/s403/a/1], substituted “paragraph (2), (3), or (4)” for “paragraphs (2) and (3)”.
+
+    Subsec. (b)(4) to (6). [Pub. L. 113–67, § 403(a)(2)][/us/pl/113/67/s403/a/2], (3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
     2008—Subsecs. (b)(3), (d), (e). [Pub. L. 110–181][/us/pl/110/181], in introductory provisions, substituted “section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or section 354” for “section 322”.
 
@@ -271,6 +303,12 @@
 
     1965—Subsec. (b). [Pub. L. 89–132][/us/pl/89/132] substituted provisions requiring the Secretary of Defense to determine the per centum for each calendar month that the Consumer Price Index has increased over the base Consumer Price Index, and if the index has shown an increase of at least 3 per centum over the base index for three consecutive calendar months to increase the retired or retainer pay by the highest per centum of increase in the index, for provisions which required a determination of the increase over the preceding calendar year and permitted an increase in the retired or retainer pay if the index advanced 3 per centum or more for a full calendar year.
 
+ __Effective Date of 2013 Amendment__ 
+
+[Pub. L. 113–67, div. A, title IV, § 403(c)][/us/pl/113/67/s403/c], Dec. 26, 2013, [127 Stat. 1186][/us/stat/127/1186], provided that: 
+
+> “The amendments made by subsections (a) and (b) \[amending this section\] shall take effect on December 1, 2015.”
+
  __Effective Date of 1999 Amendment__ 
 
 [Pub. L. 106–65, div. A, title VI, § 644][/us/pl/106/65/s644], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664], provided that: 
@@ -341,11 +379,11 @@
 
 [Pub. L. 103–337, div. A, title VI, § 631][/us/pl/103/337/s631], Oct. 5, 1994, [108 Stat. 2785][/us/stat/108/2785], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The fiscal year 1995 increase in military retired pay shall (notwithstanding subparagraph (B) of [section 1401a(b)(2) of title 10][/us/usc/t10/s1401a/b/2], United States Code) first be payable as part of such retired pay for the month of March 1995.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     For the purposes of subsection (a):
 
@@ -353,11 +391,11 @@
 
 >         “(2) The term ‘retired pay’ includes retainer pay.
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     Subsection (a) shall be effective only if there is appropriated to the Department of Defense Military Retirement Fund (in an Act making appropriations for the Department of Defense for fiscal year 1995 that is enacted before March 1, 1995) such amount as is necessary to offset increased outlays to be made from that fund during fiscal year 1995 by reason of the provisions of subsection (a).
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated for fiscal year 1995 to the Department of Defense Military Retirement Fund the sum of $376,000,000 to offset increased outlays to be made from that fund during fiscal year 1995 by reason of the provisions of subsection (a).”
 
@@ -365,7 +403,7 @@
 
 [Pub. L. 103–337, div. A, title VI, § 632][/us/pl/103/337/s632], Oct. 5, 1994, [108 Stat. 2786][/us/stat/108/2786], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -375,7 +413,7 @@
 
 >         “(3) The effect of the enactment of the Omnibus Budget Reconciliation Act of 1993 was to abandon the longstanding congressional practice of treating military and Federal civilian retirees identically in matters related to cost-of-living adjustments.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     In light of the findings in subsection (a), it is the sense of Congress that—
 
@@ -389,11 +427,11 @@
 
 [Pub. L. 103–337, div. A, title VI, § 634][/us/pl/103/337/s634], Oct. 5, 1994, [108 Stat. 2787][/us/stat/108/2787], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary concerned may, for purposes of the computation under [section 1401a(f) of title 10][/us/usc/t10/s1401a/f], United States Code, of the retired pay of military retirees described in subsection (b), waive any administrative time-in-grade regulation (as described in subsection (d)) that would otherwise apply to such computation. Any such waiver may be made retroactive, in the case of any such retiree, to the date on which that retiree initially became entitled to retired pay.
 
->     “(b) __Covered Retirees.—__ 
+>     “(b)  __Covered Retirees__  __.—__ 
 
 >     This section applies to any military retiree—
 
@@ -415,23 +453,23 @@
 
 >                 “(ii) had served in the grade in which the retiree retired for a period that was less than the period prescribed by such administrative time-in-grade requirement but not less than the statutory time-in-grade requirement applicable to that member.
 
->     “(c) __Earlier Computation Date.—__ 
+>     “(c)  __Earlier Computation Date__  __.—__ 
 
 >     For purposes of subsection (b)(3), the earlier computation date applicable to a military retiree is the date that (under such section 1401a(f) as in effect on the date of the member’s retirement) was the ‘earlier date’ that was used as the basis for the computation of the retiree’s retired pay.
 
->     “(d) __Regulations Subject to Waiver.—__ 
+>     “(d)  __Regulations Subject to Waiver__  __.—__ 
 
 >     A regulation that may be waived under subsection (a) is any regulation (not required by law) that establishes a minimum period of time that a member of the Armed Forces must have served in a grade on active duty in order to be eligible to retire in that grade.
 
->     “(e) __Scope of Waiver Authority.—__ 
+>     “(e)  __Scope of Waiver Authority__  __.—__ 
 
 >     The Secretary concerned may exercise the authority provided in subsection (a) in the case of an individual military retiree or for any group of military retirees.
 
->     “(f) __Military Retiree Defined.—__ 
+>     “(f)  __Military Retiree Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘military retiree’ means a member or former member of the Armed Forces who is entitled to retired pay.
 
->     “(g) __Secretary Concerned.—__ 
+>     “(g)  __Secretary Concerned__  __.—__ 
 
 >     For purposes of this section, the term ‘Secretary concerned’ has the meaning given such term in [section 101 of title 10][/us/usc/t10/s101], United States Code.”
 
@@ -439,7 +477,7 @@
 
 [Pub. L. 103–335, title VIII, § 8114A][/us/pl/103/335/s8114A], Sept. 30, 1994, [108 Stat. 2648][/us/stat/108/2648], as amended by [Pub. L. 104–106, div. A, title VI, § 631(c)][/us/pl/104/106/s631/c], Feb. 10, 1996, [110 Stat. 365][/us/stat/110/365], provided that:
 
->     “(a) __Fiscal Year 1995 Cost-of-Living Adjustment for Military Retirees.—__ 
+>     “(a)  __Fiscal Year__  __1995__  __Cost-of-Living Adjustment for Military Retirees__  __.—__ 
 
 >         (1) The fiscal year 1995 increase in military retired pay shall (notwithstanding subparagraph (B) of [section 1401a(b)(2) of title 10][/us/usc/t10/s1401a/b/2], United States Code) first be payable as part of such retired pay for the month of March 1995.
 
@@ -603,6 +641,11 @@
 [/us/stat/116/2572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2572
 [/us/pl/110/181/s661/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fb%2F3
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
+[/us/pl/113/67/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa
+[/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
+[/us/pl/113/67/s403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa
+[/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
+[/us/usc/t10/s1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1410
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
@@ -610,6 +653,8 @@
 [/us/usc/t37/s354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs354
 [/us/pl/110/181/s661/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs661%2Fb%2F1
 [/us/stat/122/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F178
+[/us/pl/113/67/s403/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa%2F1
+[/us/pl/113/67/s403/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fa%2F2
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/107/314/s633/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs633%2Fa%2F1
 [/us/pl/107/314/s633/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs633%2Fa%2F2
@@ -669,6 +714,8 @@
 [/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
 [/us/pl/90/207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F207
 [/us/pl/89/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F132
+[/us/pl/113/67/s403/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs403%2Fc
+[/us/stat/127/1186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1186
 [/us/pl/106/65/s644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs644
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/usc/t37/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs322

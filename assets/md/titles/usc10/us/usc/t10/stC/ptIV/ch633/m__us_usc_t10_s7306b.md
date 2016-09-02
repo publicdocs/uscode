@@ -15,11 +15,11 @@
 
 ## § 7306b. Vessels stricken from Naval Vessel Register: transfer by gift or otherwise for use as artificial reefs
 
-    (a) __Authority To Make Transfer.—__ 
+    (a)  __Authority To Make Transfer__  __.—__ 
 
     The Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register to any State, Commonwealth, or possession of the United States, or any municipal corporation or political subdivision thereof, for use as provided in subsection (b).
 
-    (b) __Vessel To Be Used as Artificial Reef.—__ 
+    (b)  __Vessel To Be Used as Artificial Reef__  __.—__ 
 
     An agreement for the transfer of a vessel under subsection (a) shall require that—
 
@@ -27,7 +27,7 @@
 
         (2) the recipient obtain, and bear all responsibility for complying with, applicable Federal, State, interstate, and local permits for using, siting, constructing, monitoring, and managing the vessel as an artificial reef.
 
-    (c) __Preparation of Vessel for Use as Artificial Reef.—__ 
+    (c)  __Preparation of Vessel for Use as Artificial Reef__  __.—__ 
 
     The Secretary shall ensure that the preparation of a vessel transferred under subsection (a) for use as an artificial reef is conducted in accordance with—
 
@@ -35,19 +35,19 @@
 
         (2) any applicable environmental laws.
 
-    (d) __Cost Sharing.—__ 
+    (d)  __Cost Sharing__  __.—__ 
 
     The Secretary may share with the recipient of a vessel transferred under subsection (a) any costs associated with transferring the vessel under that subsection, including costs of the preparation of the vessel under subsection (c).
 
-    (e) __No Limitation on Number of Vessels Transferable to Particular Recipient.—__ 
+    (e)  __No Limitation on Number of Vessels Transferable to Particular Recipient__  __.—__ 
 
     A State, Commonwealth, or possession of the United States, or any municipal corporation or political subdivision thereof, may be the recipient of more than one vessel transferred under subsection (a).
 
-    (f) __Additional Terms and Conditions.—__ 
+    (f)  __Additional Terms and Conditions__  __.—__ 
 
     The Secretary may require such additional terms and conditions in connection with a transfer authorized by subsection (a) as the Secretary considers appropriate.
 
-    (g) __Construction.—__ 
+    (g)  __Construction__  __.—__ 
 
     Nothing in this section shall be construed to establish a preference for the use as artificial reefs of vessels stricken from the Naval Vessel Register in lieu of other authorized uses of such vessels, including the domestic scrapping of such vessels, or other disposals of such vessels, under this chapter or other applicable authority.
 

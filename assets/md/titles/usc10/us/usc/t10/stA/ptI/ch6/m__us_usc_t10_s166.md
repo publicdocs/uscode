@@ -15,11 +15,11 @@
 
 ## § 166. Combatant commands: budget proposals
 
-    (a) __Combatant Command Budgets.—__ 
+    (a)  __Combatant Command Budgets__  __.—__ 
 
     The Secretary of Defense shall include in the annual budget of the Department of Defense submitted to Congress a separate budget proposal for such activities of each of the unified and specified combatant commands as may be determined under subsection (b).
 
-    (b) __Content of Proposals.—__ 
+    (b)  __Content of Proposals__  __.—__ 
 
     A budget proposal under subsection (a) for funding of activities of a combatant command shall include funding proposals for such activities of the combatant command as the Secretary (after consultation with the Chairman of the Joint Chiefs of Staff) determines to be appropriate for inclusion. Activities of a combatant command for which funding may be requested in such a proposal include the following:
 
@@ -31,7 +31,7 @@
 
         (4) Selected operations.
 
-    (c) __SOF Training With Foreign Forces.—__ 
+    (c)  __SOF Training With Foreign Forces__  __.—__ 
 
     A funding proposal for force training under subsection (b)(2) may include amounts for training expense payments authorized in [section 2011 of this title][/us/usc/t10/s2011].
 

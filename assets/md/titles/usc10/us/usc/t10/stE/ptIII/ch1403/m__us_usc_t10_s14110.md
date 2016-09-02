@@ -15,11 +15,11 @@
 
 ## § 14110. Reports of promotion boards: review by Secretary
 
-    (a) __Review of Report.—__ 
+    (a)  __Review of Report__  __.—__ 
 
     Upon receipt of the report of a promotion board submitted under [section 14109(a) of this title][/us/usc/t10/s14109/a], the Secretary of the military department concerned shall review the report to determine whether the board has acted contrary to law or regulation or to guidelines furnished the board under [section 14107(a) of this title][/us/usc/t10/s14107/a]. Following that review, unless the Secretary concerned makes a determination as described in subsection (b), the Secretary shall submit the report as required by [section 14111 of this title][/us/usc/t10/s14111].
 
-    (b) __Return of Report for Further Proceedings.—__ 
+    (b)  __Return of Report for Further Proceedings__  __.—__ 
 
     If, on the basis of a review of the report under subsection (a), the Secretary of the military department concerned determines that the board acted contrary to law or regulation or to guidelines furnished the board under [section 14107(a) of this title][/us/usc/t10/s14107/a], the Secretary shall return the report, together with a written explanation of the basis for such determination, to the board for further proceedings. Upon receipt of a report returned by the Secretary concerned under this subsection, the selection board (or a subsequent selection board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] for the same grade and competitive category) shall conduct such proceedings as may be necessary in order to revise the report to be consistent with law, regulation, and such guidelines and shall resubmit the report, as revised, to the Secretary in accordance with [section 14109 of this title][/us/usc/t10/s14109].
 

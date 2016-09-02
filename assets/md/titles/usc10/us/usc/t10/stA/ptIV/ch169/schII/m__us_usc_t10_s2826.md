@@ -15,11 +15,11 @@
 
 ## § 2826. Military family housing: local comparability of room patterns and floor areas
 
-    (a) __Local Comparability.—__ 
+    (a)  __Local Comparability__  __.—__ 
 
     In the construction, acquisition, and improvement of military family housing, the Secretary concerned shall ensure that the room patterns and floor areas of military family housing in a particular locality (as designated by the Secretary concerned for purposes of this section) are similar to room patterns and floor areas of similar housing in the private sector in that locality.
 
-    (b) __Requests for Authority for Military Family Housing.—__ 
+    (b)  __Requests for Authority for Military Family Housing__  __.—__ 
 
         (1) In submitting to Congress a request for authority to carry out the construction, acquisition, or improvement of military family housing, the Secretary concerned shall include in the request information on the net floor area of each unit of military family housing to be constructed, acquired, or improved under the authority.
 

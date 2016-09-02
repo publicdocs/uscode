@@ -15,7 +15,7 @@
 
 ## § 2350a. Cooperative research and development agreements: NATO organizations; allied and friendly foreign countries
 
-    (a) __Authority To Engage in Cooperative R&D Projects.—__ 
+    (a)  __Authority To Engage in Cooperative__  __R&D__  __Projects__  __.—__ 
 
         (1) The Secretary of Defense may enter into a memorandum of understanding (or other formal agreement) with one or more countries or organizations referred to in paragraph (2) for the purpose of conducting cooperative research and development projects on defense equipment and munitions.
 
@@ -35,23 +35,23 @@
 
         (3) If such a memorandum of understanding (or other formal agreement) is with a country referred to in subparagraph (E) of paragraph (2), such memorandum (or agreement) may go into effect only after the Secretary submits to the Committees on Armed Services and on Foreign Relations of the Senate and to the Committees on Armed Services and on International Relations of the House of Representatives a report with respect to the proposed memorandum (or agreement) and a period of 30 days has passed after the report has been submitted.
 
-    (b) __Requirement That Projects Improve Conventional Defense Capabilities.—__ 
+    (b)  __Requirement That Projects Improve Conventional Defense Capabilities__  __.—__ 
 
         (1) The Secretary of Defense may not enter into a memorandum of understanding (or other formal agreement) to conduct a cooperative research and development project under this section unless the Secretary determines that the proposed project will improve, through the application of emerging technology, the conventional defense capabilities of the North Atlantic Treaty Organization or the common conventional defense capabilities of the United States and a country or organization referred to in subsection (a)(2).
 
         (2) The authority of the Secretary to make a determination under paragraph (1) may only be delegated to the Deputy Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics, and the Assistant Secretary of Defense for Research and Engineering.
 
-    (c) __Cost Sharing.—__ 
+    (c)  __Cost Sharing__  __.—__ 
 
     Each cooperative research and development project entered into under this section shall require sharing of the costs of the project (including the costs of claims) between the participants on an equitable basis.
 
-    (d) __Restrictions on Procurement of Equipment and Services.—__ 
+    (d)  __Restrictions on Procurement of Equipment and Services__  __.—__ 
 
         (1) In order to assure substantial participation on the part of countries and organizations referred to in subsection (a)(2) in cooperative research and development projects, funds made available for such projects may not be used to procure equipment or services from any foreign government, foreign research organization, or other foreign entity.
 
         (2) A country or organization referred to in subsection (a)(2) may not use any military or economic assistance grant, loan, or other funds provided by the United States for the purpose of making the contribution of that country or organization to a cooperative research and development program entered into with the United States under this section.
 
-    (e) __Cooperative Opportunities Document.—__ 
+    (e)  __Cooperative Opportunities Document__  __.—__ 
 
         (1) In order to ensure that opportunities to conduct cooperative research and development projects are considered at an early point during the formal development review process of the Department of Defense in connection with any planned project of the Department, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall prepare a cooperative opportunities document before the first milestone or decision point with respect to that project for review by the Defense Acquisition Board at formal meetings of the Board.
 
@@ -69,7 +69,7 @@
 
     \[(f) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(17)][/us/pl/108/136/s1031/a/17], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].\]
 
-    (g) __Side-by-Side Testing.—__ 
+    (g)  __Side-by-Side Testing__  __.—__ 
 
         (1)
 
@@ -81,11 +81,11 @@
 
         (2) The Secretary of Defense may acquire equipment, munitions, and technologies of the type described in paragraph (1) for the purpose of conducting the testing described in that paragraph.
 
-    (h) __Secretary To Encourage Similar Programs.—__ 
+    (h)  __Secretary To Encourage Similar Programs__  __.—__ 
 
     The Secretary of Defense shall encourage member nations of the North Atlantic Treaty Organization, major non-NATO allies, and other friendly foreign countries to establish programs similar to the one provided for in this section.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -221,11 +221,11 @@
 
 [Pub. L. 112–239, div. A, title XII, § 1274][/us/pl/112/239/s1274], Jan. 2, 2013, [126 Stat. 2026][/us/stat/126/2026], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     As part of the participation by the United States in the land-force program known as the American, British, Canadian, and Australian Armies’ Program (in this section referred to as the ‘Program’), the Secretary of Defense may, with the concurrence of the Secretary of State, enter into agreements with the other participating countries in accordance with this section, and the Program shall be managed pursuant to a joint agreement among the participating countries.
 
->     “(b) __Participating Countries.—__ 
+>     “(b)  __Participating Countries__  __.—__ 
 
 >     In addition to the United States, the countries participating in the Program are the following:
 
@@ -239,7 +239,7 @@
 
 >     “(c) __Contributions by Participants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         An agreement under subsection (a) shall provide that each participating country shall contribute to the Program—
 
@@ -247,15 +247,15 @@
 
 >             “(B) any amount allocated to it in accordance with the agreement for the cost for monetary claims asserted against any participating country as a result of participation in the Program.
 
->         “(2) __Additional authorized contribution.—__ 
+>         “(2)  __Additional authorized contribution__  __.—__ 
 
 >         Such an agreement shall also provide that each participating country (including the United States) may provide its contribution for its equitable share under the agreement in funds, in personal property, or in services required for the Program (or in any combination thereof).
 
->         “(3) __Funding for united states contribution.—__ 
+>         “(3)  __Funding for united states contribution__  __.—__ 
 
 >         Any contribution by the United States to the Program that is provided in funds shall be made from funds available to the Department of Defense for operation and maintenance.
 
->         “(4) __Treatment of contributions received from other countries.—__ 
+>         “(4)  __Treatment of contributions received from other countries__  __.—__ 
 
 >         Any contribution received by the United States from another participating country to meet that country’s share of the costs of the Program shall be credited to appropriations available to the Department of Defense, as determined by the Secretary of Defense. The amount of a contribution credited to an appropriation account in connection with the Program shall be available only for payment of the share of the Program expenses allocated to the participating country making the contribution. Amounts so credited shall be available for the following purposes:
 
@@ -269,23 +269,23 @@
 
 >             “(E) Refunds to other participating countries.
 
->         “(5) __Costs of operation of offices established for program.—__ 
+>         “(5)  __Costs of operation of offices established for program__  __.—__ 
 
 >         Costs for the operation of any office established to carry out the Program shall be borne jointly by the participating countries as provided for in an agreement referred to in subsection (a).
 
->     “(d) __Authority To Contract for Program Activities.—__ 
+>     “(d)  __Authority To Contract for Program Activities__  __.—__ 
 
 >     As part of the participation by the United States in the Program, the Secretary of Defense may enter into contracts or incur other obligations on behalf of the other participating countries for activities under the Program. Any payment for such a contract or other obligation under this subsection may be paid only from contributions credited to an appropriation under subsection (c)(4).
 
->     “(e) __Disposal of Property.—__ 
+>     “(e)  __Disposal of Property__  __.—__ 
 
 >     As part of the participation by the United States in the Program, the Secretary of Defense may, with respect to any property that is jointly acquired by the countries participating in the Program, agree to the disposal of the property without regard to any law of the United States that is otherwise applicable to the disposal of property owned by the United States. Such disposal may include the transfer of the interest of the United States in the property to one or more of the other participating countries or the sale of the property. Reimbursement for the value of the property disposed of (including the value of the interest of the United States in the property) shall be made in accordance with an agreement under subsection (a).
 
->     “(f) __Reports.—__ 
+>     “(f)  __Reports__  __.—__ 
 
 >     Not later than 60 days before the expiration date of any agreement under subsection (a), the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the activities, costs, and accomplishments of the Program during the five-year period ending on the date of such report.
 
->     “(g) __Sunset.—__ 
+>     “(g)  __Sunset__  __.—__ 
 
 >     Any agreement entered into by the United States with another country under subsection (a), and United States participation in the joint agreement described in that subsection, shall expire not later than five years after the date of the enactment of this Act \[Jan. 2, 2013\].”
 

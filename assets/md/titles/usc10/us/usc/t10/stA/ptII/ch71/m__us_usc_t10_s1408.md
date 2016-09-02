@@ -15,7 +15,7 @@
 
 ## § 1408. Payment of retired or retainer pay in compliance with court orders
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -69,7 +69,7 @@
 
         (7) The term “retired pay” includes retainer pay.
 
-    (b) __Effective Service of Process.—__ 
+    (b)  __Effective Service of Process__  __.—__ 
 
     For the purposes of this section—
 
@@ -95,7 +95,7 @@
 
             (C) includes nothing on its face that provides reasonable notice that it is issued without authority of law.
 
-    (c) __Authority for Court To Treat Retired Pay as Property of the Member and Spouse.—__ 
+    (c)  __Authority for Court To Treat Retired Pay as Property of the Member and Spouse__  __.—__ 
 
         (1) Subject to the limitations of this section, a court may treat disposable retired pay payable to a member for pay periods beginning after June 25, 1981, either as property solely of the member or as property of the member and his spouse in accordance with the law of the jurisdiction of such court. A court may not treat retired pay as property in any proceeding to divide or partition any amount of retired pay of a member as the property of the member and the member’s spouse or former spouse if a final decree of divorce, dissolution, annulment, or legal separation (including a court ordered, ratified, or approved property settlement incident to such decree) affecting the member and the member’s spouse or former spouse (A) was issued before June 25, 1981, and (B) did not treat (or reserve jurisdiction to treat) any amount of retired pay of the member as property of the member and the member’s spouse or former spouse.
 
@@ -105,7 +105,7 @@
 
         (4) A court may not treat the disposable retired pay of a member in the manner described in paragraph (1) unless the court has jurisdiction over the member by reason of (A) his residence, other than because of military assignment, in the territorial jurisdiction of the court, (B) his domicile in the territorial jurisdiction of the court, or (C) his consent to the jurisdiction of the court.
 
-    (d) __Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse.—__ 
+    (d)  __Payments by Secretary Concerned to (or for Benefit of) Spouse or Former Spouse__  __.—__ 
 
         (1) After effective service on the Secretary concerned of a court order providing for the payment of child support or alimony or, with respect to a division of property, specifically providing for the payment of an amount of the disposable retired pay from a member to the spouse or a former spouse of the member, the Secretary shall make payments (subject to the limitations of this section) from the disposable retired pay of the member to the spouse or former spouse (or for the benefit of such spouse or former spouse to a State disbursement unit established pursuant to section 454B of the Social Security Act or other public payee designated by a State, in accordance with part D of title IV of the Social Security Act, as directed by court order, or as otherwise directed in accordance with such part D) in an amount sufficient to satisfy the amount of child support and alimony set forth in the court order and, with respect to a division of property, in the amount of disposable retired pay specifically provided for in the court order. In the case of a spouse or former spouse who, pursuant to section 408(a)(3) of the Social Security Act ([42 U.S.C. 608(a)(4)][/us/usc/t42/s608/a/4]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  assigns to a State the rights of the spouse or former spouse to receive support, the Secretary concerned may make the child support payments referred to in the preceding sentence to that State in amounts consistent with that assignment of rights. In the case of a member entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date of effective service. In the case of a member not entitled to receive retired pay on the date of the effective service of the court order, such payments shall begin not later than 90 days after the date on which the member first becomes entitled to receive retired pay.
 
@@ -131,7 +131,7 @@
 
                 (ii) is issued by a court of a State other than the State of the court that issued the previous court order.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
         (1) The total amount of the disposable retired pay of a member payable under all court orders pursuant to subsection (c) may not exceed 50 percent of such disposable retired pay.
 
@@ -173,17 +173,17 @@
 
         (6) Nothing in this section shall be construed to relieve a member of liability for the payment of alimony, child support, or other payments required by a court order on the grounds that payments made out of disposable retired pay under this section have been made in the maximum amount permitted under paragraph (1) or subparagraph (B) of paragraph (4). Any such unsatisfied obligation of a member may be enforced by any means available under law other than the means provided under this section in any case in which the maximum amount permitted under paragraph (1) has been paid and under section 459 of the Social Security Act ([42 U.S.C. 659][/us/usc/t42/s659]) in any case in which the maximum amount permitted under subparagraph (B) of paragraph (4) has been paid.
 
-    (f) __Immunity of Officers and Employees of United States.—__ 
+    (f)  __Immunity of Officers and Employees of United States__  __.—__ 
 
         (1) The United States and any officer or employee of the United States shall not be liable with respect to any payment made from retired pay to any member, spouse, or former spouse pursuant to a court order that is regular on its face if such payment is made in accordance with this section and the regulations prescribed pursuant to subsection (i).
 
         (2) An officer or employee of the United States who, under regulations prescribed pursuant to subsection (i), has the duty to respond to interrogatories shall not be subject under any law to any disciplinary action or civil or criminal liability or penalty for, or because of, any disclosure of information made by him in carrying out any of his duties which directly or indirectly pertain to answering such interrogatories.
 
-    (g) __Notice to Member of Service of Court Order on Secretary Concerned.—__ 
+    (g)  __Notice to Member of Service of Court Order on Secretary Concerned__  __.—__ 
 
     A person receiving effective service of a court order under this section shall, as soon as possible, but not later than 30 days after the date on which effective service is made, send a written notice of such court order (together with a copy of such order) to the member affected by the court order at his last known address.
 
-    (h) __Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Retired Pay.—__ 
+    (h)  __Benefits for Dependents Who Are Victims of Abuse by Members Losing Right to Retired Pay__  __.—__ 
 
         (1)
 
@@ -253,15 +253,15 @@
 
             (C) if enrolled in a full-time course of study in an institution of higher education recognized by the Secretary of Defense for the purposes of this subparagraph, is under 23 years of age and is dependent on the member or former member for over one-half of the child’s support.
 
-    (i) __Certification Date.—__ 
+    (i)  __Certification Date__  __.—__ 
 
     It is not necessary that the date of a certification of the authenticity or completeness of a copy of a court order for child support received by the Secretary concerned for the purposes of this section be recent in relation to the date of receipt by the Secretary.
 
-    (j) __Regulations.—__ 
+    (j)  __Regulations__  __.—__ 
 
     The Secretaries concerned shall prescribe uniform regulations for the administration of this section.
 
-    (k) __Relationship to Other Laws.—__ 
+    (k)  __Relationship to Other Laws__  __.—__ 
 
     In any case involving an order providing for payment of child support (as defined in section 459(i)(2) of the Social Security Act) by a member who has never been married to the other parent of the child, the provisions of this section shall not apply, and the case shall be subject to the provisions of section 459 of such Act.
 

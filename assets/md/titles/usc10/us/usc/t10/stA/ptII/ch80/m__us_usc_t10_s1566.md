@@ -15,11 +15,11 @@
 
 ## § 1566. Voting assistance: compliance assessments; assistance
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to require that the Army, Navy, Air Force, and Marine Corps ensure their compliance with any directives issued by the Secretary of Defense in implementing any voting assistance program.
 
-    (b) __Voting Assistance Programs Defined.—__ 
+    (b)  __Voting Assistance Programs Defined__  __.—__ 
 
     In this section, the term “voting assistance programs” means—
 
@@ -27,7 +27,7 @@
 
         (2) any similar program.
 
-    (c) __Annual Effectiveness and Compliance Reviews.—__ 
+    (c)  __Annual Effectiveness and Compliance Reviews__  __.—__ 
 
         (1)
 
@@ -49,17 +49,17 @@
 
     \[(d) Repealed. [Pub. L. 109–364, div. A, title V, § 596(a)][/us/pl/109/364/s596/a], Oct. 17, 2006, [120 Stat. 2235][/us/stat/120/2235].\]
 
-    (e) __Regular Military Department Assessments.—__ 
+    (e)  __Regular Military Department Assessments__  __.—__ 
 
     The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.) 1 and with Department of Defense regulations regarding the Federal Voting Assistance Program.
 
-    (f) __Voting Assistance Officers.—__ 
+    (f)  __Voting Assistance Officers__  __.—__ 
 
         (1) Voting assistance officers shall be appointed or assigned under Department of Defense regulations. Commanders at all levels are responsible for ensuring that unit voting officers are trained and equipped to provide information and assistance to members of the armed forces on voting matters. Performance evaluation reports pertaining to a member who has been assigned to serve as a voting assistance officer shall comment on the performance of the member as a voting assistance officer.
 
         (2) Under regulations and procedures (including directives) prescribed by the Secretary, a member of the armed forces appointed or assigned to duty as a voting assistance officer shall, to the maximum extent practicable, be given the time and resources needed to perform the member’s duties as a voting assistance officer during the period in advance of a general election when members and their dependents are preparing and submitting absentee ballots.
 
-    (g) __Delivery of Mail From Overseas Preceding Federal Elections.—__ 
+    (g)  __Delivery of Mail From Overseas Preceding Federal Elections__  __.—__ 
 
         (1) During the four months preceding a general Federal election month, the Secretary of Defense shall periodically conduct surveys of all overseas locations and vessels at sea with military units responsible for collecting mail for return shipment to the United States and all port facilities in the United States and overseas where military-related mail is collected for shipment to overseas locations or to the United States. The purpose of each survey shall be to determine if voting materials are awaiting shipment at any such location and, if so, the length of time that such materials have been held at that location. During the fourth and third months before a general Federal election month, such surveys shall be conducted biweekly. During the second and first months before a general Federal election month, such surveys shall be conducted weekly.
 
@@ -67,11 +67,11 @@
 
         (3) In this section, the term “general Federal election month” means November in an even-numbered year.
 
-    (h) __Notice of Deadlines and Requirements.—__ 
+    (h)  __Notice of Deadlines and Requirements__  __.—__ 
 
     The Secretary of each military department, utilizing the voting assistance officer network established for each military installation, shall, to the maximum extent practicable, provide notice to members of the armed forces stationed at that installation of the last date before a general Federal election for which absentee ballots mailed from a postal facility located at that installation can reasonably be expected to be timely delivered to the appropriate State and local election officials.
 
-    (i) __Registration and Voting Information for Members and Dependents.—__ 
+    (i)  __Registration and Voting Information for Members and Dependents__  __.—__ 
 
         (1) The Secretary of each military department, using a variety of means including both print and electronic media, shall, to the maximum extent practicable, ensure that members of the armed forces and their dependents who are qualified to vote have ready access to information regarding voter registration requirements and deadlines (including voter registration), absentee ballot application requirements and deadlines, and the availability of voting assistance officers to assist members and dependents to understand and comply with these requirements.
 

@@ -15,7 +15,7 @@
 
 ## § 1784. Employment opportunities for military spouses
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The President shall order such measures as the President considers necessary to increase employment opportunities for spouses of members of the armed forces. Such measures may include—
 
@@ -23,7 +23,7 @@
 
         (2) providing preference in hiring for positions in nonappropriated fund activities to qualified spouses of members of the armed forces stationed in the same geographical area as the nonappropriated fund activity for positions in wage grade UA–8 and below and equivalent positions and for positions paid at hourly rates.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations—
 
@@ -35,19 +35,19 @@
 
         (4) to ensure that the spouse of a member of the armed forces who applies for a vacant position in the Department of Defense shall, to the extent practicable, be considered for any such position located in the same geographic area as the permanent duty station of the member.
 
-    (c) __Status of Preference Eligibles.—__ 
+    (c)  __Status of Preference Eligibles__  __.—__ 
 
     Nothing in this section shall be construed to provide a spouse of a member of the armed forces with preference in hiring over an individual who is a preference eligible.
 
-    (d) __Space-Available Use of Facilities for Spouse Training Purposes.—__ 
+    (d)  __Space-Available Use of Facilities for Spouse Training Purposes__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may make available to a non-Department of Defense entity space in non-excess facilities controlled by that Secretary for the purpose of the non-Department of Defense entity providing employment-related training for military spouses.
 
-    (e) __Employment by Other Federal Agencies.—__ 
+    (e)  __Employment by Other Federal Agencies__  __.—__ 
 
     The Secretary of Defense shall work with the Director of the Office of Personnel Management and the heads of other Federal departments and agencies to expand and facilitate the use of existing Federal programs and resources in support of military spouse employment.
 
-    (f) __Private-Sector Employment.—__ 
+    (f)  __Private-Sector Employment__  __.—__ 
 
     The Secretary of Defense—
 
@@ -55,7 +55,7 @@
 
         (2) shall work with the United States Chamber of Commerce and other appropriate private-sector entities to facilitate the formation of such partnerships.
 
-    (g) __Employment With DOD Contractors.—__ 
+    (g)  __Employment With DOD Contractors__  __.—__ 
 
     The Secretary of Defense shall examine and seek ways for incorporating hiring preferences for qualified spouses of members of the armed forces into contracts between the Department of Defense and private-sector entities.
 
@@ -69,17 +69,17 @@
 
 [Pub. L. 111–84, div. A, title V, § 564][/us/pl/111/84/s564], Oct. 28, 2009, [123 Stat. 2308][/us/stat/123/2308], provided that:
 
->     “(a) __Cost-reimbursement Agreements With Federal Agencies.—__ 
+>     “(a)  __Cost-reimbursement Agreements With Federal Agencies__  __.—__ 
 
 >     The Secretary of Defense may enter into an agreement with the head of an executive department or agency that has an established internship program to reimburse the department or agency for authorized costs associated with the first year of employment of an eligible military spouse who is selected to participate in the internship program of the department or agency.
 
 >     “(b) __Eligible Military Spouses.—__ 
 
->         “(1) __Eligibility.—__ 
+>         “(1)  __Eligibility__  __.—__ 
 
 >         Except as provided in paragraph (2), any person who is married to a member of the Armed Forces on active duty is eligible for selection to participate in an internship program under a reimbursement agreement entered into under subsection (a).
 
->         “(2) __Exclusions.—__ 
+>         “(2)  __Exclusions__  __.—__ 
 
 >         Reimbursement may not be provided with respect to the following persons:
 
@@ -89,11 +89,11 @@
 
 >             “(C) A person who is a retired member of the Armed Forces.
 
->     “(c) __Funding Source.—__ 
+>     “(c)  __Funding Source__  __.—__ 
 
 >     Amounts authorized to be appropriated for operation and maintenance, for Defense-wide activities, shall be available to carry out this section.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -101,11 +101,11 @@
 
 >         “(2) The term ‘internship’ means a professional, analytical, or administrative position in the Federal Government that operates under a developmental program leading to career advancement.
 
->     “(e) __Termination of Agreement Authority.—__ 
+>     “(e)  __Termination of Agreement Authority__  __.—__ 
 
 >     No agreement may be entered into under subsection (a) after September 30, 2011. Authorized costs incurred after that date may be reimbursed under an agreement entered into before that date in the case of eligible military spouses who begin their internship by that date.
 
->     “(f) __Reporting Requirement.—__ 
+>     “(f)  __Reporting Requirement__  __.—__ 
 
 >     Not later than January 1, 2012, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that provides information on how many eligible military spouses received internships pursuant to agreements entered into under subsection (a) and the types of internship positions they occupied. The report shall specify the number of interns who subsequently obtained permanent employment with the department or agency administering the internship program or with another department or agency. The Secretary shall include a recommendation regarding whether, given the investment of Department of Defense funds, the authority to enter into agreements should be extended, modified, or terminated.”
 

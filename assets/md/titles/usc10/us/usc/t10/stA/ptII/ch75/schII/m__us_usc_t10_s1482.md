@@ -63,7 +63,7 @@
 
         However, the amount of the reimbursement shall be determined in the manner prescribed in subsection (b) for an interment, but may not be larger than that authorized when the United States provides the grave site. A claim for reimbursement under this subsection may be allowed only if it is presented within two years after the date of death or the date the person who would have been designated under subsection (c) to direct disposition of the remains, if they had been recovered, receives notification that the member has been reported or determined to be dead under authority of chapter 10 of title 37, whichever is later.
 
-    (e) __Presentation of Flag of the United States.—__ 
+    (e)  __Presentation of Flag of the United States__  __.—__ 
 
         (1)
 
@@ -223,15 +223,15 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 
 [Pub. L. 111–84, div. A, title V, § 542(a)][/us/pl/111/84/s542/a], Oct. 28, 2009, [123 Stat. 2299][/us/stat/123/2299], provided that:
 
->     “(1) __Policy required.—__ 
+>     “(1)  __Policy required__  __.—__ 
 
 >     Not later than April 1, 2010, the Secretary of Defense shall prescribe a policy guaranteeing media access at ceremonies for the dignified transfer of remains of members of the Armed Forces who die while located or serving overseas (in this section referred to as ‘military decedents’) when approved by the primary next of kin of such military decedents.
 
->     “(2) __Procedures.—__ 
+>     “(2)  __Procedures__  __.—__ 
 
 >     The policy developed under paragraph (1) shall include procedures to be followed by the military departments in conducting appropriate ceremonies for the dignified transfer of remains of military decedents. The procedures shall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department.
 
->     “(3) __Elements.—__ 
+>     “(3)  __Elements__  __.—__ 
 
 >     The policy developed under paragraph (1) shall include, but not be limited to, the following:
 
@@ -247,49 +247,49 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 
 [Pub. L. 109–364, div. A, title V, § 562][/us/pl/109/364/s562], Oct. 17, 2006, [120 Stat. 2220][/us/stat/120/2220], provided that:
 
->     “(a) __Required Transportation.—__ 
+>     “(a)  __Required Transportation__  __.—__ 
 
 >     In the case of a member of the Armed Forces who dies in a combat theater of operations and whose remains are returned to the United States through the mortuary facility at Dover Air Force Base, Delaware, the Secretary concerned, under regulations prescribed by the Secretary of Defense, shall provide transportation of the remains of that member from Dover Air Force Base to the applicable escorted remains destination in accordance with [section 1482(a)(8) of title 10][/us/usc/t10/s1482/a/8], United States Code, and this section.
 
->     “(b) __Escorted Remains Destination.—__ 
+>     “(b)  __Escorted Remains Destination__  __.—__ 
 
 >     In this section, the term ‘escorted remains destination’ means the place to which remains are authorized to be transported under [section 1482(a)(8) of title 10][/us/usc/t10/s1482/a/8], United States Code.
 
 >     “(c) __Air Transportation From Dover AFB.—__ 
 
->         “(1) __Military transportation.—__ 
+>         “(1)  __Military transportation__  __.—__ 
 
 >         If transportation of remains under subsection (a) includes transportation by air, such transportation (except as provided under paragraph (2)) shall be made by military aircraft or military-contracted aircraft.
 
->         “(2) __Alternative transportation by aircraft.—__ 
+>         “(2)  __Alternative transportation by aircraft__  __.—__ 
 
 >         The provisions of paragraph (1) shall not be applicable to the transportation of remains by air to the extent that the person designated to direct disposition of the remains directs otherwise.
 
->         “(3) __Primary mission.—__ 
+>         “(3)  __Primary mission__  __.—__ 
 
 >         When remains are transported by military aircraft or military-contracted aircraft under this section, the primary mission of the aircraft providing that transportation shall be the transportation of such remains. However, more than one set of remains may be transported on the same flight.
 
 >     “(d) __Escort.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the Secretary concerned shall ensure that remains transported under this section are continuously escorted from Dover Air Force Base to the applicable escorted remains destination by a member of the Armed Forces in an appropriate grade, as determined by the Secretary.
 
->         “(2) __Other escort.—__ 
+>         “(2)  __Other escort__  __.—__ 
 
 >         If a specific military escort is requested by the person designated to direct disposition of such remains and the Secretary approves that request, then the Secretary is not required to provide an additional military escort under paragraph (1).
 
 >     “(e) __Honor Guard Detail.—__ 
 
->         “(1) __Provision of detail.—__ 
+>         “(1)  __Provision of detail__  __.—__ 
 
 >         Except in a case in which the person designated to direct disposition of remains requests that no military honor guard be present, the Secretary concerned shall ensure that an honor guard detail is provided in each case of the transportation of remains under this section. The honor guard detail shall be in addition to the escort provided for the transportation of remains under section (d).
 
->         “(2) __Composition.—__ 
+>         “(2)  __Composition__  __.—__ 
 
 >         An honor guard detail provided under this section shall consist of sufficient members of the Armed Forces to perform the duties specified in paragraph (3). The members of the honor guard detail shall be in uniform.
 
->         “(3) __Duties.—__ 
+>         “(3)  __Duties__  __.—__ 
 
 >         Except to the extent that the person designated to direct disposition of remains requests that any of the following functions not be performed, an honor guard detail under this section—
 
@@ -305,11 +305,11 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 
 >             “(C) shall participate in the transfer of the remains from an aircraft, when airport and airline security requirements permit, by carrying out the remains with a flag draped over the casket to a hearse or other form of ground transportation for travel to a funeral home or other place designated by the person designated to direct disposition of such remains.
 
->     “(f) __Secretary Concerned Defined.—__ 
+>     “(f)  __Secretary Concerned Defined__  __.—__ 
 
 >     In this section, the term ‘Secretary concerned’ has the meaning given that term in [section 101(a)(9) of title 10][/us/usc/t10/s101/a/9], United States Code.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     This section shall take effect at such time as may be prescribed by the Secretary of Defense, but not later than January 1, 2007.”
 

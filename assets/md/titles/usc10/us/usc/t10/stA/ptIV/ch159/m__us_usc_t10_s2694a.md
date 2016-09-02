@@ -15,7 +15,7 @@
 
 ## § 2694a. Conveyance of surplus real property for natural resource conservation
 
-    (a) __Authority to Convey.—__ 
+    (a)  __Authority to Convey__  __.—__ 
 
     The Secretary of a military department may convey to an eligible entity described in subsection (b) any surplus real property that—
 
@@ -27,7 +27,7 @@
 
         (4) is not subject to a pending request for transfer to another Federal agency or for conveyance to any other qualified recipient for public benefit transfer under the real property disposal processes and authorities under subtitle I of title 40.
 
-    (b) __Eligible Entities.—__ 
+    (b)  __Eligible Entities__  __.—__ 
 
     The conveyance of surplus real property under this section may be made to any of the following:
 
@@ -35,7 +35,7 @@
 
         (2) A nonprofit organization that exists for the primary purpose of conservation of natural resources on real property.
 
-    (c) __Reversionary Interest and Other Deed Requirements.—__ 
+    (c)  __Reversionary Interest and Other Deed Requirements__  __.—__ 
 
         (1) The deed of conveyance of any surplus real property conveyed under this section shall require the property to be used and maintained for the conservation of natural resources in perpetuity. If the Secretary concerned determines at any time that the property is not being used or maintained for such purpose, then, at the option of the Secretary, all or any portion of the property shall revert to the United States.
 
@@ -49,29 +49,29 @@
 
         (3) The deed of conveyance may contain such additional terms, reservations, restrictions, and conditions as the Secretary concerned considers appropriate to protect the interests of the United States.
 
-    (d) __Release of Covenants.—__ 
+    (d)  __Release of Covenants__  __.—__ 
 
     With the concurrence of the Secretary of Interior, the Secretary concerned may grant a release from a covenant included in the deed of conveyance of real property conveyed under this section, subject to the condition that the recipient of the property pay the fair market value, as determined by the Secretary concerned, of the property at the time of the release of the covenant. The Secretary concerned may reduce the amount required to be paid under this subsection to account for the value of the natural resource conservation benefit that has accrued to the United States during the period the covenant was in effect, if the benefit was not taken into account in determining the original consideration for the conveyance.
 
-    (e) __Congressional Notification.—__ 
+    (e)  __Congressional Notification__  __.—__ 
 
     The Secretary concerned may not approve of the reconveyance of real property under subsection (c) or grant the release of a covenant under subsection (d) until the Secretary notifies the appropriate committees of Congress of the proposed reconveyance or release and a period of 21 days elapses from the date the notification is received by the committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (f) __Limitations.—__ 
+    (f)  __Limitations__  __.—__ 
 
     The conveyance of real property under this section shall not be used as a condition of allowing any defense activity under any Federal, State, or local permitting or review process. The Secretary concerned may make the conveyance, with the restrictions specified in subsection (c), to establish a mitigation bank, but only if the establishment of the mitigation bank does not occur in order to satisfy any condition for permitting military activity under a Federal, State, or local permitting or review process.
 
-    (g) __Consideration.—__ 
+    (g)  __Consideration__  __.—__ 
 
     In fixing the consideration for the conveyance of real property under this section, or in determining the amount of any reduction of the amount to be paid for the release of a covenant under subsection (d), the Secretary concerned shall take into consideration any benefit that has accrued or may accrue to the United States from the use of such property for the conservation of natural resources.
 
-    (h) __Relation to Other Conveyance Authorities.—__ 
+    (h)  __Relation to Other Conveyance Authorities__  __.—__ 
 
         (1) The Secretary concerned may not make a conveyance under this section of any real property to be disposed of under a base closure law in a manner that is inconsistent with the requirements and conditions of the base closure law.
 
         (2) In the case of real property on Guam, the Secretary concerned may not make a conveyance under this section unless the Government of Guam has been first afforded the opportunity to acquire the real property as authorized by [section 1 of Public Law 106–504][/us/pl/106/504/s1] ([114 Stat. 2309][/us/stat/114/2309]).
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 

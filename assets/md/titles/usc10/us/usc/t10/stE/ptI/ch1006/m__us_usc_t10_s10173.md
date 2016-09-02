@@ -15,15 +15,15 @@
 
 ## § 10173. Marine Forces Reserve
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of the Navy, with the advice and assistance of the Commandant of the Marine Corps, shall establish in the Marine Corps a command known as the Marine Forces Reserve.
 
-    (b) __Commander.—__ 
+    (b)  __Commander__  __.—__ 
 
     The Marine Forces Reserve is commanded by the Commander, Marine Forces Reserve. The Commander, Marine Forces Reserve, reports directly to the Commandant of the Marine Corps.
 
-    (c) __Assignment of Forces.—__ 
+    (c)  __Assignment of Forces__  __.—__ 
 
     The Commandant of the Marine Corps—
 

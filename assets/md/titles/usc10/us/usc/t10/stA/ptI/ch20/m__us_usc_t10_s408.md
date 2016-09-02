@@ -15,11 +15,11 @@
 
 ## § 408. Equipment and training of foreign personnel to assist in Department of Defense accounting for missing United States Government personnel
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense may provide assistance to any foreign nation to assist the Department of Defense with recovery of and accounting for missing United States Government personnel.
 
-    (b) __Types of Assistance.—__ 
+    (b)  __Types of Assistance__  __.—__ 
 
     The assistance provided under subsection (a) may include the following:
 
@@ -31,19 +31,19 @@
 
         (4) Training of personnel.
 
-    (c) __Approval by Secretary of State.—__ 
+    (c)  __Approval by Secretary of State__  __.—__ 
 
     Assistance may not be provided under this section to any foreign nation unless the Secretary of State specifically approves the provision of such assistance.
 
-    (d) __Limitation.—__ 
+    (d)  __Limitation__  __.—__ 
 
     The amount of assistance provided under this section in any fiscal year may not exceed $1,000,000.
 
-    (e) __Construction With Other Assistance.—__ 
+    (e)  __Construction With Other Assistance__  __.—__ 
 
     The authority to provide assistance under this section is in addition to any other authority to provide assistance to foreign nations under law.
 
-    (f) __Congressional Oversight.—__ 
+    (f)  __Congressional Oversight__  __.—__ 
 
     Whenever the Secretary of Defense provides assistance to a foreign nation under this section, the Secretary shall submit to the congressional defense committees a report on the assistance provided. Each such report shall identify the nation to which the assistance was provided and include a description of the type and amount of the assistance provided.
 

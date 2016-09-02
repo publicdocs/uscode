@@ -15,11 +15,11 @@
 
 ## § 229. Programs for combating terrorism: display of budget information
 
-    (a) __Submission With Annual Budget Justification Documents.—__ 
+    (a)  __Submission With Annual Budget Justification Documents__  __.—__ 
 
     The Secretary of Defense shall submit to Congress, as a part of the documentation that supports the President’s annual budget for the Department of Defense, a consolidated budget justification display, in classified and unclassified form, that includes all programs and activities of the Department of Defense combating terrorism program.
 
-    (b) __Requirements for Budget Display.—__ 
+    (b)  __Requirements for Budget Display__  __.—__ 
 
     The budget display under subsection (a) shall include—
 
@@ -27,7 +27,7 @@
 
         (2) a summary, to the program element and project level of detail, of estimated expenditures for the current year, funds requested for the budget year, and budget estimates through the completion of the current future-years defense plan for the Department of Defense combating terrorism program.
 
-    (c) __Explanation of Inconsistencies.—__ 
+    (c)  __Explanation of Inconsistencies__  __.—__ 
 
     As part of the budget display under subsection (a) for any fiscal year, the Secretary shall identify and explain—
 
@@ -35,11 +35,11 @@
 
         (2) any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided by Congress (both in statutes and in relevant legislative history).
 
-    (d) __Semiannual Reports on Obligations and Expenditures.—__ 
+    (d)  __Semiannual Reports on Obligations and Expenditures__  __.—__ 
 
     The Secretary shall submit to the congressional defense committees a semiannual report on the obligation and expenditure of funds for the Department of Defense combating terrorism program. Such reports shall be submitted not later than April 15 each year, with respect to the first half of a fiscal year, and not later than November 15 each year, with respect to the second half of a fiscal year. Each such report shall compare the amounts of those obligations and expenditures to the amounts authorized and appropriated for the Department of Defense combating terrorism program for that fiscal year, by budget activity, sub-budget activity, and program element or line item. The second report for a fiscal year shall show such information for the second half of the fiscal year and cumulatively for the whole fiscal year. The report shall be submitted in unclassified form, but may have a classified annex.
 
-    (e) __Department of Defense Combating Terrorism Program.—__ 
+    (e)  __Department of Defense Combating Terrorism Program__  __.—__ 
 
     In this section, the term “Department of Defense combating terrorism program” means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
 
@@ -61,7 +61,7 @@
 
 [Pub. L. 109–364, div. A, title III, § 323][/us/pl/109/364/s323], Oct. 17, 2006, [120 Stat. 2146][/us/stat/120/2146], as amended by [Pub. L. 110–181, div. A, title III, § 353][/us/pl/110/181/s353], Jan. 28, 2008, [122 Stat. 72][/us/stat/122/72]; [Pub. L. 111–383, div. A, title III, § 332(a)][/us/pl/111/383/s332/a]–(f), Jan. 7, 2011, [124 Stat. 4185][/us/stat/124/4185], 4187, provided that:
 
->     “(a) __Prioritization of Funds.—__ 
+>     “(a)  __Prioritization of Funds__  __.—__ 
 
 >     The Secretary of Defense shall take such steps as may be necessary through the planning, programming, budgeting, and execution systems of the Department of Defense to ensure that financial resources are provided for each fiscal year as necessary to enable—
 
@@ -77,7 +77,7 @@
 
 >     “(b) __Submission of Budget Information.—__ 
 
->         “(1) __Submission of information.—__ 
+>         “(1)  __Submission of information__  __.—__ 
 
 >         As part of the budget justification materials submitted to Congress in support of the President’s budget for a fiscal year or a request for supplemental appropriations, the Secretary of Defense shall include the following:
 
@@ -87,7 +87,7 @@
 
 >             “(C) A consolidated budget justification summary of the information submitted under subparagraphs (A) and (B).
 
->         “(2) __Information described.—__ 
+>         “(2)  __Information described__  __.—__ 
 
 >         The information described in this paragraph is information that clearly and separately identifies, by appropriations account, budget activity, activity group, sub-activity group, and program element or line item, the amounts requested for the programs, projects, and activities of—
 
@@ -101,7 +101,7 @@
 
 >                 “(ii) the reconstitution of equipment and materiel in prepositioned stocks.
 
->     “(c) __Annual Report on Army Progress.—__ 
+>     “(c)  __Annual Report on Army Progress__  __.—__ 
 
 >         (1) On the date on which the President submits to Congress the budget for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the progress of the Army in fulfilling the key enabler equipment requirements of modular units and in repairing, recapitalizing, and replacing equipment and materiel used in support of overseas contingency operations underway as of the date of such report, and associated sustainment. Any information included in the report shall be itemized by active duty component and reserve component.
 
@@ -139,11 +139,11 @@
 
 >             “(F) The comments of the Chief of the National Guard Bureau and the Chief of the Army Reserve on each of the items described in subparagraphs (A) through (E).
 
->     “(d) __Annual Comptroller General Report on Army Progress.—__ 
+>     “(d)  __Annual Comptroller General Report on Army Progress__  __.—__ 
 
 >     Not later than 180 days after the date on which the Secretary of the Army submits a report under subsection (c), the Comptroller General of the United States shall submit to the congressional defense committees a report setting forth the Comptroller General’s review of such report. Each report under this subsection shall include such information and recommendations as the Comptroller General considers appropriate in light of such review.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -157,7 +157,7 @@
 
 >             “(B) Personnel in specialties needed to operate or support the equipment specified in subparagraph (A) and personnel in specialties relating to civil affairs, communication and information systems operation, explosive ordinance disposal, military intelligence, psychological operations, and any other personnel specialties identified by the Army as making a modular force or unit as capable or more capable than the non-modular force or unit it replaced.
 
->     “(f) __Termination of Report Requirements.—__ 
+>     “(f)  __Termination of Report Requirements__  __.—__ 
 
 >     The requirement for the submission of a report under subsection (c) or (d) shall terminate on the date of the submission of the report required to be submitted under that subsection to accompany or follow the President’s budget submission for fiscal year 2015.”
 

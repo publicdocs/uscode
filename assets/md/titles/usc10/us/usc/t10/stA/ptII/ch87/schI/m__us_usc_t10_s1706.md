@@ -15,7 +15,7 @@
 
 ## § 1706. Government performance of certain acquisition functions
 
-    (a) __Goal.—__ 
+    (a)  __Goal__  __.—__ 
 
     It shall be the goal of the Department of Defense and each of the military departments to ensure that, for each major defense acquisition program and each major automated information system program, each of the following positions is performed by a properly qualified member of the armed forces or full-time employee of the Department of Defense:
 
@@ -45,11 +45,11 @@
 
         (13) Program lead information technology.
 
-    (b) __Plan of Action.—__ 
+    (b)  __Plan of Action__  __.—__ 
 
     The Secretary of Defense shall develop and implement a plan of action for recruiting, training, and ensuring appropriate career development of military and civilian personnel to achieve the objective established in subsection (a).
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

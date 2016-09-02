@@ -15,15 +15,15 @@
 
 ## § 2349. Overseas Workload Program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A firm of any member nation of the North Atlantic Treaty Organization or of any major non-NATO ally shall be eligible to bid on any contract for the maintenance, repair, or overhaul of equipment of the Department of Defense located outside the United States to be awarded under competitive procedures as part of the program of the Department of Defense known as the Overseas Workload Program.
 
-    (b) __Site of Performance.—__ 
+    (b)  __Site of Performance__  __.—__ 
 
     A contract awarded to a firm described in subsection (a) may be performed in the theater in which the equipment is normally located or in the country in which the firm is located.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
     The Secretary of a military department may restrict the geographic region in which a contract referred to in subsection (a) may be performed if the Secretary determines that performance of the contract outside that specific region—
 
@@ -31,7 +31,7 @@
 
         (2) would violate the terms of an international agreement to which the United States is a party.
 
-    (d) __Definition.—__ 
+    (d)  __Definition__  __.—__ 
 
     In this section, the term “major non-NATO ally” has the meaning given that term in [section 2350a(i)(2) of this title][/us/usc/t10/s2350a/i/2].
 

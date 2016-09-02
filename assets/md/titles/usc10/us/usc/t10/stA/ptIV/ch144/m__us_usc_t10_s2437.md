@@ -15,13 +15,13 @@
 
 ## § 2437. Development of major defense acquisition programs: sustainment of system to be replaced
 
-    (a) __Requirement for Sustaining Existing Forces.—__ 
+    (a)  __Requirement for Sustaining Existing Forces__  __.—__ 
 
         (1) The Secretary of Defense shall require that, whenever a new major defense acquisition program begins development, the defense acquisition authority responsible for that program shall develop a plan (to be known as a “sustainment plan”) for the existing system that the system under development is intended to replace. Any such sustainment plan shall provide for an appropriate level of budgeting for sustaining the existing system until the replacement system to be developed under the major defense acquisition program is fielded and assumes the majority of responsibility for the mission of the existing system. This section does not apply to a major defense acquisition that reaches initial operational capability before October 1, 2008.
 
         (2) In this section, the term “defense acquisition authority” means the Secretary of a military department or the commander of the United States Special Operations Command.
 
-    (b) __Sustainment Plan.—__ 
+    (b)  __Sustainment Plan__  __.—__ 
 
     The Secretary of Defense shall require that each sustainment plan under this section include, at a minimum, the following:
 
@@ -47,7 +47,7 @@
 
                 (ii) provide interoperability with the new system during the period from initial fielding until the new system assumes the majority of responsibility for the mission of the existing system.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
     Subsection (a) shall not apply to a major defense acquisition program if the Secretary of Defense determines that—
 
@@ -59,7 +59,7 @@
 
         (4) the duration of time until the new system assumes the majority of responsibility for the existing system’s mission is sufficiently short so that mission availability, capability, interoperability, and force protection requirements are maintained.
 
-    (d) __Waiver.—__ 
+    (d)  __Waiver__  __.—__ 
 
     The Secretary of Defense may waive the applicability of subsection (a) to a major defense acquisition program if the Secretary determines that, but for such a waiver, the Department would be unable to meet national security objectives. Whenever the Secretary makes such a determination and authorizes such a waiver, the Secretary shall submit notice of such waiver and of the Secretary’s determination and the reasons therefor in writing to the congressional defense committees.
 

@@ -203,11 +203,11 @@
 
 [Pub. L. 112–81, div. A, title V, § 502(b)(3)][/us/pl/112/81/s502/b/3], Dec. 31, 2011, [125 Stat. 1387][/us/stat/125/1387], as amended by [Pub. L. 112–239, div. A, title V, § 501(c)][/us/pl/112/239/s501/c], Jan. 2, 2013, [126 Stat. 1714][/us/stat/126/1714], provided that:
 
->     “(A) __In general.—__ 
+>     “(A)  __In general__  __.—__ 
 
 >     Except as provided in subparagraph (B), the amendments made by this subsection \[amending this section and [section 526 of this title][/us/usc/t10/s526]\] shall take effect on October 1, 2013.
 
->     “(B) __Marine corps officers.—__ 
+>     “(B)  __Marine corps officers__  __.—__ 
 
 >     The amendments made by paragraphs (1)(A)(iv) \[amending [section 526 of this title][/us/usc/t10/s526]\] and (2)(D) \[amending this section\] shall take effect on October 1, 2012.”
 

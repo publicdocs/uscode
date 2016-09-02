@@ -15,11 +15,11 @@
 
 ## § 2646. Travel services: procurement for official and unofficial travel under one contract
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The head of an agency may enter into a contract for travel-related services that provides for the contractor to furnish services for both official travel and unofficial travel.
 
-    (b) __Credits, Discounts, Commissions, Fees.—__ 
+    (b)  __Credits, Discounts, Commissions, Fees__  __.—__ 
 
         (1) A contract entered into under this section may provide for credits, discounts, or commissions or other fees to accrue to the Department of Defense. The accrual and amounts of credits, discounts, or commissions or other fees may be determined on the basis of the volume (measured in the number or total amount of transactions or otherwise) of the travel-related sales that are made by the contractor under the contract.
 
@@ -33,7 +33,7 @@
 
             (B) For amounts relating to sales for unofficial travel, deposit in nonappropriated fund accounts available for morale, welfare, and recreation programs.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -43,7 +43,7 @@
 
         (3) The term “unofficial travel” means personal travel or other travel that is not paid for or reimbursed by the Federal Government out of appropriated funds.
 
-    (d) __Inapplicability to Coast Guard and NASA.—__ 
+    (d)  __Inapplicability to Coast Guard and NASA__  __.—__ 
 
     This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
 

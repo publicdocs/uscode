@@ -15,11 +15,11 @@
 
 ## § 2694. Conservation and cultural activities
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense may establish and carry out a program to conduct and manage in a coordinated manner the conservation and cultural activities described in subsection (b).
 
-    (b) __Activities.—__ 
+    (b)  __Activities__  __.—__ 
 
         (1)
 
@@ -55,11 +55,11 @@
 
                 (ii) providing synergistic benefits unavailable if the installations acted separately.
 
-    (c) __Cooperative Agreements.—__ 
+    (c)  __Cooperative Agreements__  __.—__ 
 
     The Secretary may negotiate and enter into cooperative agreements with public and private agencies, organizations, institutions, individuals, or other entities to carry out the program established under subsection (a).
 
-    (d) __Effect on Other Laws.—__ 
+    (d)  __Effect on Other Laws__  __.—__ 
 
     Nothing in this section shall be construed or interpreted as preempting any otherwise applicable Federal, State, or local law or regulation relating to the management of natural and cultural resources on military installations.
 

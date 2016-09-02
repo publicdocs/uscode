@@ -15,7 +15,7 @@
 
 ## § 2645. Indemnification of Department of Transportation for losses covered by vessel war risk insurance
 
-    (a) __Prompt Indemnification Required.—__ 
+    (a)  __Prompt Indemnification Required__  __.—__ 
 
         (1)
 
@@ -27,43 +27,43 @@
 
         (2) When there is a loss of a vessel that is (or may be) covered by vessel war risk insurance, the Secretary of Transportation may make, during the period when a claim for such loss is pending with the Secretary of Transportation, any required periodic payments owed by the insured party to a lessor or mortgagee of such vessel. Such payments shall commence not later than 30 days following the date of the presentment of the claim for the loss of the vessel to the Secretary of Transportation. If the Secretary of Transportation determines that the claim is payable, any amount paid under this paragraph arising from such claim shall be credited against the amount payable under the vessel war risk insurance. If the Secretary of Transportation determines that the claim is not payable, any amount paid under this paragraph arising from such claim shall constitute a debt to the United States, payable to the insurance fund. Any such amounts so returned to the United States shall be promptly credited to the fund or account from which the payments were made under this paragraph.
 
-    (b) __Source of Funds for Payment of Indemnity.—__ 
+    (b)  __Source of Funds for Payment of Indemnity__  __.—__ 
 
     The Secretary of Defense may pay an indemnity described in subsection (a) from any funds available to the Department of Defense for operation and maintenance, and such sums as may be necessary for payment of such indemnity are hereby authorized to be transferred to the Secretary of Transportation for such purpose.
 
-    (c) __Deposit of Funds.—__ 
+    (c)  __Deposit of Funds__  __.—__ 
 
     Any amount transferred to the Secretary of Transportation under this section shall be deposited in, and merged with amounts in, the Vessel War Risk Insurance Fund as provided in [section 53909(b) of title 46][/us/usc/t46/s53909/b].
 
-    (d) __Notice to Congress.—__ 
+    (d)  __Notice to Congress__  __.—__ 
 
     In the event of a loss that is covered by vessel war risk insurance in the case of an incident in which the covered loss is (or is expected to be) in an amount in excess of $10,000,000, the Secretary of Defense shall submit to Congress notification of the loss as soon after the occurrence of the loss as possible and in no event more than 30 days after the date of the loss.
 
-    (e) __Implementing Matters.—__ 
+    (e)  __Implementing Matters__  __.—__ 
 
         (1) Payment of indemnification under this section is not subject to section 2214 or 2215 of this title or any other provision of law requiring notification to Congress before funds may be transferred.
 
         (2) Consolidation of claims arising from the same incident is not required before indemnification of the Secretary of Transportation for payment of a claim may be made under this section.
 
-    (f) __Construction With Other Transfer Authority.—__ 
+    (f)  __Construction With Other Transfer Authority__  __.—__ 
 
     Authority to transfer funds under this section is in addition to any other authority provided by law to transfer funds (whether enacted before, on, or after the date of the enactment of this section) and is not subject to any dollar limitation or notification requirement contained in any other such authority to transfer funds.
 
     \[(g) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(26)(B)][/us/pl/108/136/s1031/a/26/B], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598].\]
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Vessel war risk insurance.—__ 
+        (1)  __Vessel war risk insurance__  __.—__ 
 
         The term “vessel war risk insurance” means insurance and reinsurance provided through policies issued by the Secretary of Transportation under chapter 539 of title 46 that is provided by that Secretary without premium at the request of the Secretary of Defense and is covered by an indemnity agreement between the Secretary of Transportation and the Secretary of Defense.
 
-        (2) __Vessel war risk insurance fund.—__ 
+        (2)  __Vessel war risk insurance fund__  __.—__ 
 
         The term “Vessel War Risk Insurance Fund” means the insurance fund referred to in [section 53909(a) of title 46][/us/usc/t46/s53909/a].
 
-        (3) __Loss.—__ 
+        (3)  __Loss__  __.—__ 
 
         The term “loss” includes damage to or destruction of property, personal injury or death, and other liabilities and expenses covered by the vessel war risk insurance.
 

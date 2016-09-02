@@ -15,7 +15,7 @@
 
 ## § 2261. Presentation of recognition items for recruitment and retention purposes
 
-    (a) __Expenditures for Recognition Items.—__ 
+    (a)  __Expenditures for Recognition Items__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, appropriated funds may be expended—
 
@@ -29,11 +29,11 @@
 
             (B) to members of the families of members of the armed forces, and other individuals, recognized as providing support that substantially facilitates service in the armed forces.
 
-    (b) __Provision of Meals and Refreshments.—__ 
+    (b)  __Provision of Meals and Refreshments__  __.—__ 
 
     For purposes of [section 520c of this title][/us/usc/t10/s520c] and any regulation prescribed to implement that section, functions conducted for the purpose of presenting recognition items described in subsection (a) shall be treated as recruiting functions, and recipients of such items shall be treated as persons who are the objects of recruiting efforts.
 
-    (c) __Recognition Items of Nominal or Modest Value.—__ 
+    (c)  __Recognition Items of Nominal or Modest Value__  __.—__ 
 
     In this section, the term “recognition item of nominal or modest value” means a commemorative coin, medal, trophy, badge, flag, poster, painting, or other similar item that is valued at less than $50 per item and is designed to recognize or commemorate service in the armed forces.
 

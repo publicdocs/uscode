@@ -15,13 +15,13 @@
 
 ## § 2492a. Limitation on Department of Defense entities competing with private sector in offering personal information services
 
-    (a) __Limitation.—__ 
+    (a)  __Limitation__  __.—__ 
 
         (1) Notwithstanding [section 2492 of this title][/us/usc/t10/s2492], the Secretary of Defense may not authorize a Department of Defense entity to offer or provide personal information services directly to users using Department resources, personnel, or equipment, or compete for contracts to provide such personal information services directly to users, if users will be charged a fee for the personal information services to recover the cost incurred to provide the services or to earn a profit.
 
         (2) The limitation in paragraph (1) shall not be construed to prohibit or preclude the use of Department resources, personnel, or equipment to administer or facilitate personal information services contracts with private contractors.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     The limitation in subsection (a) shall not apply if the Secretary of Defense determines that—
 
@@ -31,7 +31,7 @@
 
         (3) circumstances (as specified by the Secretary for purposes of this section) are such that the provision of such services by a Department entity is in the best interest of the Government or military users in general.
 
-    (c) __Personal Information Services Defined.—__ 
+    (c)  __Personal Information Services Defined__  __.—__ 
 
     In this section, the term “personal information services” means the provision of Internet, telephone, or television services to consumers.
 

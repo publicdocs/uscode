@@ -15,7 +15,7 @@
 
 ## § 2548. Performance assessments of the defense acquisition system
 
-    (a) __Performance Assessments Required.—__ 
+    (a)  __Performance Assessments Required__  __.—__ 
 
     The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Director of Procurement and Acquisition Policy, and the Director of the Office of Performance Assessment and Root Cause Analysis, shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent performance assessments of elements of the defense acquisition system for the purpose of—
 
@@ -25,7 +25,7 @@
 
         (3) assisting senior officials of the Department of Defense in developing acquisition workforce excellence under [section 1701a of this title][/us/usc/t10/s1701a].
 
-    (b) __Areas Considered in Performance Assessments.—__ 
+    (b)  __Areas Considered in Performance Assessments__  __.—__ 
 
         (1)
 
@@ -79,7 +79,7 @@
 
                 (iv) the appropriate use of integrated testing.
 
-    (c) __Contents of Guidance.—__ 
+    (c)  __Contents of Guidance__  __.—__ 
 
     The guidance issued pursuant to subsection (a) shall ensure that each element of the defense acquisition system is subject to a performance assessment under this section not less often than once every four years, and shall address, at a minimum—
 
@@ -99,11 +99,11 @@
 
         (8) procedures for ensuring that information from performance assessments are retained electronically and are provided in a timely manner to the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Director of the Office of Performance Assessment and Root Cause Analysis as needed to assist them in performing their responsibilities under this section.
 
-    (d) __Performance Goals Under Government Performance and Results Act of 1993.—__ 
+    (d)  __Performance Goals Under Government Performance and Results Act of__  __1993.—__ 
 
     The annual performance plan prepared by the Department of Defense pursuant to [section 1115 of title 31][/us/usc/t31/s1115] shall include appropriate performance goals for elements of the defense acquisition system.
 
-    (e) __Reporting Requirements.—__ 
+    (e)  __Reporting Requirements__  __.—__ 
 
     Beginning with fiscal year 2012—
 

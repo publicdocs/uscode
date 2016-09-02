@@ -17,23 +17,23 @@
 
     (a) __Environmental Restoration Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Defense shall carry out a program of environmental restoration at facilities under the jurisdiction of the Secretary. The program shall be known as the “Defense Environmental Restoration Program”.
 
-        (2) __Application of section 120 of cercla.—__ 
+        (2)  __Application of section 120 of cercla__  __.—__ 
 
         Activities of the program described in subsection (b)(1) shall be carried out subject to, and in a manner consistent with, section 120 (relating to Federal facilities) of CERCLA ([42 U.S.C. 9620][/us/usc/t42/s9620]).
 
-        (3) __Consultation with epa.—__ 
+        (3)  __Consultation with epa__  __.—__ 
 
         The program shall be carried out in consultation with the Administrator of the Environmental Protection Agency.
 
-        (4) __Administrative office within osd.—__ 
+        (4)  __Administrative office within osd__  __.—__ 
 
         The Secretary shall identify an office within the Office of the Secretary which shall have responsibility for carrying out the program.
 
-    (b) __Program Goals.—__ 
+    (b)  __Program Goals__  __.—__ 
 
     Goals of the program shall include the following:
 
@@ -45,7 +45,7 @@
 
     (c) __Responsibility for Response Actions.—__ 
 
-        (1) __Basic responsibility.—__ 
+        (1)  __Basic responsibility__  __.—__ 
 
         The Secretary shall carry out (in accordance with the provisions of this chapter and CERCLA) all response actions with respect to releases of hazardous substances from each of the following:
 
@@ -55,29 +55,29 @@
 
             (C) Each vessel owned or operated by the Department of Defense.
 
-        (2) __Other responsible parties.—__ 
+        (2)  __Other responsible parties__  __.—__ 
 
         Paragraph (1) shall not apply to a removal or remedial action if the Administrator has provided for response action by a potentially responsible person in accordance with section 122 (relating to settlements) of CERCLA ([42 U.S.C. 9622][/us/usc/t42/s9622]).
 
-        (3) __State fees and charges.—__ 
+        (3)  __State fees and charges__  __.—__ 
 
         The Secretary shall pay fees and charges imposed by State authorities for permit services for the disposal of hazardous substances on lands which are under the jurisdiction of the Secretary to the same extent that nongovernmental entities are required to pay fees and charges imposed by State authorities for permit services. The preceding sentence shall not apply with respect to a payment that is the responsibility of a lessee, contractor, or other private person.
 
     (d) __Services of Other Entities.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to paragraph (3), the Secretary may enter into agreements on a reimbursable or other basis with any other Federal agency, any State or local government agency, any Indian tribe, any owner of covenant property, or any nonprofit conservation organization to obtain the services of the agency, Indian tribe, owner, or organization to assist the Secretary in carrying out any of the Secretary’s responsibilities under this section. Services which may be obtained under this subsection include the identification, investigation, and cleanup of any off-site contamination resulting from the release of a hazardous substance or waste at a facility under the Secretary’s jurisdiction.
 
-        (2) __Cross-fiscal year agreements.—__ 
+        (2)  __Cross-fiscal year agreements__  __.—__ 
 
         An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years. This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
-        (3) __Limitation on reimbursable agreements.—__ 
+        (3)  __Limitation on reimbursable agreements__  __.—__ 
 
         An agreement with an agency under paragraph (1) may not provide for reimbursement of the agency for regulatory enforcement activities. An agreement under such paragraph with respect to a site also may not change the cleanup standards selected for the site pursuant to law.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         In this subsection:
 
@@ -87,51 +87,51 @@
 
             (C) The term “owner of covenant property” means an owner of property subject to a covenant provided by the United States in accordance with the requirements of paragraphs (3) and (4) of section 120(h) of CERCLA ([42 U.S.C. 9620(h)][/us/usc/t42/s9620/h]), so long as the covenant property is the site at which the services procured under paragraph (1) are to be performed.
 
-        (5) __Savings clause.—__ 
+        (5)  __Savings clause__  __.—__ 
 
         Nothing in this subsection affects the applicability of section 120 of CERCLA ([42 U.S.C. 9620][/us/usc/t42/s9620]) to the Department of Defense or the obligations and responsibilities of the Department of Defense under subsection (h) of such section.
 
-    (e) __Response Action Contractors.—__ 
+    (e)  __Response Action Contractors__  __.—__ 
 
     The provisions of section 119 of CERCLA ([42 U.S.C. 9619][/us/usc/t42/s9619]) apply to response action contractors (as defined in that section) who carry out response actions under this section.
 
-    (f) __Use of Appropriated Funds at Former DOD Sites.—__ 
+    (f)  __Use of Appropriated Funds at Former DOD Sites__  __.—__ 
 
     Appropriations available to the Department of Defense may be used at sites formerly used by the Department of Defense for removal of unsafe buildings or debris of the Department of Defense.
 
-    (g) __Removal of Unsafe Buildings and Debris Before Release From Federal Control.—__ 
+    (g)  __Removal of Unsafe Buildings and Debris Before Release From Federal Control__  __.—__ 
 
     In the case of property formerly used by the Department of Defense which is to be released from Federal Government control and at which there are unsafe buildings or debris of the Department of Defense, all actions necessary to comply with regulations of the General Services Administration on the transfer of property in a safe condition shall be completed before the property is released from Federal Government control, except in the case of property to be conveyed to an entity of State or local government or to a native corporation.
 
-    (h) __Surety-Contractor Relationship.—__ 
+    (h)  __Surety-Contractor Relationship__  __.—__ 
 
     Any surety which provides a bid, performance, or payment bond in connection with any direct Federal procurement for a response action contract under the Defense Environmental Restoration Program and begins activities to meet its obligations under such bond, shall, in connection with such activities or obligations, be entitled to any indemnification and the same standard of liability to which its principal was entitled under the contract or under any applicable law or regulation.
 
     (i) __Surety Bonds.—__ 
 
-        (1) __Applicability of sections 3131 and 3133 of title 40.—__ 
+        (1)  __Applicability of sections 3131 and 3133 of title 40__  __.—__ 
 
         If under sections 3131 and 3133 of title 40 surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program and are not waived pursuant to [section 3134 of title 40][/us/usc/t40/s3134], the surety bonds shall be issued in accordance with sections 3131 and 3133.
 
-        (2) __Limitation of accrual of rights of action under bonds.—__ 
+        (2)  __Limitation of accrual of rights of action under bonds__  __.—__ 
 
         If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, no right of action shall accrue on the performance bond issued on such contract to or for the use of any person other than an obligee named in the bond.
 
-        (3) __Liability of sureties under bonds.—__ 
+        (3)  __Liability of sureties under bonds__  __.—__ 
 
         If, under applicable Federal law, surety bonds are required for any direct Federal procurement of any response action contract under the Defense Environmental Restoration Program, unless otherwise provided for by the Secretary in the bond, in the event of a default, the surety’s liability on a performance bond shall be only for the cost of completion of the contract work in accordance with the plans and specifications of the contract less the balance of funds remaining to be paid under the contract, up to the penal sum of the bond. The surety shall in no event be liable on bonds to indemnify or compensate the obligee for loss or liability arising from personal injury or property damage whether or not caused by a breach of the bonded contract.
 
-        (4) __Nonpreemption.—__ 
+        (4)  __Nonpreemption__  __.—__ 
 
         Nothing in this section shall be construed as preempting, limiting, superseding, affecting, applying to, or modifying any State laws, regulations, requirements, rules, practices, or procedures. Nothing in this section shall be construed as affecting, applying to, modifying, limiting, superseding, or preempting any rights, authorities, liabilities, demands, actions, causes of action, losses, judgment, claims, statutes of limitation, or obligations under Federal or State law, which do not arise on or under the bond.
 
-    (j) __Applicability.—__ 
+    (j)  __Applicability__  __.—__ 
 
         (1) Subsections (h) and (i) shall not apply to bonds executed before December 5, 1991.
 
         (2) Subsections (h) and (i) shall not apply to bonds to which section 119(g) of CERCLA ([42 U.S.C. 9619(g)][/us/usc/t42/s9619/g]) applies.
 
-    (k) __UXO Program Manager.—__ 
+    (k) __UXO__  __Program Manager__  __.—__ 
 
         (1) The Secretary of Defense shall designate a program manager who shall serve as the single point of contact in the Department of Defense for policy and budgeting issues involving the characterization, research, remediation, and management of explosive and related risks with respect to unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (as such terms are defined in section 2710  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title) that pose a threat to human health or safety.
 
@@ -265,11 +265,11 @@
 
 >     “(a) __Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall prescribe regulations prohibiting the disposal of covered waste in open-air burn pits during contingency operations except in circumstances in which the Secretary determines that no alternative disposal method is feasible. Such regulations shall apply to contingency operations that are ongoing as of the date of the enactment of this Act, including Operation Iraqi Freedom and Operation Enduring Freedom, and to contingency operations that begin after the date of the enactment of this Act.
 
->         “(2) __Notification.—__ 
+>         “(2)  __Notification__  __.—__ 
 
 >         In determining that no alternative disposal method is feasible for an open-air burn pit pursuant to regulations prescribed under paragraph (1), the Secretary shall—
 
@@ -277,7 +277,7 @@
 
 >             “(B) after notice is given under subparagraph (A), for each subsequent 180-day-period during which covered waste is disposed of in the open-air burn pit covered by such notice, submit to the Committees on Armed Services of the Senate and House of Representatives the justifications of the Secretary for continuing to operate such open-air burn pit.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the use of open-air burn pits by the United States Armed Forces. Such report shall include—
 
@@ -295,7 +295,7 @@
 
 >         “(7) an assessment of the ability of existing medical surveillance programs to identify and track exposures to toxic substances that result from open-air burn pits, including recommendations for such changes to such programs as would be required to more accurately identify and track such exposures.
 
->     “(c) __Health Assessment Reports.—__ 
+>     “(c)  __Health Assessment Reports__  __.—__ 
 
 >     Not later than 180 days after notice is due under subsection (a)(2), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a health assessment report on each open-air burn pit at a location where at least 100 personnel have been employed for 90 consecutive days or more. Each such report shall include each of the following:
 
@@ -305,7 +305,7 @@
 
 >         “(3) A copy of the assessment of the operational risks and health risks when making the determination pursuant to subsection (a) that no alternative disposal method is feasible for the open-air burn pit.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -331,7 +331,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. C, title XXXI, § 3138\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–461, provided that:
 
->     “(a) __Contingent Limitation on Availability of Funds for Certain Travel Expenses.—__ 
+>     “(a)  __Contingent Limitation on Availability of Funds for Certain Travel Expenses__  __.—__ 
 
 >     Effective November 1, 2001, but subject to subsection (b), no funds authorized to be appropriated or otherwise made available by this or any other Act for the Department of Energy or the Department of the Army may be obligated or expended for travel by—
 
@@ -339,7 +339,7 @@
 
 >         “(2) the Chief of Engineers.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The limitation in subsection (a) shall not take effect if before November 1, 2001, both of the following certifications are submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]:
 
@@ -347,7 +347,7 @@
 
 >         “(2) A certification by the Chief of Engineers that the Corps of Engineers is in compliance with the requirements of that section.
 
->     “(c) __Termination.—__ 
+>     “(c)  __Termination__  __.—__ 
 
 >     If the limitation in subsection (a) takes effect, the limitation shall cease to be in effect when both certifications referred to in subsection (b) have been submitted to the congressional defense committees.”
 
@@ -387,11 +387,11 @@
 
 [Pub. L. 105–261, div. A, title III, § 321][/us/pl/105/261/s321], Oct. 17, 1998, [112 Stat. 1962][/us/stat/112/1962], provided that:
 
->     “(a) __Notice of Negotiations.—__ 
+>     “(a)  __Notice of Negotiations__  __.—__ 
 
 >     The President shall notify Congress before entering into any negotiations for the ex-gratia settlement of the claims of a government of another country against the United States for environmental cleanup of sites in that country that were formerly used by the Department of Defense.
 
->     “(b) __Authorization Required for Use of Funds for Payment of Settlement.—__ 
+>     “(b)  __Authorization Required for Use of Funds for Payment of Settlement__  __.—__ 
 
 >     No funds may be used for any payment under an ex-gratia settlement of any claims described in subsection (a) unless the use of the funds for that purpose is specifically authorized by law or international agreement, including a treaty.”
 
@@ -399,17 +399,17 @@
 
 [Pub. L. 105–85, div. A, title III, § 348][/us/pl/105/85/s348], Nov. 18, 1997, [111 Stat. 1689][/us/stat/111/1689], provided that:
 
->     “(a) __Regulations.—__ 
+>     “(a)  __Regulations__  __.—__ 
 
 >     Not later than March 1, 1998, the Secretary of Defense shall prescribe regulations containing the guidelines and requirements described in subsections (b) and (c).
 
->     “(b) __Guidelines.—__ 
+>     “(b)  __Guidelines__  __.—__ 
 
 >         (1) The regulations prescribed under subsection (a) shall contain uniform guidelines for the military departments and defense agencies concerning the cost-recovery and cost-sharing activities of those departments and agencies.
 
 >         “(2) The Secretary shall take appropriate actions to ensure the implementation of the guidelines.
 
->     “(c) __Requirements.—__ 
+>     “(c)  __Requirements__  __.—__ 
 
 >     The regulations prescribed under subsection (a) shall contain requirements for the Secretaries of the military departments and the heads of defense agencies to—
 
@@ -417,7 +417,7 @@
 
 >         “(2) identify any negligence or other misconduct that may preclude indemnification or reimbursement by the Department of Defense for the costs of environmental restoration at a Department site or justify the recovery or sharing of costs associated with such restoration.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     In this section, the term ‘cost-recovery and cost-sharing activities’ means activities concerning—
 
@@ -435,39 +435,39 @@
 
 [Pub. L. 104–201, div. A, title III, § 325][/us/pl/104/201/s325], Sept. 23, 1996, [110 Stat. 2481][/us/stat/110/2481], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Defense may, to the extent possible and practical, develop and implement, as part of the Defense Environmental Restoration Program provided for in chapter 160 of title 10, United States Code, a land use plan for any defense site selected by the Secretary under subsection (b).
 
->     “(b) __Selection of Sites.—__ 
+>     “(b)  __Selection of Sites__  __.—__ 
 
 >     The Secretary may select up to 10 defense sites, from among sites where the Secretary is planning or implementing environmental restoration activities, for which land use plans may be developed under this section.
 
->     “(c) __Requirement To Consult With Review Committee or Advisory Board.—__ 
+>     “(c)  __Requirement To Consult With Review Committee or Advisory Board__  __.—__ 
 
 >     In developing a land use plan under this section, the Secretary shall consult with a technical review committee established pursuant to [section 2705(c) of title 10][/us/usc/t10/s2705/c], United States Code, a restoration advisory board established pursuant to section 2705(d) of such title, a local land use redevelopment authority, or another appropriate State agency.
 
->     “(d) __50-Year Planning Period.—__ 
+>     “(d) __50-__  __Year Planning Period__  __.—__ 
 
 >     A land use plan developed under this section shall cover a period of at least 50 years.
 
->     “(e) __Implementation.—__ 
+>     “(e)  __Implementation__  __.—__ 
 
 >     For each defense site for which the Secretary develops a land use plan under this section, the Secretary shall take into account the land use plan in selecting and implementing, in accordance with applicable law, environmental restoration activities at the site.
 
->     “(f) __Deadlines.—__ 
+>     “(f)  __Deadlines__  __.—__ 
 
 >     For each defense site for which the Secretary intends to develop a land use plan under this section, the Secretary shall develop a draft land use plan by October 1, 1997, and a final land use plan by March 15, 1998.
 
->     “(g) __Definition of Defense Site.—__ 
+>     “(g)  __Definition of Defense Site__  __.—__ 
 
 >     For purposes of this section, the term ‘defense site’ means (A) any building, structure, installation, equipment, pipe or pipeline (including any pipe into a sewer or publicly owned treatment works), well, pit, pond, lagoon, impoundment, ditch, landfill, storage container, motor vehicle, rolling stock, or aircraft under the jurisdiction of the Department of Defense, or (B) any site or area under the jurisdiction of the Department of Defense where a hazardous substance has been deposited, stored, disposed of, or placed, or otherwise come to be located; but does not include any consumer product in consumer use or any vessel.
 
->     “(h) __Report.—__ 
+>     “(h)  __Report__  __.—__ 
 
 >     In the annual report required under \[former\] [section 2706(a) of title 10][/us/usc/t10/s2706/a], United States Code, the Secretary shall include information on the land use plans developed under this section and the effect such plans have had on environmental restoration activities at the defense sites where they have been implemented. The annual report submitted in 1999 shall include recommendations on whether such land use plans should be developed and implemented throughout the Department of Defense.
 
->     “(i) __Savings Provisions.—__ 
+>     “(i)  __Savings Provisions__  __.—__ 
 
 >         (1) Nothing in this section, or in a land use plan developed under this section with respect to a defense site, shall be construed as requiring any modification to a land use plan that was developed before the date of the enactment of this Act \[Sept. 23, 1996\].
 
@@ -491,11 +491,11 @@
 
 [Pub. L. 103–337, div. A, title III, § 328][/us/pl/103/337/s328], Oct. 5, 1994, [108 Stat. 2714][/us/stat/108/2714], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall establish and conduct an education and training program for members of the Armed Forces and civilian employees of the Department of Defense whose responsibilities include planning or executing the environmental mission of the Department. The Secretary shall conduct the program to ensure that such members and employees obtain and maintain the knowledge and skill required to comply with existing environmental laws and regulations.
 
->     “(b) __Identification of Military Facilities With Environmental Training Expertise.—__ 
+>     “(b)  __Identification of Military Facilities With Environmental Training Expertise__  __.—__ 
 
 >     As part of the program, the Secretary may identify military facilities that have existing expertise (or the capacity to develop such expertise) in conducting education and training activities in various environmental disciplines. In the case of a military facility identified under this subsection, the Secretary should encourage the use of the facility by members and employees referred to in subsection (a) who are not under the jurisdiction of the military department operating the facility.”
 
@@ -503,13 +503,13 @@
 
 [Pub. L. 103–160, div. A, title XIII, § 1333][/us/pl/103/160/s1333], Nov. 30, 1993, [107 Stat. 1798][/us/stat/107/1798], as amended by [Pub. L. 103–337, div. A, title X, § 1070(b)(11)][/us/pl/103/337/s1070/b/11], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857]; [Pub. L. 105–244, title I, § 102(a)(2)(D)][/us/pl/105/244/s102/a/2/D], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(8), (f)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–420, 2681–430; [Pub. L. 109–163, div. A, title X, § 1056(a)(2)][/us/pl/109/163/s1056/a/2], Jan. 6, 2006, [119 Stat. 3438][/us/stat/119/3438], provided that:
 
->     “(a) __Grant Program Authorized.—__ 
+>     “(a)  __Grant Program Authorized__  __.—__ 
 
 >         (1) The Secretary of Defense may establish a program to provide demonstration grants to institutions of higher education to assist such institutions in providing education and training in environmental restoration and hazardous waste management to eligible dislocated defense workers and young adults described in subsection (d). The Secretary shall award the grants pursuant to a merit-based selection process.
 
 >         “(2) A grant provided under this subsection may cover a period of not more than three fiscal years, except that the payments under the grant for the second and third fiscal year shall be subject to the approval of the Secretary and to the availability of appropriations to carry out this section in that fiscal year.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     To be eligible for a grant under subsection (a), an institution of higher education shall submit an application to the Secretary at such time, in such form, and containing such information as the Secretary may require. The application shall include the following:
 
@@ -517,7 +517,7 @@
 
 >         “(2) A proposal by the institution of higher education to provide expertise, training, and education in hazardous materials and waste management and other environmental fields applicable to defense manufacturing sites and Department of Defense and Department of Energy defense facilities.
 
->     “(c) __Use of Grant Funds.—__ 
+>     “(c)  __Use of Grant Funds__  __.—__ 
 
 >         (1) An institution of higher education receiving a grant under subsection (a) shall use the grant to establish a consortium consisting of the institution and one or more of each of the entities described in paragraph (2) for the purpose of establishing and conducting a program to provide education and training in environmental restoration and waste management to eligible individuals described in subsection (d). To the extent practicable, the Secretary shall authorize the consortium to use a military installation closed or selected to be closed under a base closure law in providing on-site basic skills training to participants in the program.
 
@@ -537,7 +537,7 @@
 
 >             “(F) Other appropriate educational institutions.
 
->     “(d) __Eligible Individuals.—__ 
+>     “(d)  __Eligible Individuals__  __.—__ 
 
 >     A program established or conducted using funds provided under subsection (a) may provide education and training in environmental restoration and waste management to—
 
@@ -545,7 +545,7 @@
 
 >         “(2) individuals who have attained the age of 16 but not the age of 25.
 
->     “(e) __Elements of Education and Training Program.—__ 
+>     “(e)  __Elements of Education and Training Program__  __.—__ 
 
 >     In establishing or conducting an education and training program using funds provided under subsection (a), the institution of higher education shall meet the following requirements:
 
@@ -579,15 +579,15 @@
 
 >         “(6) To the extent practicable, the institution of higher education shall consult with appropriate Federal, State, and local agencies carrying out environmental restoration programs for the purpose of achieving coordination between such programs and the education and training program conducted by the consortium.
 
->     “(f) __Selection of Grant Recipients.—__ 
+>     “(f)  __Selection of Grant Recipients__  __.—__ 
 
 >     To the extent practicable, the Secretary shall provide grants to institutions of higher education under subsection (a) in a manner which will equitably distribute such grants among the various regions of the United States.
 
->     “(g) __Limitation on Amount of Grant to a Single Recipient.—__ 
+>     “(g)  __Limitation on Amount of Grant to a Single Recipient__  __.—__ 
 
 >     The amount of a grant under subsection (a) that may be made to a single institution of higher education in a fiscal year may not exceed ⅓ of the amount made available to provide grants under such subsection for that fiscal year.
 
->     “(h) __Reporting Requirements.—__ 
+>     “(h)  __Reporting Requirements__  __.—__ 
 
 >         (1)
 
@@ -613,27 +613,27 @@
 
 >             “(B) a final evaluation of the effectiveness of the demonstration grant program authorized by this section, including a recommendation as to the feasibility of continuing the program.
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
->         “(1) __Base closure law.—__ 
+>         “(1)  __Base closure law__  __.—__ 
 
 >         The term ‘base closure law’ has the meaning given such term in [section 101(a)(17) of title 10][/us/usc/t10/s101/a/17], United States Code.
 
->         “(2) __Environmental restoration.—__ 
+>         “(2)  __Environmental restoration__  __.—__ 
 
 >         The term ‘environmental restoration’ means actions taken consistent with a permanent remedy to prevent or minimize the release of hazardous substances into the environment so that such substances do not migrate to cause substantial danger to present or future public health or welfare or the environment.
 
->         “(3) __Institution of higher education.—__ 
+>         “(3)  __Institution of higher education__  __.—__ 
 
 >         The term ‘institution of higher education’ has the meaning given such term in section 101 of the Higher Education Act of 1965 \[[20 U.S.C. 1001][/us/usc/t20/s1001]\].
 
->         “(4) __Secretary.—__ 
+>         “(4)  __Secretary__  __.—__ 
 
 >         The term ‘Secretary’ means the Secretary of Defense.
 
->     “(j) __Conforming Repeal.—__ 
+>     “(j)  __Conforming Repeal__  __.—__ 
 
 >     Section 4452 of the Defense Conversion, Reinvestment, and Transition Assistance Act of 1992 (division D of [Public Law 102–484][/us/pl/102/484]; [10 U.S.C. 2701][/us/usc/t10/s2701] note) is repealed.”
 
@@ -641,11 +641,11 @@
 
 [Pub. L. 103–160, div. A, title XIII, § 1334][/us/pl/103/160/s1334], Nov. 30, 1993, [107 Stat. 1801][/us/stat/107/1801], as amended by [Pub. L. 105–244, title I, § 102(a)(2)(E)][/us/pl/105/244/s102/a/2/E], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Defense, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, may establish a scholarship program in order to enable eligible individuals described in subsection (d) to undertake the educational training or activities relating to environmental engineering, environmental sciences, or environmental project management in fields related to hazardous waste management and cleanup described in subsection (b) at the institutions of higher education described in subsection (c).
 
->     “(b) __Educational Training or Activities.—__ 
+>     “(b)  __Educational Training or Activities__  __.—__ 
 
 >         (1)
 
@@ -689,11 +689,11 @@
 
 >             “(I) Environmental project management.
 
->     “(c) __Eligible Institutions of Higher Education.—__ 
+>     “(c)  __Eligible Institutions of Higher Education__  __.—__ 
 
 >     Scholarship funds awarded under this section shall be used by individuals awarded scholarships to enable such individuals to attend institutions of higher education associated with hazardous substance research centers to enable such individuals to undertake a program of educational training or activities described in subsection (b) that leads to an undergraduate degree, a graduate degree, or a degree or certificate that is supplemental to an academic degree.
 
->     “(d) __Eligible Individuals.—__ 
+>     “(d)  __Eligible Individuals__  __.—__ 
 
 >     Individuals eligible for scholarships under the program established under subsection (a) are the following:
 
@@ -723,7 +723,7 @@
 
 >         “(3) Any civilian employee of the Department of Defense whose employment at a military installation approved for closure or realignment under a base closure law is terminated as a result of such closure or realignment.
 
->     “(e) __Award of Scholarship.—__ 
+>     “(e)  __Award of Scholarship__  __.—__ 
 
 >         (1)
 
@@ -745,7 +745,7 @@
 
 >             “(B) a total of $20,000.
 
->     “(f) __Application; Period for Submission.—__ 
+>     “(f)  __Application; Period for Submission__  __.—__ 
 
 >         (1) Each individual desiring a scholarship under this section shall submit an application to the Secretary of Defense in such manner and containing or accompanied by such information as the Secretary may reasonably require.
 
@@ -753,7 +753,7 @@
 
 >         “(3) A civilian employee described in paragraph (2) or (3) of subsection (d) who desires to apply for a scholarship under this section, but who receives no prior notice of such termination or lay off, may submit an application under this subsection at any time after such termination or lay off. A civilian employee described in paragraph (1) or (2) of subsection (d) who receives a notice of termination or lay off shall submit an application not later than 180 days before the effective date of the termination or lay off. In the case of employees described in such paragraphs who were terminated or laid off before the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall accept applications from these employees submitted during the 180-day period beginning on the date of the enactment of this Act.
 
->     “(g) __Repayment.—__ 
+>     “(g)  __Repayment__  __.—__ 
 
 >         (1) Any individual receiving scholarship assistance from the Secretary of Defense under this section shall enter into an agreement with the Secretary under which the individual agrees to pay to the United States the total amount of the scholarship assistance provided to the individual by the Secretary under this section, plus interest at the rate prescribed in paragraph (4), if the individual does not complete the educational training or activities for which such assistance is provided.
 
@@ -769,21 +769,21 @@
 
 >         “(4) The total amount of scholarship assistance provided to an individual under this section, for purposes of repayment under this subsection, shall bear interest at the applicable rate of interest under section 427A(c) of the Higher Education Act of 1965 ([20 U.S.C. 1077a(c)][/us/usc/t20/s1077a/c]).
 
->     “(h) __Coordination of Benefits.—__ 
+>     “(h)  __Coordination of Benefits__  __.—__ 
 
 >     Any scholarship assistance provided to an individual under this section shall be taken into account in determining the eligibility of the individual for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq. \[and [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\]).
 
->     “(i) __Report to Congress.—__ 
+>     “(i)  __Report to Congress__  __.—__ 
 
 >     Not later than January 1, 1995, the Secretary of Defense, in consultation with the Secretary of Energy and the Administrator of the Environmental Protection Agency, shall submit to the Congress a report describing the activities undertaken under the program authorized by subsection (a) and containing recommendations for future activities under the program.
 
->     “(j) __Funding.—__ 
+>     “(j)  __Funding__  __.—__ 
 
 >         (1) To carry out the scholarship program authorized by subsection (a), the Secretary of Defense may use the unobligated balance of funds made available pursuant to section 4451(k) of the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484][/us/pl/102/484]; [10 U.S.C. 2701][/us/usc/t10/s2701] note) for fiscal year 1993 for environmental scholarship and fellowship programs for the Department of Defense.
 
 >         “(2) The cost of carrying out the program authorized by subsection (a) may not exceed $8,000,000 in any fiscal year.
 
->     “(k) __Definitions.—__ 
+>     “(k)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -803,11 +803,11 @@
 
 [Pub. L. 103–160, div. A, title XIII, § 1335][/us/pl/103/160/s1335], Nov. 30, 1993, [107 Stat. 1804][/us/stat/107/1804], provided that:
 
->     “(a) __Training Program.—__ 
+>     “(a)  __Training Program__  __.—__ 
 
 >     The Secretary of Defense may establish a program to provide such training to eligible civilian employees of the Department of Defense as the Secretary considers to be necessary to qualify such employees to carry out environmental assessment, remediation, and restoration activities (including asbestos abatement) at military installations closed or to be closed.
 
->     “(b) __Employment of Graduates.—__ 
+>     “(b)  __Employment of Graduates__  __.—__ 
 
 >     In the case of eligible civilian employees of the Department of Defense who successfully complete the training program established pursuant to subsection (a), the Secretary may—
 
@@ -815,15 +815,15 @@
 
 >         “(2) require, as a condition of a contract for the private performance of such activities at such an installation, the contractor to be engaged in carrying out such activities to employ such employees.
 
->     “(c) __Eligible Employees.—__ 
+>     “(c)  __Eligible Employees__  __.—__ 
 
 >     Eligibility for selection to participate in the training program under subsection (a) shall be limited to those civilian employees of the Department of Defense whose employment would be terminated by reason of the closure of a military installation if not for the selection of the employees to participate in the training program.
 
->     “(d) __Priority in Training and Employment.—__ 
+>     “(d)  __Priority in Training and Employment__  __.—__ 
 
 >     The Secretary shall give priority in providing training and employment under this section to eligible civilian employees employed at a military installation the closure of which will directly result in the termination of the employment of at least 1,000 civilian employees of the Department of Defense.
 
->     “(e) __Effect on Other Environmental Requirements.—__ 
+>     “(e)  __Effect on Other Environmental Requirements__  __.—__ 
 
 >     Nothing in this section shall be construed to revise or modify any requirement established under Federal or State law relating to environmental assessment, remediation, or restoration activities at military installations closed or to be closed.”
 
@@ -837,7 +837,7 @@
 
 [Pub. L. 102–484, div. A, title III, § 323][/us/pl/102/484/s323], Oct. 23, 1992, [106 Stat. 2365][/us/stat/106/2365], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall establish a pilot program to expedite the performance of on-site environmental restoration at—
 
@@ -847,7 +847,7 @@
 
 >         “(3) facilities for which the Secretary is responsible under the Defense Environmental Restoration Program established under [section 2701 of title 10][/us/usc/t10/s2701], United States Code.
 
->     “(b) __Selection of Installations and Facilities.—__ 
+>     “(b)  __Selection of Installations and Facilities__  __.—__ 
 
 >         (1)
 
@@ -879,7 +879,7 @@
 
 >             “(B) the different sizes of such environmental restoration activities to provide, to the maximum extent practicable, opportunities for the full range of business sizes to enter into environmental restoration contracts with the Department of Defense and with prime contractors to perform activities under the pilot program.
 
->     “(c) __Execution of Program.—__ 
+>     “(c)  __Execution of Program__  __.—__ 
 
 >     Subject to subsection (d), and to the maximum extent possible, the Secretary shall, in order to eliminate redundant tasks and to accelerate environmental restoration at military installations, use the authorities granted in existing law to carry out the pilot program, including—
 
@@ -889,7 +889,7 @@
 
 >         “(3) the use (including any necessary request for the use) of existing authorities to ensure that environmental restoration activities under the pilot program are conducted expeditiously, with particular emphasis on activities that may be conducted in advance of any final plan for environmental restoration.
 
->     “(d) __Program Principles.—__ 
+>     “(d)  __Program Principles__  __.—__ 
 
 >     The Secretary shall carry out the pilot program consistent with the following principles:
 
@@ -899,7 +899,7 @@
 
 >         “(3) The experience and ability of the contractors shall be considered, in addition to cost, as a factor to be evaluated in the selection of the contractors.
 
->     “(e) __Program Restrictions.—__ 
+>     “(e)  __Program Restrictions__  __.—__ 
 
 >     The pilot program established in this section shall not result in the delay of environmental restoration activities at other military installations and former sites of the Department of Defense.”
 
@@ -913,11 +913,11 @@
 
 [Pub. L. 102–484, div. D, title XLIV, § 4451][/us/pl/102/484/s4451], Oct. 23, 1992, [106 Stat. 2735][/us/stat/106/2735], as amended by [Pub. L. 105–244, title I, § 102(a)(2)(F)][/us/pl/105/244/s102/a/2/F], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense (hereinafter in this section referred to as the ‘Secretary’) may conduct scholarship and fellowship programs for the purpose of enabling individuals to qualify for employment in the field of environmental restoration or other environmental programs in the Department of Defense.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     To be eligible to participate in the scholarship or fellowship program, an individual must—
 
@@ -931,7 +931,7 @@
 
 >         “(5) meet any other requirements prescribed by the Secretary.
 
->     “(c) __Agreement.—__ 
+>     “(c)  __Agreement__  __.—__ 
 
 >     An agreement between the Secretary and an individual participating in a scholarship or fellowship established in subsection (a) shall be in writing, shall be signed by the individual, and shall include the following provisions:
 
@@ -949,7 +949,7 @@
 
 >             “(D) Serve, upon completion of the educational program and selection by the Secretary under subsection (e), as a full-time employee in an environmental restoration or other environmental position in the Department of Defense for the applicable period of service specified in subsection (d).
 
->     “(d) __Period of Service.—__ 
+>     “(d)  __Period of Service__  __.—__ 
 
 >     The period of service required under subsection (c)(2)(D) is as follows:
 
@@ -957,11 +957,11 @@
 
 >         “(2) For an individual who completes a master’s degree or other post-graduate degree under a fellowship program established under subsection (a), a period of 24 months for each school year or part thereof for which the individual is provided a fellowship under the program.
 
->     “(e) __Selection for Service.—__ 
+>     “(e)  __Selection for Service__  __.—__ 
 
 >     The Secretary shall annually review the number and performance under the agreement of individuals who complete educational programs during the preceding year under any scholarship and fellowship programs conducted pursuant to subsection (a). From among such individuals, the Secretary shall select individuals for environmental positions in the Department of Defense, based on the type and availability of such positions.
 
->     “(f) __Repayment.—__ 
+>     “(f)  __Repayment__  __.—__ 
 
 >         (1)
 
@@ -983,7 +983,7 @@
 
 >         “(4) The total amount of educational assistance provided to an individual under a program established under subsection (a) shall, for purposes of repayment under this section, bear interest at the applicable rate of interest under section 427A(c) of the Higher Education Act of 1965 ([20 U.S.C. 1077a(c)][/us/usc/t20/s1077a/c]).
 
->     “(g) __Preference.—__ 
+>     “(g)  __Preference__  __.—__ 
 
 >     In evaluating applicants for the award of a scholarship or fellowship under a program established under subsection (a), the Secretary shall give a preference to—
 
@@ -991,19 +991,19 @@
 
 >         “(2) individuals who are or have been members of the Armed Forces.
 
->     “(h) __Coordination of Benefits.—__ 
+>     “(h)  __Coordination of Benefits__  __.—__ 
 
 >     A scholarship or fellowship awarded under this section shall be taken into account in determining the eligibility of the individual for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.) \[and [42 U.S.C. 2751][/us/usc/t42/s2751] et seq.\].
 
->     “(i) __Award of Scholarships and Fellowships.—__ 
+>     “(i)  __Award of Scholarships and Fellowships__  __.—__ 
 
 >     The Secretary may award to qualified applicants not more than 100 scholarships (for undergraduate students) and not more than 30 fellowships (for graduate students) in fiscal year 1993.
 
->     “(j) __Report to Congress.—__ 
+>     “(j)  __Report to Congress__  __.—__ 
 
 >     Not later than January 1, 1994, the Secretary shall submit to the Congress a report on activities undertaken under the programs established under subsection (a) and recommendations for future activities under the programs.
 
->     “(k) __Funding for Fiscal Year 1993.—__ 
+>     “(k)  __Funding for Fiscal Year__  __1993.—__ 
 
 >     Of the amount authorized to be appropriated in section 301(5) \[[106 Stat. 2360][/us/stat/106/2360]\]—
 
@@ -1039,7 +1039,7 @@
 
 [Pub. L. 101–510, div. A, title III, § 345][/us/pl/101/510/s345], Nov. 5, 1990, [104 Stat. 1538][/us/stat/104/1538], provided that:
 
->     “(a) __DOD Requirements for Ozone Depleting Chemicals Other Than CFCs.—__ 
+>     “(a)  __DOD Requirements for Ozone Depleting Chemicals Other Than CFC__  __s.—__ 
 
 >         (1) In addition to the functions of the advisory committee established pursuant to section 356(c) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[[Pub. L. 101–189][/us/pl/101/189]\] ([10 U.S.C. 2701][/us/usc/t10/s2701] note), it shall be the function of the Committee to study (A) the use of methyl chloroform, hydrochlorofluorcarbons (HCFCs), and carbon tetrachloride by the Department of Defense and by contractors in the performance of contracts for the Department of Defense, and (B) the costs and feasibility of using alternative compounds or technologies for methyl chloroform, HCFCs, and carbon tetrachloride.
 
@@ -1047,15 +1047,15 @@
 
 >         “(3) Within 150 days after the date of the enactment of this Act, the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that do not specify use of methyl chloroform, HCFCs, or carbon tetrachloride but cannot be met without the use of one or more of such substances.
 
->     “(b) __Requirement.—__ 
+>     “(b)  __Requirement__  __.—__ 
 
 >     In preparing the report required by section 356(d) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 \[[Pub. L. 101–189][/us/pl/101/189], set out below\] and the report required by subsection (d) of this section, the Committee shall work closely with the Strategic Environmental Research and Development Program Council and shall provide to such Council such reports.
 
->     “(c) __Extension of Reporting Deadline for CFCs.—__ 
+>     “(c)  __Extension of Reporting Deadline for CFC__  __s.—__ 
 
 >     The deadline for submitting to Congress the report required by section 356(d) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 concerning the uses of CFCs is hereby extended to June 30, 1991.
 
->     “(d) __Reporting Deadline for Methyl Chloroform, HCFCs, and Carbon Tetrachloride.—__ 
+>     “(d)  __Reporting Deadline for Methyl Chloroform, HCFC__  __s,__  __and Carbon Tetrachloride__  __.—__ 
 
 >     Not later than September 30, 1991, the Secretary shall submit to Congress a report containing the results of the study by the Committee required by subsection (a)(1) of this section.”
 
@@ -1063,11 +1063,11 @@
 
 [Pub. L. 101–189, div. A, title III, § 352][/us/pl/101/189/s352], Nov. 29, 1989, [103 Stat. 1423][/us/stat/103/1423], provided that:
 
->     “(a) __Environmental Data Base.—__ 
+>     “(a)  __Environmental Data Base__  __.—__ 
 
 >     The Secretary of Defense shall develop and maintain a comprehensive data base on environmental activities carried out by the Department of Defense pursuant to, and environmental compliance obligations to which the Department is subject under, chapter 160 of title 10, United States Code, and all other applicable Federal and State environmental laws. At a minimum, the information in the data base shall include all the fines and penalties assessed against the Department of Defense pursuant to environmental laws and paid by the Department, all notices of violations of environmental laws received by the Department, and all obligations of the Department for compliance with environmental laws. The Secretary may include any other information he considers appropriate.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the progress in development of the data base required under subsection (a). The report shall include a summary of the information collected for the data base with respect to environmental activities during 1989.”
 
@@ -1079,17 +1079,17 @@
 
 [Pub. L. 101–189, div. A, title III, § 356][/us/pl/101/189/s356], Nov. 29, 1989, [103 Stat. 1425][/us/stat/103/1425], as amended by [Pub. L. 103–160, div. A, title IX, § 904(f)][/us/pl/103/160/s904/f], Nov. 30, 1993, [107 Stat. 1729][/us/stat/107/1729]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], provided that:
 
->     “(a) __Chlorofluorocarbons Emission Reduction.—__ 
+>     “(a)  __Chlorofluorocarbons Emission Reduction__  __.—__ 
 
 >     The Secretary of Defense shall formulate and carry out, through the Under Secretary of Defense for Acquisition, Technology, and Logistics a program to reduce the unnecessary release of chlorofluorocarbons (hereinafter in this section referred to as ‘CFCs’) and halons into the atmosphere in connection with maintenance operations and training and testing practices of the Department of Defense.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >         (1) Not later than 180 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program the Secretary proposes to carry out pursuant to subsection (a). The Secretary shall specify in the report the reduction goals that are attainable on the basis of known technology, including the use of refrigerant recovery systems currently available. The Secretary shall include in the report a schedule for meeting those goals. The Secretary shall also include in such report reduction goals that can be achieved only with the use of new technology and assess the technologies and investment that will be required to attain those goals within a five-year period.
 
 >         “(2) Before the report required under paragraph (1) is submitted to the committees named in such paragraph, the Secretary shall transmit a copy of the report to the Administrator of the Environmental Protection Agency for comment.
 
->     “(c) __DOD Requirements for CFCs.—__ 
+>     “(c)  __DOD Requirements for CFCs__  __.—__ 
 
 >         (1) Not later than 30 days after the date of the enactment of this Act \[Nov. 29, 1989\], the Secretary shall establish an advisory committee to be known as the ‘CFC Advisory Committee’ (hereinafter in this section referred to as the ‘Committee’). The Committee shall be composed of not more than 15 members, with an equal number of representatives from the Department of Defense, the Environmental Protection Agency, and defense contractors. Members representing defense contractors shall be contractors that supply the Department of Defense with products or equipment that require the use of CFCs.
 
@@ -1099,7 +1099,7 @@
 
 >         “(4) Within 150 days after the date of the enactment of this Act, the Secretary shall provide the Committee with a list of all military specifications, standards, and other requirements that do not specify use of CFCs but cannot be met without the use of CFCs.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than September 30, 1990, the Secretary shall submit to the committees named in subsection (b) a report containing the results of the study by the Committee. The report shall—
 

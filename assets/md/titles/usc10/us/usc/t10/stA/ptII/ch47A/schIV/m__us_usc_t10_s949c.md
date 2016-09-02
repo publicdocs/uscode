@@ -15,11 +15,11 @@
 
 ## § 949c. Duties of trial counsel and defense counsel
 
-    (a) __Trial Counsel.—__ 
+    (a)  __Trial Counsel__  __.—__ 
 
     The trial counsel of a military commission under this chapter shall prosecute in the name of the United States.
 
-    (b) __Defense Counsel.—__ 
+    (b)  __Defense Counsel__  __.—__ 
 
         (1) The accused shall be represented in the accused’s defense before a military commission under this chapter as provided in this subsection.
 

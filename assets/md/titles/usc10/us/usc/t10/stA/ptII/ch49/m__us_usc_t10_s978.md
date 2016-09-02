@@ -157,11 +157,11 @@ Sept. 28, 1971, Pub. L. 92–129, § 501(a)(2), (b), 85 Stat. 361.  </td>
 
 [Pub. L. 100–456, div. A, title V, § 521(b)][/us/pl/100/456/s521/b], (c), Sept. 29, 1988, [102 Stat. 1973][/us/stat/102/1973], provided that:
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Secretary of Defense shall prescribe regulations for the implementation of [section 978 of title 10][/us/usc/t10/s978], United States Code, as amended by subsection (a), not later than 60 days after the date of the enactment of this Act \[Sept. 29, 1988\].
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     The testing and evaluation program prescribed by that section shall be implemented not later than October 1, 1989.”
 

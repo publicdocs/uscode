@@ -15,11 +15,11 @@
 
 ## § 2489. Overseas commissary and exchange stores: access and purchase restrictions
 
-    (a) __Authority to Establish Restrictions.—__ 
+    (a)  __Authority to Establish Restrictions__  __.—__ 
 
     The Secretary of Defense may establish restrictions on the ability of eligible patrons of commissary and exchange stores located outside of the United States to purchase certain merchandise items (or the quantity of certain merchandise items) otherwise included within an authorized merchandise category if the Secretary determines that such restrictions are necessary to prevent the resale of such merchandise in violation of treaty obligations of the United States or host nation laws (to the extent such laws are not inconsistent with United States laws).
 
-    (b) __Limitations on Use of Authority.—__ 
+    (b)  __Limitations on Use of Authority__  __.—__ 
 
     In establishing a quantity or other restriction, the Secretary—
 

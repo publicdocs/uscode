@@ -15,19 +15,19 @@
 
 ## § 123a. Suspension of end-strength and other strength limitations in time of war or national emergency
 
-    (a) __During War or National Emergency.—__ 
+    (a)  __During War or National Emergency__  __.—__ 
 
         (1) If at the end of any fiscal year there is in effect a war or national emergency, the President may waive any statutory end strength with respect to that fiscal year. Any such waiver may be issued only for a statutory end strength that is prescribed by law before the waiver is issued.
 
         (2) When a designation of a major disaster or emergency (as those terms are defined in section 102 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5122][/us/usc/t42/s5122])) is in effect, the President may waive any statutory limit that would otherwise apply during the period of the designation on the number of members of a reserve component who are authorized to be on active duty under subparagraph (A) or (B) of [section 115(b)(1) of this title][/us/usc/t10/s115/b/1], if the President determines the waiver is necessary to provide assistance in responding to the major disaster or emergency.
 
-    (b) __Termination of Waiver.—__ 
+    (b)  __Termination of Waiver__  __.—__ 
 
         (1) Upon the termination of a war or national emergency with respect to which the President has exercised the authority provided by subsection (a)(1), the President may defer the effectiveness of any statutory end strength with respect to the fiscal year during which the termination occurs. Any such deferral may not extend beyond the last day of the sixth month beginning after the date of such termination.
 
         (2) A waiver granted under subsection (a)(2) shall terminate not later than 90 days after the date on which the designation of the major disaster or emergency that was the basis for the waiver expires.
 
-    (c) __Statutory End Strength.—__ 
+    (c)  __Statutory End Strength__  __.—__ 
 
     In this section, the term “statutory end strength” means any end-strength limitation with respect to a fiscal year that is prescribed by law for any military or civilian component of the armed forces or of the Department of Defense.
 

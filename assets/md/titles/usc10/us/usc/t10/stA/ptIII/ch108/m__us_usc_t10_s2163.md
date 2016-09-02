@@ -15,11 +15,11 @@
 
 ## § 2163. Degree granting authority for National Defense University
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, the President of the National Defense University may, upon the recommendation of the faculty of the National Defense University, confer appropriate degrees upon graduates who meet the degree requirements.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     A degree may not be conferred under this section unless—
 
@@ -27,7 +27,7 @@
 
         (2) the National Defense University is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
 
-    (c) __Congressional Notification Requirements.—__ 
+    (c)  __Congressional Notification Requirements__  __.—__ 
 
         (1)
 

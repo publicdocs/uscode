@@ -15,11 +15,11 @@
 
 ## § 2506. Department of Defense technology and industrial base policy guidance
 
-    (a) __Departmental Guidance.—__ 
+    (a)  __Departmental Guidance__  __.—__ 
 
     The Secretary of Defense shall prescribe departmental guidance for the attainment of each of the national security objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a]. Such guidance shall provide for technological and industrial capability considerations to be integrated into the strategy, management, budget allocation, acquisition, and logistics support decision processes.
 
-    (b) __Report to Congress.—__ 
+    (b)  __Report to Congress__  __.—__ 
 
     The Secretary of Defense shall report on the implementation of the departmental guidance in the annual report to Congress submitted pursuant to [section 2504 of this title][/us/usc/t10/s2504].
 

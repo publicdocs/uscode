@@ -15,27 +15,27 @@
 
 ## § 1587a. Employees of nonappropriated fund instrumentalities: senior executive pay levels
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     To achieve the objective stated in subsection (b), the Secretary of Defense may regulate the amount of total compensation that is provided for senior executives of nonappropriated fund instrumentalities who, for the fixing of pay by administrative action, are under the jurisdiction of the Secretary of Defense or the Secretary of a military department.
 
-    (b) __Pay Parity.—__ 
+    (b)  __Pay Parity__  __.—__ 
 
     The objective of an action taken with respect to the compensation of senior executives under subsection (a) is to provide for parity between the total compensation provided for such senior executives and total compensation that is provided for Department of Defense employees in Senior Executive Service positions or other senior executive positions.
 
-    (c) __Standards of Comparability.—__ 
+    (c)  __Standards of Comparability__  __.—__ 
 
     Subject to subsection (d), the Secretary of Defense shall prescribe the standards of comparison that are to apply in the making of the determinations necessary to achieve the objective stated in subsection (b).
 
-    (d) __Establishment of Pay Rates.—__ 
+    (d)  __Establishment of Pay Rates__  __.—__ 
 
     The Secretary of Defense shall apply subsections (a) and (b) of [section 5382 of title 5][/us/usc/t5/s5382] in the regulation of compensation under this section.
 
-    (e) __Relationship to Pay Limitation.—__ 
+    (e)  __Relationship to Pay Limitation__  __.—__ 
 
     The Secretary of Defense may exercise the authority provided in subsection (a) without regard to [section 5373 of title 5][/us/usc/t5/s5373].
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

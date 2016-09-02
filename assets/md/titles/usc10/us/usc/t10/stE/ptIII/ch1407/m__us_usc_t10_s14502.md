@@ -15,7 +15,7 @@
 
 ## § 14502. Special selection boards: correction of errors
 
-    (a) __Officers Not Considered Because of Administrative Error.—__ 
+    (a)  __Officers Not Considered Because of Administrative Error__  __.—__ 
 
         (1) In the case of an officer or former officer who the Secretary of the military department concerned determines was not considered for selection for promotion from in or above the promotion zone by a mandatory promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] because of administrative error, or whose name was not placed on an all-fully-qualified-officers list under [section 14308(b)(4) of this title][/us/usc/t10/s14308/b/4] because of administrative error, the Secretary concerned shall convene a special selection board under this subsection to determine whether such officer or former officer should be recommended for promotion. Any such board shall be convened under regulations prescribed by the Secretary of Defense and shall be appointed and composed in accordance with [section 14102 of this title][/us/usc/t10/s14102] and shall include the representation of competitive categories required by that section. The members of a board convened under this subsection shall be required to take an oath in the same manner as prescribed in [section 14103 of this title][/us/usc/t10/s14103].
 
@@ -23,7 +23,7 @@
 
         (3) If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer in a grade below the grade of colonel or, in the case of an officer or former officer of the Navy, captain, whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion.
 
-    (b) __Officers Considered But Not Selected; Material Error.—__ 
+    (b)  __Officers Considered But Not Selected; Material Error__  __.—__ 
 
         (1)
 
@@ -39,15 +39,15 @@
 
         (4) If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer in the grade of lieutenant colonel or commander or below whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion by the board which did consider the officer but incurs no additional failure of selection for promotion from the action of the special selection board.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
     Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each officer it recommends for promotion and certifying that the board has considered carefully the record of each officer whose name was referred to it.
 
-    (d) __Applicable Provisions.—__ 
+    (d)  __Applicable Provisions__  __.—__ 
 
     The provisions of sections 14104, 14109, 14110, and 14111 of this title apply to the report and proceedings of a special selection board convened under this section in the same manner as they apply to the report and proceedings of a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a].
 
-    (e) __Appointment of Officers Recommended for Promotion.—__ 
+    (e)  __Appointment of Officers Recommended for Promotion__  __.—__ 
 
         (1) An officer whose name is placed on a promotion list as a result of recommendation for promotion by a special selection board convened under this section, shall, as soon as practicable, be appointed to the next higher grade in accordance with the law and policies which would have been applicable had he been recommended for promotion by the board which should have considered or which did consider him.
 
@@ -55,11 +55,11 @@
 
         (3) If the report of a special selection board convened under this section, as approved by the President, recommends for promotion to the next higher grade an officer not currently eligible for promotion or a former officer whose name was referred to it for consideration, the Secretary concerned may act under [section 1552 of this title][/us/usc/t10/s1552] to correct the military record of the officer or former officer to correct an error or remove an injustice resulting from not being selected for promotion by the board which should have considered, or which did consider, the officer.
 
-    (f) __Time Limits for Consideration.—__ 
+    (f)  __Time Limits for Consideration__  __.—__ 
 
     The Secretary of Defense may prescribe by regulation the circumstances under which consideration by a special selection board is contingent upon application for consideration by an officer or former officer and time limits within which an officer or former officer must make such application in order to be considered by a special selection board under this section.
 
-    (g) __Limitation of Other Jurisdiction.—__ 
+    (g)  __Limitation of Other Jurisdiction__  __.—__ 
 
     No official or court of the United States shall have power or jurisdiction—
 
@@ -73,13 +73,13 @@
 
         (2) to grant any relief on such a claim unless the officer or former officer has been selected for promotion by a special selection board convened under this section to consider the officer’s claim.
 
-    (h) __Judicial Review.—__ 
+    (h)  __Judicial Review__  __.—__ 
 
         (1) A court of the United States may review a determination by the Secretary concerned under subsection (a)(1), (b)(1), or (e)(3) not to convene a special selection board. If a court finds the determination to be arbitrary or capricious, not based on substantial evidence, or otherwise contrary to law, it shall remand the case to the Secretary concerned, who shall provide for consideration of the officer or former officer by a special selection board under this section.
 
         (2) If a court finds that the action of a special selection board which considers an officer or former officer was contrary to law or involved material error of fact or material administrative error, it shall remand the case to the Secretary concerned, who shall provide the officer or former officer reconsideration by a new special selection board.
 
-    (i) __Designation of Boards.—__ 
+    (i)  __Designation of Boards__  __.—__ 
 
     The Secretary of the military department concerned may designate a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] as a special selection board convened under this section. A board so designated may function in both capacities.
 

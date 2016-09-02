@@ -15,21 +15,21 @@
 
 ## § 2438. Performance assessments and root cause analyses
 
-    (a) __Designation of Senior Official Responsibility for Performance Assessments and Root Cause Analyses.—__ 
+    (a)  __Designation of Senior Official Responsibility for Performance Assessments and Root Cause Analyses__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense as the principal official of the Department of Defense responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs.
 
-        (2) __No program execution responsibility.—__ 
+        (2)  __No program execution responsibility__  __.—__ 
 
         The Secretary shall ensure that the senior official designated under paragraph (1) is not responsible for program execution.
 
-        (3) __Staff and resources.—__ 
+        (3)  __Staff and resources__  __.—__ 
 
         The Secretary shall assign to the senior official designated under paragraph (1) appropriate staff and resources necessary to carry out the senior official’s function under this section.
 
-    (b) __Responsibilities.—__ 
+    (b)  __Responsibilities__  __.—__ 
 
     The senior official designated under subsection (a) shall be responsible for the following:
 
@@ -51,7 +51,7 @@
 
             (C) in the course of consideration of any decision to request authorization of a multiyear procurement contract for the program.
 
-    (c) __Performance Assessments.—__ 
+    (c)  __Performance Assessments__  __.—__ 
 
     For purposes of this section, a performance assessment with respect to a major defense acquisition program is an evaluation of the following:
 
@@ -59,7 +59,7 @@
 
         (2) The extent to which the level of program cost, schedule, and performance predicted relative to such metrics is likely to result in the timely delivery of a level of capability to the warfighter that is consistent with the level of resources to be expended and provides superior value to alternative approaches that may be available to meet the same military requirement.
 
-    (d) __Root Cause Analyses.—__ 
+    (d)  __Root Cause Analyses__  __.—__ 
 
     For purposes of this section and [section 2433a of this title][/us/usc/t10/s2433a], a root cause analysis with respect to a major defense acquisition program is an assessment of the underlying cause or causes of shortcomings in cost, schedule, or performance of the program, including the role, if any, of—
 
@@ -79,11 +79,11 @@
 
         (8) any other matters.
 
-    (e) __Support of Applicable Capabilities and Expertise.—__ 
+    (e)  __Support of Applicable Capabilities and Expertise__  __.—__ 
 
     The Secretary of Defense shall ensure that the senior official designated under subsection (a) has the support of other Department of Defense officials with relevant capabilities and expertise needed to carry out the requirements of this section.
 
-    (f) __Annual Report.—__ 
+    (f)  __Annual Report__  __.—__ 
 
     Not later than March 1 each year, the official responsible for conducting and overseeing performance assessments and root cause analyses for major defense acquisition programs shall submit to the congressional defense committees a report on the activities undertaken under this section during the preceding year.
 

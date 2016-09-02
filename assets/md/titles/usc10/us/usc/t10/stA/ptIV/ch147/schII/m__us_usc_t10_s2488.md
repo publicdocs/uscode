@@ -15,11 +15,11 @@
 
 ## § 2488. Combined exchange and commissary stores
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may authorize a nonappropriated fund instrumentality to operate a military exchange and a commissary store as a combined exchange and commissary store on a military installation.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
         (1) Not more than ten combined exchange and commissary stores may be operated pursuant to this section.
 
@@ -31,21 +31,21 @@
 
             (B) a military exchange and a commissary store are operated at the installation by separate entities at the time of, or immediately before, such selection and it is not economically feasible to continue that separate operation.
 
-    (c) __Operation at Carswell Field.—__ 
+    (c)  __Operation at Carswell Field__  __.—__ 
 
     Combined exchange and commissary stores operated under this section shall include the combined exchange and commissary store that is operated at the Naval Air Station Fort Worth, Joint Reserve Center, Carswell Field, Texas, under the authority provided in section 375 of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337]; [108 Stat. 2736][/us/stat/108/2736]).
 
-    (d) __Adjustments and Surcharges.—__ 
+    (d)  __Adjustments and Surcharges__  __.—__ 
 
     Adjustments to, and surcharges on, the sales price of a grocery food item sold in a combined exchange and commissary store under this section shall be provided for in accordance with the same laws that govern such adjustments and surcharges for items sold in a commissary store of the Defense Commissary Agency.
 
-    (e) __Use of Appropriated Funds.—__ 
+    (e)  __Use of Appropriated Funds__  __.—__ 
 
         (1) If a nonappropriated fund instrumentality incurs a loss in operating a combined exchange and commissary store at a military installation under this section as a result of the requirement set forth in subsection (d), the Secretary may authorize a transfer of funds available for the Defense Commissary Agency to the nonappropriated fund instrumentality to offset the loss.
 
         (2) The total amount of appropriated funds transferred during a fiscal year to support the operation of a combined exchange and commissary store at a military installation under this section may not exceed an amount that is equal to 25 percent of the amount of appropriated funds that was provided for the operation of the commissary store of the Defense Commissary Agency on that installation during the last full fiscal year of operation of that commissary store.
 
-    (f) __Nonappropriated Fund Instrumentality Defined.—__ 
+    (f)  __Nonappropriated Fund Instrumentality Defined__  __.—__ 
 
     In this section, the term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 

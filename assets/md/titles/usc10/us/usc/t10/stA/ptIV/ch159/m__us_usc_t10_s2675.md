@@ -15,11 +15,11 @@
 
 ## § 2675. Leases: foreign countries
 
-    (a) __Lease Authority; Duration.—__ 
+    (a)  __Lease Authority; Duration__  __.—__ 
 
     The Secretary of a military department may acquire by lease in foreign countries structures and real property relating to structures that are needed for military purposes other than for military family housing. A lease under this section may be for a period of up to 10 years, or 15 years in the case of a lease in Korea, and the rental for each yearly period may be paid from funds appropriated to that military department for that year.
 
-    (b) __Availability of Funds.—__ 
+    (b)  __Availability of Funds__  __.—__ 
 
     Appropriations available to the Department of Defense for operation and maintenance or construction may be used for the acquisition of interests in land under this section.
 

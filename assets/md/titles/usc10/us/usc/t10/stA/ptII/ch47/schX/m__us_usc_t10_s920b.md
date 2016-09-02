@@ -15,7 +15,7 @@
 
 ## § 920b. Art. 120b. Rape and sexual assault of a child
 
-    (a) __Rape of a Child.—__ 
+    (a)  __Rape of a Child__  __.—__ 
 
     Any person subject to this chapter who—
 
@@ -35,45 +35,45 @@
 
         is guilty of rape of a child and shall be punished as a court-martial may direct.
 
-    (b) __Sexual Assault of a Child.—__ 
+    (b)  __Sexual Assault of a Child__  __.—__ 
 
     Any person subject to this chapter who commits a sexual act upon a child who has attained the age of 12 years is guilty of sexual assault of a child and shall be punished as a court-martial may direct.
 
-    (c) __Sexual Abuse of a Child.—__ 
+    (c)  __Sexual Abuse of a Child__  __.—__ 
 
     Any person subject to this chapter who commits a lewd act upon a child is guilty of sexual abuse of a child and shall be punished as a court-martial may direct.
 
     (d) __Age of Child.—__ 
 
-        (1) __Under 12 years.—__ 
+        (1)  __Under 12 years__  __.—__ 
 
         In a prosecution under this section, it need not be proven that the accused knew the age of the other person engaging in the sexual act or lewd act. It is not a defense that the accused reasonably believed that the child had attained the age of 12 years.
 
-        (2) __Under 16 years.—__ 
+        (2)  __Under 16 years__  __.—__ 
 
         In a prosecution under this section, it need not be proven that the accused knew that the other person engaging in the sexual act or lewd act had not attained the age of 16 years, but it is a defense in a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), which the accused must prove by a preponderance of the evidence, that the accused reasonably believed that the child had attained the age of 16 years, if the child had in fact attained at least the age of 12 years.
 
-    (e) __Proof of Threat.—__ 
+    (e)  __Proof of Threat__  __.—__ 
 
     In a prosecution under this section, in proving that a person made a threat, it need not be proven that the person actually intended to carry out the threat or had the ability to carry out the threat.
 
-    (f) __Marriage.—__ 
+    (f)  __Marriage__  __.—__ 
 
     In a prosecution under subsection (b) (sexual assault of a child) or subsection (c) (sexual abuse of a child), it is a defense, which the accused must prove by a preponderance of the evidence, that the persons engaging in the sexual act or lewd act were at that time married to each other, except where the accused commits a sexual act upon the person when the accused knows or reasonably should know that the other person is asleep, unconscious, or otherwise unaware that the sexual act is occurring or when the other person is incapable of consenting to the sexual act due to impairment by any drug, intoxicant, or other similar substance, and that condition was known or reasonably should have been known by the accused.
 
-    (g) __Consent.—__ 
+    (g)  __Consent__  __.—__ 
 
     Lack of consent is not an element and need not be proven in any prosecution under this section. A child not legally married to the person committing the sexual act, lewd act, or use of force cannot consent to any sexual act, lewd act, or use of force.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Sexual act and sexual contact.—__ 
+        (1)  __Sexual act and sexual contact__  __.—__ 
 
         The terms “sexual act” and “sexual contact” have the meanings given those terms in [section 920(g) of this title][/us/usc/t10/s920/g] (article 120(g)).
 
-        (2) __Force.—__ 
+        (2)  __Force__  __.—__ 
 
         The term “force” means—
 
@@ -85,15 +85,15 @@
 
             In the case of a parent-child or similar relationship, the use or abuse of parental or similar authority is sufficient to constitute the use of force.
 
-        (3) __Threatening or placing that child in fear.—__ 
+        (3)  __Threatening or placing that child in fear__  __.—__ 
 
         The term “threatening or placing that child in fear” means a communication or action that is of sufficient consequence to cause the child to fear that non-compliance will result in the child or another person being subjected to the action contemplated by the communication or action.
 
-        (4) __Child.—__ 
+        (4)  __Child__  __.—__ 
 
         The term “child” means any person who has not attained the age of 16 years.
 
-        (5) __Lewd act.—__ 
+        (5)  __Lewd act__  __.—__ 
 
         The term “lewd act” means—
 

@@ -15,7 +15,7 @@
 
 ## § 186. Defense Business System Management Committee
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense shall establish a Defense Business Systems Management Committee, to be composed of the following persons:
 
@@ -35,11 +35,11 @@
 
         (8) Such additional personnel of the Department of Defense (including personnel assigned to the Joint Chiefs of Staff and combatant commands) as are designated by the Secretary of Defense.
 
-    (b) __Chairman and Vice Chairman.—__ 
+    (b)  __Chairman and Vice Chairman__  __.—__ 
 
     The Deputy Secretary of Defense shall serve as the chairman of the Committee. The Deputy Chief Management Officer of the Department of Defense shall serve as the vice chairman of the Committee, and shall act as chairman in the absence of the Deputy Secretary of Defense.
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (3) The Committee shall ensure that funds are obligated for defense business system modernization in a manner consistent with [section 2222 of this title][/us/usc/t10/s2222].
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section, the terms “defense business system” and “defense business system modernization” have the meanings given such terms in section 2222 1 of this title.
 

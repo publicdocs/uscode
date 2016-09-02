@@ -15,7 +15,7 @@
 
 ## § 18233a. Notice and wait requirements for certain projects
 
-    (a) __Congressional Notification.—__ 
+    (a)  __Congressional Notification__  __.—__ 
 
     Except as provided in subsection (b), an expenditure or contribution in an amount in excess of $750,000 may not be made under [section 18233 of this title][/us/usc/t10/s18233] for any facility until—
 
@@ -23,7 +23,7 @@
 
         (2) a period of 21 days has elapsed after the notification has been received by those committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (b) __Certain Expenditures or Contributions Exempted.—__ 
+    (b)  __Certain Expenditures or Contributions Exempted__  __.—__ 
 
     Subsection (a) does not apply to expenditures or contributions for the following:
 

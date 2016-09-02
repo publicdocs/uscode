@@ -69,19 +69,19 @@ Aug. 13, 1946, ch. 957, § 562, 60 Stat. 1011.  </td>
 
 >     “(a) __Additional Personnel.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall develop and implement a plan to increase the number of members of the Marine Corps assigned to the Marine Corps Embassy Security Group at Quantico, Virginia, and Marine Security Group Regional Commands and Marine Security Group detachments at United States embassies, consulates, and other diplomatic facilities by up to 1,000 Marines.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of the increase under paragraph (1) is to provide the additional end strength and the resources necessary to support enhanced Marine Corps security at United States embassies, consulates, and other diplomatic facilities, particularly at locations identified by the Secretary of State as in need of additional security because of threats to United States personnel and property.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The Secretary of Defense shall develop and implement the plan required by subsection (a) in consultation with the Secretary of State pursuant to the responsibility of the Secretary of State for diplomatic security under section 103 of the Diplomatic Security Act ([22 U.S.C. 4802][/us/usc/t22/s4802]), and in accordance with any current memorandum of understanding between the Department of State and the Marine Corps on the operational and administrative supervision of the Marine Corps Security Guard Program.
 
->     “(c) __Supporting Information for Budget Requests.—__ 
+>     “(c)  __Supporting Information for Budget Requests__  __.—__ 
 
 >     The material submitted in support of the budget of the President for each fiscal year after fiscal year 2013, as submitted to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, shall include the following with regard to the Marine Corps Security Guard Program:
 
@@ -99,13 +99,13 @@ Aug. 13, 1946, ch. 957, § 562, 60 Stat. 1011.  </td>
 
 >         “(3) A description of the Department of Defense resources required during that fiscal year for the Marine Corps Security Guard Program, including total funding for personnel, operation and maintenance, and procurement, and for key supporting programs to enable both the current and expanded Program mission during that fiscal year.
 
->     “(d) __Preservation of Funding for Marine Corps Under National Military Strategy.—__ 
+>     “(d)  __Preservation of Funding for Marine Corps Under National Military Strategy__  __.—__ 
 
 >     In determining the amounts to be requested for each fiscal year after fiscal year 2013 for the Marine Corps Security Guard Program and for additional personnel under the Program, the President shall ensure that amounts requested for the Marine Corps for that fiscal year do not degrade the readiness of the Marine Corps to fulfill the requirements of the National Military Strategy prescribed by the Chairman of the Joint Chiefs of Staff.
 
 >     “(e) __Reporting Requirements.—__ 
 
->         “(1) __Mission assessment.—__ 
+>         “(1)  __Mission assessment__  __.—__ 
 
 >         Not later than October 1, 2013, the Secretary of Defense shall—
 
@@ -113,7 +113,7 @@ Aug. 13, 1946, ch. 957, § 562, 60 Stat. 1011.  </td>
 
 >             “(B) submit to Congress a report on the assessment, including a description and assessment of options to improve the Program to respond to such threats.
 
->         “(2) __Notification of changes in scope of program in response to changing threats.—__ 
+>         “(2)  __Notification of changes in scope of program in response to changing threats__  __.—__ 
 
 >         If the President determines that a modification (whether an increase or a decrease) in the scope of the Marine Corps Security Guard Program is necessary or advisable in light of any change in the nature of threats to United States embassies, consulates, and other diplomatic facilities abroad, the President shall—
 

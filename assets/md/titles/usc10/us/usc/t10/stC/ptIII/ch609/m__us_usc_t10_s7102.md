@@ -15,11 +15,11 @@
 
 ## § 7102. Degree granting authority for Marine Corps University
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the Secretary of the Navy, the President of the Marine Corps University may, upon the recommendation of the directors and faculty of the Marine Corps University, confer appropriate degrees upon graduates who meet the degree requirements.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     A degree may not be conferred under this section unless—
 
@@ -27,7 +27,7 @@
 
         (2) the Marine Corps University is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
 
-    (c) __Congressional Notification Requirements.—__ 
+    (c)  __Congressional Notification Requirements__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the Marine Corps University to award any new or existing degree.
 
-    (d) __Board of Advisors.—__ 
+    (d)  __Board of Advisors__  __.—__ 
 
     The Secretary of the Navy shall establish a board of advisors for the Marine Corps University. The Secretary shall ensure that the board is established so as to meet all requirements of the appropriate regional accrediting association.
 

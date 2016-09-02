@@ -65,11 +65,11 @@
 
 [Pub. L. 105–261, div. A, title XV, § 1521(c)][/us/pl/105/261/s1521/c], (d), Oct. 17, 1998, [112 Stat. 2179][/us/stat/112/2179], provided that:
 
->     “(c) __Time for Implementation.—__ 
+>     “(c)  __Time for Implementation__  __.—__ 
 
 >     The Secretary of Defense shall complete the actions necessary to implement the amendment made by subsection (a) \[amending this section\] and to establish the office of Deputy Under Secretary of Defense for Technology Security Policy in accordance with \[former\] [section 134b of title 10][/us/usc/t10/s134b], United States Code, as added by subsection (b), not later than 60 days after the date of the enactment of this Act \[Oct. 17, 1998\].
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the plans of the Secretary for implementing the amendments made by subsections (a) and (b) \[enacting former [section 134b of this title][/us/usc/t10/s134b] and amending this section\]. The report shall include the following:
 

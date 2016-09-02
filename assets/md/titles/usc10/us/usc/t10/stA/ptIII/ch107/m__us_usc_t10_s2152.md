@@ -15,15 +15,15 @@
 
 ## § 2152. Joint professional military education: general requirements
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall implement a comprehensive framework for the joint professional military education of officers, including officers nominated under [section 661 of this title][/us/usc/t10/s661] for the joint specialty.
 
-    (b) __Joint Military Education Schools.—__ 
+    (b)  __Joint Military Education Schools__  __.—__ 
 
     The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall periodically review and revise the curriculum of each school of the National Defense University (and of any other joint professional military education school) to enhance the education and training of officers in joint matters. The Secretary shall require such schools to maintain rigorous standards for the military education of officers with the joint specialty.
 
-    (c) __Other Professional Military Education Schools.—__ 
+    (c)  __Other Professional Military Education Schools__  __.—__ 
 
     The Secretary of Defense shall require that each Department of Defense school concerned with professional military education periodically review and revise its curriculum for senior and intermediate grade officers in order to strengthen the focus on—
 

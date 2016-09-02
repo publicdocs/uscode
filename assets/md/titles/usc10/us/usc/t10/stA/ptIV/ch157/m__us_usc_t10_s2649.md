@@ -15,15 +15,15 @@
 
 ## § 2649. Civilian passengers and commercial cargoes: transportation on Department of Defense vessels, vehicles, and aircraft
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Whenever space is unavailable on commercial lines and is available on vessels, vehicles, or aircraft operated by the Department of Defense, civilian passengers and commercial cargo may, in the discretion of the Secretary of Defense, be transported on those vessels, vehicles, or aircraft. Rates for transportation under this section may not be less than those charged by commercial lines for the same kinds of service, except that in the case of transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance, any amount charged for such transportation may not exceed the cost of providing the transportation.
 
-    (b) __Crediting of Receipts.—__ 
+    (b)  __Crediting of Receipts__  __.—__ 
 
     Any amount received under this section with respect to transportation provided in response to an emergency, a disaster, or a request for humanitarian assistance may be credited to the appropriation, fund, or account used in incurring the obligation for which such amount is received. In all other cases, amounts received under this section shall be covered into the Treasury as miscellaneous receipts.
 
-    (c) __Transportation of Allied Personnel During Contingencies or Disaster Responses.—__ 
+    (c)  __Transportation of Allied Personnel During Contingencies or Disaster Responses__  __.—__ 
 
     Until January 6, 2016, when space is available on vessels, vehicles, or aircraft operated by the Department of Defense and the Secretary of Defense determines that operations in the area of a contingency operation or disaster response would be facilitated if allied forces or civilians were to be transported using such vessels, vehicles, or aircraft, the Secretary may provide such transportation on a noninterference basis, without charge.
 

@@ -15,7 +15,7 @@
 
 ## § 992. Consumer education: financial services
 
-    (a) __Requirement for Consumer Education Program for Members.—__ 
+    (a)  __Requirement for Consumer Education Program for Members__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (3) The training provided at a military installation under paragraph (2)(B) shall include information on any financial services marketing practices that are particularly prevalent at that military installation and in the vicinity.
 
-    (b) __Counseling for Members and Spouses.—__ 
+    (b)  __Counseling for Members and Spouses__  __.—__ 
 
         (1) The Secretary concerned shall, upon request, provide counseling on financial services to each member of the armed forces, and such member’s spouse, under the jurisdiction of the Secretary.
 
@@ -69,11 +69,11 @@
 
         (4) The Secretary concerned shall take such action as is necessary to ensure that each financial services counselor under paragraph (2)(A)(i), and any other individual providing counseling on financial services under paragraphs (2), is free from conflicts of interest relevant to the performance of duty under this section and, in the performance of that duty, is dedicated to furnishing members of the armed forces and their spouses with helpful information and counseling on financial services and related marketing practices.
 
-    (c) __Life Insurance.—__ 
+    (c)  __Life Insurance__  __.—__ 
 
     In counseling a member of the armed forces, or spouse of a member of the armed forces, under this section regarding life insurance offered by a private sector source, a financial services counselor under subsection (b)(2)(A)(i), or another individual providing counseling on financial services under subsection (b)(2), shall furnish the member or spouse, as the case may be, with information on the availability of Servicemembers’ Group Life Insurance under subchapter III of chapter 19 of title 38, including information on the amounts of coverage available and the procedures for electing coverage and the amount of coverage.
 
-    (d) __Financial Services Defined.—__ 
+    (d)  __Financial Services Defined__  __.—__ 
 
     In this section, the term “financial services” includes the following:
 
@@ -99,11 +99,11 @@
 
 [Pub. L. 110–289, div. B, title II, § 2202][/us/pl/110/289/s2202], July 30, 2008, [122 Stat. 2849][/us/stat/122/2849], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall develop and implement a program to advise members of the Armed Forces (including members of the National Guard and Reserve) who are returning from service on active duty abroad (including service in Operation Iraqi Freedom and Operation Enduring Freedom) on actions to be taken by such members to prevent or forestall mortgage foreclosures.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The program required by subsection (a) shall include the following:
 
@@ -113,7 +113,7 @@
 
 >         “(3) Such other counseling and information as the Secretary considers appropriate for purposes of the program.
 
->     “(c) __Timing of Provision of Counseling.—__ 
+>     “(c)  __Timing of Provision of Counseling__  __.—__ 
 
 >     Counseling and other information under the program required by subsection (a) shall be provided to a member of the Armed Forces covered by the program as soon as practicable after the return of the member from service as described in subsection (a).”
 
@@ -123,11 +123,11 @@
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This Act may be cited as the ‘Military Personnel Financial Services Protection Act’.
 
->     “(b) __Table of Contents.—__ 
+>     “(b)  __Table of Contents__  __.—__ 
 
 >     \[Omitted\]
 
@@ -157,11 +157,11 @@
 
 >     “(1) __Life insurance product.—__ 
 
->         “(A) __In general.—__ 
+>         “(A)  __In general__  __.—__ 
 
 >         The term ‘life insurance product’ means any product, including individual and group life insurance, funding agreements, and annuities, that provides insurance for which the probabilities of the duration of human life or the rate of mortality are an element or condition of insurance.
 
->         “(B) __Included insurance.—__ 
+>         “(B)  __Included insurance__  __.—__ 
 
 >         The term ‘life insurance product’ includes the granting of—
 
@@ -179,7 +179,7 @@
 
 >             “(vii) optional modes of settlement or proceeds of life insurance.
 
->         “(C) __Exclusions.—__ 
+>         “(C)  __Exclusions__  __.—__ 
 
 >         Such term does not include workers compensation insurance, medical indemnity health insurance, or property and casualty insurance.
 
@@ -189,15 +189,15 @@
 
 > “SEC. 4. __PROHIBITION ON FUTURE SALES OF PERIODIC PAYMENT PLANS.__ 
 
->     “(a) __Amendment.—__ 
+>     “(a)  __Amendment__  __.—__ 
 
 >     \[Amended [section 80a–27 of Title 15][/us/usc/t15/s80a–27], Commerce and Trade.\]
 
->     “(b) __Technical Amendment.—__ 
+>     “(b)  __Technical Amendment__  __.—__ 
 
 >     \[Amended [section 80a–27 of Title 15][/us/usc/t15/s80a–27].\]
 
->     “(c) __Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans.—__ 
+>     “(c)  __Report on Refunds, Sales Practices, and Revenues From Periodic Payment Plans__  __.—__ 
 
 >     Not later than 6 months after the date of enactment of this Act \[Sept. 29, 2006\], the Securities and Exchange Commission shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate, a report describing—
 

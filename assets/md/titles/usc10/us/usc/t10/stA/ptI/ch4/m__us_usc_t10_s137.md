@@ -37,11 +37,11 @@
 
 >     “(a) __Plan Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Under Secretary of Defense for Intelligence shall develop a plan for the incorporation of an enterprise query and correlation capability into the Defense Intelligence Information Enterprise (DI2E).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The plan required by paragraph (1) shall—
 
@@ -51,11 +51,11 @@
 
 >     “(b) __Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Under Secretary shall conduct a pilot program to demonstrate an enterprisewide query and correlation capability through the Defense Intelligence Information Enterprise program.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of the pilot program shall be to demonstrate the capability of an enterprisewide query and correlation system to achieve the following:
 
@@ -71,15 +71,15 @@
 
 >             “(F) To control access to data by means of on-line electronic user credentials, profiles, and authentication.
 
->         “(3) __Termination.—__ 
+>         “(3)  __Termination__  __.—__ 
 
 >         The pilot program conducted under this subsection shall terminate on September 30, 2014.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than November 1, 2012, the Under Secretary shall submit to the appropriate committees of Congress a report on the actions undertaken by the Under Secretary to carry out this section. The report shall set forth the plan developed under subsection (a) and a description and assessment of the pilot program conducted under subsection (b).
 
->     “(d) __Appropriate Committees of Congress Defined.—__ 
+>     “(d)  __Appropriate Committees of Congress Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate committees of Congress’ means—
 

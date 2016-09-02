@@ -15,7 +15,7 @@
 
 ## § 12011. Authorized strengths: reserve officers on active duty or on full-time National Guard duty for administration of the reserves or the National Guard
 
-    (a) __Limitations.—__ 
+    (a)  __Limitations__  __.—__ 
 
         (1) Of the total number of members of a reserve component who are serving on full-time reserve component duty at the end of any fiscal year, the number of those members who may be serving in each of the grades of major, lieutenant colonel, and colonel may not, as of the end of that fiscal year, exceed the number determined in accordance with the following table:
 
@@ -1931,21 +1931,21 @@
 
         </table>
 
-    (b) __Determinations by Interpolation.—__ 
+    (b)  __Determinations by Interpolation__  __.—__ 
 
     If the total number of members of a reserve component serving on full-time reserve component duty is between any two consecutive numbers in the first column of the appropriate table in paragraph (1) or (2) of subsection (a), the corresponding authorized strengths for each of the grades shown in that table for that component are determined by mathematical interpolation between the respective numbers of the two strengths. If the total number of members of a reserve component serving on full-time reserve component duty is more or less than the highest or lowest number, respectively, set forth in the first column of the appropriate table in paragraph (1) or (2) of subsection (a), the Secretary concerned shall fix the corresponding strengths for the grades shown in that table at the same proportion as is reflected in the nearest limit shown in the table.
 
-    (c) __Reallocations to Lower Grades.—__ 
+    (c)  __Reallocations to Lower Grades__  __.—__ 
 
     Whenever the number of officers serving in any grade for duty described in subsection (a) is less than the number authorized for that grade under this section, the difference between the two numbers may be applied to increase the number authorized under this section for any lower grade.
 
-    (d) __Secretarial Waiver.—__ 
+    (d)  __Secretarial Waiver__  __.—__ 
 
         (1) Upon determining that it is in the national interest to do so, the Secretary of Defense may increase for a particular fiscal year the number of reserve officers that may be on full-time reserve component duty for a reserve component in a grade referred to in a table in subsection (a) by a number that does not exceed the number equal to 5 percent of the maximum number specified for the grade in that table.
 
         (2) Whenever the Secretary exercises the authority provided in paragraph (1), the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice in writing of the adjustment made.
 
-    (e) __Full-Time Reserve Component Duty Defined.—__ 
+    (e)  __Full-Time Reserve Component Duty Defined__  __.—__ 
 
     In this section, the term “full-time reserve component duty” means the following duty:
 

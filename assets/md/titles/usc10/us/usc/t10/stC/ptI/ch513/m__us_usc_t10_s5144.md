@@ -15,11 +15,11 @@
 
 ## § 5144. Office of Marine Forces Reserve: appointment of Commander
 
-    (a) __Establishment of Office; Commander, Marine Forces Reserve.—__ 
+    (a)  __Establishment of Office; Commander, Marine Forces Reserve__  __.—__ 
 
     There is in the executive part of the Department of the Navy an Office of the Marine Forces Reserve, which is headed by the Commander, Marine Forces Reserve. The Commander, Marine Forces Reserve, is the principal adviser to the Commandant on Marine Forces Reserve matters.
 
-    (b) __Appointment.—__ 
+    (b)  __Appointment__  __.—__ 
 
         (1) The President, by and with the advice and consent of the Senate, shall appoint the Commander, Marine Forces Reserve, from general officers of the Marine Corps (as defined in section 5001(2)) who have had at least 10 years of commissioned service.
 
@@ -43,13 +43,13 @@
 
             Any such waiver shall be made on a case-by-case basis.
 
-    (c) __Term; Reappointment; Grade.—__ 
+    (c)  __Term; Reappointment; Grade__  __.—__ 
 
         (1) The Commander, Marine Forces Reserve, is appointed for a term determined by the Commandant of the Marine Corps, normally four years, but may be removed for cause at any time. An officer serving as Commander, Marine Forces Reserve, may be reappointed for one additional term of up to four years.
 
         (2) The Commander, Marine Forces Reserve, while so serving, holds the grade of lieutenant general.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1) The Commander, Marine Forces Reserve, shall submit to the Secretary of Defense, through the Secretary of the Navy, an annual report on the state of the Marine Corps Reserve and the ability of the Marine Corps Reserve to meet its missions. The report shall be prepared in conjunction with the Commandant of the Marine Corps and may be submitted in classified and unclassified versions.
 

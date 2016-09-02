@@ -15,7 +15,7 @@
 
 ## § 876b. Art. 76b. Lack of mental capacity or mental responsibility: commitment of accused for examination and treatment
 
-    (a) __Persons Incompetent To Stand Trial.—__ 
+    (a)  __Persons Incompetent To Stand Trial__  __.—__ 
 
         (1) In the case of a person determined under this chapter to be presently suffering from a mental disease or defect rendering the person mentally incompetent to the extent that the person is unable to understand the nature of the proceedings against that person or to conduct or cooperate intelligently in the defense of the case, the general court-martial convening authority for that person shall commit the person to the custody of the Attorney General.
 
@@ -33,7 +33,7 @@
 
         (5) In the application of [section 4246 of title 18][/us/usc/t18/s4246] to a case under this subsection, references to the court that ordered the commitment of a person, and to the clerk of such court, shall be deemed to refer to the general court-martial convening authority for that person. However, if the person is no longer subject to this chapter at a time relevant to the application of such section to the person, the United States district court for the district where the person is hospitalized or otherwise may be found shall be considered as the court that ordered the commitment of the person.
 
-    (b) __Persons Found Not Guilty by Reason of Lack of Mental Responsibility.—__ 
+    (b)  __Persons Found Not Guilty by Reason of Lack of Mental Responsibility__  __.—__ 
 
         (1) If a person is found by a court-martial not guilty only by reason of lack of mental responsibility, the person shall be committed to a suitable facility until the person is eligible for release in accordance with this section.
 
@@ -51,13 +51,13 @@
 
         (5) Subsections (f), (g), and (h) of [section 4243 of title 18][/us/usc/t18/s4243] shall apply in the case of a person hospitalized pursuant to paragraph (4)(B), except that the United States district court for the district where the person is hospitalized shall be considered as the court that ordered the person’s commitment.
 
-    (c) __General Provisions.—__ 
+    (c)  __General Provisions__  __.—__ 
 
         (1) Except as otherwise provided in this subsection and subsection (d)(1), the provisions of [section 4247 of title 18][/us/usc/t18/s4247] apply in the administration of this section.
 
         (2) In the application of [section 4247(d) of title 18][/us/usc/t18/s4247/d] to hearings conducted by a court-martial under this section or by (or by order of) a general court-martial convening authority under this section, the reference in that section to section 3006A of such title does not apply.
 
-    (d) __Applicability.—__ 
+    (d)  __Applicability__  __.—__ 
 
         (1) The provisions of chapter 313 of title 18 referred to in this section apply according to the provisions of this section notwithstanding [section 4247(j) of title 18][/us/usc/t18/s4247/j].
 

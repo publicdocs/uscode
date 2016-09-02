@@ -15,15 +15,15 @@
 
 ## § 4555. ARMS Initiative loan guarantee program
 
-    (a) __Program Authorized.—__ 
+    (a)  __Program Authorized__  __.—__ 
 
     Subject to subsection (b), the Secretary may carry out a loan guarantee program to encourage commercial firms to use eligible facilities under this chapter. Under any such program, the Secretary may guarantee the repayment of any loan made to a commercial firm to fund, in whole or in part, the establishment of a commercial activity to use an eligible facility under this chapter.
 
-    (b) __Advanced Budget Authority.—__ 
+    (b)  __Advanced Budget Authority__  __.—__ 
 
     Loan guarantees under this section may not be committed except to the extent that appropriations of budget authority to cover their costs are made in advance, as required by section 504 of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661c][/us/usc/t2/s661c]).
 
-    (c) __Program Administration.—__ 
+    (c)  __Program Administration__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (4) To the extent practicable, each official processing loan guarantee applications under this section pursuant to an agreement entered into under paragraph (1) shall use the same processing procedures as the official uses for processing loan guarantee applications under other loan guarantee programs that the official administers.
 
-    (d) __Loan Limits.—__ 
+    (d)  __Loan Limits__  __.—__ 
 
     The maximum amount of loan principal guaranteed during a fiscal year under this section may not exceed—
 
@@ -61,7 +61,7 @@
 
         (2) $320,000,000 with respect to all borrowers.
 
-    (e) __Transfer of Funds.—__ 
+    (e)  __Transfer of Funds__  __.—__ 
 
     The Secretary may transfer to an official providing services under subsection (c), and that official may accept, such funds as may be necessary to administer the loan guarantee program under this section.
 

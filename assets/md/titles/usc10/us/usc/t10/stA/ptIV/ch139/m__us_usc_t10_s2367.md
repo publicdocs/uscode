@@ -15,15 +15,15 @@
 
 ## § 2367. Use of federally funded research and development centers
 
-    (a) __Limitation on Use of Centers.—__ 
+    (a)  __Limitation on Use of Centers__  __.—__ 
 
     Except as provided in subsection (b), the Secretary of Defense may not place work with a federally funded research and development center unless such work is within the purpose, mission, and general scope of effort of such center as established in the sponsoring agreement of the Department of Defense with such center.
 
-    (b) __Exception for Applied Scientific Research.—__ 
+    (b)  __Exception for Applied Scientific Research__  __.—__ 
 
     This section does not apply to a federally funded research and development center that performs applied scientific research under laboratory conditions.
 
-    (c) __Limitation on Creation of New Centers.—__ 
+    (c)  __Limitation on Creation of New Centers__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (2) In this subsection, the term “head of an agency” has the meaning given such term in [section 2302(1) of this title][/us/usc/t10/s2302/1].
 
-    (d) __Identification to Congress of FFRDC Workload Effort.—__ 
+    (d)  __Identification to Congress of FFRDC Workload Effort__  __.—__ 
 
     After the close of a fiscal year, and not later than January 1 of the next year, the Secretary shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report setting forth the actual obligations and the actual man-years of effort expended at each federally funded research and development center during that fiscal year.
 

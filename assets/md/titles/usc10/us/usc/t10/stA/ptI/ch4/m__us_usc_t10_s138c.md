@@ -15,11 +15,11 @@
 
 ## § 138c. Assistant Secretary of Defense for Operational Energy Plans and Programs
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     The Assistant Secretary of Defense for Operational Energy Plans and Programs shall be appointed without regard to political affiliation and solely on the basis of fitness to perform the duties of the office of Assistant Secretary.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The Assistant Secretary shall—
 
@@ -39,7 +39,7 @@
 
         (4) monitor and review all operational energy initiatives in the Department of Defense.
 
-    (c) __Principal Advisor for Operational Energy Plans and Programs.—__ 
+    (c)  __Principal Advisor for Operational Energy Plans and Programs__  __.—__ 
 
         (1) The Assistant Secretary is the principal adviser to the Secretary of Defense and the Deputy Secretary of Defense regarding operational energy plans and programs and the principal policy official within the senior management of the Department of Defense regarding operational energy plans and programs.
 
@@ -59,7 +59,7 @@
 
             (E) certify the budget associated with the investment of the Department of Defense in alternative fuel activities in accordance with subsection (e)(4).
 
-    (d) __Operational Energy Strategy.—__ 
+    (d)  __Operational Energy Strategy__  __.—__ 
 
         (1) The Assistant Secretary shall be responsible for the establishment and maintenance of a department-wide transformational strategy for operational energy. The strategy shall establish near-term, mid-term, and long-term goals, performance metrics to measure progress in meeting the goals, and a plan for implementation of the strategy within the military departments, the Office of the Secretary of Defense, and Defense Agencies.
 
@@ -71,7 +71,7 @@
 
         (5) Updates to the strategy required by paragraph (1) shall be submitted to the congressional defense committees as soon as practicable after the modifications to the strategy are made.
 
-    (e) __Budgetary and Financial Matters.—__ 
+    (e)  __Budgetary and Financial Matters__  __.—__ 
 
         (1) The Assistant Secretary shall review and make recommendations to the Secretary of Defense regarding all budgetary and financial matters relating to the operational energy strategy.
 
@@ -89,25 +89,25 @@
 
         (5) The report required by paragraph (4) shall also include a separate statement of estimated expenditures and requested appropriations for that fiscal year for the activities of the Assistant Secretary in carrying out the duties of the Assistant Secretary.
 
-    (f) __Access to Initiative Results and Records.—__ 
+    (f)  __Access to Initiative Results and Records__  __.—__ 
 
         (1) The Secretary of a military department shall submit to the Assistant Secretary the results of all studies and initiatives conducted by the military department in connection with the operational energy strategy.
 
         (2) The Assistant Secretary shall have access to all records and data in the Department of Defense (including the records and data of each military department) necessary in order to permit the Assistant Secretary to carry out the duties of the Assistant Secretary.
 
-    (g) __Staff.—__ 
+    (g)  __Staff__  __.—__ 
 
     The Assistant Secretary shall have a dedicated professional staff of military and civilian personnel in a number sufficient to enable the Assistant Secretary to carry out the duties and responsibilities of the Assistant Secretary.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Operational energy.—__ 
+        (1)  __Operational energy__  __.—__ 
 
         The term “operational energy” means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.
 
-        (2) __Operational energy strategy.—__ 
+        (2)  __Operational energy strategy__  __.—__ 
 
         The terms “operational energy strategy” and “strategy” mean the operational energy strategy developed under subsection (d).
 

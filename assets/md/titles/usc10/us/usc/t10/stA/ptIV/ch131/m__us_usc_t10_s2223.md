@@ -15,7 +15,7 @@
 
 ## § 2223. Information technology: additional responsibilities of Chief Information Officers
 
-    (a) __Additional Responsibilities of Chief Information Officer of Department of Defense.—__ 
+    (a)  __Additional Responsibilities of Chief Information Officer of Department of Defense__  __.—__ 
 
     In addition to the responsibilities provided for in chapter 35 of title 44 and in [section 11315 of title 40][/us/usc/t40/s11315], the Chief Information Officer of the Department of Defense shall—
 
@@ -29,7 +29,7 @@
 
         (5) maintain a consolidated inventory of Department of Defense mission critical and mission essential information systems, identify interfaces between those systems and other information systems, and develop and maintain contingency plans for responding to a disruption in the operation of any of those information systems.
 
-    (b) __Additional Responsibilities of Chief Information Officer of Military Departments.—__ 
+    (b)  __Additional Responsibilities of Chief Information Officer of Military Departments__  __.—__ 
 
     In addition to the responsibilities provided for in chapter 35 of title 44 and in [section 11315 of title 40][/us/usc/t40/s11315], the Chief Information Officer of a military department, with respect to the military department concerned, shall—
 
@@ -41,7 +41,7 @@
 
         (4) coordinate with the Joint Staff with respect to information technology and national security systems.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -75,7 +75,7 @@
 
 [Pub. L. 112–239, div. A, title IX, § 935][/us/pl/112/239/s935], Jan. 2, 2013, [126 Stat. 1886][/us/stat/126/1886], provided that:
 
->     “(a) __Development of Technologies.—__ 
+>     “(a)  __Development of Technologies__  __.—__ 
 
 >     The Chief Information Officer of the Department of Defense may, in coordination with the Under Secretary of Defense for Policy and the Under Secretary of Defense for Intelligence and acting through the Director of the Defense Information Systems Agency, use the available funding and research activities and capabilities of the Community Data Center of the Defense Information Systems Agency to develop and demonstrate collection, processing, and storage technologies for network flow data that—
 
@@ -93,7 +93,7 @@
 
 >             “(C) to provide early warning and attack assessment of offensive cyber operations.
 
->     “(b) __Coordination.—__ 
+>     “(b)  __Coordination__  __.—__ 
 
 >     Any research and development required in the development of the technologies described in subsection (a) shall be conducted in cooperation with the heads of other appropriate departments and agencies of the Federal Government and, whenever feasible, Tier 1 Internet Service Providers and other managed security service providers.”
 
@@ -101,13 +101,13 @@
 
 [Pub. L. 112–239, div. A, title IX, § 936][/us/pl/112/239/s936], Jan. 2, 2013, [126 Stat. 1886][/us/stat/126/1886], provided that:
 
->     “(a) __Analysis.—__ 
+>     “(a)  __Analysis__  __.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The Secretary of Defense, acting through the Chief Information Officer of the Department of Defense, shall conduct an analysis of large-scale software database tools and large-scale software data analysis tools that could be used to meet current and future Department of Defense needs for large-scale data analytics.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The analysis required under paragraph (1) shall include—
 
@@ -115,17 +115,17 @@
 
 >             “(B) an assessment of the available sources from Government and commercial sources to meet such needs, including an assessment by the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy to ensure sufficiency and diversity of potential commercial sources.
 
->         “(3) __Submission.—__ 
+>         “(3)  __Submission__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Chief Information Officer shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the results of the analysis required under paragraph (1).
 
 >     “(b) __Competition Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         If, following the analysis required under subsection (a), the Chief Information Officer of the Department of Defense identifies needs for software systems or large-scale software database or data analysis tools, the Department shall acquire such systems or such tools based on market research and using competitive procedures in accordance with applicable law and the Defense Federal Acquisition Regulation Supplement.
 
->         “(2) __Notification.—__ 
+>         “(2)  __Notification__  __.—__ 
 
 >         If the Chief Information Officer elects to acquire large-scale software database or data analysis tools using procedures other than competitive procedures, the Chief Information Officer and the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit a written notification to the congressional defense committees on a quarterly basis until September 30, 2018, that describes the acquisition involved, the date the decision was made, and the rationale for not using competitive procedures.”
 
@@ -133,17 +133,17 @@
 
 [Pub. L. 112–239, div. A, title IX, § 937][/us/pl/112/239/s937], Jan. 2, 2013, [126 Stat. 1887][/us/stat/126/1887], provided that:
 
->     “(a) __Plan for Inventory of Licenses.—__ 
+>     “(a)  __Plan for Inventory of Licenses__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Chief Information Officer of the Department of the \[sic\] Defense shall, in consultation with the chief information officers of the military departments and the Defense Agencies, issue a plan for the inventory of selected software licenses of the Department of Defense, including a comparison of licenses purchased with licenses installed.
 
->         “(2) __Selected software licenses.—__ 
+>         “(2)  __Selected software licenses__  __.—__ 
 
 >         The Chief Information Officer shall determine the software licenses to be treated as selected software licenses of the Department for purposes of this section. The licenses shall be determined so as to maximize the return on investment in the inventory conducted pursuant to the plan required by paragraph (1).
 
->         “(3) __Plan elements.—__ 
+>         “(3)  __Plan elements__  __.—__ 
 
 >         The plan under paragraph (1) shall include the following:
 
@@ -153,7 +153,7 @@
 
 >             “(C) Means by which the Department can achieve the greatest possible economies of scale and cost savings in the procurement, use, and optimization of selected software licenses.
 
->     “(b) __Performance Plan.—__ 
+>     “(b)  __Performance Plan__  __.—__ 
 
 >     If the Chief Information Officer determines through the inventory conducted pursuant to the plan required by subsection (a) that the number of selected software licenses of the Department and the components of the Department exceeds the needs of the Department for such software licenses, the Secretary of Defense shall implement a plan to bring the number of such software licenses into balance with the needs of the Department.”
 
@@ -161,11 +161,11 @@
 
 [Pub. L. 112–81, div. A, title IX, § 924][/us/pl/112/81/s924], Dec. 31, 2011, [125 Stat. 1539][/us/stat/125/1539], provided that:
 
->     “(a) __Mechanism for Internet Publication of Information for Development of Analysis Tools and Applications.—__ 
+>     “(a)  __Mechanism for Internet Publication of Information for Development of Analysis Tools and Applications__  __.—__ 
 
 >     The Chief Information Officer of the Department of Defense, acting through the Director of the Defense Information Systems Agency, shall implement a mechanism to publish and maintain on the public Internet the application programming interface specifications, a developer’s toolkit, source code, and such other information on, and resources for, the Ozone Widget Framework (OWF) as the Chief Information Officer considers necessary to permit individuals and companies to develop, integrate, and test analysis tools and applications for use by the Department of Defense and the elements of the intelligence community.
 
->     “(b) __Process for Voluntary Contribution of Improvements by Private Sector.—__ 
+>     “(b)  __Process for Voluntary Contribution of Improvements by Private Sector__  __.—__ 
 
 >     In addition to the requirement under subsection (a), the Chief Information Officer shall also establish a process by which private individuals and companies may voluntarily contribute the following:
 
@@ -173,7 +173,7 @@
 
 >         “(2) Alternative or compatible implementations of the published application programming interface specifications for the Framework.
 
->     “(c) __Encouragement of Use and Development.—__ 
+>     “(c)  __Encouragement of Use and Development__  __.—__ 
 
 >     The Chief Information Officer shall, whenever practicable, encourage and foster the use, support, development, and enhancement of the Ozone Widget Framework by the computer industry and commercial information technology vendors, including the development of tools that are compatible with the Framework.”
 
@@ -181,7 +181,7 @@
 
 [Pub. L. 111–383, div. A, title IX, § 931][/us/pl/111/383/s931], Jan. 7, 2011, [124 Stat. 4334][/us/stat/124/4334], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall direct the Chief Information Officer of the Department of Defense to work, in coordination with the Chief Information Officers of the military departments and the Defense Agencies and with senior cybersecurity and information assurance officials within the Department of Defense and otherwise within the Federal Government, to achieve, to the extent practicable, the following:
 
@@ -195,7 +195,7 @@
 
 >             “(B) management, operational, and technical controls relied on for evaluations under [section 3545 of title 44][/us/usc/t44/s3545], United States Code.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 

@@ -45,7 +45,7 @@
 
 [Pub. L. 103–337, div. A, title X, § 1075][/us/pl/103/337/s1075], Oct. 5, 1994, [108 Stat. 2861][/us/stat/108/2861], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     No funds available to the Department of Defense or any other Executive agency may be expended to provide for meeting Department of Defense telecommunications requirements through the telecommunications procurement known as ‘FTS–2000’ or through any other Government-wide telecommunications procurement until—
 
@@ -59,7 +59,7 @@
 
 >         “(2) 30 days elapse after the date on which such report is received by the committees.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -69,7 +69,7 @@
 
 >         “(3) The term ‘procurement’ has the meaning given such term in section 4 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 403][/us/usc/t41/s403]) \[see [41 U.S.C. 111][/us/usc/t41/s111]\].
 
->     “(c) __Effect on Other Law.—__ 
+>     “(c)  __Effect on Other Law__  __.—__ 
 
 >     Nothing in this section may be construed as modifying or superseding, or as intended to impair or restrict authorities or responsibilities under—
 

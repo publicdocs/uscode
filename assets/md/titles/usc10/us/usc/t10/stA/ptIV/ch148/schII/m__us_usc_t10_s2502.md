@@ -15,11 +15,11 @@
 
 ## § 2502. National Defense Technology and Industrial Base Council
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a National Defense Technology and Industrial Base Council.
 
-    (b) __Composition.—__ 
+    (b)  __Composition__  __.—__ 
 
     The Council is composed of the following members:
 
@@ -33,7 +33,7 @@
 
         (5) Such other officials as may be determined by the President.
 
-    (c) __Responsibilities.—__ 
+    (c)  __Responsibilities__  __.—__ 
 
     The Council shall have the responsibility to ensure effective cooperation among departments and agencies of the Federal Government, and to provide advice and recommendations to the President, the Secretary of Defense, the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor, concerning—
 
@@ -43,7 +43,7 @@
 
         (3) changes in acquisition policy that strengthen the national technology and industrial base.
 
-    (d) __Alternative Performance of Responsibilities.—__ 
+    (d)  __Alternative Performance of Responsibilities__  __.—__ 
 
     Notwithstanding subsection (c), the President may assign the responsibilities of the Council to another interagency organization of the executive branch that includes among its members the officials specified in paragraphs (1) through (4) of subsection (b).
 

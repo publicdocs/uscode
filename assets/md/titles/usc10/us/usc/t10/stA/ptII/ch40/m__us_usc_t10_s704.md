@@ -29,9 +29,9 @@
 
         (4) provide for the determination of the number of calendar days of leave to which a member is entitled, including the number of calendar days of absence from duty or vacation to be counted or charged against leave.
 
-    (c) __Facilitating Granting of Leave for Attendance at Hearings.—__ 
+    (c)  __Facilitating Granting of Leave for Attendance at Hearings__  __.—__ 
 
-        (1) __Regulations.—__ 
+        (1)  __Regulations__  __.—__ 
 
         The Secretary concerned shall prescribe regulations to facilitate the granting of leave to a member of the armed forces under the jurisdiction of that Secretary in a case in which—
 
@@ -41,7 +41,7 @@
 
             (C) the exigencies of military service (as determined by the Secretary concerned) do not otherwise require that such leave not be granted.
 
-        (2) __Covered hearings.—__ 
+        (2)  __Covered hearings__  __.—__ 
 
         Paragraph (1) applies to a hearing that is conducted by a court or pursuant to an administrative process established under State law, in connection with a civil action—
 
@@ -49,7 +49,7 @@
 
             (B) to determine an obligation of a member of the armed forces to provide child support.
 
-        (3) __Definitions.—__ 
+        (3)  __Definitions__  __.—__ 
 
         In this subsection:
 

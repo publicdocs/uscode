@@ -15,11 +15,11 @@
 
 ## § 12205. Commissioned officers: appointment; educational requirement
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     No person may be appointed to a grade above the grade of first lieutenant in the Army Reserve, Air Force Reserve, or Marine Corps Reserve or to a grade above the grade of lieutenant (junior grade) in the Navy Reserve, or be federally recognized in a grade above the grade of first lieutenant as a member of the Army National Guard or Air National Guard, unless that person has been awarded a baccalaureate degree by a qualifying educational institution.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) does not apply to the following:
 
@@ -33,7 +33,7 @@
 
         (5) Recognition in the grade of captain or major in the Alaska Army National Guard of a person who resides permanently at a location in Alaska that is more than 50 miles from each of the cities of Anchorage, Fairbanks, and Juneau, Alaska, by paved road and who is serving in a Scout unit or a Scout supporting unit.
 
-    (c) __Qualifying Educational Institutions.—__ 
+    (c)  __Qualifying Educational Institutions__  __.—__ 
 
         (1) A qualifying educational institution for purposes of this section is an educational institution that is accredited or that meets the requirements of paragraph (2).
 
@@ -45,7 +45,7 @@
 
             (C) In the case of a person with a degree from an unaccredited institution that is a qualifying educational institution under this paragraph, the degree may not have been awarded more than eight years before the date on which the person is to be appointed to, or recognized in, the grade of captain or, in the case of the Navy Reserve, lieutenant, in order for that person to be considered for purposes of subsection (a) to have been awarded a baccalaureate degree by a qualifying educational institution.
 
-    (d) __Waiver Authority for Army OCS Graduates and Certain Marine Corps Officers.—__ 
+    (d)  __Waiver Authority for Army OCS Graduates and Certain Marine Corps Officers__  __.—__ 
 
         (1) The Secretary of the Army may waive the applicability of subsection (a) to any officer whose original appointment in the Army as a Reserve officer is through the Army Officer Candidate School program.
 
@@ -91,11 +91,11 @@
 
 [Pub. L. 105–261, div. A, title V, § 516][/us/pl/105/261/s516], Oct. 17, 1998, [112 Stat. 2008][/us/stat/112/2008], provided that:
 
->     “(a) __Waiver Authority for Army OCS Graduates.—__ 
+>     “(a)  __Waiver Authority for Army OCS Graduates__  __.—__ 
 
 >     The Secretary of the Army may waive the applicability of [section 12205(a) of title 10][/us/usc/t10/s12205/a], United States Code, to any officer who before the date of the enactment of this Act \[Oct. 17, 1998\] was commissioned through the Army Officer Candidate School. Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than 2 years after the waiver is granted. The Secretary may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
 
->     “(b) __Expiration of Authority.—__ 
+>     “(b)  __Expiration of Authority__  __.—__ 
 
 >     A waiver under this section may not be granted after September 30, 2000.”
 

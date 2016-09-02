@@ -15,27 +15,27 @@
 
 ## § 1105. Specialized treatment facility program
 
-    (a) __Program Authorized.—__ 
+    (a)  __Program Authorized__  __.—__ 
 
     The Secretary of Defense may conduct a specialized treatment facility program pursuant to regulations prescribed by the Secretary of Defense. The Secretary shall consult with the other administering Secretaries in prescribing regulations for the program and in conducting the program.
 
-    (b) __Facilities Authorized To Be Used.—__ 
+    (b)  __Facilities Authorized To Be Used__  __.—__ 
 
     Under the specialized treatment facility program, the Secretary may designate health care facilities of the uniformed services and civilian health care facilities as specialized treatment facilities.
 
-    (c) __Waiver of Nonemergency Health Care Restriction.—__ 
+    (c)  __Waiver of Nonemergency Health Care Restriction__  __.—__ 
 
     Under the specialized treatment facility program, the Secretary may waive, with regard to the provision of a particular service, the 40-mile radius restriction set forth in [section 1079(a)(7) of this title][/us/usc/t10/s1079/a/7] if the Secretary determines that the use of a different geographical area restriction will result in a more cost-effective provision of the service.
 
-    (d) __Civilian Facility Service Area.—__ 
+    (d)  __Civilian Facility Service Area__  __.—__ 
 
     For purposes of the specialized treatment facility program, the service area of a civilian health care facility designated pursuant to subsection (b) shall be comparable in size to the service areas of facilities of the uniformed services.
 
-    (e) __Issuance of Nonavailability of Health Care Statements.—__ 
+    (e)  __Issuance of Nonavailability of Health Care Statements__  __.—__ 
 
     A covered beneficiary who resides within the service area of a specialized treatment facility designated under the specialized treatment facility program may be required to obtain a nonavailability of health care statement in the case of a specialized service offered by the facility in order for the covered beneficiary to receive the service outside of the program.
 
-    (f) __Payment of Costs Related to Care in Specialized Treatment Facilities.—__ 
+    (f)  __Payment of Costs Related to Care in Specialized Treatment Facilities__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
         (2) The Secretary may make reimbursements for or provide transportation, lodging, and meals under paragraph (1) in the case of a covered beneficiary only if the total cost to the Department of Defense of doing so and of providing the health care in such case is less than the cost to the Department of providing the health care to the covered beneficiary by other means authorized under this chapter.
 
-    (g) __Covered Beneficiary Defined.—__ 
+    (g)  __Covered Beneficiary Defined__  __.—__ 
 
     In this section, the term “covered beneficiary” means a person covered under section 1079 or 1086 of this title.
 

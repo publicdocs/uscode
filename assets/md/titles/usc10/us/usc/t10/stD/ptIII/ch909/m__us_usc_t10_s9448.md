@@ -15,11 +15,11 @@
 
 ## § 9448. Regulations
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of the Air Force shall prescribe regulations for the administration of this chapter.
 
-    (b) __Required Regulations.—__ 
+    (b)  __Required Regulations__  __.—__ 
 
     The regulations shall include the following:
 
@@ -29,7 +29,7 @@
 
         (3) Regulations governing the qualifications of retired Air Force personnel to serve as an administrator or liaison officer for the Civil Air Patrol under a personal services contract entered into under [section 9446(a) of this title][/us/usc/t10/s9446/a].
 
-    (c) __Approval by Secretary of Defense.—__ 
+    (c)  __Approval by Secretary of Defense__  __.—__ 
 
     The regulations required by subsection (b)(2) shall be subject to the approval of the Secretary of Defense.
 

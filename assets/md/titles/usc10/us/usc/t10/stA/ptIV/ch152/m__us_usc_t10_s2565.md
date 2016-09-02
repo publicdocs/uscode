@@ -15,7 +15,7 @@
 
 ## § 2565. Nuclear test monitoring equipment: furnishing to foreign governments
 
-    (a) __Authority To Transfer Title to or Otherwise Provide Nuclear Test Monitoring Equipment.—__ 
+    (a)  __Authority To Transfer Title to or Otherwise Provide Nuclear Test Monitoring Equipment__  __.—__ 
 
     Subject to subsection (b), the Secretary of Defense may—
 
@@ -25,7 +25,7 @@
 
         (3) inspect, test, maintain, repair, or replace any such equipment.
 
-    (b) __Agreement Required.—__ 
+    (b)  __Agreement Required__  __.—__ 
 
     Nuclear test explosion monitoring equipment may be provided to a foreign government under subsection (a) only pursuant to the terms of an agreement between the United States and the foreign government receiving the equipment in which the recipient foreign government agrees—
 
@@ -33,11 +33,11 @@
 
         (2) to permit the Secretary of Defense to take such measures as the Secretary considers necessary to inspect, test, maintain, repair, or replace that equipment, including access for purposes of such measures.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
     Promptly after entering into any agreement under subsection (b), the Secretary of Defense shall submit to Congress a report on the agreement. The report shall identify the country with which the agreement was made, the anticipated costs to the United States to be incurred under the agreement, and the national interest of the United States that is furthered by the agreement.
 
-    (d) __Limitation on Delegation.—__ 
+    (d)  __Limitation on Delegation__  __.—__ 
 
     The Secretary of Defense may delegate the authority of the Secretary to carry out this section only to the Secretary of the Air Force. Such a delegation may be redelegated.
 

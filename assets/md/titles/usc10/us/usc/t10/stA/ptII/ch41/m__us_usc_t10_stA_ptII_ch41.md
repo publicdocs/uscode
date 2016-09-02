@@ -159,15 +159,15 @@
 
 [Pub. L. 109–364, div. A, title XI, § 1104][/us/pl/109/364/s1104], Oct. 17, 2006, [120 Stat. 2409][/us/stat/120/2409], as amended by [Pub. L. 112–81, div. A, title X, § 1066(c)][/us/pl/112/81/s1066/c], Dec. 31, 2011, [125 Stat. 1588][/us/stat/125/1588], provided that:
 
->     “(a) __Reports on Details and Fellowships of Long Duration.—__ 
+>     “(a)  __Reports on Details and Fellowships of Long Duration__  __.—__ 
 
 >     Whenever a member of the Armed Forces or a civilian employee of the Department of Defense serves continuously in the Legislative Branch for more than 12 consecutive months in one or a combination of covered legislative details or fellowships, the Secretary of Defense shall submit to the congressional defense committees, within 90 days, and quarterly thereafter for as long as the service continues, a report on the service of the member or employee.
 
->     “(b) __Reports on Certain Military Details and Fellowships.—__ 
+>     “(b)  __Reports on Certain Military Details and Fellowships__  __.—__ 
 
 >     If a member of the Armed Forces is assigned to a covered legislative detail or fellowship as the last tour of duty of such member before retirement or separation from the Armed Forces in contravention of the regulations of the Department of Defense, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the assignment of such member to such covered legislative detail or fellowship. The report shall include a rationale for the waiver of the regulations of the Department in order to permit the detail or fellowship.
 
->     “(c) __Report Elements.—__ 
+>     “(c)  __Report Elements__  __.—__ 
 
 >     Each report under subsection (a) or (b) shall set forth, for each member of the Armed Forces or civilian employee of the Department of Defense covered by such report, the following:
 
@@ -181,7 +181,7 @@
 
 >         “(5) The anticipated termination date of the current detail or fellowship of such member or employee.
 
->     “(d) __Covered Legislative Detail or Fellowship Defined.—__ 
+>     “(d)  __Covered Legislative Detail or Fellowship Defined__  __.—__ 
 
 >     In this section, the term ‘covered legislative detail or fellowship’ means the following:
 

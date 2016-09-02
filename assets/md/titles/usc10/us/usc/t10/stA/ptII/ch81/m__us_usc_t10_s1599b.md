@@ -15,23 +15,23 @@
 
 ## § 1599b. Employees abroad: travel expenses; health care
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense may provide civilian employees, and members of their families, abroad with benefits that are comparable to certain benefits that are provided by the Secretary of State to members of the Foreign Service and their families abroad as described in subsections (b) and (c). The Secretary may designate the employees and members of families who are eligible to receive the benefits.
 
-    (b) __Travel and Related Expenses.—__ 
+    (b)  __Travel and Related Expenses__  __.—__ 
 
     The Secretary of Defense may pay travel expenses and related expenses for purposes and in amounts that are comparable to the purposes for which, and the amounts in which, travel and related expenses are paid by the Secretary of State under section 901 of the Foreign Service Act of 1980 ([22 U.S.C. 4081][/us/usc/t22/s4081]).
 
-    (c) __Health Care Program.—__ 
+    (c)  __Health Care Program__  __.—__ 
 
     The Secretary of Defense may establish a health care program that is comparable to the health care program established by the Secretary of State under section 904 of the Foreign Service Act of 1980 ([22 U.S.C. 4084][/us/usc/t22/s4084]).
 
-    (d) __Assistance.—__ 
+    (d)  __Assistance__  __.—__ 
 
     The Secretary of Defense may enter into agreements with the heads of other departments and agencies of the Government in order to facilitate the payment of expenses authorized by subsection (b) and to carry out a health care program authorized by subsection (c).
 
-    (e) __Abroad Defined.—__ 
+    (e)  __Abroad Defined__  __.—__ 
 
     In this section, the term “abroad” means outside—
 

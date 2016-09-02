@@ -15,11 +15,11 @@
 
 ## § 613a. Nondisclosure of board proceedings
 
-    (a) __Prohibition on Disclosure.—__ 
+    (a)  __Prohibition on Disclosure__  __.—__ 
 
     The proceedings of a selection board convened under section 573, 611, or 628 of this title may not be disclosed to any person not a member of the board, except as authorized or required to process the report of the board. This prohibition is a statutory exemption from disclosure, as described in [section 552(b)(3) of title 5][/us/usc/t5/s552/b/3].
 
-    (b) __Prohibited Uses of Board Discussions, Deliberations, Notes, and Records.—__ 
+    (b)  __Prohibited Uses of Board Discussions, Deliberations, Notes, and Records__  __.—__ 
 
     The discussions and deliberations of a selection board described in subsection (a) and any written or documentary record of such discussions and deliberations—
 
@@ -29,7 +29,7 @@
 
         (3) may not be used for any purpose in any action, suit, or judicial or administrative proceeding without the consent of the Secretary of the military department concerned.
 
-    (c) __Applicability.—__ 
+    (c)  __Applicability__  __.—__ 
 
     This section applies to all selection boards convened under section 573, 611, or 628 of this title, regardless of the date on which the board was convened.
 

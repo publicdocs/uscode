@@ -15,17 +15,17 @@
 
 ## § 2166. Western Hemisphere Institute for Security Cooperation
 
-    (a) __Establishment and Administration.—__ 
+    (a)  __Establishment and Administration__  __.—__ 
 
         (1) The Secretary of Defense may operate an education and training facility for the purpose set forth in subsection (b). The facility shall be known as the “Western Hemisphere Institute for Security Cooperation”.
 
         (2) The Secretary may designate the Secretary of a military department as the Department of Defense executive agent for carrying out the responsibilities of the Secretary of Defense under this section.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of the Institute is to provide professional education and training to eligible personnel of nations of the Western Hemisphere within the context of the democratic principles set forth in the Charter of the Organization of American States (such charter being a treaty to which the United States is a party), while fostering mutual knowledge, transparency, confidence, and cooperation among the participating nations and promoting democratic values, respect for human rights, and knowledge and understanding of United States customs and traditions.
 
-    (c) __Eligible Personnel.—__ 
+    (c)  __Eligible Personnel__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
         (2) The Secretary of State shall be consulted in the selection of foreign personnel for education or training at the Institute.
 
-    (d) __Curriculum.—__ 
+    (d)  __Curriculum__  __.—__ 
 
         (1) The curriculum of the Institute shall include mandatory instruction for each student, for at least 8 hours, on human rights, the rule of law, due process, civilian control of the military, and the role of the military in a democratic society.
 
@@ -57,7 +57,7 @@
 
             (E) Any other matter that the Secretary determines appropriate.
 
-    (e) __Board of Visitors.—__ 
+    (e)  __Board of Visitors__  __.—__ 
 
         (1)
 
@@ -111,7 +111,7 @@
 
         (9) The Federal Advisory Committee Act (5 U.S.C. App.), other than section 14 (relating to termination after two years), shall apply to the Board.
 
-    (f) __Authority To Accept Foreign Gifts and Donations.—__ 
+    (f)  __Authority To Accept Foreign Gifts and Donations__  __.—__ 
 
         (1) The Secretary of Defense may, on behalf of the Institute, accept foreign gifts or donations in order to defray the costs of, or enhance the operation of, the Institute.
 
@@ -121,7 +121,7 @@
 
         (4) For the purposes of this subsection, a foreign gift or donation is a gift or donation of funds, materials (including research materials), property, or services (including lecture services and faculty services) from a foreign government, a foundation or other charitable organization in a foreign country, or an individual in a foreign country.
 
-    (g) __Fixed Costs.—__ 
+    (g)  __Fixed Costs__  __.—__ 
 
     The fixed costs of operating and maintaining the Institute for a fiscal year may be paid from—
 
@@ -129,11 +129,11 @@
 
         (2) if no executive agent is designated under subsection (a)(2), any funds available for that fiscal year for the Department of Defense for operation and maintenance for Defense-wide activities.
 
-    (h) __Tuition.—__ 
+    (h)  __Tuition__  __.—__ 
 
     Tuition fees charged for persons who attend the Institute may not include the fixed costs of operating and maintaining the Institute.
 
-    (i) __Annual Report.—__ 
+    (i)  __Annual Report__  __.—__ 
 
     Not later than March 15 of each year, the Secretary of Defense shall submit to Congress a detailed report on the activities of the Institute during the preceding year. The report shall include a copy of the latest report of the Board of Visitors received by the Secretary under subsection (e)(5), together with any comments of the Secretary on the Board’s report. The report shall be prepared in consultation with the Secretary of State.
 

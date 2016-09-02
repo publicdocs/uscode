@@ -15,11 +15,11 @@
 
 ## § 2273. Policy regarding assured access to space: national security payloads
 
-    (a) __Policy.—__ 
+    (a)  __Policy__  __.—__ 
 
     It is the policy of the United States for the President to undertake actions appropriate to ensure, to the maximum extent practicable, that the United States has the capabilities necessary to launch and insert United States national security payloads into space whenever such payloads are needed in space.
 
-    (b) __Included Actions.—__ 
+    (b)  __Included Actions__  __.—__ 
 
     The appropriate actions referred to in subsection (a) shall include, at a minimum, providing resources and policy guidance to sustain—
 
@@ -27,7 +27,7 @@
 
         (2) a robust space launch infrastructure and industrial base.
 
-    (c) __Coordination.—__ 
+    (c)  __Coordination__  __.—__ 
 
     The Secretary of Defense shall, to the maximum extent practicable, pursue the attainment of the capabilities described in subsection (a) in coordination with the Administrator of the National Aeronautics and Space Administration.
 

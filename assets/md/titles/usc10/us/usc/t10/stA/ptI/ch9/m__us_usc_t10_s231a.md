@@ -15,7 +15,7 @@
 
 ## § 231a. Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification
 
-    (a) __Annual Aircraft Procurement Plan and Certification.—__ 
+    (a)  __Annual Aircraft Procurement Plan and Certification__  __.—__ 
 
     Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year of  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “, the Secretary”. </sup></sup>  Defense shall submit to the congressional defense committees—
 
@@ -23,7 +23,7 @@
 
         (2) a certification by the Secretary that both the budget for such fiscal year and the future-years defense program submitted to Congress in relation to such budget under [section 221 of this title][/us/usc/t10/s221] provide for funding of the procurement of aircraft at a level that is sufficient for the procurement of the aircraft provided for in the plan under paragraph (1) on the schedule provided in the plan.
 
-    (b) __Covered Aircraft.—__ 
+    (b)  __Covered Aircraft__  __.—__ 
 
     The aircraft specified in this subsection are the aircraft as follows:
 
@@ -49,7 +49,7 @@
 
         (11) Any other major support aircraft designated by the Secretary of Defense for purposes of this section.
 
-    (c) __Annual Aircraft Procurement Plan.—__ 
+    (c)  __Annual Aircraft Procurement Plan__  __.—__ 
 
         (1) The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]), <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
 
@@ -81,11 +81,11 @@
 
         (4) The annual aircraft procurement plan shall be submitted in unclassified form and shall contain a classified annex.
 
-    (d) __Assessment When Aircraft Procurement Budget Is Insufficient To Meet Applicable Requirements.—__ 
+    (d)  __Assessment When Aircraft Procurement Budget Is Insufficient To Meet Applicable Requirements__  __.—__ 
 
     If the budget for a fiscal year provides for funding of the procurement of aircraft for either the Department of the Navy, the Department of the Army, or the Department of the Air Force at a level that is not sufficient to sustain the aviation force structure specified in the aircraft procurement plan for such Department for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of aircraft that will result from funding aircraft procurement at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
 
-    (e) __Annual Report on Aircraft Inventory.—__ 
+    (e)  __Annual Report on Aircraft Inventory__  __.—__ 
 
         (1)
 
@@ -125,7 +125,7 @@
 
         (2) Each report submitted under this subsection shall set forth each item described in paragraph (1) separately for the regular component of each armed force and for each reserve component of each armed force and, for each such component, shall set forth each type, model, and series of aircraft provided for in the future-years defense program that covers the fiscal year for which the budget accompanying the plan, certification and report is submitted.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

@@ -15,7 +15,7 @@
 
 ## § 14311. Delay of promotion: involuntary
 
-    (a) __Delay During Investigations and Proceedings.—__ 
+    (a)  __Delay During Investigations and Proceedings__  __.—__ 
 
         (1)
 
@@ -33,21 +33,21 @@
 
         (2) If disciplinary action is not taken against the officer, if the charges against the officer are withdrawn or dismissed, if the officer is not separated by the Secretary of the military department concerned as the result of having been required to show cause for retention, if the officer is acquitted of the charges, or if, after a review of substantiated adverse information about the officer regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion, as the case may be, then (unless action to delay the officer’s appointment to the higher grade has been taken under subsection (b)) the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable), list of officers found qualified for Federal recognition, or list of officers nominated by the President to the Senate for appointment in a higher reserve grade and shall, upon promotion to the next higher grade, have the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the reserve active-status list as the officer would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the reserve active-status list as the Secretary considers appropriate under the circumstances.
 
-    (b) __Delay for Lack of Qualifications.—__ 
+    (b)  __Delay for Lack of Qualifications__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, the appointment of an officer to a higher grade may also be delayed if there is cause to believe that the officer has not met the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, or is mentally, physically, morally, or professionally unqualified to perform the duties of the grade to which selected. If it is later determined by a civilian official of the Department of Defense (not below the level of Secretary of a military department) that the officer is qualified for promotion to the higher grade and, after a review of adverse information regarding the requirement for exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable, the officer is determined to be among the officers best qualified for promotion to the higher grade, the officer shall be retained on the promotion list (including an approved all-fully-qualified-officers list, if applicable), the list of officers found qualified for Federal recognition, or list of officers nominated by the President to the Senate for appointment in a higher reserve grade, and shall, upon promotion to that grade, have the same date of rank, the same effective date for pay and allowances of that grade, and the same position on the reserve active-status list as the officer would have had if no delay had intervened, unless the Secretary concerned determines that the officer was unqualified for promotion for any part of the delay. If the Secretary makes such a determination, the Secretary may adjust such date of rank, effective date of pay and allowances, and position on the reserve active-status list as the Secretary considers appropriate under the circumstances.
 
-    (c) __Notice to Officer.—__ 
+    (c)  __Notice to Officer__  __.—__ 
 
         (1) The appointment of an officer to a higher grade may not be delayed under subsection (a) or (b) unless the officer is given written notice of the grounds for the delay. The preceding sentence does not apply if it is impracticable to give the officer written notice before the date on which the appointment to the higher grade would otherwise take effect, but in such a case the written notice shall be given as soon as practicable.
 
         (2) An officer whose promotion is delayed under subsection (a) or (b) shall be given an opportunity to make a written statement to the Secretary of the military department concerned in response to the action taken. The Secretary shall give consideration to any such statement.
 
-    (d) __Maximum Length of Delay in Promotion.—__ 
+    (d)  __Maximum Length of Delay in Promotion__  __.—__ 
 
     The appointment of an officer to a higher grade may not be delayed under subsection (a) or (b) for more than six months after the date on which the officer would otherwise have been promoted unless the Secretary concerned specifies a further period of delay. An officer’s appointment may not be delayed more than 90 days after final action has been taken in any criminal case against the officer in a Federal or State court of competent jurisdiction or more than 90 days after final action has been taken in any court-martial case against the officer. Except for court action, a promotion may not be delayed more than 18 months after the date on which the officer would otherwise have been promoted.
 
-    (e) __Delay Because of Limitations on Officer Strength in Grade or Duties to Which Assigned.—__ 
+    (e)  __Delay Because of Limitations on Officer Strength in Grade or Duties to Which Assigned__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary of Defense, the promotion of a reserve officer on the reserve active-status list who is serving on active duty, or who is on full-time National Guard duty for administration of the reserves or the National Guard, to a grade to which the strength limitations of [section 12011 of this title][/us/usc/t10/s12011] apply shall be delayed if necessary to ensure compliance with those strength limitations. The delay shall expire when the Secretary determines that the delay is no longer required to ensure such compliance.
 

@@ -15,7 +15,7 @@
 
 ## § 7317. Status of Government rights in the designs of vessels, boats, and craft, and components thereof
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Government rights in the design of a vessel, boat, or craft, and its components, including the hull, decks, superstructure, and all shipboard equipment and systems, shall be determined solely as follows:
 
@@ -23,7 +23,7 @@
 
         (2) In the case of a vessel, boat, craft, or component procured through an instrument not governed by [section 2320 of this title][/us/usc/t10/s2320], by the terms of the instrument (other than a contract) under which the design for such vessel, boat, craft, or component, as applicable, was developed for the Government.
 
-    (b) __Construction of Superseding Authorities.—__ 
+    (b)  __Construction of Superseding Authorities__  __.—__ 
 
     This section may be modified or superseded by a provision of statute only if such provision expressly refers to this section in modifying or superseding this section.
 

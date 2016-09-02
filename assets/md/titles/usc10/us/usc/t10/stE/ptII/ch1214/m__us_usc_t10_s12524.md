@@ -15,7 +15,7 @@
 
 ## § 12524. Enrollment and election of benefits
 
-    (a) __Enrollment.—__ 
+    (a)  __Enrollment__  __.—__ 
 
         (1) Except as provided in subsection (f), upon first becoming a member of the Ready Reserve, a member shall be automatically enrolled for coverage under the insurance program. An automatic enrollment of a member shall be void if within 60 days after first becoming a member of the Ready Reserve the member declines insurance under the program in accordance with the regulations prescribed by the Secretary.
 
@@ -23,29 +23,29 @@
 
         (3) A member of the Ready Reserve ineligible to enroll under subsection (f) shall be afforded an opportunity to enroll upon being released from active duty in accordance with regulations prescribed by the Secretary if the member has not previously had the opportunity to be enrolled under paragraph (1) or (2). A member who fails to enroll within 60 days after being afforded that opportunity shall be considered as having declined to be insured under the program.
 
-    (b) __Election of Benefit Amount.—__ 
+    (b)  __Election of Benefit Amount__  __.—__ 
 
     The amount of a member’s monthly benefit under an enrollment shall be the basic benefit under subsection (a) of [section 12525 of this title][/us/usc/t10/s12525] unless the member elects a different benefit under subsection (b) of such section within 60 days after first becoming a member of the Ready Reserve or within 60 days after being offered the opportunity to enroll, as the case may be.
 
-    (c) __Elections Irrevocable.—__ 
+    (c)  __Elections Irrevocable__  __.—__ 
 
         (1) An election to decline insurance pursuant to paragraph (1) or (2) of subsection (a) is irrevocable.
 
         (2) The amount of coverage may not be increased after enrollment.
 
-    (d) __Election To Terminate.—__ 
+    (d)  __Election To Terminate__  __.—__ 
 
     A member may terminate an enrollment at any time.
 
-    (e) __Information To Be Furnished.—__ 
+    (e)  __Information To Be Furnished__  __.—__ 
 
     The Secretary shall ensure that members referred to in subsection (a) are given a written explanation of the insurance program and are advised that they have the right to decline to be insured and, if not declined, to elect coverage for a reduced benefit or an enhanced benefit under subsection (b).
 
-    (f) __Members Ineligible To Enroll.—__ 
+    (f)  __Members Ineligible To Enroll__  __.—__ 
 
     Members of the Ready Reserve serving on active duty (or full-time National Guard duty) are not eligible to enroll for coverage under the insurance program. The Secretary may define any additional category of members of the Ready Reserve to be excluded from eligibility to purchase insurance under this chapter.
 
-    (g) __Members of Individual Ready Reserve.—__ 
+    (g)  __Members of Individual Ready Reserve__  __.—__ 
 
     Notwithstanding any other provision of this section, and pursuant to regulations issued by the Secretary, a member of the Individual Ready Reserve who becomes a member of the Selected Reserve shall not be denied eligibility to purchase insurance under this chapter upon becoming a member of the Selected Reserve unless the member previously declined to enroll in the program of insurance under this chapter while a member of the Selected Reserve.
 

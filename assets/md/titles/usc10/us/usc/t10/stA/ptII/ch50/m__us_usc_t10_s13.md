@@ -17,11 +17,11 @@
 
 ## “SEC. 13. REPORTING BARRED PERSONS SELLING INSURANCE OR SECURITIES.
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall maintain a list of the name, address, and other appropriate information relating to persons engaged in the business of securities or insurance that have been barred or otherwise limited in any manner that is not generally applicable to all such type of persons, from any or all military installations of the United States, or that have engaged in any transaction that is prohibited by this Act.
 
->     “(b) __Notice and Access.—__ 
+>     “(b)  __Notice and Access__  __.—__ 
 
 >     The Secretary of Defense shall ensure that—
 
@@ -37,25 +37,25 @@
 
 >     “(c) __Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall issue regulations in accordance with this subsection to provide for the establishment and maintenance of the list required by this section, including appropriate due process considerations.
 
 >         “(2) __Timing.—__ 
 
->             “(A) __Proposed regulations.—__ 
+>             “(A)  __Proposed regulations__  __.—__ 
 
 >             Not later than the expiration of the 60-day period beginning on the date of enactment of this Act \[Sept. 29, 2006\], the Secretary of Defense shall prepare and submit to the appropriate Committees of Congress a copy of the regulations required by this subsection that are proposed to be published for comment. The Secretary may not publish such regulations for comment in the Federal Register until the expiration of the 15-day period beginning on the date of such submission to the appropriate Committees of Congress.
 
->             “(B) __Final regulations.—__ 
+>             “(B)  __Final regulations__  __.—__ 
 
 >             Not later than 90 days after the date of enactment of this Act, the Secretary of Defense shall submit to the appropriate Committees of Congress a copy of the regulations under this section to be published in final form.
 
->             “(C) __Effective date.—__ 
+>             “(C)  __Effective date__  __.—__ 
 
 >             Final regulations under this paragraph shall become effective 30 days after the date of their submission to the appropriate Committees of Congress under subparagraph (B).
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘appropriate Committees of Congress’ means—
 

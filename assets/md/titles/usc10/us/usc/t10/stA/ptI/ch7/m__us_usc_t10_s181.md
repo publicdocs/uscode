@@ -15,11 +15,11 @@
 
 ## § 181. Joint Requirements Oversight Council
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a Joint Requirements Oversight Council in the Department of Defense.
 
-    (b) __Mission.—__ 
+    (b)  __Mission__  __.—__ 
 
     In addition to other matters assigned to it by the President or Secretary of Defense, the Joint Requirements Oversight Council shall—
 
@@ -41,7 +41,7 @@
 
         (5) assist the Chairman, in consultation with the commanders of the combatant commands and the Under Secretary of Defense for Acquisition, Technology, and Logistics, in establishing an objective for the overall period of time within which an initial operational capability should be delivered to meet each joint military requirement.
 
-    (c) __Composition.—__ 
+    (c)  __Composition__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
         (2) Members of the Council under subparagraphs (B), (C), (D), and (E) of paragraph (1) shall be selected by the Chairman of the Joint Chiefs of Staff, after consultation with the Secretary of Defense, from officers in the grade of general or admiral, as the case may be, who are recommended for such selection by the Secretary of the military department concerned.
 
-    (d) __Advisors.—__ 
+    (d)  __Advisors__  __.—__ 
 
         (1)
 
@@ -81,17 +81,17 @@
 
         (2) The Council shall seek and consider input from the commanders of the combatant commands in carrying out its mission under paragraphs (1) and (2) of subsection (b) and in conducting periodic reviews in accordance with the requirements of subsection (e).
 
-    (e) __Organization.—__ 
+    (e)  __Organization__  __.—__ 
 
     The Joint Requirements Oversight Council shall conduct periodic reviews of joint military requirements within a core mission area of the Department of Defense. In any such review of a core mission area, the officer or official assigned to lead the review shall have a deputy from a different military department.
 
-    (f) __Availability of Oversight Information to Congressional Defense Committees.—__ 
+    (f)  __Availability of Oversight Information to Congressional Defense Committees__  __.—__ 
 
         (1) The Secretary of Defense shall ensure that, in the case of a recommendation by the Chairman to the Secretary that is approved by the Secretary, oversight information with respect to such recommendation that is produced as a result of the activities of the Joint Requirements Oversight Council is made available in a timely fashion to the congressional defense committees.
 
         (2) In this subsection, the term “oversight information” means information and materials comprising analysis and justification that are prepared to support a recommendation that is made to, and approved by, the Secretary of Defense.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

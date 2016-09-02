@@ -15,7 +15,7 @@
 
 ## § 2783. Nonappropriated fund instrumentalities: financial management and use of nonappropriated funds
 
-    (a) __Regulation of Management and Use of Nonappropriated Funds.—__ 
+    (a)  __Regulation of Management and Use of Nonappropriated Funds__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations governing—
 
@@ -23,13 +23,13 @@
 
         (2) the financial management of such funds to prevent waste, loss, or unauthorized use.
 
-    (b) __Penalties for Violations.—__ 
+    (b)  __Penalties for Violations__  __.—__ 
 
         (1) A civilian employee of the Department of Defense who is paid from nonappropriated funds and who commits a substantial violation of the regulations prescribed under subsection (a) shall be subject to the same penalties as are provided by law for misuse of appropriations by a civilian employee of the Department of Defense paid from appropriated funds. The Secretary of Defense shall prescribe regulations to carry out this paragraph.
 
         (2) The Secretary shall provide in regulations that a violation of the regulations prescribed under subsection (a) by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of [section 892 of this title][/us/usc/t10/s892] (article 92 of the Uniform Code of Military Justice).
 
-    (c) __Notification of Violations.—__ 
+    (c)  __Notification of Violations__  __.—__ 
 
         (1)
 
@@ -57,7 +57,7 @@
 
 [Pub. L. 102–484, div. A, title III, § 361][/us/pl/102/484/s361], Oct. 23, 1992, [106 Stat. 2379][/us/stat/106/2379], provided that:
 
->     “(a) __Standardization of Exchanges.—__ 
+>     “(a)  __Standardization of Exchanges__  __.—__ 
 
 >     The Secretary of Defense shall standardize among the military departments the following programs and activities of the military exchanges of the military departments:
 
@@ -67,11 +67,11 @@
 
 >         “(3) Automatic data processing and telecommunications data in order to facilitate the transfer of information among military exchanges.
 
->     “(b) __Time and Manner.—__ 
+>     “(b)  __Time and Manner__  __.—__ 
 
 >     The standardization of programs and activities required by subsection (a) shall be completed not later than March 31, 1994, and shall be carried out in the most efficient manner practicable.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than March 31, 1993, the Secretary of Defense shall submit to the Congress a report on other programs and activities of the military exchanges, if any, that the Secretary determines can be economically and efficiently managed through standardization or consolidation under a single nonappropriated fund instrumentality.”
 

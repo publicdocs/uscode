@@ -15,7 +15,7 @@
 
 ## § 1216a. Determinations of disability: requirements and limitations on determinations
 
-    (a) __Utilization of VA Schedule for Rating Disabilities in Determinations of Disability.—__ 
+    (a)  __Utilization of VA Schedule for Rating Disabilities in Determinations of Disability__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) In making a determination described in paragraph (1), the Secretary concerned may utilize in lieu of the schedule described in that paragraph such criteria as the Secretary of Defense and the Secretary of Veterans Affairs may jointly prescribe for purposes of this subsection if the utilization of such criteria will result in a determination of a greater percentage of disability than would be otherwise determined through the utilization of the schedule.
 
-    (b) __Consideration of All Medical Conditions.—__ 
+    (b)  __Consideration of All Medical Conditions__  __.—__ 
 
     In making a determination of the rating of disability of a member of the armed forces for purposes of this chapter, the Secretary concerned shall take into account all medical conditions, whether individually or collectively, that render the member unfit to perform the duties of the member’s office, grade, rank, or rating.
 

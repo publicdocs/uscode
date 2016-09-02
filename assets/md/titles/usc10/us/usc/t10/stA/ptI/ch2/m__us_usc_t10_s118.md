@@ -15,11 +15,11 @@
 
 ## § 118. Quadrennial defense review
 
-    (a) __Review Required.—__ 
+    (a)  __Review Required__  __.—__ 
 
     The Secretary of Defense shall every four years, during a year following a year evenly divisible by four, conduct a comprehensive examination (to be known as a “quadrennial defense review”) of the national defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of the defense program and policies of the United States with a view toward determining and expressing the defense strategy of the United States and establishing a defense program for the next 20 years. Each such quadrennial defense review shall be conducted in consultation with the Chairman of the Joint Chiefs of Staff.
 
-    (b) __Conduct of Review.—__ 
+    (b)  __Conduct of Review__  __.—__ 
 
     Each quadrennial defense review shall be conducted so as—
 
@@ -31,11 +31,11 @@
 
         (4) to make recommendations that are not constrained to comply with and are fully independent of the budget submitted to Congress by the President pursuant to [section 1105 of title 31][/us/usc/t31/s1105].
 
-    (c) __Assessment of Risk.—__ 
+    (c)  __Assessment of Risk__  __.—__ 
 
     The assessment of risk for the purposes of subsection (b) shall be undertaken by the Secretary of Defense in consultation with the Chairman of the Joint Chiefs of Staff. That assessment shall define the nature and magnitude of the political, strategic, and military risks associated with executing the missions called for under the national defense strategy.
 
-    (d) __Submission of QDR to Congressional Committees.—__ 
+    (d)  __Submission of QDR to Congressional Committees__  __.—__ 
 
     The Secretary shall submit a report on each quadrennial defense review to the Committees on Armed Services of the Senate and the House of Representatives. The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a]. The report shall include the following:
 
@@ -87,7 +87,7 @@
 
         (17) Any other matter the Secretary considers appropriate.
 
-    (e) __CJCS Review.—__ 
+    (e)  __CJCS Review__  __.—__ 
 
         (1) Upon the completion of each review under subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary of Defense the Chairman’s assessment of the review, including the Chairman’s assessment of risk and a description of the capabilities needed to address such risk.
 
@@ -95,11 +95,11 @@
 
     (f) __National Defense Panel.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         Not later than February 1 of a year in which a quadrennial defense review is conducted under this section, there shall be established an independent panel to be known as the National Defense Panel (in this subsection referred to as the “Panel”). The Panel shall have the duties set forth in this subsection.
 
-        (2) __Membership.—__ 
+        (2)  __Membership__  __.—__ 
 
         The Panel shall be composed of ten members from private civilian life who are recognized experts in matters relating to the national security of the United States. Eight of the members shall be appointed as follows:
 
@@ -111,15 +111,15 @@
 
             (D) Two by the ranking member of the Committee on Armed Services of the Senate.
 
-        (3) __Co-chairs of the panel.—__ 
+        (3)  __Co-chairs of the panel__  __.—__ 
 
         In addition to the members appointed under paragraph (2), the Secretary of Defense shall appoint two members from private civilian life to serve as co-chairs of the panel.
 
-        (4) __Period of appointment; vacancies.—__ 
+        (4)  __Period of appointment; vacancies__  __.—__ 
 
         Members shall be appointed for the life of the Panel. Any vacancy in the Panel shall be filled in the same manner as the original appointment.
 
-        (5) __Duties.—__ 
+        (5)  __Duties__  __.—__ 
 
         The Panel shall have the following duties with respect to a quadrennial defense review:
 
@@ -139,15 +139,15 @@
 
                 (v) provide to Congress and the Secretary of Defense, through the report under paragraph (7), any recommendations it considers appropriate for their consideration.
 
-        (6) __First meeting.—__ 
+        (6)  __First meeting__  __.—__ 
 
         If the Secretary of Defense has not made the Secretary’s appointments to the Panel under paragraph (3) by February 1 of a year in which a quadrennial defense review is conducted under this section, the Panel shall convene for its first meeting with the remaining members.
 
-        (7) __Report.—__ 
+        (7)  __Report__  __.—__ 
 
         Not later than 3 months after the date on which the report on a quadrennial defense review is submitted under subsection (d) to the congressional committees named in that subsection, the Panel established under paragraph (1) shall submit to those committees an assessment of the quadrennial defense review, including a description of the items addressed under paragraph (5) with respect to that quadrennial defense review.
 
-        (8) __Updates from secretary of defense.—__ 
+        (8)  __Updates from secretary of defense__  __.—__ 
 
         The Secretary of Defense shall ensure that periodically, but not less often than every 60 days, or at the request of the co-chairs, the Department of Defense briefs the Panel on the progress of the conduct of a quadrennial defense review under subsection (a).
 
@@ -161,11 +161,11 @@
 
             (D) Funds for activities of the Panel shall be provided from amounts available to the Department of Defense.
 
-        (10) __Termination.—__ 
+        (10)  __Termination__  __.—__ 
 
         The Panel for a quadrennial defense review shall terminate 45 days after the date on which the Panel submits its final report on the quadrennial defense review under paragraph (7).
 
-    (g) __Consideration of Effect of Climate Change on Department Facilities, Capabilities, and Missions.—__ 
+    (g)  __Consideration of Effect of Climate Change on Department Facilities, Capabilities, and Missions__  __.—__ 
 
         (1)
 
@@ -191,11 +191,11 @@
 
         (4) In this subsection, the term “national security strategy” means the annual national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]).1
 
-    (h) __Relationship to Budget.—__ 
+    (h)  __Relationship to Budget__  __.—__ 
 
     Nothing in this section shall be construed to affect [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 
-    (i) __Interagency Overseas Basing Report.—__ 
+    (i)  __Interagency Overseas Basing Report__  __.—__ 
 
         (1)
 
@@ -281,7 +281,7 @@
 
 [Pub. L. 109–364, div. A, title X, § 1031(a)][/us/pl/109/364/s1031/a], (b), Oct. 17, 2006, [120 Stat. 2385][/us/stat/120/2385], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds that the comprehensive examination of the defense program and policies of the United States that is undertaken by the Security \[Secretary of\] Defense every four years pursuant to [section 118 of title 10][/us/usc/t10/s118], United States Code, known as the Quadrennial Defense Review, is—
 
@@ -289,7 +289,7 @@
 
 >         “(2) critical to identifying the correct mix of military planning assumptions, defense capabilities, and strategic focuses for the Armed Forces.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Quadrennial Defense Review is intended to provide more than an overview of global threats and the general strategic orientation of the Department of Defense.”
 

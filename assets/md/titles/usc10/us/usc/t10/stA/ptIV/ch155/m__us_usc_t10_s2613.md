@@ -15,11 +15,11 @@
 
 ## § 2613. Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families
 
-    (a) __Authority to Accept Donation of Travel Benefits.—__ 
+    (a)  __Authority to Accept Donation of Travel Benefits__  __.—__ 
 
     Subject to subsection (c), the Secretary of Defense may accept from any person or government agency the donation of travel benefits for the purposes of use under subsection (d).
 
-    (b) __Travel Benefit Defined.—__ 
+    (b)  __Travel Benefit Defined__  __.—__ 
 
     In this section, the term “travel benefit” means—
 
@@ -27,11 +27,11 @@
 
         (2) points or awards for free or reduced-cost accommodations issued by an inn, hotel, or other commercial establishment that provides lodging to transient guests.
 
-    (c) __Condition on Authority to Accept Donation.—__ 
+    (c)  __Condition on Authority to Accept Donation__  __.—__ 
 
     The Secretary may accept a donation of a travel benefit under this section only if the business entity referred to in subsection (b) that is the source of the benefit consents to such donation. Any such donation shall be under such terms and conditions as the business entity may specify, and the travel benefit so donated may be used only in accordance with the rules established by the business entity.
 
-    (d) __Use of Donated Travel Benefits.—__ 
+    (d)  __Use of Donated Travel Benefits__  __.—__ 
 
     A travel benefit accepted under this section may be used only for the purpose of—
 
@@ -45,7 +45,7 @@
 
         (2) in the case of a member of the armed forces recuperating from an injury or illness incurred or aggravated in the line of duty during such a deployment, facilitating the travel of family members of the member in order to be reunited with the member.
 
-    (e) __Administration.—__ 
+    (e)  __Administration__  __.—__ 
 
         (1) The Secretary shall designate a single office in the Department of Defense to carry out this section. That office shall develop rules and procedures to facilitate the acceptance and distribution of travel benefits under this section.
 
@@ -61,7 +61,7 @@
 
         (3) The Secretary of Defense may, in an exceptional case, authorize a person not described in subsection (d)(2) to use a travel benefit accepted under this subsection to visit a member of the armed forces described in subsection (d)(1) if that person has a notably close relationship with the member. The travel benefit may be used by such person only in accordance with such conditions and restrictions as the Secretary determines appropriate and the rules established by the business entity referred to in subsection (b) that is the source of the travel benefit.
 
-    (f) __Services of Nonprofit Organization.—__ 
+    (f)  __Services of Nonprofit Organization__  __.—__ 
 
     The Secretary of Defense may enter into an agreement with a nonprofit organization to use the services of the organization—
 
@@ -69,7 +69,7 @@
 
         (2) to assist in administering the collection, distribution, and use of travel benefits under this section.
 
-    (g) __Family Member Defined.—__ 
+    (g)  __Family Member Defined__  __.—__ 
 
     In this section, the term “family member” has the meaning given that term in [section 481h(b)(1) of title 37][/us/usc/t37/s481h/b/1].
 

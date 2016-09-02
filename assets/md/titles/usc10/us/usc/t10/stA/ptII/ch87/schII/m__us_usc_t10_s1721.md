@@ -15,11 +15,11 @@
 
 ## § 1721. Designation of acquisition positions
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The Secretary of Defense shall designate in regulations those positions in the Department of Defense that are acquisition positions for purposes of this chapter.
 
-    (b) __Required Positions.—__ 
+    (b)  __Required Positions__  __.—__ 
 
     In designating the positions under subsection (a), the Secretary shall include, at a minimum, all acquisition-related positions in the following areas:
 
@@ -45,7 +45,7 @@
 
         (11) Joint development and production with other government agencies and foreign countries.
 
-    (c) __Management Headquarters Activities.—__ 
+    (c)  __Management Headquarters Activities__  __.—__ 
 
     The Secretary also shall designate as acquisition positions under subsection (a) those acquisition-related positions which are in management headquarters activities and in management headquarters support activities. For purposes of this subsection, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities”, dated November 12, 1996.
 

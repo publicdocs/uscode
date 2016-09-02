@@ -15,7 +15,7 @@
 
 ## § 2703. Environmental restoration accounts
 
-    (a) __Establishment of Accounts.—__ 
+    (a)  __Establishment of Accounts__  __.—__ 
 
     There are hereby established in the Department of Defense the following accounts:
 
@@ -29,21 +29,21 @@
 
         (5) An account to be known as the “Environmental Restoration Account, Formerly Used Defense Sites”.
 
-    (b) __Program Elements for Ordnance Remediation.—__ 
+    (b)  __Program Elements for Ordnance Remediation__  __.—__ 
 
     The Secretary of Defense shall establish a program element for remediation of unexploded ordnance, discarded military munitions, and munitions constituents within each environmental restoration account established under subsection (a). In this subsection, the terms “discarded military munitions” and “munitions constituents” have the meanings given such terms in [section 2710 of this title][/us/usc/t10/s2710].
 
-    (c) __Obligation of Authorized Amounts.—__ 
+    (c)  __Obligation of Authorized Amounts__  __.—__ 
 
         (1) Funds authorized for deposit in an account under subsection (a) may be obligated or expended from the account only to carry out the environmental restoration functions of the Secretary of Defense and the Secretaries of the military departments under this chapter and under any other provision of law.
 
         (2) Funds authorized for deposit in an account under subsection (a) shall remain available until expended.
 
-    (d) __Budget Reports.—__ 
+    (d)  __Budget Reports__  __.—__ 
 
     In proposing the budget for any fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the President shall set forth separately the amounts requested for environmental restoration programs of the Department of Defense and of each of the military departments under this chapter and under any other Act.
 
-    (e) __Credit of Amounts Recovered.—__ 
+    (e)  __Credit of Amounts Recovered__  __.—__ 
 
     The following amounts shall be credited to the appropriate environmental restoration account:
 
@@ -51,17 +51,17 @@
 
         (2) Any other amounts recovered from a contractor, insurer, surety, or other person to reimburse the Department of Defense or a military department for any expenditure for environmental response activities.
 
-    (f) __Payments of Fines and Penalties.—__ 
+    (f)  __Payments of Fines and Penalties__  __.—__ 
 
     None of the funds appropriated to the Environmental Restoration Account, Defense, for fiscal years 1995 through 2010, or to any environmental restoration account of a military department for fiscal years 1997 through 2010, may be used for the payment of a fine or penalty (including any supplemental environmental project carried out as part of such penalty) imposed against the Department of Defense or a military department unless the act or omission for which the fine or penalty is imposed arises out of an activity funded by the environmental restoration account concerned and the payment of the fine or penalty has been specifically authorized by law.
 
-    (g) __Sole Source of Funds for Operation and Monitoring of Environmental Remedies.—__ 
+    (g)  __Sole Source of Funds for Operation and Monitoring of Environmental Remedies__  __.—__ 
 
         (1) Except as provided in subsection (h), the sole source of funds for all phases of an environmental remedy at a site under the jurisdiction of the Department of Defense or a formerly used defense site shall be the applicable environmental restoration account established under subsection (a).
 
         (2) In this subsection, the term “environmental remedy” has the meaning given the term “remedy” in section 101 of CERCLA ([42 U.S.C. 9601][/us/usc/t42/s9601]).
 
-    (h) __Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites.—__ 
+    (h)  __Sole Source of Funds for Environmental Remediation at Certain Base Realignment and Closure Sites__  __.—__ 
 
     In the case of property disposed of pursuant to a base closure law and subject to a covenant that was required to be provided by paragraphs (3) and (4) of section 120(h) of CERCLA ([42 U.S.C. 9620(h)][/us/usc/t42/s9620/h]), the sole source of funds for services procured under [section 2701(d)(1) of this title][/us/usc/t10/s2701/d/1] shall be the applicable Department of Defense base closure account. The limitation in this subsection shall expire upon the closure of the applicable base closure account.
 

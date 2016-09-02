@@ -15,11 +15,11 @@
 
 ## § 482. Quarterly reports: personnel and unit readiness
 
-    (a) __Quarterly Reports Required.—__ 
+    (a)  __Quarterly Reports Required__  __.—__ 
 
     Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding military readiness. The report for a quarter shall contain the information required by subsections (b), (d), (e), and (f).
 
-    (b) __Readiness Problems and Remedial Actions.—__ 
+    (b)  __Readiness Problems and Remedial Actions__  __.—__ 
 
     Each report shall specifically describe—
 
@@ -29,7 +29,7 @@
 
         (3) the key indicators and other relevant information related to each identified problem and deficiency.
 
-    (c) __Consideration of Readiness Assessments.—__ 
+    (c)  __Consideration of Readiness Assessments__  __.—__ 
 
     The information required under subsection (b) to be included in the report for a quarter shall be based on readiness assessments that are provided during that quarter—
 
@@ -45,7 +45,7 @@
 
         (3) as part of any regularly established process of periodic readiness reviews for the Department of Defense as a whole.
 
-    (d) __Comprehensive Readiness Indicators for Active Components.—__ 
+    (d)  __Comprehensive Readiness Indicators for Active Components__  __.—__ 
 
     Each report shall also include information regarding each of the active components of the armed forces (and an evaluation of such information) with respect to each of the following readiness indicators:
 
@@ -79,9 +79,7 @@
 
             (D) Training commitments and deployments.
 
-        (5) __Logistics—__ 
-
-        equipment fill.—
+        (5) __Logistics—equipment fill.—__ 
 
             (A) Deployed equipment.
 
@@ -93,21 +91,17 @@
 
             (E) Condition of nonpacing items.
 
-        (6) __Logistics—__ 
-
-        equipment maintenance.—
+        (6) __Logistics—equipment maintenance.—__ 
 
             (A) Maintenance backlog.
 
-        (7) __Logistics—__ 
-
-        supply.—
+        (7) __Logistics—supply.—__ 
 
             (A) Availability of ordnance and spares.
 
             (B) Status of prepositioned equipment.
 
-    (e) __Unit Readiness Indicators.—__ 
+    (e)  __Unit Readiness Indicators__  __.—__ 
 
     Each report shall also include information regarding the readiness of each active component unit of the armed forces at the battalion, squadron, or an equivalent level (or a higher level) that received a readiness rating of C–3 (or below) for any month of the calendar-year quarter covered by the report. With respect to each such unit, the report shall separately provide the following information:
 
@@ -119,7 +113,7 @@
 
         (4) The reasons why the unit received a readiness rating of C–3 (or below).
 
-    (f) __Readiness of National Guard to Perform Civil Support Missions.—__ 
+    (f)  __Readiness of National Guard to Perform Civil Support Missions__  __.—__ 
 
         (1) Each report shall also include an assessment of the readiness of the National Guard to perform tasks required to support the National Response Plan for support to civil authorities.
 
@@ -127,7 +121,7 @@
 
         (3) The Secretary shall ensure that each State Governor has an opportunity to provide to the Secretary an independent evaluation of that State’s National Guard, which the Secretary shall include with each assessment submitted under this subsection.
 
-    (g) __Classification of Reports.—__ 
+    (g)  __Classification of Reports__  __.—__ 
 
     A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 

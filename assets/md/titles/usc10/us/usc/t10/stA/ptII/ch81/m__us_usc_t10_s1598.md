@@ -15,7 +15,7 @@
 
 ## § 1598. Assistance to terminated employees to obtain certification and employment as teachers or employment as teachers’ aides
 
-    (a) __Placement Program.—__ 
+    (a)  __Placement Program__  __.—__ 
 
     The Secretary of Defense may establish a program—
 
@@ -35,7 +35,7 @@
 
             (B) are also experiencing a shortage of teachers or teachers’ aides.
 
-    (b) __Eligible Employees.—__ 
+    (b)  __Eligible Employees__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (2) The Secretary of Defense may accept an application from a civilian employee referred to in paragraph (1) who was terminated during the period beginning on October 1, 1990, and ending on October 1, 1992, if the employee otherwise satisfies the eligibility criteria specified in that paragraph.
 
-    (c) __Selection of Participants.—__ 
+    (c)  __Selection of Participants__  __.—__ 
 
         (1) Selection of civilian employees to participate in the placement program shall be made on the basis of applications submitted to the Secretary of Defense after the employees receive a notice of termination. An application shall be filed within such time, in such form, and contain such information as the Secretary of Defense may require.
 
@@ -69,7 +69,7 @@
 
         (3) The Secretary of Defense may not select a civilian employee to participate in the program unless the Secretary has sufficient appropriations for the placement program available at the time of the selection to satisfy the obligations to be incurred by the United States under the program with respect to that member.
 
-    (d) __Agreement.—__ 
+    (d)  __Agreement__  __.—__ 
 
     A civilian employee selected to participate in the placement program shall be required to enter into an agreement with the Secretary of Defense in which the employee agrees—
 
@@ -83,7 +83,7 @@
 
             (B) in the case of an employee selected for assistance for placement as a teacher’s aide, an offer of full-time employment as a teacher’s aide in an elementary or secondary school for not less than two school years with a local educational agency identified under section 1151(b)(3) 1 of this title, as in effect on October 4, 1999, to begin the school year after obtaining the necessary credentials.
 
-    (e) __Stipend for Participants.—__ 
+    (e)  __Stipend for Participants__  __.—__ 
 
         (1)
 
@@ -97,7 +97,7 @@
 
         (3) A stipend paid under paragraph (1) shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.).
 
-    (f) __Placement of Participants as Teachers and Teachers’ Aides.—__ 
+    (f)  __Placement of Participants as Teachers and Teachers’ Aides__  __.—__ 
 
     Subsections (h) through (k) of section 1151 1 of this title, as in effect on October 4, 1999, shall apply with respect to the placement program authorized by this section.
 

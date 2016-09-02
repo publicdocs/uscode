@@ -15,15 +15,15 @@
 
 ## § 144. Director of Small Business Programs
 
-    (a) __Director.—__ 
+    (a)  __Director__  __.—__ 
 
     There is a Director of Small Business Programs in the Department of Defense. The Director is appointed by the Secretary of Defense.
 
-    (b) __Office of Small Business Programs.—__ 
+    (b)  __Office of Small Business Programs__  __.—__ 
 
     The Office of Small Business Programs of the Department of Defense is the office that is established within the Office of the Secretary of Defense under section 15(k) of the Small Business Act ([15 U.S.C. 644(k)][/us/usc/t15/s644/k]). The Director of Small Business Programs is the head of such office.
 
-    (c) __Duties and Powers.—__ 
+    (c)  __Duties and Powers__  __.—__ 
 
         (1) The Director of Small Business Programs shall, subject to paragraph (2), perform such duties regarding small business programs of the Department of Defense, and shall exercise such powers regarding those programs, as the Secretary of Defense may prescribe.
 
@@ -35,7 +35,7 @@
 
 [Pub. L. 109–163, div. A, title IX, § 904(a)][/us/pl/109/163/s904/a], Jan. 6, 2006, [119 Stat. 3399][/us/stat/119/3399], provided that:
 
->     “(1) __Positions redesignated.—__ 
+>     “(1)  __Positions redesignated__  __.—__ 
 
 >     The following positions within the Department of Defense are redesignated as follows:
 
@@ -47,7 +47,7 @@
 
 >         “(D) The Director of Small and Disadvantaged Business Utilization of the Department of the Air Force is redesignated as the Director of Small Business Programs of the Department of the Air Force.
 
->     “(2) __Offices redesignated.—__ 
+>     “(2)  __Offices redesignated__  __.—__ 
 
 >     The following offices within the Department of Defense are redesignated as follows:
 
@@ -59,7 +59,7 @@
 
 >         “(D) The Office of Small and Disadvantaged Business Utilization of the Department of the Air Force is redesignated as the Office of Small Business Programs of the Department of the Air Force.
 
->     “(3) __References.—__ 
+>     “(3)  __References__  __.—__ 
 
 >     Any reference in any law, regulation, document, paper, or other record of the United States to a position or office redesignated by paragraph (1) or (2) shall be deemed to be a reference to the position or office as so redesignated.”
 
@@ -67,7 +67,7 @@
 
 [Pub. L. 112–239, div. A, title XVI, § 1611][/us/pl/112/239/s1611], Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063], provided that:
 
->     “(a) __Guidance Required.—__ 
+>     “(a)  __Guidance Required__  __.—__ 
 
 >     The Secretary of Defense shall develop and issue guidance to ensure that the head of each Office of Small Business Programs of the Department of Defense is a participant as early as practicable in the acquisition processes—
 
@@ -75,7 +75,7 @@
 
 >         “(2) of the military department concerned, in the case of the Director of Small Business Programs in the Department of the Army, in the Department of the Navy, and in the Department of the Air Force.
 
->     “(b) __Matters To Be Included.—__ 
+>     “(b)  __Matters To Be Included__  __.—__ 
 
 >     Such guidance shall, at a minimum—
 

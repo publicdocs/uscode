@@ -15,7 +15,7 @@
 
 ## § 1596b. Foreign language proficiency: National Foreign Language Skills Registry
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
         (1)
 
@@ -29,7 +29,7 @@
 
         (2) The registry shall be known as the “National Foreign Language Skills Registry” (in this section referred to as the “Registry”).
 
-    (b) __Eligible Persons.—__ 
+    (b)  __Eligible Persons__  __.—__ 
 
     To be eligible for listing on the Registry, a person—
 
@@ -51,7 +51,7 @@
 
         (3) shall meet such language proficiency and other selection criteria as may be prescribed by the Secretary.
 
-    (c) __Registered Information.—__ 
+    (c)  __Registered Information__  __.—__ 
 
     The Registry shall consist of the following:
 
@@ -59,15 +59,15 @@
 
         (2) Such other information on such persons as the Secretary determines pertinent to the use of such persons to provide linguistic services as described in subsection (a).
 
-    (d) __Protection of Privacy.—__ 
+    (d)  __Protection of Privacy__  __.—__ 
 
     The Secretary may withhold from public disclosure the information maintained in the Registry in accordance with [section 552a of title 5][/us/usc/t5/s552a].
 
-    (e) __Designation of Critical Foreign Languages.—__ 
+    (e)  __Designation of Critical Foreign Languages__  __.—__ 
 
     The Secretary shall designate those languages that are critical foreign languages for the purposes of this section. The Secretary shall make such a designation for any foreign language for which there is a shortage of experts in translation or interpretation available to meet requirements of the Secretary or of the head of any other department or agency of the United States for translation or interpretation in the national security interests of the United States.
 
-    (f) __Linguistic Services Defined.—__ 
+    (f)  __Linguistic Services Defined__  __.—__ 
 
     In this section, the term “linguistic services” means translation or interpretation of communication in a foreign language.
 

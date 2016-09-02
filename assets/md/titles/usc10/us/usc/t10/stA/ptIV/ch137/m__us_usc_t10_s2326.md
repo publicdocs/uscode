@@ -15,11 +15,11 @@
 
 ## § 2326. Undefinitized contractual actions: restrictions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The head of an agency may not enter into an undefinitized contractual action unless the request to the head of the agency for authorization of the contractual action includes a description of the anticipated effect on requirements of the military department concerned if a delay is incurred for purposes of determining contractual terms, specifications, and price before performance is begun under the contractual action.
 
-    (b) __Limitations on Obligation of Funds.—__ 
+    (b)  __Limitations on Obligation of Funds__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (5) This subsection does not apply to an undefinitized contractual action for the purchase of initial spares.
 
-    (c) __Inclusion of Non-Urgent Requirements.—__ 
+    (c)  __Inclusion of Non-Urgent Requirements__  __.—__ 
 
     Requirements for spare parts and support equipment that are not needed on an urgent basis may not be included in an undefinitized contractual action for spare parts and support equipment that are needed on an urgent basis unless the head of the agency approves such inclusion as being—
 
@@ -51,7 +51,7 @@
 
         (2) in the best interests of the United States.
 
-    (d) __Modification of Scope.—__ 
+    (d)  __Modification of Scope__  __.—__ 
 
     The scope of an undefinitized contractual action under which performance has begun may not be modified unless the head of the agency approves such modification as being—
 
@@ -59,7 +59,7 @@
 
         (2) in the best interests of the United States.
 
-    (e) __Allowable Profit.—__ 
+    (e)  __Allowable Profit__  __.—__ 
 
     The head of an agency shall ensure that the profit allowed on an undefinitized contractual action for which the final price is negotiated after a substantial portion of the performance required is completed reflects—
 
@@ -67,11 +67,11 @@
 
         (2) the reduced cost risk of the contractor with respect to costs incurred during performance of the remaining portion of the contract.
 
-    (f) __Applicability.—__ 
+    (f)  __Applicability__  __.—__ 
 
     This section does not apply to the Coast Guard or the National Aeronautics and Space Administration.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -139,11 +139,11 @@
 
 [Pub. L. 111–84, div. A, title VIII, § 812][/us/pl/111/84/s812], Oct. 28, 2009, [123 Stat. 2406][/us/stat/123/2406], provided that:
 
->     “(a) __Revision Required.—__ 
+>     “(a)  __Revision Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall revise the Defense Supplement to the Federal Acquisition Regulation to ensure that any limitations described in subsection (b) are applicable to all categories of undefinitized contractual actions (including undefinitized task orders and delivery orders).
 
->     “(b) __Limitations.—__ 
+>     “(b)  __Limitations__  __.—__ 
 
 >     The limitations referred to in subsection (a) are any limitations on the reimbursement of costs and the payment of profits or fees with respect to costs incurred before the definitization of an undefinitized contractual action of the Department of Defense, including—
 
@@ -155,11 +155,11 @@
 
 [Pub. L. 110–181, div. A, title VIII, § 809][/us/pl/110/181/s809], Jan. 28, 2008, [122 Stat. 216][/us/stat/122/216], provided that:
 
->     “(a) __Guidance and Instructions.—__ 
+>     “(a)  __Guidance and Instructions__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall issue guidance, with detailed implementation instructions, for the Department of Defense to ensure the implementation and enforcement of requirements applicable to undefinitized contractual actions.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The guidance and instructions issued pursuant to subsection (a) shall address, at a minimum—
 
@@ -177,11 +177,11 @@
 
 >     “(c) __Reports.—__ 
 
->         “(1) __Report on guidance and instructions.—__ 
+>         “(1)  __Report on guidance and instructions__  __.—__ 
 
 >         Not later than 210 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
 
->         “(2) __GAO report.—__ 
+>         “(2) __GAO__  __report__  __.—__ 
 
 >         Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the extent to which the guidance and instructions issued pursuant to subsection (a) have resulted in improvements to—
 
@@ -197,7 +197,7 @@
 
 [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 908(a)–(c), (e)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–139, 1783–140, 1783–142, [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 908(a)–(c), (e)\], Oct. 18, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–139, 3341–140, 3341–142, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 908(a)–(c), (e), Nov. 14, 1986, [100 Stat. 3918][/us/stat/100/3918], 3919, 3921, renumbered title IX and amended by [Pub. L. 100–26][/us/pl/100/26], §§ 3(5), 5(2), Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273], 274; [Pub. L. 104–106, div. D, title XLIII, § 4322(b)(2)][/us/pl/104/106/s4322/b/2], Feb. 10, 1996, [110 Stat. 677][/us/stat/110/677], provided that:
 
->     “(a) __Limitation on Use of Funds for Undefinitized Contractual Actions.—__ 
+>     “(a)  __Limitation on Use of Funds for Undefinitized Contractual Actions__  __.—__ 
 
 >         (1)
 
@@ -245,7 +245,7 @@
 
 >             “(E) The period beginning on October 1, 1988, and ending on March 31, 1989.
 
->     “(b) __Oversight by Inspector General.—__ 
+>     “(b)  __Oversight by Inspector General__  __.—__ 
 
 >     The Inspector General of the Department of Defense shall—
 
@@ -253,11 +253,11 @@
 
 >         “(2) after each audit, submit to Congress a report on the management of undefinitized contractual actions by each Secretary, including the amount of contractual actions under the jurisdiction of each Secretary that is represented by undefinitized contractual actions.
 
->     “(c) __Waiver Authority.—__ 
+>     “(c)  __Waiver Authority__  __.—__ 
 
 >     The Secretary of Defense may waive the application of subsections (a) and (b) for urgent and compelling considerations relating to national security or public safety if the Secretary notifies the Committees on Armed Services of the Senate and House of Representatives of such waiver before the end of the 30-day period beginning on the date that the waiver is made.
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘undefinitized contractual action’ has the meaning given such term in [section 2326(g) of title 10][/us/usc/t10/s2326/g], United States Code (as added by subsection (d)(1)).”
 

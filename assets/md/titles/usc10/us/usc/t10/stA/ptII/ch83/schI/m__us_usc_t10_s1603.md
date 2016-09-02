@@ -15,11 +15,11 @@
 
 ## § 1603. Additional compensation, incentives, and allowances
 
-    (a) __Additional Compensation Based on Title 5 Authorities.—__ 
+    (a)  __Additional Compensation Based on Title __  __5__  __Authorities__  __.—__ 
 
     The Secretary of Defense may provide employees in defense intelligence positions compensation (in addition to basic pay), including benefits, incentives, and allowances, consistent with, and not in excess of the level authorized for, comparable positions authorized by title 5.
 
-    (b) __Allowances Based on Living Costs and Environment.—__ 
+    (b)  __Allowances Based on Living Costs and Environment__  __.—__ 
 
         (1) In addition to basic pay, employees in defense intelligence positions who are citizens or nationals of the United States and are stationed outside the continental United States or in Alaska may be paid an allowance, in accordance with regulations prescribed by the Secretary of Defense, while they are so stationed.
 

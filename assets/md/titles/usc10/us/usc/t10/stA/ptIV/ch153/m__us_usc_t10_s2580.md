@@ -15,11 +15,11 @@
 
 ## § 2580. Donation of excess chapel property
 
-    (a) __Authority To Donate.—__ 
+    (a)  __Authority To Donate__  __.—__ 
 
     The Secretary of a military department may donate personal property specified in subsection (b) to an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 that is a religious organization in order to assist the organization in restoring or replacing property of the organization that has been damaged or destroyed as a result of an act of arson or terrorism, as determined pursuant to procedures prescribed by the Secretary of Defense.
 
-    (b) __Property Covered.—__ 
+    (b)  __Property Covered__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) No real property may be donated under this section.
 
-    (c) __Donees Not To Be Charged.—__ 
+    (c)  __Donees Not To Be Charged__  __.—__ 
 
     No charge may be imposed by the Secretary of a military department on a donee of property under this section in connection with the donation. However, the donee shall agree to defray any expense for shipping or other transportation of property donated under this section from the location of the property when donated to any other location.
 

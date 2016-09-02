@@ -15,51 +15,51 @@
 
 ## § 1450. Payment of annuity: beneficiaries
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Effective as of the first day after the death of a person to whom [section 1448 of this title][/us/usc/t10/s1448] applies (or on such other day as that person may provide under subsection (j)), a monthly annuity under [section 1451 of this title][/us/usc/t10/s1451] shall be paid to the person’s beneficiaries under the Plan, as follows:
 
-        (1) __Surviving spouse or former spouse.—__ 
+        (1)  __Surviving spouse or former spouse__  __.—__ 
 
         The eligible surviving spouse or the eligible former spouse.
 
-        (2) __Surviving children.—__ 
+        (2)  __Surviving children__  __.—__ 
 
         The surviving dependent children in equal shares, if the eligible surviving spouse or the eligible former spouse is dead, dies, or otherwise becomes ineligible under this section.
 
-        (3) __Dependent children.—__ 
+        (3)  __Dependent children__  __.—__ 
 
         The dependent children in equal shares if the person to whom [section 1448 of this title][/us/usc/t10/s1448] applies (with the concurrence of the person’s spouse, if required under [section 1448(a)(3) of this title][/us/usc/t10/s1448/a/3]) elected to provide an annuity for dependent children but not for the spouse or former spouse.
 
-        (4) __Natural person designated under “insurable interest” coverage.—__ 
+        (4)  __Natural person designated under “insurable interest” coverage__  __.—__ 
 
         The natural person designated under [section 1448(b)(1) of this title][/us/usc/t10/s1448/b/1], unless the election to provide an annuity to the natural person has been changed as provided in subsection (f).
 
-    (b) __Termination of Annuity for Death, Remarriage Before Age 55, Etc.—__ 
+    (b)  __Termination of Annuity for Death, Remarriage Before Age__  __55, Etc.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         An annuity payable to the beneficiary terminates effective as of the first day of the month in which eligibility is lost.
 
-        (2) __Termination of spouse annuity upon death or remarriage before age 55.—__ 
+        (2)  __Termination of spouse annuity upon death or remarriage before age 55__  __.—__ 
 
         An annuity for a surviving spouse or former spouse shall be paid to the surviving spouse or former spouse while the surviving spouse or former spouse is living or, if the surviving spouse or former spouse remarries before reaching age 55, until the surviving spouse or former spouse remarries.
 
-        (3) __Effect of termination of subsequent marriage before age 55.—__ 
+        (3)  __Effect of termination of subsequent marriage before age 55__  __.—__ 
 
         If the surviving spouse or former spouse remarries before reaching age 55 and that marriage is terminated by death, annulment, or divorce, payment of the annuity shall be resumed effective as of the first day of the month in which the marriage is so terminated. However, if the surviving spouse or former spouse is also entitled to an annuity under the Plan based upon the marriage so terminated, the surviving spouse or former spouse may not receive both annuities but must elect which to receive.
 
     (c) __Offset for Amount of Dependency and Indemnity Compensation.—__ 
 
-        (1) __Required offset.—__ 
+        (1)  __Required offset__  __.—__ 
 
         If, upon the death of a person to whom [section 1448 of this title][/us/usc/t10/s1448] applies, the surviving spouse or former spouse of that person is also entitled to dependency and indemnity compensation under [section 1311(a) of title 38][/us/usc/t38/s1311/a], the surviving spouse or former spouse may be paid an annuity under this section, but only in the amount that the annuity otherwise payable under this section would exceed that compensation.
 
-        (2) __Effective date of offset.—__ 
+        (2)  __Effective date of offset__  __.—__ 
 
         A reduction in an annuity under this section required by paragraph (1) shall be effective on the date of the commencement of the period of payment of such dependency and indemnity compensation under title 38.
 
-        (3) __Limitation on recoupment of offset amount.—__ 
+        (3)  __Limitation on recoupment of offset amount__  __.—__ 
 
         Any amount subject to offset under this subsection that was previously paid to the surviving spouse or former spouse shall be recouped only to the extent that the amount paid exceeds any amount to be refunded under subsection (e). In notifying a surviving spouse or former spouse of the recoupment requirement, the Secretary shall provide the spouse or former spouse—
 
@@ -71,17 +71,17 @@
 
             (D) contact information for a person who can provide information about the offset recoupment and retired pay deduction refund processes and answer questions the surviving spouse or former spouse may have about the requirements, processes, or amounts.
 
-    (d) __Limitation on Payment of Annuities When Coverage Under Civil Service Retirement Elected.—__ 
+    (d)  __Limitation on Payment of Annuities When Coverage Under Civil Service Retirement Elected__  __.—__ 
 
     If, upon the death of a person to whom [section 1448 of this title][/us/usc/t10/s1448] applies, that person had in effect a waiver of that person’s retired pay for the purposes of subchapter III of chapter 83 of title 5 or chapter 84 of such title, an annuity under this section shall not be payable unless, in accordance with section 8339(j) or 8416(a) of title 5, that person notified the Office of Personnel Management that he did not desire any spouse surviving him to receive an annuity under section 8341(b) or 8442(a) of that title.
 
     (e) __Refund of Amounts Deducted From Retired Pay When DIC Offset Is Applicable.—__ 
 
-        (1) __Full refund when dic greater than sbp annuity.—__ 
+        (1)  __Full refund when dic greater than sbp annuity__  __.—__ 
 
         If an annuity under this section is not payable because of subsection (c), any amount deducted from the retired pay of the deceased under [section 1452 of this title][/us/usc/t10/s1452] shall be refunded to the surviving spouse or former spouse.
 
-        (2) __Partial refund when sbp annuity reduced by dic.—__ 
+        (2)  __Partial refund when sbp annuity reduced by dic__  __.—__ 
 
         If, because of subsection (c), the annuity payable is less than the amount established under [section 1451 of this title][/us/usc/t10/s1451], the annuity payable shall be recalculated under that section. The amount of the reduction in the retired pay required to provide that recalculated annuity shall be computed under [section 1452 of this title][/us/usc/t10/s1452], and the difference between the amount deducted before the computation of that recalculated annuity and the amount that would have been deducted on the basis of that recalculated annuity shall be refunded to the surviving spouse or former spouse.
 
@@ -89,19 +89,19 @@
 
         (1) __Authorized changes.—__ 
 
-            (A) __Election in favor of spouse or child.—__ 
+            (A)  __Election in favor of spouse or child__  __.—__ 
 
             A person who elects to provide an annuity to a person designated by him under [section 1448(b) of this title][/us/usc/t10/s1448/b] may, subject to paragraph (2), change that election and provide an annuity to his spouse or dependent child.
 
-            (B) __Notice.—__ 
+            (B)  __Notice__  __.—__ 
 
             The Secretary concerned shall notify the former spouse or other natural person previously designated under [section 1448(b) of this title][/us/usc/t10/s1448/b] of any change of election under subparagraph (A).
 
-            (C) __Procedures, effective date, etc.—__ 
+            (C)  __Procedures, effective date, etc__  __.—__ 
 
             Any such change of election is subject to the same rules with respect to execution, revocation, and effectiveness as are set forth in [section 1448(a)(5) of this title][/us/usc/t10/s1448/a/5] (without regard to the eligibility of the person making the change of election to make such an election under that section). Notwithstanding the preceding sentence, a change of election under this subsection to provide an annuity to a spouse instead of a former spouse may (subject to paragraph (2)) be made at any time after the person providing the annuity remarries without regard to the time limitation in [section 1448(a)(5)(B) of this title][/us/usc/t10/s1448/a/5/B].
 
-        (2) __Limitation on change in beneficiary when former spouse coverage in effect.—__ 
+        (2)  __Limitation on change in beneficiary when former spouse coverage in effect__  __.—__ 
 
         A person who, incident to a proceeding of divorce, dissolution, or annulment, is required by a court order to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse (or to both a former spouse and child), or who enters into a written agreement (whether voluntary or required by a court order) to make such an election, and who makes an election pursuant to such order or agreement, may not change that election under paragraph (1) unless, of the following requirements, whichever are applicable in a particular case are satisfied:
 
@@ -123,15 +123,15 @@
 
         (3) __Required former spouse election to be deemed to have been made.—__ 
 
-            (A) __Deemed election upon request by former spouse.—__ 
+            (A)  __Deemed election upon request by former spouse__  __.—__ 
 
             If a person described in paragraph (2) or (3) of [section 1448(b) of this title][/us/usc/t10/s1448/b] is required (as described in subparagraph (B)) to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse and such person then fails or refuses to make such an election, such person shall be deemed to have made such an election if the Secretary concerned receives the following:
 
-                (i) __Request from former spouse.—__ 
+                (i)  __Request from former spouse__  __.—__ 
 
                 A written request, in such manner as the Secretary shall prescribe, from the former spouse concerned requesting that such an election be deemed to have been made.
 
-                (ii) __Copy of court order or other official statement.—__ 
+                (ii)  __Copy of court order or other official statement__  __.—__ 
 
                 Either—
 
@@ -139,7 +139,7 @@
 
                     (II) a statement from the clerk of the court (or other appropriate official) that such agreement has been filed with the court in accordance with applicable State law.
 
-            (B) __Persons required to make election.—__ 
+            (B)  __Persons required to make election__  __.—__ 
 
             A person shall be considered for purposes of subparagraph (A) to be required to elect under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse if—
 
@@ -147,25 +147,25 @@
 
                 (ii) the person is required by a court order to make such an election.
 
-            (C) __Time limit for request by former spouse.—__ 
+            (C)  __Time limit for request by former spouse__  __.—__ 
 
             An election may not be deemed to have been made under subparagraph (A) in the case of any person unless the Secretary concerned receives a request from the former spouse of the person within one year of the date of the court order or filing involved.
 
-            (D) __Effective date of deemed election.—__ 
+            (D)  __Effective date of deemed election__  __.—__ 
 
             An election deemed to have been made under subparagraph (A) shall become effective on the day referred to in [section 1448(b)(3)(E)(ii) of this title][/us/usc/t10/s1448/b/3/E/ii].
 
-        (4) __Former spouse coverage may be required by court order.—__ 
+        (4)  __Former spouse coverage may be required by court order__  __.—__ 
 
         A court order may require a person to elect (or to enter into an agreement to elect) under [section 1448(b) of this title][/us/usc/t10/s1448/b] to provide an annuity to a former spouse (or to both a former spouse and child).
 
     (g) __Limitation on Changing or Revoking Elections.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         An election under this section may not be changed or revoked.
 
-        (2) __Exceptions.—__ 
+        (2)  __Exceptions__  __.—__ 
 
         Paragraph (1) does not apply to—
 
@@ -173,45 +173,45 @@
 
             (B) a change in an election under subsection (f).
 
-    (h) __Treatment of Annuities Under Other Laws.—__ 
+    (h)  __Treatment of Annuities Under Other Laws__  __.—__ 
 
     Except as provided in [section 1451 of this title][/us/usc/t10/s1451], an annuity under this section is in addition to any other payment to which a person is entitled under any other provision of law. Such annuity shall be considered as income under laws administered by the Secretary of Veterans Affairs.
 
-    (i) __Annuities Exempt From Certain Legal Process.—__ 
+    (i)  __Annuities Exempt From Certain Legal Process__  __.—__ 
 
     Except as provided in subsection (l)(3)(B), an annuity under this section is not assignable or subject to execution, levy, attachment, garnishment, or other legal process.
 
     (j) __Effective Date of Reserve-Component Annuities.—__ 
 
-        (1) __Persons making section 1448(e) designation.—__ 
+        (1)  __Persons making section 1448__  __(e)__  __designation__  __.—__ 
 
         A reserve-component annuity shall be effective in accordance with the designation made under [section 1448(e) of this title][/us/usc/t10/s1448/e] by the person providing the annuity.
 
-        (2) __Persons dying before making section 1448(e) designation.—__ 
+        (2)  __Persons dying before making section 1448__  __(e)__  __designation__  __.—__ 
 
         An annuity payable under [section 1448(f) of this title][/us/usc/t10/s1448/f] shall be effective on the day after the date of the death of the person upon whose service the right to the annuity is based.
 
     (k) __Adjustment of Spouse or Former Spouse Annuity Upon Loss of Dependency and Indemnity Compensation.—__ 
 
-        (1) __Readjustment if beneficiary 55 years of age or more.—__ 
+        (1)  __Readjustment if beneficiary 55 years of age or more__  __.—__ 
 
         If a surviving spouse or former spouse whose annuity has been adjusted under subsection (c) subsequently loses entitlement to dependency and indemnity compensation under [section 1311(a) of title 38][/us/usc/t38/s1311/a] because of the remarriage of the surviving spouse, or former spouse, and if at the time of such remarriage the surviving spouse or former spouse is 55 years of age or more, the amount of the annuity of the surviving spouse or former spouse shall be readjusted, effective on the effective date of such loss of dependency and indemnity compensation, to the amount of the annuity which would be in effect with respect to the surviving spouse or former spouse if the adjustment under subsection (c) had never been made.
 
         (2) __Repayment of amounts previously refunded.—__ 
 
-            (A) __General rule.—__ 
+            (A)  __General rule__  __.—__ 
 
             A surviving spouse or former spouse whose annuity is readjusted under paragraph (1) shall repay any amount refunded under subsection (e) by reason of the adjustment under subsection (c).
 
-            (B) __Interest required if repayment not a lump sum.—__ 
+            (B)  __Interest required if repayment not a lump sum__  __.—__ 
 
             If the repayment is not made in a lump sum, the surviving spouse or former spouse shall pay interest on the amount to be repaid. Such interest shall commence on the date on which the first such payment is due and shall be applied over the period during which any part of the repayment remains to be paid.
 
-            (C) __Manner of repayment; rate of interest.—__ 
+            (C)  __Manner of repayment; rate of interest__  __.—__ 
 
             The manner in which such repayment shall be made, and the rate of any such interest, shall be prescribed in regulations under [section 1455 of this title][/us/usc/t10/s1455].
 
-            (D) __Deposit of amounts repaid.—__ 
+            (D)  __Deposit of amounts repaid__  __.—__ 
 
             An amount repaid under this paragraph (including any such interest) received by the Secretary of Defense shall be deposited into the Department of Defense Military Retirement Fund. Any other amount repaid under this paragraph shall be deposited into the Treasury as miscellaneous receipts.
 
@@ -219,11 +219,11 @@
 
         (1) __Authority to presume death of missing participant.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Upon application of the beneficiary of a participant in the Plan who is missing, the Secretary concerned may determine for purposes of this subchapter that the participant is presumed dead.
 
-            (B) __Participant who is missing.—__ 
+            (B)  __Participant who is missing__  __.—__ 
 
             A participant in the Plan is considered to be missing for purposes of this subsection if—
 
@@ -231,7 +231,7 @@
 
                 (ii) in the case of a participant in the Plan who would be eligible for reserve-component retired pay but for the fact that he is under 60 years of age, his retired pay, if he were entitled to retired pay, would be suspended on the basis that he is missing.
 
-            (C) __Requirements applicable to presumption of death.—__ 
+            (C)  __Requirements applicable to presumption of death__  __.—__ 
 
             Any such determination shall be made in accordance with regulations prescribed under [section 1455 of this title][/us/usc/t10/s1455]. The Secretary concerned may not make a determination for purposes of this subchapter that a participant who is missing is presumed dead unless the Secretary finds that—
 
@@ -239,13 +239,13 @@
 
                 (ii) the circumstances under which the participant is missing would lead a reasonably prudent person to conclude that the participant is dead.
 
-        (2) __Commencement of annuity.—__ 
+        (2)  __Commencement of annuity__  __.—__ 
 
         Upon a determination under paragraph (1) with respect to a participant in the Plan, an annuity otherwise payable under this subchapter shall be paid as if the participant died on the date as of which the retired pay of the participant was suspended.
 
         (3) __Effect of person not being dead.—__ 
 
-            (A) __Termination of annuity.—__ 
+            (A)  __Termination of annuity__  __.—__ 
 
             If, after a determination under paragraph (1), the Secretary concerned determines that the participant is alive—
 
@@ -253,7 +253,7 @@
 
                 (ii) the total amount of any annuity payments made by reason of this subsection shall constitute a debt to the United States.
 
-            (B) __Collection from participant of annuity amounts erroneously paid.—__ 
+            (B)  __Collection from participant of annuity amounts erroneously paid__  __.—__ 
 
             A debt under subparagraph (A)(ii) may be collected or offset—
 
@@ -263,13 +263,13 @@
 
                 (iii) if the participant is entitled to any other payment from the United States, from that payment.
 
-            (C) __Collection from beneficiary.—__ 
+            (C)  __Collection from beneficiary__  __.—__ 
 
             If the participant dies before the full recovery of the amount of annuity payments described in subparagraph (A)(ii) has been made by the United States, the remaining amount of such annuity payments may be collected from the participant’s beneficiary under the Plan if that beneficiary was the recipient of the annuity payments made by reason of this subsection.
 
     (m) __Special Survivor Indemnity Allowance.—__ 
 
-        (1) __Provision of allowance.—__ 
+        (1)  __Provision of allowance__  __.—__ 
 
         The Secretary concerned shall pay a monthly special survivor indemnity allowance under this subsection to the surviving spouse or former spouse of a member of the uniformed services to whom [section 1448 of this title][/us/usc/t10/s1448] applies if—
 
@@ -279,7 +279,7 @@
 
             (C) the eligibility of the surviving spouse or former spouse for an annuity as described in subparagraph (B) is affected by subsection (c) of this section.
 
-        (2) __Amount of payment.—__ 
+        (2)  __Amount of payment__  __.—__ 
 
         Subject to paragraph (3), the amount of the allowance paid to an eligible survivor under paragraph (1) for a month shall be equal to—
 
@@ -301,19 +301,19 @@
 
             (I) for months during fiscal year 2017, $310.
 
-        (3) __Limitation.—__ 
+        (3)  __Limitation__  __.—__ 
 
         The amount of the allowance paid to an eligible survivor under paragraph (1) for any month may not exceed the amount of the annuity for that month that is subject to offset under subsection (c).
 
-        (4) __Status of payments.—__ 
+        (4)  __Status of payments__  __.—__ 
 
         An allowance paid under this subsection does not constitute an annuity, and amounts so paid are not subject to adjustment under any other provision of law.
 
-        (5) __Source of funds.—__ 
+        (5)  __Source of funds__  __.—__ 
 
         The special survivor indemnity allowance shall be paid from amounts in the Department of Defense Military Retirement Fund established under [section 1461 of this title][/us/usc/t10/s1461].
 
-        (6) __Effective date and duration.—__ 
+        (6)  __Effective date and duration__  __.—__ 
 
         This subsection shall only apply with respect to the month beginning on October 1, 2008, and subsequent months through the month ending on September 30, 2017. Effective on October 1, 2017, the authority provided by this subsection shall terminate. No special survivor indemnity allowance may be paid to any person by reason of this subsection for any period before October 1, 2008, or beginning on or after October 1, 2017.
 
@@ -509,7 +509,7 @@
 
 [Pub. L. 108–375, div. A, title VI, § 644(c)][/us/pl/108/375/s644/c], Oct. 28, 2004, [118 Stat. 1961][/us/stat/118/1961], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 632, Oct. 14, 2008, [122 Stat. 4493][/us/stat/122/4493], provided that:
 
->     “(1) __Periodic recomputation required.—__ 
+>     “(1)  __Periodic recomputation required__  __.—__ 
 
 >     Effective on the first day of each month specified in paragraph (2)—
 
@@ -517,7 +517,7 @@
 
 >         “(B) each supplemental survivor annuity under \[former\] section 1457 of such title that commenced before that month and is payable for that month shall be recomputed so as to be equal to the amount that would be in effect if the percent applicable for that month under that section, as amended by this section, had been used for the initial computation of the supplemental survivor annuity.
 
->     “(2) __Time for recomputation.—__ 
+>     “(2)  __Time for recomputation__  __.—__ 
 
 >     The requirement under paragraph (1) for recomputation of certain annuities applies with respect to the following months:
 
@@ -529,7 +529,7 @@
 
 >         “(D) April 2008.
 
->     “(3) __Savings provision.—__ 
+>     “(3)  __Savings provision__  __.—__ 
 
 >     If, as a result of the recomputation of annuities under [section 1450 of title 10][/us/usc/t10/s1450], United States Code, and supplemental survivor annuities under \[former\] section 1457 of such title, as required by paragraph (1), the total amount of both annuities to be paid to an annuitant for a month would be less (because of the offset required by section 1450(c) of such title for dependency and indemnity compensation) than the amount that would be paid to the annuitant in the absence of recomputation, the Secretary of Defense shall take such actions as are necessary to adjust the annuity amounts to eliminate the reduction.”
 
@@ -539,7 +539,7 @@
 
 [Pub. L. 106–65, div. A, title VI, § 657][/us/pl/106/65/s657], Oct. 5, 1999, [113 Stat. 668][/us/stat/113/668], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(c)(1)(D)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–292, provided that:
 
->     “(a) __Cases Not Covered by Existing Authority.—__ 
+>     “(a)  __Cases Not Covered by Existing Authority__  __.—__ 
 
 >     Paragraph (3) of [section 1450(f) of title 10][/us/usc/t10/s1450/f], United States Code, as in effect on the date of the enactment of this Act \[Oct. 5, 1999\], shall apply in the case of a former spouse of any person referred to in that paragraph who—
 
@@ -553,7 +553,7 @@
 
 >         “(2) before making the election, died within 21 days after the date of the agreement referred to in paragraph (1)(A) or the court order referred to in paragraph (1)(B), as the case may be.
 
->     “(b) __Adjusted Time Limit for Request by Former Spouse.—__ 
+>     “(b)  __Adjusted Time Limit for Request by Former Spouse__  __.—__ 
 
 >     For the purposes of paragraph (3)(C) of [section 1450(f) of title 10][/us/usc/t10/s1450/f], United States Code, a court order or filing referred to in subsection (a)(1) of this section that is dated before October 19, 1984, shall be deemed to be dated on the date of the enactment of this Act \[Oct. 5, 1999\].”
 

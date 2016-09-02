@@ -15,7 +15,7 @@
 
 ## § 2323a. Credit for Indian contracting in meeting certain subcontracting goals for small disadvantaged businesses and certain institutions of higher education
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     Subject to subsections (b) and (c), in any case in which a subcontracting goal is specified in a Department of Defense contract in the implementation of [section 2323 of this title][/us/usc/t10/s2323] and section 8(d) of the Small Business Act ([15 U.S.C. 637(d)][/us/usc/t15/s637/d]), credit toward meeting that subcontracting goal shall be given for—
 
@@ -23,7 +23,7 @@
 
         (2) work performed in connection with that Department of Defense contract, and work performed in connection with any subcontract awarded under that Department of Defense contract, if the performance of such contract or subcontract is undertaken as a joint venture that meets the requirements of paragraph (2) of that subsection.
 
-    (b) __Eligible Work.—__ 
+    (b)  __Eligible Work__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
             (C) the Indian tribe or tribally owned corporation manages the performance of such contract or subcontract.
 
-    (c) __Extent of Credit.—__ 
+    (c)  __Extent of Credit__  __.—__ 
 
     The amount of the credit given toward the attainment of any subcontracting goal under subsection (a) shall be—
 
@@ -51,11 +51,11 @@
 
         (2) in the case of a contract or subcontract undertaken to be performed by a joint venture as described in subsection (a)(2), an amount equal to the amount of the contract or subcontract multiplied by the percentage of the tribe’s or tribally owned corporation’s ownership interest in the joint venture.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the implementation of this section.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

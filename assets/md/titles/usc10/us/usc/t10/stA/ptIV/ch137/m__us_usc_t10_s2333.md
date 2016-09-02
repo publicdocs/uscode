@@ -15,11 +15,11 @@
 
 ## § 2333. Joint policies on requirements definition, contingency program management, and contingency contracting
 
-    (a) __Joint Policy Requirement.—__ 
+    (a)  __Joint Policy Requirement__  __.—__ 
 
     The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall develop joint policies for requirements definition, contingency program management, and contingency contracting during combat operations and post-conflict operations.
 
-    (b) __Requirements Definition Matters Covered.—__ 
+    (b)  __Requirements Definition Matters Covered__  __.—__ 
 
     The joint policy for requirements definition required by subsection (a) shall, at a minimum, provide for the following:
 
@@ -27,7 +27,7 @@
 
         (2) An organizational approach to requirements definition and coordination during combat operations, post-conflict operations, and contingency operations that is designed to ensure that requirements are defined in a way that effectively implements United States Government and Department of Defense objectives, policies, and decisions regarding the allocation of resources, coordination of interagency efforts in the theater of operations, and alignment of requirements with the proper use of funds.
 
-    (c) __Contingency Program Management Matters Covered.—__ 
+    (c)  __Contingency Program Management Matters Covered__  __.—__ 
 
     The joint policy for contingency program management required by subsection (a) shall, at a minimum, provide for the following:
 
@@ -53,7 +53,7 @@
 
         (7) Such steps as may be needed to ensure jointness and cross-service coordination in the area of program management during contingency operations.
 
-    (d) __Contingency Contracting Matters Covered.—__ 
+    (d)  __Contingency Contracting Matters Covered__  __.—__ 
 
         (1)
 
@@ -83,7 +83,7 @@
 
         (2) To the extent practicable, the joint policy for contingency contracting required by subsection (a) should be taken into account in the development of interagency plans for stabilization and reconstruction operations, consistent with the report submitted by the President under section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]; [120 Stat. 2388][/us/stat/120/2388]) on interagency operating procedures for the planning and conduct of stabilization and reconstruction operations.
 
-    (e) __Training for Personnel Outside Acquisition Workforce.—__ 
+    (e)  __Training for Personnel Outside Acquisition Workforce__  __.—__ 
 
         (1) The joint policy for requirements definition, contingency program management, and contingency contracting required by subsection (a) shall provide for training of military personnel outside the acquisition workforce (including operational field commanders and officers performing key staff functions for operational field commanders) who are expected to have acquisition responsibility, including oversight duties associated with contracts or contractors, during combat operations, post-conflict operations, and contingency operations.
 
@@ -91,31 +91,31 @@
 
         (3) The joint policy shall also provide for the incorporation of contractors and contract operations in mission readiness exercises for operations that will include contracting and contractor support.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Contingency contracting personnel.—__ 
+        (1)  __Contingency contracting personnel__  __.—__ 
 
         The term “contingency contracting personnel” means members of the armed forces and civilian employees of the Department of Defense who are members of the defense acquisition workforce and, as part of their duties, are assigned to provide support to contingency operations (whether deployed or not).
 
-        (2) __Contingency contracting.—__ 
+        (2)  __Contingency contracting__  __.—__ 
 
         The term “contingency contracting” means all stages of the process of acquiring property or services by the Department of Defense during a contingency operation.
 
-        (3) __Contingency operation.—__ 
+        (3)  __Contingency operation__  __.—__ 
 
         The term “contingency operation” has the meaning provided in [section 101(a)(13) of this title][/us/usc/t10/s101/a/13].
 
-        (4) __Acquisition support agencies.—__ 
+        (4)  __Acquisition support agencies__  __.—__ 
 
         The term “acquisition support agencies” means Defense Agencies and Department of Defense Field Activities that carry out and provide support for acquisition-related activities.
 
-        (5) __Contingency program management.—__ 
+        (5)  __Contingency program management__  __.—__ 
 
         The term “contingency program management” means the process of planning, organizing, staffing, controlling, and leading the combined efforts of participating civilian and military personnel and organizations for the management of a specific defense acquisition program or programs during combat operations, post-conflict operations, and contingency operations.
 
-        (6) __Requirements definition.—__ 
+        (6)  __Requirements definition__  __.—__ 
 
         The term “requirements definition” means the process of translating policy objectives and mission needs into specific requirements, the description of which will be the basis for awarding acquisition contracts for projects to be accomplished, work to be performed, or products to be delivered.
 

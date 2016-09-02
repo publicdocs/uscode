@@ -15,19 +15,19 @@
 
 ## § 1104. Sharing of health-care resources with the Department of Veterans Affairs
 
-    (a) __Sharing of Health-Care Resources.—__ 
+    (a)  __Sharing of Health-Care Resources__  __.—__ 
 
     Health-care resources of the Department of Defense shall be shared with health-care resources of the Department of Veterans Affairs in accordance with [section 8111 of title 38][/us/usc/t38/s8111] or under [section 1535 of title 31][/us/usc/t31/s1535].
 
-    (b) __Reimbursement From CHAMPUS Funds.—__ 
+    (b)  __Reimbursement From CHAMPUS Funds__  __.—__ 
 
     Pursuant to an agreement entered into under [section 8111 of title 38][/us/usc/t38/s8111] or [section 1535 of title 31][/us/usc/t31/s1535], the Secretary of a military department may reimburse the Secretary of Veterans Affairs from funds available for that military department for the payment of medical care provided under section 1079 or 1086 of this title.
 
-    (c) __Charges.—__ 
+    (c)  __Charges__  __.—__ 
 
     The Secretary of Defense may prescribe by regulation a premium, deductible, copayment, or other charge for health care provided to covered beneficiaries under this chapter pursuant to an agreement entered into by the Secretary of a military department under [section 8111 of title 38][/us/usc/t38/s8111] or [section 1535 of title 31][/us/usc/t31/s1535].
 
-    (d) __Provision of Services During War or National Emergency.—__ 
+    (d)  __Provision of Services During War or National Emergency__  __.—__ 
 
     Members of the armed forces on active duty during and immediately following a period of war, or during and immediately following a national emergency involving the use of the armed forces in armed conflict, may be provided health-care services by the Department of Veterans Affairs in accordance with [section 8111A of title 38][/us/usc/t38/s8111A].
 

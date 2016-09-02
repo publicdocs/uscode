@@ -15,15 +15,15 @@
 
 ## § 233. Operation and maintenance budget presentation
 
-    (a) __Identification of Baseline Amounts in O&M Justification Documents.—__ 
+    (a)  __Identification of Baseline Amounts in O&M Justification Documents__  __.—__ 
 
     In any case in which the amount requested in the President’s budget for a fiscal year for a Department of Defense operation and maintenance program, project, or activity is different from the amount appropriated for that program, project, or activity for the current year, the O&M justification documents supporting that budget shall identify that appropriated amount and the difference between that amount and the amount requested in the budget, stated as an amount and as a percentage.
 
-    (b) __Navy for Ship Depot Maintenance and for Intermediate Ship Maintenance.—__ 
+    (b)  __Navy for Ship Depot Maintenance and for Intermediate Ship Maintenance__  __.—__ 
 
     In the O&M justification documents for the Navy for any fiscal year, amounts requested for ship depot maintenance and amounts requested for intermediate ship maintenance shall be identified and distinguished.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

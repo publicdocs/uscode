@@ -15,19 +15,19 @@
 
 ## § 2861. Military construction projects in connection with industrial facility investment program
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may carry out a military construction project, not previously authorized, for the purpose of carrying out activities under [section 2474(a)(2) of this title][/us/usc/t10/s2474/a/2], using funds appropriated or otherwise made available for that purpose in military construction accounts.
 
-    (b) __Crediting of Funds to Capital Budget.—__ 
+    (b)  __Crediting of Funds to Capital Budget__  __.—__ 
 
     Funds appropriated or otherwise made available in a fiscal year for the purpose of carrying out a military construction project with respect to a covered depot (as defined in subsection (e) of [section 2476 of this title][/us/usc/t10/s2476]) may be credited to the amount required by subsection (a) of such section to be invested in the capital budgets of the covered depots in that fiscal year.
 
-    (c) __Notice and Wait Requirement.—__ 
+    (c)  __Notice and Wait Requirement__  __.—__ 
 
     When a decision is made to carry out a project under subsection (a), the Secretary of Defense shall notify in writing the appropriate committees of Congress of that decision and the savings estimated to be realized from the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
     Not later than December 31 of each year, the Secretary shall submit to Congress a report describing actions taken under this section and the savings realized from such actions during the fiscal year ending in the year in which the report is submitted.
 

@@ -71,15 +71,15 @@
 
 [Pub. L. 112–81, div. A, title I, § 122][/us/pl/112/81/s122], Dec. 31, 2011, [125 Stat. 1319][/us/stat/125/1319], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In the budget materials submitted to the President by the Secretary of Defense in connection with the submission to Congress, pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, of the budget for fiscal year 2013, and each subsequent fiscal year, the Secretary shall ensure that a separate, dedicated procurement line item is designated for each covered module that includes the quantity and cost of each such module requested.
 
->     “(b) __Form.—__ 
+>     “(b)  __Form__  __.—__ 
 
 >     The Secretary shall ensure that any classified components of covered modules not included in a procurement line item under subsection (a) shall be included in a classified annex.
 
->     “(c) __Covered Module.—__ 
+>     “(c)  __Covered Module__  __.—__ 
 
 >     In this section, the term ‘covered module’ means, with respect to mission modules of the Littoral Combat Ship, the following modules:
 
@@ -99,11 +99,11 @@
 
 [Pub. L. 112–81, div. A, title X, § 1094][/us/pl/112/81/s1094], Dec. 31, 2011, [125 Stat. 1607][/us/stat/125/1607], provided that:
 
->     “(a) __Submission With Annual Budget Justification Documents.—__ 
+>     “(a)  __Submission With Annual Budget Justification Documents__  __.—__ 
 
 >     For fiscal year 2013 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for inclusion with the budget materials submitted to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, a budget justification display that covers all programs and activities associated with the procurement of organizational clothing and individual equipment.
 
->     “(b) __Requirements for Budget Display.—__ 
+>     “(b)  __Requirements for Budget Display__  __.—__ 
 
 >     The budget justification display under subsection (a) for a fiscal year shall include the following:
 
@@ -111,7 +111,7 @@
 
 >         “(2) The amount in the budget for each of the Armed Forces for organizational clothing and equipment for that fiscal year.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     In this section, the term ‘organizational clothing and individual equipment’ means an item of organizational clothing or equipment prescribed for wear or use with the uniform.”
 
@@ -143,7 +143,7 @@
 
 [Pub. L. 111–84, div. A, title II, § 220][/us/pl/111/84/s220], Oct. 28, 2009, [123 Stat. 2229][/us/stat/123/2229], provided that:
 
->     “(a) __Guidance on Budget Justification Materials.—__ 
+>     “(a)  __Guidance on Budget Justification Materials__  __.—__ 
 
 >     The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller) and the Director of the Department of Defense Test Resource Management Center, shall issue guidance clarifying and standardizing the information required in budget justification materials describing amounts to be requested in the budget of the President for a fiscal year (as submitted to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code) for funding for each facility and resource of the Major Range and Test Facility Base in connection with each of the following:
 
@@ -157,11 +157,11 @@
 
 >         “(5) Contractor personnel.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     The guidance issued under subsection (a) shall apply with respect to budgets of the President for fiscal years after fiscal year 2010.
 
->     “(c) __Major Range and Test Facility Base Defined.—__ 
+>     “(c)  __Major Range and Test Facility Base Defined__  __.—__ 
 
 >     In this section, the term ‘Major Range and Test Facility Base’ has the meaning given that term in [section 196(h) of title 10][/us/usc/t10/s196/h], United States Code.”
 
@@ -197,11 +197,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 354, Oct. 14, 2008, [122 Stat. 4426][/us/stat/122/4426], provided that:
 
->     “(a) __Submission With Annual Budget Justification Documents.—__ 
+>     “(a)  __Submission With Annual Budget Justification Documents__  __.—__ 
 
 >     For fiscal year 2010 and each subsequent fiscal year, the Secretary of Defense shall submit to the President, for consideration by the President for inclusion with the budget materials submitted to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, a consolidated budget justification display that covers all programs and activities of the Air Sovereignty Alert mission of the Air Force.
 
->     “(b) __Requirements for Budget Display.—__ 
+>     “(b)  __Requirements for Budget Display__  __.—__ 
 
 >     The budget display under subsection (a) for a fiscal year shall include for such fiscal year the following:
 
@@ -223,7 +223,7 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XV, § 1502, Oct. 14, 2008, [122 Stat. 4649][/us/stat/122/4649], provided that:
 
->     “(a) __Operations in Iraq and Afghanistan.—__ 
+>     “(a)  __Operations in Iraq and Afghanistan__  __.—__ 
 
 >     In any annual or supplemental budget request for the Department of Defense that is submitted to Congress after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall set forth separately any funding requested in such budget request for—
 
@@ -231,7 +231,7 @@
 
 >         “(2) operations of the Department of Defense in Iraq.
 
->     “(b) __Specificity of Display.—__ 
+>     “(b)  __Specificity of Display__  __.—__ 
 
 >     Each budget request covered by subsection (a) shall, for any funding requested for operations in Iraq or Afghanistan—
 
@@ -243,7 +243,7 @@
 
 [Pub. L. 110–181, div. A, title VII, § 718][/us/pl/110/181/s718], Jan. 28, 2008, [122 Stat. 197][/us/stat/122/197], provided that:
 
->     “(a) __Report.—__ 
+>     “(a)  __Report__  __.—__ 
 
 >     If the President submits to Congress the budget for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, and the aggregate amount included in that budget for the Department of Defense for health care for such fiscal year is less than the aggregate amount provided by Congress for the Department for health care for the preceding fiscal year, and, in the case of the Department, the total allocation from the Defense Health Program to any military department is less than the total of such allocation in the preceding fiscal year, the President shall submit to Congress a report on—
 
@@ -251,7 +251,7 @@
 
 >         “(2) the anticipated effects of the inclusion of such lesser aggregate amount or allocation to any military department on the access to and delivery of medical and support services to members of the Armed Forces and their family members.
 
->     “(b) __Termination.—__ 
+>     “(b)  __Termination__  __.—__ 
 
 >     The section shall not be in effect after December 31, 2017.”
 
@@ -303,7 +303,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 109–163, div. A, title II, § 214][/us/pl/109/163/s214], Jan. 6, 2006, [119 Stat. 3168][/us/stat/119/3168], provided that:
 
->     “(a) __Program Elements Specified.—__ 
+>     “(a)  __Program Elements Specified__  __.—__ 
 
 >     Effective for the budget of the President submitted to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, for fiscal year 2008 and each fiscal year thereafter, the Secretary of Defense shall ensure that a separate, dedicated program element is assigned to each of the following systems development and demonstration projects of the Armored Systems Modernization program:
 
@@ -319,17 +319,17 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(6) Sustainment.
 
->     “(b) __Early Commencement of Display in Budget Justification Materials.—__ 
+>     “(b)  __Early Commencement of Display in Budget Justification Materials__  __.—__ 
 
 >     As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for the systems development and demonstration projects of the Armored Systems Modernization program identified in subsection (a) as if the projects were already separate program elements.
 
 >     “(c) __Technology Insertion to Current Force.—__ 
 
->         “(1) __Report on establishment of additional program element.—__ 
+>         “(1)  __Report on establishment of additional program element__  __.—__ 
 
 >         Not later than June 1, 2006, the Secretary of the Army shall submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] describing the manner in which the costs of integrating Future Combat Systems capabilities into current force programs could be assigned to a separate, dedicated program element and any management issues that would be raised as a result of establishing such a program element.
 
->         “(2) __Display in budget justification materials.—__ 
+>         “(2)  __Display in budget justification materials__  __.—__ 
 
 >         As part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2007 and each fiscal year thereafter, as submitted with the budget of the President under such section 1105(a), the Secretary of the Army shall set forth the budget justification material for technology insertion to the current force under the Armored Systems Modernization program.”
 
@@ -337,7 +337,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 107–314, div. A, title III, § 351][/us/pl/107/314/s351], Dec. 2, 2002, [116 Stat. 2516][/us/stat/116/2516], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1051, Oct. 14, 2008, [122 Stat. 4604][/us/stat/122/4604], provided that:
 
->     “(a) __Requirement To Submit Information.—__ 
+>     “(a)  __Requirement To Submit Information__  __.—__ 
 
 >     Not later than 30 days after the date on which the President submits the budget for a fiscal year to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of Defense shall submit to Congress information on the following information technology capital assets, including information technology capital assets that are a national security system, of the Department of Defense:
 
@@ -345,7 +345,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) Information technology capital assets not covered by paragraph (1) that have been determined by the Chief Information Officer of the Department of Defense to be significant investments.
 
->     “(b) __Required Information For High-Threshold Assets.—__ 
+>     “(b)  __Required Information For High-Threshold Assets__  __.—__ 
 
 >     With respect to each information technology capital asset described in subsection (a)(1), the Secretary of Defense shall include the following information:
 
@@ -367,15 +367,15 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(9) Information regarding compliance with the provisions of law enacted or amended by the Government Performance Results Act of 1993 ([Public Law 103–62][/us/pl/103/62]; [107 Stat. 285][/us/stat/107/285]) \[see Short Title of 1993 Amendment note under [31 U.S.C. 1101][/us/usc/t31/s1101]\] and the Clinger–Cohen Act of 1996 (divisions D and E of [Public Law 104–106][/us/pl/104/106]; [110 Stat. 642][/us/stat/110/642]) \[§§ 5001–5703 and §§ 4001–4402, see Tables for classification\].
 
->     “(c) __Required Information for Significant Investments.—__ 
+>     “(c)  __Required Information for Significant Investments__  __.—__ 
 
 >     With respect to each information technology capital asset not covered by paragraph (1) of subsection (a), but covered by paragraph (2) of that subsection, the Secretary of Defense shall include such information in a format that is appropriate to the current status of such asset.
 
->     “(d) __Total Cost Determinations.—__ 
+>     “(d)  __Total Cost Determinations__  __.—__ 
 
 >     In estimating the total cost for a fiscal year or total cost of an information technology capital asset, the Secretary of Defense shall consider research and development costs, procurement costs, and operation and maintenance costs related to the information technology capital asset.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -389,11 +389,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 107–249, § 131][/us/pl/107/249/s131], Oct. 23, 2002, [116 Stat. 1586][/us/stat/116/1586], provided that:
 
->     “(a) __Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years.—__ 
+>     “(a)  __Requests for Funds for Environmental Restoration at BRAC Sites in Future Fiscal Years__  __.—__ 
 
 >     In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2003, the amount requested for environmental restoration, waste management, and environmental compliance activities in such fiscal year with respect to military installations approved for closure or realignment under the base closure laws shall accurately reflect the anticipated cost of such activities in such fiscal year.
 
->     “(b) __Base Closure Laws Defined.—__ 
+>     “(b)  __Base Closure Laws Defined__  __.—__ 
 
 >     In this section, the term ‘base closure laws’ means the following:
 

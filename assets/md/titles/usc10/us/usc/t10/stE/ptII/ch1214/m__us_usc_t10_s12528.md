@@ -15,11 +15,11 @@
 
 ## § 12528. Reserve Mobilization Income Insurance Fund
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established on the books of the Treasury a fund to be known as the “Reserve Mobilization Income Insurance Fund”, which shall be administered by the Secretary of the Treasury. The Fund shall be used for the accumulation of funds in order to finance the liabilities of the insurance program on an actuarially sound basis.
 
-    (b) __Assets of Fund.—__ 
+    (b)  __Assets of Fund__  __.—__ 
 
     There shall be deposited into the Fund the following:
 
@@ -29,15 +29,15 @@
 
         (3) Any return on investment of the assets of the Fund.
 
-    (c) __Availability.—__ 
+    (c)  __Availability__  __.—__ 
 
     Amounts in the Fund shall be available for paying insurance benefits under the insurance program.
 
-    (d) __Investment of Assets of Fund.—__ 
+    (d)  __Investment of Assets of Fund__  __.—__ 
 
     The Secretary of the Treasury shall invest such portion of the Fund as is not in the judgment of the Secretary of Defense required to meet current liabilities. Such investments shall be in public debt securities with maturities suitable to the needs of the Fund, as determined by the Secretary of Defense, and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to the Fund.
 
-    (e) __Annual Accounting.—__ 
+    (e)  __Annual Accounting__  __.—__ 
 
     At the beginning of each fiscal year, the Secretary, in consultation with the Board of Actuaries and the Secretary of the Treasury, shall determine the following:
 

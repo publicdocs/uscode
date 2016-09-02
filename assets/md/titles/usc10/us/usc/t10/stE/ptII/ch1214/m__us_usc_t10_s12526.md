@@ -15,13 +15,13 @@
 
 ## § 12526. Premiums
 
-    (a) __Establishment of Rates.—__ 
+    (a)  __Establishment of Rates__  __.—__ 
 
         (1) The Secretary, in consultation with the Board of Actuaries, shall prescribe the premium rates for insurance under the insurance program.
 
         (2) The Secretary shall prescribe a fixed premium rate for each $1,000 of monthly insurance benefit. The premium amount shall be equal to the share of the cost attributable to insuring the member and shall be the same for all members of the Ready Reserve who are insured under the insurance program for the same benefit amount. The Secretary shall prescribe the rate on the basis of the best available estimate of risk and financial exposure, levels of subscription by members, and other relevant factors.
 
-    (b) __Level Premiums.—__ 
+    (b)  __Level Premiums__  __.—__ 
 
     The premium rate prescribed for the first year of insurance coverage of an insured member shall be continued without change for subsequent years of insurance coverage, except that the Secretary, after consultation with the Board of Actuaries, may adjust the premium rate in order to fund inflation-adjusted benefit increases on an actuarially sound basis.
 

@@ -15,11 +15,11 @@
 
 ## § 2229. Strategic policy on prepositioning of materiel and equipment
 
-    (a) __Policy Required.—__ 
+    (a)  __Policy Required__  __.—__ 
 
     The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for the prepositioning of materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands.
 
-    (b) __Limitation of Diversion of Prepositioned Materiel.—__ 
+    (b)  __Limitation of Diversion of Prepositioned Materiel__  __.—__ 
 
     The Secretary of a military department may not divert materiel or equipment from prepositioned stocks except—
 
@@ -27,11 +27,11 @@
 
         (2) for the purpose of directly supporting a contingency operation or providing humanitarian assistance under chapter 20 of this title.
 
-    (c) __Congressional Notification.—__ 
+    (c)  __Congressional Notification__  __.—__ 
 
     The Secretary of Defense may not implement or change the policy required under subsection (a) until the Secretary submits to the congressional defense committees a report describing the policy or change to the policy.
 
-    (d) __Annual Certification.—__ 
+    (d)  __Annual Certification__  __.—__ 
 
         (1) Not later than the date of the submission of the President’s budget request for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to the congressional defense committees certification  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “a certification”. </sup></sup>  in writing that the prepositioned stocks of each of the military departments meet all operations plans, in both fill and readiness, that are in effect as of the date of the submission of the certification.
 
@@ -49,11 +49,11 @@
 
 [Pub. L. 109–364, div. A, title III, § 351(c)][/us/pl/109/364/s351/c], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160], provided that:
 
->     “(1) __Deadline.—__ 
+>     “(1)  __Deadline__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall establish the strategic policy on the programs of the Department of Defense for the prepositioning of materiel and equipment required under [section 2229 of title 10][/us/usc/t10/s2229], United States Code, as added by subsection (a).
 
->     “(2) __Limitation on diversion of prepositioned materiel.—__ 
+>     “(2)  __Limitation on diversion of prepositioned materiel__  __.—__ 
 
 >     During the period beginning on the date of the enactment of this Act \[Oct. 17, 2006\] and ending on the date on which the Secretary of Defense submits the report required under [section 2229(c) of title 10][/us/usc/t10/s2229/c], United States Code, on the policy referred to in paragraph (1), the Secretary of a military department may not divert materiel or equipment from prepositioned stocks except for the purpose of directly supporting a contingency operation or providing humanitarian assistance under chapter 20 of that title.”
 
@@ -61,23 +61,23 @@
 
 [Pub. L. 109–364, div. A, title III, § 359][/us/pl/109/364/s359], Oct. 17, 2006, [120 Stat. 2164][/us/stat/120/2164], provided that:
 
->     “(a) __Consultation.—__ 
+>     “(a)  __Consultation__  __.—__ 
 
 >     In the development of concept plans for the Department of Defense for providing support to civil authorities, the Secretary of Defense may consult with the Secretary of Homeland Security and State governments.
 
->     “(b) __Prepositioning of Department of Defense Assets.—__ 
+>     “(b)  __Prepositioning of Department of Defense Assets__  __.—__ 
 
 >     The Secretary of Defense may provide for the prepositioning of prepackaged or preidentified basic response assets, such as medical supplies, food and water, and communications equipment, in order to improve the ability of the Department of Defense to rapidly provide support to civil authorities. The prepositioning of basic response assets shall be carried out in a manner consistent with Department of Defense concept plans for providing support to civil authorities and [section 2229 of title 10][/us/usc/t10/s2229], United States Code, as added by section 351.
 
->     “(c) __Reimbursement.—__ 
+>     “(c)  __Reimbursement__  __.—__ 
 
 >     To the extent required by [section 1535 of title 31][/us/usc/t31/s1535], United States Code, or other applicable law, the Secretary of Defense shall require that the Department of Defense be reimbursed for costs incurred by the Department in the prepositioning of basic response assets under subsection (b).
 
->     “(d) __Military Readiness.—__ 
+>     “(d)  __Military Readiness__  __.—__ 
 
 >     The Secretary of Defense shall ensure that the prepositioning of basic response assets under subsection (b) does not adversely affect the military preparedness of the United States.
 
->     “(e) __Procedures and Guidelines.—__ 
+>     “(e)  __Procedures and Guidelines__  __.—__ 
 
 >     The Secretary may develop procedures and guidelines applicable to the prepositioning of basic response assets under subsection (b).”
 

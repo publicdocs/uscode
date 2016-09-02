@@ -15,11 +15,11 @@
 
 ## § 14108. Recommendations by promotion boards
 
-    (a) __Recommendation of Best Qualified Officers.—__ 
+    (a)  __Recommendation of Best Qualified Officers__  __.—__ 
 
     A promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] shall recommend for promotion to the next higher grade those officers considered by the board whom the board considers best qualified for promotion within each competitive category considered by the board or, in the case of a vacancy promotion board, among those officers considered to fill a vacancy. In determining those officers who are best qualified for promotion, the board shall give due consideration to the needs of the armed force concerned for officers with particular skills (as noted in the guidelines or information furnished the board under [section 14107 of this title][/us/usc/t10/s14107]).
 
-    (b) __Actions Required.—__ 
+    (b)  __Actions Required__  __.—__ 
 
     A promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] may not recommend an officer for promotion unless—
 
@@ -29,15 +29,15 @@
 
         (3) a majority of the members of the board, after consideration by all members of the board of any adverse information about the officer that is provided to the board under [section 14107 of this title][/us/usc/t10/s14107], finds that the officer is among the officers best qualified for promotion to meet the needs of the armed force concerned consistent with the requirement of exemplary conduct set forth in section 3583, 5947, or 8583 of this title, as applicable.
 
-    (c) __Board Recommendation Required for Promotion.—__ 
+    (c)  __Board Recommendation Required for Promotion__  __.—__ 
 
     Except as otherwise provided by law, an officer on the reserve active-status list may not be promoted to a higher grade under chapter 1405 of this title unless the officer is considered and recommended for promotion to that grade by a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] (or by a special selection board convened under [section 14502 of this title][/us/usc/t10/s14502]).
 
-    (d) __Disclosure of Board Recommendations.—__ 
+    (d)  __Disclosure of Board Recommendations__  __.—__ 
 
     The recommendations of a promotion board may be disclosed only in accordance with regulations prescribed by the Secretary of Defense. Those recommendations may not be disclosed to a person not a member of the board (or a member of the administrative staff designated by the Secretary concerned to assist the board) until the written report of the recommendations of the board, required by [section 14109 of this title][/us/usc/t10/s14109], is signed by each member of the board.
 
-    (e) __Prohibition of Coercion and Unauthorized Influence of Actions of Board Members.—__ 
+    (e)  __Prohibition of Coercion and Unauthorized Influence of Actions of Board Members__  __.—__ 
 
     The Secretary convening a promotion board under [section 14101(a) of this title][/us/usc/t10/s14101/a], and an officer or other official exercising authority over any member of a selection board, may not—
 

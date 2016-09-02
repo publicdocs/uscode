@@ -15,15 +15,15 @@
 
 ## § 2273a. Operationally Responsive Space Program Office
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is within the Air Force Space and Missile Systems Center of the Department of Defense a joint program office known as the Operationally Responsive Space Program Office (in this section referred to as the “Office”). The facilities of the Office may not be co-located with the headquarters facilities of the Air Force Space and Missile Systems Center.
 
-    (b) __Head of Office.—__ 
+    (b)  __Head of Office__  __.—__ 
 
     The head of the Office shall be the designee of the Department of Defense Executive Agent for Space. The head of the Office shall report to the Commander of the Air Force Space and Missile Systems Center.
 
-    (c) __Mission.—__ 
+    (c)  __Mission__  __.—__ 
 
     The mission of the Office shall be—
 
@@ -31,7 +31,7 @@
 
         (2) to coordinate and execute operationally responsive space efforts across the Department of Defense with respect to planning, acquisition, and operations.
 
-    (d) __Elements.—__ 
+    (d)  __Elements__  __.—__ 
 
     The Secretary of Defense shall select the elements of the Department of Defense to be included in the Office so as to contribute to the development of capabilities for operationally responsive space and to achieve a balanced representation of the military departments in the Office to ensure proper acknowledgment of joint considerations in the activities of the Office, except that the Office shall include the following:
 
@@ -67,7 +67,7 @@
 
         (5) Such other elements as the Secretary of Defense may consider necessary.
 
-    (e) __Acquisition Authority.—__ 
+    (e)  __Acquisition Authority__  __.—__ 
 
     The acquisition activities of the Office shall be subject to the following:
 
@@ -87,7 +87,7 @@
 
         (5) To the maximum extent practicable, the procurement unit cost of an integrated satellite procured by the Office should not exceed $40,000,000 (in constant dollars).
 
-    (f) __Required Program Element.—__ 
+    (f)  __Required Program Element__  __.—__ 
 
         (1)
 
@@ -101,7 +101,7 @@
 
         (2) The Office shall manage the program element required by paragraph (1)(A).
 
-    (g) __Executive Committee.—__ 
+    (g)  __Executive Committee__  __.—__ 
 
         (1) The Secretary of Defense shall establish for the Office an Executive Committee (to be known as the “Operationally Responsive Space Executive Committee”) to provide coordination, oversight, and approval of projects of the Office.
 

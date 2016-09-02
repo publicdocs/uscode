@@ -15,11 +15,11 @@
 
 ## § 1732. Selection criteria and procedures
 
-    (a) __Selection Criteria and Procedures.—__ 
+    (a)  __Selection Criteria and Procedures__  __.—__ 
 
     Selection for membership in the Acquisition Corps shall be made in accordance with criteria and procedures established by the Secretary of Defense.
 
-    (b) __Eligibility Criteria.—__ 
+    (b)  __Eligibility Criteria__  __.—__ 
 
     Except as provided in subsections (c) and (d), only persons who meet all of the following requirements may be considered for service in the Corps:
 
@@ -47,19 +47,19 @@
 
         (3) The person must meet such other requirements as the Secretary of Defense or the Secretary of the military department concerned prescribes by regulation.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
         (1) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who, on October 1, 1991, has at least 10 years of experience in acquisition positions or in comparable positions in other government agencies or the private sector.
 
         (2) The requirements of subsections (b)(1)(A) and (b)(1)(B) shall not apply to any employee who is serving in an acquisition position on October 1, 1991, and who does not have 10 years of experience as described in paragraph (1) if the employee passes an examination considered by the Secretary of Defense to demonstrate skills, knowledge, or abilities comparable to that of an individual who has completed at least 24 semester credit hours (or the equivalent) of study from an accredited institution of higher education from among the following disciplines: accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, and organization and management.
 
-    (d) __Waiver.—__ 
+    (d)  __Waiver__  __.—__ 
 
         (1) Except as provided in paragraph (2), the Secretary of Defense may waive any or all of the requirements of subsection (b) with respect to an employee if the Secretary determines that the employee possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated analytical and decisionmaking capabilities, job performance, and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for the decision of the Secretary to waive such requirements.
 
         (2) The Secretary may not waive the requirements of subsection (b)(1)(A)(ii).
 
-    (e) __Mobility Statements.—__ 
+    (e)  __Mobility Statements__  __.—__ 
 
         (1) The Secretary of Defense is authorized to require civilians in the Acquisition Corps to sign mobility statements.
 

@@ -15,11 +15,11 @@
 
 ## § 1602. Basic pay
 
-    (a) __Authority To Fix Rates of Basic Pay.—__ 
+    (a)  __Authority To Fix Rates of Basic Pay__  __.—__ 
 
     The Secretary of Defense (subject to the provisions of this section) shall fix the rates of basic pay for positions established under [section 1601 of this title][/us/usc/t10/s1601] in relation to the rates of pay provided for comparable positions in the Department of Defense and subject to the same limitations on maximum rates of pay established for employees of the Department of Defense by law or regulation.
 
-    (b) __Prevailing Rate Systems.—__ 
+    (b)  __Prevailing Rate Systems__  __.—__ 
 
     The Secretary of Defense may, consistent with [section 5341 of title 5][/us/usc/t5/s5341], adopt such provisions of that title as provide for prevailing rate systems of basic pay and may apply those provisions to positions for civilian employees in or under which the Department of Defense may employ individuals described by section 5342(a)(2)(A) of that title.
 

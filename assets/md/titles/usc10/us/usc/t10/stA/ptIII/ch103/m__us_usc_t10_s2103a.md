@@ -15,7 +15,7 @@
 
 ## § 2103a. Students not eligible for advanced training: commitment to military service
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     A member of the program who has completed successfully the first year of a four-year Senior Reserve Officers’ Training Corps course and who is not eligible for advanced training under [section 2104 of this title][/us/usc/t10/s2104] and is not a cadet or midshipman appointed under [section 2107 of this title][/us/usc/t10/s2107] may—
 
@@ -23,7 +23,7 @@
 
         (2) agree in writing to accept an appointment, if offered, as a commissioned officer in the Army, Navy, Air Force, or Marine Corps, as the case may be, and to serve in the armed forces for the period prescribed by the Secretary.
 
-    (b) __Eligibility Requirements.—__ 
+    (b)  __Eligibility Requirements__  __.—__ 
 
     A member of the program may enter into a contract and agreement under this section (and receive a subsistence allowance under [section 209(c) of title 37][/us/usc/t37/s209/c]) only if the person—
 
@@ -33,7 +33,7 @@
 
         (3) executes a certificate of loyalty in such form as the Secretary of Defense prescribes or take a loyalty oath as prescribed by the Secretary.
 
-    (c) __Parental Consent for Minors.—__ 
+    (c)  __Parental Consent for Minors__  __.—__ 
 
     A member of the program who is a minor may enter into a contract under subsection (a)(1) only with the consent of the member’s parent or guardian.
 

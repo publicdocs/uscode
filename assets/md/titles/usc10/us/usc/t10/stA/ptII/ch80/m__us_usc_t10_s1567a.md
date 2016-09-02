@@ -15,7 +15,7 @@
 
 ## § 1567a. Mandatory notification of issuance of military protective order to civilian law enforcement
 
-    (a) __Initial Notification.—__ 
+    (a)  __Initial Notification__  __.—__ 
 
     In the event a military protective order is issued against a member of the armed forces and any individual involved in the order does not reside on a military installation at any time during the duration of the military protective order, the commander of the military installation shall notify the appropriate civilian authorities of—
 
@@ -23,7 +23,7 @@
 
         (2) the individuals involved in the order.
 
-    (b) __Notification of Changes or Termination.—__ 
+    (b)  __Notification of Changes or Termination__  __.—__ 
 
     The commander of the military installation also shall notify the appropriate civilian authorities of—
 

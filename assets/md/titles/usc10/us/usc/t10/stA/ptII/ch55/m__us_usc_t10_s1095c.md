@@ -15,7 +15,7 @@
 
 ## § 1095c. TRICARE program: facilitation of processing of claims
 
-    (a) __Reduction of Processing Time.—__ 
+    (a)  __Reduction of Processing Time__  __.—__ 
 
         (1)
 
@@ -29,7 +29,7 @@
 
         (3) For purposes of this subsection, the term “clean claim” means a claim that has no defect, impropriety (including a lack of any required substantiating documentation), or particular circumstance requiring special treatment that prevents timely payment on the claim under this section.
 
-    (b) __Requirement to Provide Start-Up Time For Certain Contractors.—__ 
+    (b)  __Requirement to Provide Start-Up Time For Certain Contractors__  __.—__ 
 
         (1) Except as provided in paragraph (3), the Secretary of Defense shall not require that a contractor described in paragraph (2) begin to provide managed care support pursuant to a contract to provide such support under the TRICARE program until at least nine months after the date of the award of the contract, but in no case later than one year after the date of such award.
 
@@ -55,11 +55,11 @@
 
             (B) 60 days have elapsed since the date of such notification.
 
-    (c) __Incentives for Electronic Processing.—__ 
+    (c)  __Incentives for Electronic Processing__  __.—__ 
 
     The Secretary of Defense shall require that new contracts for managed care support under the TRICARE program provide that the contractor be permitted to provide financial incentives to health care providers who file claims for payment electronically.
 
-    (d) __Correspondence to Medicare Claims Information Requirements.—__ 
+    (d)  __Correspondence to Medicare Claims Information Requirements__  __.—__ 
 
     The Secretary of Defense, in consultation with the other administering Secretaries, shall limit the information required in support of claims for payment for health care items and services provided under the TRICARE program to that information that is identical to the information that would be required for claims for reimbursement for those items and services under title XVIII of the Social Security Act ([42 U.S.C. 1395][/us/usc/t42/s1395] et seq.) except for that information, if any, that is uniquely required by the TRICARE program. The Secretary of Defense shall report to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives any information that is excepted under this provision, and the justification for that exception.
 
@@ -93,11 +93,11 @@
 
 [Pub. L. 109–364, div. A, title VII, § 731][/us/pl/109/364/s731], Oct. 17, 2006, [120 Stat. 2295][/us/stat/120/2295], as amended by [Pub. L. 112–81, div. A, title X, § 1062(d)(2)][/us/pl/112/81/s1062/d/2], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Effective beginning with the next contract option period for managed care support contracts under the TRICARE program, the claims processing requirements under the TRICARE program on the matters described in subsection (b) shall be identical to the claims processing requirements under the Medicare program on such matters.
 
->     “(b) __Covered Matters.—__ 
+>     “(b)  __Covered Matters__  __.—__ 
 
 >     The matters described in this subsection are as follows:
 
@@ -105,7 +105,7 @@
 
 >         “(2) The documentation required to substantiate medical necessity for items and services that are covered under both the TRICARE program and the Medicare program.
 
->     “(c) __Report on Collection of Amounts Owed.—__ 
+>     “(c)  __Report on Collection of Amounts Owed__  __.—__ 
 
 >     Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a detailed description of the following:
 
@@ -125,7 +125,7 @@
 
 >         “(5) A plan of action to accelerate and increase the collections or recoupments of amounts owed from third party payers.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 

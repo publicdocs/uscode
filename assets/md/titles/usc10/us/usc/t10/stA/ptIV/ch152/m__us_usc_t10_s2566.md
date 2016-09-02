@@ -15,11 +15,11 @@
 
 ## § 2566. Space and services: provision to military welfare societies
 
-    (a) __Authority To Provide Space and Services.—__ 
+    (a)  __Authority To Provide Space and Services__  __.—__ 
 
     The Secretary of a military department may provide, without charge, space and services under the jurisdiction of that Secretary to a military welfare society.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section:
 

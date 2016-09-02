@@ -325,11 +325,11 @@
 
 [Pub. L. 111–84, div. A, title XI, § 1111][/us/pl/111/84/s1111], Oct. 28, 2009, [123 Stat. 2495][/us/stat/123/2495], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(16)][/us/pl/111/383/s1075/d/16], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
 
->     “(a) __Availability of Funds.—__ 
+>     “(a)  __Availability of Funds__  __.—__ 
 
 >     Funds authorized to be appropriated for the Department of Defense that are available for the purchase of contract services to meet a requirement that is anticipated to continue for five years or more shall be available to provide compensation for civilian employees of the Department to meet the same requirement.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall prescribe regulations implementing the authority in subsection (a). Such regulations—
 
@@ -339,7 +339,7 @@
 
 >         “(3) may establish additional criteria and levels of approval within the Department for the utilization of funds to provide compensation for civilian employees of the Department pursuant to subsection (a).
 
->     “(c) __Annual Report.—__ 
+>     “(c)  __Annual Report__  __.—__ 
 
 >     Not later than 60 days after the end of each fiscal year for which the authority in subsection (a) is in effect, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of such authority. Each report shall cover the preceding fiscal year and shall identify, at a minimum, the following:
 
@@ -351,7 +351,7 @@
 
 >         “(4) The actions taken by the Secretary to ensure that follow-on funding for such civilian employees is provided through appropriate accounts.
 
->     “(d) __Temporary Authority.—__ 
+>     “(d)  __Temporary Authority__  __.—__ 
 
 >     The authority in subsection (a) shall apply to funds authorized to be appropriated for the Department of Defense for fiscal years 2010 through 2019.”
 
@@ -361,11 +361,11 @@
 
 >     “(a) __Leadership Program Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall establish a program of leadership recruitment and development for civilian employees of the Department of Defense, to be known as the ‘Department of Defense Civilian Leadership Program’ (in this section referred to as the ‘program’).
 
->         “(2) __Objectives.—__ 
+>         “(2)  __Objectives__  __.—__ 
 
 >         The objectives of the program shall be as follows:
 
@@ -375,13 +375,13 @@
 
 >             “(C) To offer rapid advancement, competitive compensation, and leadership opportunities to highly qualified civilian employees of the Department.
 
->         “(3) __Available authorities.—__ 
+>         “(3)  __Available authorities__  __.—__ 
 
 >         In carrying out the program, the Secretary may exercise any authority available to the Office of Personnel Management under [section 4703 of title 5][/us/usc/t5/s4703], United States Code, except that the Secretary shall not be bound by the limitations in subsection (d) of such section. Nothing in this section shall be construed to authorize the waiver of any part of chapter 71 of title 5, United States Code, or any regulation implementing such chapter, in the carrying out of the program.
 
 >     “(b) __Eligible Individuals.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The following individuals shall be eligible to participate in the program:
 
@@ -389,21 +389,21 @@
 
 >             “(B) Appropriate individuals in the private sector.
 
->         “(2) __Limitation on number of participants in program.—__ 
+>         “(2)  __Limitation on number of participants in program__  __.—__ 
 
 >         The total number of individuals who may participate in the program in any fiscal year may not exceed 5,000.
 
->         “(3) __Limitation on period of participation in program.—__ 
+>         “(3)  __Limitation on period of participation in program__  __.—__ 
 
 >         The maximum period of time that an individual may participate in the program is three years.
 
 >     “(c) __Elements of Program.—__ 
 
->         “(1) __Competitive entry.—__ 
+>         “(1)  __Competitive entry__  __.—__ 
 
 >         The selection of individuals for entry into the program shall be made on the basis of a competition conducted at least twice each year. In each competition, participants in the program shall be selected from among applicants determined by the Secretary to be the most highly qualified in terms of academic merit, work experience, and demonstrated leadership skills. Each competition shall provide for entry-level participants and midcareer participants in the program.
 
->         “(2) __Allocation of positions.—__ 
+>         “(2)  __Allocation of positions__  __.—__ 
 
 >         The Secretary shall allocate positions in the program among the components of the Department of Defense that—
 
@@ -413,19 +413,19 @@
 
 >             “(C) demonstrate the greatest need for participants in the program.
 
->         “(3) __Assignments to positions.—__ 
+>         “(3)  __Assignments to positions__  __.—__ 
 
 >         Participants in the program shall be assigned to components of the Department that best match their skills and qualifications. Participants in the program may be rotated among components of the Department of Defense at the discretion of the Secretary.
 
->         “(4) __Initial compensation.—__ 
+>         “(4)  __Initial compensation__  __.—__ 
 
 >         The initial compensation of participants in the program shall be determined by the Secretary based on the qualifications of such participants and applicable market conditions.
 
->         “(5) __Education and training.—__ 
+>         “(5)  __Education and training__  __.—__ 
 
 >         The Secretary shall provide participants in the program with training, mentoring, and educational opportunities that are appropriate to facilitate the development of such participants into effective civilian leaders for the Department of Defense.
 
->         “(6) __Objective, merit-based principles for personnel decisions.—__ 
+>         “(6)  __Objective, merit-based principles for personnel decisions__  __.—__ 
 
 >         The Secretary shall make personnel decisions under the program in accordance with such objective, merit-based criteria as the Secretary shall prescribe in regulations for purposes of the program. Such criteria shall include, but not be limited to, criteria applicable to the following:
 
@@ -439,7 +439,7 @@
 
 >             “(E) The consideration of participants in the program for selection into the senior management, functional, and technical workforce of the Department.
 
->         “(7) __Consideration for senior management, functional, and technical workforce.—__ 
+>         “(7)  __Consideration for senior management, functional, and technical workforce__  __.—__ 
 
 >         Any participant in the program who, as determined by the Secretary, demonstrates outstanding performance shall be afforded priority in consideration for selection into the appropriate element of the senior management, functional, and technical workforce of the Department of Defense (as defined in section 115b(f) \[now 115b(g)\] of title 10, United States Code).”
 
@@ -447,21 +447,21 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1108, Oct. 14, 2008, [122 Stat. 4618][/us/stat/122/4618], as amended by [Pub. L. 111–383, div. A, title XI, § 1101(a)][/us/pl/111/383/s1101/a], Jan. 7, 2011, [124 Stat. 4381][/us/stat/124/4381]; [Pub. L. 112–81, div. A, title XI, § 1103][/us/pl/112/81/s1103], Dec. 31, 2011, [125 Stat. 1612][/us/stat/125/1612], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Defense may appoint qualified candidates possessing an advanced degree to positions described in subsection (b) without regard to the provisions of subchapter I of chapter 33 of title 5, United States Code, other than sections 3303 and 3328 of such title.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     This section applies with respect to candidates for scientific and engineering positions within any laboratory designated by section 1105(a) of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2486][/us/stat/123/2486]; [10 U.S.C. 2358][/us/usc/t10/s2358] note) as a Department of Defense science and technology reinvention laboratory.
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >         (1) Authority under this section may not, in any calendar year and with respect to any laboratory, be exercised with respect to a number of candidates greater than the number equal to 5 percent of the total number of scientific and engineering positions within such laboratory that are filled as of the close of the fiscal year last ending before the start of such calendar year.
 
 >         “(2) For purposes of this subsection, positions and candidates shall be counted on a full-time equivalent basis.
 
->     “(d) __Employee Defined.—__ 
+>     “(d)  __Employee Defined__  __.—__ 
 
 >     As used in this section, the term ‘employee’ has the meaning given such term by [section 2105 of title 5][/us/usc/t5/s2105], United States Code.    \[Amendment by [section 1101(a)(1) of Pub. L. 111–383][/us/pl/111/383/s1101/a/1] to [section 1108(b) of Pub. L. 110–417][/us/pl/110/417/s1108/b], set out above, effective Oct. 28, 2009, and amendment by [section 1101(a)(2) of Pub. L. 111–383][/us/pl/111/383/s1101/a/2] to [section 1108(c) of Pub. L. 110–417][/us/pl/110/417/s1108/c], set out above, effective Jan. 7, 2011, see [section 1101(d) of Pub. L. 111–383][/us/pl/111/383/s1101/d], set out as an Effective Date of 2011 Amendment note under [section 9902 of Title 5][/us/usc/t5/s9902], Government Organization and Employees.\]
 
@@ -469,11 +469,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XII, § 1235, Oct. 14, 2008, [122 Stat. 4641][/us/stat/122/4641], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of State are authorized to jointly establish and operate a temporary program to offer employment as translators, interpreters, or cultural awareness instructors to individuals described in subsection (b). Individuals described in such subsection may be appointed to temporary positions of one year or less outside Iraq with either the Department of Defense or the Department of State, without competition and without regard for the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code. Such individuals may also be hired as personal services contractors by either of such Departments to provide translation, interpreting, or cultural awareness instruction, except that such individuals so hired shall not by virtue of such employment be considered employees of the United States Government, except for purposes of chapter 81 of title 5, United States Code, and chapter 171 of title 28, United States Code.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     Individuals referred to in subsection (a) are Iraqi nationals who—
 
@@ -483,33 +483,33 @@
 
 >     “(c) __Funding.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the program established under subsection (a) shall be funded from the annual general operating budget of the Department of Defense.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         The Secretary of State shall reimburse the Department of Defense for any costs associated with individuals described in subsection (b) whose work is for or on behalf of the Department of State.
 
->     “(d) __Rule of Construction Regarding Access to Classified Information.—__ 
+>     “(d)  __Rule of Construction Regarding Access to Classified Information__  __.—__ 
 
 >     Nothing in this section may be construed as affecting in any manner practices and procedures regarding the handling of or access to classified information.
 
->     “(e) __Information Sharing.—__ 
+>     “(e)  __Information Sharing__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of State shall work with the Secretary of Homeland Security and the Office of Refugee Resettlement of the Department of Health and Human Services to ensure that individuals described in subsection (b) are informed of the program established under subsection (a).
 
->     “(f) __Regulation.—__ 
+>     “(f)  __Regulation__  __.—__ 
 
 >     The Secretary of Defense, jointly with the Secretary of State and with the concurrence of the Director of the Office of Personnel Management, shall prescribe such regulations as are necessary to carry out the program established under subsection (a), including ensuring the suitability for employment described in subsection (a) of individuals described in subsection (b), determining the number of positions, and establishing pay scales and hiring procedures.
 
 >     “(g) __Termination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the program established under subsection (a) shall terminate on December 31, 2014.
 
->         “(2) __Earlier termination.—__ 
+>         “(2)  __Earlier termination__  __.—__ 
 
 >         If the Secretary of Defense, jointly with the Secretary of State, determines that the program established under subsection (a) should terminate before the date specified in paragraph (1), the Secretaries may terminate the program if the Secretaries notify Congress in writing of such termination at least 180 days before such termination.”
 

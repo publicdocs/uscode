@@ -15,7 +15,7 @@
 
 ## § 2711. Annual report on defense environmental programs
 
-    (a) __Report Required.—__ 
+    (a)  __Report Required__  __.—__ 
 
     The Secretary of Defense shall submit to Congress each year, not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, a report on defense environmental programs. Each report shall include:
 
@@ -63,7 +63,7 @@
 
             (B) a statement of the amount expended, or proposed to be expended, during the period consisting of the four fiscal years preceding the fiscal year in which the report is submitted, the fiscal year for which the budget is submitted, and the fiscal year following the fiscal year for which the budget is submitted.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     For purposes of this section—
 

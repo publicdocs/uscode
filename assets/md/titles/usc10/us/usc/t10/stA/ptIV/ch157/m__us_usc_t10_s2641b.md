@@ -15,7 +15,7 @@
 
 ## § 2641b. Space-available travel on Department of Defense aircraft: program authorized and eligible recipients
 
-    (a) __Authority to Establish Program.—__ 
+    (a)  __Authority to Establish Program__  __.—__ 
 
         (1) The Secretary of Defense may establish a program (in this section referred to as the “travel program”) to provide transportation on Department of Defense aircraft on a space-available basis to the categories of individuals eligible under subsection (c).
 
@@ -33,13 +33,13 @@
 
             (D) the metrics by which the Secretary will monitor the travel program to determine the efficient and effective execution of the travel program.
 
-    (b) __Conditions on Establishment and Operation.—__ 
+    (b)  __Conditions on Establishment and Operation__  __.—__ 
 
         (1) The Secretary of Defense shall operate the travel program in a budget-neutral manner.
 
         (2) No additional funds may be used, or flight hours performed, for the purpose of providing transportation under the travel program.
 
-    (c) __Eligible Individuals.—__ 
+    (c)  __Eligible Individuals__  __.—__ 
 
     Subject to subsection (d), the Secretary of Defense shall provide transportation under the travel program (if established) to the following categories of individuals:
 
@@ -53,7 +53,7 @@
 
         (5) Such other categories of individuals as the Secretary, in the discretion of the Secretary, considers appropriate.
 
-    (d) __Priorities and Restrictions.—__ 
+    (d)  __Priorities and Restrictions__  __.—__ 
 
     In operating the travel program, the Secretary of Defense shall—
 
@@ -63,7 +63,7 @@
 
         (3) implement policies aimed at ensuring cost control (as required by subsection (b)) and the safety, security, and efficient processing of travelers, including limiting the benefit under the travel program to one or more categories of otherwise eligible individuals if considered necessary by the Secretary.
 
-    (e) __Special Priority for Retired Members Residing in Commonwealths and Possessions of the United States Who Need Certain Health Care Services.—__ 
+    (e)  __Special Priority for Retired Members Residing in Commonwealths and Possessions of the United States Who Need Certain Health Care Services__  __.—__ 
 
         (1) Notwithstanding subsection (d)(1), in establishing space-available transportation priorities under the travel program, the Secretary of Defense shall provide transportation for an individual described in paragraph (2), and a single dependent of the individual if needed to accompany the individual, at a priority level in the same category as the priority level for an unaccompanied dependent over the age of 18 traveling on environmental and morale leave.
 
@@ -89,7 +89,7 @@
 
         (6) In this subsection, the terms “primary care provider” and “specialty care provider” refer to a medical or dental professional who provides health care services under chapter 55 of this title.
 
-    (f) __Construction.—__ 
+    (f)  __Construction__  __.—__ 
 
     The authority to provide transportation under the travel program is in addition to any other authority under law to provide transportation on Department of Defense aircraft on a space-available basis.
 

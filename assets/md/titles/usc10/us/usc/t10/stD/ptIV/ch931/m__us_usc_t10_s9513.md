@@ -15,7 +15,7 @@
 
 ## § 9513. Use of military installations by Civil Reserve Air Fleet contractors
 
-    (a) __Contract Authority.—__ 
+    (a)  __Contract Authority__  __.—__ 
 
         (1)
 
@@ -27,19 +27,19 @@
 
         (2) The Secretary of the Air Force may include in the contract such terms and conditions as the Secretary determines appropriate to promote the national defense or to protect the interests of the United States.
 
-    (b) __Purposes of Use.—__ 
+    (b)  __Purposes of Use__  __.—__ 
 
     A contract entered into under subsection (a) may authorize use of a designated installation as a weather alternate, as a technical stop not involving the enplaning or deplaning of passengers or cargo, or, in the case of an installation within the United States, for other commercial purposes. Notwithstanding any other provision of the law, the Secretary may establish different levels and types of uses for different installations for commercial operations not required by the Department of Defense and may provide in contracts under subsection (a) for different levels and types of uses by different contractors.
 
-    (c) __Disposition of Payments for Use.—__ 
+    (c)  __Disposition of Payments for Use__  __.—__ 
 
     Notwithstanding any other provision of law, amounts collected from the contractor for landing fees, services, supplies, or other charges authorized to be collected under the contract shall be credited to the appropriations of the armed forces having jurisdiction over the military installation to which the contract pertains. Amounts so credited to an appropriation shall be available for obligation for the same period as the appropriation to which credited.
 
-    (d) __Hold Harmless Requirement.—__ 
+    (d)  __Hold Harmless Requirement__  __.—__ 
 
     A contract entered into under subsection (a) shall provide that the contractor agrees to indemnify and hold harmless the United States from any action, suit, or claim of any sort resulting from, relating to, or arising out of any activities conducted, or services or supplies furnished, in connection with the contract.
 
-    (e) __Reservation of Right To Exclude Contractor.—__ 
+    (e)  __Reservation of Right To Exclude Contractor__  __.—__ 
 
     A contract entered into under subsection (a) shall provide that the Secretary concerned may, without providing prior notice, deny access to an installation designated under the contract when the Secretary determines that it is necessary to do so in order to meet military exigencies.
 

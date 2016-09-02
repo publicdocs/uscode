@@ -15,7 +15,7 @@
 
 ## § 2272. Space science and technology strategy: coordination
 
-    (a) __Space Science and Technology Strategy.—__ 
+    (a)  __Space Science and Technology Strategy__  __.—__ 
 
         (1) The Secretary of Defense and the Director of National Intelligence shall jointly develop and implement a space science and technology strategy and shall review and, as appropriate, revise the strategy annually. Functions of the Secretary under this subsection shall be carried out jointly by the Assistant Secretary of Defense for Research and Engineering and the official of the Department of Defense designated as the Department of Defense Executive Agent for Space.
 
@@ -37,7 +37,7 @@
 
         (5) The Secretary of Defense and the Director of National Intelligence shall biennially submit the strategy developed under paragraph (1) to the congressional defense committees every other year on the date on which the President submits to Congress the budget for the next fiscal year under [section 1105 of title 31][/us/usc/t31/s1105].
 
-    (b) __Required Coordination.—__ 
+    (b)  __Required Coordination__  __.—__ 
 
     In carrying out the space science and technology strategy developed under subsection (a), the directors of the research laboratories of the Department of Defense, the directors of the other Department of Defense research components, and the heads of all other appropriate organizations identified jointly by the Assistant Secretary of Defense for Research and Engineerin and the Department of Defense Executive Agent for Space shall each—
 
@@ -45,7 +45,7 @@
 
         (2) inform the Assistant Secretary of Defense for Research and Engineering and the Department of Defense Executive Agent for Space of the planned budget and planned schedule for executing those projects.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

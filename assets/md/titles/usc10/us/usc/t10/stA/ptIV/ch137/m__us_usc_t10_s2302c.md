@@ -15,7 +15,7 @@
 
 ## § 2302c. Implementation of electronic commerce capability
 
-    (a) __Implementation of Electronic Commerce Capability.—__ 
+    (a)  __Implementation of Electronic Commerce Capability__  __.—__ 
 
         (1) The head of each agency named in paragraphs (1), (5), and (6) of [section 2303(a) of this title][/us/usc/t10/s2303/a] shall implement the electronic commerce capability required by [section 2301 of title 41][/us/usc/t41/s2301].
 
@@ -23,7 +23,7 @@
 
         (3) In implementing the electronic commerce capability pursuant to paragraph (1), the head of an agency referred to in paragraph (1) shall consult with the Administrator for Federal Procurement Policy.
 
-    (b) __Designation of Agency Official.—__ 
+    (b)  __Designation of Agency Official__  __.—__ 
 
     The head of each agency named in paragraph (5) or (6) of [section 2303(a) of this title][/us/usc/t10/s2303/a] shall designate a program manager to implement the electronic commerce capability for that agency. The program manager shall report directly to an official at a level not lower than the senior procurement executive designated for the agency under [section 1702(c) of title 41][/us/usc/t41/s1702/c].
 

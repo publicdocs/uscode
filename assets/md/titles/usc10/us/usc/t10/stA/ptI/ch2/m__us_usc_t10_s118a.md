@@ -15,13 +15,13 @@
 
 ## § 118a. Quadrennial quality of life review
 
-    (a) __Review Required.—__ 
+    (a)  __Review Required__  __.—__ 
 
         (1) The Secretary of Defense shall every four years conduct a comprehensive examination of the quality of life of the members of the armed forces (to be known as the “quadrennial quality of life review”). The review shall include examination of the programs, projects, and activities of the Department of Defense, including the morale, welfare, and recreation activities.
 
         (2) The quadrennial quality of life review shall be designed to result in determinations, and to foster policies and actions, that reflect the priority given the quality of life of members of the armed forces as a primary concern of the Department of Defense leadership.
 
-    (b) __Conduct of Review.—__ 
+    (b)  __Conduct of Review__  __.—__ 
 
     Each quadrennial quality of life review shall be conducted so as—
 
@@ -31,7 +31,7 @@
 
         (3) to identify other actions that have the potential for improving the quality of life of the members of the armed forces.
 
-    (c) __Considerations.—__ 
+    (c)  __Considerations__  __.—__ 
 
     The Secretary shall consider addressing the following matters as part of the quadrennial quality of life review:
 
@@ -63,7 +63,7 @@
 
         (14) Other elements of Department of Defense programs and Government policies and programs that affect the quality of life of members.
 
-    (d) __Submission to Congressional Committees.—__ 
+    (d)  __Submission to Congressional Committees__  __.—__ 
 
         (1)
 

@@ -15,11 +15,11 @@
 
 ## § 2124. Members of the program: numbers appointed
 
-    (a) __Authorized Number of Members of the Program.—__ 
+    (a)  __Authorized Number of Members of the Program__  __.—__ 
 
     The number of persons who may be designated as members of the program for training in each health profession shall be as prescribed by the Secretary of Defense, except that the total number of persons so designated may not, at any time, exceed 6,300.
 
-    (b) __Mental Health Professionals.—__ 
+    (b)  __Mental Health Professionals__  __.—__ 
 
     Of the number of persons designated as members of the program at any time, 300 may be members of the program described in [section 2121(a)(1)(B) of this title][/us/usc/t10/s2121/a/1/B].
 

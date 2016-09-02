@@ -15,11 +15,11 @@
 
 ## § 2722. Theft or loss of ammunition, destructive devices, and explosives: report to Secretary of the Treasury
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall report the theft or other loss of any ammunition, destructive device, or explosive material from the stocks of the Department of Defense to the Secretary of the Treasury within 72 hours, if possible, after the discovery of such theft or loss.
 
-    (b) __Exclusion for Certain Items.—__ 
+    (b)  __Exclusion for Certain Items__  __.—__ 
 
     The Secretary of Defense may exclude from the reporting requirement under subsection (a) any item referred to in that subsection if—
 
@@ -27,7 +27,7 @@
 
         (2) the exclusion of such item is specified as being excluded from the reporting requirement in a memorandum of agreement between the Secretary of Defense and the Secretary of the Treasury.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

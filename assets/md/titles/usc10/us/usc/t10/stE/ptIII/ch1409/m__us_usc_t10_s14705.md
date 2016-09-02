@@ -15,11 +15,11 @@
 
 ## § 14705. Selective early retirement: reserve general and flag officers of the Navy and Marine Corps
 
-    (a) __Authority To Consider.—__ 
+    (a)  __Authority To Consider__  __.—__ 
 
     An officer in the Navy Reserve in an active status serving in the grade of rear admiral (lower half) or rear admiral and an officer in the Marine Corps Reserve in an active status serving in the grade of brigadier general or major general may be considered for early retirement whenever the Secretary of the Navy determines that such action is necessary.
 
-    (b) __Boards.—__ 
+    (b)  __Boards__  __.—__ 
 
         (1) If the Secretary of the Navy determines that consideration of officers for early retirement under this section is necessary, the Secretary shall convene a selection board under [section 14101(b) of this title][/us/usc/t10/s14101/b] to recommend an appropriate number of officers for early retirement.
 
@@ -31,7 +31,7 @@
 
             (B) at least one member of the board is a reserve officer who holds the grade of rear admiral or major general.
 
-    (c) __Separation Under Section 14514.—__ 
+    (c)  __Separation Under Section__  __14514.—__ 
 
     An officer selected for early retirement under this section shall be separated in accordance with [section 14514 of this title][/us/usc/t10/s14514].
 

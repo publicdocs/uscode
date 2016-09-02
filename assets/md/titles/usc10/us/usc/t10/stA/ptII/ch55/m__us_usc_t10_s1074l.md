@@ -15,15 +15,15 @@
 
 ## § 1074l. Notification to Congress of hospitalization of combat wounded members
 
-    (a) __Notification Required.—__ 
+    (a)  __Notification Required__  __.—__ 
 
     The Secretary concerned shall provide notification of the hospitalization of any member of the armed forces evacuated from a theater of combat and admitted to a military treatment facility within the United States to the appropriate Members of Congress.
 
-    (b) __Appropriate Members.—__ 
+    (b)  __Appropriate Members__  __.—__ 
 
     In this section, the term “appropriate Members of Congress”, with respect to the member of the armed forces about whom notification is being made, means the Senators representing the State, and the Member, Delegate, or Resident Commissioner of the House of Representatives representing the district, that includes the member’s home of record or a different location as provided by the member.
 
-    (c) __Consent of Member Required.—__ 
+    (c)  __Consent of Member Required__  __.—__ 
 
     The notification under subsection (a) may be provided only with the consent of the member of the armed forces about whom notification is to be made. In the case of a member who is unable to provide consent, information and consent may be provided by next of kin.
 

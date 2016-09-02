@@ -15,23 +15,23 @@
 
 ## § 1581. Foreign National Employees Separation Pay Account
 
-    (a) __Establishment and Purpose.—__ 
+    (a)  __Establishment and Purpose__  __.—__ 
 
     There is established on the books of the Treasury an account to be known as the “Foreign National Employees Separation Pay Account, Defense”. The account shall be used for the accumulation of funds to finance obligations of the United States for separation pay for foreign nationals referred to in subsection (e).
 
-    (b) __Deposits Into Account.—__ 
+    (b)  __Deposits Into Account__  __.—__ 
 
     The Secretary of Defense shall deposit into the account from applicable appropriations all amounts obligated for separation pay for foreign nationals referred to in subsection (e).
 
-    (c) __Payments From Account.—__ 
+    (c)  __Payments From Account__  __.—__ 
 
     Amounts in the account shall remain available for expenditure in accordance with the purpose for which obligated until expended.
 
-    (d) __Deobligated Funds.—__ 
+    (d)  __Deobligated Funds__  __.—__ 
 
     Any amount in the account that is deobligated shall be available for a period of two years from the date of deobligation for recording, adjusting, and liquidating amounts properly chargeable to the liability of the United States for which the obligation was made. Any such deobligated amount remaining at the end of such two-year period shall be canceled.
 
-    (e) __Employees Covered.—__ 
+    (e)  __Employees Covered__  __.—__ 
 
     This section applies only with respect to separation pay of foreign nationals employed by the Department of Defense, and foreign nationals employed by a foreign government for the benefit of the Department of Defense, under any of the following agreements that provide for payment of separation pay:
 

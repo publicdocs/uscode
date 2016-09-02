@@ -15,17 +15,17 @@
 
 ## § 1147. Use of military family housing
 
-    (a) __Transition for Involuntarily Separated Members.—__ 
+    (a)  __Transition for Involuntarily Separated Members__  __.—__ 
 
         (1) The Secretary of a military department may, pursuant to regulations prescribed by the Secretary of Defense, permit individuals who are involuntarily separated during the period beginning on October 1, 2012, and ending on December 31, 2018, to continue for not more than 180 days after the date of such separation to reside (along with other members of the individual’s household) in military family housing provided or leased by the Department of Defense to such individual as a member of the armed forces.
 
         (2) The Secretary concerned may prescribe regulations to permit members of the Coast Guard who are involuntarily separated during the period beginning on October 1, 2012, and ending on December 31, 2018, to continue for not more than 180 days after the date of such separation to reside (along with others of the member’s household) in military family housing provided or leased by the Coast Guard to the individual as a member of the armed forces.
 
-    (b) __Rental Charges.—__ 
+    (b)  __Rental Charges__  __.—__ 
 
     The Secretary concerned, pursuant to such regulations, shall require a reasonable rental charge for the continued use of military family housing under subsection (a), except that such Secretary may waive all or any portion of such charge in any case of hardship.
 
-    (c) __No Transitional Basic Allowance for Housing.—__ 
+    (c)  __No Transitional Basic Allowance for Housing__  __.—__ 
 
     Nothing in this section shall be construed to authorize the Secretary concerned to continue to provide for any period of time to an individual who is involuntarily separated all or any portion of a basic allowance for housing to which the individual was entitled under [section 403 of title 37][/us/usc/t37/s403] immediately before being involuntarily separated, even in cases in which the individual or members of the individual’s household continue to reside after the separation in a housing unit acquired or constructed under the alternative authority of subchapter IV of chapter 169 of this title that is not owned or leased by the United States.
 

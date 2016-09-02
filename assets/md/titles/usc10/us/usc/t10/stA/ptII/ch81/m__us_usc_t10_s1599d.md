@@ -15,15 +15,15 @@
 
 ## § 1599d. Financial management positions: authority to prescribe professional certification and credential standards
 
-    (a) __Authority To Prescribe Professional Certification and Credential Standards.—__ 
+    (a)  __Authority To Prescribe Professional Certification and Credential Standards__  __.—__ 
 
     The Secretary of Defense may prescribe professional certification and credential standards for financial management positions within the Department of Defense, including requirements for formal education and requirements for certifications that individuals have met predetermined qualifications set by an agency of Government or by an industry or professional group. Any such professional certification or credential standard shall be prescribed as a Department regulation.
 
-    (b) __Waiver.—__ 
+    (b)  __Waiver__  __.—__ 
 
     The Secretary may waive any standard prescribed under subsection (a) whenever the Secretary determines such a waiver to be appropriate.
 
-    (c) __Applicability.—__ 
+    (c)  __Applicability__  __.—__ 
 
         (1)
 
@@ -35,15 +35,15 @@
 
         (2) A formal education requirement prescribed under subsection (a) shall not apply to any person employed by the Department in a financial management position before the standard is prescribed.
 
-    (d) __Discharge of Authority.—__ 
+    (d)  __Discharge of Authority__  __.—__ 
 
     The Secretary shall prescribe any professional certification or credential standards under subsection (a) through the Under Secretary of Defense (Comptroller), in consultation with the Under Secretary of Defense for Personnel and Readiness.
 
-    (e) __Reports.—__ 
+    (e)  __Reports__  __.—__ 
 
     Not later than one year after the effective date of any regulations prescribed under subsection (a), or any significant modification of such regulations, the Secretary shall, in conjunction with the Director of the Office of Personnel Management, submit to Congress a report setting forth the plans of the Secretary to provide training to appropriate Department personnel to meet any new professional certification or credential standard under such regulations or modification.
 
-    (f) __Financial Management Position Defined.—__ 
+    (f)  __Financial Management Position Defined__  __.—__ 
 
     In this section, the term “financial management position” means a position or group of positions (including civilian and military positions), as designated by the Secretary for purposes of this section, that perform, supervise, or manage work of a fiscal, financial management, accounting, auditing, cost, or budgetary nature, or that require the performance of financial management-related work.
 

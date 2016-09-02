@@ -15,7 +15,7 @@
 
 ## § 1409. Retired pay multiplier
 
-    (a) __Retired Pay Multiplier for Regular-Service Nondisability Retirement.—__ 
+    (a)  __Retired Pay Multiplier for Regular-Service Nondisability Retirement__  __.—__ 
 
     In computing—
 
@@ -33,7 +33,7 @@
 
     (b) __Percentage.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         Subject to paragraphs (2) and (3), the percentage to be used under subsection (a) is the product (stated as a percentage) of—
 
@@ -41,7 +41,7 @@
 
             (B) the member’s years of creditable service (as defined in subsection (c)).
 
-        (2) __Reduction applicable to certain new-retirement members with less than 30 years of service.—__ 
+        (2)  __Reduction applicable to certain new-retirement members with less than 30 years of service__  __.—__ 
 
         In the case of a member who first became a member of a uniformed service after July 31, 1986, has elected to receive a bonus under section 322 (as in effect before the enactment of the National Defense Authorization Act for Fiscal Year 2008) or [section 354 of title 37][/us/usc/t37/s354], has less than 30 years of creditable service, and is under the age of 62 at the time of retirement, the percentage determined under paragraph (1) shall be reduced by—
 
@@ -51,11 +51,11 @@
 
         (3) __30 years of service.—__ 
 
-            (A) __Retirement before__  __january 1, 2007__  __.—__ 
+            (A)  __Retirement before __  __january 1, 2007__  __.—__ 
 
             In the case of a member who retires before January 1, 2007, with more than 30 years of creditable service, the percentage to be used under subsection (a) is 75 percent.
 
-            (B) __Retirement after__  __december 31, 2006__  __.—__ 
+            (B)  __Retirement after __  __december 31, 2006__  __.—__ 
 
             In the case of a member who retires after December 31, 2006, with more than 30 years of creditable service, the percentage to be used under subsection (a) is the sum of—
 
@@ -69,7 +69,7 @@
 
                     (II) the member’s years of creditable service (as defined in subsection (c)) in excess of 30 years of creditable service, under conditions authorized for purposes of this subparagraph during a period designated by the Secretary of Defense for purposes of this subparagraph.
 
-    (c) __Years of Creditable Service Defined.—__ 
+    (c)  __Years of Creditable Service Defined__  __.—__ 
 
     In this section, the term “years of creditable service” means the number of years of service creditable to a member in computing the member’s retired or retainer pay (including 1⁄12 of a year for each full month of service that is in addition to the number of full years of service of the member).
 

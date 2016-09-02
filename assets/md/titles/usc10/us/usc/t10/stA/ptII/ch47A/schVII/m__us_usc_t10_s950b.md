@@ -15,11 +15,11 @@
 
 ## § 950b. Review by the convening authority
 
-    (a) __Notice to Convening Authority of Findings and Sentence.—__ 
+    (a)  __Notice to Convening Authority of Findings and Sentence__  __.—__ 
 
     The findings and sentence of a military commission under this chapter shall be reported in writing promptly to the convening authority after the announcement of the sentence.
 
-    (b) __Submittal of Matters by Accused to Convening Authority.—__ 
+    (b)  __Submittal of Matters by Accused to Convening Authority__  __.—__ 
 
         (1) The accused may submit to the convening authority matters for consideration by the convening authority with respect to the findings and the sentence of the military commission under this chapter.
 
@@ -31,7 +31,7 @@
 
         (3) The accused may waive the accused’s right to make a submittal to the convening authority under paragraph (1). Such a waiver shall be made in writing, and may not be revoked. For the purposes of subsection (c)(2), the time within which the accused may make a submittal under this subsection shall be deemed to have expired upon the submittal of a waiver under this paragraph to the convening authority.
 
-    (c) __Action by Convening Authority.—__ 
+    (c)  __Action by Convening Authority__  __.—__ 
 
         (1) The authority under this subsection to modify the findings and sentence of a military commission under this chapter is a matter of the sole discretion and prerogative of the convening authority.
 
@@ -53,7 +53,7 @@
 
         (4) The convening authority shall serve on the accused or on defense counsel notice of any action taken by the convening authority under this subsection.
 
-    (d) __Order of Revision or Rehearing.—__ 
+    (d)  __Order of Revision or Rehearing__  __.—__ 
 
         (1) Subject to paragraphs (2) and (3), the convening authority of a military commission under this chapter may, in the sole discretion of the convening authority, order a proceeding in revision or a rehearing.
 

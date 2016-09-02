@@ -15,7 +15,7 @@
 
 ## § 2111a. Support for senior military colleges
 
-    (a) __Detail of Officers To Serve as Commandant or Assistant Commandant of Cadets.—__ 
+    (a)  __Detail of Officers To Serve as Commandant or Assistant Commandant of Cadets__  __.—__ 
 
         (1) Upon the request of a senior military college, the Secretary of Defense may detail an officer on the active-duty list to serve as Commandant of Cadets at that college or (in the case of a college with an Assistant Commandant of Cadets) detail an officer on the active-duty list to serve as Assistant Commandant of Cadets at that college (but not both).
 
@@ -23,25 +23,25 @@
 
         (3) In the case of an officer detailed as Assistant Commandant of Cadets, the officer may, upon the request of the college, be assigned from among officers otherwise detailed to duty at that college in support of the program or may be in addition to any other officer detailed to that college in support of the program.
 
-    (b) __Designation of Officers as Tactical Officers.—__ 
+    (b)  __Designation of Officers as Tactical Officers__  __.—__ 
 
     Upon the request of a senior military college, the Secretary of Defense may authorize officers (other than officers covered by subsection (a)) who are detailed to duty as instructors at that college to act simultaneously as tactical officers (with or without compensation) for the Corps of Cadets at that college.
 
-    (c) __Detail of Officers.—__ 
+    (c)  __Detail of Officers__  __.—__ 
 
     The Secretary of a military department shall designate officers for detail to the program at a senior military college in accordance with criteria provided by the college. An officer may not be detailed to a senior military college without the approval of that college.
 
-    (d) __Termination or Reduction of Program Prohibited.—__ 
+    (d)  __Termination or Reduction of Program Prohibited__  __.—__ 
 
     The Secretary of Defense and the Secretaries of the military departments may not take or authorize any action to terminate or reduce a unit of the Senior Reserve Officers’ Training Corps at a senior military college unless the termination or reduction is specifically requested by the college.
 
-    (e) __Assignment to Active Duty.—__ 
+    (e)  __Assignment to Active Duty__  __.—__ 
 
         (1) The Secretary of the Army shall ensure that a graduate of a senior military college who desires to serve as a commissioned officer on active duty upon graduation from the college, who is medically and physically qualified for active duty, and who is recommended for such duty by the professor of military science at the college, shall be assigned to active duty.
 
         (2) Nothing in this section shall be construed to prohibit the Secretary of the Army from requiring a member of the program who graduates from a senior military college to serve on active duty.
 
-    (f) __Senior Military Colleges.—__ 
+    (f)  __Senior Military Colleges__  __.—__ 
 
     The senior military colleges are the following:
 
@@ -75,7 +75,7 @@
 
 [Pub. L. 105–85, div. A, title V, § 544(a)][/us/pl/105/85/s544/a]–(c), Nov. 18, 1997, [111 Stat. 1744][/us/stat/111/1744], provided that:
 
->     “(a) __Definition of Senior Military Colleges.—__ 
+>     “(a)  __Definition of Senior Military Colleges__  __.—__ 
 
 >     For purposes of this section, the term ‘senior military colleges’ means the following:
 
@@ -91,7 +91,7 @@
 
 >         “(6) North Georgia College and State University.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -103,7 +103,7 @@
 
 >         “(4) Each of the senior military colleges has demonstrated an ability to adapt its systems and operations to changing conditions in, and requirements of, the Armed Forces without compromising the quality of leaders produced and without interruption of the close relationship between the colleges and the Department of Defense.
 
->     “(c) __Sense of Congress.—__ 
+>     “(c)  __Sense of Congress__  __.—__ 
 
 >     In light of the findings in subsection (b), it is the sense of Congress that—
 

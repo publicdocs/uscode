@@ -15,7 +15,7 @@
 
 ## § 10217. Non-dual status technicians
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     For the purposes of this section and any other provision of law, a non-dual status technician is a civilian employee of the Department of Defense serving in a military technician position who—
 
@@ -25,7 +25,7 @@
 
         (3) is hired as a temporary employee pursuant to the exception for temporary employment provided by subsection (d) and subject to the terms and conditions of such subsection.
 
-    (b) __Employment Authorities.—__ 
+    (b)  __Employment Authorities__  __.—__ 
 
     The authorities referred to in subsection (a) are the following:
 
@@ -39,7 +39,7 @@
 
         (5) Any memorandum of agreement between the Department of Defense and the Office of Personnel Management providing for the hiring of military technicians.
 
-    (c) __Permanent Limitations on Number.—__ 
+    (c)  __Permanent Limitations on Number__  __.—__ 
 
         (1) The total number of non-dual status technicians employed by the Army Reserve may not exceed 595 and by the Air Force Reserve may not exceed 90. If at any time the number of non-dual status technicians employed by the Army Reserve and Air Force Reserve exceeds the number specified in the limitation in the preceding sentence, the Secretary of Defense shall require that the Secretary of the Army or the Secretary of the Air Force, or both, take immediate steps to reduce the number of such technicians in order to comply with such limitation.
 
@@ -47,7 +47,7 @@
 
         (3) An individual employed as a non-dual status technician as described in subsection (a)(3) shall not be considered a non-dual status technician for purposes of paragraphs (1) and (2).
 
-    (d) __Exception for Temporary Employment.—__ 
+    (d)  __Exception for Temporary Employment__  __.—__ 
 
         (1) Notwithstanding [section 10218 of this title][/us/usc/t10/s10218], the Secretary of the Army or the Secretary of the Air Force may employ, for a period not to exceed two years, a person to fill a vacancy created by the mobilization of a military technician (dual status) occupying a position under [section 10216 of this title][/us/usc/t10/s10216].
 
@@ -109,7 +109,7 @@
 
 [Pub. L. 105–85, div. A, title V, § 523(d)][/us/pl/105/85/s523/d], (e), Nov. 18, 1997, [111 Stat. 1737][/us/stat/111/1737], provided that:
 
->     “(d) __Plan for Full Utilization of Military Technicians (Dual Status).—__ 
+>     “(d)  __Plan for Full Utilization of Military Technicians (Dual Status)__  __.—__ 
 
 >         (1) Not later than 180 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense shall submit to Congress a plan for ensuring that, on and after September 30, 2007, all military technician positions are held only by military technicians (dual status).
 
@@ -129,7 +129,7 @@
 
 >         “(4) The Secretary shall submit with the plan any recommendations for legislation that the Secretary considers necessary to carry out the plan.
 
->     “(e) __Definitions for Categories of Military Technicians.—__ 
+>     “(e)  __Definitions for Categories of Military Technicians__  __.—__ 
 
 >     In this section \[enacting this section\]:
 

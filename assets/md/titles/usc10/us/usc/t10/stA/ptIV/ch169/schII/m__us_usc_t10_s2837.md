@@ -15,13 +15,13 @@
 
 ## § 2837. Limited partnerships with private developers of housing
 
-    (a) __Limited Partnerships.—__ 
+    (a)  __Limited Partnerships__  __.—__ 
 
         (1) In order to meet the housing requirements of members of the armed forces, and the dependents of such members, at a military installation described in paragraph (2), the Secretary of a military department may enter into a limited partnership with one or more private developers to encourage the construction of housing and accessory structures within commuting distance of the installation. The Secretary may contribute not less than five percent, but not more than 35 percent, of the development costs under a limited partnership.
 
         (2) Paragraph (1) applies to a military installation under the jurisdiction of the Secretary concerned at which there is a shortage of suitable housing to meet the requirements of members and dependents referred to in such paragraph.
 
-    (b) __Collateral Incentive Agreements.—__ 
+    (b)  __Collateral Incentive Agreements__  __.—__ 
 
     The Secretary concerned may also enter into collateral incentive agreements with private developers who enter into a limited partnership under subsection (a) to ensure that, where appropriate—
 
@@ -29,13 +29,13 @@
 
         (2) the rental rates or sale prices, as the case may be, for some or all of such units will be affordable for such members.
 
-    (c) __Selection of Investment Opportunities.—__ 
+    (c)  __Selection of Investment Opportunities__  __.—__ 
 
         (1) The Secretary concerned shall use publicly advertised, competitively bid or competitively negotiated, contracting procedures, as provided in chapter 137 of this title, to enter into limited partnerships under subsection (a).
 
         (2) When a decision is made to enter into a limited partnership under subsection (a), the Secretary concerned shall submit a report in writing to the appropriate committees of Congress on that decision. Each such report shall include the justification for the limited partnership, the terms and conditions of the limited partnership, a description of the development costs for projects under the limited partnership, and a description of the share of such costs to be incurred by the Secretary concerned. The Secretary concerned may then enter into the limited partnership only after the end of the 21-day period beginning on the date the report is received by such committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (d) __Account.—__ 
+    (d)  __Account__  __.—__ 
 
         (1) There is hereby established on the books of the Treasury an account to be known as the “Defense Housing Investment Account”.
 
@@ -53,15 +53,15 @@
 
     \[(e) Repealed. [Pub. L. 104–106, div. B, title XXVIII, § 2802(d)(1)][/us/pl/104/106/s2802/d/1], Feb. 10, 1996, [110 Stat. 552][/us/stat/110/552].\]
 
-    (f) __Report.—__ 
+    (f)  __Report__  __.—__ 
 
     Not later than 60 days after the end of each fiscal year in which activities are carried out under this section, the Secretaries concerned shall jointly transmit to Congress a report specifying the amount and nature of the deposits into, and the expenditures from, the Account during such fiscal year and of the amount and nature of all other expenditures made pursuant to such section during such fiscal year.
 
-    (g) __Transfer of Lands Prohibited.—__ 
+    (g)  __Transfer of Lands Prohibited__  __.—__ 
 
     Nothing in this section shall be construed to permit the Secretary concerned, as part of a limited partnership entered into under this section, to transfer the right, title, or interest of the United States in any real property under the jurisdiction of the Secretary concerned.
 
-    (h) __Expiration and Termination of Authority.—__ 
+    (h)  __Expiration and Termination of Authority__  __.—__ 
 
     The authority of the Secretary concerned to enter into a limited partnership under this section shall expire on September 30, 2000.
 

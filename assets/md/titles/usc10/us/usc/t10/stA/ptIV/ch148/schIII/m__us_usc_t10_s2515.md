@@ -15,15 +15,15 @@
 
 ## § 2515. Office of Technology Transition
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense shall establish within the Office of the Secretary of Defense an Office of Technology Transition.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of the office shall be to ensure, to the maximum extent practicable, that technology developed for national security purposes is integrated into the private sector of the United States in order to enhance national technology and industrial base, reinvestment, and conversion activities consistent with the objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a].
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
     The head of the office shall ensure that the office—
 

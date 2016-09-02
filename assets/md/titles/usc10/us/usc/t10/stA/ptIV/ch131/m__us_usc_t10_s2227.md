@@ -15,19 +15,19 @@
 
 ## § 2227. Electronic submission and processing of claims for contract payments
 
-    (a) __Submission of Claims.—__ 
+    (a)  __Submission of Claims__  __.—__ 
 
     The Secretary of Defense shall require that any claim for payment under a Department of Defense contract shall be submitted to the Department of Defense in electronic form.
 
-    (b) __Processing.—__ 
+    (b)  __Processing__  __.—__ 
 
     A contracting officer, contract administrator, certifying official, or other officer or employee of the Department of Defense who receives a claim for payment in electronic form in accordance with subsection (a) and is required to transmit the claim to any other officer or employee of the Department of Defense for processing under procedures of the department shall transmit the claim and any additional documentation necessary to support the determination and payment of the claim to such other officer or employee electronically.
 
-    (c) __Waiver Authority.—__ 
+    (c)  __Waiver Authority__  __.—__ 
 
     If the Secretary of Defense determines that the requirement for using electronic means for submitting claims under subsection (a), or for transmitting claims and supporting documentation under subsection (b), is unduly burdensome in any category of cases, the Secretary may exempt the cases in that category from the application of the requirement.
 
-    (d) __Implementation of Requirements.—__ 
+    (d)  __Implementation of Requirements__  __.—__ 
 
     In implementing subsections (a) and (b), the Secretary of Defense shall provide for the following:
 
@@ -37,7 +37,7 @@
 
         (3) The requirements to be included in contracts regarding the electronic submission of claims for payment by contractors.
 
-    (e) __Claim for Payment Defined.—__ 
+    (e)  __Claim for Payment Defined__  __.—__ 
 
     In this section, the term “claim for payment” means an invoice or any other demand or request for payment.
 

@@ -15,7 +15,7 @@
 
 ## § 1798. Child care services and youth program services for dependents: financial assistance for providers
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may provide financial assistance to an eligible civilian provider of child care services or youth program services that furnishes such services for members of the armed forces and employees of the United States if the Secretary determines that providing such financial assistance—
 
@@ -25,7 +25,7 @@
 
         (3) ensures that the eligible provider is able to comply, and does comply, with the regulations, policies, and standards of the Department of Defense that are applicable to the furnishing of such services.
 
-    (b) __Eligible Providers.—__ 
+    (b)  __Eligible Providers__  __.—__ 
 
     A provider of child care services or youth program services is eligible for financial assistance under this section if the provider—
 
@@ -55,7 +55,7 @@
 
                 (vi) is a provider of another category of child care services or youth services determined by the Secretary of Defense as appropriate for meeting the needs of members of the armed forces or employees of the Department of Defense.
 
-    (c) __Funding.—__ 
+    (c)  __Funding__  __.—__ 
 
     To provide financial assistance under this subsection, the Secretary of Defense may use any funds appropriated to the Department of Defense for operation and maintenance.
 

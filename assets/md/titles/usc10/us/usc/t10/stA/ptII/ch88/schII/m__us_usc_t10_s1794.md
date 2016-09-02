@@ -15,29 +15,29 @@
 
 ## § 1794. Child abuse prevention and safety at facilities
 
-    (a) __Child Abuse Task Force.—__ 
+    (a)  __Child Abuse Task Force__  __.—__ 
 
     The Secretary of Defense shall maintain a special task force to respond to allegations of widespread child abuse at a military installation. The task force shall be composed of personnel from appropriate disciplines, including, where appropriate, medicine, psychology, and childhood development. In the case of such allegations, the task force shall provide assistance to the commander of the installation, and to parents at the installation, in helping them to deal with such allegations.
 
-    (b) __National Hotline.—__ 
+    (b)  __National Hotline__  __.—__ 
 
         (1) The Secretary of Defense shall maintain a national telephone number for persons to use to report suspected child abuse or safety violations at a military child development center or family home day care site. The Secretary shall ensure that such reports may be made anonymously if so desired by the person making the report. The Secretary shall establish procedures for following up on complaints and information received over that number.
 
         (2) The Secretary shall publicize the existence of the number.
 
-    (c) __Assistance From Local Authorities.—__ 
+    (c)  __Assistance From Local Authorities__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations requiring that, in a case of allegations of child abuse at a military child development center or family home day care site, the commander of the military installation or the head of the task force established under subsection (a) shall seek the assistance of local child protective authorities if such assistance is available.
 
-    (d) __Safety Regulations.—__ 
+    (d)  __Safety Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations on safety and operating procedures at military child development centers. Those regulations shall apply uniformly among the military departments.
 
-    (e) __Inspections.—__ 
+    (e)  __Inspections__  __.—__ 
 
     The Secretary of Defense shall require that each military child development center be inspected not less often than four times a year. Each such inspection shall be unannounced. At least one inspection a year shall be carried out by a representative of the installation served by the center, and one inspection a year shall be carried out by a representative of the major command under which that installation operates.
 
-    (f) __Remedies for Violations.—__ 
+    (f)  __Remedies for Violations__  __.—__ 
 
         (1) Except as provided in paragraph (2), any violation of a safety, health, or child welfare law or regulation (discovered at an inspection or otherwise) at a military child development center shall be remedied immediately.
 

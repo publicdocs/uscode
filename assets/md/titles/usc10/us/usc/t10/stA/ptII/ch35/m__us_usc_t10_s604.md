@@ -15,7 +15,7 @@
 
 ## § 604. Senior joint officer positions: recommendations to the Secretary of Defense
 
-    (a) __Joint 4-Star Officer Positions.—__ 
+    (a)  __Joint__  __4-__  __Star Officer Positions__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) Whenever the Secretaries of the military departments are required to submit the names of officers under paragraph (1)(A), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense the Chairman’s evaluation of the performance of each officer whose name is submitted under that paragraph (and of any officer whose name the Chairman submits to the Secretary under paragraph (1)(B) for consideration for the same vacancy). The Chairman’s evaluation shall primarily consider the performance of the officer as a member of the Joint Staff and in other joint duty assignments, but may include consideration of other aspects of the officer’s performance as the Chairman considers appropriate.
 
-    (b) __Covered Positions.—__ 
+    (b)  __Covered Positions__  __.—__ 
 
     Subsection (a) applies to the following positions:
 

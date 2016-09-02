@@ -15,7 +15,7 @@
 
 ## § 2563. Articles and services of industrial facilities: sale to persons outside the Department of Defense
 
-    (a) __Authority To Sell Outside DOD.—__ 
+    (a)  __Authority To Sell Outside DOD__  __.—__ 
 
         (1) The Secretary of Defense may sell in accordance with this section to a person outside the Department of Defense articles and services referred to in paragraph (2) that are not available from any United States commercial source.
 
@@ -25,11 +25,11 @@
 
             (B) The authority in this section does not apply to sales of articles and services by a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof, which are governed by regulations required by [section 4543 of this title][/us/usc/t10/s4543].
 
-    (b) __Designation of Participating Industrial Facilities.—__ 
+    (b)  __Designation of Participating Industrial Facilities__  __.—__ 
 
     The Secretary may designate facilities referred to in subsection (a) as the facilities from which articles and services manufactured or performed by such facilities may be sold under this section.
 
-    (c) __Conditions for Sales.—__ 
+    (c)  __Conditions for Sales__  __.—__ 
 
         (1)
 
@@ -51,7 +51,7 @@
 
         (3) Paragraph (1)(B) does not apply in any case of willful misconduct or gross negligence or in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure of the Government to comply with quality, schedule, or cost performance requirements in the contract to provide the articles or services.
 
-    (d) __Methods of Sale.—__ 
+    (d)  __Methods of Sale__  __.—__ 
 
         (1) The Secretary shall permit a purchaser of articles or services under this section to use advance incremental funding to pay for the articles or services.
 
@@ -65,15 +65,15 @@
 
             (C) develop and maintain (from sources other than appropriated funds) working capital to be available for paying design costs, planning costs, procurement costs, and other costs associated with the articles or services sold.
 
-    (e) __Deposit of Proceeds.—__ 
+    (e)  __Deposit of Proceeds__  __.—__ 
 
     Proceeds from sales of articles and services under this section shall be credited to the funds, including working capital funds and operation and maintenance funds, incurring the costs of manufacture or performance.
 
-    (f) __Relationship to Arms Export Control Act.—__ 
+    (f)  __Relationship to Arms Export Control Act__  __.—__ 
 
     Nothing in this section shall be construed to affect the application of the export controls provided for in section 38 of the Arms Export Control Act ([22 U.S.C. 2778][/us/usc/t22/s2778]) to items which incorporate or are produced through the use of an article sold under this section.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

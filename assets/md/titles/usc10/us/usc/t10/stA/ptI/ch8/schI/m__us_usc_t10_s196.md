@@ -15,17 +15,17 @@
 
 ## § 196. Department of Defense Test Resource Management Center
 
-    (a) __Establishment as Department of Defense Field Activity.—__ 
+    (a)  __Establishment as Department of Defense Field Activity__  __.—__ 
 
     The Secretary of Defense shall establish within the Department of Defense under [section 191 of this title][/us/usc/t10/s191] a Department of Defense Test Resource Management Center (hereinafter in this section referred to as the “Center”). The Secretary shall designate the Center as a Department of Defense Field Activity.
 
-    (b) __Director and Deputy Director.—__ 
+    (b)  __Director and Deputy Director__  __.—__ 
 
         (1) At the head of the Center shall be a Director, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. A commissioned officer serving as the Director, while so serving, holds the grade of lieutenant general or, in the case of an officer of the Navy, vice admiral. A civilian officer or employee serving as the Director, while so serving, has a pay level equivalent in grade to lieutenant general.
 
         (2) There shall be a Deputy Director of the Center, selected by the Secretary from among individuals who have substantial experience in the field of test and evaluation. The Deputy Director shall act for, and exercise the powers of, the Director when the Director is disabled or the position of Director is vacant.
 
-    (c) __Duties of Director.—__ 
+    (c)  __Duties of Director__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
         (2) The Director shall have access to such records and data of the Department of Defense (including the appropriate records and data of each military department and Defense Agency) that are necessary in order to carry out the duties of the Director under this section.
 
-    (d) __Strategic Plan for Department of Defense Test and Evaluation Resources.—__ 
+    (d)  __Strategic Plan for Department of Defense Test and Evaluation Resources__  __.—__ 
 
         (1) Not less often than once every two fiscal years, the Director, in coordination with the Director of Operational Test and Evaluation, the Secretaries of the military departments, and the heads of Defense Agencies with test and evaluation responsibilities, shall complete a strategic plan reflecting the needs of the Department of Defense with respect to test and evaluation facilities and resources. Each such strategic plan shall cover the period of ten fiscal years beginning with the fiscal year in which the plan is submitted under paragraph (3). The strategic plan shall be based on a comprehensive review of the test and evaluation requirements of the Department and the adequacy of the test and evaluation facilities and resources of the Department to meet those requirements.
 
@@ -73,7 +73,7 @@
 
         (4) Not later than 60 days after the date on which the report is submitted under paragraph (3), the Secretary of Defense shall transmit to the Committee on Armed Services and Committee on Appropriations of the Senate and the Committee on Armed Services and Committee on Appropriations of the House of Representatives the report, together with any comments with respect to the report that the Secretary considers appropriate.
 
-    (e) __Certification of Budgets.—__ 
+    (e)  __Certification of Budgets__  __.—__ 
 
         (1) The Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall require that the Secretary of each military department and the head of each Defense Agency with test and evaluation responsibilities transmit such Secretary’s or Defense Agency head’s proposed budget for test and evaluation activities for a fiscal year to the Director of the Center for review under paragraph (2) before submitting such proposed budget to the Under Secretary of Defense (Comptroller).
 
@@ -91,15 +91,15 @@
 
             (B) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
 
-    (f) __Supervision of Director by Under Secretary.—__ 
+    (f)  __Supervision of Director by Under Secretary__  __.—__ 
 
     The Director of the Center shall be subject to the supervision of the Under Secretary of Defense for Acquisition, Technology, and Logistics. The Director shall report directly to the Under Secretary, without the interposition of any other supervising official.
 
-    (g) __Administrative Support of Center.—__ 
+    (g)  __Administrative Support of Center__  __.—__ 
 
     The Secretary of Defense shall provide the Director with administrative support adequate for carrying out the Director’s responsibilities under this section. The Secretary shall provide the support out of the headquarters activities of the Department or any other activities that the Secretary considers appropriate.
 
-    (h) __Definition.—__ 
+    (h)  __Definition__  __.—__ 
 
     In this section, the term “Major Range and Test Facility Base” means the test and evaluation facilities and resources that are designated by the Secretary of Defense as facilities and resources comprising the Major Range and Test Facility Base.
 

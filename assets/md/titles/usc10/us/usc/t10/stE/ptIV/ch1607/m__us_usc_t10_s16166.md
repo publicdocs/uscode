@@ -15,15 +15,15 @@
 
 ## § 16166. Administration of program
 
-    (a) __Administration.—__ 
+    (a)  __Administration__  __.—__ 
 
     Educational assistance under this chapter shall be provided through the Department of Veterans Affairs, under agreements to be entered into by the Secretary of Defense, and by the Secretary of Homeland Security, with the Secretary of Veterans Affairs. Such agreements shall include administrative procedures to ensure the prompt and timely transfer of funds from the Secretary concerned to the Department of Veterans Affairs for the making of payments under this chapter.
 
-    (b) __Program Management.—__ 
+    (b)  __Program Management__  __.—__ 
 
     Except as otherwise provided in this chapter, the provisions of sections 503, 511, 3470, 3471, 3474, 3476, 3482(g), 3483, and 3485 of title 38 and the provisions of subchapters I and II of chapter 36 of such title (with the exception of sections 3686(a), 3687, and 3692) shall be applicable to the provision of educational assistance under this chapter. The term “eligible veteran” and the term “person”, as used in those provisions, shall be deemed for the purpose of the application of those provisions to this chapter to refer to a person eligible for educational assistance under this chapter.
 
-    (c) __Flight Training.—__ 
+    (c)  __Flight Training__  __.—__ 
 
     The Secretary of Veterans Affairs may approve the pursuit of flight training (in addition to a course of flight training that may be approved under [section 3680A(b) of title 38][/us/usc/t38/s3680A/b]) by an individual entitled to educational assistance under this chapter if—
 
@@ -33,7 +33,7 @@
 
         (3) the flight school courses meet Federal Aviation Administration standards for such courses and are approved by the Federal Aviation Administration and the State approving agency.
 
-    (d) __Trust Fund.—__ 
+    (d)  __Trust Fund__  __.—__ 
 
     Amounts for payments for benefits under this chapter shall be derived from the Department of Defense Education Benefits Fund under [section 2006 of this title][/us/usc/t10/s2006].
 

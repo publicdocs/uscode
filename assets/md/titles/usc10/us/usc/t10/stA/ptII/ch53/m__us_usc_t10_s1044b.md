@@ -15,7 +15,7 @@
 
 ## § 1044b. Military powers of attorney: requirement for recognition by States
 
-    (a) __Instruments To Be Given Legal Effect Without Regard to State Law.—__ 
+    (a)  __Instruments To Be Given Legal Effect Without Regard to State Law__  __.—__ 
 
     A military power of attorney—
 
@@ -23,17 +23,17 @@
 
         (2) shall be given the same legal effect as a power of attorney prepared and executed in accordance with the laws of the State concerned.
 
-    (b) __Military Power of Attorney.—__ 
+    (b)  __Military Power of Attorney__  __.—__ 
 
     For purposes of this section, a military power of attorney is any general or special power of attorney that is notarized in accordance with [section 1044a of this title][/us/usc/t10/s1044a] or other applicable State or Federal law.
 
-    (c) __Statement To Be Included.—__ 
+    (c)  __Statement To Be Included__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary concerned, each military power of attorney shall contain a statement that sets forth the provisions of subsection (a).
 
         (2) Paragraph (1) shall not be construed to make inapplicable the provisions of subsection (a) to a military power of attorney that does not include a statement described in that paragraph.
 
-    (d) __State Defined.—__ 
+    (d)  __State Defined__  __.—__ 
 
     In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and a possession of the United States.
 

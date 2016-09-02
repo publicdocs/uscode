@@ -15,7 +15,7 @@
 
 ## § 1585a. Special agents of the Defense Criminal Investigative Service: authority to execute warrants and make arrests
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may authorize any DCIS special agent described in subsection (b)—
 
@@ -29,15 +29,15 @@
 
             (B) for any felony cognizable under the laws of the United States if the agent has probable cause to believe that the person to be arrested has committed or is committing the felony.
 
-    (b) __Agents To Have Authority.—__ 
+    (b)  __Agents To Have Authority__  __.—__ 
 
     Subsection (a) applies to any DCIS special agent whose duties include conducting, supervising, or coordinating investigations of criminal activity in programs and operations of the Department of Defense.
 
-    (c) __Guidelines on Exercise of Authority.—__ 
+    (c)  __Guidelines on Exercise of Authority__  __.—__ 
 
     The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Inspector General of the Department of Defense and approved by the Attorney General and any other applicable guidelines prescribed by the Secretary of Defense or the Attorney General.
 
-    (d) __DCIS Special Agent Defined.—__ 
+    (d)  __DCIS Special Agent Defined__  __.—__ 
 
     In this section, the term “DCIS special agent” means an employee of the Department of Defense who is a special agent of the Defense Criminal Investigative Service (or any successor to that service).
 

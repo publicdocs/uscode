@@ -15,7 +15,7 @@
 
 ## § 225. Acquisition accountability reports on the ballistic missile defense system
 
-    (a) __Baselines Required.—__ 
+    (a)  __Baselines Required__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (3) Except as provided by subsection (d), the Director may not adjust or revise an acquisition baseline established under this section.
 
-    (b) __Elements of Baselines.—__ 
+    (b)  __Elements of Baselines__  __.—__ 
 
     Each acquisition baseline required by subsection (a) for a program element or major subprogram shall include the following:
 
@@ -83,7 +83,7 @@
 
         (4) A test baseline summarizing the comprehensive test program for the program element or major subprogram outlined in the integrated master test plan.
 
-    (c) __Annual Reports on Acquisition Baselines.—__ 
+    (c)  __Annual Reports on Acquisition Baselines__  __.—__ 
 
         (1) Not later than February 15 of each year, the Director shall submit to the congressional defense committees a report on the acquisition baselines required by subsection (a).
 
@@ -107,7 +107,7 @@
 
         (3) Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.
 
-    (d) __Exception to Limitation on Revision.—__ 
+    (d)  __Exception to Limitation on Revision__  __.—__ 
 
     The Director may adjust or revise an acquisition baseline established under this section if the Director submits to the congressional defense committees notification of—
 

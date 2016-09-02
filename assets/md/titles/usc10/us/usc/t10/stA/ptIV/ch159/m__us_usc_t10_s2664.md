@@ -15,15 +15,15 @@
 
 ## § 2664. Limitations on real property acquisition
 
-    (a) __Authorization for Acquisition Required.—__ 
+    (a)  __Authorization for Acquisition Required__  __.—__ 
 
     No military department may acquire real property not owned by the United States unless the acquisition is expressly authorized by law. The foregoing limitation shall not apply to the acceptance by a military department of real property acquired under the authority of the Administrator of General Services to acquire property by the exchange of Government property pursuant to subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-    (b) __Commissions on Land Purchase Contracts.—__ 
+    (b)  __Commissions on Land Purchase Contracts__  __.—__ 
 
     The maximum amount payable as a commission on a contract for the purchase of land from funds appropriated for the Department of Defense is two percent of the purchase price.
 
-    (c) __Cost Limitations.—__ 
+    (c)  __Cost Limitations__  __.—__ 
 
         (1) Except as provided in paragraph (2), the cost authorized for a land acquisition project may be increased by not more than 25 percent of the amount appropriated for the project by Congress or 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser, if the Secretary concerned determines (A) that such an increase is required for the sole purpose of meeting unusual variations in cost, and (B) that such variations in cost could not have been reasonably anticipated at the time the project was originally approved by Congress.
 
@@ -35,11 +35,11 @@
 
             (B) the agreed price for the land or, in the case of land to be acquired by condemnation, the amount to be deposited with the court as just compensation for the land, exceeds the amount appropriated for the project by more than (i) 25 percent, or (ii) 200 percent of the amount specified by law as the maximum amount for a minor military construction project, whichever is lesser.
 
-    (d) __Congressional Notification.—__ 
+    (d)  __Congressional Notification__  __.—__ 
 
     The limitations on reduction in scope or increase in cost of a land acquisition in subsection (c) do not apply if the reduction in scope or the increase in cost, as the case may be, is approved by the Secretary concerned and a written notification of the facts relating to the proposed reduced scope or increased cost (including a statement of the reasons therefor) is submitted by the Secretary concerned to the congressional defense committees. A contract for the acquisition may then be awarded only after a period of 21 days elapses from the date the notification is received by the committees or, if over sooner, a period of 14 days elapses from the date on which a copy of that notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (e) __Payment of Judgements and Settlements.—__ 
+    (e)  __Payment of Judgements and Settlements__  __.—__ 
 
     The Secretary concerned shall promptly pay any deficiency judgment against the United States awarded by a court in an action for condemnation of any interest in land or resulting from a final settlement of an action for condemnation of any interest in land. Payments under this subsection may be made from funds available to the Secretary concerned for military construction projects and without regard to the limitations of subsections (c) and (d).
 

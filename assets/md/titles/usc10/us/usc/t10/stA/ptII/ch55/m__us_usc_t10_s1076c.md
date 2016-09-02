@@ -15,11 +15,11 @@
 
 ## § 1076c. Dental insurance plan: certain retirees and their surviving spouses and other dependents
 
-    (a) __Requirement for Plan.—__ 
+    (a)  __Requirement for Plan__  __.—__ 
 
     The Secretary of Defense, in consultation with the other administering Secretaries, shall establish a dental insurance plan for retirees of the uniformed services, certain unremarried surviving spouses, and dependents in accordance with this section.
 
-    (b) __Persons Eligible for Plan.—__ 
+    (b)  __Persons Eligible for Plan__  __.—__ 
 
     The following persons are eligible to enroll in the dental insurance plan established under subsection (a):
 
@@ -55,23 +55,23 @@
 
             (C) who died while on active duty for a period of more than 30 days and whose eligible dependents are not eligible, or no longer eligible, for dental benefits under [section 1076a of this title][/us/usc/t10/s1076a].
 
-    (c) __Premiums.—__ 
+    (c)  __Premiums__  __.—__ 
 
         (1) A member enrolled in the dental insurance plan established under subsection (a) shall pay the premiums charged for the insurance coverage.
 
         (2) The Secretary of Defense shall establish procedures for the collection of the premiums charged for coverage by the dental insurance plan. To the maximum extent practicable, the premiums payable by a member entitled to retired pay shall be deducted and withheld from the retired pay of the member (if pay is available to the member).
 
-    (d) __Benefits Available Under the Plan.—__ 
+    (d)  __Benefits Available Under the Plan__  __.—__ 
 
     The dental insurance plan established under subsection (a) shall provide benefits for dental care and treatment which may be comparable to the benefits authorized under [section 1076a of this title][/us/usc/t10/s1076a] for plans established under that section and shall include diagnostic services, preventative services, endodontics and other basic restorative services, surgical services, and emergency services.
 
-    (e) __Coverage.—__ 
+    (e)  __Coverage__  __.—__ 
 
         (1) The Secretary shall prescribe a minimum required period for enrollment by a member or surviving spouse in the dental insurance plan established under subsection (a).
 
         (2) The dental insurance plan shall provide for voluntary enrollment of participants and shall authorize a member or eligible unremarried surviving spouse to enroll for self only or for self and eligible dependents.
 
-    (f) __Required Terminations of Enrollment.—__ 
+    (f)  __Required Terminations of Enrollment__  __.—__ 
 
     The Secretary shall terminate the enrollment of any enrollee, and any eligible dependents of the enrollee covered by the enrollment, in the dental insurance plan established under subsection (a) upon the occurrence of the following:
 
@@ -81,15 +81,15 @@
 
         (3) In the case of an enrollment under subsection (b)(5), remarriage of the surviving spouse.
 
-    (g) __Continuation of Dependents’ Enrollment Upon Death of Enrollee.—__ 
+    (g)  __Continuation of Dependents’ Enrollment Upon Death of Enrollee__  __.—__ 
 
     Coverage of a dependent in the dental insurance plan established under subsection (a) under an enrollment of a member or a surviving spouse who dies during the period of enrollment shall continue until the end of that period and may be renewed by (or for) the dependent, so long as the premium paid is sufficient to cover continuation of the dependent’s enrollment. The Secretary may terminate coverage of the dependent when the premiums paid are no longer sufficient to cover continuation of the enrollment. The Secretary shall prescribe in regulations under subsection (h) the parties responsible for paying the remaining premiums due on the enrollment and the manner for collection of the premiums.
 
-    (h) __Regulations.—__ 
+    (h)  __Regulations__  __.—__ 
 
     The dental insurance plan established under subsection (a) shall be administered under regulations prescribed by the Secretary of Defense, in consultation with the other administering Secretaries.
 
-    (i) __Voluntary Disenrollment.—__ 
+    (i)  __Voluntary Disenrollment__  __.—__ 
 
         (1)
 
@@ -113,7 +113,7 @@
 
         (3) The Secretary shall establish procedures for timely decisions on requests for disenrollment under this section and for appeal to the TRICARE Management Activity of adverse decisions.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 

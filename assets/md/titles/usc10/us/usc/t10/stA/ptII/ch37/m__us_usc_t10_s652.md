@@ -15,7 +15,7 @@
 
 ## § 652. Notice to Congress of proposed changes in units, assignments, etc. to which female members may be assigned
 
-    (a) __Rule for Ground Combat Personnel Policy.—__ 
+    (a)  __Rule for Ground Combat Personnel Policy__  __.—__ 
 
         (1) If the Secretary of Defense proposes to make any change described in paragraph (2)(A) or (2)(B) to the ground combat exclusion policy or proposes to make a change described in paragraph (2)(C), the Secretary shall, before any such change is implemented, submit to Congress a report providing notice of the proposed change. Such a change may then be implemented only after the end of a period of 30 days of continuous session of Congress (excluding any day on which either House of Congress is not in session) following the date on which the report is received.
 
@@ -49,7 +49,7 @@
 
             (B) for officers (other than warrant officers), to officer areas of concentration, occupational specialties, specialty codes, designators, additional skill identifiers, and special qualification identifiers.
 
-    (b) __Other Personnel Policy Changes.—__ 
+    (b)  __Other Personnel Policy Changes__  __.—__ 
 
         (1) Except in a case covered by [section 6035 of this title][/us/usc/t10/s6035] or by subsection (a), whenever the Secretary of Defense proposes to make a change to military personnel policies described in paragraph (2), the Secretary shall, not less than 30 days before such change is implemented, submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives notice, in writing, of the proposed change.
 

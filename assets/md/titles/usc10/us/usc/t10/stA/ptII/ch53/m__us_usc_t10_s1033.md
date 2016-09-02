@@ -15,11 +15,11 @@
 
 ## § 1033. Participation in management of specified non-Federal entities: authorized activities
 
-    (a) __Authorization.—__ 
+    (a)  __Authorization__  __.—__ 
 
     The Secretary concerned may authorize a member of the armed forces under the Secretary’s jurisdiction to serve without compensation as a director, officer, or trustee, or to otherwise participate, in the management of an entity designated under subsection (b). Any such authorization shall be made on a case-by-case basis, for a particular member to participate in a specific capacity with a specific designated entity. Such authorization may be made only for the purpose of providing oversight and advice to, and coordination with, the designated entity, and participation of the member in the activities of the designated entity may not extend to participation in the day-to-day operations of the entity.
 
-    (b) __Designated Entities.—__ 
+    (b)  __Designated Entities__  __.—__ 
 
         (1) The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall designate those entities for which authorization under subsection (a) may be provided. The list of entities so designated may not be revised more frequently than semiannually. In making such designations, the Secretary shall designate each military welfare society and may designate any other entity described in paragraph (3). No other entities may be designated.
 
@@ -49,11 +49,11 @@
 
             (E) An entity that, operating in a foreign nation where United States military personnel are serving at United States military activities, promotes understanding and tolerance between such personnel (and their families) and the citizens of that host foreign nation through programs that foster social relations between those persons.
 
-    (c) __Publication of Designated Entities and of Authorized Persons.—__ 
+    (c)  __Publication of Designated Entities and of Authorized Persons__  __.—__ 
 
     A designation of an entity under subsection (b), and an authorization under subsection (a) of a member of the armed forces to participate in the management of such an entity, shall be published in the Federal Register.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 

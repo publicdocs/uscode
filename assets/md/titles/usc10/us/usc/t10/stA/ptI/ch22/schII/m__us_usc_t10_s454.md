@@ -15,11 +15,11 @@
 
 ## § 454. Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions
 
-    (a) __Foreign Countries and International Organizations.—__ 
+    (a)  __Foreign Countries and International Organizations__  __.—__ 
 
     The Secretary of Defense may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geodetic data, supplies and services to a foreign country or international organization pursuant to an agreement for the production or exchange of such data.
 
-    (b) __Nongovernmental Organizations and Academic Institutions.—__ 
+    (b)  __Nongovernmental Organizations and Academic Institutions__  __.—__ 
 
     The Secretary may authorize the National Geospatial-Intelligence Agency to exchange or furnish mapping, charting, and geodetic data, supplies, and services relating to areas outside of the United States to a nongovernmental organization or an academic institution engaged in geospatial information research or production of such areas pursuant to an agreement for the production or exchange of such data.
 

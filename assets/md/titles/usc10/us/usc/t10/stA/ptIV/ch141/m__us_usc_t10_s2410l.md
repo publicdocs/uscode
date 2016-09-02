@@ -15,7 +15,7 @@
 
 ## § 2410l. Contracts for advisory and assistance services: cost comparison studies
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
         (1)
 
@@ -25,7 +25,7 @@
 
         (2) If the Secretary determines that Department of Defense personnel have the capability to perform the services to be covered by the contract, the Secretary shall conduct a study comparing the cost of performing the services with Department of Defense personnel and the cost of performing the services with contractor personnel.
 
-    (b) __Waiver.—__ 
+    (b)  __Waiver__  __.—__ 
 
     The Secretary of Defense may, pursuant to guidelines prescribed by the Secretary, waive the requirement to perform a cost comparison study under subsection (a)(2) based on factors that are not related to cost.
 

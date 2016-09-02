@@ -15,7 +15,7 @@
 
 ## § 983. Institutions of higher education that prevent ROTC access or military recruiting on campus: denial of grants and contracts from Department of Defense, Department of Education, and certain other departments and agencies
 
-    (a) __Denial of Funds for Preventing ROTC Access to Campus.—__ 
+    (a)  __Denial of Funds for Preventing ROTC Access to Campus__  __.—__ 
 
     No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
@@ -23,7 +23,7 @@
 
         (2) a student at that institution (or any subelement of that institution) from enrolling in a unit of the Senior Reserve Officer Training Corps at another institution of higher education.
 
-    (b) __Denial of Funds for Preventing Military Recruiting on Campus.—__ 
+    (b)  __Denial of Funds for Preventing Military Recruiting on Campus__  __.—__ 
 
     No funds described in subsection (d)(1) may be provided by contract or by grant to an institution of higher education (including any subelement of such institution) if the Secretary of Defense determines that that institution (or any subelement of that institution) has a policy or practice (regardless of when implemented) that either prohibits, or in effect prevents—
 
@@ -37,7 +37,7 @@
 
             (B) Date and place of birth, levels of education, academic majors, degrees received, and the most recent educational institution enrolled in by the student.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
     The limitation established in subsection (a) or (b) shall not apply to an institution of higher education (or any subelement of that institution) if the Secretary of Defense determines that—
 
@@ -45,7 +45,7 @@
 
         (2) the institution of higher education involved has a longstanding policy of pacifism based on historical religious affiliation.
 
-    (d) __Covered Funds.—__ 
+    (d)  __Covered Funds__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (2) Any Federal funding specified in paragraph (1) that is provided to an institution of higher education, or to an individual, to be available solely for student financial assistance, related administrative costs, or costs associated with attendance, may be used for the purpose for which the funding is provided.
 
-    (e) __Notice of Determinations.—__ 
+    (e)  __Notice of Determinations__  __.—__ 
 
     Whenever the Secretary of Defense makes a determination under subsection (a), (b), or (c), the Secretary—
 

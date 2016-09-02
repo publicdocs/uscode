@@ -15,15 +15,15 @@
 
 ## § 950g. Review by United States Court of Appeals for the District of Columbia Circuit; writ of certiorari to Supreme Court
 
-    (a) __Exclusive Appellate Jurisdiction.—__ 
+    (a)  __Exclusive Appellate Jurisdiction__  __.—__ 
 
     Except as provided in subsection (b), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of a final judgment rendered by a military commission (as approved by the convening authority and, where applicable, as affirmed or set aside as incorrect in law by the United States Court of Military Commission Review) under this chapter.
 
-    (b) __Exhaustion of Other Appeals.—__ 
+    (b)  __Exhaustion of Other Appeals__  __.—__ 
 
     The United States Court of Appeals for the District of Columbia Circuit may not review a final judgment described in subsection (a) until all other appeals under this chapter have been waived or exhausted.
 
-    (c) __Time for Seeking Review.—__ 
+    (c)  __Time for Seeking Review__  __.—__ 
 
     A petition for review by the United States Court of Appeals for the District of Columbia Circuit must be filed in the Court of Appeals—
 
@@ -31,11 +31,11 @@
 
         (2) if the accused submits, in the form prescribed by [section 950c of this title][/us/usc/t10/s950c], a written notice waiving the right of the accused to review by the United States Court of Military Commission Review, not later than 20 days after the date on which such notice is submitted.
 
-    (d) __Scope and Nature of Review.—__ 
+    (d)  __Scope and Nature of Review__  __.—__ 
 
     The United States Court of Appeals for the District of Columbia Circuit may act under this section only with respect to the findings and sentence as approved by the convening authority and as affirmed or set aside as incorrect in law by the United States Court of Military Commission Review, and shall take action only with respect to matters of law, including the sufficiency of the evidence to support the verdict.
 
-    (e) __Review by Supreme Court.—__ 
+    (e)  __Review by Supreme Court__  __.—__ 
 
     The Supreme Court may review by writ of certiorari pursuant to [section 1254 of title 28][/us/usc/t28/s1254] the final judgment of the United States Court of Appeals for the District of Columbia Circuit under this section.
 

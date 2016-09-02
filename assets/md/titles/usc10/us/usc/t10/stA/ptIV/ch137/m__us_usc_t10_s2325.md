@@ -15,7 +15,7 @@
 
 ## § 2325. Restructuring costs
 
-    (a) __Limitation on Payment of Restructuring Costs.—__ 
+    (a)  __Limitation on Payment of Restructuring Costs__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) below the level of the Director of the Defense Contract Management Agency for all other cases.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, the term “business combination” includes a merger or acquisition.
 

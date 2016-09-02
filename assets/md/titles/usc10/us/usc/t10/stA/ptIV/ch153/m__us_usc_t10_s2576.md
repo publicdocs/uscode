@@ -43,11 +43,11 @@
 
 [Pub. L. 112–239, div. A, title X, § 1091][/us/pl/112/239/s1091], Jan. 2, 2013, [126 Stat. 1971][/us/stat/126/1971], provided that:
 
->     “(a) __Transfer.—__ 
+>     “(a)  __Transfer__  __.—__ 
 
 >     The Secretary of Defense may transfer excess aircraft specified in subsection (b) to the Secretary of Agriculture and the Secretary of Homeland Security for use by the Forest Service and the United States Coast Guard. The transfer of any excess aircraft under this subsection shall be without reimbursement.
 
->     “(b) __Aircraft.—__ 
+>     “(b)  __Aircraft__  __.—__ 
 
 >     The aircraft transferred under subsection (a) are aircraft of the Department of Defense that are—
 
@@ -61,25 +61,25 @@
 
 >     “(c) __Limitation on Number.—__ 
 
->         “(1) __Limitation.—__ 
+>         “(1)  __Limitation__  __.—__ 
 
 >         Except as provided in paragraph (2), the number of aircraft that may be transferred under subsection (a) to each of the Secretary of Agriculture and the Secretary of Homeland Security may not exceed seven aircraft for each agency.
 
->         “(2) __Termination of limitation after official notice of intent to accept or decline seven aircraft.—__ 
+>         “(2)  __Termination of limitation after official notice of intent to accept or decline seven aircraft__  __.—__ 
 
 >         The limitation in paragraph (1) on the number of aircraft transferrable under subsection (a) shall cease upon official notice to the Secretary of Defense, from the Secretary of Agriculture, and the Secretary of Homeland Security that the Secretary’s respective department will decline or accept seven aircraft.
 
 >     “(d) __Order of Transfers.—__ 
 
->         “(1) __Rights of refusal.—__ 
+>         “(1)  __Rights of refusal__  __.—__ 
 
 >         In implementing the transfers authorized by subsection (a), the Secretary of Defense shall afford the Secretary of Agriculture the right of first refusal and the Secretary of Homeland Security the second right of refusal in the transfer to each department by the Secretary of Defense of up to seven excess aircraft specified in subsection (b) before the transfer of such excess aircraft is offered to any other department or agency of the Federal Government.
 
->         “(2) __Expiration of right of first refusal.—__ 
+>         “(2)  __Expiration of right of first refusal__  __.—__ 
 
 >         The right of first refusal afforded the Secretary of Agriculture by paragraph (1) shall expire upon official notice of the Secretary to the Secretary of Defense under subsection (c)(2).
 
->     “(e) __Conditions of Certain Transfers.—__ 
+>     “(e)  __Conditions of Certain Transfers__  __.—__ 
 
 >     Excess aircraft transferred to the Secretary of Agriculture under subsection (a)—
 
@@ -87,11 +87,11 @@
 
 >         “(2) may not be flown or otherwise removed from the United States unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression efforts or for other purposes approved by the Secretary of Agriculture in writing in advance.
 
->     “(f) __Additional Limitation.—__ 
+>     “(f)  __Additional Limitation__  __.—__ 
 
 >     Excess aircraft transferred under subsection (a) may not be sold by the Secretary of Agriculture or the Secretary of Homeland Security after transfer.
 
->     “(g) __Costs After Transfer.—__ 
+>     “(g)  __Costs After Transfer__  __.—__ 
 
 >     Any costs of operation, maintenance, sustainment, and disposal of excess aircraft transferred under subsection (a) after the date of transfer shall be borne by the Secretary of Agriculture and the Secretary of Homeland Security, as applicable.”
 
@@ -99,35 +99,35 @@
 
 [Pub. L. 111–383, div. A, title III, § 346][/us/pl/111/383/s346], Jan. 7, 2011, [124 Stat. 4191][/us/stat/124/4191], as amended by [Pub. L. 112–81, div. A, title III, § 361][/us/pl/112/81/s361], Dec. 31, 2011, [125 Stat. 1377][/us/stat/125/1377], provided that:
 
->     “(a) __Commercial Sale of Small Arms Ammunition, Small \[Arms\] Ammunition Components, and Fired Cartridge Cases.—__ 
+>     “(a)  __Commercial Sale of Small Arms Ammunition, Small \[Arms\] Ammunition Components, and Fired Cartridge Cases__  __.—__ 
 
 >     Small arms ammunition and small \[arms\] ammunition components which are in excess of military requirements, and intact fired small arms cartridge cases shall be made available for commercial sale. Such small arms ammunition, small arms ammunition components, and intact fired cartridge cases shall not be demilitarized, destroyed, or disposed of, unless in excess of commercial demands or certified by the Secretary of Defense as unserviceable or unsafe. This provision shall not apply to ammunition, ammunition components, or fired cartridge cases stored or expended outside the continental United States (OCONUS).
 
->     “(b) __Deadline for Guidance.—__ 
+>     “(b)  __Deadline for Guidance__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 \[Dec. 31, 2011\], the Secretary of Defense shall issue guidance to ensure compliance with subsection (a). Not later than 15 days after issuing such guidance, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a letter of compliance providing notice of such guidance.
 
->     “(c) __Preference.—__ 
+>     “(c)  __Preference__  __.—__ 
 
 >     No small arms ammunition or small arms ammunition components in excess of military requirements, or fired small arms cartridge cases may be made available for commercial sale under this section before such ammunition and ammunition components are offered for transfer or purchase, as authorized by law, to another Federal department or agency or for sale to State and local law enforcement, firefighting, homeland security, and emergency management agencies pursuant to [section 2576 of title 10][/us/usc/t10/s2576], United States Code, as amended by this Act.
 
->     “(d) __Sales Controls.—__ 
+>     “(d)  __Sales Controls__  __.—__ 
 
 >     All small arms ammunition and small arms ammunition components, and fired small arms cartridge cases made available for commercial sale under this section shall be subject to all explosives safety and trade security controls in effect at the time of sale.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Small arms ammunition.—__ 
+>         “(1)  __Small arms ammunition__  __.—__ 
 
 >         The term ‘small arms ammunition’ means ammunition or ordnance for firearms up to and including .50 caliber and for shotguns.
 
->         “(2) __Small arms ammunition components.—__ 
+>         “(2)  __Small arms ammunition components__  __.—__ 
 
 >         The term ‘small arms ammunition components’ means components, parts, accessories, and attachments associated with small arms ammunition.
 
->         “(3) __Fired cartridge cases.—__ 
+>         “(3)  __Fired cartridge cases__  __.—__ 
 
 >         The term ‘fired cartridge cases’ means expended small arms cartridge cases (ESACC).”
 
@@ -137,11 +137,11 @@
 
 >     “(a) __Authority.—__ 
 
->         “(1) __Sale of aircraft and aircraft parts.—__ 
+>         “(1)  __Sale of aircraft and aircraft parts__  __.—__ 
 
 >         Notwithstanding subchapter II of chapter 5 of title 40, United States Code, and subject to subsections (b) and (c), the Secretary of Defense may sell aircraft and aircraft parts referred to in paragraph (2) to a person or entity that provides oil spill response services (including the application of oil dispersants by air) pursuant to an oil spill response plan that has been approved by the Secretary of the Department in which the Coast Guard is operating.
 
->         “(2) __Aircraft and aircraft parts that may be sold.—__ 
+>         “(2)  __Aircraft and aircraft parts that may be sold__  __.—__ 
 
 >         The aircraft and aircraft parts that may be sold under paragraph (1) are aircraft and aircraft parts of the Department of Defense that are determined by the Secretary of Defense to be—
 
@@ -149,7 +149,7 @@
 
 >             “(B) acceptable for commercial sale.
 
->     “(b) __Conditions of Sale.—__ 
+>     “(b)  __Conditions of Sale__  __.—__ 
 
 >     Aircraft and aircraft parts sold under subsection (a)—
 
@@ -157,17 +157,17 @@
 
 >         “(2) may not be flown outside of or removed from the United States except for the purpose of fulfilling an international agreement to assist in oil spill dispersing efforts, for immediate response efforts for an oil spill outside United States waters that has the potential to threaten United States waters, or for other purposes that are jointly approved by the Secretary of Defense and the Secretary of Homeland Security.
 
->     “(c) __Certification of Persons and Entities.—__ 
+>     “(c)  __Certification of Persons and Entities__  __.—__ 
 
 >     The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Homeland Security certifies to the Secretary of Defense, in writing, before the sale, that the person or entity is capable of meeting the terms and conditions of a contract to deliver oil spill dispersants by air, and that the overall system to be employed by that person or entity for the delivery and application of oil spill dispersants has been sufficiently tested to ensure that the person or entity is capable of being included in an oil spill response plan that has been approved by the Secretary of the Department in which the Coast Guard is operating.
 
 >     “(d) __Regulations.—__ 
 
->         “(1) __Issuance.—__ 
+>         “(1)  __Issuance__  __.—__ 
 
 >         As soon as practicable after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary of Defense, in consultation with the Secretary of Homeland Security and the Administrator of General Services, shall prescribe regulations relating to the sale of aircraft and aircraft parts under this section.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         The regulations shall—
 
@@ -179,11 +179,11 @@
 
 >             “(D) ensure, to the maximum extent practicable, that the Secretary of Defense consults with the Administrator of General Services and with the heads of appropriate departments and agencies of the Federal Government regarding alternative requirements for such aircraft and aircraft parts before the sale of such aircraft and aircraft parts under this section.
 
->     “(e) __Additional Terms and Conditions.—__ 
+>     “(e)  __Additional Terms and Conditions__  __.—__ 
 
 >     The Secretary of Defense may require such other terms and conditions in connection with each sale of aircraft and aircraft parts under this section as the Secretary considers appropriate for such sale. Such terms and conditions shall meet the requirements of regulations prescribed under subsection (d).
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than March 31, 2006, the Secretary of Defense shall transmit to the Committees on Armed Services and Commerce, Science, and Transportation of the Senate and the Committees on National Security and Transportation and Infrastructure of the House of Representatives a report on the Secretary’s exercise of authority under this section. The report shall set forth—
 
@@ -195,19 +195,19 @@
 
 >     “(g) __Statutory Construction.—__ 
 
->         “(1) __Authority of administrator.—__ 
+>         “(1)  __Authority of administrator__  __.—__ 
 
 >         Nothing in this section may be construed as affecting the authority of the Administrator under any other provision of law.
 
->         “(2) __Certification requirements.—__ 
+>         “(2)  __Certification requirements__  __.—__ 
 
 >         Nothing in this section may be construed to waive, with respect to an aircraft sold under the authority of this section, any requirement to obtain a certificate from the Administrator to operate the aircraft for any purpose (other than oil spill spotting, observation, and dispersant delivery) for which such a certificate is required.
 
->     “(h) __Proceeds From Sale.—__ 
+>     “(h)  __Proceeds From Sale__  __.—__ 
 
 >     The net proceeds of any amounts received by the Secretary of Defense from the sale of aircraft and aircraft parts under this section shall be covered into the general fund of the Treasury as miscellaneous receipts.
 
->     “(i) __Expiration of Authority.—__ 
+>     “(i)  __Expiration of Authority__  __.—__ 
 
 >     The authority to sell aircraft and aircraft parts under this section expires on September 30, 2006.”
 
@@ -223,7 +223,7 @@
 
 > “SEC. 2. __AUTHORITY TO SELL AIRCRAFT AND PARTS FOR WILDFIRE SUPPRESSION PURPOSES.__ 
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >         (1) Notwithstanding subchapter II of chapter 5 of title 40, United States Code, and subject to subsections (b) and (c), the Secretary of Defense may, during a period specified in subsection (g), sell the aircraft and aircraft parts referred to in paragraph (2) to persons or entities that contract with the Federal Government for the delivery of fire retardant by air in order to suppress wildfire.
 
@@ -235,7 +235,7 @@
 
 >             “(B) acceptable for commercial sale.
 
->     “(b) __Conditions of Sale.—__ 
+>     “(b)  __Conditions of Sale__  __.—__ 
 
 >     Aircraft and aircraft parts sold under subsection (a)—
 
@@ -243,11 +243,11 @@
 
 >         “(2) may not be flown or otherwise removed from the United States unless dispatched by the National Interagency Fire Center in support of an international agreement to assist in wildfire suppression efforts or for other purposes jointly approved by the Secretary of Defense and the Secretary of Agriculture in writing in advance.
 
->     “(c) __Certification of Persons and Entities.—__ 
+>     “(c)  __Certification of Persons and Entities__  __.—__ 
 
 >     The Secretary of Defense may sell aircraft and aircraft parts to a person or entity under subsection (a) only if the Secretary of Agriculture certifies to the Secretary of Defense, in writing, before the sale that the person or entity is capable of meeting the terms and conditions of a contract to deliver fire retardant by air.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >         (1) As soon as practicable after October 14, 1996, the Secretary of Defense shall, in consultation with the Secretary of Agriculture and the Administrator of General Services, prescribe regulations relating to the sale of aircraft and aircraft parts under this section. The regulations prescribed under this paragraph shall be effective until the end of the period specified in subsection (a)(1).
 
@@ -263,11 +263,11 @@
 
 >             “(D) ensure, to the maximum extent practicable, that the Secretary consults with the Administrator of General Services and with the heads of appropriate departments and agencies of the Federal Government regarding alternative requirements for such aircraft and aircraft parts before the sale of such aircraft and aircraft parts under this section.
 
->     “(e) __Additional Terms and Conditions.—__ 
+>     “(e)  __Additional Terms and Conditions__  __.—__ 
 
 >     The Secretary of Defense may require such other terms and conditions in connection with each sale of aircraft and aircraft parts under this section as the Secretary considers appropriate for such sale. Such terms and conditions shall meet the requirements of the regulations prescribed under subsection (d).
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than March 31, 2005, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the Secretary’s exercise of authority under this section. The report shall set forth—
 
@@ -277,7 +277,7 @@
 
 >         “(3) an accounting of the current use of the aircraft sold.
 
->     “(g) __Periods for Exercise of Authority.—__ 
+>     “(g)  __Periods for Exercise of Authority__  __.—__ 
 
 >     The periods specified in this subsection are the following:
 
@@ -285,7 +285,7 @@
 
 >         “(2) The period beginning on October 1, 2012, and ending on September 30, 2017.
 
->     “(h) __Construction.—__ 
+>     “(h)  __Construction__  __.—__ 
 
 >     Nothing in this section may be construed as affecting the authority of the Administrator of the Federal Aviation Administration under any other provision of law.”
 

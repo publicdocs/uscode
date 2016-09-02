@@ -15,11 +15,11 @@
 
 ## § 2423. Laundry and dry cleaning services: procurement from facilities operated by the Navy Resale and Services Support Office
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may authorize an element of the Department of Defense to enter into a contract (through the use of procedures other than competitive procedures) with a laundry and dry cleaning facility operated by the Navy Resale and Services Support Office to procure laundry and dry cleaning services for the armed forces outside the United States.
 
-    (b) __Application.—__ 
+    (b)  __Application__  __.—__ 
 
     Subsection (a) shall apply only with respect to a laundry and dry cleaning facility of the Navy Resale and Services Support Office that began operating before October 1, 1989.
 

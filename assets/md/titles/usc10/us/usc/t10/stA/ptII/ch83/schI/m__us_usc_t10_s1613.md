@@ -15,11 +15,11 @@
 
 ## § 1613. Miscellaneous provisions
 
-    (a) __Collective Bargaining Agreements.—__ 
+    (a)  __Collective Bargaining Agreements__  __.—__ 
 
     Nothing in sections 1601 through 1603 and 1606 through 1610 may be construed to impair the continued effectiveness of a collective bargaining agreement with respect to an agency or office that is a successor to an agency or office covered by the agreement before the succession.
 
-    (b) __Notice to Congress of Regulations.—__ 
+    (b)  __Notice to Congress of Regulations__  __.—__ 
 
     The Secretary of Defense shall notify Congress of any regulations prescribed to carry out this subchapter (other than sections 1605 and 1611). Such notice shall be provided by submitting a copy of the regulations to the congressional oversight committees not less than 60 days before such regulations take effect.
 

@@ -15,7 +15,7 @@
 
 ## § 664. Length of joint duty assignments
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     The length of a joint duty assignment—
 
@@ -23,11 +23,11 @@
 
         (2) for other officers shall be not less than three years.
 
-    (b) __Waiver Authority.—__ 
+    (b)  __Waiver Authority__  __.—__ 
 
     The Secretary of Defense may waive subsection (a) in the case of any officer.
 
-    (c) __Initial Assignment of Officers With Critical Occupational Specialties.—__ 
+    (c)  __Initial Assignment of Officers With Critical Occupational Specialties__  __.—__ 
 
     The Secretary may for purposes of [section 661(c)(1)(B) of this title][/us/usc/t10/s661/c/1/B] authorize a joint duty assignment of less than the period prescribed by subsection (a), but not less than two years, without the requirement for a waiver under subsection (b) in the case of an officer—
 
@@ -35,7 +35,7 @@
 
         (2) for whom such joint duty assignment is the initial joint duty assignment.
 
-    (d) __Exclusions From Tour Length.—__ 
+    (d)  __Exclusions From Tour Length__  __.—__ 
 
     The Secretary of Defense may exclude the following service from the standards prescribed in subsection (a):
 
@@ -67,7 +67,7 @@
 
         (3) Service in a joint duty assignment in a case in which the officer’s tour of duty in that assignment brings the officer’s accrued service for purposes of subsection (f)(3) to the applicable standard prescribed in subsection (a).
 
-    (e) __Average Tour Lengths.—__ 
+    (e)  __Average Tour Lengths__  __.—__ 
 
         (1) The Secretary shall ensure that the average length of joint duty assignments during any fiscal year, measured by the lengths of the joint duty assignments ending during that fiscal year, meets the standards prescribed in subsection (a).
 
@@ -81,7 +81,7 @@
 
             (C) Service described in subsection (f)(6).
 
-    (f) __Full Tour of Duty.—__ 
+    (f)  __Full Tour of Duty__  __.—__ 
 
     An officer shall be considered to have completed a full tour of duty in a joint duty assignment upon completion of any of the following:
 
@@ -97,11 +97,11 @@
 
         (6) A second and subsequent joint duty assignment that is less than the period required under subsection (a), but not less than two years.
 
-    (g) __Accrued Joint Experience.—__ 
+    (g)  __Accrued Joint Experience__  __.—__ 
 
     For the purposes of subsection (f)(3), the Secretary of Defense may prescribe, by regulation, certain joint experience, such as temporary duty in joint assignments, joint individual training, and participation in joint exercises, that may be aggregated to equal a full tour of duty. The Secretary shall prescribe the regulations with the advice of the Chairman of the Joint Chiefs of Staff.
 
-    (h) __Constructive Credit.—__ 
+    (h)  __Constructive Credit__  __.—__ 
 
         (1) The Secretary of Defense may accord constructive credit in the case of an officer (other than a general or flag officer) who, for reasons of military necessity, is reassigned from a joint duty assignment within 60 days of meeting the tour length criteria prescribed in paragraphs (1), (2), and (4) of subsection (f). The amount of constructive service that may be credited to such officer shall be the amount sufficient for the completion of the applicable tour of duty requirement, but in no case more than 60 days.
 

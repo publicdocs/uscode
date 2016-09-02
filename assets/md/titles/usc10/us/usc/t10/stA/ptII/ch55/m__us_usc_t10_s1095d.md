@@ -15,7 +15,7 @@
 
 ## § 1095d. TRICARE program: waiver of certain deductibles
 
-    (a) __Waiver Authorized.—__ 
+    (a)  __Waiver Authorized__  __.—__ 
 
     The Secretary of Defense may waive the deductible payable for medical care provided under the TRICARE program to an eligible dependent of—
 
@@ -23,7 +23,7 @@
 
         (2) a member of the National Guard on full-time National Guard duty pursuant to a call or order to full-time National Guard duty for a period of more than 30 days.
 
-    (b) __Eligible Dependent.—__ 
+    (b)  __Eligible Dependent__  __.—__ 
 
     As used in this section, the term “eligible dependent” means a dependent described in subparagraph (A), (D), or (I) of [section 1072(2) of this title][/us/usc/t10/s1072/2].
 

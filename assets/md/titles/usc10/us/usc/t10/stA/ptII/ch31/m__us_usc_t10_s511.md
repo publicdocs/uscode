@@ -15,11 +15,11 @@
 
 ## § 511. College First Program
 
-    (a) __Program Authority.—__ 
+    (a)  __Program Authority__  __.—__ 
 
     The Secretary of each military department may establish a program to increase the number of, and the level of the qualifications of, persons entering the armed forces as enlisted members by encouraging recruits to pursue higher education or vocational or technical training before entry into active service.
 
-    (b) __Delayed Entry With Allowance for Higher Education.—__ 
+    (b)  __Delayed Entry With Allowance for Higher Education__  __.—__ 
 
     The Secretary concerned may—
 
@@ -33,11 +33,11 @@
 
         (2) subject to paragraph (2) of subsection (d) and except as provided in paragraph (3) of that subsection, pay an allowance to a person accepted for enlistment under paragraph (1)(A) for each month of the period during which that person is enrolled in and pursuing a program described in paragraph (1)(B).
 
-    (c) __Maximum Period of Delay.—__ 
+    (c)  __Maximum Period of Delay__  __.—__ 
 
     The period of delay authorized a person under paragraph (1)(B) of subsection (b) may not exceed the 30-month period beginning on the date of the person’s enlistment accepted under paragraph (1)(A) of such subsection.
 
-    (d) __Allowance.—__ 
+    (d)  __Allowance__  __.—__ 
 
         (1) The monthly allowance paid under subsection (b)(2) shall be equal to the amount of the subsistence allowance provided for certain members of the Senior Reserve Officers’ Training Corps with the corresponding number of years of participation under [section 209(a) of title 37][/us/usc/t37/s209/a]. The Secretary concerned may supplement that stipend by an amount not to exceed $225 per month.
 
@@ -47,7 +47,7 @@
 
         (4) An allowance under this section is in addition to any other pay or allowance to which a member of a reserve component is entitled by reason of participation in the Ready Reserve of that component.
 
-    (e) __Recoupment of Allowance.—__ 
+    (e)  __Recoupment of Allowance__  __.—__ 
 
         (1) A person who, after receiving an allowance under this section, fails to complete the total period of service required of that person in connection with delayed entry authorized for the person under section 513 shall repay the United States the amount which bears the same ratio to the total amount of that allowance paid to the person as the unserved part of the total required period of service bears to the total period.
 
@@ -57,7 +57,7 @@
 
         (4) The Secretary concerned may waive, in whole or in part, a debt arising under paragraph (1) in any case for which the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
 
-    (f) __Special Pay and Bonuses.—__ 
+    (f)  __Special Pay and Bonuses__  __.—__ 
 
     Upon enlisting in the regular component of the member’s armed force, a person who initially enlisted as a Reserve under this section may, at the discretion of the Secretary concerned, be eligible for all regular special pays, bonuses, education benefits, and loan repayment programs.
 

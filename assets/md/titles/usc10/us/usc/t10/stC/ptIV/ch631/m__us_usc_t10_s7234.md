@@ -15,15 +15,15 @@
 
 ## § 7234. Submarine safety programs: participation of NATO naval personnel
 
-    (a) __Acceptance of Assignment of Foreign Naval Personnel.—__ 
+    (a)  __Acceptance of Assignment of Foreign Naval Personnel__  __.—__ 
 
     In order to facilitate the development, standardization, and interoperability of submarine vessel safety and rescue systems and procedures, the Secretary of the Navy may conduct a program under which members of the naval service of any of the member nations of the North Atlantic Treaty Organization may be assigned to United States commands to work on such systems and procedures.
 
-    (b) __Reciprocity Not Required.—__ 
+    (b)  __Reciprocity Not Required__  __.—__ 
 
     The authority under subsection (a) is not an exchange program. Reciprocal assignments of members of the Navy to the naval service of a foreign country is not a condition for the exercise of such authority.
 
-    (c) __Costs for Foreign Personnel.—__ 
+    (c)  __Costs for Foreign Personnel__  __.—__ 
 
         (1)
 
@@ -51,11 +51,11 @@
 
             (C) Costs incident to the use of the facilities of the Navy in the performance of assigned duties.
 
-    (d) __Relationship to Other Authority.—__ 
+    (d)  __Relationship to Other Authority__  __.—__ 
 
     The provisions of this section shall apply in the exercise of any authority of the Secretary of the Navy to enter into an agreement with the government of a foreign country, subject to the concurrence of the Secretary of State, to provide for the assignment of members of the naval service of the foreign country to a Navy submarine safety program. The Secretary of the Navy may prescribe regulations for the application of this section in the exercise of such authority.
 
-    (e) __Termination of Authority.—__ 
+    (e)  __Termination of Authority__  __.—__ 
 
     The Secretary of the Navy may not accept the assignment of a member of the naval service of a foreign country under this section after September 30, 2008.
 

@@ -15,11 +15,11 @@
 
 ## § 2491b. Use of appropriated funds for operation of Armed Forces Recreation Center, Europe: limitation
 
-    (a) __Limitation.—__ 
+    (a)  __Limitation__  __.—__ 
 
     Except as provided in subsection (b), funds appropriated to the Department of Defense may not be used to operate the Armed Forces Recreation Center, Europe.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     Subsection (a) does not apply to the use of funds for the payment of utilities, the maintenance, repair, or renovation of real property, and the transportation of products made in the United States.
 

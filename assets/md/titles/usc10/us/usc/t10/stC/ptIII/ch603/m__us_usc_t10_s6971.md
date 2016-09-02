@@ -15,11 +15,11 @@
 
 ## § 6971. Midshipmen’s store, trade shops, dairy, and laundry: nonappropriated fund instrumentality and accounts
 
-    (a) __Operation as Nonappropriated Fund Instrumentality.—__ 
+    (a)  __Operation as Nonappropriated Fund Instrumentality__  __.—__ 
 
     The Superintendent of the Naval Academy shall operate the Naval Academy activities referred to in subsection (b) as a nonappropriated fund instrumentality under the jurisdiction of the Navy.
 
-    (b) __Covered Activities.—__ 
+    (b)  __Covered Activities__  __.—__ 
 
     The nonappropriated fund instrumentality required under subsection (a) shall consist of the following Naval Academy activities:
 
@@ -35,15 +35,15 @@
 
         (6) The laundry.
 
-    (c) __Nonappropriated Fund Accounts.—__ 
+    (c)  __Nonappropriated Fund Accounts__  __.—__ 
 
     The Superintendent of the Naval Academy shall administer a separate nonappropriated fund account for each of the Naval Academy activities included in the nonappropriated fund instrumentality required under subsection (a).
 
-    (d) __Crediting of Revenue.—__ 
+    (d)  __Crediting of Revenue__  __.—__ 
 
     The Superintendent shall credit all revenue received from a Naval Academy activity referred to in subsection (b) to the account administered with respect to that activity under subsection (c), and amounts so credited shall be available for operating expenses of that activity.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     This section shall be carried out under regulations prescribed by the Secretary of the Navy.
 

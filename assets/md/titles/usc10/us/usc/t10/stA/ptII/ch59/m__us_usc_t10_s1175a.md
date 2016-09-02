@@ -15,11 +15,11 @@
 
 ## § 1175a. Voluntary separation pay and benefits
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Under regulations approved by the Secretary of Defense, the Secretary concerned may provide voluntary separation pay and benefits in accordance with this section to eligible members of the armed forces who are voluntarily separated from active duty in the armed forces.
 
-    (b) __Eligible Members.—__ 
+    (b)  __Eligible Members__  __.—__ 
 
         (1)
 
@@ -61,15 +61,15 @@
 
         (3) The Secretary concerned shall determine each year the number of members to be separated, and provided separation pay and benefits, under this section during the fiscal year beginning in such year.
 
-    (c) __Separation.—__ 
+    (c)  __Separation__  __.—__ 
 
     Each eligible member of the armed forces whose request for separation from active duty under subsection (b)(1)(E) is approved shall be separated from active duty.
 
-    (d) __Additional Service in Ready Reserve.—__ 
+    (d)  __Additional Service in Ready Reserve__  __.—__ 
 
     Of the number of members of the armed forces to be separated from active duty in a fiscal year, as determined under subsection (b)(3), the Secretary concerned shall determine a number of such members, in such skill and grade combinations as the Secretary concerned shall designate, who shall serve in the Ready Reserve, after separation from active duty, for a period of not less than three years, as a condition of the receipt of voluntary separation pay and benefits under this section.
 
-    (e) __Separation Pay and Benefits.—__ 
+    (e)  __Separation Pay and Benefits__  __.—__ 
 
         (1) A member of the armed forces who is separated from active duty under subsection (c) shall be paid voluntary separation pay in accordance with subsection (g) in an amount determined by the Secretary concerned pursuant to subsection (f).
 
@@ -81,11 +81,11 @@
 
             (B) sections 474 and 476 of title 37.
 
-    (f) __Computation of Voluntary Separation Pay.—__ 
+    (f)  __Computation of Voluntary Separation Pay__  __.—__ 
 
     The Secretary concerned shall specify the amount of voluntary separation pay that an individual or defined group of members of the armed forces may be paid under subsection (e)(1). No member may receive as voluntary separation pay an amount greater than four times the full amount of separation pay for a member of the same pay grade and years of service who is involuntarily separated under [section 1174 of this title][/us/usc/t10/s1174].
 
-    (g) __Payment of Voluntary Separation Pay.—__ 
+    (g)  __Payment of Voluntary Separation Pay__  __.—__ 
 
         (1) Voluntary separation pay under this section may be paid in a single lump sum.
 
@@ -99,7 +99,7 @@
 
             (C) a combination of lump sum and such installments.
 
-    (h) __Coordination With Retired or Retainer Pay and Disability Compensation.—__ 
+    (h)  __Coordination With Retired or Retainer Pay and Disability Compensation__  __.—__ 
 
         (1) A member who is paid voluntary separation pay under this section and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such retired or retainer pay is equal to the total amount of voluntary separation pay so paid.
 
@@ -115,11 +115,11 @@
 
         (4) The Secretary concerned may waive the requirement to repay voluntary separation pay under paragraphs (1) and (2) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.
 
-    (i) __Retirement Defined.—__ 
+    (i)  __Retirement Defined__  __.—__ 
 
     In this section, the term “retirement” includes a transfer to the Fleet Reserve or Fleet Marine Corps Reserve.
 
-    (j) __Repayment for Members Who Return to Active Duty.—__ 
+    (j)  __Repayment for Members Who Return to Active Duty__  __.—__ 
 
         (1) Except as provided in paragraphs (2) and (3), a member of the armed forces who, after having received all or part of voluntary separation pay under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary separation pay received.
 
@@ -129,7 +129,7 @@
 
         (4) The Secretary of Defense may waive, in whole or in part, repayment required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States. The authority in this paragraph may be delegated only to the Undersecretary of Defense for Personnel and Readiness and the Principal Deputy Undersecretary of Defense for Personnel and Readiness.
 
-    (k) __Termination of Authority.—__ 
+    (k)  __Termination of Authority__  __.—__ 
 
         (1) The authority to separate a member of the armed forces from active duty under subsection (c) shall terminate on December 31, 2018.
 

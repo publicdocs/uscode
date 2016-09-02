@@ -15,7 +15,7 @@
 
 ## § 1095e. TRICARE program: beneficiary counseling and assistance coordinators
 
-    (a) __Establishment of Positions.—__ 
+    (a)  __Establishment of Positions__  __.—__ 
 
     The Secretary of Defense shall require in regulations that—
 
@@ -31,7 +31,7 @@
 
         (2) the commander of each military medical treatment facility under this chapter designate a person to serve, as a primary or collateral duty, as beneficiary counseling and assistance coordinator for beneficiaries under the TRICARE program served at that facility.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The Secretary shall prescribe the duties of the position of beneficiary counseling and assistance coordinator in the regulations required by subsection (a).
 

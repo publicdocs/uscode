@@ -15,11 +15,11 @@
 
 ## § 16162a. Accelerated payment of educational assistance
 
-    (a) __Payment on Accelerated Basis.—__ 
+    (a)  __Payment on Accelerated Basis__  __.—__ 
 
     The educational assistance allowance payable under [section 16162 of this title][/us/usc/t10/s16162] with respect to an eligible member described in subsection (b) may, upon the election of such eligible member, be paid on an accelerated basis in accordance with this section.
 
-    (b) __Eligible Members.—__ 
+    (b)  __Eligible Members__  __.—__ 
 
     An eligible member described in this subsection is a member of a reserve component entitled to educational assistance under this chapter who is—
 
@@ -27,7 +27,7 @@
 
         (2) charged tuition and fees for the program of education that, when divided by the number of months (and fractions thereof) in the enrollment period, exceeds the amount equal to 200 percent of the monthly rate of educational assistance allowance otherwise payable with respect to the member under [section 16162 of this title][/us/usc/t10/s16162].
 
-    (c) __Amount of Accelerated Payment.—__ 
+    (c)  __Amount of Accelerated Payment__  __.—__ 
 
         (1)
 
@@ -51,7 +51,7 @@
 
         (3) The educational institution providing the program of education for which an accelerated payment of educational assistance allowance is elected by an eligible member under subsection (a) shall certify to the Secretary of Veterans Affairs the amount of the established charges for the program of education.
 
-    (d) __Time of Payment.—__ 
+    (d)  __Time of Payment__  __.—__ 
 
     An accelerated payment of educational assistance allowance made with respect to an eligible member under this section for a program of education shall be made not later than the last day of the month immediately following the month in which the Secretary of Veterans Affairs receives a certification from the educational institution regarding—
 
@@ -59,17 +59,17 @@
 
         (2) the amount of the established charges for the program of education.
 
-    (e) __Charge Against Entitlement.—__ 
+    (e)  __Charge Against Entitlement__  __.—__ 
 
         (1) Except as provided in paragraph (2), for each accelerated payment of educational assistance allowance made with respect to an eligible member under this section, the member’s entitlement to educational assistance under this chapter shall be charged the number of months (and any fraction thereof) determined by dividing the amount of the accelerated payment by the full-time monthly rate of educational assistance allowance otherwise payable with respect to the member under [section 16162 of this title][/us/usc/t10/s16162] as of the beginning date of the enrollment period for the program of education for which the accelerated payment is made.
 
         (2) If the monthly rate of educational assistance allowance otherwise payable with respect to an eligible member under [section 16162 of this title][/us/usc/t10/s16162] increases during the enrollment period of a program of education for which an accelerated payment of educational assistance allowance is made under this section, the charge to the member’s entitlement to educational assistance under this chapter shall be determined by prorating the entitlement chargeable, in the manner provided for under paragraph (1), for the periods covered by the initial rate and increased rate, respectively, in accordance with regulations prescribed by the Secretary of Veterans Affairs.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Veterans Affairs shall prescribe regulations to carry out this section. The regulations shall include requirements, conditions, and methods for the request, issuance, delivery, certification of receipt and use, and recovery of overpayment of an accelerated payment of educational assistance allowance under this section. The regulations may include such elements of the regulations prescribed under [section 3014A of title 38][/us/usc/t38/s3014A] as the Secretary of Veterans Affairs considers appropriate for purposes of this section.
 
-    (g) __Limitation.—__ 
+    (g)  __Limitation__  __.—__ 
 
     The aggregate amount of educational assistance payable under this section in any fiscal year for enrollments covered by subsection (b)(1) may not exceed $3,000,000.
 

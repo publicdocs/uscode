@@ -15,7 +15,7 @@
 
 ## § 2772. Share of fines and forfeitures to benefit Armed Forces Retirement Home
 
-    (a) __Deposit Required.—__ 
+    (a)  __Deposit Required__  __.—__ 
 
     The Secretary of the military department concerned or, in the case of the Coast Guard, the Commandant shall deposit in the Armed Forces Retirement Home Trust Fund a percentage (determined under subsection (b)) of the following amounts:
 
@@ -23,7 +23,7 @@
 
         (2) The amount of forfeitures on account of the desertion of an enlisted member, warrant officer, or limited duty officer of the armed forces.
 
-    (b) __Determination of Percentage.—__ 
+    (b)  __Determination of Percentage__  __.—__ 
 
     The Chief Operating Officer of the Armed Forces Retirement Home shall determine, on the basis of the financial needs of the Armed Forces Retirement Home, the percentage of the amounts referred to in subsection (a) to be deposited in the trust fund referred to in such subsection.
 

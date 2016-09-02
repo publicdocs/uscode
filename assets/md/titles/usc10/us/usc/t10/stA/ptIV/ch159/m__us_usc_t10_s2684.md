@@ -15,11 +15,11 @@
 
 ## § 2684. Cooperative agreements for management of cultural resources
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense or the Secretary of a military department may enter into a cooperative agreement with a State or local government or other entity for the preservation, management, maintenance, and improvement of cultural resources located on a site authorized by subsection (b) and for the conduct of research regarding the cultural resources. Activities under the cooperative agreement shall be subject to the availability of funds to carry out the cooperative agreement.
 
-    (b) __Authorized Cultural Resources Sites.—__ 
+    (b)  __Authorized Cultural Resources Sites__  __.—__ 
 
     To be covered by a cooperative agreement under subsection (a), cultural resources must be located—
 
@@ -27,11 +27,11 @@
 
         (2) on a site outside of a military installation, but only if the cooperative agreement will directly relieve or eliminate current or anticipated restrictions that would or might restrict, impede, or otherwise interfere, whether directly or indirectly, with current or anticipated military training, testing, or operations on a military installation.
 
-    (c) __Application of Other Laws.—__ 
+    (c)  __Application of Other Laws__  __.—__ 
 
     Section 1535 and chapter 63 of title 31 shall not apply to a cooperative agreement entered into under this section.
 
-    (d) __Cultural Resource Defined.—__ 
+    (d)  __Cultural Resource Defined__  __.—__ 
 
     In this section, the term “cultural resource” means any of the following:
 

@@ -15,7 +15,7 @@
 
 ## § 2809. Long-term facilities contracts for certain activities and services
 
-    (a) __Submission and Authorization of Proposed Projects.—__ 
+    (a)  __Submission and Authorization of Proposed Projects__  __.—__ 
 
     The Secretary concerned may enter into a contract for the procurement of services in connection with the construction, management, and operation of a facility on or near a military installation for the provision of an activity or service described in subsection (b) if—
 
@@ -25,7 +25,7 @@
 
         (3) the project has been authorized by law.
 
-    (b) __Authorized Purposes of Contract.—__ 
+    (b)  __Authorized Purposes of Contract__  __.—__ 
 
     The activities and services referred to in subsection (a) are as follows:
 
@@ -43,7 +43,7 @@
 
         (7) Other logistic and administrative services, other than depot maintenance.
 
-    (c) __Conditions on Obligation of Funds.—__ 
+    (c)  __Conditions on Obligation of Funds__  __.—__ 
 
     A contract entered into for a project pursuant to subsection (a) shall include the following provisions:
 
@@ -53,15 +53,15 @@
 
         (3) A statement that such a commitment given under the authority of this section does not constitute an obligation of the United States.
 
-    (d) __Competitive Procedures.—__ 
+    (d)  __Competitive Procedures__  __.—__ 
 
     Each contract entered into under this section shall be awarded through the use of competitive procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary concerned shall solicit bids or proposals for a contract for each project that has been authorized by law.
 
-    (e) __Term of Contract.—__ 
+    (e)  __Term of Contract__  __.—__ 
 
     A contract under this section may be for any period not in excess of 32 years, excluding the period for construction.
 
-    (f) __Notice and Wait Requirements.—__ 
+    (f)  __Notice and Wait Requirements__  __.—__ 
 
     A contract may not be entered into under this section until—
 
@@ -115,21 +115,21 @@
 
 [Pub. L. 107–107, div. B, title XXVIII, § 2814][/us/pl/107/107/s2814], Dec. 28, 2001, [115 Stat. 1310][/us/stat/115/1310], as amended by [Pub. L. 107–314, div. B, title XXVIII, § 2813(a)][/us/pl/107/314/s2813/a]–(d)(1), Dec. 2, 2002, [116 Stat. 2709][/us/stat/116/2709], 2710, provided that:
 
->     “(a) __Authority To Carry Out Program.—__ 
+>     “(a)  __Authority To Carry Out Program__  __.—__ 
 
 >     The Secretary of Defense or the Secretary of a military department may conduct a demonstration program to assess the feasibility and desirability of including facility maintenance requirements in construction contracts for military construction projects for the purpose of determining whether such requirements facilitate reductions in the long-term facility maintenance costs of the military departments.
 
->     “(b) __Contracts.—__ 
+>     “(b)  __Contracts__  __.—__ 
 
 >         (1) Not more than 12 contracts per military department may contain requirements referred to in subsection (a) for the purpose of the demonstration program.
 
 >         “(2) The demonstration program may only cover contracts entered into on or after the date of the enactment of the Bob Stump National Defense Authorization Act for Fiscal Year 2003 \[[Pub. L. 107–314][/us/pl/107/314], approved Dec. 2, 2002\], except that the Secretary of the Army shall treat any contract containing requirements referred to in subsection (a) that was entered into under the authority in such subsection between that date and December 28, 2001, as a contract for the purpose of the demonstration program.
 
->     “(c) __Effective Period of Requirements.—__ 
+>     “(c)  __Effective Period of Requirements__  __.—__ 
 
 >     The effective period of a requirement referred to in subsection (a) that is included in a contract for the purpose of the demonstration program may not exceed five years.
 
->     “(d) __Reporting Requirements.—__ 
+>     “(d)  __Reporting Requirements__  __.—__ 
 
 >     Not later than January 31, 2005, the Secretary of Defense shall submit to Congress a report on the demonstration program, including the following:
 
@@ -139,11 +139,11 @@
 
 >         “(3) Any recommendations, including recommendations for the termination, continuation, or expansion of the demonstration program, that the Secretary considers appropriate.
 
->     “(e) __Expiration.—__ 
+>     “(e)  __Expiration__  __.—__ 
 
 >     The authority under subsection (a) to include requirements referred to in that subsection in contracts under the demonstration program shall expire on September 30, 2006.
 
->     “(f) __Funding.—__ 
+>     “(f)  __Funding__  __.—__ 
 
 >     Amounts authorized to be appropriated for the military departments or defense-wide for a fiscal year for military construction shall be available for the demonstration program under this section in such fiscal year.”
 

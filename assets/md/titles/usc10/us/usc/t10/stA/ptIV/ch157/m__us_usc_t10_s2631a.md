@@ -15,11 +15,11 @@
 
 ## § 2631a. Contingency planning: sealift and related intermodal transportation requirements
 
-    (a) __Consideration of Private Capabilities.—__ 
+    (a)  __Consideration of Private Capabilities__  __.—__ 
 
     The Secretary of Defense shall ensure that all studies and reports of the Department of Defense, and all actions taken in the Department of Defense, concerning sealift and related intermodal transportation requirements take into consideration the full range of the transportation and distribution capabilities that are available from operators of privately owned United States flag merchant vessels.
 
-    (b) __Private Capacities Presentations.—__ 
+    (b)  __Private Capacities Presentations__  __.—__ 
 
     The Secretary shall afford each operator of a vessel referred to in subsection (a), not less often than annually, an opportunity to present to the Department of Defense information on its port-to-port and intermodal transportation capacities.
 

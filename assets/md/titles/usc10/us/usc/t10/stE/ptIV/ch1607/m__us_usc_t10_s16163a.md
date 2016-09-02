@@ -15,11 +15,11 @@
 
 ## § 16163a. Authority to transfer unused education benefits to family members
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to the provisions of this section, the Secretary concerned may permit, at such Secretary’s sole discretion, a member described in subsection (b) who is entitled to basic educational assistance under this chapter to elect to transfer to one or more of the dependents specified in subsection (c) a portion of such member’s entitlement to such assistance, subject to the limitation under subsection (d).
 
-    (b) __Eligible Members.—__ 
+    (b)  __Eligible Members__  __.—__ 
 
     A member referred to in subsection (a) is a member of the armed forces who, at the time of the approval of the member’s request to transfer entitlement to basic educational assistance under this section, has completed at least—
 
@@ -27,7 +27,7 @@
 
         (2) the years of service as determined in regulations pursuant to subsection (j).
 
-    (c) __Eligible Dependents.—__ 
+    (c)  __Eligible Dependents__  __.—__ 
 
     A member approved to transfer an entitlement to basic educational assistance under this section may transfer the member’s entitlement as follows:
 
@@ -37,11 +37,11 @@
 
         (3) To a combination of the individuals referred to in paragraphs (1) and (2).
 
-    (d) __Limitation on Months of Transfer.—__ 
+    (d)  __Limitation on Months of Transfer__  __.—__ 
 
     The total number of months of entitlement transferred by a member under this section may not exceed 36 months. The Secretary of Defense may prescribe regulations that would limit the months of entitlement that may be transferred under this section to no less than 18 months.
 
-    (e) __Designation of Transferee.—__ 
+    (e)  __Designation of Transferee__  __.—__ 
 
     A member transferring an entitlement to basic educational assistance under this section shall—
 
@@ -51,7 +51,7 @@
 
         (3) specify the period for which the transfer shall be effective for each dependent designated under paragraph (1).
 
-    (f) __Time for Transfer; Revocation and Modification.—__ 
+    (f)  __Time for Transfer; Revocation and Modification__  __.—__ 
 
         (1) Subject to the time limitation for use of entitlement under section 16164, a member approved to transfer entitlement to basic educational assistance under this section may transfer such entitlement only while serving as a member of the armed forces when the transfer is executed.
 
@@ -59,7 +59,7 @@
 
         (3) Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
 
-    (g) __Commencement of Use.—__ 
+    (g)  __Commencement of Use__  __.—__ 
 
     A dependent to whom entitlement to basic educational assistance is transferred under this section may not commence the use of the transferred entitlement until—
 
@@ -91,7 +91,7 @@
 
                 (ii) the attainment by the child of 18 years of age.
 
-    (h) __Additional Administrative Matters.—__ 
+    (h)  __Additional Administrative Matters__  __.—__ 
 
         (1) The use of any entitlement to basic educational assistance transferred under this section shall be charged against the entitlement of the member making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
@@ -109,11 +109,11 @@
 
     (i) __Overpayment.—__ 
 
-        (1) __Joint and several liability.—__ 
+        (1)  __Joint and several liability__  __.—__ 
 
         In the event of an overpayment of basic educational assistance with respect to a dependent to whom entitlement is transferred under this section, the dependent and the member making the transfer shall be jointly and severally liable to the United States for the amount of the overpayment for purposes of [section 3685 of title 38][/us/usc/t38/s3685].
 
-        (2) __Failure to complete service agreement.—__ 
+        (2)  __Failure to complete service agreement__  __.—__ 
 
         Except as provided in paragraph (3), if an individual transferring entitlement under this section fails to complete the service agreed to by the individual under subsection (b)(1) in accordance with the terms of the agreement of the individual under that subsection, the amount of any transferred entitlement under this section that is used by a dependent of the individual as of the date of such failure shall be treated as an overpayment of educational assistance under paragraph (1).
 
@@ -125,7 +125,7 @@
 
             (B) for a reason referred to in section 16133(b).
 
-    (j) __Regulations.—__ 
+    (j)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense, in coordination with the Secretary of Veterans Affairs, shall prescribe regulations for purposes of this section.
 
@@ -139,7 +139,7 @@
 
             (C) the manner and effect of an election to modify or revoke a transfer of entitlement under subsection (f)(2).
 
-    (k) __Secretary Concerned Defined.—__ 
+    (k)  __Secretary Concerned Defined__  __.—__ 
 
     For purposes of this section, the term “Secretary concerned” has the meaning given in section 101(a)(9) in the case of a member of the armed forces.
 

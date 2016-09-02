@@ -15,7 +15,7 @@
 
 ## § 6383. Regular Navy and Regular Marine Corps; officers designated for limited duty: retirement for length of service or failures of selection for promotion; discharge for failures of selection for promotion; reversion to prior status; retired grade; retired pay
 
-    (a) __Mandatory Retirement.—__ 
+    (a)  __Mandatory Retirement__  __.—__ 
 
         (1) Except as provided in subsection (k), each regular officer of the Navy who is an officer designated for limited duty and who is serving in a grade below the grade of commander and each regular officer of the Marine Corps who is an officer designated for limited duty shall be retired on the last day of the month following the month in which he completes 30 years of active naval service, exclusive of active duty for training in a reserve component.
 
@@ -31,11 +31,11 @@
 
         (4) Except as provided in subsection (k), each regular officer of the Navy designated for limited duty who is serving in the grade of captain shall, if not retired sooner, be retired on the last day of the month following the month in which the officer completes 38 years of active naval service, exclusive of active duty for training in a reserve component.
 
-    (b) __Lieutenant Commanders and Majors Who Twice Fail of Selection for Promotion.—__ 
+    (b)  __Lieutenant Commanders and Majors Who Twice Fail of Selection for Promotion__  __.—__ 
 
     Except as provided in subsections (f) and (k), each regular officer on the active-duty list of the Navy serving in the grade of lieutenant commander who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of major who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of commander or lieutenant colonel, respectively, for the second time and whose name is not on a promotion list shall be retired, if eligible to retire, or be discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of commander or lieutenant colonel for the second time.
 
-    (c) __Retired Grade and Retired Pay.—__ 
+    (c)  __Retired Grade and Retired Pay__  __.—__ 
 
     Each officer retired under subsection (a) or (b)—
 
@@ -43,21 +43,21 @@
 
         (2) is entitled to retired pay computed under [section 6333 of this title][/us/usc/t10/s6333].
 
-    (d) __Navy Lieutenants and Marine Corps Captains Who Twice Fail of Selection for Promotion.—__ 
+    (d)  __Navy Lieutenants and Marine Corps Captains Who Twice Fail of Selection for Promotion__  __.—__ 
 
     Except as provided in subsections (f) and (k), each regular officer on the active-duty list of the Navy serving in the grade of lieutenant who is an officer designated for limited duty, and each regular officer on the active duty list of the Marine Corps serving in the grade of captain who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of lieutenant commander or major for the second time and whose name is not on a list of officers recommended for promotion shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant commander or major for the second time.
 
-    (e) __Officers in Pay Grades O–2 and O–1 Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promotion.—__ 
+    (e)  __Officers in Pay Grades O–__  __2__  __and O–__  __1__  __Who Twice Fail of Selection for Promotion or Are Found Not Qualified for Promotion__  __.—__ 
 
         (1) Each regular officer on the active-duty list of the Navy serving in the grade of lieutenant (junior grade) who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of first lieutenant who is an officer designated for limited duty, who is considered as having failed of selection for promotion to the grade of lieutenant (in the case of an officer of the Navy) or captain (in the case of an officer of the Marine Corps) for the second time shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the selection board in which the officer is considered as having failed of selection for promotion to the grade of lieutenant or captain, respectively, for the second time.
 
         (2) Each regular officer on the active-duty list of the Navy serving in the grade of ensign who is an officer designated for limited duty, and each regular officer on the active-duty list of the Marine Corps serving in the grade of second lieutenant who is an officer designated for limited duty, who is found not qualified for promotion to the grade of lieutenant (junior grade) (in the case of an officer of the Navy) or first lieutenant (in the case of an officer of the Marine Corps) shall be honorably discharged on the date requested by the officer and approved by the Secretary of the Navy, but not later than the first day of the seventh calendar month beginning after the month in which the officer was found not qualified for promotion.
 
-    (f) __18-Year Retirement Sanctuary.—__ 
+    (f) __18-__  __Year Retirement Sanctuary__  __.—__ 
 
     If an officer subject to discharge under subsection (b), (d), or (e) is (as of the date on which the officer is to be discharged) not eligible for retirement under any provision of law but is within two years of qualifying for retirement under [section 6323 of this title][/us/usc/t10/s6323], the officer shall be retained on active duty as an officer designated for limited duty until becoming qualified for retirement under that section and shall then be retired under that section, unless the officer is sooner retired or discharged under another provision of law or the officer reverts to a warrant officer grade pursuant to subsection (h).
 
-    (g) __Reenlistment for LDOs Appointed From Enlisted Grades.—__ 
+    (g)  __Reenlistment for LDOs Appointed From Enlisted Grades__  __.—__ 
 
         (1) An officer subject to discharge under subsection (b), (d), or (e) who is described in paragraph (2) may, upon the officer’s request and in the discretion of the Secretary of the Navy, be enlisted in a grade prescribed by the Secretary upon the officer’s discharge pursuant to such subsection.
 
@@ -71,23 +71,23 @@
 
             (C) was in an enlisted grade when first appointed as an officer designated for limited duty.
 
-    (h) __Reversion to Warrant Officer Grade for LDOs Appointed From Warrant Officer Grades.—__ 
+    (h)  __Reversion to Warrant Officer Grade for LDOs Appointed From Warrant Officer Grades__  __.—__ 
 
     An officer subject to discharge under subsection (b), (d), or (e) (including an officer otherwise subject to retention under subsection (f)) who is not eligible for retirement under any provision of law and who had the permanent status of a warrant officer when first appointed as an officer designated for limited duty may, at the officer’s option, revert to the warrant officer grade and status that the officer would hold if the officer had not been appointed as an officer designated for limited duty.
 
-    (i) __Determination of Grade and Status of Officers Reverting to Prior Status.—__ 
+    (i)  __Determination of Grade and Status of Officers Reverting to Prior Status__  __.—__ 
 
     In any computation to determine the grade and status to which an officer may revert under this section, all active service as an officer designated for limited duty or as a temporary or reserve officer is included.
 
-    (j) __Separation Pay for Officers Discharged.—__ 
+    (j)  __Separation Pay for Officers Discharged__  __.—__ 
 
     An officer discharged under this section is entitled, if eligible therefor, to separation pay under [section 1174(a)(1) of this title][/us/usc/t10/s1174/a/1].
 
-    (k) __Selective Retention Boards for LDOs.—__ 
+    (k)  __Selective Retention Boards for LDOs__  __.—__ 
 
     Under such regulations as he may prescribe, whenever the needs of the service require, the Secretary of the Navy may defer the retirement under subsection (a) or (b) or the discharge under subsection (b) or (d) of any officer designated for limited duty upon recommendation of a board of officers convened under [section 611(b) of this title][/us/usc/t10/s611/b] and with the consent of the officer concerned. An officer whose retirement is deferred under this subsection and who is not subsequently promoted may not be continued on active duty beyond 20 years active commissioned service, if in the grade of lieutenant or captain, beyond 24 years active commissioned service, if in the grade of lieutenant commander or major, or beyond 28 years active commissioned service, if in the grade of lieutenant colonel, or beyond age 62, whichever is earlier.
 
-    (l) __Applicability of Section Only to Permanent LDOs.—__ 
+    (l)  __Applicability of Section Only to Permanent LDOs__  __.—__ 
 
     This section does not apply to officers designated for limited duty under [section 5596 of this title][/us/usc/t10/s5596].
 

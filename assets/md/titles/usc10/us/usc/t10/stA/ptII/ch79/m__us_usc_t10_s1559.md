@@ -15,7 +15,7 @@
 
 ## § 1559. Personnel limitation
 
-    (a) __Limitation.—__ 
+    (a)  __Limitation__  __.—__ 
 
     Before December 31, 2016, the Secretary of a military department may not carry out any reduction in the number of military and civilian personnel assigned to duty with the service review agency for that military department below the baseline number for that agency until—
 
@@ -31,7 +31,7 @@
 
         (2) a period of 90 days has elapsed after the date on which the report is submitted.
 
-    (b) __Baseline Number.—__ 
+    (b)  __Baseline Number__  __.—__ 
 
     The baseline number for a service review agency under this section is—
 
@@ -39,7 +39,7 @@
 
         (2) for purposes of any subsequent report with respect to a service review agency under this section, the number of such personnel specified in the most recent report with respect to that agency under this section.
 
-    (c) __Service Review Agency Defined.—__ 
+    (c)  __Service Review Agency Defined__  __.—__ 
 
     In this section, the term “service review agency” means—
 

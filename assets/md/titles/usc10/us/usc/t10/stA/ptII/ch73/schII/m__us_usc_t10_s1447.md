@@ -17,31 +17,31 @@
 
     In this subchapter:
 
-    (1) __Plan.—__ 
+    (1)  __Plan__  __.—__ 
 
     The term “Plan” means the Survivor Benefit Plan established by this subchapter.
 
-    (2) __Standard annuity.—__ 
+    (2)  __Standard annuity__  __.—__ 
 
     The term “standard annuity” means an annuity provided by virtue of eligibility under [section 1448(a)(1)(A) of this title][/us/usc/t10/s1448/a/1/A].
 
-    (3) __Reserve-component annuity.—__ 
+    (3)  __Reserve-component annuity__  __.—__ 
 
     The term “reserve-component annuity” means an annuity provided by virtue of eligibility under [section 1448(a)(1)(B) of this title][/us/usc/t10/s1448/a/1/B].
 
-    (4) __Retired pay.—__ 
+    (4)  __Retired pay__  __.—__ 
 
     The term “retired pay” includes retainer pay paid under [section 6330 of this title][/us/usc/t10/s6330].
 
-    (5) __Reserve-component retired pay.—__ 
+    (5)  __Reserve-component retired pay__  __.—__ 
 
     The term “reserve-component retired pay” means retired pay under chapter 1223 of this title (or under chapter 67 of this title as in effect before the effective date of the Reserve Officer Personnel Management Act).
 
-    (6) __Base amount.—__ 
+    (6)  __Base amount__  __.—__ 
 
     The term “base amount” means the following:
 
-        (A) __Full amount under standard annuity.—__ 
+        (A)  __Full amount under standard annuity__  __.—__ 
 
         In the case of a person who dies after becoming entitled to retired pay, such term means the amount of monthly retired pay (determined without regard to any reduction under [section 1409(b)(2) of this title][/us/usc/t10/s1409/b/2]) to which the person—
 
@@ -49,7 +49,7 @@
 
             (ii) later became entitled by being advanced on the retired list, performing active duty, or being transferred from the temporary disability retired list to the permanent disability retired list.
 
-        (B) __Full amount under reserve-component annuity.—__ 
+        (B)  __Full amount under reserve-component annuity__  __.—__ 
 
         In the case of a person who would have become eligible for reserve-component retired pay but for the fact that he died before becoming 60 years of age, such term means the amount of monthly retired pay for which the person would have been eligible—
 
@@ -57,7 +57,7 @@
 
             (ii) upon becoming 60 years of age (if he had lived to that age), for purposes of an annuity to become effective on the 60th anniversary of his birth in accordance with a designation made under [section 1448(e) of this title][/us/usc/t10/s1448/e].
 
-        (C) __Reduced amount.—__ 
+        (C)  __Reduced amount__  __.—__ 
 
         Such term means any amount less than the amount otherwise applicable under subparagraph (A) or (B) with respect to an annuity provided under the Plan but which is not less than $300 and which is designated by the person (with the concurrence of the person’s spouse, if required under [section 1448(a)(3) of this title][/us/usc/t10/s1448/a/3]) providing the annuity on or before—
 
@@ -65,7 +65,7 @@
 
             (ii) the end of the 90-day period beginning on the date on which he receives the notification required by [section 12731(d) of this title][/us/usc/t10/s12731/d] that he has completed the years of service required for eligibility for reserve-component retired pay, in the case of a person providing a reserve-component annuity.
 
-    (7) __Widow.—__ 
+    (7)  __Widow__  __.—__ 
 
     The term “widow” means the surviving wife of a person who, if not married to the person at the time he became eligible for retired pay—
 
@@ -73,7 +73,7 @@
 
         (B) is the mother of issue by that marriage.
 
-    (8) __Widower.—__ 
+    (8)  __Widower__  __.—__ 
 
     The term “widower” means the surviving husband of a person who, if not married to the person at the time she became eligible for retired pay—
 
@@ -81,17 +81,17 @@
 
         (B) is the father of issue by that marriage.
 
-    (9) __Surviving spouse.—__ 
+    (9)  __Surviving spouse__  __.—__ 
 
     The term “surviving spouse” means a widow or widower.
 
-    (10) __Former spouse.—__ 
+    (10)  __Former spouse__  __.—__ 
 
     The term “former spouse” means the surviving former husband or wife of a person who is eligible to participate in the Plan.
 
     (11) __Dependent child.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “dependent child” means a person who—
 
@@ -101,29 +101,29 @@
 
             (iii) is the child of a person to whom the Plan applies, including (I) an adopted child, and (II) a stepchild, foster child, or recognized natural child who lived with that person in a regular parent-child relationship.
 
-        (B) __Special rules for college students.—__ 
+        (B)  __Special rules for college students__  __.—__ 
 
         For the purpose of subparagraph (A), a child whose twenty-second birthday occurs before July 1 or after August 31 of a calendar year, and while regularly pursuing such a course of study or training, is considered to have become 22 years of age on the first day of July after that birthday. A child who is a student is considered not to have ceased to be a student during an interim between school years if the interim is not more than 150 days and if the child shows to the satisfaction of the Secretary of Defense that the child has a bona fide intention of continuing to pursue a course of study or training in the same or a different school during the school semester (or other period into which the school year is divided) immediately after the interim.
 
-        (C) __Foster children.—__ 
+        (C)  __Foster children__  __.—__ 
 
         A foster child, to qualify under this paragraph as the dependent child of a person to whom the Plan applies, must, at the time of the death of that person, also reside with, and receive over one-half of his support from, that person, and not be cared for under a social agency contract. The temporary absence of a foster child from the residence of that person, while a student as described in this paragraph, shall not be considered to affect the residence of such a foster child.
 
-    (12) __Court.—__ 
+    (12)  __Court__  __.—__ 
 
     The term “court” has the meaning given that term by [section 1408(a)(1) of this title][/us/usc/t10/s1408/a/1].
 
     (13) __Court order.—__ 
 
-        (A) __In general.—__ 
+        (A)  __In general__  __.—__ 
 
         The term “court order” means a court’s final decree of divorce, dissolution, or annulment or a court ordered, ratified, or approved property settlement incident to such a decree (including a final decree modifying the terms of a previously issued decree of divorce, dissolution, annulment, or legal separation, or of a court ordered, ratified, or approved property settlement agreement incident to such previously issued decree).
 
-        (B) __Final decree.—__ 
+        (B)  __Final decree__  __.—__ 
 
         The term “final decree” means a decree from which no appeal may be taken or from which no appeal has been taken within the time allowed for the taking of such appeals under the laws applicable to such appeals, or a decree from which timely appeal has been taken and such appeal has been finally decided under the laws applicable to such appeals.
 
-        (C) __Regular on its face.—__ 
+        (C)  __Regular on its face__  __.—__ 
 
         The term “regular on its face”, when used in connection with a court order, means a court order that meets the conditions prescribed in [section 1408(b)(2) of this title][/us/usc/t10/s1408/b/2].
 
@@ -193,11 +193,11 @@
 
 [Pub. L. 99–145, title VII, § 731][/us/pl/99/145/s731], Nov. 8, 1985, [99 Stat. 678][/us/stat/99/678], provided that:
 
->     “(a) __Effective Date.—__ 
+>     “(a)  __Effective Date__  __.—__ 
 
 >     Except as otherwise provided in this title, the amendments made by this title \[see Short Title of 1985 Amendment note below\] shall take effect on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Nov. 8, 1985\].
 
->     “(b) __Prospective Benefits Only.—__ 
+>     “(b)  __Prospective Benefits Only__  __.—__ 
 
 >     No benefit shall accrue to any person by reason of the enactment of this title for any period before the effective date under subsection (a).”
 

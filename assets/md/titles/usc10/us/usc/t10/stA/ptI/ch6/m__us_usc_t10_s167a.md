@@ -15,15 +15,15 @@
 
 ## § 167a. Unified combatant command for joint warfighting experimentation: acquisition authority
 
-    (a) __Limited Acquisition Authority for Commander of Certain Unified Combatant Command.—__ 
+    (a)  __Limited Acquisition Authority for Commander of Certain Unified Combatant Command__  __.—__ 
 
     The Secretary of Defense may delegate to the commander of the unified combatant command referred to in subsection (b) authority of the Secretary under chapter 137 of this title sufficient to enable the commander to develop, acquire, and maintain equipment described in subsection (c). The exercise of authority so delegated is subject to the authority, direction, and control of the Secretary.
 
-    (b) __Command Described.—__ 
+    (b)  __Command Described__  __.—__ 
 
     The commander to whom authority is delegated under subsection (a) is the commander of the unified combatant command that has the mission for joint warfighting experimentation, as assigned by the Secretary of Defense.
 
-    (c) __Equipment.—__ 
+    (c)  __Equipment__  __.—__ 
 
     The equipment referred to in subsection (a) is as follows:
 
@@ -37,7 +37,7 @@
 
             (B) enhancing the interoperability of equipment used by the various components of joint forces.
 
-    (d) __Exceptions.—__ 
+    (d)  __Exceptions__  __.—__ 
 
     The authority delegated under subsection (a) does not apply to the development or acquisition of a system for which—
 
@@ -45,15 +45,15 @@
 
         (2) the total expenditure for procurement is estimated to be $50,000,000 or more.
 
-    (e) __Internal Audits and Inspections.—__ 
+    (e)  __Internal Audits and Inspections__  __.—__ 
 
     The commander referred to in subsection (b) shall require the inspector general of that command to conduct internal audits and inspections of purchasing and contracting administered by the commander under the authority delegated under subsection (a).
 
-    (f) __Limitation on Authority To Maintain Equipment.—__ 
+    (f)  __Limitation on Authority To Maintain Equipment__  __.—__ 
 
     The authority delegated under subsection (a) to maintain equipment is subject to the availability of funds authorized and appropriated specifically for that purpose.
 
-    (g) __Termination.—__ 
+    (g)  __Termination__  __.—__ 
 
     The Secretary may delegate the authority referred to in subsection (a) only during fiscal years 2004 through 2010, and any authority so delegated shall not be in effect after September 30, 2010.
 

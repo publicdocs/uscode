@@ -15,7 +15,7 @@
 
 ## § 14301. Eligibility for consideration for promotion: general rules
 
-    (a) __One-Year Rule.—__ 
+    (a)  __One-Year Rule__  __.—__ 
 
     An officer is eligible under this chapter for consideration for promotion by a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] only if—
 
@@ -23,11 +23,11 @@
 
         (2) during the one-year period ending on the date of the convening of the promotion board the officer has continuously performed service on either the reserve active-status list or the active-duty list (or on a combination of both lists).
 
-    (b) __Requirement for Consideration of All Officers In and Above the Zone.—__ 
+    (b)  __Requirement for Consideration of All Officers In and Above the Zone__  __.—__ 
 
     Whenever a promotion board (other than a vacancy promotion board) is convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] for consideration of officers in a competitive category who are eligible under this chapter for consideration for promotion to the next higher grade, each officer in the promotion zone, and each officer above the promotion zone, for that grade and competitive category shall be considered for promotion.
 
-    (c) __Previously Selected Officers Not Eligible To Be Considered.—__ 
+    (c)  __Previously Selected Officers Not Eligible To Be Considered__  __.—__ 
 
     A promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] may not consider for promotion to the next higher grade any of the following officers:
 
@@ -41,19 +41,19 @@
 
         (5) An officer in the grade of first lieutenant or, in the case of the Navy, lieutenant (junior grade) who is on an approved all-fully-qualified-officers list under [section 14308(b)(4) of this title][/us/usc/t10/s14308/b/4].
 
-    (d) __Officers Below the Zone.—__ 
+    (d)  __Officers Below the Zone__  __.—__ 
 
     The Secretary of the military department concerned may, by regulation, prescribe procedures to limit the officers to be considered by a selection board from below the promotion zone to those officers who are determined to be exceptionally well qualified for promotion. The regulations shall include criteria for determining which officers below the promotion zone are exceptionally well qualified for promotion.
 
-    (e) __Certain Reserve Officers of the Air Force.—__ 
+    (e)  __Certain Reserve Officers of the Air Force__  __.—__ 
 
     A reserve officer of the Air Force who (1) is in the Air National Guard of the United States and holds the grade of lieutenant colonel, colonel, or brigadier general, or (2) is in the Air Force Reserve and holds the grade of colonel or brigadier general, is not eligible for consideration for promotion by a mandatory promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a].
 
-    (f) __Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List.—__ 
+    (f)  __Nonconsideration of Officers Scheduled for Removal From Reserve Active-Status List__  __.—__ 
 
     The Secretary of the military department concerned may, by regulation, provide for the exclusion from consideration for promotion by a promotion board of any officer otherwise eligible to be considered by the board who has an established date for removal from the reserve active-status list that is not more than 90 days after the date on which the selection board for which the officer would otherwise be eligible is to be convened.
 
-    (g) __Brigadier Generals.—__ 
+    (g)  __Brigadier Generals__  __.—__ 
 
         (1)
 
@@ -73,7 +73,7 @@
 
             (C) immediately before the date of the officer’s most recent transfer to an inactive status, the officer had continuously served for at least one year on the reserve active status list or the active-duty list (or a combination of the reserve active status list and the active-duty list).
 
-    (h) __Officers on Educational Delay.—__ 
+    (h)  __Officers on Educational Delay__  __.—__ 
 
     An officer on the reserve active-status list is ineligible for consideration for promotion, but shall remain on the reserve active-status list, while the officer—
 
@@ -81,7 +81,7 @@
 
         (2) is receiving from the Secretary financial assistance in connection with the pursuit of that program of education while in that status.
 
-    (i) __Reserve Officers Employed as Military Technician (dual Status).—__ 
+    (i)  __Reserve Officers Employed as Military Technician (dual Status)__  __.—__ 
 
     A reserve officer of the Army or Air Force employed as a military technician (dual status) under [section 10216 of this title][/us/usc/t10/s10216] who has been retained beyond the mandatory removal date for years of service pursuant to subsection (f) of such section or [section 14702(a)(2) of this title][/us/usc/t10/s14702/a/2] is not eligible for consideration for promotion by a mandatory promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a].
 

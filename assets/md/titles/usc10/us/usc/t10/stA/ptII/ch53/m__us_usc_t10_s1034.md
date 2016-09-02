@@ -15,13 +15,13 @@
 
 ## § 1034. Protected communications; prohibition of retaliatory personnel actions
 
-    (a) __Restricting Communications With Members of Congress and Inspector General Prohibited.—__ 
+    (a)  __Restricting Communications With Members of Congress and Inspector General Prohibited__  __.—__ 
 
         (1) No person may restrict a member of the armed forces in communicating with a Member of Congress or an Inspector General.
 
         (2) Paragraph (1) does not apply to a communication that is unlawful.
 
-    (b) __Prohibition of Retaliatory Personnel Actions.—__ 
+    (b)  __Prohibition of Retaliatory Personnel Actions__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
         (2) Any action prohibited by paragraph (1) (including the threat to take any unfavorable action and the withholding or threat to withhold any favorable action) shall be considered for the purposes of this section to be a personnel action prohibited by this subsection.
 
-    (c) __Inspector General Investigation of Allegations of Prohibited Personnel Actions.—__ 
+    (c)  __Inspector General Investigation of Allegations of Prohibited Personnel Actions__  __.—__ 
 
         (1) If a member of the armed forces submits to an Inspector General an allegation that a personnel action prohibited by subsection (b) has been taken (or threatened) against the member with respect to a communication described in paragraph (2), the Inspector General shall take the action required under paragraph (3).
 
@@ -75,11 +75,11 @@
 
         (5) The Inspector General of the Department of Defense, or the Inspector General of the Department of Homeland Security (in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy), shall ensure that the Inspector General conducting the investigation of an allegation under this subsection is outside the immediate chain of command of both the member submitting the allegation and the individual or individuals alleged to have taken the retaliatory action.
 
-    (d) __Inspector General Investigation of Underlying Allegations.—__ 
+    (d)  __Inspector General Investigation of Underlying Allegations__  __.—__ 
 
     Upon receiving an allegation under subsection (c), the Inspector General receiving the allegation shall conduct a separate investigation of the information that the member making the allegation believes constitutes evidence of wrongdoing (as described in subparagraph (A) or (B) of subsection (c)(2)) if there previously has not been such an investigation or if the Inspector General determines that the original investigation was biased or otherwise inadequate. In the case of an allegation received by the Inspector General of the Department of Defense, the Inspector General may delegate that responsibility to the Inspector General of the armed force concerned.
 
-    (e) __Reports on Investigations.—__ 
+    (e)  __Reports on Investigations__  __.—__ 
 
         (1) After completion of an investigation under subsection (c) or (d) or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E), the Inspector General conducting the investigation shall submit a report on the results of the investigation to the Secretary of Defense (or to the Secretary of Homeland Security in the case of a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) and shall transmit a copy of the report on the results of the investigation to the member of the armed forces who made the allegation investigated. The report shall be transmitted to the Secretary, and the copy of the report shall be transmitted to the member, not later than 30 days after the completion of the investigation or, in the case of an investigation under subsection (c) by an Inspector General within a military department, after approval of the report of that investigation under subsection (c)(3)(E).
 
@@ -95,7 +95,7 @@
 
         (4) The report on the results of the investigation shall contain a thorough review of the facts and circumstances relevant to the allegation and the complaint or disclosure and shall include documents acquired during the course of the investigation, including summaries of interviews conducted. The report may include a recommendation as to the disposition of the complaint.
 
-    (f) __Correction of Records When Prohibited Action Taken.—__ 
+    (f)  __Correction of Records When Prohibited Action Taken__  __.—__ 
 
         (1) A board for the correction of military records acting under [section 1552 of this title][/us/usc/t10/s1552], in resolving an application for the correction of records made by a member or former member of the armed forces who has alleged a personnel action prohibited by subsection (b), on the request of the member or former member or otherwise, may review the matter.
 
@@ -131,15 +131,15 @@
 
         (6) If the Board determines that a personnel action prohibited by subsection (b) has occurred, the Board may recommend to the Secretary concerned that the Secretary take appropriate disciplinary action against the individual who committed such personnel action.
 
-    (g) __Review by Secretary of Defense.—__ 
+    (g)  __Review by Secretary of Defense__  __.—__ 
 
     Upon the completion of all administrative review under subsection (f), the member or former member of the armed forces (except for a member or former member of the Coast Guard when the Coast Guard is not operating as a service in the Navy) who made the allegation referred to in subsection (c)(1), if not satisfied with the disposition of the matter, may submit the matter to the Secretary of Defense. The Secretary shall make a decision to reverse or uphold the decision of the Secretary of the military department concerned in the matter within 90 days after receipt of such a submittal.
 
-    (h) __Regulations.—__ 
+    (h)  __Regulations__  __.—__ 
 
     The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, shall prescribe regulations to carry out this section.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -333,11 +333,11 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
 [Pub. L. 103–337, div. A, title V, § 531(h)][/us/pl/103/337/s531/h], (i), Oct. 5, 1994, [108 Stat. 2758][/us/stat/108/2758], provided that:
 
->     “(h) __Deadline for Regulations.—__ 
+>     “(h)  __Deadline for Regulations__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Transportation shall prescribe regulations to implement the amendments made by this section \[amending this section\] not later than 120 days after the date of the enactment of this Act \[Oct. 5, 1994\].
 
->     “(i) __Content of Regulations.—__ 
+>     “(i)  __Content of Regulations__  __.—__ 
 
 >     In prescribing regulations under [section 1034 of title 10][/us/usc/t10/s1034], United States Code, as amended by this section, the Secretary of Defense and the Secretary of Transportation shall provide for appropriate procedural protections for the subject of any investigation carried out under the provisions of that section, including a process for appeal and review of investigative findings.”
 
@@ -349,7 +349,7 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
 [Pub. L. 112–239, div. A, title X, § 1054][/us/pl/112/239/s1054], Jan. 2, 2013, [126 Stat. 1937][/us/stat/126/1937], provided that:
 
->     “(a) __Notice Required.—__ 
+>     “(a)  __Notice Required__  __.—__ 
 
 >     The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notice of any request or requirement for members of the Armed Forces or civilian employees of the Department of Defense to enter into nondisclosure agreements that could restrict the ability of such members or employees to communicate with Congress. Each such notice shall include the following:
 
@@ -363,11 +363,11 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
 >     “(b) __Timing of Notification.—__ 
 
->         “(1) __Requests or requirements before date of enactment.—__ 
+>         “(1)  __Requests or requirements before date of enactment__  __.—__ 
 
 >         In the case of nondisclosure agreements described in subsection (a) that members or employees were first requested or required to enter into on or before the date of the enactment of this Act \[Jan. 2, 2013\], the notice required by subsection (a) shall be submitted not later than 60 days after the date of enactment.
 
->         “(2) __Requests or requirements after date of enactment.—__ 
+>         “(2)  __Requests or requirements after date of enactment__  __.—__ 
 
 >         In the case of nondisclosure agreements described in subsection (a) that members or employees were first requested or required to enter into after the date of the enactment of this Act, the notice required by subsection (a) shall be submitted not later than 30 days after the date on which the Secretary first requests or requires that the members or employees enter into the agreements.”
 
@@ -375,15 +375,15 @@ June 24, 1948, ch. 625, § 4(a) (last par.); restated June 19, 1951, ch. 144, 
 
 [Pub. L. 102–190, div. A, title VIII, § 843][/us/pl/102/190/s843], Dec. 5, 1991, [105 Stat. 1449][/us/stat/105/1449], provided that:
 
->     “(a) __Regulations Required.—__ 
+>     “(a)  __Regulations Required__  __.—__ 
 
 >     The Secretary of Defense shall prescribe regulations prohibiting members of the Armed Forces from taking or threatening to take any unfavorable personnel action, or withholding or threatening to withhold a favorable personnel action, as a reprisal against any member of the Armed Forces for making or preparing a lawful communication to any employee of the Department of Defense or any member of the Armed Forces who is assigned to or belongs to an organization which has as its primary responsibility audit, inspection, investigation, or enforcement of any law or regulation.
 
->     “(b) __Violations by Persons Subject to the UCMJ.—__ 
+>     “(b)  __Violations by Persons Subject to the UCMJ__  __.—__ 
 
 >     The Secretary shall provide in the regulations that a violation of the prohibition by a person subject to chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), is punishable as a violation of section 892 of such title (article 92 of the Uniform Code of Military Justice).
 
->     “(c) __Deadline.—__ 
+>     “(c)  __Deadline__  __.—__ 
 
 >     The regulations required by this section shall be prescribed not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].”
 

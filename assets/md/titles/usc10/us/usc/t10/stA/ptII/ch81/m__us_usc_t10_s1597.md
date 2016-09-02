@@ -15,11 +15,11 @@
 
 ## § 1597. Civilian positions: guidelines for reductions
 
-    (a) __Requirement of Guidelines for Reductions in Civilian Positions.—__ 
+    (a)  __Requirement of Guidelines for Reductions in Civilian Positions__  __.—__ 
 
     Reductions in the number of civilian positions of the Department of Defense during a fiscal year, if any, shall be carried out in accordance with the guidelines established pursuant to subsection (b).
 
-    (b) __Guidelines.—__ 
+    (b)  __Guidelines__  __.—__ 
 
     The Secretary of Defense shall establish guidelines for the manner in which reductions in the number of civilian positions of the Department of Defense are made. In establishing the guidelines, the Secretary shall ensure that nothing in the guidelines conflicts with the requirements of [section 129 of this title][/us/usc/t10/s129] or the policies and procedures established under [section 129a of this title][/us/usc/t10/s129a]. The guidelines shall include procedures for reviewing civilian positions for reductions according to the following order:
 
@@ -31,7 +31,7 @@
 
         (4) Direct operating or production positions in the United States.
 
-    (c) __Master Plan.—__ 
+    (c)  __Master Plan__  __.—__ 
 
         (1) The Secretary of Defense shall include in the materials submitted to Congress in support of the budget request for the Department of Defense for each fiscal year a civilian positions master plan described in paragraph (2) for the Department of Defense as a whole and for each military department, Defense Agency, and other principal component of the Department of Defense.
 
@@ -73,11 +73,11 @@
 
         (4) The Secretary of Defense shall include in the materials referred to in paragraph (1) a report on the implementation of the master plan for the fiscal year immediately preceding the fiscal year for which such materials are submitted.
 
-    (d) __Exceptions.—__ 
+    (d)  __Exceptions__  __.—__ 
 
     The Secretary of Defense may permit a variation from the guidelines established under subsection (b) or a master plan prepared under subsection (c) if the Secretary determines that such variation is critical to the national security. The Secretary shall immediately notify the Congress of any such variation and the reasons for such variation.
 
-    (e) __Involuntary Reductions of Civilian Positions.—__ 
+    (e)  __Involuntary Reductions of Civilian Positions__  __.—__ 
 
     The Secretary of Defense may not implement any involuntary reduction or furlough of civilian positions in a military department, Defense Agency, or other component of the Department of Defense until the expiration of the 45-day period beginning on the date on which the Secretary submits to Congress a report setting forth the reasons why such reductions or furloughs are required and a description of any change in workload or positions requirements that will result from such reductions or furloughs.
 

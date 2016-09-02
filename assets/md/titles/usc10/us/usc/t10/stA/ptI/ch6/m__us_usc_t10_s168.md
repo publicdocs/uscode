@@ -15,11 +15,11 @@
 
 ## § 168. Military-to-military contacts and comparable activities
 
-    (a) __Program Authority.—__ 
+    (a)  __Program Authority__  __.—__ 
 
     The Secretary of Defense may conduct military-to-military contacts and comparable activities that are designed to encourage a democratic orientation of defense establishments and military forces of other countries.
 
-    (b) __Administration.—__ 
+    (b)  __Administration__  __.—__ 
 
     The Secretary may provide funds appropriated for carrying out subsection (a) to the following officials for use as provided in subsection (c):
 
@@ -29,7 +29,7 @@
 
         (3) The head of any Department of Defense component.
 
-    (c) __Authorized Activities.—__ 
+    (c)  __Authorized Activities__  __.—__ 
 
     An official provided funds under subsection (b) may use those funds for the following activities and expenses:
 
@@ -51,11 +51,11 @@
 
         (9) The assignment of personnel described in paragraph (3) or (4) on a non-reciprocal basis if the Secretary of Defense determines that such an assignment, rather than an exchange of personnel, is in the interests of the United States.
 
-    (d) __Relationship to Other Funding.—__ 
+    (d)  __Relationship to Other Funding__  __.—__ 
 
     Any amount provided during any fiscal year to an official under subsection (b) for an activity or expense referred to in subsection (c) shall be in addition to amounts otherwise available for those activities and expenses for that fiscal year.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
         (1)
 
@@ -73,7 +73,7 @@
 
         (5) Funds available to carry out this section shall be available, to the extent provided in appropriations Acts, for programs or activities under this section that begin in a fiscal year and end in the following fiscal year.
 
-    (f) __Active Duty End Strengths.—__ 
+    (f)  __Active Duty End Strengths__  __.—__ 
 
     A member of a reserve component who is engaged in activities authorized under this section shall not be counted for purposes of the following personnel strength limitations:
 
@@ -83,7 +83,7 @@
 
         (3) The authorized strengths for commissioned officers under [section 523 of this title][/us/usc/t10/s523] for the fiscal year in which the member carries out such activities.
 
-    (g) __Military-to-Military Contacts Defined.—__ 
+    (g)  __Military-to-Military Contacts Defined__  __.—__ 
 
     In this section, the term “military-to-military contacts” means contacts between members of the armed forces and members of foreign armed forces through activities described in subsection (c).
 
@@ -123,7 +123,7 @@
 
 [Pub. L. 112–81, div. A, title X, § 1081][/us/pl/112/81/s1081], Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Defense may, with the concurrence of the Secretary of State, carry out a program to assign civilian employees of the Department of Defense as advisors to the ministries of defense (or security agencies serving a similar defense function) of foreign countries in order to—
 
@@ -133,15 +133,15 @@
 
 >     “(b) __Termination of Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The authority of the Secretary of Defense to assign civilian employees under the program under subsection (a) terminates at the close of September 30, 2014.
 
->         “(2) __Continuation of assignments.—__ 
+>         “(2)  __Continuation of assignments__  __.—__ 
 
 >         Any assignment of a civilian employee under subsection (a) before the date specified in paragraph (1) may continue after that date, but only using funds available for fiscal year 2012, 2013, or 2014.
 
->     “(c) __Annual Report.—__ 
+>     “(c)  __Annual Report__  __.—__ 
 
 >     Not later than December 30 each year through 2014, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report on activities under the program under subsection (a) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
@@ -159,7 +159,7 @@
 
 >         “(7) Recommendations, if any, about changes to the authority, including an assessment of whether expanding the program authority to include assignments to bilateral, regional, or multilateral international security organizations would advance the national security interests of the United States.
 
->     “(d) __Comptroller General Report.—__ 
+>     “(d)  __Comptroller General Report__  __.—__ 
 
 >     Not later than December 30, 2013, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (c) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.”
 
@@ -169,31 +169,31 @@
 
 >     “(a) __Authority To Enter Into Non-reciprocal International Exchange Agreements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense may enter into non-reciprocal international defense personnel exchange agreements.
 
->         “(2) __International defense personnel exchange agreements defined.—__ 
+>         “(2)  __International defense personnel exchange agreements defined__  __.—__ 
 
 >         For purposes of this section, an international defense personnel exchange agreement is an agreement with the government of an ally of the United States or another friendly foreign country for the exchange of military and civilian personnel of the defense ministry of that foreign government.
 
 >     “(b) __Assignment of Personnel.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Pursuant to a non-reciprocal international defense personnel exchange agreement, personnel of the defense ministry of a foreign government may be assigned to positions in the Department of Defense.
 
->         “(2) __Mutual agreement required.—__ 
+>         “(2)  __Mutual agreement required__  __.—__ 
 
 >         An individual may not be assigned to a position pursuant to a non-reciprocal international defense personnel exchange agreement unless the assignment is acceptable to both governments.
 
 >     “(c) __Payment of Personnel Costs.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The foreign government with which the United States has entered into a non-reciprocal international defense personnel exchange agreement shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its personnel under such agreement in accordance with the applicable laws and regulations of such government.
 
->         “(2) __Excluded costs.—__ 
+>         “(2)  __Excluded costs__  __.—__ 
 
 >         Paragraph (1) does not apply to the following costs:
 
@@ -203,21 +203,21 @@
 
 >             “(C) The cost of temporary duty of the exchanged personnel directed by the United States Government.
 
->     “(d) __Prohibited Conditions.—__ 
+>     “(d)  __Prohibited Conditions__  __.—__ 
 
 >     No personnel exchanged pursuant to a non-reciprocal agreement under this section may take or be required to take an oath of allegiance or to hold an official capacity in the government.
 
 >     “(e) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the end of the fiscal year in which the authority in subsection (a) has been exercised, the Secretary of Defense shall submit to the appropriate congressional committees a report on the use of the authority through the end of such fiscal year.
 
->         “(2) __Matters to be included.—__ 
+>         “(2)  __Matters to be included__  __.—__ 
 
 >         The report required under paragraph (1) shall include the number of non-reciprocal international defense personnel exchange agreements, the number of personnel assigned pursuant to such agreements, the Department of Defense component to which the personnel have been assigned, the duty title of each assignment, and the countries with which the agreements have been concluded.
 
->         “(3) __Appropriate congressional committees defined.—__ 
+>         “(3)  __Appropriate congressional committees defined__  __.—__ 
 
 >         In this subsection, the term ‘appropriate congressional committees’ means—
 
@@ -225,7 +225,7 @@
 
 >             “(B) the Committee on Armed Services and the Committee on Foreign Relations of the Senate.
 
->     “(f) __Duration of Authority.—__ 
+>     “(f)  __Duration of Authority__  __.—__ 
 
 >     The authority under this section shall expire on September 30, 2016.”
 
@@ -233,11 +233,11 @@
 
 [Pub. L. 106–65, div. A, title XII, § 1201][/us/pl/106/65/s1201], Oct. 5, 1999, [113 Stat. 779][/us/stat/113/779], as amended by [Pub. L. 111–84, div. A, title XII, § 1246(d)][/us/pl/111/84/s1246/d], Oct. 28, 2009, [123 Stat. 2545][/us/stat/123/2545]; [Pub. L. 112–81, div. A, title X, § 1066(e)(2)][/us/pl/112/81/s1066/e/2], Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     The Secretary of Defense may not authorize any military-to-military exchange or contact described in subsection (b) to be conducted by the armed forces with representatives of the People’s Liberation Army of the People’s Republic of China if that exchange or contact would create a national security risk due to an inappropriate exposure specified in subsection (b).
 
->     “(b) __Covered Exchanges and Contacts.—__ 
+>     “(b)  __Covered Exchanges and Contacts__  __.—__ 
 
 >     Subsection (a) applies to any military-to-military exchange or contact that includes inappropriate exposure to any of the following:
 
@@ -265,7 +265,7 @@
 
 >         “(12) Access to a Department of Defense laboratory.
 
->     “(c) __Exceptions.—__ 
+>     “(c)  __Exceptions__  __.—__ 
 
 >     Subsection (a) does not apply to any search-and-rescue or humanitarian operation or exercise.”
 
@@ -273,7 +273,7 @@
 
 [Pub. L. 104–201, div. A, title X, § 1082][/us/pl/104/201/s1082], Sept. 23, 1996, [110 Stat. 2672][/us/stat/110/2672], provided that:
 
->     “(a) __Authority To Enter Into International Exchange Agreements.—__ 
+>     “(a)  __Authority To Enter Into International Exchange Agreements__  __.—__ 
 
 >         (1) The Secretary of Defense may enter into international defense personnel exchange agreements.
 
@@ -285,7 +285,7 @@
 
 >             “(B) military and civilian personnel of the defense ministry of that foreign government.
 
->     “(b) __Assignment of Personnel.—__ 
+>     “(b)  __Assignment of Personnel__  __.—__ 
 
 >         (1) Pursuant to an international defense personnel exchange agreement, personnel of the defense ministry of a foreign government may be assigned to positions in the Department of Defense and personnel of the Department of Defense may be assigned to positions in the defense ministry of such foreign government. Positions to which exchanged personnel are assigned may include positions of instructors.
 
@@ -293,11 +293,11 @@
 
 >         “(3) An individual may not be assigned to a position pursuant to an international defense personnel exchange agreement unless the assignment is acceptable to both governments.
 
->     “(c) __Reciprocity of Personnel Qualifications Required.—__ 
+>     “(c)  __Reciprocity of Personnel Qualifications Required__  __.—__ 
 
 >     Each government shall be required under an international defense personnel exchange agreement to provide personnel with qualifications, training, and skills that are essentially equal to those of the personnel provided by the other government.
 
->     “(d) __Payment of Personnel Costs.—__ 
+>     “(d)  __Payment of Personnel Costs__  __.—__ 
 
 >         (1) Each government shall pay the salary, per diem, cost of living, travel costs, cost of language or other training, and other costs for its own personnel in accordance with the applicable laws and regulations of such government.
 
@@ -311,11 +311,11 @@
 
 >             “(C) Costs incident to the use of the facilities of the host government in the performance of assigned duties.
 
->     “(e) __Prohibited Conditions.—__ 
+>     “(e)  __Prohibited Conditions__  __.—__ 
 
 >     No personnel exchanged pursuant to an agreement under this section may take or be required to take an oath of allegiance to the host country or to hold an official capacity in the government of such country.
 
->     “(f) __Relationship to Other Authority.—__ 
+>     “(f)  __Relationship to Other Authority__  __.—__ 
 
 >     The requirements in subsections (c) and (d) shall apply in the exercise of any authority of the Secretaries of the military departments to enter into an agreement with the government of a foreign country to provide for the exchange of members of the armed forces and military personnel of the foreign country. The Secretary of Defense may prescribe regulations for the application of such subsections in the exercise of such authority.”
 

@@ -15,11 +15,11 @@
 
 ## § 139a. Director of Cost Assessment and Program Evaluation
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     There is a Director of Cost Assessment and Program Evaluation in the Department of Defense, appointed by the President, by and with the advice and consent of the Senate.
 
-    (b) __Independent Advice to Secretary of Defense.—__ 
+    (b)  __Independent Advice to Secretary of Defense__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) The Director may communicate views on matters within the responsibility of the Director directly to the Secretary of Defense and the Deputy Secretary of Defense without obtaining the approval or concurrence of any other official within the Department of Defense.
 
-    (c) __Deputy Directors.—__ 
+    (c)  __Deputy Directors__  __.—__ 
 
     There are two Deputy Directors within the Office of the Director of Cost Assessment and Program Evaluation, as follows:
 
@@ -39,7 +39,7 @@
 
         (2) The Deputy Director for Program Evaluation.
 
-    (d) __Responsibilities.—__ 
+    (d)  __Responsibilities__  __.—__ 
 
     The Director of Cost Assessment and Program Evaluation shall serve as the principal official within the senior management of the Department of Defense for the following:
 
@@ -83,15 +83,15 @@
 
 [Pub. L. 111–23, title I, § 101(c)][/us/pl/111/23/s101/c], May 22, 2009, [123 Stat. 1709][/us/stat/123/1709], provided that:
 
->     “(1) __Transfer of functions.—__ 
+>     “(1)  __Transfer of functions__  __.—__ 
 
 >     The functions of the Office of Program Analysis and Evaluation of the Department of Defense, including the functions of the Cost Analysis Improvement Group, are hereby transferred to the Office of the Director of Cost Assessment and Program Evaluation.
 
->     “(2) __Transfer of personnel to deputy director for independent cost assessment.—__ 
+>     “(2)  __Transfer of personnel to deputy director for independent cost assessment__  __.—__ 
 
 >     The personnel of the Cost Analysis Improvement Group are hereby transferred to the Deputy Director for Cost Assessment in the Office of the Director of Cost Assessment and Program Evaluation.
 
->     “(3) __Transfer of personnel to deputy director for program analysis and evaluation.—__ 
+>     “(3)  __Transfer of personnel to deputy director for program analysis and evaluation__  __.—__ 
 
 >     The personnel (other than the personnel transferred under paragraph (2)) of the Office of Program Analysis and Evaluation are hereby transferred to the Deputy Director for Program Evaluation in the Office of the Director of Cost Assessment and Program Evaluation.”
 

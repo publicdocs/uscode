@@ -15,17 +15,17 @@
 
 ## § 2244a. Equipment scheduled for retirement or disposal: limitation on expenditures for modifications
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     Except as otherwise provided in this section, the Secretary of a military department may not carry out a modification of an aircraft, weapon, vessel, or other item of equipment that the Secretary plans to retire or otherwise dispose of within five years after the date on which the modification, if carried out, would be completed.
 
     (b) __Exceptions.—__ 
 
-        (1) __Exception for below-threshold modifications.—__ 
+        (1)  __Exception for below-threshold modifications__  __.—__ 
 
         The prohibition in subsection (a) does not apply to a modification for which the cost is less than $100,000.
 
-        (2) __Exception for transfer of reusable items of value.—__ 
+        (2)  __Exception for transfer of reusable items of value__  __.—__ 
 
         The prohibition in subsection (a) does not apply to a modification in a case in which—
 
@@ -33,11 +33,11 @@
 
             (B) the cost of such modification (including the cost of the removal and refurbishment of reusable items of value under subparagraph (A)) is less than $1,000,000.
 
-        (3) __Exception for safety modifications.—__ 
+        (3)  __Exception for safety modifications__  __.—__ 
 
         The prohibition in subsection (a) does not apply to a safety modification.
 
-    (c) __Waiver Authority.—__ 
+    (c)  __Waiver Authority__  __.—__ 
 
     The Secretary concerned may waive the prohibition in subsection (a) in the case of any modification otherwise subject to that subsection if the Secretary determines that carrying out the modification is in the national security interest of the United States. Whenever the Secretary issues such a waiver, the Secretary shall notify the congressional defense committees in writing.
 

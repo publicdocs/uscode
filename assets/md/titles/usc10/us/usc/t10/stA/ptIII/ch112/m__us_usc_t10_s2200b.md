@@ -15,11 +15,11 @@
 
 ## § 2200b. Grant program
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may provide grants of financial assistance to institutions of higher education to support the establishment, improvement, or administration of programs of education in information assurance disciplines referred to in [section 2200(a) of this title][/us/usc/t10/s2200/a].
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The proceeds of grants under this section may be used by an institution of higher education for the following purposes:
 

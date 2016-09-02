@@ -15,7 +15,7 @@
 
 ## § 1566a. Voting assistance: voter assistance offices
 
-    (a) __Designation of Offices on Military Installations as Voter Assistance Offices.—__ 
+    (a)  __Designation of Offices on Military Installations as Voter Assistance Offices__  __.—__ 
 
     Not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2010 and under regulations prescribed by the Secretary of Defense under subsection (f), the Secretaries of the military departments shall designate offices on installations under their jurisdiction to provide absent uniformed services voters, particularly those individuals described in subsection (b), and their family members with the following:
 
@@ -27,7 +27,7 @@
 
         (4) Information and assistance, if requested, to request an absentee ballot under the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.).
 
-    (b) __Covered Individuals.—__ 
+    (b)  __Covered Individuals__  __.—__ 
 
     The individuals described in this subsection are absent uniformed services voters who—
 
@@ -39,7 +39,7 @@
 
         (4) otherwise request assistance related to voter registration.
 
-    (c) __Timing of Provision of Assistance.—__ 
+    (c)  __Timing of Provision of Assistance__  __.—__ 
 
     The regulations prescribed by the Secretary of Defense under subsection (f) shall ensure, to the maximum extent practicable and consistent with military necessity, that the assistance provided under subsection (a) is provided to a covered individual described in subsection (b)—
 
@@ -51,7 +51,7 @@
 
         (4) if described in subsection (b)(4), at the time the covered individual requests such assistance.
 
-    (d) __Outreach.—__ 
+    (d)  __Outreach__  __.—__ 
 
     The Secretary of each military department, or the Presidential designee, shall take appropriate actions to inform absent uniformed services voters of the assistance available under subsection (a), including—
 
@@ -59,15 +59,15 @@
 
         (2) the time, location, and manner in which an absent uniformed services voter may utilize such assistance.
 
-    (e) __Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations.—__ 
+    (e)  __Authority To Designate Voting Assistance Offices as Voter Registration Agency on Military Installations__  __.—__ 
 
     The Secretary of Defense may authorize the Secretaries of the military departments to designate offices on military installations as voter registration agencies under section 7(a)(2) of the National Voter Registration Act of 1993 ([42 U.S.C. 1973gg–5(a)(2)][/us/usc/t42/s1973gg–5/a/2]) for all purposes of such Act. Any office so designated shall discharge the requirements of this section, under the regulations prescribed by the Secretary of Defense under subsection (f).
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations relating to the administration of the requirements of this section. The regulations shall be prescribed before the regularly scheduled general election for Federal office held in November 2010, and shall be implemented for such general election for Federal office and for each succeeding election for Federal office.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

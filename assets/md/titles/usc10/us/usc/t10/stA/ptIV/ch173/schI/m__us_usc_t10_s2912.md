@@ -15,11 +15,11 @@
 
 ## § 2912. Availability and use of energy cost savings
 
-    (a) __Availability.—__ 
+    (a)  __Availability__  __.—__ 
 
     An amount of the funds appropriated to the Department of Defense for a fiscal year that is equal to the amount of energy cost savings realized by the Department, including financial benefits resulting from shared energy savings contracts entered into under [section 2913 of this title][/us/usc/t10/s2913], shall remain available for obligation under subsection (b) until expended, without additional authorization or appropriation.
 
-    (b) __Use.—__ 
+    (b)  __Use__  __.—__ 
 
     The Secretary of Defense shall provide that the amount that remains available for obligation under subsection (a) and the funds made available under [section 2916(b)(2) of this title][/us/usc/t10/s2916/b/2] shall be used as follows:
 
@@ -35,11 +35,11 @@
 
             (C) any morale, welfare, or recreation facility or service.
 
-    (c) __Treatment of Certain Financial Incentives.—__ 
+    (c)  __Treatment of Certain Financial Incentives__  __.—__ 
 
     Financial incentives received from gas or electric utilities under [section 2913 of this title][/us/usc/t10/s2913] shall be credited to an appropriation designated by the Secretary of Defense. Amounts so credited shall be merged with the appropriation to which credited and shall be available for the same purposes and the same period as the appropriation with which merged.
 
-    (d) __Congressional Notification.—__ 
+    (d)  __Congressional Notification__  __.—__ 
 
     The Secretary of Defense shall include in the budget material submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105] a separate statement of the amounts available for obligation under this section in that fiscal year.
 

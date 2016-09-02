@@ -15,7 +15,7 @@
 
 ## § 14512. Separation at age 66: officers holding certain offices
 
-    (a) __Army and Air Force.—__ 
+    (a)  __Army and Air Force__  __.—__ 
 
         (1) Unless retired, transferred to the Retired Reserve, or discharged at an earlier date, a reserve officer of the Army or Air Force who is specified in paragraph (2) shall on the last day of the month in which the officer becomes 66 years of age, be separated in accordance with [section 14515 of this title][/us/usc/t10/s14515].
 
@@ -29,7 +29,7 @@
 
             (C) If a reserve officer of the Army, the commanding general of the troops of a State.
 
-    (b) __Navy and Marine Corps.—__ 
+    (b)  __Navy and Marine Corps__  __.—__ 
 
         (1) The Secretary of the Navy may defer the retirement under section 14510 or 14511 of a reserve officer of the Navy in a grade above captain or a reserve officer of the Marine Corps in a grade above colonel and retain the officer in an active status until the officer becomes 66 years of age. Not more than 10 officers may be so deferred at any one time, distributed between the Navy Reserve and the Marine Corps Reserve as the Secretary determines.
 

@@ -15,21 +15,21 @@
 
 ## § 1107. Notice of use of an investigational new drug or a drug unapproved for its applied use
 
-    (a) __Notice Required.—__ 
+    (a)  __Notice Required__  __.—__ 
 
         (1) Whenever the Secretary of Defense requests or requires a member of the armed forces to receive an investigational new drug or a drug unapproved for its applied use, the Secretary shall provide the member with notice containing the information specified in subsection (d).
 
         (2) The Secretary shall also ensure that health care providers who administer an investigational new drug or a drug unapproved for its applied use, or who are likely to treat members who receive such a drug, receive the information required to be provided under paragraphs (3) and (4) of subsection (d).
 
-    (b) __Time of Notice.—__ 
+    (b)  __Time of Notice__  __.—__ 
 
     The notice required to be provided to a member under subsection (a)(1) shall be provided before the investigational new drug or drug unapproved for its applied use is first administered to the member.
 
-    (c) __Form of Notice.—__ 
+    (c)  __Form of Notice__  __.—__ 
 
     The notice required under subsection (a)(1) shall be provided in writing.
 
-    (d) __Content of Notice.—__ 
+    (d)  __Content of Notice__  __.—__ 
 
     The notice required under subsection (a)(1) shall include the following:
 
@@ -41,7 +41,7 @@
 
         (4) Such other information that, as a condition of authorizing the use of the investigational new drug or drug unapproved for its applied use, the Secretary of Health and Human Services may require to be disclosed.
 
-    (e) __Records of Use.—__ 
+    (e)  __Records of Use__  __.—__ 
 
     The Secretary of Defense shall ensure that the medical records of members accurately document—
 
@@ -49,7 +49,7 @@
 
         (2) the notice required by subsection (a)(1).
 
-    (f) __Limitation and Waiver.—__ 
+    (f)  __Limitation and Waiver__  __.—__ 
 
         (1) In the case of the administration of an investigational new drug or a drug unapproved for its applied use to a member of the armed forces in connection with the member’s participation in a particular military operation, the requirement that the member provide prior consent to receive the drug in accordance with the prior consent requirement imposed under section 505(i)(4) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(i)(4)][/us/usc/t21/s355/i/4]) may be waived only by the President. The President may grant such a waiver only if the President determines, in writing, that obtaining consent is not in the interests of national security.
 
@@ -71,7 +71,7 @@
 
             (B) The term “prior consent requirement” means the requirement included in the relevant FDA regulations pursuant to section 505(i)(4) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 355(i)(4)][/us/usc/t21/s355/i/4]).
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

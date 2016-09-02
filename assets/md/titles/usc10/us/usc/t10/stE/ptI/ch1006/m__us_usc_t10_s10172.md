@@ -15,15 +15,15 @@
 
 ## § 10172. Navy Reserve Force
 
-    (a) __Establishment of Command.—__ 
+    (a)  __Establishment of Command__  __.—__ 
 
     The Secretary of the Navy, with the advice and assistance of the Chief of Naval Operations, shall establish a Navy Reserve Force. The Navy Reserve Force shall be operated as a separate command of the Navy.
 
-    (b) __Commander.—__ 
+    (b)  __Commander__  __.—__ 
 
     The Chief of Navy Reserve shall be the commander of the Navy Reserve Force. The commander of the Navy Reserve Force reports directly to the Chief of Naval Operations.
 
-    (c) __Assignment of Forces.—__ 
+    (c)  __Assignment of Forces__  __.—__ 
 
     The Secretary of the Navy—
 

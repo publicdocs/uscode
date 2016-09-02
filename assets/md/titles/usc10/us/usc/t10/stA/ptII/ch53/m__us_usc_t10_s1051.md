@@ -81,11 +81,11 @@
 
 [Pub. L. 111–383, div. A, title XII, § 1206][/us/pl/111/383/s1206], Jan. 7, 2011, [124 Stat. 4387][/us/stat/124/4387], provided that:
 
->     “(a) __Establishment of Scholarship Program.—__ 
+>     “(a)  __Establishment of Scholarship Program__  __.—__ 
 
 >     The Secretary of the Air Force may establish and maintain a demonstration scholarship program to allow personnel of the air forces of countries that are signatories of the Partnership for Peace Framework Document to receive undergraduate pilot training and necessary related training through the Euro-NATO Joint Jet Pilot Training (ENJJPT) program. The Secretary of the Air Force shall establish the program pursuant to regulations prescribed by the Secretary of Defense in consultation with the Secretary of State.
 
->     “(b) __Transportation, Supplies, and Allowance.—__ 
+>     “(b)  __Transportation, Supplies, and Allowance__  __.—__ 
 
 >     Under such conditions as the Secretary of the Air Force may prescribe, the Secretary may provide to a person receiving a scholarship under the scholarship program—
 
@@ -101,23 +101,23 @@
 
 >     “(c) __Relation to Euro-NATO Joint Jet Pilot Training Program.—__ 
 
->         “(1) __Enjjpt steering committee authority.—__ 
+>         “(1)  __Enjjpt steering committee authority__  __.—__ 
 
 >         Nothing in this section shall be construed or interpreted to supersede the authority of the ENJJPT Steering Committee under the ENJJPT Memorandum of Understanding. Pursuant to the ENJJPT Memorandum of Understanding, the ENJJPT Steering Committee may resolve to forbid any airman or airmen from a Partnership for Peace nation to participate in the Euro-NATO Joint Jet Pilot Training program under the authority of a scholarship under this section.
 
->         “(2) __No representation.—__ 
+>         “(2)  __No representation__  __.—__ 
 
 >         Countries whose air force personnel receive scholarships under the scholarship program shall not have privilege of ENJJPT Steering Committee representation.
 
->     “(d) __Limitation on Eligible Countries.—__ 
+>     “(d)  __Limitation on Eligible Countries__  __.—__ 
 
 >     The Secretary of the Air Force may not use the authority in subsection (a) to provide assistance described in subsection (b) to any foreign country that is otherwise prohibited from receiving such type of assistance under the Foreign Assistance Act of 1961 ([22 U.S.C. 2151][/us/usc/t22/s2151] et seq.) or any other provision of law.
 
->     “(e) __Cost-sharing.—__ 
+>     “(e)  __Cost-sharing__  __.—__ 
 
 >     For purposes of ENJJPT cost-sharing, personnel of an air force of a foreign country who receive a scholarship under the scholarship program may be counted as United States pilots.
 
->     “(f) __Progress Report.—__ 
+>     “(f)  __Progress Report__  __.—__ 
 
 >     Not later than February 1, 2012, the Secretary of the Air Force shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Committee on Foreign Affairs of the House of Representatives, and the Committee on Foreign Relations of the Senate a report on the status of the demonstration program, including the opinion of the Secretary and NATO allies on the benefits of the program and whether or not to permanently authorize the program or extend the program beyond fiscal year 2012. The report shall specify the following:
 
@@ -129,11 +129,11 @@
 
 >         “(4) The source of funding for scholarships under the scholarship program.
 
->     “(g) __Duration.—__ 
+>     “(g)  __Duration__  __.—__ 
 
 >     No scholarship may be awarded under the scholarship program after September 30, 2012.
 
->     “(h) __Funding Source.—__ 
+>     “(h)  __Funding Source__  __.—__ 
 
 >     Amounts to award scholarships under the scholarship program shall be derived from amounts authorized to be appropriated for operation and maintenance for the Air Force.”
 

@@ -15,11 +15,11 @@
 
 ## § 2330a. Procurement of services: tracking of purchases
 
-    (a) __Data Collection Required.—__ 
+    (a)  __Data Collection Required__  __.—__ 
 
     The Secretary of Defense shall establish a data collection system to provide management information with regard to each purchase of services by a military department or Defense Agency in excess of the simplified acquisition threshold, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement.
 
-    (b) __Data To Be Collected.—__ 
+    (b)  __Data To Be Collected__  __.—__ 
 
     The data required to be collected under subsection (a) includes the following:
 
@@ -53,7 +53,7 @@
 
             (C) a small business concern owned and controlled by women.
 
-    (c) __Inventory.—__ 
+    (c)  __Inventory__  __.—__ 
 
         (1)
 
@@ -91,7 +91,7 @@
 
         (3) The inventory required under this subsection shall be submitted in unclassified form, but may include a classified annex.
 
-    (d) __Public Availability of Inventories.—__ 
+    (d)  __Public Availability of Inventories__  __.—__ 
 
     Not later than 30 days after the date on which an inventory under subsection (c) is required to be submitted to Congress, the Secretary shall—
 
@@ -99,7 +99,7 @@
 
         (2) publish in the Federal Register a notice that the inventory is available to the public.
 
-    (e) __Review and Planning Requirements.—__ 
+    (e)  __Review and Planning Requirements__  __.—__ 
 
     Within 90 days after the date on which an inventory is submitted under subsection (c), the Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall—
 
@@ -123,7 +123,7 @@
 
             (B) to an acquisition approach that would be more advantageous to the Department of Defense.
 
-    (f) __Development of Plan and Enforcement and Approval Mechanisms.—__ 
+    (f)  __Development of Plan and Enforcement and Approval Mechanisms__  __.—__ 
 
     The Secretary of the military department or head of the Defense Agency responsible for activities in the inventory shall develop a plan, including an enforcement mechanism and approval process, to—
 
@@ -135,11 +135,11 @@
 
         (4) provide for appropriate consideration of the conversion of activities identified under subsection (e)(3) within a reasonable period of time.
 
-    (g) __Rule of Construction.—__ 
+    (g)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall be construed to authorize the performance of personal services by a contractor except where expressly authorized by a provision of law other than this section.
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -147,15 +147,15 @@
 
         (2) The definitions set forth in [section 2225(f) of this title][/us/usc/t10/s2225/f] for the terms “simplified acquisition threshold”, “small business concern”, “small business concern owned and controlled by socially and economically disadvantaged individuals”, and “small business concern owned and controlled by women” shall apply.
 
-        (3) __Function closely associated with inherently governmental functions.—__ 
+        (3)  __Function closely associated with inherently governmental functions__  __.—__ 
 
         The term “function closely associated with inherently governmental functions” has the meaning given that term in [section 2383(b)(3) of this title][/us/usc/t10/s2383/b/3].
 
-        (4) __Inherently governmental functions.—__ 
+        (4)  __Inherently governmental functions__  __.—__ 
 
         The term “inherently governmental functions” has the meaning given that term in [section 2383(b)(2) of this title][/us/usc/t10/s2383/b/2].
 
-        (5) __Personal services contract.—__ 
+        (5)  __Personal services contract__  __.—__ 
 
         The term “personal services contract” means a contract under which, as a result of its terms or conditions or the manner of its administration during performance, contractor personnel are subject to the relatively continuous supervision and control of one or more Government officers or employees, except that the giving of an order for a specific article or service, with the right to reject the finished product or result, is not the type of supervision or control that makes a contract a personal services contract.
 
@@ -195,7 +195,7 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 831, Oct. 14, 2008, [122 Stat. 4534][/us/stat/122/4534], provided that:
 
->     “(a) __Guidance Required.—__ 
+>     “(a)  __Guidance Required__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall develop guidance related to personal services contracts to—
 
@@ -205,7 +205,7 @@
 
 >         “(3) assess and take steps to mitigate the risk that, as implemented and administered, non-personal services contracts may become personal services contracts.
 
->     “(b) __Definition of Personal Services Contract.—__ 
+>     “(b)  __Definition of Personal Services Contract__  __.—__ 
 
 >     In this section, the term ‘personal services contract’ has the meaning given that term in section 2330a(g)(5) \[now 2330a(h)(5)\] of title 10, United States Code.”
 

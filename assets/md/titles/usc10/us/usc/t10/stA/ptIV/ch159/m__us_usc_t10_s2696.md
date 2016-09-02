@@ -15,15 +15,15 @@
 
 ## § 2696. Real property: transfer between armed forces and screening requirements for other Federal use
 
-    (a) __Transfers Between Armed Forces.—__ 
+    (a)  __Transfers Between Armed Forces__  __.—__ 
 
     If either of the Secretaries concerned requests it and the other approves, real property may be transferred, without compensation, from one armed force to another. [Section 2571(d) of this title][/us/usc/t10/s2571/d] shall apply to the transfer of real property under this subsection.
 
-    (b) __Screening Requirements for Additional Federal Use.—__ 
+    (b)  __Screening Requirements for Additional Federal Use__  __.—__ 
 
     The Secretary concerned may not convey real property that is authorized or required to be conveyed, whether for or without consideration, by any provision of law enacted after December 31, 1997, unless the Administrator of General Services has screened the property for further Federal use in accordance with subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41.
 
-    (c) __Time for Screening.—__ 
+    (c)  __Time for Screening__  __.—__ 
 
         (1)
 
@@ -37,11 +37,11 @@
 
         (2) If the Administrator fails to complete the screening and notify the Secretary concerned and Congress within such period, the Secretary concerned shall proceed with the conveyance of the real property as provided in the provision of law authorizing or requiring the conveyance.
 
-    (d) __Effect of Submission of Notice.—__ 
+    (d)  __Effect of Submission of Notice__  __.—__ 
 
     If the Administrator of General Services submits notice under subsection (c)(1) that further Federal use of a parcel of real property is requested by a Federal agency, the Secretary concerned may not proceed with the conveyance of the real property as provided in the provision of law authorizing or requiring the conveyance until the end of the 180-day period beginning on the date on which the notice is submitted to Congress.
 
-    (e) __Excepted Conveyance Authorities.—__ 
+    (e)  __Excepted Conveyance Authorities__  __.—__ 
 
     The screening requirements of subsection (b) shall not apply to real property authorized or required to be conveyed under any of the following provisions of law:
 
@@ -51,7 +51,7 @@
 
         (3) Any specific provision of law authorizing or requiring the transfer of administrative jurisdiction over a parcel of real property between Federal agencies.
 
-    (f) __Screening and Conveyance of Property for Correctional Facilities Purposes.—__ 
+    (f)  __Screening and Conveyance of Property for Correctional Facilities Purposes__  __.—__ 
 
         (1)
 

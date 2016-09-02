@@ -15,11 +15,11 @@
 
 ## § 444. Support from Central Intelligence Agency
 
-    (a) __Support Authorized.—__ 
+    (a)  __Support Authorized__  __.—__ 
 
     The Director of the Central Intelligence Agency may provide support in accordance with this section to the Director of the National Geospatial-Intelligence Agency. The Director of the National Geospatial-Intelligence Agency may accept support provided under this section.
 
-    (b) __Administrative and Contract Services.—__ 
+    (b)  __Administrative and Contract Services__  __.—__ 
 
         (1) In furtherance of the national intelligence effort, the Director of the Central Intelligence Agency may provide administrative and contract services to the National Geospatial-Intelligence Agency as if that agency were an organizational element of the Central Intelligence Agency.
 
@@ -27,15 +27,15 @@
 
         (3) Support provided under this subsection shall be provided under terms and conditions agreed upon by the Secretary of Defense and the Director of the Central Intelligence Agency.
 
-    (c) __Detail of Personnel.—__ 
+    (c)  __Detail of Personnel__  __.—__ 
 
     The Director of the Central Intelligence Agency may detail personnel of the Central Intelligence Agency indefinitely to the National Geospatial-Intelligence Agency without regard to any limitation on the duration of interagency details of Federal Government personnel.
 
-    (d) __Reimbursable or Nonreimbursable Support.—__ 
+    (d)  __Reimbursable or Nonreimbursable Support__  __.—__ 
 
     Support under this section may be provided and accepted on either a reimbursable basis or a nonreimbursable basis.
 
-    (e) __Authority To Transfer Funds.—__ 
+    (e)  __Authority To Transfer Funds__  __.—__ 
 
         (1) The Director of the National Geospatial-Intelligence Agency may transfer funds available for that agency to the Director of the Central Intelligence Agency for the Central Intelligence Agency.
 

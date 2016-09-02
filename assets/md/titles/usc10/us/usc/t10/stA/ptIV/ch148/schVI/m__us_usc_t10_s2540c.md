@@ -15,19 +15,19 @@
 
 ## § 2540c. Fees charged and collected
 
-    (a) __Exposure Fees.—__ 
+    (a)  __Exposure Fees__  __.—__ 
 
     The Secretary of Defense shall charge a fee (known as “exposure fee”) for each guarantee issued under this subchapter.
 
-    (b) __Amount of Exposure Fee.—__ 
+    (b)  __Amount of Exposure Fee__  __.—__ 
 
     To the extent that the cost of the loan guarantees under this subchapter is not otherwise provided for in appropriations Acts, the fee imposed under subsection (a) with respect to a loan guarantee shall be fixed in an amount that is sufficient to meet potential liabilities of the United States under the loan guarantee.
 
-    (c) __Payment Terms.—__ 
+    (c)  __Payment Terms__  __.—__ 
 
     The fee under subsection (a) for each guarantee shall become due as the guarantee is issued. In the case of a guarantee for a loan which is disbursed incrementally, and for which the guarantee is correspondingly issued incrementally as portions of the loan are disbursed, the fee shall be paid incrementally in proportion to the amount of the guarantee that is issued.
 
-    (d) __Administrative Fees.—__ 
+    (d)  __Administrative Fees__  __.—__ 
 
         (1) The Secretary of Defense shall charge a fee for each guarantee issued under this subchapter to reflect the additional administrative costs of the Department of Defense that are directly attributable to the administration of the program under this subchapter. Such fees shall be credited to a special account in the Treasury. Amounts in the special account shall be available, to the extent and in amounts provided in appropriations Acts, for paying the costs of administrative expenses of the Department of Defense that are attributable to the loan guarantee program under this subchapter.
 
@@ -47,11 +47,11 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1081(b), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–284, provided that:
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Paragraph (2) of [section 2540c(d) of title 10][/us/usc/t10/s2540c/d], United States Code, as added by subsection (a), shall take effect on October 1, 2000.
 
->     “(c) __Limitation Pending Submission of Report.—__ 
+>     “(c)  __Limitation Pending Submission of Report__  __.—__ 
 
 >     The Secretary of Defense may not exercise the authority provided by paragraph (2) of [section 2540c(d) of title 10][/us/usc/t10/s2540c/d], United States Code, as added by subsection (a), until the Secretary submits to Congress a report on the operation of the Defense Export Loan Guarantee Program under subchapter V of chapter 148 of title 10, United States Code. The report shall include the following:
 

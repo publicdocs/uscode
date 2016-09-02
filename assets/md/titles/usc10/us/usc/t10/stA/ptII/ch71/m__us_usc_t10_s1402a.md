@@ -15,7 +15,7 @@
 
 ## § 1402a. Recomputation of retired or retainer pay to reflect later active duty of members who first became members after September 7, 1980
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A member of an armed force—
 
@@ -85,11 +85,11 @@
 
         </table>
 
-    (b) __New Disability Incurred During Later Active Duty.—__ 
+    (b)  __New Disability Incurred During Later Active Duty__  __.—__ 
 
     A member of an armed force who first became a member of a uniformed service after September 7, 1980, who has been retired other than for physical disability and who while on active duty incurs a physical disability of at least 30 percent for which he would otherwise be eligible for retired pay under chapter 61 of this title, is entitled, upon his release from active duty, to retired pay under subsection (d).
 
-    (c) __Additional or Aggravated Disability Incurred During Later Active Duty.—__ 
+    (c)  __Additional or Aggravated Disability Incurred During Later Active Duty__  __.—__ 
 
     A member of an armed force who first became a member of a uniformed service after September 7, 1980, and who—
 
@@ -101,7 +101,7 @@
 
         is entitled, upon his release from active duty, to retired pay under subsection (d).
 
-    (d) __Computation for Later Disability.—__ 
+    (d)  __Computation for Later Disability__  __.—__ 
 
     A member of an armed force covered by subsection (b) or (c) may elect to receive either (1) the retired pay to which he became entitled when he retired, increased by any applicable adjustments in that pay under [section 1401a of this title][/us/usc/t10/s1401a] after he initially became entitled to that pay, or (2) retired pay computed according to the following table.
 
@@ -161,7 +161,7 @@
 
     </table>
 
-    (e) __Alternative Recomputation to Subsection (a) Formula.—__ 
+    (e)  __Alternative Recomputation to Subsection__  __(a)__  __Formula__  __.—__ 
 
     Notwithstanding subsection (a), a member covered by that subsection may elect, upon his release from that active duty, to have his retired pay or retainer pay—
 
@@ -169,7 +169,7 @@
 
         (2) increased by any applicable adjustments in that pay under [section 1401a of this title][/us/usc/t10/s1401a] after he initially became entitled to that pay.
 
-    (f) __Additional 10 Percent for Certain Enlisted Members Credited With Extraordinary Heroism.—__ 
+    (f)  __Additional__  __10__  __Percent for Certain Enlisted Members Credited With Extraordinary Heroism__  __.—__ 
 
         (1) In the case of a member who is entitled to recompute retired pay under this section upon release from active duty served after retiring under section 3914 or 8914 of this title, the member’s retired pay as recomputed under another provision of this section shall be increased by 10 percent of the amount so recomputed if the member has been credited by the Secretary concerned with extraordinary heroism in the line of duty during any period of active duty service in the armed forces.
 

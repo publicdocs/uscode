@@ -15,7 +15,7 @@
 
 ## § 1110a. Notification of certain individuals regarding options for enrollment under Medicare part B
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) consult with the Secretary of Health and Human Services to accurately identify and notify such individuals.
 
-    (b) __Individuals Described.—__ 
+    (b)  __Individuals Described__  __.—__ 
 
     An individual described in this subsection is an individual who is—
 

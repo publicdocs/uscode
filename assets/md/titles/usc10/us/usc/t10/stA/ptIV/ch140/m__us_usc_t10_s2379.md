@@ -15,7 +15,7 @@
 
 ## § 2379. Requirement for determination by Secretary of Defense and notification to Congress before procurement of major weapon systems as commercial items
 
-    (a) __Requirement for Determination and Notification.—__ 
+    (a)  __Requirement for Determination and Notification__  __.—__ 
 
     A major weapon system of the Department of Defense may be treated as a commercial item, or purchased under procedures established for the procurement of commercial items, only if—
 
@@ -31,7 +31,7 @@
 
         (3) the congressional defense committees are notified at least 30 days before such treatment or purchase occurs.
 
-    (b) __Treatment of Subsystems as Commercial Items.—__ 
+    (b)  __Treatment of Subsystems as Commercial Items__  __.—__ 
 
     A subsystem of a major weapon system (other than a commercially available off-the-shelf item as defined in section 35(c) 1 of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])) shall be treated as a commercial item and purchased under procedures established for the procurement of commercial items only if—
 
@@ -45,7 +45,7 @@
 
             (B) the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such subsystem.
 
-    (c) __Treatment of Components and Spare Parts as Commercial Items.—__ 
+    (c)  __Treatment of Components and Spare Parts as Commercial Items__  __.—__ 
 
         (1)
 
@@ -69,7 +69,7 @@
 
         (2) This subsection shall apply only to components and spare parts that are acquired by the Department of Defense through a prime contract or a modification to a prime contract (or through a subcontract under a prime contract or modification to a prime contract on which the prime contractor adds no, or negligible, value).
 
-    (d) __Information Submitted.—__ 
+    (d)  __Information Submitted__  __.—__ 
 
     To the extent necessary to make a determination under subsection (a)(2), (b)(2), or (c)(1)(B), the contracting officer may request the offeror to submit—
 
@@ -77,11 +77,11 @@
 
         (2) if the contracting officer determines that the information described in paragraph (1) is not sufficient to determine the reasonableness of price, other relevant information regarding the basis for price or cost, including information on labor costs, material costs, and overhead rates.
 
-    (e) __Delegation.—__ 
+    (e)  __Delegation__  __.—__ 
 
     The authority of the Secretary of Defense to make a determination under subsection (a) may be delegated only to the Deputy Secretary of Defense, without further redelegation.
 
-    (f) __Major Weapon System Defined.—__ 
+    (f)  __Major Weapon System Defined__  __.—__ 
 
     In this section, the term “major weapon system” means a weapon system acquired pursuant to a major defense acquisition program (as that term is defined in [section 2430 of this title][/us/usc/t10/s2430]).
 

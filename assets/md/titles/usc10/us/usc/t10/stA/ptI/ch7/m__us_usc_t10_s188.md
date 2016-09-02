@@ -15,11 +15,11 @@
 
 ## § 188. Interagency Council on the Strategic Capability of the National Laboratories
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is an Interagency Council on the Strategic Capability of the National Laboratories (in this section referred to as the “Council”).
 
-    (b) __Membership.—__ 
+    (b)  __Membership__  __.—__ 
 
     The membership of the Council is comprised of the following:
 
@@ -35,11 +35,11 @@
 
         (6) Such other officials as the President considers appropriate.
 
-    (c) __Structure and Procedures.—__ 
+    (c)  __Structure and Procedures__  __.—__ 
 
     The President may determine the chair, structure, staff, and procedures of the Council.
 
-    (d) __Responsibilities.—__ 
+    (d)  __Responsibilities__  __.—__ 
 
     The Council shall be responsible for the following matters:
 
@@ -73,7 +73,7 @@
 
             (B) the use of the strategic capabilities of such laboratories.
 
-    (e) __Streamlined Process.—__ 
+    (e)  __Streamlined Process__  __.—__ 
 
     With respect to the participating agency for which a member of the Council is the head of, each member of the Council shall—
 
@@ -81,7 +81,7 @@
 
         (2) ensure that such processes are used in accordance with the criteria established under subsection (d)(4).
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -107,7 +107,7 @@
 
 [Pub. L. 112–239, div. A, title X, § 1040(c)][/us/pl/112/239/s1040/c], Jan. 2, 2013, [126 Stat. 1930][/us/stat/126/1930], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than September 30, 2013, the Interagency Council on the Strategic Capability of the National Laboratories established under [section 188 of title 10][/us/usc/t10/s188], United States Code, as added by subsection (a), shall submit to the appropriate congressional committees a report describing and assessing the following:
 
@@ -133,11 +133,11 @@
 
 >             “(ii) the Department of Energy and the national laboratories and carried out at the laboratories and engineering centers of the Department of Defense.
 
->     “(2) __Form.—__ 
+>     “(2)  __Form__  __.—__ 
 
 >     The report required by paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
->     “(3) __Appropriate congressional committees defined.—__ 
+>     “(3)  __Appropriate congressional committees defined__  __.—__ 
 
 >     In this subsection, the term ‘appropriate congressional committees’ means the following:
 

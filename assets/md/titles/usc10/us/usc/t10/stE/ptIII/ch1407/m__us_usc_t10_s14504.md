@@ -15,15 +15,15 @@
 
 ## § 14504. Effect of failure of selection for promotion: reserve first lieutenants of the Army, Air Force, and Marine Corps and reserve lieutenants (junior grade) of the Navy
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     A first lieutenant on the reserve active-status list of the Army, Air Force, or Marine Corps or a lieutenant (junior grade) on the reserve active-status list of the Navy who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall be separated in accordance with [section 14513 of this title][/us/usc/t10/s14513] not later than the first day of the seventh month after the month in which the President approves the report of the board which considered the officer for the second time.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) does not apply (1) in the case of an officer retained as provided by regulation of the Secretary of the military department concerned in order to meet planned mobilization needs for a period not in excess of 24 months beginning with the date on which the President approves the report of the selection board which resulted in the second failure, or (2) as provided in section 12646 or 12686 of this title.
 
-    (c) __Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Fully Qualified for Promotion.—__ 
+    (c)  __Officers in Grade of First Lieutenant or Lieutenant (Junior Grade) Found Not Fully Qualified for Promotion__  __.—__ 
 
     For the purposes of this chapter, an officer of the Army, Air Force, or Marine Corps on a reserve active-status list who holds the grade of first lieutenant, and an officer of the Navy on a reserve active-status list who holds the grade of lieutenant (junior grade), shall be treated as having failed of selection for promotion if the Secretary of the military department concerned determines that the officer would be eligible for consideration for promotion to the next higher grade by a selection board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] if such a board were convened but is not fully qualified for promotion when recommending for promotion under [section 14308(b)(4) of this title][/us/usc/t10/s14308/b/4] all fully qualified officers of the officer’s armed force in such grade who would be eligible for such consideration.
 

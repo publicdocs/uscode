@@ -15,15 +15,15 @@
 
 ## § 6222. United States Marine Band; United States Marine Drum and Bugle Corps: composition; appointment and promotion of members
 
-    (a) __United States Marine Band.—__ 
+    (a)  __United States Marine Band__  __.—__ 
 
     The band of the Marine Corps shall be composed of one director, two assistant directors, and other personnel in such numbers and grades as the Secretary of the Navy determines to be necessary.
 
-    (b) __United States Marine Drum and Bugle Corps.—__ 
+    (b)  __United States Marine Drum and Bugle Corps__  __.—__ 
 
     The drum and bugle corps of the Marine Corps shall be composed of one commanding officer and other personnel in such numbers and grades as the Secretary of the Navy determines to be necessary.
 
-    (c) __Appointment and Promotion.—__ 
+    (c)  __Appointment and Promotion__  __.—__ 
 
         (1) The Secretary of the Navy shall prescribe regulations for the appointment and promotion of members of the Marine Band and members of the Marine Drum and Bugle Corps.
 
@@ -31,11 +31,11 @@
 
         (3) The President, by and with the advice and consent of the Senate, may from time to time appoint any member of the Marine Band or of the Marine Drum and Bugle Corps to a grade above the grade of captain.
 
-    (d) __Retirement.—__ 
+    (d)  __Retirement__  __.—__ 
 
     Unless otherwise entitled to higher retired grade and retired pay, a member of the Marine Band or Marine Drum and Bugle Corps who holds, or has held, an appointment under this section is entitled, when retired, to be retired in, and with retired pay based on, the highest grade held under this section in which the Secretary of the Navy determines that such member served satisfactorily.
 
-    (e) __Revocation of Appointment.—__ 
+    (e)  __Revocation of Appointment__  __.—__ 
 
     The Secretary of the Navy may revoke any appointment of a member of the Marine Band or Marine Drum and Bugle Corps. When a member’s appointment to a commissioned grade terminates under this subsection, such member is entitled, at the option of such member—
 

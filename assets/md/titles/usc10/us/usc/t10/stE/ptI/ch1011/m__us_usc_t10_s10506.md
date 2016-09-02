@@ -15,7 +15,7 @@
 
 ## § 10506. Other senior National Guard Bureau officers
 
-    (a) __Additional General Officers.—__ 
+    (a)  __Additional General Officers__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
             (E) The Director, Army National Guard, and the Director, Air National Guard, are appointed for a period of four years, but may be removed for cause at any time. An officer serving as either Director may be reappointed for one additional four-year period.
 
-    (b) __Other Officers.—__ 
+    (b)  __Other Officers__  __.—__ 
 
     There are in the National Guard Bureau a legal counsel, a comptroller, and an inspector general, each of whom shall be appointed by the Chief of the National Guard Bureau. They shall perform such duties as the Chief may prescribe.
 

@@ -59,11 +59,11 @@
 
 [Pub. L. 100–180, div. A, title IV, § 402][/us/pl/100/180/s402], Dec. 4, 1987, [101 Stat. 1081][/us/stat/101/1081], as amended by [Pub. L. 100–456, div. A, title IV, § 402(b)][/us/pl/100/456/s402/b], Sept. 29, 1988, [102 Stat. 1963][/us/stat/102/1963], provided that:
 
->     “(a) __Authority To Increase for Fiscal Year 1988.—__ 
+>     “(a)  __Authority To Increase for Fiscal Year__  __1988.—__ 
 
 >     Subject to subsection (b), the Secretary of Defense may increase by not more than 1 percentage point (to not more than 98 percent) the percentage limitation prescribed in section 403(a) of the National Defense Authorization Act for Fiscal Year 1987 ([Public Law 99–661][/us/pl/99/661]; [100 Stat. 3859][/us/stat/100/3859]) \[set out below\] applicable to the total number of commissioned officers of the Army, Navy, Air Force, and Marine Corps that may be serving on active duty as of September 30, 1988.
 
->     “(b) __Certification and Report.—__ 
+>     “(b)  __Certification and Report__  __.—__ 
 
 >     The Secretary may exercise the authority under subsection (a) only if—
 
@@ -73,7 +73,7 @@
 
 [Pub. L. 99–661, div. A, title IV, § 403][/us/pl/99/661/s403], Nov. 14, 1986, [100 Stat. 3859][/us/stat/100/3859], as amended by [Pub. L. 100–456, div. A, title IV, § 402(a)][/us/pl/100/456/s402/a], Sept. 29, 1988, [102 Stat. 1963][/us/stat/102/1963]; [Pub. L. 101–189, div. A, title VI, § 653(e)(2)][/us/pl/101/189/s653/e/2], Nov. 29, 1989, [103 Stat. 1463][/us/stat/103/1463]; [Pub. L. 103–337, div. A, title XVI, § 1677(e)][/us/pl/103/337/s1677/e], Oct. 5, 1994, [108 Stat. 3020][/us/stat/108/3020], provided that:
 
->     “(a) __Reduction in Size of Officer Corps.—__ 
+>     “(a)  __Reduction in Size of Officer Corps__  __.—__ 
 
 >     On and after each of the dates set forth in column 1 of the following table, the total number of commissioned officers serving on active duty in the Army, Navy, Air Force, and Marine Corps (excluding officers in categories specified in subsection (b)) may not exceed the percentage, set forth in column 2 opposite such date, of the total number of commissioned officers serving on active duty as of September 30, 1986 (excluding officers in categories specified in subsection (b)):
 
@@ -141,7 +141,7 @@
 
 >     </table>
 
->     “(b) __Exclusions.—__ 
+>     “(b)  __Exclusions__  __.—__ 
 
 >     In computing the authorized strength of commissioned officers under subsection (a), officers in the following categories shall be excluded:
 
@@ -165,7 +165,7 @@
 
 >         “(3) Reserve or retired officers on active duty under section 10(b)(2) of the Military Selective Service Act (50 U.S.C. App. 460(b)(2)) for the administration of the Selective Service System.
 
->     “(c) __Apportionment of Reductions by Secretary of Defense.—__ 
+>     “(c)  __Apportionment of Reductions by Secretary of Defense__  __.—__ 
 
 >     The Secretary of Defense shall apportion the reductions in the number of commissioned officers serving on active duty required by subsection (a) among the Army, Navy, Air Force, and Marine Corps. Not later than February 1 of each fiscal year in which reductions are required under subsection (a), the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the manner in which the reductions have been or are to be apportioned for that fiscal year and for the next fiscal year for which such reductions are required.”
 

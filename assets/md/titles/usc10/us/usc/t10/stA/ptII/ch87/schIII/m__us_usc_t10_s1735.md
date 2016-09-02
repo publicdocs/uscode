@@ -15,11 +15,11 @@
 
 ## § 1735. Education, training, and experience requirements for critical acquisition positions
 
-    (a) __Qualification Requirements.—__ 
+    (a)  __Qualification Requirements__  __.—__ 
 
     In establishing the education, training, and experience requirements under [section 1723 of this title][/us/usc/t10/s1723] for critical acquisition positions, the Secretary of Defense shall, at a minimum, include the requirements set forth in subsections (b) through (e).
 
-    (b) __Program Managers and Deputy Program Managers.—__ 
+    (b)  __Program Managers and Deputy Program Managers__  __.—__ 
 
     Before being assigned to a position as a program manager or deputy program manager of a major defense acquisition program or a significant nonmajor defense acquisition program, a person—
 
@@ -39,7 +39,7 @@
 
             (D) a deputy program manager of a significant nonmajor defense acquisition program, must have at least four years of experience in acquisition.
 
-    (c) __Program Executive Officers.—__ 
+    (c)  __Program Executive Officers__  __.—__ 
 
     Before being assigned to a position as a program executive officer, a person—
 
@@ -49,11 +49,11 @@
 
         (3) must have held a position as a program manager or a deputy program manager.
 
-    (d) __General and Flag Officers and Civilians in Equivalent Positions.—__ 
+    (d)  __General and Flag Officers and Civilians in Equivalent Positions__  __.—__ 
 
     Before a general or flag officer, or a civilian serving in a position equivalent in grade to the grade of such an officer, may be assigned to a critical acquisition position, the person must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position.
 
-    (e) __Senior Contracting Officials.—__ 
+    (e)  __Senior Contracting Officials__  __.—__ 
 
     Before a person may be assigned to a critical acquisition position as a senior contracting official, the person must have at least four years experience in contracting.
 

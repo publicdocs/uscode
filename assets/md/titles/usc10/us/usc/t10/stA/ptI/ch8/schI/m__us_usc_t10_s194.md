@@ -15,23 +15,23 @@
 
 ## § 194. Limitations on personnel
 
-    (a) __Cap on Headquarters Management Personnel.—__ 
+    (a)  __Cap on Headquarters Management Personnel__  __.—__ 
 
     The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the management headquarters activities or management headquarters support activities in the Defense Agencies and Department of Defense Field Activities may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989.
 
-    (b) __Cap on Other Personnel.—__ 
+    (b)  __Cap on Other Personnel__  __.—__ 
 
     The total number of members of the armed forces and civilian employees assigned or detailed to permanent duty in the Defense Agencies and Department of Defense Field Activities, other than members and employees assigned to management headquarters activities or management headquarters support activities, may not exceed the number that is the number of such members and employees assigned or detailed to such duty on September 30, 1989.
 
-    (c) __Prohibition Against Certain Actions to Exceed Limitations.—__ 
+    (c)  __Prohibition Against Certain Actions to Exceed Limitations__  __.—__ 
 
     The limitations in subsections (a) and (b) may not be exceeded by re­categorizing or redefining duties, functions, offices, or organizations.
 
-    (d) __Exclusion of NSA.—__ 
+    (d)  __Exclusion of NSA__  __.—__ 
 
     The National Security Agency shall be excluded in computing and maintaining the limitations required by this section.
 
-    (e) __Waiver.—__ 
+    (e)  __Waiver__  __.—__ 
 
     The limitations in this section do not apply—
 
@@ -39,7 +39,7 @@
 
         (2) during a national emergency declared by the President or Congress.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section, the terms “management headquarters activities” and “management headquarters support activities” have the meanings given those terms in Department of Defense Directive 5100.73, entitled “Department of Defense Management Headquarters and Headquarters Support Activities” and dated January 7, 1985.
 
@@ -63,7 +63,7 @@
 
 [Pub. L. 99–433, title VI, § 601][/us/pl/99/433/s601], Oct. 1, 1986, [100 Stat. 1064][/us/stat/100/1064], as amended by [Pub. L. 100–180, div. A, title XIII, § 1312][/us/pl/100/180/s1312], Dec. 4, 1987, [101 Stat. 1174][/us/stat/101/1174]; [Pub. L. 101–189, div. A, title XVI, § 1622(h)(2)][/us/pl/101/189/s1622/h/2], Nov. 29, 1989, [103 Stat. 1606][/us/stat/103/1606], provided that:
 
->     “(a) __Military Departments and Combatant Commands.—__ 
+>     “(a)  __Military Departments and Combatant Commands__  __.—__ 
 
 >         (1) The total number of members of the Armed Forces and civilian employees assigned or detailed to duty described in paragraph (2) may not exceed the number equal to 90 percent of the total number of such members and employees assigned or detailed to such duty on September 30, 1986.
 
@@ -83,7 +83,7 @@
 
 >         “(4) If the Secretary of Defense applies any reduction in personnel required by the limitation in paragraph (1) to a unified or specified combatant command, the commander of that command, after consulting with his directly subordinate commanders, shall determine the manner in which the reduction shall be accomplished.
 
->     “(b) __Defense Agencies and DOD Field Activities.—__ 
+>     “(b)  __Defense Agencies and DOD Field Activities__  __.—__ 
 
 >         (1)
 
@@ -103,25 +103,25 @@
 
 >         “(4) The National Security Agency shall be excluded in computing and making reductions under this subsection.
 
->     “(c) __Prohibition Against Certain Actions To Achieve Reductions.—__ 
+>     “(c)  __Prohibition Against Certain Actions To Achieve Reductions__  __.—__ 
 
 >     Compliance with the limitations and reductions required by subsections (a) and (b) may not be accomplished by recategorizing or redefining duties, functions, offices, or organizations.
 
->     “(d) __Allocations To Be Made by Secretary of Defense.—__ 
+>     “(d)  __Allocations To Be Made by Secretary of Defense__  __.—__ 
 
 >         (1) The Secretary of Defense shall allocate the reductions required to comply with the limitations in subsections (a) and (b) in a manner consistent with the efficient operation of the Department of Defense. If the Secretary determines that national security requirements dictate that a reduction (or any portion of a reduction) required by subsection (b) not be made from the Defense Agencies and Department of Defense Field Activities, the Secretary may allocate such reduction (or any portion of such reduction) (A) to personnel assigned or detailed to permanent duty in management headquarters activities or management headquarters support activities, or (B) to personnel assigned or detailed to permanent duty in other than management headquarters activities or management headquarters support activities, as the case may be, of the Department of Defense other than the Defense Agencies and Department of Defense Field Activities.
 
 >         “(2) Among the actions that are taken to carry out the reductions required by subsections (a) and (b), the Secretary shall consolidate and eliminate unnecessary management headquarters activities and management headquarters support activities.
 
->     “(e) __Total Reductions.—__ 
+>     “(e)  __Total Reductions__  __.—__ 
 
 >     Reductions in personnel required to be made under this section are in addition to any reductions required to be made under other provisions of this Act or any amendment made by this Act \[see Short Title of 1986 Amendment note set out under section 111 of the title\].
 
->     “(f) __Exclusion.—__ 
+>     “(f)  __Exclusion__  __.—__ 
 
 >     In computing and making reductions under this section, there shall be excluded not more than 1,600 personnel transferred during fiscal year 1988 from the General Services Administration to the Department of Defense for the purpose of having the Department of Defense assume responsibility for the management, operation, and administration of certain real property under the jurisdiction of that Department.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     For purposes of this section, the terms ‘management headquarters activities’ and ‘management headquarters support activities’ have the meanings given those terms in Department of Defense Directive 5100.73, entitled ‘Department of Defense Management Headquarters and Headquarters Support Activities’ and dated January 7, 1985.”
 

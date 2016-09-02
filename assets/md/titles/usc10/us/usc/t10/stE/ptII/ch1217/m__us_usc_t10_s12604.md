@@ -15,11 +15,11 @@
 
 ## § 12604. Billeting in Department of Defense facilities: Reserves attending inactive-duty training
 
-    (a) __Authority for Billeting on Same Basis as Active Duty Members Traveling Under Orders.—__ 
+    (a)  __Authority for Billeting on Same Basis as Active Duty Members Traveling Under Orders__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations authorizing a Reserve traveling to inactive-duty training at a location more than 50 miles from that Reserve’s residence to be eligible for billeting in Department of Defense facilities on the same basis and to the same extent as a member of the armed forces on active duty who is traveling under orders away from the member’s permanent duty station.
 
-    (b) __Proof of Reason for Travel.—__ 
+    (b)  __Proof of Reason for Travel__  __.—__ 
 
     The Secretary shall include in the regulations the means for confirming a Reserve’s eligibility for billeting under subsection (a).
 

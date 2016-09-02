@@ -15,11 +15,11 @@
 
 ## § 1222. Physical evaluation boards
 
-    (a) __Response to Applications and Appeals.—__ 
+    (a)  __Response to Applications and Appeals__  __.—__ 
 
     The Secretary of each military department shall ensure, in the case of any member of the armed forces appearing before a physical evaluation board under that Secretary’s supervision, that documents announcing a decision of the board in the case convey the findings and conclusions of the board in an orderly and itemized fashion with specific attention to each issue presented by the member in regard to that member’s case. The requirement under the preceding sentence applies to a case both during initial consideration and upon subsequent consideration due to appeal by the member or other circumstance.
 
-    (b) __Liaison Officer (PEBLO) Requirements and Training.—__ 
+    (b)  __Liaison Officer (PEBLO) Requirements and Training__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) The Secretary shall ensure compliance by the Secretary of each military department with physical evaluation board liaison officer requirements and training standards and guidelines at least once every three years.
 
-    (c) __Standardized Staff Training and Operations.—__ 
+    (c)  __Standardized Staff Training and Operations__  __.—__ 
 
         (1)
 
@@ -57,7 +57,7 @@
 
 [Pub. L. 112–239, div. A, title V, § 524][/us/pl/112/239/s524], Jan. 2, 2013, [126 Stat. 1723][/us/stat/126/1723], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall standardize, assess, and monitor the quality assurance programs of the military departments to evaluate the following in the performance of their duties (including duties under chapter 61 of title 10, United States Code):
 
@@ -67,7 +67,7 @@
 
 >         “(3) Physical Evaluation Board Liaison Officers.
 
->     “(b) __Objectives.—__ 
+>     “(b)  __Objectives__  __.—__ 
 
 >     The objectives of the quality assurance program shall be as follows:
 
@@ -77,17 +77,17 @@
 
 >         “(3) Such other objectives as the Secretary shall specify for purposes of the quality assurance program.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
->         “(1) __Report on implementation.—__ 
+>         “(1)  __Report on implementation__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary shall submit to the appropriate committees of Congress a report setting forth the plan of the Secretary for the implementation of the requirements of this section.
 
->         “(2) __Annual reports.—__ 
+>         “(2)  __Annual reports__  __.—__ 
 
 >         Not later than one year after the date of the submittal of the report required by paragraph (1), and annually thereafter for the next four years, the Secretary shall submit to the appropriate committees of Congress a report setting forth an assessment of the implementation of the requirements of this section during the one-year period ending on the date of the report under this paragraph. Each report shall include, in particular, an assessment of the extent to which the quality assurance program under the requirements of this section meets the objectives specified in subsection (b).
 
->         “(3) __Appropriate committees of congress defined.—__ 
+>         “(3)  __Appropriate committees of congress defined__  __.—__ 
 
 >         In this subsection, the term ‘appropriate committees of Congress’ means—
 

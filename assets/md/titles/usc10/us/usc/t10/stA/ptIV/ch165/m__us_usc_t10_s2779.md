@@ -15,7 +15,7 @@
 
 ## § 2779. Use of funds because of fluctuations in currency exchange rates of foreign countries
 
-    (a) __Transfers Back to Foreign Currency Fluctuations Appropriation.—__ 
+    (a)  __Transfers Back to Foreign Currency Fluctuations Appropriation__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) A transfer back to the Foreign Currency Fluctuations, Defense appropriation may not be made after the end of the second fiscal year after the fiscal year that the appropriation to which the funds were originally transferred is available for obligation.
 
-    (b) __Funding for Losses in Military Construction and Family Housing.—__ 
+    (b)  __Funding for Losses in Military Construction and Family Housing__  __.—__ 
 
         (1) One hundred million dollars, plus $25,000,000 from Family Housing, Defense, are appropriated to the Secretary of Defense, to remain available until spent. The appropriation is available only to provide funds to eliminate losses in military construction or expenses of family housing for the Department of Defense caused by fluctuations in currency exchange rates of foreign countries that changed after a budget request was submitted to Congress.
 
@@ -35,11 +35,11 @@
 
         (3) An obligation payable in the currency of a foreign country may be recorded as an obligation based on exchange rates used in preparing a budget submission. A change reflecting fluctuations in the exchange rate may be recorded as a disbursement is made.
 
-    (c) __Transfers to Military Personnel Accounts.—__ 
+    (c)  __Transfers to Military Personnel Accounts__  __.—__ 
 
     The Secretary of Defense may transfer funds to military personnel appropriations for a fiscal year out of funds available to the Department of Defense for that fiscal year under the appropriation “Foreign Currency Fluctuations, Defense”.
 
-    (d) __Transfers to Foreign Currency Fluctuations Account.—__ 
+    (d)  __Transfers to Foreign Currency Fluctuations Account__  __.—__ 
 
         (1) The Secretary of Defense may transfer to the appropriation “Foreign Currency Fluctuations, Defense” unobligated amounts of funds appropriated for operation and maintenance and unobligated amounts of funds appropriated for military personnel.
 
@@ -47,7 +47,7 @@
 
         (3) Any transfer made pursuant to the authority provided in this subsection shall be limited so that the amount in the appropriation “Foreign Currency Fluctuations, Defense” does not exceed $970,000,000 at the time the transfer is made.
 
-    (e) __Conditions of Availability for Transferred Funds.—__ 
+    (e)  __Conditions of Availability for Transferred Funds__  __.—__ 
 
     Amounts transferred under subsection (c) or (d) shall be merged with and be available for the same purposes and for the same period as the appropriations to which transferred.
 

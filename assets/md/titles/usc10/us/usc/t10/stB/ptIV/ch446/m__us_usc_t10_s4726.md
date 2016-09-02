@@ -15,11 +15,11 @@
 
 ## § 4726. Oversight and inspections
 
-    (a) __Inspections Required.—__ 
+    (a)  __Inspections Required__  __.—__ 
 
     The Secretary of the Army shall provide for the oversight of the Cemeteries to ensure the highest quality standards are maintained by providing for the periodic inspection of the administration, operation and maintenance, and construction elements applicable to the Cemeteries. The inspections shall be conducted by personnel of the Department of the Army with the assistance, as the Secretary considers appropriate, of personnel from other Federal agencies and civilian experts.
 
-    (b) __Submission of Results.—__ 
+    (b)  __Submission of Results__  __.—__ 
 
     Not later than 120 days after the completion of an inspection conducted under subsection (a), the Secretary of the Army shall submit to the congressional defense committees a report containing the results of the inspection and recommendations and a plan for corrective actions to be taken in response to the inspection.
 

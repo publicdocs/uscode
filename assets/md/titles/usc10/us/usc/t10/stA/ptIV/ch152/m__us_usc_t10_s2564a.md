@@ -15,7 +15,7 @@
 
 ## § 2564a. Provision of assistance for adaptive sports programs for members of the armed forces
 
-    (a) __Program Authorized.—__ 
+    (a)  __Program Authorized__  __.—__ 
 
         (1) The Secretary of Defense may establish a military adaptive sports program to support the provision of adaptive sports programming for members of the armed forces who are eligible to participate in adaptive sports because of an injury or wound incurred in the line of duty in the armed forces.
 
@@ -27,13 +27,13 @@
 
             (B) avoid duplicating programs conducted by the Secretary of Veterans Affairs under [section 521A of title 38][/us/usc/t38/s521A].
 
-    (b) __Provision of Assistance; Purpose.—__ 
+    (b)  __Provision of Assistance; Purpose__  __.—__ 
 
         (1) Under such criteria as the Secretary of Defense may establish under the military adaptive sports program, the Secretary may award grants to, or enter into contracts and cooperative agreements with, entities for the purpose of planning, developing, managing, and implementing adaptive sports programming for members described in subsection (a).
 
         (2) The Secretary of Defense shall use competitive procedures to award any grant or to enter into any contract or cooperative agreement under this subsection.
 
-    (c) __Use of Assistance.—__ 
+    (c)  __Use of Assistance__  __.—__ 
 
     Assistance provided under the military adaptive sports program shall be used—
 

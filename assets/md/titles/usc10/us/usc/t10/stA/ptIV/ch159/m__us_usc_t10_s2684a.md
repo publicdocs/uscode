@@ -15,7 +15,7 @@
 
 ## § 2684a. Agreements to limit encroachments and other constraints on military training, testing, and operations
 
-    (a) __Agreements Authorized.—__ 
+    (a)  __Agreements Authorized__  __.—__ 
 
     The Secretary of Defense or the Secretary of a military department may enter into an agreement with an eligible entity or entities described in subsection (b) to address the use or development of real property in the vicinity of, or ecologically related to, a military installation or military airspace for purposes of—
 
@@ -31,7 +31,7 @@
 
         (3) protecting Clear Zone Areas from use or encroachment that is incompatible with the mission of the installation.
 
-    (b) __Eligible Entities.—__ 
+    (b)  __Eligible Entities__  __.—__ 
 
     An agreement under this section may be entered into with any of the following:
 
@@ -39,11 +39,11 @@
 
         (2) A private entity that has as its stated principal organizational purpose or goal the conservation, restoration, or preservation of land and natural resources, or a similar purpose or goal, as determined by the Secretary concerned.
 
-    (c) __Inapplicability of Certain Contract Requirements.—__ 
+    (c)  __Inapplicability of Certain Contract Requirements__  __.—__ 
 
     Notwithstanding chapter 63 of title 31, an agreement under this section that is a cooperative agreement or a grant may be used to acquire property or services for the direct benefit or use of the United States Government.
 
-    (d) __Acquisition and Acceptance of Property and Interests.—__ 
+    (d)  __Acquisition and Acceptance of Property and Interests__  __.—__ 
 
         (1)
 
@@ -111,15 +111,15 @@
 
         (7) For purposes of the acceptance of property or interests under the agreement, the Secretary concerned may accept an appraisal or title documents prepared or adopted by a non-Federal entity as satisfying the applicable requirements of section 301 of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 ([42 U.S.C. 4651][/us/usc/t42/s4651]) or [section 3111 of title 40][/us/usc/t40/s3111], if the Secretary concerned finds that the appraisal or title documents substantially comply with the requirements.
 
-    (e) __Acquisition of Water Rights.—__ 
+    (e)  __Acquisition of Water Rights__  __.—__ 
 
     The authority of the Secretary concerned to enter into an agreement under this section for the acquisition of real property (or an interest therein) includes the authority to support the purchase of water rights from any available source when necessary to support or protect the mission of a military installation.
 
-    (f) __Additional Terms and Conditions.—__ 
+    (f)  __Additional Terms and Conditions__  __.—__ 
 
     The Secretary concerned may require such additional terms and conditions in an agreement under this section as the Secretary considers appropriate to protect the interests of the United States.
 
-    (g) __Annual Reports.—__ 
+    (g)  __Annual Reports__  __.—__ 
 
         (1) Not later than March 1 each year, the Secretary of Defense shall, in coordination with the Secretaries of the military departments and the Director of the Department of Defense Test Resource Management Center, submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the projects undertaken under agreements under this section.
 
@@ -137,13 +137,13 @@
 
             (E) Such recommendations as the Secretary of Defense considers appropriate for legislative or administrative action in order to improve the efficiency and effectiveness of actions taken pursuant to agreements under this section.
 
-    (h) __Funding.—__ 
+    (h)  __Funding__  __.—__ 
 
         (1) Except as provided in paragraph (2), funds authorized to be appropriated for operation and maintenance of the Army, Navy, Marine Corps, Air Force, or Defense-wide activities may be used to enter into agreements under this section.
 
         (2) In the case of a military installation operated primarily with funds authorized to be appropriated for research, development, test, and evaluation, funds authorized to be appropriated for the Army, Navy, Marine Corps, Air Force, or Defense-wide activities for research, development, test, and evaluation may be used to enter into agreements under this section with respect to the installation.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 

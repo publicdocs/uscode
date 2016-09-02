@@ -15,11 +15,11 @@
 
 ## § 166a. Combatant commands: funding through the Chairman of Joint Chiefs of Staff
 
-    (a) __Combatant Commander Initiative Fund.—__ 
+    (a)  __Combatant Commander Initiative Fund__  __.—__ 
 
     From funds made available in any fiscal year for the budget account in the Department of Defense known as the “Combatant Commander Initiative Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for any of the activities named in subsection (b).
 
-    (b) __Authorized Activities.—__ 
+    (b)  __Authorized Activities__  __.—__ 
 
     Activities for which funds may be provided under subsection (a) are the following:
 
@@ -43,7 +43,7 @@
 
         (10) Joint warfighting capabilities.
 
-    (c) __Priority.—__ 
+    (c)  __Priority__  __.—__ 
 
     The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the Combatant Commander Initiative Fund, should give priority consideration to—
 
@@ -53,11 +53,11 @@
 
         (3) the provision of funds to be used for urgent and unanticipated humanitarian relief and reconstruction assistance, particularly in a foreign country where the armed forces are engaged in a contingency operation.
 
-    (d) __Relationship to Other Funding.—__ 
+    (d)  __Relationship to Other Funding__  __.—__ 
 
     Any amount provided by the Chairman of the Joint Chiefs of Staff during any fiscal year out of the Combatant Commander Initiative Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
         (1)
 
@@ -71,7 +71,7 @@
 
         (2) Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 
-    (f) __Inclusion of NORAD.—__ 
+    (f)  __Inclusion of NORAD__  __.—__ 
 
     For purposes of this section, the Commander, United States Element, North American Aerospace Defense Command shall be considered to be a commander of a combatant command.
 

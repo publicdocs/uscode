@@ -15,11 +15,11 @@
 
 ## § 777a. Wearing of insignia of higher grade before appointment to a grade above major general or rear admiral (frocking): authority; restrictions
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     An officer serving in a grade below the grade of lieutenant general or, in the case of the Navy, vice admiral, who has been selected for appointment to the grade of lieutenant general or general, or, in the case of the Navy, vice admiral or admiral, and an officer serving in the grade of lieutenant general or vice admiral who has been selected for appointment to the grade of general or admiral, may be authorized, under regulations and policies of the Department of Defense and subject to subsection (b), to wear the insignia for that higher grade for a period of up to 14 days before assuming the duties of a position for which the higher grade is authorized. An officer who is so authorized to wear the insignia of a higher grade is said to be “frocked” to that grade.
 
-    (b) __Restrictions.—__ 
+    (b)  __Restrictions__  __.—__ 
 
     An officer may not be authorized to wear the insignia for a grade as described in subsection (a) unless—
 
@@ -31,7 +31,7 @@
 
         (4) the Secretary of Defense has submitted to Congress a written notification of the intent to authorize the officer to wear the insignia for that grade.
 
-    (c) __Benefits Not to Be Construed as Accruing.—__ 
+    (c)  __Benefits Not to Be Construed as Accruing__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
             (B) Time of service in that grade.
 
-    (d) __Limitation on Number of Officers Frocked.—__ 
+    (d)  __Limitation on Number of Officers Frocked__  __.—__ 
 
     The total number of officers who are authorized to wear the insignia for a higher grade under this section shall count against the limitation in [section 777(d) of this title][/us/usc/t10/s777/d] on the total number of officers authorized to wear the insignia of a higher grade.
 

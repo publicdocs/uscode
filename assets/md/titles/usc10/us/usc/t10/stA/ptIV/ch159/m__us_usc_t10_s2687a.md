@@ -15,7 +15,7 @@
 
 ## § 2687a. Overseas base closures and realignments and basing master plans
 
-    (a) __Annual Status Report.—__ 
+    (a)  __Annual Status Report__  __.—__ 
 
     At the same time that the budget is submitted under [section 1105(a) of title 31][/us/usc/t31/s1105/a] for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on—
 
@@ -23,7 +23,7 @@
 
         (2) the status of development and execution of comprehensive master plans for overseas military main operating bases, forward operating sites, and cooperative security locations.
 
-    (b) __Report Elements.—__ 
+    (b)  __Report Elements__  __.—__ 
 
     A report under subsection (a) shall address the following:
 

@@ -15,11 +15,11 @@
 
 ## § 2331. Procurement of services: contracts for professional and technical services
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to ensure, to the maximum extent practicable, that professional and technical services are acquired on the basis of the task to be performed rather than on the basis of the number of hours of services provided.
 
-    (b) __Content of Regulations.—__ 
+    (b)  __Content of Regulations__  __.—__ 
 
     With respect to contracts to acquire services on the basis of the number of hours of services provided, the regulations described in subsection (a) shall—
 

@@ -15,7 +15,7 @@
 
 ## § 2487. Relationship between defense commissary system and exchange stores system
 
-    (a) __Separate Operation of Systems.—__ 
+    (a)  __Separate Operation of Systems__  __.—__ 
 
         (1) Except as provided in paragraph (2), the defense commissary system and the exchange stores system shall be operated as separate systems of the Department of Defense.
 
@@ -27,13 +27,13 @@
 
             (B) NEXMART stores of the Navy Exchange Service Command established before October 1, 2003.
 
-    (b) __Consolidation or Other Organizational Changes of Defense Retail Systems.—__ 
+    (b)  __Consolidation or Other Organizational Changes of Defense Retail Systems__  __.—__ 
 
         (1) The operation and administration of the defense retail systems may not be consolidated or otherwise merged unless the consolidation or merger is specifically authorized by an Act of Congress.
 
         (2) In this subsection, the term “defense retail systems” means the defense commissary system and exchange stores system and other revenue-generating facilities operated by nonappropriated fund instrumentalities of the Department of Defense for the morale, welfare, and recreation of members of the armed forces.
 
-    (c) __Access of Exchange Stores System to Federal Financing Bank.—__ 
+    (c)  __Access of Exchange Stores System to Federal Financing Bank__  __.—__ 
 
     To facilitate the provision of in-store credit to patrons of the exchange stores system while reducing the costs of providing such credit, the Army and Air Force Exchange Service, Navy Exchange Service Command, and Marine Corps exchanges may issue and sell their obligations to the Federal Financing Bank as provided in section 6 of the Federal Financing Bank Act of 1973 ([12 U.S.C. 2285][/us/usc/t12/s2285]).
 

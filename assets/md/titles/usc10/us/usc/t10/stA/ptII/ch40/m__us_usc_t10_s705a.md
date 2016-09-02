@@ -15,11 +15,11 @@
 
 ## § 705a. Rest and recuperation absence: certain members undergoing extended deployment to a combat zone
 
-    (a) __Rest and Recuperation Authorized.—__ 
+    (a)  __Rest and Recuperation Authorized__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, the Secretary concerned may provide a member of the armed forces described in subsection (b) the benefits described in subsection (c).
 
-    (b) __Covered Members.—__ 
+    (b)  __Covered Members__  __.—__ 
 
     A member of the armed forces described in this subsection is any member who—
 
@@ -33,7 +33,7 @@
 
         (2) meets such other criteria as the Secretary of Defense may prescribe in the regulations required by subsection (a).
 
-    (c) __Benefits.—__ 
+    (c)  __Benefits__  __.—__ 
 
     The benefits described in this subsection are the following:
 
@@ -41,7 +41,7 @@
 
         (2) Round-trip transportation at Government expense from the area or location in which the member is serving in connection with the exercise of the period of rest and recuperation.
 
-    (d) __Construction With Other Leave.—__ 
+    (d)  __Construction With Other Leave__  __.—__ 
 
     Any benefits provided a member under this section are in addition to any other leave or absence to which the member may be entitled.
 

@@ -63,11 +63,11 @@
 
 [Pub. L. 105–85, div. A, title V, § 572][/us/pl/105/85/s572], Nov. 18, 1997, [111 Stat. 1756][/us/stat/111/1756], provided that:
 
->     “(a) __Inclusion of Operations.—__ 
+>     “(a)  __Inclusion of Operations__  __.—__ 
 
 >     For the purpose of determining the eligibility of members and former members of the Armed Forces for the Armed Forces Expeditionary Medal, the Secretary of Defense shall designate participation in Operation Joint Endeavor or Operation Joint Guard in the Republic of Bosnia and Herzegovina, and in such other areas in the region as the Secretary considers appropriate, as service in an area that meets the general requirements for the award of that medal.
 
->     “(b) __Individual Determination.—__ 
+>     “(b)  __Individual Determination__  __.—__ 
 
 >     The Secretary of the military department concerned shall determine whether individual members or former members of the Armed Forces who participated in Operation Joint Endeavor or Operation Joint Guard meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. A member or former member shall be considered to have participated in Operation Joint Endeavor or Operation Joint Guard if the member—
 
@@ -77,7 +77,7 @@
 
 >         “(3) operated in airspace above the Republic of Bosnia and Herzegovina, or in such other area in the region as the Secretary of Defense considers appropriate, while the operations were in effect.
 
->     “(c) __Operations Defined.—__ 
+>     “(c)  __Operations Defined__  __.—__ 
 
 >     For purposes of this section:
 
@@ -93,7 +93,7 @@
 
 [Pub. L. 104–106, div. A, title V, § 522][/us/pl/104/106/s522], Feb. 10, 1996, [110 Stat. 310][/us/stat/110/310], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -111,13 +111,13 @@
 
 >         “(7) It is appropriate to recognize acts of heroism, sacrifice, or bravery that are belatedly, but properly, documented by persons who witnessed those acts.
 
->     “(b) __Waiver of Time Limitations for Recommendations for Awards.—__ 
+>     “(b)  __Waiver of Time Limitations for Recommendations for Awards__  __.—__ 
 
 >         (1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award to any person for actions by that person in the Southeast Asia theater of operations while serving on active duty during the Vietnam era. The waiver of time limitations under this paragraph applies only in the case of awards for acts of valor for which a request for consideration is submitted under subsection (c).
 
 >         “(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the Vietnam era and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under regulations of the Department of Defense or the military department concerned to be awarded to members of the Armed Forces for acts of valor.
 
->     “(c) __Review of Requests for Consideration of Awards.—__ 
+>     “(c)  __Review of Requests for Consideration of Awards__  __.—__ 
 
 >         (1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (b) that are received by the Secretary during the one-year period beginning on the date of enactment of this Act \[Feb. 10, 1996\].
 
@@ -125,7 +125,7 @@
 
 >         “(3) The Secretary may use the same process for carrying out the review as the Secretary uses for reviewing other recommendations for award of decorations to members of the Armed Forces under the Secretary’s jurisdiction for valorous acts.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >         (1) Upon completing the review of each such request under subsection (c), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
@@ -139,7 +139,7 @@
 
 >             “(C) The final action taken on the request for consideration.
 
->     “(e) __Definition.—__ 
+>     “(e)  __Definition__  __.—__ 
 
 >     For purposes of this section:
 
@@ -151,13 +151,13 @@
 
 [Pub. L. 104–106, div. A, title V, § 523][/us/pl/104/106/s523], Feb. 10, 1996, [110 Stat. 311][/us/stat/110/311], as amended by [Pub. L. 105–85, div. A, title V, § 575][/us/pl/105/85/s575], Nov. 18, 1997, [111 Stat. 1758][/us/stat/111/1758], provided that:
 
->     “(a) __Waiver on Restrictions of Awards.—__ 
+>     “(a)  __Waiver on Restrictions of Awards__  __.—__ 
 
 >         (1) Any decoration covered by paragraph (2) may be awarded, without regard to any time limit imposed by law or regulation for a recommendation for such award, to any person for an act, achievement, or service that the person performed in carrying out military intelligence duties during the period beginning on January 1, 1940, and ending on December 31, 1990.
 
 >         “(2) Paragraph (1) applies to any decoration (including any device in lieu of a decoration) that, during or after the period described in paragraph (1) and before the date of the enactment of this Act \[Feb. 10, 1996\], was authorized by law or under the regulations of the Department of Defense or the military department concerned to be awarded to a person for an act, achievement, or service performed by that person while serving on active duty.
 
->     “(b) __Review of Requests for Consideration of Awards.—__ 
+>     “(b)  __Review of Requests for Consideration of Awards__  __.—__ 
 
 >         (1) The Secretary of each military department shall review each request for consideration of award of a decoration described in subsection (a) that is received by the Secretary during the period beginning on February 10, 1996, and ending on February 9, 1998.
 
@@ -165,7 +165,7 @@
 
 >         “(3) The Secretary may use the same process for carrying out the review as the Secretary uses for reviewing other recommendations for awarding decorations to members of the Armed Forces under the Secretary’s jurisdiction for acts, achievements, or service.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >         (1) Upon completing the review of each such request under subsection (b), the Secretary shall submit a report on the review to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\].
 
@@ -181,7 +181,7 @@
 
 >             “(D) Administrative or legislative recommendations to improve award procedures with respect to military intelligence personnel.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘active duty’ has the meaning given such term in [section 101 of title 10][/us/usc/t10/s101], United States Code.”
 
@@ -189,11 +189,11 @@
 
 [Section 525 of Pub. L. 104–106][/us/pl/104/106/s525] provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     For the purpose of determining eligibility of members and former members of the Armed Forces for the Armed Forces Expeditionary Medal, the country of El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992, shall be treated as having been designated as an area and a period of time in which members of the Armed Forces participated in operations in significant numbers and otherwise met the general requirements for the award of that medal.
 
->     “(b) __Individual Determination.—__ 
+>     “(b)  __Individual Determination__  __.—__ 
 
 >     The Secretary of the military department concerned shall determine whether individual members or former members of the Armed Forces who served in El Salvador during the period beginning on January 1, 1981 and ending on February 1, 1992 meet the individual service requirements for award of the Armed Forces Expeditionary Medal as established in applicable regulations. Such determinations shall be made as expeditiously as possible after the date of the enactment of this Act \[Feb. 10, 1996\].”
 

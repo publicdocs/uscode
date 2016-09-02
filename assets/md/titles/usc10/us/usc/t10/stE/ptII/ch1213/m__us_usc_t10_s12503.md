@@ -15,11 +15,11 @@
 
 ## § 12503. Ready Reserve: funeral honors duty
 
-    (a) __Order to Duty.—__ 
+    (a)  __Order to Duty__  __.—__ 
 
     A member of the Ready Reserve may be ordered to funeral honors duty, with the consent of the member, in preparation for or to perform funeral honors functions at the funeral of a veteran as defined in [section 1491 of this title][/us/usc/t10/s1491]. Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 495 of title 37.
 
-    (b) __Service Credit.—__ 
+    (b)  __Service Credit__  __.—__ 
 
     A member ordered to funeral honors duty under this section shall be required to perform a minimum of two hours of such duty in order to receive—
 
@@ -33,15 +33,15 @@
 
             (B) compensation under [section 206 of title 37][/us/usc/t37/s206].
 
-    (c) __Reimbursable Expenses.—__ 
+    (c)  __Reimbursable Expenses__  __.—__ 
 
     A member who performs funeral honors duty under this section may be reimbursed for travel and transportation expenses incurred in conjunction with such duty as authorized under chapter 7 of title 37 if such duty is performed at a location 50 miles or more from the member’s residence.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The exercise of authority under subsection (a) is subject to regulations prescribed by the Secretary of Defense.
 
-    (e) __Members of the National Guard.—__ 
+    (e)  __Members of the National Guard__  __.—__ 
 
     This section does not apply to members of the Army National Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in [section 115 of title 32][/us/usc/t32/s115].
 

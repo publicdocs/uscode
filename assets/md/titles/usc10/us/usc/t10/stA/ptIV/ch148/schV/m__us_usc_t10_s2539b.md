@@ -15,7 +15,7 @@
 
 ## § 2539b. Availability of samples, drawings, information, equipment, materials, and certain services
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense and the Secretaries of the military departments, under regulations prescribed by the Secretary of Defense and when determined by the Secretary of Defense or the Secretary concerned to be in the interest of national defense, may each—
 
@@ -33,15 +33,15 @@
 
         (4) make available to any person or entity, through leases, contracts, or other appropriate arrangements, facilities, services, and equipment of any government laboratory, research center, or range, if the facilities, services, and equipment provided will not be in direct competition with the domestic private sector.
 
-    (b) __Confidentiality of Test Results.—__ 
+    (b)  __Confidentiality of Test Results__  __.—__ 
 
     The results of tests performed with services made available under subsection (a)(3) are confidential and may not be disclosed outside the Federal Government without the consent of the persons for whom the tests are performed.
 
-    (c) __Fees.—__ 
+    (c)  __Fees__  __.—__ 
 
     Fees made available under subsections (a)(3) and (a)(4) shall be established in the regulations prescribed pursuant to subsection (a). Such fees may not exceed the amount necessary to recoup the direct and indirect costs involved, such as direct costs of utilities, contractor support, and salaries of personnel that are incurred by the United States to provide for the testing.
 
-    (d) __Use of Fees.—__ 
+    (d)  __Use of Fees__  __.—__ 
 
     Fees received under subsections (a)(3) and (a)(4) may be credited to the appropriations or other funds of the activity making such services available.
 

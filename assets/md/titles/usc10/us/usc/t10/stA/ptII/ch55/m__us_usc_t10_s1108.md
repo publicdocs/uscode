@@ -15,11 +15,11 @@
 
 ## § 1108. Health care coverage through Federal Employees Health Benefits program: demonstration project
 
-    (a) __FEHBP Option Demonstration.—__ 
+    (a)  __FEHBP Option Demonstration__  __.—__ 
 
     The Secretary of Defense, after consulting with the other administering Secretaries, shall enter into an agreement with the Office of Personnel Management to conduct a demonstration project (in this section referred to as the “demonstration project”) under which eligible beneficiaries described in subsection (b) and residing within one of the areas covered by the demonstration project may enroll in health benefits plans offered through the Federal Employees Health Benefits program under chapter 89 of title 5. The number of eligible beneficiaries and family members of such beneficiaries under subsection (b)(2) who may be enrolled in health benefits plans during the enrollment period under subsection (d)(2) may not exceed 66,000.
 
-    (b) __Eligible Beneficiaries; Coverage.—__ 
+    (b)  __Eligible Beneficiaries; Coverage__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (5) An eligible beneficiary who is eligible to enroll in the Federal Employees Health Benefits program as an employee under chapter 89 of title 5 is not eligible to enroll in a Federal Employees Health Benefits plan under this section.
 
-    (c) __Area of Demonstration Project.—__ 
+    (c)  __Area of Demonstration Project__  __.—__ 
 
     The Secretary of Defense and the Director of the Office of Personnel Management shall jointly identify and select the geographic areas in which the demonstration project will be conducted. The Secretary and the Director shall establish at least six, but not more than ten, such demonstration areas. In establishing the areas, the Secretary and Director shall include—
 
@@ -65,17 +65,17 @@
 
         (4) not more than one area for each TRICARE region.
 
-    (d) __Duration of Demonstration Project.—__ 
+    (d)  __Duration of Demonstration Project__  __.—__ 
 
         (1) The Secretary of Defense shall conduct the demonstration project during three contract years under the Federal Employees Health Benefits program.
 
         (2) Eligible beneficiaries shall, as provided under the agreement pursuant to subsection (a), be permitted to enroll in the demonstration project during an open enrollment period for the year 2000 (conducted in the fall of 1999). The demonstration project shall terminate on December 31, 2002.
 
-    (e) __Prohibition Against Use of MTFs and Enrollment Under TRICARE.—__ 
+    (e)  __Prohibition Against Use of MTFs and Enrollment Under TRICARE__  __.—__ 
 
     Covered beneficiaries under this chapter who are provided coverage under the demonstration project shall not be eligible to receive care at a military medical treatment facility or to enroll in a health care plan under the TRICARE program.
 
-    (f) __Term of Enrollment in Project.—__ 
+    (f)  __Term of Enrollment in Project__  __.—__ 
 
         (1) Subject to paragraphs (2) and (3), the period of enrollment of an eligible beneficiary who enrolls in the demonstration project during the open enrollment period for the year 2000 shall be three years unless the beneficiary disenrolls before the termination of the project.
 
@@ -83,21 +83,21 @@
 
         (3) An eligible beneficiary enrolled in a Federal Employees Health Benefits plan under this section may change health benefits plans and coverage in the same manner as any other Federal Employees Health Benefits program beneficiary may change such plans.
 
-    (g) __Effect of Cancellation.—__ 
+    (g)  __Effect of Cancellation__  __.—__ 
 
     The cancellation by an eligible beneficiary of coverage under the Federal Employee Health Benefits program shall be irrevocable during the term of the demonstration project.
 
-    (h) __Separate Risk Pools; Charges.—__ 
+    (h)  __Separate Risk Pools; Charges__  __.—__ 
 
         (1) The Director of the Office of Personnel Management shall require health benefits plans under chapter 89 of title 5 that participate in the demonstration project to maintain a separate risk pool for purposes of establishing premium rates for eligible beneficiaries who enroll in such a plan in accordance with this section.
 
         (2) The Director shall determine total subscription charges for self only or for family coverage for eligible beneficiaries who enroll in a health benefits plan under chapter 89 of title 5 in accordance with this section. The subscription charges shall include premium charges paid to the plan and amounts described in [section 8906(c) of title 5][/us/usc/t5/s8906/c] for administrative expenses and contingency reserves.
 
-    (i) __Government Contributions.—__ 
+    (i)  __Government Contributions__  __.—__ 
 
     The Secretary of Defense shall be responsible for the Government contribution for an eligible beneficiary who enrolls in a health benefits plan under chapter 89 of title 5 in accordance with this section, except that the amount of the contribution may not exceed the amount of the Government contribution which would be payable if the electing beneficiary were an employee (as defined for purposes of such chapter) enrolled in the same health benefits plan and level of benefits.
 
-    (j) __Application of Medigap Protections to Demonstration Project Enrollees.—__ 
+    (j)  __Application of Medigap Protections to Demonstration Project Enrollees__  __.—__ 
 
         (1) Subject to paragraph (2), the provisions of section 1882(s)(3) (other than clauses (i) through (iv) of subparagraph (B)) and 1882(s)(4) of the Social Security Act shall apply to enrollment (and termination of enrollment) in the demonstration project under this section, in the same manner as they apply to enrollment (and termination of enrollment) with a Medicare+Choice  <sup>\[2\]</sup>  <sup><sup> 2 See Change of Name note below. </sup></sup>  organization in a Medicare+Choice  <sup>\[2\]</sup>  plan.
 

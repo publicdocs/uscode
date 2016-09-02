@@ -15,11 +15,11 @@
 
 ## § 1610. Reductions and other adjustments in force
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the separation of employees in defense intelligence positions, including members of the Defense Intelligence Senior Executive Service and employees in Intelligence Senior Level positions, during a reduction in force or other adjustment in force. The regulations shall apply to such a reduction in force or other adjustment in force notwithstanding sections 3501(b) and 3502 of title 5.
 
-    (b) __Matters To Be Given Effect.—__ 
+    (b)  __Matters To Be Given Effect__  __.—__ 
 
     The regulations shall give effect to the following:
 
@@ -33,17 +33,17 @@
 
         (5) Length of service computed in accordance with the second sentence of [section 3502(a) of title 5][/us/usc/t5/s3502/a].
 
-    (c) __Regulations Relating to Defense Intelligence SES.—__ 
+    (c)  __Regulations Relating to Defense Intelligence SES__  __.—__ 
 
     The regulations relating to removal from the Defense Intelligence Senior Executive Service in a reduction in force or other adjustment in force shall be consistent with [section 3595(a) of title 5][/us/usc/t5/s3595/a].
 
-    (d) __Right of Appeal.—__ 
+    (d)  __Right of Appeal__  __.—__ 
 
         (1) The regulations shall provide a right of appeal regarding a personnel action under the regulations. The appeal shall be determined within the Department of Defense. An appeal determined at the highest level provided in the regulations shall be final and not subject to review outside the Department of Defense. A personnel action covered by the regulations is not subject to any other provision of law that provides appellate rights or procedures.
 
         (2) Notwithstanding paragraph (1), a preference eligible referred to in [section 7511(a)(1)(B) of title 5][/us/usc/t5/s7511/a/1/B] may elect to have an appeal of a personnel action taken against the preference eligible under the regulation determined by the Merit Systems Protection Board instead of having the appeal determined within the Department of Defense. [Section 7701 of title 5][/us/usc/t5/s7701] shall apply to any such appeal to the Merit Systems Protection Board.
 
-    (e) __Consultation With OPM.—__ 
+    (e)  __Consultation With OPM__  __.—__ 
 
     Regulations under this section shall be prescribed in consultation with the Director of the Office of Personnel Management.
 

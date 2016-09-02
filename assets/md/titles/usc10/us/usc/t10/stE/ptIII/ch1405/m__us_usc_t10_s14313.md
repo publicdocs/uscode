@@ -15,15 +15,15 @@
 
 ## § 14313. Authority to vacate promotions to grade of brigadier general or rear admiral (lower half)
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The President may vacate the appointment of a reserve officer to the grade of brigadier general or rear admiral (lower half) if the period of time during which the officer has served in that grade after promotion to that grade is less than 18 months.
 
-    (b) __Effect of Promotion Being Vacated.—__ 
+    (b)  __Effect of Promotion Being Vacated__  __.—__ 
 
     Except as provided in subsection (c), an officer whose promotion to the grade of brigadier general is vacated under this section holds the grade of colonel as a reserve of the armed force of which the officer is a member. An officer whose promotion to the grade of rear admiral (lower half) is vacated under this section holds the grade of captain in the Navy Reserve. Upon assuming the lower grade, the officer shall have the same position on the reserve active-status list as the officer would have had if the officer had not served in the higher grade.
 
-    (c) __Special Rule for Officers Serving as Adjutant General.—__ 
+    (c)  __Special Rule for Officers Serving as Adjutant General__  __.—__ 
 
     In the case of an officer serving as an adjutant general or assistant adjutant general whose promotion to the grade of brigadier general is vacated under this section, the officer then holds the reserve grade held by that officer immediately before the officer’s appointment as adjutant general or assistant adjutant general.
 

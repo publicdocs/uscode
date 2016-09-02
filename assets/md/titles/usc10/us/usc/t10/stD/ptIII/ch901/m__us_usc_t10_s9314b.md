@@ -17,11 +17,11 @@
 
     (a) __Commandant.—__ 
 
-        (1) __Selection.—__ 
+        (1)  __Selection__  __.—__ 
 
         The Commandant of the United States Air Force Institute of Technology shall be selected by the Secretary of the Air Force.
 
-        (2) __Eligibility.—__ 
+        (2)  __Eligibility__  __.—__ 
 
         The Commandant shall be one of the following:
 
@@ -29,21 +29,21 @@
 
             (B) A member of the Senior Executive Service or a civilian individual, including an individual who was retired from the Air Force in a grade not below brigadier general, who has the qualifications appropriate for the position of Commandant and is selected by the Secretary as the best qualified from among candidates for the position in accordance with a process and criteria determined by the Secretary.
 
-        (3) __Term for civilian commandant.—__ 
+        (3)  __Term for civilian commandant__  __.—__ 
 
         An individual selected for the position of Commandant under paragraph (2)(B) shall serve in that position for a term of not more than five years and may be continued in that position for an additional term of up to five years.
 
     (b) __Provost and Academic Dean.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         There is established at the United States Air Force Institute of Technology the civilian position of Provost and Academic Dean who shall be appointed by the Secretary.
 
-        (2) __Term.—__ 
+        (2)  __Term__  __.—__ 
 
         An individual appointed to the position of Provost and Academic Dean shall serve in that position for a term of five years.
 
-        (3) __Compensation.—__ 
+        (3)  __Compensation__  __.—__ 
 
         The individual serving as Provost and Academic Dean is entitled to such compensation for such service as the Secretary shall prescribe for purposes of this section, but not more than the rate of compensation authorized for level IV of the Executive Schedule.
 

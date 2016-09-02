@@ -15,7 +15,7 @@
 
 ## § 1187. Officers eligible to serve on boards
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), each board convened under this chapter shall consist of officers appointed as follows:
 
@@ -25,7 +25,7 @@
 
         (3) Each member of the board shall be senior in grade to any officer to be considered by the board.
 
-    (b) __Retired Officers.—__ 
+    (b)  __Retired Officers__  __.—__ 
 
     If qualified officers are not available in sufficient numbers to comprise a board convened under this chapter, the Secretary of the military department concerned shall complete the membership of the board by appointing to the board retired officers of the same armed force. A retired officer may be appointed to such a board only if the retired grade of that officer—
 
@@ -33,11 +33,11 @@
 
         (2) is senior to the grade of any officer to be considered by the board.
 
-    (c) __Ineligibility by Reason of Previous Consideration of Same Officer.—__ 
+    (c)  __Ineligibility by Reason of Previous Consideration of Same Officer__  __.—__ 
 
     No person may be a member of more than one board convened under this chapter to consider the same officer.
 
-    (d) __Exclusion From Strength Limitation.—__ 
+    (d)  __Exclusion From Strength Limitation__  __.—__ 
 
     A retired general or flag officer who is on active duty for the purpose of serving on a board convened under this chapter shall not, while so serving, be counted against any limitation on the number of general and flag officers who may be on active duty.
 

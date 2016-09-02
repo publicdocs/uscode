@@ -15,7 +15,7 @@
 
 ## § 12741. Retirement for service in an active status performed in the Selected Reserve of the Ready Reserve after eligibility for regular retirement
 
-    (a) __Authority to Elect to Receive Reserve Retired Pay.—__ 
+    (a)  __Authority to Elect to Receive Reserve Retired Pay__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
             (B) failed to complete the minimum years of service solely because the appointment of the person to such position was terminated or vacated as described in [section 324(b) of title 32][/us/usc/t32/s324/b].
 
-    (b) __Actions To Effectuate Election.—__ 
+    (b)  __Actions To Effectuate Election__  __.—__ 
 
     As of the effective date of an election made by a person under subsection (a), the Secretary concerned shall—
 
@@ -43,11 +43,11 @@
 
         (2) in the case of a reserve commissioned officer, transfer the officer to the Retired Reserve.
 
-    (c) __Time and Form of Election.—__ 
+    (c)  __Time and Form of Election__  __.—__ 
 
     An election under subsection (a) shall be made within such time and in such form as the Secretary concerned requires.
 
-    (d) __Effective Date of Election.—__ 
+    (d)  __Effective Date of Election__  __.—__ 
 
     An election made by a person under subsection (a) shall be effective—
 

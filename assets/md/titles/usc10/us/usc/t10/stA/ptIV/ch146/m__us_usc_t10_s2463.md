@@ -15,13 +15,13 @@
 
 ## § 2463. Guidelines and procedures for use of civilian employees to perform Department of Defense functions
 
-    (a) __Guidelines Required.—__ 
+    (a)  __Guidelines Required__  __.—__ 
 
         (1) The Under Secretary of Defense for Personnel and Readiness shall devise and implement guidelines and procedures to ensure that consideration is given to using, on a regular basis, Department of Defense civilian employees to perform new functions and functions that are performed by contractors and could be performed by Department of Defense civilian employees. The Secretary of a military department may prescribe supplemental regulations, if the Secretary determines such regulations are necessary for implementing such guidelines within that military department.
 
         (2) The guidelines and procedures required under paragraph (1) may not include any specific limitation or restriction on the number of functions or activities that may be converted to performance by Department of Defense civilian employees.
 
-    (b) __Special Consideration for Certain Functions.—__ 
+    (b)  __Special Consideration for Certain Functions__  __.—__ 
 
     The guidelines and procedures required under subsection (a) shall provide for special consideration to be given to using Department of Defense civilian employees to perform any function that—
 
@@ -49,7 +49,7 @@
 
         (2) is a new requirement, with particular emphasis given to a new requirement that is similar to a function previously performed by Department of Defense civilian employees or is a function closely associated with the performance of an inherently governmental function.
 
-    (c) __Exclusion of Certain Functions From Competitions.—__ 
+    (c)  __Exclusion of Certain Functions From Competitions__  __.—__ 
 
     The Secretary of Defense may not conduct a public-private competition under this chapter, Office of Management and Budget Circular A–76, or any other provision of law or regulation before—
 
@@ -59,13 +59,13 @@
 
         (3) in the case of a Department of Defense function performed by Department of Defense civilian employees, expanding the scope of the function.
 
-    (d) __Use of Flexible Hiring Authority.—__ 
+    (d)  __Use of Flexible Hiring Authority__  __.—__ 
 
         (1) The Secretary of Defense may use the flexible hiring authority available to the Secretary pursuant to [section 9902 of title 5][/us/usc/t5/s9902], to facilitate the performance by Department of Defense civilian employees of functions described in subsection (b).
 
         (2) The Secretary shall make use of the inventory required by [section 2330a(c) of this title][/us/usc/t10/s2330a/c] for the purpose of identifying functions that should be considered for performance by Department of Defense civilian employees pursuant to subsection (b).
 
-    (e) __Determinations Relating to the Conversion of Certain Functions.—__ 
+    (e)  __Determinations Relating to the Conversion of Certain Functions__  __.—__ 
 
         (1)
 
@@ -85,11 +85,11 @@
 
         (2) Paragraph (1) shall not apply to any function that is inherently governmental or any function described in subparagraph (A), (B), or (C) of subsection (b)(1).
 
-    (f) __Notification Relating to the Conversion of Certain Functions.—__ 
+    (f)  __Notification Relating to the Conversion of Certain Functions__  __.—__ 
 
     The Secretary of Defense shall establish procedures for the timely notification of any contractor who performs a function that the Secretary plans to convert to performance by Department of Defense civilian employees pursuant to subsection (a). The Secretary shall provide a copy of any such notification to the congressional defense committees.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -123,17 +123,17 @@
 
 [Pub. L. 111–383, div. A, title III, § 323][/us/pl/111/383/s323], Jan. 7, 2011, [124 Stat. 4184][/us/stat/124/4184], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     The Secretary of Defense may not establish, apply, or enforce any numerical goal, target, or quota for the conversion of Department of Defense functions to performance by Department of Defense civilian employees, unless such goal, target, or quota is based on considered research and analysis, as required by section 235, 2330a, or 2463 of title 10, United States Code.
 
->     “(b) __Decisions to Insource.—__ 
+>     “(b)  __Decisions to Insource__  __.—__ 
 
 >     In deciding which functions should be converted to performance by Department of Defense civilian employees pursuant to [section 2463 of title 10][/us/usc/t10/s2463], United States Code, the Secretary of Defense shall use the costing methodology outlined in the Directive-Type Memorandum 09–007 (Estimating and Comparing the Full Costs of Civilian and Military Manpower and Contractor Support) or any successor guidance for the determination of costs when costs are the sole basis for the decision. The Secretary of a military department may issue supplemental guidance to assist in such decisions affecting functions of that military department.
 
 >     “(c) __Reports.—__ 
 
->         “(1) __Report to congress.—__ 
+>         “(1)  __Report to congress__  __.—__ 
 
 >         Not later than March 31, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the decisions with respect to the conversion of functions to performance by Department of Defense civilian employees made during fiscal year 2010. Such report shall identify, for each such decision—
 
@@ -143,11 +143,11 @@
 
 >             “(C) the number of contractor employees whose functions were converted to performance by Department of Defense civilian employees.
 
->         “(2) __Comptroller general review.—__ 
+>         “(2)  __Comptroller general review__  __.—__ 
 
 >         Not later than 120 days after the submittal of the report under paragraph (1), the Comptroller General of the United States shall submit to the congressional defense committees an assessment of the report.
 
->     “(d) __Construction.—__ 
+>     “(d)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed—
 

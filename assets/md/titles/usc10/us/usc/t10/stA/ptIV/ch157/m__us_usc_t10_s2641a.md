@@ -15,11 +15,11 @@
 
 ## § 2641a. Transportation of American Samoa veterans on Department of Defense aircraft for certain medical care in Hawaii
 
-    (a) __Transportation Authorized.—__ 
+    (a)  __Transportation Authorized__  __.—__ 
 
     The Secretary of Defense may provide transportation on Department of Defense aircraft for the purpose of transporting any veteran specified in subsection (b) between American Samoa and the State of Hawaii if such transportation is required in order to provide hospital care to such veteran as described in that subsection.
 
-    (b) __Veterans Eligible for Transport.—__ 
+    (b)  __Veterans Eligible for Transport__  __.—__ 
 
     A veteran eligible for transport under subsection (a) is any veteran who—
 
@@ -27,7 +27,7 @@
 
         (2) as determined by an official of the Department of Veterans Affairs designated for that purpose by the Secretary of Veterans Affairs, must be transported to the State of Hawaii in order to receive hospital care to which such veteran is entitled under chapter 17 of title 38 in facilities of such Department in the State of Hawaii.
 
-    (c) __Administration.—__ 
+    (c)  __Administration__  __.—__ 
 
         (1) Transportation may be provided to veterans under this section only on a space-available basis.
 

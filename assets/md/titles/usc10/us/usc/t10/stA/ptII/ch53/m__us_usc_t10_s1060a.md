@@ -15,15 +15,15 @@
 
 ## § 1060a. Special supplemental food program
 
-    (a) __Program Required.—__ 
+    (a)  __Program Required__  __.—__ 
 
     The Secretary of Defense shall carry out a program to provide supplemental foods and nutrition education to members of the armed forces on duty at stations outside the United States (and its territories and possessions) and to eligible civilians serving with, employed by, or accompanying the armed forces outside the United States (and its territories and possessions).
 
-    (b) __Funding Mechanism.—__ 
+    (b)  __Funding Mechanism__  __.—__ 
 
     The Secretary of Defense shall use funds available for the Department of Defense to carry out the program under subsection (a).
 
-    (c) __Program Administration.—__ 
+    (c)  __Program Administration__  __.—__ 
 
         (1)
 
@@ -35,11 +35,11 @@
 
         (3) The Secretary of Agriculture shall provide technical assistance to the Secretary of Defense, if so requested by the Secretary of Defense, for the purpose of carrying out the program under subsection (a).
 
-    (d) __Departure From Standards.—__ 
+    (d)  __Departure From Standards__  __.—__ 
 
     The Secretary of Defense may authorize departures from standards prescribed by the Secretary of Agriculture regarding the supplemental foods to be made available in the program when local conditions preclude strict compliance or when such compliance is highly impracticable.
 
-    (e) __Rebate Agreements With Food Producers.—__ 
+    (e)  __Rebate Agreements With Food Producers__  __.—__ 
 
         (1)
 
@@ -55,11 +55,11 @@
 
         (4) Amounts rebated under a contract entered into under paragraph (1) shall be credited to the appropriation available for carrying out the program under this section in the fiscal year in which rebated, shall be merged with the other sums in that appropriation, and shall be available for the program for the same period as the other sums in the appropriation.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to administer the program authorized by this section.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

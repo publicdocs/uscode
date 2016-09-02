@@ -31,19 +31,19 @@
 
 [Pub. L. 104–106, div. A, title V, § 521][/us/pl/104/106/s521], Feb. 10, 1996, [110 Stat. 309][/us/stat/110/309], as amended by [Pub. L. 108–136, div. A, title V, § 544][/us/pl/108/136/s544], Nov. 24, 2003, [117 Stat. 1478][/us/stat/117/1478], provided that:
 
->     “(a) __Award of Purple Heart.—__ 
+>     “(a)  __Award of Purple Heart__  __.—__ 
 
 >     For purposes of the award of the Purple Heart, the Secretary concerned (as defined in [section 101 of title 10][/us/usc/t10/s101], United States Code) shall treat a former prisoner of war who was wounded before April 25, 1962, while held as a prisoner of war (or while being taken captive) in the same manner as a former prisoner of war who is wounded on or after that date while held as a prisoner of war (or while being taken captive).
 
->     “(b) __Standards for Award.—__ 
+>     “(b)  __Standards for Award__  __.—__ 
 
 >     An award of the Purple Heart under subsection (a) shall be made in accordance with the standards in effect on the date of the enactment of this Act \[Feb. 10, 1996\] for the award of the Purple Heart to persons wounded on or after April 25, 1962.
 
->     “(c) __Eligible Former Prisoners of War.—__ 
+>     “(c)  __Eligible Former Prisoners of War__  __.—__ 
 
 >     A person shall be considered to be a former prisoner of war for purposes of this section if the person is eligible for the prisoner-of-war medal under [section 1128 of title 10][/us/usc/t10/s1128], United States Code.
 
->     “(d) __Procedures for Award.—__ 
+>     “(d)  __Procedures for Award__  __.—__ 
 
 >     In determining whether a former prisoner of war who submits an application for the award of the Purple Heart under subsection (a) is eligible for that award, the Secretary concerned shall apply the following procedures:
 

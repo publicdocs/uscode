@@ -15,7 +15,7 @@
 
 ## § 7312. Service craft stricken from Naval Vessel Register; obsolete boats: use of proceeds from exchange or sale
 
-    (a) __Exchange or Sale of Similar Items.—__ 
+    (a)  __Exchange or Sale of Similar Items__  __.—__ 
 
     When the Secretary of the Navy sells an obsolete service craft or an obsolete boat, or exchanges such a craft or boat in a transaction for which a similar craft or boat is acquired, the Secretary may retain the proceeds of the sale or the exchange allowance from the exchange, as the case may be, and apply the proceeds of sale or the exchange allowance for any of the following purposes:
 
@@ -25,15 +25,15 @@
 
         (3) For deposit to the special account established under subsection (b), to be available in accordance with that subsection.
 
-    (b) __Special Account.—__ 
+    (b)  __Special Account__  __.—__ 
 
     Amounts retained under subsection (a) that are not applied as provided in paragraph (1) or (2) of that subsection shall be deposited into a special account. Amounts in the account shall be available under subsection (c) without regard to fiscal year limitation. Amounts in the account that the Secretary of the Navy determines are not needed for the purpose stated in subsection (c) shall be transferred at least annually to the General Fund of the Treasury.
 
-    (c) __Costs of Preparation of Obsolete Service Craft and Boats for Future Sale or Exchange.—__ 
+    (c)  __Costs of Preparation of Obsolete Service Craft and Boats for Future Sale or Exchange__  __.—__ 
 
     The Secretary may use amounts in the account under subsection (b) for payment, in whole or in part, for the full costs of preparation of obsolete service craft and obsolete boats for future sale or exchange.
 
-    (d) __Costs of Preparation for Sale or Exchange.—__ 
+    (d)  __Costs of Preparation for Sale or Exchange__  __.—__ 
 
     In this section, the term “full costs of preparation” means the full costs (direct and indirect) incurred by the Navy in preparing an obsolete service craft or an obsolete boat for exchange or sale, including the cost of the following:
 
@@ -49,15 +49,15 @@
 
         (6) Other costs related to such preparation.
 
-    (e) __Obsolete Service Craft.—__ 
+    (e)  __Obsolete Service Craft__  __.—__ 
 
     For purposes of this section, an obsolete service craft is a service craft that has been stricken from the Naval Vessel Register.
 
-    (f) __Inapplicability of Advertising Requirement.—__ 
+    (f)  __Inapplicability of Advertising Requirement__  __.—__ 
 
     Section 3709  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Revised Statutes ([41 U.S.C. 5][/us/usc/t41/s5]) does not apply to sales of service craft and boats described in subsection (a).
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
     The Secretary of the Navy shall prescribe regulations for the purposes of this section.
 

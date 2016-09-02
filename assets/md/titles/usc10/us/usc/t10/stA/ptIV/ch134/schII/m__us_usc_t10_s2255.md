@@ -15,7 +15,7 @@
 
 ## § 2255. Aircraft accident investigation boards: composition requirements
 
-    (a) __Required Membership of Boards.—__ 
+    (a)  __Required Membership of Boards__  __.—__ 
 
     Whenever the Secretary of a military department convenes an aircraft accident investigation board to conduct an accident investigation (as described in [section 2254(a)(2) of this title][/us/usc/t10/s2254/a/2]) with respect to a Class A accident involving an aircraft under the jurisdiction of the Secretary, the Secretary shall select the membership of the board so that—
 
@@ -23,7 +23,7 @@
 
         (2) in the case of a board consisting of more than one member, at least one member of the board is a member of the armed forces or an officer or an employee of the Department of Defense who possesses knowledge and expertise relevant to aircraft accident investigations.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     The Secretary of the military department concerned may waive the requirement of subsection (a)(1) in the case of an aircraft accident if the Secretary determines that—
 
@@ -39,15 +39,15 @@
 
         (2) the objectivity and independence of the aircraft accident investigation board will not be compromised.
 
-    (c) __Consultation Requirement.—__ 
+    (c)  __Consultation Requirement__  __.—__ 
 
     In the case of an aircraft accident investigation board consisting of a single member, the member shall consult with a member of the armed forces or an officer or an employee of the Department of Defense who possesses knowledge and expertise relevant to aircraft accident investigations.
 
-    (d) __Designation of Class A Accidents.—__ 
+    (d)  __Designation of Class A Accidents__  __.—__ 
 
     Not later than 60 days after an aircraft accident involving an aircraft under the jurisdiction of the Secretary of a military department, the Secretary shall determine whether the aircraft accident should be designated as a Class A accident for purposes of this section.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

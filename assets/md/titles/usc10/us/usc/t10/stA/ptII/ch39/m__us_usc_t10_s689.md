@@ -15,15 +15,15 @@
 
 ## § 689. Retired members: grade in which ordered to active duty and upon release from active duty
 
-    (a) __General Rule for Grade in Which Ordered to Active Duty.—__ 
+    (a)  __General Rule for Grade in Which Ordered to Active Duty__  __.—__ 
 
     Except as provided in subsections (b) and (c), a retired member ordered to active duty under section 688 or 688a of this title shall be ordered to active duty in the member’s retired grade.
 
-    (b) __Members Retired in O–9 and O–10 Grades.—__ 
+    (b)  __Members Retired in O–__  __9__  __and O–__  __10__  __Grades__  __.—__ 
 
     A retired member ordered to active duty under section 688 or 688a of this title whose retired grade is above the grade of major general or rear admiral shall be ordered to active duty in the highest permanent grade held by such member while serving on active duty.
 
-    (c) __Members Who Previously Served in Grade Higher Than Retired Grade.—__ 
+    (c)  __Members Who Previously Served in Grade Higher Than Retired Grade__  __.—__ 
 
         (1) A retired member ordered to active duty under section 688 or 688a of this title who has previously served on active duty satisfactorily, as determined by the Secretary of the military department concerned, in a grade higher than that member’s retired grade may be ordered to active duty in the highest grade in which the member had so served satisfactorily, except that such a member may not be so ordered to active duty in a grade above major general or rear admiral.
 
@@ -31,7 +31,7 @@
 
         (3) If, upon being released from that tour of active duty, such a retired member has served on active duty satisfactorily, as determined by the Secretary concerned, for not less than a total of 36 months in a grade that is a higher grade than the member’s retired grade, the member is entitled to placement on the retired list in that grade.
 
-    (d) __Grade Upon Release From Active Duty.—__ 
+    (d)  __Grade Upon Release From Active Duty__  __.—__ 
 
     A member ordered to active duty under section 688 or 688a of this title who, while on active duty, is promoted to a grade that is higher than that member’s retired grade is entitled, upon that member’s release from that tour of active duty, to placement on the retired list in the highest grade in which the member served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 

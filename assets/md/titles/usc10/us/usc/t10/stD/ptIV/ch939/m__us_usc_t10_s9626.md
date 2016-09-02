@@ -15,7 +15,7 @@
 
 ## § 9626. Aircraft supplies and services: foreign military or other state aircraft
 
-    (a) __Provision of Supplies and Services on Reimbursable Basis.—__ 
+    (a)  __Provision of Supplies and Services on Reimbursable Basis__  __.—__ 
 
         (1) The Secretary of the Air Force may, under such regulations as the Secretary may prescribe and when in the best interests of the United States, provide any of the supplies or services described in paragraph (2) to military and other state aircraft of a foreign country, on a reimbursable basis without an advance of funds, if similar supplies and services are furnished on a like basis to military aircraft and other state aircraft of the United States by the foreign country concerned.
 
@@ -27,7 +27,7 @@
 
             (B) Miscellaneous supplies, including Air Force-owned fuel, provisions, spare parts, and general stores, but not including ammunition.
 
-    (b) __Provision of Routine Airport Services on Non-Reimbursable Basis.—__ 
+    (b)  __Provision of Routine Airport Services on Non-Reimbursable Basis__  __.—__ 
 
         (1)
 

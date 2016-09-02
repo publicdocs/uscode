@@ -15,11 +15,11 @@
 
 ## § 14109. Reports of promotion boards: in general
 
-    (a) __Report of Officers Recommended for Promotion.—__ 
+    (a)  __Report of Officers Recommended for Promotion__  __.—__ 
 
     Each promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] shall submit to the Secretary of the military department concerned a report in writing containing a list of the names of the officers recommended by the board for promotion. The report shall be signed by each member of the board.
 
-    (b) __Certification.—__ 
+    (b)  __Certification__  __.—__ 
 
     Each report under subsection (a) shall include a certification—
 
@@ -27,7 +27,7 @@
 
         (2) that, in the case of a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a], in the opinion of a majority of the members of the board, the officers recommended for promotion by the board are best qualified for promotion to meet the needs of the armed force concerned (as noted in the guidelines or information furnished the board under [section 14107 of this title][/us/usc/t10/s14107]) among those officers whose names were furnished to the selection board.
 
-    (c) __Show-Cause Recommendations.—__ 
+    (c)  __Show-Cause Recommendations__  __.—__ 
 
         (1) A promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] shall include in its report to the Secretary concerned the name of any reserve officer before it for consideration for promotion whose record, in the opinion of a majority of the members of the board, indicates that the officer should be required to show cause for retention in an active status.
 

@@ -15,7 +15,7 @@
 
 ## § 949d. Sessions
 
-    (a) __Sessions Without Presence of Members.—__ 
+    (a)  __Sessions Without Presence of Members__  __.—__ 
 
         (1)
 
@@ -31,11 +31,11 @@
 
         (2) Except as provided in subsections (b), (c), and (d), any proceedings under paragraph (1) shall be conducted in the presence of the accused, defense counsel, and trial counsel, and shall be made part of the record.
 
-    (b) __Deliberation or Vote of Members.—__ 
+    (b)  __Deliberation or Vote of Members__  __.—__ 
 
     When the members of a military commission under this chapter deliberate or vote, only the members may be present.
 
-    (c) __Closure of Proceedings.—__ 
+    (c)  __Closure of Proceedings__  __.—__ 
 
         (1) The military judge may close to the public all or part of the proceedings of a military commission under this chapter.
 
@@ -49,7 +49,7 @@
 
         (3) A finding under paragraph (2) may be based upon a presentation, including a presentation ex parte or in camera, by either trial counsel or defense counsel.
 
-    (d) __Exclusion of Accused From Certain Proceedings.—__ 
+    (d)  __Exclusion of Accused From Certain Proceedings__  __.—__ 
 
     The military judge may exclude the accused from any portion of a proceeding upon a determination that, after being warned by the military judge, the accused persists in conduct that justifies exclusion from the courtroom—
 

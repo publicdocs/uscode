@@ -15,7 +15,7 @@
 
 ## § 101. Definitions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The following definitions apply in this title:
 
@@ -105,7 +105,7 @@
 
         (18) The term “acquisition workforce” means the persons serving in acquisition positions within the Department of Defense, as designated pursuant to [section 1721(a) of this title][/us/usc/t10/s1721/a].
 
-    (b) __Personnel Generally.—__ 
+    (b)  __Personnel Generally__  __.—__ 
 
     The following definitions relating to military personnel apply in this title:
 
@@ -141,7 +141,7 @@
 
         (16) The term “Active Guard and Reserve” means a member of a reserve component who is on active duty pursuant to [section 12301(d) of this title][/us/usc/t10/s12301/d] or, if a member of the Army National Guard or Air National Guard, is on full-time National Guard duty pursuant to [section 502(f) of title 32][/us/usc/t32/s502/f], and who is performing Active Guard and Reserve duty.
 
-    (c) __Reserve Components.—__ 
+    (c)  __Reserve Components__  __.—__ 
 
     The following definitions relating to the reserve components apply in this title:
 
@@ -179,7 +179,7 @@
 
         (7) The term “reserve active-status list” means a single list for the Army, Navy, Air Force, or Marine Corps (required to be maintained under [section 14002 of this title][/us/usc/t10/s14002]) that contains the names of all officers of that armed force except warrant officers (including commissioned warrant officers) who are in an active status in a reserve component of the Army, Navy, Air Force, or Marine Corps and are not on an active-duty list.
 
-    (d) __Duty Status.—__ 
+    (d)  __Duty Status__  __.—__ 
 
     The following definitions relating to duty status apply in this title:
 
@@ -221,11 +221,11 @@
 
             Such term includes those duties when performed by Reserves in their status as members of the National Guard.
 
-    (e) __Facilities and Operations.—__ 
+    (e)  __Facilities and Operations__  __.—__ 
 
     The following definitions relating to facilities and operations apply in this title:
 
-        (1) __Range.—__ 
+        (1)  __Range__  __.—__ 
 
         The term “range”, when used in a geographic sense, means a designated land or water area that is set aside, managed, and used for range activities of the Department of Defense. Such term includes the following:
 
@@ -233,7 +233,7 @@
 
             (B) Airspace areas designated for military use in accordance with regulations and procedures prescribed by the Administrator of the Federal Aviation Administration.
 
-        (2) __Range activities.—__ 
+        (2)  __Range activities__  __.—__ 
 
         The term “range activities” means—
 
@@ -241,7 +241,7 @@
 
             (B) the training of members of the armed forces in the use and handling of military munitions, other ordnance, and weapons systems.
 
-        (3) __Operational range.—__ 
+        (3)  __Operational range__  __.—__ 
 
         The term “operational range” means a range that is under the jurisdiction, custody, or control of the Secretary of a military department and—
 
@@ -249,7 +249,7 @@
 
             (B) although not currently being used for range activities, that is still considered by the Secretary to be a range and has not been put to a new use that is incompatible with range activities.
 
-        (4) __Military munitions.—__ 
+        (4)  __Military munitions__  __.—__ 
 
             (A) The term “military munitions” means all ammunition products and components produced for or used by the armed forces for national defense and security, including ammunition products or components under the control of the Department of Defense, the Coast Guard, the Department of Energy, and the National Guard.
 
@@ -275,7 +275,7 @@
 
                 (iii) Nuclear weapons, nuclear devices, and nuclear components, other than nonnuclear components of nuclear devices that are managed under the nuclear weapons program of the Department of Energy after all required sanitization operations under the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.) have been completed.
 
-        (5) __Unexploded ordnance.—__ 
+        (5)  __Unexploded ordnance__  __.—__ 
 
         The term “unexploded ordnance” means military munitions that—
 
@@ -285,7 +285,7 @@
 
             (C) remain unexploded, whether by malfunction, design, or any other cause.
 
-    (f) __Rules of Construction.—__ 
+    (f)  __Rules of Construction__  __.—__ 
 
     In this title—
 
@@ -299,7 +299,7 @@
 
         (5) “spouse” means husband or wife, as the case may be.
 
-    (g) __Reference to Title 1 Definitions.—__ 
+    (g)  __Reference to Title__  __1__  __Definitions__  __.—__ 
 
     For other definitions applicable to this title, see sections 1 through 5 of title 1.
 
@@ -827,11 +827,11 @@ Sept. 3, 1954, ch. 1257, § 102(6), 68 Stat. 1150.  </td>
 
 [Pub. L. 112–239, div. A, title VI, § 681(d)][/us/pl/112/239/s681/d], Jan. 2, 2013, [126 Stat. 1795][/us/stat/126/1795], provided that:
 
->     “(1) __Inclusion of prior orders.—__ 
+>     “(1)  __Inclusion of prior orders__  __.—__ 
 
 >     The amendments made by this section \[amending this section, [section 12731 of this title][/us/usc/t10/s12731], and [section 3301 of Title 38][/us/usc/t38/s3301], Veterans’ Benefits\] shall apply to any call or order to active duty authorized under [section 712 of title 14][/us/usc/t14/s712], United States Code, on or after December 31, 2011, by the Secretary of the executive department in which the Coast Guard is operating.
 
->     “(2) __Credit for prior service.—__ 
+>     “(2)  __Credit for prior service__  __.—__ 
 
 >     The amendments made by this section shall be deemed to have been enacted on December 31, 2011, for purposes of applying the amendments to the following provisions of law:
 

@@ -15,7 +15,7 @@
 
 ## § 2913. Energy savings contracts and activities
 
-    (a) __Shared Energy Savings Contracts.—__ 
+    (a)  __Shared Energy Savings Contracts__  __.—__ 
 
         (1) The Secretary of Defense shall develop a simplified method of contracting for shared energy savings contract services that will accelerate the use of these contracts with respect to military installations and will reduce the administrative effort and cost on the part of the Department of Defense as well as the private sector.
 
@@ -33,15 +33,15 @@
 
         (3) In carrying out paragraph (1), the Secretary may also provide for the direct negotiation, by departments, agencies, and instrumentalities of the Department of Defense, of contracts with shared energy savings contractors that have been selected competitively and approved by any gas or electric utility serving the department, agency, or instrumentality concerned.
 
-    (b) __Participation in Gas or Electric Utility Programs.—__ 
+    (b)  __Participation in Gas or Electric Utility Programs__  __.—__ 
 
     The Secretary of Defense shall permit and encourage each military department, Defense Agency, and other instrumentality of the Department of Defense to participate in programs conducted by any gas or electric utility for the management of energy demand or for energy conservation.
 
-    (c) __Acceptance of Financial Incentive, Goods, or Services.—__ 
+    (c)  __Acceptance of Financial Incentive, Goods, or Services__  __.—__ 
 
     The Secretary of Defense may authorize any military installation to accept any financial incentive, goods, or services generally available from a gas or electric utility, to adopt technologies and practices that the Secretary determines are in the interests of the United States and consistent with the energy performance goals for the Department of Defense.
 
-    (d) __Agreements With Gas or Electric Utilities.—__ 
+    (d)  __Agreements With Gas or Electric Utilities__  __.—__ 
 
         (1) The Secretary of Defense may authorize the Secretary of a military department having jurisdiction over a military installation to enter into agreements with gas or electric utilities to design and implement cost-effective demand and conservation incentive programs (including energy management services, facilities alterations, and the installation and maintenance of energy saving devices and technologies by the utilities) to address the requirements and circumstances of the installation.
 

@@ -31,15 +31,13 @@
 
 > “SEC. 2. __DEPARTMENT OF DEFENSE POLICY CONCERNING HOMOSEXUALITY IN THE ARMED FORCES.__ 
 
->     “(a) __Comprehensive Review on the Implementation of a Repeal of 10 U.__ 
+>     “(a)  __Comprehensive Review on the Implementation of a Repeal of__  __10__  __U.S.C.__  __654.—__ 
 
->     S.C. 654.—
-
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         On March 2, 2010, the Secretary of Defense issued a memorandum directing the Comprehensive Review on the Implementation of a Repeal of [10 U.S.C. 654][/us/usc/t10/s654] ([section 654 of title 10][/us/usc/t10/s654], United States Code).
 
->         “(2) __Objectives and scope of review.—__ 
+>         “(2)  __Objectives and scope of review__  __.—__ 
 
 >         The Terms of Reference accompanying the Secretary’s memorandum established the following objectives and scope of the ordered review:
 
@@ -57,7 +55,7 @@
 
 >             “(G) Evaluate the issues raised in ongoing litigation involving [10 U.S.C. 654][/us/usc/t10/s654].
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The amendments made by subsection (f) shall take effect 60 days after the date on which the last of the following occurs:
 
@@ -73,21 +71,21 @@
 
 >             “(C) That the implementation of necessary policies and regulations pursuant to the discretion provided by the amendments made by subsection (f) is consistent with the standards of military readiness, military effectiveness, unit cohesion, and recruiting and retention of the Armed Forces.
 
->     “(c) __No Immediate Effect on Current Policy.—__ 
+>     “(c)  __No Immediate Effect on Current Policy__  __.—__ 
 
 >     [Section 654 of title 10][/us/usc/t10/s654], United States Code, shall remain in effect until such time that all of the requirements and certifications required by subsection (b) are met. If these requirements and certifications are not met, [section 654 of title 10][/us/usc/t10/s654], United States Code, shall remain in effect.
 
->     “(d) __Benefits.—__ 
+>     “(d)  __Benefits__  __.—__ 
 
 >     Nothing in this section, or the amendments made by this section, shall be construed to require the furnishing of benefits in violation of [section 7 of title 1][/us/usc/t1/s7], United States Code (relating to the definitions of ‘marriage’ and ‘spouse’ and referred to as the ‘Defense of Marriage Act’).
 
->     “(e) __No Private Cause of Action.—__ 
+>     “(e)  __No Private Cause of Action__  __.—__ 
 
 >     Nothing in this section, or the amendments made by this section, shall be construed to create a private cause of action.
 
->     “(f) __Treatment of 1993 Policy.—__ 
+>     “(f)  __Treatment of__  __1993 Policy.—__ 
 
->         “(1) __Title 10.—__ 
+>         “(1)  __Title 10__  __.—__ 
 
 >         Upon the effective date established by subsection (b), chapter 37 of title 10, United States Code, is amended—
 
@@ -95,7 +93,7 @@
 
 >             “(B) in the table of sections at the beginning of such chapter, by striking the item relating to section 654.
 
->         “(2) __Conforming amendment.—__ 
+>         “(2)  __Conforming amendment__  __.—__ 
 
 >         Upon the effective date established by subsection (b), section 571 of the National Defense Authorization Act for Fiscal Year 1994 \[[Pub. L. 103–160][/us/pl/103/160]\] ([10 U.S.C. 654][/us/usc/t10/s654] note) is amended by striking subsections (b), (c), and (d).”
 

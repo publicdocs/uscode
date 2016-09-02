@@ -15,11 +15,11 @@
 
 ## § 14501. Failure of selection for promotion
 
-    (a) __Officers Below the Grade of Colonel or Navy Captain.—__ 
+    (a)  __Officers Below the Grade of Colonel or Navy Captain__  __.—__ 
 
     An officer on the reserve active-status list in a grade below the grade of colonel or, in the case of an officer in the Navy Reserve, captain who is in or above the promotion zone established for that officer’s grade and competitive category and who (1) is considered but not recommended for promotion (other than by a vacancy promotion board), or (2) declines to accept a promotion for which selected (other than by a vacancy promotion board), shall be considered to have failed of selection for promotion.
 
-    (b) __Officers Twice Failed of Selection.—__ 
+    (b)  __Officers Twice Failed of Selection__  __.—__ 
 
     An officer shall be considered for all purposes to have twice failed of selection for promotion if any of the following applies:
 
@@ -55,7 +55,7 @@
 
 [Pub. L. 103–337, div. A, title XVI, § 1681][/us/pl/103/337/s1681], Oct. 5, 1994, [108 Stat. 3021][/us/stat/108/3021], provided that:
 
->     “(a) __Continuation Under Old Law.—__ 
+>     “(a)  __Continuation Under Old Law__  __.—__ 
 
 >     Except as provided in subsection (b), a reserve officer of the Army or the Air Force who, on the effective date of this title \[Oct. 1, 1996, see section 1691(b)(1), (2) of [Pub. L. 103–337][/us/pl/103/337], set out as an Effective Date note under [section 10001 of this title][/us/usc/t10/s10001]\]—
 
@@ -67,7 +67,7 @@
 
 >         shall continue to be subject to mandatory transfer to the Retired Reserve or discharge from the officer’s reserve appointment under section 3851 or 8851 of title 10, United States Code, as in effect on the day before the effective date of this title.
 
->     “(b) __Exemption.—__ 
+>     “(b)  __Exemption__  __.—__ 
 
 >     This section does not apply to an officer who is—
 
@@ -81,7 +81,7 @@
 
 [Pub. L. 103–337, div. A, title XVI, § 1690][/us/pl/103/337/s1690], Oct. 5, 1994, [108 Stat. 3025][/us/stat/108/3025], provided that:
 
->     “(a) __Savings Provisions for Required Separation Age.—__ 
+>     “(a)  __Savings Provisions for Required Separation Age__  __.—__ 
 
 >     A reserve officer of the Navy or the Marine Corps—
 
@@ -97,7 +97,7 @@
 
 >         is entitled to be treated as that officer would have been treated under section 6397 or 6403 as applicable, as in effect on the day before the effective date of this title, if that treatment would result in the date for the officer’s separation from an active status being a later date than the date established under the law in effect on or after the effective date of this title.
 
->     “(b) __Savings Provisions for Mandatory Separation for Age.—__ 
+>     “(b)  __Savings Provisions for Mandatory Separation for Age__  __.—__ 
 
 >     An officer who was initially appointed in the Naval Reserve \[now Navy Reserve\] or the Marine Corps Reserve before January 1, 1953, and who cannot complete 20 years of service computed under [section 12732 of this title][/us/usc/t10/s12732] before he becomes 62 years of age, but can complete this service by the time he becomes 64 years of age, may be retained in an active status not later than the date he becomes 64 years of age.
 

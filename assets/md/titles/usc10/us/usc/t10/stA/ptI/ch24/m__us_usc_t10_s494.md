@@ -17,7 +17,7 @@
 
     (a) __Implementation of New START Treaty.—__ 
 
-        (1) __Sense of congress.—__ 
+        (1)  __Sense of congress__  __.—__ 
 
         It is the Sense of Congress that—
 
@@ -31,7 +31,7 @@
 
         (2) __Insufficient funding.—__ 
 
-            (A) __Report.—__ 
+            (A)  __Report__  __.—__ 
 
             During each year in which the New START Treaty is in force, if the President determines that an appropriations Act is enacted that fails to meet the resource levels set forth in the November 2010 update to the plan referred to in section 1251 of the National Defense Authorization Act for Fiscal Year 2010 ([Public Law 111–84][/us/pl/111/84]; [123 Stat. 2549][/us/stat/123/2549]) or if at any time determines that more resources are required to carry out such plan than were estimated, the President shall transmit to the appropriate congressional committees, within 60 days of making such a determination, a report detailing—
 
@@ -51,11 +51,11 @@
 
                 (v) a detailed explanation of why the modernization timelines established in the 2010 Nuclear Posture Review are no longer applicable.
 
-            (B) __Prior notification.—__ 
+            (B)  __Prior notification__  __.—__ 
 
             If the President transmits a report under subparagraph (A), the President shall notify the appropriate congressional committees of any determination by the President to reduce the number of deployed nuclear warheads of the United States by not later than 60 days before taking any action to carry out such reduction.
 
-            (C) __Exception.—__ 
+            (C)  __Exception__  __.—__ 
 
             The limitation in subparagraph (B) shall not apply to—
 
@@ -63,7 +63,7 @@
 
                 (ii) nuclear warheads that are retired or awaiting dismantlement on the date of the report under subparagraph (A).
 
-            (D) __Definitions.—__ 
+            (D)  __Definitions__  __.—__ 
 
             In this paragraph:
 
@@ -79,7 +79,7 @@
 
     (b) __Annual Report on the Nuclear Weapons Stockpile of the United States.—__ 
 
-        (1) __Sense of congress.—__ 
+        (1)  __Sense of congress__  __.—__ 
 
         It is the sense of Congress that—
 
@@ -87,7 +87,7 @@
 
             (B) such investments could enable additional future reductions in the hedge stockpile.
 
-        (2) __Report required.—__ 
+        (2)  __Report required__  __.—__ 
 
         Not later than March 1, 2012, and annually thereafter, the Secretary of Defense shall submit to the congressional defense committees a report on the nuclear weapons stockpile of the United States that includes the following:
 
@@ -97,7 +97,7 @@
 
     (c) __Net Assessment of Nuclear Force Levels Required With Respect to Certain Proposals To Reduce the Nuclear Weapons Stockpile of the United States.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If, during any year beginning after the date of the enactment of this Act, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the President makes a proposal described in paragraph (2)—
 
@@ -109,11 +109,11 @@
 
         (2) __Proposal described.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on the date of the enactment of this Act.1
 
-            (B) __Exceptions.—__ 
+            (B)  __Exceptions__  __.—__ 
 
             A proposal described in this paragraph does not include—
 
@@ -121,21 +121,21 @@
 
                 (ii) nuclear weapons retired or awaiting dismantlement on the date of the enactment of this Act.1
 
-        (3) __Termination.—__ 
+        (3)  __Termination__  __.—__ 
 
         The requirement in paragraph (1) shall terminate on December 31, 2017.
 
     (d) __Prevention of Asymmetry in Reductions.—__ 
 
-        (1) __Certification.—__ 
+        (1)  __Certification__  __.—__ 
 
         During any year in which the President recommends to reduce the number of nuclear weapons in the active and inactive stockpiles of the United States by a number that is greater than a de minimis reduction, the President shall certify in writing to the congressional defense committees whether such reductions will cause the number of nuclear weapons in such stockpiles to be fewer than the high-confidence assessment of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4])) with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation.
 
-        (2) __Notification.—__ 
+        (2)  __Notification__  __.—__ 
 
         If the President certifies under paragraph (1) that the recommended number of nuclear weapons in the active and inactive stockpiles of the United States is fewer than the high-confidence assessment of the intelligence community with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation, the President shall transmit to the congressional defense committees a report by the Commander of the United States Strategic Command, without change, detailing whether the recommended reduction would create a strategic imbalance or degrade deterrence and extended deterrence between the total number of nuclear weapons of the United States and the total number of nuclear weapons of the Russian Federation. The President shall transmit such report by not later than 60 days before the date on which the President carries out any such recommended reductions.
 
-        (3) __Exception.—__ 
+        (3)  __Exception__  __.—__ 
 
         The notification in paragraph (2) shall not apply to—
 
@@ -143,7 +143,7 @@
 
             (B) nuclear warheads that are retired or awaiting dismantlement on the date of the certification under paragraph (1).
 
-        (4) __Additional views.—__ 
+        (4)  __Additional views__  __.—__ 
 
         On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 

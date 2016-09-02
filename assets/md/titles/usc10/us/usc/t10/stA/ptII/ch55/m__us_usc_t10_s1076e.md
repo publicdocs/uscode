@@ -15,21 +15,21 @@
 
 ## § 1076e. TRICARE program: TRICARE Standard coverage for certain members of the Retired Reserve who are qualified for a non-regular retirement but are not yet age 60
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
         (1) Except as provided in paragraph (2), a member of the Retired Reserve of a reserve component of the armed forces who is qualified for a non-regular retirement at age 60 under chapter 1223 of this title, but is not age 60, is eligible for health benefits under TRICARE Standard as provided in this section.
 
         (2) Paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
 
-    (b) __Termination of Eligibility Upon Obtaining Other TRICARE Standard Coverage.—__ 
+    (b)  __Termination of Eligibility Upon Obtaining Other TRICARE Standard Coverage__  __.—__ 
 
     Eligibility for TRICARE Standard coverage of a member under this section shall terminate upon the member becoming eligible for TRICARE Standard coverage at age 60 under [section 1086 of this title][/us/usc/t10/s1086].
 
-    (c) __Family Members.—__ 
+    (c)  __Family Members__  __.—__ 
 
     While a member of a reserve component is covered by TRICARE Standard under this section, the members of the immediate family of such member are eligible for TRICARE Standard coverage as dependents of the member. If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage under this section shall continue for the same period of time that would be provided under [section 1086 of this title][/us/usc/t10/s1086] if the member had been eligible at the time of death for TRICARE Standard coverage under such section (instead of under this section).
 
-    (d) __Premiums.—__ 
+    (d)  __Premiums__  __.—__ 
 
         (1) A member of a reserve component covered by TRICARE Standard under this section shall pay a premium for that coverage.
 
@@ -41,11 +41,11 @@
 
         (5) Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under [section 1100 of this title][/us/usc/t10/s1100], shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations for the administration of this section.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

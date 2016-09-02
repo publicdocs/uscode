@@ -15,7 +15,7 @@
 
 ## § 2313. Examination of records of contractor
 
-    (a) __Agency Authority.—__ 
+    (a)  __Agency Authority__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
             (D) performance of the contract or subcontract.
 
-    (b) __DCAA Subpoena Authority.—__ 
+    (b)  __DCAA Subpoena Authority__  __.—__ 
 
         (1) The Director of the Defense Contract Audit Agency (or any successor agency) may require by subpoena the production of any records of a contractor that the Secretary of Defense is authorized to audit or examine under subsection (a).
 
@@ -45,7 +45,7 @@
 
         (3) The authority provided by paragraph (1) may not be redelegated.
 
-    (c) __Comptroller General Authority.—__ 
+    (c)  __Comptroller General Authority__  __.—__ 
 
         (1) Except as provided in paragraph (2), each contract awarded after using procedures other than sealed bid procedures shall provide that the Comptroller General and his representatives are authorized to examine any records of the contractor, or any of its subcontractors, that directly pertain to, and involve transactions relating to, the contract or subcontract and to interview any current employee regarding such transactions.
 
@@ -59,15 +59,15 @@
 
         (3) Paragraph (1) may not be construed to require a contractor or subcontractor to create or maintain any record that the contractor or subcontractor does not maintain in the ordinary course of business or pursuant to another provision of law.
 
-    (d) __Limitation on Audits Relating to Indirect Costs.—__ 
+    (d)  __Limitation on Audits Relating to Indirect Costs__  __.—__ 
 
     The head of an agency may not perform an audit of indirect costs under a contract, subcontract, or modification before or after entering into the contract, subcontract, or modification in any case in which the contracting officer determines that the objectives of the audit can reasonably be met by accepting the results of an audit that was conducted by any other department or agency of the Federal Government within one year preceding the date of the contracting officer’s determination.
 
-    (e) __Limitation.—__ 
+    (e)  __Limitation__  __.—__ 
 
     The authority of the head of an agency under subsection (a), and the authority of the Comptroller General under subsection (c), with respect to a contract or subcontract shall expire three years after final payment under such contract or subcontract.
 
-    (f) __Inapplicability to Certain Contracts.—__ 
+    (f)  __Inapplicability to Certain Contracts__  __.—__ 
 
     This section does not apply to the following contracts:
 
@@ -75,11 +75,11 @@
 
         (2) A contract or subcontract that is for an amount not greater than the simplified acquisition threshold.
 
-    (g) __Forms of Original Record Storage.—__ 
+    (g)  __Forms of Original Record Storage__  __.—__ 
 
     Nothing in this section shall be construed to preclude a contractor from duplicating or storing original records in electronic form.
 
-    (h) __Use of Images of Original Records.—__ 
+    (h)  __Use of Images of Original Records__  __.—__ 
 
     The head of an agency shall not require a contractor or subcontractor to provide original records in an audit carried out pursuant to this section if the contractor or subcontractor provides photographic or electronic images of the original records and meets the following requirements:
 
@@ -89,7 +89,7 @@
 
         (3) The contractor or subcontractor retains the original records for a minimum of one year after imaging to permit periodic validation of the imaging systems.
 
-    (i) __Records Defined.—__ 
+    (i)  __Records Defined__  __.—__ 
 
     In this section, the term “records” includes books, documents, accounting procedures and practices, and other data, regardless of type and regardless of whether such items are in written form, in the form of computer data, or in any other form.
 
@@ -197,11 +197,11 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
 [Pub. L. 112–239, div. A, title VIII, § 832][/us/pl/112/239/s832], Jan. 2, 2013, [126 Stat. 1844][/us/stat/126/1844], provided that:
 
->     “(a) __Revised Guidance Required.—__ 
+>     “(a)  __Revised Guidance Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Director of the Defense Contract Audit Agency shall revise guidance on access to defense contractor internal audit reports (including the Contract Audit Manual) to incorporate the requirements of this section.
 
->     “(b) __Documentation Requirements.—__ 
+>     “(b)  __Documentation Requirements__  __.—__ 
 
 >     The revised guidance shall ensure that requests for access to defense contractor internal audit reports are appropriately documented. The required documentation shall include, at a minimum, the following:
 
@@ -211,15 +211,15 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
 >         “(3) A record of response received from the contractor, including the contractor’s rationale or justification if access to requested reports was not granted.
 
->     “(b) __\[sic\] Safeguards and Protections.—__ 
+>     “(b) __\[sic\]__  __Safeguards and Protections__  __.—__ 
 
 >     The revised guidance shall include appropriate safeguards and protections to ensure that contractor internal audit reports cannot be used by the Defense Contract Audit Agency for any purpose other than evaluating and testing the efficacy of contractor internal controls and the reliability of associated contractor business systems.
 
->     “(c) __Risk-based Auditing.—__ 
+>     “(c)  __Risk-based Auditing__  __.—__ 
 
 >     A determination by the Defense Contract Audit Agency that a contractor has a sound system of internal controls shall provide the basis for increased reliance on contractor business systems or a reduced level of testing with regard to specific audits, as appropriate. Internal audit reports provided by a contractor pursuant to this section may be considered in determining whether or not a contractor has a sound system of internal controls, but shall not be the sole basis for such a determination.
 
->     “(d) __Comptroller General Review.—__ 
+>     “(d)  __Comptroller General Review__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act, the Comptroller General of the United States shall initiate a review of the documentation required by subsection (a). Not later than 90 days after completion of the review, the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the review, with findings and recommendations for improving the audit processes of the Defense Contract Audit Agency.”
 
@@ -229,7 +229,7 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
 >     “(a) __Department of Defense Contracts, Grants, and Cooperative Agreements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall revise the Department of Defense Supplement to the Federal Acquisition Regulation to require that—
 
@@ -237,7 +237,7 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
 >             “(B) to the maximum extent practicable, each covered contract, grant, and cooperative agreement of the Department that is awarded before the date of the enactment of this Act shall be modified to include the clause described in paragraph (2).
 
->         “(2) __Clause.—__ 
+>         “(2)  __Clause__  __.—__ 
 
 >         The clause described in this paragraph is a clause authorizing the Secretary, upon a written determination pursuant to paragraph (3), to examine any records of the contractor, the recipient of a grant or cooperative agreement, or any subcontractor or subgrantee under such contract, grant, or cooperative agreement to the extent necessary to ensure that funds available under the contract, grant, or cooperative agreement—
 
@@ -245,19 +245,19 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
 >             “(B) are not provided directly or indirectly to persons or entities that are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
 
->         “(3) __Written determination.—__ 
+>         “(3)  __Written determination__  __.—__ 
 
 >         The authority to examine records pursuant to the contract clause described in paragraph (2) may be exercised only upon a written determination by the contracting officer or comparable official responsible for a grant or cooperative agreement, upon a finding by the Commander of the United States Central Command, that there is reason to believe that funds available under the contract, grant, or cooperative agreement concerned may have been subject to extortion or corruption or may have been provided directly or indirectly to persons or entities that are actively supporting an insurgency or otherwise actively opposing United States or coalition forces in a contingency operation.
 
->         “(4) __Flowdown.—__ 
+>         “(4)  __Flowdown__  __.—__ 
 
 >         A clause described in paragraph (2) shall also be required in any subcontract or subgrant under a covered contract, grant, or cooperative agreement if the subcontract or subgrant has an estimated value in excess of $100,000.
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >     Not later than March 1 of each of 2013, 2014, and 2015, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of the authority provided by this section in the preceding calendar year. Each report shall identify, for the calendar year covered by such report, each instance in which the Department of Defense exercised the authority provided under this section to examine records, explain the basis for the action taken, and summarize the results of any examination of records so undertaken,\[.\] Any report under this subsection may be submitted in classified form.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -267,11 +267,11 @@ Feb. 19, 1948, ch. 65, § 4(c); added Oct. 31, 1951, ch. 652 (as applicable to
 
 >     “(d) __Sunset.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The clause described by subsection (a)(2) shall not be required in any contract, grant, or cooperative agreement that is awarded after the date that is three years after the date of the enactment of this Act \[Dec. 31, 2011\].
 
->         “(2) __Continuing effect of clauses included before sunset.—__ 
+>         “(2)  __Continuing effect of clauses included before sunset__  __.—__ 
 
 >         Any clause described by subsection (a)(2) that is included in a contract, grant, or cooperative agreement pursuant to this section before the date specified in paragraph (1) shall remain in effect in accordance with its terms.”
 

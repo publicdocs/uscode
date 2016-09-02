@@ -15,15 +15,15 @@
 
 ## § 10174. Air Force Reserve Command
 
-    (a) __Establishment of Command.—__ 
+    (a)  __Establishment of Command__  __.—__ 
 
     The Secretary of the Air Force, with the advice and assistance of the Chief of Staff of the Air Force, shall establish an Air Force Reserve Command. The Air Force Reserve Command shall be operated as a separate command of the Air Force.
 
-    (b) __Commander.—__ 
+    (b)  __Commander__  __.—__ 
 
     The Chief of Air Force Reserve is the Commander of the Air Force Reserve Command. The commander of the Air Force Reserve Command reports directly to the Chief of Staff of the Air Force.
 
-    (c) __Assignment of Forces.—__ 
+    (c)  __Assignment of Forces__  __.—__ 
 
     The Secretary of the Air Force—
 

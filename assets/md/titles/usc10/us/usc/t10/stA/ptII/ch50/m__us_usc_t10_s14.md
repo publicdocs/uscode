@@ -17,11 +17,11 @@
 
 ## “SEC. 14. STUDY AND REPORTS BY INSPECTOR GENERAL OF THE DEPARTMENT OF DEFENSE.
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Inspector General of the Department of Defense shall conduct a study on the impact of Department of Defense Instruction 1344.07 (as in effect on the date of enactment of this Act \[Sept. 29, 2006\]) and the reforms included in this Act on the quality and suitability of sales of securities and insurance products marketed or otherwise offered to members of the Armed Forces.
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >     Not later than 12 months after the date of enactment of this Act, the Inspector General of the Department of Defense shall submit an initial report on the results of the study conducted under subsection (a) to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives, and shall submit followup reports to those committees on December 31, 2008 and December 31, 2010.”
 

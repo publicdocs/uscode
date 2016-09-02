@@ -15,11 +15,11 @@
 
 ## § 2862. Turn-key selection procedures
 
-    (a) __Authority to Use.—__ 
+    (a)  __Authority to Use__  __.—__ 
 
     The Secretary concerned may use one-step turn-key selection procedures for the purpose of entering into contracts for the construction of authorized military construction projects.
 
-    (b) __Definition.—__ 
+    (b)  __Definition__  __.—__ 
 
     In this section, the term “one-step turn-key selection procedures” means procedures used for the selection of a contractor on the basis of price and other evaluation criteria to perform, in accordance with the provisions of a firm fixed-price contract, both the design and construction of a facility using performance specifications supplied by the Secretary concerned.
 

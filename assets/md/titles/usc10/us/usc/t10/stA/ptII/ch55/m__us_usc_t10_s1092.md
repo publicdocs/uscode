@@ -73,19 +73,19 @@
 
 >     “(a) __Pilot Program.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall conduct a pilot program to provide for the treatment of autism spectrum disorders, including applied behavior analysis.
 
->         “(2) __Commencement.—__ 
+>         “(2)  __Commencement__  __.—__ 
 
 >         The Secretary shall commence the pilot program under paragraph (1) by not later than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\].
 
->     “(b) __Duration.—__ 
+>     “(b)  __Duration__  __.—__ 
 
 >     The Secretary may not carry out the pilot program under subsection (a)(1) for longer than a one-year period.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than 270 days after the date on which the pilot program under subsection (a)(1) commences, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. The report shall include the following:
 
@@ -103,7 +103,7 @@
 
 >         “(4) Any additional information the Secretary considers appropriate.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -115,13 +115,13 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 712, Oct. 14, 2008, [122 Stat. 4501][/us/stat/122/4501], provided that:
 
->     “(a) __Demonstration Project Required.—__ 
+>     “(a)  __Demonstration Project Required__  __.—__ 
 
 >     The Secretary of Defense shall conduct a demonstration project designed to evaluate the efficacy of providing incentives to encourage healthy behaviors on the part of eligible military health system beneficiaries.
 
 >     “(b) __Elements of Demonstration Project.—__ 
 
->         “(1) __Wellness assessment.—__ 
+>         “(1)  __Wellness assessment__  __.—__ 
 
 >         The Secretary shall develop a wellness assessment to be offered to beneficiaries enrolled in the demonstration project. The wellness assessment shall incorporate nationally recognized standards for health and healthy behaviors and shall be offered to determine a baseline and at appropriate intervals determined by the Secretary. The wellness assessment shall include the following:
 
@@ -141,23 +141,23 @@
 
 >                 “(v) weight.
 
->         “(2) __Population enrolled.—__ 
+>         “(2)  __Population enrolled__  __.—__ 
 
 >         Non-medicare eligible retired beneficiaries of the military health system and their dependents who are enrolled in TRICARE Prime and who reside in the demonstration project service area shall be offered the opportunity to enroll in the demonstration project.
 
->         “(3) __Geographic coverage of demonstration project.—__ 
+>         “(3)  __Geographic coverage of demonstration project__  __.—__ 
 
 >         The demonstration project shall be conducted in at least three geographic areas within the United States where TRICARE Prime is offered, as determined by the Secretary. The area covered by the project shall be referred to as the demonstration project service area.
 
->         “(4) __Programs.—__ 
+>         “(4)  __Programs__  __.—__ 
 
 >         The Secretary shall develop programs to assist enrollees to improve healthy behaviors, as identified by the wellness assessment.
 
->         “(5) __Inclusion of incentives required.—__ 
+>         “(5)  __Inclusion of incentives required__  __.—__ 
 
 >         For the purpose of conducting the demonstration project, the Secretary may offer monetary and non-monetary incentives to enrollees to encourage participation in the demonstration project.
 
->     “(c) __Evaluation of Demonstration Project.—__ 
+>     “(c)  __Evaluation of Demonstration Project__  __.—__ 
 
 >     The Secretary shall annually evaluate the demonstration project for the following:
 
@@ -165,21 +165,21 @@
 
 >         “(2) In the case of baseline health risk assessments and physiological and biometric measures that reflect healthy behaviors, the extent to which the measures are maintained.
 
->     “(d) __Implementation Plan.—__ 
+>     “(d)  __Implementation Plan__  __.—__ 
 
 >     The Secretary of Defense shall submit a plan to implement the health risk management demonstration project required by this section not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\].
 
->     “(e) __Duration of Project.—__ 
+>     “(e)  __Duration of Project__  __.—__ 
 
 >     The health risk management demonstration project shall be implemented for a period of three years, beginning not later than March 1, 2009, and ending three years after that date.
 
 >     “(f) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives an annual report on the effectiveness of the health risk management demonstration project in improving the health risk measures of military health system beneficiaries enrolled in the demonstration project. The first report shall be submitted not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and subsequent reports shall be submitted for each year of the demonstration project with the final report being submitted not later than 90 days after the termination of the demonstration project.
 
->         “(2) __Matters covered.—__ 
+>         “(2)  __Matters covered__  __.—__ 
 
 >         Each report shall address, at a minimum, the following:
 
@@ -203,11 +203,11 @@
 
 [Pub. L. 109–163, div. A, title VII, § 712][/us/pl/109/163/s712], Jan. 6, 2006, [119 Stat. 3343][/us/stat/119/3343], provided that:
 
->     “(a) __Availability of Chiropractic Health Care Services.—__ 
+>     “(a)  __Availability of Chiropractic Health Care Services__  __.—__ 
 
 >     The Secretary of the Air Force shall ensure that chiropractic health care services are available at all medical treatment facilities listed in table 5 of the report to Congress dated August 16, 2001, titled ‘Chiropractic Health Care Implementation Plan’. If the Secretary determines that it is not necessary or feasible to provide chiropractic health care services at any such facility, the Secretary shall provide such services at an alternative site for each such facility.
 
->     “(b) __Implementation and Report.—__ 
+>     “(b)  __Implementation and Report__  __.—__ 
 
 >     Not later than September 30, 2006, the Secretary of the Air Force shall—
 
@@ -219,11 +219,11 @@
 
 [Pub. L. 108–375, div. A, title VII, § 721][/us/pl/108/375/s721], Oct. 28, 2004, [118 Stat. 1988][/us/stat/118/1988], as amended by [Pub. L. 110–181, div. A, title VII, § 707][/us/pl/110/181/s707], Jan. 28, 2008, [122 Stat. 189][/us/stat/122/189]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(e), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Secretary of Defense may conduct a pilot program at two or more military installations for purposes of testing initiatives that build cooperative health care arrangements and agreements between military installations and local and regional non-military health care systems.
 
->     “(b) __Requirements of Pilot Program.—__ 
+>     “(b)  __Requirements of Pilot Program__  __.—__ 
 
 >     In conducting the pilot program, the Secretary of Defense shall—
 
@@ -237,11 +237,11 @@
 
 >         “(5) collaborate with State and local authorities to create an arrangement to share and exchange, between the Department of Defense and non-military health care systems, personal health information and data of military personnel and their families.
 
->     “(c) __Consultation Requirements.—__ 
+>     “(c)  __Consultation Requirements__  __.—__ 
 
 >     The Secretary of Defense shall develop the pilot program in consultation with the Secretaries of the military departments, representatives from the military installation selected for the pilot program, Federal, State, and local entities, and the TRICARE managed care support contractor with responsibility for that installation.
 
->     “(d) __Selection of Military Installation.—__ 
+>     “(d)  __Selection of Military Installation__  __.—__ 
 
 >     The pilot program may be implemented at two or more military installations selected by the Secretary of Defense. At least one of the selected military installations shall meet the following criteria:
 
@@ -261,11 +261,11 @@
 
 >             “(B) limited or no capability to provide trauma care.
 
->     “(e) __Duration of Pilot Program.—__ 
+>     “(e)  __Duration of Pilot Program__  __.—__ 
 
 >     Implementation of the pilot program developed under this section shall begin not later than May 1, 2005, and shall be conducted during fiscal years 2005 through 2010.
 
->     “(f) __Reports.—__ 
+>     “(f)  __Reports__  __.—__ 
 
 >     With respect to any pilot program conducted under this section, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and of the House of Representatives—
 
@@ -297,11 +297,11 @@
 
 [Pub. L. 108–375, div. A, title VII, § 718][/us/pl/108/375/s718], Oct. 28, 2004, [118 Stat. 1987][/us/stat/118/1987], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall establish an oversight advisory committee to provide the Secretary with advice and recommendations regarding the continued development and implementation of an effective program of chiropractic health care benefits for members of the uniformed services on active duty.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The advisory committee shall be composed of members selected from among persons who, by reason of education, training, and experience, are experts in chiropractic health care, as follows:
 
@@ -309,15 +309,15 @@
 
 >         “(2) A representative of each of the uniformed services, as designated by the administering Secretary concerned.
 
->     “(c) __Chairman.—__ 
+>     “(c)  __Chairman__  __.—__ 
 
 >     The Secretary of Defense shall designate one member of the advisory committee to serve as the Chairman of the advisory committee.
 
->     “(d) __Meetings.—__ 
+>     “(d)  __Meetings__  __.—__ 
 
 >     The advisory committee shall meet at the call of the Chairman, but not fewer than three times each fiscal year, beginning in fiscal year 2005.
 
->     “(e) __Duties.—__ 
+>     “(e)  __Duties__  __.—__ 
 
 >     The advisory committee shall have the following duties:
 
@@ -327,7 +327,7 @@
 
 >         “(3) Upon the Secretary’s determination that the program of chiropractic health care benefits referred to in paragraph (1) has been fully implemented, prepare and submit to the Secretary a report containing the advisory committee’s evaluation of the implementation of such program.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     The Secretary of Defense, following receipt of the report by the advisory committee under subsection (e)(3), shall submit to the Committees on Armed Services of the Senate and of the House of Representatives a report containing the following:
 
@@ -337,13 +337,13 @@
 
 >         “(3) The Secretary’s views with regard to the future implementation of the program of chiropractic health care benefits.
 
->     “(g) __Applicability of Temporary Organizations Law.—__ 
+>     “(g)  __Applicability of Temporary Organizations Law__  __.—__ 
 
 >         (1) [Section 3161 of title 5][/us/usc/t5/s3161], United States Code, shall apply to the advisory committee under this section.
 
 >         “(2) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the oversight advisory committee under this section.
 
->     “(h) __Termination.—__ 
+>     “(h)  __Termination__  __.—__ 
 
 >     The advisory committee shall terminate 90 days after the date on which the Secretary submits the report under subsection (f).”
 
@@ -353,7 +353,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 702\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–173, provided that:
 
->     “(a) __Plan Required.—__ 
+>     “(a)  __Plan Required__  __.—__ 
 
 >         (1) Not later than March 31, 2001, the Secretary of Defense shall complete development of a plan to provide chiropractic health care services and benefits, as a permanent part of the Defense Health Program (including the TRICARE program), for all members of the uniformed services who are entitled to care under [section 1074(a) of title 10][/us/usc/t10/s1074/a], United States Code.
 
@@ -373,7 +373,7 @@
 
 >             “(F) Phased-in implementation of the plan over a 5-year period, beginning on October 1, 2001.
 
->     “(b) __Consultation Requirements.—__ 
+>     “(b)  __Consultation Requirements__  __.—__ 
 
 >     The Secretary of Defense shall consult with the other administering Secretaries described in [section 1073 of title 10][/us/usc/t10/s1073], United States Code, and the oversight advisory committee established under section 731 of the National Defense Authorization Act for Fiscal Year 1995 ([Public Law 103–337][/us/pl/103/337]; [10 U.S.C. 1092][/us/usc/t10/s1092] note) regarding the following:
 
@@ -383,15 +383,15 @@
 
 >         “(3) The selection of the military medical treatment facilities at which the chiropractic services described in subsection (a)(2)(A) are to be provided.
 
->     “(c) __Continuation of Current Services.—__ 
+>     “(c)  __Continuation of Current Services__  __.—__ 
 
 >     Until the plan required under subsection (a) is implemented, the Secretary shall continue to furnish the same level of chiropractic health care services and benefits under the Defense Health Program that is provided during fiscal year 2000 at military medical treatment facilities that provide such services and benefits.
 
->     “(d) __Report Required.—__ 
+>     “(d)  __Report Required__  __.—__ 
 
 >     Not later than January 31, 2001, the Secretary of Defense shall submit a report on the plan required under subsection (a), together with appropriate appendices and attachments, to the Committees on Armed Services of the Senate and the House of Representatives.
 
->     “(e) __GAO Reports.—__ 
+>     “(e)  __GAO Reports__  __.—__ 
 
 >     The Comptroller General shall monitor the development and implementation of the plan required under subsection (a), including the administration of services and benefits under the plan, and periodically submit to the committees referred to in subsection (d) written reports on such development and implementation.”
 

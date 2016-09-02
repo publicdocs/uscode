@@ -15,7 +15,7 @@
 
 ## § 2532. Offset policy; notification
 
-    (a) __Establishment of Offset Policy.—__ 
+    (a)  __Establishment of Offset Policy__  __.—__ 
 
     The President shall establish, consistent with the requirements of this section, a comprehensive policy with respect to contractual offset arrangements in connection with the purchase of defense equipment or supplies which addresses the following:
 
@@ -25,7 +25,7 @@
 
         (3) Effects of offset arrangements on specific subsectors of the industrial base of the United States and for preventing or ameliorating any serious adverse effects on such subsectors.
 
-    (b) __Technology Transfer.—__ 
+    (b)  __Technology Transfer__  __.—__ 
 
         (1) No official of the United States may enter into a memorandum of understanding or other agreement with a foreign government that would require the transfer of United States defense technology to a foreign country or a foreign firm in connection with a contract that is subject to an offset arrangement if the implementation of such memorandum or agreement would significantly and adversely affect the defense industrial base of the United States and would result in a substantial financial loss to a United States firm.
 
@@ -33,11 +33,11 @@
 
         (3) If a United States firm is required under the terms of a memorandum of understanding, or other agreement entered into by the United States with a foreign country, to transfer defense technology to a foreign country, the United States firm may protest the determination to the Secretary of Defense on the grounds that the transfer of such technology would adversely affect the defense industrial base of the United States and would result in substantial financial loss to the protesting firm. The Secretary of Defense, in consultation with the Secretary of Commerce and the Secretary of State, shall make the final determination of the validity of the protesting firm’s claim.
 
-    (c) __Notification Regarding Offsets.—__ 
+    (c)  __Notification Regarding Offsets__  __.—__ 
 
     If at any time a United States firm enters into a contract for the sale of a weapon system or defense-related item to a foreign country or foreign firm and such contract is subject to an offset arrangement exceeding $50,000,000 in value, such firm shall notify the Secretary of Defense of the proposed sale. Notification shall be made under this subsection in accordance with regulations prescribed by the Secretary of Defense in consultation with the Secretary of Commerce.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 

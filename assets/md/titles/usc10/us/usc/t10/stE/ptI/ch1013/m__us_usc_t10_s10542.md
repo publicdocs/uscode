@@ -15,11 +15,11 @@
 
 ## § 10542. Army National Guard combat readiness: annual report
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a detailed presentation concerning the Army National Guard, including particularly information relating to the implementation of the Army National Guard Combat Readiness Reform Act of 1992 (title XI of [Public Law 102–484][/us/pl/102/484]; [106 Stat. 2536][/us/stat/106/2536]) (hereinafter in this section referred to as “ANGCRRA”).
 
-    (b) __Matters To Be Included in Report.—__ 
+    (b)  __Matters To Be Included in Report__  __.—__ 
 
     Each presentation under subsection (a) shall include, with respect to the period covered by the report, the following information concerning the Army National Guard:
 

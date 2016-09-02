@@ -321,15 +321,15 @@
 
 [Pub. L. 100–180, div. A, title I, § 127][/us/pl/100/180/s127], Dec. 4, 1987, [101 Stat. 1044][/us/stat/101/1044], as amended by [Pub. L. 102–484, div. A, title VIII, § 817(a)][/us/pl/102/484/s817/a], Oct. 23, 1992, [106 Stat. 2454][/us/stat/106/2454], provided that:
 
->     “(a) __SAR Coverage for ATB, ACM, and ATA Programs.—__ 
+>     “(a)  __SAR Coverage for ATB, ACM, and ATA Programs__  __.—__ 
 
 >     The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives, in accordance with the provisions of subsection (b) of [section 2432 of title 10][/us/usc/t10/s2432], United States Code, a Selected Acquisition Report with respect to each program referred to in subsection (b), notwithstanding that such a report would not otherwise be required under [section 2432 of title 10][/us/usc/t10/s2432], United States Code.
 
->     “(b) __Covered Programs.—__ 
+>     “(b)  __Covered Programs__  __.—__ 
 
 >     Subsection (a) applies to the Advanced Technology Bomber program, the Advanced Cruise Missile program, and the Advanced Tactical Aircraft program.
 
->     “(c) __Selected Acquisition Report Defined.—__ 
+>     “(c)  __Selected Acquisition Report Defined__  __.—__ 
 
 >     As used in subsection (a), the term ‘Selected Acquisition Report’ means a report containing the information referred to in [section 2432 of title 10][/us/usc/t10/s2432], United States Code.”
 

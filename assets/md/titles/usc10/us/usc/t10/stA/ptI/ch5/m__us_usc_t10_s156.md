@@ -15,19 +15,19 @@
 
 ## § 156. Legal Counsel to the Chairman of the Joint Chiefs of Staff
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is a Legal Counsel to the Chairman of the Joint Chiefs of Staff.
 
-    (b) __Selection for Appointment.—__ 
+    (b)  __Selection for Appointment__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, the officer selected for appointment to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be recommended by a board of officers convened by the Secretary of Defense that, insofar as practicable, is subject to the procedures applicable to selection boards convened under chapter 36 of this title.
 
-    (c) __Grade.—__ 
+    (c)  __Grade__  __.—__ 
 
     An officer appointed to serve as Legal Counsel to the Chairman of the Joint Chiefs of Staff shall be appointed in the regular grade of brigadier general or rear admiral (lower half).
 
-    (d) __Duties.—__ 
+    (d)  __Duties__  __.—__ 
 
         (1) The Legal Counsel of the Chairman of the Joint Chiefs of Staff shall perform such legal duties in support of the responsibilities of the Chairman of the Joint Chiefs of Staff as the Chairman may prescribe.
 

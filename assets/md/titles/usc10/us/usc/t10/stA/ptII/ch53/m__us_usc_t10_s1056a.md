@@ -15,7 +15,7 @@
 
 ## § 1056a. Reintegration of recovered Department of Defense personnel; post-isolation support activities for other recovered personnel
 
-    (a) __Reintegration and Support Authorized.—__ 
+    (a)  __Reintegration and Support Authorized__  __.—__ 
 
     The Secretary of Defense may carry out the following:
 
@@ -23,7 +23,7 @@
 
         (2) Post-isolation support activities for or on behalf of other recovered persons who are officers or employees of the United States Government, military or civilian officers or employees of an allied or coalition partner of the United States, or other United States or foreign nationals.
 
-    (b) __Activities Authorized.—__ 
+    (b)  __Activities Authorized__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (2) Medical support may be provided under paragraph (1)(A) to a recovered person who is not a member of the armed forces for not more than 20 days.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

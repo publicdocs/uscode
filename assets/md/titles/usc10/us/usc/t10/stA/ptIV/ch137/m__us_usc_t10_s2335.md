@@ -15,7 +15,7 @@
 
 ## § 2335. Prohibition on collection of political information
 
-    (a) __Prohibition on Requiring Submission of Political Information.—__ 
+    (a)  __Prohibition on Requiring Submission of Political Information__  __.—__ 
 
     The head of an agency may not require a contractor to submit political information related to the contractor or a subcontractor at any tier, or any partner, officer, director, or employee of the contractor or subcontractor—
 
@@ -23,11 +23,11 @@
 
         (2) during the course of contract performance as part of the process associated with modifying a contract or exercising a contract option.
 
-    (b) __Scope.—__ 
+    (b)  __Scope__  __.—__ 
 
     The prohibition under this section applies to the procurement of commercial items, the procurement of commercial-off-the-shelf-items, and the non-commercial procurement of supplies, property, services, and manufactured items, irrespective of contract vehicle, including contracts, purchase orders, task or deliver orders under indefinite delivery/indefinite quantity contracts, blanket purchase agreements, and basic ordering agreements.
 
-    (c) __Rule of Construction.—__ 
+    (c)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall be construed as—
 
@@ -35,15 +35,15 @@
 
         (2) precluding the Defense Contract Audit Agency from accessing and reviewing certain information, including political information, for the purpose of identifying unallowable costs and administering cost principles established pursuant to [section 2324 of this title][/us/usc/t10/s2324].
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Contractor.—__ 
+        (1)  __Contractor__  __.—__ 
 
         The term “contractor” includes contractors, bidders, and offerors, and individuals and legal entities who would reasonably be expected to submit offers or bids for Federal Government contracts.
 
-        (2) __Political information.—__ 
+        (2)  __Political information__  __.—__ 
 
         The term “political information” means information relating to political spending, including any payment consisting of a contribution, expenditure, independent expenditure, or disbursement for an electioneering communication that is made by the contractor, any of its partners, officers, directors or employees, or any of its affiliates or subsidiaries to a candidate or on behalf of a candidate for election for Federal office, to a political committee, to a political party, to a third party entity with the intention or reasonable expectation that it would use the payment to make independent expenditures or electioneering communications, or that is otherwise made with respect to any election for Federal office, party affiliation, and voting history. Each of the terms “contribution”, “expenditure”, “independent expenditure”, “candidate”, “election”, “electioneering communication”, and “Federal office” has the meaning given the term in the Federal Campaign  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “Election”. </sup></sup>  Act of 1971 ([2 U.S.C. 431][/us/usc/t2/s431] et seq.).
 

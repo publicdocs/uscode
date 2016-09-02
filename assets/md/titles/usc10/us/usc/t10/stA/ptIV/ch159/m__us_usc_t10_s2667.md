@@ -15,7 +15,7 @@
 
 ## § 2667. Leases: non-excess property of military departments and Defense Agencies
 
-    (a) __Lease Authority.—__ 
+    (a)  __Lease Authority__  __.—__ 
 
     Whenever the Secretary concerned considers it advantageous to the United States, the Secretary concerned may lease to such lessee and upon such terms as the Secretary concerned considers will promote the national defense or to be in the public interest, real or personal property that—
 
@@ -25,7 +25,7 @@
 
         (3) is not excess property, as defined by [section 102 of title 40][/us/usc/t40/s102].
 
-    (b) __Conditions on Leases.—__ 
+    (b)  __Conditions on Leases__  __.—__ 
 
     A lease under subsection (a)—
 
@@ -43,7 +43,7 @@
 
         (7) may not provide for a leaseback by the Secretary concerned with an annual payment in excess of $500,000, or otherwise commit the Secretary concerned or the Department of Defense to annual payments in excess of such amount.
 
-    (c) __Types of In-Kind Consideration.—__ 
+    (c)  __Types of In-Kind Consideration__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (3) Sections 2662 and 2802 of this title shall not apply to any new facilities whose construction is accepted as in-kind consideration under this subsection.
 
-    (d) __Community Support Facilities and Community Support Services Under Lease; Waiver.—__ 
+    (d)  __Community Support Facilities and Community Support Services Under Lease; Waiver__  __.—__ 
 
         (1)
 
@@ -95,7 +95,7 @@
 
         (5) The Secretary of Defense shall prescribe in regulations uniform procedures and criteria for the evaluation of proposals for enhanced use leases involving the operation of community support facilities or the provision of community support services by either a lessee under this section or a covered entity.
 
-    (e) __Deposit and Use of Proceeds.—__ 
+    (e)  __Deposit and Use of Proceeds__  __.—__ 
 
         (1)
 
@@ -143,11 +143,11 @@
 
         (5) Money rentals received by the United States from a lease under subsection (g) at a military installation approved for closure or realignment under a base closure law on or after January 1, 2005, shall be deposited into the account established under section 2906A(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
-    (f) __Treatment of Lessee Interest in Property.—__ 
+    (f)  __Treatment of Lessee Interest in Property__  __.—__ 
 
     The interest of a lessee of property leased under this section may be taxed by State or local governments. A lease under this section shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
-    (g) __Special Rules for Base Closure and Realignment Property.—__ 
+    (g)  __Special Rules for Base Closure and Realignment Property__  __.—__ 
 
         (1) Notwithstanding subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41 (to the extent those provisions are inconsistent with this subsection) or subsection (a)(2) of this section, pending the final disposition of real property and personal property located at a military installation to be closed or realigned under a base closure law, the Secretary concerned may lease the property to any individual or entity under this subsection if the Secretary determines that such a lease would facilitate State or local economic adjustment efforts.
 
@@ -175,7 +175,7 @@
 
                 (ii) irreversibly alter the environment in a way that would preclude any reasonable disposal alternative of the property concerned.
 
-    (h) __Competitive Procedures for Selection of Certain Lessees; Exception.—__ 
+    (h)  __Competitive Procedures for Selection of Certain Lessees; Exception__  __.—__ 
 
         (1) If a proposed lease under subsection (a) involves only personal property, the lease term exceeds one year, or the fair market value of the lease interest exceeds $100,000, as determined by the Secretary concerned, the Secretary shall use competitive procedures to select the lessee.
 
@@ -197,7 +197,7 @@
 
             (C) The lessee is required to maintain the ship in a good state of repair, readiness, and efficient operating condition, conform to all applicable regulatory requirements, and assume full responsibility for the safety of the ship, its crew, and scientific personnel aboard.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -215,7 +215,7 @@
 
             (B) the Secretary of Defense, with respect to matters concerning the Defense Agencies.
 
-    (j) __Exclusion of Certain Lands.—__ 
+    (j)  __Exclusion of Certain Lands__  __.—__ 
 
     This section does not apply to oil, mineral, or phosphate lands.
 

@@ -15,15 +15,15 @@
 
 ## § 636. Retirement for years of service: regular officers in grades above brigadier general and rear admiral (lower half)
 
-    (a) __Major Generals and Rear Admirals Serving in Grade.—__ 
+    (a)  __Major Generals and Rear Admirals Serving in Grade__  __.—__ 
 
     Except as provided in subsection (b) or (c) and under [section 637(b) of this title][/us/usc/t10/s637/b], each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of major general, and each officer of the Regular Navy who holds the regular grade of rear admiral, shall, if not earlier retired, be retired on the first day of the first month beginning after the date of the fifth anniversary of his appointment to that grade or on the first day of the month after the month in which he completes 35 years of active commissioned service, whichever is later.
 
-    (b) __Lieutenant Generals and Vice Admirals.—__ 
+    (b)  __Lieutenant Generals and Vice Admirals__  __.—__ 
 
     In the administration of subsection (a) in the case of an officer who is serving in the grade of lieutenant general or vice admiral, the number of years of active commissioned service applicable to the officer is 38 years.
 
-    (c) __Generals and Admirals.—__ 
+    (c)  __Generals and Admirals__  __.—__ 
 
     In the administration of subsection (a) in the case of an officer who is serving in the grade of general or admiral, the number of years of active commissioned service applicable to the officer is 40 years.
 

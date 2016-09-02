@@ -15,11 +15,11 @@
 
 ## § 7315. Preservation of Navy shipbuilding capability
 
-    (a) __Shipbuilding Capability Preservation Agreements.—__ 
+    (a)  __Shipbuilding Capability Preservation Agreements__  __.—__ 
 
     The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in [section 2501(b) of this title][/us/usc/t10/s2501/b].
 
-    (b) __Cost Reimbursement Rules.—__ 
+    (b)  __Cost Reimbursement Rules__  __.—__ 
 
     The cost reimbursement rules applicable under an agreement entered into under subsection (a) are as follows:
 
@@ -41,11 +41,11 @@
 
         (3) The total amount of allocable indirect private sector costs for a contract covered by the agreement may not exceed the amount of indirect costs that a shipbuilder would have allocated to its private sector work during the period covered by the agreement in accordance with the shipbuilder’s established accounting practices.
 
-    (c) __Authority To Modify Cost Reimbursement Rules.—__ 
+    (c)  __Authority To Modify Cost Reimbursement Rules__  __.—__ 
 
     The cost reimbursement rules set forth in subsection (b) may be modified by the Secretary of the Navy for a particular agreement if the Secretary determines that modifications are appropriate to the particular situation to facilitate achievement of the policy set forth in [section 2501(b) of this title][/us/usc/t10/s2501/b].
 
-    (d) __Applicability.—__ 
+    (d)  __Applicability__  __.—__ 
 
         (1)
 

@@ -15,15 +15,15 @@
 
 ## § 2682. Facilities for defense agencies
 
-    (a) __Maintenance and Repair.—__ 
+    (a)  __Maintenance and Repair__  __.—__ 
 
     Subject to subsection (c), the maintenance and repair of a real property facility for an activity or agency of the Department of Defense (other than a military department) financed from appropriations for military functions of the Department of Defense will be accomplished by or through a military department designated by the Secretary of Defense.
 
-    (b) __Jurisdiction.—__ 
+    (b)  __Jurisdiction__  __.—__ 
 
     Subject to subsection (c), a real property facility under the jurisdiction of the Department of Defense which is used by an activity or agency of the Department of Defense (other than a military department) shall be under the jurisdiction of a military department designated by the Secretary of Defense.
 
-    (c) __Facilities for Intelligence Collection or for Special Operations Abroad.—__ 
+    (c)  __Facilities for Intelligence Collection or for Special Operations Abroad__  __.—__ 
 
     The Secretary of Defense may waive the requirements of subsections (a) and (b) if necessary to provide security for authorized intelligence collection or special operations activities abroad undertaken by the Department of Defense.
 

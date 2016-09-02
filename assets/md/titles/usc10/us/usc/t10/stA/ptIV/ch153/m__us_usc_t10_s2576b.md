@@ -15,7 +15,7 @@
 
 ## § 2576b. Excess personal property: sale or donation to assist firefighting agencies
 
-    (a) __Transfer Authorized.—__ 
+    (a)  __Transfer Authorized__  __.—__ 
 
     Subject to subsection (b), the Secretary of Defense shall transfer to a firefighting agency in a State any personal property of the Department of Defense that the Secretary determines is—
 
@@ -23,7 +23,7 @@
 
         (2) suitable for use in providing fire and emergency medical services, including personal protective equipment and equipment for communication and monitoring.
 
-    (b) __Conditions for Transfer.—__ 
+    (b)  __Conditions for Transfer__  __.—__ 
 
     The Secretary of Defense shall transfer personal property under this section only if—
 
@@ -35,19 +35,19 @@
 
         (4) all costs incurred subsequent to the transfer of the property are borne or reimbursed by the recipient.
 
-    (c) __Consideration.—__ 
+    (c)  __Consideration__  __.—__ 
 
     Subject to subsection (b)(4), the Secretary may transfer personal property under this section without charge to the recipient firefighting agency.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __State.—__ 
+        (1)  __State__  __.—__ 
 
         The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States.
 
-        (2) __Firefighting agency.—__ 
+        (2)  __Firefighting agency__  __.—__ 
 
         The term “firefighting agency” means any volunteer, paid, or combined departments that provide fire and emergency medical services.
 
@@ -61,7 +61,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title XVII, § 1707\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–367, provided that:
 
->     “(a) __Appointment of Task Force; Purpose.—__ 
+>     “(a)  __Appointment of Task Force; Purpose__  __.—__ 
 
 >     The Secretary of Defense shall appoint a task force consisting of representatives from the Department of Defense and each of the seven major fire organizations identified in subsection (b) to identify defense technologies and equipment that—
 
@@ -69,7 +69,7 @@
 
 >         “(2) can be transferred to these agencies using the authority provided by [section 2576b of title 10][/us/usc/t10/s2576b], United States Code, as added by section 1706 of this Act.
 
->     “(b) __Participating Major Fire Organizations.—__ 
+>     “(b)  __Participating Major Fire Organizations__  __.—__ 
 
 >     Members of the task force shall be appointed from each of the following:
 
@@ -87,7 +87,7 @@
 
 >         “(7) The National Fire Protection Association.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Secretary of Defense for activities of the task force $1,000,000 for fiscal year 2001.”
 

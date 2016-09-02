@@ -15,7 +15,7 @@
 
 ## § 187. Strategic Materials Protection Board
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
         (1) The Secretary of Defense shall establish a Strategic Materials Protection Board.
 
@@ -33,7 +33,7 @@
 
             (E) A designee of the Assistant Secretary of the Air Force for Acquisition.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     In addition to other matters assigned to it by the Secretary of Defense, the Board shall—
 
@@ -47,17 +47,17 @@
 
         (5) publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of [section 2533b of this title][/us/usc/t10/s2533b].
 
-    (c) __Meetings.—__ 
+    (c)  __Meetings__  __.—__ 
 
     The Board shall meet as determined necessary by the Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy but not less frequently than once every two years to make recommendations regarding materials critical to national security as described in subsection (b)(5).
 
-    (d) __Reports.—__ 
+    (d)  __Reports__  __.—__ 
 
         (1) Subject to paragraph (2), after each meeting of the Board, the Board shall prepare a report containing the results of the meeting and such recommendations as the Board determines appropriate. Each such report shall be submitted to the congressional defense committees, together with comments and recommendations from the Secretary of Defense, not later than 90 days after the meeting covered by the report.
 
         (2) In any year in which the Board meets more than once, each report prepared by the Board as required by paragraph (1) may be combined into one annual report and submitted as provided by paragraph (1) not later than 90 days after the last meeting of the year.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

@@ -15,7 +15,7 @@
 
 ## § 950d. Interlocutory appeals by the United States
 
-    (a) __Interlocutory Appeal.—__ 
+    (a)  __Interlocutory Appeal__  __.—__ 
 
     Except as provided in subsection (b), in a trial by military commission under this chapter, the United States may take an interlocutory appeal to the United States Court of Military Commission Review of any order or ruling of the military judge—
 
@@ -35,25 +35,25 @@
 
             (C) refuses a protective order sought by the United States to prevent the disclosure of such information.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     The United States may not appeal under subsection (a) an order or ruling that is, or amounts to, a finding of not guilty by the military commission with respect to a charge or specification.
 
-    (c) __Scope of Appeal Right With Respect to Classified Information.—__ 
+    (c)  __Scope of Appeal Right With Respect to Classified Information__  __.—__ 
 
     The United States has the right to appeal under paragraph (4) of subsection (a) whenever the military judge enters an order or ruling that would require the disclosure of classified information, without regard to whether the order or ruling appealed from was entered under this chapter, another provision of law, a rule, or otherwise. Any such appeal may embrace any preceding order, ruling, or reasoning constituting the basis of the order or ruling that would authorize such disclosure.
 
     (d) __Timing and Action on Interlocutory Appeals Relating to Classified Information.—__ 
 
-        (1) __Appeal to be expedited.—__ 
+        (1)  __Appeal to be expedited__  __.—__ 
 
         An appeal taken pursuant to paragraph (4) of subsection (a) shall be expedited by the United States Court of Military Commission Review.
 
-        (2) __Appeals before trial.—__ 
+        (2)  __Appeals before trial__  __.—__ 
 
         If such an appeal is taken before trial, the appeal shall be taken within 10 days after the order or ruling from which the appeal is made and the trial shall not commence until the appeal is decided.
 
-        (3) __Appeals during trial.—__ 
+        (3)  __Appeals during trial__  __.—__ 
 
         If such an appeal is taken during trial, the military judge shall adjourn the trial until the appeal is decided, and the court of appeals—
 
@@ -65,19 +65,19 @@
 
             (D) may dispense with the issuance of a written opinion in rendering its decision.
 
-    (e) __Notice and Timing of Other Appeals.—__ 
+    (e)  __Notice and Timing of Other Appeals__  __.—__ 
 
     The United States shall take an appeal of an order or ruling under subsection (a), other than an appeal under paragraph (4) of that subsection, by filing a notice of appeal with the military judge within 5 days after the date of the order or ruling.
 
-    (f) __Method of Appeal.—__ 
+    (f)  __Method of Appeal__  __.—__ 
 
     An appeal under this section shall be forwarded, by means specified in regulations prescribed by the Secretary of Defense, directly to the United States Court of Military Commission Review.
 
-    (g) __Appeals Court To Act Only With Respect to Matter of Law.—__ 
+    (g)  __Appeals Court To Act Only With Respect to Matter of Law__  __.—__ 
 
     In ruling on an appeal under paragraph (1), (2), or (3) of subsection (a), the appeals court may act only with respect to matters of law.
 
-    (h) __Subsequent Appeal Rights of Accused Not Affected.—__ 
+    (h)  __Subsequent Appeal Rights of Accused Not Affected__  __.—__ 
 
     An appeal under paragraph (4) of subsection (a), and a decision on such appeal, shall not affect the right of the accused, in a subsequent appeal from a judgment of conviction, to claim as error reversal by the military judge on remand of a ruling appealed from during trial.
 

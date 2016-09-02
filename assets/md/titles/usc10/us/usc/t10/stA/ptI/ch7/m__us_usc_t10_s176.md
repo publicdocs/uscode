@@ -67,7 +67,7 @@
 
 [Pub. L. 110–181, div. A, title VII, § 722][/us/pl/110/181/s722], Jan. 28, 2008, [122 Stat. 199][/us/stat/122/199], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -77,25 +77,25 @@
 
 >         “(3) The Commission’s recommendation that the Armed Forces Institute of Pathology’s ‘capabilities not specified in this recommendation will be absorbed into other DOD, Federal, or civilian facilities’ provides the flexibility to retain a Joint Pathology Center as a Department of Defense or Federal entity.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Armed Forces Institute of Pathology has provided important medical benefits to the Armed Forces and to the United States and that the Federal Government should retain a Joint Pathology Center.
 
 >     “(c) __Establishment.—__ 
 
->         “(1) __Establishment required.—__ 
+>         “(1)  __Establishment required__  __.—__ 
 
 >         The President shall establish and maintain a Joint Pathology Center that shall function as the reference center in pathology for the Federal Government.
 
->         “(2) __Establishment within dod.—__ 
+>         “(2)  __Establishment within dod__  __.—__ 
 
 >         Except as provided in paragraph (3), the Joint Pathology Center shall be established in the Department of Defense, consistent with the final recommendations of the 2005 Defense Base Closure and Realignment Commission, as approved by the President.
 
->         “(3) __Establishment in another department.—__ 
+>         “(3)  __Establishment in another department__  __.—__ 
 
 >         If the President makes a determination, within 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], that the Joint Pathology Center cannot be established in the Department of Defense, the Joint Pathology Center shall be established as an element of a Federal agency other than the Department of Defense. The President shall incorporate the selection of such agency into the determination made under this paragraph.
 
->     “(d) __Services.—__ 
+>     “(d)  __Services__  __.—__ 
 
 >     The Joint Pathology Center shall provide, at a minimum, the following:
 
@@ -111,7 +111,7 @@
 
 [Pub. L. 103–337, div. A, title X, § 1067][/us/pl/103/337/s1067], Oct. 5, 1994, [108 Stat. 2851][/us/stat/108/2851], as amended by [Pub. L. 105–78, title VII, § 702][/us/pl/105/78/s702], Nov. 13, 1997, [111 Stat. 1524][/us/stat/111/1524], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     It is the purpose of this section—
 
@@ -119,7 +119,7 @@
 
 >         “(2) to designate the public facility of the Armed Forces Institute of Pathology as the National Museum of Health and Medicine.
 
->     “(b) __Designation.—__ 
+>     “(b)  __Designation__  __.—__ 
 
 >     The public facility of the Armed Forces Institute of Pathology shall also be known as the National Museum of Health and Medicine.”
 

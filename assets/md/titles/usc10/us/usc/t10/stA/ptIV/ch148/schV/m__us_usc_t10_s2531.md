@@ -15,7 +15,7 @@
 
 ## § 2531. Defense memoranda of understanding and related agreements
 
-    (a) __Considerations in Making and Implementing MOUs and Related Agreements.—__ 
+    (a)  __Considerations in Making and Implementing MOUs and Related Agreements__  __.—__ 
 
     In the negotiation, renegotiation, and implementation of any existing or proposed memorandum of understanding, or any existing or proposed agreement related to a memorandum of understanding, between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, or to the reciprocal procurement of defense items, the Secretary of Defense shall—
 
@@ -23,11 +23,11 @@
 
         (2) regularly solicit and consider comments and recommendations from the Secretary of Commerce with respect to the commercial implications of such memorandum of understanding or related agreement and the potential effects of such memorandum of understanding or related agreement on the international competitive position of United States industry.
 
-    (b) __Inter-Agency Review of Effects on United States Industry.—__ 
+    (b)  __Inter-Agency Review of Effects on United States Industry__  __.—__ 
 
     Whenever the Secretary of Commerce has reason to believe that an existing or proposed memorandum of understanding or related agreement has, or threatens to have, a significant adverse effect on the international competitive position of United States industry, the Secretary may request an inter-agency review of the memorandum of understanding or related agreement. If, as a result of the review, the Secretary determines that the commercial interests of the United States are not being served or would not be served by adhering to the terms of such existing memorandum or related agreement or agreeing to such proposed memorandum or related agreement, as the case may be, the Secretary shall recommend to the President the renegotiation of the existing memorandum or related agreement or any modification to the proposed memorandum of understanding or related agreement that he considers necessary to ensure an appropriate balance of interests.
 
-    (c) __Limitation on Entering into MOUs and Related Agreements.—__ 
+    (c)  __Limitation on Entering into MOUs and Related Agreements__  __.—__ 
 
     A memorandum of understanding or related agreement referred to in subsection (a) may not be entered into or implemented if the President, taking into consideration the results of the inter-agency review, determines that such memorandum of understanding or related agreement has or is likely to have a significant adverse effect on United States industry that outweighs the benefits of entering into or implementing such memorandum or agreement.
 
@@ -51,11 +51,11 @@
 
 [Pub. L. 108–375, div. A, title VIII, § 831][/us/pl/108/375/s831], Oct. 28, 2004, [118 Stat. 2017][/us/stat/118/2017], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     It is the policy of Congress that procurement regulations used in the conduct of trade in defense articles and defense services should be based on the principle of fair trade and reciprocity consistent with United States national security, including the need to ensure comprehensive manufacturing capability in the United States defense industrial base.
 
->     “(b) __Requirement.—__ 
+>     “(b)  __Requirement__  __.—__ 
 
 >     The Secretary of Defense shall make every effort to ensure that the policies and practices of the Department of Defense reflect the goal of establishing an equitable trading relationship between the United States and its foreign defense trade partners, including ensuring that United States firms and United States employment in the defense sector are not disadvantaged by unilateral procurement practices by foreign governments, such as the imposition of offset agreements in a manner that undermines the United States defense industrial base. In pursuing this goal, the Secretary shall—
 
@@ -63,11 +63,11 @@
 
 >         “(2) review and make necessary modifications to existing acquisition policies and strategies, and review and seek to make necessary modifications to existing memoranda of understanding, cooperative project agreements, or related agreements with foreign defense trade partners, to reflect this goal.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Secretary shall prescribe regulations to implement this section in the Department of Defense supplement to the Federal Acquisition Regulation.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 

@@ -15,15 +15,15 @@
 
 ## § 2321. Validation of proprietary data restrictions
 
-    (a) __Contracts Covered by Section.—__ 
+    (a)  __Contracts Covered by Section__  __.—__ 
 
     This section applies to any contract for supplies or services entered into by the Department of Defense that includes provisions for the delivery of technical data.
 
-    (b) __Contractor Justification for Restrictions.—__ 
+    (b)  __Contractor Justification for Restrictions__  __.—__ 
 
     A contract subject to this section shall provide that a contractor under the contract and any subcontractor under the contract at any tier shall be prepared to furnish to the contracting officer a written justification for any use or release restriction (as defined in subsection (i)) asserted by the contractor or subcontractor.
 
-    (c) __Review of Restrictions.—__ 
+    (c)  __Review of Restrictions__  __.—__ 
 
         (1) The Secretary of Defense shall ensure that there is a thorough review of the appropriateness of any use or release restriction asserted with respect to technical data by a contractor or subcontractor at any tier under a contract subject to this section.
 
@@ -35,7 +35,7 @@
 
             (B) the date on which the technical data is delivered under the contract.
 
-    (d) __Challenges to Restrictions.—__ 
+    (d)  __Challenges to Restrictions__  __.—__ 
 
         (1)
 
@@ -85,27 +85,27 @@
 
             (B) the validated restriction was asserted by the same contractor or subcontractor (or a licensee of such contractor or subcontractor).
 
-    (e) __Time for Contractors to Submit Justifications.—__ 
+    (e)  __Time for Contractors to Submit Justifications__  __.—__ 
 
     If a contractor or subcontractor asserting a use or release restriction submits to the contracting officer a written request, showing the need for additional time to comply with the requirement to justify the current validity of the asserted restriction, additional time to adequately permit the submission of such justification shall be provided by the contracting officer as appropriate. If a party asserting a restriction receives notices of challenges to restrictions on technical data from more than one contracting officer, and notifies each contracting officer of the existence of more than one challenge, the contracting officer initiating the first in time challenge, after consultation with the party asserting the restriction and the other contracting officers, shall formulate a schedule of responses to each of the challenges that will afford the party asserting the restriction with an equitable opportunity to respond to each such challenge.
 
-    (f) __Presumption of Development Exclusively at Private Expense.—__ 
+    (f)  __Presumption of Development Exclusively at Private Expense__  __.—__ 
 
         (1) Except as provided in paragraph (2), in the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor under a contract for commercial items, the contracting officer shall presume that the contractor or subcontractor has justified the restriction on the basis that the item was developed exclusively at private expense, whether or not the contractor or subcontractor submits a justification in response to the notice provided pursuant to subsection (d)(3). In such a case, the challenge to the use or release restriction may be sustained only if information provided by the Department of Defense demonstrates that the item was not developed exclusively at private expense.
 
         (2) In the case of a challenge to a use or release restriction that is asserted with respect to technical data of a contractor or subcontractor (other than technical data for a commercially available off-the-shelf item as defined in section 35(c)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Office of Federal Procurement Policy Act ([41 U.S.C. 431(c)][/us/usc/t41/s431/c])) for a major system or a subsystem or component thereof on the basis that the major system, subsystem or component was developed exclusively at private expense, the challenge to the use or release restriction shall be sustained unless information provided by the contractor or subcontractor demonstrates that the item was developed exclusively at private expense.
 
-    (g) __Decision by Contracting Officer.—__ 
+    (g)  __Decision by Contracting Officer__  __.—__ 
 
         (1) Upon a failure by the contractor or subcontractor to submit any response under subsection (d)(3), the contracting officer shall issue a decision pertaining to the validity of the asserted restriction.
 
         (2) After review of any justification submitted in response to the notice provided pursuant to subsection (d)(3), the contracting officer shall, within 60 days of receipt of any justification submitted, issue a decision or notify the party asserting the restriction of the time within which a decision will be issued.
 
-    (h) __Claims.—__ 
+    (h)  __Claims__  __.—__ 
 
     If a claim pertaining to the validity of the asserted restriction is submitted in writing to a contracting officer by a contractor or subcontractor at any tier, such claim shall be considered a claim within the meaning of chapter 71 of title 41.
 
-    (i) __Rights and Liability Upon Final Disposition.—__ 
+    (i)  __Rights and Liability Upon Final Disposition__  __.—__ 
 
         (1)
 
@@ -123,7 +123,7 @@
 
             (B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in [section 2412(d)(2)(A) of title 28][/us/usc/t28/s2412/d/2/A]) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
 
-    (j) __Use or Release Restriction Defined.—__ 
+    (j)  __Use or Release Restriction Defined__  __.—__ 
 
     In this section, the term “use or release restriction”, with respect to technical data delivered to the United States under a contract subject to this section, means a restriction by the contractor or subcontractor on the right of the United States—
 

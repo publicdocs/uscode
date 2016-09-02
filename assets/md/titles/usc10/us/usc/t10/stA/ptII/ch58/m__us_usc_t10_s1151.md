@@ -15,11 +15,11 @@
 
 ## § 1151. Retention of assistive technology and services provided before separation
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     A member of the armed forces who is provided an assistive technology or assistive technology device for a severe or debilitating illness or injury incurred or aggravated by such member while on active duty may, under regulations prescribed by the Secretary of Defense, be authorized to retain such assistive technology or assistive technology device upon the separation of the member from active service.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section, the terms “assistive technology” and “assistive technology device” have the meaning given those terms in section 3 of the Assistive Technology Act of 1998 ([29 U.S.C. 3002][/us/usc/t29/s3002]).
 

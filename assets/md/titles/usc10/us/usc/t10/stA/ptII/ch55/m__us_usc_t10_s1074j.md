@@ -15,11 +15,11 @@
 
 ## § 1074j. Sub-acute care program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense shall establish an effective, efficient, and integrated sub-acute care benefits program under this chapter (hereinafter referred to in this section as the “program”). Except as otherwise provided in this section, the types of health care authorized under the program shall be the same as those provided under [section 1079 of this title][/us/usc/t10/s1079]. The Secretary, after consultation with the other administering Secretaries, shall promulgate regulations to carry out this section.
 
-    (b) __Benefits.—__ 
+    (b)  __Benefits__  __.—__ 
 
         (1) The program shall include a uniform skilled nursing facility benefit that shall be provided in the manner and under the conditions described in section 1861 (h) and (i) of the Social Security Act ([42 U.S.C. 1395x][/us/usc/t42/s1395x] (h) and (i)), except that the limitation on the number of days of coverage under section 1812 (a) and (b) of such Act ([42 U.S.C. 1395d][/us/usc/t42/s1395d] (a) and (b)) shall not be applicable under the program. Skilled nursing facility care for each spell of illness shall continue to be provided for as long as medically necessary and appropriate.
 

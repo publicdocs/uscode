@@ -15,11 +15,11 @@
 
 ## § 2579. War booty: procedures for handling and retaining battlefield objects
 
-    (a) __Policy.—__ 
+    (a)  __Policy__  __.—__ 
 
     The United States recognizes that battlefield souvenirs have traditionally provided military personnel with a valued memento of service in a national cause. At the same time, it is the policy and tradition of the United States that the desire for souvenirs in a combat theater not blemish the conduct of combat operations or result in the mistreatment of enemy personnel, the dishonoring of the dead, distraction from the conduct of operations, or other unbecoming activities.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations for the handling of battlefield objects that are consistent with the policies expressed in subsection (a) and the requirements of this section.
 

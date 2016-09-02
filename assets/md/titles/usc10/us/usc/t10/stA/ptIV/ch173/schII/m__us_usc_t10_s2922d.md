@@ -15,23 +15,23 @@
 
 ## § 2922d. Procurement of fuel derived from coal, oil shale, and tar sands
 
-    (a) __Use of Fuel to Meet Department of Defense Needs.—__ 
+    (a)  __Use of Fuel to Meet Department of Defense Needs__  __.—__ 
 
     The Secretary of Defense shall develop a strategy to use fuel produced, in whole or in part, from coal, oil shale, and tar sands (referred to in this section as a “covered fuel”) that are extracted by either mining or in-situ methods and refined or otherwise processed in the United States in order to assist in meeting the fuel requirements of the Department of Defense when the Secretary determines that it is in the national interest.
 
-    (b) __Authority to Procure.—__ 
+    (b)  __Authority to Procure__  __.—__ 
 
     The Secretary of Defense may enter into one or more contracts or other agreements (that meet the requirements of this section) to procure a covered fuel to meet one or more fuel requirements of the Department of Defense.
 
-    (c) __Clean Fuel Requirements.—__ 
+    (c)  __Clean Fuel Requirements__  __.—__ 
 
     A covered fuel may be procured under subsection (b) only if the covered fuel meets such standards for clean fuel produced from domestic sources as the Secretary of Defense shall establish for purposes of this section in consultation with the Department of Energy.
 
-    (d) __Multiyear Contract Authority.—__ 
+    (d)  __Multiyear Contract Authority__  __.—__ 
 
     Subject to applicable provisions of law, any contract or other agreement for the procurement of covered fuel under subsection (b) may be for one or more years at the election of the Secretary of Defense.
 
-    (e) __Fuel Source Analysis.—__ 
+    (e)  __Fuel Source Analysis__  __.—__ 
 
     In order to facilitate the procurement by the Department of Defense of covered fuel under subsection (b), the Secretary of Defense may carry out a comprehensive assessment of current and potential locations in the United States for the supply of covered fuel to the Department.
 

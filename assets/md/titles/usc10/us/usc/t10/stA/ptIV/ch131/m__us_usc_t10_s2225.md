@@ -15,11 +15,11 @@
 
 ## § 2225. Information technology purchases: tracking and management
 
-    (a) __Collection of Data Required.—__ 
+    (a)  __Collection of Data Required__  __.—__ 
 
     To improve tracking and management of information technology products and services by the Department of Defense, the Secretary of Defense shall provide for the collection of the data described in subsection (b) for each purchase of such products or services made by a military department or Defense Agency in excess of the simplified acquisition threshold, regardless of whether such a purchase is made in the form of a contract, task order, delivery order, military interdepartmental purchase request, or any other form of interagency agreement.
 
-    (b) __Data To Be Collected.—__ 
+    (b)  __Data To Be Collected__  __.—__ 
 
     The data required to be collected under subsection (a) includes the following:
 
@@ -55,11 +55,11 @@
 
         (9) A statement regarding whether the purchase was made in compliance with the planning requirements under sections 11312 and 11313 of title 40.
 
-    (c) __Responsibility To Ensure Fairness of Certain Prices.—__ 
+    (c)  __Responsibility To Ensure Fairness of Certain Prices__  __.—__ 
 
     The head of each contracting activity in the Department of Defense shall have responsibility for ensuring the fairness and reasonableness of unit prices paid by the contracting activity for information technology products and services that are frequently purchased commercially available off-the-shelf items.
 
-    (d) __Limitation on Certain Purchases.—__ 
+    (d)  __Limitation on Certain Purchases__  __.—__ 
 
     No purchase of information technology products or services in excess of the simplified acquisition threshold shall be made for the Department of Defense from a Federal agency outside the Department of Defense unless—
 
@@ -71,11 +71,11 @@
 
             (B) in the case of a purchase by a military department, the purchase is approved by the senior procurement executive of the military department.
 
-    (e) __Annual Report.—__ 
+    (e)  __Annual Report__  __.—__ 
 
     Not later than March 15 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report containing a summary of the data collected in accordance with subsection (a).
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -109,7 +109,7 @@
 
 [Pub. L. 112–239, div. A, title IX, § 934][/us/pl/112/239/s934], Jan. 2, 2013, [126 Stat. 1885][/us/stat/126/1885], provided that:
 
->     “(a) __Competition in Connection With Tactical Data Link Systems.—__ 
+>     “(a)  __Competition in Connection With Tactical Data Link Systems__  __.—__ 
 
 >     Not later than December 1, 2013, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
 
@@ -127,11 +127,11 @@
 
 >         “(4) for each data link system for which competition is determined not advisable under paragraph (2), prepare an explanation for such determination.
 
->     “(b) __Earlier Actions.—__ 
+>     “(b)  __Earlier Actions__  __.—__ 
 
 >     If the Under Secretary completes any portion of the plan described in subsection (a)(3) before December 1, 2013, the Secretary may commence action on such portion of the plan upon completion of such portion, including publication of such portion of the plan.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     At the same time the budget of the President for fiscal year 2015 is submitted to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, the Under Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plans described in paragraph (3) of subsection (a), including any explanation prepared under paragraph (4) of such subsection.”
 
@@ -141,15 +141,15 @@
 
 >     “(a) __Demonstration Projects on Processes for Application of Commercial Technologies to Cybersecurity Requirements.—__ 
 
->         “(1) __Projects required.—__ 
+>         “(1)  __Projects required__  __.—__ 
 
 >         The Secretary of Defense and the Secretaries of the military departments shall jointly carry out demonstration projects to assess the feasibility and advisability of using various business models and processes to rapidly and effectively identify innovative commercial technologies and apply such technologies to Department of Defense and other cybersecurity requirements.
 
->         “(2) __Scope of projects.—__ 
+>         “(2)  __Scope of projects__  __.—__ 
 
 >         Any demonstration project under paragraph (1) shall be carried out in such a manner as to contribute to the cyber policy review of the President and the Comprehensive National Cybersecurity Initiative.
 
->     “(b) __Pilot Programs on Cybersecurity Required.—__ 
+>     “(b)  __Pilot Programs on Cybersecurity Required__  __.—__ 
 
 >     The Secretary of Defense shall support or conduct pilot programs on cybersecurity with respect to the following areas:
 
@@ -165,11 +165,11 @@
 
 >     “(c) __Reports.—__ 
 
->         “(1) __Reports required.—__ 
+>         “(1)  __Reports required__  __.—__ 
 
 >         Not later than 240 days after the date of the enactment of this Act \[Jan. 7, 2011\], and annually thereafter at or about the time of the submittal to Congress of the budget of the President for a fiscal year (as submitted pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code), the Secretary of Defense shall, in coordination with the Secretary of Homeland Security, submit to Congress a report on any demonstration projects carried out under subsection (a), and on the pilot projects carried out under subsection (b), during the preceding year.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each report under this subsection shall include the following:
 
@@ -209,7 +209,7 @@
 
 >                 “(ii) an assessment of the capabilities of commercial providers to offer secure cloud computing environments to the Federal Government.
 
->         “(3) __Form.—__ 
+>         “(3)  __Form__  __.—__ 
 
 >         Each report under this subsection shall be submitted in unclassified form, but may include a classified annex.”
 
@@ -217,7 +217,7 @@
 
 [Pub. L. 111–84, div. A, title VIII, § 804][/us/pl/111/84/s804], Oct. 28, 2009, [123 Stat. 2402][/us/stat/123/2402], provided that:
 
->     “(a) __New Acquisition Process Required.—__ 
+>     “(a)  __New Acquisition Process Required__  __.—__ 
 
 >     The Secretary of Defense shall develop and implement a new acquisition process for information technology systems. The acquisition process developed and implemented pursuant to this subsection shall, to the extent determined appropriate by the Secretary—
 
@@ -235,7 +235,7 @@
 
 >             “(D) a modular, open-systems approach.
 
->     “(b) __Report to Congress.—__ 
+>     “(b)  __Report to Congress__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the new acquisition process developed pursuant to subsection (a). The report required by this subsection shall, at a minimum—
 
@@ -253,11 +253,11 @@
 
 [Pub. L. 110–181, div. A, title VIII, § 881][/us/pl/110/181/s881], Jan. 28, 2008, [122 Stat. 262][/us/stat/122/262], provided that:
 
->     “(a) __Requirement to Establish Clearinghouse.—__ 
+>     “(a)  __Requirement to Establish Clearinghouse__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense, acting through the Assistant Secretary of Defense for Networks and Information Integration, shall establish a clearinghouse for identifying, assessing, and disseminating knowledge about readily available information technologies (with an emphasis on commercial off-the-shelf information technologies) that could support the warfighting mission of the Department of Defense.
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The clearinghouse established pursuant to subsection (a) shall be responsible for the following:
 
@@ -283,11 +283,11 @@
 
 >         “(8) Developing methods to measure how well processes developed by the clearinghouse are being utilized and to collect data on an ongoing basis to assess the benefits of commercial technologies that are procured on the recommendation of the clearinghouse.
 
->     “(c) __Personnel.—__ 
+>     “(c)  __Personnel__  __.—__ 
 
 >     The Secretary of Defense, acting through the Assistant Secretary of Defense for Networks and Information Integration, shall provide for the hiring and support of employees (including detailees from other components of the Department of Defense and from other Federal departments or agencies) to assist in identifying, assessing, and disseminating information regarding commercial technologies under this section.
 
->     “(d) __Report to Congress.—__ 
+>     “(d)  __Report to Congress__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation of this section.”
 

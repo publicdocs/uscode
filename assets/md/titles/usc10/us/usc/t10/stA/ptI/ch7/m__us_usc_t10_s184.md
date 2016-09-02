@@ -15,11 +15,11 @@
 
 ## § 184. Regional Centers for Security Studies
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall administer the Department of Defense Regional Centers for Security Studies in accordance with this section as international venues for bilateral and multilateral research, communication, and exchange of ideas involving military and civilian participants.
 
-    (b) __Regional Centers Specified.—__ 
+    (b)  __Regional Centers Specified__  __.—__ 
 
         (1)
 
@@ -45,15 +45,15 @@
 
         (3) No institution or element of the Department of Defense may be designated as a Department of Defense Regional Center for Security Studies for purposes of this section, other than the institutions specified in paragraph (2), except as specifically provided by law after October 17, 2006.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The administration of the Regional Centers under this section shall be carried out under regulations prescribed by the Secretary.
 
-    (d) __Participation.—__ 
+    (d)  __Participation__  __.—__ 
 
     Participants in activities of the Regional Centers may include United States and foreign military, civilian, and nongovernmental personnel.
 
-    (e) __Employment and Compensation of Faculty.—__ 
+    (e)  __Employment and Compensation of Faculty__  __.—__ 
 
     At each Regional Center, the Secretary may, subject to the availability of appropriations—
 
@@ -61,7 +61,7 @@
 
         (2) prescribe the compensation of such persons, in accordance with Federal guidelines.
 
-    (f) __Payment of Costs.—__ 
+    (f)  __Payment of Costs__  __.—__ 
 
         (1) Participation in activities of a Regional Center shall be on a reimbursable basis (or by payment in advance), except in a case in which reimbursement is waived in accordance with paragraph (3).
 
@@ -75,7 +75,7 @@
 
         (6) Funds available to carry out this section, including funds accepted under paragraph (4) and funds available under paragraph (5), shall be available, to the extent provided in appropriations Acts, for programs and activities under this section that begin in a fiscal year and end in the following fiscal year.
 
-    (g) __Support to Other Agencies.—__ 
+    (g)  __Support to Other Agencies__  __.—__ 
 
     The Director of a Regional Center may enter into agreements with the Secretaries of the military departments, the heads of the Defense Agencies, and, with the concurrence of the Secretary of Defense, the heads of other Federal departments and agencies for the provision of services by that Regional Center under this section. Any such participating department and agency shall transfer to the Regional Center funds to pay the full costs of the services received.
 
@@ -127,15 +127,15 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 941(b), Oct. 14, 2008, [122 Stat. 4577][/us/stat/122/4577], as amended by [Pub. L. 111–383, div. A, title IX, § 941][/us/pl/111/383/s941], Jan. 7, 2011, [124 Stat. 4340][/us/stat/124/4340]; [Pub. L. 112–239, div. A, title IX, § 953][/us/pl/112/239/s953], Jan. 2, 2013, [126 Stat. 1895][/us/stat/126/1895], provided that:
 
->     “(1) __Authority for temporary waiver.—__ 
+>     “(1)  __Authority for temporary waiver__  __.—__ 
 
 >     In fiscal years 2009 through 2013, the Secretary of Defense may, with the concurrence of the Secretary of State, waive reimbursement otherwise required under subsection (f) of [section 184 of title 10][/us/usc/t10/s184], United States Code, of the costs of activities of Regional Centers under such section for personnel of nongovernmental and international organizations who participate in activities of the Regional Centers that enhance cooperation of nongovernmental organizations and international organizations with United States forces if the Secretary of Defense determines that attendance of such personnel without reimbursement is in the national security interests of the United States.
 
->     “(2) __Limitation.—__ 
+>     “(2)  __Limitation__  __.—__ 
 
 >     The amount of reimbursement that may be waived under paragraph (1) in any fiscal year may not exceed $1,000,000.
 
->     “(3) __Annual report.—__ 
+>     “(3)  __Annual report__  __.—__ 
 
 >     The Secretary of Defense shall include in the annual report under \[former\] [section 184(h) of title 10][/us/usc/t10/s184/h], United States Code, in each year through 2013 information on the attendance of personnel of nongovernmental and international organizations in activities of the Regional Centers during the preceding fiscal year for which a waiver of reimbursement was made under paragraph (1), including information on the costs incurred by the United States for the participation of personnel of each nongovernmental or international organization that so attended.”
 

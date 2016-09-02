@@ -15,7 +15,7 @@
 
 ## § 223a. Ballistic missile defense programs: procurement
 
-    (a) __Budget Justification Materials.—__ 
+    (a)  __Budget Justification Materials__  __.—__ 
 
     In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a]), the Secretary of Defense shall specify, for each ballistic missile defense system element for which the Missile Defense Agency is engaged in planning for production and initial fielding, the following information:
 
@@ -25,15 +25,15 @@
 
         (3) The estimated date on which the administration of the acquisition of that element is to be transferred from the Director of the Missile Defense Agency to the Secretary of a military department.
 
-    (b) __Future-Years Defense Program.—__ 
+    (b)  __Future-Years Defense Program__  __.—__ 
 
     The Secretary of Defense shall include in the future-years defense program submitted to Congress each year under [section 221 of this title][/us/usc/t10/s221] an estimate of the amount necessary for procurement for each ballistic missile defense system element, together with a discussion of the underlying factors and reasoning justifying the estimate.
 
-    (c) __Performance Criteria.—__ 
+    (c)  __Performance Criteria__  __.—__ 
 
     The Director of the Missile Defense Agency shall include in the performance criteria prescribed for planned development phases of the ballistic missile defense system and its elements a description of the intended effectiveness of each such phase against foreign adversary capabilities.
 
-    (d) __Testing Progress.—__ 
+    (d)  __Testing Progress__  __.—__ 
 
     The Director of Operational Test and Evaluation shall make available for review by the congressional defense committees the developmental and operational test plans established to assess the effectiveness of the ballistic missile defense system and its elements with respect to the performance criteria described in subsection (c).
 

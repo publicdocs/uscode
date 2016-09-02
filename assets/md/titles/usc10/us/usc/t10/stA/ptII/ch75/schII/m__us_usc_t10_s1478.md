@@ -231,17 +231,17 @@ In subsection (b), the words “on or after January 1, 1957” are omitted as ex
 
 [Pub. L. 109–13, div. A, title I, § 1013(d)][/us/pl/109/13/s1013/d], (e), May 11, 2005, [119 Stat. 248][/us/stat/119/248], provided that:
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section \[amending this section\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[May 11, 2005\].
 
 >     “(e) __Termination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This section \[amending this section\] and the amendment made by this subsection \[probably means this section\] shall terminate on September 30, 2005. Effective as of October 1, 2005, the provisions of [section 1478 of title 10][/us/usc/t10/s1478], United States Code, as in effect on the date before the date of the enactment of this Act \[May 11, 2005\] shall be revived.
 
->         “(2) __Continuing obligation to pay.—__ 
+>         “(2)  __Continuing obligation to pay__  __.—__ 
 
 >         Any amount of additional death gratuity payable under [section 1478 of title 10][/us/usc/t10/s1478], United States Code, by reason of the amendments made by subsections (b) and (c) of this section \[amending this section\] that remains payable as of September 30, 2005, shall, notwithstanding paragraph (1), remain payable after that date until paid.”
 

@@ -15,15 +15,15 @@
 
 ## § 7304. Examination of vessels; striking of vessels from Naval Vessel Register
 
-    (a) __Boards of Officers To Examine Naval Vessels.—__ 
+    (a)  __Boards of Officers To Examine Naval Vessels__  __.—__ 
 
     The Secretary of the Navy shall designate boards of naval officers to examine naval vessels, including unfinished vessels, for the purpose of making a recommendation to the Secretary as to which vessels, if any, should be stricken from the Naval Vessel Register. Each vessel shall be examined at least once every three years if practicable.
 
-    (b) __Actions by Board.—__ 
+    (b)  __Actions by Board__  __.—__ 
 
     A board designated under subsection (a) shall submit to the Secretary in writing its recommendations as to which vessels, if any, among those it examined should be stricken from the Naval Vessel Register.
 
-    (c) __Action by Secretary.—__ 
+    (c)  __Action by Secretary__  __.—__ 
 
     If the Secretary concurs with a recommendation by a board that a vessel should be stricken from the Naval Vessel Register, the Secretary shall strike the name of that vessel from the Naval Vessel Register.
 

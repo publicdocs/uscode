@@ -15,11 +15,11 @@
 
 ## § 453. Sale of maps, charts, and navigational publications: prices; use of proceeds
 
-    (a) __Prices.—__ 
+    (a)  __Prices__  __.—__ 
 
     All maps, charts, and other publications offered for sale by the National Geospatial-Intelligence Agency shall be sold at prices and under regulations that may be prescribed by the Secretary of Defense.
 
-    (b) __Use of Proceeds To Pay Foreign Licensing Fees.—__ 
+    (b)  __Use of Proceeds To Pay Foreign Licensing Fees__  __.—__ 
 
         (1) The Secretary of Defense may pay any NGA foreign data acquisition fee out of the proceeds of the sale of maps, charts, and other publications of the Agency, and those proceeds are hereby made available for that purpose.
 

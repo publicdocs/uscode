@@ -15,13 +15,13 @@
 
 ## § 2328. Release of technical data under Freedom of Information Act: recovery of costs
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) The Secretary of Defense shall, if required to release technical data under [section 552 of title 5][/us/usc/t5/s552] (relating to the Freedom of Information Act), release such technical data to the person requesting the release if the person pays all reasonable costs attributable to search, duplication, and review.
 
         (2) The Secretary of Defense shall prescribe regulations, pursuant to notice and receipt of public comment, specifying a uniform schedule of fees under this section.
 
-    (b) __Crediting of Receipts.—__ 
+    (b)  __Crediting of Receipts__  __.—__ 
 
     An amount received under this section—
 
@@ -29,7 +29,7 @@
 
         (2) shall be merged with and available for the same purpose and the same time period as the appropriation from which the costs incurred in complying with requests for technical data were paid.
 
-    (c) __Waiver.—__ 
+    (c)  __Waiver__  __.—__ 
 
     The Secretary of Defense shall waive the payment of costs required by subsection (a) which are in an amount greater than the costs that would be required for such a release of information under [section 552 of title 5][/us/usc/t5/s552] if—
 

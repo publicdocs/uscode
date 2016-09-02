@@ -15,7 +15,7 @@
 
 ## § 192. Defense Agencies and Department of Defense Field Activities: oversight by the Secretary of Defense
 
-    (a) __Overall Supervision.—__ 
+    (a)  __Overall Supervision__  __.—__ 
 
         (1)
 
@@ -29,11 +29,11 @@
 
         (3) This subsection does not apply to the Defense Intelligence Agency or the National Security Agency.
 
-    (b) __Program and Budget Review.—__ 
+    (b)  __Program and Budget Review__  __.—__ 
 
     The Secretary of Defense shall establish procedures to ensure that there is full and effective review of the program recommendations and budget proposals of each Defense Agency and Department of Defense Field Activity.
 
-    (c) __Periodic Review.—__ 
+    (c)  __Periodic Review__  __.—__ 
 
         (1)
 
@@ -45,11 +45,11 @@
 
         (2) Paragraph (1) shall apply to the National Security Agency as determined appropriate by the Secretary, in consultation with the Director of National Intelligence. The Secretary shall establish procedures under which information required for review of the National Security Agency shall be obtained.
 
-    (d) __Special Rule for Defense Commissary Agency.—__ 
+    (d)  __Special Rule for Defense Commissary Agency__  __.—__ 
 
     Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Commissary Agency, the Secretary of Defense may not transfer to the Secretary of a military department the responsibility to manage and fund the provision of services and supplies provided by the Defense Commissary Agency unless the transfer of the management and funding responsibility is specifically authorized by a law enacted after October 17, 1998.
 
-    (e) __Special Rule for Defense Business Transformation Agency.—__ 
+    (e)  __Special Rule for Defense Business Transformation Agency__  __.—__ 
 
         (1) The Defense Business Transformation Agency shall be supervised by the vice chairman of the Defense Business System Management Committee.
 
@@ -59,7 +59,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 192, [Pub. L. 98–215, title V, § 501(a)][/us/pl/98/215/s501/a], Dec. 9, 1983, [97 Stat. 1478][/us/stat/97/1478], which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as [section 1605 of this title][/us/usc/t10/s1605] and amended by [Pub. L. 99–145, title XIII, § 1302(a)(1)][/us/pl/99/145/s1302/a/1], Nov. 8, 1985, [99 Stat. 737][/us/stat/99/737]. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 492) of Title 37, Pay and Allowances of the Uniformed Services, by [section 1302(b)(1) of Pub. L. 99–145][/us/pl/99/145/s1302/b/1].
+    A prior section 192, [Pub. L. 98–215, title V, § 501(a)][/us/pl/98/215/s501/a], Dec. 9, 1983, [97 Stat. 1478][/us/stat/97/1478], which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as [section 1605 of this title][/us/usc/t10/s1605] and amended by [Pub. L. 99–145, title XIII, § 1302(a)(1)][/us/pl/99/145/s1302/a/1], Nov. 8, 1985, [99 Stat. 737][/us/stat/99/737]. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by [section 1302(b)(1) of Pub. L. 99–145][/us/pl/99/145/s1302/b/1].
 
  __Amendments__ 
 

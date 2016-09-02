@@ -15,11 +15,11 @@
 
 ## § 2274. Space situational awareness services and information: provision to non-United States Government entities
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may provide space situational awareness services and information to, and may obtain space situational awareness data and information from, non-United States Government entities in accordance with this section. Any such action may be taken only if the Secretary determines that such action is consistent with the national security interests of the United States.
 
-    (b) __Eligible Entities.—__ 
+    (b)  __Eligible Entities__  __.—__ 
 
     The Secretary may provide services and information under subsection (a) to, and may obtain data and information under subsection (a) from, any non-United States Government entity, including any of the following:
 
@@ -33,7 +33,7 @@
 
         (5) A foreign commercial entity.
 
-    (c) __Agreement.—__ 
+    (c)  __Agreement__  __.—__ 
 
     The Secretary may not provide space situational awareness services and information under subsection (a) to a non-United States Government entity unless that entity enters into an agreement with the Secretary under which the entity—
 
@@ -43,13 +43,13 @@
 
         (3) agrees to any other terms and conditions considered necessary by the Secretary.
 
-    (d) __Charges.—__ 
+    (d)  __Charges__  __.—__ 
 
         (1) As a condition of an agreement under subsection (c), the Secretary may (except as provided in paragraph (2)) require the non-United States Government entity entering into the agreement to pay to the Department of Defense such amounts as the Secretary determines appropriate to reimburse the Department for the costs to the Department of providing space situational awareness services or information under the agreement.
 
         (2) The Secretary may not require the government of a State, or of a political subdivision of a State, to pay any amount under paragraph (1).
 
-    (e) __Crediting of Funds Received.—__ 
+    (e)  __Crediting of Funds Received__  __.—__ 
 
         (1)
 
@@ -61,15 +61,15 @@
 
         (2) Funds credited under paragraph (1) shall be merged with, and remain available for obligation with, the funds in the appropriation, fund, or account to which credited.
 
-    (f) __Procedures.—__ 
+    (f)  __Procedures__  __.—__ 
 
     The Secretary shall establish procedures by which the authority under this section shall be carried out. As part of those procedures, the Secretary may allow space situational awareness services or information to be provided through a contractor of the Department of Defense.
 
-    (g) __Immunity.—__ 
+    (g)  __Immunity__  __.—__ 
 
     The United States, any agencies and instrumentalities thereof, and any individuals, firms, corporations, and other persons acting for the United States, shall be immune from any suit in any court for any cause of action arising from the provision or receipt of space situational awareness services or information, whether or not provided in accordance with this section, or any related action or omission.
 
-    (h) __Notice of Concerns of Disclosure of Information.—__ 
+    (h)  __Notice of Concerns of Disclosure of Information__  __.—__ 
 
     If the Secretary determines that a commercial or foreign entity has declined or is reluctant to provide data or information to the Secretary in accordance with this section due to the concerns of such entity about the potential disclosure of such data or information, the Secretary shall, not later than 60 days after the Secretary makes that determination, provide notice to the congressional defense committees of the declination or reluctance of such entity.
 

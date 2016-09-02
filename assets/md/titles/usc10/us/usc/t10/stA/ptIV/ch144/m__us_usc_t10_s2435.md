@@ -15,17 +15,17 @@
 
 ## § 2435. Baseline description
 
-    (a) __Baseline Description Requirement.—__ 
+    (a)  __Baseline Description Requirement__  __.—__ 
 
         (1) The Secretary of a military department shall establish a baseline description for each major defense acquisition program and for each designated major subprogram under the program under the jurisdiction of such Secretary.
 
         (2) The baseline shall include sufficient parameters to describe the cost estimate (referred to as the “Baseline Estimate” in [section 2433 of this title][/us/usc/t10/s2433]), schedule, performance, supportability, and any other factor of such major defense acquisition program or designated major subprogram.
 
-    (b) __Funding Limit.—__ 
+    (b)  __Funding Limit__  __.—__ 
 
     No amount appropriated or otherwise made available to the Department of Defense for carrying out a major defense acquisition program or any designated major subprogram under the program may be obligated after the program or subprogram enters system development and demonstration without an approved baseline description unless such obligation is specifically approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-    (c) __Schedule.—__ 
+    (c)  __Schedule__  __.—__ 
 
     A baseline description for a major defense acquisition program or any designated major subprogram under the program shall be prepared under this section—
 
@@ -35,7 +35,7 @@
 
         (3) before the program or subprogram enters full rate production.
 
-    (d) __Original Baseline Estimate.—__ 
+    (d)  __Original Baseline Estimate__  __.—__ 
 
         (1) In this chapter, the term “original Baseline Estimate”, with respect to a major defense acquisition program or any designated major subprogram under the program, means the baseline description established with respect to the program or subprogram under subsection (a) prepared before the program or subprogram enters system development and demonstration, or at program or subprogram initiation, whichever occurs later, without adjustment or revision (except as provided in paragraph (2)).
 
@@ -43,7 +43,7 @@
 
         (3) In the event of an adjustment or revision of the original baseline description of a major defense acquisition program or any designated major subprogram under the program, the Secretary of Defense shall include in the next Selected Acquisition Report to be submitted under [section 2432 of this title][/us/usc/t10/s2432] after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations governing the following:
 

@@ -15,11 +15,11 @@
 
 ## § 2004a. Detail of commissioned officers as students at medical schools
 
-    (a) __Detail Authorized.—__ 
+    (a)  __Detail Authorized__  __.—__ 
 
     The Secretary of each military department may detail commissioned officers of the armed forces as students at accredited medical schools or schools of osteopathy located in the United States for a period of training leading to the degree of doctor of medicine. No more than 25 officers from each military department may commence such training in any single fiscal year.
 
-    (b) __Eligibility for Detail.—__ 
+    (b)  __Eligibility for Detail__  __.—__ 
 
     To be eligible for detail under subsection (a), an officer must be a citizen of the United States and must—
 
@@ -35,35 +35,35 @@
 
             (C) agree to serve, following completion of the officer’s training, on active duty (or on active duty and in the Selected Reserve) for a period as specified pursuant to subsection (c).
 
-    (c) __Service Obligation.—__ 
+    (c)  __Service Obligation__  __.—__ 
 
     An agreement under subsection (b) shall provide that the officer shall serve on active duty for two years for each year or part thereof of the officer’s medical training under subsection (a), except that the agreement may authorize the officer to serve a portion of the officer’s service obligation on active duty and to complete the service obligation that remains upon separation from active duty in the Selected Reserve, in which case the officer shall serve three years in the Selected Reserve for each year or part thereof of the officer’s medical training under subsection (a) for any service obligation that was not completed before separation from active duty.
 
-    (d) __Selection of Officers for Detail.—__ 
+    (d)  __Selection of Officers for Detail__  __.—__ 
 
     Officers detailed for medical training under subsection (a) shall be selected on a competitive basis by the Secretary of the military department concerned.
 
-    (e) __Appointment and Treatment of Prior Active Service.—__ 
+    (e)  __Appointment and Treatment of Prior Active Service__  __.—__ 
 
         (1) A commissioned officer detailed as a student at a medical school under subsection (a) shall be appointed as a regular officer in the grade of second lieutenant or ensign and shall serve on active duty in that grade with full pay and allowances of that grade.
 
         (2) If an officer detailed to be a medical student has prior active service in a pay grade and with years of service credited for pay that would entitle the officer, if the officer remained in the former grade, to a rate of basic pay in excess of the rate of basic pay for regular officers in the grade of second lieutenant or ensign, the officer shall be paid basic pay based on the former grade and years of service credited for pay. The amount of such basic pay for the officer shall be increased on January 1 of each year by the percentage by which basic pay is increased on average on that date for that year, and the officer shall continue to receive basic pay based on the former grade and years of service until the date, whether occurring before or after graduation, on which the basic pay for the officer in the officer’s actual grade and years of service credited for pay exceeds the amount of basic pay to which the officer is entitled based on the officer’s former grade and years of service.
 
-    (f) __Relation of Service Obligations to Other Service Obligations.—__ 
+    (f)  __Relation of Service Obligations to Other Service Obligations__  __.—__ 
 
     Any service obligation incurred by an officer under an agreement entered into under subsection (b) shall be in addition to any service obligation incurred by the officer under any other provision of law or agreement.
 
-    (g) __Expenses.—__ 
+    (g)  __Expenses__  __.—__ 
 
     Expenses incident to the detail of officers under this section shall be paid from any funds appropriated for the military department concerned.
 
-    (h) __Failure to Complete Program.—__ 
+    (h)  __Failure to Complete Program__  __.—__ 
 
         (1) An officer who is dropped from a program of medical training to which detailed under subsection (a) for deficiency in conduct or studies, or for other reasons, may be required to perform active duty in an appropriate military capacity in accordance with the active duty obligation imposed on the officer under regulations issued by the Secretary of Defense for purposes of this section.
 
         (2) In no case shall an officer be required to serve on active duty under paragraph (1) for any period in excess of one year for each year or part thereof the officer participated in the program.
 
-    (i) __Limitation on Details.—__ 
+    (i)  __Limitation on Details__  __.—__ 
 
     No agreement detailing an officer of the armed forces to an accredited medical school or school of osteopathy may be entered into during any period in which the President is authorized by law to induct persons into the armed forces involuntarily. Nothing in this subsection shall affect any agreement entered into during any period when the President is not authorized by law to so induct persons into the armed forces.
 

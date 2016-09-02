@@ -15,11 +15,11 @@
 
 ## § 228. Biannual reports on allocation of funds within operation and maintenance budget subactivities
 
-    (a) __Biannual Report.—__ 
+    (a)  __Biannual Report__  __.—__ 
 
     The Secretary of Defense shall submit to the congressional defense committees a biannual report on the allocation of appropriations to O&M budget activities and to the subactivities of those budget activities. Each such report shall be submitted not later than 60 days after the end of the two fiscal-year quarters to which the report pertains.
 
-    (b) __Matters To Be Included.—__ 
+    (b)  __Matters To Be Included__  __.—__ 
 
     Each such report shall set forth the following for each subactivity of the O&M budget activities:
 
@@ -29,11 +29,11 @@
 
         (3) The amount programmed to be expended from such subactivity.
 
-    (c) __Identification of Certain Fluctuations.—__ 
+    (c)  __Identification of Certain Fluctuations__  __.—__ 
 
     If, in the report under this section for the second two fiscal-year quarters of a fiscal year, an amount shown under subsection (b) for a subactivity is different by more than $15,000,000 from the corresponding amount for that subactivity in the report for the first two fiscal-year quarters of that fiscal year, the Secretary shall include in the report notice of that difference.
 
-    (d) __Report on Fluctuations.—__ 
+    (d)  __Report on Fluctuations__  __.—__ 
 
     If a report under this section includes a notice under subsection (c), the Secretary shall include in the report with each such notice the following:
 
@@ -43,7 +43,7 @@
 
         (3) The effect of those reallocations on the operation and maintenance activities funded through the subactivity with respect to which the notice is included in the report.
 
-    (e) __O&M Budget Activity Defined.—__ 
+    (e) __O&M__  __Budget Activity Defined__  __.—__ 
 
     In this section, the term “O&M budget activity” means a budget activity within an operation and maintenance appropriation of the Department of Defense for a fiscal year.
 

@@ -15,15 +15,15 @@
 
 ## § 2249c. Regional Defense Combating Terrorism Fellowship Program: authority to use appropriated funds for costs associated with education and training of foreign officials
 
-    (a) __Authority To Use Funds.—__ 
+    (a)  __Authority To Use Funds__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense may be used to pay any costs associated with the education and training of foreign military officers, ministry of defense officials, or security officials at military or civilian educational institutions, regional centers, conferences, seminars, or other training programs conducted under the Regional Defense Combating Terrorism Fellowship Program. Costs for which payment may be made under this section include the costs of transportation and travel and subsistence costs.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     The total amount of funds used under the authority in subsection (a) in any fiscal year may not exceed $35,000,000. Amounts available under the authority in subsection (a) for a fiscal year may be used for programs that begin in such fiscal year but end in the next fiscal year.
 
-    (c) __Annual Report.—__ 
+    (c)  __Annual Report__  __.—__ 
 
     Not later than December 1 of each year, the Secretary of Defense shall submit to Congress a report on the administration of this section during the fiscal year ended in such year. The report shall include the following matters:
 

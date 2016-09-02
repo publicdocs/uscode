@@ -15,23 +15,23 @@
 
 ## § 1076d. TRICARE program: TRICARE Standard coverage for members of the Selected Reserve
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
         (1) Except as provided in paragraph (2), a member of the Selected Reserve of the Ready Reserve of a reserve component of the armed forces is eligible for health benefits under TRICARE Standard as provided in this section.
 
         (2) Paragraph (1) does not apply to a member who is enrolled, or is eligible to enroll, in a health benefits plan under chapter 89 of title 5.
 
-    (b) __Termination of Eligibility Upon Termination of Service.—__ 
+    (b)  __Termination of Eligibility Upon Termination of Service__  __.—__ 
 
         (1) Except as provided in paragraph (2), eligibility for TRICARE Standard coverage of a member under this section shall terminate upon the termination of the member’s service in the Selected Reserve.
 
         (2) During the period beginning on the date of the enactment of this paragraph and ending December 31, 2018, eligibility for a member under this section who is involuntarily separated from the Selected Reserve under other than adverse conditions, as characterized by the Secretary concerned, shall terminate 180 days after the date on which the member is separated.
 
-    (c) __Family Members.—__ 
+    (c)  __Family Members__  __.—__ 
 
     While a member of a reserve component is covered by TRICARE Standard under the section, the members of the immediate family of such member are eligible for TRICARE Standard coverage as dependents of the member. If a member of a reserve component dies while in a period of coverage under this section, the eligibility of the members of the immediate family of such member for TRICARE Standard coverage shall continue for six months beyond the date of death of the member.
 
-    (d) __Premiums.—__ 
+    (d)  __Premiums__  __.—__ 
 
         (1) A member of a reserve component covered by TRICARE Standard under this section shall pay a premium for that coverage.
 
@@ -47,11 +47,11 @@
 
         (5) Amounts collected as premiums under this subsection shall be credited to the appropriation available for the Defense Health Program Account under [section 1100 of this title][/us/usc/t10/s1100], shall be merged with sums in such Account that are available for the fiscal year in which collected, and shall be available under subsection (b) of such section for such fiscal year.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations for the administration of this section.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

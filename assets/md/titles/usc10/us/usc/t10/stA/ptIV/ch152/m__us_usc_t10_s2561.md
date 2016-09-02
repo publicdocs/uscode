@@ -15,17 +15,17 @@
 
 ## § 2561. Humanitarian assistance
 
-    (a) __Authorized Assistance.—__ 
+    (a)  __Authorized Assistance__  __.—__ 
 
         (1) To the extent provided in defense authorization Acts, funds authorized to be appropriated to the Department of Defense for a fiscal year for humanitarian assistance shall be used for the purpose of providing transportation of humanitarian relief and for other humanitarian purposes worldwide.
 
         (2) The Secretary of Defense may use the authority provided by paragraph (1) to transport supplies intended for use to respond to, or mitigate the effects of, an event or condition, such as an oil spill, that threatens serious harm to the environment, but only if other sources to provide such transportation are not readily available. The Secretary may require reimbursement for costs incurred by the Department of Defense to transport supplies under this paragraph.
 
-    (b) __Availability of Funds.—__ 
+    (b)  __Availability of Funds__  __.—__ 
 
     To the extent provided in appropriation Acts, funds appropriated for humanitarian assistance for the purposes of this section shall remain available until expended.
 
-    (c) __Status Reports.—__ 
+    (c)  __Status Reports__  __.—__ 
 
         (1) The Secretary of Defense shall submit to the congressional committees specified in subsection (f) an annual report on the provision of humanitarian assistance pursuant to this section for the prior fiscal year. The report shall be submitted each year at the time of the budget submission by the President for the next fiscal year.
 
@@ -41,15 +41,15 @@
 
             (C) A description of any transfer of excess nonlethal supplies of the Department of Defense made available for humanitarian relief purposes under [section 2557 of this title][/us/usc/t10/s2557]. The description shall include the date of the transfer, the entity to whom the transfer is made, and the quantity of items transferred.
 
-    (d) __Report Regarding Relief for Unauthorized Countries.—__ 
+    (d)  __Report Regarding Relief for Unauthorized Countries__  __.—__ 
 
     In any case in which the Secretary of Defense provides for the transportation of humanitarian relief to a country to which the transportation of humanitarian relief has not been specifically authorized by law, the Secretary shall notify the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the Secretary’s intention to provide such transportation. The notification shall be submitted not less than 15 days before the commencement of such transportation.
 
-    (e) __Definition.—__ 
+    (e)  __Definition__  __.—__ 
 
     In this section, the term “defense authorization Act” means an Act that authorizes appropriations for one or more fiscal years for military activities of the Department of Defense, including authorizations of appropriations for the activities described in paragraph (7) of [section 114(a) of this title][/us/usc/t10/s114/a].
 
-    (f) __Congressional Committees.—__ 
+    (f)  __Congressional Committees__  __.—__ 
 
     The congressional committees referred to in subsections (c)(1) and (d) are the following:
 

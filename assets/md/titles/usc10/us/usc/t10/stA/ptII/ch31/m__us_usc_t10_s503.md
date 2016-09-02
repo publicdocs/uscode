@@ -15,13 +15,13 @@
 
 ## § 503. Enlistments: recruiting campaigns; compilation of directory information
 
-    (a) __Recruiting Campaigns.—__ 
+    (a)  __Recruiting Campaigns__  __.—__ 
 
         (1) The Secretary concerned shall conduct intensive recruiting campaigns to obtain enlistments in the Regular Army, Regular Navy, Regular Air Force, Regular Marine Corps, and Regular Coast Guard.
 
         (2) The Secretary of Defense shall act on a continuing basis to enhance the effectiveness of recruitment programs of the Department of Defense (including programs conducted jointly and programs conducted by the separate armed forces) through an aggressive program of advertising and market research targeted at prospective recruits for the armed forces and those who may influence prospective recruits. Subchapter I of chapter 35 of title 44 shall not apply to actions taken as part of that program.
 
-    (b) __Compilation of Directory Information.—__ 
+    (b)  __Compilation of Directory Information__  __.—__ 
 
         (1) The Secretary of Defense may collect and compile directory information pertaining to each student who is 17 years of age or older or in the eleventh grade (or its equivalent) or higher and who is enrolled in a secondary school in the United States or its territories, possessions, or the Commonwealth of Puerto Rico.
 
@@ -35,7 +35,7 @@
 
         (6) Nothing in this subsection shall be construed as requiring, or authorizing the Secretary of Defense to require, that any educational institution furnish directory information to the Secretary.
 
-    (c) __Access to Secondary Schools.—__ 
+    (c)  __Access to Secondary Schools__  __.—__ 
 
         (1)
 
@@ -99,7 +99,7 @@
 
             (F) The term “member of the House of Representatives” includes a Delegate or Resident Commissioner to Congress.
 
-    (d) __Directory Information Defined.—__ 
+    (d)  __Directory Information Defined__  __.—__ 
 
     In this section, the term “directory information” has the meaning given that term in subsection (a)(5)(A) of section 444 of the General Education Provisions Act ([20 U.S.C. 1232g][/us/usc/t20/s1232g]).
 
@@ -173,11 +173,11 @@
 
 >     “(a) __Equal Treatment for Secondary School Graduates.—__ 
 
->         “(1) __Equal treatment.—__ 
+>         “(1)  __Equal treatment__  __.—__ 
 
 >         For the purposes of recruitment and enlistment in the Armed Forces, the Secretary of a military department shall treat a graduate described in paragraph (2) in the same manner as a graduate of a secondary school (as defined in section 9101(38) of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801(38)][/us/usc/t20/s7801/38])\[)\].
 
->         “(2) __Covered graduates.—__ 
+>         “(2)  __Covered graduates__  __.—__ 
 
 >         Paragraph (1) applies with respect to \[a\] person who—
 
@@ -185,7 +185,7 @@
 
 >             “(B) otherwise completes a program of secondary education in compliance with the education laws of the State in which the person resides.
 
->     “(b) __Policy on Recruitment and Enlistment.—__ 
+>     “(b)  __Policy on Recruitment and Enlistment__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall prescribe a policy on recruitment and enlistment that incorporates the following:
 
@@ -195,11 +195,11 @@
 
 >         “(3) Means for maintaining data, by each diploma source, which can be used to analyze attrition rates among qualified persons.
 
->     “(c) __Recruitment Plan.—__ 
+>     “(c)  __Recruitment Plan__  __.—__ 
 
 >     As part of the policy required by subsection (b), the Secretary of each of the military departments shall develop a recruitment plan that includes a marketing strategy for targeting various segments of potential recruits with all types of secondary education credentials.
 
->     “(d) __Communication Plan.—__ 
+>     “(d)  __Communication Plan__  __.—__ 
 
 >     The Secretary of each of the military departments shall develop a communication plan to ensure that the policy and recruitment plan are understood by military recruiters.”
 
@@ -209,15 +209,15 @@
 
 >     “(a) __Policy on Recruitment and Enlistment.—__ 
 
->         “(1) __Policy required.—__ 
+>         “(1)  __Policy required__  __.—__ 
 
 >         The Secretary of Defense shall prescribe a policy on the recruitment and enlistment of home-schooled students in the Armed Forces.
 
->         “(2) __Uniformity across the armed forces.—__ 
+>         “(2)  __Uniformity across the armed forces__  __.—__ 
 
 >         The Secretary shall ensure that the policy prescribed under paragraph (1) applies, to the extent practicable, uniformly across the Armed Forces.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The policy under subsection (a) shall include the following:
 
@@ -227,11 +227,11 @@
 
 >         “(3) An exemption of graduates of home schooling from the requirement for a secondary school diploma or an equivalent (GED) as a precondition for enlistment in the Armed Forces.
 
->     “(c) __Home School Graduates.—__ 
+>     “(c)  __Home School Graduates__  __.—__ 
 
 >     In prescribing the policy under subsection (a), the Secretary of Defense shall prescribe a single set of criteria to be used by the Armed Forces in determining whether an individual is a graduate of home schooling. The Secretary concerned shall ensure compliance with education credential coding requirements.
 
->     “(d) __Secretary Concerned Defined.—__ 
+>     “(d)  __Secretary Concerned Defined__  __.—__ 
 
 >     In this section, the term ‘Secretary concerned’ has the meaning given such term in [section 101(a)(9) of title 10][/us/usc/t10/s101/a/9], United States Code.”
 
@@ -239,11 +239,11 @@
 
 [Pub. L. 109–163, div. A, title VI, § 681][/us/pl/109/163/s681], Jan. 6, 2006, [119 Stat. 3320][/us/stat/119/3320], as amended by [Pub. L. 111–84, div. A, title VI, § 621][/us/pl/111/84/s621], Oct. 28, 2009, [123 Stat. 2358][/us/stat/123/2358], provided that:
 
->     “(a) __Authority to Develop and Provide Recruitment Incentives.—__ 
+>     “(a)  __Authority to Develop and Provide Recruitment Incentives__  __.—__ 
 
 >     The Secretary of the Army may develop and provide incentives not otherwise authorized by law to encourage individuals to accept commissions as officers or to enlist in the Army.
 
->     “(b) __Relation to Other Personnel Authorities.—__ 
+>     “(b)  __Relation to Other Personnel Authorities__  __.—__ 
 
 >     A recruitment incentive developed under subsection (a) may be provided—
 
@@ -257,11 +257,11 @@
 
 >             “(B) providing incentives to individuals to accept commissions or enlist in the Army, including the provision of group or individual bonuses, pay, or other incentives.
 
->     “(c) __Waiver of Otherwise Applicable Laws.—__ 
+>     “(c)  __Waiver of Otherwise Applicable Laws__  __.—__ 
 
 >     A provision of title 10 or 37, United States Code, may not be waived with respect to, or otherwise determined to be inapplicable to, the provision of a recruitment incentive developed under subsection (a) without the approval of the Secretary of Defense.
 
->     “(d) __Notice and Wait Requirement.—__ 
+>     “(d)  __Notice and Wait Requirement__  __.—__ 
 
 >     A recruitment incentive developed under subsection (a) may not be provided to individuals until—
 
@@ -279,21 +279,21 @@
 
 >         “(2) a 45-day period beginning on the date on which the plan was received by Congress expires.
 
->     “(e) __Limitation on Number of Incentives.—__ 
+>     “(e)  __Limitation on Number of Incentives__  __.—__ 
 
 >     Not more than four recruitment incentives may be provided at the same time under the authority of this section.
 
->     “(f) __Limitation on Number of Individuals Receiving Incentives.—__ 
+>     “(f)  __Limitation on Number of Individuals Receiving Incentives__  __.—__ 
 
 >     The number of individuals who receive one or more of the recruitment incentives provided under subsection (a) during a fiscal year may not exceed the number of individuals equal to 20 percent of the accession mission of the Army for that fiscal year.
 
->     “(g) __Duration of Developed Incentive.—__ 
+>     “(g)  __Duration of Developed Incentive__  __.—__ 
 
 >     A recruitment incentive developed under subsection (a) may be provided for not longer than a three-year period beginning on the date on which the incentive is first provided, except that the Secretary of the Army may extend the period if the Secretary determines that additional time is needed to fully evaluate the effectiveness of the incentive.
 
 >     “(h) __Reporting Requirements.—__ 
 
->         “(1) __Secretary of the army report.—__ 
+>         “(1)  __Secretary of the army report__  __.—__ 
 
 >         The Secretary of the Army shall submit to Congress an annual report on the recruitment incentives provided under subsection (a) during the preceding year, including—
 
@@ -301,17 +301,17 @@
 
 >             “(B) an assessment of the impact of the incentives on the recruitment of individuals as officers or enlisted members.
 
->         “(2) __Comptroller general report.—__ 
+>         “(2)  __Comptroller general report__  __.—__ 
 
 >         As soon as practicable after receipt of each plan under subsection (d), the Comptroller General shall submit to Congress a report evaluating the expected outcomes of the recruitment incentive covered by the plan in terms of cost effectiveness and mission achievement.
 
 >     “(i) __Duration of Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary may not develop an incentive under this section, or first provide an incentive developed under this section to an individual, after December 31, 2012.
 
->         “(2) __Continuation of incentives.—__ 
+>         “(2)  __Continuation of incentives__  __.—__ 
 
 >         Nothing in paragraph (1) shall be construed to prohibit or limit the continuing provision to an individual after the date specified in that paragraph of an incentive first provided the individual under this section before that date.”
 
@@ -319,7 +319,7 @@
 
 [Pub. L. 108–375, div. A, title V, § 593][/us/pl/108/375/s593], Oct. 28, 2004, [118 Stat. 1934][/us/stat/118/1934], as amended by [Pub. L. 109–364, div. A, title X, § 1071(g)(4)][/us/pl/109/364/s1071/g/4], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that:
 
->     “(a) __Enhanced Screening Methods and Process Improvements.—__ 
+>     “(a)  __Enhanced Screening Methods and Process Improvements__  __.—__ 
 
 >         (1)
 
@@ -331,15 +331,15 @@
 
 >         “(2) For purposes of this section, the term ‘specified GED recipients’ means persons who receive a General Educational Development (GED) certificate as a result of home schooling or the completion of a program under the National Guard Challenge program.
 
->     “(b) __Secretary of Defense Review.—__ 
+>     “(b)  __Secretary of Defense Review__  __.—__ 
 
 >     Before the screening methods and process improvements developed under subsection (a)(1) are put into effect under subsection (a)(2), the Secretary of Defense shall review the proposed screening methods and process improvements. Based on such review, the Secretary of Defense either shall approve the use of such screening methods and process improvements for testing (with such modifications as the Secretary may direct) or shall disapprove the use of such methods and process improvements on a test basis.
 
->     “(c) __Secretary of Defense Decision.—__ 
+>     “(c)  __Secretary of Defense Decision__  __.—__ 
 
 >     If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should be implemented on a test basis, then upon completion of the test period, the Secretary of Defense shall, after reviewing the results of the test program, determine whether the new screening methods and process improvements developed by the Army should be extended throughout the Department for recruit candidates identified by the new procedures to be considered tier 1 recruits.
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >         (1) If the Secretary of Defense determines under subsection (b) that the screening methods and process improvements developed under subsection (a)(1) should not be implemented on a test basis, the Secretary of Defense shall, not later than 90 days thereafter, notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of such determination, together with the reasons of the Secretary for such determination.
 
@@ -349,11 +349,11 @@
 
 [Pub. L. 108–136, div. A, title V, § 548][/us/pl/108/136/s548], Nov. 24, 2003, [117 Stat. 1481][/us/stat/117/1481], provided that:
 
->     “(a) __Program Authorized.—__ 
+>     “(a)  __Program Authorized__  __.—__ 
 
 >     The Secretary of Defense may carry out a joint advertising, market research, and studies program to complement the recruiting advertising programs of the military departments and improve the ability of the military departments to attract and recruit qualified individuals to serve in the Armed Forces.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Of the amount authorized to be appropriated by section 301(5) \[[117 Stat. 1426][/us/stat/117/1426]\] for operation and maintenance for Defense-wide activities, $7,500,000 may be made available to carry out the joint advertising, market research, and studies program.”
 
@@ -365,7 +365,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title V, § 561\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–129, as amended by [Pub. L. 107–107, div. A, title V, § 543][/us/pl/107/107/s543], Dec. 28, 2001, [115 Stat. 1112][/us/stat/115/1112], provided that:
 
->     “(a) __Requirement for Programs.—__ 
+>     “(a)  __Requirement for Programs__  __.—__ 
 
 >     The Secretary of the Army shall carry out pilot programs to test various recruiting approaches under this section for the following purposes:
 
@@ -373,7 +373,7 @@
 
 >         “(2) To improve the overall effectiveness and efficiency of Army recruiting activities.
 
->     “(b) __Outreach Through Motor Sports.—__ 
+>     “(b)  __Outreach Through Motor Sports__  __.—__ 
 
 >         (1) One of the pilot programs shall be a pilot program of public outreach that associates the Army with motor sports competitions to achieve the objectives set forth in paragraph (2).
 
@@ -413,7 +413,7 @@
 
 >             “(F) Any other activities associated with motor sports competition that the Secretary determines appropriate for Army recruitment purposes.
 
->     “(c) __Outreach at Vocational Schools and Community Colleges.—__ 
+>     “(c)  __Outreach at Vocational Schools and Community Colleges__  __.—__ 
 
 >         (1) One of the pilot programs shall be a pilot program under which Army recruiters are assigned, as their primary responsibility, at postsecondary vocational institutions and community colleges for the purpose of recruiting students graduating from those institutions and colleges, recent graduates of those institutions and colleges, and students withdrawing from enrollments in those institutions and colleges.
 
@@ -435,7 +435,7 @@
 
 >         “(5) In this subsection, the term ‘postsecondary vocational institution’ has the meaning given the term in section 102(c) of the Higher Education Act of 1965 ([20 U.S.C. 1002(c)][/us/usc/t20/s1002/c]).
 
->     “(d) __Contract Recruiting Initiatives.—__ 
+>     “(d)  __Contract Recruiting Initiatives__  __.—__ 
 
 >         (1) One of the pilot programs shall be a program that expands in accordance with this subsection the scope of the Army’s contract recruiting initiatives that are ongoing as of the date of the enactment of this Act \[Oct. 30, 2000\]. Under the pilot program, the Secretary of the Army shall select at least 10 recruiting companies to apply the initiatives in efforts to recruit personnel for the Army.
 
@@ -453,15 +453,15 @@
 
 >             “(E) For any other uses of contractor personnel for Army recruiting activities that the Secretary determines appropriate.
 
->     “(e) __Duration of Pilot Programs.—__ 
+>     “(e)  __Duration of Pilot Programs__  __.—__ 
 
 >     The pilot programs required by this section shall be carried out during the period beginning on October 1, 2000, and, subject to subsection (f), ending on September 30, 2007.
 
->     “(f) __Authority To Expand or Extend Pilot Programs.—__ 
+>     “(f)  __Authority To Expand or Extend Pilot Programs__  __.—__ 
 
 >     The Secretary may expand the scope of any of the pilot programs (under subsection (b)(3)(F), (c)(4)(D), (d)(2)(E), or otherwise) or extend the period for any of the pilot programs. Before doing so in the case of a pilot program, the Secretary of the Army shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a written notification of the expansion of the pilot program (together with the scope of the expansion) or the continuation of the pilot program (together with the period of the extension), as the case may be.
 
->     “(g) __Reports.—__ 
+>     “(g)  __Reports__  __.—__ 
 
 >     Not later than February 1, 2008, the Secretary of the Army shall submit to the Committees on Armed Services of the Senate and the House of Representatives a separate report on each of the pilot programs carried out under this section. The report on a pilot program shall include the following:
 
@@ -479,11 +479,11 @@
 
 > “SEC. 531. __REFORM OF MILITARY RECRUITING SYSTEMS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall carry out reforms in the recruiting systems of the Army, Navy, Air Force, and Marine Corps in order to improve the quality of new recruits and to reduce attrition among recruits.
 
->     “(b) __Specific Reforms.—__ 
+>     “(b)  __Specific Reforms__  __.—__ 
 
 >     As part of the reforms in military recruiting systems to be undertaken under subsection (a), the Secretary shall take the following steps:
 
@@ -499,17 +499,17 @@
 
 >         “(6) Require the Secretary of each military department to implement policies and procedures (A) to ensure the prompt separation of recruits who are unable to successfully complete basic training, and (B) to remove those recruits from the training environment while separation proceedings are pending.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than March 31, 1998, the Secretary shall submit to Congress a report of the trends assessed under subsection (b)(5). The information on those trends provided in the report shall be shown by armed force and by category of waiver. The report shall include recommendations of the Secretary for changing, revising, or limiting the use of waivers referred to in that subsection.
 
 > “SEC. 532. __IMPROVEMENTS IN MEDICAL PRESCREENING OF APPLICANTS FOR MILITARY SERVICE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall improve the medical prescreening of applicants for entrance into the Army, Navy, Air Force, or Marine Corps.
 
->     “(b) __Specific Steps.—__ 
+>     “(b)  __Specific Steps__  __.—__ 
 
 >     As part of those improvements, the Secretary shall take the following steps:
 
@@ -523,11 +523,11 @@
 
 > “SEC. 533. __IMPROVEMENTS IN PHYSICAL FITNESS OF RECRUITS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall take steps to improve the physical fitness of recruits before they enter basic training.
 
->     “(b) __Specific Steps.—__ 
+>     “(b)  __Specific Steps__  __.—__ 
 
 >     As part of those improvements, the Secretary shall take the following steps:
 

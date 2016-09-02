@@ -15,7 +15,7 @@
 
 ## § 7306. Vessels stricken from Naval Vessel Register; captured vessels: transfer by gift or otherwise
 
-    (a) __Authority To Make Transfer.—__ 
+    (a)  __Authority To Make Transfer__  __.—__ 
 
     Subject to [section 113 of title 40][/us/usc/t40/s113], the Secretary of the Navy may transfer, by gift or otherwise, any vessel stricken from the Naval Vessel Register, or any captured vessel, to—
 
@@ -25,15 +25,15 @@
 
         (3) any not-for-profit or nonprofit entity.
 
-    (b) __Vessel To Be Maintained in Condition Satisfactory to Secretary.—__ 
+    (b)  __Vessel To Be Maintained in Condition Satisfactory to Secretary__  __.—__ 
 
     An agreement for the transfer of a vessel under subsection (a) shall include a requirement that the transferee will maintain the vessel in a condition satisfactory to the Secretary.
 
-    (c) __Transfers To Be at No Cost to United States.—__ 
+    (c)  __Transfers To Be at No Cost to United States__  __.—__ 
 
     Any transfer of a vessel under this section shall be made at no cost to the United States.
 
-    (d) __Congressional Notice-and-Wait Period.—__ 
+    (d)  __Congressional Notice-and-Wait Period__  __.—__ 
 
         (1)
 

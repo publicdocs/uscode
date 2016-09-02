@@ -15,7 +15,7 @@
 
 ## § 1582. Assistive technology, assistive technology devices, and assistive technology services
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may provide assistive technology, assistive technology devices, and assistive technology services to the following:
 
@@ -25,7 +25,7 @@
 
         (3) Any other department or agency of the Federal Government, upon the request of the head of that department or agency, for its employees with disabilities or for satisfying a requirement to make its programs or facilities accessible to, and usable by, persons with disabilities.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section, the terms “assistive technology”, “assistive technology device”, “assistive technology service”, and “disability” have the meanings given those terms in section 3 of the Assistive Technology Act of 1998 ([29 U.S.C. 3002][/us/usc/t29/s3002]).
 

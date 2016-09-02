@@ -15,7 +15,7 @@
 
 ## § 1097a. TRICARE Prime: automatic enrollments; payment options
 
-    (a) __Automatic Enrollment of Certain Dependents.—__ 
+    (a)  __Automatic Enrollment of Certain Dependents__  __.—__ 
 
         (1)
 
@@ -29,7 +29,7 @@
 
         (3) The enrollment of a dependent of the member may be terminated by the member or the dependent at any time.
 
-    (b) __Automatic Renewal of Enrollments of Covered Beneficiaries.—__ 
+    (b)  __Automatic Renewal of Enrollments of Covered Beneficiaries__  __.—__ 
 
         (1) An enrollment of a covered beneficiary in TRICARE Prime shall be automatically renewed upon the expiration of the enrollment unless the renewal is declined.
 
@@ -41,19 +41,19 @@
 
             (B) afford the beneficiary or member, as the case may be, an opportunity to decline the renewal of enrollment.
 
-    (c) __Payment Options for Retirees.—__ 
+    (c)  __Payment Options for Retirees__  __.—__ 
 
     A member or former member of the uniformed services eligible for medical care and dental care under [section 1074(b) of this title][/us/usc/t10/s1074/b] may elect to have any fee payable by the member or former member for an enrollment in TRICARE Prime withheld from the member’s retired pay, retainer pay, or equivalent pay, as the case may be, or to be paid from a financial institution through electronic transfers of funds. The fee shall be paid in accordance with the election. A member may elect under this section to pay the fee in full at the beginning of the enrollment period or to make payments on a monthly or quarterly basis.
 
-    (d) __Regulations and Exceptions.—__ 
+    (d)  __Regulations and Exceptions__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations, including procedures, to carry out this section. Regulations prescribed to carry out the automatic enrollment requirements under this section may include such exceptions to the automatic enrollment procedures as the Secretary determines appropriate for the effective operation of TRICARE Prime.
 
-    (e) __No Copayment for Immediate Family.—__ 
+    (e)  __No Copayment for Immediate Family__  __.—__ 
 
     No copayment shall be charged a member for care provided under TRICARE Prime to a dependent of a member of the uniformed services described in subparagraph (A), (D), or (I) of [section 1072(2) of this title][/us/usc/t10/s1072/2].
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

@@ -15,7 +15,7 @@
 
 ## § 2474. Centers of Industrial and Technical Excellence: designation; public-private partnerships
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
         (1) The Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, shall designate each depot-level activity or military arsenal facility of the military departments and the Defense Agencies (other than facilities approved for closure or major realignment under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note)) as a Center of Industrial and Technical Excellence in the recognized core competencies of the designee.
 
@@ -23,7 +23,7 @@
 
         (3) The Secretary of a military department may conduct a pilot program, consistent with applicable requirements of law, to test any practices referred to in paragraph (2) that the Secretary determines could improve the efficiency and effectiveness of operations at Centers of Industrial and Technical Excellence, improve the support provided by the Centers for the armed forces user of the services of the Centers, and enhance readiness by reducing the time that it takes to repair equipment.
 
-    (b) __Public-Private Partnerships.—__ 
+    (b)  __Public-Private Partnerships__  __.—__ 
 
         (1)
 
@@ -55,15 +55,15 @@
 
         (3) If the Secretary concerned, or the Secretary of Defense in the case of a Defense Agency, authorizes the use of public-private partnerships under this subsection, the Secretary shall submit to Congress a report evaluating the need for loan guarantee authority, similar to the ARMS Initiative loan guarantee program under [section 4555 of this title][/us/usc/t10/s4555], to facilitate the establishment of public-private partnerships and the achievement of the objectives set forth in paragraph (2).
 
-    (c) __Private Sector Use of Excess Capacity.—__ 
+    (c)  __Private Sector Use of Excess Capacity__  __.—__ 
 
     Any facilities or equipment of a Center of Industrial and Technical Excellence made available to private industry may be used to perform maintenance or to produce goods in order to make more efficient and economical use of Government-owned industrial plants and encourage the creation and preservation of jobs to ensure the availability of a workforce with the necessary manufacturing and maintenance skills to meet the needs of the armed forces.
 
-    (d) __Crediting of Amounts for Performance.—__ 
+    (d)  __Crediting of Amounts for Performance__  __.—__ 
 
     Amounts received by a Center for work performed under a public-private partnership shall be credited to the appropriation or fund, including a working-capital fund, that incurs the cost of performing the work. Consideration in the form of rental payments or (notwithstanding [section 3302(b) of title 31][/us/usc/t31/s3302/b]) in other forms may be accepted for a use of property accountable under a contract performed pursuant to this section. Notwithstanding [section 2667(e) of this title][/us/usc/t10/s2667/e], revenues generated pursuant to this section shall be available for facility operations, maintenance, and environmental restoration at the Center where the leased property is located.
 
-    (e) __Availability of Excess Equipment to Private-Sector Partners.—__ 
+    (e)  __Availability of Excess Equipment to Private-Sector Partners__  __.—__ 
 
     Equipment or facilities of a Center of Industrial and Technical Excellence may be made available for use by a private-sector entity under this section only if—
 
@@ -83,11 +83,11 @@
 
                 (ii) any liability or claim for damages or injury to any person or property arising out of a decision by the Secretary concerned or the Secretary of Defense to suspend or terminate that use of equipment or facilities during a war or national emergency.
 
-    (f) __Exclusion of Certain Expenditures From Percentage Limitation.—__ 
+    (f)  __Exclusion of Certain Expenditures From Percentage Limitation__  __.—__ 
 
     Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at a Center of Industrial and Technical Excellence under any contract shall not be counted for purposes of applying the percentage limitation in [section 2466(a) of this title][/us/usc/t10/s2466/a] if the personnel are provided by private industry or other entities outside the Department of Defense pursuant to a public-private partnership.
 
-    (g) __Construction of Provision.—__ 
+    (g)  __Construction of Provision__  __.—__ 
 
     Nothing in this section may be construed to authorize a change, otherwise prohibited by law, from the performance of work at a Center of Industrial and Technical Excellence by Department of Defense personnel to performance by a contractor.
 

@@ -115,7 +115,7 @@
 
 [Pub. L. 102–484, div. A, title IV, § 413][/us/pl/102/484/s413], Oct. 23, 1992, [106 Stat. 2400][/us/stat/106/2400], provided that:
 
->     “(a) __Requirement To Prescribe Reserve Component Force Structure.—__ 
+>     “(a)  __Requirement To Prescribe Reserve Component Force Structure__  __.—__ 
 
 >     The Secretary of each military department shall prescribe a force structure allowance for each reserve component under the jurisdiction of the Secretary. Each such force structure allowance for a reserve component—
 
@@ -123,7 +123,7 @@
 
 >         “(2) shall be prescribed in accordance with historic service policies.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘force structure allowance’ means the number and types of units and organizations, and the number of authorized personnel spaces allocated to those units and organizations, in a military force.”
 
@@ -149,11 +149,11 @@
 
 [Pub. L. 102–190, div. A, title IV, § 414(a)][/us/pl/102/190/s414/a]–(d), Dec. 5, 1991, [105 Stat. 1352][/us/stat/105/1352], 1353, as amended by [Pub. L. 102–484, div. A, title V, § 511(b)][/us/pl/102/484/s511/b], title XI, § 1132, Oct. 23, 1992, [106 Stat. 2405][/us/stat/106/2405], 2541; [Pub. L. 103–160, div. A, title V, § 517(a)][/us/pl/103/160/s517/a], Nov. 30, 1993, [107 Stat. 1650][/us/stat/107/1650]; [Pub. L. 103–337, div. A, title IV, § 413][/us/pl/103/337/s413], Oct. 5, 1994, [108 Stat. 2747][/us/stat/108/2747]; [Pub. L. 104–106, div. A, title IV, § 413][/us/pl/104/106/s413], Feb. 10, 1996, [110 Stat. 288][/us/stat/110/288]; [Pub. L. 104–201, div. A, title V, § 545(b)][/us/pl/104/201/s545/b], Sept. 23, 1996, [110 Stat. 2524][/us/stat/110/2524]; [Pub. L. 106–65, div. A, title X, § 1066(d)(2)][/us/pl/106/65/s1066/d/2], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773]; [Pub. L. 108–375, div. A, title V, § 515(a)][/us/pl/108/375/s515/a], Oct. 28, 2004, [118 Stat. 1883][/us/stat/118/1883], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     The Secretary of the Army shall carry out a program to provide active component advisers to combat units, combat support units, and combat service support units in the Selected Reserve of the Ready Reserve that have a high priority for deployment on a time-phased troop deployment list or have another contingent high priority for deployment. The advisers shall be assigned to full-time duty in connection with organizing, administering, recruiting, instructing, or training such units.
 
->     “(b) __Objectives of Program.—__ 
+>     “(b)  __Objectives of Program__  __.—__ 
 
 >     The objectives of the program are as follows:
 
@@ -165,13 +165,13 @@
 
 >         “(4) To provide a basis for determining the most effective mix of active component officer and enlisted personnel in advising reserve component units regarding organizing, administering, recruiting, instructing, or training reserve component units.
 
->     “(c) __Personnel To Be Assigned.—__ 
+>     “(c)  __Personnel To Be Assigned__  __.—__ 
 
 >         (1) The Secretary shall assign not less than 3,500 active component personnel to serve as advisers under the program.
 
 >         “(2) The Secretary of Defense may count toward the number of active component personnel required under paragraph (1) to be assigned to serve as advisers under the program under this section any active component personnel who are assigned to an active component unit (A) that was established principally for the purpose of providing dedicated training support to reserve component units, and (B) the primary mission of which is to provide such dedicated training support.
 
->     “(d) __Action on the Basis of Program Results.—__ 
+>     “(d)  __Action on the Basis of Program Results__  __.—__ 
 
 >     Based on the experience under the pilot program, the Secretary of the Army shall by April 1, 1993, submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the Secretary’s evaluation of the program to that date. As part of the budget submission for fiscal year 1995, the Secretary shall submit any recommendations for expansion or modification of the program, together with a proposal for any statutory changes that the Secretary considers necessary to implement the program on a permanent basis. In no case may the number of active duty personnel assigned to the program decrease below the number specified for the pilot program.”
 

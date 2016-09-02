@@ -15,11 +15,11 @@
 
 ## § 488. Management of electromagnetic spectrum: biennial strategic plan
 
-    (a) __Requirement for Strategic Plan.—__ 
+    (a)  __Requirement for Strategic Plan__  __.—__ 
 
     Every other year, and in time for submission to Congress under subsection (b), the Secretary of Defense shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the mission of the Department of Defense.
 
-    (b) __Submission of Plan to Congress.—__ 
+    (b)  __Submission of Plan to Congress__  __.—__ 
 
     The Secretary of Defense shall submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 

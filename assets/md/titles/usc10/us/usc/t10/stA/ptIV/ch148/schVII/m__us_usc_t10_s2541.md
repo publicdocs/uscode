@@ -15,7 +15,7 @@
 
 ## § 2541. Establishment of loan guarantee program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     In order to meet the national security objectives in [section 2501(a) of this title][/us/usc/t10/s2501/a], the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring lenders against losses of principal or interest, or both principal and interest, for loans made to qualified commercial firms to fund, in whole or in part, any of the following activities:
 
@@ -23,7 +23,7 @@
 
         (2) The refinancing of improvements previously made to the protection of the critical infrastructure of the commercial firms.
 
-    (b) __Qualified Commercial Firms.—__ 
+    (b)  __Qualified Commercial Firms__  __.—__ 
 
     For purposes of this section, a qualified commercial firm is a company or other business entity (including a consortium of such companies or other business entities, as determined by the Secretary) that the Secretary determines—
 
@@ -43,15 +43,15 @@
 
         (5) agrees to submit the report required under [section 2541d of this title][/us/usc/t10/s2541d].
 
-    (c) __Loan Limits.—__ 
+    (c)  __Loan Limits__  __.—__ 
 
     The maximum amount of loan principal guaranteed during a fiscal year under this section may not exceed $10,000,000, with respect to all borrowers.
 
-    (d) __Goals and Standards.—__ 
+    (d)  __Goals and Standards__  __.—__ 
 
     The Secretary shall prescribe regulations setting forth goals for the use of the loan guarantees provided under this section and standards for evaluating whether those goals are met by each entity receiving such loan guarantees.
 
-    (e) __Authority Subject to Provisions of Appropriations.—__ 
+    (e)  __Authority Subject to Provisions of Appropriations__  __.—__ 
 
     The Secretary may guarantee a loan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.
 

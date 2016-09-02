@@ -15,15 +15,15 @@
 
 ## § 948i. Who may serve on military commissions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Any commissioned officer of the armed forces on active duty is eligible to serve on a military commission under this chapter, including commissioned officers of the reserve components of the armed forces on active duty, commissioned officers of the National Guard on active duty in Federal service, or retired commissioned officers recalled to active duty.
 
-    (b) __Detail of Members.—__ 
+    (b)  __Detail of Members__  __.—__ 
 
     When convening a military commission under this chapter, the convening authority shall detail as members thereof such members of the armed forces eligible under subsection (a) who, in the opinion of the convening authority, are best qualified for the duty by reason of age, education, training, experience, length of service, and judicial temperament. No member of an armed force is eligible to serve as a member of a military commission when such member is the accuser or a witness for the prosecution or has acted as an investigator or counsel in the same case.
 
-    (c) __Excuse of Members.—__ 
+    (c)  __Excuse of Members__  __.—__ 
 
     Before a military commission under this chapter is assembled for the trial of a case, the convening authority may excuse a member from participating in the case.
 

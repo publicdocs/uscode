@@ -15,13 +15,13 @@
 
 ## § 948m. Number of members; excuse of members; absent and additional members
 
-    (a) __Number of Members.—__ 
+    (a)  __Number of Members__  __.—__ 
 
         (1) Except as provided in paragraph (2), a military commission under this chapter shall have at least five members.
 
         (2) In a case in which the accused before a military commission under this chapter may be sentenced to a penalty of death, the military commission shall have the number of members prescribed by [section 949m(c) of this title][/us/usc/t10/s949m/c].
 
-    (b) __Excuse of Members.—__ 
+    (b)  __Excuse of Members__  __.—__ 
 
     No member of a military commission under this chapter may be absent or excused after the military commission has been assembled for the trial of a case unless excused—
 
@@ -31,7 +31,7 @@
 
         (3) by order of the convening authority for good cause.
 
-    (c) __Absent and Additional Members.—__ 
+    (c)  __Absent and Additional Members__  __.—__ 
 
     Whenever a military commission under this chapter is reduced below the number of members required by subsection (a), the trial may not proceed unless the convening authority details new members sufficient to provide not less than such number. The trial may proceed with the new members present after the recorded evidence previously introduced before the members has been read to the military commission in the presence of the military judge, the accused (except as provided in [section 949d of this title][/us/usc/t10/s949d]), and counsel for both sides.
 

@@ -15,7 +15,7 @@
 
 ## § 949b. Unlawfully influencing action of military commission and United States Court of Military Commission Review
 
-    (a) __Military Commissions.—__ 
+    (a)  __Military Commissions__  __.—__ 
 
         (1) No authority convening a military commission under this chapter may censure, reprimand, or admonish the military commission, or any member, military judge, or counsel thereof, with respect to the findings or sentence adjudged by the military commission, or with respect to any other exercises of its or their functions in the conduct of the proceedings.
 
@@ -37,7 +37,7 @@
 
             (B) statements and instructions given in open proceedings by a military judge or counsel.
 
-    (b) __United States Court of Military Commission Review.—__ 
+    (b)  __United States Court of Military Commission Review__  __.—__ 
 
         (1)
 
@@ -69,7 +69,7 @@
 
             (D) The appellate military judge is withdrawn by the Secretary of Defense, or the designee of the Secretary, in consultation with the Judge Advocate General of the armed force of which the appellate military judge is a member, for good cause consistent with applicable procedures under chapter 47 of this title (the Uniform Code of Military Justice).
 
-    (c) __Prohibition on Consideration of Actions on Commission in Evaluation of Fitness.—__ 
+    (c)  __Prohibition on Consideration of Actions on Commission in Evaluation of Fitness__  __.—__ 
 
     In the preparation of an effectiveness, fitness, or efficiency report or any other report or document used in whole or in part for the purpose of determining whether a commissioned officer of the armed forces is qualified to be advanced in grade, or in determining the assignment or transfer of any such officer or whether any such officer should be retained on active duty, no person may—
 

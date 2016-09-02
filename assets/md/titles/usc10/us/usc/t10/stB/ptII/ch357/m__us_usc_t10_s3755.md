@@ -33,15 +33,15 @@
 
 [Pub. L. 109–364, div. A, title V, § 555(b)][/us/pl/109/364/s555/b], Oct. 17, 2006, [120 Stat. 2217][/us/stat/120/2217], provided that:
 
->     “(1) __Living recipients.—__ 
+>     “(1)  __Living recipients__  __.—__ 
 
 >     The President shall provide for the presentation of the Medal of Honor Flag as expeditiously as possible after the date of the enactment of this Act \[Oct. 17, 2006\] to each living recipient of the Medal of Honor who has not already received a Medal of Honor Flag.
 
->     “(2) __Survivors of deceased recipients.—__ 
+>     “(2)  __Survivors of deceased recipients__  __.—__ 
 
 >     In the case of presentation of the Medal of Honor Flag for a recipient of the Medal of Honor who was awarded the Medal of Honor before the date of the enactment of this Act \[Oct. 17, 2006\] and who is deceased as of such date (or who dies after such date and before the presentation required by paragraph (1)), the President shall provide for posthumous presentation of the Medal of Honor Flag, upon written application therefor, to the primary living next of kin, as determined under regulations or procedures prescribed by the Secretary of Defense for the purposes of this paragraph (and notwithstanding the amendments made by paragraph (2) of subsection (a) \[amending this section\]).
 
->     “(3) __Medal of honor flag.—__ 
+>     “(3)  __Medal of honor flag__  __.—__ 
 
 >     In this subsection, the term ‘Medal of Honor Flag’ means the flag designated under [section 903 of title 36][/us/usc/t36/s903], United States Code.”
 

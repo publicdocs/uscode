@@ -15,7 +15,7 @@
 
 ## § 949j. Opportunity to obtain witnesses and other evidence
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) Defense counsel in a military commission under this chapter shall have a reasonable opportunity to obtain witnesses and other evidence as provided in regulations prescribed by the Secretary of Defense. The opportunity to obtain witnesses and evidence shall be comparable to the opportunity available to a criminal defendant in a court of the United States under article III of the Constitution.
 
@@ -27,7 +27,7 @@
 
             (B) shall run to any place where the United States shall have jurisdiction thereof.
 
-    (b) __Disclosure of Exculpatory Evidence.—__ 
+    (b)  __Disclosure of Exculpatory Evidence__  __.—__ 
 
         (1)
 

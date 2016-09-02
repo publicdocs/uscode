@@ -17,11 +17,11 @@
 
     (a) __Authority To Pay Bonus.—__ 
 
-        (1) __Authority.—__ 
+        (1)  __Authority__  __.—__ 
 
         The Secretary of Defense may authorize the appropriate Secretary to pay a bonus under this section to an individual referred to in paragraph (2) who refers to a military recruiter a person who has not previously served in an armed force and, after such referral, takes an oath of enlistment that leads to appointment as a commissioned officer, or accepts an appointment as a commissioned officer, in an armed force in a health profession designated by the appropriate Secretary for purposes of this section.
 
-        (2) __Individuals eligible for bonus.—__ 
+        (2)  __Individuals eligible for bonus__  __.—__ 
 
         Subject to subsection (c), the following individuals are eligible for a referral bonus under this section:
 
@@ -33,7 +33,7 @@
 
             (D) A civilian employee of a military department or the Department of Defense.
 
-    (b) __Referral.—__ 
+    (b)  __Referral__  __.—__ 
 
     For purposes of this section, a referral for which a bonus may be paid under subsection (a) occurs—
 
@@ -43,23 +43,23 @@
 
     (c) __Certain Referrals Ineligible.—__ 
 
-        (1) __Referral of immediate family.—__ 
+        (1)  __Referral of immediate family__  __.—__ 
 
         A member of the armed forces or civilian employee of a military department or the Department of Defense may not be paid a bonus under subsection (a) for the referral of an immediate family member.
 
-        (2) __Members in recruiting roles.—__ 
+        (2)  __Members in recruiting roles__  __.—__ 
 
         A member of the armed forces or civilian employee of a military department or the Department of Defense serving in a recruiting or retention assignment, or assigned to other duties regarding which eligibility for a bonus under subsection (a) could (as determined by the appropriate Secretary) be perceived as creating a conflict of interest, may not be paid a bonus under subsection (a).
 
-        (3) __Junior reserve officers’ training corps instructors.—__ 
+        (3)  __Junior reserve officers’ training corps instructors__  __.—__ 
 
         A member of the armed forces detailed under subsection (c)(1) of [section 2031 of this title][/us/usc/t10/s2031] to serve as an administrator or instructor in the Junior Reserve Officers’ Training Corps program or a retired member of the armed forces employed as an administrator or instructor in the program under subsection (d) of such section may not be paid a bonus under subsection (a).
 
-    (d) __Amount of Bonus.—__ 
+    (d)  __Amount of Bonus__  __.—__ 
 
     The amount of the bonus payable for a referral under subsection (a) may not exceed $2,000. The amount shall be payable as provided in subsection (e).
 
-    (e) __Payment.—__ 
+    (e)  __Payment__  __.—__ 
 
     A bonus payable for a referral of a person under subsection (a) shall be paid as follows:
 
@@ -67,15 +67,15 @@
 
         (2) Not more than $1,000 shall be paid upon the completion by the person of the initial period of military training as an officer.
 
-    (f) __Relation to Prohibition on Bounties.—__ 
+    (f)  __Relation to Prohibition on Bounties__  __.—__ 
 
     The referral bonus authorized by this section is not a bounty for purposes of [section 514(a) of this title][/us/usc/t10/s514/a].
 
-    (g) __Coordination With Receipt of Retired Pay.—__ 
+    (g)  __Coordination With Receipt of Retired Pay__  __.—__ 
 
     A bonus paid under this section to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under this title, title 37 or 38, or any other provision of law.
 
-    (h) __Appropriate Secretary Defined.—__ 
+    (h)  __Appropriate Secretary Defined__  __.—__ 
 
     In this section, the term “appropriate Secretary” means—
 
@@ -87,7 +87,7 @@
 
         (4) the Secretary of Defense, with respect to personnel of the Department of Defense.
 
-    (i) __Duration of Authority.—__ 
+    (i)  __Duration of Authority__  __.—__ 
 
     A bonus may not be paid under subsection (a) with respect to any referral that occurs after December 31, 2011.
 

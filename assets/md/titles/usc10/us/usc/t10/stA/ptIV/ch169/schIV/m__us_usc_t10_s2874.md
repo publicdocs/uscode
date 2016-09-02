@@ -15,15 +15,15 @@
 
 ## § 2874. Leasing of housing
 
-    (a) __Lease Authorized.—__ 
+    (a)  __Lease Authorized__  __.—__ 
 
     The Secretary concerned may enter into contracts for the lease of housing units that the Secretary determines are suitable for use as military family housing or military unaccompanied housing.
 
-    (b) __Use of Leased Units.—__ 
+    (b)  __Use of Leased Units__  __.—__ 
 
     The Secretary concerned shall utilize housing units leased under this section as military family housing or military unaccompanied housing, as appropriate.
 
-    (c) __Lease Terms.—__ 
+    (c)  __Lease Terms__  __.—__ 
 
     A contract under this section may be for any period that the Secretary concerned determines appropriate and may provide for the owner of the leased property to operate and maintain the property.
 

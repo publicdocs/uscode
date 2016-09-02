@@ -15,15 +15,15 @@
 
 ## § 1741. Policies and programs: establishment and implementation
 
-    (a) __Policies and Procedures.—__ 
+    (a)  __Policies and Procedures__  __.—__ 
 
     The Secretary of Defense shall establish policies and procedures for the establishment and implementation of the education and training programs authorized by this subchapter.
 
-    (b) __Funding Levels.—__ 
+    (b)  __Funding Levels__  __.—__ 
 
     The Under Secretary of Defense for Acquisition, Technology, and Logistics each year shall recommend to the Secretary of Defense the funding levels to be requested in the defense budget to implement the education and training programs under this subchapter. The Secretary of Defense shall set forth separately the funding levels requested for such programs in the Department of Defense budget justification documents submitted in support of the President’s budget submitted to Congress under [section 1105 of title 31][/us/usc/t31/s1105].
 
-    (c) __Programs.—__ 
+    (c)  __Programs__  __.—__ 
 
     The Secretary of each military department, acting through the service acquisition executive for that department, shall establish and implement the education and training programs authorized by this subchapter. In carrying out such requirement, the Secretary concerned shall ensure that such programs are established and implemented throughout the military department concerned and, to the maximum extent practicable, uniformly with the programs of the other military departments.
 

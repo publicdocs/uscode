@@ -15,11 +15,11 @@
 
 ## § 2410o. Multiyear procurement authority: purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products
 
-    (a) __Ten-Year Contract Period.—__ 
+    (a)  __Ten-Year Contract Period__  __.—__ 
 
     The Secretary of Defense may enter into a contract for a period of up to 10 years for the purchase of dinitrogen tetroxide, hydrazine, and hydrazine-related products for the support of a United States national security program or a United States space program.
 
-    (b) __Extensions.—__ 
+    (b)  __Extensions__  __.—__ 
 
     A contract entered into for more than one year under the authority of subsection (a) may be extended for a total of not more than 10 years pursuant to any option or options set forth in the contract.
 

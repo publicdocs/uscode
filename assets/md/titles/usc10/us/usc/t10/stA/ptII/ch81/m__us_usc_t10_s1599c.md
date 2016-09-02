@@ -15,7 +15,7 @@
 
 ## § 1599c. Health care professionals: enhanced appointment and compensation authority for personnel for care and treatment of wounded and injured members of the armed forces
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) The Secretary of Defense may, at the discretion of the Secretary, exercise any authority for the appointment and pay of health care personnel under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense if the Secretary determines that the exercise of such authority is necessary in order to provide or enhance the capacity of the Department to provide care and treatment for members of the armed forces who are wounded or injured on active duty in the armed forces and to support the ongoing patient care and medical readiness, education, and training requirements of the Department of Defense.
 
@@ -33,7 +33,7 @@
 
             (C) Any designation by the Secretary for purposes of subparagraph (A)(i) shall be based on an analysis of current and future Department of Defense workforce requirements.
 
-    (b) __Recruitment of Personnel.—__ 
+    (b)  __Recruitment of Personnel__  __.—__ 
 
         (1) The Secretaries of the military departments shall each develop and implement a strategy to disseminate among appropriate personnel of the military departments authorities and best practices for the recruitment of medical and health professionals, including the authorities under subsection (a).
 
@@ -45,7 +45,7 @@
 
             (B) clearly identify processes and actions that will be used to inform and educate military and civilian personnel responsible for the recruitment of medical and health professionals.
 
-    (c) __Termination of Authority.—__ 
+    (c)  __Termination of Authority__  __.—__ 
 
         (1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2015.
 

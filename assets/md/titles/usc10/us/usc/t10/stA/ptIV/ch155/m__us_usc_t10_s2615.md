@@ -15,7 +15,7 @@
 
 ## § 2615. Military museums and military education programs: cooperative agreement authority
 
-    (a) __Use Authorized.—__ 
+    (a)  __Use Authorized__  __.—__ 
 
     The Secretary concerned may enter into a cooperative agreement with a nonprofit entity for purposes related to—
 
@@ -23,7 +23,7 @@
 
         (2) the support of a military educational institution program.
 
-    (b) __Cooperative Agreement Described.—__ 
+    (b)  __Cooperative Agreement Described__  __.—__ 
 
     For purposes of subsection (a), an authorized cooperative agreement is described in [section 6305 of title 31][/us/usc/t31/s6305], except that the use of a cooperative agreement by the Secretary concerned is limited to nonprofit entities.
 

@@ -15,11 +15,11 @@
 
 ## § 2445b. Cost, schedule, and performance information
 
-    (a) __Submittal of Cost, Schedule, and Performance Information.—__ 
+    (a)  __Submittal of Cost, Schedule, and Performance Information__  __.—__ 
 
     The Secretary of Defense shall submit to Congress each calendar year, not later than 45 days after the President submits to Congress the budget for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], budget justification documents regarding cost, schedule, and performance for each major automated information system program and each other major information technology investment program for which funds are requested by the President in the budget.
 
-    (b) __Elements Regarding Major Automated Information System Programs.—__ 
+    (b)  __Elements Regarding Major Automated Information System Programs__  __.—__ 
 
     The documents submitted under subsection (a) with respect to a major automated information system program shall include detailed and summarized information with respect to the automated information system to be acquired under the program, and shall specifically include each of the following:
 
@@ -49,7 +49,7 @@
 
         (6) For each major automated information system program for which the information required under paragraph (5) has been provided in a previous annual report, a summary of any significant changes to the information previously provided.
 
-    (c) __Baseline.—__ 
+    (c)  __Baseline__  __.—__ 
 
         (1) For purposes of this chapter, the initial submittal to Congress of the documents required by subsection (a) with respect to a major automated information system program shall constitute the original estimate or information originally submitted on such program for purposes of the reports and determinations on program changes in [section 2445c of this title][/us/usc/t10/s2445c].
 
@@ -57,7 +57,7 @@
 
         (3) In the event of an adjustment or revision to the original estimate or information originally submitted on a program under paragraph (2), the Secretary of Defense shall include in the next budget justification documents submitted under subsection (a) after such adjustment or revision a notification to the congressional defense committees of such adjustment or revision, together with the reasons for such adjustment or revision.
 
-    (d) __Elements Regarding Other Major Information Technology Investment Programs.—__ 
+    (d)  __Elements Regarding Other Major Information Technology Investment Programs__  __.—__ 
 
     With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
 

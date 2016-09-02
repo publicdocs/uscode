@@ -17,7 +17,7 @@
 
 This title was enacted by [act Aug. 10, 1956, ch. 1041, § 1][/us/act/1956-08-10/ch1041/s1], [70A Stat. 1][/us/stat/70A/1]
 
-Current through 113-65
+Current through 113–75!66
 
 <table>
 
@@ -25753,15 +25753,15 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
 [Pub. L. 100–370, § 4][/us/pl/100/370/s4], July 19, 1988, [102 Stat. 856][/us/stat/102/856], provided that:
 
->     “(a) __References to Replaced Laws.—__ 
+>     “(a)  __References to Replaced Laws__  __.—__ 
 
 >     A reference to a law replaced by the provisions of title 10, United States Code, enacted by this Act \[see Tables for classification\] (including a reference in a regulation, order, or other law) shall be treated as referring to the corresponding provision enacted by this Act.
 
->     “(b) __Savings Provision for Regulations.—__ 
+>     “(b)  __Savings Provision for Regulations__  __.—__ 
 
 >     A regulation, rule, or order in effect under a law replaced by the provisions of title 10, United States Code, enacted by this Act shall continue in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
->     “(c) __General Savings Provision.—__ 
+>     “(c)  __General Savings Provision__  __.—__ 
 
 >     An action taken or an offense committed under a law replaced by the provisions of title 10, United States Code, enacted by this Act shall be treated as having been taken or committed under the corresponding provision enacted by this Act.”
 
@@ -25779,15 +25779,15 @@ This title has been enacted into positive law by section 1 of [act Aug. 10, 1956
 
 [Pub. L. 103–337, div. A, title XVI, § 1665][/us/pl/103/337/s1665], Oct. 5, 1994, [108 Stat. 3012][/us/stat/108/3012], provided that:
 
->     “(a) __References to Transferred or Replaced Provisions.—__ 
+>     “(a)  __References to Transferred or Replaced Provisions__  __.—__ 
 
 >     A reference to a provision of title 10, United States Code, transferred or replaced by the provisions of sections 1661 through 1664 \[see Tables for classification\] (including a reference in a regulation, order, or other law) shall be treated as referring to that provision as transferred or to the corresponding provision as so enacted by this subtitle \[subtitle C (§§ 1661–1665) of title XVI of div. A of [Pub. L. 103–337][/us/pl/103/337]\].
 
->     “(b) __Savings Provision for Regulations.—__ 
+>     “(b)  __Savings Provision for Regulations__  __.—__ 
 
 >     A regulation, rule, or order in effect under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall continue in effect under the corresponding provision so enacted until repealed, amended, or superseded.
 
->     “(c) __General Savings Provision.—__ 
+>     “(c)  __General Savings Provision__  __.—__ 
 
 >     An action taken, or a right that matured, under a provision of title 10, United States Code, replaced by a provision of that title enacted by sections 1661 through 1664 shall be treated as having been taken, or having matured, under the corresponding provision so enacted.”
 

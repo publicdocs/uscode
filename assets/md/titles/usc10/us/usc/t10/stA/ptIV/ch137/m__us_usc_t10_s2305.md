@@ -241,13 +241,13 @@
 
             (B) In considering offers in response to a solicitation requiring proposals described in paragraph (1)(B) or (2)(B), the head of an agency shall base any evaluation of items developed exclusively at private expense on an analysis of the total value, in terms of innovative design, life-cycle costs, and other pertinent factors, of incorporating such items in the system.
 
-    (e) __Protest File.—__ 
+    (e)  __Protest File__  __.—__ 
 
         (1) If, in the case of a solicitation for a contract issued by, or an award or proposed award of a contract by, the head of an agency, a protest is filed pursuant to the procedures in subchapter V of chapter 35 of title 31 and an actual or prospective offeror so requests, a file of the protest shall be established by the procuring activity and reasonable access shall be provided to actual or prospective offerors.
 
         (2) Information exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552] may be redacted in a file established pursuant to paragraph (1) unless an applicable protective order provides otherwise.
 
-    (f) __Agency Actions on Protests.—__ 
+    (f)  __Agency Actions on Protests__  __.—__ 
 
     If, in connection with a protest, the head of an agency determines that a solicitation, proposed award, or award does not comply with the requirements of law or regulation, the head of the agency—
 
@@ -255,7 +255,7 @@
 
         (2) may pay costs described in paragraph (1) of [section 3554(c) of title 31][/us/usc/t31/s3554/c] within the limits referred to in paragraph (2) of such section.
 
-    (g) __Prohibition on Release of Contractor Proposals.—__ 
+    (g)  __Prohibition on Release of Contractor Proposals__  __.—__ 
 
         (1) Except as provided in paragraph (2), a proposal in the possession or control of an agency named in [section 2303 of this title][/us/usc/t10/s2303] may not be made available to any person under [section 552 of title 5][/us/usc/t5/s552].
 
@@ -533,11 +533,11 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
 [Pub. L. 109–163, div. A, title VIII, § 816][/us/pl/109/163/s816], Jan. 6, 2006, [119 Stat. 3382][/us/stat/119/3382], provided that:
 
->     “(a) __Guidance Required.—__ 
+>     “(a)  __Guidance Required__  __.—__ 
 
 >     The Secretary of Defense shall prescribe guidance for the military departments and the Defense Agencies on the use of tiered evaluations of offers for contracts and for task or delivery orders under contracts.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The guidance prescribed under subsection (a) shall include a prohibition on the initiation by a contracting officer of a tiered evaluation of an offer for a contract or for a task or delivery order under a contract unless the contracting officer—
 
@@ -551,15 +551,15 @@ Aug. 9, 1955, ch. 628, § 15, 69 Stat. 551.  </td>
 
 [Pub. L. 109–163, div. A, title VIII, § 819][/us/pl/109/163/s819], Jan. 6, 2006, [119 Stat. 3385][/us/stat/119/3385], provided that:
 
->     “(a) __Defense Contracts.—__ 
+>     “(a)  __Defense Contracts__  __.—__ 
 
 >     In awarding any contract for the procurement of goods or services to an entity, the Secretary of Defense is authorized to use as an evaluation factor whether the entity intends to carry out the contract using employees or individual subcontractors who are members of the Selected Reserve of the reserve components of the Armed Forces.
 
->     “(b) __Documentation of Selected Reserve-Related Evaluation Factor.—__ 
+>     “(b)  __Documentation of Selected Reserve-Related Evaluation Factor__  __.—__ 
 
 >     Any entity claiming intent to carry out a contract using employees or individual subcontractors who are members of the Selected Reserve of the reserve components of the Armed Forces shall submit proof of the use of such employees or subcontractors for the Department of Defense to consider in carrying out subsection (a) with respect to that contract.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Federal Acquisition Regulation shall be revised as necessary to implement this section.”
 

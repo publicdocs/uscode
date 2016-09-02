@@ -15,11 +15,11 @@
 
 ## § 7306a. Vessels stricken from Naval Vessel Register: use for experimental purposes
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of the Navy may use for experimental purposes any vessel stricken from the Naval Vessel Register.
 
-    (b) __Stripping and Environmental Remediation of Vessel.—__ 
+    (b)  __Stripping and Environmental Remediation of Vessel__  __.—__ 
 
         (1) Before using a vessel for an experimental purpose pursuant to subsection (a), the Secretary shall carry out such stripping of the vessel as is practicable and such environmental remediation of the vessel as is required for the use of the vessel for experimental purposes.
 
@@ -27,7 +27,7 @@
 
         (3) Amounts received as proceeds from the stripping of a vessel pursuant to this subsection shall be credited to appropriations available for the procurement of services needed for such stripping and for environmental remediation required for the use of the vessel for experimental purposes. Amounts received in excess of amounts needed for reimbursement of those costs shall be deposited into the account from which the stripping and environmental remediation expenses were incurred and shall be available for stripping and environmental remediation of other vessels to be used for experimental purposes.
 
-    (c) __Use for Experimental Purposes Defined.—__ 
+    (c)  __Use for Experimental Purposes Defined__  __.—__ 
 
     In this section, the term “use for experimental purposes”, with respect to a vessel, includes use of the vessel in a Navy sink exercise or for target purposes.
 

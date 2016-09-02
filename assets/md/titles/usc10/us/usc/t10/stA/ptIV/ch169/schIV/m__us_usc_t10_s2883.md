@@ -15,7 +15,7 @@
 
 ## § 2883. Department of Defense Housing Funds
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There are hereby established on the books of the Treasury the following accounts:
 
@@ -23,7 +23,7 @@
 
         (2) The Department of Defense Military Unaccompanied Housing Improvement Fund.
 
-    (b) __Commingling of Funds Prohibited.—__ 
+    (b)  __Commingling of Funds Prohibited__  __.—__ 
 
         (1) The Secretary of Defense shall administer each Fund separately.
 
@@ -31,7 +31,7 @@
 
         (3) Amounts in the Department of Defense Military Unaccompanied Housing Improvement Fund may be used only to carry out activities under this subchapter with respect to military unaccompanied housing.
 
-    (c) __Credits to Funds.—__ 
+    (c)  __Credits to Funds__  __.—__ 
 
         (1)
 
@@ -69,7 +69,7 @@
 
             (G) Subject to subsection (f), any amounts that the Secretary of Defense transfers to that Fund from amounts in the Department of Defense Base Closure Account 2005.
 
-    (d) __Use of Amounts in Funds.—__ 
+    (d)  __Use of Amounts in Funds__  __.—__ 
 
         (1) In such amounts as provided in appropriation Acts and except as provided in subsection (e), the Secretary of Defense may use amounts in the Department of Defense Family Housing Improvement Fund to carry out activities under this subchapter with respect to military family housing, including activities required in connection with the planning, execution, and administration of contracts entered into under the authority of this subchapter. The Secretary may also use for expenses of activities required in connection with the planning, execution, and administration of such contracts funds that are otherwise available to the Department of Defense for such types of expenses.
 
@@ -77,13 +77,13 @@
 
         (3) Amounts made available under this subsection shall remain available until expended. The Secretary of Defense may transfer amounts made available under this subsection to the Secretaries of the military departments to permit such Secretaries to carry out the activities for which such amounts may be used.
 
-    (e) __Limitation on Obligations.—__ 
+    (e)  __Limitation on Obligations__  __.—__ 
 
         (1) The Secretary may not incur an obligation under a contract or other agreement entered into under this subchapter in excess of the unobligated balance, at the time the contract is entered into, of the Fund required to be used to satisfy the obligation.
 
         (2) The Funds established under subsection (a) shall be the sole source of funds for activities carried out under this subchapter.
 
-    (f) __Notification Required for Transfers.—__ 
+    (f)  __Notification Required for Transfers__  __.—__ 
 
     A transfer of appropriated amounts to a Fund under subparagraph (B) or (G) of paragraph (1) or subparagraph (B) or (G) of paragraph (2) of subsection (c) may be made only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the transfer to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]. In addition, the notice required in connection with a transfer under subparagraph (G) of paragraph (1) or subparagraph (G) of paragraph (2) shall include a certification that the amounts to be transferred from the Department of Defense Base Closure Account 2005 were specified in the conference report to accompany the most recent Military Construction Authorization Act.
 

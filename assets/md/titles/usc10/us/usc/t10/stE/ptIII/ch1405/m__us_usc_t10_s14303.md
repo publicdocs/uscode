@@ -15,7 +15,7 @@
 
 ## § 14303. Eligibility for consideration for promotion: minimum years of service in grade
 
-    (a) __Officers in Pay Grades O–1 and O–2.—__ 
+    (a)  __Officers in Pay Grades__  __O–1__  __and__  __O–2.—__ 
 
     An officer who is on the reserve active-status list of the Army, Navy, Air Force, or Marine Corps and holds a permanent appointment in the grade of second lieutenant or first lieutenant as a reserve officer of the Army, Air Force, or Marine Corps, or in the grade of ensign or lieutenant (junior grade) as a reserve officer of the Navy, may not be promoted to the next higher grade, or granted Federal recognition in that grade, until the officer has completed the following years of service in grade:
 
@@ -23,7 +23,7 @@
 
         (2) Two years, in the case of an officer holding a permanent appointment in the grade of first lieutenant or lieutenant (junior grade).
 
-    (b) __Officers in Pay Grades O–3 and Above.—__ 
+    (b)  __Officers in Pay Grades__  __O–3__  __and Above__  __.—__ 
 
     Subject to subsection (d), an officer who is on the reserve active-status list of the Army, Air Force, or Marine Corps and holds a permanent appointment in a grade above first lieutenant, or who is on the reserve active-status list of the Navy in a grade above lieutenant (junior grade), may not be considered for selection for promotion to the next higher grade, or examined for Federal recognition in the next higher grade, until the officer has completed the following years of service in grade:
 
@@ -33,11 +33,11 @@
 
         This subsection does not apply to an adjutant general or assistant adjutant general of a State or to an appointment in a higher grade which is based upon a specific provision of law.
 
-    (c) __Authority To Lengthen Minimum Period in Grade.—__ 
+    (c)  __Authority To Lengthen Minimum Period in Grade__  __.—__ 
 
     The Secretary concerned may prescribe a period of service in grade for eligibility for promotion, in the case of officers to whom subsection (a) applies, or for eligibility for consideration for promotion, in the case of officers to whom subsection (b) applies, that is longer than the applicable period specified in that subsection.
 
-    (d) __Waivers To Ensure Two Below-the-Zone Considerations.—__ 
+    (d)  __Waivers To Ensure Two Below-the-Zone Considerations__  __.—__ 
 
     Subject to [section 14307(b) of this title][/us/usc/t10/s14307/b], the Secretary of the military department concerned may waive subsection (b) to the extent necessary to ensure that officers described in paragraph (1) of that subsection have at least two opportunities for consideration for promotion to the next higher grade as officers below the promotion zone.
 

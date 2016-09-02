@@ -15,7 +15,7 @@
 
 ## § 2640. Charter air transportation of members of the armed forces
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
             (B) shall be conducted in accordance with regulations prescribed by the Secretary, after consultation with the Secretary of Transportation.
 
-    (b) __Inspections.—__ 
+    (b)  __Inspections__  __.—__ 
 
     The Secretary shall provide for inspections of each air carrier that contracts with the Department of Defense for the charter air transportation of members of the armed forces. The inspections shall be conducted in accordance with standards established by the Secretary, after consultation with the Secretary of Transportation, and shall include, at a minimum, the following:
 
@@ -49,7 +49,7 @@
 
         (5) Operational check-rides on aircraft conducted periodically.
 
-    (c) __Commercial Airlift Review Board.—__ 
+    (c)  __Commercial Airlift Review Board__  __.—__ 
 
     The Secretary shall establish a Commercial Airlift Review Board within the Department of Defense. The Board shall consist of personnel from the Department of Defense and other Government personnel as may be appropriate. The duties of the Board shall be—
 
@@ -59,7 +59,7 @@
 
         (3) to carry out such other duties and make recommendations on such other matters as the Secretary considers appropriate.
 
-    (d) __Suspension and Reinstatement.—__ 
+    (d)  __Suspension and Reinstatement__  __.—__ 
 
         (1)
 
@@ -79,19 +79,19 @@
 
         (3) The Secretary shall include in each contract subject to this section the provisions on suspension and reinstatement established under this subsection.
 
-    (e) __Authority To Leave Unsafe Aircraft.—__ 
+    (e)  __Authority To Leave Unsafe Aircraft__  __.—__ 
 
     A representative of the Military Airlift Command, the Military Traffic Management Command, or such other agency as may be designated by the Secretary of Defense (or if there is no such representative reasonably available, the senior officer on board a chartered aircraft) may order members of the armed forces to leave a chartered aircraft if the representative (or officer) determines that a condition exists on the aircraft which may endanger the safety of the members.
 
-    (f) __FAA Information.—__ 
+    (f)  __FAA Information__  __.—__ 
 
     The Secretary shall request the Secretary of Transportation to provide to the Secretary a report on each inspection performed by Federal Aviation Administration personnel, and the status of corrective actions taken, on each aircraft of an air carrier under contract with the Department of Defense for the charter air transportation of members of the armed forces.
 
-    (g) __Waiver.—__ 
+    (g)  __Waiver__  __.—__ 
 
     After considering recommendations by the Commercial Airlift Review Board, the Secretary may waive any provision of this section in an emergency.
 
-    (h) __Authority To Protect Safety-Related Information Voluntarily Provided by an Air Carrier.—__ 
+    (h)  __Authority To Protect Safety-Related Information Voluntarily Provided by an Air Carrier__  __.—__ 
 
         (1) Subject to paragraph (2), the Secretary of Defense may (notwithstanding any other provision of law) withhold from public disclosure safety-related information that is provided to the Secretary voluntarily by an air carrier for the purposes of this section.
 
@@ -105,11 +105,11 @@
 
         (3) If the Secretary provides to the head of another agency safety-related information described in paragraph (1) with respect to which the Secretary has made a determination described in paragraph (2), the head of that agency shall (notwithstanding any other provision of law) withhold the information from public disclosure unless the disclosure is specifically authorized by the Secretary.
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations to carry out this section, including requirements and identification of inspecting personnel with respect to preflight safety inspections required by subsection (b)(3).
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 

@@ -15,7 +15,7 @@
 
 ## § 7439. Certain oil shale reserves: transfer of jurisdiction and petroleum exploration, development, and production
 
-    (a) __Transfer Required.—__ 
+    (a)  __Transfer Required__  __.—__ 
 
         (1) Upon the enactment of this section, the Secretary of Energy shall transfer to the Secretary of the Interior administrative jurisdiction over all public domain lands included within Oil Shale Reserve Numbered 1 and those public domain lands included within the undeveloped tracts of Oil Shale Reserve Numbered 3.
 
@@ -25,25 +25,25 @@
 
         (4) Upon the transfer to the Secretary of the Interior of jurisdiction over public domain lands under this subsection, the other provisions of this chapter shall cease to apply with respect to the transferred lands.
 
-    (b) __Authority To Lease.—__ 
+    (b)  __Authority To Lease__  __.—__ 
 
         (1) Beginning on November 18, 1997, or as soon thereafter as practicable, the Secretary of the Interior shall enter into leases with one or more private entities for the purpose of exploration for, and development and production of, petroleum (other than in the form of oil shale) located on or in public domain lands in Oil Shale Reserves Numbered 1 and 3 (including the developed tract of Oil Shale Reserve Numbered 3). Any such lease shall be made in accordance with the requirements of the Mineral Leasing Act ([30 U.S.C. 181][/us/usc/t30/s181] et seq.) regarding the lease of oil and gas lands and shall be subject to valid existing rights.
 
         (2) Notwithstanding the delayed transfer of the developed tract of Oil Shale Reserve Numbered 3 under subsection (a)(2), the Secretary of the Interior shall enter into a lease under paragraph (1) with respect to the developed tract before November 18, 1998.
 
-    (c) __Management.—__ 
+    (c)  __Management__  __.—__ 
 
     The Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall manage the lands transferred under subsection (a) in accordance with the Federal Land Policy and Management Act of 1976 ([43 U.S.C. 1701][/us/usc/t43/s1701] et seq.) and other laws applicable to the public lands.
 
-    (d) __Transfer of Existing Equipment.—__ 
+    (d)  __Transfer of Existing Equipment__  __.—__ 
 
     The lease of lands by the Secretary of the Interior under this section may include the transfer, at fair market value, of any well, gathering line, or related equipment owned by the United States on the lands transferred under subsection (a) and suitable for use in the exploration, development, or production of petroleum on the lands.
 
-    (e) __Cost Minimization.—__ 
+    (e)  __Cost Minimization__  __.—__ 
 
     The cost of any environmental assessment required pursuant to the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) in connection with a proposed lease under this section shall be paid out of unobligated amounts available for administrative expenses of the Bureau of Land Management.
 
-    (f) __Treatment of Receipts.—__ 
+    (f)  __Treatment of Receipts__  __.—__ 
 
         (1) Notwithstanding section 35 of the Mineral Leasing Act ([30 U.S.C. 191][/us/usc/t30/s191]), all moneys received during the period specified in paragraph (2) from a lease under this section (including moneys in the form of sales, bonuses, royalties (including interest charges collected under the Federal Oil and Gas Royalty Management Act of 1982 ([30 U.S.C. 1701][/us/usc/t30/s1701] et seq.)), and rentals) shall be covered into the Treasury of the United States and shall not be subject to distribution to the States pursuant to subsection (a) of such section 35.
 
@@ -55,7 +55,7 @@
 
             (B) The cost to the United States to originally install wells, gathering lines, and related equipment on the transferred lands and any other cost incurred by the United States with respect to the lands.
 
-    (g) __Use of Receipts.—__ 
+    (g)  __Use of Receipts__  __.—__ 
 
         (1)
 

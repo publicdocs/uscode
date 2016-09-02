@@ -15,7 +15,7 @@
 
 ## § 2336. Intergovernmental support agreements with State and local governments
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) The Secretary concerned may enter into an intergovernmental support agreement with a State or local government to provide, receive, or share installation-support services if the Secretary determines that the agreement will serve the best interests of the department by enhancing mission effectiveness or creating efficiencies or economies of scale, including by reducing costs.
 
@@ -31,19 +31,19 @@
 
         (3) An intergovernmental support agreement under paragraph (1) may only be used when the Secretary concerned or the State or local government, as the case may be, providing the installation-support services already provides such services for its own use.
 
-    (b) __Effect on First Responder Arrangements.—__ 
+    (b)  __Effect on First Responder Arrangements__  __.—__ 
 
     The authority provided by this section and limitations on the use of that authority are not intended to revoke, preclude, or otherwise interfere with existing or proposed mutual-aid agreements relating to police or fire protection services or other similar first responder agreements or arrangements.
 
-    (c) __Availability of Funds.—__ 
+    (c)  __Availability of Funds__  __.—__ 
 
     Funds available to the Secretary concerned for operation and maintenance may be used to pay for such installation-support services. The costs of agreements under this section for any fiscal year may be paid using annual appropriations made available for that year. Funds received by the Secretary as reimbursement for providing installation-support services pursuant to such an agreement shall be credited to the appropriation or account charged with providing installation support.
 
-    (d) __Effect on OMB Circular A-76.—__ 
+    (d)  __Effect on OMB Circular A-__  __76.—__ 
 
      The Secretary concerned shall ensure that intergovernmental support agreements authorized by this section are not used to circumvent the requirements of Office of Management and Budget Circular A-76 regarding public-private competitions.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

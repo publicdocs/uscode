@@ -15,7 +15,7 @@
 
 ## § 2366. Major systems and munitions programs: survivability testing and lethality testing required before full-scale production
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
         (1)
 
@@ -33,13 +33,13 @@
 
             (B) in the case of a product improvement to a major munitions program or a missile program, realistic lethality testing is completed in accordance with this section.
 
-    (b) __Test Guidelines.—__ 
+    (b)  __Test Guidelines__  __.—__ 
 
         (1) Survivability and lethality tests required under subsection (a) shall be carried out sufficiently early in the development phase of the system or program (including a covered product improvement program) to allow any design deficiency demonstrated by the testing to be corrected in the design of the system, munition, or missile (or in the product modification or upgrade to the system, munition, or missile) before proceeding beyond low-rate initial production.
 
         (2) The costs of all tests required under that subsection shall be paid from funds available for the system being tested.
 
-    (c) __Waiver Authority.—__ 
+    (c)  __Waiver Authority__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
         (4) In time of war or mobilization, the President may suspend the operation of any provision of this section.
 
-    (d) __Reporting to Congress.—__ 
+    (d)  __Reporting to Congress__  __.—__ 
 
         (1) At the conclusion of survivability or lethality testing under subsection (a), the Secretary of Defense shall submit a report on the testing to the congressional defense committees. Each such report shall describe the results of the survivability or lethality testing and shall give the Secretary’s overall assessment of the testing.
 
@@ -73,7 +73,7 @@
 
             (B) The report required under paragraph (1).
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

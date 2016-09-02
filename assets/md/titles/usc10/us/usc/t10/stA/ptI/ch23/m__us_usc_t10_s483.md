@@ -15,15 +15,15 @@
 
 ## § 483. Reports on transfers from high-priority readiness appropriations
 
-    (a) __Annual Reports.—__ 
+    (a)  __Annual Reports__  __.—__ 
 
     Not later than the date on which the President submits the budget for a fiscal year to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report on transfers during the preceding fiscal year from funds available for each covered budget activity.
 
-    (b) __Midyear Reports.—__ 
+    (b)  __Midyear Reports__  __.—__ 
 
     Not later than June 1 of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in subsection (a) a report on transfers, during the first six months of that fiscal year, from funds available for each covered budget activity.
 
-    (c) __Matters To Be Included.—__ 
+    (c)  __Matters To Be Included__  __.—__ 
 
     In each report under subsection (a) or (b), the Secretary of Defense shall include for each covered budget activity the following:
 
@@ -39,7 +39,7 @@
 
         (2) A detailed explanation of the transfers into, and out of, funds available for that activity during the period covered by the report, including identification of the sources from which funds were transferred into that activity and identification of the recipients of the funds transferred out of that activity.
 
-    (d) __Covered Budget Activity Defined.—__ 
+    (d)  __Covered Budget Activity Defined__  __.—__ 
 
     In this section, the term “covered budget activity” means each of the following:
 

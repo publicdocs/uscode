@@ -315,7 +315,7 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 > “SEC. 1203. __WITHDRAWAL OF UNITED STATES GROUND FORCES FROM REPUBLIC OF BOSNIA AND HERZEGOVINA.__ 
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     No funds appropriated or otherwise made available for the Department of Defense for fiscal year 1998 or any subsequent fiscal year may be used for the deployment of any United States ground combat forces in the Republic of Bosnia and Herzegovina after June 30, 1998, unless the President, not later than May 15, 1998, and after consultation with the bipartisan leadership of the two Houses of Congress, transmits to Congress a certification—
 
@@ -323,7 +323,7 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 >         “(2) that after June 30, 1998, it will remain United States policy that United States ground forces will not serve as, or be used as, civil police in the Republic of Bosnia and Herzegovina.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The President shall submit with the certification under subsection (a) a report that includes the following:
 
@@ -351,15 +351,15 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 >         “(12) The mission statement and operational goals of the United States forces involved in a follow-on mission.
 
->     “(c) __Request for Supplemental Appropriations.—__ 
+>     “(c)  __Request for Supplemental Appropriations__  __.—__ 
 
 >     The President shall transmit to Congress with a certification under subsection (a) a supplemental appropriations request for the Department of Defense for such amounts as are necessary for the costs of any continued deployment beyond June 30, 1998.
 
->     “(d) __Construction With President’s Constitutional Authority.—__ 
+>     “(d)  __Construction With President’s Constitutional Authority__  __.—__ 
 
 >     Nothing in this section shall be deemed to restrict the authority of the President under the Constitution to protect the lives of United States citizens.
 
->     “(e) __Construction With Appropriations Provision.—__ 
+>     “(e)  __Construction With Appropriations Provision__  __.—__ 
 
 >     The provisions of this section are enacted, and shall be applied, as supplemental to (and not in lieu of) the provisions of section 8132 of the Department of Defense Appropriations Act, 1998 ([Public Law 105–56][/us/pl/105/56]) \[[111 Stat. 1250][/us/stat/111/1250]\].
 
@@ -367,23 +367,23 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 > “As used in this subtitle \[subtitle A (§§ 1201–1206) of title XII of div. A of [Pub. L. 105–85][/us/pl/105/85], enacting this note\]:
 
->     “(1) __Dayton peace agreement.—__ 
+>     “(1)  __Dayton peace agreement__  __.—__ 
 
 >     The term ‘Dayton Peace Agreement’ means the General Framework Agreement for Peace in Bosnia and Herzegovina, initialed by the parties in Dayton, Ohio, on November 21, 1995, and signed in Paris on December 14, 1995.
 
->     “(2) __Implementation force.—__ 
+>     “(2)  __Implementation force__  __.—__ 
 
 >     The term ‘Implementation Force’ means the NATO-led multinational military force in the Republic of Bosnia and Herzegovina (commonly referred to as ‘IFOR’), authorized under the Dayton Peace Agreement.
 
->     “(3) __Stabilization force.—__ 
+>     “(3)  __Stabilization force__  __.—__ 
 
 >     The term ‘Stabilization Force’ means the NATO-led follow-on force to the Implementation Force in the Republic of Bosnia and Herzegovina and other countries in the region (commonly referred to as ‘SFOR’), authorized under United Nations Security Council Resolution 1088 (December 12, 1996).
 
->     “(4) __Follow-on mission.—__ 
+>     “(4)  __Follow-on mission__  __.—__ 
 
 >     The term ‘follow-on mission’ means a mission involving the deployment of ground elements of the United States Armed Forces in the Republic of Bosnia and Herzegovina after June 30, 1998 (other than as described in section 1203(b)).
 
->     “(5) __NATO.—__ 
+>     “(5)  __NATO__  __.—__ 
 
 >     The term ‘NATO’ means the North Atlantic Treaty Organization.”
 
@@ -395,19 +395,19 @@ The following general provisions, that had been repeated as fiscal year provisio
 
 [Pub. L. 107–107, div. A, title X, § 1002][/us/pl/107/107/s1002], Dec. 28, 2001, [115 Stat. 1202][/us/stat/115/1202], provided that:
 
->     “(a) __Status of Classified Annex.—__ 
+>     “(a)  __Status of Classified Annex__  __.—__ 
 
 >     The Classified Annex prepared by the committee of conference to accompany the conference report on the bill S. 1438 of the One Hundred Seventh Congress \[[Pub. L. 107–107][/us/pl/107/107]\] and transmitted to the President is hereby incorporated into this Act \[see Tables for classification\].
 
->     “(b) __Construction With Other Provisions of Act.—__ 
+>     “(b)  __Construction With Other Provisions of Act__  __.—__ 
 
 >     The amounts specified in the Classified Annex are not in addition to amounts authorized to be appropriated by other provisions of this Act.
 
->     “(c) __Limitation on Use of Funds.—__ 
+>     “(c)  __Limitation on Use of Funds__  __.—__ 
 
 >     Funds appropriated pursuant to an authorization contained in this Act that are made available for a program, project, or activity referred to in the Classified Annex may only be expended for such program, project, or activity in accordance with such terms, conditions, limitations, restrictions, and requirements as are set out for that program, project, or activity in the Classified Annex.
 
->     “(d) __Distribution of Classified Annex.—__ 
+>     “(d)  __Distribution of Classified Annex__  __.—__ 
 
 >     The President shall provide for appropriate distribution of the Classified Annex, or of appropriate portions of the annex, within the executive branch of the Government.”
 

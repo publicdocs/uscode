@@ -15,7 +15,7 @@
 
 ## § 2661. Miscellaneous administrative provisions relating to real property
 
-    (a) __Availability of Operation and Maintenance Funds.—__ 
+    (a)  __Availability of Operation and Maintenance Funds__  __.—__ 
 
     Appropriations for operation and maintenance of the active forces shall be available for the following:
 
@@ -23,7 +23,7 @@
 
         (2) The installation of equipment in public and private plants.
 
-    (b) __Leasing and Road Maintenance Authority.—__ 
+    (b)  __Leasing and Road Maintenance Authority__  __.—__ 
 
     The Secretary of Defense and the Secretary of each military department may provide for the following:
 
@@ -37,7 +37,7 @@
 
         (2) The maintenance of defense access roads which are certified to the Secretary of Transportation as important to the national defense under the provisions of [section 210 of title 23][/us/usc/t23/s210].
 
-    (c) __Prohibition on Naming Department of Defense Real Property After Member of Congress.—__ 
+    (c)  __Prohibition on Naming Department of Defense Real Property After Member of Congress__  __.—__ 
 
         (1) Real property under the jurisdiction of the Secretary of Defense or the Secretary of a military department may not be named after, or otherwise officially identified by the name of, any individual who is a Member of Congress at the time the property is so named or identified.
 
@@ -49,7 +49,7 @@
 
             (B) The term “real property” includes structures, buildings, or other infrastructure of a military installation, roadways and defense access roads, and any other area on the grounds of a military installation.
 
-    (d) __Treatment of Pentagon Reservation.—__ 
+    (d)  __Treatment of Pentagon Reservation__  __.—__ 
 
     In this chapter, the terms “Secretary concerned” and “Secretary of a military department” include the Secretary of Defense with respect to the Pentagon Reservation.
 

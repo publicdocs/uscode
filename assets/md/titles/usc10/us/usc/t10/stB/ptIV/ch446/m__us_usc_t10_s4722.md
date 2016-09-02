@@ -15,21 +15,21 @@
 
 ## § 4722. Interment and inurnment policy
 
-    (a) __Eligibility Determinations Generally.—__ 
+    (a)  __Eligibility Determinations Generally__  __.—__ 
 
         (1) The Secretary of the Army, with the approval of the Secretary of Defense, shall determine eligibility for interment or inurnment in the Cemeteries.
 
         (2) The Secretary of the Army, with the approval of the Secretary of Defense, shall establish policy and procedures for reviewing and determining requests for exceptions to interment and inurnment eligibility policy, which shall include a requirement, before granting the request for an exception, for notification of the Committees on Armed Services and the Committees on Veterans Affairs of the Senate and the House of Representatives.
 
-    (b) __Removal of Remains.—__ 
+    (b)  __Removal of Remains__  __.—__ 
 
     Under such regulations as the Secretary of the Army may prescribe under [section 4721(d) of this title][/us/usc/t10/s4721/d], the Secretary of the Army may authorize the removal of the remains of a person described in subsection (c) from one of the Cemeteries for re-interment or re-inurnment if, upon the death of the primary person eligible for interment or inurnment in the Cemeteries, the deceased primary eligible person will not be buried in the same or an adjoining grave.
 
-    (c) __Covered Persons.—__ 
+    (c)  __Covered Persons__  __.—__ 
 
     Except as provided in subsection (d), the persons whose remains may be removed pursuant to subsection (b) are the deceased spouse, a minor child, and, in the discretion of the Secretary of the Army, an unmarried adult child of a member eligible for interment or inurnment in the Cemeteries.
 
-    (d) __Exceptions.—__ 
+    (d)  __Exceptions__  __.—__ 
 
     The remains of a person described in subsection (c) may not be removed from one of the Cemeteries under subsection (b) if the primary person eligible for burial in the Cemeteries is a person—
 

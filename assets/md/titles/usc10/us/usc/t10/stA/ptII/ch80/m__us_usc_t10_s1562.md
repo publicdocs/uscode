@@ -15,11 +15,11 @@
 
 ## § 1562. Database on domestic violence incidents
 
-    (a) __Database on Domestic Violence Incident.—__ 
+    (a)  __Database on Domestic Violence Incident__  __.—__ 
 
     The Secretary of Defense shall establish a central database of information on the incidents of domestic violence involving members of the armed forces.
 
-    (b) __Reporting of Information for the Database.—__ 
+    (b)  __Reporting of Information for the Database__  __.—__ 
 
     The Secretary shall require that the Secretaries of the military departments maintain and report annually to the administrator of the database established under subsection (a) any information received on the following matters:
 
@@ -35,27 +35,27 @@
 
 [Pub. L. 111–383, div. A, title V, § 543][/us/pl/111/383/s543], Jan. 7, 2011, [124 Stat. 4218][/us/stat/124/4218], provided that:
 
->     “(a) __Implementation of Outstanding Comptroller General Recommendations.—__ 
+>     “(a)  __Implementation of Outstanding Comptroller General Recommendations__  __.—__ 
 
 >     Consistent with the recommendations contained in the report of the Comptroller General of the United States titled ‘Status of Implementation of GAO’s 2006 Recommendations on the Department of Defense’s Domestic Violence Program’ (GAO–10–577R), the Secretary of Defense shall complete, not later than one year after the date of enactment of this Act \[Jan. 7, 2011\], implementation of actions to address the following recommendations:
 
->         “(1) __Defense incident-based reporting system.—__ 
+>         “(1)  __Defense incident-based reporting system__  __.—__ 
 
 >         The Secretary of Defense shall develop a comprehensive management plan to address deficiencies in the data captured in the Defense Incident-Based Reporting System to ensure the system can provide an accurate count of domestic violence incidents, and any consequent disciplinary action, that are reported throughout the Department of Defense.
 
->         “(2) __Adequate personnel.—__ 
+>         “(2)  __Adequate personnel__  __.—__ 
 
 >         The Secretary of Defense shall develop a plan to ensure that adequate personnel are available to implement recommendations made by the Defense Task Force on Domestic Violence.
 
->         “(3) __Domestic violence training data for chaplains.—__ 
+>         “(3)  __Domestic violence training data for chaplains__  __.—__ 
 
 >         The Secretary of Defense shall develop a plan to collect domestic violence training data for chaplains.
 
->         “(4) __Oversight framework.—__ 
+>         “(4)  __Oversight framework__  __.—__ 
 
 >         The Secretary of Defense shall develop an oversight framework for Department of Defense domestic violence programs, to include oversight of implementation of recommendations made by the Defense Task Force on Domestic Violence, including budgeting, communication initiatives, and policy compliance.
 
->     “(b) __Implementation Report.—__ 
+>     “(b)  __Implementation Report__  __.—__ 
 
 >     The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an implementation report within 90 days of the completion of actions outlined in subsection (a).”
 
@@ -63,7 +63,7 @@
 
 [Pub. L. 108–136, div. A, title V, § 575][/us/pl/108/136/s575], Nov. 24, 2003, [117 Stat. 1486][/us/stat/117/1486], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     During the two-year period beginning on the date of the enactment of this Act \[Nov. 24, 2003\], the Comptroller General shall review and assess the progress of the Department of Defense in implementing the recommendations of the Defense Task Force on Domestic Violence. In reviewing the status of the Department’s efforts, the Comptroller General should specifically focus on—
 
@@ -71,7 +71,7 @@
 
 >         “(2) the resources that the Department of Defense has provided toward such implementation, including personnel, facilities, and other administrative support, in order to ensure that necessary resources are provided to the organization within the Office of the Secretary of Defense with direct responsibility for oversight of implementation by the military departments of recommendations of the Task Force in order for that organization to carry out its duties and responsibilities.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Comptroller General shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the results of the review and assessment under subsection (a) not later than 30 months after the date of the enactment of this Act \[Nov. 24, 2003\].”
 
@@ -83,11 +83,11 @@
 
 [Pub. L. 106–65, div. A, title V, § 592][/us/pl/106/65/s592], Oct. 5, 1999, [113 Stat. 642][/us/stat/113/642], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to provide a program for the establishment on military installations of collaborative projects involving appropriate elements of the Armed Forces and the civilian community to improve, strengthen, or coordinate prevention and response efforts to domestic violence involving members of the Armed Forces, military family members, and others.
 
->     “(b) __Program.—__ 
+>     “(b)  __Program__  __.—__ 
 
 >     The Secretary of Defense shall establish a program to provide funds and other incentives to commanders of military installations for the following purposes:
 
@@ -107,15 +107,15 @@
 
 >         “(8) To improve the response of health care providers to incidents of domestic violence, including the development and implementation of screening protocols.
 
->     “(c) __Priority.—__ 
+>     “(c)  __Priority__  __.—__ 
 
 >     The Secretary shall give priority in providing funds and other incentives under the program to installations at which the local program will emphasize building or strengthening partnerships and collaboration among military organizations such as family advocacy program, military police or provost marshal organizations, judge advocate organizations, legal offices, health affairs offices, and other installation-level military commands between those organizations and appropriate civilian organizations, including civilian law enforcement, domestic violence advocacy organizations, and domestic violence shelters.
 
->     “(d) __Applications.—__ 
+>     “(d)  __Applications__  __.—__ 
 
 >     The Secretary shall establish guidelines for applications for an award of funds under the program to carry out the program at an installation.
 
->     “(e) __Awards.—__ 
+>     “(e)  __Awards__  __.—__ 
 
 >     The Secretary shall determine the award of funds and incentives under this section. In making a determination of the installations to which funds or other incentives are to be provided under the program, the Secretary shall consult with an award review committee consisting of representatives from the Armed Forces, the Department of Justice, the Department of Health and Human Services, and organizations with a demonstrated expertise in the areas of domestic violence and victims’ safety.”
 
@@ -123,7 +123,7 @@
 
 [Pub. L. 106–65, div. A, title V, § 593][/us/pl/106/65/s593], Oct. 5, 1999, [113 Stat. 643][/us/stat/113/643], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of Defense shall prescribe the following:
 
@@ -135,7 +135,7 @@
 
 >         “(4) A standard training program for all commanding officers in the Armed Forces, including a standard curriculum, on the handling of domestic violence cases.
 
->     “(b) __Deadline.—__ 
+>     “(b)  __Deadline__  __.—__ 
 
 >     The Secretary of Defense shall carry out subsection (a) not later than six months after the date on which the Secretary receives the first report of the Defense Task Force on Domestic Violence under section 591(e) \[set out as a note above\].”
 

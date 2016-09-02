@@ -15,7 +15,7 @@
 
 ## § 2229a. Annual report on prepositioned materiel and equipment
 
-    (a) __Annual Report Required.—__ 
+    (a)  __Annual Report Required__  __.—__ 
 
     Not later than the date of the submission of the President’s budget request for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to the congressional defense committees a report on the status of the materiel in the prepositioned stocks as of the end of the fiscal year preceding the fiscal year during which the report is submitted. Each report shall be unclassified and may contain a classified annex. Each report shall include the following information:
 
@@ -43,7 +43,7 @@
 
         (12) A list of any strategic plans affected by changes to the levels, composition, or locations of the prepositioned stocks and a description of any action taken to mitigate any risk that such changes may create.
 
-    (b) __Comptroller General Review.—__ 
+    (b)  __Comptroller General Review__  __.—__ 
 
         (1) The Comptroller General shall review each report submitted under subsection (a) and, as the Comptroller General determines appropriate, submit to the congressional defense committees any additional information that the Comptroller General determines will further inform such committees on issues relating to the status of the materiel in the prepositioned stocks.
 

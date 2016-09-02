@@ -15,11 +15,11 @@
 
 ## § 1086a. Certain former spouses: extension of period of eligibility for health benefits
 
-    (a) __Availability of Conversion Health Policies.—__ 
+    (a)  __Availability of Conversion Health Policies__  __.—__ 
 
     The Secretary of Defense shall inform each person who has been a dependent for a period of one year or more under [section 1072(2)(H) of this title][/us/usc/t10/s1072/2/H] of the availability of a conversion health policy for purchase by the person. A conversion health policy offered under this subsection shall provide coverage for not less than a 24-month period.
 
-    (b) __Effect of Purchase.—__ 
+    (b)  __Effect of Purchase__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
             (B) for which care is not provided under the policy solely on the grounds that the condition is a preexisting condition.
 
-    (c) __Effect of Unavailability of Policies.—__ 
+    (c)  __Effect of Unavailability of Policies__  __.—__ 
 
         (1)
 
@@ -51,7 +51,7 @@
 
         (3) In order to reduce premiums required under paragraph (1), the Secretary of Defense may offer a program of coverage that, with respect to mental health services, offers reduced coverage and increased cost-sharing by the purchaser.
 
-    (d) __Conversion Health Policy Defined.—__ 
+    (d)  __Conversion Health Policy Defined__  __.—__ 
 
     In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and the private insurer, that is available for purchase by or for the use of a person who is a dependent for a one-year period under [section 1072(2)(H) of this title][/us/usc/t10/s1072/2/H].
 

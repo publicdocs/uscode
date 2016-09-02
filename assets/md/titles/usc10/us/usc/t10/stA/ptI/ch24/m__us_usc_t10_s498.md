@@ -15,23 +15,23 @@
 
 ## § 498  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  Unilateral change in nuclear weapons stockpile of the United States
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Other than pursuant to a treaty, if the President has under consideration to unilaterally change the size of the total stockpile of nuclear weapons of the United States by more than 25 percent, prior to doing so the President shall initiate a Nuclear Posture Review.
 
-    (b) __Terms of Reference.—__ 
+    (b)  __Terms of Reference__  __.—__ 
 
     Prior to the initiation of a Nuclear Posture Review under this section, the President shall determine the terms of reference for the Nuclear Posture Review, which the President shall provide to the congressional defense committees.
 
-    (c) __Nuclear Posture Review.—__ 
+    (c)  __Nuclear Posture Review__  __.—__ 
 
     Upon completion of a Nuclear Posture Review under this section, the President shall submit the Nuclear Posture Review to the congressional defense committees prior to implementing any change in the nuclear weapons stockpile by more than 25 percent.
 
-    (d) __Construction.—__ 
+    (d)  __Construction__  __.—__ 
 
     This section shall not apply to changes to the nuclear weapons stockpile resulting from treaty obligations.
 
-    (e) __Form.—__ 
+    (e)  __Form__  __.—__ 
 
     A Nuclear Posture Review under this section shall be submitted in unclassified form, but may include a classified annex.
 

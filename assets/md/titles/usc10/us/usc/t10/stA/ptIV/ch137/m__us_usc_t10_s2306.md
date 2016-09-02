@@ -273,11 +273,11 @@ Feb. 19, 1948, ch. 65, § 4 (less words after semicolon of last sentence of (b
 
 [Pub. L. 109–364, div. A, title VIII, § 818(b)][/us/pl/109/364/s818/b]–(e), Oct. 17, 2006, [120 Stat. 2329][/us/stat/120/2329], 2330, provided that:
 
->     “(b) __Modification of Regulations.—__ 
+>     “(b)  __Modification of Regulations__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the regulations of the Department of Defense regarding the determination of contract type for development programs.
 
->     “(c) __Elements.—__ 
+>     “(c)  __Elements__  __.—__ 
 
 >     As modified under subsection (b), the regulations shall require the Milestone Decision Authority for a major defense acquisition program to select the contract type for a development program at the time of a decision on Milestone B approval (or Key Decision Point B approval in the case of a space program) that is consistent with the level of program risk for the program. The Milestone Decision Authority may select—
 
@@ -285,7 +285,7 @@ Feb. 19, 1948, ch. 65, § 4 (less words after semicolon of last sentence of (b
 
 >         “(2) a cost type contract.
 
->     “(d) __Conditions With Respect to Authorization of Cost Type Contract.—__ 
+>     “(d)  __Conditions With Respect to Authorization of Cost Type Contract__  __.—__ 
 
 >     As modified under subsection (b), the regulations shall provide that the Milestone Decision Authority may authorize the use of a cost type contract under subsection (c) for a development program only upon a written determination that—
 
@@ -293,7 +293,7 @@ Feb. 19, 1948, ch. 65, § 4 (less words after semicolon of last sentence of (b
 
 >         “(2) the complexity and technical challenge of the program is not the result of a failure to meet the requirements established in [section 2366a of title 10][/us/usc/t10/s2366a], United States Code.
 
->     “(e) __Justification for Selection of Contract Type.—__ 
+>     “(e)  __Justification for Selection of Contract Type__  __.—__ 
 
 >     As modified under subsection (b), the regulations shall require the Milestone Decision Authority to document the basis for the contract type selected for a program. The documentation shall include an explanation of the level of program risk for the program and, if the Milestone Decision Authority determines that the level of program risk is high, the steps that have been taken to reduce program risk and reasons for proceeding with Milestone B approval despite the high level of program risk.”
 

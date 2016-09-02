@@ -201,7 +201,7 @@
 
 >     “(b) __Review and Revision of Policies and Practices.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         During fiscal year 2007, the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Director of Operational Test and Evaluation shall review Department of Defense policies and practices on test and evaluation in order to—
 
@@ -209,11 +209,11 @@
 
 >             “(B) determine how best to apply appropriate test and evaluation principles to emerging acquisition approaches.
 
->         “(2) __Revised guidance.—__ 
+>         “(2)  __Revised guidance__  __.—__ 
 
 >         If the Under Secretary determines as a result of the review under paragraph (1) that a revision of the policies and practices referred to in that paragraph is necessary, the Under Secretary and the Director shall jointly issue new or revised guidance for the Department of Defense on test and evaluation to address that determination.
 
->     “(c) __Issues To Be Addressed.—__ 
+>     “(c)  __Issues To Be Addressed__  __.—__ 
 
 >     In carrying out subsection (b), the Under Secretary shall address policies and practices on test and evaluation in order to—
 
@@ -231,7 +231,7 @@
 
 >         “(2) ensure the appropriate use, if any, of operational test and evaluation resources to assess technology readiness levels for the purpose of [section 2366a of title 10][/us/usc/t10/s2366a], United States Code, and other applicable technology readiness requirements.
 
->     “(d) __Inclusion of Testing Needs in Strategic Plan.—__ 
+>     “(d)  __Inclusion of Testing Needs in Strategic Plan__  __.—__ 
 
 >     The Director, Test Resource Management Center, shall ensure that the strategic plan for Department of Defense test and evaluation resources developed pursuant to [section 196 of title 10][/us/usc/t10/s196], United States Code—
 
@@ -239,7 +239,7 @@
 
 >         “(2) includes an assessment of the test and evaluation facilities, resources, and budgets that will be required to meet such needs.
 
->     “(e) __Report to Congress.—__ 
+>     “(e)  __Report to Congress__  __.—__ 
 
 >     Not later than nine months after the date of the enactment of this Act \[Oct. 17, 2006\], the Under Secretary and the Director of Operational Test and Evaluation shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the review conducted under paragraph (1) of subsection (b), including any new or revised guidance issued pursuant to paragraph (2) of that subsection.”
 

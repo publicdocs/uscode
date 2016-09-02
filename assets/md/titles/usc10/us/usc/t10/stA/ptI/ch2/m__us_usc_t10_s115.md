@@ -15,7 +15,7 @@
 
 ## § 115. Personnel strengths: requirement for annual authorization
 
-    (a) __Active-Duty and Selected Reserve End Strengths To Be Authorized by Law.—__ 
+    (a)  __Active-Duty and Selected Reserve End Strengths To Be Authorized by Law__  __.—__ 
 
     Congress shall authorize personnel strength levels for each fiscal year for each of the following:
 
@@ -23,7 +23,7 @@
 
         (2) The end strength for the Selected Reserve of each reserve component of the armed forces.
 
-    (b) __Certain Reserves on Active Duty To Be Authorized by Law.—__ 
+    (b)  __Certain Reserves on Active Duty To Be Authorized by Law__  __.—__ 
 
         (1)
 
@@ -67,7 +67,7 @@
 
             (D) A summary of the missions being performed by members identified under subparagraphs (A) and (B).
 
-    (c) __Limitation on Appropriations for Military Personnel.—__ 
+    (c)  __Limitation on Appropriations for Military Personnel__  __.—__ 
 
     No funds may be appropriated for any fiscal year to or for—
 
@@ -77,11 +77,11 @@
 
         (3) the use of reserve component personnel to perform active duty or full-time National Guard duty under subsection (b) unless the strength for such personnel for that reserve component for that fiscal year has been authorized by law.
 
-    (d) __Military Technician (Dual Status) End Strengths To Be Authorized by Law.—__ 
+    (d)  __Military Technician (Dual Status) End Strengths To Be Authorized by Law__  __.—__ 
 
     Congress shall authorize for each fiscal year the end strength for military technicians (dual status) for each reserve component of the Army and Air Force. Funds available to the Department of Defense for any fiscal year may not be used for the pay of a military technician (dual status) during that fiscal year unless the technician fills a position that is within the number of such positions authorized by law for that fiscal year for the reserve component of that technician. This subsection applies without regard to [section 129 of this title][/us/usc/t10/s129]. In each budget submitted by the President to Congress under [section 1105 of title 31][/us/usc/t31/s1105], the end strength requested for military technicians (dual status) for each reserve component of the Army and Air Force shall be specifically set forth.
 
-    (e) __End-of-Quarter Strength Levels.—__ 
+    (e)  __End-of-Quarter Strength Levels__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe and include in the budget justification documents submitted to Congress in support of the President’s budget for the Department of Defense for any fiscal year the Secretary’s proposed end-of-quarter strengths for each of the first three quarters of the fiscal year for which the budget is submitted, in addition to the Secretary’s proposed fiscal-year end-strengths for that fiscal year. Such end-of-quarter strengths shall be submitted for each category of personnel for which end strengths are required to be authorized by law under subsection (a) or (d). The Secretary shall ensure that resources are provided in the budget at a level sufficient to support the end-of-quarter and fiscal-year end-strengths as submitted.
 
@@ -93,7 +93,7 @@
 
         (3) Whenever the Secretary establishes an end-of-quarter strength level under subparagraph (A) of paragraph (2), or modifies a strength level under the authority provided in subparagraph (B) of paragraph (2), the Secretary shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of that strength level or of that modification, as the case may be.
 
-    (f) __Authority for Secretary of Defense Variances for Active-Duty and Selected Reserve Strengths.—__ 
+    (f)  __Authority for Secretary of Defense Variances for Active-Duty and Selected Reserve Strengths__  __.—__ 
 
     Upon determination by the Secretary of Defense that such action is in the national interest, the Secretary may—
 
@@ -105,7 +105,7 @@
 
         (4) increase the maximum strength authorized pursuant to subsection (b)(1) for a fiscal year for certain reserves on active duty for any of the reserve components by a number equal to not more than 10 percent of that strength.
 
-    (g) __Authority for Service Secretary Variances for Active-duty and Selected Reserve End Strengths.—__ 
+    (g)  __Authority for Service Secretary Variances for Active-duty and Selected Reserve End Strengths__  __.—__ 
 
         (1)
 
@@ -117,11 +117,11 @@
 
         (2) Any increase under paragraph (1)(A) of the end strength for an armed force for a fiscal year shall be counted as part of the increase for that armed force for that fiscal year authorized under subsection (f)(1). Any increase under paragraph (1)(B) of the end strength for the Selected Reserve of a reserve component of an armed force for a fiscal year shall be counted as part of the increase for that Selected Reserve for that fiscal year authorized under subsection (f)(3).
 
-    (h) __Adjustment When Coast Guard is Operating as a Service in the Navy.—__ 
+    (h)  __Adjustment When Coast Guard is Operating as a Service in the Navy__  __.—__ 
 
     The authorized strength of the Navy under subsection (a)(1) is increased by the authorized strength of the Coast Guard during any period when the Coast Guard is operating as a service in the Navy.
 
-    (i) __Certain Personnel Excluded From Counting for Active-Duty End Strengths.—__ 
+    (i)  __Certain Personnel Excluded From Counting for Active-Duty End Strengths__  __.—__ 
 
     In counting personnel for the purpose of the end strengths authorized pursuant to subsection (a)(1), persons in the following categories shall be excluded:
 

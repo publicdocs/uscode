@@ -15,7 +15,7 @@
 
 ## § 2922g. Preference for motor vehicles using electric or hybrid propulsion systems
 
-    (a) __Preference.—__ 
+    (a)  __Preference__  __.—__ 
 
     In leasing or procuring motor vehicles for use by a military department or Defense Agency, the Secretary of the military department or the head of the Defense Agency shall provide a preference for the lease or procurement of motor vehicles using electric or hybrid propulsion systems, including plug-in hybrid systems, if the electric or hybrid vehicles—
 
@@ -23,11 +23,11 @@
 
         (2) are commercially available at a cost, including operating cost, reasonably comparable to motor vehicles containing only an internal combustion or heat engine using combustible fuel.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     Subsection (a) does not apply with respect to tactical vehicles designed for use in combat.
 
-    (c) __Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels.—__ 
+    (c)  __Relation to Other Vehicle Technologies That Reduce Consumption of Fossil Fuels__  __.—__ 
 
     The preference required by subsection (a) does not preclude the Secretary of Defense from authorizing the Secretary of a military department or head of a Defense Agency to provide a preference for another vehicle technology that reduces the consumption of fossil fuels if the Secretary of Defense determines that the technology is consistent with the energy performance goals and plan of the Department required by [section 2911 of this title][/us/usc/t10/s2911].
 

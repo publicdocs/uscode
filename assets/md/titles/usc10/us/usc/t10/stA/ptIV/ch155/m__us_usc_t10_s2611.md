@@ -15,7 +15,7 @@
 
 ## § 2611. Regional centers for security studies: acceptance of gifts and donations
 
-    (a) __Authority to Accept Gifts and Donations.—__ 
+    (a)  __Authority to Accept Gifts and Donations__  __.—__ 
 
         (1) Subject to subsection (c), the Secretary of Defense may, on behalf of any Department of Defense regional center for security studies, any combination of such centers, or such centers generally, accept from any source specified in subsection (b) any gift or donation for purposes of defraying the costs or enhancing the operation of such a center, combination of centers, or centers generally, as the case may be.
 
@@ -33,7 +33,7 @@
 
             (E) The Near East South Asia Center for Strategic Studies.
 
-    (b) __Sources.—__ 
+    (b)  __Sources__  __.—__ 
 
     The sources from which gifts and donations may be accepted under subsection (a) are the following:
 
@@ -45,7 +45,7 @@
 
         (4) Any source in the private sector of the United States or a foreign country.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     The Secretary may not accept a gift or donation under subsection (a) if acceptance of the gift or donation would compromise or appear to compromise—
 
@@ -53,15 +53,15 @@
 
         (2) the integrity of any program of the Department, or of any person involved in such a program.
 
-    (d) __Criteria for Acceptance.—__ 
+    (d)  __Criteria for Acceptance__  __.—__ 
 
     The Secretary shall prescribe written guidance setting forth the criteria to be used in determining whether the acceptance of a gift or donation would have a result described in subsection (c).
 
-    (e) __Crediting of Funds.—__ 
+    (e)  __Crediting of Funds__  __.—__ 
 
     Funds accepted by the Secretary under section (a) shall be credited to appropriations available to the Department of Defense for the regional center, combination of centers, or centers generally for which accepted. Funds so credited shall be merged with the appropriations to which credited and shall be available for the regional center, combination of centers, or centers generally, as the case may be, for the same purposes as the appropriations with which merged. Any funds accepted under this section shall remain available until expended.
 
-    (f) __Gift or Donation Defined.—__ 
+    (f)  __Gift or Donation Defined__  __.—__ 
 
     In this section, the term “gift or donation” means any gift or donation of funds, materials (including research materials), real or personal property, or services (including lecture services and faculty services).
 

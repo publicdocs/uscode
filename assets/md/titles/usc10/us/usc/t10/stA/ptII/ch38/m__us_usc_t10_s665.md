@@ -15,7 +15,7 @@
 
 ## § 665. Procedures for monitoring careers of joint qualified officers
 
-    (a) __Procedures.—__ 
+    (a)  __Procedures__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) Such oversight shall include monitoring of the implementation of the career guidelines established under [section 661(e) of this title][/us/usc/t10/s661/e].
 
-    (b) __Function of Joint Staff.—__ 
+    (b)  __Function of Joint Staff__  __.—__ 
 
     The Secretary shall take such action as necessary to enhance the capabilities of the Joint Staff so that it can—
 

@@ -15,19 +15,19 @@
 
 ## § 7524. Marine mammals: use for national defense purposes
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Subject to subsection (c), the Secretary of Defense may authorize the taking of not more than 25 marine mammals each year for national defense purposes. Any such authorization may be made only with the concurrence of the Secretary of Commerce and after consultation with the Marine Mammal Commission established by section 201 of the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1401][/us/usc/t16/s1401]).
 
-    (b) __Humane Treatment Required.—__ 
+    (b)  __Humane Treatment Required__  __.—__ 
 
     A mammal taken under this section shall be captured, supervised, cared for, transported, and deployed in a humane manner consistent with conditions established by the Secretary of Commerce.
 
-    (c) __Protection for Endangered Species.—__ 
+    (c)  __Protection for Endangered Species__  __.—__ 
 
     A mammal may not be taken under this section if the mammal is determined to be a member of an endangered or threatened species under section 4 of the Endangered Species Act of 1973 ([16 U.S.C. 1533][/us/usc/t16/s1533]).
 
-    (d) __Application of Other Act.—__ 
+    (d)  __Application of Other Act__  __.—__ 
 
     This section applies without regard to the provisions of the Marine Mammal Protection Act of 1972 ([16 U.S.C. 1361][/us/usc/t16/s1361] et seq.).
 

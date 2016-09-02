@@ -15,7 +15,7 @@
 
 ## § 2814. Special authority for development of Ford Island, Hawaii
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) Subject to paragraph (2), the Secretary of the Navy may exercise any authority or combination of authorities in this section for the purpose of developing or facilitating the development of Ford Island, Hawaii, to the extent that the Secretary determines the development is compatible with the mission of the Navy.
 
@@ -27,7 +27,7 @@
 
             (B) a period of 30 calendar days has elapsed following the date on which the notification is received by those committees.
 
-    (b) __Conveyance Authority.—__ 
+    (b)  __Conveyance Authority__  __.—__ 
 
         (1)
 
@@ -39,7 +39,7 @@
 
         (2) A conveyance under this subsection may include such terms and conditions as the Secretary considers appropriate to protect the interests of the United States.
 
-    (c) __Lease Authority.—__ 
+    (c)  __Lease Authority__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
             (B) To the extent provided in appropriations Acts, any payment made to the Secretary for services provided under this paragraph shall be credited to the appropriation, account, or fund from which the cost of providing the services was paid.
 
-    (d) __Acquisition of Leasehold Interest by Secretary.—__ 
+    (d)  __Acquisition of Leasehold Interest by Secretary__  __.—__ 
 
         (1) The Secretary of the Navy may acquire a leasehold interest in any facility constructed under subsection (f) as consideration for a transaction authorized by this section upon such terms as the Secretary considers appropriate to promote the purpose of this section.
 
@@ -67,11 +67,11 @@
 
         (3) A lease under this subsection may provide that, upon termination of the lease term, the United States shall have the right of first refusal to acquire the facility covered by the lease.
 
-    (e) __Requirement for Competition.—__ 
+    (e)  __Requirement for Competition__  __.—__ 
 
     The Secretary of the Navy shall use competitive procedures for purposes of selecting the recipient of real or personal property under subsection (b) and the lessee of real or personal property under subsection (c).
 
-    (f) __Consideration.—__ 
+    (f)  __Consideration__  __.—__ 
 
         (1) As consideration for the conveyance of real or personal property under subsection (b), or for the lease of real or personal property under subsection (c), the Secretary of the Navy shall accept cash, real property, personal property, or services, or any combination thereof, in an aggregate amount equal to not less than the fair market value of the real or personal property conveyed or leased.
 
@@ -85,7 +85,7 @@
 
             (C) The provision of property support services for property or facilities at Ford Island.
 
-    (g) __Notice and Wait Requirements.—__ 
+    (g)  __Notice and Wait Requirements__  __.—__ 
 
     The Secretary of the Navy may not carry out a transaction authorized by this section until—
 
@@ -99,7 +99,7 @@
 
         (2) a period of 30 calendar days has elapsed following the date on which the notification is received by those committees or, if earlier, a period of 20 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (h) __Ford Island Improvement Account.—__ 
+    (h)  __Ford Island Improvement Account__  __.—__ 
 
         (1) There is established on the books of the Treasury an account to be known as the “Ford Island Improvement Account”.
 
@@ -111,7 +111,7 @@
 
             (B) Except as provided in subsection (c)(4)(B), the amount of any cash payment received by the Secretary for a transaction under this section.
 
-    (i) __Use of Account.—__ 
+    (i)  __Use of Account__  __.—__ 
 
         (1)
 
@@ -137,7 +137,7 @@
 
             (B) Amounts transferred under subparagraph (A) to a fund referred to in that subparagraph shall be available in accordance with the provisions of [section 2883 of this title][/us/usc/t10/s2883] for activities authorized under subchapter IV of this chapter at Ford Island.
 
-    (j) __Inapplicability of Certain Property Management Laws.—__ 
+    (j)  __Inapplicability of Certain Property Management Laws__  __.—__ 
 
     Except as otherwise provided in this section, transactions under this section shall not be subject to the following:
 
@@ -147,11 +147,11 @@
 
         (3) Subchapter II of chapter 5 and sections 541–555 of title 40.
 
-    (k) __Scoring.—__ 
+    (k)  __Scoring__  __.—__ 
 
     Nothing in this section shall be construed to waive the applicability to any lease entered into under this section of the budget scorekeeping guidelines used to measure compliance with the Balanced Budget and Emergency Deficit Control Act of 1985.
 
-    (l) __Property Support Service Defined.—__ 
+    (l)  __Property Support Service Defined__  __.—__ 
 
     In this section, the term ‘property support service’ means the following:
 

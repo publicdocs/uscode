@@ -15,7 +15,7 @@
 
 ## § 2576a. Excess personal property: sale or donation for law enforcement activities
 
-    (a) __Transfer Authorized.—__ 
+    (a)  __Transfer Authorized__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) The Secretary shall carry out this section in consultation with the Attorney General and the Director of National Drug Control Policy.
 
-    (b) __Conditions for Transfer.—__ 
+    (b)  __Conditions for Transfer__  __.—__ 
 
     The Secretary of Defense may transfer personal property under this section only if—
 
@@ -39,11 +39,11 @@
 
         (4) all costs incurred subsequent to the transfer of the property are borne or reimbursed by the recipient.
 
-    (c) __Consideration.—__ 
+    (c)  __Consideration__  __.—__ 
 
     Subject to subsection (b)(4), the Secretary may transfer personal property under this section without charge to the recipient agency.
 
-    (d) __Preference for Certain Transfers.—__ 
+    (d)  __Preference for Certain Transfers__  __.—__ 
 
     In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will be used in the counter-drug or counter-terrorism activities of the recipient agency.
 

@@ -15,15 +15,15 @@
 
 ## § 1146. Commissary and exchange benefits
 
-    (a) __Members Involuntarily Separated From Active Duty.—__ 
+    (a)  __Members Involuntarily Separated From Active Duty__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to allow a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period.
 
-    (b) __Members Involuntarily Separated From Selected Reserve.—__ 
+    (b)  __Members Involuntarily Separated From Selected Reserve__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to allow a member of the Selected Reserve of the Ready Reserve who is involuntarily separated from the Selected Reserve as a result of the exercise of the force shaping authority of the Secretary concerned under [section 647 of this title][/us/usc/t10/s647] or other force shaping authority during the period beginning on October 1, 2007, and ending on December 31, 2018, to continue to use commissary and exchange stores during the two-year period beginning on the date of the involuntary separation of the member in the same manner as a member on active duty. The Secretary concerned shall implement this provision for Coast Guard members involuntarily separated during the same period when the Coast Guard is not operating as a service in the Navy.
 
-    (c) __Members Receiving Sole Survivorship Discharge.—__ 
+    (c)  __Members Receiving Sole Survivorship Discharge__  __.—__ 
 
     A member of the armed forces who receives a sole survivorship discharge (as defined in [section 1174(i) of this title][/us/usc/t10/s1174/i]) is entitled to continue to use commissary and exchange stores and morale, welfare, and recreational facilities in the same manner as a member on active duty during the two-year period beginning on the later of the following dates:
 

@@ -15,13 +15,13 @@
 
 ## § 1554a. Review of separation with disability rating of 20 percent disabled or less
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) The Secretary of Defense shall establish within the Office of the Secretary of Defense a board of review to review the disability determinations of covered individuals by Physical Evaluation Boards. The board shall be known as the “Physical Disability Board of Review”.
 
         (2) The Physical Disability Board of Review shall consist of not less than three members appointed by the Secretary.
 
-    (b) __Covered Individuals.—__ 
+    (b)  __Covered Individuals__  __.—__ 
 
     For purposes of this section, covered individuals are members and former members of the armed forces who, during the period beginning on September 11, 2001, and ending on December 31, 2009—
 
@@ -29,7 +29,7 @@
 
         (2) are found to be not eligible for retirement.
 
-    (c) __Review.—__ 
+    (c)  __Review__  __.—__ 
 
         (1) Upon the request of a covered individual, or a surviving spouse, next of kin, or legal representative of a covered individual, the Physical Disability Board of Review shall review the findings and decisions of the Physical Evaluation Board with respect to such covered individual. Subject to paragraph (3), upon its own motion, the Physical Disability Board of Review may review the findings and decisions of the Physical Evaluation Board with respect to a covered individual.
 
@@ -39,7 +39,7 @@
 
         (4) With respect to any review by the Physical Disability Board of Review of the findings and decisions of the Physical Evaluation Board with respect to a covered individual, whether initiated at the request of the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual or initiated by the Physical Disability Board of Review, the Physical Disability Board of Review shall notify the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual that, as a result of the request or consent, the covered individual or a surviving spouse, next of kin, or legal representative of the covered individual may not seek relief from the Board for Correction of Military Records operated by the Secretary concerned.
 
-    (d) __Authorized Recommendations.—__ 
+    (d)  __Authorized Recommendations__  __.—__ 
 
     The Physical Disability Board of Review may, as a result of its findings under a review under subsection (c), recommend to the Secretary concerned the following (as applicable) with respect to a covered individual:
 
@@ -51,7 +51,7 @@
 
         (4) The issuance of a new disability rating for such individual.
 
-    (e) __Correction of Military Records.—__ 
+    (e)  __Correction of Military Records__  __.—__ 
 
         (1) The Secretary concerned may correct the military records of a covered individual in accordance with a recommendation made by the Physical Disability Board of Review under subsection (d). Any such correction may be made effective as of the effective date of the action taken on the report of the Physical Evaluation Board to which such recommendation relates.
 

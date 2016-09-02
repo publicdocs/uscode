@@ -15,15 +15,15 @@
 
 ## § 2836. Military housing rental guarantee program
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may enter into an agreement to assure the occupancy of rental housing to be constructed or rehabilitated to residential use by a private developer or by a State or local housing authority on private land, on land owned by a State or local government, or on land owned by the United States, if the housing is to be located on or near a new military installation or an existing military installation that has a shortage of housing to meet the requirements of eligible members of the armed forces (with or without accompanying dependents). The authority provided under this subsection shall be exercised under uniform regulations prescribed by the Secretary of Defense.
 
-    (b) __Submission and Authorization of Proposed Agreements.—__ 
+    (b)  __Submission and Authorization of Proposed Agreements__  __.—__ 
 
     The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into agreements pursuant to subsection (a) for such military housing rental guaranty projects as are authorized by law.
 
-    (c) __Content of Agreement.—__ 
+    (c)  __Content of Agreement__  __.—__ 
 
     An agreement under subsection (a)—
 
@@ -61,7 +61,7 @@
 
         (14) may require that rent collection and operation and maintenance services in connection with the housing be under the terms of a separate agreement or be carried out by personnel of the Federal Government.
 
-    (d) __Conditions on Obligation of Funds.—__ 
+    (d)  __Conditions on Obligation of Funds__  __.—__ 
 
     An agreement entered into for a project pursuant to subsection (a) shall include the following provisions:
 
@@ -71,11 +71,11 @@
 
         (3) A statement that such a commitment entered into under the authority of this section does not constitute an obligation of the United States.
 
-    (e) __Competitive Process.—__ 
+    (e)  __Competitive Process__  __.—__ 
 
     An agreement under subsection (a) shall be made through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a guaranty agreement for each military housing rental guaranty project authorized in accordance with subsection (b).
 
-    (f) __Disputes.—__ 
+    (f)  __Disputes__  __.—__ 
 
     The Secretary concerned may require that disputes arising under an agreement entered into under subsection (a) be decided in accordance with the procedures provided for by chapter 71 of title 41.
 

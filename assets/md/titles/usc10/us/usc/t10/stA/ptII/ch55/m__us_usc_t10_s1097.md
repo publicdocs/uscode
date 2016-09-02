@@ -15,7 +15,7 @@
 
 ## § 1097. Contracts for medical care for retirees, dependents, and survivors: alternative delivery of health care
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense, after consulting with the other administering Secretaries, may contract for the delivery of health care to which covered beneficiaries are entitled under this chapter. The Secretary may enter into a contract under this section with any of the following:
 
@@ -27,7 +27,7 @@
 
         (4) Consortiums of such providers, facilities, or insurers.
 
-    (b) __Scope of Coverage Under Health Care Plans.—__ 
+    (b)  __Scope of Coverage Under Health Care Plans__  __.—__ 
 
     A contract entered into under this section may provide for the delivery of—
 
@@ -37,15 +37,15 @@
 
         (3) total health care services for all covered beneficiaries who reside in a geographical area designated by the Secretary.
 
-    (c) __Coordination With Facilities of the Uniformed Services.—__ 
+    (c)  __Coordination With Facilities of the Uniformed Services__  __.—__ 
 
     The Secretary of Defense may provide for the coordination of health care services provided pursuant to any contract or agreement under this section with those services provided in medical treatment facilities of the uniformed services. Subject to the availability of space and facilities and the capabilities of the medical or dental staff, the Secretary may not deny access to facilities of the uniformed services to a covered beneficiary on the basis of whether the beneficiary enrolled or declined enrollment in any program established under, or operating in connection with, any contract under this section. Notwithstanding the preferences established by sections 1074(b) and 1076 of this title, the Secretary shall, as an incentive for enrollment, establish reasonable preferences for services in facilities of the uniformed services for covered beneficiaries enrolled in any program established under, or operating in connection with, any contract under this section.
 
-    (d) __Coordination With Other Health Care Programs.—__ 
+    (d)  __Coordination With Other Health Care Programs__  __.—__ 
 
     In the case of a covered beneficiary who is enrolled in a managed health care program not operated under the authority of this chapter, the Secretary may contract under this section with such other managed health care program for the purpose of coordinating the beneficiary’s dual entitlements under such program and this chapter. A managed health care program with which arrangements may be made under this subsection includes any health maintenance organization, competitive medical plan, health care prepayment plan, or other managed care program recognized pursuant to regulations issued by the Secretary.
 
-    (e) __Charges for Health Care.—__ 
+    (e)  __Charges for Health Care__  __.—__ 
 
         (1) The Secretary of Defense may prescribe by regulation a premium, deductible, copayment, or other charge for health care provided under this section. In the case of contracts for health care services under this section or health care plans offered under [section 1099 of this title][/us/usc/t10/s1099] for which the Secretary permits covered beneficiaries who are covered by [section 1086 of this title][/us/usc/t10/s1086] and who participate in such contracts or plans to pay an enrollment fee in lieu of meeting the applicable deductible amount specified in [section 1086(b) of this title][/us/usc/t10/s1086/b], the Secretary may establish the same (or a lower) enrollment fee for covered beneficiaries described in [section 1086(d)(1) of this title][/us/usc/t10/s1086/d/1] who also participate in such contracts or plans. Without imposing additional costs on covered beneficiaries who participate in contracts for health care services under this section or health care plans offered under [section 1099 of this title][/us/usc/t10/s1099], the Secretary shall permit such covered beneficiaries to pay, on a quarterly basis, any enrollment fee required for such participation. Except as provided by paragraph (2), a premium, deductible, copayment, or other charge prescribed by the Secretary under this subsection may not be increased during the period beginning on April 1, 2006, and ending on September 30, 2011.
 

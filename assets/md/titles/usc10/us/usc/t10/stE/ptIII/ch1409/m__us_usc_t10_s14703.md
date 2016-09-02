@@ -15,7 +15,7 @@
 
 ## § 14703. Authority to retain chaplains and officers in medical specialties until specified age
 
-    (a) __Retention.—__ 
+    (a)  __Retention__  __.—__ 
 
     Notwithstanding any provision of chapter 1407 of this title and except for officers referred to in sections 14503, 14504, 14505, and 14506 of this title and under regulations prescribed by the Secretary of Defense—
 
@@ -25,7 +25,7 @@
 
         (3) the Secretary of the Air Force may, with the officer’s consent, retain in an active status any reserve officer who is designated as a medical officer, dental officer, Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.
 
-    (b) __Separation at Specified Age.—__ 
+    (b)  __Separation at Specified Age__  __.—__ 
 
     An officer may not be retained in active status under this section later than the date on which the officer becomes 68 years of age.
 

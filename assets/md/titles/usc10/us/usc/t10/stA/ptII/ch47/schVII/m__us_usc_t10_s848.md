@@ -15,7 +15,7 @@
 
 ## § 848. Art. 48. Contempts
 
-    (a) __Authority to Punish Contempt.—__ 
+    (a)  __Authority to Punish Contempt__  __.—__ 
 
     A judge detailed to a court-martial, a court of inquiry, the United States Court of Appeals for the Armed Forces, a military Court of Criminal Appeals, a provost court, or a military commission may punish for contempt any person who—
 
@@ -25,11 +25,11 @@
 
         (3) willfully disobeys the lawful writ, process, order, rule, decree, or command of the court-martial, court, or military commission.
 
-    (b) __Punishment.—__ 
+    (b)  __Punishment__  __.—__ 
 
     The punishment for contempt under subsection (a) may not exceed confinement for 30 days, a fine of $1,000, or both.
 
-    (c) __Inapplicability to Military Commissions Under Chapter 47A.—__ 
+    (c)  __Inapplicability to Military Commissions Under Chapter__  __47__  __A__  __.—__ 
 
     This section does not apply to a military commission established under chapter 47A of this title.
 

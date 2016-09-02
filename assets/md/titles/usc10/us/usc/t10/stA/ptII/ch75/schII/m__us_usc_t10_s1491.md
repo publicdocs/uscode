@@ -15,21 +15,21 @@
 
 ## § 1491. Funeral honors functions at funerals for veterans
 
-    (a) __Availability of Funeral Honors Detail Ensured.—__ 
+    (a)  __Availability of Funeral Honors Detail Ensured__  __.—__ 
 
     The Secretary of Defense shall ensure that, upon request, a funeral honors detail is provided for the funeral of any veteran, except when military honors are prohibited under [section 985(a) of this title][/us/usc/t10/s985/a].
 
-    (b) __Composition of Funeral Honors Details.—__ 
+    (b)  __Composition of Funeral Honors Details__  __.—__ 
 
         (1) The Secretary of each military department shall ensure that a funeral honors detail for the funeral of a veteran consists of two or more persons.
 
         (2) At least two members of the funeral honors detail for a veteran’s funeral shall be members of the armed forces (other than members in a retired status), at least one of whom shall be a member of the armed force of which the veteran was a member. The remainder of the detail may consist of members of the armed forces (including members in a retired status), or members of veterans organizations or other organizations approved for purposes of this section under regulations prescribed by the Secretary of Defense. Each member of the armed forces in the detail shall wear the uniform of the member’s armed force while serving in the detail.
 
-    (c) __Ceremony.—__ 
+    (c)  __Ceremony__  __.—__ 
 
     A funeral honors detail shall, at a minimum, perform at the funeral a ceremony that includes the folding of a United States flag and presentation of the flag to the veteran’s family and the playing of Taps. Unless a bugler is a member of the detail, the funeral honors detail shall play a recorded version of Taps using audio equipment which the detail shall provide if adequate audio equipment is not otherwise available for use at the funeral.
 
-    (d) __Support.—__ 
+    (d)  __Support__  __.—__ 
 
         (1)
 
@@ -45,13 +45,13 @@
 
         (3) A stipend paid under this subsection to a member of the armed forces in a retired status is in addition to any compensation to which the member is entitled under [section 495(a)(2) of title 37][/us/usc/t37/s495/a/2] and any other compensation to which the member may be entitled.
 
-    (e) __Waiver Authority.—__ 
+    (e)  __Waiver Authority__  __.—__ 
 
         (1) The Secretary of Defense may waive any requirement provided in or pursuant to this section when the Secretary considers it necessary to do so to meet the requirements of war, national emergency, or a contingency operation or other military requirements. The authority to make such a waiver may not be delegated to an official of a military department other than the Secretary of the military department and may not be delegated within the Office of the Secretary of Defense to an official at a level below Under Secretary of Defense.
 
         (2) Before or promptly after granting a waiver under paragraph (1), the Secretary shall transmit a notification of the waiver to the Committees on Armed Services of the Senate and House of Representatives.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section. Those regulations shall include the following:
 
@@ -63,11 +63,11 @@
 
         (4) Procedures for providing training and ensuring quality of performance.
 
-    (g) __Annual Report.—__ 
+    (g)  __Annual Report__  __.—__ 
 
     The Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than January 31 of each year beginning with 2001 and ending with 2005 on the experience of the Department of Defense under this section. Each such report shall provide data on the number of funerals supported under this section, the cost for that support, shown by manpower and other cost factors, and the number and costs of funerals supported by each participating organization. The data in the report shall be presented in a standard format, regardless of military department or other organization.
 
-    (h) __Veteran Defined.—__ 
+    (h)  __Veteran Defined__  __.—__ 
 
     In this section, the term “veteran” means a decedent who—
 

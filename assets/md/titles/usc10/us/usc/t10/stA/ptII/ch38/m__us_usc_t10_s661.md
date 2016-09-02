@@ -15,11 +15,11 @@
 
 ## § 661. Management policies for joint qualified officers
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense shall establish policies, procedures, and practices for the effective management of officers of the Army, Navy, Air Force, and Marine Corps on the active-duty list who are particularly trained in, and oriented toward, joint matters (as defined in [section 668 of this title][/us/usc/t10/s668]). Such officers shall be identified or designated (in addition to their principal military occupational specialty) as a joint qualified officer or in such other manner as the Secretary of Defense directs.
 
-    (b) __Levels, Designation, and Numbers.—__ 
+    (b)  __Levels, Designation, and Numbers__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (4) The authority of the Secretary of Defense under paragraph (2) to designate officers as joint qualified may be delegated only to the Deputy Secretary of Defense or an Under Secretary of Defense.
 
-    (c) __Education and Experience Requirements.—__ 
+    (c)  __Education and Experience Requirements__  __.—__ 
 
         (1)
 
@@ -79,7 +79,7 @@
 
         (6) There may not be more than 32 general and flag officers on active duty at the same time who, while holding a general or flag officer position, were designated joint qualified (or were selected for the joint specialty before October 1, 2007) and for whom a waiver was granted under paragraph (2).
 
-    (d) __Number of Joint Duty Assignments.—__ 
+    (d)  __Number of Joint Duty Assignments__  __.—__ 
 
         (1) The Secretary of Defense shall ensure that approximately one-half of the joint duty assignment positions in grades above major or, in the case of the Navy, lieutenant commander are filled at any time by officers who have the appropriate level of joint qualification.
 
@@ -99,7 +99,7 @@
 
         (4) The Secretary of Defense shall ensure that, of those joint duty assignment positions that are filled by general or flag officers, a substantial portion are among those positions that are designated under paragraph (2) as critical joint duty assignment positions.
 
-    (e) __Career Guidelines.—__ 
+    (e)  __Career Guidelines__  __.—__ 
 
     The Secretary, with the advice of the Chairman of the Joint Chiefs of Staff, shall establish career guidelines for officers to achieve joint qualification and for officers who have been designated as joint qualified. Such guidelines shall include guidelines for—
 
@@ -113,7 +113,7 @@
 
         (5) such other matters as the Secretary considers appropriate.
 
-    (f) __Treatment of Certain Service.—__ 
+    (f)  __Treatment of Certain Service__  __.—__ 
 
     Any service by an officer in the grade of captain or, in the case of the Navy, lieutenant in a joint duty assignment shall be considered to be service in a joint duty assignment for purposes of all laws (including [section 619a of this title][/us/usc/t10/s619a]) establishing a requirement or condition with respect to an officer’s service in a joint duty assignment.
 
@@ -193,11 +193,11 @@
 
 [Pub. L. 109–364, div. A, title V, § 516(h)][/us/pl/109/364/s516/h], Oct. 17, 2006, [120 Stat. 2189][/us/stat/120/2189], provided that:
 
->     “(1) __Plan required.—__ 
+>     “(1)  __Plan required__  __.—__ 
 
 >     Not later than March 31, 2007, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for the implementation of the joint officer management system, which will take effect on October 1, 2007, as provided in subsection (f) \[set out above\], as a result of the amendments made by this section \[amending this section\] and other provisions of this Act \[see Tables for classification\] to provisions of chapter 38 of title 10, United States Code.
 
->     “(2) __Elements of plan.—__ 
+>     “(2)  __Elements of plan__  __.—__ 
 
 >     In developing the plan required by this subsection, the Secretary shall pay particular attention to matters related to the transition of officers from the joint specialty system in effect before October 1, 2007, to the joint officer management system in effect after that date. At a minimum, the plan shall include the following:
 
@@ -223,7 +223,7 @@
 
 [Pub. L. 99–433, title IV, § 406(a)][/us/pl/99/433/s406/a]–(c), Oct. 1, 1986, [100 Stat. 1033][/us/stat/100/1033], as amended by [Pub. L. 100–456, div. A, title V, § 516][/us/pl/100/456/s516], Sept. 29, 1988, [102 Stat. 1971][/us/stat/102/1971], provided that:
 
->     “(a) __Joint Duty Assignments.—__ 
+>     “(a)  __Joint Duty Assignments__  __.—__ 
 
 >         (1) [Section 661(d) of title 10][/us/usc/t10/s661/d], United States Code, shall be implemented as rapidly as possible and (except as provided under paragraph (2)) not later than October 1, 1989.
 
@@ -231,7 +231,7 @@
 
 >     “(b) __Joint Specialty.—__ 
 
->         “(1) __Initial selections.—__ 
+>         “(1)  __Initial selections__  __.—__ 
 
 >             (A) In making the initial selections of officers for the joint specialty under [section 661 of title 10][/us/usc/t10/s661], United States Code (as added by section 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such section in the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
 
@@ -249,15 +249,15 @@
 
 >             “(D) The authority of the Secretary of Defense to grant a waiver under subparagraph (A) or (B) of this paragraph may be delegated only to the Deputy Secretary of Defense.
 
->         “(2) __Requirement for high standards.—__ 
+>         “(2)  __Requirement for high standards__  __.—__ 
 
 >         In exercising the authority provided by paragraph (1), the Secretary of Defense shall ensure that the highest standards of performance, education, and experience are established and maintained for officers selected for the joint specialty.
 
->         “(3) __Sunset.—__ 
+>         “(3)  __Sunset__  __.—__ 
 
 >         The authority provided by paragraph (1) shall expire on October 1, 1989.
 
->     “(c) __Career Guidelines.—__ 
+>     “(c)  __Career Guidelines__  __.—__ 
 
 >     The career guidelines required to be established by section 661(e) of such title, the procedures required to be established by section 665(a) of such title, and the personnel policies required to be established by section 666 of such title (as added by section 401) shall be established not later than the end of the eight-month period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. The provisions of section 665(b) of such title shall be implemented not later than the end of such period.”
 

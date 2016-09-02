@@ -15,7 +15,7 @@
 
 ## § 668. Definitions
 
-    (a) __Joint Matters.—__ 
+    (a)  __Joint Matters__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
                 (iii) Non-governmental persons or entities.
 
-    (b) __Joint Duty Assignment.—__ 
+    (b)  __Joint Duty Assignment__  __.—__ 
 
         (1)
 
@@ -65,11 +65,11 @@
 
             (B) of the positions listed under subparagraph (A), those that are critical joint duty assignment positions and the number of such positions and, of those positions, those that are positions held by general or flag officers and the number of such positions.
 
-    (c) __Clarification of “Tour of Duty”.—__ 
+    (c)  __Clarification of “Tour of Duty”__  __.—__ 
 
     For purposes of this chapter, a tour of duty in which an officer serves in more than one joint duty assignment without a break between such assignments shall be considered to be a single tour of duty in a joint duty assignment.
 
-    (d) __Critical Occupational Specialty.—__ 
+    (d)  __Critical Occupational Specialty__  __.—__ 
 
         (1) In this chapter, the term “critical occupational specialty” means a military occupational specialty involving combat operations within the combat arms, in the case of the Army, or the equivalent arms, in the case of the Navy, Air Force, and Marine Corps, that the Secretary of Defense designates as critical.
 

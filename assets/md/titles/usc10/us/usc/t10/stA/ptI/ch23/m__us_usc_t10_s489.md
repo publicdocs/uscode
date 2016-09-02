@@ -15,7 +15,7 @@
 
 ## § 489. Annual report on Department of Defense operation and financial support for military museums
 
-    (a) __Report Required.—__ 
+    (a)  __Report Required__  __.—__ 
 
     As part of the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105], but in no case later than March 15 of each year, the Secretary of Defense shall submit a report identifying all military museums that, during the most recently completed fiscal year—
 
@@ -25,7 +25,7 @@
 
         (3) were located on property under the jurisdiction of the Department of Defense, although neither operated by the Department of Defense nor supported using funds appropriated to the Department of Defense.
 
-    (b) __Information on Individual Museums.—__ 
+    (b)  __Information on Individual Museums__  __.—__ 
 
     For each museum identified in a report under this section, the Secretary of Defense shall include in the report the following:
 
@@ -41,7 +41,7 @@
 
         (6) The number of civilian employees of the Department of Defense and members of the armed forces who served full-time or part-time at the museum and their role in the management structure of the museum.
 
-    (c) __Information on Support Priorities.—__ 
+    (c)  __Information on Support Priorities__  __.—__ 
 
     Each report under this section shall also include a separate description of the procedures used by the Secretary of Defense, in the case of museums identified in the report that are operated or supported by the Secretary of Defense, and the Secretary of a military department, in the case of museums identified in the report that are operated or supported by that Secretary, to prioritize funding and personnel support to the museums. The Secretary of Defense shall include a description of any such procedures applicable to the entire Department of Defense.
 

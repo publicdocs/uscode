@@ -15,15 +15,15 @@
 
 ## § 2537. Improved national defense control of technology diversions overseas
 
-    (a) __Collection of Information on Foreign-Controlled Contractors.—__ 
+    (a)  __Collection of Information on Foreign-Controlled Contractors__  __.—__ 
 
     The Secretary of Defense and the Secretary of Energy shall each collect and maintain a data base containing a list of, and other pertinent information on, all contractors with the Department of Defense and the Department of Energy, respectively, that are controlled by foreign persons. The data base shall contain information on such contractors for 1988 and thereafter in all cases where they are awarded contracts exceeding $10,000,000 in any single year by the Department of Defense or the Department of Energy.
 
-    (b) __Annual Report to Congress.—__ 
+    (b)  __Annual Report to Congress__  __.—__ 
 
     The Secretary of Defense, the Secretary of Energy, and the Secretary of Commerce shall submit to the Congress, by March 31 of each year, beginning in 1994, a report containing a summary and analysis of the information collected under subsection (a) for the year covered by the report. The report shall include an analysis of accumulated foreign ownership of United States firms engaged in the development of defense critical technologies.
 
-    (c) __Technology Risk Assessment Requirement.—__ 
+    (c)  __Technology Risk Assessment Requirement__  __.—__ 
 
         (1) If the Secretary of Defense is acting as a designee of the President under section 721(a) of the Defense Production Act of 1950 (50 U.S.C. App. 2170(a)) and if the Secretary determines that a proposed or pending merger, acquisition, or takeover may involve a firm engaged in the development of a defense critical technology or is otherwise important to the defense industrial and technology base, then the Secretary shall require the appropriate entity or entities from the list set forth in paragraph (2) to conduct an assessment of the risk of diversion of defense critical technology posed by such proposed or pending action.
 

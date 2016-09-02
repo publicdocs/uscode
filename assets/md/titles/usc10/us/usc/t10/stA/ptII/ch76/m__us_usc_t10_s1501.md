@@ -15,7 +15,7 @@
 
 ## § 1501. System for accounting for missing persons
 
-    (a) __Responsibility for Missing Personnel.—__ 
+    (a)  __Responsibility for Missing Personnel__  __.—__ 
 
         (1)
 
@@ -47,7 +47,7 @@
 
             (C) For any fiscal year, the level of funding allocated to the activity within the Department of Defense may not be below the level requested for such purposes in the President’s budget for fiscal year 2003, unless such a level of funding is expressly required by law.
 
-    (b) __Uniform DoD Procedures.—__ 
+    (b)  __Uniform DoD Procedures__  __.—__ 
 
         (1)
 
@@ -63,7 +63,7 @@
 
         (4) As part of such procedures, the Secretary may provide for the extension, on a case-by-case basis, of any time limit specified in section 1502, 1503, or 1504 of this title. Any such extension may not be for a period in excess of the period with respect to which the extension is provided. Subsequent extensions may be provided on the same basis.
 
-    (c) __Covered Persons.—__ 
+    (c)  __Covered Persons__  __.—__ 
 
         (1)
 
@@ -83,15 +83,15 @@
 
         (3) The Secretary of Defense shall determine, with regard to a pending or ongoing military operation, the specific employees, or groups of employees, of contractors of the Department of Defense to be considered to be covered by this subsection.
 
-    (d) __Primary Next of Kin.—__ 
+    (d)  __Primary Next of Kin__  __.—__ 
 
     The individual who is primary next of kin of any person described in subsection (c) may for purposes of this chapter designate another individual to act on behalf of that individual as primary next of kin. The Secretary concerned shall treat an individual so designated as if the individual designated were the primary next of kin for purposes of this chapter. A designation under this subsection may be revoked at any time by the person who made the designation.
 
-    (e) __Termination of Applicability of Procedures When Missing Person Is Accounted for.—__ 
+    (e)  __Termination of Applicability of Procedures When Missing Person Is Accounted for__  __.—__ 
 
     The provisions of this chapter relating to boards of inquiry and to the actions by the Secretary concerned on the reports of those boards shall cease to apply in the case of a missing person upon the person becoming accounted for or otherwise being determined to be in a status other than missing.
 
-    (f) __Secretary Concerned.—__ 
+    (f)  __Secretary Concerned__  __.—__ 
 
     In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
@@ -153,7 +153,7 @@
 
 [Pub. L. 106–65, div. A, title V, § 576][/us/pl/106/65/s576], Oct. 5, 1999, [113 Stat. 624][/us/stat/113/624], as amended by [Pub. L. 107–107, div. A, title X, § 1048(g)(3)][/us/pl/107/107/s1048/g/3], Dec. 28, 2001, [115 Stat. 1228][/us/stat/115/1228], provided that:
 
->     “(a) __Recovery of Remains.—__ 
+>     “(a)  __Recovery of Remains__  __.—__ 
 
 >         (1) The Secretary of Defense shall make every reasonable effort to search for, recover, and identify the remains of United States servicemen lost in the Pacific theater of operations during World War II (including in New Guinea) while engaged in flight operations.
 
@@ -161,7 +161,7 @@
 
 >         “(3) Not later than September 30, 2000, the Secretary shall submit to Congress a report setting forth the efforts made to accomplish the objectives specified in paragraph (1). The Secretary shall include in the report a statement of the backlog of cases at the Central Identification Laboratory, Hawaii, shown by conflict, and the status of the joint manning plan required by section 566(c) of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 ([Public Law 105–261][/us/pl/105/261]; [112 Stat. 2029][/us/stat/112/2029]).
 
->     “(b) __Diplomatic Intervention if Required.—__ 
+>     “(b)  __Diplomatic Intervention if Required__  __.—__ 
 
 >     The Secretary of State, upon request by the Secretary of Defense, shall work with officials of governments of nations in the area that was covered by the Pacific theater of operations of World War II to seek to overcome any diplomatic obstacles that may impede the Secretary of Defense from carrying out the objectives specified in subsection (a)(1).”
 
@@ -169,11 +169,11 @@
 
 [Pub. L. 105–85, div. A, title IX, § 934][/us/pl/105/85/s934], Nov. 18, 1997, [111 Stat. 1866][/us/stat/111/1866], as amended by [Pub. L. 106–65, div. A, title X, § 1066(c)(4)][/us/pl/106/65/s1066/c/4], Oct. 5, 1999, [113 Stat. 773][/us/stat/113/773], provided that:
 
->     “(a) __Intelligence Analysis.—__ 
+>     “(a)  __Intelligence Analysis__  __.—__ 
 
 >     The Director of Central Intelligence, in consultation with the Secretary of Defense, shall provide intelligence analysis on matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) to all departments and agencies of the Federal Government involved in such matters.
 
->     “(b) __Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense.—__ 
+>     “(b)  __Use of Intelligence in Analysis of POW/MIA Cases in Department of Defense__  __.—__ 
 
 >     The Secretary of Defense shall ensure that the Defense Prisoner of War/Missing Personnel Office of the Department of Defense takes into full account all intelligence regarding matters concerning prisoners of war and missing persons (as defined in chapter 76 of title 10, United States Code) in analyzing cases involving such persons.”
 

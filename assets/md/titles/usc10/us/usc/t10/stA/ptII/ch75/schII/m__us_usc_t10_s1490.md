@@ -23,7 +23,7 @@
 
         (2) Transportation of the remains of a decedent may not be provided under this section if such transportation is authorized by sections 1481 and 1482 of this title or by chapter 23 of title 38.
 
-    (c) __Definition of Dependent.—__ 
+    (c)  __Definition of Dependent__  __.—__ 
 
     In this section, the term “dependent” has the meaning given such term in [section 1072(2) of this title][/us/usc/t10/s1072/2].
 

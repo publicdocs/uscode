@@ -15,15 +15,15 @@
 
 ## § 948r. Exclusion of statements obtained by torture or cruel, inhuman, or degrading treatment; prohibition of self-incrimination; admission of other statements of the accused
 
-    (a) __Exclusion of Statements Obtain by Torture or Cruel, Inhuman, or Degrading Treatment.—__ 
+    (a)  __Exclusion of Statements Obtain by Torture or Cruel, Inhuman, or Degrading Treatment__  __.—__ 
 
     No statement obtained by the use of torture or by cruel, inhuman, or degrading treatment (as defined by section 1003 of the Detainee Treatment Act of 2005 ([42 U.S.C. 2000dd][/us/usc/t42/s2000dd])), whether or not under color of law, shall be admissible in a military commission under this chapter, except against a person accused of torture or such treatment as evidence that the statement was made.
 
-    (b) __Self-incrimination Prohibited.—__ 
+    (b)  __Self-incrimination Prohibited__  __.—__ 
 
     No person shall be required to testify against himself or herself at a proceeding of a military commission under this chapter.
 
-    (c) __Other Statements of the Accused.—__ 
+    (c)  __Other Statements of the Accused__  __.—__ 
 
     A statement of the accused may be admitted in evidence in a military commission under this chapter only if the military judge finds—
 
@@ -37,7 +37,7 @@
 
             (B) the statement was voluntarily given.
 
-    (d) __Determination of Voluntariness.—__ 
+    (d)  __Determination of Voluntariness__  __.—__ 
 
     In determining for purposes of subsection (c)(2)(B) whether a statement was voluntarily given, the military judge shall consider the totality of the circumstances, including, as appropriate, the following:
 

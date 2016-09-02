@@ -15,15 +15,15 @@
 
 ## § 7604. Ships’ stores: sale of goods and services
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Under such regulations and at such prices as the Secretary of the Navy may prescribe, the Secretary may provide for the sale of goods and services from ships’ stores to members of the naval service and to such other persons as provided by law.
 
-    (b) __Incidental Services.—__ 
+    (b)  __Incidental Services__  __.—__ 
 
     The Secretary of the Navy may provide financial services, space, utilities, and labor to ships’ stores on a nonreimbursable basis.
 
-    (c) __Items Sold.—__ 
+    (c)  __Items Sold__  __.—__ 
 
     Merchandise sold by ship stores afloat may include items in the following categories:
 

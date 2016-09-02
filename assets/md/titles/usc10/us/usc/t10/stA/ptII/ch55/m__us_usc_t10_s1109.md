@@ -15,11 +15,11 @@
 
 ## § 1109. Organ and tissue donor program
 
-    (a) __Responsibilities of the Secretary of Defense.—__ 
+    (a)  __Responsibilities of the Secretary of Defense__  __.—__ 
 
     The Secretary of Defense shall ensure that the advanced systems developed for recording armed forces members’ personal data and information (such as the SMARTCARD, MEDITAG, and Personal Information Carrier) include the capability to record organ and tissue donation elections.
 
-    (b) __Responsibilities of the Secretaries of the Military Departments.—__ 
+    (b)  __Responsibilities of the Secretaries of the Military Departments__  __.—__ 
 
     The Secretaries of the military departments shall ensure that—
 
@@ -41,7 +41,7 @@
 
         (3) members of the armed forces electing to be organ or tissue donors are encouraged to advise their next of kin concerning the donation decision and any subsequent change of that decision.
 
-    (c) __Responsibilities of the Surgeons General of the Military Departments.—__ 
+    (c)  __Responsibilities of the Surgeons General of the Military Departments__  __.—__ 
 
     The Surgeons General of the military departments shall ensure that—
 

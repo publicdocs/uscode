@@ -15,7 +15,7 @@
 
 ## § 2854a. Conveyance of damaged or deteriorated military family housing; use of proceeds
 
-    (a) __Authority To Convey.—__ 
+    (a)  __Authority To Convey__  __.—__ 
 
         (1) The Secretary concerned may convey any family housing facility that, due to damage or deterioration, is in a condition that is uneconomical to repair. Any conveyance of a family housing facility under this section may include a conveyance of the real property associated with the facility conveyed.
 
@@ -25,13 +25,13 @@
 
         (4) For purposes of this subsection, a family housing facility is in a condition that is uneconomical to repair if the cost of the necessary repairs for the facility would exceed the amount equal to 70 percent of the cost of constructing a family housing facility to replace such facility.
 
-    (b) __Consideration.—__ 
+    (b)  __Consideration__  __.—__ 
 
         (1) As consideration for the conveyance of a family housing facility under subsection (a), the person to whom the facility is conveyed shall pay the United States an amount equal to the fair market value of the facility conveyed, including any real property conveyed along with the facility.
 
         (2) The Secretary concerned shall determine the fair market value of any family housing facility and associated real property that is conveyed under subsection (a). Such determination shall be final.
 
-    (c) __Notice and Wait Requirements.—__ 
+    (c)  __Notice and Wait Requirements__  __.—__ 
 
     The Secretary concerned may not enter into an agreement to convey a family housing facility under this section until—
 
@@ -47,7 +47,7 @@
 
         (2) a period of 21 days has elapsed after the date on which the justification is received by the committees or, if over sooner, a period of 14 days has elapsed after the date on which a copy of the justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (d) __Inapplicability of Certain Property Disposal Laws.—__ 
+    (d)  __Inapplicability of Certain Property Disposal Laws__  __.—__ 
 
     The following provisions of law do not apply to the conveyance of a family housing facility under this section:
 
@@ -55,7 +55,7 @@
 
         (2) Title V of the McKinney-Vento Homeless Assistance Act ([42 U.S.C. 11411][/us/usc/t42/s11411] et seq.).
 
-    (e) __Use of Proceeds.—__ 
+    (e)  __Use of Proceeds__  __.—__ 
 
         (1)
 
@@ -69,11 +69,11 @@
 
         (2) Notwithstanding [section 2883(d) of this title][/us/usc/t10/s2883/d], proceeds derived from a conveyance of a family housing facility under this section shall be available under paragraph (1) without any further appropriation.
 
-    (f) __Description of Property.—__ 
+    (f)  __Description of Property__  __.—__ 
 
     The exact acreage and legal description of any family housing facility conveyed under this section, including any real property associated with such facility, shall be determined by such means as the Secretary concerned considers satisfactory, including by survey in the case of real property.
 
-    (g) __Additional Terms and Conditions.—__ 
+    (g)  __Additional Terms and Conditions__  __.—__ 
 
     The Secretary concerned may require such additional terms and conditions in connection with the conveyance of family housing facilities under this section as the Secretary considers appropriate to protect the interests of the United States.
 

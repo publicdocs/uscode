@@ -15,11 +15,11 @@
 
 ## § 443. Imagery intelligence and geospatial information: support for foreign countries, regional organizations, and security alliances
 
-    (a) __Use of Appropriated Funds.—__ 
+    (a)  __Use of Appropriated Funds__  __.—__ 
 
     The Director of the National Geospatial-Intelligence Agency may use appropriated funds available to the National Geospatial-Intelligence Agency to provide foreign countries, regional organizations with defense or security components, and security alliances of which the United States is a member with imagery intelligence and geospatial information support.
 
-    (b) __Use of Funds Other Than Appropriated Funds.—__ 
+    (b)  __Use of Funds Other Than Appropriated Funds__  __.—__ 
 
     The Director may use funds other than appropriated funds to provide foreign countries with imagery intelligence and geospatial information support, notwithstanding provisions of law relating to the expenditure of funds of the United States, except that—
 
@@ -29,11 +29,11 @@
 
         (3) the authority provided by this subsection may not be used to acquire items or services for the principal benefit of the United States.
 
-    (c) __Accommodation Procurements.—__ 
+    (c)  __Accommodation Procurements__  __.—__ 
 
     The authority under this section may be exercised to conduct accommodation procurements on behalf of foreign countries.
 
-    (d) __Coordination With Director of National Intelligence.—__ 
+    (d)  __Coordination With Director of National Intelligence__  __.—__ 
 
     The Director of the Agency shall coordinate with the Director of National Intelligence any action under this section that involves imagery intelligence or intelligence products or involves providing support to an intelligence or security service of a foreign country.
 

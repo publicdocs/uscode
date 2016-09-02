@@ -15,19 +15,19 @@
 
 ## § 2201. Apportionment of funds: authority for exemption; excepted expenses
 
-    (a) __Exemption From Apportionment Requirement.—__ 
+    (a)  __Exemption From Apportionment Requirement__  __.—__ 
 
     If the President determines such action to be necessary in the interest of national defense, the President may exempt from the provisions of [section 1512 of title 31][/us/usc/t31/s1512] appropriations, funds, and contract authorizations available for military functions of the Department of Defense.
 
-    (b) __Airborne Alerts.—__ 
+    (b)  __Airborne Alerts__  __.—__ 
 
     Upon a determination by the President that such action is necessary, the Secretary of Defense may provide for the cost of an airborne alert as an excepted expense under section 6301(a) and (b)(1)–(3) of title 41.
 
-    (c) __Members on Active Duty.—__ 
+    (c)  __Members on Active Duty__  __.—__ 
 
     Upon a determination by the President that it is necessary to increase (subject to limits imposed by law) the number of members of the armed forces on active duty beyond the number for which funds are provided in appropriation Acts for the Department of Defense, the Secretary of Defense may provide for the cost of such additional members as an excepted expense under section 6301(a) and (b)(1)–(3) of title 41.
 
-    (d) __Notification to Congress.—__ 
+    (d)  __Notification to Congress__  __.—__ 
 
     The Secretary of Defense shall immediately notify Congress of the use of any authority under this section.
 

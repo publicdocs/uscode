@@ -15,7 +15,7 @@
 
 ## § 2414. Limitation
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The value of the assistance furnished by the Secretary to any eligible entity to carry out a procurement technical assistance program under a cooperative agreement under this chapter during any fiscal year may not exceed—
 
@@ -27,7 +27,7 @@
 
         (4) in the case of a program operated wholly within more than one service area of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title][/us/usc/t10/s2411/1/D], $600,000.
 
-    (b) __Determinations on Scope of Operations.—__ 
+    (b)  __Determinations on Scope of Operations__  __.—__ 
 
     A determination of whether a procurement technical assistance program is operating on a Statewide basis or on less than a Statewide basis or is operated wholly within one or more service areas of the Bureau of Indian Affairs by an eligible entity referred to in [section 2411(1)(D) of this title][/us/usc/t10/s2411/1/D] shall be made in accordance with regulations prescribed by the Secretary of Defense.
 

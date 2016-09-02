@@ -15,11 +15,11 @@
 
 ## § 1722b. Special requirements for civilian employees in the acquisition field
 
-    (a) __Requirement for Policy and Guidance Regarding Civilian Personnel in Acquisition.—__ 
+    (a)  __Requirement for Policy and Guidance Regarding Civilian Personnel in Acquisition__  __.—__ 
 
     The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish policies and issue guidance to ensure the proper development, assignment, and employment of civilian members of the acquisition workforce to achieve the objectives specified in subsection (b).
 
-    (b) __Objectives.—__ 
+    (b)  __Objectives__  __.—__ 
 
     Policies established and guidance issued pursuant to subsection (a) shall ensure, at a minimum, the following:
 
@@ -33,7 +33,7 @@
 
         (5) A deliberate workforce development strategy that ensures diversity in promotion, advancement, and experiential opportunities commensurate with the general workforce outlined in this section.
 
-    (c) __Inclusion of Information in Annual Report.—__ 
+    (c)  __Inclusion of Information in Annual Report__  __.—__ 
 
     The Secretary of Defense shall include in the report to Congress required under [section 115b(d) of this title][/us/usc/t10/s115b/d] the following information related to the acquisition workforce for the period covered by the report (which shall be shown for the Department of Defense as a whole and separately for the Army, Navy, Air Force, Marine Corps, Defense Agencies, and Office of the Secretary of Defense):
 

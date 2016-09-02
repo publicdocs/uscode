@@ -15,11 +15,11 @@
 
 ## § 441. Establishment
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The National Geospatial-Intelligence Agency is a combat support agency of the Department of Defense and has significant national missions.
 
-    (b) __Director.—__ 
+    (b)  __Director__  __.—__ 
 
         (1) The Director of the National Geospatial-Intelligence Agency is the head of the agency.
 
@@ -27,7 +27,7 @@
 
         (3) If an officer of the armed forces on active duty is appointed to the position of Director, the position shall be treated as having been designated by the President as a position of importance and responsibility for purposes of [section 601 of this title][/us/usc/t10/s601] and shall carry the grade of lieutenant general, or, in the case of an officer of the Navy, vice admiral.
 
-    (c) __Director of National Intelligence Collection Tasking Authority.—__ 
+    (c)  __Director of National Intelligence Collection Tasking Authority__  __.—__ 
 
     Unless otherwise directed by the President, the Director of National Intelligence shall have authority (except as otherwise agreed by the Director and the Secretary of Defense) to—
 
@@ -37,7 +37,7 @@
 
         (3) resolve conflicts in such priorities.
 
-    (d) __Availability and Continued Improvement of Imagery Intelligence Support to All-Source Analysis and Production Function.—__ 
+    (d)  __Availability and Continued Improvement of Imagery Intelligence Support to All-Source Analysis and Production Function__  __.—__ 
 
     The Secretary of Defense, in consultation with the Director of National Intelligence, shall take all necessary steps to ensure the full availability and continued improvement of imagery intelligence support for all-source analysis and production.
 
@@ -73,7 +73,7 @@
 
 [Section 1116 of title XI of div. A of Pub. L. 104–201][/us/pl/104/201/s1116], as amended by [Pub. L. 105–85, div. A, title X, § 1073(c)(8)][/us/pl/105/85/s1073/c/8], Nov. 18, 1997, [111 Stat. 1904][/us/stat/111/1904], provided that:
 
->     “(a) __Continuing Effect on Legal Documents.—__ 
+>     “(a)  __Continuing Effect on Legal Documents__  __.—__ 
 
 >     All orders, determinations, rules, regulations, permits, agreements, international agreements, grants, contracts, leases, certificates, licenses, registrations, privileges, and other administrative actions—
 
@@ -83,7 +83,7 @@
 
 >         shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Secretary of Defense, the Director of the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\] or other authorized official, a court of competent jurisdiction, or by operation of law.
 
->     “(b) __Proceedings Not Affected.—__ 
+>     “(b)  __Proceedings Not Affected__  __.—__ 
 
 >     This title and the amendments made by this title shall not affect any proceedings, including notices of proposed rulemaking, or any application for any license, permit, certificate, or financial assistance pending before an element of the Department of Defense or Central Intelligence Agency at the time this title takes effect, with respect to function of that element transferred by section 1111 \[set out below\], but such proceedings and applications shall be continued. Orders shall be issued in such proceedings, appeals shall be taken therefrom, and payments shall be made pursuant to such orders, as if this title had not been enacted, and orders issued in any such proceedings shall continue in effect until modified, terminated, superseded, or revoked by a duly authorized official, by a court of competent jurisdiction, or by operation of law. Nothing in this section shall be deemed to prohibit the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that such proceeding could have been discontinued or modified if this title had not been enacted.”
 
@@ -91,11 +91,11 @@
 
 [Pub. L. 108–136, div. A, title IX, § 921(a)][/us/pl/108/136/s921/a], (g), Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568], 1570, provided that:
 
->     “(a) __Redesignation.—__ 
+>     “(a)  __Redesignation__  __.—__ 
 
 >     The National Imagery and Mapping Agency of the Department of Defense is hereby redesignated as the National Geospatial-Intelligence Agency.
 
->     “(g) __References.—__ 
+>     “(g)  __References__  __.—__ 
 
 >     Any reference to the National Imagery and Mapping Agency in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the National Geospatial-Intelligence Agency.”
 
@@ -123,11 +123,11 @@
 
 [Section 1111 of Pub. L. 104–201][/us/pl/104/201/s1111] provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is hereby established in the Department of Defense a Defense Agency to be known as the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\].
 
->     “(b) __Transfer of Functions From Department of Defense Entities.—__ 
+>     “(b)  __Transfer of Functions From Department of Defense Entities__  __.—__ 
 
 >     The missions and functions of the following elements of the Department of Defense are transferred to the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\]:
 
@@ -137,7 +137,7 @@
 
 >         “(3) Other elements of the Department of Defense as specified in the classified annex to this Act \[see [section 1002 of Pub. L. 104–201][/us/pl/104/201/s1002], set out as a note under [section 114 of this title][/us/usc/t10/s114]\].
 
->     “(c) __Transfer of Functions From Central Intelligence Agency.—__ 
+>     “(c)  __Transfer of Functions From Central Intelligence Agency__  __.—__ 
 
 >     The missions and functions of the following elements of the Central Intelligence Agency are transferred to the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\]:
 
@@ -145,7 +145,7 @@
 
 >         “(2) Other elements of the Central Intelligence Agency as specified in the classified annex to this Act.
 
->     “(d) __Preservation of Level and Quality of Imagery Intelligence Support to All-Source Analysis and Production.—__ 
+>     “(d)  __Preservation of Level and Quality of Imagery Intelligence Support to All-Source Analysis and Production__  __.—__ 
 
 >     In managing the establishment of the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\], the Secretary of Defense, in consultation with the Director of Central Intelligence, shall ensure that imagery intelligence support provided to all-source analysis and production is in no way degraded or compromised.”
 
@@ -153,15 +153,15 @@
 
 [Section 1113 of Pub. L. 104–201][/us/pl/104/201/s1113] provided that:
 
->     “(a) __Personnel and Assets.—__ 
+>     “(a)  __Personnel and Assets__  __.—__ 
 
 >     Subject to subsections (b) and (c), the personnel, assets, unobligated balances of appropriations and authorizations of appropriations, and, to the extent jointly determined appropriate by the Secretary of Defense and Director of Central Intelligence, obligated balances of appropriations and authorizations of appropriations employed, used, held, arising from, or available in connection with the missions and functions transferred under section 1111(b) or section 1111(c) \[set out above\] are transferred to the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\]. Transfers of appropriations from the Central Intelligence Agency under this subsection shall be made in accordance with [section 1531 of title 31][/us/usc/t31/s1531], United States Code.
 
->     “(b) __Determination of CIA Positions To Be Transferred.—__ 
+>     “(b)  __Determination of CIA Positions To Be Transferred__  __.—__ 
 
 >     Not earlier than two years after the effective date of this subtitle \[Oct. 1, 1996\], the Secretary of Defense and the Director of Central Intelligence shall determine which, if any, positions and personnel of the Central Intelligence Agency are to be transferred to the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\]. The positions to be transferred, and the employees serving in such positions, shall be transferred to the National Imagery and Mapping Agency under terms and conditions prescribed by the Secretary of Defense and the Director of Central Intelligence.
 
->     “(c) __Rule For CIA Imagery Activities Only Partially Transferred.—__ 
+>     “(c)  __Rule For CIA Imagery Activities Only Partially Transferred__  __.—__ 
 
 >     If the National Photographic Interpretation Center of the Central Intelligence Agency or any imagery-related activity of the Central Intelligence Agency authorized to be performed by the National Imagery and Mapping Agency \[now National Geospatial-Intelligence Agency\] is not completely transferred to the National Imagery and Mapping Agency, the Secretary of Defense and the Director of Central Intelligence shall—
 

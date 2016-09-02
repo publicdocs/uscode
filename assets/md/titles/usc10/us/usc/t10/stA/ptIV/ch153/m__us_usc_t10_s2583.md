@@ -15,7 +15,7 @@
 
 ## § 2583. Military animals: transfer and adoption
 
-    (a) __Availability for Adoption.—__ 
+    (a)  __Availability for Adoption__  __.—__ 
 
     The Secretary of the military department concerned may make a military animal of such military department available for adoption by a person or entity referred to in subsection (c), unless the animal has been determined to be unsuitable for adoption under subsection (b), under circumstances as follows:
 
@@ -25,25 +25,25 @@
 
         (3) When the animal is otherwise excess to the needs of such military department.
 
-    (b) __Suitability for Adoption.—__ 
+    (b)  __Suitability for Adoption__  __.—__ 
 
     The decision whether a particular military animal is suitable or unsuitable for adoption under this section shall be made by the commander of the last unit to which the animal is assigned before being declared excess. The unit commander shall consider the recommendations of the unit’s veterinarian in making the decision regarding the adoptability of the animal.
 
-    (c) __Authorized Recipients.—__ 
+    (c)  __Authorized Recipients__  __.—__ 
 
     Military animals may be adopted under this section by law enforcement agencies, former handlers of these animals, and other persons capable of humanely caring for these animals. If the Secretary of the military department concerned determines that an adoption is justified under subsection (a)(2) under circumstances under which the handler of a military working dog is wounded in action, the dog may be made available for adoption only by the handler. If the Secretary of the military department concerned determines that such an adoption is justified under circumstances under which the handler of a military working dog is killed in action or dies of wounds received in action, the military working dog shall be made available for adoption only by a parent, child, spouse, or sibling of the deceased handler.
 
-    (d) __Consideration.—__ 
+    (d)  __Consideration__  __.—__ 
 
     The transfer of a military animal under this section may be without charge to the recipient.
 
-    (e) __Limitations on Liability for Transferred Animals.—__ 
+    (e)  __Limitations on Liability for Transferred Animals__  __.—__ 
 
         (1) Notwithstanding any other provision of law, the United States shall not be subject to any suit, claim, demand or action, liability, judgment, cost, or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or other economic loss) that results from, or is in any manner predicated upon, the act or omission of a former military animal transferred under this section, including any training provided to the animal while a military animal.
 
         (2) Notwithstanding any other provision of law, the United States shall not be liable for any veterinary expense associated with a military animal transferred under this section for a condition of the military animal before transfer under this section, whether or not such condition is known at the time of transfer under this section.
 
-    (f) __Transfer of Retired Military Working Dogs.—__ 
+    (f)  __Transfer of Retired Military Working Dogs__  __.—__ 
 
     If the Secretary of the military department concerned determines that a military working dog should be retired, and no suitable adoption is available at the military facility where the dog is located, the Secretary may transfer the dog—
 
@@ -51,7 +51,7 @@
 
         (2) to another location for adoption under this section.
 
-    (g) __Military Animal Defined.—__ 
+    (g)  __Military Animal Defined__  __.—__ 
 
     In this section, the term “military animal” means the following:
 

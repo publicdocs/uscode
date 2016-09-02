@@ -15,7 +15,7 @@
 
 ## § 2197. Manufacturing experts in the classroom
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     The Secretary of Defense, in consultation with the Secretary of Education and the Secretary of Commerce, shall conduct a program to support the following activities of one or more manufacturing experts at institutions of higher education:
 
@@ -31,11 +31,11 @@
 
         (6) Coordinating the activities described in the other provisions of this subsection with other programs conducted by the Federal Government, any State, any local government, or any private, nonprofit organization to modernize United States manufacturing firms, especially the regional centers for the transfer of manufacturing technology and programs receiving financial assistance under [section 2196 of this title][/us/usc/t10/s2196].
 
-    (b) __Merit Competition.—__ 
+    (b)  __Merit Competition__  __.—__ 
 
     Applications for assistance under this section shall be evaluated on the basis of merit pursuant to competitive procedures prescribed by the Secretary.
 
-    (c) __Selection Criteria.—__ 
+    (c)  __Selection Criteria__  __.—__ 
 
     The Secretary shall select institutions for the award of financial assistance under this section from among institutions submitting applications for such assistance that—
 
@@ -47,11 +47,11 @@
 
         (4) meet such other criteria as the Secretary may prescribe.
 
-    (d) __Federal Support.—__ 
+    (d)  __Federal Support__  __.—__ 
 
     The amount of financial assistance furnished to an institution under this section may not exceed 50 percent of the estimated cost of carrying out the activities proposed to be supported in part with such financial assistance for the period for which the assistance is to be provided. In no event may the amount of the financial assistance provided to an institution exceed $250,000 per year. The period for which financial assistance is provided an institution under this section shall be at least two years unless such assistance is earlier terminated for cause determined by the Secretary.
 
-    (e) __Manufacturing Expert Defined.—__ 
+    (e)  __Manufacturing Expert Defined__  __.—__ 
 
     In this section, the term “manufacturing expert” means manufacturing managers and workers having experience in the organization of production and education and training needs and other experts in manufacturing.
 

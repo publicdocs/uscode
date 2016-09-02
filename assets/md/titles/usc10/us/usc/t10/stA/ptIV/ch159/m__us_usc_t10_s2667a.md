@@ -25,11 +25,11 @@
 
 [Pub. L. 110–417, div. B, title XXVIII, § 2812(e)(2)][/us/pl/110/417/s2812/e/2], (3), Oct. 14, 2008, [122 Stat. 4727][/us/stat/122/4727], provided that:
 
->     “(2) __Effect on existing contracts.—__ 
+>     “(2)  __Effect on existing contracts__  __.—__ 
 
 >     The repeal of [section 2667a of title 10][/us/usc/t10/s2667a], United States Code, shall not affect the validity or terms of any lease with respect to property of a Defense Agency entered into by the Secretary of Defense under such section before the date of the enactment of this Act \[Oct. 14, 2008\].
 
->     “(3) __Treatment of money rents.—__ 
+>     “(3)  __Treatment of money rents__  __.—__ 
 
 >     Amounts in any special account established for a Defense Agency pursuant to subsection (d) of [section 2667a of title 10][/us/usc/t10/s2667a], United States Code, before repeal of such section by paragraph (1), and amounts that would be deposited in such an account in connection with a lease referred to in paragraph (2), shall—
 

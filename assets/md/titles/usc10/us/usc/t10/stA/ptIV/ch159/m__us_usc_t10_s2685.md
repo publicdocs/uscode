@@ -15,11 +15,11 @@
 
 ## § 2685. Adjustment of or surcharge on selling prices in commissary stores to provide funds for construction and improvement of commissary store facilities
 
-    (a) __Adjustment or Surcharge Authorized.—__ 
+    (a)  __Adjustment or Surcharge Authorized__  __.—__ 
 
     Notwithstanding any other provision of law, the Secretary of Defense may, for the purposes of this section, provide for an adjustment of, or surcharge on, sales prices of goods and services sold in commissary store facilities.
 
-    (b) __Use for Construction, Repair, Improvement, and Maintenance.—__ 
+    (b)  __Use for Construction, Repair, Improvement, and Maintenance__  __.—__ 
 
         (1)
 
@@ -31,17 +31,17 @@
 
         (2) In paragraph (1), the term “physical infrastructure” includes real property, utilities, and equipment (installed and free standing and including computer equipment), necessary to provide a complete and usable commissary store or central product processing facility.
 
-    (c) __Advance Obligation.—__ 
+    (c)  __Advance Obligation__  __.—__ 
 
     The Secretary of Defense, with the approval of the Director of the Office of Management and Budget, may obligate anticipated proceeds from the adjustments or surcharges authorized by subsection (a) for any use specified in subsection (b) or (d), without regard to fiscal year limitations, if the Secretary determines that such obligation is necessary to carry out any use of such adjustments or surcharges specified in subsection (b) or (d).
 
-    (d) __Cooperation With Nonappropriated Fund Instrumentalities.—__ 
+    (d)  __Cooperation With Nonappropriated Fund Instrumentalities__  __.—__ 
 
         (1) The Secretary of Defense may authorize a nonappropriated fund instrumentality of the United States to enter into a contract for construction of a shopping mall or similar facility for a commissary store and one or more nonappropriated fund instrumentality activities. The Secretary may use the proceeds of adjustments or surcharges authorized by subsection (a) to reimburse the nonappropriated fund instrumentality for the portion of the cost of the contract that is attributable to construction of the commissary store or to pay the contractor directly for that portion of such cost.
 
         (2) In paragraph (1), the term “construction”, with respect to a facility, includes acquisition, conversion, expansion, installation, or other improvement of the facility.
 
-    (e) __Other Sources of Funds for Construction and Improvements.—__ 
+    (e)  __Other Sources of Funds for Construction and Improvements__  __.—__ 
 
     Revenues received by the Secretary of Defense from the following sources or activities of commissary store facilities shall be available for the purposes set forth in subsections (b), (c), and (d):
 

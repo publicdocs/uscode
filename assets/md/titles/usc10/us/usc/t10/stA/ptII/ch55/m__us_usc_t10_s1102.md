@@ -15,17 +15,17 @@
 
 ## § 1102. Confidentiality of medical quality assurance records: qualified immunity for participants
 
-    (a) __Confidentiality of Records.—__ 
+    (a)  __Confidentiality of Records__  __.—__ 
 
     Medical quality assurance records created by or for the Department of Defense as part of a medical quality assurance program are confidential and privileged. Such records may not be disclosed to any person or entity, except as provided in subsection (c).
 
-    (b) __Prohibition on Disclosure and Testi­mony.—__ 
+    (b)  __Prohibition on Disclosure and Testi­mony__  __.—__ 
 
         (1) No part of any medical quality assurance record described in subsection (a) may be subject to discovery or admitted into evidence in any judicial or administrative proceeding, except as provided in subsection (c).
 
         (2) A person who reviews or creates medical quality assurance records for the Department of Defense or who participates in any proceeding that reviews or creates such records may not be permitted or required to testify in any judicial or administrative proceeding with respect to such records or with respect to any finding, recommendation, evaluation, opinion, or action taken by such person or body in connection with such records except as provided in this section.
 
-    (c) __Authorized Disclosure and Testimony.—__ 
+    (c)  __Authorized Disclosure and Testimony__  __.—__ 
 
         (1)
 
@@ -47,33 +47,33 @@
 
         (2) With the exception of the subject of a quality assurance action, the identity of any person receiving health care services from the Department of Defense or the identity of any other person associated with such department for purposes of a medical quality assurance program that is disclosed in a medical quality assurance record described in subsection (a) shall be deleted from that record or document before any disclosure of such record is made outside the Department of Defense. Such requirement does not apply to the release of information pursuant to [section 552a of title 5][/us/usc/t5/s552a].
 
-    (d) __Disclosure for Certain Purposes.—__ 
+    (d)  __Disclosure for Certain Purposes__  __.—__ 
 
         (1) Nothing in this section shall be construed as authorizing or requiring the withholding from any person or entity aggregate statistical information regarding the results of Department of Defense medical quality assurance programs.
 
         (2) Nothing in this section shall be construed as authority to withhold any medical quality assurance record from a committee of either House of Congress, any joint committee of Congress, or the Comptroller General if such record pertains to any matter within their respective jurisdictions.
 
-    (e) __Prohibition on Disclosure of Record or Testimony.—__ 
+    (e)  __Prohibition on Disclosure of Record or Testimony__  __.—__ 
 
     A person or entity having possession of or access to a record or testimony described by this section may not disclose the contents of such record or testimony in any manner or for any purpose except as provided in this section.
 
-    (f) __Exemption From Freedom of Information Act.—__ 
+    (f)  __Exemption From Freedom of Information Act__  __.—__ 
 
     Medical quality assurance records described in subsection (a) may not be made available to any person under [section 552 of title 5][/us/usc/t5/s552].
 
-    (g) __Limitation on Civil Liability.—__ 
+    (g)  __Limitation on Civil Liability__  __.—__ 
 
     A person who participates in or provides information to a person or body that reviews or creates medical quality assurance records described in subsection (a) shall not be civilly liable for such participation or for providing such information if the participation or provision of information was in good faith based on prevailing professional standards at the time the medical quality assurance program activity took place.
 
-    (h) __Application to Information in Certain Other Records.—__ 
+    (h)  __Application to Information in Certain Other Records__  __.—__ 
 
     Nothing in this section shall be construed as limiting access to the information in a record created and maintained outside a medical quality assurance program, including a patient’s medical records, on the grounds that the information was presented during meetings of a review body that are part of a medical quality assurance program.
 
-    (i) __Regulations.—__ 
+    (i)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to implement this section.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -85,7 +85,7 @@
 
         (4) The term “peer review” means any assessment of the quality of medical care carried out by a health care professional, including any such assessment of professional performance, any patient safety program root cause analysis or report, or any similar activity described in regulations prescribed by the Secretary under subsection (i).
 
-    (k) __Penalty.—__ 
+    (k)  __Penalty__  __.—__ 
 
     Any person who willfully discloses a medical quality assurance record other than as provided in this section, knowing that such record is a medical quality assurance record, shall be fined not more than $3,000 in the case of a first offense and not more than $20,000 in the case of a subsequent offense.
 

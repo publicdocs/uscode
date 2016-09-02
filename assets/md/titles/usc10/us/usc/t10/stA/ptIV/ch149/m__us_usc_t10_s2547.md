@@ -15,7 +15,7 @@
 
 ## § 2547. Acquisition-related functions of chiefs of the armed forces
 
-    (a) __Performance of Certain Acquisition-related Functions.—__ 
+    (a)  __Performance of Certain Acquisition-related Functions__  __.—__ 
 
     The Secretary of Defense shall ensure that the Chief of Staff of the Army, the Chief of Naval Operations, the Chief of Staff of the Air Force, and the Commandant of the Marine Corps assist the Secretary of the military department concerned in the performance of the following acquisition-related functions of such department:
 
@@ -31,11 +31,11 @@
 
         (6) The assignment and training of contracting officer representatives when such representatives are required to be members of the armed forces because of the nature of the contract concerned.
 
-    (b) __Rule of Construction.—__ 
+    (b)  __Rule of Construction__  __.—__ 
 
     Nothing in this section shall be construed to affect the assignment of functions under section 3014(c)(1)(A), section 5014(c)(1)(A), or [section 8014(c)(1)(A) of this title][/us/usc/t10/s8014/c/1/A], except as explicitly provided in this section.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

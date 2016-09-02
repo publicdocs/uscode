@@ -359,7 +359,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
 [Pub. L. 102–25, title III, § 313][/us/pl/102/25/s313], Apr. 6, 1991, [105 Stat. 85][/us/stat/105/85], provided that:
 
->     “(a) __Health Care Provided.—__ 
+>     “(a)  __Health Care Provided__  __.—__ 
 
 >     A member of the Armed Forces described in subsection (b), and the dependents of the member, shall be entitled to receive health care described in subsection (c) upon the release of the member from active duty in connection with Operation Desert Storm until the earlier of—
 
@@ -367,7 +367,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
 >         “(2) the date on which the member and the dependents of the member are covered by a health plan sponsored by an employer.
 
->     “(b) __Eligible Member Described.—__ 
+>     “(b)  __Eligible Member Described__  __.—__ 
 
 >     A member of the Armed Forces referred to in subsection (a) is a member who—
 
@@ -377,7 +377,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
 >         “(3) voluntarily agrees to remain on active duty for a period of less than one year in connection with Operation Desert Storm.
 
->     “(c) __Health Care Described.—__ 
+>     “(c)  __Health Care Described__  __.—__ 
 
 >     The health care referred to in subsection (a) is—
 
@@ -385,7 +385,7 @@ Appropriate references are made to dental care throughout the section to reflect
 
 >         “(2) health benefits contracted under the authority of section 1079(a) of that title and subject to the same rates and conditions as apply to persons covered under that section.
 
->     “(d) __Dependent Defined.—__ 
+>     “(d)  __Dependent Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘dependent’ has the meaning given that term in [section 1072(2) of title 10][/us/usc/t10/s1072/2], United States Code.”
 

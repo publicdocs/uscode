@@ -15,7 +15,7 @@
 
 ## § 1401. Computation of retired pay
 
-    (a) __Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement.—__ 
+    (a)  __Disability, Non-Regular Service, Warrant Officer, and DOPMA Retirement__  __.—__ 
 
     The monthly retired pay of a person entitled thereto under this subtitle is computed according to the following table. For each case covered by a section of this title named in the column headed “For sections”, retired pay is computed by taking, in order, the steps prescribed opposite it in columns 1, 2, and 3, as modified by the applicable footnotes.
 
@@ -189,7 +189,7 @@
 
     </table>
 
-    (b) __Use of Most Favorable Formula.—__ 
+    (b)  __Use of Most Favorable Formula__  __.—__ 
 
     If a person would otherwise be entitled to retired pay computed under more than one formula of the table in subsection (a) or of any other provision of law, the person is entitled to be paid under the applicable formula that is most favorable to him.
 
@@ -509,15 +509,15 @@ May 29, 1954, ch. 249, § 14(d) (less 1st sentence), (f) (1st sentence, less a
 
 [Pub. L. 111–84, div. A, title VI, § 645][/us/pl/111/84/s645], Oct. 28, 2009, [123 Stat. 2368][/us/stat/123/2368], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Service as a member of the Alaska Territorial Guard during World War II of any individual who was honorably discharged therefrom under section 8147 of the Department of Defense Appropriations Act, 2001 ([Public Law 106–259][/us/pl/106/259]; [114 Stat. 705][/us/stat/114/705]) \[amending [section 106 of Title 38][/us/usc/t38/s106], Veterans’ Benefits, and enacting provisions set out as a note under [section 106 of Title 38][/us/usc/t38/s106]\] shall be treated as active service for purposes of the computation under chapter 61, 71, 371, 571, 871, or 1223 of title 10, United States Code, as applicable, of the retired pay to which such individual may be entitled under title 10, United States Code.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     Subsection (a) shall apply with respect to amounts of retired pay payable under title 10, United States Code, for months beginning on or after the date of the enactment of this Act \[Oct. 28, 2009\]. No retired pay shall be paid to any individual by reason of subsection (a) for any period before that date.
 
->     “(c) __World War II Defined.—__ 
+>     “(c)  __World War II Defined__  __.—__ 
 
 >     In this section, the term ‘World War II’ has the meaning given that term in [section 101(8) of title 38][/us/usc/t38/s101/8], United States Code.”
 
@@ -535,11 +535,11 @@ May 29, 1954, ch. 249, § 14(d) (less 1st sentence), (f) (1st sentence, less a
 
 [Pub. L. 99–348, title III, § 305(b)][/us/pl/99/348/s305/b], July 1, 1986, [100 Stat. 704][/us/stat/100/704], provided that:
 
->     “(1) __General rule.—__ 
+>     “(1)  __General rule__  __.—__ 
 
 >     Retired pay or retainer pay may not be paid to a covered member of the Armed Forces (as defined in paragraph (3)) for any month in an amount that is greater than the amount otherwise determined to be payable after such reductions as may be necessary to reflect adjusting the computation of retired pay or retainer pay that includes credit for a part of a year of service to permit credit for a part of a year of service only for such month or months actually served.
 
->     “(2) __Exceptions.—__ 
+>     “(2)  __Exceptions__  __.—__ 
 
 >     The limitation in paragraph (1) does not apply to a member who before January 1, 1982—
 
@@ -549,15 +549,15 @@ May 29, 1954, ch. 249, § 14(d) (less 1st sentence), (f) (1st sentence, less a
 
 >         “(C) was retired or in an inactive status and would have been eligible for retired pay under the provisions of chapter 67 \[now 1223\] of such title, but for the fact that the person was under 60 years of age.
 
->     “(3) __Definition of covered member.—__ 
+>     “(3)  __Definition of covered member__  __.—__ 
 
 >     For the purposes of this subsection, the term ‘covered member of the Armed Forces’ means a member of the Armed Forces who became entitled to retired or retainer pay during the period beginning on January 1, 1982, and ending on September 30, 1983.
 
->     “(4) __Repeal of source law.—__ 
+>     “(4)  __Repeal of source law__  __.—__ 
 
 >     Section 8054 of the Department of Defense Appropriations Act, 1985 (as contained in [section 101(h) of Public Law 98–473][/us/pl/98/473/s101/h]) \[formerly set out as a note below\], is repealed.
 
->     “(5) __Cross reference.—__ 
+>     “(5)  __Cross reference__  __.—__ 
 
 >     For the effective date of October 1, 1983, for provisions making permanent programmatic changes in law to accomplish the policy provided in such section 8054 (and prior provisions of law), see section 923(h) of the Department of Defense Authorization Act, 1984 ([Public Law 98–94][/us/pl/98/94]) \[probably means [section 923(g) of Pub. L. 98–94][/us/pl/98/94/s923/g], set out as an Effective Date of 1983 Amendment note under [section 1174 of this title][/us/usc/t10/s1174]\].”
 

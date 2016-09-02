@@ -15,7 +15,7 @@
 
 ## § 2173. Education loan repayment program: commissioned officers in specified health professions
 
-    (a) __Authority To Repay Education Loans.—__ 
+    (a)  __Authority To Repay Education Loans__  __.—__ 
 
     For the purpose of maintaining adequate numbers of commissioned officers of the armed forces on active duty who are qualified in the various health professions, the Secretary of a military department may repay, in the case of a person described in subsection (b), a loan that—
 
@@ -23,7 +23,7 @@
 
         (2) was obtained from a governmental entity, private financial institution, school, or other authorized entity.
 
-    (b) __Eligible Persons.—__ 
+    (b)  __Eligible Persons__  __.—__ 
 
     To be eligible to obtain a loan repayment under this section, a person must—
 
@@ -33,7 +33,7 @@
 
         (3) sign a written agreement to serve on active duty, or, if on active duty, to remain on active duty for a period in addition to any other incurred active duty obligation.
 
-    (c) __Academic and Professional Requirements.—__ 
+    (c)  __Academic and Professional Requirements__  __.—__ 
 
     One of the following academic requirements must be satisfied for purposes of determining the eligibility of a person for a loan repayment under this section:
 
@@ -45,11 +45,11 @@
 
         (4) The person is enrolled in the Armed Forces Health Professions Scholarship and Financial Assistance Program under subchapter I of chapter 105 of this title for a number of years less than is required to complete the normal length of the course of study required for the health profession concerned.
 
-    (d) __Certain Persons Ineligible.—__ 
+    (d)  __Certain Persons Ineligible__  __.—__ 
 
     Students of the Uniformed Services University of the Health Sciences established under [section 2112 of this title][/us/usc/t10/s2112] are not eligible for the repayment of an education loan under this section.
 
-    (e) __Loan Repayments.—__ 
+    (e)  __Loan Repayments__  __.—__ 
 
         (1)
 
@@ -61,19 +61,19 @@
 
         (2) For each year of obligated service that a person agrees to serve in an agreement described in subsection (b)(3), the Secretary of the military department concerned may pay not more than $60,000 on behalf of the person. This maximum amount shall be increased annually by the Secretary of Defense effective October 1 of each year by the percentage equal to the percent increase in the average annual cost of educational expenses and stipend costs of a single scholarship under the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
-    (f) __Active Duty Service Obligation.—__ 
+    (f)  __Active Duty Service Obligation__  __.—__ 
 
         (1) A person entering into an agreement described in subsection (b)(3) incurs an active duty service obligation. The length of this obligation shall be determined under regulations prescribed by the Secretary of Defense, but those regulations may not provide for a period of obligation of less than one year for each maximum annual amount, or portion thereof, paid on behalf of the person for qualified loans.
 
         (2) For persons on active duty before entering into the agreement, the active duty service obligation shall be served consecutively to any other obligation incurred under the agreement.
 
-    (g) __Effect of Failure To Complete Obligation.—__ 
+    (g)  __Effect of Failure To Complete Obligation__  __.—__ 
 
         (1) A commissioned officer who is relieved of the officer’s active duty obligation under this section before the completion of that obligation may be given, with or without the consent of the officer, any alternative obligation comparable to any of the alternative obligations authorized by [section 2123(e) of this title][/us/usc/t10/s2123/e] for participants in the Armed Forces Health Professions Scholarship and Financial Assistance program.
 
         (2) An officer who does not complete the period of active duty specified in the agreement entered into under subsection (b)(3), or the alternative obligation imposed under paragraph (1), shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e].
 
-    (h) __Regulations.—__ 
+    (h)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section, including standards for qualified loans and authorized payees and other terms and conditions for the making of loan repayments.
 
@@ -95,11 +95,11 @@
 
 [Pub. L. 109–364, div. A, title V, § 537(b)][/us/pl/109/364/s537/b], Oct. 17, 2006, [120 Stat. 2209][/us/stat/120/2209], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2006, and shall apply to agreements entered into or revised under [section 2173 of title 10][/us/usc/t10/s2173], United States Code, on or after that date.
 
->     “(2) __Prohibition on adjustment.—__ 
+>     “(2)  __Prohibition on adjustment__  __.—__ 
 
 >     The adjustment required by the second sentence of [section 2173(e)(2) of title 10][/us/usc/t10/s2173/e/2], United States Code, to be made on October 1, 2006, shall not be made.”
 

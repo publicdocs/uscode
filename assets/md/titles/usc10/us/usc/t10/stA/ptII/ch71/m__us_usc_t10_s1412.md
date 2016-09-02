@@ -15,11 +15,11 @@
 
 ## § 1412. Administrative provisions
 
-    (a) __Rounding.—__ 
+    (a)  __Rounding__  __.—__ 
 
     Amounts computed under this chapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-    (b) __Payment Date.—__ 
+    (b)  __Payment Date__  __.—__ 
 
     Amounts of retired pay and retainer pay due a retired member of the uniformed services shall be paid on the first day of each month beginning after the month in which the right to such pay accrues.
 

@@ -15,21 +15,21 @@
 
 ## § 2835. Long-term leasing of military family housing to be constructed
 
-    (a) __Build and Lease Authorized.—__ 
+    (a)  __Build and Lease Authorized__  __.—__ 
 
     Subject to subsection (b), the Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, may enter into a contract for the lease of family housing units to be constructed or rehabilitated to residential use near a military installation within the United States under the Secretary’s jurisdiction at which there is a shortage of family housing. Housing units leased under this section shall be assigned, without rental charge, as family housing to members of the armed forces who are eligible for assignment to military family housing.
 
-    (b) __Submission and Authorization of Proposed Lease Contracts.—__ 
+    (b)  __Submission and Authorization of Proposed Lease Contracts__  __.—__ 
 
         (1) The Secretary of a military department, or the Secretary of Homeland Security with respect to the Coast Guard, may enter into a lease contract under subsection (a) for such military housing as is authorized by law for the purposes of this section.
 
         (2) The budget material submitted to Congress by the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, in connection with the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for each fiscal year shall include materials that identify the military housing projects for which lease contracts are proposed to be entered into under subsection (a) in such fiscal year.
 
-    (c) __Competitive Process.—__ 
+    (c)  __Competitive Process__  __.—__ 
 
     Each contract under subsection (a) shall be awarded through the use of publicly advertised, competitively bid, or competitively negotiated, contracting procedures as provided in chapter 137 of this title. In accordance with such procedures, the Secretary of a military department, or the Secretary of Homeland Security, as the case may be, shall solicit bids or proposals for a contract for the lease of military housing authorized in accordance with subsection (b)(1). Such a contract may provide for the contractor of the housing facilities to operate and maintain such housing facilities during the term of the lease.
 
-    (d) __Conditions on Obligation of Funds.—__ 
+    (d)  __Conditions on Obligation of Funds__  __.—__ 
 
     A lease contract entered into for a military housing project under subsection (a) shall include the following provisions:
 
@@ -47,15 +47,15 @@
 
             (B) to Department of Homeland Security specifications, in the case of a contract for the Coast Guard.
 
-    (e) __Lease Term.—__ 
+    (e)  __Lease Term__  __.—__ 
 
     A contract under this section may be for any period not in excess of 20 years (excluding the period required for construction of the housing facilities).
 
-    (f) __Right of First Refusal to Acquire.—__ 
+    (f)  __Right of First Refusal to Acquire__  __.—__ 
 
     A contract under this section shall provide that, upon the termination of the lease period, the United States shall have the right of first refusal to acquire all right, title, and interest to the housing facilities constructed and leased under the contract.
 
-    (g) __Notice and Wait Requirements.—__ 
+    (g)  __Notice and Wait Requirements__  __.—__ 
 
     A contract may not be entered into for the lease of housing facilities under this section until—
 
@@ -63,7 +63,7 @@
 
         (2) a period of 21 days has expired following the date on which the economic analysis is received by those committees or, if earlier, a period of 14 days has elapsed from the date on which a copy of the analysis is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (h) __Support Buildings.—__ 
+    (h)  __Support Buildings__  __.—__ 
 
     A contract for the lease of family housing under this section may include provision for the lease of a child care center, civic center building, and similar type buildings constructed for the support of family housing.
 

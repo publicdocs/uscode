@@ -15,11 +15,11 @@
 
 ## § 1508. Judicial review
 
-    (a) __Right of Review.—__ 
+    (a)  __Right of Review__  __.—__ 
 
     A person who is the primary next of kin (or the previously designated person) of a person who is the subject of a finding described in subsection (b) may obtain judicial review in a United States district court of that finding, but only on the basis of a claim that there is information that could affect the status of the missing person’s case that was not adequately considered during the administrative review process under this chapter. Any such review shall be as provided in [section 706 of title 5][/us/usc/t5/s706].
 
-    (b) __Findings for Which Judicial Review May Be Sought.—__ 
+    (b)  __Findings for Which Judicial Review May Be Sought__  __.—__ 
 
     Subsection (a) applies to the following findings:
 
@@ -27,7 +27,7 @@
 
         (2) A finding by a board appointed under [section 1509 of this title][/us/usc/t10/s1509] that confirms that a missing person formerly declared dead is in fact dead.
 
-    (c) __Subsequent Review.—__ 
+    (c)  __Subsequent Review__  __.—__ 
 
     Appeals from a decision of the district court shall be taken to the appropriate United States court of appeals and to the Supreme Court as provided by law.
 

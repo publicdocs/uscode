@@ -15,11 +15,11 @@
 
 ## § 2445c. Reports: quarterly reports; reports on program changes
 
-    (a) __Quarterly Reports by Program Managers.—__ 
+    (a)  __Quarterly Reports by Program Managers__  __.—__ 
 
     The program manager of a major automated information system program or other major information technology investment program shall, on a quarterly basis, submit to the senior Department of Defense official responsible for the program a written report identifying any variance in the projected development schedule, implementation schedule, life-cycle costs, or key performance parameters for the major automated information system or information technology investment to be acquired under the program from such information as originally submitted to Congress under [section 2445b of this title][/us/usc/t10/s2445b].
 
-    (b) __Senior Officials Responsible for Programs.—__ 
+    (b)  __Senior Officials Responsible for Programs__  __.—__ 
 
     For purposes of this section, the senior Department of Defense official responsible for a major automated information system program or other major information technology investment program is—
 
@@ -29,11 +29,11 @@
 
     (c) __Report on Significant Changes in Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If, based on a quarterly report submitted by the program manager of a major automated information system program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (2), the official shall, not later than 45 days after receiving such report, notify the congressional defense committees in writing of such determination.
 
-        (2) __Covered determination.—__ 
+        (2)  __Covered determination__  __.—__ 
 
         A determination described in this paragraph with respect to a major automated information system program is a determination that—
 
@@ -45,7 +45,7 @@
 
     (d) __Report on Critical Changes in Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         If, based on a quarterly report submitted by the program manager of a major automated information system program or other major information technology investment program pursuant to subsection (a), the senior Department of Defense official responsible for the program makes a determination described in paragraph (2), the official shall, not later than 60 days after receiving such report—
 
@@ -53,7 +53,7 @@
 
             (B) submit, through the Secretary of Defense, to the congressional defense committees a report meeting the requirements of subsection (f).
 
-        (2) __Covered determination.—__ 
+        (2)  __Covered determination__  __.—__ 
 
         A determination described in this paragraph with respect to a major automated information system program or other major information technology investment program is a determination that—
 
@@ -65,7 +65,7 @@
 
             (D) there has been a change in the expected performance of the major automated information system or major information technology investment to be acquired under the program that will undermine the ability of the system to perform the functions anticipated at the time information on the program was originally submitted to Congress under [section 2445b(b) of this title][/us/usc/t10/s2445b/b] or [section 2445b(d) of this title][/us/usc/t10/s2445b/d], as applicable.
 
-    (e) __Program Evaluation.—__ 
+    (e)  __Program Evaluation__  __.—__ 
 
     The evaluation of a major automated information system program or other major information technology investment program conducted under this subsection for purposes of subsection (d)(1)(A) shall include an assessment of—
 
@@ -75,7 +75,7 @@
 
         (3) the rough order of magnitude of the cost and schedule for any reasonable alternative system or capability.
 
-    (f) __Report on Critical Program Changes.—__ 
+    (f)  __Report on Critical Program Changes__  __.—__ 
 
     A report on a major automated information system program or other major information technology investment program conducted under this subsection for purposes of subsection (d)(1)(B) shall include a written certification (with supporting explanation) stating that—
 
@@ -87,7 +87,7 @@
 
         (4) the management structure for the program is adequate to manage and control program costs.
 
-    (g) __Prohibition on Obligation of Funds.—__ 
+    (g)  __Prohibition on Obligation of Funds__  __.—__ 
 
         (1) If the determination of a critical change to a program is made by the senior Department official responsible for the program under subsection (d)(2) and a report is not submitted to Congress within the 60-day period provided by subsection (d)(1), appropriated funds may not be obligated for any major contract under the program.
 

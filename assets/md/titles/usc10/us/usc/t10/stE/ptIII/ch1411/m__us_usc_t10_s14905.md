@@ -15,7 +15,7 @@
 
 ## § 14905. Officer considered for removal: retirement or discharge
 
-    (a) __Voluntary Retirement or Discharge.—__ 
+    (a)  __Voluntary Retirement or Discharge__  __.—__ 
 
     At any time during proceedings under this chapter with respect to the removal of an officer from an active status, the Secretary of the military department concerned may grant a request by the officer—
 
@@ -25,7 +25,7 @@
 
         (3) for discharge in accordance with subsection (b)(3).
 
-    (b) __Required Retirement or Discharge.—__ 
+    (b)  __Required Retirement or Discharge__  __.—__ 
 
     An officer removed from an active status under [section 14903 of this title][/us/usc/t10/s14903] shall—
 
@@ -41,7 +41,7 @@
 
             (B) be discharged in the grade then held, in the case of an officer whose case was brought under subsection (b) of [section 14902 of this title][/us/usc/t10/s14902].
 
-    (c) __Separation Pay.—__ 
+    (c)  __Separation Pay__  __.—__ 
 
     An officer who is discharged under subsection (b)(3) is entitled, if eligible therefor, to separation pay under [section 1174(c) of this title][/us/usc/t10/s1174/c].
 

@@ -15,11 +15,11 @@
 
 ## § 2350l. Cooperative agreements for reciprocal use of test facilities: foreign countries and international organizations
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense, with the concurrence of the Secretary of State, may enter into a memorandum of understanding (or other formal agreement) with a foreign country or international organization to provide for the testing, on a reciprocal basis, of defense equipment (1) by the United States using test facilities of that country or organization, and (2) by that country or organization using test facilities of the United States.
 
-    (b) __Payment of Costs.—__ 
+    (b)  __Payment of Costs__  __.—__ 
 
     A memorandum or other agreement under subsection (a) shall provide that, when a party to the agreement uses a test facility of another party to the agreement, the party using the test facility is charged by the party providing the test facility in accordance with the following principles:
 
@@ -27,17 +27,17 @@
 
         (2) The user party may also be charged indirect costs relating to the use of the test facility, but only to the extent specified in the memorandum or other agreement.
 
-    (c) __Determination of Indirect Costs; Delegation of Authority.—__ 
+    (c)  __Determination of Indirect Costs; Delegation of Authority__  __.—__ 
 
         (1) The Secretary of Defense shall determine the appropriateness of the amount of indirect costs charged by the United States pursuant to subsection (b)(2).
 
         (2) The Secretary may delegate the authority under paragraph (1) only to the Deputy Secretary of Defense and to one other official of the Department of Defense.
 
-    (d) __Retention of Funds Collected by the United States.—__ 
+    (d)  __Retention of Funds Collected by the United States__  __.—__ 
 
     Amounts collected by the United States from a party using a test facility of the United States pursuant to a memorandum or other agreement under this section shall be credited to the appropriation accounts from which the costs incurred by the United States in providing such test facility were paid.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

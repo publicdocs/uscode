@@ -15,23 +15,23 @@
 
 ## § 7361. Authority to provide for necessary salvage facilities
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of the Navy may provide, by contract or otherwise, necessary salvage facilities for public and private vessels.
 
-    (b) __Coordination With Secretary of Homeland Security.—__ 
+    (b)  __Coordination With Secretary of Homeland Security__  __.—__ 
 
     The Secretary shall submit to the Secretary of Homeland Security for comment each proposed contract for salvage facilities that affects the interests of the Department of Homeland Security.
 
-    (c) __Limitation.—__ 
+    (c)  __Limitation__  __.—__ 
 
     The Secretary of the Navy may enter into a term contract under subsection (a) only if the Secretary determines that available commercial salvage facilities are inadequate to meet the requirements of national defense.
 
-    (d) __Public Notice.—__ 
+    (d)  __Public Notice__  __.—__ 
 
     The Secretary may not enter into a contract under subsection (a) until the Secretary has provided public notice of the intent to enter into such a contract.
 
-    (e) __Salvage Facilities Defined.—__ 
+    (e)  __Salvage Facilities Defined__  __.—__ 
 
     In this section, the term “salvage facilities” includes equipment and gear utilized to prevent, abate, or minimize damage to the environment.
 

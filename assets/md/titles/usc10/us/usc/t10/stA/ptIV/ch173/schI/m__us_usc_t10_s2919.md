@@ -15,7 +15,7 @@
 
 ## § 2919. Department of Defense participation in programs for management of energy demand or reduction of energy usage during peak periods
 
-    (a) __Participation in Demand Response or Load Management Programs.—__ 
+    (a)  __Participation in Demand Response or Load Management Programs__  __.—__ 
 
     The Secretary of Defense, the Secretaries of the military departments, the heads of the Defense Agencies, and the heads of other instrumentalities of the Department of Defense are authorized to participate in demand response programs for the management of energy demand or the reduction of energy usage during peak periods conducted by any of the following parties:
 
@@ -27,7 +27,7 @@
 
         (4) A third party entity (such as a demand response aggregator or curtailment service provider) implementing demand response programs on behalf of an electric utility, independent system operator, or State agency.
 
-    (b) __Treatment of Certain Financial Incentives.—__ 
+    (b)  __Treatment of Certain Financial Incentives__  __.—__ 
 
     Financial incentives received from an entity specified in subsection (a) shall be—
 
@@ -35,7 +35,7 @@
 
         (2) deposited into the fund established under subsection (c) for use, to the extent provided for in an appropriations Act, by the military department, Defense Agency, or instrumentality receiving such financial incentive for energy management initiatives.
 
-    (c) __Energy Savings Financial Incentives Fund.—__ 
+    (c)  __Energy Savings Financial Incentives Fund__  __.—__ 
 
     There is established in the Treasury a fund to be known as the “Energy Savings Financial Incentives Fund”. The Fund shall consist of any amount deposited in the Fund pursuant to subsection (b)(2) and amounts appropriated or otherwise made available to the Fund by law.
 

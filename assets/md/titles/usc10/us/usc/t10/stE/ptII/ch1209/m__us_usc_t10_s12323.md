@@ -15,15 +15,15 @@
 
 ## § 12323. Active duty pending line of duty determination required for response to sexual assault
 
-    (a) __Continuation on Active Duty.—__ 
+    (a)  __Continuation on Active Duty__  __.—__ 
 
     In the case of a member of a reserve component who is the alleged victim of sexual assault committed while on active duty and who is expected to be released from active duty before the determination is made regarding whether the member was assaulted while in the line of duty (in this section referred to as a “line of duty determination”), the Secretary concerned, upon the request of the member, may order the member to be retained on active duty until completion of the line of duty determination. A member eligible for continuation on active duty under this subsection shall be informed as soon as practicable after the alleged assault of the option to request continuation on active duty under this subsection.
 
-    (b) __Return to Active Duty.—__ 
+    (b)  __Return to Active Duty__  __.—__ 
 
     In the case of a member of a reserve component not on active duty who is the alleged victim of a sexual assault that occurred while the member was on active duty and when the line of duty determination is not completed, the Secretary concerned, upon the request of the member, may order the member to active duty for such time as necessary for completion of the line of duty determination.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretaries of the military departments shall prescribe regulations to carry out this section, subject to guidelines prescribed by the Secretary of Defense. The guidelines of the Secretary of Defense shall provide that—
 

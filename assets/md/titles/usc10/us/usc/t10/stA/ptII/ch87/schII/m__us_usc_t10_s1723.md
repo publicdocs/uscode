@@ -15,7 +15,7 @@
 
 ## § 1723. General education, training, and experience requirements
 
-    (a) __Qualification Requirements.—__ 
+    (a)  __Qualification Requirements__  __.—__ 
 
         (1) The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements, the Secretary shall ensure the availability and sufficiency of training in all areas of acquisition, including additional training courses with an emphasis on services contracting, market research strategies (including assessments of local contracting capabilities), long-term sustainment strategies, information technology, and rapid acquisition.
 
@@ -23,7 +23,7 @@
 
         (3) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish requirements for continuing education and periodic renewal of an individual’s certification. Any requirement for a certification renewal shall not require a renewal more often than once every five years.
 
-    (b) __Career Path Requirements.—__ 
+    (b)  __Career Path Requirements__  __.—__ 
 
     For each career path, the Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall establish requirements for the completion of course work and related on-the-job training and demonstration of qualifications in the critical acquisition-related duties and tasks of the career path. The Secretary of Defense, acting through the Under Secretary, shall also—
 
@@ -31,7 +31,7 @@
 
         (2) develop key work experiences, including the creation of a program sponsored by the Department of Defense that facilitates the periodic interaction between individuals in the acquisition workforce and the end user in such end user’s environment to enhance the knowledge base of such workforce, for individuals in the acquisition workforce so that the individuals may gain in-depth knowledge and experience in the acquisition process and become seasoned, well-qualified members of the acquisition workforce.
 
-    (c) __Limitation on Credit for Training or Education.—__ 
+    (c)  __Limitation on Credit for Training or Education__  __.—__ 
 
     Not more than one year of a period of time spent pursuing a program of academic training or education in acquisition may be counted toward fulfilling any requirement established under this chapter for a certain period of experience.
 
@@ -49,7 +49,7 @@
 
 [Pub. L. 111–383, div. A, title VIII, § 875][/us/pl/111/383/s875], Jan. 7, 2011, [124 Stat. 4305][/us/stat/124/4305], provided that:
 
->     “(a) __Plan Required.—__ 
+>     “(a)  __Plan Required__  __.—__ 
 
 >     The Secretary of Defense shall develop and carry out a plan to strengthen the part of the acquisition workforce that specializes in information technology. The plan shall include the following:
 
@@ -59,7 +59,7 @@
 
 >         “(3) Defined career paths for individuals in the acquisition workforce who specialize in information technology acquisitions.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -67,7 +67,7 @@
 
 >         “(2) The term ‘major weapon system’ has the meaning provided such term in [section 2379(f) of title 10][/us/usc/t10/s2379/f], United States Code.
 
->     “(c) __Deadline.—__ 
+>     “(c)  __Deadline__  __.—__ 
 
 >     The Secretary of Defense shall develop the plan required under this section not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\].”
 

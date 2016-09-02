@@ -15,7 +15,7 @@
 
 ## § 2493. Fisher Houses: administration as nonappropriated fund instrumentality
 
-    (a) __Fisher Houses and Suites Defined.—__ 
+    (a)  __Fisher Houses and Suites Defined__  __.—__ 
 
     In this section:
 
@@ -71,19 +71,19 @@
 
                 (iii) An escort of a family member described in clause (i) or (ii).
 
-    (b) __Nonappropriated Fund Instrumentality.—__ 
+    (b)  __Nonappropriated Fund Instrumentality__  __.—__ 
 
     The Secretary of each military department shall administer all Fisher Houses and Fisher Suites associated with facilities of that military department as a nonappropriated fund instrumentality of the United States.
 
-    (c) __Governance.—__ 
+    (c)  __Governance__  __.—__ 
 
     The Secretary of each military department shall establish a system for the governance of the nonappropriated fund instrumentality required by subsection (b) for that military department.
 
-    (d) __Central Fund.—__ 
+    (d)  __Central Fund__  __.—__ 
 
     The Secretary of each military department shall establish a single fund as the source of funding for the operation, maintenance, and improvement of all Fisher Houses and Fisher Suites of the nonappropriated fund instrumentality required by subsection (b) for that military department.
 
-    (e) __Acceptance of Contributions; Imposition of Fees.—__ 
+    (e)  __Acceptance of Contributions; Imposition of Fees__  __.—__ 
 
         (1)
 
@@ -95,7 +95,7 @@
 
         (2) All monetary donations, and the proceeds of the disposal of any other donated property, accepted by the Secretary of a military department under this subsection shall be credited to the fund established under subsection (d) for the Fisher Houses and Fisher Suites associated with facilities of that military department and shall be available to that Secretary to support all such Fisher Houses and Fisher Suites.
 
-    (f) __Base Operating Support.—__ 
+    (f)  __Base Operating Support__  __.—__ 
 
     The Secretary of a military department may provide base operating support for Fisher Houses associated with facilities of that military department.
 
@@ -147,7 +147,7 @@
 
 [Pub. L. 105–261, div. A, title IX, § 906(b)][/us/pl/105/261/s906/b]–(e), Oct. 17, 1998, [112 Stat. 2095][/us/stat/112/2095], provided that:
 
->     “(b) __Establishment of Funds.—__ 
+>     “(b)  __Establishment of Funds__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 1998\], the Secretary of each military department shall—
 
@@ -155,13 +155,13 @@
 
 >         “(2) close the Fisher House Trust Fund established for that department under section 2221 of such title and transfer the amounts in the closed fund to the newly established fund.
 
->     “(c) __Funding Transition.—__ 
+>     “(c)  __Funding Transition__  __.—__ 
 
 >         (1) Of the amount authorized to be appropriated pursuant to section 301(2) \[[112 Stat. 1960][/us/stat/112/1960]\] for operation and maintenance for the Navy, the Secretary of the Navy shall transfer to the fund established by that Secretary under [section 2493(d) of title 10][/us/usc/t10/s2493/d], United States Code (as added by subsection (a)), such amount as that Secretary considers appropriate for establishing in the fund a corpus sufficient for operating Fisher Houses and Fisher Suites associated with health care facilities of the Department of the Navy.
 
 >         “(2) Of the amount authorized to be appropriated pursuant to section 301(4) for operation and maintenance for the Air Force, the Secretary of the Air Force shall transfer to the fund established by that Secretary under [section 2493(d) of title 10][/us/usc/t10/s2493/d], United States Code (as added by subsection (a)), such amount as that Secretary considers appropriate for establishing in the fund a corpus sufficient for operating Fisher Houses and Fisher Suites associated with health care facilities of the Department of the Air Force.
 
->     “(d) __Reporting Requirements.—__ 
+>     “(d)  __Reporting Requirements__  __.—__ 
 
 >     The Secretary of each military department, upon completing the actions required of the Secretary under subsections (b) and (c), shall submit to Congress a report containing—
 
@@ -169,7 +169,7 @@
 
 >         “(2) a statement of the amount deposited in the fund established by that Secretary under [section 2493(d) of title 10][/us/usc/t10/s2493/d], United States Code (as added by subsection (a)).
 
->     “(e) __Availability of Transferred Amounts.—__ 
+>     “(e)  __Availability of Transferred Amounts__  __.—__ 
 
 >     Amounts transferred under subsection (b) or (c) to a fund established under [section 2493(d) of title 10][/us/usc/t10/s2493/d], United States Code (as added by subsection (a)), shall be available without fiscal year limitation for the purposes for which the fund is established and shall be administered as nonappropriated funds.”
 

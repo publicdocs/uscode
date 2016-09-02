@@ -15,23 +15,23 @@
 
 ## § 2636a. Loss or damage to personal property transported at Government expense: full replacement value; deduction from amounts due carriers
 
-    (a) __Procurement of Coverage.—__ 
+    (a)  __Procurement of Coverage__  __.—__ 
 
     The Secretary of Defense shall include in a contract for the transportation at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both) a clause that requires the carrier under the contract to pay the full replacement value for loss or damage to the baggage or household effects transported under the contract.
 
-    (b) __Deduction Upon Failure of Carrier To Settle.—__ 
+    (b)  __Deduction Upon Failure of Carrier To Settle__  __.—__ 
 
     In the case of a loss or damage of baggage or household effects transported under a contract with a carrier that includes a clause described in subsection (a), the amount equal to the full replacement value for the baggage or household effects shall be deducted from the amount owed by the United States to the carrier under the contract upon a failure of the carrier to settle a claim for such loss or total damage within a reasonable time. The amount so deducted shall be remitted to the claimant, notwithstanding [section 2636 of this title][/us/usc/t10/s2636].
 
-    (c) __Inapplicability of Related Limits.—__ 
+    (c)  __Inapplicability of Related Limits__  __.—__ 
 
     The limitations on amounts of claims that may be settled under [section 3721(b) of title 31][/us/usc/t31/s3721/b] do not apply to a carrier’s contractual obligation to pay full replacement value under this section.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for administering this section. The regulations shall include policies and procedures for validating and evaluating claims, validating proper claimants, and determining reasonable time for settlement. The regulations may include a requirement that a member of the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b).
 
-    (e) __Transportation Defined.—__ 
+    (e)  __Transportation Defined__  __.—__ 
 
     In this section, the terms “transportation” and “transport”, with respect to baggage or household effects, includes packing, crating, drayage, temporary storage, and unpacking of the baggage or household effects.
 

@@ -15,7 +15,7 @@
 
 ## § 987. Terms of consumer credit extended to members and dependents: limitations
 
-    (a) __Interest.—__ 
+    (a)  __Interest__  __.—__ 
 
     A creditor who extends consumer credit to a covered member of the armed forces or a dependent of such a member shall not require the member or dependent to pay interest with respect to the extension of such credit, except as—
 
@@ -25,13 +25,13 @@
 
         (3) not specifically prohibited by this section.
 
-    (b) __Annual Percentage Rate.—__ 
+    (b)  __Annual Percentage Rate__  __.—__ 
 
     A creditor described in subsection (a) may not impose an annual percentage rate of interest greater than 36 percent with respect to the consumer credit extended to a covered member or a dependent of a covered member.
 
     (c) __Mandatory Loan Disclosures.—__ 
 
-        (1) __Information required.—__ 
+        (1)  __Information required__  __.—__ 
 
         With respect to any extension of consumer credit (including any consumer credit originated or extended through the internet) to a covered member or a dependent of a covered member, a creditor shall provide to the member or dependent the following information orally and in writing before the issuance of the credit:
 
@@ -41,17 +41,17 @@
 
             (C) A clear description of the payment obligations of the member or dependent, as applicable.
 
-        (2) __Terms.—__ 
+        (2)  __Terms__  __.—__ 
 
         Such disclosures shall be presented in accordance with terms prescribed by the regulations issued by the Board of Governors of the Federal Reserve System to implement the Truth in Lending Act ([15 U.S.C. 1601][/us/usc/t15/s1601] et seq.).
 
     (d) __Preemption.—__ 
 
-        (1) __Inconsistent laws.—__ 
+        (1)  __Inconsistent laws__  __.—__ 
 
         Except as provided in subsection (f)(2), this section preempts any State or Federal law, rule, or regulation, including any State usury law, to the extent that such law, rule, or regulation is inconsistent with this section, except that this section shall not preempt any such law, rule, or regulation that provides protection to a covered member or a dependent of such a member in addition to the protection provided by this section.
 
-        (2) __Different treatment under state law of members and dependents prohibited.—__ 
+        (2)  __Different treatment under state law of members and dependents prohibited__  __.—__ 
 
         States shall not—
 
@@ -59,7 +59,7 @@
 
             (B) permit violation or waiver of any State consumer lending protections for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member’s or dependent’s domicile or permanent home of record.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
     It shall be unlawful for any creditor to extend consumer credit to a covered member or a dependent of such a member with respect to which—
 
@@ -79,25 +79,25 @@
 
     (f) __Penalties and Remedies.—__ 
 
-        (1) __Misdemeanor.—__ 
+        (1)  __Misdemeanor__  __.—__ 
 
         A creditor who knowingly violates this section shall be fined as provided in title 18, or imprisoned for not more than one year, or both.
 
-        (2) __Preservation of other remedies.—__ 
+        (2)  __Preservation of other remedies__  __.—__ 
 
         The remedies and rights provided under this section are in addition to and do not preclude any remedy otherwise available under law to the person claiming relief under this section, including any award for consequential and punitive damages.
 
-        (3) __Contract void.—__ 
+        (3)  __Contract void__  __.—__ 
 
         Any credit agreement, promissory note, or other contract prohibited under this section is void from the inception of such contract.
 
-        (4) __Arbitration.—__ 
+        (4)  __Arbitration__  __.—__ 
 
         Notwithstanding [section 2 of title 9][/us/usc/t9/s2], or any other Federal or State law, rule, or regulation, no agreement to arbitrate any dispute involving the extension of consumer credit shall be enforceable against any covered member or dependent of such a member, or any person who was a covered member or dependent of that member when the agreement was made.
 
         (5) __Civil liability.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             A person who violates this section with respect to any person is civilly liable to such person for—
 
@@ -109,19 +109,19 @@
 
                 (iv) any other relief provided by law.
 
-            (B) __Costs of the action.—__ 
+            (B)  __Costs of the action__  __.—__ 
 
             In any successful action to enforce the civil liability described in subparagraph (A), the person who violated this section is also liable for the costs of the action, together with reasonable attorney fees as determined by the court.
 
-            (C) __Effect of finding of bad faith and harassment.—__ 
+            (C)  __Effect of finding of bad faith and harassment__  __.—__ 
 
             In any successful action by a defendant under this section, if the court finds the action was brought in bad faith and for the purpose of harassment, the plaintiff is liable for the attorney fees of the defendant as determined by the court to be reasonable in relation to the work expended and costs incurred.
 
-            (D) __Defenses.—__ 
+            (D)  __Defenses__  __.—__ 
 
             A person may not be held liable for civil liability under this paragraph if the person shows by a preponderance of evidence that the violation was not intentional and resulted from a bona fide error notwithstanding the maintenance of procedures reasonably adapted to avoid any such error. Examples of a bona fide error include clerical, calculation, computer malfunction and programming, and printing errors, except that an error of legal judgment with respect to a person’s obligations under this section is not a bona fide error.
 
-            (E) __Jurisdiction, venue, and statute of limitations.—__ 
+            (E)  __Jurisdiction, venue, and statute of limitations__  __.—__ 
 
             An action for civil liability under this paragraph may be brought in any appropriate United States district court, without regard to the amount in controversy, or in any other court of competent jurisdiction, not later than the earlier of—
 
@@ -129,15 +129,15 @@
 
                 (ii) five years after the date on which the violation that is the basis for such liability occurs.
 
-        (6) __Administrative enforcement.—__ 
+        (6)  __Administrative enforcement__  __.—__ 
 
         The provisions of this section (other than paragraph (1) of this subsection) shall be enforced by the agencies specified in section 108 of the Truth in Lending Act ([15 U.S.C. 1607][/us/usc/t15/s1607]) in the manner set forth in that section or under any other applicable authorities available to such agencies by law.
 
-    (g) __Servicemembers Civil Relief Act Protections Unaffected.—__ 
+    (g)  __Servicemembers Civil Relief Act Protections Unaffected__  __.—__ 
 
     Nothing in this section may be construed to limit or otherwise affect the applicability of section 207 of the Servicemembers Civil Relief Act (50 U.S.C. App. 527).
 
-    (h) __Regulations.—__ 
+    (h)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations to carry out this section.
 
@@ -173,11 +173,11 @@
 
             (G) The Treasury Department.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Covered member.—__ 
+        (1)  __Covered member__  __.—__ 
 
         The term “covered member” means a member of the armed forces who is—
 
@@ -185,19 +185,19 @@
 
             (B) on active Guard and Reserve Duty.
 
-        (2) __Dependent.—__ 
+        (2)  __Dependent__  __.—__ 
 
         The term “dependent”, with respect to a covered member, means a person described in subparagraph (A), (D), (E), or (I) of [section 1072(2) of this title][/us/usc/t10/s1072/2].
 
-        (3) __Interest.—__ 
+        (3)  __Interest__  __.—__ 
 
         The term “interest” includes all cost elements associated with the extension of credit, including fees, service charges, renewal charges, credit insurance premiums, any ancillary product sold with any extension of credit to a servicemember or the servicemember’s dependent, as applicable, and any other charge or premium with respect to the extension of consumer credit.
 
-        (4) __Annual percentage rate.—__ 
+        (4)  __Annual percentage rate__  __.—__ 
 
         The term “annual percentage rate” has the same meaning as in section 107 of the Truth and Lending Act ([15 U.S.C. 1606][/us/usc/t15/s1606]), as implemented by regulations of the Board of Governors of the Federal Reserve System. For purposes of this section, such term includes all fees and charges, including charges and fees for single premium credit insurance and other ancillary products sold in connection with the credit transaction, and such fees and charges shall be included in the calculation of the annual percentage rate.
 
-        (5) __Creditor.—__ 
+        (5)  __Creditor__  __.—__ 
 
         The term “creditor” means a person—
 
@@ -211,7 +211,7 @@
 
             (B) who is an assignee of a person described in subparagraph (A) with respect to any consumer credit extended.
 
-        (6) __Consumer credit.—__ 
+        (6)  __Consumer credit__  __.—__ 
 
         The term “consumer credit” has the meaning provided for such term in regulations prescribed under this section, except that such term does not include (A) a residential mortgage, or (B) a loan procured in the course of purchasing a car or other personal property, when that loan is offered for the express purpose of financing the purchase and is secured by the car or personal property procured.
 
@@ -251,11 +251,11 @@
 
 [Pub. L. 112–239, div. A, title VI, § 661(c)][/us/pl/112/239/s661/c], Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], provided that:
 
->     “(1) __Modification of regulations.—__ 
+>     “(1)  __Modification of regulations__  __.—__ 
 
 >     The Secretary of Defense shall modify the regulations prescribed under subsection (h) of [section 987 of title 10][/us/usc/t10/s987], United States Code, to take into account the amendments made by subsection (a) \[amending this section\].
 
->     “(2) __Effective date.—__ 
+>     “(2)  __Effective date__  __.—__ 
 
 >     The amendments made by subsection (a) shall take effect on—
 
@@ -263,7 +263,7 @@
 
 >         “(B) such earlier date as the Secretary shall specify in the modification of regulations required by paragraph (1).
 
->     “(3) __Publication of earlier date.—__ 
+>     “(3)  __Publication of earlier date__  __.—__ 
 
 >     If the Secretary specifies an earlier effective date for the amendments made by subsection (a) pursuant to paragraph (2)(B), the Secretary shall publish notice of such earlier effective date in the Federal Register not later than 90 days before such earlier effective date.”
 
@@ -275,15 +275,15 @@
 
 [Pub. L. 109–364, div. A, title VI, § 670(c)][/us/pl/109/364/s670/c], Oct. 17, 2006, [120 Stat. 2269][/us/stat/120/2269], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), [section 987 of title 10][/us/usc/t10/s987], United States Code, as added by subsection (a), shall take effect on October 1, 2007, or on such earlier date as may be prescribed by the Secretary of Defense, and shall apply with respect to extensions of consumer credit on or after such effective date.
 
->     “(2) __Authority to prescribe regulations.—__ 
+>     “(2)  __Authority to prescribe regulations__  __.—__ 
 
 >     Subsection (h) of such section shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\].
 
->     “(3) __Publication of earlier effective date.—__ 
+>     “(3)  __Publication of earlier effective date__  __.—__ 
 
 >     If the Secretary of Defense prescribes an effective date for [section 987 of title 10][/us/usc/t10/s987], United States Code, as added by subsection (a), earlier than October 1, 2007, the Secretary shall publish that date in the Federal Register. Such publication shall be made not less than 90 days before that earlier effective date.”
 

@@ -15,11 +15,11 @@
 
 ## § 12771. Reserve officers: grade on transfer to Retired Reserve
 
-    (a) __Grade on Transfer.—__ 
+    (a)  __Grade on Transfer__  __.—__ 
 
     Unless entitled to a higher grade under another provision of law, a reserve commissioned officer, other than a commissioned warrant officer, who is transferred to the Retired Reserve is entitled to be placed on the retired list established by [section 12774(a) of this title][/us/usc/t10/s12774/a] in the highest grade in which he served satisfactorily, as determined by the Secretary concerned and in accordance with section 1370(d), in the armed force in which he is serving on the date of transfer.
 
-    (b) __Effect of Subsequent Recall to Active Status.—__ 
+    (b)  __Effect of Subsequent Recall to Active Status__  __.—__ 
 
         (1) If a member of the Retired Reserve who is a commissioned officer is recalled to an active status in the Selected Reserve of the Ready Reserve under [section 10145(d) of this title][/us/usc/t10/s10145/d] and completes not less than two years of service in such active status, the member is entitled to an adjustment in the retired grade of the member in the manner provided in [section 1370(d) of this title][/us/usc/t10/s1370/d].
 

@@ -17,11 +17,11 @@
 
 ## “SEC. 10. REQUIRED DISCLOSURES REGARDING LIFE INSURANCE PRODUCTS.
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     Except as provided in subsection (e), no person may sell, or offer for sale, any life insurance product to any member of the Armed Forces or a dependent thereof on a military installation of the United States, unless a disclosure in accordance with this section is provided to such member or dependent at the time of the sale or offer.
 
->     “(b) __Disclosure.—__ 
+>     “(b)  __Disclosure__  __.—__ 
 
 >     A disclosure in accordance with this section is a written disclosure that—
 
@@ -39,11 +39,11 @@
 
 >         “(7) with respect to a sale or solicitation on Federal land or facilities located outside of the United States, lists the address and phone number at which consumer complaints are received by the State insurance commissioner for the State having the primary jurisdiction and duty to regulate the sale of such life insurance products pursuant to section 8.
 
->     “(c) __Voidability.—__ 
+>     “(c)  __Voidability__  __.—__ 
 
 >     The sale of a life insurance product in violation of this section shall be voidable from its inception, at the sole option of the member of the Armed Forces, or dependent thereof, as applicable, to whom the product was sold.
 
->     “(d) __Enforcement.—__ 
+>     “(d)  __Enforcement__  __.—__ 
 
 >     If it is determined by a Federal or State agency, or in a final court proceeding, that any person has intentionally violated, or willfully disregarded the provisions of, this section, in addition to any other penalty under applicable Federal or State law, such person shall be prohibited from further engaging in the business of insurance with respect to employees of the Federal Government on Federal land, except—
 
@@ -51,7 +51,7 @@
 
 >         “(2) to the extent required by the Federal Government pursuant to previous commitments.
 
->     “(e) __Exceptions.—__ 
+>     “(e)  __Exceptions__  __.—__ 
 
 >     This section shall not apply to any life insurance product specifically contracted by or through the Federal Government.
 

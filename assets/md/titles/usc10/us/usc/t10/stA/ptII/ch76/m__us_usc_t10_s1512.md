@@ -15,11 +15,11 @@
 
 ## § 1512. Effect on State law
 
-    (a) __Nonpreemption of State Authority.—__ 
+    (a)  __Nonpreemption of State Authority__  __.—__ 
 
     Nothing in this chapter shall be construed to invalidate or limit the power of any State court or administrative entity, or the power of any court or administrative entity of any political subdivision thereof, to find or declare a person dead for purposes of such State or political subdivision.
 
-    (b) __State Defined.—__ 
+    (b)  __State Defined__  __.—__ 
 
     In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 

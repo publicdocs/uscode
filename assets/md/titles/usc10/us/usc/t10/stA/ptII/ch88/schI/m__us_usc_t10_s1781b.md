@@ -15,11 +15,11 @@
 
 ## § 1781b. Department of Defense policy and plans for military family readiness
 
-    (a) __Policy and Plans Required.—__ 
+    (a)  __Policy and Plans Required__  __.—__ 
 
     The Secretary of Defense shall develop a policy and plans for the Department of Defense for the support of military family readiness.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of the policy and plans required under subsection (a) are as follows:
 
@@ -33,7 +33,7 @@
 
         (5) To ensure that the military family readiness programs and activities of the Department of Defense undergo continuous evaluation in order to ensure that resources are allocated and expended for such programs and activities to achieve Department-wide family readiness goals.
 
-    (c) __Elements of Policy.—__ 
+    (c)  __Elements of Policy__  __.—__ 
 
     The policy required under subsection (a) shall include the following elements:
 
@@ -47,7 +47,7 @@
 
         (5) A summary, by fiscal year, of the allocation of funds (including appropriated funds and nonappropriated funds) for major categories of military family readiness programs and activities of the Department of Defense, set forth for each of the military departments and for the Office of the Secretary of Defense.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
     Not later than March 1 each year, the Secretary of Defense shall submit to the congressional defense committees a report on the plans required under subsection (a) for the five-fiscal year period beginning with the fiscal year in which the report is submitted. Each report shall include the plans covered by the report and an assessment of the discharge by the Department of Defense of the previous plans submitted under this section.
 

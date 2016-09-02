@@ -15,7 +15,7 @@
 
 ## § 2383. Contractor performance of acquisition functions closely associated with inherently governmental functions
 
-    (a) __Limitation.—__ 
+    (a)  __Limitation__  __.—__ 
 
     The head of an agency may enter into a contract for the performance of acquisition functions closely associated with inherently governmental functions only if the contracting officer for the contract ensures that—
 
@@ -31,7 +31,7 @@
 
         (3) the agency addresses any potential organizational conflict of interest of the contractor in the performance of the functions under the contract, consistent with subpart 9.5 of part 9 of the Federal Acquisition Regulation and the best interests of the Department of Defense.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section:
 

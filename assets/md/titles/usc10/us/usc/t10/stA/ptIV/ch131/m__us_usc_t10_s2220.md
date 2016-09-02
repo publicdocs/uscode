@@ -15,11 +15,11 @@
 
 ## § 2220. Performance based management: acquisition programs
 
-    (a) __Establishment of Goals.—__ 
+    (a)  __Establishment of Goals__  __.—__ 
 
     The Secretary of Defense shall approve or define the cost, performance, and schedule goals for major defense acquisition programs of the Department of Defense and for each phase of the acquisition cycle of such programs.
 
-    (b) __Evaluation of Cost Goals.—__ 
+    (b)  __Evaluation of Cost Goals__  __.—__ 
 
     The Under Secretary of Defense (Comptroller) shall evaluate the cost goals proposed for each major defense acquisition program of the Department.
 
@@ -51,15 +51,15 @@
 
 [Pub. L. 105–261, div. A, title VIII, § 816][/us/pl/105/261/s816], Oct. 17, 1998, [112 Stat. 2088][/us/stat/112/2088], provided that:
 
->     “(a) __Designation of Pilot Programs.—__ 
+>     “(a)  __Designation of Pilot Programs__  __.—__ 
 
 >     The Secretary of Defense, acting through the Secretaries of the military departments, shall designate 10 acquisition programs of the military departments as pilot programs on program manager responsibility for product support.
 
->     “(b) __Responsibilities of Program Managers.—__ 
+>     “(b)  __Responsibilities of Program Managers__  __.—__ 
 
 >     The program manager for each acquisition program designated as a pilot program under this section shall have the responsibility for ensuring that the product support functions for the program are properly carried out over the entire life cycle of the program.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than February 1, 1999, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] a report on the pilot programs. The report shall contain the following:
 

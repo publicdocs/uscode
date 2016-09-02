@@ -15,7 +15,7 @@
 
 ## § 2668. Easements for rights-of-way
 
-    (a) __Authorized Types of Easements.—__ 
+    (a)  __Authorized Types of Easements__  __.—__ 
 
     If the Secretary of a military department finds that it will not be against the public interest, the Secretary may grant, upon such terms as the Secretary considers advisable, easements for rights-of-way over, in, and upon public lands permanently withdrawn or reserved for the use of that department, and other lands under the Secretary’s control for—
 
@@ -45,11 +45,11 @@
 
         (13) any other purpose that the Secretary considers advisable.
 
-    (b) __Limitation on Size of Easement.—__ 
+    (b)  __Limitation on Size of Easement__  __.—__ 
 
     No easement granted under this section may include more land than is necessary for the easement.
 
-    (c) __Termination.—__ 
+    (c)  __Termination__  __.—__ 
 
     The Secretary of the military department concerned may terminate all or part of any easement granted under this section for—
 
@@ -59,11 +59,11 @@
 
         (3) abandonment.
 
-    (d) __Notice to Department of the Interior.—__ 
+    (d)  __Notice to Department of the Interior__  __.—__ 
 
     Copies of instruments granting easements over public lands under this section shall be furnished to the Secretary of the Interior.
 
-    (e) __Disposition of Consideration.—__ 
+    (e)  __Disposition of Consideration__  __.—__ 
 
     Subsections (c) and (e) of [section 2667 of this title][/us/usc/t10/s2667] shall apply with respect to in-kind consideration and proceeds received by the Secretary of a military department in connection with an easement granted under this section in the same manner as such subsections apply to in-kind consideration and money rentals received pursuant to leases entered into by that Secretary under such section.
 

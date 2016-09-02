@@ -15,7 +15,7 @@
 
 ## § 2671. Military reservations and facilities: hunting, fishing, and trapping
 
-    (a) __General Requirements for Hunting, Fishing, and Trapping.—__ 
+    (a)  __General Requirements for Hunting, Fishing, and Trapping__  __.—__ 
 
     The Secretary of Defense shall, with respect to each military installation or facility under the jurisdiction of any military department in a State—
 
@@ -25,21 +25,21 @@
 
         (3) develop, subject to safety requirements and military security, and in cooperation with the Governor (or his designee) of the State in which the installation or facility is located, procedures under which designated fish and game or conservation officials of that State may, at such time and under such conditions as may be agreed upon, have full access to that installation or facility to effect measures for the management, conservation, and harvesting of fish and game resources.
 
-    (b) __Waiver Authority.—__ 
+    (b)  __Waiver Authority__  __.—__ 
 
         (1) The Secretary of Defense may waive or otherwise modify the fish and game laws of a State otherwise applicable under subsection (a)(1) to hunting, fishing, or trapping at a military installation or facility if the Secretary determines that the application of such laws to such hunting, fishing, or trapping without modification could result in undesirable consequences for public health or safety at the installation or facility. The authority to waive such laws includes the authority to extend, but not reduce, the specified season for certain hunting, fishing, or trapping. The Secretary may not waive the requirements under subsection (a)(2) regarding a license for such hunting, fishing, or trapping or any fee imposed by a State to obtain such a license.
 
         (2) If the Secretary determines that a waiver of fish and game laws of a State is appropriate under paragraph (1), the Secretary shall provide written notification to the appropriate State officials stating the reasons for, and extent of, the waiver. The notification shall be provided at least 30 days before implementation of the waiver.
 
-    (c) __Violations.—__ 
+    (c)  __Violations__  __.—__ 
 
     Whoever is guilty of an act or omission which violates a requirement prescribed under subsection (a)(1) or (2), which act or omission would be punishable if committed or omitted within the jurisdiction of the State in which the installation or facility is located, by the laws thereof in effect at the time of that act or omission, is guilty of a like offense and is subject to a like punishment.
 
-    (d) __Relation to Treaty Rights.—__ 
+    (d)  __Relation to Treaty Rights__  __.—__ 
 
     This section does not modify any rights granted by the treaty or otherwise to any Indian tribe or to the members thereof.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 

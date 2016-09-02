@@ -15,7 +15,7 @@
 
 ## § 151. Joint Chiefs of Staff: composition; functions
 
-    (a) __Composition.—__ 
+    (a)  __Composition__  __.—__ 
 
     There are in the Department of Defense the Joint Chiefs of Staff, headed by the Chairman of the Joint Chiefs of Staff. The Joint Chiefs of Staff consist of the following:
 
@@ -33,13 +33,13 @@
 
         (7) The Chief of the National Guard Bureau.
 
-    (b) __Function as Military Advisers.—__ 
+    (b)  __Function as Military Advisers__  __.—__ 
 
         (1) The Chairman of the Joint Chiefs of Staff is the principal military adviser to the President, the National Security Council, the Homeland Security Council, and the Secretary of Defense.
 
         (2) The other members of the Joint Chiefs of Staff are military advisers to the President, the National Security Council, the Homeland Security Council, and the Secretary of Defense as specified in subsections (d) and (e).
 
-    (c) __Consultation by Chairman.—__ 
+    (c)  __Consultation by Chairman__  __.—__ 
 
         (1)
 
@@ -51,21 +51,21 @@
 
         (2) Subject to subsection (d), in presenting advice with respect to any matter to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense, the Chairman shall, as he considers appropriate, inform the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense, as the case may be, of the range of military advice and opinion with respect to that matter.
 
-    (d) __Advice and Opinions of Members Other Than Chairman.—__ 
+    (d)  __Advice and Opinions of Members Other Than Chairman__  __.—__ 
 
         (1) A member of the Joint Chiefs of Staff (other than the Chairman) may submit to the Chairman advice or an opinion in disagreement with, or advice or an opinion in addition to, the advice presented by the Chairman to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense. If a member submits such advice or opinion, the Chairman shall present the advice or opinion of such member at the same time he presents his own advice to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense, as the case may be.
 
         (2) The Chairman shall establish procedures to ensure that the presentation of his own advice to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense is not unduly delayed by reason of the submission of the individual advice or opinion of another member of the Joint Chiefs of Staff.
 
-    (e) __Advice on Request.—__ 
+    (e)  __Advice on Request__  __.—__ 
 
     The members of the Joint Chiefs of Staff, individually or collectively, in their capacity as military advisers, shall provide advice to the President, the National Security Council, the Homeland Security Council, or the Secretary of Defense on a particular matter when the President, the National Security Council, the Homeland Security Council, or the Secretary requests such advice.
 
-    (f) __Recommendations to Congress.—__ 
+    (f)  __Recommendations to Congress__  __.—__ 
 
     After first informing the Secretary of Defense, a member of the Joint Chiefs of Staff may make such recommendations to Congress relating to the Department of Defense as he considers appropriate.
 
-    (g) __Meetings of JCS.—__ 
+    (g)  __Meetings of JCS__  __.—__ 
 
         (1) The Chairman shall convene regular meetings of the Joint Chiefs of Staff.
 

@@ -15,31 +15,31 @@
 
 ## § 6975. Acceptance of guarantees with gifts for major projects
 
-    (a) __Acceptance Authority.—__ 
+    (a)  __Acceptance Authority__  __.—__ 
 
     Subject to subsection (c), the Secretary of the Navy may accept from a donor or donors a qualified guarantee for the completion of a major project for the benefit of the Naval Academy.
 
-    (b) __Obligation Authority.—__ 
+    (b)  __Obligation Authority__  __.—__ 
 
     The amount of a qualified guarantee accepted under this section shall be considered as contract authority to provide obligation authority for purposes of Federal fiscal and contractual requirements. Funds available for a project for which such a guarantee has been accepted may be obligated and expended for the project without regard to whether the total amount of the funds and other resources available for the project (not taking into account the amount of the guarantee) is sufficient to pay for completion of the project.
 
-    (c) __Notice of Proposed Acceptance.—__ 
+    (c)  __Notice of Proposed Acceptance__  __.—__ 
 
     The Secretary of the Navy may not accept a qualified guarantee under this section for the completion of a major project until after the expiration of 30 days following the date upon which a report of the facts concerning the proposed guarantee is submitted to Congress or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (d) __Prohibition on Commingling of Funds.—__ 
+    (d)  __Prohibition on Commingling of Funds__  __.—__ 
 
     The Secretary of the Navy may not enter into any contract or other transaction involving the use of a qualified guarantee and appropriated funds in the same contract or transaction.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Major project.—__ 
+        (1)  __Major project__  __.—__ 
 
         The term “major project” means a project for the purchase or other procurement of real or personal property, or for the construction, renovation, or repair of real or personal property, the total cost of which is, or is estimated to be, at least $1,000,000.
 
-        (2) __Qualified guarantee.—__ 
+        (2)  __Qualified guarantee__  __.—__ 
 
         The term “qualified guarantee”, with respect to a major project, means a guarantee that—
 
@@ -57,7 +57,7 @@
 
                 (ii) a qualified account control agreement.
 
-        (3) __Qualified account control agreement.—__ 
+        (3)  __Qualified account control agreement__  __.—__ 
 
         The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Navy, and a major United States investment management firm that—
 
@@ -69,7 +69,7 @@
 
             (D) requires the investment management firm, at any time that the value of the account is less than the value required to be maintained under subparagraph (C), to liquidate any noncash assets in the account and reinvest the proceeds in Treasury bills issued under [section 3104 of title 31][/us/usc/t31/s3104].
 
-        (4) __Major united states commercial bank.—__ 
+        (4)  __Major united states commercial bank__  __.—__ 
 
         The term “major United States commercial bank” means a commercial bank that—
 
@@ -79,7 +79,7 @@
 
             (C) has net assets in a total amount considered by the Secretary of the Navy to qualify the bank as a major bank.
 
-        (5) __Major united states investment management firm.—__ 
+        (5)  __Major united states investment management firm__  __.—__ 
 
         The term “major United States investment management firm” means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 ([15 U.S.C. 78c][/us/usc/t15/s78c]) or section 202 of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2][/us/usc/t15/s80b–2])) or a major United States commercial bank that—
 

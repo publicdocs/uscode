@@ -15,19 +15,19 @@
 
 ## § 12603. Attendance at inactive-duty training assemblies: commercial travel at Federal supply schedule rates
 
-    (a) __Federal Supply Schedule Travel.—__ 
+    (a)  __Federal Supply Schedule Travel__  __.—__ 
 
     Commercial travel under Federal supply schedules is authorized for the travel of a Reserve to the location of inactive duty training to be performed by the Reserve and from that location upon completion of the training.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe in regulations such requirements, conditions, and restrictions for travel under the authority of subsection (a) as the Secretary considers appropriate. The regulations shall include policies and procedures for preventing abuses of that travel authority.
 
-    (c) __Reimbursement Not Authorized.—__ 
+    (c)  __Reimbursement Not Authorized__  __.—__ 
 
     A Reserve is not entitled to Government reimbursement for the cost of travel authorized under subsection (a).
 
-    (d) __Treatment of Transportation as Use by Military Departments.—__ 
+    (d)  __Treatment of Transportation as Use by Military Departments__  __.—__ 
 
     For the purposes of [section 501 of title 40][/us/usc/t40/s501], travel authorized under subsection (a) shall be treated as transportation for the use of a military department.
 

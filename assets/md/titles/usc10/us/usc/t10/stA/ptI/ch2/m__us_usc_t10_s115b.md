@@ -15,13 +15,13 @@
 
 ## § 115b. Biennial strategic workforce plan
 
-    (a) __Biennial Plan Required.—__ 
+    (a)  __Biennial Plan Required__  __.—__ 
 
         (1) The Secretary of Defense shall submit to the congressional defense committees in every even-numbered year a strategic workforce plan to shape and improve the civilian employee workforce of the Department of Defense.
 
         (2) The Under Secretary of Defense for Personnel and Readiness shall have overall responsibility for developing and implementing the strategic workforce plan, in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     Each strategic workforce plan under subsection (a) shall include, at a minimum, the following:
 
@@ -57,7 +57,7 @@
 
         (4) Any additional matters the Secretary of Defense considers necessary to address.
 
-    (c) __Senior Management, Functional, and Technical Workforce.—__ 
+    (c)  __Senior Management, Functional, and Technical Workforce__  __.—__ 
 
         (1) Each strategic workforce plan under subsection (a) shall include a separate chapter to specifically address the shaping and improvement of the senior management, functional, and technical workforce (including scientists and engineers) of the Department of Defense.
 
@@ -73,7 +73,7 @@
 
             (D) specific steps that the Department has taken or plans to take to ensure that such workforce is managed in compliance with the requirements of [section 129 of this title][/us/usc/t10/s129] and the policies and procedures established under [section 129a of this title][/us/usc/t10/s129a].
 
-    (d) __Defense Acquisition Workforce.—__ 
+    (d)  __Defense Acquisition Workforce__  __.—__ 
 
         (1) Each strategic workforce plan under subsection (a) shall include a separate chapter to specifically address the shaping and improvement of the defense acquisition workforce, including both military and civilian personnel.
 
@@ -95,7 +95,7 @@
 
                 (ii) a description of any continuing shortfalls in funding available for the acquisition workforce.
 
-    (e) __Financial Management Workforce.—__ 
+    (e)  __Financial Management Workforce__  __.—__ 
 
         (1) Each strategic workforce plan under subsection (a) shall include a separate chapter to specifically address the shaping and improvement of the financial management workforce of the Department of Defense, including both military and civilian personnel of that workforce.
 
@@ -111,11 +111,11 @@
 
             (D) a plan for funding needed improvements in the financial management workforce of the Department through the period of the current future-years defense program under [section 221 of this title][/us/usc/t10/s221], including a description of any continuing shortfalls in funding available for that workforce.
 
-    (f) __Submittals by Secretaries of the Military Departments and Heads of the Defense Agencies.—__ 
+    (f)  __Submittals by Secretaries of the Military Departments and Heads of the Defense Agencies__  __.—__ 
 
     The Secretary of Defense shall require the Secretary of each military department and the head of each Defense Agency to submit a report to the Secretary addressing each of the matters described in this section. The Secretary of Defense shall establish a deadline for the submittal of reports under this subsection that enables the Secretary to consider the material submitted in a timely manner and incorporate such material, as appropriate, into the strategic workforce plan required by this section.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

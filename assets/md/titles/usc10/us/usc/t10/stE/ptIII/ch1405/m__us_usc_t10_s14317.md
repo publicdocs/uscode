@@ -15,7 +15,7 @@
 
 ## § 14317. Officers in transition to and from the active-status list or active-duty list
 
-    (a) __Effect of Transfer to Inactive Status or Retired Status.—__ 
+    (a)  __Effect of Transfer to Inactive Status or Retired Status__  __.—__ 
 
     If a reserve officer on the reserve active-status list is transferred to an inactive status or to a retired status after having been recommended for promotion to a higher grade under this chapter or chapter 36 of this title, or after having been found qualified for Federal recognition in the higher grade under title 32, but before being promoted, the officer—
 
@@ -25,15 +25,15 @@
 
         unless the officer is again recommended for promotion by a selection board convened under chapter 36 of this title or section 14101(a) or 14502 of this title or examined for Federal recognition under title 32.
 
-    (b) __Effect of Placement on Active-Duty List.—__ 
+    (b)  __Effect of Placement on Active-Duty List__  __.—__ 
 
     A reserve officer who is on a promotion list as a result of selection for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under [section 14502 of this title][/us/usc/t10/s14502] and who before being promoted is placed on the active-duty list of the same armed force and placed in the same competitive category shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list for officers on the active-duty list established under chapter 36 of this title.
 
-    (c) __Officers on a Promotion List Removed From Active-Duty List.—__ 
+    (c)  __Officers on a Promotion List Removed From Active-Duty List__  __.—__ 
 
     An officer who is on the active-duty list and is on a promotion list as the result of selection for promotion by a selection board convened under chapter 36 of this title and who before being promoted is removed from the active-duty list and placed on the reserve active-status list of the same armed force and in the same competitive category (including a regular officer who on removal from the active-duty list is appointed as a reserve officer and placed on the reserve active-status list) shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list established under this chapter.
 
-    (d) __Officers Selected for Position Vacancies.—__ 
+    (d)  __Officers Selected for Position Vacancies__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
         (2) If, under this subsection, the name of an officer is removed from a list of officers recommended for promotion, the officer shall be treated as if the officer had not been considered for promotion or examined for Federal recognition.
 
-    (e) __Officers Ordered to Active Duty in Time of War or National Emergency.—__ 
+    (e)  __Officers Ordered to Active Duty in Time of War or National Emergency__  __.—__ 
 
         (1)
 

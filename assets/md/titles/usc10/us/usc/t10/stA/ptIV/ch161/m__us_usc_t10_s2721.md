@@ -105,13 +105,13 @@ July 26, 1947, ch. 343, § 410; added Aug. 10, 1949, ch. 412, § 11(410), 63
 
 [Pub. L. 100–456, div. A, title III, § 343][/us/pl/100/456/s343], Sept. 29, 1988, [102 Stat. 1961][/us/stat/102/1961], provided that:
 
->     “(a) __Undercover Investigations.—__ 
+>     “(a)  __Undercover Investigations__  __.—__ 
 
 >         (1) Congress finds that the use of undercover investigative techniques by the Department of Defense enhances the ability of the Department of Defense to detect and investigate theft of Government property (including munitions) from the Department of Defense supply system.
 
 >         “(2) The Secretary of Defense is urged to continue to conduct undercover investigations to detect and investigate thefts referred to in paragraph (1).
 
->     “(b) __Inventory Security Incident Repository.—__ 
+>     “(b)  __Inventory Security Incident Repository__  __.—__ 
 
 >     The Secretary of Defense shall establish and maintain a centralized computer system for recording and organizing information on theft, fraud, and breach of security and incidents involving the loss of Department of Defense supplies (including munitions).”
 

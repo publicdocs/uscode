@@ -15,7 +15,7 @@
 
 ## § 1565b. Victims of sexual assault: access to legal assistance and services of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates
 
-    (a) __Availability of Legal Assistance and Victim Advocate Services.—__ 
+    (a)  __Availability of Legal Assistance and Victim Advocate Services__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (3) Legal assistance and the services of Sexual Assault Response Coordinators and Sexual Assault Victim Advocates under paragraph (1) shall be available to a member or dependent regardless of whether the member or dependent elects unrestricted or restricted (confidential) reporting of the sexual assault.
 
-    (b) __Restricted Reporting.—__ 
+    (b)  __Restricted Reporting__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary of Defense, a member of the armed forces, or a dependent of a member, who is the victim of a sexual assault may elect to confidentially disclose the details of the assault to an individual specified in paragraph (2) and receive medical treatment, legal assistance under [section 1044 of this title][/us/usc/t10/s1044], or counseling, without initiating an official investigation of the allegations.
 

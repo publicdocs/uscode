@@ -15,15 +15,15 @@
 
 ## § 9021. Air University: civilian faculty members
 
-    (a) __Authority of Secretary.—__ 
+    (a)  __Authority of Secretary__  __.—__ 
 
     The Secretary of the Air Force may employ as many civilians as professors, instructors, and lecturers at a school of the Air University as the Secretary considers necessary.
 
-    (b) __Compensation of Faculty Members.—__ 
+    (b)  __Compensation of Faculty Members__  __.—__ 
 
     The compensation of persons employed under this section shall be as prescribed by the Secretary.
 
-    (c) __Application to Certain Faculty Members.—__ 
+    (c)  __Application to Certain Faculty Members__  __.—__ 
 
         (1) Except as provided in paragraph (2), this section shall apply with respect to persons who are selected by the Secretary for employment as professors, instructors, and lecturers at a school of the Air University after February 27, 1990.
 

@@ -15,7 +15,7 @@
 
 ## § 2702. Research, development, and demonstration program
 
-    (a) __Program.—__ 
+    (a)  __Program__  __.—__ 
 
     As part of the Defense Environmental Restoration Program, the Secretary of Defense shall carry out a program of research, development, and demonstration with respect to hazardous wastes. The program shall be carried out in consultation and cooperation with the Administrator and the advisory council established under section 311(a)(5) of CERCLA ([42 U.S.C. 9660(a)(5)][/us/usc/t42/s9660/a/5]). The program shall include research, development, and demonstration with respect to each of the following:
 
@@ -29,21 +29,21 @@
 
         (5) The testing, evaluation, and field demonstration of any innovative technology, processes, equipment, or related training devices which may contribute to establishment of new methods to control, contain, and treat hazardous substances, to be carried out in consultation and cooperation with, and to the extent possible in the same manner and standards as, testing, evaluation, and field demonstration carried out by the Administrator, acting through the office of technology demonstration of the Environmental Protection Agency.
 
-    (b) __Special Permit.—__ 
+    (b)  __Special Permit__  __.—__ 
 
     The Administrator may use the authorities of section 3005(g) of the Solid Waste Disposal Act ([42 U.S.C. 6925(g)][/us/usc/t42/s6925/g]) to issue a permit for testing and evaluation which receives support under this section.
 
-    (c) __Contracts and Grants.—__ 
+    (c)  __Contracts and Grants__  __.—__ 
 
     The Secretary may enter into contracts and cooperative agreements with, and make grants to, universities, public and private profit and nonprofit entities, and other persons to carry out the research, development, and demonstration authorized under this section. Such contracts may be entered into only to the extent that appropriated funds are available for that purpose.
 
     (d) __Information Collection and Dissemination.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary shall develop, collect, evaluate, and disseminate information related to the use (or potential use) of the treatment, disposal, and management technologies that are researched, developed, and demonstrated under this section.
 
-        (2) __Role of epa.—__ 
+        (2)  __Role of epa__  __.—__ 
 
         The functions of the Secretary under paragraph (1) shall be carried out in cooperation and consultation with the Administrator. To the extent appropriate and agreed upon by the Administrator and the Secretary, the Administrator shall evaluate and disseminate such information through the office of technology demonstration of the Environmental Protection Agency.
 

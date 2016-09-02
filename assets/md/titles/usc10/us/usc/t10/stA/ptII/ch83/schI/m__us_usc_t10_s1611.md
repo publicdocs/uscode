@@ -15,7 +15,7 @@
 
 ## § 1611. Postemployment assistance: certain terminated intelligence employees
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Subject to subsection (c), the Secretary of Defense may, in the case of any individual who is a qualified former intelligence employee, use appropriated funds—
 
@@ -25,7 +25,7 @@
 
         (3) to provide financial support to that individual during periods of unemployment.
 
-    (b) __Qualified Former Intelligence Employees.—__ 
+    (b)  __Qualified Former Intelligence Employees__  __.—__ 
 
     For purposes of this section, a qualified former intelligence employee is an individual who was employed as a civilian employee of the Department of Defense in a sensitive defense intelligence position—
 
@@ -33,7 +33,7 @@
 
         (2) whose employment in a defense intelligence position has been terminated.
 
-    (c) __Conditions.—__ 
+    (c)  __Conditions__  __.—__ 
 
     Assistance may be provided to a qualified former intelligence employee under subsection (a) only if the Secretary determines that such assistance is essential to—
 
@@ -41,7 +41,7 @@
 
         (2) avoid circumstances that might lead to the unlawful disclosure of classified information to which the qualified former intelligence employee had access.
 
-    (d) __Duration of Assistance.—__ 
+    (d)  __Duration of Assistance__  __.—__ 
 
     Assistance may not be provided under this section in the case of any individual after the end of the five-year period beginning on the date of the termination of the employment of the individual in a defense intelligence position.
 

@@ -15,11 +15,11 @@
 
 ## § 2681. Use of test and evaluation installations by commercial entities
 
-    (a) __Contract Authority.—__ 
+    (a)  __Contract Authority__  __.—__ 
 
     The Secretary of Defense may enter into contracts with commercial entities that desire to conduct commercial test and evaluation activities at a Major Range and Test Facility Installation.
 
-    (b) __Termination or Limitation of Contract Under Certain Circumstances.—__ 
+    (b)  __Termination or Limitation of Contract Under Certain Circumstances__  __.—__ 
 
     A contract entered into under subsection (a) shall contain a provision that the Secretary of Defense may terminate, prohibit, or suspend immediately any commercial test or evaluation activity to be conducted at the Major Range and Test Facility Installation under the contract if the Secretary of Defense certifies in writing that the test or evaluation activity is or would be detrimental—
 
@@ -29,19 +29,19 @@
 
         (3) to any national security interest or foreign policy interest of the United States.
 
-    (c) __Contract Price.—__ 
+    (c)  __Contract Price__  __.—__ 
 
     A contract entered into under subsection (a) shall include a provision that requires a commercial entity using a Major Range and Test Facility Installation under the contract to reimburse the Department of Defense for all direct costs to the United States that are associated with the test and evaluation activities conducted by the commercial entity under the contract. In addition, the contract may include a provision that requires the commercial entity to reimburse the Department of Defense for such indirect costs related to the use of the installation as the Secretary of Defense considers to be appropriate. The Secretary may delegate to the commander of the Major Range and Test Facility Installation the authority to determine the appropriateness of the amount of indirect costs included in such a contract provision.
 
-    (d) __Retention of Funds Collected From Commercial Users.—__ 
+    (d)  __Retention of Funds Collected From Commercial Users__  __.—__ 
 
     Amounts collected under subsection (c) from a commercial entity conducting test and evaluation activities at a Major Range and Test Facility Installation shall be credited to the appropriation accounts under which the costs associated with the test and evaluation activities of the commercial entity were incurred.
 
-    (e) __Regulations and Limitations.—__ 
+    (e)  __Regulations and Limitations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

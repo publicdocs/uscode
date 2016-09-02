@@ -15,11 +15,11 @@
 
 ## § 2484. Commissary stores: merchandise that may be sold; uniform surcharges and pricing
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     As provided in [section 2481(a) of this title][/us/usc/t10/s2481/a], commissary stores are intended to be similar to commercial grocery stores and may sell merchandise similar to that sold in commercial grocery stores.
 
-    (b) __Authorized Commissary Merchandise Categories.—__ 
+    (b)  __Authorized Commissary Merchandise Categories__  __.—__ 
 
     Merchandise sold in, at, or by commissary stores may include items in the following categories:
 
@@ -43,7 +43,7 @@
 
         (10) Magazines and periodicals.
 
-    (c) __Inclusion of Other Merchandise Items.—__ 
+    (c)  __Inclusion of Other Merchandise Items__  __.—__ 
 
         (1) The Secretary of Defense may authorize the sale in, at, or by commissary stores of merchandise not covered by a category specified in subsection (b). The Secretary shall notify Congress of all merchandise authorized for sale pursuant to this paragraph, as well as the removal of any such authorization.
 
@@ -55,11 +55,11 @@
 
             (B) When a military exchange is the vendor of tobacco products or other merchandise authorized for sale in a commissary store under paragraph (1), any revenue above the cost of procuring the merchandise shall be allocated as if the revenue were a uniform sales price surcharge described in subsection (d).
 
-    (d) __Uniform Sales Price Surcharge.—__ 
+    (d)  __Uniform Sales Price Surcharge__  __.—__ 
 
     The Secretary of Defense shall apply a uniform surcharge equal to five percent on the sales prices established under subsection (e) for each item of merchandise sold in, at, or by commissary stores.
 
-    (e) __Sales Price Establishment.—__ 
+    (e)  __Sales Price Establishment__  __.—__ 
 
         (1) The Secretary of Defense shall establish the sales price of each item of merchandise sold in, at, or by commissary stores at the level that will recoup the actual product cost of the item.
 
@@ -73,17 +73,17 @@
 
             (B) The actual or estimated cost of shrinkage, spoilage, and pilferage of merchandise under the control of commissary stores.
 
-    (f) __Special Rule for Brand-Name Commercial Items.—__ 
+    (f)  __Special Rule for Brand-Name Commercial Items__  __.—__ 
 
     The Secretary of Defense may not use the exception provided in [section 2304(c)(5) of this title][/us/usc/t10/s2304/c/5] regarding the procurement of a brand-name commercial item for resale in, at, or by commissary stores unless the commercial item is regularly sold outside of commissary stores under the same brand name as the name by which the commercial item will be sold in, at, or by commissary stores. In determining whether a brand name commercial item is regularly sold outside of commissary stores, the Secretary shall consider only sales of the item on a regional or national basis by commercial grocery or other retail operations consisting of multiple stores.
 
-    (g) __Special Rules for Certain Merchandise.—__ 
+    (g)  __Special Rules for Certain Merchandise__  __.—__ 
 
         (1) Notwithstanding the general requirement that merchandise sold in, at, or by commissary stores be commissary store inventory, the Secretary of Defense may authorize the sale of tobacco products as noncommissary store inventory. Except as provided in paragraph (2), subsections (d) and (e) shall not apply to the pricing of such merchandise items.
 
         (2) When tobacco products are authorized for sale in a commissary store as noncommissary store inventory, any revenue above the cost of procuring the tobacco products shall be allocated as if the revenue were a uniform sales price surcharge described in subsection (d).
 
-    (h) __Use of Surcharge for Construction, Repair, Improvement, and Maintenance.—__ 
+    (h)  __Use of Surcharge for Construction, Repair, Improvement, and Maintenance__  __.—__ 
 
         (1)
 

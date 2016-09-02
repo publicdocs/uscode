@@ -15,7 +15,7 @@
 
 ## § 2366a. Major defense acquisition programs: certification required before Milestone A approval
 
-    (a) __Certification.—__ 
+    (a)  __Certification__  __.—__ 
 
     A major defense acquisition program may not receive Milestone A approval or otherwise be initiated prior to Milestone B approval until the Milestone Decision Authority certifies, after consultation with the Joint Requirements Oversight Council on matters related to program requirements and military needs—
 
@@ -31,7 +31,7 @@
 
         (6) that a cost estimate for the program has been submitted, with the concurrence of the Director of Cost Assessment and Program Evaluation, and that the level of resources required to develop, procure, and sustain the program is consistent with the priority level assigned by the Joint Requirements Oversight Council.
 
-    (b) __Notification.—__ 
+    (b)  __Notification__  __.—__ 
 
         (1) With respect to a major defense acquisition program certified by the Milestone Decision Authority under subsection (a) or a designated major subprogram of such program, if the projected cost of the program or subprogram, at any time prior to Milestone B approval, exceeds the cost estimate for the program submitted at the time of the certification by at least 25 percent, or the program manager determines that the period of time required for the delivery of an initial operational capability is likely to exceed the schedule objective established pursuant to [section 181(b)(5) of this title][/us/usc/t10/s181/b/5] by more than 25 percent, the program manager for the program concerned shall notify the Milestone Decision Authority. The Milestone Decision Authority, in consultation with the Joint Requirements Oversight Council on matters related to program requirements and military needs, shall determine whether the level of resources required to develop and procure the program remains consistent with the priority level assigned by the Joint Requirements Oversight Council. The Milestone Decision Authority may withdraw the certification concerned or rescind Milestone A approval if the Milestone Decision Authority determines that such action is in the interest of national defense.
 
@@ -61,7 +61,7 @@
 
                 (ii) A plan for terminating the development of the program or withdrawal of Milestone A approval if the Milestone Decision Authority determines that such action is in the interest of national defense.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

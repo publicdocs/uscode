@@ -15,7 +15,7 @@
 
 ## § 2562. Limitation on use of excess construction or fire equipment from Department of Defense stocks in foreign assistance or military sales programs
 
-    (a) __Limitation.—__ 
+    (a)  __Limitation__  __.—__ 
 
     Excess construction or fire equipment from the stocks of the Department of Defense may be transferred to any foreign country or international organization pursuant to part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2301][/us/usc/t22/s2301] et seq.) or section 21 of the Arms Export Control Act ([22 U.S.C. 2761][/us/usc/t22/s2761]) only if—
 
@@ -23,11 +23,11 @@
 
         (2) the President determines that the transfer is necessary in order to respond to an emergency for which the equipment is especially suited.
 
-    (b) __Rule of Construction.—__ 
+    (b)  __Rule of Construction__  __.—__ 
 
     Nothing in subsection (a) shall be construed to limit the authority to transfer construction or fire equipment under [section 2557 of this title][/us/usc/t10/s2557].
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “construction or fire equipment” includes tractors, scrapers, loaders, graders, bulldozers, dump trucks, generators, pumpers, fuel and water tankers, crash trucks, utility vans, rescue trucks, ambulances, hook and ladder units, compressors, and miscellaneous fire fighting equipment.
 

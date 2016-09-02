@@ -15,11 +15,11 @@
 
 ## § 1612. Merit system principles and civil service protections: applicability
 
-    (a) __Applicability of Merit System Principles.—__ 
+    (a)  __Applicability of Merit System Principles__  __.—__ 
 
     [Section 2301 of title 5][/us/usc/t5/s2301] shall apply to the exercise of authority under this subchapter (other than sections 1605 and 1611).
 
-    (b) __Civil Service Protections.—__ 
+    (b)  __Civil Service Protections__  __.—__ 
 
         (1) If, in the case of a position established under authority other than [section 1601(a)(1) of this title][/us/usc/t10/s1601/a/1] that is reestablished as an excepted service position under that section, the provisions of law referred to in paragraph (2) applied to the person serving in that position immediately before the position is so reestablished and such provisions of law would not otherwise apply to the person while serving in the position as so reestablished, then such provisions of law shall, subject to paragraph (3), continue to apply to the person with respect to service in that position for as long as the person continues to serve in the position without a break in service.
 

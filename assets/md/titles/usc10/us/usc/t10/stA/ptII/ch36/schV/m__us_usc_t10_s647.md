@@ -15,7 +15,7 @@
 
 ## § 647. Force shaping authority
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary concerned may, solely for the purpose of restructuring an armed force under the jurisdiction of that Secretary—
 
@@ -23,7 +23,7 @@
 
         (2) transfer such an officer from the active-duty list of that armed force to the reserve active-status list of a reserve component of that armed force.
 
-    (b) __Covered Officers.—__ 
+    (b)  __Covered Officers__  __.—__ 
 
         (1)
 
@@ -35,11 +35,11 @@
 
         (2) In this subsection, the term “minimum service obligation” means the initial period of required active duty service together with any additional period of required active duty service incurred during the initial period of required active duty service.
 
-    (c) __Appointment of Transferred Officers.—__ 
+    (c)  __Appointment of Transferred Officers__  __.—__ 
 
     An officer of the Regular Army, Regular Air Force, Regular Navy, or Regular Marine Corps who is transferred to a reserve active-status list under this section shall be discharged from the regular component concerned and appointed as a reserve commissioned officer under [section 12203 of this title][/us/usc/t10/s12203].
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary concerned shall prescribe regulations for the exercise of the Secretary’s authority under this section.
 

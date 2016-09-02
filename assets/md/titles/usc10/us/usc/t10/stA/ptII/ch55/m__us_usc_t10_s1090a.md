@@ -15,11 +15,11 @@
 
 ## § 1090a. Commanding officer and supervisor referrals of members for mental health evaluations
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe and maintain regulations relating to commanding officer and supervisor referrals of members of the armed forces for mental health evaluations. The regulations shall incorporate the requirements set forth in subsections (b), (c), and (d) and such other matters as the Secretary considers appropriate.
 
-    (b) __Reduction of Perceived Stigma.—__ 
+    (b)  __Reduction of Perceived Stigma__  __.—__ 
 
     The regulations required by subsection (a) shall, to the greatest extent possible—
 
@@ -27,7 +27,7 @@
 
         (2) clarify the appropriate action to be taken by commanders or supervisory personnel who, in good faith, believe that a subordinate may require a mental health evaluation.
 
-    (c) __Procedures for Inpatient Evaluations.—__ 
+    (c)  __Procedures for Inpatient Evaluations__  __.—__ 
 
     The regulations required by subsection (a) shall provide that, when a commander or supervisor determines that it is necessary to refer a member of the armed forces for a mental health evaluation—
 
@@ -35,11 +35,11 @@
 
         (2) only a psychiatrist, or, in cases in which a psychiatrist is not available, another mental health professional or a physician, may admit the member pursuant to the referral for a mental health evaluation to be conducted on an inpatient basis.
 
-    (d) __Prohibition on Use of Referrals for Mental Health Evaluations to Retaliate Against Whistleblowers.—__ 
+    (d)  __Prohibition on Use of Referrals for Mental Health Evaluations to Retaliate Against Whistleblowers__  __.—__ 
 
     The regulations required by subsection (a) shall provide that no person may refer a member of the armed forces for a mental health evaluation as a reprisal for making or preparing a lawful communication of the type described in [section 1034(c)(2) of this title][/us/usc/t10/s1034/c/2], and applicable regulations. For purposes of this subsection, such communication shall also include a communication to any appropriate authority in the chain of command of the member.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

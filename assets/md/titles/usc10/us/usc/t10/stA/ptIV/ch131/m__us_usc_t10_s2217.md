@@ -15,7 +15,7 @@
 
 ## § 2217. Comparable budgeting for common procurement weapon systems
 
-    (a) __Matters To Be Included in Annual Defense Budgets.—__ 
+    (a)  __Matters To Be Included in Annual Defense Budgets__  __.—__ 
 
     In preparing the defense budget for any fiscal year, the Secretary of Defense shall—
 
@@ -25,11 +25,11 @@
 
         (3) identify and justify in the budget all such variations in procurement unit costs for common procurement weapon systems.
 
-    (b) __Comptroller.—__ 
+    (b)  __Comptroller__  __.—__ 
 
     The Secretary shall carry out this section through the Under Secretary of Defense (Comptroller).
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

@@ -15,7 +15,7 @@
 
 ## § 9446. Miscellaneous personnel authorities
 
-    (a) __Use of Retired Air Force Personnel.—__ 
+    (a)  __Use of Retired Air Force Personnel__  __.—__ 
 
         (1) Upon the request of a person retired from service in the Air Force, the Secretary of the Air Force may enter into a personal services contract with that person providing for the person to serve as an administrator or liaison officer for the Civil Air Patrol. The qualifications of a person to provide the services shall be determined and approved in accordance with regulations prescribed under [section 9448 of this title][/us/usc/t10/s9448].
 
@@ -23,7 +23,7 @@
 
         (3) A person, while providing services under a contract authorized under paragraph (1), may not be considered to be on active duty or inactive-duty training for any purpose.
 
-    (b) __Use of Civil Air Patrol Chaplains.—__ 
+    (b)  __Use of Civil Air Patrol Chaplains__  __.—__ 
 
     The Secretary of the Air Force may use the services of Civil Air Patrol chaplains in support of the Air Force active duty and reserve component forces to the extent and under conditions that the Secretary determines appropriate.
 

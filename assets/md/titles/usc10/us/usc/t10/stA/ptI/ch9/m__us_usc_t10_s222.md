@@ -15,15 +15,15 @@
 
 ## § 222. Future-years mission budget
 
-    (a) __Future-Years Mission Budget.—__ 
+    (a)  __Future-Years Mission Budget__  __.—__ 
 
     The Secretary of Defense shall submit to Congress for each fiscal year a future-years mission budget for the military programs of the Department of Defense. That budget shall be submitted for any fiscal year with the future-years defense program submitted under [section 221 of this title][/us/usc/t10/s221].
 
-    (b) __Consistency With Future-Years Defense Program.—__ 
+    (b)  __Consistency With Future-Years Defense Program__  __.—__ 
 
     The future-years mission budget shall be consistent with the future-years defense program required under [section 221 of this title][/us/usc/t10/s221]. In the future-years mission budget, the military programs of the Department of Defense shall be organized on the basis of both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to [section 118b of this title][/us/usc/t10/s118b].
 
-    (c) __Relationship to Other Defense Budget Formats.—__ 
+    (c)  __Relationship to Other Defense Budget Formats__  __.—__ 
 
     The requirement in subsection (a) is in addition to the requirements in any other provision of law regarding the format for the presentation regarding military programs of the Department of Defense in the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for any fiscal year.
 

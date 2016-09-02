@@ -15,13 +15,13 @@
 
 ## § 1073. Administration of this chapter
 
-    (a) __Responsible Officials.—__ 
+    (a)  __Responsible Officials__  __.—__ 
 
         (1) Except as otherwise provided in this chapter, the Secretary of Defense shall administer this chapter for the armed forces under his jurisdiction, the Secretary of Homeland Security shall administer this chapter for the Coast Guard when the Coast Guard is not operating as a service in the Navy, and the Secretary of Health and Human Services shall administer this chapter for the National Oceanic and Atmospheric Administration and the Public Health Service. This chapter shall be administered consistent with the Assisted Suicide Funding Restriction Act of 1997 ([42 U.S.C. 14401][/us/usc/t42/s14401] et seq.).
 
         (2) Except as otherwise provided in this chapter, the Secretary of Defense shall have responsibility for administering the TRICARE program and making any decision affecting such program.
 
-    (b) __Stability in Program of Benefits.—__ 
+    (b)  __Stability in Program of Benefits__  __.—__ 
 
     The Secretary of Defense shall, to the maximum extent practicable, provide a stable program of benefits under this chapter throughout each fiscal year. To achieve the stability in the case of managed care support contracts entered into under this chapter, the contracts shall be administered so as to implement all changes in benefits and administration on a quarterly basis. However, the Secretary of Defense may implement any such change prior to the next fiscal quarter if the Secretary determines that the change would significantly improve the provision of care to eligible beneficiaries under this chapter.
 
@@ -125,11 +125,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 111–84, div. A, title VII, § 713][/us/pl/111/84/s713], Oct. 28, 2009, [123 Stat. 2380][/us/stat/123/2380], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Defense may establish cooperative health care agreements between military installations and local or regional health care systems.
 
->     “(b) __Requirements.—__ 
+>     “(b)  __Requirements__  __.—__ 
 
 >     In establishing an agreement under subsection (a), the Secretary shall—
 
@@ -149,7 +149,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(4) determine the opportunities for and barriers to coordinating and leveraging the use of existing health care resources, including such resources of Federal, State, local, and private entities.
 
->     “(c) __Annual Reports.—__ 
+>     “(c)  __Annual Reports__  __.—__ 
 
 >     Not later than December 31 of each year an agreement entered into under this section is in effect, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on each such agreement. Each report shall include, at a minimum, the following:
 
@@ -159,7 +159,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(3) A recommendation for continuing or ending the agreement.
 
->     “(d) __Rule of Construction.—__ 
+>     “(d)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed as authorizing the provision of health care services at military medical treatment facilities or other facilities of the Department of Defense to individuals who are not otherwise entitled or eligible for such services under chapter 55 of title 10, United States Code.”
 
@@ -175,7 +175,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >     “(a) __Requirement for Surveys.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall conduct surveys of health care providers and beneficiaries who use TRICARE in the United States to determine, utilizing a reconciliation of the responses of providers and beneficiaries to such surveys, each of the following:
 
@@ -185,11 +185,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(C) The availability of mental health care providers in TRICARE Prime service areas selected under paragraph (3)(C) and in geographic areas in which TRICARE Prime is not offered.
 
->         “(2) __Benchmarks.—__ 
+>         “(2)  __Benchmarks__  __.—__ 
 
 >         The Secretary shall establish for purposes of the surveys required by paragraph (1) benchmarks for primary care and specialty care providers, including mental health care providers, to be utilized to determine the adequacy of the availability of health care providers to beneficiaries eligible for TRICARE.
 
->         “(3) __Scope of surveys.—__ 
+>         “(3)  __Scope of surveys__  __.—__ 
 
 >         The Secretary shall carry out the surveys required by paragraph (1) as follows:
 
@@ -199,7 +199,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(C) In the case of the surveys required by subparagraph (C) of that paragraph, in at least 40 geographic areas.
 
->         “(4) __Priority for surveys.—__ 
+>         “(4)  __Priority for surveys__  __.—__ 
 
 >         In prioritizing the areas which are to be surveyed under paragraph (1), the Secretary shall—
 
@@ -209,7 +209,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(C) give a high priority to surveying beneficiaries and providers located in geographic areas with high concentrations of members of the Selected Reserve.
 
->         “(5) __Information from providers.—__ 
+>         “(5)  __Information from providers__  __.—__ 
 
 >         The surveys required by paragraph (1) shall include questions seeking to determine from health care and mental health care providers the following:
 
@@ -221,13 +221,13 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(D) If the provider accepts patients referred to in subparagraph (C), whether the provider would accept additional such patients who are not in the provider’s current patient population.
 
->         “(6) __Information from beneficiaries.—__ 
+>         “(6)  __Information from beneficiaries__  __.—__ 
 
 >         The surveys required by paragraph (1) shall include questions seeking information to determine from TRICARE beneficiaries whether they have difficulties in finding health care and mental health care providers willing to provide services under TRICARE Standard or TRICARE Extra.
 
 >     “(b) __GAO Review.—__ 
 
->         “(1) __Ongoing review.—__ 
+>         “(1)  __Ongoing review__  __.—__ 
 
 >         The Comptroller General shall, on an ongoing basis, review—
 
@@ -241,7 +241,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(B) the actions taken by the Department of Defense to ensure ready access of TRICARE Standard beneficiaries to health care and mental health care under TRICARE Standard in each TRICARE area, including any pending or resolved requests for waiver of payment limits in order to improve access to health care or mental health care in a specific geographic area.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         The Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives on a biennial basis a report on the results of the review under paragraph (1). Each report shall include the following:
 
@@ -261,15 +261,15 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(H) An assessment of the ability of TRICARE Reserve Select beneficiaries to receive care in their geographic area.
 
->     “(c) __Effective Date.—__ 
+>     “(c)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on October 1, 2007.
 
->     “(d) __Repeal of Superseded Requirements and Authority.—__ 
+>     “(d)  __Repeal of Superseded Requirements and Authority__  __.—__ 
 
 >     Section 723 of the National Defense Authorization Act for Fiscal Year 2004 ([10 U.S.C. 1073][/us/usc/t10/s1073] note) is repealed, effective as of October 1, 2007.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -303,7 +303,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >     “(a) __Inspection of Military Medical Treatment Facilities, Military Quarters Housing Medical Hold Personnel, and Military Quarters Housing Medical Holdover Personnel.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[May 25, 2007\], and annually thereafter, the Secretary of Defense shall inspect each facility of the Department of Defense as follows:
 
@@ -313,11 +313,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(C) Each military quarters housing medical holdover personnel.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of an inspection under this subsection is to ensure that the facility or quarters concerned meets acceptable standards for the maintenance and operation of medical facilities, quarters housing medical hold personnel, or quarters housing medical holdover personnel, as applicable.
 
->     “(b) __Acceptable Standards.—__ 
+>     “(b)  __Acceptable Standards__  __.—__ 
 
 >     For purposes of this section, acceptable standards for the operation and maintenance of military medical treatment facilities, military quarters housing medical hold personnel, or military quarters housing medical holdover personnel are each of the following:
 
@@ -327,7 +327,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >     “(c) __Additional Inspections on Identified Deficiencies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In the event a deficiency is identified pursuant to subsection (a) at a facility or quarters described in paragraph (1) of that subsection—
 
@@ -335,15 +335,15 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(B) the Secretary shall reinspect such facility or quarters, as applicable, not less often than once every 180 days until the deficiency is corrected.
 
->         “(2) __Construction with other inspections.—__ 
+>         “(2)  __Construction with other inspections__  __.—__ 
 
 >         An inspection of a facility or quarters under this subsection is in addition to any inspection of such facility or quarters under subsection (a).
 
->     “(d) __Reports on Inspections.—__ 
+>     “(d)  __Reports on Inspections__  __.—__ 
 
 >     A complete copy of the report on each inspection conducted under subsections (a) and (c) shall be submitted in unclassified form to the applicable military medical command and to the congressional defense committees.
 
->     “(e) __Report on Standards.—__ 
+>     “(e)  __Report on Standards__  __.—__ 
 
 >     In the event no standards for the maintenance and operation of military medical treatment facilities, military quarters housing medical hold personnel, or military quarters housing medical holdover personnel exist as of the date of the enactment of this Act, or such standards as do exist do not meet acceptable standards for the maintenance and operation of such facilities or quarters, as the case may be, the Secretary shall, not later than 30 days after that date, submit to the congressional defense committees a report setting forth the plan of the Secretary to ensure—
 
@@ -361,11 +361,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 109–364, div. A, title VII, § 732][/us/pl/109/364/s732], Oct. 17, 2006, [120 Stat. 2296][/us/stat/120/2296], as amended by [Pub. L. 112–81, div. A, title X, § 1062(d)(3)][/us/pl/112/81/s1062/d/3], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
 
->     “(a) __Annual Integrated Regional Requirements on Support.—__ 
+>     “(a)  __Annual Integrated Regional Requirements on Support__  __.—__ 
 
 >     The Regional Director of each region under the TRICARE program shall develop each year integrated, comprehensive requirements for the support of military treatment facilities in such region that is provided by contract civilian health care and administrative personnel under the TRICARE program.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the requirements established under subsection (a) shall be as follows:
 
@@ -377,11 +377,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >     “(c) __Facilitation and Enhancement of Contractor Support.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall take appropriate actions to facilitate and enhance the support of military treatment facilities under the TRICARE program in order to assure maximum quality and productivity.
 
->         “(2) __Actions.—__ 
+>         “(2)  __Actions__  __.—__ 
 
 >         In taking actions under paragraph (1), the Secretary shall—
 
@@ -423,7 +423,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >     “\[(d) Repealed. [Pub. L. 112–81, div. A, title X, § 1062(d)(3)][/us/pl/112/81/s1062/d/3], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585].\]
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on October 1, 2006.”
 
@@ -431,7 +431,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 109–163, div. A, title VII, § 716][/us/pl/109/163/s716], Jan. 6, 2006, [119 Stat. 3345][/us/stat/119/3345], as amended by [Pub. L. 112–81, div. A, title X, § 1062(e)][/us/pl/112/81/s1062/e], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
 
->     “(a) __Responsibilities of TRICARE Regional Office.—__ 
+>     “(a)  __Responsibilities of TRICARE Regional Office__  __.—__ 
 
 >     The responsibilities of each TRICARE Regional Office shall include the monitoring, oversight, and improvement of the TRICARE Standard option in the TRICARE region concerned, including—
 
@@ -443,7 +443,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(4) publication of information that identifies health care providers in the TRICARE region concerned who provide the TRICARE Standard option.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     In this section, the term ‘TRICARE Standard’ or ‘TRICARE standard option’ means the Civilian Health and Medical Program of the Uniformed Services option under the TRICARE program.”
 
@@ -451,7 +451,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 109–163, div. A, title VII, § 717][/us/pl/109/163/s717], Jan. 6, 2006, [119 Stat. 3345][/us/stat/119/3345], provided that:
 
->     “(a) __Qualifications.—__ 
+>     “(a)  __Qualifications__  __.—__ 
 
 >     Effective as of the date of the enactment of this Act \[Jan. 6, 2006\], no individual may be selected to serve in the position of Regional Director under the TRICARE program unless the individual—
 
@@ -467,7 +467,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) has at least 10 years of experience, or equivalent expertise or training, in the military health care system, managed care, and health care policy and administration.
 
->     “(b) __Tricare Program Defined.—__ 
+>     “(b)  __Tricare Program Defined__  __.—__ 
 
 >     In this section, the term ‘TRICARE program’ has the meaning given such term in [section 1072(7) of title 10][/us/usc/t10/s1072/7], United States Code.”
 
@@ -475,21 +475,21 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 109–163, div. A, title VII, § 740][/us/pl/109/163/s740], Jan. 6, 2006, [119 Stat. 3359][/us/stat/119/3359], as amended by [Pub. L. 109–364, div. A, title X, § 1071(e)(8)][/us/pl/109/364/s1071/e/8], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that:
 
->     “(a) __Pilot Projects Authorized.—__ 
+>     “(a)  __Pilot Projects Authorized__  __.—__ 
 
 >     The Secretary of Defense may conduct pilot projects to assess the feasibility, advisability, and utility of encouraging pediatric early literacy among the children of members of the Armed Forces.
 
 >     “(b) __Locations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The pilot projects conducted under subsection (a) shall be conducted at not more than 20 military medical treatment facilities designated by the Secretary for purposes of this section.
 
->         “(2) __Co-location with certain installations.—__ 
+>         “(2)  __Co-location with certain installations__  __.—__ 
 
 >         In designating military medical treatment facilities under paragraph (1), the Secretary shall, to the extent practicable, designate facilities that are located on, or co-located with, military installations at which the mobilization or demobilization of members of the Armed Forces occurs.
 
->     “(c) __Activities.—__ 
+>     “(c)  __Activities__  __.—__ 
 
 >     Activities under the pilot projects conducted under subsection (a) shall include the following:
 
@@ -505,11 +505,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >     “(d) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than March 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the pilot projects conducted under this section.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report under paragraph (1) shall include—
 
@@ -525,11 +525,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 723\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–186, provided that:
 
->     “(a) __Requirement To Implement Internet-Based System.—__ 
+>     “(a)  __Requirement To Implement Internet-Based System__  __.—__ 
 
 >     Not later than October 1, 2001, the Secretary of Defense shall implement a system to simplify and make accessible through the use of the Internet, through commercially available systems and products, critical administrative processes within the military health care system and the TRICARE program. The purposes of the system shall be to enhance efficiency, improve service, and achieve commercially recognized standards of performance.
 
->     “(b) __Elements of System.—__ 
+>     “(b)  __Elements of System__  __.—__ 
 
 >     The system required by subsection (a)—
 
@@ -555,19 +555,19 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(3) may be implemented through a contractor under TRICARE Prime.
 
->     “(c) __Areas of Implementation.—__ 
+>     “(c)  __Areas of Implementation__  __.—__ 
 
 >     The Secretary shall implement the system required by subsection (a) in at least one region under the TRICARE program.
 
->     “(d) __Plan for Improved Portability of Benefits.—__ 
+>     “(d)  __Plan for Improved Portability of Benefits__  __.—__ 
 
 >     Not later than March 15, 2001, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a plan to provide portability and reciprocity of benefits for all enrollees under the TRICARE program throughout all TRICARE regions.
 
->     “(e) __Increase of Use of Military Medical Treatment Facilities.—__ 
+>     “(e)  __Increase of Use of Military Medical Treatment Facilities__  __.—__ 
 
 >     The Secretary shall initiate a program to maximize the use of military medical treatment facilities by improving the efficiency of health care operations in such facilities.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     In this section the term ‘TRICARE program’ has the meaning given such term in [section 1072 of title 10][/us/usc/t10/s1072], United States Code.”
 
@@ -577,7 +577,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 721\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–184, as amended by [Pub. L. 107–107, div. A, title VII, § 735(a)][/us/pl/107/107/s735/a]–(d), Dec. 28, 2001, [115 Stat. 1171][/us/stat/115/1171], 1172, provided that:
 
->     “(a) __Waiver of Nonavailability Statement or Preauthorization.—__ 
+>     “(a)  __Waiver of Nonavailability Statement or Preauthorization__  __.—__ 
 
 >     In the case of a covered beneficiary under TRICARE Standard pursuant to chapter 55 of title 10, United States Code, the Secretary of Defense may not require with regard to authorized health care services (other than mental health services) under such chapter that the beneficiary—
 
@@ -585,7 +585,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) obtain a nonavailability statement for care in specialized treatment facilities outside the 200-mile radius of a military medical treatment facility.
 
->     “(b) __Waiver Authority.—__ 
+>     “(b)  __Waiver Authority__  __.—__ 
 
 >     The Secretary may waive the prohibition in subsection (a) if—
 
@@ -605,11 +605,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(4) 60 days have elapsed since the date of the notification described in paragraph (3).
 
->     “(c) __Waiver Exception for Maternity Care.—__ 
+>     “(c)  __Waiver Exception for Maternity Care__  __.—__ 
 
 >     Subsection (b) shall not apply with respect to maternity care.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the earlier of the following:
 
@@ -619,11 +619,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 106–65, div. A, title VII, § 712(a)][/us/pl/106/65/s712/a], (b), Oct. 5, 1999, [113 Stat. 687][/us/stat/113/687], provided that:
 
->     “(a) __Access.—__ 
+>     “(a)  __Access__  __.—__ 
 
 >     The Secretary of Defense shall, to the maximum extent practicable, minimize the authorization and certification requirements imposed on covered beneficiaries under the TRICARE program as a condition of access to benefits under that program.
 
->     “(b) __Report on Initiatives To Improve Access.—__ 
+>     “(b)  __Report on Initiatives To Improve Access__  __.—__ 
 
 >     Not later than March 31, 2000, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on specific actions taken to—
 
@@ -637,11 +637,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 724\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–187, provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Notwithstanding any other provision of law and subject to subsection (b), any TRICARE managed care support contract in effect, or in the final stages of acquisition, on September 30, 1999, may be extended for four years.
 
->     “(b) __Conditions.—__ 
+>     “(b)  __Conditions__  __.—__ 
 
 >     Any extension of a contract under subsection (a)—
 
@@ -663,7 +663,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 105–261, div. A, title VII, § 703][/us/pl/105/261/s703], Oct. 17, 1998, [112 Stat. 2057][/us/stat/112/2057], provided that:
 
->     “(a) __Plan Required.—__ 
+>     “(a)  __Plan Required__  __.—__ 
 
 >     The Secretary of Defense shall submit to Congress a plan that would provide for a system-wide redesign of the military and contractor retail and mail-order pharmacy system of the Department of Defense by incorporating ‘best business practices’ of the private sector. The Secretary shall work with contractors of TRICARE retail pharmacy and national mail-order pharmacy programs to develop a plan for the redesign of the pharmacy system that—
 
@@ -679,11 +679,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(C) A system-wide drug benefit for covered beneficiaries under chapter 55 of title 10, United States Code, who are entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act ([42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.).
 
->     “(b) __Submission of Plan.—__ 
+>     “(b)  __Submission of Plan__  __.—__ 
 
 >     The Secretary shall submit the plan required under subsection (a) not later than March 1, 1999.
 
->     “(c) __Suspension of Implementation of Program.—__ 
+>     “(c)  __Suspension of Implementation of Program__  __.—__ 
 
 >     The Secretary shall suspend any plan to establish a national retail pharmacy program for the Department of Defense until—
 
@@ -693,15 +693,15 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 105–261, div. A, title VII, § 723][/us/pl/105/261/s723], Oct. 17, 1998, [112 Stat. 2068][/us/stat/112/2068], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 711(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–175, provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than April 1, 2001, the Secretary of Defense shall implement, with respect to eligible individuals described in subsection (e), the redesign of the pharmacy system under TRICARE (including the mail-order and retail pharmacy benefit under TRICARE) to incorporate ‘best business practices’ of the private sector in providing pharmaceuticals, as developed under the plan described in section 703 \[set out as a note above\].
 
->     “(b) __Program Requirements.—__ 
+>     “(b)  __Program Requirements__  __.—__ 
 
 >     The same coverage for pharmacy services and the same requirements for cost sharing and reimbursement as are applicable under [section 1086 of title 10][/us/usc/t10/s1086], United States Code, shall apply with respect to the program required by subsection (a).
 
->     “(c) __Evaluation.—__ 
+>     “(c)  __Evaluation__  __.—__ 
 
 >     The Secretary shall provide for an evaluation of the implementation of the redesign of the pharmacy system under TRICARE under this section by an appropriate person or entity that is independent of the Department of Defense. The evaluation shall include the following:
 
@@ -715,11 +715,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(5) An evaluation of any other matters that the Secretary considers appropriate.
 
->     “(d) __Reports.—__ 
+>     “(d)  __Reports__  __.—__ 
 
 >     The Secretary shall submit two reports on the results of the evaluation under subsection (c), together with the evaluation, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives. The first report shall be submitted not later than December 31, 2001, and the second report shall be submitted not later than December 31, 2003.
 
->     “(e) __Eligible Individuals.—__ 
+>     “(e)  __Eligible Individuals__  __.—__ 
 
 >         (1)
 
@@ -737,7 +737,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 105–261, div. A, title VII, § 713][/us/pl/105/261/s713], Oct. 17, 1998, [112 Stat. 2060][/us/stat/112/2060], provided that:
 
->     “(a) __Requirement To Establish System.—__ 
+>     “(a)  __Requirement To Establish System__  __.—__ 
 
 >         (1)
 
@@ -749,7 +749,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) In implementing the system described in paragraph (1), the Secretary shall collect data on the timeliness of appointments and precise waiting times for appointments in order to measure performance in meeting the primary care access standards established under the TRICARE program.
 
->     “(b) __Deadline for Establishment.—__ 
+>     “(b)  __Deadline for Establishment__  __.—__ 
 
 >     The Secretary shall establish the system described in subsection (a) not later than April 1, 1999.”
 
@@ -761,11 +761,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 105–85, div. A, title VII, § 703][/us/pl/105/85/s703], Nov. 18, 1997, [111 Stat. 1807][/us/stat/111/1807], provided that:
 
->     “(a) __Study.—__ 
+>     “(a)  __Study__  __.—__ 
 
 >     The Secretary of Defense shall conduct a study concerning the provision of the information described in subsection (b) to beneficiaries under the TRICARE program established under the authority of chapter 55 of title 10, United States Code, and prepare and submit to Congress a report concerning such study.
 
->     “(b) __Provision of Comparative Information.—__ 
+>     “(b)  __Provision of Comparative Information__  __.—__ 
 
 >     Information described in this subsection, with respect to a managed care entity that contracts with the Secretary of Defense to provide medical assistance under the program described in subsection (a), shall include the following:
 
@@ -807,19 +807,19 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 105–85, div. A, title VII, § 744][/us/pl/105/85/s744], Nov. 18, 1997, [111 Stat. 1820][/us/stat/111/1820], provided that:
 
->     “(a) __Regulations Required.—__ 
+>     “(a)  __Regulations Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of Defense, in consultation with the administering Secretaries referred to in [section 1073 of title 10][/us/usc/t10/s1073], United States Code, shall prescribe regulations to require each source described in subsection (d) that dispenses a prescription medication to a beneficiary under chapter 55 of such title to include with the medication the written cautionary information required by subsection (b).
 
->     “(b) __Information To Be Disclosed.—__ 
+>     “(b)  __Information To Be Disclosed__  __.—__ 
 
 >     Information required to be disclosed about a medication under the regulations shall include appropriate cautions about usage of the medication, including possible side effects and potentially hazardous interactions with foods.
 
->     “(c) __Form of Information.—__ 
+>     “(c)  __Form of Information__  __.—__ 
 
 >     The regulations shall require that information be furnished in a form that, to the maximum extent practicable, is easily read and understood.
 
->     “(d) __Covered Sources.—__ 
+>     “(d)  __Covered Sources__  __.—__ 
 
 >     The regulations shall apply to the following:
 
@@ -835,11 +835,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 105–85, div. A, title VII, § 745][/us/pl/105/85/s745], Nov. 18, 1997, [111 Stat. 1820][/us/stat/111/1820], provided that:
 
->     “(a) __Competitive Procurement Required.—__ 
+>     “(a)  __Competitive Procurement Required__  __.—__ 
 
 >     Beginning not later than October 1, 1998, the Secretary of Defense shall competitively procure from private-sector sources, or other sources outside of the Department of Defense, all ophthalmic services related to the provision of single vision and multivision eyeware \[sic\] for members of the Armed Forces, retired members, and certain covered beneficiaries under chapter 55 of title 10, United States Code, who would otherwise receive such ophthalmic services through the Department of Defense.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     Subsection (a) shall not apply to the extent that the Secretary of Defense determines that the use of sources within the Department of Defense to provide such ophthalmic services—
 
@@ -847,7 +847,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) is more cost effective.
 
->     “(c) __Completion of Existing Orders.—__ 
+>     “(c)  __Completion of Existing Orders__  __.—__ 
 
 >     Subsection (a) shall not apply to orders for ophthalmic services received on or before September 30, 1998.”
 
@@ -879,11 +879,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 > “SEC. 722. __INCLUSION OF DESIGNATED PROVIDERS IN UNIFORMED SERVICES HEALTH CARE DELIVERY SYSTEM.__ 
 
->     “(a) __Inclusion in System.—__ 
+>     “(a)  __Inclusion in System__  __.—__ 
 
 >     The health care delivery system of the uniformed services shall include the designated providers.
 
->     “(b) __Agreements to Provide Managed Health Care Services.—__ 
+>     “(b)  __Agreements to Provide Managed Health Care Services__  __.—__ 
 
 >         (1) After consultation with the other administering Secretaries, the Secretary of Defense shall negotiate and enter into an agreement with each designated provider under which the designated provider will provide health care services in or through managed care plans to covered beneficiaries who enroll with the designated provider.
 
@@ -891,7 +891,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(3) The implementation of an agreement is subject to availability of funds for such purpose.
 
->     “(c) __Effective Date of Agreements.—__ 
+>     “(c)  __Effective Date of Agreements__  __.—__ 
 
 >         (1)
 
@@ -903,31 +903,31 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) The Secretary may modify the effective date established under paragraph (1) for an agreement to permit a transition period of not more than six months between the date on which the agreement is executed by the parties and the date on which the designated provider commences the delivery of health care services under the agreement.
 
->     “(d) __Temporary Continuation of Existing Participation Agreements.—__ 
+>     “(d)  __Temporary Continuation of Existing Participation Agreements__  __.—__ 
 
 >     The Secretary shall extend the participation agreement of a designated provider in effect immediately before the date of the enactment of this Act \[Sept. 23, 1996\] under section 718(c) of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510]; \[former\] [42 U.S.C. 248c][/us/usc/t42/s248c] \[note\]) until the agreement required by this section takes effect under subsection (c), including any transitional period provided by the Secretary under paragraph (2) of such subsection.
 
->     “(e) __Service Area.—__ 
+>     “(e)  __Service Area__  __.—__ 
 
 >     The Secretary may not reduce the size of the service area of a designated provider below the size of the service area in effect as of September 30, 1996.
 
->     “(f) __Compliance With Administrative Requirements.—__ 
+>     “(f)  __Compliance With Administrative Requirements__  __.—__ 
 
 >         (1) Unless otherwise agreed upon by the Secretary and a designated provider, the designated provider shall comply with necessary and appropriate administrative requirements established by the Secretary for other providers of health care services and requirements established by the Secretary of Health and Human Services for risk-sharing contractors under section 1876 of the Social Security Act ([42 U.S.C. 1395mm][/us/usc/t42/s1395mm]). The Secretary and the designated provider shall determine and apply only such administrative requirements as are minimally necessary and appropriate. A designated provider shall not be required to comply with a law or regulation of a State government requiring licensure as a health insurer or health maintenance organization.
 
 >         “(2) A designated provider may not contract out more than five percent of its primary care enrollment without the approval of the Secretary, except in the case of primary care contracts between a designated provider and a primary care contractor in force on the date of the enactment of this Act \[Sept. 23, 1996\].
 
->     “(g) __Continued Acquisition of Reduced-Cost Drugs.—__ 
+>     “(g)  __Continued Acquisition of Reduced-Cost Drugs__  __.—__ 
 
 >     A designated provider shall be treated as part of the Department of Defense for purposes of [section 8126 of title 38][/us/usc/t38/s8126], United States Code, in connection with the provision by the designated provider of health care services to covered beneficiaries pursuant to the participation agreement of the designated provider under section 718(c) of the National Defense Authorization Act for Fiscal Year 1991 ([Public Law 101–510][/us/pl/101/510]; \[former\] [42 U.S.C. 248c][/us/usc/t42/s248c] note) or pursuant to the agreement entered into under subsection (b).
 
 > “SEC. 723. __PROVISION OF UNIFORM BENEFIT BY DESIGNATED PROVIDERS.__ 
 
->     “(a) __Uniform Benefit Required.—__ 
+>     “(a)  __Uniform Benefit Required__  __.—__ 
 
 >     A designated provider shall offer to enrollees the health benefit option prescribed and implemented by the Secretary under section 731 of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 1073][/us/usc/t10/s1073] note), including accompanying cost-sharing requirements.
 
->     “(b) __Time for Implementation of Benefit.—__ 
+>     “(b)  __Time for Implementation of Benefit__  __.—__ 
 
 >     A designated provider shall offer the health benefit option described in subsection (a) to enrollees upon the later of the following:
 
@@ -935,27 +935,27 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) October 1, 1997.
 
->     “(c) __Adjustments.—__ 
+>     “(c)  __Adjustments__  __.—__ 
 
 >     The Secretary may establish a later date under subsection (b)(2) or prescribe reduced cost-sharing requirements for enrollees.
 
 > “SEC. 724. __ENROLLMENT OF COVERED BENEFICIARIES.__ 
 
->     “(a) __Fiscal Year 1997 Limitation.—__ 
+>     “(a)  __Fiscal Year__  __1997__  __Limitation__  __.—__ 
 
 >         (1) During fiscal year 1997, the number of covered beneficiaries who are enrolled in managed care plans offered by designated providers may not exceed the number of such enrollees as of October 1, 1995.
 
 >         “(2) The Secretary may waive the limitation under paragraph (1) if the Secretary determines that additional enrollment authority for a designated provider is required to accommodate covered beneficiaries who are dependents of members of the uniformed services entitled to health care under [section 1074(a) of title 10][/us/usc/t10/s1074/a], United States Code.
 
->     “(b) __Permanent Limitation.—__ 
+>     “(b)  __Permanent Limitation__  __.—__ 
 
 >     For each fiscal year beginning after September 30, 1997, the number of enrollees in managed care plans offered by designated providers may not exceed 110 percent of the number of such enrollees as of the first day of the immediately preceding fiscal year. The Secretary may waive this limitation as provided in subsection (a)(2).
 
->     “(c) __Retention of Current Enrollees.—__ 
+>     “(c)  __Retention of Current Enrollees__  __.—__ 
 
 >     An enrollee in the managed care plan of a designated provider as of September 30, 1997, or such earlier date as the designated provider and the Secretary may agree upon, shall continue receiving services from the designated provider pursuant to the agreement entered into under section 722 unless the enrollee disenrolls from the designated provider. Except as provided in subsection (e), the administering Secretaries may not disenroll such an enrollee unless the disenrollment is agreed to by the Secretary and the designated provider.
 
->     “(d) __Additional Enrollment Authority.—__ 
+>     “(d)  __Additional Enrollment Authority__  __.—__ 
 
 >         (1) Subject to paragraph (2), other covered beneficiaries may also receive health care services from a designated provider.
 
@@ -981,17 +981,17 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(B) on such date of enrollment and during the period after such date while the beneficiary is enrolled with the designated provider.
 
->     “(e) __Special Rule for Medicare-Eligible Beneficiaries.—__ 
+>     “(e)  __Special Rule for Medicare-Eligible Beneficiaries__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), if a covered beneficiary who desires to enroll in the managed care program of a designated provider is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act ([42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.), the covered beneficiary shall elect whether to receive health care services as an enrollee or under part A of title XVIII of the Social Security Act. The Secretary may disenroll an enrollee who subsequently violates the election made under this subsection and receives benefits under part A of title XVIII of the Social Security Act.
 
 >         “(2) After September 30, 2012, a covered beneficiary (other than a beneficiary under [section 1079 of title 10][/us/usc/t10/s1079], United States Code) who is also entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act \[[42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.\] due to age may not enroll in the managed care program of a designated provider unless the beneficiary was enrolled in that program on September 30, 2012.
 
->     “(f) __Information Regarding Eligible Covered Beneficiaries.—__ 
+>     “(f)  __Information Regarding Eligible Covered Beneficiaries__  __.—__ 
 
 >     The Secretary shall provide, in a timely manner, a designated provider with an accurate list of covered beneficiaries within the marketing area of the designated provider to whom the designated provider may offer enrollment.
 
->     “(g) __Open Enrollment Demonstration Program.—__ 
+>     “(g)  __Open Enrollment Demonstration Program__  __.—__ 
 
 >         (1) The Secretary of Defense shall conduct a demonstration program under which covered beneficiaries shall be permitted to enroll at any time in a managed care plan offered by a designated provider consistent with the enrollment requirements for the TRICARE Prime option under the TRICARE program, but without regard to the limitation in subsection (b). The demonstration program under this subsection shall cover designated providers, selected by the Secretary of Defense, and the service areas of the designated providers.
 
@@ -1001,47 +1001,47 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 > “SEC. 725. __APPLICATION OF CHAMPUS PAYMENT RULES.__ 
 
->     “(a) __Application of Payment Rules.—__ 
+>     “(a)  __Application of Payment Rules__  __.—__ 
 
 >     Subject to subsection (b), the Secretary shall require a private facility or health care provider that is a health care provider under the Civilian Health and Medical Program of the Uniformed Services to apply the payment rules described in [section 1074(c) of title 10][/us/usc/t10/s1074/c], United States Code, in imposing charges for health care that the private facility or provider provides to enrollees of a designated provider.
 
->     “(b) __Authorized Adjustments.—__ 
+>     “(b)  __Authorized Adjustments__  __.—__ 
 
 >     The payment rules imposed under subsection (a) shall be subject to such modifications as the Secretary considers appropriate. The Secretary may authorize a lower rate than the maximum rate that would otherwise apply under subsection (a) if the lower rate is agreed to by the designated provider and the private facility or health care provider.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Secretary shall prescribe regulations to implement this section after consultation with the other administering Secretaries.
 
->     “(d) __Conforming Amendment.—__ 
+>     “(d)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [section 1074 of this title][/us/usc/t10/s1074].\]
 
 > “SEC. 726. __PAYMENTS FOR SERVICES.__ 
 
->     “(a) __Form of Payment.—__ 
+>     “(a)  __Form of Payment__  __.—__ 
 
 >     Unless otherwise agreed to by the Secretary and a designated provider, the form of payment for health care services provided by a designated provider shall be on a full risk capitation payment basis. The capitation payments shall be negotiated and agreed upon by the Secretary and the designated provider. In addition to such other factors as the parties may agree to apply, the capitation payments shall be based on the utilization experience of enrollees and competitive market rates for equivalent health care services for a comparable population to such enrollees in the area in which the designated provider is located.
 
->     “(b) __Limitation on Total Payments.—__ 
+>     “(b)  __Limitation on Total Payments__  __.—__ 
 
 >     Total capitation payments for health care services to a designated provider shall not exceed an amount equal to the cost that would have been incurred by the Government if the enrollees had received such health care services through a military treatment facility, the TRICARE program, or the Medicare program, as the case may be. In establishing the ceiling rate for enrollees with the designated providers who are also eligible for the Civilian Health and Medical Program of the Uniformed Services, the Secretary of Defense shall take into account the health status of the enrollees.
 
->     “(c) __Establishment of Payment Rates on Annual Basis.—__ 
+>     “(c)  __Establishment of Payment Rates on Annual Basis__  __.—__ 
 
 >     The Secretary and a designated provider shall establish capitation payments on an annual basis, subject to periodic review for actuarial soundness and to adjustment for any adverse or favorable selection reasonably anticipated to result from the design of the program under this subtitle.
 
->     “(d) __Alternative Basis for Calculating Payments.—__ 
+>     “(d)  __Alternative Basis for Calculating Payments__  __.—__ 
 
 >     After September 30, 1999, the Secretary and a designated provider may mutually agree upon a new basis for calculating capitation payments.
 
 > “SEC. 727. __REPEAL OF SUPERSEDED AUTHORITIES.__ 
 
->     “(a) __Repeals.—__ 
+>     “(a)  __Repeals__  __.—__ 
 
 >     \[Repealed sections 248c and 248d of Title 42, The Public Health and Welfare, and [section 718(c) of Pub. L. 101–510][/us/pl/101/510/s718/c] and [section 726 of Pub. L. 104–106][/us/pl/104/106/s726], set out as notes under [section 248c of Title 42][/us/usc/t42/s248c].\]
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     The amendments made by paragraphs (1), (2), and (3) of subsection (a) shall take effect on October 1, 1997.”
 
@@ -1063,7 +1063,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 104–106, div. A, title VII, § 715][/us/pl/104/106/s715], Feb. 10, 1996, [110 Stat. 375][/us/stat/110/375], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 760(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–200, provided that:
 
->     “(a) __Provision of Training.—__ 
+>     “(a)  __Provision of Training__  __.—__ 
 
 >     The Secretary of Defense shall implement a professional educational program to provide appropriate training in health care management and administration—
 
@@ -1071,7 +1071,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) to appropriate members of the support staff of the treatment facility who will be responsible for daily operation of the TRICARE program.
 
->     “(b) __Limitation on Assignment Until Completion of Training.—__ 
+>     “(b)  __Limitation on Assignment Until Completion of Training__  __.—__ 
 
 >     No person may be assigned as the commander, deputy commander, or managed care coordinator of a military medical treatment facility or as a TRICARE lead agent or senior member of the staff of a TRICARE lead agent office until the Secretary of the military department concerned submits a certification to the Secretary of Defense that such person has completed the training described in subsection (a).”
 
@@ -1087,7 +1087,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 104–106, div. A, title VII, § 716][/us/pl/104/106/s716], Feb. 10, 1996, [110 Stat. 375][/us/stat/110/375], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >         (1) During fiscal year 1996, the Secretary of Defense, in consultation with the other administering Secretaries under chapter 55 of title 10, United States Code, shall implement a pilot program to provide residential and wraparound services to children described in paragraph (2) who are in need of mental health services. The Secretary shall implement the pilot program for an initial period of at least two years in a military health care region in which the TRICARE program has been implemented.
 
@@ -1099,11 +1099,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(B) has a serious emotional disturbance that is generally regarded as amenable to treatment.
 
->     “(b) __Wraparound Services Defined.—__ 
+>     “(b)  __Wraparound Services Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘wraparound services’ means individualized mental health services that are provided principally to allow a child to remain in the family home or other least-restrictive and least-costly setting, but also are provided as an aftercare planning service for children who have received acute or residential care. Such term includes nontraditional mental health services that will assist the child to be maintained in the least-restrictive and least-costly setting.
 
->     “(c) __Pilot Program Agreement.—__ 
+>     “(c)  __Pilot Program Agreement__  __.—__ 
 
 >     Under the pilot program the Secretary of Defense shall enter into one or more agreements that require a mental health services provider under the agreement—
 
@@ -1113,7 +1113,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(3) to share financial risk by accepting as a maximum annual payment for such services a case-rate reimbursement not in excess of the amount of the annual standard CHAMPUS residential treatment benefit payable (as determined in accordance with section 8.1 of chapter 3 of volume II of the CHAMPUS policy manual).
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than March 1, 1998, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives a report on the program carried out under this section. The report shall contain—
 
@@ -1125,7 +1125,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 104–106, div. A, title VII, § 717][/us/pl/104/106/s717], Feb. 10, 1996, [110 Stat. 376][/us/stat/110/376], as amended by [Pub. L. 112–239, div. A, title VII, § 714][/us/pl/112/239/s714], Jan. 2, 2013, [126 Stat. 1803][/us/stat/126/1803], provided that:
 
->     “(a) __Evaluation Required.—__ 
+>     “(a)  __Evaluation Required__  __.—__ 
 
 >     The Secretary of Defense shall arrange for an on-going evaluation of the effectiveness of the TRICARE program in meeting the goals of increasing the access of covered beneficiaries under chapter 55 of title 10, United States Code, to health care and improving the quality of health care provided to covered beneficiaries, without increasing the costs incurred by the Government or covered beneficiaries. The evaluation shall specifically address—
 
@@ -1133,11 +1133,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) identify noncatchment areas in which the health maintenance organization option of the TRICARE program is available or is proposed to become available.
 
->     “(b) __Entity To Conduct Evaluation.—__ 
+>     “(b)  __Entity To Conduct Evaluation__  __.—__ 
 
 >     The Secretary may use a federally funded research and development center to conduct the evaluation required by subsection (a).
 
->     “(c) __Annual Report.—__ 
+>     “(c)  __Annual Report__  __.—__ 
 
 >     Not later than March 1, 1997, and each March 1 thereafter, the Secretary shall submit to Congress a report describing the results of the evaluation under subsection (a) during the preceding year.”
 
@@ -1145,19 +1145,19 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 103–160, div. A, title VII, § 731][/us/pl/103/160/s731], Nov. 30, 1993, [107 Stat. 1696][/us/stat/107/1696], as amended by [Pub. L. 103–337, div. A, title VII, § 715][/us/pl/103/337/s715], Oct. 5, 1994, [108 Stat. 2803][/us/stat/108/2803]; [Pub. L. 104–106, div. A, title VII, § 714][/us/pl/104/106/s714], Feb. 10, 1996, [110 Stat. 374][/us/stat/110/374], provided that:
 
->     “(a) __Use of Model.—__ 
+>     “(a)  __Use of Model__  __.—__ 
 
 >     The Secretary of Defense shall prescribe and implement a health benefit option (and accompanying cost-sharing requirements) for covered beneficiaries eligible for health care under chapter 55 of title 10, United States Code, that is modelled on health maintenance organization plans offered in the private sector and other similar Government health insurance programs. The Secretary shall include, to the maximum extent practicable, the health benefit option required under this subsection as one of the options available to covered beneficiaries in all managed health care initiatives undertaken by the Secretary after December 31, 1994.
 
->     “(b) __Elements of Option.—__ 
+>     “(b)  __Elements of Option__  __.—__ 
 
 >     The Secretary shall offer covered beneficiaries who enroll in the health benefit option required under subsection (a) reduced out-of-pocket costs and a benefit structure that is as uniform as possible throughout the United States. The Secretary shall allow enrollees to seek health care outside of the option, except that the Secretary may prescribe higher out-of-pocket costs than are provided under section 1079 or 1086 of title 10, United States Code, for enrollees who obtain health care outside of the option.
 
->     “(c) __Government Costs.—__ 
+>     “(c)  __Government Costs__  __.—__ 
 
 >     The health benefit option required under subsection (a) shall be administered so that the costs incurred by the Secretary under the TRICARE program are no greater than the costs that would otherwise be incurred to provide health care to the members of the uniformed services and covered beneficiaries who participate in the TRICARE program.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -1165,11 +1165,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) The term ‘TRICARE program’ means the managed health care program that is established by the Secretary of Defense under the authority of chapter 55 of title 10, United States Code, principally section 1097 of such title, and includes the competitive selection of contractors to financially underwrite the delivery of health care services under the Civilian Health and Medical Program of the Uniformed Services.
 
->     “(e) __Regulations.—__ 
+>     “(e)  __Regulations__  __.—__ 
 
 >     Not later than December 31, 1994, the Secretary shall prescribe final regulations to implement the health benefit option required by subsection (a).
 
->     “(f) __Modification of Existing Contracts.—__ 
+>     “(f)  __Modification of Existing Contracts__  __.—__ 
 
 >     In the case of managed health care contracts in effect or in final stages of acquisition as of December 31, 1994, the Secretary may modify such contracts to incorporate the health benefit option required under subsection (a).”
 
@@ -1185,21 +1185,21 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 102–484, div. A, title VII, § 712][/us/pl/102/484/s712], Oct. 23, 1992, [106 Stat. 2435][/us/stat/106/2435], as amended by [Pub. L. 103–160, div. A, title VII, § 720][/us/pl/103/160/s720], Nov. 30, 1993, [107 Stat. 1695][/us/stat/107/1695]; [Pub. L. 103–337, div. A, title VII, § 714(c)][/us/pl/103/337/s714/c], Oct. 5, 1994, [108 Stat. 2803][/us/stat/108/2803], provided that:
 
->     “(a) __Condition.—__ 
+>     “(a)  __Condition__  __.—__ 
 
 >         (1) Except as provided in subsection (b), the Secretary of Defense may not expand the CHAMPUS reform initiative underway in the States of California and Hawaii to another location until not less than 90 days after the date on which the Secretary certifies to Congress that expansion of the initiative to that location is the most efficient method of providing health care to covered beneficiaries in that location. In determining whether the expansion of the CHAMPUS reform initiative to a location is the most efficient method of providing health care to covered beneficiaries in that location, the Secretary shall consider the cost-effectiveness of the initiative (while assuring that the combined cost of care in military treatment facilities and under the Civilian Health and Medical Program of the Uniformed Services will not be increased as a result of the expansion) and the effect of the expansion of the initiative on the access of covered beneficiaries to health care and on the quality of health care received by covered beneficiaries.
 
 >         “(2) To the extent any revision of the CHAMPUS reform initiative is necessary in order to make the certification required by this subsection, the Secretary shall assure that enrolled covered beneficiaries may obtain health care services with reduced out-of-pocket costs, as compared to standard CHAMPUS.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The Secretary of Defense may waive the operation of the condition on the expansion of the CHAMPUS reform initiative specified in subsection (a) in order to expand the initiative to a location adversely affected by the closure or realignment of a military installation in that location, as determined by the Secretary.
 
->     “(c) __Evaluation of Certification.—__ 
+>     “(c)  __Evaluation of Certification__  __.—__ 
 
 >     The Comptroller General of the United States and the Director of the Congressional Budget Office shall evaluate each certification made by the Secretary of Defense under subsection (a) that expansion of the CHAMPUS reform initiative to another location is the most efficient method of providing health care to covered beneficiaries in that location. They shall submit their findings to Congress if these findings differ substantially from the findings upon which the Secretary made the decision to expand the CHAMPUS reform initiative.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -1217,7 +1217,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 102–484, div. A, title VII, § 722][/us/pl/102/484/s722], Oct. 23, 1992, [106 Stat. 2439][/us/stat/106/2439], as amended by [Pub. L. 108–136, div. A, title VII, § 726][/us/pl/108/136/s726], Nov. 24, 2003, [117 Stat. 1535][/us/stat/117/1535]; [Pub. L. 110–181, div. A, title X, § 1063(i)][/us/pl/110/181/s1063/i], Jan. 28, 2008, [122 Stat. 324][/us/stat/122/324], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     Not later than December 31, 2003, the Secretary of Defense shall establish a working group on the provision of military health care to persons who rely for health care on health care facilities located at military installations—
 
@@ -1225,7 +1225,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) outside the United States that are selected for closure or realignment as a result of force posture changes.
 
->     “(b) __Membership.—__ 
+>     “(b)  __Membership__  __.—__ 
 
 >     The members of the working group shall include, at a minimum, the following:
 
@@ -1239,7 +1239,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(5) At least one independent member (appointed by the Secretary of Defense) from each TRICARE region, but not to exceed a total of 12 members appointed under this paragraph, whose experience in matters within the responsibility of the working group qualify that person to represent persons authorized health care under chapter 55 of title 10, United States Code.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >         (1) In developing the recommendations for the 2005 round of realignments and closures required by sections 2913 and 2914 of the Defense Base Closure and Realignment Act of 1990 \[[Pub. L. 101–510][/us/pl/101/510], [10 U.S.C. 268][/us/usc/t10/s268] note\], the Secretary of Defense shall consult with the working group.
 
@@ -1247,7 +1247,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(3) In the case of each military installation referred to in paragraph (1) or (2) of subsection (a) whose closure or realignment will affect the accessibility to health care services for persons entitled to such services under chapter 55 of title 10, United States Code, the working group shall provide to the Secretary of Defense a plan for the provision of the health care services to such persons.
 
->     “(d) __Special Considerations.—__ 
+>     “(d)  __Special Considerations__  __.—__ 
 
 >     In carrying out its duties under subsection (c), the working group—
 
@@ -1259,11 +1259,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(4) shall ensure that members of the uniformed services on active duty, members and former members of the uniformed services entitled to retired or retainer pay, and dependents and survivors of such members and retired personnel are afforded the opportunity to express their views.
 
->     “(e) __Application of Advisory Committee Act.—__ 
+>     “(e)  __Application of Advisory Committee Act__  __.—__ 
 
 >     The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the working group established pursuant to this section.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The working group established pursuant to subsection (a) shall terminate on December 31, 2006.”
 
@@ -1271,11 +1271,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 102–190, div. A, title VII, § 722][/us/pl/102/190/s722], Dec. 5, 1991, [105 Stat. 1406][/us/stat/105/1406], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Upon the termination (for any reason) of the contract of the Department of Defense in effect on the date of the enactment of this Act \[Dec. 5, 1991\] under the CHAMPUS reform initiative established under section 702 of the National Defense Authorization Act for Fiscal Year 1987 \[[Pub. L. 99–661][/us/pl/99/661]\] ([10 U.S.C. 1073][/us/usc/t10/s1073] note), the Secretary of Defense may enter into a replacement or successor contract with the same or a different contractor and for such amount as may be determined in accordance with applicable procurement laws and regulations and without regard to any limitation (enacted before, on, or after the date of the enactment of this Act) on the availability of funds for that purpose.
 
->     “(b) __Treatment of Limitation on Funds for Program.—__ 
+>     “(b)  __Treatment of Limitation on Funds for Program__  __.—__ 
 
 >     No provision of law stated as a limitation on the availability of funds may be treated as constituting the extension of, or as requiring the extension of, any contract under the CHAMPUS reform initiative that would otherwise expire in accordance with its terms.”
 
@@ -1289,7 +1289,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 101–510, div. A, title VII, § 715][/us/pl/101/510/s715], Nov. 5, 1990, [104 Stat. 1584][/us/stat/104/1584], provided that:
 
->     “(a) __Certification of Cost-Effectiveness.—__ 
+>     “(a)  __Certification of Cost-Effectiveness__  __.—__ 
 
 >     The Secretary of Defense may not proceed with the proposed expansion of the CHAMPUS reform initiative underway in the States of California and Hawaii until not less than 90 days after the date on which the Secretary certifies to the Congress that—
 
@@ -1299,11 +1299,11 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(3) such contractor is currently, and projected to remain, financially able to underwrite the CHAMPUS reform initiative.
 
->     “(b) __Report on Certification.—__ 
+>     “(b)  __Report on Certification__  __.—__ 
 
 >     Not later than 30 days after the date on which the Secretary of Defense submits the certification required by subsection (a), the Comptroller General of the United States and the Director of the Congressional Budget Office shall jointly submit to Congress a report evaluating such certification.
 
->     “(c) __CHAMPUS Reform Initiative Defined.—__ 
+>     “(c)  __CHAMPUS Reform Initiative Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘CHAMPUS reform initiative’ has the meaning given that term in section 702(d)(1) of the Department of Defense Authorization Act for Fiscal Year 1987 \[[Pub. L. 99–661][/us/pl/99/661]\] ([10 U.S.C. 1073][/us/usc/t10/s1073] note).”
 
@@ -1315,7 +1315,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 100–180, div. A, title VII, § 732(e)][/us/pl/100/180/s732/e]–(g), Dec. 4, 1987, [101 Stat. 1120][/us/stat/101/1120], 1121, provided that:
 
->     “(e) __Requirement for Availability of Additional Insurance Coverage.—__ 
+>     “(e)  __Requirement for Availability of Additional Insurance Coverage__  __.—__ 
 
 >         (1) The Secretary of Defense shall make every effort to enter into an agreement, similar to the one being negotiated with a private insurer on the date of the enactment of this Act \[Dec. 4, 1987\], that would provide an insurance plan that meets the requirements described in paragraph (3).
 
@@ -1337,13 +1337,13 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(C) The plan shall provide that enrollees in the plan shall pay the full periodic charges for the benefit coverage.
 
->     “(f) __Funding Limitations.—__ 
+>     “(f)  __Funding Limitations__  __.—__ 
 
 >         (1) None of the funds appropriated or otherwise made available to the Department of Defense may be obligated or expended for the purpose of entering into a contract for the demonstration phase of the CHAMPUS reform initiative required by section 702(a)(1) of the National Defense Authorization Act for Fiscal Year 1987 \[[section 702(a)(1) of Pub. L. 99–661][/us/pl/99/661/s702/a/1], set out as a note below\] until the requirements of section 702(a)(4) of such Act (as added by subsection (a)) are met.
 
 >         “(2) None of the funds appropriated or otherwise made available to the Department of Defense may be obligated or expended for the purpose of requesting a proposal for the second (or any subsequent) phase of the CHAMPUS reform initiative as described in section 702(c) of the National Defense Authorization Act for Fiscal Year 1987 until the requirements of paragraph (2) of section 702(c) of such Act (as added by subsection (c)) are met.
 
->     “(g) __CHAMPUS Defined.—__ 
+>     “(g)  __CHAMPUS Defined__  __.—__ 
 
 >     In this section, the term ‘CHAMPUS’ has the meaning given such term by [section 1072(4) of title 10][/us/usc/t10/s1072/4], United States Code.”
 
@@ -1351,7 +1351,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 [Pub. L. 99–661, div. A, title VII, § 702][/us/pl/99/661/s702], Nov. 14, 1986, [100 Stat. 3899][/us/stat/100/3899], as amended by [Pub. L. 100–180, div. A, title VII, § 732(a)][/us/pl/100/180/s732/a], (c), Dec. 4, 1987, [101 Stat. 1119][/us/stat/101/1119], provided that:
 
->     “(a) __Demonstration Project.—__ 
+>     “(a)  __Demonstration Project__  __.—__ 
 
 >         (1) The Secretary of Defense shall conduct a project designed to demonstrate the feasibility of improving the effectiveness of the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) through the competitive selection of contractors to financially underwrite the delivery of health care services under the program.
 
@@ -1387,7 +1387,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(4) The Secretary of Defense shall develop a methodology to be used in evaluating the results of the demonstration project required by paragraph (1) and shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on such methodology.
 
->     “(b) __Study of Health Care Alternatives.—__ 
+>     “(b)  __Study of Health Care Alternatives__  __.—__ 
 
 >         (1)
 
@@ -1401,7 +1401,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >         “(2) The Secretary shall submit to Congress a report discussing the matters evaluated in the study required by paragraph (1) before the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 14, 1986\].
 
->     “(c) __Phased Implementation of CHAMPUS Reform Initiative.—__ 
+>     “(c)  __Phased Implementation of CHAMPUS Reform Initiative__  __.—__ 
 
 >         (1)
 
@@ -1429,7 +1429,7 @@ June 7, 1956, ch. 374, § 102(b), 70 Stat. 251.  </td>
 
 >             “(B) the expiration of 60 days after the date on which the report described in paragraph (1)(C) has been received by the committees referred to in such paragraph.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 

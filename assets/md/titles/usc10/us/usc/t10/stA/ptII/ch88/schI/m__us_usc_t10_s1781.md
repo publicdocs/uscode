@@ -15,11 +15,11 @@
 
 ## § 1781. Office of Family Policy
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is in the Office of the Secretary of Defense an Office of Family Policy (in this section referred to as the “Office”). The Office shall be headed by the Director of Family Policy, who shall serve within the Office of the Under Secretary of Defense for Personnel and Readiness.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The Office—
 
@@ -27,7 +27,7 @@
 
         (2) shall make recommendations to the Secretaries of the military departments with respect to programs and policies regarding military families.
 
-    (c) __Staff.—__ 
+    (c)  __Staff__  __.—__ 
 
     The Office shall have not less than five professional staff members.
 
@@ -53,15 +53,15 @@
 
 >     “(a) __Internet Outreach Website.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary of Defense shall establish an Internet website or other online resources for the purpose of providing comprehensive information to members of the Armed Forces and their families about the benefits and services described in subsection (b) that are available to members of the Armed Forces and their families.
 
->         “(2) __Contact information.—__ 
+>         “(2)  __Contact information__  __.—__ 
 
 >         The online resources shall provide contact information, both telephone and e-mail, that a member of the Armed Forces or dependent of the member can use to get specific information about benefits and services that may be available for the member or dependent.
 
->     “(b) __Covered Benefits and Services.—__ 
+>     “(b)  __Covered Benefits and Services__  __.—__ 
 
 >     The information provided through the online resources established pursuant to subsection (a) shall include information regarding the following benefits and services that may be available to a member of the Armed Forces and dependents of the member:
 
@@ -97,11 +97,11 @@
 
 >         “(16) Such other benefits and services as the Secretary of Defense considers appropriate.
 
->     “(c) __Dissemination of Information on Availability on Online Resources.—__ 
+>     “(c)  __Dissemination of Information on Availability on Online Resources__  __.—__ 
 
 >     The Secretaries of the military departments shall use public service announcements, publications, and such other announcements through the general media as the Secretaries consider appropriate to inform members of the Armed Forces and their families and the general public about the information available through the online resources established pursuant to subsection (a).
 
->     “(d) __Implementation Report.—__ 
+>     “(d)  __Implementation Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the quality and scope of the online resources established pursuant to subsection (a) to provide information about benefits and services for members of the Armed Forces and their families.”
 
@@ -113,7 +113,7 @@
 
 [Pub. L. 109–364, div. A, title VI, § 675][/us/pl/109/364/s675], Oct. 17, 2006, [120 Stat. 2273][/us/stat/120/2273], as amended by [Pub. L. 111–383, div. A, title V, § 584][/us/pl/111/383/s584], Jan. 7, 2011, [124 Stat. 4228][/us/stat/124/4228], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     The Secretary of Defense shall carry out a joint family support assistance program for the purpose of providing to families of members of the Armed Forces the following types of assistance:
 
@@ -129,29 +129,29 @@
 
 >         “(6) Such other assistance that the Secretary considers appropriate.
 
->     “(b) __Locations.—__ 
+>     “(b)  __Locations__  __.—__ 
 
 >     The Secretary of Defense shall carry out the program in not less than six areas of the United States selected by the Secretary. At least three of the areas selected for the program shall be areas that are geographically isolated from military installations.
 
->     “(c) __Resources and Volunteers.—__ 
+>     “(c)  __Resources and Volunteers__  __.—__ 
 
 >     The Secretary of Defense shall provide personnel and other resources of the Department of Defense necessary for the implementation and operation of the program and may accept and utilize the services of non-Government volunteers and non-profit entities under the program.
 
->     “(d) __Procedures.—__ 
+>     “(d)  __Procedures__  __.—__ 
 
 >     The Secretary of Defense shall establish procedures for the operation of the program and for the provision of assistance to families of members of the Armed Forces under the program.
 
->     “(e) __Relation to Family Support Centers.—__ 
+>     “(e)  __Relation to Family Support Centers__  __.—__ 
 
 >     The program is not intended to operate in lieu of existing family support centers, but is instead intended to augment the activities of the family support centers.
 
 >     “(f) __Implementation Plan.—__ 
 
->         “(1) __Plan required.—__ 
+>         “(1)  __Plan required__  __.—__ 
 
 >         Not later than 90 days after the date on which funds are first obligated for the program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth a plan for the implementation of the program.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The plan required under paragraph (1) shall include the following:
 
@@ -163,11 +163,11 @@
 
 >     “(g) __Report.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than 270 days after the date on which funds are first obligated for the program, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report shall include the following:
 
@@ -177,7 +177,7 @@
 
 >             “(C) An assessment of the advisability of extending the program or making it permanent.
 
->     “(h) __Duration.—__ 
+>     “(h)  __Duration__  __.—__ 
 
 >     The authority to carry out the program shall expire on December 31, 2012.”
 
@@ -185,7 +185,7 @@
 
 [Pub. L. 108–136, div. A, title V, § 581][/us/pl/108/136/s581], Nov. 24, 2003, [117 Stat. 1489][/us/stat/117/1489], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -197,11 +197,11 @@
 
 >         “(4) Beginning in 1997, military family service and support centers have responded to the encouragement and support of private, non-profit organizations to recognize and honor the American military family during the Thanksgiving period each November.
 
->     “(b) __Military Family Recognition.—__ 
+>     “(b)  __Military Family Recognition__  __.—__ 
 
 >     In view of the findings in subsection (a), Congress determines that it is appropriate that special measures be taken annually to recognize and honor the American military family.
 
->     “(c) __Department of Defense Programs and Activities.—__ 
+>     “(c)  __Department of Defense Programs and Activities__  __.—__ 
 
 >     The Secretary of Defense shall—
 

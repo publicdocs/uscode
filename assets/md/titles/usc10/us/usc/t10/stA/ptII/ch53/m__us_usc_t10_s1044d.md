@@ -15,7 +15,7 @@
 
 ## § 1044d. Military testamentary instruments: requirement for recognition by States
 
-    (a) __Testamentary Instruments To Be Given Legal Effect.—__ 
+    (a)  __Testamentary Instruments To Be Given Legal Effect__  __.—__ 
 
     A military testamentary instrument—
 
@@ -23,7 +23,7 @@
 
         (2) has the same legal effect as a testamentary instrument prepared and executed in accordance with the laws of the State in which it is presented for probate.
 
-    (b) __Military Testamentary Instruments.—__ 
+    (b)  __Military Testamentary Instruments__  __.—__ 
 
     For purposes of this section, a military testamentary instrument is an instrument that is prepared with testamentary intent in accordance with regulations prescribed under this section and that—
 
@@ -33,7 +33,7 @@
 
         (3) takes effect upon the death of the testator.
 
-    (c) __Requirements for Execution of Military Testamentary Instruments.—__ 
+    (c)  __Requirements for Execution of Military Testamentary Instruments__  __.—__ 
 
     An instrument is valid as a military testamentary instrument only if—
 
@@ -45,7 +45,7 @@
 
         (4) the instrument is executed in accordance with such additional requirements as may be provided in regulations prescribed under this section.
 
-    (d) __Self-Proving Military Testamentary Instruments.—__ 
+    (d)  __Self-Proving Military Testamentary Instruments__  __.—__ 
 
         (1)
 
@@ -67,17 +67,17 @@
 
             (C) A notarization, including a certificate of any administration of an oath required under the regulations, that is signed by the notary or other official administering the oath.
 
-    (e) __Statement To Be Included.—__ 
+    (e)  __Statement To Be Included__  __.—__ 
 
         (1) Under regulations prescribed under this section, each military testamentary instrument shall contain a statement that sets forth the provisions of subsection (a).
 
         (2) Paragraph (1) shall not be construed to make inapplicable the provisions of subsection (a) to a testamentary instrument that does not include a statement described in that paragraph.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     Regulations for the purposes of this section shall be prescribed jointly by the Secretary of Defense and by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Department of the Navy.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

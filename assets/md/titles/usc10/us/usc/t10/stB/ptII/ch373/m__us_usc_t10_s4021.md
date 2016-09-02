@@ -15,15 +15,15 @@
 
 ## § 4021. Army War College and United States Army Command and General Staff College: civilian faculty members
 
-    (a) __Authority of Secretary.—__ 
+    (a)  __Authority of Secretary__  __.—__ 
 
     The Secretary of the Army may employ as many civilians as professors, instructors, and lecturers at the Army War College or the United States Army Command and General Staff College as the Secretary considers necessary.
 
-    (b) __Compensation of Faculty Members.—__ 
+    (b)  __Compensation of Faculty Members__  __.—__ 
 
     The compensation of persons employed under this section shall be as prescribed by the Secretary.
 
-    (c) __Application to Certain Faculty Members.—__ 
+    (c)  __Application to Certain Faculty Members__  __.—__ 
 
         (1) Except as provided in paragraph (2), this section shall apply with respect to persons who are selected by the Secretary for employment as professors, instructors, and lecturers at the Army War College or the United States Army Command and General Staff College after the end of the 90-day period beginning on November 29, 1989.
 

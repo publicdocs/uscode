@@ -15,11 +15,11 @@
 
 ## § 2688. Utility systems: conveyance authority
 
-    (a) __Conveyance Authority.—__ 
+    (a)  __Conveyance Authority__  __.—__ 
 
     The Secretary of a military department may convey a utility system, or part of a utility system, under the jurisdiction of the Secretary to a municipal, private, regional, district, or cooperative utility company or other entity. The conveyance may consist of all right, title, and interest of the United States in the utility system or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
 
-    (b) __Selection of Conveyee.—__ 
+    (b)  __Selection of Conveyee__  __.—__ 
 
         (1) If more than one utility or entity referred to in subsection (a) notifies the Secretary concerned of an interest in a conveyance under such subsection, the Secretary shall carry out the conveyance through the use of competitive procedures.
 
@@ -27,7 +27,7 @@
 
         (3) With respect to the solicitation process used in connection with the conveyance of a utility system (or part of a utility system) under subsection (a), the Secretary concerned shall ensure that the process is conducted in a manner consistent with the laws and regulations of the State in which the utility system is located to the extent necessary to ensure that all interested regulated and unregulated utility companies and other interested entities receive an opportunity to acquire and operate the utility system to be conveyed.
 
-    (c) __Consideration.—__ 
+    (c)  __Consideration__  __.—__ 
 
         (1)
 
@@ -39,13 +39,13 @@
 
         (2) If the utility services proposed to be provided as consideration under paragraph (1) are subject to regulation by a Federal or State agency, any reduction in the rate charged for the utility services shall be subject to establishment or approval by that agency.
 
-    (d) __Contracts for Utility Services.—__ 
+    (d)  __Contracts for Utility Services__  __.—__ 
 
         (1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
 
         (2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective.
 
-    (e) __Treatment of Payments.—__ 
+    (e)  __Treatment of Payments__  __.—__ 
 
         (1)
 
@@ -61,17 +61,17 @@
 
     \[(f) Repealed. [Pub. L. 112–81, div. A, title X, § 1061(21)(C)][/us/pl/112/81/s1061/21/C], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].\]
 
-    (g) __Additional Terms and Conditions.—__ 
+    (g)  __Additional Terms and Conditions__  __.—__ 
 
         (1) The Secretary concerned may require such additional terms and conditions in connection with a conveyance under subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 
         (2) The Secretary concerned shall require in any contract for the conveyance of a utility system (or part of a utility system) under subsection (a) that the conveyee manage and operate the utility system in a manner consistent with applicable Federal and State regulations pertaining to health, safety, fire, and environmental requirements.
 
-    (h) __Assistance for Construction, Repair, or Replacement of Utility Systems.—__ 
+    (h)  __Assistance for Construction, Repair, or Replacement of Utility Systems__  __.—__ 
 
     In lieu of carrying out a military construction project to construct, repair, or replace a utility system, the Secretary concerned may use funds authorized and appropriated for the project to facilitate the conveyance of the utility system under this section by making a contribution toward the cost of construction, repair, or replacement of the utility system by the entity to which the utility system is being conveyed.
 
-    (i) __Utility System Defined.—__ 
+    (i)  __Utility System Defined__  __.—__ 
 
         (1)
 
@@ -97,7 +97,7 @@
 
             (B) Real property, easements, and rights-of-way associated with a system referred to in that paragraph.
 
-    (j) __Construction of Utility Infrastructure After Conveyance of a Utility System.—__ 
+    (j)  __Construction of Utility Infrastructure After Conveyance of a Utility System__  __.—__ 
 
         (1)
 
@@ -113,7 +113,7 @@
 
         (2) The conveyance under this paragraph may consist of all right, title, and interest of the United States or such lesser estate as the Secretary considers appropriate to serve the interests of the United States.
 
-    (k) __Limitation.—__ 
+    (k)  __Limitation__  __.—__ 
 
     This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 

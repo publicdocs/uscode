@@ -15,11 +15,11 @@
 
 ## § 9415. Inter-American Air Forces Academy
 
-    (a) __Operation.—__ 
+    (a)  __Operation__  __.—__ 
 
     The Secretary of the Air Force may operate the Air Force education and training facility known as the Inter-American Air Forces Academy for the purpose of providing military education and training to military personnel of Central and South American countries, Caribbean countries, and other countries eligible for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 ([22 U.S.C. 2347][/us/usc/t22/s2347] et seq.).
 
-    (b) __Costs.—__ 
+    (b)  __Costs__  __.—__ 
 
     The fixed costs of operating and maintaining the Inter-American Air Forces Academy may be paid from funds available for operation and maintenance of the Air Force.
 

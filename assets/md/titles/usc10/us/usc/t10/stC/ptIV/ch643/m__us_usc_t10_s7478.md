@@ -15,15 +15,15 @@
 
 ## § 7478. Naval War College and Marine Corps University: civilian faculty members
 
-    (a) __Authority of Secretary.—__ 
+    (a)  __Authority of Secretary__  __.—__ 
 
     The Secretary of the Navy may employ as many civilians as professors, instructors, and lecturers at a school of the Naval War College or of the Marine Corps University as the Secretary considers necessary.
 
-    (b) __Compensation of Faculty Members.—__ 
+    (b)  __Compensation of Faculty Members__  __.—__ 
 
     The compensation of persons employed under this section shall be as prescribed by the Secretary.
 
-    (c) __Application to Certain Faculty Members.—__ 
+    (c)  __Application to Certain Faculty Members__  __.—__ 
 
     This section shall not apply with respect to professors, instructors, and lecturers employed at a school of the Naval War College or of the Marine Corps University if the duration of the principal course of instruction offered at the school or college involved is less than 10 months.
 

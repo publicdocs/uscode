@@ -15,21 +15,21 @@
 
 ## § 2410i. Prohibition on contracting with entities that comply with the secondary Arab boycott of Israel
 
-    (a) __Policy.—__ 
+    (a)  __Policy__  __.—__ 
 
     Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2402(5)(A)), it is the policy of the United States to oppose restrictive trade practices or boycotts fostered or imposed by foreign countries against other countries friendly to the United States or against any other United States person.
 
-    (b) __Prohibition.—__ 
+    (b)  __Prohibition__  __.—__ 
 
         (1) Consistent with the policy referred to in subsection (a), the Department of Defense may not award a contract for an amount in excess of the simplified acquisition threshold (as defined in [section 134 of title 41][/us/usc/t41/s134]) to a foreign entity unless that entity certifies to the Secretary of Defense that it does not comply with the secondary Arab boycott of Israel.
 
         (2) In paragraph (1), the term “foreign entity” means a foreign person, a foreign company, or any other foreign entity.
 
-    (c) __Waiver Authority.—__ 
+    (c)  __Waiver Authority__  __.—__ 
 
     The Secretary of Defense may waive the prohibition in subsection (b) in specific instances when the Secretary determines that the waiver is necessary in the national security interests of the United States. Within 15 days after the end of each fiscal year, the Secretary shall submit to Congress a report identifying each contract for which a waiver was granted under this subsection during that fiscal year.
 
-    (d) __Exceptions.—__ 
+    (d)  __Exceptions__  __.—__ 
 
     Subsection (b) does not apply—
 

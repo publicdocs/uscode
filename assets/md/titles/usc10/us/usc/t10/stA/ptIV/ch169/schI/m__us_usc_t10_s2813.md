@@ -15,7 +15,7 @@
 
 ## § 2813. Acquisition of existing facilities in lieu of authorized construction
 
-    (a) __Acquisition Authority.—__ 
+    (a)  __Acquisition Authority__  __.—__ 
 
     Using funds appropriated for a military construction project authorized by law for a military installation, the Secretary of the military department concerned may acquire an existing facility (including the real property on which the facility is located) at or near the military installation instead of carrying out the authorized military construction project if the Secretary determines that—
 
@@ -23,7 +23,7 @@
 
         (2) it is in the best interests of the United States to acquire the facility instead of carrying out the authorized military construction project.
 
-    (b) __Modification or Conversion of Acquired Facility.—__ 
+    (b)  __Modification or Conversion of Acquired Facility__  __.—__ 
 
         (1) As part of the acquisition of an existing facility under subsection (a), the Secretary of the military department concerned may carry out such modifications, repairs, or conversions of the facility as the Secretary considers to be necessary so that the facility satisfies the requirements for which the military construction project was authorized.
 
@@ -35,7 +35,7 @@
 
             (B) in the best interests of the United States.
 
-    (c) __Notice and Wait Requirements.—__ 
+    (c)  __Notice and Wait Requirements__  __.—__ 
 
     A contract may not be entered into for the acquisition of a facility under subsection (a) until the Secretary concerned transmits to the appropriate committees of Congress a written notification of the determination to acquire an existing facility instead of carrying out the authorized military construction project. The notification shall include the reasons for acquiring the facility. After the notification is transmitted, the Secretary may then enter into the contract only after the end of the 21-day period beginning on the date on which the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 

@@ -15,11 +15,11 @@
 
 ## § 2327. Contracts: consideration of national security objectives
 
-    (a) __Disclosure of Ownership or Control by a Foreign Government.—__ 
+    (a)  __Disclosure of Ownership or Control by a Foreign Government__  __.—__ 
 
     The head of an agency shall require a firm or a subsidiary of a firm that submits a bid or proposal in response to a solicitation issued by the Department of Defense to disclose in that bid or proposal any significant interest in such firm or subsidiary (or, in the case of a subsidiary, in the firm that owns the subsidiary) that is owned or controlled (whether directly or indirectly) by a foreign government or an agent or instrumentality of a foreign government, if such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
 
-    (b) __Prohibition on Entering Into Contracts Against the Interests of the United States.—__ 
+    (b)  __Prohibition on Entering Into Contracts Against the Interests of the United States__  __.—__ 
 
     Except as provided in subsection (c), the head of an agency may not enter into a contract with a firm or a subsidiary of a firm if—
 
@@ -27,7 +27,7 @@
 
         (2) such foreign government is the government of a country that the Secretary of State determines under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) has repeatedly provided support for acts of international terrorism.
 
-    (c) __Waiver.—__ 
+    (c)  __Waiver__  __.—__ 
 
         (1)
 
@@ -57,7 +57,7 @@
 
             (D) Whether payments made, or information made available, to the firm or subsidiary under the contract could be used for purposes hostile to the interests of the United States.
 
-    (d) __List of Firms Subject to Prohibition.—__ 
+    (d)  __List of Firms Subject to Prohibition__  __.—__ 
 
         (1) The Secretary of Defense shall develop and maintain a list of all firms and subsidiaries of firms that the Secretary has identified as being subject to the prohibition in subsection (b).
 
@@ -71,17 +71,17 @@
 
         (3) The head of an agency shall prohibit each firm or subsidiary of a firm awarded a contract by the agency from entering into a subcontract under that contract in an amount in excess of $25,000 with a firm or subsidiary included on the list maintained under paragraph (1) unless there is a compelling reason to do so. In the case of any subcontract requiring consent by the head of an agency, the head of the agency shall not consent to the award of the subcontract to a firm or subsidiary included on such list unless there is a compelling reason for such approval.
 
-    (e) __Distribution of List.—__ 
+    (e)  __Distribution of List__  __.—__ 
 
     The Administrator of General Services shall ensure that the list developed and maintained under subsection (d) is made available to Federal agencies and the public in the same manner and to the same extent as the list of suspended and debarred contractors compiled pursuant to subpart 9.4 of the Federal Acquisition Regulation.
 
-    (f) __Applicability.—__ 
+    (f)  __Applicability__  __.—__ 
 
         (1) This section does not apply to a contract for an amount less than $100,000.
 
         (2) This section does not apply to the Coast Guard or the National Aeronautics and Space Administration.
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
     The Secretary of Defense, after consultation with the Secretary of State, shall prescribe regulations to carry out this section. Such regulations shall include a definition of the term “significant interest”.
 

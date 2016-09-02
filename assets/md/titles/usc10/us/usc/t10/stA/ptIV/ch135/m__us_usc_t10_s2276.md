@@ -15,7 +15,7 @@
 
 ## § 2276. Commercial space launch cooperation
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may take such actions as the Secretary considers to be in the best interest of the Federal Government to—
 
@@ -29,7 +29,7 @@
 
         (5) foster cooperation between the Department of Defense and covered entities.
 
-    (b) __Authority for Contracts and Other Agreements Relating to Space Transportation Infrastructure.—__ 
+    (b)  __Authority for Contracts and Other Agreements Relating to Space Transportation Infrastructure__  __.—__ 
 
     The Secretary of Defense—
 
@@ -51,13 +51,13 @@
 
             (B) any commercial requirement included in the agreement has full non-Federal funding before the execution of the agreement.
 
-    (c) __Contributions.—__ 
+    (c)  __Contributions__  __.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Secretary of Defense may enter into an agreement with a covered entity on a cooperative and voluntary basis to accept contributions of funds, services, and equipment to carry out this section.
 
-        (2) __Use of contributions.—__ 
+        (2)  __Use of contributions__  __.—__ 
 
         Any funds, services, or equipment accepted by the Secretary under this subsection—
 
@@ -65,7 +65,7 @@
 
             (B) shall be managed by the Secretary in accordance with regulations of the Department of Defense.
 
-        (3) __Requirements with respect to agreements.—__ 
+        (3)  __Requirements with respect to agreements__  __.—__ 
 
         An agreement entered into with a covered entity under this subsection—
 
@@ -73,33 +73,33 @@
 
             (B) shall include a provision that the covered entity will not recover the costs of its contribution through any other agreement with the United States.
 
-    (d) __Defense Cooperation Space Launch Account.—__ 
+    (d)  __Defense Cooperation Space Launch Account__  __.—__ 
 
-        (1) __Establishment.—__ 
+        (1)  __Establishment__  __.—__ 
 
         There is established in the Treasury of the United States a special account to be known as the “Defense Cooperation Space Launch Account”.
 
-        (2) __Crediting of funds.—__ 
+        (2)  __Crediting of funds__  __.—__ 
 
         Funds received by the Secretary of Defense under subsection (c) shall be credited to the Defense Cooperation Space Launch Account.
 
-        (3) __Use of funds.—__ 
+        (3)  __Use of funds__  __.—__ 
 
         Funds deposited in the Defense Cooperation Space Launch Account under paragraph (2) are authorized to be appropriated and shall be available for obligation only to the extent provided in advance in an appropriation Act for costs incurred by the Department of Defense in carrying out subsection (b). Funds in the Account shall remain available until expended.
 
-    (e) __Annual Report.—__ 
+    (e)  __Annual Report__  __.—__ 
 
     Not later than January 31 of each year, the Secretary of Defense shall submit to the congressional defense committees a report on the funds, services, and equipment accepted and used by the Secretary under this section during the preceding fiscal year.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Covered entity.—__ 
+        (1)  __Covered entity__  __.—__ 
 
         The term “covered entity” means a non-Federal entity that—
 
@@ -107,15 +107,15 @@
 
             (B) is engaged in commercial space activities.
 
-        (2) __Launch support facilities.—__ 
+        (2)  __Launch support facilities__  __.—__ 
 
         The term “launch support facilities” has the meaning given the term in [section 50501(7) of title 51][/us/usc/t51/s50501/7].
 
-        (3) __Space recovery support facilities.—__ 
+        (3)  __Space recovery support facilities__  __.—__ 
 
         The term “space recovery support facilities” has the meaning given the term in [section 50501(11) of title 51][/us/usc/t51/s50501/11].
 
-        (4) __Space transportation infrastructure.—__ 
+        (4)  __Space transportation infrastructure__  __.—__ 
 
         The term “space transportation infrastructure” has the meaning given that term in [section 50501(12) of title 51][/us/usc/t51/s50501/12].
 

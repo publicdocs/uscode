@@ -15,15 +15,15 @@
 
 ## § 2514. Encouragement of technology transfer
 
-    (a) __Encouragement of Transfer Required.—__ 
+    (a)  __Encouragement of Transfer Required__  __.—__ 
 
     The Secretary of Defense shall encourage, to the extent consistent with national security objectives, the transfer of technology between laboratories and research centers of the Department of Defense and other Federal agencies, State and local governments, colleges and universities, and private persons in cases that are likely to result in accomplishing the objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a].
 
-    (b) __Examination and Implementation of Methods To Encourage Transfer.—__ 
+    (b)  __Examination and Implementation of Methods To Encourage Transfer__  __.—__ 
 
     The Secretary shall examine and implement methods, in addition to the encouragement referred to in subsection (a) and the program described in subsection (c), that are consistent with national security objectives and will enable Department of Defense personnel to promote technology transfer.
 
-    (c) __Program To Encourage Diversification of Defense Laboratories.—__ 
+    (c)  __Program To Encourage Diversification of Defense Laboratories__  __.—__ 
 
         (1) The Secretary of Defense shall establish and implement a program to be known as the Federal Defense Laboratory Diversification Program (hereinafter in this subsection referred to as the “Program”). The purpose of the Program shall be to encourage greater cooperation in research and production activities carried out by defense laboratories and by private industry of the United States in order to enhance and improve the products of such research and production activities.
 

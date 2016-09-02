@@ -15,7 +15,7 @@
 
 ## § 129b. Authority to procure personal services
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Subject to subsection (b), the Secretary of Defense and the Secretaries of the military departments may—
 
@@ -23,7 +23,7 @@
 
         (2) pay in connection with such services travel expenses of individuals, including transportation and per diem in lieu of subsistence while such individuals are traveling from their homes or places of business to official duty stations and return as may be authorized by law.
 
-    (b) __Conditions.—__ 
+    (b)  __Conditions__  __.—__ 
 
     The services of experts or consultants (or organizations thereof) may be procured under subsection (a) only if the Secretary of Defense or the Secretary of the military department concerned, as the case may be, determines that—
 
@@ -31,11 +31,11 @@
 
         (2) such services cannot adequately be provided by the Department of Defense.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     Procurement of the services of experts and consultants (or organizations thereof) under subsection (a) shall be carried out under regulations prescribed by the Secretary of Defense.
 
-    (d) __Additional Authority for Personal Services Contracts.—__ 
+    (d)  __Additional Authority for Personal Services Contracts__  __.—__ 
 
         (1)
 

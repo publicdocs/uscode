@@ -15,15 +15,15 @@
 
 ## § 2169. School of Nursing: establishment
 
-    (a) __Establishment Authorized.—__ 
+    (a)  __Establishment Authorized__  __.—__ 
 
     The Secretary of Defense may establish a School of Nursing.
 
-    (b) __Degree Granting Authority.—__ 
+    (b)  __Degree Granting Authority__  __.—__ 
 
     The School of Nursing may include a program that awards a bachelor of science in nursing.
 
-    (c) __Phased Development.—__ 
+    (c)  __Phased Development__  __.—__ 
 
     The Secretary of Defense may develop the School of Nursing in phases as determined appropriate by the Secretary.
 

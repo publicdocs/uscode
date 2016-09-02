@@ -15,7 +15,7 @@
 
 ## § 117. Readiness reporting system: establishment; reporting to congressional committees
 
-    (a) __Required Readiness Reporting System.—__ 
+    (a)  __Required Readiness Reporting System__  __.—__ 
 
     The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reporting system shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
 
@@ -25,7 +25,7 @@
 
         (3) the National Military Strategy prescribed by the Chairman of the Joint Chiefs of Staff.
 
-    (b) __Readiness Reporting System Characteristics.—__ 
+    (b)  __Readiness Reporting System Characteristics__  __.—__ 
 
     In establishing the readiness reporting system, the Secretary shall ensure—
 
@@ -35,7 +35,7 @@
 
         (3) that sufficient resources are provided to establish and maintain the system so as to allow reporting of changes in readiness status as required by this section.
 
-    (c) __Capabilities.—__ 
+    (c)  __Capabilities__  __.—__ 
 
     The readiness reporting system shall measure such factors relating to readiness as the Secretary prescribes, except that the system shall include the capability to do each of the following:
 
@@ -55,7 +55,7 @@
 
         (8) Measure, on an annual basis, the capability of operational contract support to support current and anticipated wartime missions of the armed forces.
 
-    (d) __Quarterly and Monthly Joint Readiness Reviews.—__ 
+    (d)  __Quarterly and Monthly Joint Readiness Reviews__  __.—__ 
 
         (1)
 
@@ -67,11 +67,11 @@
 
         (2) The Chairman shall incorporate into both the joint readiness review required under paragraph (1)(A) and the monthly review required under paragraph (1)(B) the current information derived from the readiness reporting system and shall assess the capability of the armed forces to execute their wartime missions based upon their posture at the time the review is conducted. The Chairman shall submit to the Secretary of Defense the results of each review under paragraph (1), including the deficiencies in readiness identified during that review.
 
-    (e) __Submission to Congressional Committees.—__ 
+    (e)  __Submission to Congressional Committees__  __.—__ 
 
     The Secretary shall each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A), including the current information derived from the readiness reporting system. Each such report shall be submitted in unclassified form and may, as the Secretary determines necessary, also be submitted in classified form.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations to carry out this section. In those regulations, the Secretary shall prescribe the units that are subject to reporting in the readiness reporting system, what type of equipment is subject to such reporting, and the elements of the training establishment and of defense infrastructure that are subject to such reporting.
 

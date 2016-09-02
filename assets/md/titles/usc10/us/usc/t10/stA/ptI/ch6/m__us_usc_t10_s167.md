@@ -15,25 +15,25 @@
 
 ## § 167. Unified combatant command for special operations forces
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     With the advice and assistance of the Chairman of the Joint Chiefs of Staff, the President, through the Secretary of Defense, shall establish under [section 161 of this title][/us/usc/t10/s161] a unified combatant command for special operations forces (hereinafter in this section referred to as the “special operations command”). The principal function of the command is to prepare special operations forces to carry out assigned missions.
 
-    (b) __Assignment of Forces.—__ 
+    (b)  __Assignment of Forces__  __.—__ 
 
     Unless otherwise directed by the Secretary of Defense, all active and reserve special operations forces of the armed forces stationed in the United States shall be assigned to the special operations command.
 
-    (c) __Grade of Commander.—__ 
+    (c)  __Grade of Commander__  __.—__ 
 
     The commander of the special operations command shall hold the grade of general or, in the case of an officer of the Navy, admiral while serving in that position, without vacating his permanent grade. The commander of such command shall be appointed to that grade by the President, by and with the advice and consent of the Senate, for service in that position.
 
-    (d) __Command of Activity or Mission.—__ 
+    (d)  __Command of Activity or Mission__  __.—__ 
 
         (1) Unless otherwise directed by the President or the Secretary of Defense, a special operations activity or mission shall be conducted under the command of the commander of the unified combatant command in whose geographic area the activity or mission is to be conducted.
 
         (2) The commander of the special operations command shall exercise command of a selected special operations mission if directed to do so by the President or the Secretary of Defense.
 
-    (e) __Authority of Combatant Commander.—__ 
+    (e)  __Authority of Combatant Commander__  __.—__ 
 
         (1) In addition to the authority prescribed in [section 164(c) of this title][/us/usc/t10/s164/c], the commander of the special operations command shall be responsible for, and shall have the authority to conduct, all affairs of such command relating to special operations activities.
 
@@ -105,7 +105,7 @@
 
             (D) The staff of the commander shall include an inspector general who shall conduct internal audits and inspections of purchasing and contracting actions through the special operations command and such other inspector general functions as may be assigned.
 
-    (f) __Budget.—__ 
+    (f)  __Budget__  __.—__ 
 
     In addition to the activities of a combatant command for which funding may be requested under [section 166(b) of this title][/us/usc/t10/s166/b], the budget proposal of the special operations command shall include requests for funding for—
 
@@ -113,15 +113,15 @@
 
         (2) acquisition of other material, supplies, or services that are peculiar to special operations activities.
 
-    (g) __Intelligence and Special Activities.—__ 
+    (g)  __Intelligence and Special Activities__  __.—__ 
 
     This section does not constitute authority to conduct any activity which, if carried out as an intelligence activity by the Department of Defense, would require a notice to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives under title V of the National Security Act of 1947 ([50 U.S.C. 413][/us/usc/t50/s413] et seq.). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-    (h) __Regulations.—__ 
+    (h)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the activities of the special operations command. Such regulations shall include authorization for the commander of such command to provide for operational security of special operations forces and activities.
 
-    (i) __Identification of Special Operations Forces.—__ 
+    (i)  __Identification of Special Operations Forces__  __.—__ 
 
         (1)
 
@@ -135,7 +135,7 @@
 
         (2) The Secretary of Defense, after consulting with the Chairman of the Joint Chiefs of Staff and the commander of the special operations command, may direct that any force included within the description in paragraph (1)(A) or (1)(B) shall not be considered as a special operations force for the purposes of this section.
 
-    (j) __Special Operations Activities.—__ 
+    (j)  __Special Operations Activities__  __.—__ 
 
     For purposes of this section, special operations activities include each of the following insofar as it relates to special operations:
 
@@ -159,7 +159,7 @@
 
         (10) Such other activities as may be specified by the President or the Secretary of Defense.
 
-    (k) __Budget Support for Reserve Elements.—__ 
+    (k)  __Budget Support for Reserve Elements__  __.—__ 
 
         (1) Before the budget proposal for the special operations command for any fiscal year is submitted to the Secretary of Defense, the commander of the command shall consult with the Secretaries of the military departments concerning funding for reserve component special operations units. If the Secretary of a military department does not concur in the recommended level of funding with respect to any such unit that is under the jurisdiction of the Secretary, the commander shall include with the budget proposal submitted to the Secretary of Defense the views of the Secretary of the military department concerning such funding.
 
@@ -231,11 +231,11 @@
 
 [Pub. L. 112–81, div. A, title IX, § 904][/us/pl/112/81/s904], Dec. 31, 2011, [125 Stat. 1533][/us/stat/125/1533], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     By not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\] and annually thereafter, each Secretary of a military department shall enter into a memorandum of agreement with the Commander of the United States Special Operations Command that identifies or establishes processes and associated milestones by which numbers and types of enabling capabilities of the general purpose forces of the Armed Forces under the jurisdiction of such Secretary can be identified and dedicated to fulfill the training and operational requirements of special operations forces under the United States Special Operations Command.
 
->     “(b) __Format.—__ 
+>     “(b)  __Format__  __.—__ 
 
 >     Such agreements may be accomplished in an annex to existing memoranda of agreement or through separate memoranda of agreement.”
 
@@ -243,11 +243,11 @@
 
 [Pub. L. 112–81, div. A, title X, § 1031][/us/pl/112/81/s1031], Dec. 31, 2011, [125 Stat. 1570][/us/stat/125/1570], provided that:
 
->     “(a) __Briefings Required.—__ 
+>     “(a)  __Briefings Required__  __.—__ 
 
 >     Beginning not later than March 1, 2012, the Secretary of Defense shall provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] quarterly briefings outlining Department of Defense counterterrorism operations and related activities involving special operations forces.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     Each briefing under subsection (a) shall include each of the following:
 
@@ -265,15 +265,15 @@
 
 >     “(a) __Quarterly Reports Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 30 days after the end of each fiscal quarter, the commander of the United States Special Operations Command shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the use of Combat Mission Requirements funds during the preceding fiscal quarter.
 
->         “(2) __Combat mission requirements funds.—__ 
+>         “(2)  __Combat mission requirements funds__  __.—__ 
 
 >         For purposes of this section, Combat Mission Requirements funds are amounts available to the Department of Defense for Defense-wide procurement in the Combat Mission Requirements subaccount of the Defense-wide Procurement account.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     Each report under subsection (a) shall include, for the fiscal quarter covered by such report, the following:
 
@@ -305,7 +305,7 @@
 
 >         “(7) A statement of the amount of any unspent Combat Mission Requirements funds from the fiscal year in which such report is submitted and the two preceding fiscal years.
 
->     “(c) __Form.—__ 
+>     “(c)  __Form__  __.—__ 
 
 >     Each report under subsection (a) shall be submitted in unclassified form, but may include a classified annex.”
 
@@ -329,15 +329,15 @@
 
 [Pub. L. 99–661, div. A, title XIII, § 1311(c)][/us/pl/99/661/s1311/c]–(e), Nov. 14, 1986, [100 Stat. 3985][/us/stat/100/3985], 3986, provided that:
 
->     “(c) __Major Force Program Category.—__ 
+>     “(c)  __Major Force Program Category__  __.—__ 
 
 >     The Secretary of Defense shall create for the special operations forces a major force program category for the Five-Year Defense Plan of the Department of Defense. The Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, with the advice and assistance of the commander of the special operations command, shall provide overall supervision of the preparation and justification of program recommendations and budget proposals to be included in such major force program category.
 
->     “(d) __Program and Budget Execution.—__ 
+>     “(d)  __Program and Budget Execution__  __.—__ 
 
 >     To the extent that there is authority to revise programs and budgets approved by Congress for special operations forces, such authority may be exercised only by the Secretary of Defense, after consulting with the commander of the special operations command.
 
->     “(e) __Grade for Commanders of Certain Area Special Operations Commands.—__ 
+>     “(e)  __Grade for Commanders of Certain Area Special Operations Commands__  __.—__ 
 
 >     The commander of the special operations command of the United States European Command, the United States Pacific Command, and any other unified combatant command that the Secretary of Defense may designate for the purposes of this section shall be of general or flag officer grade.”
 

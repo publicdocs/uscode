@@ -85,11 +85,11 @@
 
 [Pub. L. 106–309, title IV, § 403][/us/pl/106/309/s403], Oct. 17, 2000, [114 Stat. 1097][/us/stat/114/1097], provided that:
 
->     “(a) __Priority for Disaster Relief Assistance.—__ 
+>     “(a)  __Priority for Disaster Relief Assistance__  __.—__ 
 
 >     In processing applications for the transportation of humanitarian assistance abroad under [section 402 of title 10][/us/usc/t10/s402], United States Code, the Administrator of the United States Agency for International Development shall afford a priority to applications for the transportation of disaster relief assistance.
 
->     “(b) __Modification of Applications.—__ 
+>     “(b)  __Modification of Applications__  __.—__ 
 
 >     The Administrator of the United States Agency for International Development shall take all possible actions to assist applicants for the transportation of humanitarian assistance abroad under such section 402 in modifying or completing applications submitted under such section in order to meet applicable requirements under such section. The actions shall include efforts to contact such applicants for purposes of the modification or completion of such applications.”
 

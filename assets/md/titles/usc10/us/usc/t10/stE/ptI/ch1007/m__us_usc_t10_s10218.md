@@ -15,7 +15,7 @@
 
 ## § 10218. Army and Air Force Reserve technicians: conditions for retention; mandatory retirement under civil service laws
 
-    (a) __Separation and Retirement of Military Technicians (Dual Status).—__ 
+    (a)  __Separation and Retirement of Military Technicians (Dual Status)__  __.—__ 
 
         (1) An individual employed by the Army Reserve or the Air Force Reserve as a military technician (dual status) who after October 5, 1999, loses dual status is subject to paragraph (2) or (3), as the case may be.
 
@@ -53,7 +53,7 @@
 
             (B) ceasing to hold the military grade specified by the Secretary concerned for the position held by the technician.
 
-    (b) __Non-Dual Status Technicians.—__ 
+    (b)  __Non-Dual Status Technicians__  __.—__ 
 
         (1) An individual who on October 5, 1999, is employed by the Army Reserve or the Air Force Reserve as a non-dual status technician and who on that date is eligible for an unreduced annuity and is age 60 or older shall be separated not later than April 5, 2000.
 
@@ -83,11 +83,11 @@
 
         (3) An individual employed by the Army Reserve or the Air Force Reserve as a non-dual status technician who is ineligible for appointment to a military technician (dual status) position, or who decides not to apply for appointment to such a position, or who, during the period beginning on October 5, 1999, and ending on April 5, 2000, is not appointed to such a position, shall for reduction-in-force purposes be in a separate competitive category from employees who are military technicians (dual status).
 
-    (c) __Unreduced Annuity Defined.—__ 
+    (c)  __Unreduced Annuity Defined__  __.—__ 
 
     For purposes of this section, a technician shall be considered to be eligible for an unreduced annuity if the technician is eligible for an annuity under section 8336, 8412, or 8414 of title 5 that is not subject to a reduction by reason of the age or years of service of the technician.
 
-    (d) __Voluntary Personnel Action Defined.—__ 
+    (d)  __Voluntary Personnel Action Defined__  __.—__ 
 
     In this section, the term “voluntary personnel action”, with respect to a non-dual status technician, means any of the following:
 

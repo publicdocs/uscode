@@ -95,11 +95,11 @@ Apr. 28, 1904, ch. 1766, 33 Stat. 518.  </td>
 
 [Pub. L. 109–364, div. A, title X, § 1017][/us/pl/109/364/s1017], Oct. 17, 2006, [120 Stat. 2379][/us/stat/120/2379], as amended by [Pub. L. 110–181, div. A, title X, § 1063(c)(9)][/us/pl/110/181/s1063/c/9], div. C, title XXXV, § 3526(a), Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323], 601, provided that:
 
->     “(a) __Acquisition Policy.—__ 
+>     “(a)  __Acquisition Policy__  __.—__ 
 
 >     In order to maintain the national defense industrial base, the Secretary of Defense shall issue an acquisition policy that establishes, as a criterion required to be considered in obtaining carriage by vessel of cargo for the Department of Defense, the extent to which an offeror of such carriage had overhaul, repair, and maintenance work for covered vessels of the offeror performed in shipyards located in the United States.
 
->     “(b) __Covered Vessels.—__ 
+>     “(b)  __Covered Vessels__  __.—__ 
 
 >     A vessel is a covered vessel of an offeror under this section if the vessel is—
 
@@ -107,43 +107,43 @@ Apr. 28, 1904, ch. 1766, 33 Stat. 518.  </td>
 
 >         “(2) qualified to engage in the carriage of cargo in the coastwise or non-contiguous trade under sections 12112 and 50501 and chapter 551 of title 46, United States Code.
 
->     “(c) __Application of Policy.—__ 
+>     “(c)  __Application of Policy__  __.—__ 
 
 >     The acquisition policy shall include rules providing for application of the policy to covered vessels as expeditiously as is practicable based on the nature of carriage obtained, and by no later than June 1, 2007.
 
 >     “(d) __Regulations.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary shall prescribe regulations as necessary to carry out the acquisition policy and submit such regulations to the Committees on Armed Services of the Senate and the House of Representatives, by not later than June 1, 2007.
 
 >         “(2) __Interim regulations.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Secretary may prescribe interim regulations as necessary to carry out the acquisition policy. For this purpose, the Secretary is excepted from compliance with the notice and comment requirements of [section 553 of title 5][/us/usc/t5/s553], United States Code.
 
->             “(B) __Submission to congress.—__ 
+>             “(B)  __Submission to congress__  __.—__ 
 
 >             Upon the issuance of interim regulations under this paragraph, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the interim regulations and a description of the acquisition policy developed (or being developed) under subsection (a).
 
->             “(C) __Expiration.—__ 
+>             “(C)  __Expiration__  __.—__ 
 
 >             All interim regulations prescribed under the authority of this paragraph that are not earlier superseded by final regulations shall expire no later than June 1, 2007.
 
->     “(e) __Annual Report.—__ 
+>     “(e)  __Annual Report__  __.—__ 
 
 >     The Secretary, acting through the United States Transportation Command, shall annually submit to the Committees on Armed Services of the Senate and the House of Representatives a report regarding overhaul, repair, and maintenance performed on covered vessels of each offeror of carriage to which the acquisition policy applies.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Foreign shipyard.—__ 
+>         “(1)  __Foreign shipyard__  __.—__ 
 
 >         The term ‘foreign shipyard’ means a shipyard that is not located in the United States.
 
->         “(2) __United states.—__ 
+>         “(2)  __United states__  __.—__ 
 
 >         The term ‘United States’ means—
 

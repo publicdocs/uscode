@@ -17,17 +17,17 @@
 
 ## “SEC. 7. FILING DEPOSITORIES FOR INVESTMENT ADVISERS.
 
->     “(a) __Investment Advisers.—__ 
+>     “(a)  __Investment Advisers__  __.—__ 
 
 >     \[Amended [section 80b–4 of Title 15][/us/usc/t15/s80b–4].\]
 
->     “(b) __Conforming Amendments.—__ 
+>     “(b)  __Conforming Amendments__  __.—__ 
 
->         “(1) __Investment advisers act of 1940.—__ 
+>         “(1)  __Investment advisers act of 1940__  __.—__ 
 
 >         \[Amended [section 80b–3a of Title 15][/us/usc/t15/s80b–3a].\]
 
->         “(2) __National securities markets improvement act of 1996.—__ 
+>         “(2)  __National securities markets improvement act of 1996__  __.—__ 
 
 >         \[Repealed provisions set out as a note under [section 80b–10 of Title 15][/us/usc/t15/s80b–10].\]
 

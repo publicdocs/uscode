@@ -15,7 +15,7 @@
 
 ## § 16163. Eligibility for educational assistance
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     On or after September 11, 2001, a member of a reserve component is entitled to educational assistance under this chapter if the member—
 
@@ -23,21 +23,21 @@
 
         (2) in the case of a member of the Army National Guard of the United States or Air National Guard of the United States, performed full time National Guard duty under [section 502(f) of title 32][/us/usc/t32/s502/f] for 90 consecutive days or more when authorized by the President or Secretary of Defense for the purpose of responding to a national emergency declared by the President and supported by Federal funds.
 
-    (b) __Disabled Members.—__ 
+    (b)  __Disabled Members__  __.—__ 
 
     Notwithstanding the eligibility requirements in subsection (a), a member who was ordered to active service as prescribed under subsection (a)(1) or (a)(2) but is released from duty before completing 90 consecutive days because of an injury, illness or disease incurred or aggravated in the line of duty shall be entitled to educational assistance under this chapter at the rate prescribed in [section 16162(c)(4)(A) of this title][/us/usc/t10/s16162/c/4/A].
 
-    (c) __Written Notification.—__ 
+    (c)  __Written Notification__  __.—__ 
 
         (1) Each member who becomes entitled to educational assistance under subsection (a) shall be given a statement in writing prior to release from active service that summarizes the provisions of this chapter and stating clearly and prominently the substance of [section 16165 of this title][/us/usc/t10/s16165] as such section may apply to the member.
 
         (2) At the request of the Secretary of Veterans Affairs, the Secretary concerned shall transmit a notice of entitlement for each such member to that Secretary.
 
-    (d) __Bar From Dual Eligibility.—__ 
+    (d)  __Bar From Dual Eligibility__  __.—__ 
 
     A member who qualifies for educational assistance under this chapter may not receive credit for such service under both the program established by chapter 30 of title 38 and the program established by this chapter but shall make an irrevocable election (in such form and manner as the Secretary of Veterans Affairs may prescribe) as to the program to which such service is to be credited.
 
-    (e) __Bar From Duplication of Educational Assistance Allowance.—__ 
+    (e)  __Bar From Duplication of Educational Assistance Allowance__  __.—__ 
 
         (1) Except as provided in paragraph (2), an individual entitled to educational assistance under this chapter who is also eligible for educational assistance under chapter 1606 of this title, chapter 30, 31, 32, 33, or 35 of title 38, or under the Hostage Relief Act of 1980 ([Public Law 96–449][/us/pl/96/449]; [5 U.S.C. 5561][/us/usc/t5/s5561] note) may not receive assistance under more than one such program and shall elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) under which program the member elects to receive educational assistance.
 

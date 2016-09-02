@@ -15,7 +15,7 @@
 
 ## § 4542. Technical data packages for large-caliber cannon: prohibition on transfers to foreign countries; exception
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     Funds appropriated to the Department of Defense may not be used—
 
@@ -23,7 +23,7 @@
 
         (2) to assist a foreign country in producing such a defense item.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     The Secretary of the Army may use funds appropriated to the Department of Defense to transfer a technical data package, or to provide assistance, described in subsection (a) if—
 
@@ -39,7 +39,7 @@
 
         (3) the Secretary of Defense enters into an agreement with the country concerned described in subsection (c) or (d).
 
-    (c) __Coproduction Agreements.—__ 
+    (c)  __Coproduction Agreements__  __.—__ 
 
     An agreement under this subsection shall be in the form of a Government-to-Government Memorandum of Understanding and shall include provisions that—
 
@@ -57,7 +57,7 @@
 
         (4) require the Secretary of Defense to monitor compliance with the agreement and the participating foreign country to report periodically to the Secretary of Defense concerning the agreement.
 
-    (d) __Cooperative Project Agreements.—__ 
+    (d)  __Cooperative Project Agreements__  __.—__ 
 
     An agreement under this subsection is a cooperative project agreement under section 27 of the Arms Export Control Act ([22 U.S.C. 2767][/us/usc/t22/s2767]) which includes provisions that—
 
@@ -67,11 +67,11 @@
 
         (3) require the Secretary of Defense to monitor compliance with the agreement.
 
-    (e) __Licensing Fees and Royalties.—__ 
+    (e)  __Licensing Fees and Royalties__  __.—__ 
 
     The limitation in subsection (b)(2)(B) shall not apply if the technology (or production technique) transferred is subject to nonexclusive license and payment of any negotiated licensing fee or royalty that reflects the cost of development, implementation, and prove-out of the technology or production technique. Any negotiated license fee or royalty shall be placed in the operating fund of the arsenal concerned for the purpose of capital investment and technology development at that arsenal.
 
-    (f) __Transfers to Third Parties.—__ 
+    (f)  __Transfers to Third Parties__  __.—__ 
 
     A transfer described in subsection (c)(3) may be made if—
 
@@ -85,13 +85,13 @@
 
             (B) certifies to Congress, before the transfer, that the transfer would provide a clear benefit to the production base of the United States for large-caliber cannon.
 
-    (g) __Notice and Reports to Congress.—__ 
+    (g)  __Notice and Reports to Congress__  __.—__ 
 
         (1) The Secretary of the Army shall submit to Congress a notice of each agreement entered into under this section.
 
         (2) The Secretary shall submit to Congress a semi-annual report on the operation of this section and of agreements entered into under this section.
 
-    (h) __Arsenal Defined.—__ 
+    (h)  __Arsenal Defined__  __.—__ 
 
     In this section, the term “arsenal” means a Government-owned, Government-operated defense plant that manufactures large-caliber cannon.
 

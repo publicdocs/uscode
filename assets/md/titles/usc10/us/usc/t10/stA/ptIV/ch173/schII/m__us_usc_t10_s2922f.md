@@ -47,7 +47,7 @@
 
 [Pub. L. 102–484, div. A, title III, § 384(b)][/us/pl/102/484/s384/b]–(d), Oct. 23, 1992, [106 Stat. 2393][/us/stat/106/2393], provided that:
 
->     “(b) __Electric Lighting Demonstration Program.—__ 
+>     “(b)  __Electric Lighting Demonstration Program__  __.—__ 
 
 >         (1) The Secretary of Defense shall conduct a demonstration program for using energy efficient electric lighting equipment.
 
@@ -65,7 +65,7 @@
 
 >         “(5) Energy efficient electric lighting equipment used under the demonstration program may include compact fluorescent lamps, energy efficient electric ballasts and fixtures, and other energy efficient electric lighting equipment.
 
->     “(c) __Refrigeration Equipment Demonstration Program.—__ 
+>     “(c)  __Refrigeration Equipment Demonstration Program__  __.—__ 
 
 >         (1) The Secretary of Defense shall conduct a demonstration program for using energy efficient refrigeration equipment.
 
@@ -81,7 +81,7 @@
 
 >         “(4) Except as provided in subsection (d)(4), on the basis of the results of the audit the head of the facility shall promptly convert to the use of refrigeration equipment at the facility that is more energy efficient than the existing refrigeration equipment to the extent that the conversion is cost effective.
 
->     “(d) __General Provisions for Demonstration Programs.—__ 
+>     “(d)  __General Provisions for Demonstration Programs__  __.—__ 
 
 >         (1) The Secretary of Defense shall make the designations under subsections (b)(2) and (c)(2) not later than 180 days after the date of the enactment of this Act \[Oct. 23, 1992\].
 

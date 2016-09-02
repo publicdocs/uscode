@@ -15,19 +15,19 @@
 
 ## § 4688. Armor-piercing ammunition and components: condition on disposal
 
-    (a) __Limitation on Resale or Other Transfer.—__ 
+    (a)  __Limitation on Resale or Other Transfer__  __.—__ 
 
     Except as provided in subsection (b), whenever the Secretary of the Army carries out a disposal (by sale or otherwise) of armor-piercing ammunition, or a component of armor-piercing ammunition, the Secretary shall require as a condition of the disposal that the recipient agree in writing not to sell or otherwise transfer any of the ammunition (reconditioned or otherwise), or any armor-piercing component of that ammunition, to any purchaser in the United States other than a law enforcement or other governmental agency.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     Subsection (a) does not apply to a transfer of a component of armor-piercing ammunition solely for the purpose of metal reclamation by means of a destructive process such as melting, crushing, or shredding.
 
-    (c) __Special Rule for Non-Armor-Piercing Components.—__ 
+    (c)  __Special Rule for Non-Armor-Piercing Components__  __.—__ 
 
     A component of the armor-piercing ammunition that is not itself armor-piercing and is not subjected to metal reclamation as described in subsection (b) may not be used as a component in the production of new or remanufactured armor-piercing ammunition other than for sale to a law enforcement or other governmental agency or for a government-to-government sale or commercial export to a foreign government under the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751]).
 
-    (d) __Definition.—__ 
+    (d)  __Definition__  __.—__ 
 
     In this section, the term “armor-piercing ammunition” means a center-fire cartridge the military designation of which includes the term “armor penetrator” or “armor-piercing”, including a center-fire cartridge designated as armor-piercing incendiary (API) or armor-piercing incendiary-tracer (API–T).
 

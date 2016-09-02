@@ -15,7 +15,7 @@
 
 ## § 4725. Superintendents
 
-    (a) __Appointment and Qualifications.—__ 
+    (a)  __Appointment and Qualifications__  __.—__ 
 
     An individual serving as the superintendent of one of the Cemeteries should have, as determined by the Secretary of the Army—
 
@@ -23,7 +23,7 @@
 
         (2) experience in the administration, management, and operation of large civilian cemeteries equivalent to the experience described in paragraph (1).
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The superintendents of the Cemeteries report directly to the Executive Director and performs such duties and responsibilities as the Executive Director prescribes.
 

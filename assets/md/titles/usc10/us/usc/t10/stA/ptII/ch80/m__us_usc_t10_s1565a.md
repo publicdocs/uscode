@@ -15,17 +15,17 @@
 
 ## § 1565a. DNA samples maintained for identification of human remains: use for law enforcement purposes
 
-    (a) __Compliance with Court Order.—__ 
+    (a)  __Compliance with Court Order__  __.—__ 
 
         (1) Subject to paragraph (2), if a valid order of a Federal court (or military judge) so requires, an element of the Department of Defense that maintains a repository of DNA samples for the purpose of identification of human remains shall make available, for the purpose specified in subsection (b), such DNA samples on such terms and conditions as such court (or military judge) directs.
 
         (2) A DNA sample with respect to an individual shall be provided under paragraph (1) in a manner that does not compromise the ability of the Department of Defense to maintain a sample with respect to that individual for the purpose of identification of human remains.
 
-    (b) __Covered Purpose.—__ 
+    (b)  __Covered Purpose__  __.—__ 
 
     The purpose referred to in subsection (a) is the purpose of an investigation or prosecution of a felony, or any sexual offense, for which no other source of DNA information is reasonably available.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “DNA sample” has the meaning given such term in [section 1565(c) of this title][/us/usc/t10/s1565/c].
 

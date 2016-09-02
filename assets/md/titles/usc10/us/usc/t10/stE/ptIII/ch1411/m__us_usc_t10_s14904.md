@@ -15,7 +15,7 @@
 
 ## § 14904. Rights and procedures
 
-    (a) __Procedural Rights.—__ 
+    (a)  __Procedural Rights__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, an officer required under [section 14902 of this title][/us/usc/t10/s14902] to show cause for retention in an active status—
 
@@ -27,7 +27,7 @@
 
         (4) shall be allowed full access to, and shall be furnished copies of, records relevant to the case, except that the board of inquiry shall withhold any record that the Secretary concerned determines should be withheld in the interest of national security.
 
-    (b) __Summary of Records Withheld.—__ 
+    (b)  __Summary of Records Withheld__  __.—__ 
 
     When a record is withheld under subsection (a)(4), the officer whose case is under consideration shall, to the extent that the interest of national security permits, be furnished a summary of the record so withheld.
 

@@ -15,15 +15,15 @@
 
 ## § 948l. Detail or employment of reporters and interpreters
 
-    (a) __Court Reporters.—__ 
+    (a)  __Court Reporters__  __.—__ 
 
     Under such regulations as the Secretary of Defense may prescribe, the convening authority of a military commission under this chapter shall detail to or employ for the military commission qualified court reporters, who shall prepare a verbatim record of the proceedings of and testimony taken before the military commission.
 
-    (b) __Interpreters.—__ 
+    (b)  __Interpreters__  __.—__ 
 
     Under such regulations as the Secretary of Defense may prescribe, the convening authority of a military commission under this chapter may detail to or employ for the military commission interpreters who shall interpret for the military commission, and, as necessary, for trial counsel and defense counsel for the military commission, and for the accused.
 
-    (c) __Transcript; Record.—__ 
+    (c)  __Transcript; Record__  __.—__ 
 
     The transcript of a military commission under this chapter shall be under the control of the convening authority of the military commission, who shall also be responsible for preparing the record of the proceedings of the military commission.
 

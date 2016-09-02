@@ -115,7 +115,7 @@
 
 [Pub. L. 112–239, div. A, title IX, § 904(h)][/us/pl/112/239/s904/h], Jan. 2, 2013, [126 Stat. 1868][/us/stat/126/1868], provided that:
 
->     “(1) __Report required.—__ 
+>     “(1)  __Report required__  __.—__ 
 
 >     Not later than 60 days after the end of each fiscal year, from fiscal year 2013 through fiscal year 2018, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on each case in which a major defense acquisition program, in the preceding fiscal year—
 
@@ -123,7 +123,7 @@
 
 >         “(B) proceeded to initial operational testing and evaluation notwithstanding a determination by the Deputy Assistant Secretary of Defense for Developmental Test and Evaluation on the basis of an assessment of operational test readiness that the program is not ready for operational testing.
 
->     “(2) __Matters covered.—__ 
+>     “(2)  __Matters covered__  __.—__ 
 
 >         “(A)
 
@@ -147,7 +147,7 @@
 
 >             “(iv) A statement of whether initial operational testing and evaluation identified any significant shortcomings in the program.
 
->     “(3) __Additional congressional notification.—__ 
+>     “(3)  __Additional congressional notification__  __.—__ 
 
 >     Not later than 30 days after any decision to conduct developmental testing on a major defense acquisition program without an approved test and evaluation master plan in place, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall provide to the congressional defense committees a written explanation of the basis for the decision and a timeline for getting an approved plan in place.”
 
@@ -155,7 +155,7 @@
 
 [Pub. L. 109–364, div. A, title IX, § 905][/us/pl/109/364/s905], Oct. 17, 2006, [120 Stat. 2353][/us/stat/120/2353], as amended by [Pub. L. 110–181, div. A, title IX, § 905][/us/pl/110/181/s905], Jan. 28, 2008, [122 Stat. 275][/us/stat/122/275], provided that:
 
->     “(a) __Designation of Official for Oversight.—__ 
+>     “(a)  __Designation of Official for Oversight__  __.—__ 
 
 >     The Secretary of Defense shall designate a senior acquisition official within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics to oversee the exercise of acquisition authority by—
 
@@ -165,7 +165,7 @@
 
 >     “(b) __Guidance.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The senior acquisition official designated under subsection (a) shall develop guidance to ensure that the use of acquisition authority by commanders of combatant commands and the heads of Defense Agencies—
 
@@ -173,15 +173,15 @@
 
 >             “(B) is coordinated with acquisition programs of the military departments.
 
->         “(2) __Urgent requirements.—__ 
+>         “(2)  __Urgent requirements__  __.—__ 
 
 >         Guidance developed under paragraph (1) shall take into account the need to fulfill the urgent requirements of the commanders of combatant commands and the heads of Defense Agencies and to ensure that those requirements are addressed expeditiously.
 
->     “(c) __Consultation.—__ 
+>     “(c)  __Consultation__  __.—__ 
 
 >     The senior acquisition official designated under subsection (a) shall on a regular basis consult on matters related to requirements and acquisition with the commanders of combatant commands and the heads of Defense Agencies referred to in that subsection.
 
->     “(d) __Deadline for Designation.—__ 
+>     “(d)  __Deadline for Designation__  __.—__ 
 
 >     The Secretary of Defense shall make the designation required by subsection (a) not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
 

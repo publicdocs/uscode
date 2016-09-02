@@ -15,7 +15,7 @@
 
 ## § 127b. Assistance in combating terrorism: rewards
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may pay a monetary amount, or provide a payment-in-kind, to a person as a reward for providing United States Government personnel, or government personnel of allied forces participating in a combined operation with the armed forces, with information or nonlethal assistance that is beneficial to—
 
@@ -23,11 +23,11 @@
 
         (2) force protection of the armed forces, or of allied forces participating in a combined operation with the armed forces.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     The amount or value of a reward provided under this section may not exceed $5,000,000.
 
-    (c) __Delegation of Authority.—__ 
+    (c)  __Delegation of Authority__  __.—__ 
 
         (1)
 
@@ -57,13 +57,13 @@
 
                 (iii) assess the success of the reward in advancing the effort to combat terrorism.
 
-    (d) __Coordination.—__ 
+    (d)  __Coordination__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe policies and procedures for the offering and making of rewards under this section and otherwise for administering the authority under this section. Such policies and procedures shall be prescribed in consultation with the Secretary of State and the Attorney General and shall ensure that the making of a reward under this section does not duplicate or interfere with the payment of a reward authorized by the Secretary of State or the Attorney General.
 
         (2) The Secretary of Defense shall consult with the Secretary of State regarding the making of any reward under this section in an amount or with a value in excess of $2,000,000.
 
-    (e) __Persons Not Eligible.—__ 
+    (e)  __Persons Not Eligible__  __.—__ 
 
     The following persons are not eligible to receive a reward under this section:
 
@@ -73,7 +73,7 @@
 
         (3) An employee of a contractor of the United States.
 
-    (f) __Annual Report.—__ 
+    (f)  __Annual Report__  __.—__ 
 
         (1) Not later than February 1 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the administration of the rewards program under this section during the preceding fiscal year.
 
@@ -105,7 +105,7 @@
 
         (3) The Secretary may submit the report in classified form if the Secretary determines that it is necessary to do so.
 
-    (g) __Determinations by the Secretary.—__ 
+    (g)  __Determinations by the Secretary__  __.—__ 
 
     A determination by the Secretary under this section is final and conclusive and is not subject to judicial review.
 

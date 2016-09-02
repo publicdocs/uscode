@@ -15,15 +15,15 @@
 
 ## § 949i. Pleas of the accused
 
-    (a) __Plea of Not Guilty.—__ 
+    (a)  __Plea of Not Guilty__  __.—__ 
 
     If an accused in a military commission under this chapter after a plea of guilty sets up matter inconsistent with the plea, or if it appears that the accused has entered the plea of guilty through lack of understanding of its meaning and effect, or if the accused fails or refuses to plead, a plea of not guilty shall be entered in the record, and the military commission shall proceed as though the accused had pleaded not guilty.
 
-    (b) __Finding of Guilt After Guilty Plea.—__ 
+    (b)  __Finding of Guilt After Guilty Plea__  __.—__ 
 
     With respect to any charge or specification to which a plea of guilty has been made by the accused in a military commission under this chapter and accepted by the military judge, including a charge or specification that has been referred capital,, <sup>\[1\]</sup>  <sup><sup> 1 So in original. </sup></sup>  a finding of guilty of the charge or specification may be entered by the military judge immediately without a vote by the members. The finding shall constitute the finding of the military commission unless the plea of guilty is withdrawn prior to announcement of the sentence, in which event the proceedings shall continue as though the accused had pleaded not guilty.
 
-    (c) __Pre-Trial Agreements.—__ 
+    (c)  __Pre-Trial Agreements__  __.—__ 
 
         (1) A plea of guilty made by the accused that is accepted by a military judge under subsection (b) and not withdrawn prior to announcement of the sentence may form the basis for an agreement reducing the maximum sentence approved by the convening authority, including the reduction of a sentence of death to a lesser punishment, or that the case will be referred to a military commission under this chapter without seeking the penalty of death. Such an agreement may provide for terms and conditions in addition to a guilty plea by the accused in order to be effective.
 

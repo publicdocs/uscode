@@ -37,11 +37,11 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 343\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–65, as amended by [Pub. L. 107–314, div. A, title III, § 362][/us/pl/107/314/s362], Dec. 2, 2002, [116 Stat. 2519][/us/stat/116/2519]; [Pub. L. 108–375, div. A, title III, § 342][/us/pl/108/375/s342], Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 110–181, div. A, title III, § 341][/us/pl/110/181/s341], Jan. 28, 2008, [122 Stat. 69][/us/stat/122/69]; [Pub. L. 111–84, div. A, title III, § 354][/us/pl/111/84/s354], Oct. 28, 2009, [123 Stat. 2264][/us/stat/123/2264]; [Pub. L. 111–383, div. A, title III, § 342][/us/pl/111/383/s342], Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190], provided that:
 
->     “(a) __Demonstration Program Required.—__ 
+>     “(a)  __Demonstration Program Required__  __.—__ 
 
 >     To help maintain the viability of the Army manufacturing arsenals and the unique capabilities of these arsenals to support the national security interests of the United States, the Secretary of the Army shall carry out a demonstration program under this section during fiscal years 2001 through 2012 at each manufacturing arsenal of the Department of the Army.
 
->     “(b) __Purposes of Demonstration Program.—__ 
+>     “(b)  __Purposes of Demonstration Program__  __.—__ 
 
 >     The purposes of the demonstration program are as follows:
 
@@ -77,7 +77,7 @@
 
 >         “(11) To foster cooperation between the Department of the Army, property managers, commercial interests, and State and local agencies in the implementation of sustainable development strategies and investment in these Army arsenals.
 
->     “(c) __Contract Authority.—__ 
+>     “(c)  __Contract Authority__  __.—__ 
 
 >         (1)
 
@@ -97,7 +97,7 @@
 
 >             “(B) to enter into subcontracts for the commercial use of the facility consistent with such purposes.
 
->     “(d) __Loan Guarantees.—__ 
+>     “(d)  __Loan Guarantees__  __.—__ 
 
 >         (1) Subject to paragraph (2), the Secretary of the Army may guarantee the repayment of any loan made to a commercial firm to fund, in whole or in part, the establishment of a commercial activity at an Army manufacturing arsenal under this section.
 
@@ -115,7 +115,7 @@
 
 >         “(4) An Administrator referred to in paragraph (3) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the Administrator administers. To the extent practicable, each Administrator shall use the same procedures for processing loan guarantee applications under this subsection as the Administrator uses for processing loan guarantee applications under other loan guarantee programs that the Administrator administers.
 
->     “(e) __Loan Limits.—__ 
+>     “(e)  __Loan Limits__  __.—__ 
 
 >     The maximum amount of loan principal guaranteed during a fiscal year under subsection (d) may not exceed—
 
@@ -123,11 +123,11 @@
 
 >         “(2) $320,000,000 with respect to all borrowers.
 
->     “(f) __Transfer of Funds.—__ 
+>     “(f)  __Transfer of Funds__  __.—__ 
 
 >     The Secretary of the Army may transfer to an Administrator providing services under subsection (d), and the Administrator may accept, such funds as may be necessary to administer loan guarantees under such subsection.
 
->     “(g) __Reporting Requirements.—__ 
+>     “(g)  __Reporting Requirements__  __.—__ 
 
 >         (1) Not later than July 1 of each year in which a guarantee issued under subsection (d) is in effect, the Secretary of the Army shall submit to Congress a report specifying the amounts of loans guaranteed under such subsection during the preceding calendar year. No report is required after fiscal year 2012.
 

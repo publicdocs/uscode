@@ -15,11 +15,11 @@
 
 ## § 1099. Health care enrollment system
 
-    (a) __Establishment of System.—__ 
+    (a)  __Establishment of System__  __.—__ 
 
     The Secretary of Defense, after consultation with the other administering Secretaries, shall establish a system of health care enrollment for covered beneficiaries who reside in the United States.
 
-    (b) __Description of System.—__ 
+    (b)  __Description of System__  __.—__ 
 
     Such system shall—
 
@@ -27,7 +27,7 @@
 
         (2) if necessary in order to ensure full use of facilities of the uniformed services in a geographical area, assign covered beneficiaries who reside in such area to such facilities.
 
-    (c) __Health Care Plans Available Under System.—__ 
+    (c)  __Health Care Plans Available Under System__  __.—__ 
 
     A health care plan designated by the Secretary of Defense under the system described in subsection (a) shall provide all health care to which a covered beneficiary is entitled under this chapter. Such a plan may consist of any of the following:
 
@@ -39,7 +39,7 @@
 
         (4) Any combination of the plans described in paragraphs (1), (2), and (3).
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe regulations to carry out this section.
 

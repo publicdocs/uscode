@@ -15,7 +15,7 @@
 
 ## § 122a. Public availability of Department of Defense reports required by law
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall ensure that each report described in subsection (b) is  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a dash. </sup></sup> 
 
@@ -23,7 +23,7 @@
 
         (2) to the maximum extent practicable, transmitted in an electronic format.
 
-    (b) __Covered Reports.—__ 
+    (b)  __Covered Reports__  __.—__ 
 
         (1) Except as provided in paragraph (2), a report described in this subsection is any report that is required by law to be submitted to Congress by the Secretary of Defense, or by any element of the Department of Defense.
 

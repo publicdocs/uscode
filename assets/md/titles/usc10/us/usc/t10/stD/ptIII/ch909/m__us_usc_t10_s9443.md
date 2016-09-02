@@ -15,7 +15,7 @@
 
 ## § 9443. Activities performed as federally chartered nonprofit corporation
 
-    (a) __Use of Federally Provided Resources.—__ 
+    (a)  __Use of Federally Provided Resources__  __.—__ 
 
     In its status as a federally chartered nonprofit corporation, the Civil Air Patrol may use equipment, supplies, and other resources, including aircraft, motor vehicles, computers, and communications equipment, provided to the Civil Air Patrol by a department or agency of the Federal Government or acquired by or for the Civil Air Patrol with appropriated funds (or with funds of the Civil Air Patrol, but reimbursed from appropriated funds)—
 
@@ -23,15 +23,15 @@
 
         (2) to fulfill its other purposes set forth in [section 40302 of title 36][/us/usc/t36/s40302].
 
-    (b) __Use Subject to Applicable Laws.—__ 
+    (b)  __Use Subject to Applicable Laws__  __.—__ 
 
     The use of equipment, supplies, or other resources under subsection (a) is subject to the laws and regulations that govern the use by nonprofit corporations of federally provided assets or of assets purchased with appropriated funds, as the case may be.
 
-    (c) __Authority Not Contingent on Reimbursement.—__ 
+    (c)  __Authority Not Contingent on Reimbursement__  __.—__ 
 
     The authority for the Civil Air Patrol to provide assistance under subsection (a)(1) is not contingent on the Civil Air Patrol being reimbursed for the cost of providing the assistance. If the Civil Air Patrol elects to require reimbursement for the provision of assistance under such subsection, the Civil Air Patrol may establish the reimbursement rate at a rate less than the rates charged by private sector sources for equivalent services.
 
-    (d) __Liability Insurance.—__ 
+    (d)  __Liability Insurance__  __.—__ 
 
     The Secretary of the Air Force may provide the Civil Air Patrol with funds for paying the cost of liability insurance to cover missions and activities carried out under this section.
 

@@ -15,7 +15,7 @@
 
 ## § 2501. National security strategy for national technology and industrial base
 
-    (a) __National Security Strategy for National Technology and Industrial Base.—__ 
+    (a)  __National Security Strategy for National Technology and Industrial Base__  __.—__ 
 
     The Secretary of Defense shall develop a national security strategy for the national technology and industrial base. Such strategy shall be based on a prioritized assessment of risks and challenges to the defense supply chain and shall ensure that the national technology and industrial base is capable of achieving the following national security objectives:
 
@@ -47,7 +47,7 @@
 
         (10) Reducing, to the maximum extent practicable, the presence of counterfeit parts in the supply chain and the risk associated with such parts.
 
-    (b) __Civil-Military Integration Policy.—__ 
+    (b)  __Civil-Military Integration Policy__  __.—__ 
 
     It is the policy of Congress that the United States attain the national technology and industrial base objectives set forth in subsection (a) through acquisition policy reforms that have the following objectives:
 
@@ -107,27 +107,27 @@
 
 [Pub. L. 111–383, div. A, title VIII, § 891][/us/pl/111/383/s891], Jan. 7, 2011, [124 Stat. 4310][/us/stat/124/4310], provided that:
 
->     “(a) __Program To Expand Industrial Base Required.—__ 
+>     “(a)  __Program To Expand Industrial Base Required__  __.—__ 
 
 >     The Secretary of Defense shall establish a program to expand the industrial base of the Department of Defense to increase the Department’s access to innovation and the benefits of competition.
 
->     “(b) __Identifying and Communicating With Firms That Are Not Traditional Suppliers.—__ 
+>     “(b)  __Identifying and Communicating With Firms That Are Not Traditional Suppliers__  __.—__ 
 
 >     The program established under subsection (a) shall use tools and resources available within the Federal Government and available from the private sector to provide a capability for identifying and communicating with firms that are not traditional suppliers, including commercial firms and firms of all business sizes, that are engaged in markets of importance to the Department of Defense in which such firms can make a significant contribution.
 
->     “(c) __Outreach to Local Firms Near Defense Installations.—__ 
+>     “(c)  __Outreach to Local Firms Near Defense Installations__  __.—__ 
 
 >     The program established under subsection (a) shall include outreach, using procurement technical assistance centers, to firms of all business sizes in the vicinity of Department of Defense installations regarding opportunities to obtain contracts and subcontracts to perform work at such installations.
 
->     “(d) __Industrial Base Review.—__ 
+>     “(d)  __Industrial Base Review__  __.—__ 
 
 >     The program established under subsection (a) shall include a continuous effort to review the industrial base supporting the Department of Defense, including the identification of markets of importance to the Department of Defense in which firms that are not traditional suppliers can make a significant contribution.
 
->     “(e) __Firms That Are Not Traditional Suppliers.—__ 
+>     “(e)  __Firms That Are Not Traditional Suppliers__  __.—__ 
 
 >     For purposes of this section, a firm is not a traditional supplier of the Department of Defense if it does not currently have contracts and subcontracts to perform work for the Department of Defense with a total combined value in excess of $500,000.
 
->     “(f) __Procurement Technical Assistance Center.—__ 
+>     “(f)  __Procurement Technical Assistance Center__  __.—__ 
 
 >     In this section, the term ‘procurement technical assistance center’ means a center operating under a cooperative agreement with the Defense Logistics Agency to provide procurement technical assistance pursuant to the authority provided in chapter 142 of title 10, United States Code.”
 
@@ -135,17 +135,17 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 256, Oct. 14, 2008, [122 Stat. 4404][/us/stat/122/4404], provided that:
 
->     “(a) __Executive Agent.—__ 
+>     “(a)  __Executive Agent__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall designate a senior official of the Department of Defense to act as the executive agent for printed circuit board technology.
 
 >     “(b) __Roles, Responsibilities, and Authorities.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and in accordance with Directive 5101.1, the Secretary of Defense shall prescribe the roles, responsibilities, and authorities of the executive agent designated under subsection (a).
 
->         “(2) __Specification.—__ 
+>         “(2)  __Specification__  __.—__ 
 
 >         The roles and responsibilities of the executive agent designated under subsection (a) shall include each of the following:
 
@@ -157,11 +157,11 @@
 
 >             “(D) Such other roles and responsibilities as the Secretary of Defense considers appropriate.
 
->     “(c) __Support Within Department of Defense.—__ 
+>     “(c)  __Support Within Department of Defense__  __.—__ 
 
 >     In accordance with Directive 5101.1, the Secretary of Defense shall ensure that the military departments, Defense Agencies, and other components of the Department of Defense provide the executive agent designated under subsection (a) with the appropriate support and resources needed to perform the roles, responsibilities, and authorities of the executive agent.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -183,7 +183,7 @@
 
 > “SEC. 812. __ASSESSMENT AND ANNUAL REPORT OF UNITED STATES DEFENSE INDUSTRIAL BASE CAPABILITIES AND ACQUISITIONS OF ARTICLES, MATERIALS, AND SUPPLIES MANUFACTURED OUTSIDE THE UNITED STATES.__ 
 
->     “(a) __Assessment Program.—__ 
+>     “(a)  __Assessment Program__  __.—__ 
 
 >         (1)
 
@@ -195,7 +195,7 @@
 
 >         “(2) For purposes of the assessment program, the Secretary shall use existing data, as required under subsection (b), and submit an annual report, as required under subsection (c).
 
->     “(b) __Use of Existing Data.—__ 
+>     “(b)  __Use of Existing Data__  __.—__ 
 
 >         (1)
 
@@ -217,11 +217,11 @@
 
 >     “\[(c) Repealed. [Pub. L. 112–81, div. A, title X, § 1062(g)(2)][/us/pl/112/81/s1062/g/2], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585].\]
 
->     “(d) __Public Availability.—__ 
+>     “(d)  __Public Availability__  __.—__ 
 
 >     The Secretary of Defense shall make the report submitted under subsection (c) publicly available to the maximum extent practicable.
 
->     “(e) __Applicability.—__ 
+>     “(e)  __Applicability__  __.—__ 
 
 >     This section shall not apply to acquisitions made by an agency, or component thereof, that is an element of the intelligence community as set forth in or designated under section 3(4) of the National Security Act of 1947 ([50 U.S.C. 401a(4)][/us/usc/t50/s401a/4]) \[now [50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]\].
 
@@ -229,27 +229,27 @@
 
 > “SEC. 814. __PRODUCTION CAPABILITIES IMPROVEMENT FOR CERTAIN ESSENTIAL ITEMS USING DEFENSE INDUSTRIAL BASE CAPABILITIES FUND.__ 
 
->     “(a) __Establishment of Fund.—__ 
+>     “(a)  __Establishment of Fund__  __.—__ 
 
 >     There is established in the Treasury of the United States a separate fund to be known as the Defense Industrial Base Capabilities Fund (hereafter in this section referred to as the ‘Fund’).
 
->     “(b) __Moneys in Fund.—__ 
+>     “(b)  __Moneys in Fund__  __.—__ 
 
 >     There shall be credited to the Fund amounts appropriated to it.
 
->     “(c) __Use of Fund.—__ 
+>     “(c)  __Use of Fund__  __.—__ 
 
 >     The Secretary of Defense is authorized to use all amounts in the Fund, subject to appropriation, for the purposes of enhancing or reconstituting United States industrial capability to produce items on the military system essential item breakout list (as described in section 812(b)) or items subject to [section 2534 of title 10][/us/usc/t10/s2534], United States Code, in the quantity and of the quality necessary to achieve national security objectives.
 
->     “(d) __Limitation on Use of Fund.—__ 
+>     “(d)  __Limitation on Use of Fund__  __.—__ 
 
 >     Before the obligation of any amounts in the Fund, the Secretary of Defense shall submit to Congress a report describing the Secretary’s plans for implementing the Fund established in subsection (a), including the priorities for the obligation of amounts in the Fund, the criteria for determining the recipients of such amounts, and the mechanisms through which such amounts may be provided to the recipients.
 
->     “(e) __Availability of Funds.—__ 
+>     “(e)  __Availability of Funds__  __.—__ 
 
 >     Amounts in the Fund shall remain available until expended.
 
->     “(f) __Fund Manager.—__ 
+>     “(f)  __Fund Manager__  __.—__ 
 
 >     The Secretary of Defense shall designate a Fund manager. The duties of the Fund manager shall include—
 
@@ -267,7 +267,7 @@
 
 > “SEC. 252. __SCIENCE AND TECHNOLOGY INVESTMENT AND DEVELOPMENT PLANNING.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of the Air Force should carry out each of the following:
 
@@ -289,7 +289,7 @@
 
 >         “(5) Elevate the position within the Office of the Secretary of the Air Force that has primary responsibility for budget and policy decisions for science and technology programs.
 
->     “(b) __Reinstatement of Development Planning.—__ 
+>     “(b)  __Reinstatement of Development Planning__  __.—__ 
 
 >         (1)
 
@@ -313,11 +313,11 @@
 
 > “SEC. 253. __STUDY AND REPORT ON EFFECTIVENESS OF AIR FORCE SCIENCE AND TECHNOLOGY PROGRAM CHANGES.__ 
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of the Air Force, in cooperation with the National Research Council of the National Academy of Sciences, shall carry out a study to determine how the changes to the Air Force science and technology program implemented during the past two years affect the future capabilities of the Air Force.
 
->     “(b) __Matters Studied.—__ 
+>     “(b)  __Matters Studied__  __.—__ 
 
 >         (1)
 
@@ -347,17 +347,17 @@
 
 >             “(E) Whether the implementation of section 252 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by [Public Law 106–398][/us/pl/106/398]; [114 Stat. 1654][/us/stat/114/1654]A–46 \[set out as a note below\]) is effective to identify the basis for the appropriate science and technology program funding level and investment portfolio.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than May 1, 2003, the Secretary of the Air Force shall submit to Congress the results of the study.”
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title II, § 252\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–46, provided that:
 
->     “(a) __Requirement for Review.—__ 
+>     “(a)  __Requirement for Review__  __.—__ 
 
 >     The Secretary of the Air Force shall conduct a review of the long-term challenges and short-term objectives of the Air Force science and technology programs. The Secretary shall complete the review not later than one year after the date of the enactment of this Act \[Oct. 30, 2000\].
 
->     “(b) __Matters To Be Reviewed.—__ 
+>     “(b)  __Matters To Be Reviewed__  __.—__ 
 
 >     The review shall include the following:
 
@@ -369,7 +369,7 @@
 
 >         “(4) The matters required under subsection (c)(5) and (d)(6).
 
->     “(c) __Long-Term Challenges.—__ 
+>     “(c)  __Long-Term Challenges__  __.—__ 
 
 >         (1) The Secretary of the Air Force shall establish an integrated product team to identify high-risk, high-payoff challenges that will provide a long-term focus and motivation for the Air Force science and technology programs over the next 20 to 50 years following the enactment of this Act \[Oct. 30, 2000\]. The integrated product team shall include representatives of the Office of Scientific Research and personnel from the Air Force Research Laboratory.
 
@@ -401,7 +401,7 @@
 
 >             “(B) identify any work not currently funded by the Air Force that should be performed to meet the challenge.
 
->     “(d) __Short-Term Objectives.—__ 
+>     “(d)  __Short-Term Objectives__  __.—__ 
 
 >         (1) The Secretary of the Air Force shall establish a task force to identify short-term technological objectives of the Air Force science and technology programs. The task force shall be chaired by the Deputy Assistant Secretary of the Air Force for Science, Technology, and Engineering and shall include representatives of the Chief of Staff of the Air Force and the specified combatant commands of the Air Force.
 
@@ -437,7 +437,7 @@
 
 >             “(B) identify the science and technology work of the Air Force that should be undertaken to eliminate each deficiency in enabling capabilities that is identified by the integrated product team pursuant to subparagraph (B) of that paragraph.
 
->     “(e) __Comptroller General Review.—__ 
+>     “(e)  __Comptroller General Review__  __.—__ 
 
 >         (1) Not later than 90 days after the Secretary of the Air Force completes the review required by subsection (a), the Comptroller General shall submit to Congress a report on the results of the review. The report shall include the Comptroller General’s assessment regarding the extent to which the review was conducted in compliance with the requirements of this section.
 
@@ -453,13 +453,13 @@
 
 [Pub. L. 105–261, div. A, title II, § 214][/us/pl/105/261/s214], Oct. 17, 1998, [112 Stat. 1948][/us/stat/112/1948], provided that:
 
->     “(a) __Funding Requirements for the Defense Science and Technology Program Budget.—__ 
+>     “(a)  __Funding Requirements for the Defense Science and Technology Program Budget__  __.—__ 
 
 >     It is the sense of Congress that, for each of the fiscal years 2000 through 2008, it should be an objective of the Secretary of Defense to increase the budget for the Defense Science and Technology Program for the fiscal year over the budget for that program for the preceding fiscal year by a percent that is at least two percent above the rate of inflation as determined by the Office of Management and Budget.
 
 >     “(b) __Guidelines for the Defense Science and Technology Program.—__ 
 
->         “(1) __Relationship of defense science and technology program to university research.—__ 
+>         “(1)  __Relationship of defense science and technology program to university research__  __.—__ 
 
 >         It is the sense of Congress that the following should be key objectives of the Defense Science and Technology Program:
 
@@ -469,7 +469,7 @@
 
 >             “(C) The continued support of the Defense Experimental Program to Stimulate Competitive Research and research programs at historically black colleges and universities and minority institutions.
 
->         “(2) __Relationship of the defense science and technology program to commercial research and technology.—__ 
+>         “(2)  __Relationship of the defense science and technology program to commercial research and technology__  __.—__ 
 
 >             (A) It is the sense of Congress that, in supporting projects within the Defense Science and Technology Program, the Secretary of Defense should attempt to leverage commercial research, technology, products, and processes for the benefit of the Department of Defense.
 
@@ -483,11 +483,11 @@
 
 >                 “(iii) the adaptation of commercial technology, products, or processes for military purposes.
 
->         “(3) __Synergistic management of research and development.—__ 
+>         “(3)  __Synergistic management of research and development__  __.—__ 
 
 >         It is the sense of Congress that the Secretary of Defense should have the flexibility to allocate a combination of funds available for the Department of Defense for basic and applied research and for advanced development to support any individual project or program within the Defense Science and Technology Program, but such flexibility should not change the allocation of funds in any fiscal year among basic and applied research and advanced development.
 
->         “(4) __Management of science and technology.—__ 
+>         “(4)  __Management of science and technology__  __.—__ 
 
 >         It is the sense of Congress that—
 
@@ -501,11 +501,11 @@
 
 >     “(c) __Study.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The Secretary of Defense, in cooperation with the National Research Council of the National Academy of Sciences, shall conduct a study on the technology base of the Department of Defense.
 
->         “(2) __Matters covered.—__ 
+>         “(2)  __Matters covered__  __.—__ 
 
 >         The study shall—
 
@@ -515,11 +515,11 @@
 
 >             “(C) result in recommendations on the appropriate levels of staff with baccalaureate, masters, and doctorate degrees, and the optimal ratio of civilian and military staff holding such degrees, to ensure that science and technology functions of the Department of Defense remain vital.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 120 days after the date on which the study required under paragraph (1) is completed, the Secretary shall submit to Congress a report on the results of the study.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -557,11 +557,11 @@
 
 > “SEC. 1352. __NATIONAL SHIPBUILDING INITIATIVE.__ 
 
->     “(a) __Establishment of Program.—__ 
+>     “(a)  __Establishment of Program__  __.—__ 
 
 >     There shall be a National Shipbuilding Initiative program, to be carried out to support the industrial base for national security objectives by assisting in the reestablishment of the United States shipbuilding industry as a self-sufficient, internationally competitive industry.
 
->     “(b) __Administering Departments.—__ 
+>     “(b)  __Administering Departments__  __.—__ 
 
 >     The program shall be carried out—
 
@@ -569,23 +569,23 @@
 
 >         “(2) by the Secretary of Transportation, with respect to programs under the jurisdiction of the Secretary of Transportation.
 
->     “(c) __Program Elements.—__ 
+>     “(c)  __Program Elements__  __.—__ 
 
 >     The National Shipbuilding Initiative shall consist of the following program elements:
 
->         “(1) __Financial incentives program.—__ 
+>         “(1)  __Financial incentives program__  __.—__ 
 
 >         A financial incentives program to provide loan guarantees to initiate commercial ship construction for domestic and export sales, encourage shipyard modernization, and support increased productivity.
 
->         “(2) __Technology development program.—__ 
+>         “(2)  __Technology development program__  __.—__ 
 
 >         A technology development program, to be carried out within the Department of Defense by the Defense Advanced Research Projects Agency, to improve the technology base for advanced shipbuilding technologies and related dual-use technologies through activities including a development program for innovative commercial ship design and production processes and technologies.
 
->         “(3) __Navy’s affordability through commonality program.—__ 
+>         “(3)  __Navy’s affordability through commonality program__  __.—__ 
 
 >         Enhanced support by the Secretary of Defense for the shipbuilding program of the Department of the Navy known as the Affordability Through Commonality (ATC) program, to include enhanced support (A) for the development of common modules for military and commercial ships, and (B) to foster civil-military integration into the next generation of Naval surface combatants.
 
->         “(4) __Navy’s manufacturing technology and technology base programs.—__ 
+>         “(4)  __Navy’s manufacturing technology and technology base programs__  __.—__ 
 
 >         Enhanced support by the Secretary of Defense for, and strengthened funding for, that portion of the Manufacturing Technology program of the Navy, and that portion of the Technology Base program of the Navy, that are in the areas of shipbuilding technologies and ship repair technologies.
 
@@ -595,7 +595,7 @@
 
 > “SEC. 1354. __DEFENSE ADVANCED RESEARCH PROJECTS AGENCY FUNCTIONS AND MINIMUM FINANCIAL COMMITMENT OF NON-FEDERAL GOVERNMENT PARTICIPANTS.__ 
 
->     “(a) __DARPA Functions.—__ 
+>     “(a) __DARPA__  __Functions__  __.—__ 
 
 >     The Secretary of Defense, acting through the Director of the Defense Advanced Research Projects Agency, shall carry out the following functions with respect to the National Shipbuilding Initiative program:
 
@@ -617,11 +617,11 @@
 
 >     “(b) __Financial Commitment of Non-Federal Government Participants.—__ 
 
->         “(1) __Maximum department of defense share.—__ 
+>         “(1)  __Maximum department of defense share__  __.—__ 
 
 >         The Secretary of Defense shall ensure that the amount of funds provided by the Secretary to a non-Federal government participant does not exceed 50 percent of the total cost of technology development and technology transfer activities.
 
->         “(2) __Regulations.—__ 
+>         “(2)  __Regulations__  __.—__ 
 
 >         The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a partnership for the purpose of calculating the share of the partnership costs that has been or is being undertaken by such participants. In prescribing the regulations, the Secretary may determine that a participant that is a small business concern may use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of partnership activities. Any such funds so used may be included in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity contribution in the program from non-Federal sources.”
 
@@ -645,7 +645,7 @@
 
 [Pub. L. 102–484, div. D, title XLIV, § 4471][/us/pl/102/484/s4471], Oct. 23, 1992, [106 Stat. 2753][/us/stat/106/2753], as amended by [Pub. L. 103–160, div. A, title XIII, § 1372][/us/pl/103/160/s1372], Nov. 20, 1993, [107 Stat. 1817][/us/stat/107/1817]; [Pub. L. 103–337, div. A, title XI, § 1142][/us/pl/103/337/s1142], Oct. 5, 1994, [108 Stat. 2881][/us/stat/108/2881]; [Pub. L. 104–201, div. A, title VIII, § 824][/us/pl/104/201/s824], Sept. 23, 1996, [110 Stat. 2610][/us/stat/110/2610]; [Pub. L. 105–85, div. A, title X, § 1073(d)(2)(C)][/us/pl/105/85/s1073/d/2/C], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(7)(C), (f)(6)(C)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–419, 2681–430, provided that:
 
->     “(a) __Notice Requirement After Enactment of Appropriations Act.—__ 
+>     “(a)  __Notice Requirement After Enactment of Appropriations Act__  __.—__ 
 
 >     Each year, not later than 60 days after the date of the enactment of an Act appropriating funds for the military functions of the Department of Defense, the Secretary of Defense, in accordance with regulations prescribed by the Secretary—
 
@@ -659,7 +659,7 @@
 
 >             “(B) directly to the Secretary of Labor.
 
->     “(b) __Notice to Subcontractors.—__ 
+>     “(b)  __Notice to Subcontractors__  __.—__ 
 
 >     Not later than 60 days after the date on which the prime contractor for a contract under a major defense program receives notice under subsection (a), the prime contractor shall—
 
@@ -673,7 +673,7 @@
 
 >             “(B) impose a similar notice and pass through requirement to subcontractors in an amount in excess of $100,000 at all tiers.
 
->     “(c) __Contractor Notice to Employees and State Dislocated Worker Unit.—__ 
+>     “(c)  __Contractor Notice to Employees and State Dislocated Worker Unit__  __.—__ 
 
 >     Not later than two weeks after a defense contractor receives notice under subsection (a), the contractor shall provide notice of such termination or substantial reduction to—
 
@@ -685,15 +685,15 @@
 
 >         “(2) the State or entity designated by the State to carry out rapid response activities under section 134(a)(2)(A) of the Workforce Investment Act of 1998 \[[29 U.S.C. 2864(a)(2)(A)][/us/usc/t29/s2864/a/2/A]\], and the chief elected official of the unit of general local government within which the adverse effect may occur.
 
->     “(d) __Constructive Notice.—__ 
+>     “(d)  __Constructive Notice__  __.—__ 
 
 >     The notice of termination of, or substantial reduction in, a defense contract provided under subsection (c)(1) to an employee of a contractor shall have the same effect as a notice of termination to such employee for the purposes of determining whether such employee is eligible to participate in employment and training activities carried out under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], except in a case in which the employer has specified that the termination of, or substantial reduction in, the contract is not likely to result in plant closure or mass layoff.
 
->     “(e) __Loss of Eligibility.—__ 
+>     “(e)  __Loss of Eligibility__  __.—__ 
 
 >     An employee who receives a notice of withdrawal or cancellation of the termination of, or substantial reduction in, contract funding shall not be eligible, on the basis of any related reduction in funding under the contract, to participate in employment and training activities under title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2801][/us/usc/t29/s2801] et seq.\], beginning on the date on which the employee receives the notice.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

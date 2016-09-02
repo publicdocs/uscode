@@ -41,11 +41,11 @@
 
 [Pub. L. 109–364, div. A, title VI, § 672(b)][/us/pl/109/364/s672/b], Oct. 17, 2006, [120 Stat. 2270][/us/stat/120/2270], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section\] shall take effect on March 1, 2007.
 
->     “(2) __Application to prior actions.—__ 
+>     “(2)  __Application to prior actions__  __.—__ 
 
 >     Paragraph (2) of [section 2780(b) of title 10][/us/usc/t10/s2780/b], United States Code, as added by subsection (a), shall not be construed to apply to or invalidate any action taken under such section before March 1, 2007.”
 

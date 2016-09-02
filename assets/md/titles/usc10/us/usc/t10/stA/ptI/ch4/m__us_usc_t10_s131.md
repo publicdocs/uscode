@@ -137,11 +137,11 @@
 
 [Pub. L. 111–383, div. A, title IX, § 901(p)][/us/pl/111/383/s901/p], Jan. 7, 2011, [124 Stat. 4327][/us/stat/124/4327], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Except as provided in paragraph (2), this section \[see Tables for classification\] and the amendments made by this section shall take effect on January 1, 2011.
 
->     “(2) __Certain matters.—__ 
+>     “(2)  __Certain matters__  __.—__ 
 
 >     Subsection (i) \[enacting and amending provisions set out as notes under [section 137a of this title][/us/usc/t10/s137a]\] and the amendments made by that subsection, and subsection (o) \[enacting provisions set out as a note under this section\], shall take effect on the date of the enactment of this Act \[Jan. 7, 2011\].”
 
@@ -157,7 +157,7 @@
 
 [Pub. L. 111–383, div. A, title IX, § 901(a)][/us/pl/111/383/s901/a], Jan. 7, 2011, [124 Stat. 4317][/us/stat/124/4317], provided that:
 
->     “(1) __Redesignation.—__ 
+>     “(1)  __Redesignation__  __.—__ 
 
 >     Positions in the Office of the Secretary of Defense are hereby redesignated as follows:
 
@@ -167,7 +167,7 @@
 
 >         “(C) The Assistant to the Secretary of Defense for Nuclear and Chemical and Biological Defense Programs is redesignated as the Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs.
 
->     “(2) __References.—__ 
+>     “(2)  __References__  __.—__ 
 
 >     Any reference in any law, rule, regulation, paper, or other record of the United States to an office of the Department of Defense redesignated by paragraph (1) shall be deemed to be a reference to such office as so redesignated.”
 
@@ -175,11 +175,11 @@
 
 [Pub. L. 111–383, div. A, title IX, § 901][/us/pl/111/383/s901](o), Jan. 7, 2011, [124 Stat. 4327][/us/stat/124/4327], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Notwithstanding this section \[see Tables for classification\] and the amendments made by this section, the individual serving as specified in paragraph (2) on December 31, 2010, may continue to serve in the applicable position specified in that paragraph after that date without the requirement for appointment by the President, by and with the advice and consent of the Senate.
 
->     “(2) __Covered individuals and positions.—__ 
+>     “(2)  __Covered individuals and positions__  __.—__ 
 
 >     The individuals and positions specified in this paragraph are the following:
 

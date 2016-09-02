@@ -15,15 +15,15 @@
 
 ## § 1789. Chaplain-led programs: authorized support
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of a military department may provide support services described in subsection (b) to support chaplain-led programs to assist members of the armed forces on active duty and their immediate family members, and members of reserve components in an active status and their immediate family members, in building and maintaining a strong family structure.
 
-    (b) __Authorized Support Services.—__ 
+    (b)  __Authorized Support Services__  __.—__ 
 
     The support services referred to in subsection (a) are costs of transportation, food, lodging, child care, supplies, fees, and training materials for members of the armed forces and their family members while participating in programs referred to in that subsection, including participation at retreats and conferences.
 
-    (c) __Immediate Family Members.—__ 
+    (c)  __Immediate Family Members__  __.—__ 
 
     In this section, the term “immediate family members”, with respect to a member of the armed forces, means—
 

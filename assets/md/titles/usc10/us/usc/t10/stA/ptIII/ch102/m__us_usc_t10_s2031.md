@@ -157,11 +157,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 548, Oct. 14, 2008, [122 Stat. 4466][/us/stat/122/4466], as amended by [Pub. L. 112–239, div. A, title V, § 553][/us/pl/112/239/s553], Jan. 2, 2013, [126 Stat. 1742][/us/stat/126/1742], provided that:
 
->     “(a) __Plan for Increase.—__ 
+>     “(a)  __Plan for Increase__  __.—__ 
 
 >     The Secretary of Defense, in consultation with the Secretaries of the military departments, shall develop and implement a plan to establish and support, not later than September 30, 2020, not less than 3,000, and not more than 3,700, units of the Junior Reserve Officers’ Training Corps.
 
->     “(b) __Exceptions.—__ 
+>     “(b)  __Exceptions__  __.—__ 
 
 >     The requirement imposed in subsection (a) shall not apply—
 
@@ -171,11 +171,11 @@
 
 >         “(3) if the Secretaries of the military departments determine that the level of support of all kinds (including appropriated funds) provided to youth development programs within the Armed Forces is consistent with funding limitations and the achievement of the objectives of such programs.
 
->     “(c) __Cooperation.—__ 
+>     “(c)  __Cooperation__  __.—__ 
 
 >     The Secretary of Defense, as part of the plan to establish and support additional Junior Reserve Officers’ Training Corps units, shall work with local educational agencies to increase the employment in Junior Reserve Officers’ Training Corps units of retired members of the Armed Forces who are retired under chapter 61 of title 10, United States Code, especially members who were wounded or injured while deployed in a contingency operation.
 
->     “(d) __Report on Plan.—__ 
+>     “(d)  __Report on Plan__  __.—__ 
 
 >     Upon completion of the plan, the Secretary of Defense shall provide a report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] containing, at a minimum, the following:
 
@@ -191,7 +191,7 @@
 
 >         “(6) Efforts to enhance employment opportunities for qualified former military members retired for disability, especially those wounded while deployed in a contingency operation.
 
->     “(e) __Time for Submission.—__ 
+>     “(e)  __Time for Submission__  __.—__ 
 
 >     Not later than March 31, 2013, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a revised plan under subsection (a) to reflect amendments made to subsections (a) and (b) during fiscal year 2013 and a new report under subsection (d) to address the revised plan. The Secretary shall submit an updated report not later than March 31 of each of 2015, 2018, and 2020.”
 
@@ -199,11 +199,11 @@
 
 [Pub. L. 109–364, div. A, title V, § 541][/us/pl/109/364/s541], Oct. 17, 2006, [120 Stat. 2212][/us/stat/120/2212], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretaries of the military departments shall take appropriate actions to increase the number of secondary educational institutions at which a unit of the Junior Reserve Officers’ Training Corps is organized under chapter 102 of title 10, United States Code.
 
->     “(b) __Expansion Targets.—__ 
+>     “(b)  __Expansion Targets__  __.—__ 
 
 >     In increasing under subsection (a) the number of secondary educational institutions at which a unit of the Junior Reserve Officers’ Training Corps is organized, the Secretaries of the military departments shall seek to organize units at an additional number of institutions as follows:
 

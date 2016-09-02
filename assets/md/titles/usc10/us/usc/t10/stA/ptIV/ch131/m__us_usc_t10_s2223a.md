@@ -15,11 +15,11 @@
 
 ## § 2223a. Information technology acquisition planning and oversight requirements
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     The Secretary of Defense shall establish a program to improve the planning and oversight processes for the acquisition of major automated information systems by the Department of Defense.
 
-    (b) __Program Components.—__ 
+    (b)  __Program Components__  __.—__ 
 
     The program established under subsection (a) shall include—
 
@@ -53,21 +53,21 @@
 
 >         “(1) __Limitations.—__ 
 
->             “(A) __Before performance plan.—__ 
+>             “(A)  __Before performance plan__  __.—__ 
 
 >             During the period beginning on the date of the enactment of this Act \[Dec. 31, 2011\] and ending on May 1, 2012, a department, agency, or component of the Department of Defense may not obligate funds for a data server farm or data center unless approved by the Chief Information Officer of the Department of Defense or the Chief Information Officer of a component of the Department to whom the Chief Information Officer of the Department has specifically delegated such approval authority.
 
->             “(B) __Under performance plan.—__ 
+>             “(B)  __Under performance plan__  __.—__ 
 
 >             After May 1, 2012, a department, agency, or component of the Department may not obligate funds for a data center, or any information systems technology used therein, unless that obligation is in accordance with the performance plan required by subsection (b) and is approved as described in subparagraph (A).
 
 >         “(2) __Requirements for approvals.—__ 
 
->             “(A) __Before performance plan.—__ 
+>             “(A)  __Before performance plan__  __.—__ 
 
 >             An approval of the obligation of funds may not be granted under paragraph (1)(A) unless the official granting the approval determines, in writing, that existing resources of the agency, component, or element concerned cannot affordably or practically be used or modified to meet the requirements to be met through the obligation of funds.
 
->             “(B) __Under performance plan.—__ 
+>             “(B)  __Under performance plan__  __.—__ 
 
 >             An approval of the obligation of funds may not be granted under paragraph (1)(B) unless the official granting the approval determines that—
 
@@ -75,7 +75,7 @@
 
 >                 “(ii) the proposed obligation is in accordance with the performance standards and measures established by the Chief Information Officer of the Department under subsection (b).
 
->         “(3) __Reports.—__ 
+>         “(3)  __Reports__  __.—__ 
 
 >         Not later than 30 days after the end of each calendar quarter, each Chief Information Officer of a component of the Department who grants an approval under paragraph (1) during such calendar quarter shall submit to the Chief Information Officer of the Department a report on the approval or approvals so granted during such calendar quarter.
 
@@ -83,7 +83,7 @@
 
 >         “(1) __Component plans.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than January 15, 2012, the Secretaries of the military departments and the heads of the Defense Agencies shall each submit to the Chief Information Officer of the Department a plan for the department or agency concerned to achieve the following:
 
@@ -99,17 +99,17 @@
 
 >                 “(vi) A reduction in the number of government and vendor provided full-time equivalent personnel, and in the cost of labor, associated with the operation of data servers and data centers.
 
->             “(B) __Specification of required elements.—__ 
+>             “(B)  __Specification of required elements__  __.—__ 
 
 >             The Chief Information Officer of the Department shall specify the particular performance standards and measures and implementation elements to be included in the plans submitted under this paragraph, including specific goals and schedules for achieving the matters specified in subparagraph (A).
 
 >         “(2) __Defense-wide plan.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than April 1, 2012, the Chief Information Officer of the Department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a performance plan for a reduction in the resources required for data centers and information systems technologies Department-wide. The plan shall be based upon and incorporate appropriate elements of the plans submitted under paragraph (1).
 
->             “(B) __Elements.—__ 
+>             “(B)  __Elements__  __.—__ 
 
 >             The performance plan required under this paragraph shall include the following:
 
@@ -131,27 +131,27 @@
 
 >                          “(VI) Transitioning to just-in-time delivery of Department-owned data center infrastructure (space, power and cooling) through use of modular data center technology and integrated data center infrastructure management software.
 
->         “(3) __Responsibility.—__ 
+>         “(3)  __Responsibility__  __.—__ 
 
 >         The Chief Information Officer of the Department shall discharge the responsibility for establishing performance standards and measures for data centers and information systems technologies for purposes of this subsection. Such responsibility may not be delegated.
 
->     “(c) __Exceptions.—__ 
+>     “(c)  __Exceptions__  __.—__ 
 
->         “(1) __Intelligence components.—__ 
+>         “(1)  __Intelligence components__  __.—__ 
 
 >         The Chief Information Officer of the Department and the Chief Information Officer of the Intelligence Community may jointly exempt from the applicability of this section such intelligence components of the Department of Defense (and the programs and activities thereof) that are funded through the National Intelligence Program (NIP) as the Chief Information Officers consider appropriate.
 
->         “(2) __Research, development, test, and evaluation programs.—__ 
+>         “(2)  __Research, development, test, and evaluation programs__  __.—__ 
 
 >         The Chief Information Officer of the Department may exempt from the applicability of this section research, development, test, and evaluation programs that use authorization of appropriations for the High Performance Computing Modernization Program (Program Element 0603461A) if the Chief Information Officer determines that the exemption is in the best interest of national security.
 
 >     “(d) __Reports on Cost Savings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than March 1 of each fiscal year, and ending in fiscal year 2016, the Chief Information Officer of the Department shall submit to the appropriate committees of Congress a report on the cost savings, cost reductions, cost avoidances, and performance gains achieved, and anticipated to be achieved, as of the date of such report as a result of activities undertaken under this section.
 
->         “(2) __Appropriate committees of congress defined.—__ 
+>         “(2)  __Appropriate committees of congress defined__  __.—__ 
 
 >         In this subsection, the term ‘appropriate committees of Congress’ means—
 

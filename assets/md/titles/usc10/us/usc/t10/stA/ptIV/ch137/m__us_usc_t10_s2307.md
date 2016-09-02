@@ -15,7 +15,7 @@
 
 ## § 2307. Contract financing
 
-    (a) __Payment Authority.—__ 
+    (a)  __Payment Authority__  __.—__ 
 
     The head of any agency may—
 
@@ -23,7 +23,7 @@
 
         (2) insert in solicitations for procurement of property or services a provision limiting to small business concerns advance or progress payments.
 
-    (b) __Performance-Based Payments.—__ 
+    (b)  __Performance-Based Payments__  __.—__ 
 
     Whenever practicable, payments under subsection (a) shall be made on any of the following bases:
 
@@ -33,15 +33,15 @@
 
         (3) Other quantifiable measures of results.
 
-    (c) __Payment Amount.—__ 
+    (c)  __Payment Amount__  __.—__ 
 
     Payments made under subsection (a) may not exceed the unpaid contract price.
 
-    (d) __Security for Advance Payments.—__ 
+    (d)  __Security for Advance Payments__  __.—__ 
 
     Advance payments made under subsection (a) may be made only if the contractor gives adequate security and after a determination by the head of the agency that to do so would be in the public interest. Such security may be in the form of a lien in favor of the United States on the property contracted for, on the balance in an account in which such payments are deposited, and on such of the property acquired for performance of the contract as the parties may agree. This lien is paramount to any other liens and is effective immediately upon the first advancement of funds without filing, notice, or any other action by the United States.
 
-    (e) __Conditions for Progress Payments.—__ 
+    (e)  __Conditions for Progress Payments__  __.—__ 
 
         (1) The Secretary of Defense shall ensure that any payment for work in progress (including materials, labor, and other items) under a defense contract that provides for such payments is commensurate with the work accomplished that meets standards established under the contract. The contractor shall provide such information and evidence as the Secretary of Defense determines necessary to permit the Secretary to carry out the preceding sentence.
 
@@ -49,7 +49,7 @@
 
         (3) This subsection applies to any contract in an amount greater than $25,000.
 
-    (f) __Conditions for Payments for Commercial Items.—__ 
+    (f)  __Conditions for Payments for Commercial Items__  __.—__ 
 
         (1) Payments under subsection (a) for commercial items may be made under such terms and conditions as the head of the agency determines are appropriate or customary in the commercial marketplace and are in the best interests of the United States. The head of the agency shall obtain adequate security for such payments. If the security is in the form of a lien in favor of the United States, such lien is paramount to all other liens and is effective immediately upon the first payment, without filing, notice, or other action by the United States.
 
@@ -57,7 +57,7 @@
 
         (3) The conditions of subsections (d) and (e) need not be applied if they would be inconsistent, as determined by the head of the agency, with commercial terms and conditions pursuant to paragraphs (1) and (2).
 
-    (g) __Certain Navy Contracts.—__ 
+    (g)  __Certain Navy Contracts__  __.—__ 
 
         (1)
 
@@ -71,11 +71,11 @@
 
         (3) The Secretary of the Navy shall provide, in each contract for construction or conversion of a naval vessel, that, when partial, progress, or other payments are made under such contract, the United States is secured by a lien upon work in progress and on property acquired for performance of the contract on account of all payments so made. The lien is paramount to all other liens.
 
-    (h) __Vesting of Title in the United States.—__ 
+    (h)  __Vesting of Title in the United States__  __.—__ 
 
     If a contract paid by a method authorized under subsection (a)(1) provides for title to property to vest in the United States, the title to the property shall vest in accordance with the terms of the contract, regardless of any security interest in the property that is asserted before or after the contract is entered into.
 
-    (i) __Action in Case of Fraud.—__ 
+    (i)  __Action in Case of Fraud__  __.—__ 
 
         (1) In any case in which the remedy coordination official of an agency finds that there is substantial evidence that the request of a contractor for advance, partial, or progress payment under a contract awarded by that agency is based on fraud, the remedy coordination official shall recommend that the head of the agency reduce or suspend further payments to such contractor.
 

@@ -357,7 +357,7 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 
 [Pub. L. 112–166, § 2(c)(1)(B)][/us/pl/112/166/s2/c/1/B]–(D), Aug. 10, 2012, [126 Stat. 1283][/us/stat/126/1283], provided that:
 
->     “(B) __Administration of reduction.—__ 
+>     “(B)  __Administration of reduction__  __.—__ 
 
 >     The Assistant Secretary of Defense positions eliminated in accordance with the reduction in numbers required by the amendment made by subparagraph (A) \[amending this section\] shall be—
 
@@ -365,11 +365,11 @@ Another prior section 138 was renumbered by [Pub. L. 99–433][/us/pl/99/433] as
 
 >         “(ii) the Assistant Secretary of Defense for Public Affairs.
 
->     “(C) __Continued service of incumbents.—__ 
+>     “(C)  __Continued service of incumbents__  __.—__ 
 
 >     Notwithstanding the requirements of this paragraph, any individual serving in a position described under subparagraph (B) on the date of the enactment of this Act \[Aug. 10, 2012\] may continue to serve in such position without regard to the limitation imposed by the amendment in subparagraph (A).
 
->     “(D) __Plan for successor positions.—__ 
+>     “(D)  __Plan for successor positions__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall report to the congressional defense committees on his plan for successor positions, not subject to Senate confirmation, for the positions eliminated in accordance with the requirements of this paragraph.”
 

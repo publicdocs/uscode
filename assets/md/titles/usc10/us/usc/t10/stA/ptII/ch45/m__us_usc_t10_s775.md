@@ -15,7 +15,7 @@
 
 ## § 775. Issue of uniform without charge
 
-    (a) __Issue of Uniform.—__ 
+    (a)  __Issue of Uniform__  __.—__ 
 
     The Secretary concerned may issue a uniform, without charge, to any of the following members:
 
@@ -27,7 +27,7 @@
 
         (4) Any other member, if the Secretary concerned determines, under exceptional circumstances, that the issue of the uniform to that member would significantly benefit the morale and welfare of the member and be advantageous to the armed force concerned.
 
-    (b) __Retention of Uniform as a Personal Item.—__ 
+    (b)  __Retention of Uniform as a Personal Item__  __.—__ 
 
     Notwithstanding [section 771a of this title][/us/usc/t10/s771a], a uniform issued to a member under this section may be retained by the member as a personal item.
 

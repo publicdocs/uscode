@@ -31,11 +31,11 @@
 
 [Pub. L. 107–314, div. A, title VIII, § 807][/us/pl/107/314/s807], Dec. 2, 2002, [116 Stat. 2608][/us/stat/116/2608], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics shall establish a team of highly qualified acquisition professionals who shall be available to advise the Under Secretary on actions that can be taken to expedite the acquisition of urgently needed systems.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The issues on which the team may provide advice shall include the following:
 

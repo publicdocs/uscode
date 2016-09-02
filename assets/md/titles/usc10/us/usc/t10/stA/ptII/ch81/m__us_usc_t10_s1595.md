@@ -15,15 +15,15 @@
 
 ## § 1595. Civilian faculty members at certain Department of Defense schools: employment and compensation
 
-    (a) __Authority of Secretary.—__ 
+    (a)  __Authority of Secretary__  __.—__ 
 
     The Secretary of Defense may employ as many civilians as professors, instructors, and lecturers at the institutions specified in subsection (c) as the Secretary considers necessary.
 
-    (b) __Compensation of Faculty Members.—__ 
+    (b)  __Compensation of Faculty Members__  __.—__ 
 
     The compensation of persons employed under this section shall be as prescribed by the Secretary.
 
-    (c) __Covered Institutions.—__ 
+    (c)  __Covered Institutions__  __.—__ 
 
     This section applies with respect to the following institutions of the Department of Defense:
 
@@ -35,7 +35,7 @@
 
         (4) The Western Hemisphere Institute for Security Cooperation.
 
-    (d) __Application to Faculty Members at NDU.—__ 
+    (d)  __Application to Faculty Members at__  __NDU.—__ 
 
     In the case of the National Defense University, this section applies with respect to persons selected by the Secretary for employment as professors, instructors, and lecturers at the National Defense University after February 27, 1990.
 

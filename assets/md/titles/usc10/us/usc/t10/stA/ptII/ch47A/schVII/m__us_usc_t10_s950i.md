@@ -15,15 +15,15 @@
 
 ## § 950i. Execution of sentence; suspension of sentence
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense is authorized to carry out a sentence imposed by a military commission under this chapter in accordance with such procedures as the Secretary may prescribe.
 
-    (b) __Execution of Sentence of Death Only Upon Approval by the President.—__ 
+    (b)  __Execution of Sentence of Death Only Upon Approval by the President__  __.—__ 
 
     If the sentence of a military commission under this chapter extends to death, that part of the sentence providing for death may not be executed until approved by the President. In such a case, the President may commute, remit, or suspend the sentence, or any part thereof, as he sees fit.
 
-    (c) __Execution of Sentence of Death Only Upon Final Judgment of Legality of Proceedings.—__ 
+    (c)  __Execution of Sentence of Death Only Upon Final Judgment of Legality of Proceedings__  __.—__ 
 
         (1) If the sentence of a military commission under this chapter extends to death, the sentence may not be executed until there is a final judgment as to the legality of the proceedings (and with respect to death, approval under subsection (b)).
 
@@ -43,7 +43,7 @@
 
                 (iii) review is otherwise completed in accordance with the judgment of the Supreme Court.
 
-    (d) __Suspension of Sentence.—__ 
+    (d)  __Suspension of Sentence__  __.—__ 
 
     The Secretary of the Defense, or the convening authority acting on the case (if other than the Secretary), may suspend the execution of any sentence or part thereof in the case, except a sentence of death.
 

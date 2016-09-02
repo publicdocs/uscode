@@ -15,7 +15,7 @@
 
 ## § 154. Vice Chairman
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
         (1) There is a Vice Chairman of the Joint Chiefs of Staff, appointed by the President, by and with the advice and consent of the Senate, from the officers of the regular components of the armed forces.
 
@@ -23,7 +23,7 @@
 
         (3) The Vice Chairman serves at the pleasure of the President for a term of two years and may be reappointed in the same manner for two additional terms. However, in time of war there is no limit on the number of reappointments.
 
-    (b) __Requirement for Appointment.—__ 
+    (b)  __Requirement for Appointment__  __.—__ 
 
         (1)
 
@@ -35,19 +35,19 @@
 
         (2) The President may waive paragraph (1) in the case of an officer if the President determines such action is necessary in the national interest.
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
     The Vice Chairman performs the duties prescribed for him as a member of the Joint Chiefs of Staff and such other duties as may be prescribed by the Chairman with the approval of the Secretary of Defense.
 
-    (d) __Function as Acting Chairman.—__ 
+    (d)  __Function as Acting Chairman__  __.—__ 
 
     When there is a vacancy in the office of Chairman or in the absence or disability of the Chairman, the Vice Chairman acts as Chairman and performs the duties of the Chairman until a successor is appointed or the absence or disability ceases.
 
-    (e) __Succession After Chairman and Vice Chairman.—__ 
+    (e)  __Succession After Chairman and Vice Chairman__  __.—__ 
 
     When there is a vacancy in the offices of both Chairman and Vice Chairman or in the absence or disability of both the Chairman and the Vice Chairman, or when there is a vacancy in one such office and in the absence or disability of the officer holding the other, the President shall designate a member of the Joint Chiefs of Staff to act as and perform the duties of the Chairman until a successor to the Chairman or Vice Chairman is appointed or the absence or disability of the Chairman or Vice Chairman ceases.
 
-    (f) __Grade and Rank.—__ 
+    (f)  __Grade and Rank__  __.—__ 
 
     The Vice Chairman, while so serving, holds the grade of general or, in the case of an officer of the Navy, admiral and outranks all other officers of the armed forces except the Chairman. The Vice Chairman may not exercise military command over the Joint Chiefs of Staff or any of the armed forces.
 

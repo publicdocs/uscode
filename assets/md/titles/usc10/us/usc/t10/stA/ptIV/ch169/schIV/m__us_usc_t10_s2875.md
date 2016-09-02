@@ -15,15 +15,15 @@
 
 ## § 2875. Investments
 
-    (a) __Investments Authorized.—__ 
+    (a)  __Investments Authorized__  __.—__ 
 
     The Secretary concerned may make investments in an eligible entity carrying out projects for the acquisition or construction of housing units suitable for use as military family housing or as military unaccompanied housing.
 
-    (b) __Forms of Investment.—__ 
+    (b)  __Forms of Investment__  __.—__ 
 
     An investment under this section may take the form of an acquisition of a limited partnership interest by the United States, a purchase of stock or other equity instruments by the United States, a purchase of bonds or other debt instruments by the United States, or any combination of such forms of investment.
 
-    (c) __Limitation on Value of Investment.—__ 
+    (c)  __Limitation on Value of Investment__  __.—__ 
 
         (1) The cash amount of an investment under this section in an eligible entity may not exceed an amount equal to 33⅓ percent of the capital cost (as determined by the Secretary concerned) of the project or projects that the eligible entity proposes to carry out under this section with the investment.
 
@@ -31,11 +31,11 @@
 
         (3) In this subsection, the term “capital cost”, with respect to a project for the acquisition or construction of housing, means the total amount of the costs included in the basis of the housing for Federal income tax purposes.
 
-    (d) __Collateral Incentive Agreements.—__ 
+    (d)  __Collateral Incentive Agreements__  __.—__ 
 
     The Secretary concerned shall enter into collateral incentive agreements with eligible entities in which the Secretary makes an investment under this section to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or purchase, as the case may be, of a reasonable number of the housing units covered by the investment.
 
-    (e) __Congressional Notification Required.—__ 
+    (e)  __Congressional Notification Required__  __.—__ 
 
     Amounts in the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund may be used to make a cash investment under this section in an eligible entity only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the investment to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 

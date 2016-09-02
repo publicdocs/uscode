@@ -15,11 +15,11 @@
 
 ## § 8992. Recomputation of retired pay to reflect advancement on retired list
 
-    (a) __Entitlement to Recomputation.—__ 
+    (a)  __Entitlement to Recomputation__  __.—__ 
 
     An enlisted member or warrant officer of the Air Force who is advanced on the retired list under [section 8964 of this title][/us/usc/t10/s8964] is entitled to recompute his retired pay in accordance with this section.
 
-    (b) __Formula.—__ 
+    (b)  __Formula__  __.—__ 
 
     The monthly retired pay of a member entitled to recompute that pay under this section is computed by multiplying—
 
@@ -27,7 +27,7 @@
 
         (2) the retired pay multiplier prescribed in [section 1409 of this title][/us/usc/t10/s1409] for the number of years credited to the member under [section 1405 of this title][/us/usc/t10/s1405].
 
-    (c) __Rounding to Next Lower Dollar.—__ 
+    (c)  __Rounding to Next Lower Dollar__  __.—__ 
 
     The amount computed under subsection (b), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 

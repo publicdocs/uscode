@@ -15,7 +15,7 @@
 
 ## § 2154. Joint professional military education: three-phase approach
 
-    (a) __Three-Phase Approach.—__ 
+    (a)  __Three-Phase Approach__  __.—__ 
 
     The Secretary of Defense shall implement a three-phase approach to joint professional military education, as follows:
 
@@ -31,7 +31,7 @@
 
         (3) There shall be a course of instruction, designated and certified by the Secretary of Defense with the advice and assistance of the Chairman of the Joint Chiefs of Staff as the Capstone course, for officers selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) and offered in accordance with [section 2153 of this title][/us/usc/t10/s2153].
 
-    (b) __Sequenced Approach.—__ 
+    (b)  __Sequenced Approach__  __.—__ 
 
     The Secretary shall require the sequencing of joint professional military education so that the standard sequence of assignments for such education requires an officer to complete Phase I instruction before proceeding to Phase II instruction, as provided in [section 2155(a) of this title][/us/usc/t10/s2155/a].
 

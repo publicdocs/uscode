@@ -15,13 +15,13 @@
 
 ## § 2174. Interest payment program: members on active duty
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
         (1) The Secretary concerned may pay in accordance with this section the interest and any special allowances that accrue on one or more student loans of an eligible member of the armed forces.
 
         (2) The Secretary of a military department may exercise the authority under paragraph (1) only if approved by the Secretary of Defense and subject to such requirements, conditions, and restrictions as the Secretary of Defense may prescribe.
 
-    (b) __Eligible Members.—__ 
+    (b)  __Eligible Members__  __.—__ 
 
     A member of the armed forces is eligible for the benefit under subsection (a) while the member—
 
@@ -31,7 +31,7 @@
 
         (3) is not in default on any such loan.
 
-    (c) __Student Loans.—__ 
+    (c)  __Student Loans__  __.—__ 
 
     The authority to make payments under subsection (a) may be exercised with respect to the following loans:
 
@@ -41,15 +41,15 @@
 
         (3) A loan made under part E of such title ([20 U.S.C. 1087aa][/us/usc/t20/s1087aa] et seq.).
 
-    (d) __Maximum Benefit.—__ 
+    (d)  __Maximum Benefit__  __.—__ 
 
     The months for which interest and any special allowance may be paid on behalf of a member of the armed forces under this section are any 36 consecutive months during which the member is eligible under subsection (b).
 
-    (e) __Funds for Payments.—__ 
+    (e)  __Funds for Payments__  __.—__ 
 
     Appropriations available for the pay and allowances of military personnel shall be available for payments under this section.
 
-    (f) __Coordination.—__ 
+    (f)  __Coordination__  __.—__ 
 
         (1) The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of the Department in which the Coast Guard is operating shall consult with the Secretary of Education regarding the administration of the authority under this section.
 
@@ -61,7 +61,7 @@
 
             (B) to reimburse the Secretary of Education for any reasonable administrative costs incurred by the Secretary in coordinating the program under this section with the administration of the student loan programs under parts B, D, and E of title IV of the Higher Education Act of 1965.
 
-    (g) __Special Allowance Defined.—__ 
+    (g)  __Special Allowance Defined__  __.—__ 
 
     In this section, the term “special allowance” means a special allowance that is payable under section 438 of the Higher Education Act of 1965 ([20 U.S.C. 1087–1][/us/usc/t20/s1087–1]).
 

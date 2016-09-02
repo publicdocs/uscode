@@ -15,11 +15,11 @@
 
 ## § 2352. Defense Advanced Research Projects Agency: biennial strategic plan
 
-    (a) __Requirement for Strategic Plan.—__ 
+    (a)  __Requirement for Strategic Plan__  __.—__ 
 
     Every other year, and in time for submission to Congress under subsection (c), the Director of the Defense Advanced Research Projects Agency shall prepare a strategic plan for the activities of that agency.
 
-    (b) __Contents.—__ 
+    (b)  __Contents__  __.—__ 
 
     The strategic plan required by subsection (a) shall include the following matters:
 
@@ -39,7 +39,7 @@
 
         (5) A description of the policies of that agency on the management, organization, and personnel of that agency.
 
-    (c) __Submission of Plan to Congress.—__ 
+    (c)  __Submission of Plan to Congress__  __.—__ 
 
     The Secretary of Defense shall submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 

@@ -15,15 +15,15 @@
 
 ## § 994. Military working dogs: veterinary care for retired military working dogs
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense may establish and maintain a system to provide for the veterinary care of retired military working dogs. No funds may be provided by the Federal Government for this purpose.
 
-    (b) __Eligible Dogs.—__ 
+    (b)  __Eligible Dogs__  __.—__ 
 
     A retired military working dog eligible for veterinary care under this section is any military working dog adopted under [section 2583 of this title][/us/usc/t10/s2583].
 
-    (c) __Standards of Care.—__ 
+    (c)  __Standards of Care__  __.—__ 
 
     The veterinary care provided under the system authorized by this section shall meet such standards as the Secretary shall establish and from time to time update.
 

@@ -15,11 +15,11 @@
 
 ## § 1059. Dependents of members separated for dependent abuse: transitional compensation; commissary and exchange benefits
 
-    (a) __Authority To Pay Compensation.—__ 
+    (a)  __Authority To Pay Compensation__  __.—__ 
 
     The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy), and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may each establish a program to pay monthly transitional compensation in accordance with this section to dependents or former dependents of a member of the armed forces described in subsection (b). Upon establishment of such a program, the program shall apply in the case of each such member described in subsection (b) who is under the jurisdiction of the Secretary establishing the program.
 
-    (b) __Punitive and Other Adverse Actions Covered.—__ 
+    (b)  __Punitive and Other Adverse Actions Covered__  __.—__ 
 
     This section applies in the case of a member of the armed forces on active duty for a period of more than 30 days—
 
@@ -33,7 +33,7 @@
 
         (2) who is administratively separated, voluntarily or involuntarily, from active duty in accordance with applicable regulations if the basis for the separation includes a dependent-abuse offense.
 
-    (c) __Dependent-Abuse Offenses.—__ 
+    (c)  __Dependent-Abuse Offenses__  __.—__ 
 
     For purposes of this section, a dependent-abuse offense is conduct by an individual while a member of the armed forces on active duty for a period of more than 30 days—
 
@@ -41,7 +41,7 @@
 
         (2) that is a criminal offense specified in regulations prescribed by the Secretary of Defense under subsection (k).
 
-    (d) __Recipients of Payments.—__ 
+    (d)  __Recipients of Payments__  __.—__ 
 
     In the case of any individual described in subsection (b), the Secretary shall pay such compensation to dependents or former dependents of the individual as follows:
 
@@ -53,7 +53,7 @@
 
         (4) For purposes of this subsection, an individual’s status as a “dependent child” shall be determined as of the date on which the individual described in subsection (b) is convicted of the dependent-abuse offense or, in a case described in subsection (b)(2), as of the date on which the individual described in subsection (b) is separated from active duty.
 
-    (e) __Commencement and Duration of Payment.—__ 
+    (e)  __Commencement and Duration of Payment__  __.—__ 
 
         (1)
 
@@ -79,7 +79,7 @@
 
             (C) Cessation of payments under subparagraph (A) or (B) shall be effective as of the first day of the first month following the month in which the Secretary concerned notifies the recipient of such transitional compensation in writing that payment of the transitional compensation will cease. The recipient may not be required to repay amounts of transitional compensation received before that effective date (except to the extent necessary to recoup any amount that was erroneous when paid).
 
-    (f) __Amount of Payment.—__ 
+    (f)  __Amount of Payment__  __.—__ 
 
         (1) Payment to a spouse or former spouse under this section for any month shall be at the rate in effect for that month for the payment of dependency and indemnity compensation under [section 1311(a)(1) of title 38][/us/usc/t38/s1311/a/1].
 
@@ -89,7 +89,7 @@
 
         (4) Payment to a child under this section shall not cover any period before the birth of the child.
 
-    (g) __Spouse and Former Spouse Forfeiture Provisions.—__ 
+    (g)  __Spouse and Former Spouse Forfeiture Provisions__  __.—__ 
 
         (1) If a former spouse receiving compensation under this section remarries, the Secretary shall terminate payment of such compensation, effective as of the date of such marriage. The Secretary may not renew payment of compensation under this section to such former spouse in the event of the termination of such subsequent marriage.
 
@@ -97,7 +97,7 @@
 
         (3) In a case in which the victim of the dependent-abuse offense resulting in a punitive or other adverse action described in subsection (b) was a dependent child, the Secretary concerned may not pay compensation under this section to a spouse or former spouse who would otherwise be eligible to receive such compensation if the Secretary determines (under regulations prescribed under subsection (k)) that the spouse or former spouse was an active participant in the conduct constituting the dependent-abuse offense.
 
-    (h) __Effect of Continuation of Military Pay.—__ 
+    (h)  __Effect of Continuation of Military Pay__  __.—__ 
 
     In the case of payment of transitional compensation by reason of a total forfeiture of pay and allowances pursuant to a sentence of a court-martial, payment of transitional compensation shall not be made for any period for which an order—
 
@@ -105,23 +105,23 @@
 
         (2) otherwise results in continuation, in whole or in part, of the member’s pay and allowances.
 
-    (i) __Coordination of Benefits.—__ 
+    (i)  __Coordination of Benefits__  __.—__ 
 
     The Secretary concerned may not make payments to a spouse or former spouse under both this section and [section 1408(h)(1) of this title][/us/usc/t10/s1408/h/1]. In the case of a spouse or former spouse for whom a court order provides for payments by the Secretary pursuant to [section 1408(h)(1) of this title][/us/usc/t10/s1408/h/1] and to whom the Secretary offers payments under this section, the spouse or former spouse shall elect which to receive.
 
-    (j) __Commissary and Exchange Benefits.—__ 
+    (j)  __Commissary and Exchange Benefits__  __.—__ 
 
         (1) A dependent or former dependent entitled to payment of monthly transitional compensation under this section shall, while receiving payments in accordance with this section, be entitled to use commissary and exchange stores to the same extent and in the same manner as a dependent of a member of the armed forces on active duty for a period of more than 30 days.
 
         (2) If a dependent or former dependent eligible or entitled to use commissary and exchange stores under paragraph (1) is eligible or entitled to use commissary and exchange stores under another provision of law, the eligibility or entitlement of that dependent or former dependent to use commissary and exchange stores shall be determined under such other provision of law rather than under paragraph (1).
 
-    (k) __Regulations.—__ 
+    (k)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations to carry out this section with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy). The Secretary of Homeland Security shall prescribe regulations to carry out this section with respect to the Coast Guard when it is not operating as a service in the Navy.
 
         (2) Regulations prescribed under paragraph (1) shall include the criminal offenses, or categories of offenses, under the Uniform Code of Military Justice (chapter 47 of this title), Federal criminal law, the criminal laws of the States and other jurisdictions of the United States, and the laws of other nations that are to be considered to be dependent-abuse offenses for the purposes of this section.
 
-    (l) __Dependent Child Defined.—__ 
+    (l)  __Dependent Child Defined__  __.—__ 
 
     In this section, the term “dependent child”, with respect to a member or former member of the armed forces referred to in subsection (b), means an unmarried child, including an adopted child or a stepchild, who was residing with the member or eligible spouse at the time of the dependent-abuse offense resulting in the separation of the former member or who was carried during pregnancy at the time of the dependent-abuse offense resulting in the separation of the former member and was subsequently born alive to the eligible spouse or former spouse and—
 
@@ -131,7 +131,7 @@
 
         (3) who is 18 years of age or older but less than 23 years of age, is enrolled in a full-time course of study in an institution of higher learning approved by the Secretary of Defense and who is (or, at the time a punitive or other adverse action was executed in the case of the former member as described in subsection (b), was) dependent on the former member for over one-half of the child’s support.
 
-    (m) __Exceptional Eligibility for Dependents of Former Members.—__ 
+    (m)  __Exceptional Eligibility for Dependents of Former Members__  __.—__ 
 
         (1) The Secretary concerned, under regulations prescribed under subsection (k), may authorize eligibility for benefits under this section for dependents and former dependents of a former member of the armed forces in a case in which the dependents or former dependents are not otherwise eligible for such benefits and the Secretary concerned determines that the former member engaged in conduct that is a dependent-abuse offense under this section and the former member was separated from active duty other than as described in subsection (b).
 

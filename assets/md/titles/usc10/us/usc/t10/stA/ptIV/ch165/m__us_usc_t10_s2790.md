@@ -15,15 +15,15 @@
 
 ## § 2790. Recovery of improperly disposed of Department of Defense property
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     No member of the armed forces, civilian employee of the United States Government, contractor personnel, or other person may sell, lend, pledge, barter, or give any clothing, arms, articles, equipment, or other military or Department of Defense property except in accordance with the statutes and regulations governing Government property.
 
-    (b) __Transfer of Title or Interest Ineffective.—__ 
+    (b)  __Transfer of Title or Interest Ineffective__  __.—__ 
 
     If property has been disposed of in violation of subsection (a), the person holding the property has no right or title to, or interest in, the property.
 
-    (c) __Authority for Seizure of Improperly Disposed of Property.—__ 
+    (c)  __Authority for Seizure of Improperly Disposed of Property__  __.—__ 
 
     If any person is in the possession of military or Department of Defense property without right or title to, or interest in, the property because it has been disposed of in material violation of subsection (a), any Federal, State, or local law enforcement official may seize the property wherever found. Unless an exception to the warrant requirement under the fourth amendment to the Constitution applies, seizure may be made only—
 
@@ -37,7 +37,7 @@
 
         (2) after such a court has issued such a warrant or order.
 
-    (d) __Inapplicability to Certain Property.—__ 
+    (d)  __Inapplicability to Certain Property__  __.—__ 
 
     Subsections (b) and (c) shall not apply to—
 
@@ -45,7 +45,7 @@
 
         (2) property in the collection of any museum or veterans organization or held in a private collection for the purpose of public display, provided that any such property, the possession of which could undermine national security or create a hazard to public health or safety, has been fully demilitarized.
 
-    (e) __Determinations of Violations.—__ 
+    (e)  __Determinations of Violations__  __.—__ 
 
         (1) The district court of the United States for the district in which the property is located, or the district in which the person in possession of the property resides or is subject to service, shall have jurisdiction, regardless of the current approximated or estimated value of the property, to determine whether property was disposed of in violation of subsection (a). Any such determination shall be by a preponderance of the evidence.
 
@@ -53,11 +53,11 @@
 
         (3) Paragraph (2) shall not apply to any firearm, ammunition, or ammunition component, or firearm part or accessory that is not prohibited for commercial sale.
 
-    (f) __Delivery of Seized Property.—__ 
+    (f)  __Delivery of Seized Property__  __.—__ 
 
     Any law enforcement official who seizes property under subsection (c) and is not authorized to retain it for the United States shall deliver the property to an authorized member of the armed forces or other authorized official of the Department of Defense or the Department of Justice.
 
-    (g) __Scope of Enforcement.—__ 
+    (g)  __Scope of Enforcement__  __.—__ 
 
     This section shall apply to the following:
 
@@ -65,11 +65,11 @@
 
         (2) Any significant military equipment disposed of on or after January 1, 2002, in a manner that is not in accordance with statutes and regulations governing Government property in effect at the time of the disposal of such significant military equipment.
 
-    (h) __Rule of Construction.—__ 
+    (h)  __Rule of Construction__  __.—__ 
 
     The authority of this section is in addition to any other authority of the United States with respect to property to which the United States may have right or title.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 

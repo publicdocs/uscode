@@ -15,7 +15,7 @@
 
 ## § 1596a. Foreign language proficiency: special pay for proficiency beneficial for other national security interests
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may pay special pay under this section to an employee of the Department of Defense who—
 
@@ -25,15 +25,15 @@
 
         (3) is not receiving special pay under [section 1596 of this title][/us/usc/t10/s1596].
 
-    (b) __Rate.—__ 
+    (b)  __Rate__  __.—__ 
 
     The rate of special pay for an employee under this section shall be prescribed by the Secretary, but may not exceed five percent of the employee’s rate of basic pay.
 
-    (c) __Relationship to Other Pay and Allowances.—__ 
+    (c)  __Relationship to Other Pay and Allowances__  __.—__ 
 
     Special pay under this section is in addition to any other pay or allowances to which the employee is entitled.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 

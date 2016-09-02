@@ -15,17 +15,17 @@
 
 ## § 2016. Undergraduate nurse training program: establishment through agreement with academic institution
 
-    (a) __Establishment Authorized.—__ 
+    (a)  __Establishment Authorized__  __.—__ 
 
         (1) To increase the number of nurses in the armed forces, the Secretary of Defense may enter into an agreement with one or more academic institutions to establish and operate an undergraduate program (in this section referred to as a “undergraduate nurse training program”) under which participants will earn a bachelor of science degree in nursing and serve as a member of the armed forces.
 
         (2) The Secretary of Defense may authorize the participation of members of the other uniformed services in the undergraduate nurse training program if the Secretary of Defense and the Secretary of Health and Human Services jointly determine the participation of such members in the program will facilitate an increase in the number of nurses in the other uniformed services.
 
-    (b) __Graduation Rates.—__ 
+    (b)  __Graduation Rates__  __.—__ 
 
     An undergraduate nurse training program shall have the capacity to graduate 25 students with a bachelor of science degree in nursing in the first class of the program, 50 in the second class, and 100 annually thereafter.
 
-    (c) __Elements.—__ 
+    (c)  __Elements__  __.—__ 
 
     An undergraduate nurse training program shall have the following elements:
 
@@ -33,17 +33,17 @@
 
         (2) It shall recruit as participants qualified individuals with at least two years of appropriate academic preparation, as determined by the Secretary of Defense.
 
-    (d) __Location of Programs.—__ 
+    (d)  __Location of Programs__  __.—__ 
 
         (1) An academic institution selected to operate an undergraduate nurse training program shall establish the program at or near a military installation that has a military treatment facility designated as a medical center with inpatient capability and multiple graduate medical education programs located on the installation or within reasonable proximity to the installation.
 
         (2) Before approving a location as the site of an undergraduate nurse training program, the Secretary of Defense shall conduct an assessment to ensure that the establishment of the program at that location will not adversely impact or displace existing nurse training programs, either conducted by the Department of Defense or by a civilian entity, at the location.
 
-    (e) __Limitation on Faculty.—__ 
+    (e)  __Limitation on Faculty__  __.—__ 
 
     An agreement entered into under subsection (a) shall not require members of the armed forces who are nurses to serve as faculty members for an undergraduate nurse training program.
 
-    (f) __Military Service Commitment.—__ 
+    (f)  __Military Service Commitment__  __.—__ 
 
     The Secretary of Defense shall encourage members of the armed forces to apply to participate in an undergraduate nurse training program. Graduates of the program shall incur a military service obligation in a regular or reserve component, as determined by the Secretary.
 
@@ -65,41 +65,41 @@
 
 [Pub. L. 111–84, div. A, title V, § 525(c)][/us/pl/111/84/s525/c]–(f), Oct. 28, 2009, [123 Stat. 2287][/us/stat/123/2287], 2288, as amended by [Pub. L. 111–383, div. A, title V, § 551(d)][/us/pl/111/383/s551/d], Jan. 7, 2011, [124 Stat. 4219][/us/stat/124/4219], provided that:
 
->     “(c) __Undergraduate Nurse Training Program Plan.—__ 
+>     “(c)  __Undergraduate Nurse Training Program Plan__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a plan to establish an undergraduate nurse training program in the Department of Defense in accordance with the authority provided by [section 2169 of title 10][/us/usc/t10/s2169], United States Code, as added by subsection (a), section 2016 of such title, as added by subsection (b), or any other authority available to the Secretary.
 
 >     “(d) __Pilot Program.—__ 
 
->         “(1) __Pilot program required.—__ 
+>         “(1)  __Pilot program required__  __.—__ 
 
 >         The plan required by subsection (c) shall provide for the establishment of a pilot program to increase the number of nurses serving in the Armed Forces.
 
->         “(2) __Implementation and duration.—__ 
+>         “(2)  __Implementation and duration__  __.—__ 
 
 >         The pilot program shall begin not later than December 31, 2011, and be of not less than five years in duration.
 
->         “(3) __Graduation rates.—__ 
+>         “(3)  __Graduation rates__  __.—__ 
 
 >         The goal of the pilot program is to achieve graduation rates at least equal to the rates required for the undergraduate nurse training programs authorized by [section 2016 of title 10][/us/usc/t10/s2016], United States Code, as added by subsection (b).
 
->         “(4) __Implementation report.—__ 
+>         “(4)  __Implementation report__  __.—__ 
 
 >         Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the pilot program, including a description of the program selected to be undertaken, the program’s goals, and any additional legal authorities that may be needed to undertake the program.
 
->         “(5) __Progress reports.—__ 
+>         “(5)  __Progress reports__  __.—__ 
 
 >         Not later than 90 days after the end of each academic year of the pilot program, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report specifying the number of nurses accessed into the Armed Forces through the program and the number of students accepted for the upcoming academic year.
 
->         “(6) __Final report.—__ 
+>         “(6)  __Final report__  __.—__ 
 
 >         Not later than one year before the end of the pilot program, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report specifying the number of nurses accessed through the program, evaluating the overall effectiveness of the program, and containing the Secretary’s recommendations regarding whether the program should be extended.
 
->     “(e) __Effect on Other Nursing Programs.—__ 
+>     “(e)  __Effect on Other Nursing Programs__  __.—__ 
 
 >     Notwithstanding the development of undergraduate nurse training programs under the amendments made by this section \[enacting this section and [section 2169 of this title][/us/usc/t10/s2169] and repealing [section 2117 of this title][/us/usc/t10/s2117]\] and subsection (d), the Secretary of Defense shall ensure that graduate degree programs in nursing, including advanced practice nursing, continue.
 
->     “(f) __Effect on Other Recruitment Efforts.—__ 
+>     “(f)  __Effect on Other Recruitment Efforts__  __.—__ 
 
 >     Nothing in this section shall be construed as limiting or terminating any current or future program of the Department of Defense related to the recruitment, accession, training, or retention of nurses.”
 

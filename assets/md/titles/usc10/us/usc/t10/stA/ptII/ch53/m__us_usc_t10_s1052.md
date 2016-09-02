@@ -15,33 +15,33 @@
 
 ## § 1052. Adoption expenses: reimbursement
 
-    (a) __Authorization To Reimburse.—__ 
+    (a)  __Authorization To Reimburse__  __.—__ 
 
     The Secretary of Defense shall carry out a program under which a member of the armed forces may be reimbursed, as provided in this section, for qualifying adoption expenses incurred by the member in the adoption of a child under 18 years of age.
 
-    (b) __Adoptions Covered.—__ 
+    (b)  __Adoptions Covered__  __.—__ 
 
     An adoption for which expenses may be reimbursed under this section includes an adoption by a single person, an infant adoption, an intercountry adoption, and an adoption of a child with special needs (as defined in section 473(c) of the Social Security Act ([42 U.S.C. 673(c)][/us/usc/t42/s673/c])).
 
-    (c) __Benefits Paid After Adoption Is Final.—__ 
+    (c)  __Benefits Paid After Adoption Is Final__  __.—__ 
 
     Benefits paid under this section in the case of an adoption may be paid only after the adoption is final.
 
-    (d) __Treatment of Other Benefits.—__ 
+    (d)  __Treatment of Other Benefits__  __.—__ 
 
     A benefit may not be paid under this section for any expense paid to or for a member of the armed forces under any other adoption benefits program administered by the Federal Government or under any such program administered by a State or local government.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
         (1) Not more than $2,000 may be paid under this section to a member of the armed forces, or to two such members who are spouses of each other, for expenses incurred in the adoption of a child.
 
         (2) Not more than $5,000 may be paid under this section to a member of the armed forces, or to two such members who are spouses of each other, for adoptions by such member (or members) in any calendar year.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to carry out this section.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

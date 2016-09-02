@@ -15,7 +15,7 @@
 
 ## § 1074g. Pharmacy benefits program
 
-    (a) __Pharmacy Benefits.—__ 
+    (a)  __Pharmacy Benefits__  __.—__ 
 
         (1) The Secretary of Defense, after consulting with the other administering Secretaries, shall establish an effective, efficient, integrated pharmacy benefits program under this chapter (hereinafter in this section referred to as the “pharmacy benefits program”).
 
@@ -97,13 +97,13 @@
 
         (8) In carrying out this subsection, the Secretary shall ensure that an eligible covered beneficiary may continue to receive coverage for any maintenance pharmaceutical that is not on the uniform formulary and that was prescribed for the beneficiary before October 5, 1999, and stabilized the medical condition of the beneficiary.
 
-    (b) __Establishment of Committee.—__ 
+    (b)  __Establishment of Committee__  __.—__ 
 
         (1) The Secretary of Defense shall, in consultation with the Secretaries of the military departments, establish a Pharmacy and Therapeutics Committee for the purpose of developing the uniform formulary of pharmaceutical agents required by subsection (a), reviewing such formulary on a periodic basis, and making additional recommendations regarding the formulary as the committee determines necessary and appropriate. The committee shall include representatives of pharmacies of the uniformed services facilities and representatives of providers in facilities of the uniformed services. Committee members shall have expertise in treating the medical needs of the populations served through such entities and in the range of pharmaceutical and biological medicines available for treating such populations. The committee shall function under procedures established by the Secretary under the regulations prescribed under subsection (h).
 
         (2) The committee shall meet at least quarterly and shall, during meetings, consider for inclusion on the uniform formulary under the standards established in subsection (a) any drugs newly approved by the Food and Drug Administration.
 
-    (c) __Advisory Panel.—__ 
+    (c)  __Advisory Panel__  __.—__ 
 
         (1) Concurrent with the establishment of the Pharmacy and Therapeutics Committee under subsection (b), the Secretary shall establish a Uniform Formulary Beneficiary Advisory Panel to review and comment on the development of the uniform formulary. The Secretary shall consider the comments of the panel before implementing the uniform formulary or implementing changes to the uniform formulary.
 
@@ -119,21 +119,21 @@
 
             (D) TRICARE network providers.
 
-    (d) __Procedures.—__ 
+    (d)  __Procedures__  __.—__ 
 
         (1) In the operation of the pharmacy benefits program under subsection (a), the Secretary of Defense shall assure through management and new contractual arrangements that financial resources are aligned such that the cost of prescriptions is borne by the organization that is financially responsible for the health care of the eligible covered beneficiary.
 
         (2) The Secretary shall use a modification to the bid price adjustment methodology in the managed care support contracts current as of October 5, 1999, to ensure equitable and timely reimbursement to the TRICARE managed care support contractors for pharmaceutical products delivered in the nonmilitary environments. The methodology shall take into account the “at-risk” nature of the contracts as well as managed care support contractor pharmacy costs attributable to changes to pharmacy service or formulary management at military medical treatment facilities, and other military activities and policies that affect costs of pharmacy benefits provided through the Civilian Health and Medical Program of the Uniformed Services. The methodology shall also account for military treatment facility costs attributable to the delivery of pharmaceutical products in the military facility environment which were prescribed by a network provider.
 
-    (e) __Pharmacy Data Transaction Service.—__ 
+    (e)  __Pharmacy Data Transaction Service__  __.—__ 
 
     The Secretary of Defense shall implement the use of the Pharmacy Data Transaction Service in all fixed facilities of the uniformed services under the jurisdiction of the Secretary, in the TRICARE retail pharmacy program, and in the national mail-order pharmacy program.
 
-    (f) __Procurement of Pharmaceuticals by TRICARE Retail Pharmacy Program.—__ 
+    (f)  __Procurement of Pharmaceuticals by TRICARE Retail Pharmacy Program__  __.—__ 
 
     With respect to any prescription filled after January 28, 2008, the TRICARE retail pharmacy program shall be treated as an element of the Department of Defense for purposes of the procurement of drugs by Federal agencies under [section 8126 of title 38][/us/usc/t38/s8126] to the extent necessary to ensure that pharmaceuticals paid for by the Department of Defense that are provided by pharmacies under the program to eligible covered beneficiaries under this section are subject to the pricing standards in such section 8126.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -145,7 +145,7 @@
 
         (4) The term “prescription drug” means a drug that is subject to section 503(b) of the Federal Food, Drug, and Cosmetic Act ([21 U.S.C. 353(b)][/us/usc/t21/s353/b]).
 
-    (h) __Regulations.—__ 
+    (h)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall, after consultation with the other administering Secretaries, prescribe regulations to carry out this section.
 
@@ -201,11 +201,11 @@
 
 [Pub. L. 112–239, div. A, title VII, § 712(b)][/us/pl/112/239/s712/b], Jan. 2, 2013, [126 Stat. 1802][/us/stat/126/1802], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The cost-sharing requirements under subparagraph (A) of [section 1074g(a)(6) of title 10][/us/usc/t10/s1074g/a/6], United States Code, as amended by subsection (a)(1), shall apply with respect to prescriptions obtained under the TRICARE pharmacy benefits program on or after such date as the Secretary of Defense shall specify, but not later than the date that is 45 days after the date of the enactment of this Act \[Jan. 2, 2013\].
 
->     “(2) __Federal register.—__ 
+>     “(2)  __Federal register__  __.—__ 
 
 >     The Secretary shall publish notice of the effective date of the cost-sharing requirements specified under paragraph (1) in the Federal Register.”
 
@@ -225,17 +225,17 @@
 
 [Pub. L. 112–239, div. A, title VII, § 716][/us/pl/112/239/s716], Jan. 2, 2013, [126 Stat. 1804][/us/stat/126/1804], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall conduct a pilot program to refill prescription maintenance medications for each TRICARE for Life beneficiary through the national mail-order pharmacy program under [section 1074g(a)(2)(E)(iii) of title 10][/us/usc/t10/s1074g/a/2/E/iii], United States Code.
 
 >     “(b) __Medications Covered.—__ 
 
->         “(1) __Determination.—__ 
+>         “(1)  __Determination__  __.—__ 
 
 >         The Secretary shall determine the prescription maintenance medications included in the pilot program under subsection (a).
 
->         “(2) __Supply.—__ 
+>         “(2)  __Supply__  __.—__ 
 
 >         In carrying out the pilot program under subsection (a), the Secretary shall ensure that the medications included in the program are generally available to a TRICARE for Life beneficiary—
 
@@ -255,7 +255,7 @@
 
 >                 “(ii) such facilities of the uniformed services.
 
->         “(3) __Exemption.—__ 
+>         “(3)  __Exemption__  __.—__ 
 
 >         The Secretary may exempt the following prescription maintenance medications from the requirements in paragraph (2):
 
@@ -265,15 +265,15 @@
 
 >     “(c) __Nonparticipation.—__ 
 
->         “(1) __Opt out.—__ 
+>         “(1)  __Opt out__  __.—__ 
 
 >         The Secretary shall give TRICARE for Life beneficiaries who have been covered by the pilot program under subsection (a) for a period of one year an opportunity to opt out of continuing to participate in the program.
 
->         “(2) __Waiver.—__ 
+>         “(2)  __Waiver__  __.—__ 
 
 >         The Secretary may waive the requirement of a TRICARE for Life beneficiary to participate in the pilot program under subsection (a) if the Secretary determines, on an individual basis, that such waiver is appropriate.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Secretary shall prescribe regulations to carry out the pilot program under subsection (a), including regulations with respect to—
 
@@ -281,15 +281,15 @@
 
 >         “(2) addressing instances where a TRICARE for Life beneficiary covered by the pilot program attempts to refill such medications at a retail pharmacy rather than through the national mail-order pharmacy program or a facility of the uniformed services.
 
->     “(e) __Reports.—__ 
+>     “(e)  __Reports__  __.—__ 
 
 >     Not later than March 31 of each year beginning in 2014 and ending in 2018, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot program under subsection (a), including the effects of offering incentives for the use of mail order pharmacies by TRICARE beneficiaries and the effect on retail pharmacies.
 
->     “(f) __Sunset.—__ 
+>     “(f)  __Sunset__  __.—__ 
 
 >     The Secretary may not carry out the pilot program under subsection (a) after December 31, 2017.
 
->     “(g) __TRICARE for Life Beneficiary Defined.—__ 
+>     “(g)  __TRICARE for Life Beneficiary Defined__  __.—__ 
 
 >     In this section, the term ‘TRICARE for Life beneficiary’ means a TRICARE beneficiary enrolled in the Medicare wraparound coverage option of the TRICARE program made available to the beneficiary by reason of [section 1086(d) of title 10][/us/usc/t10/s1086/d], United States Code.”
 
@@ -297,11 +297,11 @@
 
 [Pub. L. 111–383, div. A, title VII, § 716][/us/pl/111/383/s716], Jan. 7, 2011, [124 Stat. 4250][/us/stat/124/4250], provided that:
 
->     “(a) __Education and Training Required.—__ 
+>     “(a)  __Education and Training Required__  __.—__ 
 
 >     The Secretary of Defense shall develop and implement training, available through the Internet or other means, on the use of pharmaceuticals in rehabilitation programs for seriously ill or injured members of the Armed Forces.
 
->     “(b) __Recipients of Training.—__ 
+>     “(b)  __Recipients of Training__  __.—__ 
 
 >     The training developed and implemented under subsection (a) shall be training for each category of individuals as follows:
 
@@ -313,7 +313,7 @@
 
 >         “(4) Family members.
 
->     “(c) __Elements of Training.—__ 
+>     “(c)  __Elements of Training__  __.—__ 
 
 >     The training developed and implemented under subsection (a) shall include the following:
 
@@ -329,17 +329,17 @@
 
 >         “(6) Familiarization with complementary and alternative therapies.
 
->     “(d) __Tailoring of Training.—__ 
+>     “(d)  __Tailoring of Training__  __.—__ 
 
 >     The training developed and implemented under subsection (a) shall appropriately tailor the elements specified in subsection (c) for and among each category of individuals set forth in subsection (b).
 
 >     “(e) __Review of Pharmacy.—__ 
 
->         “(1) __Review.—__ 
+>         “(1)  __Review__  __.—__ 
 
 >         The Secretary shall review all policies and procedures of the Department of Defense regarding the use of pharmaceuticals in rehabilitation programs for seriously ill or injured members of the Armed Forces.
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         Not later than September 20, 2011, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] any recommendations for administrative or legislative action with respect to the review under paragraph (1) as the Secretary considers appropriate.”
 
@@ -347,13 +347,13 @@
 
 [Pub. L. 109–364, div. A, title VII, § 705][/us/pl/109/364/s705], Oct. 17, 2006, [120 Stat. 2280][/us/stat/120/2280], as amended by [Pub. L. 111–383, div. A, title X, § 1075(g)(5)][/us/pl/111/383/s1075/g/5], Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], provided that:
 
->     “(a) __Requirement to Conduct Demonstration.—__ 
+>     “(a)  __Requirement to Conduct Demonstration__  __.—__ 
 
 >     The Secretary of Defense shall conduct a demonstration project under [section 1092 of title 10][/us/usc/t10/s1092], United States Code, to allow particular over-the-counter drugs to be included on the uniform formulary under section 1074g of such title.
 
 >     “(b) __Elements of Demonstration Project.—__ 
 
->         “(1) __Inclusion of certain over-the-counter drugs.—__ 
+>         “(1)  __Inclusion of certain over-the-counter drugs__  __.—__ 
 
 >             (A) As part of the demonstration project, the Secretary shall modify uniform formulary specifications under section 1074g(a) of such title to include an over-the-counter drug (referred to in this section as an ‘OTC drug’) on the uniform formulary if the Pharmacy and Therapeutics Committee finds that the OTC drug is cost-effective and therapeutically equivalent to a prescription drug. If the Pharmacy and Therapeutics Committee makes such a finding, the OTC drug shall be considered to be in the same therapeutic class of pharmaceutical agents as the prescription drug.
 
@@ -371,19 +371,19 @@
 
 >                     “(II) has been determined to be therapeutically equivalent to the prescription drug.
 
->         “(2) __Conduct through military facilities, retail pharmacies, or mail order program.—__ 
+>         “(2)  __Conduct through military facilities, retail pharmacies, or mail order program__  __.—__ 
 
 >         The Secretary shall conduct the demonstration project through at least two of the means described in subparagraph (E) of section 1074g(a)(2) of such title through which OTC drugs are provided and may conduct the demonstration project throughout the entire pharmacy benefits program or at a limited number of sites. If the project is conducted at a limited number of sites, the number of sites shall be not less than five in each TRICARE region for each of the two means described in such subparagraph.
 
->         “(3) __Period of demonstration.—__ 
+>         “(3)  __Period of demonstration__  __.—__ 
 
 >         The Secretary shall provide for conducting the demonstration project for a period of time necessary to evaluate the feasibility and cost effectiveness of the demonstration. Such period shall be at least as long as the period covered by pharmacy contracts in existence on the date of the enactment of this Act \[Oct. 17, 2006\] (including any extensions of the contracts), or five years, whichever is shorter.
 
->         “(4) __Implementation deadline.—__ 
+>         “(4)  __Implementation deadline__  __.—__ 
 
 >         Implementation of the demonstration project shall begin not later than May 1, 2007.
 
->     “(c) __Evaluation of Demonstration Project.—__ 
+>     “(c)  __Evaluation of Demonstration Project__  __.—__ 
 
 >     The Secretary shall evaluate the demonstration project for the following:
 
@@ -393,7 +393,7 @@
 
 >         “(3) Customer satisfaction with the demonstration project.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than two years after implementation of the demonstration project begins, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report on the demonstration project. The report shall contain—
 
@@ -403,11 +403,11 @@
 
 >         “(3) recommendations on whether permanent authority should be provided to cover OTC drugs under the pharmacy benefits program.
 
->     “(e) __Continuation of Demonstration Project.—__ 
+>     “(e)  __Continuation of Demonstration Project__  __.—__ 
 
 >     If the Secretary recommends in the report under subsection (d) that permanent authority should be provided, the Secretary may continue the demonstration project for up to one year after submitting the report.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -423,15 +423,15 @@
 
 [Pub. L. 107–314, div. A, title VII, § 724][/us/pl/107/314/s724], Dec. 2, 2002, [116 Stat. 2598][/us/stat/116/2598], provided that:
 
->     “(a) __Interoperability.—__ 
+>     “(a)  __Interoperability__  __.—__ 
 
 >     The Secretary of Veterans Affairs and the Secretary of Defense shall seek to ensure that on or before October 1, 2004, the Department of Veterans Affairs pharmacy data system and the Department of Defense pharmacy data system (known as the ‘Pharmacy Data Transaction System’) are interoperable for both Department of Defense beneficiaries and Department of Veterans Affairs beneficiaries by achieving real-time interface, data exchange, and checking of prescription drug data of outpatients, and using national standards for the exchange of outpatient medication information.
 
->     “(b) __Alternative Requirement.—__ 
+>     “(b)  __Alternative Requirement__  __.—__ 
 
 >     If the interoperability specified in subsection (a) is not achieved by October 1, 2004, as determined jointly by the Secretary of Defense and the Secretary of Veterans Affairs, the Secretary of Veterans Affairs shall adopt the Department of Defense Pharmacy Data Transaction System for use by the Department of Veterans Affairs health care system. Such system shall be fully operational not later than October 1, 2005.
 
->     “(c) __Implementation Funding for Alternative Requirement.—__ 
+>     “(c)  __Implementation Funding for Alternative Requirement__  __.—__ 
 
 >     The Secretary of Defense shall transfer to the Secretary of Veterans Affairs, or shall otherwise bear the cost of, an amount sufficient to cover three-fourths of the cost to the Department of Veterans Affairs for computer programming activities and relevant staff training expenses related to implementation of subsection (b). Such amount shall be determined in such manner as agreed to by the two Secretaries.”
 

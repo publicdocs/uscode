@@ -199,11 +199,11 @@ July 15, 1954, ch. 507, §§ 1, 2 (1st 25 words, as applicable to armed forces
 
 [Pub. L. 109–364, div. A, title V, § 567][/us/pl/109/364/s567], Oct. 17, 2006, [120 Stat. 2224][/us/stat/120/2224], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The Secretary of each military department shall ensure that each military health care professional under that Secretary’s jurisdiction who is deployed to a theater of combat operations is trained, before such deployment, in the preservation of remains under combat or combat-related conditions.
 
->     “(b) __Matters Covered by Training.—__ 
+>     “(b)  __Matters Covered by Training__  __.—__ 
 
 >     The training under subsection (a) shall include, at a minimum, the following:
 
@@ -211,7 +211,7 @@ July 15, 1954, ch. 507, §§ 1, 2 (1st 25 words, as applicable to armed forces
 
 >         “(2) Practical case studies based on experience of the Armed Forces in a variety of climactic conditions.
 
->     “(c) __Covered Military Health Care Professionals.—__ 
+>     “(c)  __Covered Military Health Care Professionals__  __.—__ 
 
 >     In this section, the term ‘military health care professional’ means—
 
@@ -219,7 +219,7 @@ July 15, 1954, ch. 507, §§ 1, 2 (1st 25 words, as applicable to armed forces
 
 >         “(2) any other medical personnel with medical specialties who may provide direct patient care and who are designated by the Secretary of the military department concerned.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall apply with respect to any military health care professional who is deployed to a theater of combat operations after the end of the 90-day period beginning on the date of the enactment of this Act \[Oct. 17, 2006\].”
 

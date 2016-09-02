@@ -15,11 +15,11 @@
 
 ## § 949a. Rules
 
-    (a) __Procedures and Rules of Evidence.—__ 
+    (a)  __Procedures and Rules of Evidence__  __.—__ 
 
     Pretrial, trial, and post-trial procedures, including elements and modes of proof, for cases triable by military commission under this chapter may be prescribed by the Secretary of Defense. Such procedures may not be contrary to or inconsistent with this chapter. Except as otherwise provided in this chapter or chapter 47 of this title, the procedures and rules of evidence applicable in trials by general courts-martial of the United States shall apply in trials by military commission under this chapter.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
         (1) In trials by military commission under this chapter, the Secretary of Defense, in consultation with the Attorney General, may make such exceptions in the applicability of the procedures and rules of evidence otherwise applicable in general courts-martial as may be required by the unique circumstances of the conduct of military and intelligence operations during hostilities or by other practical need consistent with this chapter.
 
@@ -89,11 +89,11 @@
 
             (B) Failure of the accused to conform to the rules described in subparagraph (A) may result in a partial or total revocation by the military judge of the right of self-representation under paragraph (2)(D). In such case, the military counsel of the accused or an appropriately authorized civilian counsel shall perform the functions necessary for the defense.
 
-    (c) __Delegation of Authority To Prescribe Regulations.—__ 
+    (c)  __Delegation of Authority To Prescribe Regulations__  __.—__ 
 
     The Secretary of Defense may delegate the authority of the Secretary to prescribe regulations under this chapter.
 
-    (d) __Notice to Congress of Modification of Rules.—__ 
+    (d)  __Notice to Congress of Modification of Rules__  __.—__ 
 
     Not later than 60 days before the date on which any proposed modification of the rules in effect for military commissions under this chapter goes into effect, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing the proposed modification.
 

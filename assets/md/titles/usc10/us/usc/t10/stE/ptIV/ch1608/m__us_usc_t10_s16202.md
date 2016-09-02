@@ -15,11 +15,11 @@
 
 ## § 16202. Reserve service: required active duty for training
 
-    (a) __Selected Reserve.—__ 
+    (a)  __Selected Reserve__  __.—__ 
 
     A person who is required under an agreement under [section 16201 of this title][/us/usc/t10/s16201] to serve in the Selected Reserve shall serve not less than 12 days of active duty for training each year during the period of service required by the agreement.
 
-    (b) __IRR Service.—__ 
+    (b)  __IRR Service__  __.—__ 
 
     A person who is required under an agreement under [section 16201 of this title][/us/usc/t10/s16201] to serve in the Individual Ready Reserve shall serve—
 

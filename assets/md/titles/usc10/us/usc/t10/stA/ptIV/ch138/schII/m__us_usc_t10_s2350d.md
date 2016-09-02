@@ -15,7 +15,7 @@
 
 ## § 2350d. Cooperative logistic support agreements: NATO countries
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
         (1)
 
@@ -33,7 +33,7 @@
 
             (B) the acquisition of logistics support, supplies, and services by the United States from that Organization.
 
-    (b) __Authority of Secretary.—__ 
+    (b)  __Authority of Secretary__  __.—__ 
 
     Under the terms of a Weapon System Partnership Agreement, the Secretary of Defense—
 
@@ -41,19 +41,19 @@
 
         (2) may share the costs of set-up charges of facilities for use by the NATO Maintenance and Supply Organization to provide cooperative logistics support and in the costs of establishing a revolving fund for initial acquisition and replenishment of supply stocks to be used by the NATO Maintenance and Supply Organization to provide cooperative logistics support.
 
-    (c) __Sharing of Administrative Expenses.—__ 
+    (c)  __Sharing of Administrative Expenses__  __.—__ 
 
     Each Weapon System Partnership Agreement shall provide for joint management by the participating countries and for the equitable sharing of the administrative costs and costs of claims incident to the agreement.
 
-    (d) __Application of Chapter 137.—__ 
+    (d)  __Application of Chapter__  __137.—__ 
 
     Except as otherwise provided in this section, the provisions of chapter 137 of this title apply to a contract entered into by the Secretary of Defense for the acquisition of logistics support under a Weapon System Partnership Agreement.
 
-    (e) __Application of Arms Export Control Act.—__ 
+    (e)  __Application of Arms Export Control Act__  __.—__ 
 
     Any transfer of defense articles or defense services to a member country of the North Atlantic Treaty Organization or to the NATO Maintenance and Supply Organization for the purposes of a Weapon System Partnership Agreement shall be carried out in accordance with this chapter and the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.).
 
-    (f) __Supplemental Authority.—__ 
+    (f)  __Supplemental Authority__  __.—__ 
 
     The authority of the Secretary of Defense under this section is in addition to the authority of the Secretary under subchapter I and any other provision of law.
 

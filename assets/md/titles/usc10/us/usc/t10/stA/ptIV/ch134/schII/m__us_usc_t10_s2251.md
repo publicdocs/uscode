@@ -15,7 +15,7 @@
 
 ## § 2251. Household furnishings and other property: personnel outside the United States or in Alaska or Hawaii
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Subject to subsection (b), the Secretary of the military department concerned may—
 
@@ -23,7 +23,7 @@
 
         (2) provide household furnishings, without charge, in other than public quarters occupied by members of the armed forces or civilian employees of the Department of Defense who are on duty outside the United States or in Alaska or Hawaii.
 
-    (b) __Required Determination.—__ 
+    (b)  __Required Determination__  __.—__ 
 
     The authority provided in subsection (a) may be used only when it is determined, under regulations approved by the Secretary of Defense, that the use of that authority would be advantageous to the United States.
 

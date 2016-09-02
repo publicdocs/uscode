@@ -15,11 +15,11 @@
 
 ## § 118b. Quadrennial roles and missions review
 
-    (a) __Review Required.—__ 
+    (a)  __Review Required__  __.—__ 
 
     The Secretary of Defense shall every four years conduct a comprehensive assessment (to be known as the “quadrennial roles and missions review”) of the roles and missions of the armed forces and the core competencies and capabilities of the Department of Defense to perform and support such roles and missions.
 
-    (b) __Independent Military Assessment of Roles and Missions.—__ 
+    (b)  __Independent Military Assessment of Roles and Missions__  __.—__ 
 
         (1) In each year in which the Secretary of Defense is required to conduct a comprehensive assessment pursuant to subsection (a), the Chairman of the Joint Chiefs of Staff shall prepare and submit to the Secretary the Chairman’s assessment of the roles and missions of the armed forces and the assignment of functions to the armed forces, together with any recommendations for changes in assignment that the Chairman considers necessary to achieve maximum efficiency and effectiveness of the armed forces.
 
@@ -33,7 +33,7 @@
 
             (C) provide the Chairman’s recommendations with regard to issues to be addressed by the Secretary of Defense under subsection (c).
 
-    (c) __Identification of Core Mission Areas and Core Competencies and Capabilities.—__ 
+    (c)  __Identification of Core Mission Areas and Core Competencies and Capabilities__  __.—__ 
 
     Upon receipt of the Chairman’s assessment, and after giving appropriate consideration to the Chairman’s recommendations, the Secretary of Defense shall identify—
 
@@ -49,7 +49,7 @@
 
         (6) a plan for addressing any gaps or unnecessary duplication identified pursuant to paragraph (4) or paragraph (5).
 
-    (d) __Report.—__ 
+    (d)  __Report__  __.—__ 
 
     The Secretary shall submit a report on the quadrennial roles and missions review to the Committees on Armed Services of the Senate and the House of Representatives. The report shall be submitted in the year following the year in which the review is conducted, but not later than the date on which the President submits the budget for the next fiscal year to Congress under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 
@@ -69,11 +69,11 @@
 
 [Pub. L. 110–181, div. A, title IX, § 941(c)][/us/pl/110/181/s941/c], Jan. 28, 2008, [122 Stat. 287][/us/stat/122/287], provided that:
 
->     “(1) __First review.—__ 
+>     “(1)  __First review__  __.—__ 
 
 >     The first quadrennial roles and missions review under [section 118b of title 10][/us/usc/t10/s118b], United States Code, as added by subsection (a), shall be conducted during 2008.
 
->     “(2) __Subsequent reviews.—__ 
+>     “(2)  __Subsequent reviews__  __.—__ 
 
 >     Subsequent reviews shall be conducted every four years, beginning in 2011.”
 

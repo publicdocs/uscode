@@ -15,45 +15,45 @@
 
 ## § 1448a. Election to discontinue participation: one-year opportunity after second anniversary of commencement of payment of retired pay
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     A participant in the Plan may, subject to the provisions of this section, elect to discontinue participation in the Plan at any time during the one-year period beginning on the second anniversary of the date on which payment of retired pay to the participant commences.
 
     (b) __Concurrence of Spouse.—__ 
 
-        (1) __Concurrence required.—__ 
+        (1)  __Concurrence required__  __.—__ 
 
         A married participant may not (except as provided in paragraph (2)) make an election under subsection (a) without the concurrence of the participant’s spouse.
 
-        (2) __Exceptions.—__ 
+        (2)  __Exceptions__  __.—__ 
 
         A participant may make such an election without the concurrence of the participant’s spouse by establishing to the satisfaction of the Secretary concerned that one of the conditions specified in [section 1448(a)(3)(C) of this title][/us/usc/t10/s1448/a/3/C] exists.
 
-        (3) __Form of concurrence.—__ 
+        (3)  __Form of concurrence__  __.—__ 
 
         The concurrence of a spouse under paragraph (1) shall be made in such written form and shall contain such information as may be required under regulations prescribed by the Secretary of Defense.
 
-    (c) __Limitation on Election When Former Spouse Coverage in Effect.—__ 
+    (c)  __Limitation on Election When Former Spouse Coverage in Effect__  __.—__ 
 
     The limitation set forth in [section 1450(f)(2) of this title][/us/usc/t10/s1450/f/2] applies to an election to discontinue participation in the Plan under subsection (a).
 
-    (d) __Withdrawal of Election To Discontinue.—__ 
+    (d)  __Withdrawal of Election To Discontinue__  __.—__ 
 
     [Section 1448(b)(1)(D) of this title][/us/usc/t10/s1448/b/1/D] applies to an election under subsection (a).
 
-    (e) __Consequences of Discontinuation.—__ 
+    (e)  __Consequences of Discontinuation__  __.—__ 
 
     [Section 1448(b)(1)(E) of this title][/us/usc/t10/s1448/b/1/E] applies to an election under subsection (a).
 
-    (f) __Notice to Affected Beneficiaries.—__ 
+    (f)  __Notice to Affected Beneficiaries__  __.—__ 
 
     The Secretary concerned shall notify any former spouse or other natural person previously designated under [section 1448(b) of this title][/us/usc/t10/s1448/b] of an election to discontinue participation under subsection (a).
 
-    (g) __Effective Date of Election.—__ 
+    (g)  __Effective Date of Election__  __.—__ 
 
     An election under subsection (a) is effective as of the first day of the first calendar month following the month in which the election is received by the Secretary concerned.
 
-    (h) __Inapplicability of Irrevocability Provisions.—__ 
+    (h)  __Inapplicability of Irrevocability Provisions__  __.—__ 
 
     Paragraphs (4)(B) and (5)(C) of [section 1448(a) of this title][/us/usc/t10/s1448/a] do not apply to prevent an election under subsection (a).
 

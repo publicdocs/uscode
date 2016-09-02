@@ -15,11 +15,11 @@
 
 ## § 709. Emergency leave of absence
 
-    (a) __Emergency Leave of Absence.—__ 
+    (a)  __Emergency Leave of Absence__  __.—__ 
 
     The Secretary concerned may grant a member of the armed forces emergency leave of absence for a qualifying emergency.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
     An emergency leave of absence under this section—
 
@@ -29,7 +29,7 @@
 
         (3) may not extend for a period of more than 14 days.
 
-    (c) __Qualifying Emergency.—__ 
+    (c)  __Qualifying Emergency__  __.—__ 
 
     In this section, the term “qualifying emergency”, with respect to a member of the armed forces, means a circumstance that—
 
@@ -43,11 +43,11 @@
 
         (2) is verified to the Secretary’s satisfaction based upon information or opinion from a source in addition to the member that the Secretary considers to be objective and reliable.
 
-    (d) __Military Department Regulations.—__ 
+    (d)  __Military Department Regulations__  __.—__ 
 
     Regulations prescribed under this section by the Secretaries of the military department shall be as uniform as practicable and shall be subject to approval by the Secretary of Defense.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

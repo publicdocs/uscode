@@ -51,7 +51,7 @@
 
 [Pub. L. 104–106, div. A, title X, § 1071][/us/pl/104/106/s1071], Feb. 10, 1996, [110 Stat. 445][/us/stat/110/445], as amended by [Pub. L. 104–201, div. A, title IX, § 907(b)(2)][/us/pl/104/201/s907/b/2], Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620], provided that:
 
->     “(a) __Policy.—__ 
+>     “(a)  __Policy__  __.—__ 
 
 >     Congress reaffirms—
 
@@ -61,7 +61,7 @@
 
 >     “\[(b) Repealed. [Pub. L. 104–201, div. A, title IX, § 907(b)(2)][/us/pl/104/201/s907/b/2], Sept. 23, 1996, [110 Stat. 2620][/us/stat/110/2620]. See [section 2112a(b) of this title][/us/usc/t10/s2112a/b].\]
 
->     “(c) __Budgetary Commitment to Continuation.—__ 
+>     “(c)  __Budgetary Commitment to Continuation__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of Defense should budget for the operation of the Uniformed Services University of the Health Sciences during fiscal year 1997 at a level at least equal to the level of operations conducted at the University during fiscal year 1995.”
 

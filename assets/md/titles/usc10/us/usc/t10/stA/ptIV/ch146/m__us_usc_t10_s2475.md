@@ -15,11 +15,11 @@
 
 ## § 2475. Consolidation, restructuring, or reengineering of organizations, functions, or activities: notification requirements
 
-    (a) __Requirement To Submit Plan Annually.—__ 
+    (a)  __Requirement To Submit Plan Annually__  __.—__ 
 
     Concurrently with the submission of the President’s annual budget request under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to Congress each Strategic Sourcing Plan of Action for the Department of Defense (as identified in the Department of Defense Interim Guidance dated February 29, 2000, or any successor Department of Defense guidance or directive), for the following year.
 
-    (b) __Notification of Decision To Execute Plan.—__ 
+    (b)  __Notification of Decision To Execute Plan__  __.—__ 
 
     If a decision is made to consolidate, restructure, or reengineer an organization, function, or activity of the Department of Defense pursuant to a Strategic Sourcing Plan of Action described in subsection (a), and such consolidation, restructuring, or reengineering would result in a manpower reduction affecting 50 or more personnel of the Department of Defense (including military and civilian personnel)—
 

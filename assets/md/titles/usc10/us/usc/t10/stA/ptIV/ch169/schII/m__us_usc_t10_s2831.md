@@ -15,11 +15,11 @@
 
 ## § 2831. Military family housing management account
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is on the books of the Treasury an account known as the Department of Defense Military Family Housing Management Account (hereinafter in this section referred to as the “account”). The account shall be used for the management and administration of funds appropriated or otherwise made available to the Department of Defense for military family housing programs.
 
-    (b) __Credits to Account.—__ 
+    (b)  __Credits to Account__  __.—__ 
 
     The account shall be administered as a single account. There shall be transferred into the account—
 
@@ -29,15 +29,15 @@
 
         (3) proceeds of the handling and the disposal of family housing of a military department (including related land and improvements), whether carried out by a military department or any other Federal agency, but less those expenses payable pursuant to [section 572(a) of title 40][/us/usc/t40/s572/a].
 
-    (c) __Availability of Amounts in Account.—__ 
+    (c)  __Availability of Amounts in Account__  __.—__ 
 
     Amounts in the account shall remain available until spent.
 
-    (d) __Use of Account.—__ 
+    (d)  __Use of Account__  __.—__ 
 
     The Secretary concerned may make obligations against the account, in such amounts as may be specified from time to time in appropriation Acts, for the purpose of defraying, in the manner and to the extent authorized by law, the costs referred to in subsection (b).
 
-    (e) __Reports on General Officers and Flag Officers Quarters.—__ 
+    (e)  __Reports on General Officers and Flag Officers Quarters__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (2) Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report specifying, for each family housing unit used as quarters for a general officer or flag officer at any time during that fiscal year, the total expenditures for operation and maintenance, utilities, lease, and repairs of the unit during that fiscal year.
 
-    (f) __Notice and Wait Requirement.—__ 
+    (f)  __Notice and Wait Requirement__  __.—__ 
 
         (1)
 

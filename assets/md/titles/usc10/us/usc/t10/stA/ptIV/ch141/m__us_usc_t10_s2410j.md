@@ -15,7 +15,7 @@
 
 ## § 2410j. Displaced contractor employees: assistance to obtain certification and employment as teachers or employment as teachers’ aides
 
-    (a) __Assistance Program.—__ 
+    (a)  __Assistance Program__  __.—__ 
 
     The Secretary of Defense may enter into a cooperative agreement with a defense contractor in order—
 
@@ -35,7 +35,7 @@
 
             (B) is also experiencing a shortage of teachers or teachers’ aides.
 
-    (b) __Eligible Defense Contractors.—__ 
+    (b)  __Eligible Defense Contractors__  __.—__ 
 
         (1) The Secretary of Defense shall establish an application and selection process for the participation of defense contractors in a cooperative agreement authorized under subsection (a).
 
@@ -49,7 +49,7 @@
 
         (3) The Secretary shall give special consideration to defense contractors who are located in areas that have been hit particularly hard by reductions in defense spending.
 
-    (c) __Defense Contractor Applications.—__ 
+    (c)  __Defense Contractor Applications__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (2) Once a cooperative agreement is entered into under subsection (a) between the Secretary and the defense contractor, the contractor shall publicize the program and distribute applications to prospective participants, and assist the prospective participants with the State screening process.
 
-    (d) __Eligible Scientists and Engineers.—__ 
+    (d)  __Eligible Scientists and Engineers__  __.—__ 
 
     An individual shall be eligible for selection by the Secretary of Defense to receive assistance under this section if the individual—
 
@@ -83,7 +83,7 @@
 
         (4) satisfies such other criteria for selection as the Secretary may prescribe.
 
-    (e) __Selection of Participants.—__ 
+    (e)  __Selection of Participants__  __.—__ 
 
         (1)
 
@@ -95,7 +95,7 @@
 
         (2) The Secretary may not select an individual under this section unless the Secretary has sufficient appropriations to carry out this section available at the time of the selection to satisfy the obligations to be incurred by the United States under this section with respect to that individual.
 
-    (f) __Agreement.—__ 
+    (f)  __Agreement__  __.—__ 
 
     An individual selected under this section shall be required to enter into an agreement with the Secretary in which the participant agrees—
 
@@ -109,7 +109,7 @@
 
             (B) in the case of an individual selected for assistance for placement as a teacher’s aide, an offer of full-time employment as a teacher’s aide in an elementary or secondary school for not less than two school years with a local educational agency identified under [section 1151(b)(3) of this title][/us/usc/t10/s1151/b/3], as in effect on October 4, 1999, to begin the school year after obtaining the necessary credentials.
 
-    (g) __Stipend for Participants.—__ 
+    (g)  __Stipend for Participants__  __.—__ 
 
         (1)
 
@@ -121,7 +121,7 @@
 
         (2) A stipend provided under this section shall be taken into account in determining the eligibility of the participant for Federal student financial assistance provided under title IV of the Higher Education Act of 1965 ([20 U.S.C. 1070][/us/usc/t20/s1070] et seq.).
 
-    (h) __Placement of Participants as Teachers and Teachers’ Aides.—__ 
+    (h)  __Placement of Participants as Teachers and Teachers’ Aides__  __.—__ 
 
     Subsections (h) through (k) of [section 1151 of this title][/us/usc/t10/s1151], as in effect on October 4, 1999, shall apply with respect to the placement as teachers and teachers’ aides of individuals selected under this section.
 

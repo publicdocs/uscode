@@ -15,11 +15,11 @@
 
 ## § 1252. Age 64: permanent professors at academies
 
-    (a) __Mandatory Retirement for Age.—__ 
+    (a)  __Mandatory Retirement for Age__  __.—__ 
 
     Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps covered by subsection (b) shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
 
-    (b) __Covered Officers.—__ 
+    (b)  __Covered Officers__  __.—__ 
 
     This section applies to the following officers:
 

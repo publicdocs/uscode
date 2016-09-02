@@ -17,7 +17,7 @@
 
 ## “SEC. 8. STATE INSURANCE AND SECURITIES JURISDICTION ON MILITARY INSTALLATIONS.
 
->     “(a) __Clarification of Jurisdiction.—__ 
+>     “(a)  __Clarification of Jurisdiction__  __.—__ 
 
 >     Any provision of law, regulation, or order of a State with respect to regulating the business of insurance or securities shall apply to insurance or securities activities conducted on Federal land or facilities in the United States and abroad, including military installations, except to the extent that such law, regulation, or order—
 
@@ -25,7 +25,7 @@
 
 >         “(2) would not apply if such activity were conducted on State land.
 
->     “(b) __Primary State Jurisdiction.—__ 
+>     “(b)  __Primary State Jurisdiction__  __.—__ 
 
 >     To the extent that multiple State laws would otherwise apply pursuant to subsection (a) to an insurance or securities activity of an individual or entity on Federal land or facilities, the State having the primary duty to regulate such activity and the laws of which shall apply to such activity in the case of a conflict shall be—
 

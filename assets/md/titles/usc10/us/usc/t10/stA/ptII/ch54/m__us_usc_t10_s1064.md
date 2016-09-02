@@ -15,27 +15,27 @@
 
 ## § 1064. Use of commissary stores and MWR retail facilities: members of National Guard serving in federally declared disaster or national emergency
 
-    (a) __Eligibility of Members.—__ 
+    (a)  __Eligibility of Members__  __.—__ 
 
     A member of the National Guard who, although not in Federal service, is called or ordered to duty in response to a federally declared disaster or national emergency shall be permitted to use commissary stores and MWR retail facilities during the period of such duty on the same basis as members of the armed forces on active duty.
 
-    (b) __Eligibility of Dependents.—__ 
+    (b)  __Eligibility of Dependents__  __.—__ 
 
     A dependent of a member of the National Guard who is permitted under subsection (a) to use commissary stores and MWR retail facilities shall be permitted to use such stores and facilities, during the same period as the member, on the same basis as dependents of members of the armed forces on active duty.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Federally declared disaster.—__ 
+        (1)  __Federally declared disaster__  __.—__ 
 
         The term “federally declared disaster” means a disaster or other situation for which a Presidential declaration of major disaster is issued under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act ([42 U.S.C. 5170][/us/usc/t42/s5170]).
 
-        (2) __MWR retail facilities.—__ 
+        (2)  __MWR retail facilities__  __.—__ 
 
         The term “MWR retail facilities” has the meaning given that term in [section 1063(e) of this title][/us/usc/t10/s1063/e].
 
-        (3) __National emergency.—__ 
+        (3)  __National emergency__  __.—__ 
 
         The term “national emergency” means a national emergency declared by the President or Congress.
 

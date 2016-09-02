@@ -107,11 +107,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 112–239, div. A, title V, § 580][/us/pl/112/239/s580], Jan. 2, 2013, [126 Stat. 1764][/us/stat/126/1764], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, establish within the Office of the Secretary of Defense a position with responsibility for oversight of all suicide prevention and resilience programs of the Department of Defense (including those of the military departments and the Armed Forces).
 
->     “(b) __Scope of Responsibilities.—__ 
+>     “(b)  __Scope of Responsibilities__  __.—__ 
 
 >     The individual serving in the position established under subsection (a) shall have the responsibilities as follows:
 
@@ -123,11 +123,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 112–239, div. A, title V, § 582][/us/pl/112/239/s582], Jan. 2, 2013, [126 Stat. 1766][/us/stat/126/1766], provided that:
 
->     “(a) __Comprehensive Policy Required.—__ 
+>     “(a)  __Comprehensive Policy Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall, acting through the Under Secretary of Defense for Personnel and Readiness, develop within the Department of Defense a comprehensive policy on the prevention of suicide among members of the Armed Forces. In developing the policy, the Secretary shall consider recommendations from the operational elements of the Armed Forces regarding the feasibility of the implementation and execution of particular elements of the policy.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The policy required by subsection (a) shall cover each of the following:
 
@@ -159,11 +159,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 112–239, div. A, title VII, § 725][/us/pl/112/239/s725], Jan. 2, 2013, [126 Stat. 1806][/us/stat/126/1806], provided that:
 
->     “(a) __Research and Practice.—__ 
+>     “(a)  __Research and Practice__  __.—__ 
 
 >     The Secretary of Defense shall provide for the translation of research on the diagnosis and treatment of mental health conditions into policy on medical practices.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary shall submit to the Committees on Armed Services of the House of Representatives and the Senate a report on the translation of research into policy as described in subsection (a). The report shall include the following:
 
@@ -177,11 +177,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 112–239, div. A, title VII, § 731][/us/pl/112/239/s731], Jan. 2, 2013, [126 Stat. 1815][/us/stat/126/1815], provided that:
 
->     “(a) __Detailed Plan.—__ 
+>     “(a)  __Detailed Plan__  __.—__ 
 
 >     In implementing reforms to the governance of the military health system described in the memorandum of the Deputy Secretary of Defense dated March 2012, the Secretary of Defense shall develop a detailed plan to carry out such reform.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The plan developed under subsection (a) shall include the following:
 
@@ -215,7 +215,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(v) the anticipated cost savings to be realized by implementing the shared service.
 
->     “(c) __Submission.—__ 
+>     “(c)  __Submission__  __.—__ 
 
 >     The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the plan developed under subsection (a) as follows:
 
@@ -227,19 +227,19 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(d) __Limitations.—__ 
 
->         “(1) __First submission.—__ 
+>         “(1)  __First submission__  __.—__ 
 
 >         Of the funds authorized to be appropriated by this Act \[see Tables for classification\] or otherwise made available for fiscal year 2013 for the accounts and activities described in paragraph (4), not more than 50 percent may be obligated or expended until the date on which the Secretary of Defense submits to the congressional defense committees the contents of the plan under subsection (c)(1).
 
->         “(2) __Second submission.—__ 
+>         “(2)  __Second submission__  __.—__ 
 
 >         Of the funds authorized to be appropriated by this Act or otherwise made available for fiscal year 2013 for the accounts and activities described in paragraph (4), not more than 75 percent may be obligated or expended until the date on which the Secretary of Defense submits to the congressional defense committees the contents of the plan under subsection (c)(2).
 
->         “(3) __Comptroller general review.—__ 
+>         “(3)  __Comptroller general review__  __.—__ 
 
 >         The Comptroller General of the United States shall submit to the congressional defense committees a review of the contents of the plan submitted under each of paragraphs (1) and (2) to assess whether the Secretary of Defense meets the requirements of such contents.
 
->         “(4) __Accounts and activities described.—__ 
+>         “(4)  __Accounts and activities described__  __.—__ 
 
 >         The accounts and activities described in this paragraph are as follows:
 
@@ -251,7 +251,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(D) Operation and maintenance, Defense Health Program, for management professional support services.
 
->     “(e) __Shared Services Defined.—__ 
+>     “(e)  __Shared Services Defined__  __.—__ 
 
 >     In this section, the term ‘shared services’ means the common services required for each military department to provide medical support to the Armed Forces and authorized beneficiaries.”
 
@@ -259,11 +259,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 112–239, div. A, title VII, § 738][/us/pl/112/239/s738], Jan. 2, 2013, [126 Stat. 1820][/us/stat/126/1820], provided that:
 
->     “(a) __Metrics Required.—__ 
+>     “(a)  __Metrics Required__  __.—__ 
 
 >     The Secretary of Defense shall establish a policy containing uniform performance outcome measurements to be used by each Secretary of a military department in tracking and monitoring members of the Armed Forces in Warriors in Transition programs.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The policy established under subsection (a) shall identify outcome measurements with respect to the following:
 
@@ -275,7 +275,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(4) Such other matters as the Secretary considers appropriate.
 
->     “(c) __Milestones.—__ 
+>     “(c)  __Milestones__  __.—__ 
 
 >     In establishing the policy under subsection (a), the Secretary of Defense shall establish metrics and milestones for members in Warriors in Transition programs. Such metrics and milestones shall cover members throughout the course of care and rehabilitation in Warriors in Transitions programs by applying to the following occasions:
 
@@ -285,7 +285,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) When the member ceases participation in the program or is transferred to the jurisdiction of the Secretary of Veterans Affairs.
 
->     “(d) __Cohort Groups and Parameters.—__ 
+>     “(d)  __Cohort Groups and Parameters__  __.—__ 
 
 >     The policy established under subsection (a)—
 
@@ -295,11 +295,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(e) __Reports Required.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the policy established under subsection (a), including the outcome measurements for each element under subsection (b) and each metric and milestone under subsection (c).
 
->         “(2) __Annual reports.—__ 
+>         “(2)  __Annual reports__  __.—__ 
 
 >         Not later than February of each year beginning in 2014 and ending in 2018, the Secretary of Defense shall submit to the congressional defense committees a report on the performance of the military departments with respect to the policy established under subsection (a). Each report shall include—
 
@@ -319,7 +319,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) such other results and analyses as the Secretary considers appropriate, including any recommendations for legislation if needed.
 
->     “(f) __Warriors in Transition Program Defined.—__ 
+>     “(f)  __Warriors in Transition Program Defined__  __.—__ 
 
 >     In this section, the term ‘Warriors in Transition program’ means any major support program of the Armed Forces for members of the Armed Forces with severe wounds, illnesses, or injuries that is intended to provide such members with nonmedical case management service and care coordination services, and includes the programs as follows:
 
@@ -337,11 +337,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 112–81, div. A, title V, § 533(a)][/us/pl/112/81/s533/a], (b), Dec. 31, 2011, [125 Stat. 1404][/us/stat/125/1404], provided that:
 
->     “(a) __Program Enhancement.—__ 
+>     “(a)  __Program Enhancement__  __.—__ 
 
 >     The Secretary of Defense shall take appropriate actions to enhance the suicide prevention program of the Department of Defense through the provision of suicide prevention information and resources to members of the Armed Forces from their initial enlistment or appointment through their final retirement or separation.
 
->     “(b) __Cooperative Effort.—__ 
+>     “(b)  __Cooperative Effort__  __.—__ 
 
 >     The Secretary of Defense shall develop suicide prevention information and resources in consultation with—
 
@@ -361,7 +361,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(a) __Review and Assessment of Current Capabilities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense, in consultation with the Secretaries of the military departments, shall conduct a comprehensive review of the following:
 
@@ -369,7 +369,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) The policies of the Department of Defense relating to the disposition of substance abuse offenders in the Armed Forces, including disciplinary action and administrative separation.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The review conducted under paragraph (1) shall include an assessment of each of the following:
 
@@ -391,7 +391,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(I) Any gaps in the current capabilities of the Department of Defense for the prevention, diagnosis, and treatment of substance use disorders in members of the Armed Forces.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report setting forth the findings and recommendations of the Secretary as a result of the review conducted under paragraph (1). The report shall—
 
@@ -403,7 +403,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(b) __Plan for Improvement and Enhancement of Programs and Policies.—__ 
 
->         “(1) __Plan required.—__ 
+>         “(1)  __Plan required__  __.—__ 
 
 >         Not later than 270 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for the improvement and enhancement of the following:
 
@@ -411,7 +411,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) The policies of the Department of Defense relating to the disposition of substance abuse offenders in the Armed Forces, including disciplinary action and administrative separation.
 
->         “(2) __Basis.—__ 
+>         “(2)  __Basis__  __.—__ 
 
 >         The comprehensive plan required by paragraph (1) shall take into account the following:
 
@@ -419,7 +419,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) Similar initiatives of the Secretary of Veterans Affairs to expand and improve care for substance use disorders among veterans, including the programs and activities conducted under title I of the Veterans’ Mental Health and Other Care Improvements Act of 2008 ([Public Law 110–387][/us/pl/110/387]; [112 Stat. 4112][/us/stat/112/4112]) \[see Tables for classification\].
 
->         “(3) __Comprehensive statement of policy.—__ 
+>         “(3)  __Comprehensive statement of policy__  __.—__ 
 
 >         The comprehensive plan required by paragraph (1) shall include a comprehensive statement of the following:
 
@@ -427,23 +427,23 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) The policies of the Department of Defense relating to the disposition of substance abuse offenders in the Armed Forces, including disciplinary action and administrative separation.
 
->         “(4) __Availability of services and treatment.—__ 
+>         “(4)  __Availability of services and treatment__  __.—__ 
 
 >         The comprehensive plan required by paragraph (1) shall include mechanisms to ensure the availability to members of the Armed Forces and their dependents of a core of evidence-based practices across the spectrum of medical and non-medial services and treatments for substance use disorders, including the reestablishment of regional long-term inpatient substance abuse treatment programs. The Secretary may use contracted services for not longer than three years after the date of the enactment of this Act to perform such inpatient substance abuse treatment until the Department of Defense reestablishes this capability within the military health care system.
 
->         “(5) __Prevention and reduction of disorders.—__ 
+>         “(5)  __Prevention and reduction of disorders__  __.—__ 
 
 >         The comprehensive plan required by paragraph (1) shall include mechanisms to facilitate the prevention and reduction of substance use disorders in members of the Armed Forces through science-based initiatives, including education programs, for members of the Armed Forces and their dependents.
 
->         “(6) __Specific instructions.—__ 
+>         “(6)  __Specific instructions__  __.—__ 
 
 >         The comprehensive plan required by paragraph (1) shall include each of the following:
 
->             “(A) __Substances of abuse.—__ 
+>             “(A)  __Substances of abuse__  __.—__ 
 
 >             Instructions on the prevention, diagnosis, and treatment of substance abuse in members of the Armed Forces, including the abuse of alcohol, illicit drugs, and nonmedical use and abuse of prescription drugs.
 
->             “(B) __Healthcare professionals.—__ 
+>             “(B)  __Healthcare professionals__  __.—__ 
 
 >             Instructions on—
 
@@ -453,35 +453,35 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(iii) such uniform training and credentialing requirements for physician and nonphysician healthcare professionals in the prevention, screening, diagnosis, and treatment of substance use disorders in members of the Armed Forces as the Secretary considers appropriate.
 
->             “(C) __Services for dependents.—__ 
+>             “(C)  __Services for dependents__  __.—__ 
 
 >             Instructions on the availability of services for substance use disorders for dependents of members of the Armed Forces, including instructions on making such services available to dependents to the maximum extent practicable.
 
->             “(D) __Relationship between disciplinary action and treatment.—__ 
+>             “(D)  __Relationship between disciplinary action and treatment__  __.—__ 
 
 >             Policy on the relationship between disciplinary actions and administrative separation processing and prevention and treatment of substance use disorders in members of the Armed Forces.
 
->             “(E) __Confidentiality.—__ 
+>             “(E)  __Confidentiality__  __.—__ 
 
 >             Recommendations regarding policies pertaining to confidentiality for members of the Armed Forces in seeking or receiving services or treatment for substance use disorders.
 
->             “(F) __Participation of chain of command.—__ 
+>             “(F)  __Participation of chain of command__  __.—__ 
 
 >             Policy on appropriate consultation, reference to, and involvement of the chain of command of members of the Armed Forces in matters relating to the diagnosis and treatment of substance abuse and disposition of members of the Armed Forces for substance abuse.
 
->             “(G) __Consideration of gender.—__ 
+>             “(G)  __Consideration of gender__  __.—__ 
 
 >             Instructions on gender specific requirements, if appropriate, in the prevention, diagnosis, treatment, and management of substance use disorders in members of the Armed Forces, including gender specific care and treatment requirements.
 
->             “(H) __Coordination with other healthcare initiatives.—__ 
+>             “(H)  __Coordination with other healthcare initiatives__  __.—__ 
 
 >             Instructions on the integration of efforts on the prevention, diagnosis, treatment, and management of substance use disorders in members of the Armed Forces with efforts to address co-occurring health care disorders (such as post-traumatic stress disorder and depression) and suicide prevention.
 
->         “(7) __Other elements.—__ 
+>         “(7)  __Other elements__  __.—__ 
 
 >         In addition to the matters specified in paragraph (3), the comprehensive plan required by paragraph (1) shall include the following:
 
->             “(A) __Implementation plan.—__ 
+>             “(A)  __Implementation plan__  __.—__ 
 
 >             An implementation plan for the achievement of the goals of the comprehensive plan, including goals relating to the following:
 
@@ -493,15 +493,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(iv) Appropriate staffing of military medical treatment facilities and other facilities for the treatment of substance use disorders in members of the Armed Forces.
 
->             “(B) __Best practices.—__ 
+>             “(B)  __Best practices__  __.—__ 
 
 >             The incorporation of evidence-based best practices utilized in current military and civilian approaches to the prevention, diagnosis, treatment, and management of substance use disorders.
 
->             “(C) __Available research.—__ 
+>             “(C)  __Available research__  __.—__ 
 
 >             The incorporation of applicable results of available studies, research, and academic reviews on the prevention, diagnosis, treatment, and management of substance use disorders.
 
->         “(8) __Update in light of independent study.—__ 
+>         “(8)  __Update in light of independent study__  __.—__ 
 
 >         Upon the completion of the study required by subsection (c), the Secretary of Defense shall—
 
@@ -511,11 +511,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(c) __Independent Report on Substance Use Disorders Programs for Members of the Armed Forces.—__ 
 
->         “(1) __Study required.—__ 
+>         “(1)  __Study required__  __.—__ 
 
 >         Upon completion of the policy review required by subsection (a), the Secretary of Defense shall provide for a study on substance use disorders programs for members of the Armed Forces to be conducted by the Institute of Medicine of the National Academies of Sciences or such other independent entity as the Secretary shall select for purposes of the study.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The study required by paragraph (1) shall include a review and assessment of the following:
 
@@ -533,7 +533,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(G) Such other matters as the Secretary considers appropriate for purposes of the study.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than two years after the date of the enactment of this Act \[Oct. 28, 2009\], the entity conducting the study required by paragraph (1) shall submit to the Secretary of Defense and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the study. The report shall set forth the findings and recommendations of the entity as a result of the study.”
 
@@ -541,11 +541,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 111–84, div. A, title VII, § 711][/us/pl/111/84/s711], Oct. 28, 2009, [123 Stat. 2378][/us/stat/123/2378], provided that:
 
->     “(a) __Comprehensive Policy Required.—__ 
+>     “(a)  __Comprehensive Policy Required__  __.—__ 
 
 >     Not later than March 31, 2011, the Secretary of Defense shall develop and implement a comprehensive policy on pain management by the military health care system.
 
->     “(b) __Scope of Policy.—__ 
+>     “(b)  __Scope of Policy__  __.—__ 
 
 >     The policy required by subsection (a) shall cover each of the following:
 
@@ -563,17 +563,17 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(7) Programs of patient education for members suffering from acute or chronic pain and their families.
 
->     “(c) __Updates.—__ 
+>     “(c)  __Updates__  __.—__ 
 
 >     The Secretary shall revise the policy required by subsection (a) on a periodic basis in accordance with experience and evolving best practice guidelines.
 
 >     “(d) __Annual Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the commencement of the implementation of the policy required by subsection (a), and on October 1 each year thereafter through 2018, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the policy.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each report required by paragraph (1) shall include the following:
 
@@ -595,7 +595,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 111–84, div. A, title VII, § 714][/us/pl/111/84/s714], Oct. 28, 2009, [123 Stat. 2381][/us/stat/123/2381], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(8)][/us/pl/111/383/s1075/d/8], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
 
->     “(a) __Increased Authorizations.—__ 
+>     “(a)  __Increased Authorizations__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of each military department shall increase the number of active duty mental health personnel authorized for the department under the jurisdiction of the Secretary in an amount equal to the sum of the following amounts:
 
@@ -611,7 +611,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(b) __Report and Plan on the Required Number of Mental Health Personnel.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the appropriate number of mental health personnel required to meet the mental health care needs of members of the Armed Forces, retired members, and dependents. The report shall include, at a minimum, the following:
 
@@ -621,7 +621,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) The plan under paragraph (2).
 
->         “(2) __Plan.—__ 
+>         “(2)  __Plan__  __.—__ 
 
 >         The Secretary shall develop and implement a plan to significantly increase the number of military and civilian mental health personnel of the Department of Defense by September 30, 2013. The plan may include the following:
 
@@ -643,11 +643,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(c) __Report on Additional Officer or Enlisted Military Specialties for Mental Health.—__ 
 
->         “(1) __Report.—__ 
+>         “(1)  __Report__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the assessment of the Secretary of the feasibility and advisability of establishing one or more military mental health specialties for officers or enlisted members of the Armed Forces in order to better meet the mental health care needs of members of the Armed Forces and their families.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report required by paragraph (1) shall set forth the following:
 
@@ -665,7 +665,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 111–84, div. A, title VII, § 721][/us/pl/111/84/s721], Oct. 28, 2009, [123 Stat. 2385][/us/stat/123/2385], provided that:
 
->     “(a) __Study and Report Required.—__ 
+>     “(a)  __Study and Report Required__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the health care needs of dependents (as defined in [section 1072(2) of title 10][/us/usc/t10/s1072/2], United States Code). The report shall include, at a minimum, the following:
 
@@ -683,11 +683,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(b) __Enhanced Military Health System and Improved TRICARE.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense, in consultation with the other administering Secretaries, shall undertake actions to enhance the capability of the military health system and improve the TRICARE program.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         In undertaking actions to enhance the capability of the military health system and improve the TRICARE program under paragraph (1), the Secretary shall consider the following actions:
 
@@ -721,21 +721,21 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(O) Such other actions as the Secretary, in consultation with the other administering Secretaries, considers appropriate.
 
->     “(c) __Quality Assurance.—__ 
+>     “(c)  __Quality Assurance__  __.—__ 
 
 >     In undertaking actions under this section, the Secretary of Defense and the other administering Secretaries shall continue or enhance the current level of quality health care provided by the Department of Defense and the military departments with no adverse impact to cost, access, or care.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     In considering actions to be undertaken under this section, and in undertaking such actions, the Secretary shall consult with a broad range of national health care and military advocacy organizations.
 
 >     “(e) __Reports Required.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an initial report on the progress made in undertaking actions under this section and future plans for improvement of the military health system.
 
->         “(2) __Report required with fiscal year 2012 budget proposal.—__ 
+>         “(2)  __Report required with fiscal year 2012 budget proposal__  __.—__ 
 
 >         Together with the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2012 (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code), the Secretary shall submit to the congressional defense committees a report setting forth the following:
 
@@ -745,11 +745,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) An explanation of how the budget submission may reflect such progress and plans.
 
->         “(3) __Periodic reports.—__ 
+>         “(3)  __Periodic reports__  __.—__ 
 
 >         The Secretary shall, on a periodic basis, submit to the congressional defense committees a report on the progress being made in the improvement of the TRICARE program under this section.
 
->         “(4) __Elements.—__ 
+>         “(4)  __Elements__  __.—__ 
 
 >         Each report under this subsection shall include the following:
 
@@ -757,7 +757,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) Such recommendations for administrative or legislative action as the Secretary considers appropriate to expedite and enhance the improvement of the TRICARE program.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -769,11 +769,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 705, Oct. 14, 2008, [122 Stat. 4499][/us/stat/122/4499], provided that:
 
->     “(a) __Program.—__ 
+>     “(a)  __Program__  __.—__ 
 
 >     The Secretary of Defense is authorized to develop a plan to establish a program to build cooperative health care arrangements and agreements between military installations projected to grow and local and regional non-military health care systems.
 
->     “(b) __Requirements of Plan.—__ 
+>     “(b)  __Requirements of Plan__  __.—__ 
 
 >     In developing the plan, the Secretary of Defense shall—
 
@@ -785,15 +785,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(4) collaborate with State and local authorities to create an arrangement to share and exchange, between the Department of Defense and nonmilitary health care systems, personal health information, and data of military personnel and their families.
 
->     “(c) __Coordination With Other Entities.—__ 
+>     “(c)  __Coordination With Other Entities__  __.—__ 
 
 >     The plan shall include requirements for coordination with Federal, State, and local entities, TRICARE managed care support contractors, and other contracted assets around installations selected for participation in the program.
 
->     “(d) __Consultation Requirements.—__ 
+>     “(d)  __Consultation Requirements__  __.—__ 
 
 >     The Secretary of Defense shall develop the plan in consultation with the Secretaries of the military departments.
 
->     “(e) __Selection of Military Installations.—__ 
+>     “(e)  __Selection of Military Installations__  __.—__ 
 
 >     Each selected military installation shall meet the following criteria:
 
@@ -817,7 +817,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) limited or no capability to provide trauma care.
 
->     “(f) __Reports.—__ 
+>     “(f)  __Reports__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], and every year thereafter, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives an annual report on any plan developed under subsection (a).”
 
@@ -825,17 +825,17 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 721, Oct. 14, 2008, [122 Stat. 4506][/us/stat/122/4506], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of hearing loss and auditory system injury to carry out the responsibilities specified in subsection (c).
 
->     “(b) __Partnerships.—__ 
+>     “(b)  __Partnerships__  __.—__ 
 
 >     The Secretary shall ensure that the center collaborates to the maximum extent practicable with the Secretary of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c).
 
 >     “(c) __Responsibilities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The center shall—
 
@@ -845,15 +845,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) enable the Secretary of Veterans Affairs to access the registry and add information pertaining to additional treatments or surgical procedures and eventual hearing outcomes for veterans who were entered into the registry and subsequently received treatment through the Veterans Health Administration.
 
->         “(2) __Designation of registry.—__ 
+>         “(2)  __Designation of registry__  __.—__ 
 
 >         The registry under this subsection shall be known as the ‘Hearing Loss and Auditory System Injury Registry’ (hereinafter referred to as the ‘Registry’).
 
->         “(3) __Consultation in development.—__ 
+>         “(3)  __Consultation in development__  __.—__ 
 
 >         The center shall develop the Registry in consultation with audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Defense and the audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Veterans Affairs. The mechanisms and procedures of the Registry shall reflect applicable expert research on military and other hearing loss.
 
->         “(4) __Mechanisms.—__ 
+>         “(4)  __Mechanisms__  __.—__ 
 
 >         The mechanisms of the Registry for tracking under paragraph (1)(A) shall ensure that each military medical treatment facility or other medical facility shall submit to the center for inclusion in the Registry information on the diagnosis, surgical intervention or other operative procedure, other treatment, and follow up for each case of hearing loss and auditory system injury described in that paragraph as follows (to the extent applicable):
 
@@ -861,17 +861,17 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) Not later than 180 days after the hearing loss and auditory system injury is reported or recorded in the medical record.
 
->         “(5) __Coordination of care and benefits.—__ 
+>         “(5)  __Coordination of care and benefits__  __.—__ 
 
 >             (A) The center shall provide notice to the National Center for Rehabilitative Auditory Research (NCRAR) of the Department of Veterans Affairs and to the auditory system impairment services of the Veterans Health Administration on each member of the Armed Forces described in subparagraph (B) for purposes of ensuring the coordination of the provision of ongoing auditory system rehabilitation benefits and services by the Department of Veterans Affairs after the separation or release of such member from the Armed Forces.
 
 >             “(B) A member of the Armed Forces described in this subparagraph is a member of the Armed Forces with significant hearing loss or auditory system injury incurred while serving on active duty, including a member with auditory dysfunction related to traumatic brain injury.
 
->     “(d) __Utilization of Registry Information.—__ 
+>     “(d)  __Utilization of Registry Information__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs shall jointly ensure that information in the Registry is available to appropriate audiologists, speech and language pathologists, otolaryngologists, and other specialist personnel of the Department of Defense and the Department of Veterans Affairs for purposes of encouraging and facilitating the conduct of research, and the development of best practices and clinical education, on hearing loss or auditory system injury incurred by members of the Armed Forces.
 
->     “(e) __Inclusion of Records of OIF/OEF Veterans.—__ 
+>     “(e)  __Inclusion of Records of OIF/OEF Veterans__  __.—__ 
 
 >     The Secretary of Defense shall take appropriate actions to include in the Registry such records of members of the Armed Forces who incurred a hearing loss or auditory system injury while serving on active duty on or after September 11, 2001, but before the establishment of the Registry, as the Secretary considers appropriate for purposes of the Registry.”
 
@@ -883,7 +883,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “In this title \[see Short Title of 2008 Amendment note above\]:
 
->     “(1) __Appropriate committees of congress.—__ 
+>     “(1)  __Appropriate committees of congress__  __.—__ 
 
 >     The term ‘appropriate committees of Congress’ means—
 
@@ -891,11 +891,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(B) the Committees on Armed Services, Veterans’ Affairs, and Appropriations of the House of Representatives.
 
->     “(2) __Benefits delivery at discharge program.—__ 
+>     “(2)  __Benefits delivery at discharge program__  __.—__ 
 
 >     The term ‘Benefits Delivery at Discharge Program’ means a program administered jointly by the Secretary of Defense and the Secretary of Veterans Affairs to provide information and assistance on available benefits and other transition assistance to members of the Armed Forces who are separating from the Armed Forces, including assistance to obtain any disability benefits for which such members may be eligible.
 
->     “(3) __Disability evaluation system.—__ 
+>     “(3)  __Disability evaluation system__  __.—__ 
 
 >     The term ‘Disability Evaluation System’ means the following:
 
@@ -903,15 +903,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(B) A system or process of the Coast Guard for evaluating the nature and extent of disabilities affecting members of the Coast Guard that is operated by the Secretary of Homeland Security and is similar to the system or process of the Department of Defense described in subparagraph (A).
 
->     “(4) __Eligible family member.—__ 
+>     “(4)  __Eligible family member__  __.—__ 
 
 >     The term ‘eligible family member’, with respect to a recovering service member, means a family member (as defined in [section 481h(b)(3)(B) of title 37][/us/usc/t37/s481h/b/3/B], United States Code) who is on invitational travel orders or serving as a non-medical attendee while caring for the recovering service member for more than 45 days during a one-year period.
 
->     “(5) __Medical care.—__ 
+>     “(5)  __Medical care__  __.—__ 
 
 >     The term ‘medical care’ includes mental health care.
 
->     “(6) __Outpatient status.—__ 
+>     “(6)  __Outpatient status__  __.—__ 
 
 >     The term ‘outpatient status’, with respect to a recovering service member, means the status of a recovering service member assigned to—
 
@@ -919,25 +919,25 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(B) a unit established for the purpose of providing command and control of members of the Armed Forces receiving medical care as outpatients.
 
->     “(7) __Recovering service member.—__ 
+>     “(7)  __Recovering service member__  __.—__ 
 
 >     The term ‘recovering service member’ means a member of the Armed Forces, including a member of the National Guard or a Reserve, who is undergoing medical treatment, recuperation, or therapy and is in an outpatient status while recovering from a serious injury or illness related to the member’s military service.
 
->     “(8) __Serious injury or illness.—__ 
+>     “(8)  __Serious injury or illness__  __.—__ 
 
 >     The term ‘serious injury or illness’, in the case of a member of the Armed Forces, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.
 
->     “(9) __TRICARE program.—__ 
+>     “(9) __TRICARE__  __program__  __.—__ 
 
 >     The term ‘TRICARE program’ has the meaning given that term in [section 1072(7) of title 10][/us/usc/t10/s1072/7], United States Code. \[As amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(13), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613]; [Pub. L. 111–84, div. A, title VI, § 632(h)][/us/pl/111/84/s632/h], Oct. 28, 2009, [123 Stat. 2362][/us/stat/123/2362].\]
 
 > “SEC. 1603. __CONSIDERATION OF GENDER-SPECIFIC NEEDS OF RECOVERING SERVICE MEMBERS AND VETERANS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In developing and implementing the policy required by section 1611(a), and in otherwise carrying out any other provision of this title \[see Short Title of 2008 Amendment note above\] or any amendment made by this title, the Secretary of Defense and the Secretary of Veterans Affairs shall take into account and fully address any unique gender-specific needs of recovering service members and veterans under such policy or other provision.
 
->     “(b) __Reports.—__ 
+>     “(b)  __Reports__  __.—__ 
 
 >     In submitting any report required by this title or an amendment made by this title, the Secretary of Defense and the Secretary of Veterans Affairs shall, to the extent applicable, include a description of the manner in which the matters covered by such report address the unique gender-specific needs of recovering service members and veterans.
 
@@ -945,11 +945,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(a) __Comprehensive Policy Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than July 1, 2008, the Secretary of Defense and the Secretary of Veterans Affairs shall, to the extent feasible, jointly develop and implement a comprehensive policy on improvements to the care, management, and transition of recovering service members.
 
->         “(2) __Scope of policy.—__ 
+>         “(2)  __Scope of policy__  __.—__ 
 
 >         The policy shall cover each of the following:
 
@@ -961,11 +961,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(D) The transition of recovering service members from receipt of care and services through the Department of Defense to receipt of care and services through the Department of Veterans Affairs.
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         The Secretary of Defense and the Secretary of Veterans Affairs shall develop the policy in consultation with the heads of other appropriate departments and agencies of the Federal Government and with appropriate non-governmental organizations having an expertise in matters relating to the policy.
 
->         “(4) __Update.—__ 
+>         “(4)  __Update__  __.—__ 
 
 >         The Secretary of Defense and the Secretary of Veterans Affairs shall jointly update the policy on a periodic basis, but not less often than annually, in order to incorporate in the policy, as appropriate, the following:
 
@@ -977,11 +977,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(b) __Review of Current Policies and Procedures.—__ 
 
->         “(1) __Review required.—__ 
+>         “(1)  __Review required__  __.—__ 
 
 >         In developing the policy required by subsection (a), the Secretary of Defense and the Secretary of Veterans Affairs shall, to the extent necessary, jointly and separately conduct a review of all policies and procedures of the Department of Defense and the Department of Veterans Affairs that apply to, or shall be covered by, the policy.
 
->         “(2) __Purpose.—__ 
+>         “(2)  __Purpose__  __.—__ 
 
 >         The purpose of the review shall be to identify the most effective and patient-oriented approaches to care and management of recovering service members for purposes of—
 
@@ -989,7 +989,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) extending such approaches, where applicable, to the care and management of other injured or ill members of the Armed Forces and veterans.
 
->         “(3) __Elements.—__ 
+>         “(3)  __Elements__  __.—__ 
 
 >         In conducting the review, the Secretary of Defense and the Secretary of Veterans Affairs shall—
 
@@ -1009,11 +1009,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(D) develop recommendations for legislative and administrative action necessary to implement the results of the review.
 
->         “(4) __Deadline for completion.—__ 
+>         “(4)  __Deadline for completion__  __.—__ 
 
 >         The review shall be completed not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\].
 
->     “(c) __Consideration of Existing Findings, Recommendations, and Practices.—__ 
+>     “(c)  __Consideration of Existing Findings, Recommendations, and Practices__  __.—__ 
 
 >     In developing the policy required by subsection (a), the Secretary of Defense and the Secretary of Veterans Affairs shall take into account the following:
 
@@ -1043,7 +1043,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(d) __Training and Skills of Health Care Professionals, Recovery Care Coordinators, Medical Care Case Managers, and Non-Medical Care Managers for Recovering Service Members.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The policy required by subsection (a) shall provide for uniform standards among the military departments for the training and skills of health care professionals, recovery care coordinators, medical care case managers, and non-medical care managers for recovering service members under subsection (e) in order to ensure that such personnel are able to—
 
@@ -1051,51 +1051,51 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) promptly notify appropriate health care professionals following detection of such signs.
 
->         “(2) __Tracking of notifications.—__ 
+>         “(2)  __Tracking of notifications__  __.—__ 
 
 >         In providing for uniform standards under paragraph (1), the policy shall include a mechanism or system to track the number of notifications made by recovery care coordinators, medical care case managers, and non-medical care managers to health care professionals under paragraph (1)(A) regarding early warning signs of post-traumatic stress disorder and suicide in recovering service members.
 
->     “(e) __Services for Recovering Service Members.—__ 
+>     “(e)  __Services for Recovering Service Members__  __.—__ 
 
 >     The policy required by subsection (a) shall provide for improvements as follows with respect to the care, management, and transition of recovering service members:
 
->         “(1) __Comprehensive recovery plan for recovering service members.—__ 
+>         “(1)  __Comprehensive recovery plan for recovering service members__  __.—__ 
 
 >         The policy shall provide for uniform standards and procedures for the development of a comprehensive recovery plan for each recovering service member that covers the full spectrum of care, management, transition, and rehabilitation of the service member during recovery.
 
 >         “(2) __Recovery care coordinators for recovering service members.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The policy shall provide for a uniform program for the assignment to recovering service members of recovery care coordinators having the duties specified in subparagraph (B).
 
->             “(B) __Duties.—__ 
+>             “(B)  __Duties__  __.—__ 
 
 >             The duties under the program of a recovery care coordinator for a recovering service member shall include, but not be limited to, overseeing and assisting the service member in the service member’s course through the entire spectrum of care, management, transition, and rehabilitation services available from the Federal Government, including services provided by the Department of Defense, the Department of Veterans Affairs, the Department of Labor, and the Social Security Administration.
 
->             “(C) __Limitation on number of service members managed by coordinators.—__ 
+>             “(C)  __Limitation on number of service members managed by coordinators__  __.—__ 
 
 >             The maximum number of recovering service members whose cases may be assigned to a recovery care coordinator under the program at any one time shall be such number as the policy shall specify, except that the Secretary of the military department concerned may waive such limitation with respect to a given coordinator for not more than 120 days in the event of unforeseen circumstances (as specified in the policy).
 
->             “(D) __Training.—__ 
+>             “(D)  __Training__  __.—__ 
 
 >             The policy shall specify standard training requirements and curricula for recovery care coordinators under the program, including a requirement for successful completion of the training program before a person may assume the duties of such a coordinator.
 
->             “(E) __Resources.—__ 
+>             “(E)  __Resources__  __.—__ 
 
 >             The policy shall include mechanisms to ensure that recovery care coordinators under the program have the resources necessary to expeditiously carry out the duties of such coordinators under the program.
 
->             “(F) __Supervision.—__ 
+>             “(F)  __Supervision__  __.—__ 
 
 >             The policy shall specify requirements for the appropriate rank or grade, and appropriate occupation, for persons appointed to head and supervise recovery care coordinators.
 
 >         “(3) __Medical care case managers for recovering service members.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The policy shall provide for a uniform program among the military departments for the assignment to recovering service members of medical care case managers having the duties specified in subparagraph (B).
 
->             “(B) __Duties.—__ 
+>             “(B)  __Duties__  __.—__ 
 
 >             The duties under the program of a medical care case manager for a recovering service member (or the service member’s immediate family or other designee if the service member is incapable of making judgments about personal medical care) shall include, at a minimum, the following:
 
@@ -1105,29 +1105,29 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(iii) Conducting a periodic review of the medical status of the service member, which review shall be conducted, to the extent practicable, in person with the service member, or, whenever the conduct of the review in person is not practicable, with the medical care case manager submitting to the manager’s supervisor a written explanation why the review in person was not practicable (if the Secretary of the military department concerned elects to require such written explanations for purposes of the program).
 
->             “(C) __Limitation on number of service members managed by managers.—__ 
+>             “(C)  __Limitation on number of service members managed by managers__  __.—__ 
 
 >             The maximum number of recovering service members whose cases may be assigned to a medical care case manager under the program at any one time shall be such number as the policy shall specify, except that the Secretary of the military department concerned may waive such limitation with respect to a given manager for not more than 120 days in the event of unforeseen circumstances (as specified in the policy).
 
->             “(D) __Training.—__ 
+>             “(D)  __Training__  __.—__ 
 
 >             The policy shall specify standard training requirements and curricula for medical care case managers under the program, including a requirement for successful completion of the training program before a person may assume the duties of such a manager.
 
->             “(E) __Resources.—__ 
+>             “(E)  __Resources__  __.—__ 
 
 >             The policy shall include mechanisms to ensure that medical care case managers under the program have the resources necessary to expeditiously carry out the duties of such managers under the program.
 
->             “(F) __Supervision at armed forces medical facilities.—__ 
+>             “(F)  __Supervision at armed forces medical facilities__  __.—__ 
 
 >             The policy shall specify requirements for the appropriate rank or grade, and appropriate occupation, for persons appointed to head and supervise the medical care case managers at each medical facility of the Armed Forces. Persons so appointed may be appointed from the Army Medical Corps, Army Medical Service Corps, Army Nurse Corps, Navy Medical Corps, Navy Medical Service Corps, Navy Nurse Corps, Air Force Medical Service, or other corps or civilian health care professional, as applicable, at the discretion of the Secretary of Defense.
 
 >         “(4) __Non-medical care managers for recovering service members.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The policy shall provide for a uniform program among the military departments for the assignment to recovering service members of non-medical care managers having the duties specified in subparagraph (B).
 
->             “(B) __Duties.—__ 
+>             “(B)  __Duties__  __.—__ 
 
 >             The duties under the program of a non-medical care manager for a recovering service member shall include, at a minimum, the following:
 
@@ -1137,29 +1137,29 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(iii) Assisting the service member in resolving problems involving financial, administrative, personnel, transitional, and other matters that arise during the care, recovery, and transition of the service member.
 
->             “(C) __Duration of duties.—__ 
+>             “(C)  __Duration of duties__  __.—__ 
 
 >             The policy shall provide that a non-medical care manager shall perform duties under the program for a recovering service member until the service member is returned to active duty or retired or separated from the Armed Forces.
 
->             “(D) __Limitation on number of service members managed by managers.—__ 
+>             “(D)  __Limitation on number of service members managed by managers__  __.—__ 
 
 >             The maximum number of recovering service members whose cases may be assigned to a non-medical care manager under the program at any one time shall be such number as the policy shall specify, except that the Secretary of the military department concerned may waive such limitation with respect to a given manager for not more than 120 days in the event of unforeseen circumstances (as specified in the policy).
 
->             “(E) __Training.—__ 
+>             “(E)  __Training__  __.—__ 
 
 >             The policy shall specify standard training requirements and curricula among the military departments for non-medical care managers under the program, including a requirement for successful completion of the training program before a person may assume the duties of such a manager.
 
->             “(F) __Resources.—__ 
+>             “(F)  __Resources__  __.—__ 
 
 >             The policy shall include mechanisms to ensure that non-medical care managers under the program have the resources necessary to expeditiously carry out the duties of such managers under the program.
 
->             “(G) __Supervision at armed forces medical facilities.—__ 
+>             “(G)  __Supervision at armed forces medical facilities__  __.—__ 
 
 >             The policy shall specify requirements for the appropriate rank and occupational speciality for persons appointed to head and supervise the non-medical care managers at each medical facility of the Armed Forces.
 
 >         “(5) __Access of recovering service members to non-urgent health care from the department of defense or other providers under tricare.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The policy shall provide for appropriate minimum standards for access of recovering service members to non-urgent medical care and other health care services as follows:
 
@@ -1167,7 +1167,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(ii) Through the TRICARE program.
 
->             “(B) __Maximum waiting times for certain care.—__ 
+>             “(B)  __Maximum waiting times for certain care__  __.—__ 
 
 >             The standards for access under subparagraph (A) shall include such standards on maximum waiting times of recovering service members as the policy shall specify for care that includes, but is not limited to, the following:
 
@@ -1179,33 +1179,33 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(iv) Surgery based on a physician’s determination of medical necessity.
 
->             “(C) __Waiver by recovering service members.—__ 
+>             “(C)  __Waiver by recovering service members__  __.—__ 
 
 >             The policy shall permit any recovering service member to waive a standard for access under this paragraph under such circumstances and conditions as the policy shall specify.
 
 >         “(6) __Assignment of recovering service members to locations of care.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The policy shall provide for uniform guidelines among the military departments for the assignment of recovering service members to a location of care, including guidelines that provide for the assignment of recovering service members, when medically appropriate, to care and residential facilities closest to their duty station or home of record or the location of their designated care giver at the earliest possible time.
 
->             “(B) __Reassignment from deficient facilities.—__ 
+>             “(B)  __Reassignment from deficient facilities__  __.—__ 
 
 >             The policy shall provide for uniform guidelines and procedures among the military departments for the reassignment of recovering service members from a medical or medical-related support facility determined by the Secretary of Defense to violate the standards required by section 1648 to another appropriate medical or medical-related support facility until the correction of violations of such standards at the medical or medical-related support facility from which such service members are reassigned.
 
->         “(7) __Transportation and subsistence for recovering service members.—__ 
+>         “(7)  __Transportation and subsistence for recovering service members__  __.—__ 
 
 >         The policy shall provide for uniform standards among the military departments on the availability of appropriate transportation and subsistence for recovering service members to facilitate their obtaining needed medical care and services.
 
->         “(8) __Work and duty assignments for recovering service members.—__ 
+>         “(8)  __Work and duty assignments for recovering service members__  __.—__ 
 
 >         The policy shall provide for uniform criteria among the military departments for the assignment of recovering service members to work and duty assignments that are compatible with their medical conditions.
 
->         “(9) __Access of recovering service members to educational and vocational training and rehabilitation.—__ 
+>         “(9)  __Access of recovering service members to educational and vocational training and rehabilitation__  __.—__ 
 
 >         The policy shall provide for uniform standards among the military departments on the provision of educational and vocational training and rehabilitation opportunities for recovering service members at the earliest possible point in their recovery.
 
->         “(10) __Tracking of recovering service members.—__ 
+>         “(10)  __Tracking of recovering service members__  __.—__ 
 
 >         The policy shall provide for uniform procedures among the military departments on tracking recovering service members to facilitate—
 
@@ -1213,35 +1213,35 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) tracking medical care appointments of recovering service members to ensure timeliness and compliance of recovering service members with appointments, and other physical and evaluation timelines, and to provide any other information needed to conduct oversight of the care, management, and transition of recovering service members.
 
->         “(11) __Referrals of recovering service members to other care and services providers.—__ 
+>         “(11)  __Referrals of recovering service members to other care and services providers__  __.—__ 
 
 >         The policy shall provide for uniform policies, procedures, and criteria among the military departments on the referral of recovering service members to the Department of Veterans Affairs and other private and public entities (including universities and rehabilitation hospitals, centers, and clinics) in order to secure the most appropriate care for recovering service members, which policies, procedures, and criteria shall take into account, but not be limited to, the medical needs of recovering service members and the geographic location of available necessary recovery care services.
 
->     “(f) __Services for Families of Recovering Service Members.—__ 
+>     “(f)  __Services for Families of Recovering Service Members__  __.—__ 
 
 >     The policy required by subsection (a) shall provide for improvements as follows with respect to services for families of recovering service members:
 
->         “(1) __Support for family members of recovering service members.—__ 
+>         “(1)  __Support for family members of recovering service members__  __.—__ 
 
 >         The policy shall provide for uniform guidelines among the military departments on the provision by the military departments of support for family members of recovering service members who are not otherwise eligible for care under section 1672 in caring for such service members during their recovery.
 
->         “(2) __Advice and training for family members of recovering service members.—__ 
+>         “(2)  __Advice and training for family members of recovering service members__  __.—__ 
 
 >         The policy shall provide for uniform requirements and standards among the military departments on the provision by the military departments of advice and training, as appropriate, to family members of recovering service members with respect to care for such service members during their recovery.
 
->         “(3) __Measurement of satisfaction of family members of recovering service members with quality of health care services.—__ 
+>         “(3)  __Measurement of satisfaction of family members of recovering service members with quality of health care services__  __.—__ 
 
 >         The policy shall provide for uniform procedures among the military departments on the measurement of the satisfaction of family members of recovering service members with the quality of health care services provided to such service members during their recovery.
 
->         “(4) __Job placement services for family members of recovering service members.—__ 
+>         “(4)  __Job placement services for family members of recovering service members__  __.—__ 
 
 >         The policy shall provide for procedures for application by eligible family members during a one-year period for job placement services otherwise offered by the Department of Defense.
 
->     “(g) __Outreach to Recovering Service Members and Their Families on Comprehensive Policy.—__ 
+>     “(g)  __Outreach to Recovering Service Members and Their Families on Comprehensive Policy__  __.—__ 
 
 >     The policy required by subsection (a) shall include procedures and mechanisms to ensure that recovering service members and their families are fully informed of the policies required by this section, including policies on medical care for recovering service members, on the management and transition of recovering service members, and on the responsibilities of recovering service members and their family members throughout the continuum of care and services for recovering service members under this section.
 
->     “(h) __Applicability of Comprehensive Policy to Recovering Service Members on Temporary Disability Retired List.—__ 
+>     “(h)  __Applicability of Comprehensive Policy to Recovering Service Members on Temporary Disability Retired List__  __.—__ 
 
 >     Appropriate elements of the policy required by this section shall apply to recovering service members whose names are placed on the temporary disability retired list in such manner, and subject to such terms and conditions, as the Secretary of Defense shall prescribe in regulations for purposes of this subsection.
 
@@ -1249,11 +1249,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(a) __Medical Evaluations of Recovering Service Members.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than July 1, 2008, the Secretary of Defense shall develop a policy on improvements to the processes, procedures, and standards for the conduct by the military departments of medical evaluations of recovering service members.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The policy on improvements to processes, procedures, and standards required under this subsection shall include and address the following:
 
@@ -1303,11 +1303,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(b) __Physical Disability Evaluations of Recovering Service Members.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than July 1, 2008, the Secretary of Defense and the Secretary of Veterans Affairs shall develop a policy on improvements to the processes, procedures, and standards for the conduct of physical disability evaluations of recovering service members by the military departments and by the Department of Veterans Affairs.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The policy on improvements to processes, procedures, and standards required under this subsection shall include and address the following:
 
@@ -1333,11 +1333,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(c) __Assessment of Consolidation of Department of Defense and Department of Veterans Affairs Disability Evaluation Systems.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense and the Secretary of Veterans Affairs shall jointly submit to the appropriate committees of Congress a report on the feasability \[sic\] and advisability of consolidating the disability evaluation systems of the military departments and the disability evaluation system of the Department of Veterans Affairs into a single disability evaluation system. The report shall be submitted together with the report required by section 1611(a).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report required by paragraph (1) shall include the following:
 
@@ -1357,11 +1357,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “SEC. 1614. __TRANSITION OF RECOVERING SERVICE MEMBERS FROM CARE AND TREATMENT THROUGH THE DEPARTMENT OF DEFENSE TO CARE, TREATMENT, AND REHABILITATION THROUGH THE DEPARTMENT OF VETERANS AFFAIRS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than July 1, 2008, the Secretary of Defense and the Secretary of Veterans Affairs shall jointly develop and implement processes, procedures, and standards for the transition of recovering service members from care and treatment through the Department of Defense to care, treatment, and rehabilitation through the Department of Veterans Affairs.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The processes, procedures, and standards required under this section shall include the following:
 
@@ -1441,33 +1441,33 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “SEC. 1616. __ESTABLISHMENT OF A WOUNDED WARRIOR RESOURCE CENTER.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall establish a wounded warrior resource center (in this section referred to as the ‘center’) to provide wounded warriors, their families, and their primary caregivers with a single point of contact for assistance with reporting deficiencies in covered military facilities, obtaining health care services, receiving benefits information, receiving legal assistance referral information (where appropriate), receiving other appropriate referral information, and any other difficulties encountered while supporting wounded warriors. The Secretary shall widely disseminate information regarding the existence and availability of the center, including contact information, to members of the Armed Forces and their dependents. In carrying out this subsection, the Secretary may use existing infrastructure and organizations but shall ensure that the center has the ability to separately keep track of calls from wounded warriors.
 
->     “(b) __Access.—__ 
+>     “(b)  __Access__  __.—__ 
 
 >     The center shall provide multiple methods of access, including at a minimum an Internet website and a toll-free telephone number (commonly referred to as a ‘hot line’) at which personnel are accessible at all times to receive reports of deficiencies or provide information about covered military facilities, health care services, or military benefits.
 
 >     “(c) __Confidentiality.—__ 
 
->         “(1) __Notification.—__ 
+>         “(1)  __Notification__  __.—__ 
 
 >         Individuals who seek to provide information through the center under subsection (a) shall be notified, immediately before they provide such information, of their option to elect, at their discretion, to have their identity remain confidential.
 
->         “(2) __Prohibition on further disclosure.—__ 
+>         “(2)  __Prohibition on further disclosure__  __.—__ 
 
 >         In the case of information provided through use of the toll-free telephone number by an individual who elects to maintain the confidentiality of his or her identity, any individual who, by necessity, has had access to such information for purposes of investigating or responding to the call as required under subsection (d) may not disclose the identity of the individual who provided the information.
 
->     “(d) __Functions.—__ 
+>     “(d)  __Functions__  __.—__ 
 
 >     The center shall perform the following functions:
 
->         “(1) __Call tracking.—__ 
+>         “(1)  __Call tracking__  __.—__ 
 
 >         The center shall be responsible for documenting receipt of a call, referring the call to the appropriate office within a military department for answer or investigation, and tracking the formulation and notification of the response to the call.
 
->         “(2) __Investigation and response.—__ 
+>         “(2)  __Investigation and response__  __.—__ 
 
 >         The center shall be responsible for ensuring that, not later than 96 hours after a call—
 
@@ -1491,39 +1491,39 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(iii) the individual who made the report is notified, at a minimum, of the current status of the query.
 
->         “(3) __Final notification.—__ 
+>         “(3)  __Final notification__  __.—__ 
 
 >         The center shall be responsible for ensuring that, if requested, the caller is notified when the deficiency has been corrected or when the request for information has been fulfilled to the maximum extent practicable, as determined by the Secretary.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Covered military facility.—__ 
+>         “(1)  __Covered military facility__  __.—__ 
 
 >         The term ‘covered military facility’ has the meaning provided in section 1648(b) of this Act.
 
->         “(2) __Call.—__ 
+>         “(2)  __Call__  __.—__ 
 
 >         The term ‘call’ means any query or report that is received by the center by means of the toll-free telephone number or other source.
 
 >     “(f) __Effective Dates.—__ 
 
->         “(1) __Toll-free telephone number.—__ 
+>         “(1)  __Toll-free telephone number__  __.—__ 
 
 >         The toll-free telephone number required to be established by subsection (a), shall be fully operational not later than April 1, 2008.
 
->         “(2) __Internet website.—__ 
+>         “(2)  __Internet website__  __.—__ 
 
 >         The Internet website required to be established by subsection (a), shall be fully operational not later than July 1, 2008. \[As amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 724, Oct. 14, 2008, [122 Stat. 4509][/us/stat/122/4509].\]
 
 > “SEC. 1618. __COMPREHENSIVE PLAN ON PREVENTION, DIAGNOSIS, MITIGATION, TREATMENT, AND REHABILITATION OF, AND RESEARCH ON, TRAUMATIC BRAIN INJURY, POST-TRAUMATIC STRESS DISORDER, AND OTHER MENTAL HEALTH CONDITIONS IN MEMBERS OF THE ARMED FORCES.__ 
 
->     “(a) __Comprehensive Statement of Policy.—__ 
+>     “(a)  __Comprehensive Statement of Policy__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs shall direct joint planning among the Department of Defense, the military departments, and the Department of Veterans Affairs for the prevention, diagnosis, mitigation, treatment, and rehabilitation of, and research on, traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces, including planning for the seamless transition of such members from care through the Department of Defense to care through the Department of Veterans Affairs.
 
->     “(b) __Comprehensive Plan Required.—__ 
+>     “(b)  __Comprehensive Plan Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall, in consultation with the Secretary of Veterans Affairs, submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for programs and activities of the Department of Defense to prevent, diagnose, mitigate, treat, research, and otherwise respond to traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces, including—
 
@@ -1533,7 +1533,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) the identification of the resources required for the Department in fiscal years 2009 through 2013 to address the gaps in capabilities identified under paragraph (2).
 
->     “(c) __Program Required.—__ 
+>     “(c)  __Program Required__  __.—__ 
 
 >     One of the programs contained in the comprehensive plan submitted under subsection (b) shall be a Department of Defense program, developed in collaboration with the Department of Veterans Affairs, under which each member of the Armed Forces who incurs a traumatic brain injury or post-traumatic stress disorder during service in the Armed Forces—
 
@@ -1547,7 +1547,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) be rehabilitated to the fullest extent possible using up-to-date evidence-based medical technology, and physical and medical rehabilitation practices and expertise.
 
->     “(d) __Provision of Information Required.—__ 
+>     “(d)  __Provision of Information Required__  __.—__ 
 
 >     The comprehensive plan submitted under subsection (b) shall require the provision of information by the Secretary of Defense to members of the Armed Forces with traumatic brain injury, post-traumatic stress disorder, or other mental health conditions and their families about their options with respect to the following:
 
@@ -1557,19 +1557,19 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) The options available, including obtaining a second opinion, to such members for a referral to an authorized provider under chapter 55 of title 10, United States Code, as determined under regulations prescribed by the Secretary of Defense.
 
->     “(e) __Additional Elements of Plan.—__ 
+>     “(e)  __Additional Elements of Plan__  __.—__ 
 
 >     The comprehensive plan submitted under subsection (b) shall include comprehensive proposals of the Department on the following:
 
->         “(1) __Lead agent.—__ 
+>         “(1)  __Lead agent__  __.—__ 
 
 >         The designation by the Secretary of Defense of a lead agent or executive agent for the Department to coordinate development and implementation of the plan.
 
->         “(2) __Detection and treatment.—__ 
+>         “(2)  __Detection and treatment__  __.—__ 
 
 >         The improvement of methods and mechanisms for the detection and treatment of traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces in the field.
 
->         “(3) __Reduction of ptsd.—__ 
+>         “(3)  __Reduction of ptsd__  __.—__ 
 
 >         The development of a plan for reducing post traumatic-stress disorder, incorporating evidence-based preventive and early-intervention measures, practices, or procedures that reduce the likelihood that personnel in combat will develop post-traumatic stress disorder or other stress-related conditions (including substance abuse conditions) into—
 
@@ -1579,57 +1579,57 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) post-deployment service.
 
->         “(4) __Research.—__ 
+>         “(4)  __Research__  __.—__ 
 
 >         Requirements for research on traumatic brain injury, post-traumatic stress disorder, and other mental health conditions including (in particular) research on pharmacological and other approaches to treatment for traumatic brain injury, post-traumatic stress disorder, or other mental health conditions, as applicable, and the allocation of priorities among such research.
 
->         “(5) __Diagnostic criteria.—__ 
+>         “(5)  __Diagnostic criteria__  __.—__ 
 
 >         The development, adoption, and deployment of joint Department of Defense-Department of Veterans Affairs evidence-based diagnostic criteria for the detection and evaluation of the range of traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces, which criteria shall be employed uniformly across the military departments in all applicable circumstances, including provision of clinical care and assessment of future deployability of members of the Armed Forces.
 
->         “(6) __Assessment.—__ 
+>         “(6)  __Assessment__  __.—__ 
 
 >         The development and deployment of evidence-based means of assessing traumatic brain injury, post-traumatic stress disorder, and other mental health conditions in members of the Armed Forces, including a system of pre-deployment and post-deployment screenings of cognitive ability in members for the detection of cognitive impairment.
 
->         “(7) __Managing and monitoring.—__ 
+>         “(7)  __Managing and monitoring__  __.—__ 
 
 >         The development and deployment of effective means of managing and monitoring members of the Armed Forces with traumatic brain injury, post-traumatic stress disorder, or other mental health conditions in the receipt of care for traumatic brain injury, post-traumatic stress disorder, or other mental health conditions, as applicable, including the monitoring and assessment of treatment and outcomes.
 
->         “(8) __Education and awareness.—__ 
+>         “(8)  __Education and awareness__  __.—__ 
 
 >         The development and deployment of an education and awareness training initiative designed to reduce the negative stigma associated with traumatic brain injury, post-traumatic stress disorder, and other mental health conditions, and mental health treatment.
 
->         “(9) __Education and outreach.—__ 
+>         “(9)  __Education and outreach__  __.—__ 
 
 >         The provision of education and outreach to families of members of the Armed Forces with traumatic brain injury, post-traumatic stress disorder, or other mental health conditions on a range of matters relating to traumatic brain injury, post-traumatic stress disorder, or other mental health conditions, as applicable, including detection, mitigation, and treatment.
 
->         “(10) __Recording of blasts.—__ 
+>         “(10)  __Recording of blasts__  __.—__ 
 
 >         A requirement that exposure to a blast or blasts be recorded in the records of members of the Armed Forces.
 
->         “(11) __Guidelines for blast injuries.—__ 
+>         “(11)  __Guidelines for blast injuries__  __.—__ 
 
 >         The development of clinical practice guidelines for the diagnosis and treatment of blast injuries in members of the Armed Forces, including, but not limited to, traumatic brain injury.
 
->         “(12) __Gender- and ethnic group-specific services and treatment.—__ 
+>         “(12)  __Gender- and ethnic group-specific services and treatment__  __.—__ 
 
 >         The development of requirements, as appropriate, for gender- and ethnic group-specific medical care services and treatment for members of the Armed Forces who experience mental health problems and conditions, including post-traumatic stress disorder, with specific regard to the availability of, access to, and research and development requirements of such needs.
 
->     “(f) __Coordination in Development.—__ 
+>     “(f)  __Coordination in Development__  __.—__ 
 
 >     The comprehensive plan submitted under subsection (b) shall be developed in coordination with the Secretary of the Army (who was designated by the Secretary of Defense as executive agent for the prevention, mitigation, and treatment of blast injuries under section 256 of the National Defense Authorization Act for Fiscal Year 2006 ([Public Law 109–163][/us/pl/109/163]; [119 Stat. 3181][/us/stat/119/3181]; [10 U.S.C. 1071][/us/usc/t10/s1071] note)).
 
 > “SEC. 1621. __CENTER OF EXCELLENCE IN THE PREVENTION, DIAGNOSIS, MITIGATION, TREATMENT, AND REHABILITATION OF TRAUMATIC BRAIN INJURY.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of traumatic brain injury, including mild, moderate, and severe traumatic brain injury, to carry out the responsibilities specified in subsection (c).
 
->     “(b) __Partnerships.—__ 
+>     “(b)  __Partnerships__  __.—__ 
 
 >     The Secretary shall ensure that the Center collaborates to the maximum extent practicable with the Department of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c).
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     The Center shall have responsibilities as follows:
 
@@ -1661,15 +1661,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “SEC. 1622. __CENTER OF EXCELLENCE IN PREVENTION, DIAGNOSIS, MITIGATION, TREATMENT, AND REHABILITATION OF POST-TRAUMATIC STRESS DISORDER AND OTHER MENTAL HEALTH CONDITIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of post-traumatic stress disorder (PTSD) and other mental health conditions, including mild, moderate, and severe post-traumatic stress disorder and other mental health conditions, to carry out the responsibilities specified in subsection (c).
 
->     “(b) __Partnerships.—__ 
+>     “(b)  __Partnerships__  __.—__ 
 
 >     The Secretary shall ensure that the center collaborates to the maximum extent practicable with the National Center on Post-Traumatic Stress Disorder of the Department of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c).
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     The center shall have responsibilities as follows:
 
@@ -1695,17 +1695,17 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “SEC. 1623. __CENTER OF EXCELLENCE IN PREVENTION, DIAGNOSIS, MITIGATION, TREATMENT, AND REHABILITATION OF MILITARY EYE INJURIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall establish within the Department of Defense a center of excellence in the prevention, diagnosis, mitigation, treatment, and rehabilitation of military eye injuries to carry out the responsibilities specified in subsection (c).
 
->     “(b) __Partnerships.—__ 
+>     “(b)  __Partnerships__  __.—__ 
 
 >     The Secretary shall ensure that the center collaborates to the maximum extent practicable with the Secretary of Veterans Affairs, institutions of higher education, and other appropriate public and private entities (including international entities) to carry out the responsibilities specified in subsection (c).
 
 >     “(c) __Responsibilities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The center shall—
 
@@ -1715,15 +1715,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) enable the Secretary of Veterans Affairs to access the registry and add information pertaining to additional treatments or surgical procedures and eventual visual outcomes for veterans who were entered into the registry and subsequently received treatment through the Veterans Health Administration.
 
->         “(2) __Designation of registry.—__ 
+>         “(2)  __Designation of registry__  __.—__ 
 
 >         The registry under this subsection shall be known as the ‘Military Eye Injury Registry’ (hereinafter referred to as the ‘Registry’).
 
->         “(3) __Consultation in development.—__ 
+>         “(3)  __Consultation in development__  __.—__ 
 
 >         The center shall develop the Registry in consultation with the ophthalmological specialist personnel and optometric specialist personnel of the Department of Defense and the ophthalmological specialist personnel and optometric specialist personnel of the Department of Veterans Affairs. The mechanisms and procedures of the Registry shall reflect applicable expert research on military and other eye injuries.
 
->         “(4) __Mechanisms.—__ 
+>         “(4)  __Mechanisms__  __.—__ 
 
 >         The mechanisms of the Registry for tracking under paragraph (1)(A) shall ensure that each military medical treatment facility or other medical facility shall submit to the center for inclusion in the Registry information on the diagnosis, surgical intervention or other operative procedure, other treatment, and follow up for each case of eye injury described in that paragraph as follows (to the extent applicable):
 
@@ -1731,7 +1731,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) Not later than 180 days after the significant eye injury is reported or recorded in the medical record.
 
->         “(5) __Coordination of care and benefits.—__ 
+>         “(5)  __Coordination of care and benefits__  __.—__ 
 
 >             (A) The center shall provide notice to the Blind Rehabilitation Service of the Department of Veterans Affairs and to the eye care services of the Veterans Health Administration on each member of the Armed Forces described in subparagraph (B) for purposes of ensuring the coordination of the provision of ongoing eye care and visual rehabilitation benefits and services by the Department of Veterans Affairs after the separation or release of such member from the Armed Forces.
 
@@ -1745,15 +1745,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >                 “(iii) A member with an eye injury incurred while serving on active duty who has a loss of peripheral vision resulting in 20 degrees or less of visual field in the injured eye.
 
->     “(d) __Utilization of Registry Information.—__ 
+>     “(d)  __Utilization of Registry Information__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs shall jointly ensure that information in the Registry is available to appropriate ophthalmological and optometric personnel of the Department of Defense and the Department of Veterans Affairs for purposes of encouraging and facilitating the conduct of research, and the development of best practices and clinical education, on eye injuries incurred by members of the Armed Forces.
 
->     “(e) __Inclusion of Records of OIF/OEF Veterans.—__ 
+>     “(e)  __Inclusion of Records of OIF/OEF Veterans__  __.—__ 
 
 >     The Secretary of Defense shall take appropriate actions to include in the Registry such records of members of the Armed Forces who incurred an eye injury while serving on active duty on or after September 11, 2001, but before the establishment of the Registry, as the Secretary considers appropriate for purposes of the Registry.
 
->     “(f) __Traumatic Brain Injury Post Traumatic Visual Syndrome.—__ 
+>     “(f)  __Traumatic Brain Injury Post Traumatic Visual Syndrome__  __.—__ 
 
 >     In carrying out the program at Walter Reed Army Medical Center, District of Columbia, on traumatic brain injury post traumatic visual syndrome, the Secretary of Defense and the Department of Veterans Affairs shall jointly provide for the conduct of a cooperative program for members of the Armed Forces and veterans with traumatic brain injury by military medical treatment facilities of the Department of Defense and medical centers of the Department of Veterans Affairs selected for purposes of this subsection for purposes of vision screening, diagnosis, rehabilitative management, and vision research, including research on prevention, on visual dysfunction related to traumatic brain injury. \[As amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 722, Oct. 14, 2008, [122 Stat. 4508][/us/stat/122/4508].\]
 
@@ -1761,37 +1761,37 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(a) __Medical and Dental Care for Former Members.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Effective as of the date of the enactment of this Act \[Jan. 28, 2008\] and subject to regulations prescribed by the Secretary of Defense, the Secretary may authorize that any former member of the Armed Forces with a serious injury or illness may receive the same medical and dental care as a member of the Armed Forces on active duty for medical and dental care not reasonably available to such former member in the Department of Veterans Affairs.
 
->         “(2) __Sunset.—__ 
+>         “(2)  __Sunset__  __.—__ 
 
 >         The Secretary of Defense may not provide medical or dental care to a former member of the Armed Forces under this subsection after December 31, 2012, if the Secretary has not provided medical or dental care to the former member under this subsection before that date.
 
 >     “(b) __Rehabilitation and Vocational Benefits.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Effective as of the date of the enactment of this Act \[Jan. 28, 2008\], a member of the Armed Forces with a severe injury or illness is entitled to such benefits (including rehabilitation and vocational benefits, but not including compensation) from the Secretary of Veterans Affairs to facilitate the recovery and rehabilitation of such member as the Secretary otherwise provides to veterans of the Armed Forces receiving medical care in medical facilities of the Department of Veterans Affairs facilities in order to facilitate the recovery and rehabilitation of such members.
 
->         “(2) __Sunset.—__ 
+>         “(2)  __Sunset__  __.—__ 
 
 >         The Secretary of Veterans Affairs may not provide benefits to a member of the Armed Forces under this subsection after December 31, 2014, if the Secretary has not provided benefits to the member under this subsection before that date.
 
 >     “(c) __Rehabilitative Equipment for Members of the Armed Forces.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the availability of appropriations for such purpose, the Secretary of Defense may provide an active duty member of the Armed Forces with a severe injury or illness with rehabilitative equipment, including recreational sports equipment that provide an adaption or accommodation for the member, regardless of whether such equipment is intentionally designed to be adaptive equipment.
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         In carrying out this subsection, the Secretary of Defense shall consult with the Secretary of Veterans Affairs regarding similar programs carried out by the Secretary of Veterans Affairs.
 
 > “SEC. 1635. __FULLY INTEROPERABLE ELECTRONIC PERSONAL HEALTH INFORMATION FOR THE DEPARTMENT OF DEFENSE AND DEPARTMENT OF VETERANS AFFAIRS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs shall jointly—
 
@@ -1801,11 +1801,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(b) __Department of Defense-Department of Veterans Affairs Interagency Program Office.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         There is hereby established an interagency program office of the Department of Defense and the Department of Veterans Affairs (in this section referred to as the ‘Office’) for the purposes described in paragraph (2).
 
->         “(2) __Purposes.—__ 
+>         “(2)  __Purposes__  __.—__ 
 
 >         The purposes of the Office shall be as follows:
 
@@ -1815,33 +1815,33 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(c) __Leadership.—__ 
 
->         “(1) __Director.—__ 
+>         “(1)  __Director__  __.—__ 
 
 >         The Director of the Office shall be the head of the Office.
 
->         “(2) __Deputy director.—__ 
+>         “(2)  __Deputy director__  __.—__ 
 
 >         The Deputy Director of the Office shall be the deputy head of the Office and shall assist the Director in carrying out the duties of the Director.
 
->         “(3) __Appointments.—__ 
+>         “(3)  __Appointments__  __.—__ 
 
 >             (A) The Director shall be appointed by the Secretary of Defense, with the concurrence of the Secretary of Veterans Affairs, from among persons who are qualified to direct the development, acquisition, and integration of major information technology capabilities.
 
 >             “(B) The Deputy Director shall be appointed by the Secretary of Veterans Affairs, with the concurrence of the Secretary of Defense, from among employees of the Department of Defense and the Department of Veterans Affairs in the Senior Executive Service who are qualified to direct the development, acquisition, and integration of major information technology capabilities.
 
->         “(4) __Additional guidance.—__ 
+>         “(4)  __Additional guidance__  __.—__ 
 
 >         In addition to the direction, supervision, and control provided by the Secretary of Defense and the Secretary of Veterans Affairs, the Office shall also receive guidance from the Department of Veterans Affairs-Department of Defense Joint Executive Committee under [section 320 of title 38][/us/usc/t38/s320], United States Code, in the discharge of the functions of the Office under this section.
 
->         “(5) __Testimony.—__ 
+>         “(5)  __Testimony__  __.—__ 
 
 >         Upon request by any of the appropriate committees of Congress, the Director and the Deputy Director shall testify before such committee regarding the discharge of the functions of the Office under this section.
 
->     “(d) __Function.—__ 
+>     “(d)  __Function__  __.—__ 
 
 >     The function of the Office shall be to implement, by not later than September 30, 2009, electronic health record systems or capabilities that allow for full interoperability of personal health care information between the Department of Defense and the Department of Veterans Affairs, which health records shall comply with applicable interoperability standards, implementation specifications, and certification criteria (including for the reporting of quality measures) of the Federal Government.
 
->     “(e) __Schedules and Benchmarks.—__ 
+>     “(e)  __Schedules and Benchmarks__  __.—__ 
 
 >     Not later than 30 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense and the Secretary of Veterans Affairs shall jointly establish a schedule and benchmarks for the discharge by the Office of its function under this section, including each of the following:
 
@@ -1855,27 +1855,27 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(f) __Pilot Projects.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         In order to assist the Office in the discharge of its function under this section, the Secretary of Defense and the Secretary of Veterans Affairs may, acting jointly, carry out one or more pilot projects to assess the feasibility and advisability of various technological approaches to the achievement of the electronic health record systems or capabilities described in subsection (d).
 
->         “(2) __Sharing of protected health information.—__ 
+>         “(2)  __Sharing of protected health information__  __.—__ 
 
 >         For purposes of each pilot project carried out under this subsection, the Secretary of Defense and the Secretary of Veterans Affairs shall, for purposes of the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 \[[Pub. L. 104–191][/us/pl/104/191]\] ([42 U.S.C. 1320d–2][/us/usc/t42/s1320d–2] note), ensure the effective sharing of protected health information between the health care system of the Department of Defense and the health care system of the Department of Veterans Affairs as needed to provide all health care services and other benefits allowed by law.
 
 >     “(g) __Staff and Other Resources.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense and the Secretary of Veterans Affairs shall assign to the Office such personnel and other resources of the Department of Defense and the Department of Veterans Affairs as are required for the discharge of its function under this section.
 
->         “(2) __Additional services.—__ 
+>         “(2)  __Additional services__  __.—__ 
 
 >         Subject to the approval of the Secretary of Defense and the Secretary of Veterans Affairs, the Director may utilize the services of private individuals and entities as consultants to the Office in the discharge of its function under this section. Amounts available to the Office shall be available for payment for such services.
 
 >     “(h) __Annual Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than January 1, 2009, and each year thereafter through 2014, the Director shall submit to the Secretary of Defense and the Secretary of Veterans Affairs, and to the appropriate committees of Congress, a report on the activities of the Office during the preceding calendar year. Each report shall include, for the year covered by such report, the following:
 
@@ -1887,15 +1887,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(D) A description and analysis of the problems the Department of Defense and the Department of Veterans Affairs are having with, and the progress such departments are making toward, ensuring interoperable and secure healthcare information systems and electronic healthcare records.
 
->         “(2) __Availability to public.—__ 
+>         “(2)  __Availability to public__  __.—__ 
 
 >         The Secretary of Defense and the Secretary of Veterans Affairs shall make available to the public each report submitted under paragraph (1), including by posting such report on the Internet website of the Department of Defense and the Department of Veterans Affairs, respectively, that is available to the public.
 
->     “(i) __Comptroller General Assessment of Implementation.—__ 
+>     “(i)  __Comptroller General Assessment of Implementation__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\] and every six months thereafter until the completion of the implementation of electronic health record systems or capabilities described in subsection (d), the Comptroller General of the United States shall submit to the appropriate committees of Congress a report setting forth the assessment of the Comptroller General of the progress of the Department of Defense and the Department of Veterans Affairs in implementing electronic health record systems or capabilities described in subsection (d).
 
->     “(j) __Technology-Neutral Guidelines and Standards.—__ 
+>     “(j)  __Technology-Neutral Guidelines and Standards__  __.—__ 
 
 >     The Director, in consultation with industry and appropriate Federal agencies, shall develop, or shall adopt from industry, technology-neutral information technology infrastructure guidelines and standards for use by the Department of Defense and the Department of Veterans Affairs to enable those departments to effectively select and utilize information technologies to meet the requirements of this section. \[As amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 252, Oct. 14, 2008, [122 Stat. 4400][/us/stat/122/4400].\]
 
@@ -1903,21 +1903,21 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(a) __Pilot Programs.—__ 
 
->         “(1) __Programs authorized.—__ 
+>         “(1)  __Programs authorized__  __.—__ 
 
 >         For the purposes set forth in subsection (c), the Secretary of Defense may establish and conduct pilot programs with respect to the system of the Department of Defense for the evaluation of the disabilities of members of the Armed Forces who are being separated or retired from the Armed Forces for disability under chapter 61 of title 10, United States Code (in this section referred to as the ‘disability evaluation system’).
 
->         “(2) __Types of pilot programs.—__ 
+>         “(2)  __Types of pilot programs__  __.—__ 
 
 >         In carrying out this section, the Secretary of Defense may conduct one or more of the pilot programs described in paragraphs (1) through (3) of subsection (b) or such other pilot programs as the Secretary of Defense considers appropriate.
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         In establishing and conducting any pilot program under this section, the Secretary of Defense shall consult with the Secretary of Veterans Affairs.
 
 >     “(b) __Scope of Pilot Programs.—__ 
 
->         “(1) __Disability determinations by dod utilizing va assigned disability rating.—__ 
+>         “(1)  __Disability determinations by dod utilizing va assigned disability rating__  __.—__ 
 
 >         Under one of the pilot programs authorized by subsection (a), for purposes of making a determination of disability of a member of the Armed Forces under [section 1201(b) of title 10][/us/usc/t10/s1201/b], United States Code, for the retirement, separation, or placement of the member on the temporary disability retired list under chapter 61 of such title, upon a determination by the Secretary of the military department concerned that the member is unfit to perform the duties of the member’s office, grade, rank, or rating because of a physical disability as described in section 1201(a) of such title—
 
@@ -1931,7 +1931,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) the Secretary of the military department concerned may make the determination of disability regarding the member utilizing the rating of disability assigned under subparagraph (A)(ii).
 
->         “(2) __Disability determinations utilizing joint dod/va assigned disability rating.—__ 
+>         “(2)  __Disability determinations utilizing joint dod/va assigned disability rating__  __.—__ 
 
 >         Under one of the pilot programs authorized by subsection (a), in making a determination of disability of a member of the Armed Forces under [section 1201(b) of title 10][/us/usc/t10/s1201/b], United States Code, for the retirement, separation, or placement of the member on the temporary disability retired list under chapter 61 of such title, the Secretary of the military department concerned may, upon determining that the member is unfit to perform the duties of the member’s office, grade, rank, or rating because of a physical disability as described in section 1201(a) of such title—
 
@@ -1939,7 +1939,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) make the determination of disability regarding the member utilizing the rating of disability assigned under subparagraph (A).
 
->         “(3) __Electronic clearing house.—__ 
+>         “(3)  __Electronic clearing house__  __.—__ 
 
 >         Under one of the pilot programs authorized by subsection (a), the Secretary of Defense may establish and operate a single Internet website for the disability evaluation system of the Department of Defense that enables participating members of the Armed Forces to fully utilize such system through the Internet, with such Internet website to include the following:
 
@@ -1953,11 +1953,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(E) Secure mechanisms to request and receive personnel files or other personnel records of members of the Armed Forces under the system that are required for submission under the disability evaluation system, including the capability to track requests for such files or records and to determine the status of such requests and of responses to such requests.
 
->         “(4) __Other pilot programs.—__ 
+>         “(4)  __Other pilot programs__  __.—__ 
 
 >         The pilot programs authorized by subsection (a) may also provide for the development, evaluation, and identification of such practices and procedures under the disability evaluation system as the Secretary considers appropriate for purposes set forth in subsection (c).
 
->     “(c) __Purposes.—__ 
+>     “(c)  __Purposes__  __.—__ 
 
 >     A pilot program established under subsection (a) may have one or more of the following purposes:
 
@@ -1981,13 +1981,13 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(2) In conjunction with the findings and recommendations of applicable Presidential and Department of Defense study groups, to provide for the eventual development of revised and improved practices and procedures for the disability evaluation system in order to achieve the objectives set forth in paragraph (1).
 
->     “(d) __Utilization of Results in Updates of Comprehensive Policy on Care, Management, and Transition of Recovering Service Members.—__ 
+>     “(d)  __Utilization of Results in Updates of Comprehensive Policy on Care, Management, and Transition of Recovering Service Members__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, may incorporate responses to any findings and recommendations arising under the pilot programs conducted under subsection (a) in updating the comprehensive policy on the care and management of covered service members under section 1611(a)(4).
 
 >     “(e) __Construction With Other Authorities.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), in carrying out a pilot program under subsection (a)—
 
@@ -1995,17 +1995,17 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(B) the Secretary of Defense and the Secretary of Veterans Affairs may waive any provision of title 10, 37, or 38, United States Code, relating to methods of determining fitness or unfitness for duty and disability ratings for members of the Armed Forces if the Secretaries determine in writing that the application of such provision would be inconsistent with the purpose of the pilot program.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         Nothing in paragraph (1) shall be construed to authorize the waiver of any provision of [section 1216a of title 10][/us/usc/t10/s1216a], United States Code, as added by section 1642 of this Act.
 
->     “(f) __Duration.—__ 
+>     “(f)  __Duration__  __.—__ 
 
 >     Each pilot program conducted under subsection (a) shall be completed not later than one year after the date of the commencement of such pilot program under that subsection.
 
 >     “(g) __Reports.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the appropriate committees of Congress a report on each pilot program that has been commenced as of that date under subsection (a). The report shall include—
 
@@ -2015,17 +2015,17 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) a statement of any provision described in subsection (e)(1)(B) that will not apply to the pilot program by reason of a waiver under that subsection.
 
->         “(2) __Interim report.—__ 
+>         “(2)  __Interim report__  __.—__ 
 
 >         Not later than 180 days after the date of the submittal of the report required by paragraph (1) with respect to a pilot program, the Secretary shall submit to the appropriate committees of Congress a report describing the current status of the pilot program.
 
->         “(3) __Final report.—__ 
+>         “(3)  __Final report__  __.—__ 
 
 >         Not later than 90 days after the completion of all of the pilot programs conducted under subsection (a), the Secretary shall submit to the appropriate committees of Congress a report setting forth a final evaluation and assessment of the pilot programs. The report shall include such recommendations for legislative or administrative action as the Secretary considers appropriate in light of such pilot programs.
 
 > “SEC. 1648. __STANDARDS FOR MILITARY MEDICAL TREATMENT FACILITIES, SPECIALTY MEDICAL CARE FACILITIES, AND MILITARY QUARTERS HOUSING PATIENTS AND ANNUAL REPORT ON SUCH FACILITIES.__ 
 
->     “(a) __Establishment of Standards.—__ 
+>     “(a)  __Establishment of Standards__  __.—__ 
 
 >     The Secretary of Defense shall establish for the military facilities of the Department of Defense and the military departments referred to in subsection (b) standards with respect to the matters set forth in subsection (c). To the maximum extent practicable, the standards shall—
 
@@ -2033,7 +2033,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(2) be uniform and consistent throughout the Department of Defense and the military departments.
 
->     “(b) __Covered Military Facilities.—__ 
+>     “(b)  __Covered Military Facilities__  __.—__ 
 
 >     The military facilities covered by this section are the following:
 
@@ -2043,7 +2043,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) Military quarters or leased housing for patients.
 
->     “(c) __Scope of Standards.—__ 
+>     “(c)  __Scope of Standards__  __.—__ 
 
 >     The standards required by subsection (a) shall include the following:
 
@@ -2065,21 +2065,21 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(d) __Compliance With Standards.—__ 
 
->         “(1) __Deadline.—__ 
+>         “(1)  __Deadline__  __.—__ 
 
 >         In establishing standards under subsection (a), the Secretary shall specify a deadline for compliance with such standards by each facility referred to in subsection (b). The deadline shall be at the earliest date practicable after the date of the enactment of this Act \[Jan. 28, 2008\], and shall, to the maximum extent practicable, be uniform across the facilities referred to in subsection (b).
 
->         “(2) __Investment.—__ 
+>         “(2)  __Investment__  __.—__ 
 
 >         In carrying out this section, the Secretary shall also establish guidelines for investment to be utilized by the Department of Defense and the military departments in determining the allocation of financial resources to facilities referred to in subsection (b) in order to meet the deadline specified under paragraph (1).
 
 >     “(e) __Report on Development and Implementation of Standards.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than March 1, 2008, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken to carry out subsection (a).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report under paragraph (1) shall include the following:
 
@@ -2095,7 +2095,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) A description of the investment to be allocated to address each deficiency or noncompliance identified under subparagraph (B)(ii).
 
->     “(f) __Annual Report.—__ 
+>     “(f)  __Annual Report__  __.—__ 
 
 >     Not later than the date on which the President submits the budget for a fiscal year to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the adequacy, suitability, and quality of each facility referred to in subsection (b). The Secretary shall include in each report information regarding—
 
@@ -2105,33 +2105,33 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 > “SEC. 1651. __HANDBOOK FOR MEMBERS OF THE ARMED FORCES ON COMPENSATION AND BENEFITS AVAILABLE FOR SERIOUS INJURIES AND ILLNESSES.__ 
 
->     “(a) __Information on Available Compensation and Benefits.—__ 
+>     “(a)  __Information on Available Compensation and Benefits__  __.—__ 
 
 >     Not later than October 1, 2008, the Secretary of Defense shall develop and maintain, in handbook and electronic form, a comprehensive description of the compensation and other benefits to which a member of the Armed Forces, and the family of such member, would be entitled upon the separation or retirement of the member from the Armed Forces as a result of a serious injury or illness. The handbook shall set forth the range of such compensation and benefits based on grade, length of service, degree of disability at separation or retirement, and such other factors affecting such compensation and benefits as the Secretary considers appropriate.
 
->     “(b) __Consultation.—__ 
+>     “(b)  __Consultation__  __.—__ 
 
 >     The Secretary of Defense shall develop and maintain the comprehensive description required by subsection (a), including the handbook and electronic form of the description, in consultation with the Secretary of Veterans Affairs, the Secretary of Health and Human Services, and the Commissioner of Social Security.
 
->     “(c) __Update.—__ 
+>     “(c)  __Update__  __.—__ 
 
 >     The Secretary of Defense shall update the comprehensive description required by subsection (a), including the handbook and electronic form of the description, on a periodic basis, but not less often than annually.
 
->     “(d) __Provision to Members.—__ 
+>     “(d)  __Provision to Members__  __.—__ 
 
 >     The Secretary of the military department concerned shall provide the descriptive handbook under subsection (a) to each member of the Armed Forces described in that subsection as soon as practicable following the injury or illness qualifying the member for coverage under such subsection.
 
->     “(e) __Provision to Representatives.—__ 
+>     “(e)  __Provision to Representatives__  __.—__ 
 
 >     If a member is incapacitated or otherwise unable to receive the descriptive handbook to be provided under subsection (a), the handbook shall be provided to the next of kin or a legal representative of the member, as determined in accordance with regulations prescribed by the Secretary of the military department concerned for purposes of this section.
 
 > “SEC. 1662. __ACCESS OF RECOVERING SERVICE MEMBERS TO ADEQUATE OUTPATIENT RESIDENTIAL FACILITIES.__ 
 
->     “(a) __Required Inspections of Facilities.—__ 
+>     “(a)  __Required Inspections of Facilities__  __.—__ 
 
 >     All quarters of the United States and housing facilities under the jurisdiction of the Armed Forces that are occupied by recovering service members shall be inspected on a semiannual basis for the first two years after the enactment of this Act \[Jan. 28, 2008\] and annually thereafter by the inspectors general of the regional medical commands.
 
->     “(b) __Inspector General Reports.—__ 
+>     “(b)  __Inspector General Reports__  __.—__ 
 
 >     The inspector general for each regional medical command shall—
 
@@ -2147,7 +2147,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(a) __Medical Care at Military Medical Facilities.—__ 
 
->         “(1) __Medical care.—__ 
+>         “(1)  __Medical care__  __.—__ 
 
 >         A family member of a recovering service member who is not otherwise eligible for medical care at a military medical treatment facility may be eligible for such care at such facilities, on a space-available basis, if the family member is—
 
@@ -2157,15 +2157,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(C) receiving per diem payments from the Department of Defense while caring for the service member.
 
->         “(2) __Specification of family members.—__ 
+>         “(2)  __Specification of family members__  __.—__ 
 
 >         The Secretary of Defense may prescribe in regulations the family members of recovering service members who shall be considered to be a family member of a service member for purposes of this subsection.
 
->         “(3) __Specification of care.—__ 
+>         “(3)  __Specification of care__  __.—__ 
 
 >         The Secretary of Defense shall prescribe in regulations the medical care that may be available to family members under this subsection at military medical treatment facilities.
 
->         “(4) __Recovery of costs.—__ 
+>         “(4)  __Recovery of costs__  __.—__ 
 
 >         The United States may recover the costs of the provision of medical care under this subsection as follows (as applicable):
 
@@ -2175,17 +2175,17 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(b) __Medical Care at Department of Veterans Affairs Medical Facilities.—__ 
 
->         “(1) __Medical care.—__ 
+>         “(1)  __Medical care__  __.—__ 
 
 >         When a recovering service member is receiving hospital care and medical services at a medical facility of the Department of Veterans Affairs, the Secretary of Veterans Affairs may provide medical care for eligible family members under this section when that care is readily available at that Department facility and on a space-available basis.
 
->         “(2) __Regulations.—__ 
+>         “(2)  __Regulations__  __.—__ 
 
 >         The Secretary of Veterans Affairs shall prescribe in regulations the medical care that may be available to family members under this subsection at medical facilities of the Department of Veterans Affairs.
 
 > “SEC. 1676. __MORATORIUM ON CONVERSION TO CONTRACTOR PERFORMANCE OF DEPARTMENT OF DEFENSE FUNCTIONS AT MILITARY MEDICAL FACILITIES.__ 
 
->     “(a) __Moratorium.—__ 
+>     “(a)  __Moratorium__  __.—__ 
 
 >     No study or competition may be begun or announced pursuant to [section 2461 of title 10][/us/usc/t10/s2461], United States Code, or otherwise pursuant to Office of Management and Budget circular A-76, relating to the possible conversion to performance by a contractor of any Department of Defense function carried out at a military medical facility until the Secretary of Defense—
 
@@ -2193,7 +2193,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(2) submits the report required by subsection (c).
 
->     “(b) __Certification.—__ 
+>     “(b)  __Certification__  __.—__ 
 
 >     The certification referred to in paragraph (a)(1) is a certification that the Secretary has taken appropriate steps to ensure that neither the quality of military medical care nor the availability of qualified personnel to carry out Department of Defense functions related to military medical care will be adversely affected by either—
 
@@ -2201,7 +2201,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(2) the conversion of such a function to performance by a contractor.
 
->     “(c) __Report Required.—__ 
+>     “(c)  __Report Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the public-private competitions being conducted for Department of Defense functions carried out at military medical facilities as of the date of the enactment of this Act by each military department and defense agency. Such report shall include—
 
@@ -2225,11 +2225,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 109–364, div. A, title VII, § 734][/us/pl/109/364/s734], Oct. 17, 2006, [120 Stat. 2299][/us/stat/120/2299], provided that:
 
->     “(a) __Program Design and Development Required.—__ 
+>     “(a)  __Program Design and Development Required__  __.—__ 
 
 >     Not later than October 1, 2007, the Secretary of Defense shall design and develop a fully integrated program on disease and chronic care management for the military health care system that provides, to the extent practicable, uniform policies and practices on disease management and chronic care management throughout that system, including both military hospitals and clinics and civilian healthcare providers within the TRICARE network.
 
->     “(b) __Purposes of Program.—__ 
+>     “(b)  __Purposes of Program__  __.—__ 
 
 >     The purposes of the program required by subsection (a) are as follows:
 
@@ -2239,7 +2239,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) To ensure the proper allocation of health care resources for individuals who need care for disease or other chronic conditions.
 
->     “(c) __Elements of Program Design.—__ 
+>     “(c)  __Elements of Program Design__  __.—__ 
 
 >     The program design required by subsection (a) shall meet the following requirements:
 
@@ -2267,7 +2267,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(5) Activities under the program shall conform to applicable laws and regulations relating to the confidentiality of health care information.
 
->     “(d) __Implementation Plan Required.—__ 
+>     “(d)  __Implementation Plan Required__  __.—__ 
 
 >     Not later than February 1, 2008, the Secretary of Defense, in coordination with the Secretaries of the military departments, shall develop an implementation plan for the disease and chronic care management program. In order to facilitate the carrying out of the program, the plan developed by the Secretary shall—
 
@@ -2285,11 +2285,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(e) __Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than March 1, 2008, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the design, development, and implementation of the program on disease and chronic care management required by this section.
 
->         “(2) __Report elements.—__ 
+>         “(2)  __Report elements__  __.—__ 
 
 >         The report required by paragraph (1) shall include the following:
 
@@ -2307,11 +2307,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 109–163, div. A, title II, § 256][/us/pl/109/163/s256], Jan. 6, 2006, [119 Stat. 3181][/us/stat/119/3181], as amended by [Pub. L. 112–239, div. A, title X, § 1076(c)(2)(C)][/us/pl/112/239/s1076/c/2/C], Jan. 2, 2013, [126 Stat. 1950][/us/stat/126/1950], provided that:
 
->     “(a) __Designation of Executive Agent.—__ 
+>     “(a)  __Designation of Executive Agent__  __.—__ 
 
 >     The Secretary of Defense shall designate an executive agent to be responsible for coordinating and managing the medical research efforts and programs of the Department of Defense relating to the prevention, mitigation, and treatment of blast injuries.
 
->     “(b) __General Responsibilities.—__ 
+>     “(b)  __General Responsibilities__  __.—__ 
 
 >     The executive agent designated under subsection (a) shall be responsible for—
 
@@ -2327,7 +2327,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(c) __Medical Research Efforts.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The executive agent designated under subsection (a) shall review and assess the adequacy of medical research efforts of the Department of Defense as of the date of the enactment of this Act \[Jan. 6, 2006\] relating to the following:
 
@@ -2341,15 +2341,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(E) Such other blast injury matters as the executive agent considers appropriate.
 
->         “(2) __Requirements for research efforts.—__ 
+>         “(2)  __Requirements for research efforts__  __.—__ 
 
 >         Based on the assessment under paragraph (1), the executive agent shall establish requirements for medical research efforts described in that paragraph in order to enhance and accelerate those research efforts.
 
->         “(3) __Oversight of research efforts.—__ 
+>         “(3)  __Oversight of research efforts__  __.—__ 
 
 >         The executive agent shall establish, coordinate, and oversee Department-wide medical research efforts relating to the prevention, mitigation, and treatment of blast injuries, as necessary, to fulfill requirements established under paragraph (2).
 
->     “(d) __Other Related Research Efforts.—__ 
+>     “(d)  __Other Related Research Efforts__  __.—__ 
 
 >     The Assistant Secretary of Defense for Research and Engineering, in coordination with the executive agent designated under subsection (a) and the Director of the Joint IED Defeat Task Force, shall—
 
@@ -2359,7 +2359,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) address any deficiencies identified in paragraphs (1) and (2) by establishing, coordinating, and overseeing Department-wide research and development initiatives on the prevention and mitigation of blast injuries, including explosive detection and defeat and personnel and vehicle blast protection.
 
->     “(e) __Studies.—__ 
+>     “(e)  __Studies__  __.—__ 
 
 >     The executive agent designated under subsection (a) shall conduct studies on the prevention, mitigation, and treatment of blast injuries, including—
 
@@ -2371,11 +2371,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(4) studies to refine and improve educational interventions for blast injury survivors and their families.
 
->     “(f) __Training.—__ 
+>     “(f)  __Training__  __.—__ 
 
 >     The executive agent designated under subsection (a), in coordination with the Director of the Joint IED Defeat Task Force, shall develop training protocols for medical and non-medical personnel on the prevention, mitigation, and treatment of blast injuries. Those protocols shall be intended to improve field and clinical training on early identification of blast injury consequences, both seen and unseen, including traumatic brain injuries, acoustic injuries, and internal injuries.
 
->     “(g) __Information Sharing.—__ 
+>     “(g)  __Information Sharing__  __.—__ 
 
 >     The executive agent designated under subsection (a) shall make available the results of relevant medical research and development projects and studies to—
 
@@ -2391,11 +2391,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >     “(h) __Reports on Blast Injury Matters.—__ 
 
->         “(1) __Reports required.—__ 
+>         “(1)  __Reports required__  __.—__ 
 
 >         Not later than 270 days after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter through 2008, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the efforts and programs of the Department of Defense relating to the prevention, mitigation, and treatment of blast injuries.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         Each report under paragraph (1) shall include the following:
 
@@ -2411,15 +2411,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(F) A description of the status of efforts during the two years preceding the report to incorporate blast injury effects data into appropriate programs of the Department of Defense and into the development of comprehensive force protection systems that are effective in confronting blast, ballistic, and fire threats.
 
->     “(i) __Deadline for Designation of Executive Agent.—__ 
+>     “(i)  __Deadline for Designation of Executive Agent__  __.—__ 
 
 >     The Secretary shall make the designation required by subsection (a) not later than 90 days after the date of the enactment of this Act \[Jan. 6, 2006\].
 
->     “(j) __Blast Injuries Defined.—__ 
+>     “(j)  __Blast Injuries Defined__  __.—__ 
 
 >     In this section, the term ‘blast injuries’ means injuries that occur as the result of the detonation of high explosives, including vehicle-borne and person-borne explosive devices, rocket-propelled grenades, and improvised explosive devices.
 
->     “(k) __Executive Agent Defined.—__ 
+>     “(k)  __Executive Agent Defined__  __.—__ 
 
 >     In this section, the term ‘executive agent’ has the meaning provided such term in Department of Defense Directive 5101.1.”
 
@@ -2427,7 +2427,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 107–314, div. A, title VII, § 708][/us/pl/107/314/s708], Dec. 2, 2002, [116 Stat. 2585][/us/stat/116/2585], provided that:
 
->     “(a) __Requirement To Establish Process.—__ 
+>     “(a)  __Requirement To Establish Process__  __.—__ 
 
 >         (1)
 
@@ -2441,7 +2441,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) While prescribing the process under paragraph (1) and upon completion of the report under paragraph (2), the Secretary shall provide to the Comptroller General information that would be relevant in carrying out the study required by subsection (b).
 
->     “(b) __Comptroller General Study and Report.—__ 
+>     “(b)  __Comptroller General Study and Report__  __.—__ 
 
 >         (1)
 
@@ -2459,7 +2459,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(2) Not later than 60 days after the congressional committees specified in subsection (a)(2) receive the report required under that subsection, the Comptroller General shall submit to those committees a report on the study conducted under this subsection.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -2481,11 +2481,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 742\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–192, provided that:
 
->     “(a) __Error Tracking Process.—__ 
+>     “(a)  __Error Tracking Process__  __.—__ 
 
 >     The Secretary of Defense shall implement a centralized process for reporting, compilation, and analysis of errors in the provision of health care under the defense health program that endanger patients beyond the normal risks associated with the care and treatment of such patients. To the extent practicable, that process shall emulate the system established by the Secretary of Veterans Affairs for reporting, compilation, and analysis of errors in the provision of health care under the Department of Veterans Affairs health care system that endanger patients beyond such risks.
 
->     “(b) __Sharing of Information.—__ 
+>     “(b)  __Sharing of Information__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs—
 
@@ -2503,11 +2503,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 754\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–196, as amended by [Pub. L. 109–163, div. A, title VII, § 741][/us/pl/109/163/s741], Jan. 6, 2006, [119 Stat. 3360][/us/stat/119/3360], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall establish a patient care error reporting and management system.
 
->     “(b) __Purposes of System.—__ 
+>     “(b)  __Purposes of System__  __.—__ 
 
 >     The purposes of the system are as follows:
 
@@ -2517,7 +2517,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) To provide for action to be taken to correct the identified systemic factors.
 
->     “(c) __Requirements for System.—__ 
+>     “(c)  __Requirements for System__  __.—__ 
 
 >     The patient care error reporting and management system shall include the following:
 
@@ -2541,7 +2541,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >             “(F) To contract with a qualified and objective external organization to manage the national patient safety database of the Department of Defense.
 
->     “(d) __Medical Team Training Program.—__ 
+>     “(d)  __Medical Team Training Program__  __.—__ 
 
 >     The Secretary shall expand the health care team coordination program to integrate that program into all Department of Defense health care operations. In carrying out this subsection, the Secretary shall take the following actions:
 
@@ -2553,7 +2553,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(4) Continue research and development investments to improve communication, coordination, and team work in the provision of health care.
 
->     “(e) __Consultation.—__ 
+>     “(e)  __Consultation__  __.—__ 
 
 >     The Secretary shall consult with the other administering Secretaries (as defined in [section 1072(3) of title 10][/us/usc/t10/s1072/3], United States Code) in carrying out this section.”
 
@@ -2561,7 +2561,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 106–65, div. A, title V, § 585][/us/pl/106/65/s585], Oct. 5, 1999, [113 Stat. 636][/us/stat/113/636], provided that:
 
->     “(a) __Study and Report.—__ 
+>     “(a)  __Study and Report__  __.—__ 
 
 >         (1)
 
@@ -2579,7 +2579,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(2) Not later than 180 days after the date of the enactment of this Act \[Oct. 5, 1999\], the Comptroller General shall conclude the study and submit a report on the results of the study to Congress and the Secretary of Defense.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Secretary of Defense shall prescribe in regulations the policies and procedures that the Secretary considers appropriate to provide the maximum protections for the confidentiality of communications described in subsection (a) relating to misconduct described in that subsection, taking into consideration—
 
@@ -2595,7 +2595,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(6) such other factors as the Secretary, in consultation with the Attorney General, may consider appropriate.
 
->     “(c) __Report by Secretary of Defense.—__ 
+>     “(c)  __Report by Secretary of Defense__  __.—__ 
 
 >     Not later than January 21, 2000, the Secretary of Defense shall submit to Congress a report on the actions taken under subsection (b) and any other actions taken by the Secretary to provide the maximum possible protections for confidentiality described in that subsection.”
 
@@ -2603,11 +2603,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 106–65, div. A, title VII, § 723][/us/pl/106/65/s723], Oct. 5, 1999, [113 Stat. 695][/us/stat/113/695], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 753(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–195; [Pub. L. 109–163, div. A, title VII, § 742][/us/pl/109/163/s742], Jan. 6, 2006, [119 Stat. 3360][/us/stat/119/3360]; [Pub. L. 109–364, div. A, title X, § 1046(e)][/us/pl/109/364/s1046/e], Oct. 17, 2006, [120 Stat. 2394][/us/stat/120/2394]; [Pub. L. 112–81, div. A, title X, § 1062(j)(1)][/us/pl/112/81/s1062/j/1], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to ensure that the Department of Defense addresses issues of medical quality surveillance and implements solutions for those issues in a timely manner that is consistent with national policy and industry standards.
 
->     “(b) __Department of Defense Program for Medical Informatics and Data.—__ 
+>     “(b)  __Department of Defense Program for Medical Informatics and Data__  __.—__ 
 
 >     The Secretary of Defense shall establish a Department of Defense program, the purposes of which shall be the following:
 
@@ -2627,13 +2627,13 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(8) To conduct educational programs on medical informatics to meet identified needs.
 
->     “(c) __Automation and Capture of Clinical Data.—__ 
+>     “(c)  __Automation and Capture of Clinical Data__  __.—__ 
 
 >         (1) Through the program established under subsection (b), the Secretary of Defense shall accelerate the efforts of the Department of Defense to automate, capture, and exchange controlled clinical data and present providers with clinical guidance using a personal information carrier, clinical lexicon, or digital patient record.
 
 >         “(2) The program shall serve as a primary resource for the Department of Defense for matters concerning the capture, processing, and dissemination of data on health care quality.
 
->     “(d) __Medical Informatics Advisory Committee.—__ 
+>     “(d)  __Medical Informatics Advisory Committee__  __.—__ 
 
 >         (1)
 
@@ -2687,15 +2687,15 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 104–201, div. A, title VII, § 742][/us/pl/104/201/s742], Sept. 23, 1996, [110 Stat. 2600][/us/stat/110/2600], provided that:
 
->     “(a) __Establishment of External Peer Review Process.—__ 
+>     “(a)  __Establishment of External Peer Review Process__  __.—__ 
 
 >     The Secretary of Defense shall establish a peer review process that will use persons who are not officers or employees of the Government to review the research protocols of medical research projects.
 
->     “(b) __Peer Review Requirements.—__ 
+>     “(b)  __Peer Review Requirements__  __.—__ 
 
 >     Funds of the Department of Defense may not be obligated or expended for any medical research project unless the research protocol for the project has been approved by the external peer review process established under subsection (a).
 
->     “(c) __Medical Research Project Defined.—__ 
+>     “(c)  __Medical Research Project Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘medical research project’ means a research project that—
 
@@ -2705,11 +2705,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(3) is funded through the Defense Health Program account.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     The peer review requirements of subsection (b) shall take effect on October 1, 1996, and, except as provided in subsection (e), shall apply to all medical research projects proposed funded on or after that date, including medical research projects funded pursuant to any requirement of law enacted before, on, or after that date.
 
->     “(e) __Exceptions.—__ 
+>     “(e)  __Exceptions__  __.—__ 
 
 >     Only the following medical research projects shall be exempt from the peer review requirements of subsection (b):
 
@@ -2721,7 +2721,7 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 [Pub. L. 102–484, div. A, title VII, § 724][/us/pl/102/484/s724], Oct. 23, 1992, [106 Stat. 2440][/us/stat/106/2440], as amended by [Pub. L. 103–337, div. A, title VII, § 717][/us/pl/103/337/s717], Oct. 5, 1994, [108 Stat. 2804][/us/stat/108/2804], provided that:
 
->     “(a) __Survey Required.—__ 
+>     “(a)  __Survey Required__  __.—__ 
 
 >     The administering Secretaries shall conduct annually a formal survey of persons receiving health care under chapter 55 of title 10, United States Code, in order to determine the following:
 
@@ -2735,11 +2735,11 @@ June 7, 1956, ch. 374, § 101, 70 Stat. 250.  </td>
 
 >         “(5) Such other matters as the administering Secretaries determine appropriate.
 
->     “(b) __Exemption.—__ 
+>     “(b)  __Exemption__  __.—__ 
 
 >     An annual survey under subsection (a) shall be treated as not a collection of information for the purposes for which such term is defined in [section 3502(4) of title 44][/us/usc/t44/s3502/4], United States Code.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘administering Secretaries’ has the meaning given such term in [section 1072(3) of title 10][/us/usc/t10/s1072/3], United States Code.”
 

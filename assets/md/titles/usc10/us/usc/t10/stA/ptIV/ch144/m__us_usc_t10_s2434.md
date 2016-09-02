@@ -15,13 +15,13 @@
 
 ## § 2434. Independent cost estimates; operational manpower requirements
 
-    (a) __Requirement for Approval.—__ 
+    (a)  __Requirement for Approval__  __.—__ 
 
         (1) The Secretary of Defense may not approve the system development and demonstration, or the production and deployment, of a major defense acquisition program unless an independent estimate of the full life-cycle cost of the program and a manpower estimate for the program have been considered by the Secretary.
 
         (2) The provisions of this section shall apply to any major subprogram of a major defense acquisition program (as designated under [section 2430a(a)(1) of this title][/us/usc/t10/s2430a/a/1]) in the same manner as those provisions apply to a major defense acquisition program, and any reference in this section to a program shall be treated as including such a subprogram.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations governing the content and submission of the estimates required by subsection (a). The regulations shall require—
 

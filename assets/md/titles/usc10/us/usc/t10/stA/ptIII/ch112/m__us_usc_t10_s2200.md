@@ -15,11 +15,11 @@
 
 ## § 2200. Programs; purpose
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To encourage the recruitment and retention of Department of Defense personnel who have the computer and network security skills necessary to meet Department of Defense information assurance requirements, the Secretary of Defense may carry out programs in accordance with this chapter to provide financial support for education in disciplines relevant to those requirements at institutions of higher education.
 
-    (b) __Types of Programs.—__ 
+    (b)  __Types of Programs__  __.—__ 
 
     The programs authorized under this chapter are as follows:
 

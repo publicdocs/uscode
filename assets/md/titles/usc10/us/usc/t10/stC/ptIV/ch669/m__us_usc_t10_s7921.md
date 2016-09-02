@@ -15,7 +15,7 @@
 
 ## § 7921. Safety and effectiveness information; hydrographic information
 
-    (a) __Safety and Effectiveness Information.—__ 
+    (a)  __Safety and Effectiveness Information__  __.—__ 
 
         (1)
 
@@ -29,7 +29,7 @@
 
         (2) The Secretary may extend similar support to forces of the North Atlantic Treaty Organization, and to coalition forces, that are operating with the armed forces.
 
-    (b) __Hydrographic Information.—__ 
+    (b)  __Hydrographic Information__  __.—__ 
 
     The Secretary of the Navy shall collect, process, and provide to the Director of the National Geospatial-Intelligence Agency hydrographic information to support preparation of maps, charts, books, and geodetic products by that Agency.
 

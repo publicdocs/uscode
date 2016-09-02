@@ -15,15 +15,15 @@
 
 ## § 180. Service academy athletic programs: review board
 
-    (a) __Independent Review Board.—__ 
+    (a)  __Independent Review Board__  __.—__ 
 
     The Secretary of Defense shall appoint a board to review the administration of the athletics programs of the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy.
 
-    (b) __Composition of Board.—__ 
+    (b)  __Composition of Board__  __.—__ 
 
     The Secretary shall appoint the members of the board from among distinguished administrators of institutions of higher education, members of Congress, members of the Boards of Visitors of the academies, and other experts in collegiate athletics programs. The Superintendents of the three academies shall be members of the board. The Secretary shall designate one member of the board, other than a Superintendent of an academy, as Chairman.
 
-    (c) __Duties.—__ 
+    (c)  __Duties__  __.—__ 
 
     The board shall, on an annual basis—
 
@@ -39,7 +39,7 @@
 
         (2) determine ways in which the administration of the athletics programs at the academies can serve as models for the administration of athletics programs at civilian institutions of higher education.
 
-    (d) __Administrative Provisions.—__ 
+    (d)  __Administrative Provisions__  __.—__ 
 
         (1) Each member of the board who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for Executive Schedule Level IV under [section 5315 of title 5][/us/usc/t5/s5315], for each day (including travel time) during which such member is engaged in the performance of the duties of the board. Members of the board who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 

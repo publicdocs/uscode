@@ -15,15 +15,15 @@
 
 ## § 2224. Defense Information Assurance Program
 
-    (a) __Defense Information Assurance Program.—__ 
+    (a)  __Defense Information Assurance Program__  __.—__ 
 
     The Secretary of Defense shall carry out a program, to be known as the “Defense Information Assurance Program”, to protect and defend Department of Defense information, information systems, and information networks that are critical to the Department and the armed forces during day-to-day operations and operations in times of crisis.
 
-    (b) __Objectives of the Program.—__ 
+    (b)  __Objectives of the Program__  __.—__ 
 
     The objectives of the program shall be to provide continuously for the availability, integrity, authentication, confidentiality, nonrepudiation, and rapid restitution of information and information systems that are essential elements of the Defense Information Infrastructure.
 
-    (c) __Program Strategy.—__ 
+    (c)  __Program Strategy__  __.—__ 
 
     In carrying out the program, the Secretary shall develop a program strategy that encompasses those actions necessary to assure the readiness, reliability, continuity, and integrity of Defense information systems, networks, and infrastructure, including through compliance with subchapter II of chapter 35 of title 44, including through compliance with subchapter III of chapter 35 of title 44. The program strategy shall include the following:
 
@@ -39,13 +39,13 @@
 
         (6) Development of proposed legislation that the Secretary considers necessary for implementing the program or for otherwise responding to the information warfare threat.
 
-    (d) __Coordination.—__ 
+    (d)  __Coordination__  __.—__ 
 
     In carrying out the program, the Secretary shall coordinate, as appropriate, with the head of any relevant Federal agency and with representatives of those national critical information infrastructure systems that are essential to the operations of the Department and the armed forces on information assurance measures necessary to the protection of these systems.
 
     \[(e) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(a)(12)][/us/pl/108/136/s1031/a/12], Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597].\]
 
-    (f) __Information Assurance Test Bed.—__ 
+    (f)  __Information Assurance Test Bed__  __.—__ 
 
     The Secretary shall develop an information assurance test bed within the Department of Defense to provide—
 
@@ -87,11 +87,11 @@
 
 [Pub. L. 112–239, div. A, title IX, § 933][/us/pl/112/239/s933], Jan. 2, 2013, [126 Stat. 1884][/us/stat/126/1884], provided that:
 
->     “(a) __Baseline Software Assurance Policy.—__ 
+>     “(a)  __Baseline Software Assurance Policy__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the Chief Information Officer of the Department of Defense, shall develop and implement a baseline software assurance policy for the entire lifecycle of covered systems. Such policy shall be included as part of the strategy for trusted defense systems of the Department of Defense.
 
->     “(b) __Policy Elements.—__ 
+>     “(b)  __Policy Elements__  __.—__ 
 
 >     The baseline software assurance policy under subsection (a) shall—
 
@@ -105,7 +105,7 @@
 
 >         “(5) support competition and allow flexibility and compatibility with current or emerging software methodologies.
 
->     “(c) __Verification of Effective Implementation.—__ 
+>     “(c)  __Verification of Effective Implementation__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics, in coordination with the Chief Information Officer of the Department of Defense, shall—
 
@@ -113,7 +113,7 @@
 
 >         “(2) identify and promote best practices, tools, and standards for developing and validating assured software for the Department of Defense.
 
->     “(d) __Briefing on Additional Means of Improving Software Assurance.—__ 
+>     “(d)  __Briefing on Additional Means of Improving Software Assurance__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary for Acquisition, Technology, and Logistics shall, in coordination with the Chief Information Officer of the Department of Defense, provide to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a briefing on the following:
 
@@ -123,11 +123,11 @@
 
 >         “(3) How the Department might hold contractors liable for software defects or vulnerabilities.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Covered system.—__ 
+>         “(1)  __Covered system__  __.—__ 
 
 >         The term ‘covered system’ means any Department of Defense critical information, business, or weapons system that is—
 
@@ -137,7 +137,7 @@
 
 >             “(C) a Department of Defense information system categorized as Mission Assurance Category I in Department of Defense Directive 8500.01E that is funded by the Department of Defense.
 
->         “(2) __Software assurance.—__ 
+>         “(2)  __Software assurance__  __.—__ 
 
 >         The term ‘software assurance’ means the level of confidence that software functions as intended and is free of vulnerabilities, either intentionally or unintentionally designed or inserted as part of the software, throughout the life cycle.”
 
@@ -145,17 +145,17 @@
 
 [Pub. L. 112–239, div. A, title IX, § 941][/us/pl/112/239/s941], Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], provided that:
 
->     “(a) __Procedures for Reporting Penetrations.—__ 
+>     “(a)  __Procedures for Reporting Penetrations__  __.—__ 
 
 >     The Secretary of Defense shall establish procedures that require each cleared defense contractor to report to a component of the Department of Defense designated by the Secretary for purposes of such procedures when a network or information system of such contractor that meets the criteria established pursuant to subsection (b) is successfully penetrated.
 
->     “(b) __Networks and Information Systems Subject to Reporting.—__ 
+>     “(b)  __Networks and Information Systems Subject to Reporting__  __.—__ 
 
->         “(1) __Criteria.—__ 
+>         “(1)  __Criteria__  __.—__ 
 
 >         The Secretary of Defense shall designate a senior official to, in consultation with the officials specified in paragraph (2), establish criteria for covered networks to be subject to the procedures for reporting system penetrations under subsection (a).
 
->         “(2) __Officials.—__ 
+>         “(2)  __Officials__  __.—__ 
 
 >         The officials specified in this subsection are the following:
 
@@ -169,9 +169,9 @@
 
 >             “(E) The Commander of the United States Cyber Command.
 
->     “(c) __Procedure Requirements.—__ 
+>     “(c)  __Procedure Requirements__  __.—__ 
 
->         “(1) __Rapid reporting.—__ 
+>         “(1)  __Rapid reporting__  __.—__ 
 
 >         The procedures established pursuant to subsection (a) shall require each cleared defense contractor to rapidly report to a component of the Department of Defense designated pursuant to subsection (a) of each successful penetration of the network or information systems of such contractor that meet the criteria established pursuant to subsection (b). Each such report shall include the following:
 
@@ -181,7 +181,7 @@
 
 >             “(C) A summary of information created by or for the Department in connection with any Department program that has been potentially compromised due to such penetration.
 
->         “(2) __Access to equipment and information by department of defense personnel.—__ 
+>         “(2)  __Access to equipment and information by department of defense personnel__  __.—__ 
 
 >         The procedures established pursuant to subsection (a) shall—
 
@@ -191,13 +191,13 @@
 
 >             “(C) provide for the reasonable protection of trade secrets, commercial or financial information, and information that can be used to identify a specific person.
 
->         “(3) __Limitation on dissemination of certain information.—__ 
+>         “(3)  __Limitation on dissemination of certain information__  __.—__ 
 
 >         The procedures established pursuant to subsection (a) shall prohibit the dissemination outside the Department of Defense of information obtained or derived through such procedures that is not created by or for the Department except with the approval of the contractor providing such information.
 
->     “(d) __Issuance of Procedures and Establishment of Criteria.—__ 
+>     “(d)  __Issuance of Procedures and Establishment of Criteria__  __.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\]—
 
@@ -205,19 +205,19 @@
 
 >             “(B) the senior official designated under subsection (b)(1) shall establish the criteria required under such subsection.
 
->         “(2) __Applicability date.—__ 
+>         “(2)  __Applicability date__  __.—__ 
 
 >         The requirements of this section shall apply on the date on which the Secretary of Defense establishes the procedures required under this section.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Cleared defense contractor.—__ 
+>         “(1)  __Cleared defense contractor__  __.—__ 
 
 >         The term ‘cleared defense contractor’ means a private entity granted clearance by the Department of Defense to access, receive, or store classified information for the purpose of bidding for a contract or conducting activities in support of any program of the Department of Defense.
 
->         “(2) __Covered network.—__ 
+>         “(2)  __Covered network__  __.—__ 
 
 >         The term ‘covered network’ means a network or information system of a cleared defense contractor that contains or processes information created by or for the Department of Defense with respect to which such contractor is required to apply enhanced protection.”
 
@@ -225,11 +225,11 @@
 
 [Pub. L. 112–81, div. A, title IX, § 922][/us/pl/112/81/s922], Dec. 31, 2011, [125 Stat. 1537][/us/stat/125/1537], provided that:
 
->     “(a) __Program Required.—__ 
+>     “(a)  __Program Required__  __.—__ 
 
 >     The Secretary of Defense shall establish a program for information sharing protection and insider threat mitigation for the information systems of the Department of Defense to detect unauthorized access to, use of, or transmission of classified or controlled unclassified information.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The program established under subsection (a) shall include the following:
 
@@ -277,7 +277,7 @@
 
 >         “(7) A plan for enforcement to ensure that the program is being applied and implemented on a uniform and consistent basis.
 
->     “(c) __Operating Capability.—__ 
+>     “(c)  __Operating Capability__  __.—__ 
 
 >     The Secretary shall ensure the program established under subsection (a)—
 
@@ -285,7 +285,7 @@
 
 >         “(2) achieves full operating capability not later than October 1, 2013.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes—
 
@@ -299,7 +299,7 @@
 
 >         “(5) a description of any other issues related to such implementation that the Secretary considers appropriate.
 
->     “(e) __Briefing Requirement.—__ 
+>     “(e)  __Briefing Requirement__  __.—__ 
 
 >     The Secretary shall provide briefings to the Committees on Armed Services of the House of Representatives and the Senate as follows:
 
@@ -309,7 +309,7 @@
 
 >         “(3) Not later than 180 days after the date of the enactment of this Act, a briefing detailing the policies and procedures referred to in subsection (b)(2), including an assessment of the effectiveness of such policies and procedures and an assessment of the potential impact of such policies and procedures on information sharing within the Department of Defense and with interagency and international partners.
 
->     “(f) __Budget Submission.—__ 
+>     “(f)  __Budget Submission__  __.—__ 
 
 >     On the date on which the President submits to Congress the budget under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, for each of fiscal years 2014 through 2019, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an identification of the resources requested in such budget to carry out the program established under subsection (a).”
 
@@ -317,13 +317,13 @@
 
 [Pub. L. 112–81, div. A, title IX, § 953][/us/pl/112/81/s953], Dec. 31, 2011, [125 Stat. 1550][/us/stat/125/1550], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall develop and implement a plan to augment the cybersecurity strategy of the Department of Defense through the acquisition of advanced capabilities to discover and isolate penetrations and attacks that were previously unknown and for which signatures have not been developed for incorporation into computer intrusion detection and prevention systems and anti-virus software systems.
 
 >     “(b) __Capabilities.—__ 
 
->         “(1) __Nature of capabilities.—__ 
+>         “(1)  __Nature of capabilities__  __.—__ 
 
 >         The capabilities to be acquired under the plan required by subsection (a) shall—
 
@@ -359,19 +359,19 @@
 
 >             “(E) include the behavior-based threat detection capabilities of Tier 1 Internet Service Providers and other companies that operate on the global Internet.
 
->         “(2) __Source of capabilities.—__ 
+>         “(2)  __Source of capabilities__  __.—__ 
 
 >         The capabilities to be acquired shall, to the maximum extent practicable, be acquired from commercial sources. In making decisions on the procurement of such capabilities from among competing commercial and Government providers, the Secretary shall take into consideration the needs of other departments and agencies of the Federal Government, State and local governments, and critical infrastructure owned and operated by the private sector for unclassified, affordable, and sustainable commercial solutions.
 
->     “(c) __Integration and Management of Discovery Capabilities.—__ 
+>     “(c)  __Integration and Management of Discovery Capabilities__  __.—__ 
 
 >     The plan required by subsection (a) shall include mechanisms for improving the standardization, organization, and management of the security information and event management systems that are widely deployed across the Department of Defense to improve the ability of United States Cyber Command to understand and control the status and condition of Department networks, including mechanisms to ensure that the security information and event management systems of the Department receive and correlate data collected and analyses conducted at the host or endpoint, at the network gateways, and by Internet Service Providers in order to discover new attacks reliably and rapidly.
 
->     “(d) __Provision for Capability Demonstrations.—__ 
+>     “(d)  __Provision for Capability Demonstrations__  __.—__ 
 
 >     The plan required by subsection (a) shall provide for the conduct of demonstrations, pilot projects, and other tests on cyber test ranges and operational networks in order to determine and verify that the capabilities to be acquired pursuant to the plan are effective, practical, and affordable.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than April 1, 2012, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the plan required by subsection (a). The report shall set forth the plan and include a comprehensive description of the actions being undertaken by the Department to implement the plan.”
 
@@ -379,11 +379,11 @@
 
 [Pub. L. 111–383, div. A, title IX, § 932][/us/pl/111/383/s932], Jan. 7, 2011, [124 Stat. 4335][/us/stat/124/4335], provided that:
 
->     “(a) __Strategy Required.—__ 
+>     “(a)  __Strategy Required__  __.—__ 
 
 >     The Secretary of Defense shall develop and implement, by not later than October 1, 2011, a strategy for assuring the security of software and software-based applications for all covered systems.
 
->     “(b) __Covered Systems.—__ 
+>     “(b)  __Covered Systems__  __.—__ 
 
 >     For purposes of this section, a covered system is any critical information system or weapon system of the Department of Defense, including the following:
 
@@ -395,7 +395,7 @@
 
 >         “(4) Any Department of Defense information system categorized as Mission Assurance Category II in accordance with Department of Defense Directive 8500.01E.
 
->     “(c) __Elements.—__ 
+>     “(c)  __Elements__  __.—__ 
 
 >     The strategy required by subsection (a) shall include the following:
 
@@ -447,7 +447,7 @@
 
 >         “(7) A funding mechanism for remediation of critical software assurance vulnerabilities in legacy systems.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than October 1, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the strategy required by subsection (a). The report shall include the following:
 
@@ -459,11 +459,11 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 921\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–233, provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall establish an Institute for Defense Computer Security and Information Protection.
 
->     “(b) __Mission.—__ 
+>     “(b)  __Mission__  __.—__ 
 
 >     The Secretary shall require the institute—
 
@@ -471,15 +471,15 @@
 
 >         “(2) to facilitate the exchange of information regarding cyberthreats, technology, tools, and other relevant issues.
 
->     “(c) __Contractor Operation.—__ 
+>     “(c)  __Contractor Operation__  __.—__ 
 
 >     The Secretary shall enter into a contract with a not-for-profit entity, or a consortium of not-for-profit entities, to organize and operate the institute. The Secretary shall use competitive procedures for the selection of the contractor to the extent determined necessary by the Secretary.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     Of the amount authorized to be appropriated by section 301(5) \[[114 Stat. 1654][/us/stat/114/1654]A–52\], $5,000,000 shall be available for the Institute for Defense Computer Security and Information Protection.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than April 1, 2001, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the Secretary’s plan for implementing this section.”
 

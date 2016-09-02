@@ -395,11 +395,11 @@ In subsection (a)(2)(A), the words “service that conformed to required standar
 
 Section 531(b), (c) of [Pub. L. 104–201][/us/pl/104/201] provided that:
 
->     “(b) __Tracking System for Award of Retirement Points.—__ 
+>     “(b)  __Tracking System for Award of Retirement Points__  __.—__ 
 
 >     To better enable the Secretary of Defense and Congress to assess the cost and the effect on readiness of the amendment made by subsection (a) \[amending [section 12733 of this title][/us/usc/t10/s12733]\] and of other potential changes to the Reserve retirement system under chapter 1223 of title 10, United States Code, the Secretary of Defense shall require the Secretary of each military department to implement a system to monitor the award of retirement points for purposes of that chapter by categories in accordance with the recommendation set forth in the August 1988 report of the Sixth Quadrennial Review of Military Compensation.
 
->     “(c) __Recommendations to Congress.—__ 
+>     “(c)  __Recommendations to Congress__  __.—__ 
 
 >     The Secretary shall submit to Congress, not later than one year after the date of the enactment of this Act \[Sept. 23, 1996\], the recommendations of the Secretary with regard to the adoption of the following Reserve retirement initiatives recommended in the August 1988 report of the Sixth Quadrennial Review of Military Compensation:
 

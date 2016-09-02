@@ -15,13 +15,13 @@
 
 ## § 12310. Reserves: for organizing, administering, etc., reserve components
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
         (1) The Secretary concerned may order a member of a reserve component under the Secretary’s jurisdiction to active duty pursuant to [section 12301(d) of this title][/us/usc/t10/s12301/d] to perform Active Guard and Reserve duty organizing, administering, recruiting, instructing, or training the reserve components.
 
         (2) A Reserve ordered to active duty under paragraph (1) shall be ordered in the Reserve’s reserve grade. While so serving, the Reserve continues to be eligible for promotion as a Reserve, if otherwise qualified.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     A Reserve on active duty under subsection (a) may perform the following additional duties to the extent that the performance of those duties does not interfere with the performance of the Reserve’s primary Active Guard and Reserve duties described in subsection (a)(1):
 
@@ -55,7 +55,7 @@
 
             (D) Department of Defense civilian employees.
 
-    (c) __Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks.—__ 
+    (c)  __Operations Relating to Defense Against Weapons of Mass Destruction and Terrorist Attacks__  __.—__ 
 
         (1)
 
@@ -87,7 +87,7 @@
 
         (7) In this subsection, the term “United States” includes the Commonwealth of Puerto Rico, Guam, and the Virgin Islands.
 
-    (d) __Training.—__ 
+    (d)  __Training__  __.—__ 
 
     A Reserve on active duty as described in subsection (a) may be provided training consistent with training provided to other members on active duty, as the Secretary concerned sees fit.
 
@@ -217,7 +217,7 @@ July 9, 1952, ch. 608, § 234, (less 1st sentence), 66 Stat. 490.  </td>
 
 [Pub. L. 107–314, div. A, title XIV, § 1403][/us/pl/107/314/s1403], Dec. 2, 2002, [116 Stat. 2676][/us/stat/116/2676], as amended by [Pub. L. 112–239, div. A, title XIV, § 1435(a)][/us/pl/112/239/s1435/a], Jan. 2, 2013, [126 Stat. 2051][/us/stat/126/2051], provided that:
 
->     “(a) __Establishment of Additional Teams.—__ 
+>     “(a)  __Establishment of Additional Teams__  __.—__ 
 
 >     The Secretary of Defense shall—
 
@@ -225,7 +225,7 @@ July 9, 1952, ch. 608, § 234, (less 1st sentence), 66 Stat. 490.  </td>
 
 >         “(2) ensure that of such 55 teams, there is at least one team established in each State and territory.
 
->     “(b) __Establishment of Further Additional Teams.—__ 
+>     “(b)  __Establishment of Further Additional Teams__  __.—__ 
 
 >     The Secretary of Defense is authorized to have established two additional teams designated as Weapons of Mass Destruction Civil Support Teams, beyond the 55 teams required in subsection (a), if—
 
@@ -233,7 +233,7 @@ July 9, 1952, ch. 608, § 234, (less 1st sentence), 66 Stat. 490.  </td>
 
 >         “(2) the establishment of such additional teams does not require an increase in authorized personnel levels above the numbers authorized as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[[Pub. L. 112–239][/us/pl/112/239], approved Jan. 2, 2013\].
 
->     “(c) __Limitation of Establishment of Further Teams.—__ 
+>     “(c)  __Limitation of Establishment of Further Teams__  __.—__ 
 
 >     No Weapons of Mass Destruction Civil Support Team may be established beyond the number authorized by subsections (a) and (b) unless—
 
@@ -241,11 +241,11 @@ July 9, 1952, ch. 608, § 234, (less 1st sentence), 66 Stat. 490.  </td>
 
 >         “(2) the establishment of such team is specifically authorized by a law enacted after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2013.
 
->     “(d) __Notification of Disestablishment of Teams.—__ 
+>     “(d)  __Notification of Disestablishment of Teams__  __.—__ 
 
 >     No Weapons of Mass Destruction Civil Support Team established pursuant to this section may be disestablished unless, by not later than 90 days before the date on which such team is disestablished, the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notice of the proposed disestablishment of the team and the date on which the disestablishment is proposed to take place.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

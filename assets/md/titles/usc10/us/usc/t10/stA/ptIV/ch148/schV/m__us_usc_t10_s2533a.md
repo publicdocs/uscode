@@ -15,11 +15,11 @@
 
 ## § 2533a. Requirement to buy certain articles from American sources; exceptions
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     Except as provided in subsections (c) through (h), funds appropriated or otherwise available to the Department of Defense may not be used for the procurement of an item described in subsection (b) if the item is not grown, reprocessed, reused, or produced in the United States.
 
-    (b) __Covered Items.—__ 
+    (b)  __Covered Items__  __.—__ 
 
     An item referred to in subsection (a) is any of the following:
 
@@ -39,11 +39,11 @@
 
         (2) Hand or measuring tools.
 
-    (c) __Availability Exception.—__ 
+    (c)  __Availability Exception__  __.—__ 
 
     Subsection (a) does not apply to the extent that the Secretary of Defense or the Secretary of the military department concerned determines that satisfactory quality and sufficient quantity of any such article or item described in subsection (b) grown, reprocessed, reused, or produced in the United States cannot be procured as and when needed at United States market prices.
 
-    (d) __Exception for Certain Procurements.—__ 
+    (d)  __Exception for Certain Procurements__  __.—__ 
 
     Subsection (a) does not apply to the following:
 
@@ -55,7 +55,7 @@
 
         (4) Procurements of any item listed in subsection (b)(1)(A) or (b)(2) for which the use of procedures other than competitive procedures has been approved on the basis of [section 2304(c)(2) of this title][/us/usc/t10/s2304/c/2], relating to unusual and compelling urgency of need.
 
-    (e) __Exception for Chemical Warfare Protective Clothing.—__ 
+    (e)  __Exception for Chemical Warfare Protective Clothing__  __.—__ 
 
     Subsection (a) does not preclude the procurement of chemical warfare protective clothing produced outside the United States if—
 
@@ -69,7 +69,7 @@
 
         (2) any such agreement with a foreign government complies, where applicable, with the requirements of section 36 of the Arms Export Control Act ([22 U.S.C. 2776][/us/usc/t22/s2776]) and with [section 2457 of this title][/us/usc/t10/s2457].
 
-    (f) __Exceptions for Certain Other Commodities and Items.—__ 
+    (f)  __Exceptions for Certain Other Commodities and Items__  __.—__ 
 
     Subsection (a) does not preclude the procurement of the following:
 
@@ -77,23 +77,23 @@
 
         (2) Waste and byproducts of cotton and wool fiber for use in the production of propellants and explosives.
 
-    (g) __Exception for Commissaries, Exchanges, and Other Nonappropriated Fund Instrumentalities.—__ 
+    (g)  __Exception for Commissaries, Exchanges, and Other Nonappropriated Fund Instrumentalities__  __.—__ 
 
     Subsection (a) does not apply to items purchased for resale purposes in commissaries, exchanges, or nonappropriated fund instrumentalities operated by the Department of Defense.
 
-    (h) __Exception for Small Purchases.—__ 
+    (h)  __Exception for Small Purchases__  __.—__ 
 
     Subsection (a) does not apply to purchases for amounts not greater than the simplified acquisition threshold referred to in [section 2304(g) of this title][/us/usc/t10/s2304/g].
 
-    (i) __Applicability to Contracts and Subcontracts for Procurement of Commercial Items.—__ 
+    (i)  __Applicability to Contracts and Subcontracts for Procurement of Commercial Items__  __.—__ 
 
     This section is applicable to contracts and subcontracts for the procurement of commercial items notwithstanding [section 1906 of title 41][/us/usc/t41/s1906].
 
-    (j) __Geographic Coverage.—__ 
+    (j)  __Geographic Coverage__  __.—__ 
 
     In this section, the term “United States” includes the possessions of the United States.
 
-    (k) __Notification Required Within 7 Days After Contract Award If Certain Exceptions Applied.—__ 
+    (k)  __Notification Required Within__  __7__  __Days After Contract Award If Certain Exceptions Applied__  __.—__ 
 
     In the case of any contract for the procurement of an item described in subparagraph (B), (C), (D), or (E) of subsection (b)(1), if the Secretary of Defense or of the military department concerned applies an exception set forth in subsection (c) or (e) with respect to that contract, the Secretary shall, not later than 7 days after the award of the contract, post a notification that the exception has been applied on the Internet site maintained by the General Services Administration known as FedBizOpps.gov (or any successor site).
 
@@ -153,7 +153,7 @@
 
 [Pub. L. 110–181, div. A, title VIII, § 829][/us/pl/110/181/s829], Jan. 28, 2008, [122 Stat. 229][/us/stat/122/229], as amended by [Pub. L. 111–383, div. A, title VIII, § 821(a)][/us/pl/111/383/s821/a], Jan. 7, 2011, [124 Stat. 4267][/us/stat/124/4267]; [Pub. L. 112–81, div. A, title VIII, § 822][/us/pl/112/81/s822], Dec. 31, 2011, [125 Stat. 1502][/us/stat/125/1502], provided that:
 
->     “(a) __Authority To Procure.—__ 
+>     “(a)  __Authority To Procure__  __.—__ 
 
 >     The Secretary of Defense may procure fire resistant rayon fiber for the production of uniforms that is manufactured in a foreign country referred to in subsection (d) if the Secretary determines either of the following:
 
@@ -167,15 +167,15 @@
 
 >             “(B) such sole-source contracts or subcontracts would not be in the best interests of the Government or consistent with the objectives of [section 2304 of title 10][/us/usc/t10/s2304], United States Code.
 
->     “(b) __Submission to Congress.—__ 
+>     “(b)  __Submission to Congress__  __.—__ 
 
 >     Not later than 30 days after making a determination under subsection (a), the Secretary shall submit to Congress a copy of the determination.
 
->     “(c) __Applicability to Subcontracts.—__ 
+>     “(c)  __Applicability to Subcontracts__  __.—__ 
 
 >     The authority under subsection (a) applies with respect to subcontracts under Department of Defense contracts as well as to such contracts.
 
->     “(d) __Foreign Countries Covered.—__ 
+>     “(d)  __Foreign Countries Covered__  __.—__ 
 
 >     The authority under subsection (a) applies with respect to a foreign country that—
 
@@ -183,7 +183,7 @@
 
 >         “(2) does not discriminate against defense items produced in the United States to a greater degree than the United States discriminates against defense items produced in that country.
 
->     “(e) __National Technology and Industrial Base Defined.—__ 
+>     “(e)  __National Technology and Industrial Base Defined__  __.—__ 
 
 >     In this section, the term ‘national technology and industrial base’ has the meaning given that term in [section 2500 of title 10][/us/usc/t10/s2500], United States Code.”
 
@@ -191,11 +191,11 @@
 
 [Pub. L. 109–163, div. A, title VIII, § 832][/us/pl/109/163/s832], Jan. 6, 2006, [119 Stat. 3388][/us/stat/119/3388], provided that:
 
->     “(a) __Training During Fiscal Year 2006.—__ 
+>     “(a)  __Training During Fiscal Year__  __2006.—__ 
 
 >     The Secretary of Defense shall ensure that each member of the defense acquisition workforce who participates personally and substantially in the acquisition of textiles on a regular basis receives training during fiscal year 2006 on the requirements of [section 2533a of title 10][/us/usc/t10/s2533a], United States Code (commonly referred to as the ‘Berry Amendment’), and the regulations implementing that section.
 
->     “(b) __Inclusion of Information in New Training Programs.—__ 
+>     “(b)  __Inclusion of Information in New Training Programs__  __.—__ 
 
 >     The Secretary shall ensure that any training program developed or implemented after the date of the enactment of this Act \[Jan. 6, 2006\] for members of the defense acquisition workforce who participate personally and substantially in the acquisition of textiles on a regular basis includes comprehensive information on the requirements described in subsection (a).”
 

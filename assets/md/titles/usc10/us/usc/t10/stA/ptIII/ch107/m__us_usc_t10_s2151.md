@@ -15,7 +15,7 @@
 
 ## § 2151. Definitions
 
-    (a) __Joint Professional Military Education.—__ 
+    (a)  __Joint Professional Military Education__  __.—__ 
 
     Joint professional military education consists of the rigorous and thorough instruction and examination of officers of the armed forces in an environment designed to promote a theoretical and practical in-depth understanding of joint matters and, specifically, of the subject matter covered. The subject matter to be covered by joint professional military education shall include at least the following:
 
@@ -31,7 +31,7 @@
 
         (6) Operational contract support.
 
-    (b) __Other Definitions.—__ 
+    (b)  __Other Definitions__  __.—__ 
 
     In this chapter:
 

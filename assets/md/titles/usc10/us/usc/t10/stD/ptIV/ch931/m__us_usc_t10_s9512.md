@@ -15,7 +15,7 @@
 
 ## § 9512. Contracts for the inclusion or incorporation of defense features
 
-    (a) __Authority to Contract.—__ 
+    (a)  __Authority to Contract__  __.—__ 
 
     Subject to the provisions of chapter 137 of this title, and to the extent that funds are otherwise available for obligation, the Secretary—
 
@@ -23,7 +23,7 @@
 
         (2) may contract with United States aircraft manufacturers for the inclusion or incorporation of defense features in new aircraft to be operated by a United States air carrier.
 
-    (b) __Commitment to Civil Reserve Air Fleet.—__ 
+    (b)  __Commitment to Civil Reserve Air Fleet__  __.—__ 
 
     Each contract entered into under this section shall provide—
 
@@ -33,7 +33,7 @@
 
         (3) that the contractor operating the aircraft for the Department of Defense shall be paid for that operation at fair and reasonable rates.
 
-    (c) __Terms and Required Repayment.—__ 
+    (c)  __Terms and Required Repayment__  __.—__ 
 
     Each contract entered into under subsection (a) shall include a provision that requires the contractor to repay to the United States a percentage (to be established in the contract) of any amount paid by the United States to the contractor under the contract with respect to any aircraft if—
 
@@ -45,7 +45,7 @@
 
         (4) the registration of the aircraft under [section 44103 of title 49][/us/usc/t49/s44103] is terminated for any reason not beyond the control of the contractor.
 
-    (d) __Authority To Contract and Pay Directly.—__ 
+    (d)  __Authority To Contract and Pay Directly__  __.—__ 
 
         (1)
 
@@ -57,7 +57,7 @@
 
         (2) A contract entered into pursuant to paragraph (1) may include such specifications for work and equipment as the Secretary considers necessary to meet the needs of the United States.
 
-    (e) __Exclusivity of Commitment to Civil Reserve Air Fleet.—__ 
+    (e)  __Exclusivity of Commitment to Civil Reserve Air Fleet__  __.—__ 
 
     Notwithstanding section 101 of the Defense Production Act of 1950 (50 U.S.C. App. 2071), each aircraft covered by a contract entered into under this section shall be committed exclusively to the Civil Reserve Air Fleet for use by the Department of Defense as needed during any activation of the Civil Reserve Air Fleet unless the aircraft is released from that use by the Secretary of Defense.
 

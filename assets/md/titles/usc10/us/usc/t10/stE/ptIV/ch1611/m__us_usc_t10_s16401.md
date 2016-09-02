@@ -15,7 +15,7 @@
 
 ## § 16401. Marine Corps Platoon Leaders Class: college tuition assistance program
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of the Navy may provide financial assistance to an eligible member of the Marine Corps Reserve for expenses of the member while the member is pursuing on a full-time basis at an institution of higher education a program of education approved by the Secretary that leads to—
 
@@ -23,7 +23,7 @@
 
         (2) a doctor of jurisprudence or bachelor of laws degree in not more than four academic years.
 
-    (b) __Eligibility.—__ 
+    (b)  __Eligibility__  __.—__ 
 
         (1)
 
@@ -45,7 +45,7 @@
 
             (C) under such terms and conditions as shall be prescribed by the Secretary, to serve in the Marine Corps Reserve until the eighth anniversary of the date of the appointment.
 
-    (c) __Covered Expenses.—__ 
+    (c)  __Covered Expenses__  __.—__ 
 
     Expenses for which financial assistance may be provided under this section are—
 
@@ -55,17 +55,17 @@
 
         (3) in the case of a program of education leading to a baccalaureate degree, laboratory expenses.
 
-    (d) __Amount.—__ 
+    (d)  __Amount__  __.—__ 
 
     The amount of financial assistance provided to a member under this section shall be prescribed by the Secretary, but may not exceed $5,200 for any academic year.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
         (1) Financial assistance may be provided to a member under this section only for three consecutive academic years.
 
         (2) Not more than 1,200 members may participate in the financial assistance program under this section in any academic year.
 
-    (f) __Failure To Complete Program.—__ 
+    (f)  __Failure To Complete Program__  __.—__ 
 
         (1)
 
@@ -87,7 +87,7 @@
 
             (C) fails to complete the military or academic requirements of the Marine Corps Platoon Leaders Class program due to a circumstance not within the control of the person.
 
-    (g) __Institution of Higher Education Defined.—__ 
+    (g)  __Institution of Higher Education Defined__  __.—__ 
 
     In this section, the term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 ([20 U.S.C. 1001][/us/usc/t20/s1001]).
 

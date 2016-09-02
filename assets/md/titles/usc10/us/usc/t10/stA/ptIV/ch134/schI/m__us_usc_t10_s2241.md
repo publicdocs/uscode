@@ -15,7 +15,7 @@
 
 ## § 2241. Availability of appropriations for certain purposes
 
-    (a) __Operation and Maintenance Appropriations.—__ 
+    (a)  __Operation and Maintenance Appropriations__  __.—__ 
 
     Amounts appropriated to the Department of Defense for operation and maintenance of the active forces may be used for the following purposes:
 
@@ -33,11 +33,11 @@
 
         (7) Expenses for the Reserve Officers’ Training Corps and other units at educational institutions.
 
-    (b) __Necessary Expenses.—__ 
+    (b)  __Necessary Expenses__  __.—__ 
 
     Amounts appropriated to the Department of Defense may be used for all necessary expenses, at the seat of the Government or elsewhere, in connection with communication and other services and supplies that may be necessary for the national defense.
 
-    (c) __Activities of the National Committee for Employer Support of the Guard and Reserve.—__ 
+    (c)  __Activities of the National Committee for Employer Support of the Guard and Reserve__  __.—__ 
 
     Amounts appropriated for operation and maintenance may, under regulations prescribed by the Secretary of Defense, be used by the Secretary for official reception, representation, and advertising activities and materials of the National Committee for Employer Support of the Guard and Reserve to further employer commitments to their employees who are members of a reserve component.
 
@@ -61,11 +61,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 216, Oct. 14, 2008, [122 Stat. 4387][/us/stat/122/4387], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     Of the amounts appropriated pursuant to an authorization of appropriations in this Act \[see Tables for classification\] or otherwise made available for fiscal year 2009 or any fiscal year thereafter for the Army or the Air Force, the Secretary of the Army and the Secretary of the Air Force may fund relevant expenditures for the Joint Cargo Aircraft only through amounts made available for procurement or for research, development, test, and evaluation.
 
->     “(b) __Relevant Expenditures for the Joint Cargo Aircraft Defined.—__ 
+>     “(b)  __Relevant Expenditures for the Joint Cargo Aircraft Defined__  __.—__ 
 
 >     In this section, the term ‘relevant expenditures for the Joint Cargo Aircraft’ means expenditures relating to—
 
@@ -83,19 +83,19 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1056, Oct. 14, 2008, [122 Stat. 4610][/us/stat/122/4610], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     No part of any funds authorized to be appropriated in this or any other Act shall be used by the Department of Defense for publicity or propaganda purposes within the United States not otherwise specifically authorized by law.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Inspector General of the Department of Defense shall submit to Congress a report on the findings of their project number D2008–DIPOEF–0209.000, entitled ‘Examination of Allegations Involving DoD Office of Public Affairs Outreach Program’.
 
->     “(c) __Legal Opinion.—__ 
+>     “(c)  __Legal Opinion__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act, the Comptroller General of the United States shall issue a legal opinion to Congress on whether the Department of Defense violated appropriations prohibitions on publicity or propaganda activities established in Public Laws 107–117, 107–248, 108–87, 108–287, 109–148, 109–289, and 110–116, the Department of Defense Appropriations Acts for fiscal years 2002 through 2008, respectively, by offering special access to prominent persons in the private sector who serve as media analysts, including briefings and information on war efforts, meetings with high level government officials, and trips to Iraq and Guantanamo Bay, Cuba.
 
->     “(d) __Rule of Construction Related to Intelligence Activities.—__ 
+>     “(d)  __Rule of Construction Related to Intelligence Activities__  __.—__ 
 
 >     Nothing in this section shall be construed to apply to any lawful and authorized intelligence activity of the United States Government.”
 
@@ -133,11 +133,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 108–136, div. A, title X, § 1007][/us/pl/108/136/s1007], Nov. 24, 2003, [117 Stat. 1585][/us/stat/117/1585], provided that:
 
->     “(a) __Costs of Goods and Services Provided to Department of State.—__ 
+>     “(a)  __Costs of Goods and Services Provided to Department of State__  __.—__ 
 
 >     Funds appropriated for the Department of Defense may be transferred to the Department of State as remittance for a fee charged to the Department of Defense by the Department of State for any year for the maintenance, upgrade, or construction of United States diplomatic facilities only to the extent that the amount charged (when added to other amounts previously so charged for that fiscal year) exceeds the total amount of the unreimbursed costs incurred by the Department of Defense during that year in providing goods and services to the Department of State.
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) shall take effect as of October 1, 2003.”
 
@@ -145,7 +145,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 108–7, div. M, § 111][/us/pl/108/7/s111], Feb. 20, 2003, [117 Stat. 534][/us/stat/117/534], provided that:
 
->     “(a) __Limitation on Use of Funds for Research and Development on Total Information Awareness Program.—__ 
+>     “(a)  __Limitation on Use of Funds for Research and Development on Total Information Awareness Program__  __.—__ 
 
 >     Notwithstanding any other provision of law, commencing 90 days after the date of the enactment of this Act \[Feb. 20, 2003\], no funds appropriated or otherwise made available to the Department of Defense, whether to an element of the Defense Advanced Research Projects Agency or any other element, or to any other department, agency, or element of the Federal Government, may be obligated or expended on research and development on the Total Information Awareness program unless—
 
@@ -159,7 +159,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) the cessation of research and development on the Total Information Awareness program would endanger the national security of the United States.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The report described in this subsection is a report, in writing, of the Secretary of Defense, the Attorney General, and the Director of Central Intelligence, acting jointly, that—
 
@@ -181,7 +181,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(5) includes recommendations, endorsed by the Attorney General, for practices, procedures, regulations, or legislation on the deployment, implementation, or use of the Total Information Awareness program to eliminate or minimize adverse effects of such program on privacy and other civil liberties.
 
->     “(c) __Limitation on Deployment of Total Information Awareness Program.—__ 
+>     “(c)  __Limitation on Deployment of Total Information Awareness Program__  __.—__ 
 
 >         (1)
 
@@ -211,7 +211,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) Lawful foreign intelligence activities conducted wholly against non-United States persons.
 
->     “(d) __Sense of Congress.—__ 
+>     “(d)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -219,11 +219,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) the primary purpose of the Defense Advanced Research Projects Agency is to support the lawful activities of the Department of Defense and the national security programs conducted pursuant to the laws assembled for codification purposes in title 50, United States Code.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Total information awareness program.—__ 
+>         “(1)  __Total information awareness program__  __.—__ 
 
 >         The term ‘Total Information Awareness program’—
 
@@ -231,11 +231,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             “(B) includes a program referred to in subparagraph (1), or a component of such program, that has been transferred from the Defense Advanced Research Projects Agency or another element of the Department of Defense to any other department, agency, or element of the Federal Government.
 
->         “(2) __Non-united states person.—__ 
+>         “(2)  __Non-united states person__  __.—__ 
 
 >         The term ‘non-United States person’ means any person other than a United States person.
 
->         “(3) __United states person.—__ 
+>         “(3)  __United states person__  __.—__ 
 
 >         The term ‘United States person’ has the meaning given that term in section 101(i) of the Foreign Intelligence Surveillance Act of 1978 ([50 U.S.C. 1801(i)][/us/usc/t50/s1801/i]).”
 

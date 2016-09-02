@@ -15,11 +15,11 @@
 
 ## § 1506. Personnel files
 
-    (a) __Information in Files.—__ 
+    (a)  __Information in Files__  __.—__ 
 
     Except as provided in subsections (b), (c), and (d), the Secretary concerned shall, to the maximum extent practicable, ensure that the personnel file of a missing person contains all information in the possession of the United States relating to the disappearance and whereabouts and status of the person.
 
-    (b) __Classified Information.—__ 
+    (b)  __Classified Information__  __.—__ 
 
         (1)
 
@@ -35,11 +35,11 @@
 
             (B) For purposes of subparagraph (A), information shall be considered to be made reasonably accessible if placed in a separate and distinct file that is available for review by persons specified in subparagraph (A) upon the request of any such person either to review the separate file or to review the personnel file of the missing person concerned.
 
-    (c) __Protection of Privacy.—__ 
+    (c)  __Protection of Privacy__  __.—__ 
 
     The Secretary concerned shall maintain personnel files under this section, and shall permit disclosure of or access to such files, in accordance with the provisions of [section 552a of title 5][/us/usc/t5/s552a] and with other applicable laws and regulations pertaining to the privacy of the persons covered by the files.
 
-    (d) __Privileged Information.—__ 
+    (d)  __Privileged Information__  __.—__ 
 
         (1) The Secretary concerned shall withhold from personnel files under this section, as privileged information, debriefing reports provided by missing persons returned to United States control which are obtained under a promise of confidentiality made for the purpose of ensuring the fullest possible disclosure of information.
 
@@ -47,11 +47,11 @@
 
         (3) Whenever the Secretary concerned withholds a debriefing report, or part of a debriefing report, from a personnel file under this subsection, the Secretary shall ensure that the file contains a notice that withheld information exists.
 
-    (e) __Availability of Information.—__ 
+    (e)  __Availability of Information__  __.—__ 
 
     The Secretary concerned shall, upon request, make available the contents of the personnel file of a missing person to the primary next of kin, the other members of the immediate family, or any other previously designated person of the person.
 
-    (f) __Nondisclosure of Certain Information.—__ 
+    (f)  __Nondisclosure of Certain Information__  __.—__ 
 
     A record of the content of a debriefing of a missing person returned to United States control during the period beginning on July 8, 1959, and ending on February 10, 1996, that was conducted by an official of the United States authorized to conduct the debriefing is privileged information and, notwithstanding sections 552 and 552a of title 5, may not be disclosed, in whole or in part, under either such section. However, this subsection does not limit the responsibility of the Secretary concerned under paragraphs (2) and (3) of subsection (d) to place extracts of non-derogatory information, or a notice of the existence of such information, in the personnel file of a missing person.
 

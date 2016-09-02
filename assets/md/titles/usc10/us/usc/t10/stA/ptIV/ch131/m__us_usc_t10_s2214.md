@@ -15,11 +15,11 @@
 
 ## § 2214. Transfer of funds: procedure and limitations
 
-    (a) __Procedure for Transfer of Funds.—__ 
+    (a)  __Procedure for Transfer of Funds__  __.—__ 
 
     Whenever authority is provided in an appropriation Act to transfer amounts in working capital funds or to transfer amounts provided in appropriation Acts for military functions of the Department of Defense (other than military construction) between such funds or appropriations (or any subdivision thereof), amounts transferred under such authority shall be merged with and be available for the same purposes and for the same time period as the fund or appropriations to which transferred.
 
-    (b) __Limitations on Programs for Which Authority May Be Used.—__ 
+    (b)  __Limitations on Programs for Which Authority May Be Used__  __.—__ 
 
     Such authority to transfer amounts—
 
@@ -27,11 +27,11 @@
 
         (2) may not be used if the item to which the funds would be transferred is an item for which Congress has denied funds.
 
-    (c) __Notice to Congress.—__ 
+    (c)  __Notice to Congress__  __.—__ 
 
     The Secretary of Defense shall promptly notify the Congress of each transfer made under such authority to transfer amounts.
 
-    (d) __Limitations on Requests to Congress for Reprogrammings.—__ 
+    (d)  __Limitations on Requests to Congress for Reprogrammings__  __.—__ 
 
     Neither the Secretary of Defense nor the Secretary of a military department may prepare or present to the Congress, or to any committee of either House of the Congress, a request with respect to a reprogramming of funds—
 

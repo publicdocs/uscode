@@ -249,11 +249,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 [Pub. L. 112–239, div. A, title X, § 1025][/us/pl/112/239/s1025], Jan. 2, 2013, [126 Stat. 1913][/us/stat/126/1913], provided that:
 
->     “(a) __Notice Required.—__ 
+>     “(a)  __Notice Required__  __.—__ 
 
 >     The Secretary of Defense shall submit to the appropriate congressional committees notice in writing of the proposed transfer of any individual detained pursuant to the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note) who is a national of a country other than the United States or Afghanistan from detention at the Detention Facility at Parwan, Afghanistan, to the custody of the Government of Afghanistan or of any other country. Such notice shall be provided not later than 10 days before such a transfer may take place.
 
->     “(b) __Assessments Required.—__ 
+>     “(b)  __Assessments Required__  __.—__ 
 
 >     Prior to any transfer referred to under subsection (a), the Secretary shall ensure that an assessment is conducted as follows:
 
@@ -265,7 +265,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(4) In the case of the proposed transfer of such an individual to the custody of the Government of Afghanistan for prosecution or detention, an assessment regarding the capacity, willingness, and historical track record of Afghanistan to prosecute or detain long-term such individuals.
 
->     “(c) __Appropriate Congressional Committees Defined.—__ 
+>     “(c)  __Appropriate Congressional Committees Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives and the Committee on Armed Services and the Committee on Foreign Relations of the Senate.”
 
@@ -275,15 +275,15 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(a) __Certification Required Prior to Transfer.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2) and subsection (d), the Secretary of Defense may not use any amounts authorized to be appropriated or otherwise available to the Department of Defense for fiscal year 2013 to transfer any individual detained at Guantanamo to the custody or control of the individual’s country of origin, any other foreign country, or any other foreign entity unless the Secretary submits to Congress the certification described in subsection (b) not later than 30 days before the transfer of the individual.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraph (1) shall not apply to any action taken by the Secretary to transfer any individual detained at Guantanamo to effectuate an order affecting the disposition of the individual that is issued by a court or competent tribunal of the United States having lawful jurisdiction (which the Secretary shall notify Congress of promptly after issuance).
 
->     “(b) __Certification.—__ 
+>     “(b)  __Certification__  __.—__ 
 
 >     A certification described in this subsection is a written certification made by the Secretary of Defense, with the concurrence of the Secretary of State and in consultation with the Director of National Intelligence, that—
 
@@ -313,17 +313,17 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(c) __Prohibition in Cases of Prior Confirmed Recidivism.—__ 
 
->         “(1) __Prohibition.—__ 
+>         “(1)  __Prohibition__  __.—__ 
 
 >         Except as provided in paragraph (2) and subsection (d), the Secretary of Defense may not use any amounts authorized to be appropriated or otherwise made available to the Department of Defense to transfer any individual detained at Guantanamo to the custody or control of the individual’s country of origin, any other foreign country, or any other foreign entity if there is a confirmed case of any individual who was detained at United States Naval Station, Guantanamo Bay, Cuba, at any time after September 11, 2001, who was transferred to such foreign country or entity and subsequently engaged in any terrorist activity.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraph (1) shall not apply to any action taken by the Secretary to transfer any individual detained at Guantanamo to effectuate an order affecting the disposition of the individual that is issued by a court or competent tribunal of the United States having lawful jurisdiction (which the Secretary shall notify Congress of promptly after issuance).
 
 >     “(d) __National Security Waiver.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense may waive the applicability to a detainee transfer of a certification requirement specified in subparagraph (D) or (E) of subsection (b)(1) or the prohibition in subsection (c), if the Secretary certifies the rest of the criteria required by subsection (b) for transfers prohibited by (c) and, with the concurrence of the Secretary of State and in consultation with the Director of National Intelligence, determines that—
 
@@ -335,7 +335,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(D) the transfer is in the national security interests of the United States.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         Whenever the Secretary makes a determination under paragraph (1), the Secretary shall submit to the appropriate committees of Congress, not later than 30 days before the transfer of the individual concerned, the following:
 
@@ -361,7 +361,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(D) The assessment required by subsection (b)(2).
 
->     “(e) __Record of Cooperation.—__ 
+>     “(e)  __Record of Cooperation__  __.—__ 
 
 >     In assessing the risk that an individual detained at Guantanamo will engage in terrorist activity or other actions that could affect the security of the United States if released for the purpose of making a certification under subsection (b) or a waiver under subsection (d), the Secretary of Defense may give favorable consideration to any such individual—
 
@@ -369,7 +369,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(2) for whom agreements and effective mechanisms are in place, to the extent relevant and necessary, to provide for continued cooperation with United States intelligence and law enforcement authorities.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -407,7 +407,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 [Pub. L. 112–87, title III, § 308][/us/pl/112/87/s308], Jan. 3, 2012, [125 Stat. 1883][/us/stat/125/1883], provided that:
 
->     “(a) __Requirement for Notification.—__ 
+>     “(a)  __Requirement for Notification__  __.—__ 
 
 >     The President shall submit to Congress, in classified form, at least 30 days prior to the transfer or release of an individual detained at Naval Station, Guantanamo Bay, Cuba, as of June 24, 2009, to the country of such individual’s nationality or last habitual residence or to any other foreign country or to a freely associated State the following information:
 
@@ -419,11 +419,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(4) The agencies or departments of the United States responsible for ensuring that the agreement described in paragraph (3) is carried out.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     In this section, the term ‘freely associated States’ means the Federated States of Micronesia, the Republic of the Marshall Islands, and the Republic of Palau.
 
->     “(c) __Construction With Other Requirements.—__ 
+>     “(c)  __Construction With Other Requirements__  __.—__ 
 
 >     Nothing in this section shall be construed to supersede or otherwise affect the following provisions of law:
 
@@ -439,11 +439,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 > “SEC. 1021. __AFFIRMATION OF AUTHORITY OF THE ARMED FORCES OF THE UNITED STATES TO DETAIN COVERED PERSONS PURSUANT TO THE AUTHORIZATION FOR USE OF MILITARY FORCE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Congress affirms that the authority of the President to use all necessary and appropriate force pursuant to the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note) includes the authority for the Armed Forces of the United States to detain covered persons (as defined in subsection (b)) pending disposition under the law of war.
 
->     “(b) __Covered Persons.—__ 
+>     “(b)  __Covered Persons__  __.—__ 
 
 >     A covered person under this section is any person as follows:
 
@@ -451,7 +451,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(2) A person who was a part of or substantially supported al-Qaeda, the Taliban, or associated forces that are engaged in hostilities against the United States or its coalition partners, including any person who has committed a belligerent act or has directly supported such hostilities in aid of such enemy forces.
 
->     “(c) __Disposition Under Law of War.—__ 
+>     “(c)  __Disposition Under Law of War__  __.—__ 
 
 >     The disposition of a person under the law of war as described in subsection (a) may include the following:
 
@@ -463,15 +463,15 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(4) Transfer to the custody or control of the person’s country of origin, any other foreign country, or any other foreign entity.
 
->     “(d) __Construction.—__ 
+>     “(d)  __Construction__  __.—__ 
 
 >     Nothing in this section is intended to limit or expand the authority of the President or the scope of the Authorization for Use of Military Force.
 
->     “(e) __Authorities.—__ 
+>     “(e)  __Authorities__  __.—__ 
 
 >     Nothing in this section shall be construed to affect existing law or authorities relating to the detention of United States citizens, lawful resident aliens of the United States, or any other persons who are captured or arrested in the United States.
 
->     “(f) __Requirement for Briefings of Congress.—__ 
+>     “(f)  __Requirement for Briefings of Congress__  __.—__ 
 
 >     The Secretary of Defense shall regularly brief Congress regarding the application of the authority described in this section, including the organizations, entities, and individuals considered to be ‘covered persons’ for purposes of subsection (b)(2).
 
@@ -479,11 +479,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(a) __Custody Pending Disposition Under Law of War.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (4), the Armed Forces of the United States shall hold a person described in paragraph (2) who is captured in the course of hostilities authorized by the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]) in military custody pending disposition under the law of war.
 
->         “(2) __Covered persons.—__ 
+>         “(2)  __Covered persons__  __.—__ 
 
 >         The requirement in paragraph (1) shall apply to any person whose detention is authorized under section 1021 who is determined—
 
@@ -491,31 +491,31 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) to have participated in the course of planning or carrying out an attack or attempted attack against the United States or its coalition partners.
 
->         “(3) __Disposition under law of war.—__ 
+>         “(3)  __Disposition under law of war__  __.—__ 
 
 >         For purposes of this subsection, the disposition of a person under the law of war has the meaning given in section 1021(c), except that no transfer otherwise described in paragraph (4) of that section shall be made unless consistent with the requirements of section 1028.
 
->         “(4) __Waiver for national security.—__ 
+>         “(4)  __Waiver for national security__  __.—__ 
 
 >         The President may waive the requirement of paragraph (1) if the President submits to Congress a certification in writing that such a waiver is in the national security interests of the United States.
 
 >     “(b) __Applicability to United States Citizens and Lawful Resident Aliens.—__ 
 
->         “(1) __United states citizens.—__ 
+>         “(1)  __United states citizens__  __.—__ 
 
 >         The requirement to detain a person in military custody under this section does not extend to citizens of the United States.
 
->         “(2) __Lawful resident aliens.—__ 
+>         “(2)  __Lawful resident aliens__  __.—__ 
 
 >         The requirement to detain a person in military custody under this section does not extend to a lawful resident alien of the United States on the basis of conduct taking place within the United States, except to the extent permitted by the Constitution of the United States.
 
 >     “(c) __Implementation Procedures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 60 days after the date of the enactment of this Act \[Dec. 31, 2011\], the President shall issue, and submit to Congress, procedures for implementing this section.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The procedures for implementing this section shall include, but not be limited to, procedures as follows:
 
@@ -529,21 +529,21 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(E) Procedures providing that a certification of national security interests under subsection (a)(4) may be granted for the purpose of transferring a covered person from a third country if such a transfer is in the interest of the United States and could not otherwise be accomplished.
 
->     “(d) __Authorities.—__ 
+>     “(d)  __Authorities__  __.—__ 
 
 >     Nothing in this section shall be construed to affect the existing criminal enforcement and national security authorities of the Federal Bureau of Investigation or any other domestic law enforcement agency with regard to a covered person, regardless whether such covered person is held in military custody.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date that is 60 days after the date of the enactment of this Act, and shall apply with respect to persons described in subsection (a)(2) who are taken into the custody or brought under the control of the United States on or after that effective date.
 
 > “SEC. 1023. __PROCEDURES FOR PERIODIC DETENTION REVIEW OF INDIVIDUALS DETAINED AT UNITED STATES NAVAL STATION, GUANTANAMO BAY, CUBA.__ 
 
->     “(a) __Procedures Required.—__ 
+>     “(a)  __Procedures Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth procedures for implementing the periodic review process required by Executive Order No. 13567 \[set out below\] for individuals detained at United States Naval Station, Guantanamo Bay, Cuba, pursuant to the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note).
 
->     “(b) __Covered Matters.—__ 
+>     “(b)  __Covered Matters__  __.—__ 
 
 >     The procedures submitted under subsection (a) shall, at a minimum—
 
@@ -567,7 +567,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(E) any law enforcement interest in the detainee.
 
->     “(c) __Appropriate Committees of Congress Defined.—__ 
+>     “(c)  __Appropriate Committees of Congress Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate committees of Congress’ means—
 
@@ -577,11 +577,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 > “SEC. 1024. __PROCEDURES FOR STATUS DETERMINATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall submit to the appropriate committees of Congress a report setting forth the procedures for determining the status of persons detained pursuant to the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note) for purposes of section 1021.
 
->     “(b) __Elements of Procedures.—__ 
+>     “(b)  __Elements of Procedures__  __.—__ 
 
 >     The procedures required by this section shall provide for the following in the case of any unprivileged enemy belligerent who will be held in long-term detention under the law of war pursuant to the Authorization for Use of Military Force:
 
@@ -589,15 +589,15 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(2) An unprivileged enemy belligerent may, at the election of the belligerent, be represented by military counsel at proceedings for the determination of status of the belligerent.
 
->     “(c) __Applicability.—__ 
+>     “(c)  __Applicability__  __.—__ 
 
 >     The Secretary of Defense is not required to apply the procedures required by this section in the case of a person for whom habeas corpus review is available in a Federal court.
 
->     “(d) __Report on Modification of Procedures.—__ 
+>     “(d)  __Report on Modification of Procedures__  __.—__ 
 
 >     The Secretary of Defense shall submit to the appropriate committees of Congress a report on any modification of the procedures submitted under this section. The report on any such modification shall be so submitted not later than 60 days before the date on which such modification goes into effect.
 
->     “(e) __Appropriate Committees of Congress Defined.—__ 
+>     “(e)  __Appropriate Committees of Congress Defined__  __.—__ 
 
 >     In this section, the term ‘appropriate committees of Congress’ means—
 
@@ -607,11 +607,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 > “SEC. 1025. __REQUIREMENT FOR NATIONAL SECURITY PROTOCOLS GOVERNING DETAINEE COMMUNICATIONS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall develop and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a national security protocol governing communications to and from individuals detained at United States Naval Station, Guantanamo Bay, Cuba, pursuant to the Authorization for Use of Military Force ([Public Law 107–40][/us/pl/107/40]; [50 U.S.C. 1541][/us/usc/t50/s1541] note), and related issues.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     The protocol developed pursuant to subsection (a) shall include Department of Defense policies and procedures regarding each of the following:
 
@@ -629,11 +629,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(4) The measures planned to be taken to implement and enforce the provisions of the protocol.
 
->     “(c) __Updates.—__ 
+>     “(c)  __Updates__  __.—__ 
 
 >     The Secretary of Defense shall notify the congressional defense committees of any significant change to the policies and procedures described in the protocol submitted pursuant to subsection (a) not later than 30 days after such change is made.
 
->     “(d) __Form of Protocol.—__ 
+>     “(d)  __Form of Protocol__  __.—__ 
 
 >     The protocol submitted pursuant to subsection (a) may be submitted in classified form.
 
@@ -641,11 +641,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(a) __Certification Required Prior to Transfer.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2) and subsection (d), the Secretary of Defense may not use any amounts authorized to be appropriated or otherwise available to the Department of Defense for fiscal year 2012 to transfer any individual detained at Guantanamo to the custody or control of the individual’s country of origin, any other foreign country, or any other foreign entity unless the Secretary submits to Congress the certification described in subsection (b) not later than 30 days before the transfer of the individual.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraph (1) shall not apply to any action taken by the Secretary to transfer any individual detained at Guantanamo to effectuate—
 
@@ -653,7 +653,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) a pre-trial agreement entered in a military commission case prior to the date of the enactment of this Act \[Dec. 31, 2011\].
 
->     “(b) __Certification.—__ 
+>     “(b)  __Certification__  __.—__ 
 
 >     A certification described in this subsection is a written certification made by the Secretary of Defense, with the concurrence of the Secretary of State and in consultation with the Director of National Intelligence, that—
 
@@ -683,11 +683,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(c) __Prohibition in Cases of Prior Confirmed Recidivism.—__ 
 
->         “(1) __Prohibition.—__ 
+>         “(1)  __Prohibition__  __.—__ 
 
 >         Except as provided in paragraph (2) and subsection (d), the Secretary of Defense may not use any amounts authorized to be appropriated or otherwise made available to the Department of Defense to transfer any individual detained at Guantanamo to the custody or control of the individual’s country of origin, any other foreign country, or any other foreign entity if there is a confirmed case of any individual who was detained at United States Naval Station, Guantanamo Bay, Cuba, at any time after September 11, 2001, who was transferred to such foreign country or entity and subsequently engaged in any terrorist activity.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Paragraph (1) shall not apply to any action taken by the Secretary to transfer any individual detained at Guantanamo to effectuate—
 
@@ -697,7 +697,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(d) __National Security Waiver.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense may waive the applicability to a detainee transfer of a certification requirement specified in subparagraph (D) or (E) of subsection (b)(1) or the prohibition in subsection (c), if the Secretary certifies the rest of the criteria required by subsection (b) for transfers prohibited by subsection (c) and, with the concurrence of the Secretary of State and in consultation with the Director of National Intelligence, determines that—
 
@@ -709,7 +709,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(D) the transfer is in the national security interests of the United States.
 
->         “(2) __Reports.—__ 
+>         “(2)  __Reports__  __.—__ 
 
 >         Whenever the Secretary makes a determination under paragraph (1), the Secretary shall submit to the appropriate committees of Congress, not later than 30 days before the transfer of the individual concerned, the following:
 
@@ -727,7 +727,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(D) The assessment required by subsection (b)(2).
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -755,13 +755,13 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(3) The term ‘foreign terrorist organization’ means any organization so designated by the Secretary of State under section 219 of the Immigration and Nationality Act ([8 U.S.C. 1189][/us/usc/t8/s1189]).
 
->     “(f) __Repeal of Superseded Authority.—__ 
+>     “(f)  __Repeal of Superseded Authority__  __.—__ 
 
 >     \[Repealed [section 1033 of Pub. L. 111–383][/us/pl/111/383/s1033], [124 Stat. 4351][/us/stat/124/4351]\].
 
 > “SEC. 1029. __REQUIREMENT FOR CONSULTATION REGARDING PROSECUTION OF TERRORISTS.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Before seeking an indictment of, or otherwise charging, an individual described in subsection (b) in a Federal court, the Attorney General shall consult with the Director of National Intelligence and the Secretary of Defense about—
 
@@ -769,7 +769,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(2) whether the individual should be held in civilian custody or military custody pending prosecution.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     The consultation requirement in subsection (a) applies to—
 
@@ -783,11 +783,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 [Pub. L. 111–84, div. A, title X, § 1038][/us/pl/111/84/s1038], Oct. 28, 2009, [123 Stat. 2451][/us/stat/123/2451], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     Except as provided in subsection (b), effective one year after the date of the enactment of this Act \[Oct. 28, 2009\], no enemy prisoner of war, civilian internee, retained personnel, other detainee, or any other individual who is in the custody or under the effective control of the Department of Defense or otherwise under detention in a Department of Defense facility in connection with hostilities may be interrogated by contractor personnel.
 
->     “(b) __Authorized Functions of Contractor Personnel.—__ 
+>     “(b)  __Authorized Functions of Contractor Personnel__  __.—__ 
 
 >     Contractor personnel with proper training and security clearances may be used as linguists, interpreters, report writers, information technology technicians, and other employees filling ancillary positions, including as trainers of and advisors to interrogators, in interrogations of persons as described in subsection (a) if—
 
@@ -795,27 +795,27 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(2) appropriately qualified and trained military or civilian personnel of the Department of Defense are available to oversee the contractor’s performance and to ensure that contractor personnel do not perform activities that are prohibited under this section.
 
->     “(c) __Discharge by Government Personnel.—__ 
+>     “(c)  __Discharge by Government Personnel__  __.—__ 
 
 >     The Secretary of Defense shall take appropriate actions to ensure that, by not later than one year after the date of the enactment of this Act, the Department of Defense has the resources needed to ensure that interrogations described in subsection (a) are conducted by appropriately qualified government personnel.
 
 >     “(d) __Waiver.—__ 
 
->         “(1) __Waivers authorized.—__ 
+>         “(1)  __Waivers authorized__  __.—__ 
 
 >         The Secretary of Defense may waive the prohibition under subsection (a) for a period of 60 days if the Secretary determines such a waiver is vital to the national security interests of the United States. The Secretary may renew a waiver issued pursuant to this paragraph for an additional 30-day period, if the Secretary determines that such a renewal is vital to the national security interests of the United States.
 
 >         “(2) __Limitation on delegation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The waiver authority under paragraph (1) may not be delegated to any official below the level of the Deputy Secretary of Defense, except in the case of a waiver for an individual interrogation that is based on military exigencies, in which case the delegation of the waiver authority shall be done pursuant to regulations that the Secretary of Defense shall prescribe but in no instance may the latter delegation be below the level of combatant commander of the theater in which the individual is in the custody or under the effective control of the Department of Defense or otherwise under detention in a Department of Defense facility within that theater.
 
->             “(B) __Deadline for regulations.—__ 
+>             “(B)  __Deadline for regulations__  __.—__ 
 
 >             The Secretary of Defense shall prescribe the regulations referred to in subparagraph (A) by not later than 30 days after the date of the enactment of this Act.
 
->         “(3) __Congressional notification.—__ 
+>         “(3)  __Congressional notification__  __.—__ 
 
 >         Not later than five days after the Secretary issues a waiver pursuant to paragraph (1), the Secretary shall submit to Congress written notification of the waiver.”
 
@@ -825,15 +825,15 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(a) __No Miranda Warnings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Absent a court order requiring the reading of such statements, no member of the Armed Forces and no official or employee of the Department of Defense or a component of the intelligence community (other than the Department of Justice) may read to a foreign national who is captured or detained outside the United States as an enemy belligerent and is in the custody or under the effective control of the Department of Defense or otherwise under detention in a Department of Defense facility the statement required by Miranda v. Arizona (384 U.S. 436 (1966)), or otherwise inform such an individual of any rights that the individual may or may not have to counsel or to remain silent consistent with Miranda v. Arizona (384 U.S. 436 (1966)).
 
->         “(2) __Nonapplicability to department of justice.—__ 
+>         “(2)  __Nonapplicability to department of justice__  __.—__ 
 
 >         This subsection shall not apply to the Department of Justice.
 
->         “(3) __Definitions.—__ 
+>         “(3)  __Definitions__  __.—__ 
 
 >         In this subsection:
 
@@ -841,7 +841,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) The term ‘enemy belligerent’ includes a privileged belligerent against the United States and an unprivileged enemy belligerent, as those terms are defined in [section 948a of title 10][/us/usc/t10/s948a], United States Code, as amended by section 1802 of this Act.
 
->     “(b) __Report Required on Notification of Detainees of Rights Under Miranda v. Arizona.—__ 
+>     “(b)  __Report Required on Notification of Detainees of Rights Under__  __Miranda v. Arizona.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on how the reading of rights under Miranda v. Arizona (384 U.S. 436 (1966)) to individuals detained by the United States in Afghanistan may affect—
 
@@ -859,19 +859,19 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 [Pub. L. 111–84, div. A, title X, § 1080][/us/pl/111/84/s1080], Oct. 28, 2009, [123 Stat. 2479][/us/stat/123/2479], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(15)][/us/pl/111/383/s1075/d/15], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
 
->     “(a) __Videotaping or Other Electronic Recording Required.—__ 
+>     “(a)  __Videotaping or Other Electronic Recording Required__  __.—__ 
 
 >     In accordance with the Army Field Manual on Human Intelligence Collector Operations (FM 2–22.3, September 2006), or any successor thereto, and the guidelines developed pursuant to subsection (f), the Secretary of Defense shall ensure that each strategic intelligence interrogation of any person who is in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility is videotaped or otherwise electronically recorded.
 
->     “(b) __Classification of Information.—__ 
+>     “(b)  __Classification of Information__  __.—__ 
 
 >     To protect United States national security, the safety of the individuals conducting or assisting in the conduct of a strategic intelligence interrogation, and the privacy of persons described in subsection (a), the Secretary of Defense shall provide for the appropriate classification of videotapes or other electronic recordings made pursuant to subsection (a). The use of such classified videotapes or other electronic recordings in proceedings conducted under the Detainee Treatment Act of 2005 (title XIV of [Public Law 109–163][/us/pl/109/163] and title X of [Public Law 109–148][/us/pl/109/148]), chapter 47A of title 10, United States Code, as amended by section 1802 of this Act, or at any other judicial or administrative forum under any other provision of law shall be governed by applicable rules, regulations, and laws that protect classified information.
 
->     “(c) __Strategic Intelligence Interrogation Defined.—__ 
+>     “(c)  __Strategic Intelligence Interrogation Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘strategic intelligence interrogation’ means an interrogation of a person described in subsection (a) conducted at a theater-level detention facility.
 
->     “(d) __Exclusion.—__ 
+>     “(d)  __Exclusion__  __.—__ 
 
 >     Nothing in this section shall be construed as requiring—
 
@@ -881,7 +881,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(e) __Waiver.—__ 
 
->         “(1) __Waivers authorized.—__ 
+>         “(1)  __Waivers authorized__  __.—__ 
 
 >         The Secretary of Defense may, as an exceptional measure, as part of a specific interrogation plan for a specific person described in subsection (a), waive the requirement in that subsection on a case-by-case basis for a period not to exceed 30 days, if the Secretary—
 
@@ -889,7 +889,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) by not later than five days after the date on which such a determination is made, submits to the Committees on Armed Services of the Senate and House of Representatives, the House Permanent Select Committee on Intelligence, and the Senate Select Committee on Intelligence notice of that determination, including a justification for that determination.
 
->         “(2) __Suspensions authorized.—__ 
+>         “(2)  __Suspensions authorized__  __.—__ 
 
 >         The Secretary may temporarily suspend the requirement under subsection (a) at a specific theater-level detention facility for a period not to exceed 30 days, if the Secretary—
 
@@ -897,7 +897,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) by not later than five days after the date on which such a determination is made, submits to the Committees on Armed Services of the Senate and House of Representatives, the House Permanent Select Committee on Intelligence, and the Senate Select Committee on Intelligence notice of that determination, including a justification for that determination.
 
->         “(3) __Limitation on delegation of authority.—__ 
+>         “(3)  __Limitation on delegation of authority__  __.—__ 
 
 >         This authority of the Secretary under this subsection may only be delegated as follows:
 
@@ -905,7 +905,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) In the case of the authority under paragraph (2), such authority may not be delegated below the level of the Deputy Secretary of Defense.
 
->         “(4) __Extensions.—__ 
+>         “(4)  __Extensions__  __.—__ 
 
 >         The Secretary may extend a waiver under paragraph (1) for one additional 30-day period, or a suspension under paragraph (2) for one additional 30-day period, if—
 
@@ -921,7 +921,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(f) __Guidelines.—__ 
 
->         “(1) __Development of guidelines.—__ 
+>         “(1)  __Development of guidelines__  __.—__ 
 
 >         The Secretary of Defense, acting through the Judge Advocates General (as defined in [section 801(1) of title 10][/us/usc/t10/s801/1], United States Code, (Article 1 of the Uniform Code of Military Justice)), shall develop and adopt uniform guidelines for videotaping or otherwise electronically recording strategic intelligence interrogations as required under subsection (a). Such guidelines shall, at a minimum—
 
@@ -933,7 +933,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(D) ensure the safety of all participants in the interrogations.
 
->         “(2) __Submittal to congress.—__ 
+>         “(2)  __Submittal to congress__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this section \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the guidelines developed under paragraph (1). Such report shall be in an unclassified form but may include a classified annex.”
 
@@ -941,11 +941,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 [Pub. L. 111–32, title III, § 319][/us/pl/111/32/s319], June 24, 2009, [123 Stat. 1874][/us/stat/123/1874], provided that:
 
->     “(a) __Reports Required.—__ 
+>     “(a)  __Reports Required__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[June 24, 2009\] and every 90 days thereafter, the President shall submit to the members and committees of Congress specified in subsection (b) a report on the prisoner population at the detention facility at Naval Station Guantanamo Bay, Cuba.
 
->     “(b) __Specified Members and Committees of Congress.—__ 
+>     “(b)  __Specified Members and Committees of Congress__  __.—__ 
 
 >     The members and committees of Congress specified in this subsection are the following:
 
@@ -967,7 +967,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(9) The Chairman and Ranking Member of the Committee on Appropriations of the House of Representatives.
 
->     “(c) __Matters To Be Included.—__ 
+>     “(c)  __Matters To Be Included__  __.—__ 
 
 >     Each report submitted under subsection (a) shall include the following:
 
@@ -981,7 +981,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(5) An assessment of any efforts by al Qaeda to recruit detainees released from detention at Naval Station Guantanamo Bay.
 
->     “(d) __Additional Matters To Be Included in Initial Report.—__ 
+>     “(d)  __Additional Matters To Be Included in Initial Report__  __.—__ 
 
 >     The first report submitted under subsection (a) shall also include the following:
 
@@ -997,11 +997,11 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 [Pub. L. 109–163, div. A, title VII, § 750][/us/pl/109/163/s750], Jan. 6, 2006, [119 Stat. 3364][/us/stat/119/3364], provided that:
 
->     “(a) __Policy Required.—__ 
+>     “(a)  __Policy Required__  __.—__ 
 
 >     The Secretary of Defense shall establish the policy of the Department of Defense on the role of military medical and behavioral science personnel in the interrogation of persons detained by the Armed Forces. The policy shall apply uniformly throughout the Armed Forces.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than March 1, 2006, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the policy established under subsection (a). The report shall set forth the policy, and shall include such additional matters on the policy as the Secretary considers appropriate.”
 
@@ -1011,15 +1011,15 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 > “SEC. 1402. __UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No person in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility shall be subject to any treatment or technique of interrogation not authorized by and listed in the United States Army Field Manual on Intelligence Interrogation.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     Subsection (a) shall not apply with respect to any person in the custody or under the effective control of the Department of Defense pursuant to a criminal law or immigration law of the United States.
 
->     “(c) __Construction.—__ 
+>     “(c)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to affect the rights under the United States Constitution of any person in the custody or under the physical jurisdiction of the United States.
 
@@ -1027,7 +1027,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(a) __Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, and in Afghanistan and Iraq.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
 
@@ -1035,17 +1035,17 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) the procedures in operation in Afghanistan and Iraq for a determination of the status of aliens detained in the custody or under the physical control of the Department of Defense in those countries.
 
->         “(2) __Designated civilian official.—__ 
+>         “(2)  __Designated civilian official__  __.—__ 
 
 >         The procedures submitted to Congress pursuant to paragraph (1)(A) shall ensure that the official of the Department of Defense who is designated by the President or Secretary of Defense to be the final review authority within the Department of Defense with respect to decisions of any such tribunal or board (referred to as the ‘Designated Civilian Official’) shall be a civilian officer of the Department of Defense holding an office to which appointments are required by law to be made by the President, by and with the advice and consent of the Senate.
 
->         “(3) __Consideration of new evidence.—__ 
+>         “(3)  __Consideration of new evidence__  __.—__ 
 
 >         The procedures submitted under paragraph (1)(A) shall provide for periodic review of any new evidence that may become available relating to the enemy combatant status of a detainee.
 
 >     “(b) __Consideration of Statements Derived With Coercion.—__ 
 
->         “(1) __Assessment.—__ 
+>         “(1)  __Assessment__  __.—__ 
 
 >         The procedures submitted to Congress pursuant to subsection (a)(1)(A) shall ensure that a Combatant Status Review Tribunal or Administrative Review Board, or any similar or successor administrative tribunal or board, in making a determination of status or disposition of any detainee under such procedures, shall, to the extent practicable, assess—
 
@@ -1053,21 +1053,21 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) the probative value, if any, of any such statement.
 
->         “(2) __Applicability.—__ 
+>         “(2)  __Applicability__  __.—__ 
 
 >         Paragraph (1) applies with respect to any proceeding beginning on or after the date of the enactment of this Act \[Jan. 6, 2006\].
 
->     “(c) __Report on Modification of Procedures.—__ 
+>     “(c)  __Report on Modification of Procedures__  __.—__ 
 
 >     The Secretary of Defense shall submit to the committees specified in subsection (a)(1) a report on any modification of the procedures submitted under subsection (a). Any such report shall be submitted not later than 60 days before the date on which such modification goes into effect.
 
 >     “(d) __Annual Report.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         The Secretary of Defense shall submit to Congress an annual report on the annual review process for aliens in the custody of the Department of Defense outside the United States. Each such report shall be submitted in unclassified form, with a classified annex, if necessary. The report shall be submitted not later than December 31 each year.
 
->         “(2) __Elements of report.—__ 
+>         “(2)  __Elements of report__  __.—__ 
 
 >         Each such report shall include the following with respect to the year covered by the report:
 
@@ -1077,17 +1077,17 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(e) __Judicial Review of Detention of Enemy Combatants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended [section 2241 of Title 28][/us/usc/t28/s2241], Judiciary and Judicial Procedure.\]
 
 >         “(2) __Review of decisions of combatant status review tribunals of propriety of detention.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraphs (B), (C), and (D), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of any final decision of a Combatant Status Review Tribunal that an alien is properly detained as an enemy combatant.
 
->             “(B) __Limitation on claims.—__ 
+>             “(B)  __Limitation on claims__  __.—__ 
 
 >             The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit under this paragraph shall be limited to claims brought by or on behalf of an alien—
 
@@ -1095,7 +1095,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >                 “(ii) for whom a Combatant Status Review Tribunal has been conducted, pursuant to applicable procedures specified by the Secretary of Defense.
 
->             “(C) __Scope of review.—__ 
+>             “(C)  __Scope of review__  __.—__ 
 
 >             The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit on any claims with respect to an alien under this paragraph shall be limited to the consideration of—
 
@@ -1103,31 +1103,31 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >                 “(ii) to the extent the Constitution and laws of the United States are applicable, whether the use of such standards and procedures to make the determination is consistent with the Constitution and laws of the United States.
 
->             “(D) __Termination on release from custody.—__ 
+>             “(D)  __Termination on release from custody__  __.—__ 
 
 >             The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit with respect to the claims of an alien under this paragraph shall cease upon the release of such alien from the custody of the Department of Defense.
 
 >         “\[(3) Repealed. [Pub. L. 111–84, div. A, title XVIII, § 1803(b)(2)][/us/pl/111/84/s1803/b/2], as added [Pub. L. 111–383, div. A, title X, § 1075(d)(21)][/us/pl/111/383/s1075/d/21], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374].\]
 
->         “(4) __Respondent.—__ 
+>         “(4)  __Respondent__  __.—__ 
 
 >         The Secretary of Defense shall be the named respondent in any appeal to the United States Court of Appeals for the District of Columbia Circuit under this subsection.
 
->     “(f) __Construction.—__ 
+>     “(f)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to confer any constitutional right on an alien detained as an enemy combatant outside the United States.
 
->     “(g) __United States Defined.—__ 
+>     “(g)  __United States Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘United States’, when used in a geographic sense, is as defined in section 101(a)(38) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(38)][/us/usc/t8/s1101/a/38]\] and, in particular, does not include the United States Naval Station, Guantanamo Bay, Cuba.
 
 >     “(h) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This section shall take effect on the date of the enactment of this Act \[Jan. 6, 2006\].
 
->         “(2) __Review of combatant status tribunal and military commission decisions.—__ 
+>         “(2)  __Review of combatant status tribunal and military commission decisions__  __.—__ 
 
 >         Paragraphs (2) and (3) of subsection (e) shall apply with respect to any claim whose review is governed by one of such paragraphs and that is pending on or after the date of the enactment of this Act.
 
@@ -1135,33 +1135,33 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(a) __Required Policies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall prescribe policies designed to ensure that all military and civilian Department of Defense personnel or contractor personnel of the Department of Defense responsible for the training of any unit of the Iraqi Security Forces provide training to such units regarding the international obligations and laws applicable to the humane treatment of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
 
->         “(2) __Acknowledgment of training.—__ 
+>         “(2)  __Acknowledgment of training__  __.—__ 
 
 >         The Secretary shall ensure that, for all personnel of the Iraqi Security Forces who are provided training referred to in paragraph (1), there is documented acknowledgment that such training has been provided.
 
->         “(3) __Deadline for policies to be prescribed.—__ 
+>         “(3)  __Deadline for policies to be prescribed__  __.—__ 
 
 >         The policies required by paragraph (1) shall be prescribed not later than 180 days after the date of the enactment of this Act \[Jan. 6, 2006\].
 
 >     “(b) __Army Field Manual.—__ 
 
->         “(1) __Translation.—__ 
+>         “(1)  __Translation__  __.—__ 
 
 >         The Secretary of Defense shall provide for the unclassified portions of the United States Army Field Manual on Intelligence Interrogation to be translated into Arabic and any other language the Secretary determines appropriate for use by members of the Iraqi security forces.
 
->         “(2) __Distribution.—__ 
+>         “(2)  __Distribution__  __.—__ 
 
 >         The Secretary of Defense shall provide for such manual, as translated, to be distributed to all appropriate officials of the Iraqi Government, including, but not limited to, the Iraqi Minister of Defense, the Iraqi Minister of Interior, senior Iraqi military personnel, and appropriate members of the Iraqi Security Forces with a recommendation that the principles that underlay the manual be adopted by the Iraqis as the basis for their policies on interrogation of detainees.
 
->     “(c) __Transmittal to Congressional Committees.—__ 
+>     “(c)  __Transmittal to Congressional Committees__  __.—__ 
 
 >     Not less than 30 days after the date on which policies are first prescribed under subsection (a), the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives copies of such regulations, policies, or orders, together with a report on steps taken to the date of the report to implement this section.
 
->     “(d) __Annual Report.—__ 
+>     “(d)  __Annual Report__  __.—__ 
 
 >     Not less than one year after the date of the enactment of this Act \[Jan. 6, 2006\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
 
@@ -1169,15 +1169,15 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 > “SEC. 1002. __UNIFORM STANDARDS FOR THE INTERROGATION OF PERSONS UNDER THE DETENTION OF THE DEPARTMENT OF DEFENSE.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     No person in the custody or under the effective control of the Department of Defense or under detention in a Department of Defense facility shall be subject to any treatment or technique of interrogation not authorized by and listed in the United States Army Field Manual on Intelligence Interrogation.
 
->     “(b) __Applicability.—__ 
+>     “(b)  __Applicability__  __.—__ 
 
 >     Subsection (a) shall not apply with respect to any person in the custody or under the effective control of the Department of Defense pursuant to a criminal law or immigration law of the United States.
 
->     “(c) __Construction.—__ 
+>     “(c)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to affect the rights under the United States Constitution of any person in the custody or under the physical jurisdiction of the United States.
 
@@ -1185,7 +1185,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(a) __Submittal of Procedures for Status Review of Detainees at Guantanamo Bay, Cuba, and in Afghanistan and Iraq.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Dec. 30, 2005\], the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on the Judiciary of the Senate and the Committee on Armed Services and the Committee on the Judiciary of the House of Representatives a report setting forth—
 
@@ -1193,17 +1193,17 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) the procedures in operation in Afghanistan and Iraq for a determination of the status of aliens detained in the custody or under the physical control of the Department of Defense in those countries.
 
->         “(2) __Designated civilian official.—__ 
+>         “(2)  __Designated civilian official__  __.—__ 
 
 >         The procedures submitted to Congress pursuant to paragraph (1)(A) shall ensure that the official of the Department of Defense who is designated by the President or Secretary of Defense to be the final review authority within the Department of Defense with respect to decisions of any such tribunal or board (referred to as the ‘Designated Civilian Official’) shall be a civilian officer of the Department of Defense holding an office to which appointments are required by law to be made by the President, by and with the advice and consent of the Senate.
 
->         “(3) __Consideration of new evidence.—__ 
+>         “(3)  __Consideration of new evidence__  __.—__ 
 
 >         The procedures submitted under paragraph (1)(A) shall provide for periodic review of any new evidence that may become available relating to the enemy combatant status of a detainee.
 
 >     “(b) __Consideration of Statements Derived With Coercion.—__ 
 
->         “(1) __Assessment.—__ 
+>         “(1)  __Assessment__  __.—__ 
 
 >         The procedures submitted to Congress pursuant to subsection (a)(1)(A) shall ensure that a Combatant Status Review Tribunal or Administrative Review Board, or any similar or successor administrative tribunal or board, in making a determination of status or disposition of any detainee under such procedures, shall, to the extent practicable, assess—
 
@@ -1211,21 +1211,21 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >             “(B) the probative value (if any) of any such statement.
 
->         “(2) __Applicability.—__ 
+>         “(2)  __Applicability__  __.—__ 
 
 >         Paragraph (1) applies with respect to any proceeding beginning on or after the date of the enactment of this Act \[Dec. 30, 2005\].
 
->     “(c) __Report on Modification of Procedures.—__ 
+>     “(c)  __Report on Modification of Procedures__  __.—__ 
 
 >     The Secretary of Defense shall submit to the committees specified in subsection (a)(1) a report on any modification of the procedures submitted under subsection (a). Any such report shall be submitted not later than 60 days before the date on which such modification goes into effect.
 
 >     “(d) __Annual Report.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         The Secretary of Defense shall submit to Congress an annual report on the annual review process for aliens in the custody of the Department of Defense outside the United States. Each such report shall be submitted in unclassified form, with a classified annex, if necessary. The report shall be submitted not later than December 31 each year.
 
->         “(2) __Elements of report.—__ 
+>         “(2)  __Elements of report__  __.—__ 
 
 >         Each such report shall include the following with respect to the year covered by the report:
 
@@ -1235,17 +1235,17 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(e) __Judicial Review of Detention of Enemy Combatants.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         \[Amended [section 2241 of Title 28][/us/usc/t28/s2241], Judiciary and Judicial Procedure.\]
 
 >         “(2) __Review of decisions of combatant status review tribunals of propriety of detention.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraphs (B), (C), and (D), the United States Court of Appeals for the District of Columbia Circuit shall have exclusive jurisdiction to determine the validity of any final decision of a Combatant Status Review Tribunal that an alien is properly detained as an enemy combatant.
 
->             “(B) __Limitation on claims.—__ 
+>             “(B)  __Limitation on claims__  __.—__ 
 
 >             The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit under this paragraph shall be limited to claims brought by or on behalf of an alien—
 
@@ -1253,7 +1253,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >                 “(ii) for whom a Combatant Status Review Tribunal has been conducted, pursuant to applicable procedures specified by the Secretary of Defense.
 
->             “(C) __Scope of review.—__ 
+>             “(C)  __Scope of review__  __.—__ 
 
 >             The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit on any claims with respect to an alien under this paragraph shall be limited to the consideration of—
 
@@ -1261,31 +1261,31 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >                 “(ii) to the extent the Constitution and laws of the United States are applicable, whether the use of such standards and procedures to make the determination is consistent with the Constitution and laws of the United States.
 
->             “(D) __Termination on release from custody.—__ 
+>             “(D)  __Termination on release from custody__  __.—__ 
 
 >             The jurisdiction of the United States Court of Appeals for the District of Columbia Circuit with respect to the claims of an alien under this paragraph shall cease upon the release of such alien from the custody of the Department of Defense.
 
 >         “\[(3) Repealed. [Pub. L. 111–84, div. A, title XVIII, § 1803(b)(1)][/us/pl/111/84/s1803/b/1], formerly § 1803(b), Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612], as renumbered § 1803(b)(1) by [Pub. L. 111–383, div. A, title X, § 1075(d)(21)][/us/pl/111/383/s1075/d/21], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374].\]
 
->         “(4) __Respondent.—__ 
+>         “(4)  __Respondent__  __.—__ 
 
 >         The Secretary of Defense shall be the named respondent in any appeal to the United States Court of Appeals for the District of Columbia Circuit under this subsection.
 
->     “(f) __Construction.—__ 
+>     “(f)  __Construction__  __.—__ 
 
 >     Nothing in this section shall be construed to confer any constitutional right on an alien detained as an enemy combatant outside the United States.
 
->     “(g) __United States Defined.—__ 
+>     “(g)  __United States Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘United States’, when used in a geographic sense, is as defined in section 101(a)(38) of the Immigration and Nationality Act \[[8 U.S.C. 1101(a)(38)][/us/usc/t8/s1101/a/38]\] and, in particular, does not include the United States Naval Station, Guantanamo Bay, Cuba.
 
 >     “(h) __Effective Date.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         This section shall take effect on the date of the enactment of this Act \[Dec. 30, 2005\].
 
->         “(2) __Review of combatant status tribunal and military commission decisions.—__ 
+>         “(2)  __Review of combatant status tribunal and military commission decisions__  __.—__ 
 
 >         Paragraphs (2) and (3) of subsection (e) shall apply with respect to any claim whose review is governed by one of such paragraphs and that is pending on or after the date of the enactment of this Act.
 
@@ -1293,33 +1293,33 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >     “(a) __Required Policies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall ensure that policies are prescribed regarding procedures for military and civilian personnel of the Department of Defense and contractor personnel of the Department of Defense in Iraq that are intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, ensure that all personnel of Iraqi military forces who are trained by Department of Defense personnel and contractor personnel of the Department of Defense receive training regarding the international obligations and laws applicable to the humane detention of detainees, including protections afforded under the Geneva Conventions and the Convention Against Torture.
 
->         “(2) __Acknowledgment of training.—__ 
+>         “(2)  __Acknowledgment of training__  __.—__ 
 
 >         The Secretary shall ensure that, for all personnel of the Iraqi Security Forces who are provided training referred to in paragraph (1), there is documented acknowledgment of such training having been provided.
 
->         “(3) __Deadline for policies to be prescribed.—__ 
+>         “(3)  __Deadline for policies to be prescribed__  __.—__ 
 
 >         The policies required by paragraph (1) shall be prescribed not later than 180 days after the date of the enactment of this Act \[Dec. 30, 2005\].
 
 >     “(b) __Army Field Manual.—__ 
 
->         “(1) __Translation.—__ 
+>         “(1)  __Translation__  __.—__ 
 
 >         The Secretary of Defense shall provide for the United States Army Field Manual on Intelligence Interrogation to be translated into arabic \[sic\] and any other language the Secretary determines appropriate for use by members of the Iraqi military forces.
 
->         “(2) __Distribution.—__ 
+>         “(2)  __Distribution__  __.—__ 
 
 >         The Secretary of Defense shall provide for such manual, as translated, to be provided to each unit of the Iraqi military forces trained by Department of Defense personnel or contractor personnel of the Department of Defense.
 
->     “(c) __Transmittal of Regulations.—__ 
+>     “(c)  __Transmittal of Regulations__  __.—__ 
 
 >     Not less than 30 days after the date on which regulations, policies, and orders are first prescribed under subsection (a), the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives copies of such regulations, policies, or orders, together with a report on steps taken to the date of the report to implement this section.
 
->     “(d) __Annual Report.—__ 
+>     “(d)  __Annual Report__  __.—__ 
 
 >     Not less than one year after the date of the enactment of this Act \[Dec. 30, 2005\], and annually thereafter, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the implementation of this section.”
 
@@ -1329,7 +1329,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 > “SEC. 1091. __SENSE OF CONGRESS AND POLICY CONCERNING PERSONS DETAINED BY THE UNITED STATES.__ 
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -1349,7 +1349,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(8) no detainee shall be subject to torture or cruel, inhuman, or degrading treatment or punishment that is prohibited by the Constitution, laws, or treaties of United States.
 
->     “(b) __Policy.—__ 
+>     “(b)  __Policy__  __.—__ 
 
 >     It is the policy of the United States to—
 
@@ -1363,17 +1363,17 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(5) expeditiously process and, if appropriate, prosecute detainees in the custody of the United States, including those in the custody of the United States Armed Forces at Guantanamo Bay, Cuba.
 
->     “(c) __Detainees.—__ 
+>     “(c)  __Detainees__  __.—__ 
 
 >     For purposes of this section, the term ‘detainee’ means a person in the custody or under the physical control of the United States as a result of armed conflict.
 
 > “SEC. 1092. __ACTIONS TO PREVENT THE ABUSE OF DETAINEES.__ 
 
->     “(a) __Policies Required.—__ 
+>     “(a)  __Policies Required__  __.—__ 
 
 >     The Secretary of Defense shall ensure that policies are prescribed not later than 150 days after the date of the enactment of this Act \[Oct. 28, 2004\] regarding procedures for Department of Defense personnel and contractor personnel of the Department of Defense intended to ensure that members of the Armed Forces, and all persons acting on behalf of the Armed Forces or within facilities of the Armed Forces, treat persons detained by the United States Government in a humane manner consistent with the international obligations and laws of the United States and the policies set forth in section 1091(b).
 
->     “(b) __Matters to Be Included.—__ 
+>     “(b)  __Matters to Be Included__  __.—__ 
 
 >     In order to achieve the objective stated in subsection (a), the policies under that subsection shall specify, at a minimum, procedures for the following:
 
@@ -1393,7 +1393,7 @@ May 5, 1950, ch. 169, § 1 (Art. 1 (less (9))), 64 Stat. 108.  </td>
 
 >         “(5) Ensuring that, to the maximum extent practicable, detainees and detention facility personnel of a different gender are not alone together.
 
->     “(c) __Secretary of Defense Certification.—__ 
+>     “(c)  __Secretary of Defense Certification__  __.—__ 
 
 >     The Secretary of Defense shall certify that all Federal employees and civilian contractors engaged in the handling or interrogation of individuals detained by the Department of Defense on behalf of the United States Government have fulfilled an annual training requirement on the law of war, the Geneva Conventions, and the obligations of the United States under international law.”
 

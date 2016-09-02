@@ -15,19 +15,19 @@
 
 ## § 1504. Subsequent board of inquiry
 
-    (a) __Additional Board.—__ 
+    (a)  __Additional Board__  __.—__ 
 
     If information that may result in a change of status of a person covered by a determination under [section 1503(i) of this title][/us/usc/t10/s1503/i] becomes available within one year after the date of the transmission of a report with respect to the person under [section 1502(a)(2) of this title][/us/usc/t10/s1502/a/2], the Secretary concerned shall appoint a board under this section to conduct an inquiry into the information.
 
-    (b) __Date of Appointment.—__ 
+    (b)  __Date of Appointment__  __.—__ 
 
     The Secretary concerned shall appoint a board under this section to conduct an inquiry into the whereabouts and status of a missing person on or about one year after the date of the transmission of a report concerning the person under [section 1502(a)(2) of this title][/us/usc/t10/s1502/a/2].
 
-    (c) __Combined Inquiries.—__ 
+    (c)  __Combined Inquiries__  __.—__ 
 
     If it appears to the Secretary concerned that the absence or status of two or more persons is factually related, the Secretary may appoint one board under this section to conduct the inquiry into the whereabouts and status of such persons.
 
-    (d) __Composition.—__ 
+    (d)  __Composition__  __.—__ 
 
         (1)
 
@@ -63,7 +63,7 @@
 
         (4) The Secretary who appoints a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, with the same qualifications as specified in [section 1503(c)(4) of this title][/us/usc/t10/s1503/c/4].
 
-    (e) __Duties of Board.—__ 
+    (e)  __Duties of Board__  __.—__ 
 
     A board appointed under this section to conduct an inquiry into the whereabouts and status of a person shall—
 
@@ -77,7 +77,7 @@
 
         (5) submit to the Secretary concerned a report describing the findings and conclusions of the board, together with a recommendation for a determination by the Secretary concerning the whereabouts and status of the person.
 
-    (f) __Counsel for Missing Persons.—__ 
+    (f)  __Counsel for Missing Persons__  __.—__ 
 
         (1) When the Secretary concerned appoints a board to conduct an inquiry under this section, the Secretary shall appoint counsel to represent each person covered by the inquiry. The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.
 
@@ -85,7 +85,7 @@
 
         (3) The review of the report of a board on an inquiry that is submitted by such counsel shall be made an official part of the record of the board with respect to the inquiry.
 
-    (g) __Attendance of Family Members and Certain Other Interested Persons at Proceedings.—__ 
+    (g)  __Attendance of Family Members and Certain Other Interested Persons at Proceedings__  __.—__ 
 
         (1) With respect to any person covered by an inquiry under this section, the primary next of kin, other members of the immediate family, and any other previously designated person of the person may attend the proceedings of the board during the inquiry.
 
@@ -119,7 +119,7 @@
 
         (6) An individual referred to in paragraph (1) who attends the proceedings of a board under this subsection shall not be entitled to reimbursement by the United States for any costs (including travel, lodging, meals, local transportation, legal fees, transcription costs, witness expenses, and other expenses) incurred by that individual in attending such proceedings.
 
-    (h) __Availability of Information to Boards.—__ 
+    (h)  __Availability of Information to Boards__  __.—__ 
 
         (1) In conducting proceedings in an inquiry under this section, a board may secure directly from any department or agency of the United States any information that the board considers necessary in order to conduct the proceedings.
 
@@ -137,17 +137,17 @@
 
             (B) The president of a board shall close to persons who do not have appropriate security clearances the proceeding of the board at which classified information is discussed. Participants at a proceeding of a board at which classified information is discussed shall comply with all applicable laws and regulations relating to the disclosure of classified information. The Secretary concerned shall assist the president of a board in ensuring that classified information is not compromised through board proceedings.
 
-    (i) __Recommendation on Status.—__ 
+    (i)  __Recommendation on Status__  __.—__ 
 
         (1) Upon completion of an inquiry under this section, a board shall make a recommendation as to the current whereabouts and status of each missing person covered by the inquiry.
 
         (2) A board may not recommend under paragraph (1) that a person be declared dead unless in making the recommendation the board complies with [section 1507 of this title][/us/usc/t10/s1507].
 
-    (j) __Report.—__ 
+    (j)  __Report__  __.—__ 
 
     A board appointed under this section shall submit to the Secretary concerned a report on the inquiry carried out by the board, together with the evidence considered by the board during the inquiry. The report may include a classified annex.
 
-    (k) __Actions by Secretary Concerned.—__ 
+    (k)  __Actions by Secretary Concerned__  __.—__ 
 
         (1)
 
@@ -163,7 +163,7 @@
 
         (3) Upon a determination by the Secretary that a report reviewed under this subsection is complete and free of administrative error, the Secretary shall make a determination concerning the status of each person covered by the report.
 
-    (l) __Report to Family Members and Other Interested Persons.—__ 
+    (l)  __Report to Family Members and Other Interested Persons__  __.—__ 
 
     Not later than 60 days after the date on which the Secretary concerned makes a determination with respect to a missing person under subsection (k), the Secretary shall—
 
@@ -171,7 +171,7 @@
 
         (2) in the case of a person who continues to be in a missing status, inform each individual referred to in paragraph (1) that the United States will conduct a further investigation into the whereabouts and status of the person as specified in [section 1505 of this title][/us/usc/t10/s1505].
 
-    (m) __Treatment of Determination.—__ 
+    (m)  __Treatment of Determination__  __.—__ 
 
     Any determination of the status of a missing person under subsection (k) shall supersede the determination of the status of the person under [section 1503 of this title][/us/usc/t10/s1503] and shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 

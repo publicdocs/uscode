@@ -15,7 +15,7 @@
 
 ## § 2464. Core logistics capabilities
 
-    (a) __Necessity for Core Logistics Capabilities.—__ 
+    (a)  __Necessity for Core Logistics Capabilities__  __.—__ 
 
         (1) It is essential for the national defense that the Department of Defense maintain a core logistics capability that is Government-owned and Government-operated (including Government personnel and Government-owned and Government-operated equipment and facilities) to ensure a ready and controlled source of technical competence and resources necessary to ensure effective and timely response to a mobilization, national defense contingency situations, and other emergency requirements.
 
@@ -27,7 +27,7 @@
 
         (5) The commercial items covered by paragraph (3) are commercial items that have been sold or leased in substantial quantities to the general public and are purchased without modification in the same form that they are sold in the commercial marketplace, or with minor modifications to meet Federal Government requirements.
 
-    (b) __Limitation on Contracting.—__ 
+    (b)  __Limitation on Contracting__  __.—__ 
 
         (1) Except as provided in paragraph (2), performance of workload needed to maintain a logistics capability identified by the Secretary under subsection (a)(2) may not be contracted for performance by non-Government personnel under the procedures and requirements of Office of Management and Budget Circular A–76 or any successor administrative regulation or policy (hereinafter in this section referred to as OMB Circular A–76).
 
@@ -45,7 +45,7 @@
 
                 (ii) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of any period of time in which Congress is in continuous session.
 
-    (c) __Notification of Determinations Regarding Certain Commercial Items.—__ 
+    (c)  __Notification of Determinations Regarding Certain Commercial Items__  __.—__ 
 
     The first time that a weapon system or other item of military equipment described in subsection (a)(3) is determined to be a commercial item for the purposes of the exception contained in that subsection, the Secretary of Defense shall submit to Congress a notification of the determination, together with the justification for the determination. The justification for the determination shall include, at a minimum, the following:
 
@@ -55,7 +55,7 @@
 
         (3) A comparison of the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the private sector with the estimated life cycle logistics support costs that would be incurred by the Government if the item were maintained by the Government.
 
-    (d) __Biennial Core Report.—__ 
+    (d)  __Biennial Core Report__  __.—__ 
 
     Not later than April 1 of each even-numbered year, the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (except for the Coast Guard), for the fiscal year after the fiscal year during which the report is submitted, each of the following:
 
@@ -65,7 +65,7 @@
 
         (3) In any case where core depot-level maintenance and repair capability requirements exceed or are expected to exceed sustaining workloads, a detailed rationale for any and all shortfalls and a plan either to correct or mitigate the effects of the shortfalls.
 
-    (e) __Comptroller General Review.—__ 
+    (e)  __Comptroller General Review__  __.—__ 
 
     The Comptroller General of the United States shall review each report submitted under subsection (d) for completeness and compliance and shall submit to the congressional defense committees findings and recommendations with respect to the report by not later than 60 days after the date on which the report is submitted to Congress.
 

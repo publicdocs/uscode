@@ -15,7 +15,7 @@
 
 ## § 2601. General gift funds
 
-    (a) __General Authority to Accept Gifts.—__ 
+    (a)  __General Authority to Accept Gifts__  __.—__ 
 
         (1) The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of a school, hospital, library, museum, cemetery, or other institution or organization under the jurisdiction of the Secretary.
 
@@ -25,7 +25,7 @@
 
             (B) For the use and benefit of a military museum program, the Secretary concerned may solicit from a bona fide collector a gift of books, manuscripts, works of art, historical artifacts, drawings, plans, models, or condemned or obsolete combat materiel.
 
-    (b) __Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and Civilian Employees.—__ 
+    (b)  __Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and Civilian Employees__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
         (3) The Secretary of Defense shall prescribe regulations specifying the conditions that may be attached to a gift, devise, or bequest accepted under this subsection.
 
-    (c) __Gift Funds.—__ 
+    (c)  __Gift Funds__  __.—__ 
 
     Gifts and bequests of money, and the proceeds of the sale of property, received under subsection (a) or (b) shall be deposited in the Treasury in the following accounts:
 
@@ -57,7 +57,7 @@
 
         (5) The Department of Defense General Gift Fund, in the case of deposits made by the Secretary of Defense.
 
-    (d) __Use of Gifts; Prohibitions.—__ 
+    (d)  __Use of Gifts; Prohibitions__  __.—__ 
 
         (1) Except as provided in paragraph (2), property and money accepted under subsection (a) or (b) may be used by the Secretary concerned, and services accepted under such subsections may be performed, without further specific authorization in law.
 
@@ -75,23 +75,23 @@
 
         (3) The Secretary concerned may disburse funds deposited in a gift fund referred to in subsection (c) for the purposes specified in subsections (a) and (b), subject to the terms of the gift, devise, or bequest.
 
-    (e) __Payment of Expenses.—__ 
+    (e)  __Payment of Expenses__  __.—__ 
 
     The Secretary concerned may pay all necessary expenses in connection with the conveyance or transfer of a gift, devise, or bequest accepted under this section.
 
-    (f) __Treatment of Gifts.—__ 
+    (f)  __Treatment of Gifts__  __.—__ 
 
     For the purposes of Federal income, estate, and gift taxes, any property, money, or services accepted under subsection (a) or (b) shall be considered as a gift, devise, or bequest to or for the use of the United States.
 
-    (g) __Management of Funds.—__ 
+    (g)  __Management of Funds__  __.—__ 
 
     In the case of each gift fund referred to in subsection (c), the Secretary of the Treasury, upon the request of the Secretary concerned, may retain money, securities, and the proceeds of the sale of securities in the gift fund and may invest money and reinvest the proceeds of the sale of securities in the gift fund in securities of the United States or in securities guaranteed as to principal and interest by the United States. The interest and profits accruing from those securities shall be deposited to the credit of the gift fund and may be disbursed as provided in subsection (d).
 
-    (h) __Comptroller General Review.—__ 
+    (h)  __Comptroller General Review__  __.—__ 
 
     The Comptroller General shall make periodic audits of gifts, devises, and bequests accepted under subsection (a) or (b) at such intervals as the Comptroller General determines to be warranted. The Comptroller General shall submit to Congress a report on the results of each such audit.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 

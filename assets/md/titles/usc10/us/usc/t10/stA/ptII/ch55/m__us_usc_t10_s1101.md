@@ -15,15 +15,15 @@
 
 ## § 1101. Resource allocation methods: capitation or diagnosis-related groups
 
-    (a) __Establishment of Capitation or DRG Method.—__ 
+    (a)  __Establishment of Capitation or DRG Method__  __.—__ 
 
     The Secretary of Defense, after consultation with the other administering Secretaries, shall establish by regulation the use of capitation or diagnosis-related groups as the primary criteria for allocation of resources to facilities of the uniformed services.
 
-    (b) __Exception for Mobilization Missions.—__ 
+    (b)  __Exception for Mobilization Missions__  __.—__ 
 
     Capitation or diagnosis-related groups shall not be used to allocate resources to the facilities of the uniformed services to the extent that such resources are required by such facilities for mobilization missions.
 
-    (c) __Content of Regulations.—__ 
+    (c)  __Content of Regulations__  __.—__ 
 
     Such regulations may establish a system of diagnosis-related groups similar to the system established under section 1886(d)(4) of the Social Security Act ([42 U.S.C. 1395ww(d)(4)][/us/usc/t42/s1395ww/d/4]). Such regulations may include the following:
 

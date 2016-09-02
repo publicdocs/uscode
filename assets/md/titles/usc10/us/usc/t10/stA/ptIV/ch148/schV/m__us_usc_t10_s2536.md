@@ -15,11 +15,11 @@
 
 ## § 2536. Award of certain contracts to entities controlled by a foreign government: prohibition
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     A Department of Defense contract or Department of Energy contract under a national security program may not be awarded to an entity controlled by a foreign government if it is necessary for that entity to be given access to information in a proscribed category of information in order to perform the contract.
 
-    (b) __Waiver Authority.—__ 
+    (b)  __Waiver Authority__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (2) The Secretary concerned shall notify Congress of any decision to grant a waiver under paragraph (1)(B) with respect to a contract. The contract may be awarded only after the end of the 45-day period beginning on the date the notification is received by the committees.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

@@ -15,21 +15,21 @@
 
 ## § 1705. Department of Defense Acquisition Workforce Development Fund
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense shall establish a fund to be known as the “Department of Defense Acquisition Workforce Development Fund” (in this section referred to as the “Fund”) to provide funds, in addition to other funds that may be available, for the recruitment, training, and retention of acquisition personnel of the Department of Defense.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of the Fund is to ensure that the Department of Defense acquisition workforce has the capacity, in both personnel and skills, needed to properly perform its mission, provide appropriate oversight of contractor performance, and ensure that the Department receives the best value for the expenditure of public resources.
 
-    (c) __Management.—__ 
+    (c)  __Management__  __.—__ 
 
     The Fund shall be managed by a senior official of the Department of Defense designated by the Under Secretary of Defense for Acquisition, Technology, and Logistics for that purpose, from among persons with an extensive background in management relating to acquisition and personnel.
 
     (d) __Elements.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Fund shall consist of amounts as follows:
 
@@ -39,7 +39,7 @@
 
             (C) Any other amounts appropriated to, credited to, or deposited into the Fund by law.
 
-        (2) __Credits to the fund.—__ 
+        (2)  __Credits to the fund__  __.—__ 
 
             (A) There shall be credited to the Fund an amount equal to the applicable percentage for a fiscal year of all amounts expended by the Department of Defense in such fiscal year for contract services from amounts available for contract services for operation and maintenance.
 
@@ -63,11 +63,11 @@
 
             (D) The Secretary of Defense may reduce an amount specified in subparagraph (C) for a fiscal year if the Secretary determines that the amount is greater than is reasonably needed for purposes of the Fund for such fiscal year. The Secretary may not reduce the amount for a fiscal year to an amount that is less than 80 percent of the amount otherwise specified in subparagraph (C) for such fiscal year.
 
-        (3) __Transfer of certain unobligated balances.—__ 
+        (3)  __Transfer of certain unobligated balances__  __.—__ 
 
         To the extent provided in appropriations Acts, the Secretary of Defense may, during the 24-month period following the expiration of availability for obligation of any appropriations made to the Department of Defense for procurement, research, development, test, and evaluation, or operation and maintenance, transfer to the Fund any unobligated balance of such appropriations. Any amount so transferred shall be credited to the Fund.
 
-        (4) __Additional requirements and limitations on remittances.—__ 
+        (4)  __Additional requirements and limitations on remittances__  __.—__ 
 
             (A) In the event amounts are transferred to the Fund during a fiscal year pursuant to paragraph (1)(B) or appropriated to the Fund for a fiscal year pursuant to paragraph (1)(C), the aggregate amount otherwise required to be remitted to the Fund for that fiscal year pursuant to paragraph (2)(B) shall be reduced by the amount equal to the amounts so transferred or appropriated to the Fund during or for that fiscal year. Any reduction in the aggregate amount required to be remitted to the Fund for a fiscal year under this subparagraph shall be allocated as provided in applicable provisions of appropriations Acts or, absent such provisions, on a pro rata basis among the military departments and Defense Agencies required to make remittances to the Fund for that fiscal year under paragraph (2)(B), subject to any exclusions the Secretary of Defense determines to be necessary in the best interests of the Department of Defense.
 
@@ -75,15 +75,15 @@
 
     (e) __Availability of Funds.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to the provisions of this subsection, amounts in the Fund shall be available to the Secretary of Defense for expenditure, or for transfer to a military department or Defense Agency, for the recruitment, training, and retention of acquisition personnel of the Department of Defense for the purpose of the Fund, including for the provision of training and retention incentives to the acquisition workforce of the Department. In the case of temporary members of the acquisition workforce designated pursuant to subsection (h)(2), such funds shall be available only for the limited purpose of providing training in the performance of acquisition-related functions and duties.
 
-        (2) __Prohibition.—__ 
+        (2)  __Prohibition__  __.—__ 
 
         Amounts in the Fund may not be obligated for any purpose other than purposes described in paragraph (1) or otherwise in accordance with this subsection.
 
-        (3) __Guidance.—__ 
+        (3)  __Guidance__  __.—__ 
 
         The Under Secretary of Defense for Acquisition, Technology, and Logistics, acting through the senior official designated to manage the Fund, shall issue guidance for the administration of the Fund. Such guidance shall include provisions—
 
@@ -103,19 +103,19 @@
 
             (D) describing measurable objectives of performance for determining whether amounts in the Fund are being used in compliance with this section.
 
-        (4) __Limitation on payments to or for contractors.—__ 
+        (4)  __Limitation on payments to or for contractors__  __.—__ 
 
         Amounts in the Fund shall not be available for payments to contractors or contractor employees, other than for the purpose of providing advanced training to Department of Defense employees.
 
-        (5) __Prohibition on payment of base salary of current employees.—__ 
+        (5)  __Prohibition on payment of base salary of current employees__  __.—__ 
 
         Amounts in the Fund may not be used to pay the base salary of any person who was an employee of the Department serving in a position in the acquisition workforce as of January 28, 2008, and who has continued in the employment of the Department since such time without a break in such employment of more than a year.
 
-        (6) __Duration of availability.—__ 
+        (6)  __Duration of availability__  __.—__ 
 
         Amounts credited to the Fund in accordance with subsection (d)(2), transferred to the Fund pursuant to subsection (d)(3), appropriated to the Fund, or deposited to the Fund shall remain available for obligation in the fiscal year for which credited, transferred, appropriated, or deposited and the two succeeding fiscal years.
 
-    (f) __Annual Report.—__ 
+    (f)  __Annual Report__  __.—__ 
 
     Not later than 60 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees a report on the operation of the Fund during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
@@ -141,7 +141,7 @@
 
         (2) The Secretary may not appoint a person to a position of employment under this subsection after September 30, 2017.
 
-    (h) __Acquisition Workforce Defined.—__ 
+    (h)  __Acquisition Workforce Defined__  __.—__ 
 
     In this section, the term “acquisition workforce” means the following:
 
@@ -217,11 +217,11 @@
 
 [Pub. L. 111–84, div. A, title VIII, § 832(h)][/us/pl/111/84/s832/h], Oct. 28, 2009, [123 Stat. 2416][/us/stat/123/2416], provided that:
 
->     “(1) __Funding amendments.—__ 
+>     “(1)  __Funding amendments__  __.—__ 
 
 >     The amendments made by subsections (a) through (c) \[amending this section\] shall take effect as of October 1, 2009.
 
->     “(2) __Technical amendments.—__ 
+>     “(2)  __Technical amendments__  __.—__ 
 
 >     The amendments made by subsections (f) and (g) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 28, 2009\].”
 

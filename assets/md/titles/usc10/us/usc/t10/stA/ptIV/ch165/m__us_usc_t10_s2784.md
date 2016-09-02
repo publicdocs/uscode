@@ -15,11 +15,11 @@
 
 ## § 2784. Management of purchase cards
 
-    (a) __Management of Purchase Cards.—__ 
+    (a)  __Management of Purchase Cards__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations governing the use and control of all purchase cards and convenience checks that are issued to Department of Defense personnel for official use. Those regulations shall be consistent with regulations that apply Government-wide regarding use of purchase cards by Government personnel for official purposes.
 
-    (b) __Required Safeguards and Internal Controls.—__ 
+    (b)  __Required Safeguards and Internal Controls__  __.—__ 
 
     Regulations under subsection (a) shall include safeguards and internal controls to ensure the following:
 
@@ -79,7 +79,7 @@
 
         (15) That the Inspector General of the Department of Defense conducts periodic audits or reviews of purchase card or convenience check programs to identify and analyze risks of illegal, improper, or erroneous purchases and payments and that the findings of such audits or reviews, along with recommendations to prevent abuse of purchase cards or convenience checks, are reported to the Director of the Office of Management and Budget and Congress.
 
-    (c) __Penalties for Violations.—__ 
+    (c)  __Penalties for Violations__  __.—__ 
 
     The regulations prescribed under subsection (a) shall—
 
@@ -127,11 +127,11 @@
 
 [Pub. L. 107–248, title VIII, § 8149][/us/pl/107/248/s8149], Oct. 23, 2002, [116 Stat. 1572][/us/stat/116/1572], as amended by [Pub. L. 108–87, title VIII, § 8144][/us/pl/108/87/s8144], Sept. 30, 2003, [117 Stat. 1108][/us/stat/117/1108], provided that:
 
->     “(a) __Limitation on Number of Government Charge Card Accounts during Fiscal Year 2003.—__ 
+>     “(a)  __Limitation on Number of Government Charge Card Accounts during Fiscal Year__  __2003.—__ 
 
 >     The total number of accounts for government purchase charge cards and government travel charge cards for Department of Defense personnel during fiscal year 2003 may not exceed 1,500,000 accounts.
 
->     “(b) __Requirement for Creditworthiness for Issuance of Government Charge Card.—__ 
+>     “(b)  __Requirement for Creditworthiness for Issuance of Government Charge Card__  __.—__ 
 
 >         (1) The Secretary of Defense shall evaluate the creditworthiness of an individual before issuing the individual a government purchase charge card or government travel charge card.
 
@@ -139,7 +139,7 @@
 
 >         “(3) This subsection shall remain in effect for fiscal year 2004.
 
->     “(c) __Disciplinary Action for Misuse of Government Charge Card.—__ 
+>     “(c)  __Disciplinary Action for Misuse of Government Charge Card__  __.—__ 
 
 >         (1) The Secretary shall establish guidelines and procedures for disciplinary actions to be taken against Department personnel for improper, fraudulent, or abusive use of government purchase charge cards and government travel charge cards.
 
@@ -155,7 +155,7 @@
 
 >         “(4) The guidelines and procedures under this subsection shall apply uniformly among the Armed Forces and among the elements of the Department.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than June 30, 2003, the Secretary shall submit to the congressional defense committees a report on the implementation of the requirements and limitations in this section, including the guidelines and procedures established under subsection (c).”
 

@@ -255,11 +255,11 @@
 
 [Pub. L. 105–261, div. A, title V, § 507][/us/pl/105/261/s507], Oct. 17, 1998, [112 Stat. 2004][/us/stat/112/2004], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     The Secretary of the Navy should review the process and criteria used to determine the number of Naval Reserve Officer Training Corps (NROTC) scholarship recipients who attend each college and university participating in the NROTC program and how those scholarships are allocated to those schools.
 
->     “(b) __Purpose of Review.—__ 
+>     “(b)  __Purpose of Review__  __.—__ 
 
 >     The review should seek to determine—
 
@@ -267,7 +267,7 @@
 
 >         “(2) within the determination under paragraph (1), whether the likelihood of a scholarship awardee who wants to attend a school of choice in the student’s State of residence can be increased.
 
->     “(c) __Matters Reviewed.—__ 
+>     “(c)  __Matters Reviewed__  __.—__ 
 
 >     The matters reviewed should include the following:
 
@@ -279,7 +279,7 @@
 
 >         “(4) The effects that eliminating the controlled allocation of scholarships to host colleges and universities, entirely or by State, would have on the NROTC program.
 
->     “(d) __Consultation Requirement.—__ 
+>     “(d)  __Consultation Requirement__  __.—__ 
 
 >     In carrying out a review under subsection (a), the Secretary should consult with officials of interested associations and of colleges and universities which host ROTC units and such other officials as the Secretary considers appropriate.”
 

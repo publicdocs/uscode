@@ -15,11 +15,11 @@
 
 ## § 2668a. Easements: granting restrictive easements in connection with land conveyances
 
-    (a) __Authority to Include Restrictive Easement.—__ 
+    (a)  __Authority to Include Restrictive Easement__  __.—__ 
 
     In connection with the conveyance of real property by the Secretary concerned under any provision of law, the Secretary concerned may grant an easement to an entity specified in subsection (b) restricting future uses of the conveyed real property for a conservation purpose consistent with section 170(h)(4)(A)(iv) of the Internal Revenue Code of 1986 ([26 U.S.C. 170(h)(4)(A)(iv)][/us/usc/t26/s170/h/4/A/iv]).
 
-    (b) __Authorized Recipients.—__ 
+    (b)  __Authorized Recipients__  __.—__ 
 
     An easement under subsection (a) may be granted only to—
 
@@ -27,7 +27,7 @@
 
         (2) a qualified organization, as that term is defined in section 170(h) of the Internal Revenue Code of 1986 ([26 U.S.C. 170(h)][/us/usc/t26/s170/h]).
 
-    (c) __Limitations on Use of Easement Authority.—__ 
+    (c)  __Limitations on Use of Easement Authority__  __.—__ 
 
     An easement under subsection (a) may not be granted unless—
 
@@ -39,15 +39,15 @@
 
         (4) the Secretary can give or assign to a third party the responsibility for monitoring and enforcing easements granted under this section.
 
-    (d) __Consideration.—__ 
+    (d)  __Consideration__  __.—__ 
 
     Easements granted under this section shall be without consideration from the recipient.
 
-    (e) __Acreage Limitation.—__ 
+    (e)  __Acreage Limitation__  __.—__ 
 
     No easement granted under this section may include more land than is necessary for the easement.
 
-    (f) __Terms and Conditions.—__ 
+    (f)  __Terms and Conditions__  __.—__ 
 
     The grant of an easement under this section shall be subject to such additional terms and conditions as the Secretary concerned considers appropriate to protect the interests of the United States.
 

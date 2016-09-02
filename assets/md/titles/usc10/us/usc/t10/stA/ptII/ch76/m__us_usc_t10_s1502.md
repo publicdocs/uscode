@@ -15,7 +15,7 @@
 
 ## § 1502. Missing persons: initial report
 
-    (a) __Preliminary Assessment and Recommendation by Commander.—__ 
+    (a)  __Preliminary Assessment and Recommendation by Commander__  __.—__ 
 
     After receiving information that the whereabouts and status of a person described in [section 1501(c) of this title][/us/usc/t10/s1501/c] is uncertain and that the absence of the person may be involuntary, the commander of the unit, facility, or area to or in which the person is assigned shall make a preliminary assessment of the circumstances. If, as a result of that assessment, the commander concludes that the person is missing, the commander shall—
 
@@ -23,11 +23,11 @@
 
         (2) not later than 10 days after receiving such information, transmit a report containing that recommendation to the Secretary concerned in accordance with procedures prescribed under [section 1501(b) of this title][/us/usc/t10/s1501/b].
 
-    (b) __Transmission of Advisory Copy to Theater Component Commander.—__ 
+    (b)  __Transmission of Advisory Copy to Theater Component Commander__  __.—__ 
 
     When transmitting a report under subsection (a)(2) recommending that a person be placed in a missing status, the commander transmitting that report shall transmit an advisory copy of the report to the theater component commander with jurisdiction over the missing person.
 
-    (c) __Safeguarding and Forwarding of Rec­ords.—__ 
+    (c)  __Safeguarding and Forwarding of Rec­ords__  __.—__ 
 
     A commander making a preliminary assessment under subsection (a) with respect to a missing person shall (in accordance with procedures prescribed under [section 1501 of this title][/us/usc/t10/s1501]) safeguard and forward for official use any information relating to the whereabouts and status of the missing person that results from the preliminary assessment or from actions taken to locate the person.
 

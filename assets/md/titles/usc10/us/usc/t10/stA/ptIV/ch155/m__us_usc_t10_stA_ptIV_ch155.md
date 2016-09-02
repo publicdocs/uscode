@@ -199,15 +199,15 @@
 
 [Pub. L. 109–148, div. A, title VIII, § 8127][/us/pl/109/148/s8127], Dec. 30, 2005, [119 Stat. 2730][/us/stat/119/2730], provided that:
 
->     “(a) __Regulations.—__ 
+>     “(a)  __Regulations__  __.—__ 
 
 >     The Secretary of Defense shall prescribe regulations to provide that, subject to such limitations as may be specified in such regulations, members of the Armed Forces described in subsection (c), and the family members of such a member, may accept gifts from non-profit organizations, private parties, and other sources outside the Department of Defense, other than foreign governments and their agents. Such regulations shall apply uniformly to the Army, Navy, Air Force, and Marine Corps, and, to the maximum extent feasible, to the Coast Guard, and shall apply uniformly to the active and reserve components.
 
->     “(b) __Authority.—__ 
+>     “(b)  __Authority__  __.—__ 
 
 >     A member of the Armed Forces described in subsection (c) may accept gifts as provided in the regulations authorized in subsection (a), notwithstanding [section 7353 of title 5][/us/usc/t5/s7353], United States Code.
 
->     “(c) __Covered Members.—__ 
+>     “(c)  __Covered Members__  __.—__ 
 
 >     A member of the Armed Forces is described in this subsection in the case of a member who is on active duty and who on or after September 11, 2001, and while on active duty, incurred an injury or illness—
 
@@ -215,11 +215,11 @@
 
 >         “(2) in an operation or area designated as a combat operation or a combat zone, respectively, by the Secretary of Defense in accordance with the regulations prescribed under subsection (a).
 
->     “(d) __Deadline for Regulations.—__ 
+>     “(d)  __Deadline for Regulations__  __.—__ 
 
 >     Regulations under subsection (a) shall be prescribed not later than 90 days after the date of the enactment of this Act \[Dec. 30, 2005\].
 
->     “(e) __Retroactive Applicability of Regulations.—__ 
+>     “(e)  __Retroactive Applicability of Regulations__  __.—__ 
 
 >     Regulations under subsection (a) shall, to the extent provided in such regulations, also apply to the acceptance of gifts during the period beginning on September 11, 2001, and ending on the date on which such regulations go into effect.”
 

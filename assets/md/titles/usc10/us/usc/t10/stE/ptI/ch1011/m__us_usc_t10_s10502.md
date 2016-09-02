@@ -15,7 +15,7 @@
 
 ## § 10502. Chief of the National Guard Bureau: appointment; adviser on National Guard matters; grade; succession
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     There is a Chief of the National Guard Bureau, who is responsible for the organization and operations of the National Guard Bureau. The Chief of the National Guard Bureau is appointed by the President, by and with the advice and consent of the Senate. Such appointment shall be made from officers of the Army National Guard of the United States or the Air National Guard of the United States who—
 
@@ -35,7 +35,7 @@
 
         (8) possess such other qualifications as the Secretary of Defense shall prescribe for purposes of this section.
 
-    (b) __Term of Office.—__ 
+    (b)  __Term of Office__  __.—__ 
 
         (1) An officer appointed as Chief of the National Guard Bureau serves at the pleasure of the President for a term of four years. An officer may be reappointed as Chief of the National Guard Bureau.
 
@@ -49,17 +49,17 @@
 
         (2) the principal adviser to the Secretary of the Army and the Chief of Staff of the Army, and to the Secretary of the Air Force and the Chief of Staff of the Air Force, on matters relating to the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States.
 
-    (d) __Member of Joint Chiefs of Staff.—__ 
+    (d)  __Member of Joint Chiefs of Staff__  __.—__ 
 
     As a member of the Joint Chiefs of Staff, the Chief of the National Guard Bureau has the specific responsibility of addressing matters involving non-Federalized National Guard forces in support of homeland defense and civil support missions.
 
-    (e) __Grade and Exclusion From General and Flag Officer Authorized Strength.—__ 
+    (e)  __Grade and Exclusion From General and Flag Officer Authorized Strength__  __.—__ 
 
         (1) The Chief of the National Guard Bureau shall be appointed to serve in the grade of general.
 
         (2) The Secretary of Defense shall designate, pursuant to subsection (b) of [section 526 of this title][/us/usc/t10/s526], the position of Chief of the National Guard Bureau as one of the general officer and flag officer positions to be excluded from the limitations in subsection (a) of such section.
 
-    (f) __Succession.—__ 
+    (f)  __Succession__  __.—__ 
 
         (1) When there is a vacancy in the office of the Chief of the National Guard Bureau or in the absence or disability of the Chief, the Vice Chief of the National Guard Bureau acts as Chief and performs the duties of the Chief until a successor is appointed or the absence or disability ceases.
 

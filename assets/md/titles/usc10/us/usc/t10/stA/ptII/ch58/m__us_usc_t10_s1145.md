@@ -15,7 +15,7 @@
 
 ## § 1145. Health benefits
 
-    (a) __Transitional Health Care.—__ 
+    (a)  __Transitional Health Care__  __.—__ 
 
         (1)
 
@@ -77,7 +77,7 @@
 
             (B) The Secretary concerned shall ensure that the Defense Enrollment and Eligibility Reporting System (DEERS) is continually updated in order to reflect the continuing entitlement of members covered by subparagraph (A) to the medical and dental care referred to in that subparagraph.
 
-    (b) __Conversion Health Policies.—__ 
+    (b)  __Conversion Health Policies__  __.—__ 
 
         (1) The Secretary of Defense shall inform each member referred to in subsection (a) before the date of the member’s discharge or release from active duty of the availability for purchase by the member of a conversion health policy for the member and the dependents of that member. A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.
 
@@ -103,17 +103,17 @@
 
         (6) In order to reduce premiums required under paragraph (4), the Secretary of Defense may offer a conversion health policy that, with respect to mental health services, offers reduced coverage and increased cost-sharing by the purchaser.
 
-    (c) __Health Care For Certain Separated Members Not Otherwise Eligible.—__ 
+    (c)  __Health Care For Certain Separated Members Not Otherwise Eligible__  __.—__ 
 
         (1) Consistent with the authority of the Secretary concerned to designate certain classes of persons as eligible to receive health care at a military medical facility, the Secretary concerned should consider authorizing, on an individual basis in cases of hardship, the provision of that care for a member who is separated from the armed forces, and is ineligible for transitional health care under subsection (a) or does not obtain a conversion health policy (or a dependent of the member).
 
         (2) The Secretary concerned shall give special consideration to requests for such care in cases in which the condition for which treatment is required was incurred or aggravated by the member or the dependent before the date of the separation of the member, particularly if the condition is a result of the particular circumstances of the service of the member.
 
-    (d) __Definition.—__ 
+    (d)  __Definition__  __.—__ 
 
     In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of a person who is no longer a member of the armed forces or a covered beneficiary.
 
-    (e) __Coast Guard.—__ 
+    (e)  __Coast Guard__  __.—__ 
 
     The Secretary of Homeland Security shall implement this section for the members of the Coast Guard and their dependents when the Coast Guard is not operating as a service in the Navy.
 

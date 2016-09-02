@@ -15,17 +15,17 @@
 
 ## § 663. Joint duty assignments after completion of joint professional military education
 
-    (a) __Joint Qualified Officers.—__ 
+    (a)  __Joint Qualified Officers__  __.—__ 
 
     The Secretary of Defense shall ensure that each officer designated as a joint qualified officer who graduates from a school within the National Defense University specified in subsection (c) shall be assigned to a joint duty assignment for that officer’s next duty assignment after such graduation (unless the officer receives a waiver of that requirement by the Secretary in an individual case).
 
-    (b) __Other Officers.—__ 
+    (b)  __Other Officers__  __.—__ 
 
         (1) The Secretary of Defense shall ensure that a high proportion (which shall be greater than 50 percent) of the officers graduating from a school within the National Defense University specified in subsection (c) who are not designated as a joint qualified officer shall receive assignments to a joint duty assignment (or, as authorized by the Secretary in an individual case, to a joint assignment other than a joint duty assignment) as their next duty assignment after such graduation or, to the extent authorized in paragraph (2), as their second duty assignment after such graduation.
 
         (2) The Secretary may, if the Secretary determines that it is necessary to do so for the efficient management of officer personnel, establish procedures to allow up to one-half of the officers subject to the assignment requirement in paragraph (1) to be assigned to such an assignment as their second (rather than first) assignment after such graduation from a school referred to in paragraph (1).
 
-    (c) __Covered Schools Within the National Defense University.—__ 
+    (c)  __Covered Schools Within the National Defense University__  __.—__ 
 
     For purposes of this section, a school within the National Defense University specified in this subsection is one of the following:
 
@@ -35,7 +35,7 @@
 
         (3) The Joint Forces Staff College.
 
-    (d) __Exception for Officers Graduating From Other-than-in-residence Programs.—__ 
+    (d)  __Exception for Officers Graduating From Other-than-in-residence Programs__  __.—__ 
 
         (1) Subsection (a) does not apply to an officer graduating from a school within the National Defense University specified in subsection (c) following pursuit of a program on an other-than-in-residence basis.
 
@@ -109,17 +109,17 @@
 
 [Pub. L. 99–433, title IV, § 406(d)][/us/pl/99/433/s406/d], Oct. 1, 1986, [100 Stat. 1033][/us/stat/100/1033], provided that:
 
->     “(1) __Capstone course.—__ 
+>     “(1)  __Capstone course__  __.—__ 
 
 >     Subsection (a) of section 663 of such title \[[10 U.S.C. 663(a)][/us/usc/t10/s663/a]\] (as added by section 401) shall apply with respect to officers selected in reports of officer selection boards submitted to the Secretary concerned after the end of the 120-day period beginning on the date of the enactment of this Act \[Oct. 1, 1986\].
 
->     “(2) __Review of military education schools.—__ 
+>     “(2)  __Review of military education schools__  __.—__ 
 
 >         (A) The first review under subsections (b) and (c) of such section shall be completed not later than 120 days after the date of the enactment of this Act. The Secretary of Defense shall submit to Congress a report on the results of the review at each Department of Defense school not later than 60 days thereafter.
 
 >         “(B) Such subsections shall be implemented so that the revised curricula take effect with respect to courses beginning after July 1987.
 
->     “(3) __Post-education duty assignments.—__ 
+>     “(3)  __Post-education duty assignments__  __.—__ 
 
 >     Subsection (d) of such section shall take effect with respect to classes graduating from joint professional military education schools after January 1987.”
 

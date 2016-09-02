@@ -15,7 +15,7 @@
 
 ## § 2200a. Scholarship program
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may, subject to subsection (f), provide financial assistance in accordance with this section to a person—
 
@@ -23,7 +23,7 @@
 
         (2) who enters into an agreement with the Secretary as described in subsection (b).
 
-    (b) __Service Agreement for Scholarship Recipients.—__ 
+    (b)  __Service Agreement for Scholarship Recipients__  __.—__ 
 
         (1)
 
@@ -53,25 +53,25 @@
 
             (C) Any other terms and conditions that the Secretary of Defense determines appropriate for carrying out this section.
 
-    (c) __Amount of Assistance.—__ 
+    (c)  __Amount of Assistance__  __.—__ 
 
     The amount of the financial assistance provided for a person under this section shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, and expenses of room and board. The expenses paid, however, shall be limited to those educational expenses normally incurred by students at the institution of higher education involved.
 
-    (d) __Use of Assistance for Support of Internships.—__ 
+    (d)  __Use of Assistance for Support of Internships__  __.—__ 
 
     The financial assistance for a person under this section may also be provided to support internship activities of the person at the Department of Defense in periods between the academic years leading to the degree for which assistance is provided the person under this section.
 
-    (e) __Repayment for Period of Unserved Obligated Service.—__ 
+    (e)  __Repayment for Period of Unserved Obligated Service__  __.—__ 
 
         (1) A member of an armed force who does not complete the period of active duty specified in the service agreement under subsection (b) shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e].
 
         (2) A civilian employee of the Department of Defense who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e] in the same manner and to the same extent as if the civilian employee were a member of the armed forces.
 
-    (f) __Allocation of Funding.—__ 
+    (f)  __Allocation of Funding__  __.—__ 
 
     Not less than 50 percent of the amount available for financial assistance under this section for a fiscal year shall be available only for providing financial assistance for the pursuit of degrees referred to in subsection (a) at institutions of higher education that have established, improved, or are administering programs of education in information assurance under the grant program established in [section 2200b of this title][/us/usc/t10/s2200b], as determined by the Secretary of Defense.
 
-    (g) __Employment of Program Participants.—__ 
+    (g)  __Employment of Program Participants__  __.—__ 
 
     The Secretary of Defense—
 

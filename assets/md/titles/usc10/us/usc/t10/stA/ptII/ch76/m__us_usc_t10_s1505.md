@@ -15,15 +15,15 @@
 
 ## § 1505. Further review
 
-    (a) __Subsequent Review.—__ 
+    (a)  __Subsequent Review__  __.—__ 
 
     The Secretary concerned shall conduct subsequent inquiries into the whereabouts and status of any person determined by the Secretary under [section 1504 of this title][/us/usc/t10/s1504] to be in a missing status.
 
-    (b) __Frequency of Subsequent Reviews.—__ 
+    (b)  __Frequency of Subsequent Reviews__  __.—__ 
 
     The Secretary concerned shall conduct inquiries into the whereabouts and status of a person under subsection (a) upon receipt of information that may result in a change of status of the person. The Secretary concerned shall appoint a board to conduct such inquiries.
 
-    (c) __Action Upon Discovery or Receipt of Information.—__ 
+    (c)  __Action Upon Discovery or Receipt of Information__  __.—__ 
 
         (1) Whenever any United States intelligence agency or other element of the Government finds or receives information that may be related to a missing person, the information shall promptly be forwarded to the office established under [section 1501 of this title][/us/usc/t10/s1501].
 
@@ -31,7 +31,7 @@
 
         (3) The head of the office established under [section 1501 of this title][/us/usc/t10/s1501], with the advice of the missing person’s counsel notified under paragraph (2), shall determine whether the information is significant enough to require a board review under this section.
 
-    (d) __Conduct of Proceedings.—__ 
+    (d)  __Conduct of Proceedings__  __.—__ 
 
     If it is determined that such a board should be appointed, the appointment of, and activities before, a board appointed under this section shall be governed by the provisions of [section 1504 of this title][/us/usc/t10/s1504] with respect to a board appointed under that section.
 

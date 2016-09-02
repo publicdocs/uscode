@@ -17,7 +17,7 @@
 
     (a) __Payment of Both Retired Pay and Compensation.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Subject to subsection (b), a member or former member of the uniformed services who is entitled for any month to retired pay and who is also entitled for that month to veterans’ disability compensation for a qualifying service-connected disability (hereinafter in this section referred to as a “qualified retiree”) is entitled to be paid both for that month without regard to sections 5304 and 5305 of title 38. During the period beginning on January 1, 2004, and ending on December 31, 2013, payment of retired pay to such a qualified retiree is subject to subsection (c), except that payment of retired pay is subject to subsection (c) only during the period beginning on January 1, 2004, and ending on December 31, 2004, in the case of the following:
 
@@ -25,25 +25,25 @@
 
             (B) A qualified retiree receiving veterans’ disability compensation at the rate payable for a 100 percent disability by reason of a determination of individual unemployability.
 
-        (2) __Qualifying service-connected disability.—__ 
+        (2)  __Qualifying service-connected disability__  __.—__ 
 
         In this section, the term “qualifying service-connected disability” means a service-connected disability or combination of service-connected disabilities that is rated as not less than 50 percent disabling by the Secretary of Veterans Affairs.
 
-    (b) __Special Rules for Chapter 61 Disability Retirees.—__ 
+    (b)  __Special Rules for Chapter__  __61 Disability Retirees.—__ 
 
-        (1) __Career retirees.—__ 
+        (1)  __Career retirees__  __.—__ 
 
         The retired pay of a member retired under chapter 61 of this title with 20 years or more of service otherwise creditable under [section 1405 of this title][/us/usc/t10/s1405], or at least 20 years of service computed under [section 12732 of this title][/us/usc/t10/s12732], at the time of the member’s retirement is subject to reduction under sections 5304 and 5305 of title 38, but only to the extent that the amount of the member’s retired pay under chapter 61 of this title exceeds the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
-        (2) __Disability retirees with less than 20 years of service.—__ 
+        (2)  __Disability retirees with less than 20 years of service__  __.—__ 
 
         Subsection (a) does not apply to a member retired under chapter 61 of this title with less than 20 years of service otherwise creditable under [section 1405 of this title][/us/usc/t10/s1405], or with less than 20 years of service computed under [section 12732 of this title][/us/usc/t10/s12732], at the time of the member’s retirement.
 
-    (c) __Phase-in of Full Concurrent Receipt.—__ 
+    (c)  __Phase-in of Full Concurrent Receipt__  __.—__ 
 
     During the period beginning on January 1, 2004, and ending on December 31, 2013, retired pay payable to a qualified retiree that pursuant to the second sentence of subsection (a)(1) is subject to this subsection shall be determined as follows:
 
-        (1) __Calendar year 2004.—__ 
+        (1)  __Calendar year 2004__  __.—__ 
 
         For a month during 2004, the amount of retired pay payable to a qualified retiree is the amount (if any) of retired pay in excess of the current baseline offset plus the following:
 
@@ -59,7 +59,7 @@
 
             (F) For a month for which the retiree receives veterans’ disability compensation for a disability rated as 50 percent, $100.
 
-        (2) __Calendar year 2005.—__ 
+        (2)  __Calendar year 2005__  __.—__ 
 
         For a month during 2005, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -67,7 +67,7 @@
 
             (B) 10 percent of the difference between (i) the current baseline offset, and (ii) the amount specified in paragraph (1) for that member’s disability.
 
-        (3) __Calendar year 2006.—__ 
+        (3)  __Calendar year 2006__  __.—__ 
 
         For a month during 2006, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -75,7 +75,7 @@
 
             (B) 20 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (2) for that qualified retiree.
 
-        (4) __Calendar year 2007.—__ 
+        (4)  __Calendar year 2007__  __.—__ 
 
         For a month during 2007, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -83,7 +83,7 @@
 
             (B) 30 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (3) for that qualified retiree.
 
-        (5) __Calendar year 2008.—__ 
+        (5)  __Calendar year 2008__  __.—__ 
 
         For a month during 2008, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -91,7 +91,7 @@
 
             (B) 40 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (4) for that qualified retiree.
 
-        (6) __Calendar year 2009.—__ 
+        (6)  __Calendar year 2009__  __.—__ 
 
         For a month during 2009, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -99,7 +99,7 @@
 
             (B) 50 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (5) for that qualified retiree.
 
-        (7) __Calendar year 2010.—__ 
+        (7)  __Calendar year 2010__  __.—__ 
 
         For a month during 2010, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -107,7 +107,7 @@
 
             (B) 60 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (6) for that qualified retiree.
 
-        (8) __Calendar year 2011.—__ 
+        (8)  __Calendar year 2011__  __.—__ 
 
         For a month during 2011, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -115,7 +115,7 @@
 
             (B) 70 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (7) for that qualified retiree.
 
-        (9) __Calendar year 2012.—__ 
+        (9)  __Calendar year 2012__  __.—__ 
 
         For a month during 2012, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -123,7 +123,7 @@
 
             (B) 80 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (8) for that qualified retiree.
 
-        (10) __Calendar year 2013.—__ 
+        (10)  __Calendar year 2013__  __.—__ 
 
         For a month during 2013, the amount of retired pay payable to a qualified retiree is the sum of—
 
@@ -131,33 +131,33 @@
 
             (B) 90 percent of the difference between (i) the current baseline offset, and (ii) the amount determined under paragraph (9) for that qualified retiree.
 
-        (11) __General limitation.—__ 
+        (11)  __General limitation__  __.—__ 
 
         Retired pay determined under this subsection for a qualified retiree, if greater than the amount of retired pay otherwise applicable to that qualified retiree, shall be reduced to the amount of retired pay otherwise applicable to that qualified retiree.
 
     (d) __Coordination With Combat-Related Special Compensation Program.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         A person who is a qualified retiree under this section and is also an eligible combat-related disabled uniformed services retiree under [section 1413a of this title][/us/usc/t10/s1413a] may receive special compensation in accordance with that section or retired pay in accordance with this section, but not both.
 
-        (2) __Annual open season.—__ 
+        (2)  __Annual open season__  __.—__ 
 
         The Secretary concerned shall provide for an annual period (referred to as an “open season”) during which a person described in paragraph (1) shall have the right to make an election to change from receipt of special compensation in accordance with [section 1413a of this title][/us/usc/t10/s1413a] to receipt of retired pay in accordance with this section, or the reverse, as the case may be. Any such election shall be made under regulations prescribed by the Secretary concerned. Such regulations shall provide for the form and manner for making such an election and shall provide for the date as of when such an election shall become effective. In the case of the Secretary of a military department, such regulations shall be subject to approval by the Secretary of Defense.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Retired pay.—__ 
+        (1)  __Retired pay__  __.—__ 
 
         The term “retired pay” includes retainer pay, emergency officers’ retirement pay, and naval pension.
 
-        (2) __Veterans’ disability compensation.—__ 
+        (2)  __Veterans’ disability compensation__  __.—__ 
 
         The term “veterans’ disability compensation” has the meaning given the term “compensation” in [section 101(13) of title 38][/us/usc/t38/s101/13].
 
-        (3) __Disability rated as total.—__ 
+        (3)  __Disability rated as total__  __.—__ 
 
         The term “disability rated as total” means—
 
@@ -167,7 +167,7 @@
 
         (4) __Current baseline offset.—__ 
 
-            (A) __In general.—__ 
+            (A)  __In general__  __.—__ 
 
             The term “current baseline offset” for any qualified retiree means the amount for any month that is the lesser of—
 
@@ -175,7 +175,7 @@
 
                 (ii) the amount of monthly veterans’ disability compensation to which the qualified retiree is entitled for that month.
 
-            (B) __Applicable retired pay.—__ 
+            (B)  __Applicable retired pay__  __.—__ 
 
             In subparagraph (A), the term “applicable retired pay” for a qualified retiree means the amount of monthly retired pay to which the qualified retiree is entitled, determined without regard to this section or sections 5304 and 5305 of title 38, except that in the case of such a retiree who was retired under chapter 61 of this title, such amount is the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
@@ -197,11 +197,11 @@
 
 [Pub. L. 110–181, div. A, title VI, § 642(b)][/us/pl/110/181/s642/b], Jan. 28, 2008, [122 Stat. 157][/us/stat/122/157], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Subject to paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect as of December 31, 2004.
 
->     “(2) __Timing of payment of retroactive benefits.—__ 
+>     “(2)  __Timing of payment of retroactive benefits__  __.—__ 
 
 >     Any amount payable for a period before October 1, 2008, by reason of the amendment made by subsection (a) shall not be paid until after that date.”
 

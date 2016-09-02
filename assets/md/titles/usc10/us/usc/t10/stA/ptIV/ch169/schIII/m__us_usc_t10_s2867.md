@@ -15,7 +15,7 @@
 
 ## § 2867. Energy monitoring and utility control system specification for military construction and military family housing activities
 
-    (a) __Adoption of Department-wide, Open Protocol, Energy Monitoring and Utility Control System Specification.—__ 
+    (a)  __Adoption of Department-wide, Open Protocol, Energy Monitoring and Utility Control System Specification__  __.—__ 
 
         (1) The Secretary of Defense shall adopt an open protocol energy monitoring and utility control system specification for use throughout the Department of Defense in connection with a military construction project, military family housing activity, or other activity under this chapter for the purpose of monitoring and controlling, with respect to the project or activity, the items specified in paragraph (2) with the goal of establishing installation-wide energy monitoring and utility control systems.
 
@@ -37,7 +37,7 @@
 
             (G) Power distribution networks.
 
-    (b) __Exclusion.—__ 
+    (b)  __Exclusion__  __.—__ 
 
         (1) The energy monitoring and utility control system specification required by subsection (a) is not required to apply to projects carried out under the authority provided in subchapter IV of chapter 169 of this title.
 

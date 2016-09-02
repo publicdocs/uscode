@@ -15,19 +15,19 @@
 
 ## § 2476. Minimum capital investment for certain depots
 
-    (a) __Minimum Investment.—__ 
+    (a)  __Minimum Investment__  __.—__ 
 
     Each fiscal year, the Secretary of a military department shall invest in the capital budgets of the covered depots of that military department a total amount equal to not less than six percent of the average total combined maintenance, repair, and overhaul workload funded at all the depots of that military department for the preceding three fiscal years.
 
-    (b) __Capital Budget.—__ 
+    (b)  __Capital Budget__  __.—__ 
 
     For purposes of this section, the capital budget of a depot includes investment funds spent to modernize or improve the efficiency of depot facilities, equipment, work environment, or processes in direct support of depot operations, but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment.
 
-    (c) __Waiver.—__ 
+    (c)  __Waiver__  __.—__ 
 
     The Secretary of Defense may waive the requirement under subsection (a) with respect to a military department for a fiscal year if the Secretary determines that the waiver is necessary for reasons of national security. Whenever the Secretary makes such a waiver, the Secretary shall notify the congressional defense committees of the waiver and the reasons for the waiver.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1) Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to the congressional defense committees a report containing budget justification documents summarizing the level of capital investment for each military department as of the end of the preceding fiscal year.
 
@@ -45,7 +45,7 @@
 
             (E) A table showing the funded workload performed by each covered depot for the preceding three fiscal years and actual investment funds allocated to each depot for the period covered by the report.
 
-    (e) __Covered Depot.—__ 
+    (e)  __Covered Depot__  __.—__ 
 
     In this section, the term “covered depot” means any of the following:
 
@@ -141,7 +141,7 @@
 
 [Pub. L. 109–364, div. A, title III, § 332(d)][/us/pl/109/364/s332/d], Oct. 17, 2006, [120 Stat. 2150][/us/stat/120/2150], provided that:
 
->     “(1) __Reduced percentage of required investment for fiscal years 2007 and 2008.—__ 
+>     “(1)  __Reduced percentage of required investment for fiscal years 2007 and 2008__  __.—__ 
 
 >     The Secretary of the Army shall apply subsection (a) of [section 2476 of title 10][/us/usc/t10/s2476], United States Code, as added by subsection (a), to the covered depots of the Army, and the Secretary of the Navy shall apply such subsection to the covered depots of the Department of the Navy—
 
@@ -149,7 +149,7 @@
 
 >         “(B) for fiscal year 2008, by substituting ‘five percent’ for ‘six percent’.
 
->     “(2) __Covered depots.—__ 
+>     “(2)  __Covered depots__  __.—__ 
 
 >     In this subsection, the term ‘covered depot’ has the meaning given that term in subsection (e) of [section 2476 of title 10][/us/usc/t10/s2476], United States Code, as added by subsection (a).”
 

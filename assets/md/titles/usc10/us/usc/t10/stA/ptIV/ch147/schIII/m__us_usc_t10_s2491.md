@@ -15,15 +15,15 @@
 
 ## § 2491. Uniform funding and management of morale, welfare, and recreation programs
 
-    (a) __Authority for Uniform Funding and Management.—__ 
+    (a)  __Authority for Uniform Funding and Management__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, funds appropriated to the Department of Defense and available for morale, welfare, and recreation programs may be treated as nonappropriated funds and expended in accordance with laws applicable to the expenditures of nonappropriated funds. When made available for morale, welfare, and recreation programs under such regulations, appropriated funds shall be considered to be nonappropriated funds for all purposes and shall remain available until expended.
 
-    (b) __Conditions on Availability.—__ 
+    (b)  __Conditions on Availability__  __.—__ 
 
     Funds appropriated to the Department of Defense may be made available to support a morale, welfare, or recreation program only if the program is authorized to receive appropriated fund support and only in the amounts the program is authorized to receive.
 
-    (c) __Conversion of Employment Positions.—__ 
+    (c)  __Conversion of Employment Positions__  __.—__ 
 
         (1) The Secretary of Defense may identify positions of employees in morale, welfare, and recreation programs within the Department of Defense who are paid with appropriated funds whose status may be converted from the status of an employee paid with appropriated funds to the status of an employee of a nonappropriated fund instrumentality.
 

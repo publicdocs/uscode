@@ -15,11 +15,11 @@
 
 ## § 504. Persons not qualified
 
-    (a) __Insanity, Desertion, Felons, Etc.—__ 
+    (a)  __Insanity, Desertion, Felons, Etc__  __.—__ 
 
     No person who is insane, intoxicated, or a deserter from an armed force, or who has been convicted of a felony, may be enlisted in any armed force. However, the Secretary concerned may authorize exceptions, in meritorious cases, for the enlistment of deserters and persons convicted of felonies.
 
-    (b) __Citizenship or Residency.—__ 
+    (b)  __Citizenship or Residency__  __.—__ 
 
         (1)
 

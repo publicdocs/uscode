@@ -101,11 +101,11 @@
 
 [Pub. L. 111–84, div. B, title XXVIII, § 2807][/us/pl/111/84/s2807], Oct. 28, 2009, [123 Stat. 2663][/us/stat/123/2663], provided that:
 
->     “(a) __Expansion of Initiative.—__ 
+>     “(a)  __Expansion of Initiative__  __.—__ 
 
 >     Not later than September 30, 2011, the Secretary of the Army shall expand the First Sergeants Barracks Initiative (FSBI) to include all Army installations in order to improve the quality of life and living environments for single soldiers.
 
->     “(b) __Progress Reports.—__ 
+>     “(b)  __Progress Reports__  __.—__ 
 
 >     Not later than February 15, 2010, and February 15, 2011, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the progress made in expanding the First Sergeants Barracks Initiative to all Army installations.”
 
@@ -121,11 +121,11 @@
 
 >     “(a) __Training Strategy.—__ 
 
->         “(1) __Strategy required.—__ 
+>         “(1)  __Strategy required__  __.—__ 
 
 >         The Secretary of the Army shall develop and implement a strategy for the training of brigade-based combat teams and functional supporting brigades in order to ensure the readiness of such teams and brigades.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The training strategy under paragraph (1) shall include the following:
 
@@ -139,17 +139,17 @@
 
 >             “(E) A model to quantify, and to forecast, operation and maintenance funding required for each fiscal year to attain the performance goals specified under subparagraph (B).
 
->         “(3) __Timing of implementation.—__ 
+>         “(3)  __Timing of implementation__  __.—__ 
 
 >         The Secretary of the Army shall develop and implement the training strategy under paragraph (1) as soon as practicable.
 
 >     “(b) __Report.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the training strategy developed under subsection (a).
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report under paragraph (1) shall include the following:
 
@@ -163,11 +163,11 @@
 
 >     “(c) __Comptroller General Review of Implementation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General shall monitor the implementation of the training strategy developed under subsection (a).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date on which the Secretary of the Army submits the report under subsection (b), the Comptroller General shall submit to the congressional defense committees a report containing the assessment of the Comptroller General of the current progress of the Army in implementing the training strategy.”
 
@@ -181,23 +181,23 @@
 
 [Pub. L. 103–337, div. A, title X, § 1065][/us/pl/103/337/s1065], Oct. 5, 1994, [108 Stat. 2849][/us/stat/108/2849], provided that:
 
->     “(a) __Demonstration Project Authorized.—__ 
+>     “(a)  __Demonstration Project Authorized__  __.—__ 
 
 >     The Secretary of the Army may conduct a demonstration project to test the feasibility of using Army facilities to provide employment training to nonviolent offenders in a State penal system before their release from incarceration. The demonstration project shall be limited to not more than three military installations under the jurisdiction of the Secretary.
 
->     “(b) __Sources of Training.—__ 
+>     “(b)  __Sources of Training__  __.—__ 
 
 >     The Secretary may enter into a cooperative agreement with one or more private, nonprofit organizations for purposes of providing at the military installations included in the demonstration project the prerelease employment training authorized under subsection (a) or may provide such training directly at such installations by agreement with the State concerned.
 
->     “(c) __Use of Facilities.—__ 
+>     “(c)  __Use of Facilities__  __.—__ 
 
 >     Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding [section 2667(b)(4) of title 10][/us/usc/t10/s2667/b/4], United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
 
->     “(d) __Acceptance of Services.—__ 
+>     “(d)  __Acceptance of Services__  __.—__ 
 
 >     Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], United States Code, the Secretary may accept voluntary services provided by persons participating in the prerelease employment training authorized under subsection (a).
 
->     “(e) __Liability and Indemnification.—__ 
+>     “(e)  __Liability and Indemnification__  __.—__ 
 
 >         (1)
 
@@ -215,7 +215,7 @@
 
 >             “(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than two years after the date of the enactment of this Act \[Oct. 5, 1994\], the Secretary shall submit to Congress a report evaluating the success of the demonstration project and containing such recommendations with regard to the termination, continuation, or expansion of the demonstration project as the Secretary considers appropriate.”
 

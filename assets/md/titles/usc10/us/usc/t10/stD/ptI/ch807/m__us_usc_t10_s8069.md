@@ -15,15 +15,15 @@
 
 ## § 8069. Air Force nurses: Chief and assistant chief; appointment; grade
 
-    (a) __Positions of Chief and Assistant Chief.—__ 
+    (a)  __Positions of Chief and Assistant Chief__  __.—__ 
 
     There are a Chief and assistant chief of the Air Force Nurse Corps.
 
-    (b) __Chief.—__ 
+    (b)  __Chief__  __.—__ 
 
     The Secretary of the Air Force shall appoint the Chief from the officers of the Regular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel and who are recommended by the Surgeon General. An appointee who holds a lower regular grade shall be appointed in the regular grade of major general. The Chief serves during the pleasure of the Secretary.
 
-    (c) __Assistant Chief.—__ 
+    (c)  __Assistant Chief__  __.—__ 
 
     The Surgeon General shall appoint the assistant chief from the officers of the Regular Air Force designated as Air Force nurses whose regular grade is above lieutenant colonel.
 

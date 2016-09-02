@@ -15,7 +15,7 @@
 
 ## § 442. Missions
 
-    (a) __National Security Missions.—__ 
+    (a)  __National Security Missions__  __.—__ 
 
         (1)
 
@@ -35,19 +35,19 @@
 
         (3) Geospatial intelligence provided in carrying out paragraphs (1) and (2) shall be timely, relevant, and accurate.
 
-    (b) __Navigation Information.—__ 
+    (b)  __Navigation Information__  __.—__ 
 
     The National Geospatial-Intelligence Agency shall improve means of navigating vessels of the Navy and the merchant marine by providing, under the authority of the Secretary of Defense, accurate and inexpensive nautical charts, sailing directions, books on navigation, and manuals of instructions for the use of all vessels of the United States and of navigators generally.
 
-    (c) __Maps, Charts, Etc.—__ 
+    (c)  __Maps, Charts, Etc__  __.—__ 
 
     The National Geospatial-Intelligence Agency shall prepare and distribute maps, charts, books, and geodetic products as authorized under subchapter II of this chapter.
 
-    (d) __National Missions.—__ 
+    (d)  __National Missions__  __.—__ 
 
     The National Geospatial-Intelligence Agency also has national missions as specified in section 110(a) of the National Security Act of 1947 ([50 U.S.C. 404e(a)][/us/usc/t50/s404e/a]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-    (e) __Systems.—__ 
+    (e)  __Systems__  __.—__ 
 
     The National Geospatial-Intelligence Agency may, in furtherance of a mission of the Agency, design, develop, deploy, operate, and maintain systems related to the processing and dissemination of imagery intelligence and geospatial information that may be transferred to, accepted or used by, or used on behalf of—
 

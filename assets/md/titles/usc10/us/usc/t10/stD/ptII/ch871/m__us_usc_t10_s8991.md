@@ -17,7 +17,7 @@
 
     (a) __Computation.—__ 
 
-        (1) __Formula.—__ 
+        (1)  __Formula__  __.—__ 
 
         The monthly retired pay of a member entitled to such pay under this subtitle is computed by multiplying—
 
@@ -25,21 +25,21 @@
 
             (B) the retired pay multiplier prescribed in [section 1409 of this title][/us/usc/t10/s1409] for the number of years credited to the member under [section 1405 of this title][/us/usc/t10/s1405].
 
-        (2) __Additional 10 percent for certain enlisted members credited with extraordinary heroism.—__ 
+        (2)  __Additional 10 percent for certain enlisted members credited with extraordinary heroism__  __.—__ 
 
         If a member who is retired under [section 8914 of this title][/us/usc/t10/s8914] has been credited by the Secretary of the Air Force with extraordinary heroism in the line of duty, the member’s retired pay shall be increased by 10 percent of the amount determined under paragraph (1) (but to not more than 75 percent of the retired pay base upon which the computation of such retired pay is based). The Secretary’s determination as to extraordinary heroism is conclusive for all purposes.
 
     (b) __General Rules.—__ 
 
-        (1) __Use of most favorable formula.—__ 
+        (1)  __Use of most favorable formula__  __.—__ 
 
         If a person would otherwise be entitled to retired pay computed under more than one formula in subsection (a) or the table in [section 1401 of this title][/us/usc/t10/s1401], he is entitled to be paid under the applicable formula that is most favorable to him.
 
-        (2) __Rounding to next lower dollar.—__ 
+        (2)  __Rounding to next lower dollar__  __.—__ 
 
         The amount computed under subsection (a), if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
-    (c) __Special Rule for Retired Reserve Enlisted Members Covered by Section 8963.—__ 
+    (c)  __Special Rule for Retired Reserve Enlisted Members Covered by Section__  __8963.—__ 
 
     In the case of a Reserve enlisted member retired under [section 8914 of this title][/us/usc/t10/s8914] whose retired grade is determined under [section 8963 of this title][/us/usc/t10/s8963] and who first became a member of a uniformed service before September 8, 1980, the retired pay base of the member (notwithstanding [section 1406(a)(1) of this title][/us/usc/t10/s1406/a/1]) is the amount of the monthly basic pay of the member’s retired grade (determined based upon the rates of basic pay applicable on the date of the member’s retirement), and that amount shall be used for the purposes of subsection (a)(1)(A) rather than the amount computed under [section 1406(e) of this title][/us/usc/t10/s1406/e].
 

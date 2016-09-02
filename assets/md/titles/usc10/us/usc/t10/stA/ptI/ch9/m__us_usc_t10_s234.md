@@ -15,11 +15,11 @@
 
 ## § 234. POW/MIA activities: display of budget information
 
-    (a) __Submission With Annual Budget Justification Documents.—__ 
+    (a)  __Submission With Annual Budget Justification Documents__  __.—__ 
 
     The Secretary of Defense shall submit to Congress, as a part of the defense budget materials for a fiscal year, a consolidated budget justification display, in classified and unclassified form, that covers all programs and activities of Department of Defense POW/MIA accounting and recovery organizations.
 
-    (b) __Requirements for Budget Display.—__ 
+    (b)  __Requirements for Budget Display__  __.—__ 
 
     The budget display under subsection (a) for a fiscal year shall include for each such organization the following:
 
@@ -33,7 +33,7 @@
 
         (5) The budget estimate for that organization for the five fiscal years after the fiscal year for which the budget is submitted.
 
-    (c) __Department of Defense POW/MIA Accounting and Recovery Organizations.—__ 
+    (c)  __Department of Defense POW/MIA Accounting and Recovery Organizations__  __.—__ 
 
     In this section, the term “Department of Defense POW/MIA accounting and recovery organization” means any of the following (and any successor organization):
 
@@ -47,7 +47,7 @@
 
         (5) Any other element of the Department of Defense the mission of which (as designated by the Secretary of Defense) involves the accounting for and recovery of members of the armed forces who are missing in action or prisoners of war or who are unaccounted for.
 
-    (d) __Other Definitions.—__ 
+    (d)  __Other Definitions__  __.—__ 
 
     In this section:
 

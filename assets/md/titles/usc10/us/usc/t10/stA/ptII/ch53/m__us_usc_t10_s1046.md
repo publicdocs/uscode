@@ -15,11 +15,11 @@
 
 ## § 1046. Overseas temporary foster care program
 
-    (a) __Program Authorized.—__ 
+    (a)  __Program Authorized__  __.—__ 
 
     The Secretary concerned may establish a program to provide temporary foster care services outside the United States for children accompanying members of the armed forces on duty at stations outside the United States. The foster care services provided under such a program shall be similar to those services provided by State and local governments in the United States.
 
-    (b) __Expenses.—__ 
+    (b)  __Expenses__  __.—__ 
 
     Under regulations prescribed by the Secretary concerned, the expenses related to providing foster care services under subsection (a) may be paid from appropriated funds available to the Secretary.
 

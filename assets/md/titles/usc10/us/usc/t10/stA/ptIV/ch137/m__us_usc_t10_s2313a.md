@@ -15,7 +15,7 @@
 
 ## § 2313a. Defense Contract Audit Agency: annual report
 
-    (a) __Required Report.—__ 
+    (a)  __Required Report__  __.—__ 
 
     The Director of the Defense Contract Audit Agency shall prepare an annual report of the activities of the Agency during the previous fiscal year. The report shall include, at a minimum—
 
@@ -39,11 +39,11 @@
 
         (4) any other matters the Director considers appropriate.
 
-    (b) __Submission of Annual Report.—__ 
+    (b)  __Submission of Annual Report__  __.—__ 
 
     Not later than March 30 of each year, the Director shall submit to the congressional defense committees the report required by subsection (a).
 
-    (c) __Public Availability.—__ 
+    (c)  __Public Availability__  __.—__ 
 
     Not later than 60 days after the submission of an annual report to the congressional defense committees under subsection (b), the Director shall make the report available on the publicly available website of the Agency or such other publicly available website as the Director considers appropriate.
 

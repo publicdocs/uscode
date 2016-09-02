@@ -15,7 +15,7 @@
 
 ## § 2249a. Prohibition on providing financial assistance to terrorist countries
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     Funds available to the Department of Defense may not be obligated or expended to provide financial assistance to—
 
@@ -31,7 +31,7 @@
 
             (B) otherwise supports international terrorism.
 
-    (b) __Waiver.—__ 
+    (b)  __Waiver__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
             (B) publish a notice of the waiver in the Federal Register.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “international terrorism” has the meaning given that term in section 140(d) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989 ([22 U.S.C. 2656f(d)][/us/usc/t22/s2656f/d]).
 

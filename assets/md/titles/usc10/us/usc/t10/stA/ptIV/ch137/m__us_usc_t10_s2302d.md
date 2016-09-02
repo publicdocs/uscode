@@ -15,7 +15,7 @@
 
 ## § 2302d. Major system: definitional threshold amounts
 
-    (a) __Department of Defense Systems.—__ 
+    (a)  __Department of Defense Systems__  __.—__ 
 
     For purposes of [section 2302(5) of this title][/us/usc/t10/s2302/5], a system for which the Department of Defense is responsible shall be considered a major system if—
 
@@ -23,7 +23,7 @@
 
         (2) the eventual total expenditure for procurement for the system is estimated to be more than $540,000,000 (based on fiscal year 1990 constant dollars).
 
-    (b) __Civilian Agency Systems.—__ 
+    (b)  __Civilian Agency Systems__  __.—__ 
 
     For purposes of [section 2302(5) of this title][/us/usc/t10/s2302/5], a system for which a civilian agency is responsible shall be considered a major system if total expenditures for the system are estimated to exceed the greater of—
 
@@ -31,7 +31,7 @@
 
         (2) the dollar threshold for a “major system” established by the agency pursuant to Office of Management and Budget (OMB) Circular A–109, entitled “Major Systems Acquisitions”.
 
-    (c) __Adjustment Authority.—__ 
+    (c)  __Adjustment Authority__  __.—__ 
 
         (1) The Secretary of Defense may adjust the amounts and the base fiscal year provided in subsection (a) on the basis of Department of Defense escalation rates.
 

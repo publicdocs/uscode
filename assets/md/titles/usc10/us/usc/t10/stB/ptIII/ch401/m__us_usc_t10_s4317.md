@@ -15,11 +15,11 @@
 
 ## § 4317. Military history fellowships
 
-    (a) __Fellowships.—__ 
+    (a)  __Fellowships__  __.—__ 
 
     The Secretary of the Army shall prescribe regulations under which the Secretary may award fellowships in military history of the Army to the persons described in subsection (b).
 
-    (b) __Eligible Persons.—__ 
+    (b)  __Eligible Persons__  __.—__ 
 
     The persons eligible for awards of fellowships under this section are citizens and nationals of the United States who—
 
@@ -29,7 +29,7 @@
 
         (3) agree to prepare a dissertation in a subject area of military history determined by the Secretary.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The regulations prescribed under this section shall include—
 

@@ -15,13 +15,13 @@
 
 ## § 2362. Research and educational programs and activities: historically black colleges and universities and minority-serving institutions of higher education
 
-    (a) __Program Established.—__ 
+    (a)  __Program Established__  __.—__ 
 
         (1) The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the Secretary of each military department, shall carry out a program to provide assistance to covered educational institutions to assist the Department in defense-related research, development, testing, and evaluation activities.
 
         (2) The Secretary of Defense may not delegate or transfer to an individual outside the Office of the Secretary of Defense the authority regarding the programming or budgeting of the program established by this section that is carried out by the Assistant Secretary of Defense for Research and Engineering.
 
-    (b) __Program Objective.—__ 
+    (b)  __Program Objective__  __.—__ 
 
     The objective of the program established by subsection (a)(1) is to enhance defense-related research and education at covered educational institutions. Such objective shall be accomplished through initiatives designed to—
 
@@ -33,7 +33,7 @@
 
         (4) encourage research and educational collaborations between such institutions and other institutions of higher education, Government defense organizations, and the defense industry.
 
-    (c) __Assistance Provided.—__ 
+    (c)  __Assistance Provided__  __.—__ 
 
     Under the program established by subsection (a)(1), the Secretary of Defense may provide covered educational institutions with funding or technical assistance, including any of the following:
 
@@ -45,11 +45,11 @@
 
         (4) Other such non-monetary assistance as the Secretary finds appropriate to enhance defense-related research, development, testing, and evaluation activities at such institutions.
 
-    (d) __Priority for Funding.—__ 
+    (d)  __Priority for Funding__  __.—__ 
 
     The Secretary of Defense may establish procedures under which the Secretary may give priority in providing funding under this section to institutions that have not otherwise received a significant amount of funding from the Department of Defense for research, development, testing, and evaluation programs supporting the national security functions of the Department.
 
-    (e) __Definition of Covered Educational Institution.—__ 
+    (e)  __Definition of Covered Educational Institution__  __.—__ 
 
     In this section the term “covered educational institution” means—
 

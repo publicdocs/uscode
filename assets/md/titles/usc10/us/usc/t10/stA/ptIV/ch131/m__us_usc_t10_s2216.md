@@ -15,11 +15,11 @@
 
 ## § 2216. Defense Modernization Account
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established in the Treasury an account to be known as the “Defense Modernization Account”.
 
-    (b) __Funds Available for Account.—__ 
+    (b)  __Funds Available for Account__  __.—__ 
 
     The Defense Modernization Account shall consist of the following:
 
@@ -27,7 +27,7 @@
 
         (2) Amounts transferred to the Defense Modernization Account under subsection (c).
 
-    (c) __Transfers to Account.—__ 
+    (c)  __Transfers to Account__  __.—__ 
 
         (1)
 
@@ -57,7 +57,7 @@
 
         (4) The period of availability of funds for expenditure provided for in sections 1551 and 1552 of title 31 may not be extended by transfer into the Defense Modernization Account.
 
-    (d) __Authorized Use of Funds.—__ 
+    (d)  __Authorized Use of Funds__  __.—__ 
 
     Funds in the Defense Modernization Account may be used for the following purposes:
 
@@ -67,7 +67,7 @@
 
         (3) For research, development, test, and evaluation and for procurement necessary for modernization of an existing system or of a system being procured under an ongoing procurement program.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
         (1)
 
@@ -93,7 +93,7 @@
 
             (B) making an expenditure that would satisfy an unliquidated or unrecorded obligation arising in a prior fiscal year.
 
-    (f) __Transfer of Funds.—__ 
+    (f)  __Transfer of Funds__  __.—__ 
 
         (1) The Secretary of Defense may transfer funds in the Defense Modernization Account to appropriations available for purposes set forth in subsection (d).
 
@@ -101,11 +101,11 @@
 
         (3) The total amount of transfers from the Defense Modernization Account during any fiscal year under this subsection may not exceed $500,000,000.
 
-    (g) __Availability of Funds by Appropriation.—__ 
+    (g)  __Availability of Funds by Appropriation__  __.—__ 
 
     In addition to transfers under subsection (f), funds in the Defense Modernization Account may be made available for purposes set forth in subsection (d) in accordance with the provisions of appropriations Acts, but only to the extent authorized in an Act other than an appropriations Act.
 
-    (h) __Secretary To Act Through Comptroller.—__ 
+    (h)  __Secretary To Act Through Comptroller__  __.—__ 
 
         (1) The Secretary of Defense shall carry out this section through the Under Secretary of Defense (Comptroller), who shall be authorized to implement this section through the issuance of any necessary regulations, policies, and procedures after consultation with the General Counsel and Inspector General of the Department of Defense.
 
@@ -125,7 +125,7 @@
 
                 (ii) the amounts to be reimbursed to the Defense Modernization Account out of such savings pursuant to subsection (c)(1)(B)(iii).
 
-    (i) __Annual Report.—__ 
+    (i)  __Annual Report__  __.—__ 
 
         (1)
 
@@ -139,7 +139,7 @@
 
         (2) The committees referred to in paragraph (1) are the congressional defense committees and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -147,7 +147,7 @@
 
         (2) The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
 
-    (k) __Expiration of Authority and Account.—__ 
+    (k)  __Expiration of Authority and Account__  __.—__ 
 
         (1) The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2006.
 

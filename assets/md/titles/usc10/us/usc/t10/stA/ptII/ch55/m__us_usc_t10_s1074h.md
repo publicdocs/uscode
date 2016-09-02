@@ -15,15 +15,15 @@
 
 ## § 1074h. Medical and dental care: medal of honor recipients; dependents
 
-    (a) __Medal of Honor Recipients.—__ 
+    (a)  __Medal of Honor Recipients__  __.—__ 
 
     A former member of the armed forces who is a Medal of Honor recipient and who is not otherwise entitled to medical and dental benefits under this chapter may, upon request, be given medical and dental care provided by the administering Secretaries in the same manner as if entitled to retired pay.
 
-    (b) __Immediate Dependents.—__ 
+    (b)  __Immediate Dependents__  __.—__ 
 
     A person who is an immediate dependent of a Medal of Honor recipient and who is not otherwise entitled to medical and dental benefits under this chapter may, upon request, be given medical and dental care provided by the administering Secretaries in the same manner as if the Medal of Honor recipient were, or (if deceased) was at the time of death, entitled to retired pay.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

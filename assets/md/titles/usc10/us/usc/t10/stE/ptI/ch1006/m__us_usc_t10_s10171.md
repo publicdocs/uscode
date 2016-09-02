@@ -15,15 +15,15 @@
 
 ## § 10171. United States Army Reserve Command
 
-    (a) __Command.—__ 
+    (a)  __Command__  __.—__ 
 
     The United States Army Reserve Command is a separate command of the Army commanded by the Chief of Army Reserve.
 
-    (b) __Chain of Command.—__ 
+    (b)  __Chain of Command__  __.—__ 
 
     Except as otherwise prescribed by the Secretary of Defense, the Secretary of the Army shall prescribe the chain of command for the United States Army Reserve Command.
 
-    (c) __Assignment of Forces.—__ 
+    (c)  __Assignment of Forces__  __.—__ 
 
     The Secretary of the Army—
 

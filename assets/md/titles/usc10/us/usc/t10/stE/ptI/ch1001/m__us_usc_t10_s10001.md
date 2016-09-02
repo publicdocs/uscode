@@ -29,11 +29,11 @@
 
 [Section 1691 of title XVI of div. A of Pub. L. 103–337][/us/pl/103/337/s1691] provided that:
 
->     “(a) __Effective Date for Amendments.—__ 
+>     “(a)  __Effective Date for Amendments__  __.—__ 
 
 >     Except as provided in subsection (b), the amendment made by section 1611 \[enacting heading and analysis of this subtitle and enacting part III of this subtitle\] and the amendments made by subtitles C and D \[subtitles C (§§ 1661 to 1665) and D (§§ 1671 to 1677) of title XVI of div. A of [Pub. L. 103–337][/us/pl/103/337], see Tables for classification\] shall take effect on December 1, 1994.
 
->     “(b) __Effective Date for New Reserve Officer Personnel Policies.—__ 
+>     “(b)  __Effective Date for New Reserve Officer Personnel Policies__  __.—__ 
 
 >         (1) The provisions of part III of subtitle E of title 10, United States Code, as added by section 1611, shall become effective on October 1, 1996. The amendments made by part II \[part II (§§ 1621 to 1630) of subtitle A of title XVI of div. A of [Pub. L. 103–337][/us/pl/103/337], see Tables for classification\], of subtitle A, by subtitle B \[subtitle B (§§ 1631 to 1641) of title XVI of div. A of [Pub. L. 103–337][/us/pl/103/337], see Tables for classification\], and by section 1671(c)(2) \[amending [section 113 of this title][/us/usc/t10/s113]\] and paragraphs (2), (3)(B), (3)(C), and (4) of section 1675(d) \[amending sections 12645 to 12647 of this title\] shall take effect on October 1, 1996.
 

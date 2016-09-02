@@ -15,17 +15,17 @@
 
 ## § 638b. Voluntary retirement incentive
 
-    (a) __Incentive for Voluntary Retirement for Certain Officers.—__ 
+    (a)  __Incentive for Voluntary Retirement for Certain Officers__  __.—__ 
 
     The Secretary of Defense may authorize the Secretary of a military department to provide a voluntary retirement incentive payment in accordance with this section to an officer of the armed forces under that Secretary’s jurisdiction who is specified in subsection (c) as being eligible for such a payment.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
         (1) Any authority provided the Secretary of a military department under this section shall expire as specified by the Secretary of Defense, but not later than December 31, 2018.
 
         (2) The total number of officers who may be provided a voluntary retirement incentive payment under this section may not exceed 675 officers.
 
-    (c) __Eligible Officers.—__ 
+    (c)  __Eligible Officers__  __.—__ 
 
         (1)
 
@@ -55,11 +55,11 @@
 
             (E) An officer subject to pending disciplinary action or subject to administrative separation or mandatory discharge under any other provision of law or regulation.
 
-    (d) __Amount of Payment.—__ 
+    (d)  __Amount of Payment__  __.—__ 
 
     The amount of the voluntary retirement incentive payment paid an officer under this section shall be an amount determined by the Secretary concerned, but not to exceed an amount equal to 12 times the amount of the officer’s monthly basic pay at the time of the officer’s retirement. The amount may be paid in a lump sum at the time of retirement.
 
-    (e) __Repayment for Members Who Return to Active Duty.—__ 
+    (e)  __Repayment for Members Who Return to Active Duty__  __.—__ 
 
         (1) Except as provided in paragraph (2), a member of the armed forces who, after having received all or part of a voluntary retirement incentive under this section, returns to active duty shall have deducted from each payment of basic pay, in such schedule of monthly installments as the Secretary concerned shall specify, until the total amount deducted from such basic pay equals the total amount of voluntary retirement incentive received.
 

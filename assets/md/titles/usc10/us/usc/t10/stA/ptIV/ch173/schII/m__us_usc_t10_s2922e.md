@@ -15,7 +15,7 @@
 
 ## § 2922e. Acquisition of certain fuel sources: authority to waive contract procedures; acquisition by exchange; sales authority
 
-    (a) __Waiver Authority.—__ 
+    (a)  __Waiver Authority__  __.—__ 
 
     The Secretary of Defense may, for any purchase of a defined fuel source, waive the application of any provision of law prescribing procedures to be followed in the formation of contracts, prescribing terms and conditions to be included in contracts, or regulating the performance of contracts if the Secretary determines—
 
@@ -23,15 +23,15 @@
 
         (2) the waiver will expedite or facilitate the acquisition of that defined fuel source for Government needs.
 
-    (b) __Scope of Waiver.—__ 
+    (b)  __Scope of Waiver__  __.—__ 
 
     A waiver under subsection (a) may be made with respect to a particular contract or with respect to classes of contracts. Such a waiver that is applicable to a contract for the purchase of a defined fuel source may also be made applicable to a subcontract under that contract.
 
-    (c) __Exchange Authority.—__ 
+    (c)  __Exchange Authority__  __.—__ 
 
     The Secretary of Defense may acquire a defined fuel source or services related to a defined fuel source by exchange of a defined fuel source or services related to a defined fuel source.
 
-    (d) __Authority To Sell.—__ 
+    (d)  __Authority To Sell__  __.—__ 
 
     The Secretary of Defense may sell a defined fuel source of the Department of Defense if the Secretary determines that the sale would be in the public interest. The proceeds of such a sale shall be credited to appropriations of the Department of Defense for the acquisition of a defined fuel source or services related to a defined fuel source. Amounts so credited shall be available for obligation for the same period as the appropriations to which the amounts are credited.
 

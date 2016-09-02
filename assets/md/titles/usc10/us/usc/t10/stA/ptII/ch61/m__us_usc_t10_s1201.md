@@ -15,11 +15,11 @@
 
 ## § 1201. Regulars and members on active duty for more than 30 days: retirement
 
-    (a) __Retirement.—__ 
+    (a)  __Retirement__  __.—__ 
 
     Upon a determination by the Secretary concerned that a member described in subsection (c) is unfit to perform the duties of the member’s office, grade, rank, or rating because of physical disability incurred while entitled to basic pay or while absent as described in subsection (c)(3), the Secretary may retire the member, with retired pay computed under [section 1401 of this title][/us/usc/t10/s1401], if the Secretary also makes the determinations with respect to the member and that disability specified in subsection (b).
 
-    (b) __Required Determinations of Disability.—__ 
+    (b)  __Required Determinations of Disability__  __.—__ 
 
     Determinations referred to in subsection (a) are determinations by the Secretary that—
 
@@ -45,7 +45,7 @@
 
                 (iv) the disability was incurred in line of duty after September 14, 1978.
 
-    (c) __Eligible Members.—__ 
+    (c)  __Eligible Members__  __.—__ 
 
     This section and sections 1202 and 1203 of this title apply to the following members:
 

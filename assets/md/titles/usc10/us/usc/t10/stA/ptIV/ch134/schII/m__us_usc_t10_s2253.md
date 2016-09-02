@@ -15,7 +15,7 @@
 
 ## § 2253. Motor vehicles
 
-    (a) __General Authorities.—__ 
+    (a)  __General Authorities__  __.—__ 
 
     The Secretary of Defense and the Secretary of each military department may—
 
@@ -23,7 +23,7 @@
 
         (2) purchase right-hand drive passenger sedans at a cost of not more than $30,000 each.
 
-    (b) __Hire of Passenger Vehicles.—__ 
+    (b)  __Hire of Passenger Vehicles__  __.—__ 
 
     Amounts appropriated to the Department of Defense for operation and maintenance of the active forces may be used for the hire of passenger motor vehicles.
 

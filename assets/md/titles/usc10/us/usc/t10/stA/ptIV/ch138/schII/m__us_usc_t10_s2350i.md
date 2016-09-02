@@ -15,11 +15,11 @@
 
 ## § 2350i. Foreign contributions for cooperative projects
 
-    (a) __Crediting of Contributions.—__ 
+    (a)  __Crediting of Contributions__  __.—__ 
 
     Whenever the United States participates in a cooperative project with a friendly foreign country or the North Atlantic Treaty Organization (NATO) on a cost-sharing basis, any contribution received by the United States from that foreign country or NATO to meet its share of the costs of the project may be credited to appropriations available to an appropriate military department or another appropriate organization within the Department of Defense, as determined by the Secretary of Defense.
 
-    (b) __Use of Amounts Credited.—__ 
+    (b)  __Use of Amounts Credited__  __.—__ 
 
     The amount of a contribution credited pursuant to subsection (a) to an appropriation account in connection with a cooperative project referred to in that subsection shall be available only for payment of the share of the project expenses allocated to the foreign country or NATO making the contribution. Payments for which such amount is available include the following:
 
@@ -31,7 +31,7 @@
 
         (4) Refunds to other participants.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

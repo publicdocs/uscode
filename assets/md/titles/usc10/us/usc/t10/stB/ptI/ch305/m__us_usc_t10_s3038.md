@@ -17,7 +17,7 @@
 
     (a) There is in the executive part of the Department of the Army an Office of the Army Reserve which is headed by a chief who is the adviser to the Chief of Staff on Army Reserve matters.
 
-    (b) __Appointment.—__ 
+    (b)  __Appointment__  __.—__ 
 
         (1) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Army Reserve from general officers of the Army Reserve who have had at least 10 years of commissioned service in the Army Reserve.
 
@@ -41,21 +41,21 @@
 
             Any such waiver shall be made on a case-by-case basis.
 
-    (c) __Term; Reappointment; Grade.—__ 
+    (c)  __Term; Reappointment; Grade__  __.—__ 
 
         (1) The Chief of Army Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Army Reserve may be reappointed for one additional four-year period.
 
         (2) The Chief of Army Reserve, while so serving, holds the grade of lieutenant general.
 
-    (d) __Budget.—__ 
+    (d)  __Budget__  __.—__ 
 
     The Chief of Army Reserve is the official within the executive part of the Department of the Army who, subject to the authority, direction, and control of the Secretary of the Army and the Chief of Staff, is responsible for justification and execution of the personnel, operation and maintenance, and construction budgets for the Army Reserve. As such, the Chief of Army Reserve is the director and functional manager of appropriations made for the Army Reserve in those areas.
 
-    (e) __Full Time Support Program.—__ 
+    (e)  __Full Time Support Program__  __.—__ 
 
     The Chief of Army Reserve manages, with respect to the Army Reserve, the personnel program of the Department of Defense known as the Full Time Support Program.
 
-    (f) __Annual Report.—__ 
+    (f)  __Annual Report__  __.—__ 
 
         (1) The Chief of Army Reserve shall submit to the Secretary of Defense, through the Secretary of the Army, an annual report on the state of the Army Reserve and the ability of the Army Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Army and may be submitted in classified and unclassified versions.
 
@@ -97,11 +97,11 @@
 
 [Pub. L. 106–65, div. A, title V, § 554(g)][/us/pl/106/65/s554/g], (h), Oct. 5, 1999, [113 Stat. 617][/us/stat/113/617], provided that:
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     The amendments made by this section \[enacting [section 12505 of this title][/us/usc/t10/s12505] and amending this section and sections 5143, 5144, 8038, and 10506 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Oct. 5, 1999\].
 
->     “(h) __Applicability to Incumbents.—__ 
+>     “(h)  __Applicability to Incumbents__  __.—__ 
 
 >         (1) If an officer who is a covered position incumbent is appointed under the amendments made by this section to the grade of lieutenant general or vice admiral, the term of service of that officer in that covered position shall not be extended by reason of such appointment.
 

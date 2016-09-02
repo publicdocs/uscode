@@ -15,11 +15,11 @@
 
 ## § 1722. Career development
 
-    (a) __Career Paths.—__ 
+    (a)  __Career Paths__  __.—__ 
 
     The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall ensure that appropriate career paths for civilian and military personnel who wish to pursue careers in acquisition are identified in terms of the education, training, experience, and assignments necessary for career progression of civilians and members of the armed forces to the most senior acquisition positions. The Secretary shall make available published information on such career paths.
 
-    (b) __Limitation on Preference for Military Personnel.—__ 
+    (b)  __Limitation on Preference for Military Personnel__  __.—__ 
 
         (1) The Secretary of Defense shall ensure that no requirement or preference for a member of the armed forces is used in the consideration of persons for acquisition positions, except as provided in the policy established under paragraph (2).
 
@@ -29,27 +29,27 @@
 
             (B) Not later than December 15 of each year, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the Secretary a report that lists each acquisition position that is restricted to members of the armed forces under such policy and the recommendation of the Under Secretary as to whether such position should remain so restricted.
 
-    (c) __Opportunities for Civilians To Qualify.—__ 
+    (c)  __Opportunities for Civilians To Qualify__  __.—__ 
 
     The Secretary of Defense shall ensure that civilian personnel are provided the opportunity to acquire the education, training, and experience necessary to qualify for senior acquisition positions.
 
-    (d) __Best Qualified.—__ 
+    (d)  __Best Qualified__  __.—__ 
 
     The Secretary of Defense shall ensure that the policies established under this chapter are designed to provide for the selection of the best qualified individual for a position, consistent with other applicable law.
 
     \[(e) Repealed. [Pub. L. 107–107, div. A, title X, § 1048(e)(3)][/us/pl/107/107/s1048/e/3], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227].\]
 
-    (f) __Assignments Policy.—__ 
+    (f)  __Assignments Policy__  __.—__ 
 
         (1) The Secretary of Defense shall establish a policy on assigning military personnel to acquisition positions that provides for a balance between (A) the need for personnel to serve in career broadening positions, and (B) the need for requiring service in each such position for sufficient time to provide the stability necessary to effectively carry out the duties of the position and to allow for the establishment of responsibility and accountability for actions taken in the position.
 
         (2) In implementing the policy established under paragraph (1), the Secretaries of the military departments shall provide, as appropriate, for longer lengths of assignments to acquisition positions than assignments to other positions.
 
-    (g) __Performance Appraisals.—__ 
+    (g)  __Performance Appraisals__  __.—__ 
 
     The Secretary of each military department, acting through the service acquisition executive for that department, shall provide an opportunity for review and inclusion of any comments on any appraisal of the performance of a person serving in an acquisition position by a person serving in an acquisition position in the same acquisition career field.
 
-    (h) __Balanced Workforce Policy.—__ 
+    (h)  __Balanced Workforce Policy__  __.—__ 
 
     In the development of defense acquisition workforce policies under this chapter with respect to any civilian employees or applicants for employment, the Secretary of Defense or the Secretary of a military department (as applicable) shall, consistent with the merit system principles set out in paragraphs (1) and (2) of [section 2301(b) of title 5][/us/usc/t5/s2301/b], take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
 
@@ -67,13 +67,13 @@
 
 [Pub. L. 101–510, div. A, title XII, § 1209(c)][/us/pl/101/510/s1209/c], (d), Nov. 5, 1990, [104 Stat. 1666][/us/stat/104/1666], provided that:
 
->     “(c) __Military Positions Policy Deadlines.—__ 
+>     “(c)  __Military Positions Policy Deadlines__  __.—__ 
 
 >         (1) The policy required by paragraph (2) of [section 1722(b) of title 10][/us/usc/t10/s1722/b], United States Code (as added by section 1202), shall be established by the Secretary of Defense not later than October 1, 1991.
 
 >         “(2) The first report required by [section 1722(b)(2)(B) of title 10][/us/usc/t10/s1722/b/2/B], United States Code (as added by section 1202), shall be submitted to the Secretary of Defense not later than September 30, 1993.
 
->     “(d) __Assignments Policy Deadline.—__ 
+>     “(d)  __Assignments Policy Deadline__  __.—__ 
 
 >     Not later than October 1, 1991, the Secretary of Defense shall establish, and require commencement of implementation of, an assignments policy pursuant to [section 1722(f) of title 10][/us/usc/t10/s1722/f], United States Code (as added by section 1202).”
 

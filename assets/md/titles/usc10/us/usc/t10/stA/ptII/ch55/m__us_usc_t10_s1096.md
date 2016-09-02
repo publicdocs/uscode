@@ -15,11 +15,11 @@
 
 ## § 1096. Military-civilian health services partnership program
 
-    (a) __Resources Sharing Agreements.—__ 
+    (a)  __Resources Sharing Agreements__  __.—__ 
 
     The Secretary of Defense may enter into an agreement providing for the sharing of resources between facilities of the uniformed services and facilities of a civilian health care provider or providers that the Secretary contracts with under section 1079, 1086, or 1097 of this title if the Secretary determines that such an agreement would result in the delivery of health care to which covered beneficiaries are entitled under this chapter in a more effective, efficient, or economical manner.
 
-    (b) __Eligible Resources.—__ 
+    (b)  __Eligible Resources__  __.—__ 
 
     An agreement entered into under subsection (a) may provide for the sharing of—
 
@@ -31,11 +31,11 @@
 
         (4) any other items or facilities necessary for the provision of health care services.
 
-    (c) __Computation of Charges.—__ 
+    (c)  __Computation of Charges__  __.—__ 
 
     A covered beneficiary who is a dependent, with respect to care provided to such beneficiary in facilities of the uniformed services under a sharing agreement entered into under subsection (a), shall pay the charges prescribed by [section 1078 of this title][/us/usc/t10/s1078].
 
-    (d) __Reimbursement for License Fees.—__ 
+    (d)  __Reimbursement for License Fees__  __.—__ 
 
     In any case in which it is necessary for a member of the uniformed services to pay a professional license fee imposed by a government in order to provide health care services at a facility of a civilian health care provider pursuant to an agreement entered into under subsection (a), the Secretary of Defense may reimburse the member for up to $500 of the amount of the license fee paid by the member.
 

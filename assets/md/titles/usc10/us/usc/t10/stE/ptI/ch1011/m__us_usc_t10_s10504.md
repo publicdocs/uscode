@@ -15,11 +15,11 @@
 
 ## § 10504. Chief of National Guard Bureau: annual report
 
-    (a) __Annual Report.—__ 
+    (a)  __Annual Report__  __.—__ 
 
     The Chief of the National Guard Bureau shall submit to the Secretary of Defense, through the Secretaries of the Army and the Air Force, an annual report on the state of the National Guard and the ability of the National Guard to meet its missions. The report shall be prepared in conjunction with the Secretary of the Army and the Secretary of the Air Force and may be submitted in classified and unclassified versions.
 
-    (b) __Submission of Report to Congress.—__ 
+    (b)  __Submission of Report to Congress__  __.—__ 
 
     The Secretary of Defense shall transmit the annual report of the Chief of the National Guard Bureau to Congress, together with such comments on the report as the Secretary considers appropriate. The report shall be transmitted at the same time each year that the annual report of the Secretary under [section 113(c) of this title][/us/usc/t10/s113/c] is submitted to Congress.
 

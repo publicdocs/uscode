@@ -15,17 +15,17 @@
 
 ## § 2485. Commissary stores: operation
 
-    (a) __Private Operation.—__ 
+    (a)  __Private Operation__  __.—__ 
 
     Under such regulations as the Secretary of Defense may approve, private persons may operate selected commissary store functions, except that such functions may not include functions relating to the procurement of products to be sold in a commissary store or functions relating to the overall management of a commissary system or the management of a commissary store. Such functions shall be carried out by personnel of the Department of Defense under regulations approved by the Secretary of Defense.
 
-    (b) __Contracts With Other Agencies and Instrumentalities.—__ 
+    (b)  __Contracts With Other Agencies and Instrumentalities__  __.—__ 
 
         (1) The Defense Commissary Agency, and any other agency of the Department of Defense that supports the operation of the commissary system, may enter into a contract or other agreement with another element of the Department of Defense or with another Federal department, agency, or instrumentality to provide or obtain services beneficial to the efficient management and operation of the commissary system. However, the Defense Commissary Agency may not pay for any such service provided by the United States Transportation Command any amount that exceeds the price at which the service could be procured through full and open competition, as such term is defined in [section 107 of title 41][/us/usc/t41/s107].
 
         (2) A commissary store operated by a nonappropriated fund instrumentality of the Department of Defense shall be operated in accordance with [section 2483 of this title][/us/usc/t10/s2483]. Subject to such section, the Secretary of Defense may authorize a transfer of goods, supplies, and facilities of, and funds appropriated for, the Defense Commissary Agency or any other agency of the Department of Defense that supports the operation of the commissary system to a nonappropriated fund instrumentality for the operation of a commissary store.
 
-    (c) __Governing Board.—__ 
+    (c)  __Governing Board__  __.—__ 
 
         (1) Notwithstanding [section 192(d) of this title][/us/usc/t10/s192/d], the Secretary of Defense shall establish a governing board for the commissary system to provide advice to the Secretary regarding the prudent operation of the commissary system and to assist in the overall supervision of the Defense Commissary Agency. The Secretary may authorize the board to have such supervisory authority as the Secretary considers appropriate to permit the board to carry out its responsibilities.
 
@@ -33,7 +33,7 @@
 
         (3) The governing board shall be accountable only to the Secretary of Defense and to the civilian officer of the Department of Defense who is assigned the responsibility for the overall supervision of the Defense Commissary Agency pursuant to [section 192(a) of this title][/us/usc/t10/s192/a]. The Director of the Defense Commissary Agency shall be accountable to and report to the board.
 
-    (d) __Assignment of Active Duty Members.—__ 
+    (d)  __Assignment of Active Duty Members__  __.—__ 
 
         (1) Except as provided in paragraph (2), members of the armed forces on active duty may not be assigned to the operation of a commissary store.
 
@@ -43,7 +43,7 @@
 
             (B) Not more than 18 members (in addition to the officer referred to in subparagraph (A)) of the armed forces on active duty may be assigned to the Defense Commissary Agency. Members who may be assigned under this subparagraph to regional headquarters of the agency shall be limited to enlisted members assigned to duty as advisers in the regional headquarters responsible for overseas commissaries and to veterinary specialists.
 
-    (e) __Reimbursement for Use of Commissary Facilities by Military Departments.—__ 
+    (e)  __Reimbursement for Use of Commissary Facilities by Military Departments__  __.—__ 
 
         (1) The Secretary of a military department shall pay the Defense Commissary Agency the amount determined under paragraph (2) for any use of a commissary facility by the military department for a purpose other than commissary sales or operations in support of commissary sales.
 
@@ -53,7 +53,7 @@
 
         (4) This subsection applies with respect to a commissary facility that is acquired, constructed, converted, expanded, installed, or otherwise improved (in whole or in part) with the proceeds of a surcharge applied under [section 2484(d) of this title][/us/usc/t10/s2484/d].
 
-    (f) __Donation of Unusable Food.—__ 
+    (f)  __Donation of Unusable Food__  __.—__ 
 
         (1)
 
@@ -81,7 +81,7 @@
 
         (4) This subsection does not authorize any service (including transportation) to be provided in connection with a donation under this subsection.
 
-    (g) __Collection of Dishonored Checks.—__ 
+    (g)  __Collection of Dishonored Checks__  __.—__ 
 
         (1) The Secretary of Defense may impose a charge for the collection of a check accepted at a commissary store that is not honored by the financial institution on which the check is drawn. The imposition and amounts of charges shall be consistent with practices of commercial grocery stores regarding dishonored checks.
 
@@ -103,7 +103,7 @@
 
         (5) In this subsection, the term “commissary trust revolving fund” means the trust revolving fund maintained by the Department of Defense for surcharge collections and proceeds of sales of commissary stores.
 
-    (h) __Release of Certain Commercially Valuable Information to Public.—__ 
+    (h)  __Release of Certain Commercially Valuable Information to Public__  __.—__ 
 
         (1) The Secretary of Defense may limit the release to the public of any information described in paragraph (2) if the Secretary determines that it is in the best interest of the Department of Defense to limit the release of such information. If the Secretary determines to limit the release of any such information, the Secretary may provide for limited release of such information in accordance with paragraph (3).
 

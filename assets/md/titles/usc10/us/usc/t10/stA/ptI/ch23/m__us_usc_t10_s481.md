@@ -15,7 +15,7 @@
 
 ## § 481. Racial and ethnic issues; gender issues: surveys
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) The Secretary of Defense shall carry out four surveys in accordance with this section to identify and assess racial and ethnic issues and discrimination, and to identify and assess gender issues and discrimination, among members of the armed forces. Each such survey shall be conducted so as to identify and assess the extent (if any) of activity among such members that may be seen as so-called “hate group” activity.
 
@@ -35,7 +35,7 @@
 
         (4) Each survey under this section shall be conducted separately from any other survey conducted by the Department of Defense.
 
-    (b) __Armed Forces Workplace and Equal Opportunity Surveys.—__ 
+    (b)  __Armed Forces Workplace and Equal Opportunity Surveys__  __.—__ 
 
     The Armed Forces Workplace and Equal Opportunity Surveys shall be conducted so as to solicit information on racial and ethnic issues, including issues relating to harassment and discrimination, and the climate in the armed forces for forming professional relationships among members of the armed forces of various racial and ethnic groups. Both such surveys shall be conducted so as to solicit information on the following:
 
@@ -45,7 +45,7 @@
 
         (3) The effectiveness of current processes for complaints on and investigations into racial and ethnic discrimination.
 
-    (c) __Armed Forces Workplace and Gender Relations Surveys.—__ 
+    (c)  __Armed Forces Workplace and Gender Relations Surveys__  __.—__ 
 
     The Armed Forces Workplace and Gender Relations Surveys shall be conducted so as to solicit information on gender issues, including issues relating to gender-based harassment, assault, and discrimination, and the climate in the armed forces for forming professional relationships between male and female members of the armed forces. Both such surveys shall be conducted so as to solicit information on the following:
 
@@ -59,17 +59,17 @@
 
         (5) Any other issues relating to discrimination, harassment, or assault as the Secretary of Defense considers appropriate.
 
-    (d) __When Surveys Required.—__ 
+    (d)  __When Surveys Required__  __.—__ 
 
         (1) One of the two Armed Forces Workplace and Gender Relations Surveys shall be conducted in 2014 and then every second year thereafter and the other Armed Forces Workplace and Gender Relations Survey shall be conducted in 2015 and then every second year thereafter, so that one of the two surveys is being conducted each year.
 
         (2) The two Armed Forces Workplace and Equal Opportunity Surveys shall be conducted at least once every four years. The two surveys may not be conducted in the same year.
 
-    (e) __Reports to Congress.—__ 
+    (e)  __Reports to Congress__  __.—__ 
 
     Upon the completion of a survey under this section, the Secretary shall submit to Congress a report containing the results of the survey.
 
-    (f) __Inapplicability to Coast Guard.—__ 
+    (f)  __Inapplicability to Coast Guard__  __.—__ 
 
     This section does not apply to the Coast Guard.
 
@@ -107,11 +107,11 @@
 
 [Pub. L. 107–314, div. A, title V, § 562][/us/pl/107/314/s562], Dec. 2, 2002, [116 Stat. 2554][/us/stat/116/2554], provided that:
 
->     “(a) __Requirement for Report.—__ 
+>     “(a)  __Requirement for Report__  __.—__ 
 
 >     The Secretary of Defense shall submit to Congress, for each of fiscal years 2002 through 2006, a report on the status of female members of the Armed Forces. Information in the annual report shall be shown for the Department of Defense as a whole and separately for each of the Army, Navy, Air Force, and Marine Corps.
 
->     “(b) __Matters To Be Included.—__ 
+>     “(b)  __Matters To Be Included__  __.—__ 
 
 >     The report for a fiscal year under subsection (a) shall include the following information:
 
@@ -151,7 +151,7 @@
 
 >         “(9) Satisfaction (based on surveys) of female active-duty members, female dependents of active-duty members, and female dependents of nonactive duty members entitled to health care provided by the Department of Defense with access to, and quality of, women’s health care benefits provided by the Department of Defense.
 
->     “(c) __Time for Report.—__ 
+>     “(c)  __Time for Report__  __.—__ 
 
 >     The report for a fiscal year under this section shall be submitted not later than 120 days after the end of that fiscal year.”
 

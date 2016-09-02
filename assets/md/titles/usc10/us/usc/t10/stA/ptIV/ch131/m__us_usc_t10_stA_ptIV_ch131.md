@@ -349,11 +349,11 @@
 
 >     “(d) __Strategic Management Plan Required.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The Secretary of Defense, acting through the Chief Management Officer of the Department of Defense, shall develop a strategic management plan for the Department of Defense.
 
->         “(2) __Matters covered.—__ 
+>         “(2)  __Matters covered__  __.—__ 
 
 >         Such plan shall include, at a minimum, detailed descriptions of—
 
@@ -367,11 +367,11 @@
 
 >             “(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 
->         “(3) __Updates.—__ 
+>         “(3)  __Updates__  __.—__ 
 
 >         The Secretary of Defense, acting through the Chief Management Officer, shall update the strategic management plan no later than July 1, 2009, and every two years thereafter and provide a copy to the Committees on Armed Services of the Senate and the House of Representatives.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d).”
 

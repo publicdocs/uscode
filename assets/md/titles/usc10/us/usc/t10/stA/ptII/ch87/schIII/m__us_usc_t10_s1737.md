@@ -15,7 +15,7 @@
 
 ## § 1737. Definitions and general provisions
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this subchapter:
 
@@ -29,11 +29,11 @@
 
         (5) The term “senior contracting official” means a director of contracting, or a principal deputy to a director of contracting, serving in the office of the Secretary of a military department, the headquarters of a military department, the head of a Defense Agency, a subordinate command headquarters, or in a major systems or logistics contracting activity in the Department of Defense.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     Any civilian or military member of the Corps who does not meet the education, training, and experience requirements for a critical acquisition position established under this subchapter may not carry out the duties or exercise the authorities of that position, except for a period not to exceed six months, unless a waiver of the requirements is granted under subsection (c).
 
-    (c) __Waiver.—__ 
+    (c)  __Waiver__  __.—__ 
 
     The Secretary of each military department (acting through the service acquisition executive for that department) or the Secretary of Defense (acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics) for Defense Agencies and other components of the Department of Defense may waive, on a case-by-case basis, the requirements established under this subchapter with respect to the assignment of an individual to a particular critical acquisition position. Such a waiver may be granted only if unusual circumstances justify the waiver or if the Secretary concerned (or official to whom the waiver authority is delegated) determines that the individual’s qualifications obviate the need for meeting the education, training, and experience requirements established under this subchapter.
 

@@ -15,7 +15,7 @@
 
 ## § 381. Procurement of equipment by State and local governments through the Department of Defense: equipment for counter-drug, homeland security, and emergency response activities
 
-    (a) __Procedures.—__ 
+    (a)  __Procedures__  __.—__ 
 
         (1)
 
@@ -37,15 +37,15 @@
 
         (2) In establishing the procedures, the Secretary of Defense shall coordinate with the General Services Administration and other Federal agencies for purposes of avoiding duplication of effort.
 
-    (b) __Reimbursement of Administrative Costs.—__ 
+    (b)  __Reimbursement of Administrative Costs__  __.—__ 
 
     In the case of any purchase made by a State or unit of local government under the procedures established under subsection (a), the Secretary of Defense shall require the State or unit of local government to reimburse the Department of Defense for the administrative costs to the Department of such purchase.
 
-    (c) __GSA Catalog.—__ 
+    (c)  __GSA Catalog__  __.—__ 
 
     The Administrator of General Services, in coordination with the Secretary of Defense, shall produce and maintain a catalog of equipment suitable for counter-drug, homeland security, and emergency response activities for purchase by States and units of local government under the procedures established by the Secretary under this section.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 

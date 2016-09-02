@@ -15,7 +15,7 @@
 
 ## § 1782. Surveys of military families
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense, in order to determine the effectiveness of Federal programs relating to military families and the need for new programs, may conduct surveys of—
 
@@ -25,15 +25,15 @@
 
         (3) survivors of deceased retired members and of members who died while on active duty.
 
-    (b) __Responses To Be Voluntary.—__ 
+    (b)  __Responses To Be Voluntary__  __.—__ 
 
     Responses to surveys conducted under this section shall be voluntary.
 
-    (c) __Federal Recordkeeping Requirements.—__ 
+    (c)  __Federal Recordkeeping Requirements__  __.—__ 
 
     With respect to a survey authorized under subsection (a) that includes a person referred to in that subsection who is not an employee of the United States or is not otherwise considered an employee of the United States for the purposes of [section 3502(3)(A)(i) of title 44][/us/usc/t44/s3502/3/A/i], the person shall be considered as being an employee of the United States for the purposes of that section.
 
-    (d) __Survey Required for Fiscal Year 2010.—__ 
+    (d)  __Survey Required for Fiscal Year__  __2010.—__ 
 
     Notwithstanding subsection (a), during fiscal year 2010, the Secretary of Defense shall conduct a survey otherwise authorized under such subsection. Thereafter, additional surveys may be conducted not less often than once every three fiscal years.
 

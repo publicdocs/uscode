@@ -15,7 +15,7 @@
 
 ## § 2126. Members of the program: service credit
 
-    (a) __Service Not Creditable.—__ 
+    (a)  __Service Not Creditable__  __.—__ 
 
     Except as provided in subsection (b), service performed while a member of the program shall not be counted—
 
@@ -23,7 +23,7 @@
 
         (2) in computing years of service creditable under [section 205 of title 37][/us/usc/t37/s205].
 
-    (b) __Service Creditable for Certain Purposes.—__ 
+    (b)  __Service Creditable for Certain Purposes__  __.—__ 
 
         (1)
 

@@ -265,7 +265,7 @@ Oct. 27, 1965, Pub. L. 89–298, § 219, 79 Stat. 1089.  </td>
 
 [Pub. L. 110–114, title II, § 2027][/us/pl/110/114/s2027], Nov. 8, 2007, [121 Stat. 1079][/us/stat/121/1079], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     On the third Tuesday of January of each year beginning January 2008, the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
 
@@ -273,7 +273,7 @@ Oct. 27, 1965, Pub. L. 89–298, § 219, 79 Stat. 1089.  </td>
 
 >         “(2) for projects and activities that are not scheduled for completion in the current fiscal year, the estimated expenditures by the Corps necessary in the following fiscal year for each project or activity to maintain the same level of effort being achieved in the current fiscal year.
 
->     “(b) __Contents.—__ 
+>     “(b)  __Contents__  __.—__ 
 
 >     In addition to the information described in subsection (a), the report shall contain a detailed accounting of the following information:
 

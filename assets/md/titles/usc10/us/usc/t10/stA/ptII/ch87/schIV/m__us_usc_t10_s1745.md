@@ -15,7 +15,7 @@
 
 ## § 1745. Additional education and training programs available to acquisition personnel
 
-    (a) __Tuition Reimbursement and Training.—__ 
+    (a)  __Tuition Reimbursement and Training__  __.—__ 
 
         (1) The Secretary of Defense shall provide for tuition reimbursement and training (including a full-time course of study leading to a degree) for acquisition personnel in the Department of Defense.
 
@@ -23,7 +23,7 @@
 
         (3) In the case of members of the armed forces, the limitation in [section 2007(a) of this title][/us/usc/t10/s2007/a] shall not apply to tuition reimbursement and training provided for under this subsection.
 
-    (b) __Repayment of Student Loans.—__ 
+    (b)  __Repayment of Student Loans__  __.—__ 
 
     The Secretary of Defense may repay all or part of a student loan under [section 5379 of title 5][/us/usc/t5/s5379] for an employee of the Department of Defense appointed to an acquisition position.
 

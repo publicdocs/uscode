@@ -15,15 +15,15 @@
 
 ## § 1080. Contracts for medical care for spouses and children: election of facilities
 
-    (a) __Election.—__ 
+    (a)  __Election__  __.—__ 
 
     A dependent covered by [section 1079 of this title][/us/usc/t10/s1079] may elect to receive inpatient medical care either in (1) the facilities of the uniformed services, under the conditions prescribed by sections 1076–1078 of this title, or (2) the facilities provided under a plan contracted for under [section 1079 of this title][/us/usc/t10/s1079]. However, under such regulations as the Secretary of Defense, after consulting the other administering Secretaries, may prescribe, the right to make this election may be limited for dependents residing in the area where the member concerned is assigned, if adequate medical facilities of the uniformed services are available in that area for those dependents.
 
-    (b) __Issuance of Nonavailability-of-Health-Care Statements.—__ 
+    (b)  __Issuance of Nonavailability-of-Health-Care Statements__  __.—__ 
 
     In determining whether to issue a nonavailability-of-health-care statement for a dependent described in subsection (a), the commanding officer of a facility of the uniformed services may consider the availability of health care services for the dependent pursuant to any contract or agreement entered into under this chapter for the provision of health care services. Notwithstanding any other provision of law, with respect to obstetrics and gynecological care for beneficiaries not enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter, a nonavailability-of-health-care statement shall be required for receipt of health care services related to outpatient prenatal, outpatient or inpatient delivery, and outpatient post-partum care subsequent to the visit which confirms the pregnancy.
 
-    (c) __Waivers and Exceptions to Requirements.—__ 
+    (c)  __Waivers and Exceptions to Requirements__  __.—__ 
 
         (1) A covered beneficiary enrolled in a managed care plan offered pursuant to any contract or agreement under this chapter for the provision of health care services shall not be required to obtain a nonavailability-of-health-care statement as a condition for the receipt of health care.
 

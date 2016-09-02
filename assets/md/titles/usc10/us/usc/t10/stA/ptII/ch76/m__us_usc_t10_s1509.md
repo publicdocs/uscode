@@ -15,7 +15,7 @@
 
 ## § 1509. Program to resolve preenactment missing person cases
 
-    (a) __Program Required; Covered Conflicts.—__ 
+    (a)  __Program Required; Covered Conflicts__  __.—__ 
 
     The Secretary of Defense shall implement a comprehensive, coordinated, integrated, and fully resourced program to account for persons described in subparagraph (A) or (B) of [section 1513(1) of this title][/us/usc/t10/s1513/1] who are unaccounted for from the following conflicts:
 
@@ -31,7 +31,7 @@
 
         (6) Such other conflicts in which members of the armed forces served as the Secretary of Defense may designate.
 
-    (b) __Implementation Process.—__ 
+    (b)  __Implementation Process__  __.—__ 
 
         (1) The Secretary of Defense shall implement the program within the Department of Defense POW/MIA accounting community.
 
@@ -51,11 +51,11 @@
 
             (F) Any other element of the Department of Defense whose mission (as designated by the Secretary of Defense) involves the accounting for and recovery of members of the armed forces who are missing in action, prisoners of war, or unaccounted for.
 
-    (c) __Treatment as Missing Persons.—__ 
+    (c)  __Treatment as Missing Persons__  __.—__ 
 
     Each unaccounted for person covered by subsection (a) shall be considered to be a missing person for purposes of the applicability of other provisions of this chapter to the person.
 
-    (d) __Establishment of Personnel Files.—__ 
+    (d)  __Establishment of Personnel Files__  __.—__ 
 
         (1)
 
@@ -69,7 +69,7 @@
 
         (3) Each file established under this subsection shall be handled in accordance with, and subject to the provisions of, [section 1506 of this title][/us/usc/t10/s1506] in the same manner as applies to the file of a missing person otherwise subject to such section.
 
-    (e) __Review of Status Requirements.—__ 
+    (e)  __Review of Status Requirements__  __.—__ 
 
         (1) If new information (as described in paragraph (3)) is found or received that may be related to one or more unaccounted for persons covered by subsection (a), whether or not such information specifically relates (or may specifically relate) to any particular such unaccounted for person, that information shall be provided to the Secretary of Defense.
 
@@ -89,7 +89,7 @@
 
             (B) is identified after November 18, 1997, in records of the United States as information that could be relevant to the case of one or more unaccounted for persons covered by subsection (a).
 
-    (f) __Coordination Requirements.—__ 
+    (f)  __Coordination Requirements__  __.—__ 
 
         (1) In establishing and carrying out the program, the Secretary of Defense shall coordinate with the Secretaries of the military departments, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.
 
@@ -119,15 +119,15 @@
 
 [Pub. L. 111–84, div. A, title V, § 541(d)][/us/pl/111/84/s541/d], Oct. 28, 2009, [123 Stat. 2298][/us/stat/123/2298], provided that:
 
->     “(1) __Priority.—__ 
+>     “(1)  __Priority__  __.—__ 
 
 >     A priority of the program required by [section 1509 of title 10][/us/usc/t10/s1509], United States Code, as amended by subsection (a), to resolve missing person cases arising before the enactment of chapter 76 of such title by section 569 of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106]; [110 Stat. 336][/us/stat/110/336]) \[approved Feb. 10, 1996\] shall be the return of missing persons to United States control alive.
 
->     “(2) __Accounting for goal.—__ 
+>     “(2)  __Accounting for goal__  __.—__ 
 
 >     In implementing the program, the Secretary of Defense, in coordination with the officials specified in subsection (f)(1) of [section 1509 of title 10][/us/usc/t10/s1509], United States Code, shall provide such funds, personnel, and resources as the Secretary considers appropriate to increase significantly the capability and capacity of the Department of Defense, the Armed Forces, and commanders of the combatant commands to account for missing persons so that, beginning with fiscal year 2015, the POW/MIA accounting community has sufficient resources to ensure that at least 200 missing persons are accounted for under the program annually.
 
->     “(3) __Definitions.—__ 
+>     “(3)  __Definitions__  __.—__ 
 
 >     In this subsection:
 

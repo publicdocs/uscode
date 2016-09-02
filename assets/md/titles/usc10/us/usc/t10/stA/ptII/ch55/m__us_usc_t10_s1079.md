@@ -825,7 +825,7 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 711, Oct. 14, 2008, [122 Stat. 4500][/us/stat/122/4500], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(11)][/us/pl/111/383/s1075/e/11], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that:
 
->     “(a) __Waiver of Certain Copayments.—__ 
+>     “(a)  __Waiver of Certain Copayments__  __.—__ 
 
 >     Subject to subsection (b) and under regulations prescribed by the Secretary of Defense, the Secretary shall—
 
@@ -833,13 +833,13 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
 >         “(2) ensure that a beneficiary pays nothing for preventive services during a year even if the beneficiary has not paid the amount necessary to cover the beneficiary’s deductible for the year.
 
->     “(b) __Exclusion for Medicare-Eligible Beneficiaries.—__ 
+>     “(b)  __Exclusion for Medicare-Eligible Beneficiaries__  __.—__ 
 
 >     Subsection (a) shall not apply to a medicare-eligible beneficiary.
 
 >     “(c) __Refund of Copayments.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         Under regulations prescribed by the Secretary of Defense, the Secretary may pay a refund to a medicare-eligible beneficiary excluded by subsection (b), subject to the availability of appropriations specifically for such refunds, consisting of an amount up to the difference between—
 
@@ -847,15 +847,15 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
 >             “(B) the amount the beneficiary would have paid during such fiscal year if the copayments for preventive services had been waived pursuant to subsection (a) during that year.
 
->         “(2) __Copayments covered.—__ 
+>         “(2)  __Copayments covered__  __.—__ 
 
 >         The refunds under paragraph (1) are available only for copayments paid by medicare-eligible beneficiaries during fiscal year 2009.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Preventive services.—__ 
+>         “(1)  __Preventive services__  __.—__ 
 
 >         The term ‘preventive services’ includes, taking into consideration the age and gender of the beneficiary:
 
@@ -873,7 +873,7 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
 >             “(G) Other services as determined by the Secretary of Defense.
 
->         “(2) __Medicare-eligible.—__ 
+>         “(2)  __Medicare-eligible__  __.—__ 
 
 >         The term ‘medicare-eligible’ has the meaning provided by [section 1111(b)(3) of title 10][/us/usc/t10/s1111/b/3], United States Code.”
 
@@ -881,7 +881,7 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
 [Pub. L. 108–136, div. A, title VII, § 724][/us/pl/108/136/s724], Nov. 24, 2003, [117 Stat. 1534][/us/stat/117/1534], provided that:
 
->     “(a) __Health Information Plan Required.—__ 
+>     “(a)  __Health Information Plan Required__  __.—__ 
 
 >     The Secretary of Defense shall develop a plan to—
 
@@ -905,11 +905,11 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
 >         “(5) provide mechanisms to allow for the periodic identification by the Department of Defense of the number and locality of eligible persons who may intend to rely on TRICARE-authorized providers for health care services.
 
->     “(b) __Implementation of Plan.—__ 
+>     “(b)  __Implementation of Plan__  __.—__ 
 
 >     The Secretary of Defense shall implement the plan required by subsection (a) with respect to any contract entered into by the Department of Defense after May 31, 2003, for managed health care.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -925,7 +925,7 @@ Provisions similar to those added to subsec. (h)(2) of this section by [section 
 
 >             “(C) that has accepted reimbursement by the Secretary of Defense as payment for services rendered during the 12-month period preceding the date of the most recently updated provider information provided to households under the plan required by subsection (a).
 
->     “(d) __Submission of Plan.—__ 
+>     “(d)  __Submission of Plan__  __.—__ 
 
 >     Not later than March 31, 2004, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives the plan required by subsection (a), together with a schedule for implementation of the plan.”
 

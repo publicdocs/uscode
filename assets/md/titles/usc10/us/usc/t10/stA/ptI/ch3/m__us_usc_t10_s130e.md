@@ -15,7 +15,7 @@
 
 ## § 130e. Treatment under Freedom of Information Act of critical infrastructure security information
 
-    (a) __Exemption.—__ 
+    (a)  __Exemption__  __.—__ 
 
     The Secretary of Defense may exempt Department of Defense critical infrastructure security information from disclosure pursuant to [section 552(b)(3) of title 5][/us/usc/t5/s552/b/3], upon a written determination that—
 
@@ -23,19 +23,19 @@
 
         (2) the public interest consideration in the disclosure of such information does not outweigh preventing the disclosure of such information.
 
-    (b) __Information Provided to State and Local Governments.—__ 
+    (b)  __Information Provided to State and Local Governments__  __.—__ 
 
     Department of Defense critical infrastructure security information covered by a written determination under subsection (a) that is provided to a State or local government shall remain under the control of the Department of Defense.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “Department of Defense critical infrastructure security information” means sensitive but unclassified information that, if disclosed, would reveal vulnerabilities in Department of Defense critical infrastructure that, if exploited, would likely result in the significant disruption, destruction, or damage of or to Department of Defense operations, property, or facilities, including information regarding the securing and safeguarding of explosives, hazardous chemicals, or pipelines, related to critical infrastructure or protected systems owned or operated by or on behalf of the Department of Defense, including vulnerability assessments prepared by or on behalf of the Department of Defense, explosives safety information (including storage and handling), and other site-specific information on or relating to installation security.
 
-    (d) __Delegation.—__ 
+    (d)  __Delegation__  __.—__ 
 
     The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management.
 
-    (e) __Transparency.—__ 
+    (e)  __Transparency__  __.—__ 
 
     Each determination of the Secretary, or the Secretary’s designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
 

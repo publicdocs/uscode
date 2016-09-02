@@ -15,7 +15,7 @@
 
 ## § 8039. Chief of Chaplains: appointment; duties
 
-    (a) __Chief of Chaplains.—__ 
+    (a)  __Chief of Chaplains__  __.—__ 
 
         (1)
 
@@ -31,11 +31,11 @@
 
         (3) The Chief of Chaplains shall perform such duties as may be prescribed by the Secretary of the Air Force and by law.
 
-    (b) __Selection Board.—__ 
+    (b)  __Selection Board__  __.—__ 
 
     Under regulations approved by the Secretary of Defense, the Secretary of the Air Force, in selecting an officer for recommendation to the President for appointment as the Chief of Chaplains, shall ensure that the officer selected is recommended by a board of officers that, insofar as practicable, is subject to the procedures applicable to the selection boards convened under chapter 36 of this title.
 
-    (c) __Grade.—__ 
+    (c)  __Grade__  __.—__ 
 
     An officer appointed as Chief of Chaplains who holds a lower regular grade may be appointed in the regular grade of major general.
 

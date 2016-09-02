@@ -15,7 +15,7 @@
 
 ## § 2308. Buy-to-budget acquisition: end items
 
-    (a) __Authority To Acquire Additional End Items.—__ 
+    (a)  __Authority To Acquire Additional End Items__  __.—__ 
 
     Using funds available to the Department of Defense for the acquisition of an end item, the head of an agency making the acquisition may acquire a higher quantity of the end item than the quantity specified for the end item in a law providing for the funding of that acquisition if that head of an agency makes each of the following findings:
 
@@ -27,7 +27,7 @@
 
         (4) The amount so provided is sufficient to ensure that each unit of the end item acquired within the higher quantity is fully funded as a complete end item.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the administration of this section. The regulations shall include, at a minimum, the following:
 
@@ -35,11 +35,11 @@
 
         (2) Authority (subject to subsection (a)) to acquire up to 10 percent more than the quantity of an end item approved in a justification and approval of the use of procedures other than competitive procedures for the acquisition of the end item under [section 2304 of this title][/us/usc/t10/s2304].
 
-    (c) __Notification of Congress.—__ 
+    (c)  __Notification of Congress__  __.—__ 
 
     The head of an agency is not required to notify Congress in advance regarding a decision under the authority of this section to acquire a higher quantity of an end item than is specified in a law described in subsection (a), but shall notify the congressional defense committees of the decision not later than 30 days after the date of the decision.
 
-    (d) __Waiver by Other Law.—__ 
+    (d)  __Waiver by Other Law__  __.—__ 
 
     A provision of law may not be construed as prohibiting the acquisition of a higher quantity of an end item under this section unless that provision of law—
 
@@ -47,7 +47,7 @@
 
         (2) specifically states that the acquisition of the higher quantity of the end item is prohibited notwithstanding the authority provided in this section.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
         (1) For the purposes of this section, a quantity of an end item shall be considered specified in a law if the quantity is specified either in a provision of that law or in any related representation that is set forth separately in a table, chart, or explanatory text included in a joint explanatory statement or governing committee report accompanying the law.
 

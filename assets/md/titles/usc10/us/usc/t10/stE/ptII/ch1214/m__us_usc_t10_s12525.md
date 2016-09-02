@@ -15,11 +15,11 @@
 
 ## § 12525. Benefit amounts
 
-    (a) __Basic Benefit.—__ 
+    (a)  __Basic Benefit__  __.—__ 
 
     The basic benefit for an insured member under the insurance program is $1,000 per month (as adjusted under subsection (d)).
 
-    (b) __Reduced and Enhanced Benefits.—__ 
+    (b)  __Reduced and Enhanced Benefits__  __.—__ 
 
     Under the regulations prescribed by the Secretary, a person enrolled for coverage under the insurance program may elect—
 
@@ -27,11 +27,11 @@
 
         (2) an enhanced benefit in the amount of $1,500, $2,000, $2,500, $3,000, $3,500, $4,000, $4,500, or $5,000 per month (as adjusted under subsection (d)).
 
-    (c) __Amount for Partial Month.—__ 
+    (c)  __Amount for Partial Month__  __.—__ 
 
     The amount of insurance payable to an insured member for any period of covered service that is less than one month shall be determined by multiplying 1⁄30 of the monthly benefit rate for the member by the number of days of the covered service served by the member during such period.
 
-    (d) __Adjustment of Amounts.—__ 
+    (d)  __Adjustment of Amounts__  __.—__ 
 
         (1) The Secretary shall determine annually the effect of inflation on benefits and shall adjust the amounts set forth in subsections (a) and (b)(2) to maintain the constant dollar value of the benefit.
 

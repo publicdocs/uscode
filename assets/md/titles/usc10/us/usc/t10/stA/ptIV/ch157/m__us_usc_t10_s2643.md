@@ -15,11 +15,11 @@
 
 ## § 2643. Commissary and exchange services: transportation overseas
 
-    (a) __Transportation Options.—__ 
+    (a)  __Transportation Options__  __.—__ 
 
     The Secretary of Defense shall authorize the officials responsible for operation of commissaries and military exchanges to negotiate directly with private carriers for the most cost-effective transportation of commissary and exchange supplies to destinations outside the continental United States without relying on the Air Mobility Command, the Military Sealift Command, or the Military Traffic Management Command. [Section 2631 of this title][/us/usc/t10/s2631], regarding the preference for vessels of the United States or belonging to the United States in the transportation of supplies by sea, shall apply to the negotiation of contracts for sea-borne transportation under the authority of this section.
 
-    (b) __Payment of Transportation Costs.—__ 
+    (b)  __Payment of Transportation Costs__  __.—__ 
 
     [Section 2483(b)(5) of this title][/us/usc/t10/s2483/b/5], regarding the use of appropriated funds to cover the expenses of operating commissary stores, shall apply to the transportation of commissary supplies and products. Appropriated funds for the Department of Defense shall also be used to cover the expenses of transporting exchange supplies and products to destinations outside the continental United States.
 

@@ -15,11 +15,11 @@
 
 ## § 1471. Forensic pathology investigations
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, the Armed Forces Medical Examiner may conduct a forensic pathology investigation to determine the cause or manner of death of a deceased person if such an investigation is determined to be justified under circumstances described in subsection (b). The investigation may include an autopsy of the decedent’s remains.
 
-    (b) __Basis for Investigation.—__ 
+    (b)  __Basis for Investigation__  __.—__ 
 
         (1) A forensic pathology investigation of a death under this section is justified if at least one of the circumstances in paragraph (2) and one of the circumstances in paragraph (3) exist.
 
@@ -57,7 +57,7 @@
 
             (C) in any other authorized investigation being conducted by the Federal Bureau of Investigation, the National Transportation Safety Board, or any other Federal agency, an authorized official of such agency with authority to direct a forensic pathology investigation requests that the Armed Forces Medical Examiner conduct such an investigation.
 
-    (c) __Determination of Justification.—__ 
+    (c)  __Determination of Justification__  __.—__ 
 
         (1) Subject to paragraph (2), the determination that a circumstance exists under paragraph (2) of subsection (b) shall be made by the Armed Forces Medical Examiner.
 
@@ -69,7 +69,7 @@
 
             (B) in a case involving circumstances described in paragraph (3)(A)(ii) of that subsection, the commander is the commander of the decedent’s unit at a level in the chain of command designated for such purpose in the regulations prescribed by the Secretary of Defense.
 
-    (d) __Limitation in Concurrent Jurisdiction Cases.—__ 
+    (d)  __Limitation in Concurrent Jurisdiction Cases__  __.—__ 
 
         (1)
 
@@ -81,7 +81,7 @@
 
         (2) Paragraph (1) does not limit the authority of the Armed Forces Medical Examiner to conduct a forensic pathology investigation of a death that is subject to the exercise of primary jurisdiction by another sovereign if the investigation by the other sovereign is concluded without a forensic pathology investigation that the Armed Forces Medical Examiner considers complete. For the purposes of the preceding sentence a forensic pathology investigation is incomplete if the investigation does not include an autopsy of the decedent.
 
-    (e) __Procedures.—__ 
+    (e)  __Procedures__  __.—__ 
 
     For a forensic pathology investigation under this section, the Armed Forces Medical Examiner shall—
 
@@ -95,7 +95,7 @@
 
         (5) promptly report the results of the forensic pathology investigation to the official responsible for the overall investigation of the death.
 
-    (f) __Definition of State.—__ 
+    (f)  __Definition of State__  __.—__ 
 
     In this section, the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and Guam.
 

@@ -15,7 +15,7 @@
 
 ## § 985. Persons convicted of capital crimes; certain other persons: denial of specified burial-related benefits
 
-    (a) __Prohibition of Performance of Military Honors.—__ 
+    (a)  __Prohibition of Performance of Military Honors__  __.—__ 
 
     The Secretary of a military department and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may not provide military honors (under [section 1491 of this title][/us/usc/t10/s1491] or any other authority) at the funeral or burial of any of the following persons:
 
@@ -23,7 +23,7 @@
 
         (2) A person who is a veteran (as defined in [section 1491(h) of this title][/us/usc/t10/s1491/h]) or who died while on active duty or a member of a reserve component, when the circumstances surrounding the person’s death or other circumstances as specified by the Secretary of Defense are such that to provide military honors at the funeral or burial of the person would bring discredit upon the person’s service (or former service).
 
-    (b) __Disqualification From Burial in Military Cemeteries.—__ 
+    (b)  __Disqualification From Burial in Military Cemeteries__  __.—__ 
 
     A person who is ineligible for interment in a national cemetery under the control of the National Cemetery Administration by reason of [section 2411(b) of title 38][/us/usc/t38/s2411/b] is not entitled to or eligible for, and may not be provided, burial in—
 
@@ -33,7 +33,7 @@
 
         (3) any other cemetery administered by the Secretary of a military department or the Secretary of Defense.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “burial” includes inurnment.
 

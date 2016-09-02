@@ -15,7 +15,7 @@
 
 ## § 949g. Oaths
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) Before performing their respective duties in a military commission under this chapter, military judges, members, trial counsel, defense counsel, reporters, and interpreters shall take an oath to perform their duties faithfully.
 
@@ -27,11 +27,11 @@
 
             (B) if such an oath is taken, such oath need not again be taken at the time the judge advocate or other person is detailed to that duty.
 
-    (b) __Witnesses.—__ 
+    (b)  __Witnesses__  __.—__ 
 
     Each witness before a military commission under this chapter shall be examined on oath.
 
-    (c) __Oath Defined.—__ 
+    (c)  __Oath Defined__  __.—__ 
 
     In this section, the term “oath” includes an affirmation.
 

@@ -37,7 +37,7 @@
 
 [Pub. L. 100–180, div. A, title XII, § 1248][/us/pl/100/180/s1248], Dec. 4, 1987, [101 Stat. 1166][/us/stat/101/1166], provided that:
 
->     “(a) __Establishment of Procedures.—__ 
+>     “(a)  __Establishment of Procedures__  __.—__ 
 
 >     The Secretary of Defense shall establish procedures to ensure that whenever, in connection with a criminal investigation conducted by or for a military department, a physiological specimen is obtained from a person for the purpose of determining whether that person has used a controlled substance—
 
@@ -45,7 +45,7 @@
 
 >         “(2) the investigative agency that submits the specimen to the laboratory receives a written statement of the results of the forensic examination from the laboratory within such period as is necessary to use such results in a court-martial or other criminal proceeding resulting from the investigation.
 
->     “(b) __Transportation of Specimens.—__ 
+>     “(b)  __Transportation of Specimens__  __.—__ 
 
 >     The procedures prescribed under subsection (a)—
 
@@ -53,19 +53,19 @@
 
 >         “(2) insofar as practicable, shall require transportation of the specimen to an appropriate laboratory by the most expeditious means necessary to carry out the requirement in subsection (a)(1).
 
->     “(c) __Tests for Use of LSD.—__ 
+>     “(c)  __Tests for Use of LSD__  __.—__ 
 
 >     Procedures established under subsection (a) shall ensure that whenever the controlled substance with respect to which a physiological specimen is to be examined is lysergic acid diethylamide (LSD), the specimen is submitted to a forensic laboratory that is capable of determining with a reasonable degree of scientific certainty, on the basis of the examination of that specimen, whether the person providing the specimen has used lysergic acid diethylamide (LSD).
 
->     “(d) __Rule of Construction.—__ 
+>     “(d)  __Rule of Construction__  __.—__ 
 
 >     Nothing in this section shall be construed as providing a basis, that is not otherwise available in law, for a defense to a charge or a motion for exclusion of evidence or other appropriate relief in any criminal or administrative proceeding.
 
->     “(e) __Controlled Substances Covered.—__ 
+>     “(e)  __Controlled Substances Covered__  __.—__ 
 
 >     For purposes of this section, a controlled substance is a substance described in [section 912a(b) of title 10][/us/usc/t10/s912a/b], United States Code.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than March 1, 1988, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, a report describing the procedures established under this section.”
 

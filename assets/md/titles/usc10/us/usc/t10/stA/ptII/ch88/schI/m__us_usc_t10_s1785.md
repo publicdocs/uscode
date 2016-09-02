@@ -15,11 +15,11 @@
 
 ## § 1785. Youth sponsorship program
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     The Secretary of Defense shall require that there be at each military installation a youth sponsorship program to facilitate the integration of dependent children of members of the armed forces into new surroundings when moving to that military installation as a result of a parent’s permanent change of station.
 
-    (b) __Description of Programs.—__ 
+    (b)  __Description of Programs__  __.—__ 
 
     The program at each installation shall provide for involvement of dependent children of members presently stationed at the military installation and shall be directed primarily toward children in their preteen and teenage years.
 

@@ -15,15 +15,15 @@
 
 ## § 14305. Establishment of promotion zones: mandatory consideration for promotion
 
-    (a) __Establishment of Zone.—__ 
+    (a)  __Establishment of Zone__  __.—__ 
 
     Before convening a mandatory promotion board under [section 14101(a) of this title][/us/usc/t10/s14101/a], the Secretary of the military department concerned shall establish a promotion zone for officers serving in each grade and competitive category to be considered by the board.
 
-    (b) __Number in the Zone.—__ 
+    (b)  __Number in the Zone__  __.—__ 
 
     The Secretary concerned shall determine the number of officers in the promotion zone for officers serving in any grade and competitive category from among officers who are eligible for promotion in that grade and competitive category under the provisions of sections 14303 and 14304 of this title and who are otherwise eligible for promotion.
 
-    (c) __Factors in Determining Number in the Zone.—__ 
+    (c)  __Factors in Determining Number in the Zone__  __.—__ 
 
     The Secretary’s determination under subsection (b) shall be made on the basis of an estimate of the following:
 

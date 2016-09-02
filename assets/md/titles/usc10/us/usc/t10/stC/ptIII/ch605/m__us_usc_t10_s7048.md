@@ -15,11 +15,11 @@
 
 ## § 7048. Degree granting authority for United States Naval Postgraduate School
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the Secretary of the Navy, the President of the Naval Postgraduate School may, upon the recommendation of the faculty of the Naval Postgraduate School, confer appropriate degrees upon graduates who meet the degree requirements.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     A degree may not be conferred under this section unless—
 
@@ -27,7 +27,7 @@
 
         (2) the Naval Postgraduate School is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
 
-    (c) __Congressional Notification Requirements.—__ 
+    (c)  __Congressional Notification Requirements__  __.—__ 
 
         (1)
 

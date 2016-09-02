@@ -15,7 +15,7 @@
 
 ## § 1177. Members diagnosed with or reasonably asserting post-traumatic stress disorder or traumatic brain injury: medical examination required before administrative separation
 
-    (a) __Medical Examination Required.—__ 
+    (a)  __Medical Examination Required__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary of Defense, the Secretary of a military department shall ensure that a member of the armed forces under the jurisdiction of the Secretary who has been deployed overseas in support of a contingency operation during the previous 24 months, and who is diagnosed by a physician, clinical psychologist, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse as experiencing post-traumatic stress disorder or traumatic brain injury or who otherwise reasonably alleges, based on the service of the member while deployed, the influence of such a condition, receives a medical examination to evaluate a diagnosis of post-traumatic stress disorder or traumatic brain injury.
 
@@ -23,11 +23,11 @@
 
         (3) In a case involving post-traumatic stress disorder, the medical examination shall be performed by a clinical psychologist, psychiatrist, licensed clinical social worker, or psychiatric advanced practice registered nurse. In cases involving traumatic brain injury, the medical examination may be performed by a physician, clinical psychologist, psychiatrist, or other health care professional, as appropriate.
 
-    (b) __Purpose of Medical Examination.—__ 
+    (b)  __Purpose of Medical Examination__  __.—__ 
 
     The medical examination required by subsection (a) shall assess whether the effects of post-traumatic stress disorder or traumatic brain injury constitute matters in extenuation that relate to the basis for administrative separation under conditions other than honorable or the overall characterization of service of the member as other than honorable.
 
-    (c) __Inapplicability to Proceedings Under Uniform Code of Military Justice.—__ 
+    (c)  __Inapplicability to Proceedings Under Uniform Code of Military Justice__  __.—__ 
 
     The medical examination and procedures required by this section do not apply to courts-martial or other proceedings conducted pursuant to the Uniform Code of Military Justice.
 

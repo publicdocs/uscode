@@ -17,17 +17,17 @@
 
     (a) __Computation of Annuity for a Spouse, Former Spouse, or Child.—__ 
 
-        (1) __Standard annuity.—__ 
+        (1)  __Standard annuity__  __.—__ 
 
         In the case of a standard annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
 
-            (A) __Beneficiary under 62 years of age.—__ 
+            (A)  __Beneficiary under 62 years of age__  __.—__ 
 
             If the beneficiary is under 62 years of age or is a dependent child when becoming entitled to the annuity, the monthly annuity shall be the amount equal to 55 percent of the base amount.
 
             (B) __Beneficiary 62 years of age or older.—__ 
 
-                (i) __General rule.—__ 
+                (i)  __General rule__  __.—__ 
 
                 If the beneficiary (other than a dependent child) is 62 years of age or older when becoming entitled to the annuity, the monthly annuity shall be the amount equal to the product of the base amount and the percent applicable to the month, as follows:
 
@@ -41,15 +41,15 @@
 
                     (V) For months after March 2008, the applicable percent is 55 percent.
 
-                (ii) __Rule if beneficiary eligible for social security offset computation.—__ 
+                (ii)  __Rule if beneficiary eligible for social security offset computation__  __.—__ 
 
                 If the beneficiary is eligible to have the annuity computed under subsection (e) and if computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
-        (2) __Reserve-component annuity.—__ 
+        (2)  __Reserve-component annuity__  __.—__ 
 
         In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a) of this title][/us/usc/t10/s1450/a] (other than under section 1450(a)(4)), the monthly annuity payable to the beneficiary shall be determined as follows:
 
-            (A) __Beneficiary under 62 years of age.—__ 
+            (A)  __Beneficiary under 62 years of age__  __.—__ 
 
             If the beneficiary is under 62 years of age or is a dependent child when becoming entitled to the annuity, the monthly annuity shall be the amount equal to a percentage of the base amount that—
 
@@ -59,7 +59,7 @@
 
             (B) __Beneficiary 62 years of age or older.—__ 
 
-                (i) __General rule.—__ 
+                (i)  __General rule__  __.—__ 
 
                 If the beneficiary (other than a dependent child) is 62 years of age or older when becoming entitled to the annuity, the monthly annuity shall be the amount equal to a percentage of the base amount that—
 
@@ -67,17 +67,17 @@
 
                     (II) is determined under subsection (f).
 
-                (ii) __Rule if beneficiary eligible for social security offset computation.—__ 
+                (ii)  __Rule if beneficiary eligible for social security offset computation__  __.—__ 
 
                 If the beneficiary is eligible to have the annuity computed under subsection (e) and if, at the time the beneficiary becomes entitled to the annuity, computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
     (b) __Insurable Interest Beneficiary.—__ 
 
-        (1) __Standard annuity.—__ 
+        (1)  __Standard annuity__  __.—__ 
 
         In the case of a standard annuity provided to a beneficiary under [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4], the monthly annuity payable to the beneficiary shall be the amount equal to 55 percent of the retired pay of the person who elected to provide the annuity after the reduction in that pay in accordance with [section 1452(c) of this title][/us/usc/t10/s1452/c].
 
-        (2) __Reserve-component annuity.—__ 
+        (2)  __Reserve-component annuity__  __.—__ 
 
         In the case of a reserve-component annuity provided to a beneficiary under [section 1450(a)(4) of this title][/us/usc/t10/s1450/a/4], the monthly annuity payable to the beneficiary shall be the amount equal to a percentage of the retired pay of the person who elected to provide the annuity after the reduction in such pay in accordance with [section 1452(c) of this title][/us/usc/t10/s1452/c] that—
 
@@ -85,7 +85,7 @@
 
             (B) is determined under subsection (f).
 
-        (3) __Computation of reserve-component annuity when participant dies before age 60.—__ 
+        (3)  __Computation of reserve-component annuity when participant dies before age 60__  __.—__ 
 
         For the purposes of paragraph (2), a person—
 
@@ -99,11 +99,11 @@
 
     (c) __Annuities for Survivors of Certain Persons Dying During a Period of Special Eligibility for SBP.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In the case of an annuity provided under section 1448(d) or 1448(f) of this title, the amount of the annuity shall be determined as follows:
 
-            (A) __Beneficiary under 62 years of age.—__ 
+            (A)  __Beneficiary under 62 years of age__  __.—__ 
 
             If the person receiving the annuity is under 62 years of age or is a dependent child when the member or former member dies, the monthly annuity shall be the amount equal to 55 percent of the retired pay to which the member or former member would have been entitled if the member or former member had been entitled to that pay when he died determined as follows:
 
@@ -115,45 +115,45 @@
 
             (B) __Beneficiary 62 years of age or older.—__ 
 
-                (i) __General rule.—__ 
+                (i)  __General rule__  __.—__ 
 
                 If the person receiving the annuity (other than a dependent child) is 62 years of age or older when the member or former member dies, the monthly annuity shall be the amount equal to the applicable percent of the retired pay to which the member or former member would have been entitled as determined under subparagraph (A). The percent applicable for a month under the preceding sentence is the percent specified under subsection (a)(1)(B)(i) as being applicable for that month.
 
-                (ii) __Rule if beneficiary eligible for social security offset computation.—__ 
+                (ii)  __Rule if beneficiary eligible for social security offset computation__  __.—__ 
 
                 If the beneficiary is eligible to have the annuity computed under subsection (e) and if computation of the annuity under that subsection is more favorable to the beneficiary than computation under clause (i), the annuity shall be computed under that subsection rather than under clause (i).
 
-        (2) __DIC offset.—__ 
+        (2)  __DIC offset__  __.—__ 
 
         An annuity computed under paragraph (1) that is paid to a surviving spouse shall be reduced by the amount of dependency and indemnity compensation to which the surviving spouse is entitled under [section 1311(a) of title 38][/us/usc/t38/s1311/a]. Any such reduction shall be effective on the date of the commencement of the period of payment of such compensation under title 38.
 
-        (3) __Servicemembers not yet granted retired pay.—__ 
+        (3)  __Servicemembers not yet granted retired pay__  __.—__ 
 
         In the case of an annuity provided by reason of the service of a member described in clause (ii) or (iii) of [section 1448(d)(1)(A) of this title][/us/usc/t10/s1448/d/1/A] who first became a member of a uniformed service before September 8, 1980, the retired pay to which the member would have been entitled when he died shall be determined for purposes of paragraph (1) based upon the rate of basic pay in effect at the time of death for the grade in which the member was serving at the time of death, unless (as determined by the Secretary concerned) the member would have been entitled to be retired in a higher grade.
 
-        (4) __Rate of pay to be used in computing annuity.—__ 
+        (4)  __Rate of pay to be used in computing annuity__  __.—__ 
 
         In the case of an annuity paid under [section 1448(f) of this title][/us/usc/t10/s1448/f] by reason of the service of a person who first became a member of a uniformed service before September 8, 1980, the retired pay of the person providing the annuity shall for the purposes of paragraph (1) be computed on the basis of the rates of basic pay in effect on the effective date of the annuity.
 
-    (d) __Reduction of Annuities at Age 62.—__ 
+    (d)  __Reduction of Annuities at Age __  __62.—__ 
 
-        (1) __Reduction required.—__ 
+        (1)  __Reduction required__  __.—__ 
 
         The annuity of a person whose annuity is computed under subparagraph (A) of subsection (a)(1), (a)(2), or (c)(1) shall be reduced on the first day of the month after the month in which the person becomes 62 years of age.
 
         (2) __Amount of annuity as reduced.—__ 
 
-            (A) __Computation of annuity.—__ 
+            (A)  __Computation of annuity__  __.—__ 
 
             Except as provided in subparagraph (B), the reduced amount of the annuity shall be the amount of the annuity that the person would be receiving on that date if the annuity had initially been computed under subparagraph (B) of that subsection.
 
-            (B) __Savings provision for beneficiaries eligible for social security offset computation.—__ 
+            (B)  __Savings provision for beneficiaries eligible for social security offset computation__  __.—__ 
 
             In the case of a person eligible to have an annuity computed under subsection (e) and for whom, at the time the person becomes 62 years of age, the annuity computed with a reduction under subsection (e)(3) is more favorable than the annuity with a reduction described in subparagraph (A), the reduction in the annuity shall be computed in the same manner as a reduction under subsection (e)(3).
 
     (e) __Savings Provision for Certain Beneficiaries.—__ 
 
-        (1) __Persons covered.—__ 
+        (1)  __Persons covered__  __.—__ 
 
         The following beneficiaries under the Plan are eligible to have an annuity under the Plan computed under this subsection:
 
@@ -169,15 +169,15 @@
 
                 (iii) would have been eligible for reserve-component retired pay but for the fact that he was under 60 years of age.
 
-        (2) __Amount of annuity.—__ 
+        (2)  __Amount of annuity__  __.—__ 
 
         Subject to paragraph (3), an annuity computed under this subsection is determined as follows:
 
-            (A) __Standard annuity.—__ 
+            (A)  __Standard annuity__  __.—__ 
 
             In the case of the beneficiary of a standard annuity, the annuity shall be the amount equal to 55 percent of the base amount.
 
-            (B) __Reserve-component annuity.—__ 
+            (B)  __Reserve-component annuity__  __.—__ 
 
             In the case of the beneficiary of a reserve-component annuity, the annuity shall be the percentage of the base amount that—
 
@@ -185,29 +185,29 @@
 
                 (ii) is determined under subsection (f).
 
-            (C) __Beneficiaries of persons dying during a period of special eligibility for sbp.—__ 
+            (C)  __Beneficiaries of persons dying during a period of special eligibility for sbp__  __.—__ 
 
             In the case of the beneficiary of an annuity under section 1448(d) or 1448(f) of this title, the annuity shall be the amount equal to 55 percent of the retired pay of the person providing the annuity (as that pay is determined under subsection (c)).
 
-        (3) __Social security offset.—__ 
+        (3)  __Social security offset__  __.—__ 
 
         An annuity computed under this subsection shall be reduced by the lesser of the following:
 
-            (A) __Social security computation.—__ 
+            (A)  __Social security computation__  __.—__ 
 
             The amount of the survivor benefit, if any, to which the surviving spouse (or the former spouse, in the case of a former spouse beneficiary who became a former spouse under a divorce that became final after November 29, 1989) would be entitled under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) based solely upon service by the person concerned as described in section 210(l)(1) of such Act ([42 U.S.C. 410][/us/usc/t42/s410](l)(1)) and calculated assuming that the person concerned lives to age 65.
 
-            (B) __Maximum amount of reduction.—__ 
+            (B)  __Maximum amount of reduction__  __.—__ 
 
             40 percent of the amount of the monthly annuity as determined under paragraph (2).
 
         (4) __Special rules for social security offset computation.—__ 
 
-            (A) __Treatment of deductions made on account of work.—__ 
+            (A)  __Treatment of deductions made on account of work__  __.—__ 
 
             For the purpose of paragraph (3), a surviving spouse (or a former spouse, in the case of a person who becomes a former spouse under a divorce that becomes final after November 29, 1989) shall not be considered as entitled to a benefit under title II of the Social Security Act ([42 U.S.C. 401][/us/usc/t42/s401] et seq.) to the extent that such benefit has been offset by deductions under section 203 of such Act ([42 U.S.C. 403][/us/usc/t42/s403]) on account of work.
 
-            (B) __Treatment of certain periods for which social security refunds are made.—__ 
+            (B)  __Treatment of certain periods for which social security refunds are made__  __.—__ 
 
             In the computation of any reduction made under paragraph (3), there shall be excluded any period of service described in section 210(l)(1) of the Social Security Act ([42 U.S.C. 410][/us/usc/t42/s410](l)(1))—
 
@@ -215,7 +215,7 @@
 
                 (ii) which involved periods of service of less than 30 continuous days for which the person concerned is entitled to receive a refund under section 6413(c) of the Internal Revenue Code of 1986 of the social security tax which the person had paid.
 
-    (f) __Determination of Percentages Applicable to Computation of Reserve-Component Annuities.—__ 
+    (f)  __Determination of Percentages Applicable to Computation of Reserve-Component Annuities__  __.—__ 
 
     The percentage to be applied in determining the amount of an annuity computed under subsection (a)(2), (b)(2), or (e)(2)(B) shall be determined under regulations prescribed by the Secretary of Defense. Such regulations shall be prescribed taking into consideration the following:
 
@@ -233,19 +233,19 @@
 
         (1) __Periodic adjustments for cost-of-living.—__ 
 
-            (A) __Increases in annuities when retired pay increased.—__ 
+            (A)  __Increases in annuities when retired pay increased__  __.—__ 
 
             Whenever retired pay is increased under [section 1401a of this title][/us/usc/t10/s1401a] (or any other provision of law), each annuity that is payable under the Plan shall be increased at the same time.
 
-            (B) __Percentage of increase.—__ 
+            (B)  __Percentage of increase__  __.—__ 
 
             The increase shall, in the case of any annuity, be by the same percent as the percent by which the retired pay of the person providing the annuity would have been increased at such time if the person were alive (and otherwise entitled to such pay).
 
-            (C) __Certain reductions to be disregarded.—__ 
+            (C)  __Certain reductions to be disregarded__  __.—__ 
 
             The amount of the increase shall be based on the monthly annuity payable before any reduction under [section 1450(c) of this title][/us/usc/t10/s1450/c] or under subsection (c)(2).
 
-        (2) __Rounding down.—__ 
+        (2)  __Rounding down__  __.—__ 
 
         The monthly amount of an annuity payable under this subchapter, if not a multiple of $1, shall be rounded to the next lower multiple of $1.
 
@@ -253,23 +253,23 @@
 
         (1) __Periodic adjustments for cost-of-living.—__ 
 
-            (A) __Increases in base amount when retired pay increased.—__ 
+            (A)  __Increases in base amount when retired pay increased__  __.—__ 
 
             Whenever retired pay is increased under [section 1401a of this title][/us/usc/t10/s1401a] (or any other provision of law), the base amount applicable to each participant in the Plan shall be increased at the same time.
 
-            (B) __Percentage of increase.—__ 
+            (B)  __Percentage of increase__  __.—__ 
 
             The increase shall be by the same percent as the percent by which the retired pay of the participant is so increased.
 
-        (2) __Recomputation at age 62.—__ 
+        (2)  __Recomputation at age 62__  __.—__ 
 
         When the retired pay of a person who first became a member of a uniformed service on or after August 1, 1986, and who is a participant in the Plan is recomputed under [section 1410 of this title][/us/usc/t10/s1410] upon the person’s becoming 62 years of age, the base amount applicable to that person shall be recomputed (effective on the effective date of the recomputation of such retired pay under [section 1410 of this title][/us/usc/t10/s1410]) so as to be the amount equal to the amount of the base amount that would be in effect on that date if increases in such base amount under paragraph (1) had been computed as provided in paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] (rather than under paragraph (3) of that section).
 
-        (3) __Disregarding of retired pay reductions for retirement of certain members before 30 years of service.—__ 
+        (3)  __Disregarding of retired pay reductions for retirement of certain members before 30 years of service__  __.—__ 
 
         Computation of a member’s retired pay for purposes of this section shall be made without regard to any reduction under [section 1409(b)(2) of this title][/us/usc/t10/s1409/b/2].
 
-    (i) __Recomputation of Annuity for Certain Beneficiaries.—__ 
+    (i)  __Recomputation of Annuity for Certain Beneficiaries__  __.—__ 
 
     In the case of an annuity under the Plan which is computed on the basis of the retired pay of a person who would have been entitled to have that retired pay recomputed under [section 1410 of this title][/us/usc/t10/s1410] upon attaining 62 years of age, but who dies before attaining that age, the annuity shall be recomputed, effective on the first day of the first month beginning after the date on which the member or former member would have attained 62 years of age, so as to be the amount equal to the amount of the annuity that would be in effect on that date if increases under subsection (h)(1) in the base amount applicable to that annuity to the time of the death of the member or former member, and increases in such annuity under subsection (g)(1), had been computed as provided in paragraph (2) of [section 1401a(b) of this title][/us/usc/t10/s1401a/b] (rather than under paragraph (3) of that section).
 
@@ -431,15 +431,15 @@
 
 >     “(b) __Adjustment of Annuities Already in Effect.—__ 
 
->         “(1) __Recomputation.—__ 
+>         “(1)  __Recomputation__  __.—__ 
 
 >         The Secretary concerned shall recompute the annuity of any person who on the effective date specified in subsection (d) is entitled to an annuity under the Survivor Benefit Plan by reason of eligibility described in section 1448(d)(1)(B) or 1448(d)(1)(C) of title 10, United States Code, and who is further described in subsection (c).
 
->         “(2) __Amount of recomputed annuities.—__ 
+>         “(2)  __Amount of recomputed annuities__  __.—__ 
 
 >         The amount of the annuity as so recomputed shall be the amount that would be in effect for that annuity on the effective date specified in subsection (d) if the annuity had originally been computed subject to the provisions of paragraph (3) of [section 1451(c) of title 10][/us/usc/t10/s1451/c], United States Code, as amended by subsection (a).
 
->     “(c) __Persons Eligible for Recomputation.—__ 
+>     “(c)  __Persons Eligible for Recomputation__  __.—__ 
 
 >     A person is eligible to have an annuity under the Survivor Benefit Plan recomputed under subsection (b) if—
 
@@ -447,7 +447,7 @@
 
 >         “(2) the retired pay of that member for the purposes of determining the amount of the annuity under the Survivor Benefit Plan was computed using a rate of basic pay lower than the rate of basic pay in effect at the time of death for the grade in which the member was serving at the time of death.
 
->     “(d) __Effective Date.—__ 
+>     “(d)  __Effective Date__  __.—__ 
 
 >     An annuity recomputed under subsection (b) shall take effect as so recomputed on March 1, 1990.”
 

@@ -117,15 +117,15 @@
 
 [Pub. L. 108–287, title VIII, § 8055][/us/pl/108/287/s8055], Aug. 5, 2004, [118 Stat. 982][/us/stat/118/982], provided that:
 
->     “(a) __Limitation on Pentagon Renovation Costs.—__ 
+>     “(a)  __Limitation on Pentagon Renovation Costs__  __.—__ 
 
 >     Not later than the date each year on which the President submits to Congress the budget under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, the Secretary of Defense shall submit to Congress a certification that the total cost for the planning, design, construction, and installation of equipment for the renovation of wedges 2 through 5 of the Pentagon Reservation, cumulatively, will not exceed four times the total cost for the planning, design, construction, and installation of equipment for the renovation of wedge 1.
 
->     “(b) __Annual Adjustment.—__ 
+>     “(b)  __Annual Adjustment__  __.—__ 
 
 >     For purposes of applying the limitation in subsection (a), the Secretary shall adjust the cost for the renovation of wedge 1 by any increase or decrease in costs attributable to economic inflation, based on the most recent economic assumptions issued by the Office of Management and Budget for use in preparation of the budget of the United States under [section 1104 of title 31][/us/usc/t31/s1104], United States Code.
 
->     “(c) __Exclusion of Certain Costs.—__ 
+>     “(c)  __Exclusion of Certain Costs__  __.—__ 
 
 >     For purposes of calculating the limitation in subsection (a), the total cost for wedges 2 through 5 shall not include—
 
@@ -135,7 +135,7 @@
 
 >         “(3) any increase in costs attributable to additional security requirements that the Secretary of Defense considers essential to provide a safe and secure working environment.
 
->     “(d) __Certification Cost Reports.—__ 
+>     “(d)  __Certification Cost Reports__  __.—__ 
 
 >     As part of the annual certification under subsection (a), the Secretary shall report the projected cost (as of the time of the certification) for—
 
@@ -143,7 +143,7 @@
 
 >         “(2) the repair and reconstruction of wedges 1 and 2 in response to the terrorist attack on the Pentagon that occurred on September 11, 2001.
 
->     “(e) __Duration of Certification Requirement.—__ 
+>     “(e)  __Duration of Certification Requirement__  __.—__ 
 
 >     The requirement to make an annual certification under subsection (a) shall apply until the Secretary certifies to Congress that the renovation of the Pentagon Reservation is completed.”
 
@@ -159,11 +159,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 107–107, div. B, title XXVIII, § 2864][/us/pl/107/107/s2864], Dec. 28, 2001, [115 Stat. 1333][/us/stat/115/1333], provided that:
 
->     “(a) __Memorial Authorized.—__ 
+>     “(a)  __Memorial Authorized__  __.—__ 
 
 >     The Secretary of Defense may establish a memorial at the Pentagon Reservation dedicated to the victims of the terrorist attack on the Pentagon that occurred on September 11, 2001. The Secretary shall use necessary amounts in the Pentagon Reservation Maintenance Revolving Fund established by [section 2674(e) of title 10][/us/usc/t10/s2674/e], United States Code, including amounts deposited in the Fund under subsection (c), to plan, design, construct, and maintain the memorial.
 
->     “(b) __Acceptance of Contributions.—__ 
+>     “(b)  __Acceptance of Contributions__  __.—__ 
 
 >     The Secretary of Defense may accept monetary contributions made for the purpose of assisting in—
 
@@ -171,7 +171,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) the repair of the damage caused to the Pentagon Reservation by the terrorist attack.
 
->     “(c) __Deposit of Contributions.—__ 
+>     “(c)  __Deposit of Contributions__  __.—__ 
 
 >     The Secretary of Defense shall deposit contributions accepted under subsection (b) in the Pentagon Reservation Maintenance Revolving Fund. The contributions shall be available for expenditure only for the purposes specified in subsection (b).”
 

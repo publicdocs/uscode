@@ -187,7 +187,7 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 
 [Pub. L. 111–84, div. A, title X, § 1043][/us/pl/111/84/s1043], Oct. 28, 2009, [123 Stat. 2456][/us/stat/123/2456], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(12)][/us/pl/111/383/s1075/d/12], Jan. 7, 2011, [124 Stat. 4373][/us/stat/124/4373], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     An article of military equipment that is an end item of a major weapon system may not be furnished or transferred to a private entity for the conduct of research, development, test and evaluation under contractual agreement with the Department of Defense, if such research, development, test, and evaluation necessitates significantly modifying the military equipment, until the senior acquisition official of a military department, or his designee, submits to the congressional defense committees certification in writing—
 
@@ -213,33 +213,33 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 
 >             “(B) a plan for the conduct of such future test and evaluation, including the anticipated roles and responsibilities of government and the private entity, as applicable.
 
->     “(b) __Certification.—__ 
+>     “(b)  __Certification__  __.—__ 
 
 >     No military equipment that is an end item of a major weapons system may be transferred or furnished to a private entity for purposes of research and development as authorized under subsection (a) unless the senior officer of the military service concerned certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that such equipment is not essential to the defense of the United States.
 
->     “(c) __One-time Authority to Transfer.—__ 
+>     “(c)  __One-time Authority to Transfer__  __.—__ 
 
 >     The Secretary of the Navy may transfer, to Piasecki Aircraft Corporation of Essington, Pennsylvania (in this section referred to as ‘transferee’), all right, title, and interest of the United States, except as otherwise provided in this subsection, in and to Navy aircraft N40VT (Bureau Number 163283), also known as the X–49A aircraft, and associated components and test equipment, previously specified as Government-furnished equipment in contract N00019–00–C–0284. The transferee shall provide consideration for the transfer of such military equipment to the transferor of an amount not to exceed fair value, as determined, on a non-delegable basis, by the Secretary.
 
->     “(d) __Applicable Law.—__ 
+>     “(d)  __Applicable Law__  __.—__ 
 
 >     The transfer or use of military equipment is subject to all applicable Federal and State laws and regulations, including, but not limited to, the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\], the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\], continued under Executive Order 12924 \[listed in a table under [50 U.S.C. 1701][/us/usc/t50/s1701]\], International Traffic in Arms Regulations (22 C.F.R. 120 et seq.), Export Administration Regulations (15 C.F.R. 730 et seq.), Foreign Assets Control Regulations (31 C.F.R. 500 et seq.), and the Espionage Act \[[act June 15, 1917, ch. 30][/us/act/1917-06-15/ch30], [40 Stat. 217][/us/stat/40/217], see Tables for classification\].
 
 >     “(e) __Condition of Equipment to Be Transferred.—__ 
 
->         “(1) __As-is condition.—__ 
+>         “(1)  __As-is condition__  __.—__ 
 
 >         The military equipment transferred under subsection (c) shall be transferred in its current ‘as-is’ condition. The Secretary is not required to repair or alter the condition of any military equipment before transferring any interest in such equipment under subsection (c).
 
->         “(2) __Spare parts or equipment.—__ 
+>         “(2)  __Spare parts or equipment__  __.—__ 
 
 >         The Secretary of the Navy is not required to provide spare parts or equipment as a result of the transfer authorized under subsection (c).
 
->     “(f) __Transfer at No Cost to the United States.—__ 
+>     “(f)  __Transfer at No Cost to the United States__  __.—__ 
 
 >     The transfer of military equipment under subsection (c) shall be made at no cost to the United States. Any costs associated with the transfer shall be borne by the transferee.
 
->     “(g) __Additional Terms and Conditions.—__ 
+>     “(g)  __Additional Terms and Conditions__  __.—__ 
 
 >     The Secretary shall require that the transfer authorized by section (c) be carried out by means of a written agreement and shall require, at a minimum, the following conditions to the transfer:
 
@@ -253,15 +253,15 @@ July 16, 1952, ch. 882, § 4 (less 3d and last sentences), 66 Stat. 725.  </td
 
 >         “(5) A condition that the transferee acknowledges sole responsibility of the X-49A aircraft and associated equipment and assumes all liability for operation of the X-49A aircraft and associated equipment.
 
->     “(h) __No Liability for the United States.—__ 
+>     “(h)  __No Liability for the United States__  __.—__ 
 
 >     Upon the transfer of military equipment under subsection (b), the United States shall not be liable for any death, injury, loss, or damage that results from the use of such military equipment by any person other than the United States.
 
->     “(i) __Additional Terms and Conditions.—__ 
+>     “(i)  __Additional Terms and Conditions__  __.—__ 
 
 >     The Secretary may require such additional terms and conditions in connection with a transfer under subsection (b) as the Secretary considers appropriate to protect the interests of the United States.
 
->     “(j) __Definitions.—__ 
+>     “(j)  __Definitions__  __.—__ 
 
 >     In this subsection:
 

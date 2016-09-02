@@ -15,7 +15,7 @@
 
 ## § 1074b. Medical and dental care: Academy cadets and midshipmen; members of, and designated applicants for membership in, Senior ROTC
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     Under joint regulations prescribed by the administering Secretaries, the following persons are, except as provided in subsection (c), entitled to the benefits described in subsection (b):
 
@@ -31,7 +31,7 @@
 
             (C) in the line of duty while remaining overnight immediately before the commencement of duties performed pursuant to [section 2109 of this title][/us/usc/t10/s2109] or, while remaining overnight, between successive periods of performing duties pursuant to [section 2109 of this title][/us/usc/t10/s2109], at or in the vicinity of the site of the duties performed pursuant to [section 2109 of this title][/us/usc/t10/s2109], if the site is outside reasonable commuting distance from the residence of the member or designated applicant.
 
-    (b) __Benefits.—__ 
+    (b)  __Benefits__  __.—__ 
 
     A person eligible for benefits under subsection (a) for an injury, illness, or disease is entitled to—
 
@@ -39,7 +39,7 @@
 
         (2) meals during hospitalization.
 
-    (c) __Exception for Gross Negligence or Misconduct.—__ 
+    (c)  __Exception for Gross Negligence or Misconduct__  __.—__ 
 
     A person is not entitled to benefits under subsection (b) for an injury, illness, or disease, or the aggravation of an injury, illness, or disease that is a result of the gross negligence or the misconduct of that person.
 

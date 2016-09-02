@@ -15,15 +15,15 @@
 
 ## § 2495b. Sale or rental of sexually explicit material prohibited
 
-    (a) __Prohibition of Sale or Rental.—__ 
+    (a)  __Prohibition of Sale or Rental__  __.—__ 
 
     The Secretary of Defense may not permit the sale or rental of sexually explicit material on property under the jurisdiction of the Department of Defense.
 
-    (b) __Prohibition of Officially Provided Sexually Explicit Material.—__ 
+    (b)  __Prohibition of Officially Provided Sexually Explicit Material__  __.—__ 
 
     A member of the armed forces or a civilian officer or employee of the Department of Defense acting in an official capacity may not provide for sale, remuneration, or rental sexually explicit material to another person.
 
-    (c) __Resale Activities Review Board.—__ 
+    (c)  __Resale Activities Review Board__  __.—__ 
 
         (1) The Secretary of Defense shall establish a nine-member board to make recommendations to the Secretary regarding whether material sold or rented, or proposed for sale or rental, on property under the jurisdiction of the Department of Defense is barred from sale or rental by subsection (a).
 
@@ -41,11 +41,11 @@
 
         (5) Members of the board shall be allowed travel expense, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the board.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to implement this section.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -71,11 +71,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 642(b), Oct. 14, 2008, [122 Stat. 4494][/us/stat/122/4494], provided that:
 
->     “(1) __Establishment.—__ 
+>     “(1)  __Establishment__  __.—__ 
 
 >     The board required by subsection (c) of [section 2495b of title 10][/us/usc/t10/s2495b], United States Code, as added by subsection (a), shall be established, and its initial nine members appointed, not later than 120 days after the date of the enactment of this Act \[Oct. 14, 2008\].
 
->     “(2) __Meetings.—__ 
+>     “(2)  __Meetings__  __.—__ 
 
 >     The board shall conduct an initial meeting within one year after the date of the appointment of the initial members of the board. At the discretion of the board, the board may consider all materials previously reviewed under such section as available for reconsideration for a minimum of 180 days following the initial meeting of the board.”
 

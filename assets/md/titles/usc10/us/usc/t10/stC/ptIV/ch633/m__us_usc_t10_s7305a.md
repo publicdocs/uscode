@@ -15,15 +15,15 @@
 
 ## § 7305a. Vessels stricken from Naval Vessel Register: contracts for dismantling on net-cost basis
 
-    (a) __Authority for Net-Cost Basis Contracts.—__ 
+    (a)  __Authority for Net-Cost Basis Contracts__  __.—__ 
 
     When the Secretary of the Navy awards a contract for the dismantling of a vessel stricken from the Naval Vessel Register, the Secretary may award the contract on a net-cost basis.
 
-    (b) __Retention by Contractor of Proceeds of Sale of Scrap and Reusable Items.—__ 
+    (b)  __Retention by Contractor of Proceeds of Sale of Scrap and Reusable Items__  __.—__ 
 
     When the Secretary awards a contract on a net-cost basis under subsection (a), the Secretary shall provide in the contract that the contractor may retain the proceeds from the sale of scrap and reusable items removed from the vessel dismantled under the contract.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

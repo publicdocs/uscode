@@ -409,11 +409,11 @@
 
 [Pub. L. 109–163, div. A, title VIII, § 802(e)][/us/pl/109/163/s802/e], Jan. 6, 2006, [119 Stat. 3370][/us/stat/119/3370], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 2435 of this title][/us/usc/t10/s2435]\] shall take effect on the date of the enactment of this Act \[Jan. 6, 2006\], and shall apply with respect to any major defense acquisition program for which an original Baseline Estimate is first established before, on, or after that date.
 
->     “(2) __Applicability to current major defense acquisition programs.—__ 
+>     “(2)  __Applicability to current major defense acquisition programs__  __.—__ 
 
 >     In the case of a major defense acquisition program for which the program acquisition unit cost or procurement unit cost, as applicable, exceeds the original Baseline Estimate for the program by more than 50 percent on the date of the enactment of this Act—
 

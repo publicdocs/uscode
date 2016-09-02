@@ -15,11 +15,11 @@
 
 ## § 12686. Reserves on active duty within two years of retirement eligibility: limitation on release from active duty
 
-    (a) __Limitation.—__ 
+    (a)  __Limitation__  __.—__ 
 
     Under regulations to be prescribed by the Secretary concerned, which shall be as uniform as practicable, a member of a reserve component who is on active duty (other than for training) and is within two years of becoming eligible for retired pay or retainer pay under a purely military retirement system (other than the retirement system under chapter 1223 of this title), may not be involuntarily released from that duty before he becomes eligible for that pay, unless the release is approved by the Secretary.
 
-    (b) __Waiver.—__ 
+    (b)  __Waiver__  __.—__ 
 
     With respect to a member of a reserve component who is to be ordered to active duty (other than for training) under [section 12301 of this title][/us/usc/t10/s12301] pursuant to an order to active duty that specifies a period of less than 180 days and who (but for this subsection) would be covered by subsection (a), the Secretary concerned may require, as a condition of such order to active duty, that the member waive the applicability of subsection (a) to the member for the period of active duty covered by that order. In carrying out this subsection, the Secretary concerned may require that a waiver under the preceding sentence be executed before the period of active duty begins.
 

@@ -15,21 +15,21 @@
 
 ## § 2262. Department of Defense conferences: collection of fees to cover Department of Defense costs
 
-    (a) __Authority to Collect Fees.—__ 
+    (a)  __Authority to Collect Fees__  __.—__ 
 
         (1) The Secretary of Defense may collect fees from any individual or commercial participant in a conference, seminar, exhibition, symposium, or similar meeting conducted by the Department of Defense (in this section referred to collectively as a “conference”).
 
         (2) The Secretary may provide for the collection of fees under this section directly or by contract. The fees may be collected in advance of a conference.
 
-    (b) __Use of Collected Fees.—__ 
+    (b)  __Use of Collected Fees__  __.—__ 
 
     Amounts collected under subsection (a) with respect to a conference shall be credited to the appropriation or account from which the costs of the conference are paid and shall be available to pay the costs of the Department of Defense with respect to the conference or to reimburse the Department for costs incurred with respect to the conference.
 
-    (c) __Treatment of Excess Amounts.—__ 
+    (c)  __Treatment of Excess Amounts__  __.—__ 
 
     In the event the total amount of fees collected under subsection (a) with respect to a conference exceeds the actual costs of the Department of Defense with respect to the conference, the amount of such excess shall be deposited into the Treasury as miscellaneous receipts.
 
-    (d) __Annual Reports.—__ 
+    (d)  __Annual Reports__  __.—__ 
 
         (1) Not later than 45 days after the President submits to Congress the budget for a fiscal year under [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to the congressional defense committees a budget justification document summarizing the use of the fee-collection authority provided by this section.
 

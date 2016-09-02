@@ -15,7 +15,7 @@
 
 ## § 405. Use of Department of Defense funds for United States share of costs of United Nations peacekeeping activities: limitation
 
-    (a) __Prohibition on Use of Funds.—__ 
+    (a)  __Prohibition on Use of Funds__  __.—__ 
 
     Funds available to the Department of Defense may not be used to make a financial contribution (directly or through another department or agency of the United States) to the United Nations—
 
@@ -23,7 +23,7 @@
 
         (2) for any United States arrearage to the United Nations.
 
-    (b) __Application of Prohibition.—__ 
+    (b)  __Application of Prohibition__  __.—__ 
 
     The prohibition in subsection (a) applies to voluntary contributions, as well as to contributions pursuant to assessment by the United Nations for the United States share of the costs of a peacekeeping activity.
 

@@ -15,11 +15,11 @@
 
 ## § 433. Relationship with other Federal laws
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided by subsection (b), a commercial activity conducted pursuant to this subchapter shall be carried out in accordance with applicable Federal law.
 
-    (b) __Authorization of Waivers When Necessary to Maintain Security.—__ 
+    (b)  __Authorization of Waivers When Necessary to Maintain Security__  __.—__ 
 
         (1) If the Secretary of Defense determines, in connection with a commercial activity authorized pursuant to [section 431 of this title][/us/usc/t10/s431], that compliance with certain Federal laws or regulations pertaining to the management and administration of Federal agencies would create an unacceptable risk of compromise of an authorized intelligence activity, the Secretary may, to the extent necessary to prevent such compromise, waive compliance with such laws or regulations.
 
@@ -27,7 +27,7 @@
 
         (3) The authority of the Secretary under paragraph (1) may be delegated only to the Deputy Secretary of Defense, an Under Secretary of Defense, an Assistant Secretary of Defense, or a Secretary of a military department.
 
-    (c) __Federal Laws and Regulations.—__ 
+    (c)  __Federal Laws and Regulations__  __.—__ 
 
     For purposes of this section, Federal laws and regulations pertaining to the management and administration of Federal agencies are only those Federal laws and regulations pertaining to the following:
 

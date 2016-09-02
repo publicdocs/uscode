@@ -51,15 +51,15 @@
 
 [Pub. L. 107–56, title X, § 1010][/us/pl/107/56/s1010], Oct. 26, 2001, [115 Stat. 395][/us/stat/115/395], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding [section 2465 of title 10][/us/usc/t10/s2465], United States Code, during the period of time that United States armed forces are engaged in Operation Enduring Freedom, and for the period of 180 days thereafter, funds appropriated to the Department of Defense may be obligated and expended for the purpose of entering into contracts or other agreements for the performance of security functions at any military installation or facility in the United States with a proximately located local or State government, or combination of such governments, whether or not any such government is obligated to provide such services to the general public without compensation.
 
->     “(b) __Training.—__ 
+>     “(b)  __Training__  __.—__ 
 
 >     Any contract or agreement entered into under this section shall prescribe standards for the training and other qualifications of local government law enforcement personnel who perform security functions under this section in accordance with criteria established by the Secretary of the service concerned.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     One year after the date of enactment of this section \[Oct. 26, 2001\], the Secretary of Defense shall submit a report to the Committees on Armed Services of the Senate and the House of Representatives describing the use of the authority granted under this section and the use by the Department of Defense of other means to improve the performance of security functions on military installations and facilities located within the United States.”
 
@@ -67,15 +67,15 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 355\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–75, provided that:
 
->     “(a) __Restriction on Conversion.—__ 
+>     “(a)  __Restriction on Conversion__  __.—__ 
 
 >     The Secretary of the Army may not convert to contractor performance the emergency response functions of any chemical weapons storage installation that, as of the date of the enactment of this Act \[Oct. 30, 2000\], are performed for that installation by employees of the United States until the certification required by subsection (c) has been submitted in accordance with that subsection.
 
->     “(b) __Covered Installations.—__ 
+>     “(b)  __Covered Installations__  __.—__ 
 
 >     For the purposes of this section, a chemical weapons storage installation is any installation of the Department of Defense on which lethal chemical agents or munitions are stored.
 
->     “(c) __Certification Requirement.—__ 
+>     “(c)  __Certification Requirement__  __.—__ 
 
 >     The Secretary of the Army shall certify in writing to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives that, to ensure that there will be no lapse of capability to perform the chemical weapon emergency response mission at a chemical weapons storage installation during any transition to contractor performance of those functions at the installation, the plan for conversion of the performance of those functions—
 

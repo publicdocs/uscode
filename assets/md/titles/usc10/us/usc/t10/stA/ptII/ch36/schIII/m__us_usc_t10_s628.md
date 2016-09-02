@@ -15,7 +15,7 @@
 
 ## § 628. Special selection boards
 
-    (a) __Persons Not Considered by Promotion Boards Due to Administrative Error.—__ 
+    (a)  __Persons Not Considered by Promotion Boards Due to Administrative Error__  __.—__ 
 
         (1) If the Secretary of the military department concerned determines that because of administrative error a person who should have been considered for selection for promotion from in or above the promotion zone by a promotion board was not so considered, or the name of a person that should have been placed on an all-fully-qualified-officers list under [section 624(a)(3) of this title][/us/usc/t10/s624/a/3] was not so placed, the Secretary shall convene a special selection board under this subsection to determine whether that person (whether or not then on active duty) should be recommended for promotion.
 
@@ -23,7 +23,7 @@
 
         (3) If a special selection board convened under paragraph (1) does not recommend for promotion a person whose name was referred to it for consideration for selection for appointment to a grade other than a general officer or flag officer grade, the person shall be considered to have failed of selection for promotion.
 
-    (b) __Persons Considered by Promotion Boards in Unfair Manner.—__ 
+    (b)  __Persons Considered by Promotion Boards in Unfair Manner__  __.—__ 
 
         (1)
 
@@ -37,23 +37,23 @@
 
         (3) If a special selection board convened under paragraph (1) does not recommend for promotion a person whose name was referred to it for consideration, the person incurs no additional failure of selection for promotion.
 
-    (c) __Reports of Boards.—__ 
+    (c)  __Reports of Boards__  __.—__ 
 
         (1) Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each person it recommends for promotion and certifying that the board has carefully considered the record of each person whose name was referred to it.
 
         (2) The provisions of sections 617(b) and 618 of this title apply to the report and proceedings of a special selection board convened under this section in the same manner as they apply to the report and proceedings of a selection board convened under [section 611(a) of this title][/us/usc/t10/s611/a]. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, the provisions of sections 576(d), 576(f), and 613a of this title (rather than the provisions of sections 617(b) and 618 of this title) apply to the report and proceedings of the board in the same manner as they apply to the report and proceedings of a selection board convened under [section 573 of this title][/us/usc/t10/s573].
 
-    (d) __Appointment of Persons Selected by Boards.—__ 
+    (d)  __Appointment of Persons Selected by Boards__  __.—__ 
 
         (1) If the report of a special selection board convened under this section, as approved by the President, recommends for promotion to the next higher grade a person whose name was referred to it for consideration, that person shall, as soon as practicable, be appointed to that grade in accordance with subsections (b), (c), and (d) of [section 624 of this title][/us/usc/t10/s624]. However, in the case of a board convened under this section to consider a warrant officer or former warrant officer, if the report of that board, as approved by the Secretary concerned, recommends that warrant officer or former warrant officer for promotion to the next higher grade, that person shall, as soon as practicable, be appointed to the next higher grade in accordance with provisions of [section 578(c) of this title][/us/usc/t10/s578/c] (rather than subsections (b), (c), and (d) of [section 624 of this title][/us/usc/t10/s624]).
 
         (2) A person who is appointed to the next higher grade as the result of the recommendation of a special selection board convened under this section shall, upon that appointment, have the same date of rank, the same effective date for the pay and allowances of that grade, and the same position on the active-duty list as he would have had if he had been recommended for promotion to that grade by the board which should have considered, or which did consider, him. In the case of a person who is not on the active-duty list when appointed to the next higher grade, placement of that person on the active-duty list pursuant to the preceding sentence shall be only for purposes of determination of eligibility of that person for consideration for promotion by any subsequent special selection board under this section.
 
-    (e) __Deceased Persons.—__ 
+    (e)  __Deceased Persons__  __.—__ 
 
     If a person whose name is being considered for referral to a special selection board under this section dies before the completion of proceedings under this section with respect to that person, this section shall be applied to that person posthumously.
 
-    (f) __Convening of Boards.—__ 
+    (f)  __Convening of Boards__  __.—__ 
 
     A board convened under this section—
 
@@ -63,7 +63,7 @@
 
         (3) shall be subject to the provisions of [section 613 of this title][/us/usc/t10/s613].
 
-    (g) __Judicial Review.—__ 
+    (g)  __Judicial Review__  __.—__ 
 
         (1)
 
@@ -101,7 +101,7 @@
 
             (C) Under regulations prescribed under subsection (j), the Secretary of a military department may waive the applicability of subparagraph (A) or (B) in a case if the Secretary determines that a longer period for consideration of the case is warranted. Such a waiver may be for an additional period of not more than six months. The Secretary concerned may not delegate authority to make a determination under this subparagraph.
 
-    (h) __Limitations of Other Jurisdiction.—__ 
+    (h)  __Limitations of Other Jurisdiction__  __.—__ 
 
     No official or court of the United States may, with respect to a claim based to any extent on the failure of a person to be selected for promotion by a promotion board—
 
@@ -109,7 +109,7 @@
 
         (2) except as provided in subsection (g), grant any relief on the claim unless the person has been selected for promotion by a special selection board convened under this section to consider the person for recommendation for promotion and the report of the board has been approved by the President.
 
-    (i) __Existing Jurisdiction.—__ 
+    (i)  __Existing Jurisdiction__  __.—__ 
 
     Nothing in this section limits—
 
@@ -117,7 +117,7 @@
 
         (2) the authority of the Secretary of a military department to correct a military record under [section 1552 of this title][/us/usc/t10/s1552].
 
-    (j) __Regulations.—__ 
+    (j)  __Regulations__  __.—__ 
 
         (1) The Secretary of each military department shall prescribe regulations to carry out this section. Regulations under this subsection may not apply to subsection (g), other than to paragraph (3)(C) of that subsection.
 
@@ -131,7 +131,7 @@
 
         (3) Regulations prescribed by the Secretary of a military department under this subsection may not take effect until approved by the Secretary of Defense.
 
-    (k) __Promotion Board Defined.—__ 
+    (k)  __Promotion Board Defined__  __.—__ 
 
     In this section, the term “promotion board” means a selection board convened by the Secretary of a military department under section 573(a) or 611(a) of this title.
 

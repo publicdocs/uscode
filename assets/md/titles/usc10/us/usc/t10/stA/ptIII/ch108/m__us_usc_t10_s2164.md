@@ -15,7 +15,7 @@
 
 ## § 2164. Department of Defense domestic dependent elementary and secondary schools
 
-    (a) __Authority of Secretary.—__ 
+    (a)  __Authority of Secretary__  __.—__ 
 
         (1) If the Secretary of Defense makes a determination that appropriate educational programs are not available through a local educational agency for dependents of members of the armed forces and dependents of civilian employees of the Federal Government residing on a military installation in the United States (including territories, commonwealths, and possessions of the United States), the Secretary may enter into arrangements to provide for the elementary or secondary education of the dependents of such members of the armed forces and, to the extent authorized in subsection (c), the dependents of such civilian employees.
 
@@ -39,7 +39,7 @@
 
                 (ii) the Secretary determines that the circumstances of such living arrangements justify extending the enrollment authority to include the dependents.
 
-    (b) __Factors for Secretary To Consider.—__ 
+    (b)  __Factors for Secretary To Consider__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
             (C) In the case of a military installation located in a territory, commonwealth, or possession, the District of Columbia public schools, except that an educational program determined comparable under this subparagraph may be considered appropriate for the purposes of paragraph (1)(B) only if the program is conducted in the English language.
 
-    (c) __Eligibility of Dependents of Federal Employees.—__ 
+    (c)  __Eligibility of Dependents of Federal Employees__  __.—__ 
 
         (1)
 
@@ -77,7 +77,7 @@
 
             (D) Subparagraph (A) shall not apply to a dependent covered by paragraph (1)(B). No requirement under this paragraph for reimbursement for educational services provided for the dependent shall apply with respect to the dependent, except that the Secretary may require the United States Customs Service to reimburse the Secretary for the cost of the educational services provided for the dependent.
 
-    (d) __School Boards.—__ 
+    (d)  __School Boards__  __.—__ 
 
         (1) The Secretary of Defense shall provide for the establishment of a school board for Department of Defense elementary and secondary schools established at each military installation under this section. The Secretary may provide for the establishment of one school board for all such schools in the Commonwealth of Puerto Rico and one school board for all such schools in Guam instead of one school board for each military installation in those locations.
 
@@ -97,7 +97,7 @@
 
         (7) The Secretary may provide for reimbursement of a school board member for expenses incurred by the member for travel, transportation, lodging, meals, program fees, activity fees, and other appropriate expenses that the Secretary determines are reasonable and necessary for the performance of school board duties by the member.
 
-    (e) __Administration and Staff.—__ 
+    (e)  __Administration and Staff__  __.—__ 
 
         (1) The Secretary of Defense may enter into such arrangements as may be necessary to provide educational programs at the school.
 
@@ -153,7 +153,7 @@
 
             (E) In this paragraph, the term “defense dependents’ education system” means the program established and operated under section 1402(a) of the Defense Dependents’ Education Act of 1978 ([20 U.S.C. 921(a)][/us/usc/t20/s921/a]).
 
-    (f) __Substantive and Procedural Rights and Protections for Children.—__ 
+    (f)  __Substantive and Procedural Rights and Protections for Children__  __.—__ 
 
         (1)
 
@@ -175,11 +175,11 @@
 
             (B) The term “infants or toddlers with disabilities” has the meaning given the term in section 632 of such Act ([20 U.S.C. 1432][/us/usc/t20/s1432]).
 
-    (g) __Reimbursement.—__ 
+    (g)  __Reimbursement__  __.—__ 
 
     When the Secretary of Defense provides educational services under this section to an individual who is a dependent of an employee of a Federal agency outside the Department of Defense, the head of the other Federal agency shall, upon request of the Secretary of Defense, reimburse the Secretary for those services at rates routinely prescribed by the Secretary for those services. Any payments received by the Secretary under this subsection shall be credited to the account designated by the Secretary for the operation of educational programs under this section.
 
-    (h) __Continuation of Enrollment Despite Change in Status.—__ 
+    (h)  __Continuation of Enrollment Despite Change in Status__  __.—__ 
 
         (1) The Secretary of Defense shall permit a dependent of a member of the armed forces or a dependent of a Federal employee to continue enrollment in an educational program provided by the Secretary pursuant to subsection (a) for the remainder of a school year notwithstanding a change during such school year in the status of the member or Federal employee that, except for this paragraph, would otherwise terminate the eligibility of the dependent to be enrolled in the program.
 
@@ -187,7 +187,7 @@
 
         (3) Paragraphs (1) and (2) do not limit the authority of the Secretary to remove a dependent from enrollment in an educational program provided by the Secretary pursuant to subsection (a) at any time for good cause determined by the Secretary.
 
-    (i) __American Red Cross Employee Dependents in Puerto Rico.—__ 
+    (i)  __American Red Cross Employee Dependents in Puerto Rico__  __.—__ 
 
         (1) The Secretary may authorize the dependent of an American Red Cross employee described in paragraph (2) to enroll in an education program provided by the Secretary pursuant to subsection (a) in Puerto Rico if the American Red Cross agrees to reimburse the Secretary for the educational services so provided.
 
@@ -203,7 +203,7 @@
 
         (4) Subsection (g) shall apply with respect to determining the reimbursement rates for educational services provided pursuant to this subsection. Amounts received as reimbursement for such educational services shall be treated in the same manner as amounts received under subsection (g).
 
-    (j) __Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on Domestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces.—__ 
+    (j)  __Tuition-free Enrollment of Dependents of Foreign Military Personnel Residing on Domestic Military Installations and Dependents of Certain Deceased Members of the Armed Forces__  __.—__ 
 
         (1) The Secretary may authorize the enrollment in a Department of Defense education program provided by the Secretary pursuant to subsection (a) of a dependent not otherwise eligible for such enrollment who is the dependent of an individual described in paragraph (2). Enrollment of such a dependent shall be on a tuition-free basis.
 
@@ -215,7 +215,7 @@
 
             (B) A deceased member of the armed forces who died in the line of duty in a combat-related operation, as designated by the Secretary.
 
-    (k) __Enrollment of Relocated Defense Dependents’ Education System Students.—__ 
+    (k)  __Enrollment of Relocated Defense Dependents’ Education System Students__  __.—__ 
 
         (1)
 
@@ -229,7 +229,7 @@
 
         (2) Unless waived by the Secretary of Defense, a dependent described in paragraph (1) who is enrolled in a school operated by the Department of Defense education program pursuant to such paragraph may attend the school only through the end of the school year.
 
-    (l) __Enrollment in Virtual Elementary and Secondary Education Program.—__ 
+    (l)  __Enrollment in Virtual Elementary and Secondary Education Program__  __.—__ 
 
         (1)
 

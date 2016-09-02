@@ -15,11 +15,11 @@
 
 ## § 6970. Permanent professors: promotion
 
-    (a) __Promotion.—__ 
+    (a)  __Promotion__  __.—__ 
 
     An officer serving as a permanent professor may be recommended for promotion to the grade of captain or colonel, as the case may be, under regulations prescribed by the Secretary of the Navy. The regulations shall include a competitive selection board process to identify those permanent professors best qualified for promotion. An officer so recommended shall be promoted by appointment to the higher grade by the President, by and with the advice and consent of the Senate.
 
-    (b) __Effective Date of Promotion.—__ 
+    (b)  __Effective Date of Promotion__  __.—__ 
 
     If made, the promotion of an officer under subsection (a) shall be effective not earlier than three years after the selection of the officer as a permanent professor as described in that subsection.
 

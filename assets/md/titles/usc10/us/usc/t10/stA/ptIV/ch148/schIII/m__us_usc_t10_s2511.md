@@ -15,15 +15,15 @@
 
 ## § 2511. Defense dual-use critical technology program
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     The Secretary of Defense shall conduct a program to further the national security objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a] by encouraging and providing for research, development, and application of dual-use critical technologies. The Secretary may make grants, enter into contracts, or enter into cooperative agreements and other transactions pursuant to [section 2371 of this title][/us/usc/t10/s2371] in furtherance of the program. The Secretary shall identify projects to be conducted as part of the program.
 
-    (b) __Assistance Authorized.—__ 
+    (b)  __Assistance Authorized__  __.—__ 
 
     The Secretary of Defense may provide technical and other assistance to facilitate the achievement of the purposes of projects conducted under the program. In providing such assistance, the Secretary shall make available, as appropriate for the work to be performed, equipment and facilities of Department of Defense laboratories (including the scientists and engineers at those laboratories) for purposes of projects selected by the Secretary.
 
-    (c) __Financial Commitment of Non-Federal Government Participants.—__ 
+    (c)  __Financial Commitment of Non-Federal Government Participants__  __.—__ 
 
         (1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
 
@@ -31,11 +31,11 @@
 
         (3) The Secretary shall consider a project proposal submitted by a small business concern without regard to the ability of the small business concern to immediately meet its share of the anticipated project costs. Upon the selection of a project proposal submitted by a small business concern, the small business concern shall have a period of not less than 120 days in which to arrange to meet its financial commitment requirements under the project from sources other than a person of a foreign country. If the Secretary determines upon the expiration of that period that the small business concern will be unable to meet its share of the anticipated project costs, the Secretary shall revoke the selection of the project proposal submitted by the small business concern.
 
-    (d) __Selection Process.—__ 
+    (d)  __Selection Process__  __.—__ 
 
     Competitive procedures shall be used in the conduct of the program.
 
-    (e) __Selection Criteria.—__ 
+    (e)  __Selection Criteria__  __.—__ 
 
     The criteria for the selection of projects under the program shall include the following:
 
@@ -53,7 +53,7 @@
 
         (7) The extent to which the project does not unnecessarily duplicate projects undertaken by other agencies.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the purposes of this section.
 
@@ -81,11 +81,11 @@
 
 [Pub. L. 105–85, div. A, title II, § 203][/us/pl/105/85/s203], Nov. 18, 1997, [111 Stat. 1655][/us/stat/111/1655], as amended by [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], provided that:
 
->     “(a) __Funding 1998.—__ 
+>     “(a)  __Funding__  __1998.—__ 
 
 >     Of the amounts authorized to be appropriated by section 201 \[[111 Stat. 1655][/us/stat/111/1655]\], $75,000,000 is authorized for dual-use projects.
 
->     “(b) __Goals.—__ 
+>     “(b)  __Goals__  __.—__ 
 
 >         (1) Subject to paragraph (3), it shall be the objective of the Secretary of each military department to obligate for dual-use projects in each fiscal year referred to in paragraph (2), out of the total amount authorized to be appropriated for such fiscal year for the applied research programs of the military department, the percent of such amount that is specified for that fiscal year in paragraph (2).
 
@@ -109,7 +109,7 @@
 
 >             “(B) notifies Congress of the determination and the reasons for the determination.
 
->     “(c) __Designation of Official for Dual-Use Programs.—__ 
+>     “(c)  __Designation of Official for Dual-Use Programs__  __.—__ 
 
 >         (1) The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense to carry out responsibilities for dual-use projects under this subsection. The designated official shall report directly to the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
@@ -123,15 +123,15 @@
 
 >             “(B) the dual-use projects of the military departments and defense agencies of the Department of Defense are coordinated and avoid unnecessary duplication.
 
->     “(d) __Financial Commitment of Non-Federal Government Participants.—__ 
+>     “(d)  __Financial Commitment of Non-Federal Government Participants__  __.—__ 
 
 >     The total amount of funds provided by a military department for a dual-use project entered into by the Secretary of that department shall not exceed 50 percent of the total cost of the project. In the case of a dual-use project initiated after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary may consider in-kind contributions by non-Federal participants only to the extent such contributions constitute 50 percent or less of the share of the project costs by such participants.
 
->     “(e) __Use of Competitive Procedures.—__ 
+>     “(e)  __Use of Competitive Procedures__  __.—__ 
 
 >     Funds obligated for a dual-use project may be counted toward meeting an objective under subsection (a) only if the funds are obligated for a contract, grant, cooperative agreement, or other transaction that was entered into through the use of competitive procedures.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >         (1) Not later than March 1 of each of 1998, 1999, and 2000, the Secretary of Defense shall submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] on the progress made by the Department of Defense in meeting the objectives set forth in subsection (b) during the preceding fiscal year.
 
@@ -149,7 +149,7 @@
 
 >             “(E) Any recommended legislation to facilitate achievement of objectives under this section.
 
->     “(g) __Commercial Operations and Support Savings Initiative.—__ 
+>     “(g)  __Commercial Operations and Support Savings Initiative__  __.—__ 
 
 >         (1) The Secretary of Defense shall establish a Commercial Operations and Support Savings Initiative (in this subsection referred to as the ‘Initiative’) to develop commercial products and processes that the military departments can incorporate into operational military systems to reduce costs of operations and support.
 
@@ -159,11 +159,11 @@
 
 >         “(4) The budget submitted to Congress by the President for fiscal year 1999 and each fiscal year thereafter pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code, shall set forth separately the funding request for the Initiative.
 
->     “(h) __Repeal of Superseded Authority.—__ 
+>     “(h)  __Repeal of Superseded Authority__  __.—__ 
 
 >     \[Repealed [section 203 of Pub. L. 104–201][/us/pl/104/201/s203], [110 Stat. 2451][/us/stat/110/2451].\]
 
->     “(i) __Definitions.—__ 
+>     “(i)  __Definitions__  __.—__ 
 
 >     In this section:
 

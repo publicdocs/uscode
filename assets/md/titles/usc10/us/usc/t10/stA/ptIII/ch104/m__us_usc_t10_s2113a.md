@@ -15,11 +15,11 @@
 
 ## § 2113a. Board of Regents
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To assist the Secretary of Defense in an advisory capacity, there is a Board of Regents of the University.
 
-    (b) __Membership.—__ 
+    (b)  __Membership__  __.—__ 
 
     The Board shall consist of—
 
@@ -31,7 +31,7 @@
 
         (4) the President of the University, who shall be a nonvoting ex officio member.
 
-    (c) __Term of Office.—__ 
+    (c)  __Term of Office__  __.—__ 
 
     The term of office of each member of the Board (other than ex officio members) shall be six years except that—
 
@@ -39,15 +39,15 @@
 
         (2) any member whose term of office has expired shall continue to serve until his successor is appointed.
 
-    (d) __Chairman.—__ 
+    (d)  __Chairman__  __.—__ 
 
     One of the members of the Board (other than an ex officio member) shall be designated by the Secretary as Chairman. He shall be the presiding officer of the Board.
 
-    (e) __Compensation.—__ 
+    (e)  __Compensation__  __.—__ 
 
     Members of the Board (other than ex officio members) while attending conferences or meetings or while otherwise performing their duties as members shall be entitled to receive compensation at a rate to be fixed by the Secretary and shall also be entitled to receive an allowance for necessary travel expenses while so serving away from their place of residence.
 
-    (f) __Meetings.—__ 
+    (f)  __Meetings__  __.—__ 
 
     The Board shall meet at least once a quarter.
 

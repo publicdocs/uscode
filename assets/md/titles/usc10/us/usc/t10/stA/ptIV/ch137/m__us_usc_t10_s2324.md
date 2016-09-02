@@ -15,11 +15,11 @@
 
 ## § 2324. Allowable costs under defense contracts
 
-    (a) __Indirect Cost That Violates a FAR Cost Principle.—__ 
+    (a)  __Indirect Cost That Violates a FAR Cost Principle__  __.—__ 
 
     The head of an agency shall require that a covered contract provide that if the contractor submits to the agency a proposal for settlement of indirect costs incurred by the contractor for any period after such costs have been accrued and if that proposal includes the submission of a cost which is unallowable because the cost violates a cost principle in the Federal Acquisition Regulation or applicable agency supplement to the Federal Acquisition Regulation, the cost shall be disallowed.
 
-    (b) __Penalty for Violation of Cost Principle.—__ 
+    (b)  __Penalty for Violation of Cost Principle__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) If the head of the agency determines that a proposal for settlement of indirect costs submitted by a contractor includes a cost determined to be unallowable in the case of such contractor before the submission of such proposal, the head of the agency shall assess a penalty against the contractor in an amount equal to two times the amount of the disallowed cost allocated to covered contracts for which a proposal for settlement of indirect costs has been submitted.
 
-    (c) __Waiver of Penalty.—__ 
+    (c)  __Waiver of Penalty__  __.—__ 
 
     The Federal Acquisition Regulation shall provide for a penalty under subsection (b) to be waived in the case of a contractor’s proposal for settlement of indirect costs when—
 
@@ -47,7 +47,7 @@
 
             (B) the unallowable costs subject to the penalty were inadvertently incorporated into the proposal.
 
-    (d) __Applicability of Contract Disputes Procedure to Disallowance of Cost and Assessment of Penalty.—__ 
+    (d)  __Applicability of Contract Disputes Procedure to Disallowance of Cost and Assessment of Penalty__  __.—__ 
 
     An action of the head of an agency under subsection (a) or (b)—
 
@@ -55,7 +55,7 @@
 
         (2) is appealable in the manner provided in [section 7104(a) of title 41][/us/usc/t41/s7104/a].
 
-    (e) __Specific Costs Not Allowable.—__ 
+    (e)  __Specific Costs Not Allowable__  __.—__ 
 
         (1)
 
@@ -137,7 +137,7 @@
 
         (4) The provisions of the Federal Acquisition Regulation implementing this section may establish appropriate definitions, exclusions, limitations, and qualifications.
 
-    (f) __Required Regulations.—__ 
+    (f)  __Required Regulations__  __.—__ 
 
         (1)
 
@@ -189,11 +189,11 @@
 
         (4) The Federal Acquisition Regulation shall require that all categories of costs designated in the report of the contract auditor as questioned with respect to a proposal for settlement be resolved in such a manner that the amount of the individual questioned costs that are paid will be reflected in the settlement.
 
-    (g) __Applicability of Regulations to Subcontractors.—__ 
+    (g)  __Applicability of Regulations to Subcontractors__  __.—__ 
 
     The regulations referred to in subsections (e) and (f)(1) shall require prime contractors of a covered contract, to the maximum extent practicable, to apply the provisions of such regulations to all subcontractors of the covered contract.
 
-    (h) __Contractor Certification Required.—__ 
+    (h)  __Contractor Certification Required__  __.—__ 
 
         (1) A proposal for settlement of indirect costs applicable to a covered contract shall include a certification by an official of the contractor that, to the best of the certifying official’s knowledge and belief, all indirect costs included in the proposal are allowable. Any such certification shall be in a form prescribed in the Federal Acquisition Regulation.
 
@@ -205,15 +205,15 @@
 
             (B) states in writing the reasons for that determination and makes such determination available to the public.
 
-    (i) __Penalties for Submission of Cost Known as Not Allowable.—__ 
+    (i)  __Penalties for Submission of Cost Known as Not Allowable__  __.—__ 
 
     The submission to an agency of a proposal for settlement of costs for any period after such costs have been accrued that includes a cost that is expressly specified by statute or regulation as being unallowable, with the knowledge that such cost is unallowable, shall be subject to the provisions of [section 287 of title 18][/us/usc/t18/s287] and [section 3729 of title 31][/us/usc/t31/s3729].
 
-    (j) __Contractor To Have Burden of Proof.—__ 
+    (j)  __Contractor To Have Burden of Proof__  __.—__ 
 
     In a proceeding before the Armed Services Board of Contract Appeals, the United States Court of Federal Claims, or any other Federal court in which the reasonableness of indirect costs for which a contractor seeks reimbursement from the Department of Defense is in issue, the burden of proof shall be upon the contractor to establish that those costs are reasonable.
 
-    (k) __Proceeding Costs Not Allowable.—__ 
+    (k)  __Proceeding Costs Not Allowable__  __.—__ 
 
         (1) Except as otherwise provided in this subsection, costs incurred by a contractor in connection with any criminal, civil, or administrative proceeding commenced by the United States, by a State, or by a contractor employee submitting a complaint under [section 2409 of this title][/us/usc/t10/s2409] are not allowable as reimbursable costs under a covered contract if the proceeding (A) relates to a violation of, or failure to comply with, a Federal or State statute or regulation, and (B) results in a disposition described in paragraph (2).
 
@@ -283,7 +283,7 @@
 
             (C) The term “penalty” does not include restitution, reimbursement, or compensatory damages.
 
-    (l) __Definitions.—__ 
+    (l)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -303,7 +303,17 @@
 
         (6) The term “fiscal year” means a fiscal year established by a contractor for accounting purposes.
 
-(Added [Pub. L. 99–145, title IX, § 911(a)(1)][/us/pl/99/145/s911/a/1], Nov. 8, 1985, [99 Stat. 682][/us/stat/99/682]; amended [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8112(a)\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1223; [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 100–180, div. A, title VIII, § 805(a)][/us/pl/100/180/s805/a], Dec. 4, 1987, [101 Stat. 1126][/us/stat/101/1126]; [Pub. L. 100–370, § 1(f)(2)(A)][/us/pl/100/370/s1/f/2/A], (3)(A), July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 100–456, div. A, title III, § 322(a)][/us/pl/100/456/s322/a], title VIII, §§ 826(a), 832(a), Sept. 29, 1988, [102 Stat. 1952][/us/stat/102/1952], 2022, 2023; [Pub. L. 100–463, title VIII, § 8105(a)][/us/pl/100/463/s8105/a], Oct. 1, 1988, [102 Stat. 2270–36][/us/stat/102/2270-36]; [Pub. L. 100–526, title I, § 106(a)(2)][/us/pl/100/526/s106/a/2], Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625]; [Pub. L. 100–700, § 8(b)][/us/pl/100/700/s8/b], Nov. 19, 1988, [102 Stat. 4636][/us/stat/102/4636]; [Pub. L. 101–189, div. A, title III, § 311(a)(1)][/us/pl/101/189/s311/a/1], title VIII, § 853(a)(1), (b)(3), Nov. 29, 1989, [103 Stat. 1411][/us/stat/103/1411], 1518; [Pub. L. 101–510, div. A, title XIII, § 1301(10)][/us/pl/101/510/s1301/10], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–190, div. A, title III, § 346(a)][/us/pl/102/190/s346/a], Dec. 5, 1991, [105 Stat. 1346][/us/stat/105/1346]; [Pub. L. 102–484, div. A, title VIII, § 818(a)][/us/pl/102/484/s818/a], title X, § 1052(26), title XIII, § 1352(b), Oct. 23, 1992, [106 Stat. 2457][/us/stat/106/2457], 2500, 2559; [Pub. L. 103–355, title II, § 2101(a)][/us/pl/103/355/s2101/a]–(d), Oct. 13, 1994, [108 Stat. 3306–3308][/us/stat/108/3306-3308]; [Pub. L. 104–106, div. D, title XLIII, § 4321(a)(5)][/us/pl/104/106/s4321/a/5], (b)(9), Feb. 10, 1996, [110 Stat. 671][/us/stat/110/671], 672; [Pub. L. 105–85, div. A, title VIII, § 808(a)][/us/pl/105/85/s808/a], Nov. 18, 1997, [111 Stat. 1836][/us/stat/111/1836]; [Pub. L. 105–261, div. A, title VIII, § 804(a)][/us/pl/105/261/s804/a], Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083]; [Pub. L. 111–350, § 5(b)(19)][/us/pl/111/350/s5/b/19], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 112–81, div. A, title VIII, § 803(a)][/us/pl/112/81/s803/a], (b), Dec. 31, 2011, [125 Stat. 1485][/us/stat/125/1485]; [Pub. L. 112–239, div. A, title VIII, § 827(g)][/us/pl/112/239/s827/g], Jan. 2, 2013, [126 Stat. 1836][/us/stat/126/1836].)
+(Added [Pub. L. 99–145, title IX, § 911(a)(1)][/us/pl/99/145/s911/a/1], Nov. 8, 1985, [99 Stat. 682][/us/stat/99/682]; amended [Pub. L. 99–190, § 101(b)][/us/pl/99/190/s101/b] \[title VIII, § 8112(a)\], Dec. 19, 1985, [99 Stat. 1185][/us/stat/99/1185], 1223; [Pub. L. 100–26, § 7(k)(3)][/us/pl/100/26/s7/k/3], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 100–180, div. A, title VIII, § 805(a)][/us/pl/100/180/s805/a], Dec. 4, 1987, [101 Stat. 1126][/us/stat/101/1126]; [Pub. L. 100–370, § 1(f)(2)(A)][/us/pl/100/370/s1/f/2/A], (3)(A), July 19, 1988, [102 Stat. 846][/us/stat/102/846]; [Pub. L. 100–456, div. A, title III, § 322(a)][/us/pl/100/456/s322/a], title VIII, §§ 826(a), 832(a), Sept. 29, 1988, [102 Stat. 1952][/us/stat/102/1952], 2022, 2023; [Pub. L. 100–463, title VIII, § 8105(a)][/us/pl/100/463/s8105/a], Oct. 1, 1988, [102 Stat. 2270–36][/us/stat/102/2270-36]; [Pub. L. 100–526, title I, § 106(a)(2)][/us/pl/100/526/s106/a/2], Oct. 24, 1988, [102 Stat. 2625][/us/stat/102/2625]; [Pub. L. 100–700, § 8(b)][/us/pl/100/700/s8/b], Nov. 19, 1988, [102 Stat. 4636][/us/stat/102/4636]; [Pub. L. 101–189, div. A, title III, § 311(a)(1)][/us/pl/101/189/s311/a/1], title VIII, § 853(a)(1), (b)(3), Nov. 29, 1989, [103 Stat. 1411][/us/stat/103/1411], 1518; [Pub. L. 101–510, div. A, title XIII, § 1301(10)][/us/pl/101/510/s1301/10], Nov. 5, 1990, [104 Stat. 1668][/us/stat/104/1668]; [Pub. L. 102–190, div. A, title III, § 346(a)][/us/pl/102/190/s346/a], Dec. 5, 1991, [105 Stat. 1346][/us/stat/105/1346]; [Pub. L. 102–484, div. A, title VIII, § 818(a)][/us/pl/102/484/s818/a], title X, § 1052(26), title XIII, § 1352(b), Oct. 23, 1992, [106 Stat. 2457][/us/stat/106/2457], 2500, 2559; [Pub. L. 103–355, title II, § 2101(a)][/us/pl/103/355/s2101/a]–(d), Oct. 13, 1994, [108 Stat. 3306–3308][/us/stat/108/3306-3308]; [Pub. L. 104–106, div. D, title XLIII, § 4321(a)(5)][/us/pl/104/106/s4321/a/5], (b)(9), Feb. 10, 1996, [110 Stat. 671][/us/stat/110/671], 672; [Pub. L. 105–85, div. A, title VIII, § 808(a)][/us/pl/105/85/s808/a], Nov. 18, 1997, [111 Stat. 1836][/us/stat/111/1836]; [Pub. L. 105–261, div. A, title VIII, § 804(a)][/us/pl/105/261/s804/a], Oct. 17, 1998, [112 Stat. 2083][/us/stat/112/2083]; [Pub. L. 111–350, § 5(b)(19)][/us/pl/111/350/s5/b/19], Jan. 4, 2011, [124 Stat. 3844][/us/stat/124/3844]; [Pub. L. 112–81, div. A, title VIII, § 803(a)][/us/pl/112/81/s803/a], (b), Dec. 31, 2011, [125 Stat. 1485][/us/stat/125/1485]; [Pub. L. 112–239, div. A, title VIII, § 827(g)][/us/pl/112/239/s827/g], Jan. 2, 2013, [126 Stat. 1836][/us/stat/126/1836]; [Pub. L. 113–66, div. A, title VIII, § 811(a)][/us/pl/113/66/s811/a], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806]; [Pub. L. 113–67, div. A, title VII, § 702(a)(2)][/us/pl/113/67/s702/a/2], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189].)
+
+ __Amendment of Subsection (e)(1)(P)__ 
+
+[Pub. L. 113–67, div. A, title VII, § 702(a)(2)][/us/pl/113/67/s702/a/2], (c), Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that, applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (e)(1)(P) of this section is amended to read as follows:
+
+>     “(P) Costs of compensation of contractor and subcontractor employees for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $487,000 per year, adjusted annually to reflect the change in the Employment Cost Index for all workers, as calculated by the Bureau of Labor Statistics, except that the head of an executive agency may establish one or more narrowly targeted exceptions for scientists, engineers, or other specialists upon a determination that such exceptions are needed to ensure that the executive agency has continued access to needed skills and capabilities.”
+
+[Pub. L. 113–66, div. A, title VIII, § 811(a)][/us/pl/113/66/s811/a], (d), Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, subsection (e)(1)(P) of this section is amended to read as follows:
+
+>     “(P) Costs of compensation of any contractor employee for a fiscal year, regardless of the contract funding source, to the extent that such compensation exceeds $625,000 adjusted annually for the U.S. Bureau of Labor Statistics Employment Cost Index for total compensation for private industry workers, by occupational and industry group not seasonally adjusted, except that the Secretary of Defense may establish exceptions for positions in the science, technology, engineering, mathematics, medical, and cybersecurity fields and other fields requiring unique areas of expertise upon a determination that such exceptions are needed to ensure that the Department of Defense has continued access to needed skills and capabilities.”
 
  __Historical and Revision Notes__ 
 
@@ -509,9 +519,17 @@
 
  __Effective Date of 2013 Amendment__ 
 
+[Pub. L. 113–67, div. A, title VII, § 702(c)][/us/pl/113/67/s702/c], Dec. 26, 2013, [127 Stat. 1189][/us/stat/127/1189], provided that: 
+
+> “This section \[amending this section and [section 4304 of Title 41][/us/usc/t41/s4304], Public Contracts, repealing [section 1127 of Title 41][/us/usc/t41/s1127], and enacting provisions set out as a note under [section 4304 of Title 41][/us/usc/t41/s4304]\] and the amendments made by this section shall apply only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 26, 2013\].”
+
+[Pub. L. 113–66, div. A, title VIII, § 811(d)][/us/pl/113/66/s811/d], Dec. 26, 2013, [127 Stat. 806][/us/stat/127/806], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 4304 of Title 41][/us/usc/t41/s4304], Public Contracts, and repealing [section 1127 of Title 41][/us/usc/t41/s1127]\] shall apply with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after the date of the enactment of this Act \[Dec. 26, 2013\].”
+
 [Pub. L. 112–239, div. A, title VIII, § 827(i)][/us/pl/112/239/s827/i], Jan. 2, 2013, [126 Stat. 1836][/us/stat/126/1836], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 2409 of this title][/us/usc/t10/s2409]\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], and shall apply to—
 
@@ -521,11 +539,11 @@
 
 >         “(C) all contracts awarded before such date that are modified to include a contract clause providing for the applicability of such amendments.
 
->     “(2) __Revision of supplements to the far.—__ 
+>     “(2)  __Revision of supplements to the far__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Department of Defense Supplement to the Federal Acquisition Regulation and the National Aeronautics and Space Administration Supplement to the Federal Acquisition Regulation shall each be revised to implement the requirements arising under the amendments made by this section.
 
->     “(3) __Inclusion of contract clause in contracts awarded before effective date.—__ 
+>     “(3)  __Inclusion of contract clause in contracts awarded before effective date__  __.—__ 
 
 >     At the time of any major modification to a contract that was awarded before the date that is 180 days after the date of the enactment of this Act, the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section to the contract.”
 
@@ -661,11 +679,11 @@
 
 >     “(a) __Comptroller General Report on Excessive Pass-Through Charges.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Comptroller General shall issue a report on pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense.
 
->         “(2) __Matters covered.—__ 
+>         “(2)  __Matters covered__  __.—__ 
 
 >         The report issued under this subsection—
 
@@ -677,11 +695,11 @@
 
 >     “(b) __Regulations Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than May 1, 2007, the Secretary of Defense shall prescribe regulations to ensure that pass-through charges on contracts or subcontracts (or task or delivery orders) that are entered into for or on behalf of the Department of Defense are not excessive in relation to the cost of work performed by the relevant contractor or subcontractor.
 
->         “(2) __Scope of regulations.—__ 
+>         “(2)  __Scope of regulations__  __.—__ 
 
 >         The regulations prescribed under this subsection—
 
@@ -695,11 +713,11 @@
 
 >             “(B) may include such additional exceptions as the Secretary determines to be necessary in the interest of the national defense.
 
->         “(3) __Definition.—__ 
+>         “(3)  __Definition__  __.—__ 
 
 >         In this section, the term ‘excessive pass-through charge’, with respect to a contractor or subcontractor that adds no, or negligible, value to a contract or subcontract, means a charge to the Government by the contractor or subcontractor that is for overhead or profit on work performed by a lower-tier contractor or subcontractor (other than charges for the direct costs of managing lower-tier contracts and subcontracts and overhead and profit based on such direct costs).
 
->         “(4) __Report.—__ 
+>         “(4)  __Report__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the steps taken to implement the requirements of this subsection, including—
 
@@ -709,7 +727,7 @@
 
 >             “(C) any exceptions determined by the Secretary to be necessary in the interest of the national defense.
 
->         “(5) __Effective date.—__ 
+>         “(5)  __Effective date__  __.—__ 
 
 >         The regulations prescribed under this subsection shall apply to contracts awarded for or on behalf of the Department of Defense on or after May 1, 2007.”
 
@@ -725,11 +743,11 @@
 
 >     “\[(a) Repealed. [Pub. L. 105–85, div. A, title VIII, § 804(d)][/us/pl/105/85/s804/d], Nov. 18, 1997, [111 Stat. 1834][/us/stat/111/1834].\]
 
->     “(b) __Requirement for Regulations.—__ 
+>     “(b)  __Requirement for Regulations__  __.—__ 
 
 >     Not later than January 1, 1995, the Secretary of Defense shall prescribe regulations on the allowability of restructuring costs associated with business combinations under defense contracts.
 
->     “(c) __Matters To Be Included.—__ 
+>     “(c)  __Matters To Be Included__  __.—__ 
 
 >     At a minimum, the regulations shall—
 
@@ -737,11 +755,11 @@
 
 >         “(2) address the issue of contract novations under such contracts.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     In developing the regulations, the Secretary of Defense shall consult with the Administrator for Federal Procurement Policy.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than November 13 in each of the years 1995, 1996, and 1997, the Secretary of Defense shall submit to Congress a report on the following:
 
@@ -763,11 +781,11 @@
 
 >             “(E) Identification of any programmatic or budgetary disruption in the Department of Defense resulting from contractor restructuring.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     In this section, the term ‘business combination’ includes a merger or acquisition.
 
->     “(g) __Comptroller General Reports.—__ 
+>     “(g)  __Comptroller General Reports__  __.—__ 
 
 >         (1)
 
@@ -783,15 +801,15 @@
 
 [Pub. L. 103–160, div. A, title VIII, § 841][/us/pl/103/160/s841], Nov. 30, 1993, [107 Stat. 1719][/us/stat/107/1719], as amended by [Pub. L. 105–244, title I, § 102(a)(2)(C)][/us/pl/105/244/s102/a/2/C], Oct. 7, 1998, [112 Stat. 1617][/us/stat/112/1617], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     The Secretary of Defense may not by regulation place a limitation on the amount that the Department of Defense may reimburse an institution of higher education for allowable indirect costs incurred by the institution for work performed for the Department of Defense under a Department of Defense contract unless that same limitation is applied uniformly to all other organizations performing similar work for the Department of Defense under Department of Defense contracts.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     The Secretary of Defense may waive the application of the prohibition in subsection (a) in the case of a particular institution of higher education if the governing body of the institution requests the waiver in order to simplify the overall management by that institution of cost reimbursements by the Department of Defense for contracts awarded by the Department to the institution.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -867,6 +885,14 @@
 [/us/stat/125/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1485
 [/us/pl/112/239/s827/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs827%2Fg
 [/us/stat/126/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1836
+[/us/pl/113/66/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fa
+[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
+[/us/pl/113/67/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fa%2F2
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
+[/us/pl/113/67/s702/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fa%2F2
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
+[/us/pl/113/66/s811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fa
+[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
 [/us/usc/t10/s2399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2399
 [/us/pl/97/295/s1/29/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295%2Fs1%2F29%2FA
 [/us/stat/96/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1293
@@ -985,6 +1011,15 @@
 [/us/pl/99/190/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fb
 [/us/pl/99/190/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fb
 [/us/pl/99/190/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F190%2Fs101%2Fb
+[/us/pl/113/67/s702/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs702%2Fc
+[/us/stat/127/1189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1189
+[/us/usc/t41/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4304
+[/us/usc/t41/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1127
+[/us/usc/t41/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4304
+[/us/pl/113/66/s811/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs811%2Fd
+[/us/stat/127/806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F806
+[/us/usc/t41/s4304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs4304
+[/us/usc/t41/s1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1127
 [/us/pl/112/239/s827/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs827%2Fi
 [/us/stat/126/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1836
 [/us/usc/t10/s2409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2409

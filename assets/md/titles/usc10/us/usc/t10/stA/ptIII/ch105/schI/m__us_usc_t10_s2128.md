@@ -15,15 +15,15 @@
 
 ## § 2128. Accession bonus for members of the program
 
-    (a) __Availability of Bonus.—__ 
+    (a)  __Availability of Bonus__  __.—__ 
 
     The Secretary of Defense may offer a person who enters into an agreement under [section 2122(a)(2) of this title][/us/usc/t10/s2122/a/2] an accession bonus of not more than $20,000 as part of the agreement.
 
-    (b) __Relation to Other Payments.—__ 
+    (b)  __Relation to Other Payments__  __.—__ 
 
     An accession bonus paid a person under this section is in addition to any other amounts payable to the person under this subchapter.
 
-    (c) __Repayment.—__ 
+    (c)  __Repayment__  __.—__ 
 
     A person who receives an accession bonus under this section, but fails to comply with the agreement under [section 2122(a)(2) of this title][/us/usc/t10/s2122/a/2] or to commence or complete the active duty obligation imposed by [section 2123 of this title][/us/usc/t10/s2123], shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e].
 

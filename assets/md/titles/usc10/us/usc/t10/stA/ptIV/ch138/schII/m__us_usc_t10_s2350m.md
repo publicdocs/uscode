@@ -15,7 +15,7 @@
 
 ## § 2350m. Participation in multinational military centers of excellence
 
-    (a) __Participation Authorized.—__ 
+    (a)  __Participation Authorized__  __.—__ 
 
     The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of members of the armed forces and Department of Defense civilian personnel in any multinational military center of excellence for purposes of—
 
@@ -23,13 +23,13 @@
 
         (2) improving interoperability between the armed forces and the military forces of friendly foreign nations.
 
-    (b) __Memorandum of Understanding.—__ 
+    (b)  __Memorandum of Understanding__  __.—__ 
 
         (1) The participation of members of the armed forces or Department of Defense civilian personnel in a multinational military center of excellence under subsection (a) shall be in accordance with the terms of one or more memoranda of understanding entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the foreign nation or nations concerned.
 
         (2) If Department of Defense facilities, equipment, or funds are used to support a multinational military center of excellence under subsection (a), the memoranda of understanding under paragraph (1) with respect to that center shall provide details of any cost-sharing arrangement or other funding arrangement.
 
-    (c) __Availability of Appropriated Funds.—__ 
+    (c)  __Availability of Appropriated Funds__  __.—__ 
 
         (1)
 
@@ -41,11 +41,11 @@
 
         (2) No funds may be used under this section to fund the pay or salaries of members of the armed forces and Department of Defense civilian personnel who participate in multinational military centers of excellence under this section.
 
-    (d) __Use of Department of Defense Facilities and Equipment.—__ 
+    (d)  __Use of Department of Defense Facilities and Equipment__  __.—__ 
 
     Facilities and equipment of the Department of Defense may be used for purposes of the support of multinational military centers of excellence under this section that are hosted by the Department.
 
-    (e) __Annual Reports on Use of Authority.—__ 
+    (e)  __Annual Reports on Use of Authority__  __.—__ 
 
         (1) Not later than October 31 each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority in this section during the preceding fiscal year.
 
@@ -71,7 +71,7 @@
 
                     (II) a statement of the amount of such costs (including a separate statement of the amount of costs paid for under the authority of this section by category of costs).
 
-    (f) __Multinational Military Center of Excellence Defined.—__ 
+    (f)  __Multinational Military Center of Excellence Defined__  __.—__ 
 
     In this section, the term “multinational military center of excellence” means an entity sponsored by one or more nations that is accredited and approved by the Military Committee of the North Atlantic Treaty Organization (NATO) as offering recognized expertise and experience to personnel participating in the activities of such entity for the benefit of NATO by providing such personnel opportunities to—
 

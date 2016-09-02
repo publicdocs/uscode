@@ -15,17 +15,17 @@
 
 ## § 2033. Instructor qualifications
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In order for a retired officer or noncommissioned officer to be employed as an instructor in the program, the officer must be certified by the Secretary of the military department concerned as a qualified instructor in leadership, wellness and fitness, civics, and other courses related to the content of the program, according to the qualifications set forth in subsection (b)(2) or (c)(2), as appropriate.
 
     (b) __Senior Military Instructors.—__ 
 
-        (1) __Role.—__ 
+        (1)  __Role__  __.—__ 
 
         Senior military instructors shall be retired officers of the armed forces and shall serve as instructional leaders who oversee the program.
 
-        (2) __Qualifications.—__ 
+        (2)  __Qualifications__  __.—__ 
 
         A senior military instructor shall have the following qualifications:
 
@@ -47,11 +47,11 @@
 
     (c) __Non-Senior Military Instructors.—__ 
 
-        (1) __Role.—__ 
+        (1)  __Role__  __.—__ 
 
         Non-senior military instructors shall be retired noncommissioned officers of the armed forces and shall serve as instructional leaders and teach independently of, but share program responsibilities with, senior military instructors.
 
-        (2) __Qualifications.—__ 
+        (2)  __Qualifications__  __.—__ 
 
         A non-senior military instructor shall demonstrate a depth of experience, proficiency, and expertise in coaching, mentoring, and practical arts in executing the program, and shall have the following qualifications:
 

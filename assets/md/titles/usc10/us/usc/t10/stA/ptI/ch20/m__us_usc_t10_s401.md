@@ -147,11 +147,11 @@
 
 [Pub. L. 112–239, div. A, title VII, § 715][/us/pl/112/239/s715], Jan. 2, 2013, [126 Stat. 1803][/us/stat/126/1803], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense, in coordination with the Under Secretary of Defense for Policy and the Assistant Secretary of Defense for Health Affairs, shall develop a process to ensure that health engagements conducted by the Department of Defense are effective and efficient in meeting the national security goals of the United States.
 
->     “(b) __Process Goals.—__ 
+>     “(b)  __Process Goals__  __.—__ 
 
 >     The Assistant Secretary of Defense for Health Affairs shall ensure that each process developed under subsection (a)—
 
@@ -161,11 +161,11 @@
 
 >         “(3) assesses the stability and resiliency of the host nation of such engagement.
 
->     “(c) __Assessment Tool.—__ 
+>     “(c)  __Assessment Tool__  __.—__ 
 
 >     The Assistant Secretary of Defense for Health Affairs may establish a measure of effectiveness learning tool to assess the process developed under subsection (a) to ensure the applicability of the process to health engagements conducted by the Department of Defense.
 
->     “(d) __Health Engagement Defined.—__ 
+>     “(d)  __Health Engagement Defined__  __.—__ 
 
 >     In this section, the term ‘health engagement’ means a health stability operation conducted by the Department of Defense outside the United States in coordination with a foreign government or international organization to establish, reconstitute, or maintain the health sector of a foreign country.”
 
@@ -177,29 +177,29 @@
 
 [Pub. L. 103–160, div. A, title XV, § 1504][/us/pl/103/160/s1504], Nov. 30, 1993, [107 Stat. 1839][/us/stat/107/1839], provided that:
 
->     “(a) __Regulations.—__ 
+>     “(a)  __Regulations__  __.—__ 
 
 >     The regulations required to be prescribed under [section 401 of title 10][/us/usc/t10/s401], United States Code, shall be prescribed not later than March 1, 1994. In prescribing such regulations, the Secretary of Defense shall consult with the Secretary of State.
 
->     “(b) __Limitation on Use of Funds.—__ 
+>     “(b)  __Limitation on Use of Funds__  __.—__ 
 
 >     \[Amended [section 401(c)(2) of this title][/us/usc/t10/s401/c/2].\]
 
->     “(c) __Notifications Regarding Humanitarian Relief.—__ 
+>     “(c)  __Notifications Regarding Humanitarian Relief__  __.—__ 
 
 >     Any notification provided to the appropriate congressional committees with respect to assistance activities under section 2551 \[now 2561\] of title 10, United States Code, shall include a detailed description of any items for which transportation is provided that are excess nonlethal supplies of the Department of Defense, including the quantity, acquisition value, and value at the time of the transportation of such items.
 
->     “(d) __Report on Humanitarian Assistance Activities.—__ 
+>     “(d)  __Report on Humanitarian Assistance Activities__  __.—__ 
 
 >         (1) The Secretary of Defense shall submit to the appropriate congressional committees a report on the activities planned to be carried out by the Department of Defense during fiscal year 1995 under sections 401, 402, 2547 \[now 2557\], and 2551 \[now 2561\] of title 10, United States Code. The report shall include information, developed after consultation with the Secretary of State, on the distribution of excess nonlethal supplies transferred to the Secretary of State during fiscal year 1993 pursuant to section 2547 of that title.
 
 >         “(2) The report shall be submitted at the same time that the President submits the budget for fiscal year 1995 to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code.
 
->     “(e) __Authorization of Appropriations.—__ 
+>     “(e)  __Authorization of Appropriations__  __.—__ 
 
 >     The funds authorized to be appropriated by section 301(18) \[[107 Stat. 1616][/us/stat/107/1616]\] shall be available to carry out humanitarian and civic assistance activities under sections 401, 402, and 2551 \[now 2561\] of title 10, United States Code.
 
->     “(f) __Appropriate Congressional Committees.—__ 
+>     “(f)  __Appropriate Congressional Committees__  __.—__ 
 
 >     In this section, the term ‘appropriate congressional committees’ means—
 

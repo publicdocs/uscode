@@ -15,7 +15,7 @@
 
 ## § 491. Nuclear weapons employment strategy of the United States: reports on modification of strategy
 
-    (a) __Reports.—__ 
+    (a)  __Reports__  __.—__ 
 
     By not later than 60 days before the date on which the President implements a nuclear weapons employment strategy of the United States that differs from the nuclear weapons employment strategy of the United States then in force, the President shall submit to Congress a report setting forth the following:
 
@@ -27,17 +27,17 @@
 
         (4) The extent to which such modifications include an increased reliance on conventional or non-nuclear global strike capabilities or missile defenses of the United States.
 
-    (b) __Annual Briefings.—__ 
+    (b)  __Annual Briefings__  __.—__ 
 
     Not later than March 15 of each year, the Secretary of Defense shall provide to the congressional defense committees a briefing regarding the nuclear weapons employment strategy, plans, and options of the United States.
 
-    (c) __Notification of Anomalies.—__ 
+    (c)  __Notification of Anomalies__  __.—__ 
 
         (1) The Secretary of Defense shall submit to the congressional defense committees written notification of an anomaly in the nuclear command, control, and communications system of the United States that is reported to the Secretary of Defense or the Nuclear Weapons Council by not later than 14 days after the date on which the Secretary or the Council learns of such anomaly, as the case may be.
 
         (2) In this subsection, the term “anomaly” means any unplanned, irregular, or abnormal event, whether unexplained or caused intentionally or unintentionally by a person or a system.
 
-    (d) __Reports on 2010 Nuclear Posture Review Implementation Study Decisions.—__ 
+    (d)  __Reports on __  __2010__  __ Nuclear Posture Review Implementation Study Decisions__  __.—__ 
 
     During each of fiscal years 2012 through 2021, not later than 60 days before the date on which the President carries out the results of the decisions made pursuant to the 2010 Nuclear Posture Review Implementation Study that would alter the nuclear weapons employment strategy, guidance, plans, or options of the United States, the President shall—
 

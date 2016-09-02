@@ -15,11 +15,11 @@
 
 ## § 2304e. Contracts: prohibition on competition between Department of Defense and small businesses and certain other entities
 
-    (a) __Exclusion.—__ 
+    (a)  __Exclusion__  __.—__ 
 
     In any case in which the Secretary of Defense plans to use competitive procedures for a procurement, if the procurement is to be conducted as described in subsection (b), then the Secretary shall exclude the Department of Defense from competing in the procurement.
 
-    (b) __Procurement Description.—__ 
+    (b)  __Procurement Description__  __.—__ 
 
     The requirement to exclude the Department of Defense under subsection (a) applies in the case of a procurement to be conducted by excluding from competition entities in the private sector other than—
 

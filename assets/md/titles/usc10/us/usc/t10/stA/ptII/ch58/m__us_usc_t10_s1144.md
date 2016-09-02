@@ -15,7 +15,7 @@
 
 ## § 1144. Employment assistance, job training assistance, and other transitional services: Department of Labor
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
         (1) The Secretary of Labor, in conjunction with the Secretary of Defense, the Secretary of Homeland Security, and the Secretary of Veterans Affairs, shall establish and maintain a program to furnish counseling, assistance in identifying employment and training opportunities, help in obtaining such employment and training, and other related information and services to members of the armed forces under the jurisdiction of the Secretary concerned who are being separated from active duty and the spouses of such members. Such services shall be provided to a member within the time periods provided under paragraph (3) of [section 1142(a) of this title][/us/usc/t10/s1142/a], except that the Secretary concerned shall not provide preseparation counseling to a member described in paragraph (4)(A) of such section.
 
@@ -23,7 +23,7 @@
 
         (3) The Secretaries referred to in paragraph (1) shall enter into a detailed agreement to carry out this section.
 
-    (b) __Elements of Program.—__ 
+    (b)  __Elements of Program__  __.—__ 
 
     In establishing and carrying out a program under this section, the Secretary of Labor shall do the following:
 
@@ -43,7 +43,7 @@
 
         (8) Provide information regarding the public and community service jobs program carried out under [section 1143a of this title][/us/usc/t10/s1143a].
 
-    (c) __Participation.—__ 
+    (c)  __Participation__  __.—__ 
 
         (1) Except as provided in paragraph (2), the Secretary of Defense and the Secretary of Homeland Security shall require the participation in the program carried out under this section of the members eligible for assistance under the program.
 
@@ -55,7 +55,7 @@
 
             (B) individual members possessing specialized skills who, due to unavoidable circumstances, are needed to support a unit’s imminent deployment.
 
-    (d) __Use of Personnel and Organizations.—__ 
+    (d)  __Use of Personnel and Organizations__  __.—__ 
 
     In carrying out the program established under this section, the Secretaries may—
 
@@ -81,7 +81,7 @@
 
         (7) take other necessary action to develop and furnish the information and services to be provided under this section.
 
-    (e) __Participation in Apprenticeship Programs.—__ 
+    (e)  __Participation in Apprenticeship Programs__  __.—__ 
 
     As part of the program carried out under this section, the Secretary of Defense and the Secretary of Homeland Security may permit a member of the armed forces eligible for assistance under the program to participate in an apprenticeship program registered under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act”; [50 Stat. 664][/us/stat/50/664], chapter 663; [29 U.S.C. 50][/us/usc/t29/s50] et seq.), or a pre-apprenticeship program that provides credit toward a program registered under such Act, that provides members of the armed forces with the education, training, and services necessary to transition to meaningful employment that leads to economic self-sufficiency.
 
@@ -149,41 +149,41 @@
 
 [Pub. L. 112–260, title III, § 301][/us/pl/112/260/s301], Jan. 10, 2013, [126 Stat. 2424][/us/stat/126/2424], provided that:
 
->     “(a) __Provision of Off-base Transition Training.—__ 
+>     “(a)  __Provision of Off-base Transition Training__  __.—__ 
 
 >     During the two-year period beginning on the date of the enactment of this Act \[Jan. 10, 2013\], the Secretary of Labor shall provide the Transition Assistance Program under [section 1144 of title 10][/us/usc/t10/s1144], United States Code, to eligible individuals at locations other than military installations to assess the feasibility and advisability of providing such program to eligible individuals at locations other than military installations.
 
->     “(b) __Eligible Individuals.—__ 
+>     “(b)  __Eligible Individuals__  __.—__ 
 
 >     For purposes of this section, an eligible individual is a veteran or the spouse of a veteran.
 
 >     “(c) __Locations.—__ 
 
->         “(1) __Number of states.—__ 
+>         “(1)  __Number of states__  __.—__ 
 
 >         The Secretary shall carry out the training under subsection (a) in not less than three and not more than five States selected by the Secretary for purposes of this section.
 
->         “(2) __Selection of states with high unemployment.—__ 
+>         “(2)  __Selection of states with high unemployment__  __.—__ 
 
 >         Of the States selected by the Secretary under paragraph (1), at least two shall be States with high rates of unemployment among veterans.
 
->         “(3) __Number of locations in each state.—__ 
+>         “(3)  __Number of locations in each state__  __.—__ 
 
 >         The Secretary shall provide training under subsection (a) to eligible individuals at a sufficient number of locations within each State selected under this subsection to meet the needs of eligible individuals in such State.
 
->         “(4) __Selection of locations.—__ 
+>         “(4)  __Selection of locations__  __.—__ 
 
 >         The Secretary shall select locations for the provision of training under subsection (a) to facilitate access by participants and may not select any location on a military installation other than a National Guard or reserve facility that is not located on an active duty military installation.
 
->     “(d) __Inclusion of Information About Veterans Benefits.—__ 
+>     “(d)  __Inclusion of Information About Veterans Benefits__  __.—__ 
 
 >     The Secretary shall ensure that the training provided under subsection (a) generally follows the content of the Transition Assistance Program under [section 1144 of title 10][/us/usc/t10/s1144], United States Code.
 
->     “(e) __Annual Report.—__ 
+>     “(e)  __Annual Report__  __.—__ 
 
 >     Not later than March 1 of any year during which the Secretary provides training under subsection (a), the Secretary shall submit to Congress a report on the provision of such training.
 
->     “(f) __Comptroller General Report.—__ 
+>     “(f)  __Comptroller General Report__  __.—__ 
 
 >     Not later than 180 days after the termination of the one-year period described in subsection (a), the Comptroller General of the United States shall submit to Congress a report on the training provided under such subsection. The report shall include the evaluation of the Comptroller General regarding the feasibility and advisability of carrying out off-base transition training at locations nationwide.”
 
@@ -193,23 +193,23 @@
 
 >     “(a) __Study on Equivalence Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Labor shall, in consultation with the Secretary of Defense and the Secretary of Veterans Affairs, enter into a contract with a qualified organization to conduct a study to identify any equivalences between the skills developed by members of the Armed Forces through various military occupational specialties (MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences and the qualifications required for various positions of civilian employment in the private sector.
 
->         “(2) __Cooperation of federal agencies.—__ 
+>         “(2)  __Cooperation of federal agencies__  __.—__ 
 
 >         The departments and agencies of the Federal Government, including the Office of Personnel Management, the General Services Administration, the Government Accountability Office, the Department of Education, and other appropriate departments and agencies, shall cooperate with the contractor under paragraph (1) to conduct the study required under that paragraph.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Upon completion of the study conducted under paragraph (1), the contractor under that paragraph shall submit to the Secretary of Defense, the Secretary of Veterans Affairs, and the Secretary of Labor a report setting forth the results of the study. The report shall include such information as the Secretaries shall specify in the contract under paragraph (1) for purposes of this section.
 
->         “(4) __Transmittal to congress.—__ 
+>         “(4)  __Transmittal to congress__  __.—__ 
 
 >         The Secretary of Labor shall transmit to the appropriate committees of Congress the report submitted under paragraph (3), together with such comments on the report as the Secretary considers appropriate.
 
->         “(5) __Appropriate committees of congress defined.—__ 
+>         “(5)  __Appropriate committees of congress defined__  __.—__ 
 
 >         In this subsection, the term ‘appropriate committees of Congress’ means—
 
@@ -217,7 +217,7 @@
 
 >             “(B) the Committee on Veterans’ Affairs, the Committee on Armed Services, and the Committee on Education and the Workforce of the House of Representatives.
 
->     “(b) __Publication.—__ 
+>     “(b)  __Publication__  __.—__ 
 
 >     The secretaries described in subsection (a)(1) shall ensure that the equivalences identified under subsection (a)(1) are—
 
@@ -225,21 +225,21 @@
 
 >         “(2) regularly updated to reflect the most recent findings of the secretaries with respect to such equivalences.
 
->     “(c) __Individualized Assessment of Civilian Positions Available Through Military Experiences.—__ 
+>     “(c)  __Individualized Assessment of Civilian Positions Available Through Military Experiences__  __.—__ 
 
 >     The Secretary of Defense shall ensure that each member of the Armed Forces who is participating in the Transition Assistance Program (TAP) of the Department of Defense receives, as part of such member’s participation in that program, an individualized assessment of the various positions of civilian employment in the private sector for which such member may be qualified as a result of the skills developed by such member through various military occupational specialties (MOS), successful completion of resident training courses, attaining various military ranks or rates, or other military experiences. The assessment shall be performed using the results of the study conducted under subsection (a) and such other information as the Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Labor, considers appropriate for that purpose.
 
 >     “(d) __Further Use in Employment-related Transition Assistance.—__ 
 
->         “(1) __Transmittal of assessment.—__ 
+>         “(1)  __Transmittal of assessment__  __.—__ 
 
 >         The Secretary of Defense shall make the individualized assessment provided a member under subsection (a) available electronically to the Secretary of Veterans Affairs and the Secretary of Labor.
 
->         “(2) __Use in assistance.—__ 
+>         “(2)  __Use in assistance__  __.—__ 
 
 >         The Secretary of Veterans Affairs and the Secretary of Labor may use an individualized assessment with respect to an individual under paragraph (1) for employment-related assistance in the transition from military service to civilian life provided the individual by such Secretary and to otherwise facilitate and enhance the transition of the individual from military service to civilian life.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall take effect on the date that is one year after the date of the enactment of this Act \[Nov. 21, 2011\].”
 

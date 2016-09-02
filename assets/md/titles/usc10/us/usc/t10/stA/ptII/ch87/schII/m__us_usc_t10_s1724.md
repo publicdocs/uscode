@@ -15,7 +15,7 @@
 
 ## § 1724. Contracting positions: qualification requirements
 
-    (a) __Contracting Officers.—__ 
+    (a)  __Contracting Officers__  __.—__ 
 
     The Secretary of Defense shall require that, in order to qualify to serve in an acquisition position as a contracting officer with authority to award or administer contracts for amounts above the simplified acquisition threshold referred to in [section 2304(g) of this title][/us/usc/t10/s2304/g], an employee of the Department of Defense or member of the armed forces (other than the Coast Guard) must, except as provided in subsections (c) and (d)—
 
@@ -29,13 +29,13 @@
 
         (4) meet such additional requirements, based on the dollar value and complexity of the contracts awarded or administered in the position, as may be established by the Secretary of Defense for the position.
 
-    (b) __GS–1102 Series Positions and Similar Military Positions.—__ 
+    (b) __GS–1102__  __Series Positions and Similar Military Positions__  __.—__ 
 
         (1) The Secretary of Defense shall require that in order to qualify to serve in a position in the Department of Defense that is in the GS–1102 occupational series an employee or potential employee of the Department of Defense meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to serve in such a position an employee or potential employee meet any of the requirements of paragraphs (1) and (2) of that subsection.
 
         (2) The Secretary of Defense shall require that in order for a member of the armed forces to be selected for an occupational specialty within the armed forces that (as determined by the Secretary) is similar to the GS–1102 occupational series a member of the armed forces meet the requirements set forth in paragraph (3) of subsection (a). The Secretary may not require that in order to be selected for such an occupational specialty a member meet any of the requirements of paragraphs (1) and (2) of that subsection.
 
-    (c) __Exceptions.—__ 
+    (c)  __Exceptions__  __.—__ 
 
     The qualification requirements imposed by the Secretary of Defense pursuant to subsections (a) and (b) shall not apply to an employee of the Department of Defense or member of the armed forces who—
 
@@ -47,11 +47,11 @@
 
         (4) is described in subsection (e)(1)(B).
 
-    (d) __Waiver.—__ 
+    (d)  __Waiver__  __.—__ 
 
     The Secretary of Defense may waive any or all of the requirements of subsections (a) and (b) with respect to an employee of the Department of Defense or member of the armed forces if the Secretary determines that the individual possesses significant potential for advancement to levels of greater responsibility and authority, based on demonstrated job performance and qualifying experience. With respect to each waiver granted under this subsection, the Secretary shall set forth in a written document the rationale for the decision of the Secretary to waive such requirements.
 
-    (e) __Developmental Opportunities.—__ 
+    (e)  __Developmental Opportunities__  __.—__ 
 
         (1)
 
@@ -71,7 +71,7 @@
 
             (B) completed at least 24 semester credit hours or the equivalent of study from an accredited institution of higher education in any of the disciplines of accounting, business, finance, law, contracts, purchasing, economics, industrial management, marketing, quantitative methods, or organization and management.
 
-    (f) __Contingency Contracting Force.—__ 
+    (f)  __Contingency Contracting Force__  __.—__ 
 
     The Secretary shall establish qualification requirements for the contingency contracting force consisting of members of the armed forces whose mission is to deploy in support of contingency operations and other operations of the Department of Defense, including—
 

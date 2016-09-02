@@ -15,25 +15,25 @@
 
 ## § 2878. Conveyance or lease of existing property and facilities
 
-    (a) __Conveyance or Lease Authorized.—__ 
+    (a)  __Conveyance or Lease Authorized__  __.—__ 
 
     The Secretary concerned may convey or lease property or facilities (including ancillary supporting facilities) to eligible entities for purposes of using the proceeds of such conveyance or lease to carry out activities under this subchapter.
 
-    (b) __Inapplicability to Property at Installation Approved for Closure.—__ 
+    (b)  __Inapplicability to Property at Installation Approved for Closure__  __.—__ 
 
     The authority of this section does not apply to property or facilities located on or near a military installation approved for closure under a base closure law.
 
-    (c) __Competitive Process.—__ 
+    (c)  __Competitive Process__  __.—__ 
 
     The Secretary concerned shall ensure that the time, method, and terms and conditions of the reconveyance or lease of property or facilities under this section from the eligible entity permit full and free competition consistent with the value and nature of the property or facilities involved.
 
-    (d) __Terms and Conditions.—__ 
+    (d)  __Terms and Conditions__  __.—__ 
 
         (1) The conveyance or lease of property or facilities under this section shall be for such consideration and upon such terms and conditions as the Secretary concerned considers appropriate for the purposes of this subchapter and to protect the interests of the United States.
 
         (2) As part or all of the consideration for a conveyance or lease under this section, the purchaser or lessor (as the case may be) shall enter into an agreement with the Secretary to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or sublease of a reasonable number of the housing units covered by the conveyance or lease, as the case may be, or in the lease of other suitable housing units made available by the purchaser or lessee.
 
-    (e) __Inapplicability of Certain Property Management Laws.—__ 
+    (e)  __Inapplicability of Certain Property Management Laws__  __.—__ 
 
     The conveyance or lease of property or facilities under this section shall not be subject to the following provisions of law:
 

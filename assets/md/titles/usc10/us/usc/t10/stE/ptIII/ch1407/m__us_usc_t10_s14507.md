@@ -15,15 +15,15 @@
 
 ## § 14507. Removal from the reserve active-status list for years of service: reserve lieutenant colonels and colonels of the Army, Air Force, and Marine Corps and reserve commanders and captains of the Navy
 
-    (a) __Lieutenant Colonels and Commanders.—__ 
+    (a)  __Lieutenant Colonels and Commanders__  __.—__ 
 
     Unless continued on the reserve active-status list under section 14701 or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Navy, Air Force, or Marine Corps who holds the grade of lieutenant colonel or commander and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed from that list under [section 14514 of this title][/us/usc/t10/s14514] on the first day of the month after the month in which the officer completes 28 years of commissioned service.
 
-    (b) __Colonels and Navy Captains.—__ 
+    (b)  __Colonels and Navy Captains__  __.—__ 
 
     Unless continued on the reserve active-status list under section 14701 or 14702 of this title or retained as provided in section 12646 or 12686 of this title, each reserve officer of the Army, Air Force, or Marine Corps who holds the grade of colonel, and each reserve officer of the Navy who holds the grade of captain, and who is not on a list of officers recommended for promotion to the next higher grade shall (if not earlier removed from the reserve active-status list) be removed from that list under [section 14514 of this title][/us/usc/t10/s14514] on the first day of the month after the month in which the officer completes 30 years of commissioned service. This subsection does not apply to the adjutant general or assistant adjutants general of a State.
 
-    (c) __Temporary Authority To Retain Certain Officers Designated as Judge Advocates.—__ 
+    (c)  __Temporary Authority To Retain Certain Officers Designated as Judge Advocates__  __.—__ 
 
         (1) Notwithstanding the provisions of subsections (a) and (b), the Secretary of the Air Force may retain on the reserve active-status list any reserve officer of the Air Force who is designated as a judge advocate and who obtained the first professional degree in law while on an educational delay program subsequent to being commissioned through the Reserve Officers’ Training Corps.
 

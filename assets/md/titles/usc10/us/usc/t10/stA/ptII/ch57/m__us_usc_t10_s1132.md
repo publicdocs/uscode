@@ -15,11 +15,11 @@
 
 ## § 1132. Presentation of decorations: prohibition on entering correctional facilities for presentation to prisoners convicted of serious violent felonies
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     A member of the armed forces may not enter a Federal, State, local, or foreign correctional facility to present a decoration to a person who is incarcerated due to conviction of a serious violent felony.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section:
 

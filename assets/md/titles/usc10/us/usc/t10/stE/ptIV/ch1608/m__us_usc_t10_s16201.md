@@ -15,11 +15,11 @@
 
 ## § 16201. Financial assistance: health-care professionals in reserve components
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training in return for a commitment to subsequent service in the Ready Reserve.
 
-    (b) __Medical and Dental School Students.—__ 
+    (b)  __Medical and Dental School Students__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
             (B) In the case of a participant who enters into a subsequent agreement under subsection (c) and successfully completes residency training in a specialty designated by the Secretary of Defense as a specialty critically needed by the military department in wartime, the requirement to serve in the Selected Reserve may be reduced to one year for each year, or part thereof, for which the stipend was provided while enrolled in medical or dental school.
 
-    (c) __Physicians and Dentists in Critical Wartime Specialties.—__ 
+    (c)  __Physicians and Dentists in Critical Wartime Specialties__  __.—__ 
 
         (1)
 
@@ -83,7 +83,7 @@
 
             (D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
 
-    (d) __Registered Nurses in Critical Specialties.—__ 
+    (d)  __Registered Nurses in Critical Specialties__  __.—__ 
 
         (1)
 
@@ -121,7 +121,7 @@
 
             (D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
 
-    (e) __Baccalaureate Students in Nursing or Other Health Professions.—__ 
+    (e)  __Baccalaureate Students in Nursing or Other Health Professions__  __.—__ 
 
         (1)
 
@@ -149,7 +149,7 @@
 
             (D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Ready Reserve for each year, or part thereof, for which the stipend is paid.
 
-    (f) __Mental Health Professionals in Critical Wartime Specialties.—__ 
+    (f)  __Mental Health Professionals in Critical Wartime Specialties__  __.—__ 
 
         (1)
 
@@ -183,7 +183,7 @@
 
             (D) the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
 
-    (g) __Amount of Stipend.—__ 
+    (g)  __Amount of Stipend__  __.—__ 
 
     The amount of a stipend under an agreement under subsection (b), (c), or (f) shall be—
 

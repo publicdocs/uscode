@@ -223,11 +223,11 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 [Pub. L. 109–163, div. A, title V, § 598][/us/pl/109/163/s598], Jan. 6, 2006, [119 Stat. 3283][/us/stat/119/3283], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The superintendent of a service academy may have in effect such policy as the superintendent considers appropriate with respect to the offering of a voluntary, nondenominational prayer at an otherwise authorized activity of the academy, subject to the United States Constitution and such limitations as the Secretary of Defense may prescribe.
 
->     “(b) __Service Academies.—__ 
+>     “(b)  __Service Academies__  __.—__ 
 
 >     For purposes of this section, the term ‘service academy’ means any of the following:
 
@@ -241,7 +241,7 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 [Pub. L. 108–375, div. A, title V, § 576][/us/pl/108/375/s576], Oct. 28, 2004, [118 Stat. 1924][/us/stat/118/1924], as amended by [Pub. L. 111–84, div. A, title V, § 566][/us/pl/111/84/s566], Oct. 28, 2009, [123 Stat. 2313][/us/stat/123/2313], provided that:
 
->     “(a) __Extension of Task Force.—__ 
+>     “(a)  __Extension of Task Force__  __.—__ 
 
 >         (1) The task force in the Department of Defense established by the Secretary of Defense pursuant to section 526 of the National Defense Authorization Act for Fiscal Year 2004 ([Public Law 108–136][/us/pl/108/136]; [117 Stat. 1466][/us/stat/117/1466]) \[set out below\] to examine matters relating to sexual harassment and violence at the United States Military Academy and United States Naval Academy shall continue in existence for a period of at least 18 months after the date as of which the task force would otherwise be terminated pursuant to subsection (i) of that section.
 
@@ -255,11 +255,11 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 >             “(B) the total number of members of the task force may not exceed 14.
 
->     “(b) __Examination of Matters Relating to Sexual Assault in the Armed Forces.—__ 
+>     “(b)  __Examination of Matters Relating to Sexual Assault in the Armed Forces__  __.—__ 
 
 >     The task force shall conduct an examination of matters relating to sexual assault in cases in which members of the Armed Forces are either victims or commit acts of sexual assault.
 
->     “(c) __Recommendations.—__ 
+>     “(c)  __Recommendations__  __.—__ 
 
 >     The Task Force shall include in its report under subsection (e) recommendations of ways by which civilian officials within the Department of Defense and leadership within the Armed Forces may more effectively address matters relating to sexual assault. That report shall include an assessment of, and recommendations (including any recommendations for changes in law) for measures to improve, with respect to sexual assault, the following:
 
@@ -287,11 +287,11 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 >         “(12) Other issues identified by the task force relating to sexual assault.
 
->     “(d) __Methodology.—__ 
+>     “(d)  __Methodology__  __.—__ 
 
 >     In carrying out its examination under subsection (b) and in formulating its recommendations under subsection (c), the task force shall consider the findings and recommendations of previous reviews and investigations of sexual assault conducted by the Department of Defense and the Armed Forces.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >         (1) Not later than December 1, 2009, the task force shall submit to the Secretary of Defense and the Secretaries of the Army, Navy, and Air Force a report on the activities of the task force and on the activities of the Department of Defense and the Armed Forces to respond to sexual assault.
 
@@ -309,17 +309,17 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 >         “(3) Within 90 days after receipt of the report under paragraph (1), the Secretary of Defense shall submit the report, together with the Secretary’s evaluation of the report, to the Committees on Armed Services of the Senate and House of Representatives.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The task force shall terminate 90 days after the date on which the report of the task force is submitted to the Committees on Armed Services of the Senate and House of Representatives pursuant to subsection (e)(3).”
 
 [Pub. L. 108–136, div. A, title V, § 526][/us/pl/108/136/s526], Nov. 24, 2003, [117 Stat. 1466][/us/stat/117/1466], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall establish a Department of Defense task force to examine matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy.
 
->     “(b) __Recommendations.—__ 
+>     “(b)  __Recommendations__  __.—__ 
 
 >     Not later than 12 months after the date on which all members of the task force have been appointed, the task force shall submit to the Secretary of Defense a report recommending ways by which the Department of Defense and the Department of the Army and the Department of the Navy may more effectively address matters relating to sexual harassment and violence at the United States Military Academy and the United States Naval Academy, respectively. The report shall include an assessment of, and recommendations (including any recommended changes in law) for measures to improve, with respect to sexual harassment and violence at those academies, the following:
 
@@ -343,11 +343,11 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 >         “(10) Other issues identified by the task force relating to sexual harassment and violence at those academies.
 
->     “(c) __Methodology.—__ 
+>     “(c)  __Methodology__  __.—__ 
 
 >     The task force shall consider the findings and recommendations of previous reviews and investigations of sexual harassment and violence conducted for those academies as one of the bases for its assessment.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >         (1) The task force shall submit to the Secretary of Defense and the Secretaries of the Army and the Navy a report on the activities of the task force and on the activities of the United States Military Academy and the United States Naval Academy to respond to sexual harassment and violence at those academies.
 
@@ -365,11 +365,11 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 >         “(3) Within 90 days after receipt of the report under paragraph (1) the Secretary of Defense shall submit the report, together with the Secretary’s evaluation of the report, to the Committees on Armed Services of the Senate and House of Representatives.
 
->     “(e) __Report on Air Force Academy.—__ 
+>     “(e)  __Report on Air Force Academy__  __.—__ 
 
 >     Simultaneously with the submission of the report under subsection (d)(3), the Secretary of Defense, in coordination with the Secretary of the Air Force, shall submit to the committees specified in that subsection the Secretary’s assessment of the effectiveness of corrective actions being taken at the United States Air Force Academy as a result of various investigations conducted at that Academy into matters involving sexual assault and harassment.
 
->     “(f) __Composition.—__ 
+>     “(f)  __Composition__  __.—__ 
 
 >         (1) The task force shall consist of not more than 14 members, to be appointed by the Secretary of Defense. Members shall be appointed from each of the Army, Navy, Air Force, and Marine Corps, and shall include an equal number of personnel of the Department of Defense (military and civilian) and persons from outside the Department of Defense. Members appointed from outside the Department of Defense may be appointed from other Federal departments and agencies, from State and local agencies, or from the private sector.
 
@@ -401,11 +401,11 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 >         “(5) The members of the task force shall be appointed not later than 120 days after the date of the enactment of this Act \[Nov. 24, 2003\].
 
->     “(g) __Co-Chairs of the Task Force.—__ 
+>     “(g)  __Co-Chairs of the Task Force__  __.—__ 
 
 >     There shall be two co-chairs of the task force. One of the co-chairs shall be designated by the Secretary of the Defense at the time of appointment from among the Department of Defense personnel on the task force. The other co-chair shall be selected from among the members appointed from outside the Department of Defense by those members.
 
->     “(h) __Administrative Support.—__ 
+>     “(h)  __Administrative Support__  __.—__ 
 
 >         (1) Each member of the task force who is a member of the Armed Forces or a civilian officer or employee of the United States shall serve without compensation (other than compensation to which entitled as a member of the Armed Forces or an officer or employee of the United States, as the case may be). Other members of the task force shall be appointed in accordance with, and subject to, [section 3161 of title 5][/us/usc/t5/s3161], United States Code.
 
@@ -413,7 +413,7 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 >         “(3) The Deputy Under Secretary shall coordinate with the Secretary of the Army to provide visits of the task force to the United States Military Academy and with the Secretary of the Navy to provide visits of the task force to the United States Naval Academy.
 
->     “(i) __Termination.—__ 
+>     “(i)  __Termination__  __.—__ 
 
 >     The task force shall terminate 90 days after the date on which the report of the task force is submitted to the Committees on Armed Services of the Senate and House of Representatives pursuant to subsection (d)(3).”
 
@@ -431,13 +431,13 @@ In clause (4)(C), the word “Foreign” is substituted for the word “modern�
 
 [Pub. L. 101–510, div. A, title XIV, § 1466][/us/pl/101/510/s1466], Nov. 5, 1990, [104 Stat. 1700][/us/stat/104/1700], provided that:
 
->     “(a) __Visiting Scholar Program.—__ 
+>     “(a)  __Visiting Scholar Program__  __.—__ 
 
 >         (1) The Secretary of the Army shall establish a visiting scholar program at the United States Military Academy to be known as the ‘Thomas Hawkins Johnson Visiting Scholar Program’. The Secretary shall select not more than two scholars to participate in the program for an academic year. A person selected to participate in the program shall serve as an instructor at the Academy for two weeks during the academic year and perform such duties as the Secretary may assign.
 
 >         “(2) There is authorized to be appropriated to the Secretary of the Army $25,000 for each fiscal year to carry out this subsection.
 
->     “(b) __Lecture Series.—__ 
+>     “(b)  __Lecture Series__  __.—__ 
 
 >         (1) The Secretary of Defense shall establish a lecture series at the National Defense University to be known as the ‘Thomas Hawkins Johnson Lecture Series’. The Secretary shall use the lecture series to bring prominent persons to the National Defense University to deliver lectures on topics relating to public policy, national security, and science.
 

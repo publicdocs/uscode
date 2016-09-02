@@ -15,7 +15,7 @@
 
 ## § 382. Emergency situations involving weapons of mass destruction
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense, upon the request of the Attorney General, may provide assistance in support of Department of Justice activities relating to the enforcement of section 175, 229, or 2332a of title 18 during an emergency situation involving a weapon of mass destruction. Department of Defense resources, including personnel of the Department of Defense, may be used to provide such assistance if—
 
@@ -23,7 +23,7 @@
 
         (2) the Secretary of Defense determines that the provision of such assistance will not adversely affect the military preparedness of the United States.
 
-    (b) __Emergency Situations Covered.—__ 
+    (b)  __Emergency Situations Covered__  __.—__ 
 
     In this section, the term “emergency situation involving a weapon of mass destruction” means a circumstance involving a weapon of mass destruction—
 
@@ -39,11 +39,11 @@
 
             (C) enforcement of section 175, 229, or 2332a of title 18 would be seriously impaired if the Department of Defense assistance were not provided.
 
-    (c) __Forms of Assistance.—__ 
+    (c)  __Forms of Assistance__  __.—__ 
 
     The assistance referred to in subsection (a) includes the operation of equipment (including equipment made available under [section 372 of this title][/us/usc/t10/s372]) to monitor, contain, disable, or dispose of the weapon involved or elements of the weapon.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense and the Attorney General shall jointly prescribe regulations concerning the types of assistance that may be provided under this section. Such regulations shall also describe the actions that Department of Defense personnel may take in circumstances incident to the provision of assistance under this section.
 
@@ -67,17 +67,17 @@
 
                 (ii) The action is otherwise authorized under subsection (c) or under otherwise applicable law.
 
-    (e) __Reimbursements.—__ 
+    (e)  __Reimbursements__  __.—__ 
 
     The Secretary of Defense shall require reimbursement as a condition for providing assistance under this section to the extent required under [section 377 of this title][/us/usc/t10/s377].
 
-    (f) __Delegations of Authority.—__ 
+    (f)  __Delegations of Authority__  __.—__ 
 
         (1) Except to the extent otherwise provided by the Secretary of Defense, the Deputy Secretary of Defense may exercise the authority of the Secretary of Defense under this section. The Secretary of Defense may delegate the Secretary’s authority under this section only to an Under Secretary of Defense or an Assistant Secretary of Defense and only if the Under Secretary or Assistant Secretary to whom delegated has been designated by the Secretary to act for, and to exercise the general powers of, the Secretary.
 
         (2) Except to the extent otherwise provided by the Attorney General, the Deputy Attorney General may exercise the authority of the Attorney General under this section. The Attorney General may delegate that authority only to the Associate Attorney General or an Assistant Attorney General and only if the Associate Attorney General or Assistant Attorney General to whom delegated has been designated by the Attorney General to act for, and to exercise the general powers of, the Attorney General.
 
-    (g) __Relationship to Other Authority.—__ 
+    (g)  __Relationship to Other Authority__  __.—__ 
 
     Nothing in this section shall be construed to restrict any executive branch authority regarding use of members of the armed forces or equipment of the Department of Defense that was in effect before September 23, 1996.
 

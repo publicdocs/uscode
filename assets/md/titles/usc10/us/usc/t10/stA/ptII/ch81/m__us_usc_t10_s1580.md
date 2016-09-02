@@ -15,7 +15,7 @@
 
 ## § 1580. Emergency essential employees: designation
 
-    (a) __Criteria for Designation.—__ 
+    (a)  __Criteria for Designation__  __.—__ 
 
     The Secretary of Defense or the Secretary of the military department concerned may designate as an emergency essential employee any employee of the Department of Defense, whether permanent or temporary, the duties of whose position meet all of the following criteria:
 
@@ -25,11 +25,11 @@
 
         (3) It is impracticable to convert the employee’s position to a position authorized to be filled by a member of the armed forces because of a necessity for that duty to be performed without interruption.
 
-    (b) __Eligibility of Employees of Nonappropriated Fund Instrumentalities.—__ 
+    (b)  __Eligibility of Employees of Nonappropriated Fund Instrumentalities__  __.—__ 
 
     A nonappropriated fund instrumentality employee is eligible for designation as an emergency essential employee under subsection (a).
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

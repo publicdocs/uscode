@@ -15,15 +15,15 @@
 
 ## § 132a. Deputy Chief Management Officer
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     There is a Deputy Chief Management Officer of the Department of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.
 
-    (b) __Responsibilities.—__ 
+    (b)  __Responsibilities__  __.—__ 
 
     The Deputy Chief Management Officer assists the Deputy Secretary of Defense in the Deputy Secretary’s capacity as Chief Management Officer of the Department of Defense under [section 132(c) of this title][/us/usc/t10/s132/c].
 
-    (c) __Precedence.—__ 
+    (c)  __Precedence__  __.—__ 
 
     The Deputy Chief Management Officer takes precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, and the Under Secretaries of Defense.
 

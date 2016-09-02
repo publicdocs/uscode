@@ -15,11 +15,11 @@
 
 ## § 942. Art. 142. Judges
 
-    (a) __Number.—__ 
+    (a)  __Number__  __.—__ 
 
     The United States Court of Appeals for the Armed Forces consists of five judges.
 
-    (b) __Appointment; Qualification.—__ 
+    (b)  __Appointment; Qualification__  __.—__ 
 
         (1) Each judge of the court shall be appointed from civilian life by the President, by and with the advice and consent of the Senate, for a specified term determined under paragraph (2). A judge may serve as a senior judge as provided in subsection (e).
 
@@ -35,7 +35,7 @@
 
         (4) For purposes of appointment of judges to the court, a person retired from the armed forces after 20 or more years of active service (whether or not such person is on the retired list) shall not be considered to be in civilian life.
 
-    (c) __Removal.—__ 
+    (c)  __Removal__  __.—__ 
 
     Judges of the court may be removed from office by the President, upon notice and hearing, for—
 
@@ -47,11 +47,11 @@
 
         A judge may not be removed by the President for any other cause.
 
-    (d) __Pay and Allowances.—__ 
+    (d)  __Pay and Allowances__  __.—__ 
 
     Each judge of the court is entitled to the same salary and travel allowances as are, and from time to time may be, provided for judges of the United States Courts of Appeals.
 
-    (e) __Senior Judges.—__ 
+    (e)  __Senior Judges__  __.—__ 
 
         (1)
 
@@ -87,7 +87,7 @@
 
             (D) a senior judge shall not be considered to be a reemployed annuitant for any period during which the senior judge performs duties referred to in paragraph (1).
 
-    (f) __Service of Article III Judges.—__ 
+    (f)  __Service of Article III Judges__  __.—__ 
 
         (1)
 
@@ -105,7 +105,7 @@
 
         (4) Per diem, travel allowances, and other allowances paid to the designated judge in connection with the performance of duties for the court shall be paid from funds available for the payment of per diem and such allowances for judges of the court.
 
-    (g) __Effect of Vacancy on Court.—__ 
+    (g)  __Effect of Vacancy on Court__  __.—__ 
 
     A vacancy on the court does not impair the right of the remaining judges to exercise the powers of the court.
 
@@ -149,7 +149,7 @@
 
 [Pub. L. 101–189, div. A, title XIII, § 1301(d)][/us/pl/101/189/s1301/d]–(i), Nov. 29, 1989, [103 Stat. 1574–1576][/us/stat/103/1574-1576], as amended by [Pub. L. 104–106, div. A, title XI, § 1142][/us/pl/104/106/s1142], Feb. 10, 1996, [110 Stat. 467][/us/stat/110/467]; [Pub. L. 104–201, div. A, title X, § 1068(c)][/us/pl/104/201/s1068/c], Sept. 23, 1996, [110 Stat. 2655][/us/stat/110/2655], provided that:
 
->     “(d) __Transition From Three-Judge Court to Five-Judge Court.—__ 
+>     “(d)  __Transition From Three-Judge Court to Five-Judge Court__  __.—__ 
 
 >         (1)
 
@@ -161,7 +161,7 @@
 
 >         “(2) In the application of paragraph (2) of [section 942(b) of title 10][/us/usc/t10/s942/b], United States Code (as enacted by subsection (c)) to the judge who is first appointed to one of the two new positions of the court created as of October 1, 1990, as designated by the President at the time of appointment, the anniversary referred to in subparagraph (A) of that paragraph shall be treated as being the seventh anniversary and the number of years referred to in subparagraph (B) of that paragraph shall be treated as being seven.
 
->     “(e) __Transition Rules Relating to Retirement of New Judges.—__ 
+>     “(e)  __Transition Rules Relating to Retirement of New Judges__  __.—__ 
 
 >         (1) Except as otherwise provided in paragraphs (2) and (3), a judge to whom subsection (d)(2) applies shall be eligible for an annuity as provided in [section 945 of title 10][/us/usc/t10/s945], United States Code, as enacted by subsection (c).
 
@@ -179,15 +179,15 @@
 
 >         “(3) In the case of a judge referred to in paragraph (1) who is separated from civilian service after completing the term of service for which he is first appointed as a judge of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] and before completing a total of 15 years as a judge of such court, the annuity of such judge (if elected in accordance with [section 945(a)(2) of title 10][/us/usc/t10/s945/a/2], United States Code) shall be 1⁄15 of the amount computed under subsection (b) of such section times the number of years (including any fraction thereof) of such judge’s service as a judge of the court.
 
->     “(f) __Applicability of Amended Retirement Provisions.—__ 
+>     “(f)  __Applicability of Amended Retirement Provisions__  __.—__ 
 
 >     Except as otherwise provided in subsections (c) and (d), [section 945 of title 10][/us/usc/t10/s945], United States Code, as enacted by subsection (c), applies with respect to judges of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] whose terms of service on such court end after September 28, 1988, and to the survivors of such judges.
 
->     “(g) __Terms of Current Judges.—__ 
+>     “(g)  __Terms of Current Judges__  __.—__ 
 
 >     [Section 942(b) of title 10][/us/usc/t10/s942/b], United States Code, as enacted by subsection (c), shall not apply to the term of office of a judge of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] serving on such court on the date of the enactment of this Act \[Nov. 29, 1989\]. The term of office of such a judge shall expire on the later of (A) the date the term of such judge would have expired under [section 867(a)(1) of title 10][/us/usc/t10/s867/a/1], United States Code, as in effect on the day before such date of enactment, or (B) September 30 of the year in which the term of such judge would have expired under such section 867(a)(1).
 
->     “(h) __Civil Service Status of Current Employees.—__ 
+>     “(h)  __Civil Service Status of Current Employees__  __.—__ 
 
 >     [Section 943(c) of title 10][/us/usc/t10/s943/c], United States Code, as enacted by subsection (c), shall not be applied to change the civil service status of any attorney who is an employee of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] on the day before the date of the enactment of this Act \[Nov. 29, 1989\].”
 

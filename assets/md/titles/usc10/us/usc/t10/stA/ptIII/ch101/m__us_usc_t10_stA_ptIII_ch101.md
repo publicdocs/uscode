@@ -213,11 +213,11 @@
 
 [Pub. L. 111–84, div. A, title V, § 529][/us/pl/111/84/s529], Oct. 28, 2009, [123 Stat. 2290][/us/stat/123/2290], provided that:
 
->     “(a) __Program Authorized.—__ 
+>     “(a)  __Program Authorized__  __.—__ 
 
 >     The Secretary of Defense may carry out a program to establish language training centers at accredited universities, senior military colleges, or other similar institutions of higher education for purposes of accelerating the development of foundational expertise in critical and strategic languages and regional area studies (as defined by the Secretary of Defense for purposes of this section) for members of the Armed Forces, including members of the reserve components and candidates of the Reserve Officers’ Training Corps programs, and civilian employees of the Department of Defense.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     Each language training center established under the program authorized by subsection (a) shall include the following:
 
@@ -233,15 +233,15 @@
 
 >         “(6) Programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
 
->     “(c) __Partnerships With Other Schools.—__ 
+>     “(c)  __Partnerships With Other Schools__  __.—__ 
 
 >     Any language training center established under the program authorized by subsection (a) may enter into a partnership with one or more local educational agencies to facilitate the development of skills in critical and strategic languages under the program among students attending the elementary and secondary schools of such agencies who may pursue a military career.
 
->     “(d) __Coordination.—__ 
+>     “(d)  __Coordination__  __.—__ 
 
 >     The Secretary of Defense shall ensure that the language training centers established under the program authorized by subsection (a) are aligned with those of the National Security Education Program, the Defense Language Institute, and other appropriate Department of Defense programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the establishment of the program authorized by subsection (a), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program. The report shall include the following:
 
@@ -257,7 +257,7 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 550, Oct. 14, 2008, [122 Stat. 4468][/us/stat/122/4468], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of a military department may enter into one or more education partnership agreements with educational institutions in the United States for the purpose of—
 
@@ -269,11 +269,11 @@
 
 >         “(4) assessing how resources may be applied more effectively to meet the educational needs of such members.
 
->     “(b) __Cost.—__ 
+>     “(b)  __Cost__  __.—__ 
 
 >     Except as provided in this section, execution of an education partnership agreement with an educational institution shall be at no cost to the Government.
 
->     “(c) __Educational Institution Defined.—__ 
+>     “(c)  __Educational Institution Defined__  __.—__ 
 
 >     In this section, the term ‘educational institution’ means an accredited college, university, or technical school in the United States.”
 

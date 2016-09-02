@@ -15,15 +15,15 @@
 
 ## § 653. Minimum service requirement for certain flight crew positions
 
-    (a) __Pilots.—__ 
+    (a)  __Pilots__  __.—__ 
 
     The minimum service obligation of any member who successfully completes training in the armed forces as a pilot shall be 8 years, if the member is trained to fly fixed-wing jet aircraft, or 6 years, if the member is trained to fly any other type of aircraft.
 
-    (b) __Navigators and Naval Flight Officers.—__ 
+    (b)  __Navigators and Naval Flight Officers__  __.—__ 
 
     The minimum service obligation of any member who successfully completes training in the armed forces as a navigator or naval flight officer shall be 6 years.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “service obligation” means the period of active duty or, in the case of a member of a reserve component who completed flight training in an active duty for training status as a member of a reserve component, the period of service in an active status in the Selected Reserve required to be served after—
 

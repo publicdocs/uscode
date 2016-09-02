@@ -15,7 +15,7 @@
 
 ## § 2859. Construction requirements related to antiterrorism and force protection or urban-training operations
 
-    (a) __Antiterrorism and Force Protection Guidance and Criteria.—__ 
+    (a)  __Antiterrorism and Force Protection Guidance and Criteria__  __.—__ 
 
     The Secretary of Defense shall develop common guidance and criteria to be used by each Secretary concerned—
 
@@ -27,11 +27,11 @@
 
         (4) to assist in prioritizing such projects within the military construction budget of each of the armed forces.
 
-    (b) __Vulnerability Assessments.—__ 
+    (b)  __Vulnerability Assessments__  __.—__ 
 
     The Secretary of Defense shall require vulnerability assessments of military installations to be conducted, at regular intervals, using the criteria developed under subsection (a).
 
-    (c) __Military Construction Requirements.—__ 
+    (c)  __Military Construction Requirements__  __.—__ 
 
     As part of the budget materials submitted to Congress in connection with the submission of the budget for a fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105], but in no case later than March 15 of each year, the Secretary of Defense shall submit a report, in both classified and unclassified form, describing—
 
@@ -41,7 +41,7 @@
 
         (3) the extent to which funds to meet those requirements are not requested in the Department of Defense budget for the fiscal year for which the budget is submitted.
 
-    (d) __Certification Required for Military Construction Projects Designed to Provide Training in Urban Operations.—__ 
+    (d)  __Certification Required for Military Construction Projects Designed to Provide Training in Urban Operations__  __.—__ 
 
         (1)
 

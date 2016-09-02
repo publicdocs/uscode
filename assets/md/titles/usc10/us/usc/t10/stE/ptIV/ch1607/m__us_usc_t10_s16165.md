@@ -15,7 +15,7 @@
 
 ## § 16165. Termination of assistance
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b), educational assistance may not be provided under this chapter, or if being provided under this chapter, shall be terminated—
 
@@ -23,7 +23,7 @@
 
         (2) when the member separates from the Ready Reserve as provided in [section 16164(a)(1) of this title][/us/usc/t10/s16164/a/1], or upon completion of the period provided for in [section 16164(a)(2) of this title][/us/usc/t10/s16164/a/2], as applicable.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, educational assistance may be provided under this chapter to a member of the Selected Reserve of the Ready Reserve who incurs a break in service in the Selected Reserve if the member continues to serve in the Ready Reserve during and after such break in service.
 

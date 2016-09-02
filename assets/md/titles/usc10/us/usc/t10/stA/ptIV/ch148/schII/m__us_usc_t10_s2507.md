@@ -15,27 +15,27 @@
 
 ## § 2507. Data collection authority of President
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The President shall be entitled, by regulation, subpoena, or otherwise, to obtain such information from, require such reports and the keeping of such records by, make such inspection of the books, records, and other writings, premises or property of, and take the sworn testimony of, and administer oaths and affirmations to, any person as may be necessary or appropriate, in the President’s discretion, to the enforcement or the administration of this chapter and the regulations issued under this chapter.
 
-    (b) __Condition for Use of Authority.—__ 
+    (b)  __Condition for Use of Authority__  __.—__ 
 
     The President shall issue regulations insuring that the authority of this section will be used only after the scope and purpose of the investigation, inspection, or inquiry to be made have been defined by competent authority and it is assured that no adequate and authoritative data are available from any Federal or other responsible agency.
 
-    (c) __Penalty for Noncompliance.—__ 
+    (c)  __Penalty for Noncompliance__  __.—__ 
 
     Any person who willfully performs any act prohibited or willfully fails to perform any act required by the provisions of subsection (a), or any rule, regulation, or order thereunder, shall be fined under title 18 or imprisoned not more than one year, or both.
 
-    (d) __Limitations on Disclosure of Information.—__ 
+    (d)  __Limitations on Disclosure of Information__  __.—__ 
 
     Information obtained under subsection (a) which the President deems confidential or with reference to which a request for confidential treatment is made by the person furnishing such information shall not be published or disclosed unless the President determines that the withholding thereof is contrary to the interest of the national defense. Any person who willfully violates this subsection shall be fined under title 18 or imprisoned not more than one year, or both.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
     The President may make such rules, regulations, and orders as he considers necessary or appropriate to carry out the provisions of this section. Any regulation or order under this section may be established in such form and manner, may contain such classification and differentiations, and may provide for such adjustments and reasonable exceptions as in the judgment of the President are necessary or proper to effectuate the purposes of this section, or to prevent circumvention or evasion, or to facilitate enforcement of this section, or any rule, regulation, or order issued under this section.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

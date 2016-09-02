@@ -15,7 +15,7 @@
 
 ## § 2306c. Multiyear contracts: acquisition of services
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Subject to subsections (d) and (e), the head of an agency may enter into contracts for periods of not more than five years for services described in subsection (b), and for items of supply related to such services, for which funds would otherwise be available for obligation only within the fiscal year for which appropriated whenever the head of the agency finds that—
 
@@ -25,7 +25,7 @@
 
         (3) the use of such a contract will promote the best interests of the United States by encouraging effective competition and promoting economies in operation.
 
-    (b) __Covered Services.—__ 
+    (b)  __Covered Services__  __.—__ 
 
     The authority under subsection (a) applies to the following types of services:
 
@@ -47,7 +47,7 @@
 
             (C) a site formerly used by the Department of Defense.
 
-    (c) __Applicable Principles.—__ 
+    (c)  __Applicable Principles__  __.—__ 
 
     In entering into multiyear contracts for services under the authority of this section, the head of the agency shall be guided by the following principles:
 
@@ -57,7 +57,7 @@
 
         (3) Consideration shall be given to the desirability of reserving in the agency the right, upon payment of the unamortized portion of the cost of the plant or equipment, to take title thereto under appropriate circumstances.
 
-    (d) __Restrictions Applicable Generally.—__ 
+    (d)  __Restrictions Applicable Generally__  __.—__ 
 
         (1) The head of an agency may not initiate under this section a contract for services that includes an unfunded contingent liability in excess of $20,000,000 unless the congressional defense committees are notified of the proposed contract at least 30 days in advance of the award of the proposed contract.
 
@@ -77,7 +77,7 @@
 
             (C) a financial risk assessment of not including budgeting for costs of contract cancellation.
 
-    (e) __Cancellation or Termination for Insufficient Funding After First Year.—__ 
+    (e)  __Cancellation or Termination for Insufficient Funding After First Year__  __.—__ 
 
     In the event that funds are not made available for the continuation of a multiyear contract for services into a subsequent fiscal year, the contract shall be canceled or terminated, and the costs of cancellation or termination may be paid from—
 
@@ -87,13 +87,13 @@
 
         (3) funds appropriated for those payments.
 
-    (f) __Multiyear Contract Defined.—__ 
+    (f)  __Multiyear Contract Defined__  __.—__ 
 
     For the purposes of this section, a multiyear contract is a contract for the purchase of services for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
     \[(g) Repealed. [Pub. L. 108–136, div. A, title VIII, § 843(a)][/us/pl/108/136/s843/a], Nov. 24, 2003, [117 Stat. 1553][/us/stat/117/1553].\]
 
-    (h) __Military Installation Defined.—__ 
+    (h)  __Military Installation Defined__  __.—__ 
 
     In this section, the term “military installation” has the meaning given such term in [section 2801(c)(4) of this title][/us/usc/t10/s2801/c/4].
 

@@ -15,7 +15,7 @@
 
 ## § 1607. Intelligence Senior Level positions
 
-    (a) __Designation of Positions.—__ 
+    (a)  __Designation of Positions__  __.—__ 
 
     The Secretary of Defense may designate as an Intelligence Senior Level position any defense intelligence position that, as determined by the Secretary—
 
@@ -25,11 +25,11 @@
 
         (3) has no more than minimal supervisory responsibilities.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     Subsection (a) shall be carried out in accordance with regulations prescribed by the Secretary of Defense.
 
-    (c) __Award of Rank to Employees in Intelligence Senior Level Positions.—__ 
+    (c)  __Award of Rank to Employees in Intelligence Senior Level Positions__  __.—__ 
 
     The President, based on the recommendations of the Secretary of Defense, may award a rank referred to in [section 4507a of title 5][/us/usc/t5/s4507a] to employees in Intelligence Senior Level positions designated under subsection (a). The award of such rank shall be made in a manner consistent with the provisions of that section.
 

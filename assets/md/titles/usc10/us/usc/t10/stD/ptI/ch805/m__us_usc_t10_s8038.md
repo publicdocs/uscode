@@ -17,7 +17,7 @@
 
     (a) There is in the executive part of the Department of the Air Force an Office of Air Force Reserve which is headed by a chief who is the adviser to the Chief of Staff on Air Force Reserve matters.
 
-    (b) __Appointment.—__ 
+    (b)  __Appointment__  __.—__ 
 
         (1) The President, by and with the advice and consent of the Senate, shall appoint the Chief of Air Force Reserve from general officers of the Air Force Reserve who have had at least 10 years of commissioned service in the Air Force.
 
@@ -41,21 +41,21 @@
 
             Any such waiver shall be made on a case-by-case basis.
 
-    (c) __Term; Reappointment; Grade.—__ 
+    (c)  __Term; Reappointment; Grade__  __.—__ 
 
         (1) The Chief of Air Force Reserve is appointed for a period of four years, but may be removed for cause at any time. An officer serving as Chief of Air Force Reserve may be reappointed for one additional four-year period.
 
         (2) The Chief of Air Force Reserve, while so serving, holds the grade of lieutenant general.
 
-    (d) __Budget.—__ 
+    (d)  __Budget__  __.—__ 
 
     The Chief of Air Force Reserve is the official within the executive part of the Department of the Air Force who, subject to the authority, direction, and control of the Secretary of the Air Force and the Chief of Staff, is responsible for preparation, justification, and execution of the personnel, operation and maintenance, and construction budgets for the Air Force Reserve. As such, the Chief of Air Force Reserve is the director and functional manager of appropriations made for the Air Force Reserve in those areas.
 
-    (e) __Full Time Support Program.—__ 
+    (e)  __Full Time Support Program__  __.—__ 
 
     The Chief of Air Force Reserve manages, with respect to the Air Force Reserve, the personnel program of the Department of Defense known as the Full Time Support Program.
 
-    (f) __Annual Report.—__ 
+    (f)  __Annual Report__  __.—__ 
 
         (1) The Chief of Air Force Reserve shall submit to the Secretary of Defense, through the Secretary of the Air Force, an annual report on the state of the Air Force Reserve and the ability of the Air Force Reserve to meet its missions. The report shall be prepared in conjunction with the Chief of Staff of the Air Force and may be submitted in classified and unclassified versions.
 

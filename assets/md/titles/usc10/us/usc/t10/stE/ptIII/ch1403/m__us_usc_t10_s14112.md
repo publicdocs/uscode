@@ -15,7 +15,7 @@
 
 ## § 14112. Dissemination of names of officers selected
 
-    (a) __Time for Dissemination.—__ 
+    (a)  __Time for Dissemination__  __.—__ 
 
     The names of the officers recommended for promotion in the report of a selection board shall be disseminated to the armed force concerned as follows:
 
@@ -31,7 +31,7 @@
 
             (B) upon the approval of the report by the President (in the case of promotions not required to be submitted to the Senate for confirmation).
 
-    (b) __Names Not Disseminated.—__ 
+    (b)  __Names Not Disseminated__  __.—__ 
 
     A list of names of officers disseminated under subsection (a) may not include—
 

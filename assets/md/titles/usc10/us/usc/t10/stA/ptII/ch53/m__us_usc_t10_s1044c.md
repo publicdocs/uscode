@@ -15,7 +15,7 @@
 
 ## § 1044c. Advance medical directives of members and dependents: requirement for recognition by States
 
-    (a) __Instruments To Be Given Legal Effect Without Regard to State Law.—__ 
+    (a)  __Instruments To Be Given Legal Effect Without Regard to State Law__  __.—__ 
 
     An advance medical directive executed by a person eligible for legal assistance—
 
@@ -23,7 +23,7 @@
 
         (2) shall be given the same legal effect as an advance medical directive prepared and executed in accordance with the laws of the State concerned.
 
-    (b) __Advance Medical Directives.—__ 
+    (b)  __Advance Medical Directives__  __.—__ 
 
     For purposes of this section, an advance medical directive is any written declaration that—
 
@@ -31,17 +31,17 @@
 
         (2) authorizes another person to make health care decisions for the declarant, under circumstances stated in the declaration, whenever the declarant is incapable of making informed health care decisions.
 
-    (c) __Statement To Be Included.—__ 
+    (c)  __Statement To Be Included__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary concerned, an advance medical directive prepared by an attorney authorized to provide legal assistance shall contain a statement that sets forth the provisions of subsection (a).
 
         (2) Paragraph (1) shall not be construed to make inapplicable the provisions of subsection (a) to an advance medical directive that does not include a statement described in that paragraph.
 
-    (d) __States Not Recognizing Advance Medical Directives.—__ 
+    (d)  __States Not Recognizing Advance Medical Directives__  __.—__ 
 
     Subsection (a) does not make an advance medical directive enforceable in a State that does not otherwise recognize and enforce advance medical directives under the laws of the State.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

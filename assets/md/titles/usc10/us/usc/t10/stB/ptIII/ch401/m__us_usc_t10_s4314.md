@@ -15,11 +15,11 @@
 
 ## § 4314. Degree granting authority for United States Army Command and General Staff College
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the Secretary of the Army, the Commandant of the United States Army Command and General Staff College may, upon the recommendation of the faculty and dean of the college, confer appropriate degrees upon graduates who meet the degree requirements.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     A degree may not be conferred under this section unless—
 
@@ -27,7 +27,7 @@
 
         (2) the United States Army Command and General Staff College is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
 
-    (c) __Congressional Notification Requirements.—__ 
+    (c)  __Congressional Notification Requirements__  __.—__ 
 
         (1)
 

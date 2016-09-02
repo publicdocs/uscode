@@ -15,7 +15,7 @@
 
 ## § 2553. Equipment and services: Presidential inaugural ceremonies
 
-    (a) __Assistance Authorized.—__ 
+    (a)  __Assistance Authorized__  __.—__ 
 
     The Secretary of Defense may, with respect to the ceremonies relating to the inauguration of a President, provide the assistance referred to in subsection (b) to—
 
@@ -23,7 +23,7 @@
 
         (2) the congressional Joint Inaugural Committee.
 
-    (b) __Assistance.—__ 
+    (b)  __Assistance__  __.—__ 
 
     Assistance that may be provided under subsection (a) is the following:
 
@@ -35,13 +35,13 @@
 
         (4) Any other assistance that the Secretary considers appropriate.
 
-    (c) __Reimbursement.—__ 
+    (c)  __Reimbursement__  __.—__ 
 
         (1) The Presidential Inaugural Committee shall reimburse the Secretary for any costs incurred in connection with the provision to the committee of assistance referred to in subsection (b)(4).
 
         (2) Costs reimbursed under paragraph (1) shall be credited to the appropriations from which the costs were paid. The amount credited to an appropriation shall be proportionate to the amount of the costs charged to that appropriation.
 
-    (d) __Loaned Property.—__ 
+    (d)  __Loaned Property__  __.—__ 
 
     With respect to property loaned for a presidential inauguration under subsection (b)(3), the Presidential Inaugural Committee shall—
 
@@ -53,7 +53,7 @@
 
         (4) defray any expense incurred for the delivery, return, rehabilitation, replacement, or operation of that property.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 

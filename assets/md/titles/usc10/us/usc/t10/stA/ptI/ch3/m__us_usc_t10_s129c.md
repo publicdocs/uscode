@@ -15,11 +15,11 @@
 
 ## § 129c. Medical personnel: limitations on reductions
 
-    (a) __Limitation on Reduction.—__ 
+    (a)  __Limitation on Reduction__  __.—__ 
 
     For any fiscal year, the Secretary of Defense may not make a reduction in the number of medical personnel of the Department of Defense described in subsection (b) unless the Secretary makes a certification for that fiscal year described in subsection (c).
 
-    (b) __Covered Reductions.—__ 
+    (b)  __Covered Reductions__  __.—__ 
 
     Subsection (a) applies to a reduction in the number of medical personnel of the Department of Defense as of the end of a fiscal year to a number that is less than—
 
@@ -27,7 +27,7 @@
 
         (2) 90 percent of the number of such personnel at the end of the third fiscal year preceding the fiscal year.
 
-    (c) __Certification.—__ 
+    (c)  __Certification__  __.—__ 
 
     A certification referred to in subsection (a) with respect to reductions in medical personnel of the Department of Defense for any fiscal year is a certification by the Secretary of Defense to Congress that—
 
@@ -35,11 +35,11 @@
 
         (2) such reduction will not result in an increase in the cost of health care services provided under the Civilian Health and Medical Program of the Uniformed Services under chapter 55 of this title.
 
-    (d) __Policy for Implementing Reductions.—__ 
+    (d)  __Policy for Implementing Reductions__  __.—__ 
 
     Whenever the Secretary of Defense directs that there be a reduction in the total number of military medical personnel of the Department of Defense, the Secretary shall require that the reduction be carried out so as to ensure that the reduction is not exclusively or disproportionately borne by any one of the armed forces and is not exclusively or disproportionately borne by either the active or the reserve components.
 
-    (e) __Definition.—__ 
+    (e)  __Definition__  __.—__ 
 
     In this section, the term “medical personnel” means—
 
@@ -61,21 +61,21 @@
 
 [Pub. L. 110–181, div. A, title VII, § 721(a)][/us/pl/110/181/s721/a]–(d), Jan. 28, 2008, [122 Stat. 198][/us/stat/122/198], 199, as amended by [Pub. L. 111–84, div. A, title VII, § 701][/us/pl/111/84/s701], Oct. 28, 2009, [123 Stat. 2372][/us/stat/123/2372], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     The Secretary of a military department may not convert any military medical or dental position to a civilian medical or dental position on or after October 1, 2007.
 
->     “(b) __Restoration of Certain Positions to Military Positions.—__ 
+>     “(b)  __Restoration of Certain Positions to Military Positions__  __.—__ 
 
 >     In the case of any military medical or dental position that is converted to a civilian medical or dental position during the period beginning on October 1, 2004, and ending on September 30, 2008, if the position is not filled by a civilian by September 30, 2008, the Secretary of the military department concerned shall restore the position to a military medical or dental position that can be filled only by a member of the Armed Forces who is a health professional.
 
 >     “(c) __Report.—__ 
 
->         “(1) __Requirement.—__ 
+>         “(1)  __Requirement__  __.—__ 
 
 >         The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on conversions made during fiscal year 2007 not later than 180 days after the enactment of this Act \[Jan. 28, 2008\].
 
->         “(2) __Matters covered.—__ 
+>         “(2)  __Matters covered__  __.—__ 
 
 >         The report shall include the following:
 
@@ -91,7 +91,7 @@
 
 >             “(F) An assessment showing that the military medical or dental positions converted were in excess of the military medical and dental positions needed to meet medical and dental readiness requirements of the uniformed services, as determined jointly by all the uniformed services.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -113,11 +113,11 @@
 
 >     “(a) __Prohibition on Conversions.—__ 
 
->         “(1) __Submission of certification.—__ 
+>         “(1)  __Submission of certification__  __.—__ 
 
 >         A Secretary of a military department may not convert any military medical or dental position to a civilian medical or dental position until the Secretary submits to the Committees on Armed Services of the Senate and the House of Representatives a certification that the conversions within that department will not increase cost or decrease quality of care or access to care. Such a certification may not be submitted before June 1, 2006.
 
->         “(2) __Report with certification.—__ 
+>         “(2)  __Report with certification__  __.—__ 
 
 >         A Secretary submitting such a certification shall include with the certification a written report that includes—
 
@@ -129,11 +129,11 @@
 
 >     “(b) __Requirement for Study.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Comptroller General shall conduct a study on the effect of conversions of military medical and dental positions to civilian medical or dental positions on the defense health program.
 
->         “(2) __Matters covered.—__ 
+>         “(2)  __Matters covered__  __.—__ 
 
 >         The study shall include the following:
 
@@ -153,11 +153,11 @@
 
 >             “(H) The effectiveness of the conversions in enhancing medical and dental readiness, health care efficiency, productivity, quality, and customer satisfaction.
 
->         “(3) __Report on study.—__ 
+>         “(3)  __Report on study__  __.—__ 
 
 >         Not later than May 1, 2006, the Comptroller General shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing the results of the study under this section.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 

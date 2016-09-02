@@ -15,7 +15,7 @@
 
 ## § 920. Art. 120. Rape and sexual assault generally
 
-    (a) __Rape.—__ 
+    (a)  __Rape__  __.—__ 
 
     Any person subject to this chapter who commits a sexual act upon another person by—
 
@@ -31,7 +31,7 @@
 
         is guilty of rape and shall be punished as a court-martial may direct.
 
-    (b) __Sexual Assault.—__ 
+    (b)  __Sexual Assault__  __.—__ 
 
     Any person subject to this chapter who—
 
@@ -59,27 +59,27 @@
 
         is guilty of sexual assault and shall be punished as a court-martial may direct.
 
-    (c) __Aggravated Sexual Contact.—__ 
+    (c)  __Aggravated Sexual Contact__  __.—__ 
 
     Any person subject to this chapter who commits or causes sexual contact upon or by another person, if to do so would violate subsection (a) (rape) had the sexual contact been a sexual act, is guilty of aggravated sexual contact and shall be punished as a court-martial may direct.
 
-    (d) __Abusive Sexual Contact.—__ 
+    (d)  __Abusive Sexual Contact__  __.—__ 
 
     Any person subject to this chapter who commits or causes sexual contact upon or by another person, if to do so would violate subsection (b) (sexual assault) had the sexual contact been a sexual act, is guilty of abusive sexual contact and shall be punished as a court-martial may direct.
 
-    (e) __Proof of Threat.—__ 
+    (e)  __Proof of Threat__  __.—__ 
 
     In a prosecution under this section, in proving that a person made a threat, it need not be proven that the person actually intended to carry out the threat or had the ability to carry out the threat.
 
-    (f) __Defenses.—__ 
+    (f)  __Defenses__  __.—__ 
 
     An accused may raise any applicable defenses available under this chapter or the Rules for Court-Martial. Marriage is not a defense for any conduct in issue in any prosecution under this section.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Sexual act.—__ 
+        (1)  __Sexual act__  __.—__ 
 
         The term “sexual act” means—
 
@@ -87,7 +87,7 @@
 
             (B) the penetration, however slight, of the vulva or anus or mouth, of another by any part of the body or by any object, with an intent to abuse, humiliate, harass, or degrade any person or to arouse or gratify the sexual desire of any person.
 
-        (2) __Sexual contact.—__ 
+        (2)  __Sexual contact__  __.—__ 
 
         The term “sexual contact” means—
 
@@ -97,15 +97,15 @@
 
             Touching may be accomplished by any part of the body.
 
-        (3) __Bodily harm.—__ 
+        (3)  __Bodily harm__  __.—__ 
 
         The term “bodily harm” means any offensive touching of another, however slight, including any nonconsensual sexual act or nonconsensual sexual contact.
 
-        (4) __Grievous bodily harm.—__ 
+        (4)  __Grievous bodily harm__  __.—__ 
 
         The term “grievous bodily harm” means serious bodily injury. It includes fractured or dislocated bones, deep cuts, torn members of the body, serious damage to internal organs, and other severe bodily injuries. It does not include minor injuries such as a black eye or a bloody nose.
 
-        (5) __Force.—__ 
+        (5)  __Force__  __.—__ 
 
         The term “force” means—
 
@@ -115,15 +115,15 @@
 
             (C) inflicting physical harm sufficient to coerce or compel submission by the victim.
 
-        (6) __Unlawful force.—__ 
+        (6)  __Unlawful force__  __.—__ 
 
         The term “unlawful force” means an act of force done without legal justification or excuse.
 
-        (7) __Threatening or placing that other person in fear.—__ 
+        (7)  __Threatening or placing that other person in fear__  __.—__ 
 
         The term “threatening or placing that other person in fear” means a communication or action that is of sufficient consequence to cause a reasonable fear that non-compliance will result in the victim or another person being subjected to the wrongful action contemplated by the communication or action.
 
-        (8) __Consent.—__ 
+        (8)  __Consent__  __.—__ 
 
             (A) The term “consent” means a freely given agreement to the conduct at issue by a competent person. An expression of lack of consent through words or conduct means there is no consent. Lack of verbal or physical resistance or submission resulting from the use of force, threat of force, or placing another person in fear does not constitute consent. A current or previous dating or social or sexual relationship by itself or the manner of dress of the person involved with the accused in the conduct at issue shall not constitute consent.
 
@@ -285,31 +285,31 @@ May 5, 1950, ch. 169, § 1 (Art. 120), 64 Stat. 140.  </td>
 
 > “Until the President otherwise provides pursuant to [section 856 of title 10][/us/usc/t10/s856], United States Code (article 56 of the Uniform Code of Military Justice), the punishment which a court-martial may direct for an offense under section 920 of such title (article 120 of the Uniform Code of Military Justice), as amended by subsection (a), may not exceed the following limits:
 
->     “(1) __Subsections (a) and (b).—__ 
+>     “(1)  __Subsections__  __(a)__  __and__  __(b).—__ 
 
 >     For an offense under subsection (a) (rape) or subsection (b) (rape of a child), death or such other punishment as a court-martial may direct.
 
->     “(2) __Subsection (c).—__ 
+>     “(2)  __Subsection__  __(c).—__ 
 
 >     For an offense under subsection (c) (aggravated sexual assault), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 30 years.
 
->     “(3) __Subsections (d) and (e).—__ 
+>     “(3)  __Subsections__  __(d)__  __and__  __(e).—__ 
 
 >     For an offense under subsection (d) (aggravated sexual assault of a child) or subsection (e) (aggravated sexual contact), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 20 years.
 
->     “(4) __Subsections (f) and (g).—__ 
+>     “(4)  __Subsections__  __(f)__  __and__  __(g).—__ 
 
 >     For an offense under subsection (f) (aggravated sexual abuse of a child) or subsection (g) (aggravated sexual contact with a child), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 15 years.
 
->     “(5) __Subsections (h) through (j).—__ 
+>     “(5)  __Subsections__  __(h)__  __through__  __(j).—__ 
 
 >     For an offense under subsection (h) (abusive sexual contact), subsection (i) (abusive sexual contact with a child), or subsection (j) (indecent liberty with a child), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 7 years.
 
->     “(6) __Subsections (k) and (__  __l__  __).—__ 
+>     “(6)  __Subsections__  __(k)__  __and__  __(__  __l__  __).—__ 
 
 >     For an offense under subsection (k) (indecent act) or subsection (l) (forcible pandering), dishonorable discharge, forfeiture of all pay and allowances, and confinement for 5 years.
 
->     “(7) __Subsections (m) and (n).—__ 
+>     “(7)  __Subsections__  __(m)__  __and__  __(n).—__ 
 
 >     For an offense under subsection (m) (wrongful sexual contact) or subsection (n) (indecent exposure), dishonorable discharge, forfeiture of all pay and allowances, and confinement for one year.”
 

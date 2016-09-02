@@ -15,7 +15,7 @@
 
 ## § 2408. Prohibition on persons convicted of defense-contract related felonies and related criminal penalty on defense contractors
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
         (1)
 
@@ -43,7 +43,7 @@
 
             (C) A subcontract referred to in such subparagraph that is under a contract described in subparagraph (A) or (B).
 
-    (b) __Criminal Penalty.—__ 
+    (b)  __Criminal Penalty__  __.—__ 
 
     A defense contractor or subcontractor shall be subject to a criminal penalty of not more than $500,000 if such contractor or subcontractor is convicted of knowingly—
 
@@ -51,7 +51,7 @@
 
         (2) allowing such a person to serve on the board of directors of such contractor or subcontractor.
 
-    (c) __Single Point of Contact for Information.—__ 
+    (c)  __Single Point of Contact for Information__  __.—__ 
 
         (1) The Attorney General shall ensure that a single point of contact is established to enable a defense contractor or subcontractor to promptly obtain information regarding whether a person that the contractor or subcontractor proposes to use for an activity covered by paragraph (1) of subsection (a) is under a prohibition under that subsection.
 

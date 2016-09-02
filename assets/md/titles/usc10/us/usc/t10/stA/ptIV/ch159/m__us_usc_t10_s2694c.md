@@ -15,7 +15,7 @@
 
 ## § 2694c. Participation in conservation banking programs
 
-    (a) __Authority to Participate.—__ 
+    (a)  __Authority to Participate__  __.—__ 
 
     Subject to the availability of appropriated funds, the Secretary concerned, when engaged or proposing to engage in an activity described in subsection (b) that may or will result in an adverse impact to one or more species protected (or pending protection) under any applicable provision of law, or habitat for such species, may make payments to a conservation banking program or “in-lieu-fee” mitigation sponsor approved in accordance with—
 
@@ -27,7 +27,7 @@
 
         (4) any successor or related administrative guidance or regulation.
 
-    (b) __Covered Activities.—__ 
+    (b)  __Covered Activities__  __.—__ 
 
     Payments to a conservation banking program or “in-lieu-fee” mitigation sponsor under subsection (a) may be made only for the purpose of facilitating one or more of the following activities:
 
@@ -35,11 +35,11 @@
 
         (2) Military construction.
 
-    (c) __Treatment of Amounts for Conservation Banking.—__ 
+    (c)  __Treatment of Amounts for Conservation Banking__  __.—__ 
 
     Payments made under subsection (a) to a conservation banking program or “in-lieu-fee” mitigation sponsor for the purpose of facilitating military construction may be treated as eligible costs of the military construction project.
 
-    (d) __Source of Funds.—__ 
+    (d)  __Source of Funds__  __.—__ 
 
     Amounts available from any of the following shall be available for activities under this section:
 
@@ -51,7 +51,7 @@
 
         (4) The Support for United States Relocation to Guam Account established under section 2824 of the Military Construction Authorization Act for Fiscal Year 2009 (division B of [Public Law 110–417][/us/pl/110/417]; [122 Stat. 4730][/us/stat/122/4730]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
-    (e) __Secretary Concerned Defined.—__ 
+    (e)  __Secretary Concerned Defined__  __.—__ 
 
     In this section, the term “Secretary concerned” means—
 

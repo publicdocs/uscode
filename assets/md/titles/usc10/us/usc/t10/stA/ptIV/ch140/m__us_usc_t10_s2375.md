@@ -15,15 +15,15 @@
 
 ## § 2375. Relationship of commercial item provisions to other provisions of law
 
-    (a) __Applicability of Title.—__ 
+    (a)  __Applicability of Title__  __.—__ 
 
     Unless otherwise specifically provided, nothing in this chapter shall be construed as providing that any other provision of this title relating to procurement is inapplicable to the procurement of commercial items.
 
-    (b) __List of Laws Inapplicable to Contracts for the Acquisition of Commercial Items.—__ 
+    (b)  __List of Laws Inapplicable to Contracts for the Acquisition of Commercial Items__  __.—__ 
 
     No contract for the procurement of a commercial item entered into by the head of an agency shall be subject to any law properly listed in the Federal Acquisition Regulation (pursuant to [section 1906 of title 41][/us/usc/t41/s1906]).
 
-    (c) __Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items.—__ 
+    (c)  __Cross Reference to Exception to Cost or Pricing Data Requirements for Commercial Items__  __.—__ 
 
     For a provision relating to an exception for requirements for cost or pricing data for contracts for the procurement of commercial items, see [section 2306a(b) of this title][/us/usc/t10/s2306a/b].
 

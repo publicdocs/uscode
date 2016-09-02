@@ -15,7 +15,7 @@
 
 ## § 2306a. Cost or pricing data: truth in negotiations
 
-    (a) __Required Cost or Pricing Data and Certification.—__ 
+    (a)  __Required Cost or Pricing Data and Certification__  __.—__ 
 
         (1)
 
@@ -77,7 +77,7 @@
 
     (b) __Exceptions.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Submission of certified cost or pricing data shall not be required under subsection (a) in the case of a contract, a subcontract, or modification of a contract or subcontract—
 
@@ -93,7 +93,7 @@
 
             (C) in an exceptional case when the head of the procuring activity, without delegation, determines that the requirements of this section may be waived and justifies in writing the reasons for such determination.
 
-        (2) __Modifications of contracts and subcontracts for commercial items.—__ 
+        (2)  __Modifications of contracts and subcontracts for commercial items__  __.—__ 
 
         In the case of a modification of a contract or subcontract for a commercial item that is not covered by the exception to the submission of certified cost or pricing data in paragraph (1)(A) or (1)(B), submission of certified cost or pricing data shall not be required under subsection (a) if—
 
@@ -101,7 +101,7 @@
 
             (B) the modification would not change the contract or subcontract, as the case may be, from a contract or subcontract for the acquisition of a commercial item to a contract or subcontract for the acquisition of an item other than a commercial item.
 
-        (3) __Noncommercial modifications of commercial items.—__ 
+        (3)  __Noncommercial modifications of commercial items__  __.—__ 
 
             (A) The exception in paragraph (1)(B) does not apply to cost or pricing data on noncommercial modifications of a commercial item that are expected to cost, in the aggregate, more than the amount specified in subsection (a)(1)(A)(i), as adjusted from time to time under subsection (a)(7), or 5 percent of the total price of the contract (at the time of contract award), whichever is greater.
 
@@ -117,25 +117,25 @@
 
     (c) __Cost or Pricing Data on Below-Threshold Contracts.—__ 
 
-        (1) __Authority to require submission.—__ 
+        (1)  __Authority to require submission__  __.—__ 
 
         Subject to paragraph (2), when certified cost or pricing data are not required to be submitted by subsection (a) for a contract, subcontract, or modification of a contract or subcontract, such data may nevertheless be required to be submitted by the head of the procuring activity, but only if the head of the procuring activity determines that such data are necessary for the evaluation by the agency of the reasonableness of the price of the contract, subcontract, or modification of a contract or subcontract. In any case in which the head of the procuring activity requires such data to be submitted under this subsection, the head of the procuring activity shall justify in writing the reason for such requirement.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         The head of the procuring activity may not require certified cost or pricing data to be submitted under this paragraph for any contract or subcontract, or modification of a contract or subcontract, covered by the exceptions in subparagraph (A) or (B) of subsection (b)(1).
 
-        (3) __Delegation of authority prohibited.—__ 
+        (3)  __Delegation of authority prohibited__  __.—__ 
 
         The head of a procuring activity may not delegate functions under this paragraph.
 
     (d) __Submission of Other Information.—__ 
 
-        (1) __Authority to require submission.—__ 
+        (1)  __Authority to require submission__  __.—__ 
 
         When certified cost or pricing data are not required to be submitted under this section for a contract, subcontract, or modification of a contract or subcontract, the contracting officer shall require submission of data other than certified cost or pricing data to the extent necessary to determine the reasonableness of the price of the contract, subcontract, or modification of the contract or subcontract. Except in the case of a contract or subcontract covered by the exceptions in subsection (b)(1)(A), the contracting officer shall require that the data submitted include, at a minimum, appropriate information on the prices at which the same item or similar items have previously been sold that is adequate for evaluating the reasonableness of the price for the procurement.
 
-        (2) __Limitations on authority.—__ 
+        (2)  __Limitations on authority__  __.—__ 
 
         The Federal Acquisition Regulation shall include the following provisions regarding the types of information that contracting officers may require under paragraph (1):
 
@@ -145,7 +145,7 @@
 
             (C) A statement that any information received relating to commercial items that is exempt from disclosure under [section 552(b) of title 5][/us/usc/t5/s552/b] shall not be disclosed by the Federal Government.
 
-    (e) __Price Reductions for Defective Cost or Pricing Data.—__ 
+    (e)  __Price Reductions for Defective Cost or Pricing Data__  __.—__ 
 
         (1)
 
@@ -191,7 +191,7 @@
 
                 (ii) the United States proves that, had the cost or pricing data referred to in subparagraph (A)(ii) been submitted to the United States before the date of agreement on the price of the contract (or price of the modification) or, if applicable consistent with paragraph (1)(B), another date agreed upon between the parties, the submission of such cost or pricing data would not have resulted in an increase in that price in the amount to be offset.
 
-    (f) __Interest and Penalties for Certain Overpayments.—__ 
+    (f)  __Interest and Penalties for Certain Overpayments__  __.—__ 
 
         (1)
 
@@ -209,23 +209,23 @@
 
         (2) Any liability under this subsection of a contractor that submits cost or pricing data but refuses to submit the certification required by subsection (a)(2) with respect to the cost or pricing data shall not be affected by the refusal to submit such certification.
 
-    (g) __Right of United States To Examine Contractor Records.—__ 
+    (g)  __Right of United States To Examine Contractor Records__  __.—__ 
 
     For the purpose of evaluating the accuracy, completeness, and currency of cost or pricing data required to be submitted by this section, the head of an agency shall have the authority provided by [section 2313(a)(2) of this title][/us/usc/t10/s2313/a/2].
 
-    (h) __Definitions.—__ 
+    (h)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Cost or pricing data.—__ 
+        (1)  __Cost or pricing data__  __.—__ 
 
         The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification), or, if applicable consistent with subsection (e)(1)(B), another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. Such term does not include information that is judgmental, but does include the factual information from which a judgment was derived.
 
-        (2) __Subcontract.—__ 
+        (2)  __Subcontract__  __.—__ 
 
         The term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
 
-        (3) __Commercial item.—__ 
+        (3)  __Commercial item__  __.—__ 
 
         The term “commercial item” has the meaning provided such term in [section 103 of title 41][/us/usc/t41/s103].
 
@@ -421,7 +421,7 @@
 
 [Pub. L. 112–239, div. A, title VIII, § 831][/us/pl/112/239/s831], Jan. 2, 2013, [126 Stat. 1842][/us/stat/126/1842], provided that:
 
->     “(a) __Guidance.—__ 
+>     “(a)  __Guidance__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue guidance on the use of the authority provided by sections 2306a(d) and 2379 of title 10, United States Code. The guidance shall—
 
@@ -433,7 +433,7 @@
 
 >         “(4) provide that no additional cost information may be required by the Department of Defense in any case in which there are sufficient non-Government sales to establish reasonableness of price.
 
->     “(b) __Training and Expertise.—__ 
+>     “(b)  __Training and Expertise__  __.—__ 
 
 >     Not later than 270 days after the date of the enactment of this Act, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall develop and begin implementation of a plan of action to—
 
@@ -441,7 +441,7 @@
 
 >         “(2) develop a cadre of experts within the Department of Defense to provide expert advice to the acquisition workforce in the use of the authority provided by such sections in accordance with the guidance issued pursuant to subsection (a).
 
->     “(c) __Documentation Requirements.—__ 
+>     “(c)  __Documentation Requirements__  __.—__ 
 
 >     The Under Secretary of Defense for Acquisition, Technology, and Logistics shall ensure that requests for uncertified cost information for the purposes of evaluating reasonableness of price are sufficiently documented. The Under Secretary shall require that the contract file include, at a minimum, the following:
 
@@ -451,13 +451,13 @@
 
 >         “(3) Any response received from the contractor to the request, including any rationale or justification provided by the contractor for a failure to provide the requested information.
 
->     “(d) __Comptroller General Review and Report.—__ 
+>     “(d)  __Comptroller General Review and Report__  __.—__ 
 
->         “(1) __Review requirement.—__ 
+>         “(1)  __Review requirement__  __.—__ 
 
 >         The Comptroller General of the United States shall conduct a review of data collected pursuant to sections 2306a(d) and 2379 of title 10, United States Code, during the two-year period beginning on the date of the enactment of this Act.
 
->         “(2) __Report requirement.—__ 
+>         “(2)  __Report requirement__  __.—__ 
 
 >         Not later than 180 days after the end of the two-year period referred to in paragraph (1), the Comptroller General shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on—
 
@@ -475,39 +475,39 @@
 
 >     “(a) __Price Trend Analysis Procedures.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall develop and implement procedures that, to the maximum extent practicable, provide for the collection and analysis of information on price trends for covered supplies and equipment purchased by the Department of Defense. The procedures shall include an automated process for identifying categories of covered supplies and equipment described in paragraph (2) that have experienced significant escalation in prices.
 
->         “(2) __Category of covered supplies and equipment.—__ 
+>         “(2)  __Category of covered supplies and equipment__  __.—__ 
 
 >         A category of covered supplies and equipment referred to in paragraph (1) consists of covered supplies and equipment that have the same National Stock Number, are in a single Federal Supply Group or Federal Supply Class, are provided by a single contractor, or are otherwise logically grouped for the purpose of analyzing information on price trends.
 
->         “(3) __Requirement to examine causes of escalation.—__ 
+>         “(3)  __Requirement to examine causes of escalation__  __.—__ 
 
 >         An analysis conducted pursuant to paragraph (1) shall include, for any category in which significant escalation in prices is identified, a more detailed examination of the causes of escalation for such prices within the category and whether such price escalation is consistent across the Department of Defense.
 
->         “(4) __Requirement to address unjustified escalation.—__ 
+>         “(4)  __Requirement to address unjustified escalation__  __.—__ 
 
 >         The head of a Defense Agency or the Secretary of a military department shall take appropriate action to address any unjustified escalation in prices being paid for items procured by that agency or military department as identified in an analysis conducted pursuant to paragraph (1).
 
->     “(b) __Annual Report.—__ 
+>     “(b)  __Annual Report__  __.—__ 
 
 >     Not later than April 1 of each year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the analyses of price trends that were conducted for categories of covered supplies and equipment during the preceding fiscal year under the procedures implemented pursuant to paragraph (1). The report shall include a description of the actions taken to identify and address any unjustified price escalation for the categories of items.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Supplies and equipment.—__ 
+>         “(1)  __Supplies and equipment__  __.—__ 
 
 >         The term ‘supplies and equipment’ means items classified as supplies and equipment under the Federal Supply Classification System.
 
->         “(2) __Covered supplies and equipment.—__ 
+>         “(2)  __Covered supplies and equipment__  __.—__ 
 
 >         The term ‘covered supplies and equipment’ means all supplies and equipment purchased by the Department of Defense. The term does not include major weapon systems but does include individual parts and components purchased as spare or replenishment parts for such weapon systems.
 
->     “(d) __Sunset Date.—__ 
+>     “(d)  __Sunset Date__  __.—__ 
 
 >     This section shall not be in effect on and after April 1, 2015.”
 
@@ -515,11 +515,11 @@
 
 [Pub. L. 107–314, div. A, title VIII, § 817][/us/pl/107/314/s817], Dec. 2, 2002, [116 Stat. 2610][/us/stat/116/2610], as amended by [Pub. L. 112–81, div. A, title VIII, § 809(a)][/us/pl/112/81/s809/a], Dec. 31, 2011, [125 Stat. 1490][/us/stat/125/1490], provided that:
 
->     “(a) __Guidance for Exceptions in Exceptional Circumstances.—__ 
+>     “(a)  __Guidance for Exceptions in Exceptional Circumstances__  __.—__ 
 
 >     Not later than 60 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall issue guidance on the circumstances under which it is appropriate to grant an exceptional case exception or waiver with respect to certified cost and pricing data and cost accounting standards.
 
->     “(b) __Determination Required for Exceptional Case Exception or Waiver.—__ 
+>     “(b)  __Determination Required for Exceptional Case Exception or Waiver__  __.—__ 
 
 >     The guidance shall, at a minimum, include a limitation that a grant of an exceptional case exception or waiver is appropriate with respect to a contract, subcontract, or (in the case of submission of certified cost and pricing data) modification only upon a determination that—
 
@@ -529,11 +529,11 @@
 
 >         “(3) there are demonstrated benefits to granting the exception or waiver.
 
->     “(c) __Applicability of New Guidance.—__ 
+>     “(c)  __Applicability of New Guidance__  __.—__ 
 
 >     The guidance issued under subsection (a) shall apply to each exceptional case exception or waiver that is granted on or after the date on which the guidance is issued.
 
->     “(d) __Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers.—__ 
+>     “(d)  __Annual Report on Both Commercial Item and Exceptional Case Exceptions and Waivers__  __.—__ 
 
 >         (1) The Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] promptly after the end of each fiscal year a report on commercial item exceptions, and exceptional case exceptions and waivers, described in paragraph (2) that were granted during that fiscal year.
 
@@ -547,7 +547,7 @@
 
 >             “(C) with respect to any determination pursuant to [section 2304a(d)(3)(D) of title 10][/us/usc/t10/s2304a/d/3/D], United States Code, that because of exceptional circumstances it is necessary in the public interest to award a task or delivery order contract with an estimated value in excess of $100,000,000 to a single source, an explanation of the basis for the determination.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -565,7 +565,7 @@
 
 [Pub. L. 105–261, div. A, title VIII, § 803][/us/pl/105/261/s803], Oct. 17, 1998, [112 Stat. 2081][/us/stat/112/2081], as amended by [Pub. L. 106–65, div. A, title X, § 1067(3)][/us/pl/106/65/s1067/3], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–314, div. A, title VIII, § 823][/us/pl/107/314/s823], Dec. 2, 2002, [116 Stat. 2615][/us/stat/116/2615]; [Pub. L. 109–364, div. A, title VIII, § 819][/us/pl/109/364/s819], Oct. 17, 2006, [120 Stat. 2330][/us/stat/120/2330], provided that:
 
->     “(a) __Modification of Pricing Regulations for Certain Commercial Items Exempt From Cost or Pricing Data Certification Requirements.—__ 
+>     “(a)  __Modification of Pricing Regulations for Certain Commercial Items Exempt From Cost or Pricing Data Certification Requirements__  __.—__ 
 
 >         (1) The Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (\[former\] [41 U.S.C. 405][/us/usc/t41/s405], 421) \[see [41 U.S.C. 1121][/us/usc/t41/s1121], 1303\] shall be revised to clarify the procedures and methods to be used for determining the reasonableness of prices of exempt commercial items (as defined in subsection (d)).
 
@@ -589,11 +589,11 @@
 
 >         “(3) This subsection shall cease to be effective 1 year after the date on which final regulations prescribed pursuant to paragraph (1) take effect.
 
->     “(b) __Unified Management of Procurement of Exempt Commercial Items.—__ 
+>     “(b)  __Unified Management of Procurement of Exempt Commercial Items__  __.—__ 
 
 >     The Secretary of Defense shall develop and implement procedures to ensure that, whenever appropriate, a single item manager or contracting officer is responsible for negotiating and entering into all contracts from a single contractor for the procurement of exempt commercial items or for the procurement of items in a category of exempt commercial items.
 
->     “(c) __Commercial Price Trend Analysis.—__ 
+>     “(c)  __Commercial Price Trend Analysis__  __.—__ 
 
 >         (1) The Secretary of Defense shall develop and implement procedures that, to the maximum extent that is practicable and consistent with the efficient operation of the Department of Defense, provide for the collection and analysis of information on price trends for categories of exempt commercial items described in paragraph (2).
 
@@ -609,7 +609,7 @@
 
 >         “(4) Not later than April 1 of each of fiscal years 2000 through 2009, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the analyses of price trends that were conducted by the Secretary of each military department and the Director of the Defense Logistics Agency for categories of exempt commercial items during the preceding fiscal year under the procedures prescribed pursuant to paragraph (1). The report shall include a description of the actions taken by each Secretary and the Director to identify and address any unreasonable price escalation for the categories of items.
 
->     “(d) __Exempt Commercial Items Defined.—__ 
+>     “(d)  __Exempt Commercial Items Defined__  __.—__ 
 
 >     For the purposes of this section, the term ‘exempt commercial item’ means a commercial item that is exempt under subsection (b)(1)(B) of [section 2306a of title 10][/us/usc/t10/s2306a], United States Code, or subsection (b)(1)(B) of section 304A of the Federal Property and Administrative Services Act of 1949 (\[former\] [41 U.S.C. 254b][/us/usc/t41/s254b]) \[now [41 U.S.C. 3503(a)(2)][/us/usc/t41/s3503/a/2]\], from the requirements for submission of certified cost or pricing data under that section.”
 

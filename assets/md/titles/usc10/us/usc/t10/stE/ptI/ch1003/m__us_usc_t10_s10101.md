@@ -65,15 +65,15 @@
 
 [Pub. L. 112–239, div. A, title VII, § 706][/us/pl/112/239/s706], Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800], provided that:
 
->     “(a) __Program Authority.—__ 
+>     “(a)  __Program Authority__  __.—__ 
 
 >     The Secretary of Defense may carry out a pilot program to enhance the efforts of the Department of Defense in research, treatment, education, and outreach on mental health and substance use disorders and traumatic brain injury in members of the National Guard and Reserves, their family members, and their caregivers through community partners.
 
->     “(b) __Agreements With Community Partners.—__ 
+>     “(b)  __Agreements With Community Partners__  __.—__ 
 
 >     In carrying out the pilot program authorized by subsection (a), the Secretary may enter into partnership agreements with community partners described in subsection (c) using a competitive and merit-based award process.
 
->     “(c) __Community Partner Described.—__ 
+>     “(c)  __Community Partner Described__  __.—__ 
 
 >     A community partner described in this subsection is a private non-profit organization or institution that meets such qualifications as the Secretary shall establish for purposes of the pilot program and engages in one or more of the following:
 
@@ -83,11 +83,11 @@
 
 >         “(3) Outreach and education to such members, their families and caregivers, and the public about mental health and substance use disorders and traumatic brain injury described in paragraph (1).
 
->     “(d) __Duration.—__ 
+>     “(d)  __Duration__  __.—__ 
 
 >     The duration of the pilot program may not exceed three years.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements of the pilot program with respect to research, treatment, education, and outreach on mental health and substance use disorders and traumatic brain injury.”
 
@@ -95,11 +95,11 @@
 
 [Pub. L. 112–81, div. A, title VII, § 703(b)][/us/pl/112/81/s703/b], Dec. 31, 2011, [125 Stat. 1471][/us/stat/125/1471], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Each member of a reserve component of the Armed Forces participating in annual training or individual duty training shall have access, while so participating, to the behavioral health support programs for members of the reserve components described in paragraph (2).
 
->     “(2) __Behavioral health support programs.—__ 
+>     “(2)  __Behavioral health support programs__  __.—__ 
 
 >     The behavioral health support programs for members of the reserve components described in this paragraph shall include one or any combination of the following:
 
@@ -111,11 +111,11 @@
 
 >         “(D) Such other programs as the Secretary of Defense, in consultation with the Surgeon General for the National Guard of the State in which the members concerned reside, the Director of Psychological Health of the State in which the members concerned reside, the Department of Mental Health or the equivalent agency of the State in which the members concerned reside, or the Director of the Psychological Health Program of the National Guard Bureau, considers appropriate.
 
->     “(3) __Funding.—__ 
+>     “(3)  __Funding__  __.—__ 
 
 >     Behavioral health support programs provided to members of the reserve components under this subsection shall be provided using amounts made available for operation and maintenance for the reserve components.
 
->     “(4) __State defined.—__ 
+>     “(4)  __State defined__  __.—__ 
 
 >     In this subsection, the term ‘State’ has the meaning given that term in [section 10001 of title 10][/us/usc/t10/s10001], United States Code.”
 
@@ -125,23 +125,23 @@
 
 >     “(a) __Limitation.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to paragraph (2), the Secretary of a military department shall avoid scheduling mobilization training or pre-mobilization training for a unit of a reserve component of the Armed Forces at a temporary duty location that is outside the normal commuting distance of the unit (as determined pursuant to the regulations prescribed by the Secretary of Defense under subsection (c)) if a suspension of training at such temporary duty location of at least five days is anticipated to occur during any portion of such mobilization or pre-mobilization training.
 
->         “(2) __Waiver.—__ 
+>         “(2)  __Waiver__  __.—__ 
 
 >         The Secretary of a military department may waive the applicability of the limitation in paragraph (1) to a unit of a reserve component if the Secretary determines that the waiver is in the national security interests of the United States.
 
->         “(3) __Notice to congress.—__ 
+>         “(3)  __Notice to congress__  __.—__ 
 
 >         Until December 31, 2014, the Secretary of the military department concerned shall submit written notice of each waiver issued under paragraph (2) to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. Notice of such waiver shall be so submitted at the time of the issuance of such waiver.
 
->     “(b) __Notice of Other Suspensions of Training.—__ 
+>     “(b)  __Notice of Other Suspensions of Training__  __.—__ 
 
 >     Until December 31, 2014, in the event of a suspension of training (other than an anticipated suspension of training described in subsection (a)(1)) of at least five days at a temporary duty location at which one or more units of the reserve components on active duty are engaged in mobilization training or pre-mobilization training, the Secretary of the military department having jurisdiction over such unit or units shall submit written notice of the suspension to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. Notice of such suspension of training shall be so submitted at the time of such suspension of training.
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Secretaries of the military departments shall administer this section in accordance with regulations prescribed by the Secretary of Defense. Such regulations shall apply uniformly among the military departments.”
 
@@ -175,11 +175,11 @@
 
 [Pub. L. 110–181, div. A, title V, § 582][/us/pl/110/181/s582], Jan. 28, 2008, [122 Stat. 122][/us/stat/122/122], as amended by [Pub. L. 111–84, div. A, title V, § 595][/us/pl/111/84/s595], Oct. 28, 2009, [123 Stat. 2338][/us/stat/123/2338]; [Pub. L. 111–383, div. A, title V, § 583][/us/pl/111/383/s583], Jan. 7, 2011, [124 Stat. 4228][/us/stat/124/4228]; [Pub. L. 112–81, div. A, title V, § 590][/us/pl/112/81/s590], Dec. 31, 2011, [125 Stat. 1438][/us/stat/125/1438]; [Pub. L. 112–239, div. A, title V, § 581(b)][/us/pl/112/239/s581/b], Jan. 2, 2013, [126 Stat. 1766][/us/stat/126/1766], provided that:
 
->     “(a) __Establishment of Program.—__ 
+>     “(a)  __Establishment of Program__  __.—__ 
 
 >     The Secretary of Defense shall establish a national combat veteran reintegration program to provide National Guard and Reserve members and their families with sufficient information, services, referral, and proactive outreach opportunities throughout the entire deployment cycle. This program shall be known as the Yellow Ribbon Reintegration Program.
 
->     “(b) __Purpose of Program; Deployment Cycle.—__ 
+>     “(b)  __Purpose of Program; Deployment Cycle__  __.—__ 
 
 >     The Yellow Ribbon Reintegration Program shall consist of informational events and activities (including programs of outreach) for members of the reserve components of the Armed Forces, their families, and community members to facilitate access to services supporting their health and well-being through the 4 phases of the deployment cycle:
 
@@ -191,23 +191,23 @@
 
 >         “(4) Post-Deployment-Reconstitution.
 
->     “(c) __Executive Agent.—__ 
+>     “(c)  __Executive Agent__  __.—__ 
 
 >     The Secretary shall designate the Under Secretary of Defense for Personnel and Readiness as the Department of Defense executive agent for the Yellow Ribbon Reintegration Program.
 
 >     “(d) __Office for Reintegration Programs.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Under Secretary of Defense for Personnel and Readiness shall establish the Office for Reintegration Programs within the Office of the Secretary of Defense. The office shall administer all reintegration programs in coordination with State National Guard organizations. The office shall be responsible for coordination with existing National Guard and Reserve family and support programs. The Directors of the Army National Guard and Air National Guard and the Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve may appoint liaison officers to coordinate with the permanent office staff.
 
->             “(B) __Partnerships and access.—__ 
+>             “(B)  __Partnerships and access__  __.—__ 
 
 >             The office may enter into partnerships with other public entities, including the Department of Health and Human Services, Substance Abuse and the Mental Health Services Administration and the Department of Veterans Affairs, for access to necessary substance abuse and mental health treatment services from local State-licensed service providers. Service and State-based programs may provide access to curriculum, training, and support for services to members and families from all components.
 
->         “(2) __Center for excellence in reintegration.—__ 
+>         “(2)  __Center for excellence in reintegration__  __.—__ 
 
 >         The Office for Reintegration Programs shall establish a Center for Excellence in Reintegration within the office. The Center shall have the following functions:
 
@@ -221,15 +221,15 @@
 
 >     “(e) __Advisory Board.—__ 
 
->         “(1) __Appointment.—__ 
+>         “(1)  __Appointment__  __.—__ 
 
 >         The Secretary of Defense shall appoint an advisory board to analyze the Yellow Ribbon Reintegration Program and report on areas of success and areas for necessary improvements. The advisory board shall include the Director of the Army National Guard, the Director of the Air National Guard, Chiefs of the Army Reserve, Marine Corps Reserve, Navy Reserve, and Air Force Reserve, the Assistant Secretary of Defense for Reserve Affairs, an Adjutant General on a rotational basis as determined by the Chief of the National Guard Bureau, and any other Department of Defense, Federal Government agency, or outside organization as determined by the Secretary of Defense. The members of the advisory board may designate representatives in their stead.
 
->         “(2) __Schedule.—__ 
+>         “(2)  __Schedule__  __.—__ 
 
 >         The advisory board shall meet on a schedule determined by the Secretary of Defense.
 
->         “(3) __Initial reporting requirement.—__ 
+>         “(3)  __Initial reporting requirement__  __.—__ 
 
 >         The advisory board shall issue internal reports as necessary and shall submit an initial report to the Committees on Armed Services of the Senate and House of Representatives not later than 180 days after the end of the 1-year period beginning on the date of the establishment of the Office for Reintegration Programs. The report shall contain—
 
@@ -239,11 +239,11 @@
 
 >             “(C) recommendations regarding closer coordination between the Office of Reintegration Programs and State National Guard and Reserve organizations.
 
->         “(4) __Annual reports.—__ 
+>         “(4)  __Annual reports__  __.—__ 
 
 >         The advisory board shall submit annual reports to the Committees on Armed Services of the Senate and the House of Representatives following the initial report by the first week in March of subsequent years following the initial report.
 
->     “(f) __State Deployment Cycle Support Teams.—__ 
+>     “(f)  __State Deployment Cycle Support Teams__  __.—__ 
 
 >     The Office for Reintegration Programs may employ personnel to administer the Yellow Ribbon Reintegration Program at the State level. The primary function of team members shall be—
 
@@ -255,43 +255,43 @@
 
 >     “(g) __Operation of Program Through Deployment Cycle.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Office for Reintegration Programs shall analyze the demographics, placement of State Family Assistance Centers and their resources before a mobilization alert is issued to affected State National Guard and Reserve organizations. The Office of Reintegration Programs shall consult with affected State National Guard and Reserve organizations following the issuance of a mobilization alert and implement the reintegration events in accordance with the Reintegration Program phase model.
 
->         “(2) __Pre-deployment phase.—__ 
+>         “(2)  __Pre-deployment phase__  __.—__ 
 
 >         The Pre-Deployment Phase shall constitute the time from first notification of mobilization until deployment of the mobilized National Guard or Reserve unit. Events and activities shall focus on providing education and ensuring the readiness of members of the unit, their families, and affected communities for the rigors of a combat deployment.
 
->         “(3) __Deployment phase.—__ 
+>         “(3)  __Deployment phase__  __.—__ 
 
 >         The Deployment Phase shall constitute the period from deployment of the mobilized National Guard or Reserve unit until the unit arrives at a demobilization station inside the continental United States. Events and services provided shall focus on the challenges and stress associated with separation and having a member in a combat zone and to decrease the isolation of families during deployment. Information sessions shall utilize State National Guard and Reserve resources in coordination with the Employer Support of Guard and Reserve Office, Transition Assistance Advisors, and the State Family Programs Director.
 
 >         “(4) __Demobilization phase.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Demobilization Phase shall constitute the period from arrival of the National Guard or Reserve unit at the demobilization station until its departure for home station.
 
->             “(B) __Initial reintegration activity.—__ 
+>             “(B)  __Initial reintegration activity__  __.—__ 
 
 >             The purpose of this reintegration program is to educate members about the resources that are available to them and to connect members to service providers who can assist them in overcoming the challenges of reintegration.
 
 >         “(5) __Post-deployment-reconstitution phase.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Post-Deployment-Reconstitution Phase shall constitute the period from arrival at home station until 180 days following demobilization. Activities and services provided shall focus on reconnecting members with their families and communities, providing information on employment opportunities, and providing resources and information necessary for successful reintegration. Reintegration events shall begin with elements of the Initial Reintegration Activity program that were not completed during the Demobilization Phase.
 
->             “(B) __30-day, 60-day, and 90-day reintegration activities.—__ 
+>             “(B)  __30-day, 60-day, and 90-day reintegration activities__  __.—__ 
 
 >             The State National Guard and Reserve organizations shall hold reintegration activities at the 30-day, 60-day, and 90-day interval following demobilization. These activities shall focus on reconnecting members and their families with the service providers from the Initial Reintegration Activity to ensure that members and their families understand what benefits they are entitled to and what resources are available to help them overcome the challenges of reintegration. The Reintegration Activities shall also provide a forum for members and their families to address negative behaviors related to combat stress and transition.
 
->             “(C) __Member pay.—__ 
+>             “(C)  __Member pay__  __.—__ 
 
 >             Members shall receive appropriate pay for days spent attending the Reintegration Activities at the 30-day, 60-day, and 90-day intervals.
 
->     “(h) __Outreach Services.—__ 
+>     “(h)  __Outreach Services__  __.—__ 
 
 >     As part of the Yellow Ribbon Reintegration Program, the Office for Reintegration Programs may develop programs of outreach to members of the Armed Forces and their family members to educate such members and their family members about the assistance and services available to them under the Yellow Ribbon Reintegration Program. Such assistance and services may include the following:
 
@@ -327,11 +327,11 @@
 
 >     “\[(i) Repealed. [Pub. L. 112–239, div. A, title V, § 581(b)][/us/pl/112/239/s581/b], Jan. 2, 2013, [126 Stat. 1766][/us/stat/126/1766].\]
 
->     “(j) __State-led Programs of Outreach.—__ 
+>     “(j)  __State-led Programs of Outreach__  __.—__ 
 
 >     The Office for Reintegration Programs may work with the States, whether acting through or in coordination with their National Guard and Reserve organizations, to assist the States and such organizations in developing and carrying out programs of outreach for members of the Armed Forces and their families to inform and educate them on the assistance and services available to them under the Yellow Ribbon Reintegration Program, including the assistance and services described in subsection (h).
 
->     “(k) __Scope of Activities Under Programs of Outreach.—__ 
+>     “(k)  __Scope of Activities Under Programs of Outreach__  __.—__ 
 
 >     For purposes of this section, the activities and services provided under programs of outreach may include personalized and substantive care coordination services targeted specifically to individual members of the Armed Forces and their families.”
 
@@ -341,15 +341,15 @@
 
 >     “(a) __Pilot Program Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of the Army shall carry out a pilot program to assess the feasibility and advisability of using a coalition of military and civilian community personnel in order to enhance the quality of life for members of the Army Reserve and their families.
 
->         “(2) __Locations.—__ 
+>         “(2)  __Locations__  __.—__ 
 
 >         The Secretary shall carry out the pilot program in areas of the United States in which members of the Army Reserve and their families are concentrated. The Secretary shall select one area in two States for purposes of the pilot program.
 
->     “(b) __Participating Personnel.—__ 
+>     “(b)  __Participating Personnel__  __.—__ 
 
 >     A coalition of personnel under the pilot program shall include—
 
@@ -357,7 +357,7 @@
 
 >         “(2) appropriate members of the civilian community, such as clinicians and teachers, who volunteer for participation in the coalition.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than April 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the pilot program carried out under this section. The report shall include—
 

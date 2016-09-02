@@ -15,15 +15,15 @@
 
 ## § 510. Enlistment incentives for pursuit of skills to facilitate national service
 
-    (a) __Enlistment Incentive Program.—__ 
+    (a)  __Enlistment Incentive Program__  __.—__ 
 
     The Secretary of Defense shall carry out an enlistment incentive program in accordance with this section under which a person who is a National Call to Service participant shall be entitled to one of the incentives specified in subsection (e). The program shall be carried out during the period ending on December 31, 2007, and may be carried out after that date.
 
-    (b) __National Call to Service Participant.—__ 
+    (b)  __National Call to Service Participant__  __.—__ 
 
     In this section, the term “National Call to Service participant” means a person who has not previously served in the armed forces who enters into an original enlistment pursuant to a written agreement with the Secretary of a military department (in such form and manner as may be prescribed by that Secretary) under which the person agrees to perform a period of national service as specified in subsection (c).
 
-    (c) __National Service.—__ 
+    (c)  __National Service__  __.—__ 
 
     The total period of national service to which a National Call to Service participant is obligated under the agreement under this section shall be specified in the agreement. Under the agreement, the participant shall—
 
@@ -45,11 +45,11 @@
 
             (E) in any combination of service referred to in subparagraphs (A) through (D) that is approved by the Secretary of the military department concerned pursuant to regulations prescribed by the Secretary of Defense and specified in the agreement.
 
-    (d) __Designated Military Occupational Specialties.—__ 
+    (d)  __Designated Military Occupational Specialties__  __.—__ 
 
     The Secretary of Defense shall designate military occupational specialties for purposes of subsection (c)(1). Such military occupational specialties shall be military occupational specialties that, as determined by the Secretary, will facilitate pursuit of national service by National Call to Service participants and shall include military occupational specialties for enlistments for officer training and subsequent service as an officer, in cases in which the reason for the enlistment and entry into an agreement under subsection (b) is to enter an officer training program.
 
-    (e) __Incentives.—__ 
+    (e)  __Incentives__  __.—__ 
 
     The incentives specified in this subsection are as follows:
 
@@ -61,11 +61,11 @@
 
         (4) Entitlement to an allowance for educational assistance at the monthly rate equal to 50 percent of the monthly rate payable for basic educational assistance allowances under [section 3015(b)(1) of title 38][/us/usc/t38/s3015/b/1] for a total of 36 months.
 
-    (f) __Election of Incentive.—__ 
+    (f)  __Election of Incentive__  __.—__ 
 
     A National Call to Service participant shall elect in the agreement under subsection (b) which incentive under subsection (e) to receive. An election under this subsection is irrevocable.
 
-    (g) __Payment of Bonus Amounts.—__ 
+    (g)  __Payment of Bonus Amounts__  __.—__ 
 
         (1) Payment to a National Call to Service participant of the bonus elected by the National Call to Service participant under subsection (e)(1) shall be made in such time and manner as the Secretary of Defense shall prescribe.
 
@@ -77,7 +77,7 @@
 
         (3) Payment of a bonus or incentive in accordance with this subsection shall be made by the Secretary of the military department concerned.
 
-    (h) __Coordination With Montgomery GI Bill Benefits.—__ 
+    (h)  __Coordination With Montgomery GI Bill Benefits__  __.—__ 
 
         (1)
 
@@ -101,21 +101,21 @@
 
                 (ii) The participant making a revocation or initial election under clause (i) shall be eligible for educational assistance under either such chapter at such time as the participant satisfies through service the applicable eligibility requirements under either such chapter.
 
-    (i) __Repayment.—__ 
+    (i)  __Repayment__  __.—__ 
 
     If a National Call to Service participant who has entered into an agreement under subsection (b) and received or benefitted from an incentive under paragraph (1) or (2) of subsection (e) fails to complete the total period of service specified in the agreement, the National Call to Service participant shall be subject to the repayment provisions of [section 303a(e) of title 37][/us/usc/t37/s303a/e].
 
-    (j) __Funding.—__ 
+    (j)  __Funding__  __.—__ 
 
         (1) Amounts for the payment of incentives under paragraphs (1) and (2) of subsection (e) shall be derived from amounts available to the Secretary of the military department concerned for the payment of pay, allowances and other expenses of the members of the armed force concerned.
 
         (2) Amounts for the payment of incentives under paragraphs (3) and (4) of subsection (e) shall be derived from the Department of Defense Education Benefits Fund under [section 2006 of this title][/us/usc/t10/s2006].
 
-    (k) __Regulations.—__ 
+    (k)  __Regulations__  __.—__ 
 
     The Secretary of Defense and the Secretaries of the military departments shall prescribe regulations for purposes of the program under this section.
 
-    (l) __Definitions.—__ 
+    (l)  __Definitions__  __.—__ 
 
     In this section:
 

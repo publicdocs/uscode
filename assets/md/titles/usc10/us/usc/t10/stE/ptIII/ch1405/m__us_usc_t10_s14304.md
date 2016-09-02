@@ -15,7 +15,7 @@
 
 ## § 14304. Eligibility for consideration for promotion: maximum years of service in grade
 
-    (a) __Consideration for Promotion Within Specified Times.—__ 
+    (a)  __Consideration for Promotion Within Specified Times__  __.—__ 
 
         (1) Officers described in paragraph (3) shall be placed in the promotion zone for that officer’s grade and competitive category, and shall be considered for promotion to the next higher grade by a promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a], far enough in advance of completing the years of service in grade specified in the following table so that, if the officer is recommended for promotion, the promotion may be effective on or before the date on which the officer will complete those years of service.
 
@@ -75,11 +75,11 @@
 
         (3) Paragraph (1) applies to an officer who is on the reserve active-status list of the Army, Navy, Air Force, or Marine Corps and who holds a permanent appointment in the grade of first lieutenant, captain, or major as a reserve of the Army, Air Force, or Marine Corps, or to an officer on the reserve active-status list of the Navy in the grade of lieutenant (junior grade), lieutenant, or lieutenant commander as a reserve of the Navy, and who, while holding that appointment, has not been considered by a selection board convened under section 14101(a) or 14502 of this title for promotion to the next higher grade.
 
-    (b) __Promotion Date.—__ 
+    (b)  __Promotion Date__  __.—__ 
 
     An officer holding a permanent grade specified in the table in subsection (a) who is recommended for promotion to the next higher grade by a selection board the first time the officer is considered for promotion while in or above the promotion zone and who is placed on an approved promotion list established under [section 14308(a) of this title][/us/usc/t10/s14308/a] shall (if not promoted sooner or removed from that list by the President or by reason of declination) be promoted, without regard to the existence of a vacancy, on the date on which the officer completes the maximum years of service in grade specified in subsection (a). The preceding sentence is subject to the limitations of [section 12011 of this title][/us/usc/t10/s12011].
 
-    (c) __Waiver Authority for Navy and Marine Corps Running Mate System.—__ 
+    (c)  __Waiver Authority for Navy and Marine Corps Running Mate System__  __.—__ 
 
     If the Secretary of the Navy establishes promotion zones for officers on the reserve active-status list of the Navy or the Marine Corps Reserve in accordance with a running mate system under [section 14306 of this title][/us/usc/t10/s14306], the Secretary may waive the requirements of subsection (a) to the extent the Secretary considers necessary in any case in which the years of service for promotion, or for consideration for promotion, within those zones will exceed the maximum years of service in grade specified in subsection (a).
 

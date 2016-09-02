@@ -15,11 +15,11 @@
 
 ## § 6979. Midshipmen: charges and fees for attendance; limitation
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     Except as provided in subsection (b), no charge or fee for tuition, room, or board for attendance at the Naval Academy may be imposed unless the charge or fee is specifically authorized by a law enacted after October 5, 1994.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     The prohibition specified in subsection (a) does not apply with respect to any item or service provided to midshipmen for which a charge or fee is imposed as of October 5, 1994. The Secretary of Defense shall notify Congress of any change made by the Naval Academy in the amount of a charge or fee authorized under this subsection.
 

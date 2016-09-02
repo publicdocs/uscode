@@ -15,7 +15,7 @@
 
 ## § 2377. Preference for acquisition of commercial items
 
-    (a) __Preference.—__ 
+    (a)  __Preference__  __.—__ 
 
     The head of an agency shall ensure that, to the maximum extent practicable—
 
@@ -33,7 +33,7 @@
 
         (3) offerors of commercial items and nondevelopmental items other than commercial items are provided an opportunity to compete in any procurement to fill such requirements.
 
-    (b) __Implementation.—__ 
+    (b)  __Implementation__  __.—__ 
 
     The head of an agency shall ensure that procurement officials in that agency, to the maximum extent practicable—
 
@@ -49,7 +49,7 @@
 
         (6) require training of appropriate personnel in the acquisition of commercial items.
 
-    (c) __Preliminary Market Research.—__ 
+    (c)  __Preliminary Market Research__  __.—__ 
 
         (1)
 
@@ -87,11 +87,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 803, Oct. 14, 2008, [122 Stat. 4519][/us/stat/122/4519], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall ensure that contracting officials identify and evaluate, at all stages of the acquisition process (including concept refinement, concept decision, and technology development), opportunities for the use of commercial computer software and other non-developmental software.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than 270 days after the date of enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on actions taken to implement subsection (a), including a description of any relevant regulations and policy guidance.”
 

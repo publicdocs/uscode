@@ -15,11 +15,11 @@
 
 ## § 1407a. Retired pay base: officers retired in general or flag officer grades
 
-    (a) __Rates of Basic Pay to Be Used in Determination.—__ 
+    (a)  __Rates of Basic Pay to Be Used in Determination__  __.—__ 
 
     In a case in which the determination under section 1406 or 1407 of this title of the retired pay base applicable to the computation of the retired pay of a covered general or flag officer involves a rate of basic pay payable to that officer for any period that was subject to a reduction under [section 203(a)(2) of title 37][/us/usc/t37/s203/a/2] for such period, such retired-pay-base determination shall be made using the rate of basic pay for such period provided by law, rather than such rate as so reduced.
 
-    (b) __Covered General and Flag Officers.—__ 
+    (b)  __Covered General and Flag Officers__  __.—__ 
 
     In this section, the term “covered general or flag officer” means a member or former member who after September 30, 2006, is retired in a general officer grade or flag officer grade.
 

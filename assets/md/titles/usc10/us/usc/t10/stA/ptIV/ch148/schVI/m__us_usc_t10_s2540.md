@@ -15,11 +15,11 @@
 
 ## § 2540. Establishment of loan guarantee program
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     In order to meet the national security objectives in [section 2501(a) of this title][/us/usc/t10/s2501/a], the Secretary of Defense shall establish a program under which the Secretary may issue guarantees assuring a lender against losses of principal or interest, or both principal and interest, arising out of the financing of the sale or long-term lease of defense articles, defense services, or design and construction services to a country referred to in subsection (b).
 
-    (b) __Covered Countries.—__ 
+    (b)  __Covered Countries__  __.—__ 
 
     The authority under subsection (a) applies with respect to the following countries:
 
@@ -37,7 +37,7 @@
 
         (4) A noncommunist country that was a member nation of the Asia Pacific Economic Cooperation (APEC) as of October 31, 1993.
 
-    (c) __Authority Subject to Provisions of Appropriations.—__ 
+    (c)  __Authority Subject to Provisions of Appropriations__  __.—__ 
 
     The Secretary may guarantee a loan under this subchapter only to such extent or in such amounts as may be provided in advance in appropriations Acts.
 

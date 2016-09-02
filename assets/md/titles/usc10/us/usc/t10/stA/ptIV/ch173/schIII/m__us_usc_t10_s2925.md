@@ -15,7 +15,7 @@
 
 ## § 2925. Annual Department of Defense energy management reports
 
-    (a) __Annual Report Related to Installations Energy Management.—__ 
+    (a)  __Annual Report Related to Installations Energy Management__  __.—__ 
 
     Not later than 120 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional defense committees an installation energy report detailing the fulfillment during that fiscal year of the energy performance goals for the Department of Defense under [section 2911 of this title][/us/usc/t10/s2911]. Each report shall contain the following:
 
@@ -43,7 +43,7 @@
 
         (12) A description of any other issues and strategies the Secretary determines relevant to a comprehensive and renewable energy policy.
 
-    (b) __Annual Report Related to Operational Energy.—__ 
+    (b)  __Annual Report Related to Operational Energy__  __.—__ 
 
         (1) Simultaneous with the annual report required by subsection (a), the Secretary of Defense, acting through the Assistant Secretary of Defense for Operational Energy Plans and Programs, shall submit to the congressional defense committees a report on operational energy management and the implementation of the operational energy strategy established pursuant to [section 138c of this title][/us/usc/t10/s138c].
 

@@ -17,17 +17,17 @@
 
     (a) __Use of Retired Pay Base in Computing Retired Pay.—__ 
 
-        (1) __General rule.—__ 
+        (1)  __General rule__  __.—__ 
 
         The retired pay or retainer pay of any person entitled to that pay who first became a member of a uniformed service before September 8, 1980, is computed using the retired pay base or retainer pay base determined under this section.
 
-        (2) __Exception for recomputation.—__ 
+        (2)  __Exception for recomputation__  __.—__ 
 
         Recomputation of retired or retainer pay to reflect later active duty is provided for under [section 1402 of this title][/us/usc/t10/s1402] without reference to a retired pay base or retainer pay base.
 
     (b) __Retirement Under Subtitle A or E.—__ 
 
-        (1) __Disability, warrant officer, and dopma retirement.—__ 
+        (1)  __Disability, warrant officer, and dopma retirement__  __.—__ 
 
         In the case of a person whose retired pay is computed under this subtitle, the retired pay base is determined in accordance with the following table.
 
@@ -139,13 +139,13 @@
 
         </table>
 
-        (2) __Non-regular service retirement.—__ 
+        (2)  __Non-regular service retirement__  __.—__ 
 
         In the case of a person who is entitled to retired pay under [section 12731 of this title][/us/usc/t10/s12731], the retired pay base is the monthly basic pay, determined at the rates applicable on the date when retired pay is granted (or, in the case of a person entitled to retired pay by reason of an election under [section 12741(a) of this title][/us/usc/t10/s12741/a], at rates applicable on the date the person completes the service required under such section 12741(a)), of the highest grade held satisfactorily by the person at any time in the armed forces. For purposes of the preceding sentence, the highest grade in which a person served satisfactorily as an officer shall be determined in accordance with [section 1370(d) of this title][/us/usc/t10/s1370/d].
 
     (c) __Voluntary Retirement for Members of the Army.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In the case of a member whose retired pay is computed under [section 3991 of this title][/us/usc/t10/s3991] or who is entitled to retired pay computed under [section 3992 of this title][/us/usc/t10/s3992], the retired pay base is determined in accordance with the following table.
 
@@ -221,11 +221,11 @@
 
         </table>
 
-        (2) __Rate of basic pay to be used.—__ 
+        (2)  __Rate of basic pay to be used__  __.—__ 
 
         The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member’s retirement.
 
-    (d) __Retirement for Members of the Navy and Marine Corps.—__ 
+    (d)  __Retirement for Members of the Navy and Marine Corps__  __.—__ 
 
     In the case of a member whose retired pay is computed under [section 6333 of this title][/us/usc/t10/s6333], who is advanced on the retired list under section 6151 or 6334 of this title, or who is entitled to retainer pay under [section 6330 of this title][/us/usc/t10/s6330], the retired pay base or retainer pay base is determined in accordance with the following table.
 
@@ -337,7 +337,7 @@
 
     (e) __Voluntary Retirement for Members of the Air Force.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         In the case of a member whose retired pay is computed under [section 8991 of this title][/us/usc/t10/s8991] or who is entitled to retired pay computed under [section 8992 of this title][/us/usc/t10/s8992], the retired pay base is determined in accordance with the following table.
 
@@ -413,37 +413,37 @@
 
         </table>
 
-        (2) __Rate of basic pay to be used.—__ 
+        (2)  __Rate of basic pay to be used__  __.—__ 
 
         The rate of basic pay to be used under paragraph (1) is the rate applicable on the date of the member’s retirement.
 
-    (f) __Coast Guard.—__ 
+    (f)  __Coast Guard__  __.—__ 
 
     In the case of a member who is retired under any section of title 14, the member’s retired pay is computed under [section 423(a) of title 14][/us/usc/t14/s423/a] in the manner provided in that section.
 
-    (g) __Commissioned Corps of National Oceanic and Atmospheric Administration.—__ 
+    (g)  __Commissioned Corps of National Oceanic and Atmospheric Administration__  __.—__ 
 
     In the case of an officer whose retired pay is computed under section 245 of the National Oceanic and Atmospheric Administration Commissioned Officer Corps Act of 2002 ([33 U.S.C. 3045][/us/usc/t33/s3045]), the retired pay base is the basic pay of the rank with which the officer retired.
 
-    (h) __Commissioned Corps of Public Health Service.—__ 
+    (h)  __Commissioned Corps of Public Health Service__  __.—__ 
 
     In the case of an officer who is retired under section 210(g) or 211(a) of the Public Health Service Act ([42 U.S.C. 211(g)][/us/usc/t42/s211/g], 212(a)), the retired pay base is determined as follows:
 
-        (1) __Mandatory retirement.—__ 
+        (1)  __Mandatory retirement__  __.—__ 
 
         If the officer is retired under section 210(g) of such Act, the retired pay base is the basic pay of the permanent grade held by the officer at the time of retirement.
 
-        (2) __Voluntary retirement.—__ 
+        (2)  __Voluntary retirement__  __.—__ 
 
         If the officer is retired under section 211(a) of such Act, the retired pay base is the basic pay of the highest grade held by the officer and in which, in the case of a temporary promotion to such grade, the officer has performed active duty for not less than six months.
 
     (i) __Special Rule for Former Chairmen and Vice Chairmen of the JCS, Chiefs of Service, Commanders of Combatant Commands, and Senior Enlisted Members.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         For the purposes of subsections (b) through (e), in determining the rate of basic pay to apply in the determination of the retired pay base of a member who has served as Chairman or Vice Chairman of the Joint Chiefs of Staff, as a Chief of Service, as a commander of a unified or specified combatant command (as defined in [section 161(c) of this title][/us/usc/t10/s161/c]), or as the senior enlisted member of an armed force, the highest rate of basic pay applicable to the member while serving in that position shall be used, if that rate is higher than the rate otherwise authorized by this section.
 
-        (2) __Exception for members reduced in grade or who do not serve satisfactorily.—__ 
+        (2)  __Exception for members reduced in grade or who do not serve satisfactorily__  __.—__ 
 
         Paragraph (1) does not apply in the case of a member who, while or after serving in a position specified in that paragraph and by reason of conduct occurring after October 16, 1998—
 
@@ -451,7 +451,7 @@
 
             (B) in the case an officer, is not certified by the Secretary of Defense under [section 1370(c) of this title][/us/usc/t10/s1370/c] as having served on active duty satisfactorily in the grade of general or admiral, as the case may be, while serving in that position.
 
-        (3) __Definitions.—__ 
+        (3)  __Definitions__  __.—__ 
 
         In this subsection:
 

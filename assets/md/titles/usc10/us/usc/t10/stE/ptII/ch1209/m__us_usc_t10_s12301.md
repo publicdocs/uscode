@@ -251,11 +251,11 @@ Aug. 9, 1955, ch. 665, § 2(e), 69 Stat. 599.  </td>
 
 [Pub. L. 110–181, div. A, title V, § 515][/us/pl/110/181/s515], Jan. 28, 2008, [122 Stat. 99][/us/stat/122/99], provided that:
 
->     “(a) __Advance Notice Required.—__ 
+>     “(a)  __Advance Notice Required__  __.—__ 
 
 >     The Secretary of a military department shall ensure that a member of a reserve component under the jurisdiction of that Secretary who will be called or ordered to active duty for a period of more than 30 days in support of a contingency operation (as defined in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13], United States Code) receives notice in advance of the mobilization date. In so far as is practicable, the notice shall be provided not less than 30 days before the mobilization date, but with a goal of 90 days before the mobilization date.
 
->     “(b) __Reduction or Waiver of Notice Requirement.—__ 
+>     “(b)  __Reduction or Waiver of Notice Requirement__  __.—__ 
 
 >     The Secretary of Defense may waive the requirement of subsection (a), or authorize shorter notice than the minimum specified in such subsection, during a war or national emergency declared by the President or Congress or to meet mission requirements. If the waiver or reduction is made on account of mission requirements, the Secretary shall submit to Congress a report detailing the reasons for the waiver or reduction and the mission requirements at issue.”
 

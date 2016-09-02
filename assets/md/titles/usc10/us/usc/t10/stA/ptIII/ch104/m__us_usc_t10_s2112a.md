@@ -15,11 +15,11 @@
 
 ## § 2112a. Continued operation of University
 
-    (a) __Closure Prohibited.—__ 
+    (a)  __Closure Prohibited__  __.—__ 
 
     The University may not be closed.
 
-    (b) __Personnel Strength.—__ 
+    (b)  __Personnel Strength__  __.—__ 
 
     During the five-year period beginning on October 1, 1996, the personnel staffing levels for the University may not be reduced below the personnel staffing levels for the University as of October 1, 1993.
 

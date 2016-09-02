@@ -15,11 +15,11 @@
 
 ## § 4544. Army industrial facilities: cooperative activities with non-Army entities
 
-    (a) __Cooperative Arrangements Authorized.—__ 
+    (a)  __Cooperative Arrangements Authorized__  __.—__ 
 
     A working-capital funded Army industrial facility may enter into a contract or other cooperative arrangement with a non-Army entity to carry out with the non-Army entity a military or commercial project described in subsection (b), subject to the conditions prescribed in subsection (c).
 
-    (b) __Authorized Activities.—__ 
+    (b)  __Authorized Activities__  __.—__ 
 
     A cooperative arrangement entered into by an Army industrial facility under subsection (a) may provide for any of the following activities:
 
@@ -35,7 +35,7 @@
 
         (6) The preparation and submission of joint offers by the facility and a non-Army entity for competitive procurements entered into with Federal agency.
 
-    (c) __Conditions.—__ 
+    (c)  __Conditions__  __.—__ 
 
     An activity authorized by subsection (b) may be carried out at an Army industrial facility under a cooperative arrangement entered into under subsection (a) only under the following conditions:
 
@@ -69,7 +69,7 @@
 
             (B) in the case of a claim by a purchaser of articles or services under this section that damages or injury arose from the failure of the United States to comply with quality, schedule, or cost performance requirements in the contract to carry out the activity.
 
-    (d) __Arrangement Methods and Authorities.—__ 
+    (d)  __Arrangement Methods and Authorities__  __.—__ 
 
     To establish a cooperative arrangement under subsection (a) with a non-Army entity, the approval authority described in subsection (f) for an Army industrial facility may—
 
@@ -83,23 +83,23 @@
 
         (5) accept payment-in-kind.
 
-    (e) __Proceeds Credited to Working Capital Fund.—__ 
+    (e)  __Proceeds Credited to Working Capital Fund__  __.—__ 
 
     The proceeds received from the sale of an article or service pursuant to a contract or other cooperative arrangement under this section shall be credited to the working capital fund that incurs the cost of manufacturing the article or performing the service.
 
-    (f) __Approval Authority.—__ 
+    (f)  __Approval Authority__  __.—__ 
 
     The authority of an Army industrial facility to enter into a cooperative arrangement under subsection (a) shall be exercised at the level of the commander of the major subordinate command of the Army that has responsibility for the facility. The commander may approve such an arrangement on a case-by-case basis or a class basis.
 
-    (g) __Commercial Sales.—__ 
+    (g)  __Commercial Sales__  __.—__ 
 
     Except in the case of work performed for the Department of Defense, for a contract of the Department of Defense, for foreign military sales, or for authorized foreign direct commercial sales (defense articles or defense services sold to a foreign government or international organization under export controls), a sale of articles or services may be made under this section only if the approval authority described in subsection (f) determines that the articles or services are not available from a commercial source located in the United States in the required quantity or quality, or within the time required.
 
-    (h) __Exclusion From Depot-Level Maintenance and Repair Percentage Limitation.—__ 
+    (h)  __Exclusion From Depot-Level Maintenance and Repair Percentage Limitation__  __.—__ 
 
     Amounts expended for the performance of a depot-level maintenance and repair workload by non-Federal Government personnel at an Army industrial facility shall not be counted for purposes of applying the percentage limitation in [section 2466(a) of this title][/us/usc/t10/s2466/a] if the personnel are provided by a non-Army entity pursuant to a cooperative arrangement entered into under subsection (a).
 
-    (i) __Relationship to Other Laws.—__ 
+    (i)  __Relationship to Other Laws__  __.—__ 
 
     Nothing in this section shall be construed to affect the application of—
 
@@ -107,7 +107,7 @@
 
         (2) [section 2667 of this title][/us/usc/t10/s2667] to leases of non-excess property in the administration of such an arrangement.
 
-    (j) __Definitions.—__ 
+    (j)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -173,11 +173,11 @@
 
 [Pub. L. 110–181, div. A, title III, § 328(b)][/us/pl/110/181/s328/b], Jan. 28, 2008, [122 Stat. 66][/us/stat/122/66], as amended by [Pub. L. 111–84, div. A, title III, § 324(b)][/us/pl/111/84/s324/b], Oct. 28, 2009, [123 Stat. 2253][/us/stat/123/2253]; [Pub. L. 112–81, div. A, title III, § 323(b)][/us/pl/112/81/s323/b], Dec. 31, 2011, [125 Stat. 1362][/us/stat/125/1362]; [Pub. L. 112–239, div. A, title X, § 1076(a)(2)][/us/pl/112/239/s1076/a/2], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948], provided that:
 
->     “(1) __Annual report on use of authority.—__ 
+>     “(1)  __Annual report on use of authority__  __.—__ 
 
 >     The Secretary of the Army shall submit to Congress at the same time the budget of the President is submitted to Congress for fiscal years 2009 through 2016 under [section 1105 of title 31][/us/usc/t31/s1105], United States Code, a report on the use of the authority provided under [section 4544 of title 10][/us/usc/t10/s4544], United States Code.
 
->     “(2) __Analysis of use of authority.—__ 
+>     “(2)  __Analysis of use of authority__  __.—__ 
 
 >     Not later than September 30, 2012, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report—
 

@@ -15,7 +15,7 @@
 
 ## § 2461a. Development and implementation of system for monitoring cost saving resulting from public-private competitions
 
-    (a) __System for Monitoring Performance.—__ 
+    (a)  __System for Monitoring Performance__  __.—__ 
 
         (1) The Secretary of Defense shall monitor the performance, including the cost of performance, of each function of the Department of Defense that, after October 30, 2000, is the subject of a public-private competition conducted under [section 2461 of this title][/us/usc/t10/s2461].
 
@@ -29,7 +29,7 @@
 
         (3) The monitoring of a function shall continue under this section for at least five years after the conversion, reorganization, or reengineering of the function pursuant to such a public-private competition.
 
-    (b) __Consideration in Preparation of Future-Years Defense Program.—__ 
+    (b)  __Consideration in Preparation of Future-Years Defense Program__  __.—__ 
 
     In preparing the future-years defense program under [section 221 of this title][/us/usc/t10/s221], the Secretary of Defense shall, for the fiscal years covered by the program, estimate and take into account the costs to be incurred and the savings to be derived from the performance of functions by workforces selected in public-private competitions conducted under [section 2461 of this title][/us/usc/t10/s2461]. The Secretary shall consider the results of the monitoring under this section in making the estimates.
 

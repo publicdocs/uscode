@@ -15,7 +15,7 @@
 
 ## § 1601. Civilian intelligence personnel: general authority to establish excepted positions, appoint personnel, and fix rates of pay
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     The Secretary of Defense may—
 
@@ -31,7 +31,7 @@
 
         (3) fix the compensation of such individuals for service in those positions.
 
-    (b) __Construction With Other Laws.—__ 
+    (b)  __Construction With Other Laws__  __.—__ 
 
     The authority of the Secretary of Defense under subsection (a) applies without regard to the provisions of any other law relating to the appointment, number, classification, or compensation of employees.
 
@@ -67,7 +67,7 @@
 
 [Pub. L. 111–84, div. A, title XI, § 1114][/us/pl/111/84/s1114], Oct. 28, 2009, [123 Stat. 2504][/us/stat/123/2504], provided that:
 
->     “(a) __Suspension of Certain Pay Authority.—__ 
+>     “(a)  __Suspension of Certain Pay Authority__  __.—__ 
 
 >     Effective with respect to amounts paid during the period beginning on the date of the enactment of this Act \[Oct. 28, 2009\] and ending on December 31, 2010, rates of basic pay for employees and positions within any element of the intelligence community (as defined by the National Security Act of 1947 \[[50 U.S.C. 3001][/us/usc/t50/s3001] et seq.\])—
 
@@ -77,13 +77,13 @@
 
 >         The preceding sentence shall not apply with respect to the National Geospatial-Intelligence Agency.
 
->     “(b) __Response to GAO Report.—__ 
+>     “(b)  __Response to GAO Report__  __.—__ 
 
 >     Not later than 3 months after the date of the enactment of this Act, the Secretary of Defense shall submit to the congressional oversight committees a written description of any actions taken or proposed to be taken by such Secretary in response to the review and recommendations of the Government Accountability Office regarding the Defense Civilian Intelligence Personnel System.
 
 >     “(c) __Independent Organization.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 30 days after the date of the enactment of this Act, the Secretary of Defense, the Director of the Office of Personnel Management, and the Director of National Intelligence shall jointly designate an independent organization to review the operation of the Defense Civilian Intelligence Personnel System, including—
 
@@ -95,19 +95,19 @@
 
 >             “(D) the adequacy of the training, policy guidelines, and other preparations afforded in connection with transitioning to that system.
 
->         “(2) __Deadline.—__ 
+>         “(2)  __Deadline__  __.—__ 
 
 >         The independent organization shall, after appropriate consultation with employees and employee organizations, submit its findings and recommendations under this section to the Secretary of Defense and the congressional oversight committees, in a written report, not later than June 1, 2010.
 
->     “(d) __Proposed Actions Based on Report.—__ 
+>     “(d)  __Proposed Actions Based on Report__  __.—__ 
 
 >     Not later than 60 days after receiving the report of the independent organization under subsection (c), the Secretary of Defense, in coordination with the Director of the Office of Personnel Management and the Director of National Intelligence, shall submit to the congressional oversight committees a written report describing any actions that the Secretary has taken or proposes to take in response to such report.
 
->     “(e) __Hold-harmless Provision.—__ 
+>     “(e)  __Hold-harmless Provision__  __.—__ 
 
 >     No employee shall suffer any loss of or decrease in pay as a result of being converted from DCIPS in compliance with subsection (a).
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of this section—
 

@@ -15,7 +15,7 @@
 
 ## § 4543. Army industrial facilities: sales of manufactured articles or services outside Department of Defense
 
-    (a) __Authority To Sell Outside DOD.—__ 
+    (a)  __Authority To Sell Outside DOD__  __.—__ 
 
     Regulations under [section 2208(h) of this title][/us/usc/t10/s2208/h] shall authorize a working-capital funded Army industrial facility (including a Department of the Army arsenal) that manufactures large caliber cannons, gun mounts, recoil mechanisms, ammunition, munitions, or components thereof to sell manufactured articles or services to a person outside the Department of Defense if—
 
@@ -47,7 +47,7 @@
 
         (9) the sale will not interfere with performance of the military mission of the industrial facility.
 
-    (b) __Additional Requirements.—__ 
+    (b)  __Additional Requirements__  __.—__ 
 
     The regulations shall also—
 
@@ -65,11 +65,11 @@
 
             (C) to develop and maintain (from sources other than appropriated funds) working capital to be available for paying design costs, planning costs, procurement costs, and other costs associated with the commercial articles or commercial services sold.
 
-    (c) __Relationship to Arms Export Control Act.—__ 
+    (c)  __Relationship to Arms Export Control Act__  __.—__ 
 
     Nothing in this section shall be construed to affect the application of the export controls provided for in section 38 of the Arms Export Control Act ([22 U.S.C. 2778][/us/usc/t22/s2778]) to items which incorporate or are produced through the use of an article sold under this section.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -113,11 +113,11 @@
 
 [Pub. L. 105–85, div. A, title I, § 141][/us/pl/105/85/s141], Nov. 18, 1997, [111 Stat. 1652][/us/stat/111/1652], as amended by [Pub. L. 106–65, div. A, title I, § 115][/us/pl/106/65/s115], Oct. 5, 1999, [113 Stat. 533][/us/stat/113/533]; [Pub. L. 107–107, div. A, title I, § 112][/us/pl/107/107/s112], Dec. 28, 2001, [115 Stat. 1029][/us/stat/115/1029]; [Pub. L. 107–314, div. A, title I, § 111(a)][/us/pl/107/314/s111/a], (b), Dec. 2, 2002, [116 Stat. 2473][/us/stat/116/2473]; [Pub. L. 108–375, div. A, title VIII, § 844][/us/pl/108/375/s844], Oct. 28, 2004, [118 Stat. 2019][/us/stat/118/2019], provided that:
 
->     “(a) __Pilot Program Required.—__ 
+>     “(a)  __Pilot Program Required__  __.—__ 
 
 >     During fiscal years 1998 through 2009, the Secretary of the Army shall carry out a pilot program to test the efficacy and appropriateness of selling manufactured articles and services of Army industrial facilities under [section 4543 of title 10][/us/usc/t10/s4543], United States Code, without regard to the availability of the articles and services from United States commercial sources. In carrying out the pilot program, the Secretary may use articles manufactured at, and services provided by, not more than three Army industrial facilities, except that during fiscal year 2002 the Secretary may only use articles manufactured at, and services provided by, not more than one Army industrial facility.
 
->     “(b) __Temporary Waiver of Requirement for Determination of Unavailability From Domestic Source.—__ 
+>     “(b)  __Temporary Waiver of Requirement for Determination of Unavailability From Domestic Source__  __.—__ 
 
 >     Under the pilot program, the Secretary of the Army is not required under [section 4543(a)(5) of title 10][/us/usc/t10/s4543/a/5], United States Code, to determine whether an article or service is available from a commercial source located in the United States in the case of any of the following sales for which a solicitation of offers is issued during the period during which the pilot program is being conducted:
 
@@ -125,11 +125,11 @@
 
 >         “(2) A sale of services to be used in the manufacture of a weapon system being procured by the Department of Defense.
 
->     “(c) __Transfer of Certain Sums.—__ 
+>     “(c)  __Transfer of Certain Sums__  __.—__ 
 
 >     For each Army industrial facility participating in the pilot program that sells manufactured articles and services in a total amount in excess of $20,000,000 in any fiscal year, the amount equal to one-half of one percent of such total amount shall be transferred from the sums in the Army Working Capital Fund for unutilized plant capacity to appropriations available for the following fiscal year for the demilitarization of conventional ammunition by the Army.
 
->     “(d) __Review by Inspector General.—__ 
+>     “(d)  __Review by Inspector General__  __.—__ 
 
 >     The Inspector General of the Department of Defense shall review the experience under the pilot program under this section and, not later than July 1, 1999, submit to Congress a report on the results of the review. The report shall contain the following:
 

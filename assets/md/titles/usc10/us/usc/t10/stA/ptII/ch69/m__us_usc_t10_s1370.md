@@ -15,7 +15,7 @@
 
 ## § 1370. Commissioned officers: general rule; exceptions
 
-    (a) __Rule for Retirement in Highest Grade Held Satisfactorily.—__ 
+    (a)  __Rule for Retirement in Highest Grade Held Satisfactorily__  __.—__ 
 
         (1) Unless entitled to a higher retired grade under some other provision of law, a commissioned officer (other than a commissioned warrant officer) of the Army, Navy, Air Force, or Marine Corps who retires under any provision of law other than chapter 61 or chapter 1223 of this title shall, except as provided in paragraph (2), be retired in the highest grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
@@ -37,11 +37,11 @@
 
         (3) A reserve or temporary officer who is notified that he will be released from active duty without his consent and thereafter requests retirement under section 3911, 6323, or 8911 of this title and is retired pursuant to that request is considered for purposes of this section, to have been retired involuntarily. An officer retired pursuant to [section 1186(b)(1) of this title][/us/usc/t10/s1186/b/1] is considered for purposes of this section to have been retired voluntarily.
 
-    (b) __Retirement in Next Lower Grade.—__ 
+    (b)  __Retirement in Next Lower Grade__  __.—__ 
 
     An officer whose length of service in the highest grade he held while on active duty does not meet the service in grade requirements specified in subsection (a) shall be retired in the next lower grade in which he served on active duty satisfactorily, as determined by the Secretary of the military department concerned, for not less than six months.
 
-    (c) __Officers in O–9 and O–10 Grades.—__ 
+    (c)  __Officers in O–__  __9__  __and O–__  __10__  __Grades__  __.—__ 
 
         (1) An officer who is serving in or has served in the grade of general or admiral or lieutenant general or vice admiral may be retired in that grade under subsection (a) only after the Secretary of Defense certifies in writing to the President and Congress that the officer served on active duty satisfactorily in that grade.
 
@@ -61,7 +61,7 @@
 
             (C) A determination referred to in subparagraph (B) is a determination that there is potentially adverse information concerning an officer and that such information has not previously been submitted to the Senate in connection with the consideration by the Senate of a nomination of that officer for an appointment for which the advice and consent of the Senate is required.
 
-    (d) __Reserve Officers.—__ 
+    (d)  __Reserve Officers__  __.—__ 
 
         (1) Unless entitled to a higher grade, or to credit for satisfactory service in a higher grade, under some other provision of law, a person who is entitled to retired pay under chapter 1223 of this title shall, upon application under [section 12731 of this title][/us/usc/t10/s12731], be credited with satisfactory service in the highest grade in which that person served satisfactorily at any time in the armed forces, as determined by the Secretary concerned in accordance with this subsection.
 
@@ -99,7 +99,7 @@
 
         (6) The number of reserve commissioned officers of an armed force in the same grade for whom a reduction is made during any fiscal year in the period of service-in-grade otherwise required under paragraph (5) may not exceed the number equal to 2 percent of the strength authorized for that fiscal year for reserve commissioned officers of that armed force in an active status in that grade.
 
-    (e) __Advance Notice to Congressional Committees.—__ 
+    (e)  __Advance Notice to Congressional Committees__  __.—__ 
 
         (1) In the case of an officer to be retired in a grade that is a general or flag officer grade who is eligible to retire in that grade only by reason of an exercise of authority under paragraph (2) of subsection (a) to reduce the three-year service-in-grade requirement otherwise applicable under that paragraph, the Secretary of Defense, before the officer is retired in that grade, shall notify the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the exercise of authority under that paragraph with respect to that officer.
 

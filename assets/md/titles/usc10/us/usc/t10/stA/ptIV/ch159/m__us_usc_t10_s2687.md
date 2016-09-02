@@ -159,7 +159,7 @@
 
 [Pub. L. 112–239, div. B, title XXVII, § 2711(b)][/us/pl/112/239/s2711/b], Jan. 2, 2013, [126 Stat. 2143][/us/stat/126/2143], provided that:
 
->     “(1) __Closure.—__ 
+>     “(1)  __Closure__  __.—__ 
 
 >     Subject to paragraph (2), the Secretary of the Treasury shall close, pursuant to [section 1555 of title 31][/us/usc/t31/s1555], United States Code, the following accounts on the books of the Treasury:
 
@@ -169,11 +169,11 @@
 
 >         “(C) The Department of Defense Base Closure Account established by section 207 of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note), as in effect on the effective date of this section.
 
->     “(2) __Transfer of funds.—__ 
+>     “(2)  __Transfer of funds__  __.—__ 
 
 >     All amounts remaining in the three accounts specified in paragraph (1) as of the effective date of this section, shall be transferred, effective on that date, to the Department of Defense Base Closure Account established by section 2906 of the Defense Base Closure and Realignment Act of 1990, as added by subsection (a).
 
->     “(3) __Cross references.—__ 
+>     “(3)  __Cross references__  __.—__ 
 
 >     Except as provided in this subsection or the context requires otherwise, any reference in a law, regulation, document, paper, or other record of the United States to an account specified in paragraph (1) shall be deemed to be a reference to the Department of Defense Base Closure Account established by section 2906 of the Defense Base Closure and Realignment Act of 1990, as added by subsection (a).”
 
@@ -183,7 +183,7 @@
 
 [Pub. L. 112–81, div. B, title XXVII, § 2703][/us/pl/112/81/s2703], Dec. 31, 2011, [125 Stat. 1681][/us/stat/125/1681], provided that:
 
->     “(a) __Limited Authority to Extend Implementation Period.—__ 
+>     “(a)  __Limited Authority to Extend Implementation Period__  __.—__ 
 
 >     The Secretary of Defense shall—
 
@@ -197,7 +197,7 @@
 
 >             “(B) not later than one year after the completion of the chemical demilitarization mission in accordance with the Chemical Weapons Convention Treaty.
 
->     “(b) __Implementation.—__ 
+>     “(b)  __Implementation__  __.—__ 
 
 >     Notwithstanding any other provision of law, the Secretary of Defense shall carry out the authority provided under subsection (a), and any related property management and disposal activities, in accordance with the procedures and authorities under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).”
 
@@ -205,11 +205,11 @@
 
 [Pub. L. 112–81, div. B, title XXVIII, § 2841][/us/pl/112/81/s2841], Dec. 31, 2011, [125 Stat. 1696][/us/stat/125/1696], provided that:
 
->     “(a) __Management of Workforce Health Care.—__ 
+>     “(a)  __Management of Workforce Health Care__  __.—__ 
 
 >     Subject to subsection (b), the Secretary of the Navy may not award any additional Navy or Marine Corps construction project or associated task order on Guam associated with the Record of Decision for the Guam and CNMI Military Relocation dated September 2010 if the aggregate of the number of employees holding a visa described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)][/us/usc/t8/s1101/a/15/H/ii/b]; known as ‘H–2B workers’) to support such relocation exceeds 2,000 until the Secretary of the Navy certifies to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that a system of health care for the H–2B workers is available.
 
->     “(b) __System of Health Care.—__ 
+>     “(b)  __System of Health Care__  __.—__ 
 
 >     The health care system required to be certified in subsection (a) shall—
 
@@ -219,7 +219,7 @@
 
 >         “(3) access local healthcare assets to help meet the health care needs of the H–2B workers.
 
->     “(c) __Elements of Medical Plan.—__ 
+>     “(c)  __Elements of Medical Plan__  __.—__ 
 
 >     The comprehensive medical plan referred to in subsection (b)(1) shall—
 
@@ -241,37 +241,37 @@
 
 >         “(4) provide comprehensive on-site medical services, including emergency medical care for the H–2B workers, primary health care to include care for chronic diseases, preventive services and acute care delivery, and accessible prescription services maintaining oversight, authorization access, and delivery of prescription medications to the workforce.
 
->     “(d) __Savings Clause.—__ 
+>     “(d)  __Savings Clause__  __.—__ 
 
 >     Nothing in this section shall be construed as requiring the Secretary of the Navy to establish a United States Government-sponsored or funded health care system required to be certified in subsection (a) or to be responsible in any way for the administration of a health care system or plan or the provision of health care services for the H–2B workers identified in subsection (a).”
 
 [Pub. L. 111–84, div. B, title XXVIII, § 2832(a)][/us/pl/111/84/s2832/a]–(c), Oct. 28, 2009, [123 Stat. 2669][/us/stat/123/2669], 2670, provided that:
 
->     “(a) __Special Purpose Entity Defined.—__ 
+>     “(a)  __Special Purpose Entity Defined__  __.—__ 
 
 >     In this section, the term ‘special purpose entity’ means any private person, corporation, firm, partnership, company, State or local government, or authority or instrumentality of a State or local government that the Secretary of Defense determines is capable of producing military family housing or providing utilities to support the realignment of military installations and the relocation of military personnel on Guam.
 
 >     “(b) __Report on Intended Use Special Purpose Entities.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the intended use of special purpose entities to provide military family housing or utilities to support the realignment of military installations and the relocation of military personnel on Guam.
 
->         “(2) __Notice and wait.—__ 
+>         “(2)  __Notice and wait__  __.—__ 
 
 >         The Secretary of Defense may not authorize the use of special use entities as described in paragraph (1) until the end of the 30-day period (15-day period if the report is submitted electronically) beginning on the date on which the report required by such paragraph is submitted.
 
->     “(c) __Applicability of Unified Facilities Criteria.—__ 
+>     “(c)  __Applicability of Unified Facilities Criteria__  __.—__ 
 
->         “(1) __Applicability to section 2350k contributions.—__ 
+>         “(1)  __Applicability to section 2350k contributions__  __.—__ 
 
 >         \[Amended [section 2824(c)(4) of Pub. L. 110–417][/us/pl/110/417/s2824/c/4], set out as a note below\]
 
->         “(2) __Applicability to special purpose entity contributions.—__ 
+>         “(2)  __Applicability to special purpose entity contributions__  __.—__ 
 
 >         The unified facilities criteria promulgated by the Under Secretary of Defense for Acquisition, Technology, and Logistics and dated May 29, 2002, and any successor to such criteria shall be the minimum standard applicable to projects funded using contributions provided by a special purpose entity.
 
->         “(3) __Report.—__ 
+>         “(3)  __Report__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an evaluation of various options, including a preferred option, that the Secretary could utilize to comply with the unified facilities criteria referred to in paragraph (2) in the acquisition of military housing on Guam in connection with the realignment of military installations and the relocation of military personnel on Guam. In preparing the report, the Secretary shall consider the impact of—
 
@@ -281,7 +281,7 @@
 
 [Pub. L. 111–84, div. B, title XXVIII, § 2835][/us/pl/111/84/s2835], Oct. 28, 2009, [123 Stat. 2674][/us/stat/123/2674], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(24)][/us/pl/111/383/s1075/d/24], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
 
->     “(a) __Interagency Coordination Group.—__ 
+>     “(a)  __Interagency Coordination Group__  __.—__ 
 
 >     There is hereby established the Interagency Coordination Group of Inspectors General for Guam Realignment (in this section referred to as the ‘Interagency Coordination Group’)—
 
@@ -297,17 +297,17 @@
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Chairperson.—__ 
+>         “(1)  __Chairperson__  __.—__ 
 
 >         The Inspector General of the Department of Defense shall serve as chairperson of the Interagency Coordination Group.
 
->         “(2) __Additional members.—__ 
+>         “(2)  __Additional members__  __.—__ 
 
 >         Additional members of the Interagency Coordination Group shall include the Inspector General of the Department of Interior and the Inspector General of such other Federal agencies as the chairperson considers appropriate to carry out the duties of the Interagency Coordination Group.
 
 >     “(c) __Duties.—__ 
 
->         “(1) __Oversight of guam construction.—__ 
+>         “(1)  __Oversight of guam construction__  __.—__ 
 
 >         It shall be the duty of the Interagency Coordination Group to conduct, supervise, and coordinate audits and investigations of the treatment, handling, and expenditure of amounts appropriated or otherwise made available for military construction on Guam and of the programs, operations, and contracts carried out utilizing such funds, including—
 
@@ -323,27 +323,27 @@
 
 >             “(F) the monitoring and review of the implementation of the Defense Posture Review Initiative relating to the realignment of military installations and the relocation of military personnel on Guam.
 
->         “(2) __Other duties related to oversight.—__ 
+>         “(2)  __Other duties related to oversight__  __.—__ 
 
 >         The Interagency Coordination Group shall establish, maintain, and oversee such systems, procedures, and controls as the Interagency Coordination Group considers appropriate to discharge the duties under paragraph (1).
 
->         “(3) __Oversight plan.—__ 
+>         “(3)  __Oversight plan__  __.—__ 
 
 >         The chairperson of the Interagency Coordination Group shall prepare an annual oversight plan detailing planned audits and reviews related to the Guam realignment.
 
 >     “(d) __Assistance From Federal Agencies.—__ 
 
->         “(1) __Provision of assistance.—__ 
+>         “(1)  __Provision of assistance__  __.—__ 
 
 >         Upon request of the Interagency Coordination Group for information or assistance from any department, agency, or other entity of the Federal Government, the head of such entity shall, insofar as is practicable and not in contravention of any existing law, furnish such information or assistance to the Interagency Coordination Group.
 
->         “(2) __Reporting of refused assistance.—__ 
+>         “(2)  __Reporting of refused assistance__  __.—__ 
 
 >         Whenever information or assistance requested by the Interagency Coordination Group is, in the judgment of the chairperson of the Interagency Coordination Group, unreasonably refused or not provided, the chairperson shall report the circumstances to the Secretary of Defense and to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] without delay.
 
 >     “(e) __Reports.—__ 
 
->         “(1) __Annual reports.—__ 
+>         “(1)  __Annual reports__  __.—__ 
 
 >         Not later than February 1 of each year, the chairperson of the Interagency Coordination Group shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Secretary of Defense, and the Secretary of the Interior a report summarizing, for the preceding calendar year, the activities of the Interagency Coordination Group during such year and the activities under programs and operations funded with amounts appropriated or otherwise made available for military construction on Guam. Each report shall include, for the year covered by the report, a detailed statement of all obligations, expenditures, and revenues associated with such construction, including the following:
 
@@ -367,7 +367,7 @@
 
 >                 “(iv) the justification and approval documents on which was based the determination to use procedures other than procedures that provide for full and open competition.
 
->         “(2) __Covered contracts, grants, agreements, and funding mechanisms.—__ 
+>         “(2)  __Covered contracts, grants, agreements, and funding mechanisms__  __.—__ 
 
 >         A contract, grant, agreement, or other funding mechanism described in this paragraph is any major contract, grant, agreement, or other funding mechanism that—
 
@@ -375,11 +375,11 @@
 
 >             “(B) involves the use of amounts appropriated or otherwise made available for military construction on Guam.
 
->         “(3) __Form.—__ 
+>         “(3)  __Form__  __.—__ 
 
 >         Each report required under this subsection shall be submitted in unclassified form, but may include a classified annex if the Interagency Coordination Group considers it necessary.
 
->         “(4) __Rule of construction.—__ 
+>         “(4)  __Rule of construction__  __.—__ 
 
 >         Nothing in this subsection shall be construed to authorize the public disclosure of information that is—
 
@@ -389,43 +389,43 @@
 
 >             “(C) a part of an ongoing criminal investigation.
 
->         “(5) __Submission of comments.—__ 
+>         “(5)  __Submission of comments__  __.—__ 
 
 >         Not later than 30 days after receipt of a report under paragraph (1), the Secretary of Defense or the Secretary of the Interior may submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] any comments on the matters covered by the report as the Secretary concerned considers appropriate. Any comments on the matters covered by the report shall be submitted in unclassified form, but may include a classified annex if the Secretary concerned considers it necessary.
 
 >     “(f) __Public Availability; Waiver.—__ 
 
->         “(1) __Public availability.—__ 
+>         “(1)  __Public availability__  __.—__ 
 
 >         The Interagency Coordination Group shall publish on a publicly available Internet website each report prepared under subsection (e). Any comments on the report submitted under paragraph (5) of such subsection shall also be published on such website.
 
->         “(2) __Waiver authority.—__ 
+>         “(2)  __Waiver authority__  __.—__ 
 
 >         The President may waive the requirement under paragraph (1) with respect to availability to the public of any element in a report under subsection (e), or any comment with respect to a report, if the President determines that the waiver is justified for national security reasons.
 
->         “(3) __Notice of waiver.—__ 
+>         “(3)  __Notice of waiver__  __.—__ 
 
 >         The President shall publish a notice of each waiver made under this subsection in the Federal Register no later than the date on which a report required under subsection (e), or any comment under paragraph (5) of such subsection, is submitted to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]. The report and comments shall specify whether waivers under this subsection were made and with respect to which elements in the report or which comments, as appropriate.
 
->     “(g) __Definitions.—__ 
+>     “(g)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __Amounts appropriated or otherwise made available.—__ 
+>         “(1)  __Amounts appropriated or otherwise made available__  __.—__ 
 
 >         The term ‘amounts appropriated or otherwise made available for military construction on Guam’ includes amounts derived from the Support for United States Relocation to Guam Account.
 
->         “(2) __Guam.—__ 
+>         “(2)  __Guam__  __.—__ 
 
 >         The term ‘Guam’ includes any island in the Northern Mariana Islands.
 
 >     “(h) __Termination.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Interagency Coordination Group shall terminate upon the expenditure of 90 percent of all funds appropriated or otherwise made available for Guam realignment.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Before the termination of the Interagency Coordination Group pursuant to paragraph (1), the chairperson of the Interagency Coordination Group shall prepare and submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a final report containing—
 
@@ -435,23 +435,23 @@
 
 [Pub. L. 110–417, div. B, title XXVIII, § 2824][/us/pl/110/417/s2824], Oct. 14, 2008, [122 Stat. 4730][/us/stat/122/4730], as amended by [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84], §§ 2832(c)(1), 2833, 2834(a), Oct. 28, 2009, [123 Stat. 2670–2672][/us/stat/123/2670-2672], provided that:
 
->     “(a) __Establishment of Account.—__ 
+>     “(a)  __Establishment of Account__  __.—__ 
 
 >     There is established on the books of the Treasury an account to be known as the ‘Support for United States Relocation to Guam Account’ (in this section referred to as the ‘Account’).
 
 >     “(b) __Credits to Account.—__ 
 
->         “(1) __Amounts in fund.—__ 
+>         “(1)  __Amounts in fund__  __.—__ 
 
 >         There shall be credited to the Account all contributions received during fiscal year 2009 and subsequent fiscal years under [section 2350k of title 10][/us/usc/t10/s2350k], United States Code, for the realignment of military installations and the relocation of military personnel on Guam.
 
->         “(2) __Notice of receipt of contributions.—__ 
+>         “(2)  __Notice of receipt of contributions__  __.—__ 
 
 >         The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] written notice of the receipt of contributions referred to in paragraph (1), including the amount of the contributions, not later than 30 days after receiving the contributions.
 
 >     “(c) __Use of Account.—__ 
 
->         “(1) __Authorized uses.—__ 
+>         “(1)  __Authorized uses__  __.—__ 
 
 >         Subject to paragraph (2), amounts in the Account may be used as follows:
 
@@ -463,57 +463,57 @@
 
 >             “(D) To develop military facilities or training ranges in the Commonwealth of the Northern Mariana Islands.
 
->         “(2) __Compliance with guam master plan.—__ 
+>         “(2)  __Compliance with guam master plan__  __.—__ 
 
 >         Transactions authorized by paragraph (1) shall be consistent with the Guam Master Plan, as incorporated in decisions made in the manner provided in section 102 of the National Environmental Policy Act of 1969 ([42 U.S.C. 4332][/us/usc/t42/s4332]).
 
->         “(3) __Limitation regarding military housing.—__ 
+>         “(3)  __Limitation regarding military housing__  __.—__ 
 
 >         To extent that the authorities provided under subchapter IV of chapter 169 of title 10, United States Code, are available to the Secretary of Defense, the Secretary shall use such authorities to acquire, construct, or improve family housing units or ancillary supporting facilities in connection with the relocation of military personnel on Guam.
 
 >         “(4) __Special requirements regarding use of contributions.—__ 
 
->             “(A) __Treatment of contributions.—__ 
+>             “(A)  __Treatment of contributions__  __.—__ 
 
 >             Except as provided in subparagraph (C), the use of contributions referred to in subsection (b)(1) shall not be subject to conditions imposed on the use of appropriated funds by chapter 169 of title 10, United States Code, or contained in annual military construction appropriations Acts.
 
->             “(B) __Notice of obligation.—__ 
+>             “(B)  __Notice of obligation__  __.—__ 
 
 >             Contributions referred to in subsection (b)(1) may not be obligated for a transaction authorized by paragraph (1) until the Secretary of Defense submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] notice of the transaction, including a detailed cost estimate, and a period of 21 days has elapsed after the date on which the notification is received by the committees or, if earlier, a period of 14 days has elapsed after the date on which a copy of the notification is provided in an electronic medium.
 
->             “(C) __Cost and scope of work variations.—__ 
+>             “(C)  __Cost and scope of work variations__  __.—__ 
 
 >             [Section 2853 of title 10][/us/usc/t10/s2853], United States Code, shall apply to the use of contributions referred to in subsection (b)(1).
 
->             “(D) __Applicability of unified facilities criteria.—__ 
+>             “(D)  __Applicability of unified facilities criteria__  __.—__ 
 
 >             The unified facilities criteria promulgated by the Under Secretary of Defense for Acquisition, Technology, and Logistics and dated May 29, 2002, and any successor to such criteria shall be the minimum standard applicable to projects funded using contributions referred to in subsection (b)(1) for a transaction authorized by paragraph (1).
 
 >         “(5) __Application of prevailing wage requirements.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The requirements of subchapter IV of chapter 31 of title 40, United States Code, shall apply to any military construction project or other transaction authorized by paragraph (1) that is carried out on Guam using contributions referred to in subsection (b)(1) or appropriated funds.
 
->             “(B) __Secretary of labor authorities.—__ 
+>             “(B)  __Secretary of labor authorities__  __.—__ 
 
 >             In order to carry out the requirements of subparagraph (A) and paragraph (6) (relating to composition of workforce for construction projects), the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Number 14 of 1950 \[set out in Appendix to Title 5, Government Organization and Employees\] and [section 3145 of title 40][/us/usc/t40/s3145], United States Code.
 
->             “(C) __Wage rate determination.—__ 
+>             “(C)  __Wage rate determination__  __.—__ 
 
 >             In making wage rate determinations pursuant to subparagraph (A), the Secretary of Labor shall not include in the wage survey any persons who hold a visa described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)][/us/usc/t8/s1101/a/15/H/ii/b]).
 
->             “(D) __Addition to weekly statement on the wages paid.—__ 
+>             “(D)  __Addition to weekly statement on the wages paid__  __.—__ 
 
 >             In the case of projects and other transactions covered by subparagraph (A), the weekly statement required by [section 3145 of title 40][/us/usc/t40/s3145], United States Code, shall also identify each employee working on the project or transaction who holds a visa described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)][/us/usc/t8/s1101/a/15/H/ii/b]).
 
->             “(E) __Duration of requirements.—__ 
+>             “(E)  __Duration of requirements__  __.—__ 
 
 >             The Secretary of Labor shall make and issue a wage rate determination for Guam annually until 90 percent of the funds in the Account and other funds made available for the realignment of military installations and the relocation of military personnel on Guam have been expended.
 
 >         “(6) __Composition of workforce for construction projects.—__ 
 
->             “(A) __Limitation.—__ 
+>             “(A)  __Limitation__  __.—__ 
 
 >             With respect to each construction project that is carried out using amounts described in subparagraph (B), no work may be performed by a person holding a visa described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)][/us/usc/t8/s1101/a/15/H/ii/b]) unless—
 
@@ -521,7 +521,7 @@
 
 >                 “(ii) the Governor of Guam, in consultation with the Secretary of Labor, makes the certification described in subparagraph (C) to the Secretary of Defense.
 
->             “(B) __Source of funds.—__ 
+>             “(B)  __Source of funds__  __.—__ 
 
 >             Subparagraph (A) applies to—
 
@@ -531,7 +531,7 @@
 
 >                 “(iii) funds for authorized military construction projects.
 
->             “(C) __Certification.—__ 
+>             “(C)  __Certification__  __.—__ 
 
 >             The certification referred to in subparagraph (A) is a certification, in addition to the certifications required by section 214.2 of title 8, Code of Federal Regulations, that—
 
@@ -539,39 +539,39 @@
 
 >                 “(ii) the employment of such persons holding visas described in section 101(a)(15)(H)(ii)(b) of the Immigration and Nationality Act ([8 U.S.C. 1101(a)(15)(H)(ii)(b)][/us/usc/t8/s1101/a/15/H/ii/b]) will not adversely affect the wages and working conditions of workers in Guam similarly employed.
 
->             “(D) __Solicitation of workers.—__ 
+>             “(D)  __Solicitation of workers__  __.—__ 
 
 >             In order to ensure compliance with subparagraph (A), as a condition of a contract covered by such subparagraph, the contractor shall be required to advertise and solicit for construction workers in the United States, including Guam, the Commonwealth of the Northern Mariana Islands, American Samoa, the Virgin Islands, and the Commonwealth of Puerto Rico, in accordance with a recruitment plan approved by the Secretary of Labor. The contractor shall submit a copy of the employment offer, including a description of wages and other terms and conditions of employment, to the Secretary of Labor at least 60 days before the start date of the workers under a contract. The contractor shall authorize the Secretary of Labor to post a notice of the employment offer on a website, with State, territorial, and local job banks, with State and territorial workforce agencies, and with any other referral and recruitment sources the Secretary of Labor determines may be pertinent to the employment opportunity.
 
->             “(E) __Recruitment period.—__ 
+>             “(E)  __Recruitment period__  __.—__ 
 
 >             The Secretary of Labor shall ensure that a contractor’s recruitment of construction workers complies with the recruitment plan required by subparagraph (D) for a period beginning 60 days before the start date of workers under a contract and continuing for the next 28 days. During the recruitment period, the contractor shall interview all qualified and available United States construction workers who have applied for the employment opportunity, and, at the close of the recruitment period, the contractor shall provide the Secretary of Labor with a recruitment report providing any reasons for which the contractor did not hire an applicant who is a qualified United States construction worker. Not later than 21 days before the start date of the workers under a contract, the Secretary of Labor shall certify to the Governor of Guam whether the contractor has satisfied the recruitment plan created under subparagraph (D).
 
->             “(F) __Limitation.—__ 
+>             “(F)  __Limitation__  __.—__ 
 
 >             An employer, its attorney or agent, the Secretary of Labor, the Governor of Guam, and any designee thereof, may not seek or receive payment of any kind from any worker for any activity related to obtaining an H-2B labor certification with respect to any construction project that is carried out using amounts described in subparagraph (B).
 
 >     “(d) __Transfer Authority.—__ 
 
->         “(1) __Transfer to housing funds.—__ 
+>         “(1)  __Transfer to housing funds__  __.—__ 
 
 >         The Secretary of Defense may transfer funds from the Account to the Department of Defense Family Housing Improvement Fund established by [section 2883(a)(1) of title 10][/us/usc/t10/s2883/a/1], United States Code.
 
->         “(2) __Treatment of transferred amounts.—__ 
+>         “(2)  __Treatment of transferred amounts__  __.—__ 
 
 >         Amounts transferred under paragraph (1) to a fund referred to in that paragraph shall be available in accordance with the provisions of [section 2883 of title 10][/us/usc/t10/s2883], United States Code for activities on Guam authorized under subchapter IV of chapter 169 of such title.
 
->     “(e) __Report Regarding Guam Military Construction.—__ 
+>     “(e)  __Report Regarding Guam Military Construction__  __.—__ 
 
->         (1) __Military construction information.—__ 
+>         (1)  __Military construction information__  __.—__ 
 
 >         Not later than February 15 of each year, the Secretary of Defense shall submit to Congress a report containing information on each military construction project included in the budget submission for the next fiscal year related to the realignment of military installations and the relocation of military personnel on Guam. The Secretary shall present the information in manner consistent with the presentation of projects in the military construction accounts for each of the military departments in the budget submission. The report shall also include projects associated with the realignment of military installations and relocation of military personnel on Guam that are included in the future-years defense program pursuant to [section 221 of title 10][/us/usc/t10/s221], United States Code.
 
->         “(2) __Construction workforce information.—__ 
+>         “(2)  __Construction workforce information__  __.—__ 
 
 >         The annual report shall also include an assessment of the living standards of the construction workforce employed to carry out military construction projects covered by the report, including, at a minimum, the adequacy of contract standards and infrastructure that support temporary housing the construction workforce and their medical needs.
 
->     “(f) __Sense of Congress.—__ 
+>     “(f)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the use of the Account to facilitate construction projects associated with the realignment of military installations and the relocation of military personnel on Guam, as authorized by subsection (c)(1), provides a great opportunity for business enterprises of the United States and its territories to contribute to the United States strategic presence in the western Pacific by competing for contracts awarded for such construction. Congress urges the Secretary of Defense to ensure maximum participation by business enterprises of the United States and its territories in such construction.”
 
@@ -585,11 +585,11 @@
 
 [Pub. L. 108–136, div. B, title XXVIII, § 2822][/us/pl/108/136/s2822], Nov. 24, 2003, [117 Stat. 1726][/us/stat/117/1726], provided that:
 
->     “(a) __Determination of Surge Requirements.—__ 
+>     “(a)  __Determination of Surge Requirements__  __.—__ 
 
 >     The Secretary of Defense shall assess the probable threats to national security and, as part of such assessment, determine the potential, prudent, surge requirements to meet those threats.
 
->     “(b) __Use of Determination.—__ 
+>     “(b)  __Use of Determination__  __.—__ 
 
 >     The Secretary shall use the surge requirements determination made under subsection (a) in the base realignment and closure process under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note), as amended by title XXX of the National Defense Authorization Act for Fiscal Year 2002 ([Public Law 107–107][/us/pl/107/107]; [115 Stat. 1342][/us/stat/115/1342]).”
 
@@ -601,11 +601,11 @@
 
 [Pub. L. 104–201, div. A, title XVI, § 1602][/us/pl/104/201/s1602], Sept. 23, 1996, [110 Stat. 2734][/us/stat/110/2734], provided that:
 
->     “(a) __Retention of Employee Positions.—__ 
+>     “(a)  __Retention of Employee Positions__  __.—__ 
 
 >     In the case of a military training installation described in subsection (b), the Secretary of Defense shall retain civilian employee positions of the Department of Defense at the installation after transfer to the National Guard to facilitate active and reserve component training at the installation. The Secretary shall determine the extent to which positions at the installation are to be retained as positions of the Department of Defense in consultation with the Adjutant General of the National Guard of the State in which the installation is located.
 
->     “(b) __Military Training Installations Affected.—__ 
+>     “(b)  __Military Training Installations Affected__  __.—__ 
 
 >     This section applies with respect to each military training installation that—
 
@@ -615,11 +615,11 @@
 
 >         “(3) will continue to be used, after such transfer, to provide training support to active and reserve components of the Armed Forces.
 
->     “(c) __Maximum Positions Retained.—__ 
+>     “(c)  __Maximum Positions Retained__  __.—__ 
 
 >     The number of civilian employee positions retained at an installation under this section may not exceed 20 percent of the Federal civilian workforce employed at the installation as of September 8, 1995.
 
->     “(d) __Removal of Position.—__ 
+>     “(d)  __Removal of Position__  __.—__ 
 
 >     The requirement to maintain a civilian employee position at an installation under this section terminates upon the later of the following:
 
@@ -713,11 +713,11 @@
 
 [Pub. L. 103–337, div. A, title VIII, § 817][/us/pl/103/337/s817], Oct. 5, 1994, [108 Stat. 2820][/us/stat/108/2820], provided that:
 
->     “(a) __Preference Allowed.—__ 
+>     “(a)  __Preference Allowed__  __.—__ 
 
 >     In entering into contracts with private entities for services to be performed at a military installation that is affected by closure or alignment under a base closure law, the Secretary of Defense may give preference, consistent with Federal, State, and local laws and regulations, to entities that plan to hire, to the maximum extent practicable, residents of the vicinity of such military installation to perform such contracts. Contracts for which the preference may be given include contracts to carry out environmental restoration activities or construction work at such military installations. Any such preference may be given for a contract only if the services to be performed under the contract at the military installation concerned can be carried out in a manner that is consistent with all other actions at the installation that the Secretary is legally required to undertake.
 
->     “(b) __Definition.—__ 
+>     “(b)  __Definition__  __.—__ 
 
 >     In this section, the term ‘base closure law’ means the following:
 
@@ -725,11 +725,11 @@
 
 >         “(2) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
->     “(c) __Applicability.—__ 
+>     “(c)  __Applicability__  __.—__ 
 
 >     Any preference given under subsection (a) shall apply only with respect to contracts entered into after the date of the enactment of this Act \[Oct. 5, 1994\].
 
->     “(d) __Termination.—__ 
+>     “(d)  __Termination__  __.—__ 
 
 >     This section shall cease to be effective on September 30, 1997.”
 
@@ -737,11 +737,11 @@
 
 [Pub. L. 103–337, div. B, title XXVIII, § 2814][/us/pl/103/337/s2814], Oct. 5, 1994, [108 Stat. 3056][/us/stat/108/3056], as amended by [Pub. L. 107–314, div. A, title X, § 1062][/us/pl/107/314/s1062](l), Dec. 2, 2002, [116 Stat. 2652][/us/stat/116/2652]; [Pub. L. 109–163, div. A, title X, § 1056(a)(3)][/us/pl/109/163/s1056/a/3], Jan. 6, 2006, [119 Stat. 3439][/us/stat/119/3439], provided that:
 
->     “(a) __Authorization To Rent Base Closure Properties.—__ 
+>     “(a)  __Authorization To Rent Base Closure Properties__  __.—__ 
 
 >     To promote the rapid conversion of military installations that are closed pursuant to a base closure law, the Administrator of the General Services may give priority consideration, when leasing space in accordance with chapter 5 or 33 of title 40, United States Code, to facilities of such an installation that have been acquired by a non-Federal entity.
 
->     “(b) __Base Closure Law Defined.—__ 
+>     “(b)  __Base Closure Law Defined__  __.—__ 
 
 >     In this section, the term ‘base closure law’ has the meaning given such term in [section 101(a)(17) of title 10][/us/usc/t10/s101/a/17], United States Code.”
 
@@ -773,11 +773,11 @@
 
 [Pub. L. 103–160, div. B, title XXIX, § 2903(c)][/us/pl/103/160/s2903/c], (d), Nov. 30, 1993, [107 Stat. 1915][/us/stat/107/1915], provided that:
 
->     “(c) __Consideration of Economic Needs.—__ 
+>     “(c)  __Consideration of Economic Needs__  __.—__ 
 
 >     In order to maximize the local and regional benefit from the reutilization and redevelopment of military installations that are closed, or approved for closure, pursuant to the operation of a base closure law, the Secretary of Defense shall consider locally and regionally delineated economic development needs and priorities into the process by which the Secretary disposes of real property and personal property as part of the closure of a military installation under a base closure law. In determining such needs and priorities, the Secretary shall take into account the redevelopment plan developed for the military installation involved. The Secretary shall ensure that the needs of the homeless in the communities affected by the closure of such installations are taken into consideration in the redevelopment plan with respect to such installations.
 
->     “(d) __Cooperation.—__ 
+>     “(d)  __Cooperation__  __.—__ 
 
 >     The Secretary of Defense shall cooperate with the State in which a military installation referred to in subsection (c) is located, with the redevelopment authority with respect to the installation, and with local governments and other interested persons in communities located near the installation in implementing the entire process of disposal of the real property and personal property at the installation.”
 
@@ -797,11 +797,11 @@
 
 [Pub. L. 103–160, div. B, title XXIX, § 2912][/us/pl/103/160/s2912], Nov. 30, 1993, [107 Stat. 1925][/us/stat/107/1925], as amended by [Pub. L. 103–337, div. A, title X, § 1070(b)(14)][/us/pl/103/337/s1070/b/14], Oct. 5, 1994, [108 Stat. 2857][/us/stat/108/2857], provided that:
 
->     “(a) __Preference Required.—__ 
+>     “(a)  __Preference Required__  __.—__ 
 
 >     In entering into contracts with private entities as part of the closure or realignment of a military installation under a base closure law, the Secretary of Defense shall give preference, to the greatest extent practicable, to qualified businesses located in the vicinity of the installation and to small business concerns and small disadvantaged business concerns. Contracts for which this preference shall be given shall include contracts to carry out activities for the environmental restoration and mitigation at military installations to be closed or realigned.
 
->     “(b) __Definitions.—__ 
+>     “(b)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -815,11 +815,11 @@
 
 [Pub. L. 103–160, div. B, title XXIX, § 2915][/us/pl/103/160/s2915], Nov. 30, 1993, [107 Stat. 1926][/us/stat/107/1926], as amended by [Pub. L. 107–107, div. A, title X, § 1048(d)(4)][/us/pl/107/107/s1048/d/4], Dec. 28, 2001, [115 Stat. 1227][/us/stat/115/1227], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense shall designate a transition coordinator for each military installation to be closed under a base closure law. The transition coordinator shall carry out the activities for such coordinator set forth in subsection (c).
 
->     “(b) __Timing of Designation.—__ 
+>     “(b)  __Timing of Designation__  __.—__ 
 
 >     A transition coordinator shall be designated for an installation under subsection (a) as follows:
 
@@ -827,7 +827,7 @@
 
 >         “(2) In the case of installations approved for closure under a base closure law before the date of the enactment of this Act \[Nov. 30, 1993\], not later than 15 days after such date of enactment.
 
->     “(c) __Responsibilities.—__ 
+>     “(c)  __Responsibilities__  __.—__ 
 
 >     A transition coordinator designated with respect to an installation shall—
 
@@ -881,11 +881,11 @@
 
 [Pub. L. 103–160, div. B, title XXIX, § 2922][/us/pl/103/160/s2922], Nov. 30, 1993, [107 Stat. 1930][/us/stat/107/1930], as amended by [Pub. L. 104–106, div. A, title XV, § 1502(c)(1)][/us/pl/104/106/s1502/c/1], Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506]; [Pub. L. 106–65, div. A, title X, § 1067(7)][/us/pl/106/65/s1067/7], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], provided that:
 
->     “(a) __Limitation.—__ 
+>     “(a)  __Limitation__  __.—__ 
 
 >     If the Secretary of Defense recommends to the Defense Base Closure and Realignment Commission pursuant to section 2903(c) of the 1990 base closure Act \[set out below\] that an installation be closed or realigned, the Secretary identifies in documents submitted to the Commission one or more installations to which a function performed at the recommended installation would be transferred, and the recommended installation is closed or realigned pursuant to such Act, then, except as provided in subsection (b), funds in the Defense Base Closure Account 1990 may not be used for military construction in support of the transfer of that function to any installation other than an installation so identified in such documents.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The limitation in subsection (a) ceases to be applicable to military construction in support of the transfer of a function to an installation on the 60th day following the date on which the Secretary submits to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a notification of the proposed transfer that—
 
@@ -893,7 +893,7 @@
 
 >         “(2) includes the justification for the transfer to such installation.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -905,11 +905,11 @@
 
 [Pub. L. 103–160, div. B, title XXIX, § 2925][/us/pl/103/160/s2925], Nov. 30, 1993, [107 Stat. 1932][/us/stat/107/1932], as amended by [Pub. L. 104–106, div. A, title XV, § 1502(c)(1)][/us/pl/104/106/s1502/c/1], Feb. 10, 1996, [110 Stat. 506][/us/stat/110/506], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of Defense consider, in developing in accordance with section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990 ([Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note) amended criteria, whether such criteria should include the direct costs of such closures and realignments to other Federal departments and agencies.
 
->     “(b) __Report on Amendment.—__ 
+>     “(b)  __Report on Amendment__  __.—__ 
 
 >         (1) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on any amended criteria developed by the Secretary under section 2903(b)(2)(B) of the Defense Base Closure and Realignment Act of 1990 after the date of the enactment of this Act \[Nov. 30, 1993\]. Such report shall include a discussion of the amended criteria and include a justification for any decision not to propose a criterion regarding the direct costs of base closures and realignments to other Federal agencies and departments.
 
@@ -923,7 +923,7 @@
 
 [Pub. L. 102–484, div. A, title III, § 330][/us/pl/102/484/s330], Oct. 23, 1992, [106 Stat. 2371][/us/stat/106/2371], as amended by [Pub. L. 103–160, div. A, title X, § 1002][/us/pl/103/160/s1002], Nov. 30, 1993, [107 Stat. 1745][/us/stat/107/1745], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) Except as provided in paragraph (3) and subject to subsection (b), the Secretary of Defense shall hold harmless, defend, and indemnify in full the persons and entities described in paragraph (2) from and against any suit, claim, demand or action, liability, judgment, cost or other fee arising out of any claim for personal injury or property damage (including death, illness, or loss of or damage to property or economic loss) that results from, or is in any manner predicated upon, the release or threatened release of any hazardous substance, pollutant or contaminant, or petroleum or petroleum derivative as a result of Department of Defense activities at any military installation (or portion thereof) that is closed pursuant to a base closure law.
 
@@ -941,7 +941,7 @@
 
 >         “(3) To the extent the persons and entities described in paragraph (2) contributed to any such release or threatened release, paragraph (1) shall not apply.
 
->     “(b) __Conditions.—__ 
+>     “(b)  __Conditions__  __.—__ 
 
 >     No indemnification may be afforded under this section unless the person or entity making a claim for indemnification—
 
@@ -953,21 +953,21 @@
 
 >         “(4) provides, upon request by the Department of Defense, access to the records and personnel of the entity for purposes of defending or settling the claim or action.
 
->     “(c) __Authority of Secretary of Defense.—__ 
+>     “(c)  __Authority of Secretary of Defense__  __.—__ 
 
 >         (1) In any case in which the Secretary of Defense determines that the Department of Defense may be required to make indemnification payments to a person under this section for any suit, claim, demand or action, liability, judgment, cost or other fee arising out of any claim for personal injury or property damage referred to in subsection (a)(1), the Secretary may settle or defend, on behalf of that person, the claim for personal injury or property damage.
 
 >         “(2) In any case described in paragraph (1), if the person to whom the Department of Defense may be required to make indemnification payments does not allow the Secretary to settle or defend the claim, the person may not be afforded indemnification with respect to that claim under this section.
 
->     “(d) __Accrual of Action.—__ 
+>     “(d)  __Accrual of Action__  __.—__ 
 
 >     For purposes of subsection (b)(1), the date on which a claim accrues is the date on which the plaintiff knew (or reasonably should have known) that the personal injury or property damage referred to in subsection (a) was caused or contributed to by the release or threatened release of a hazardous substance, pollutant or contaminant, or petroleum or petroleum derivative as a result of Department of Defense activities at any military installation (or portion thereof) described in subsection (a)(1).
 
->     “(e) __Relationship to Other Law.—__ 
+>     “(e)  __Relationship to Other Law__  __.—__ 
 
 >     Nothing in this section shall be construed as affecting or modifying in any way section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9620(h)][/us/usc/t42/s9620/h]).
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -1005,15 +1005,15 @@
 
 [Pub. L. 102–190, div. B, title XXVIII, § 2822][/us/pl/102/190/s2822], Dec. 5, 1991, [105 Stat. 1546][/us/stat/105/1546], as amended by [Pub. L. 102–484, div. B, title XXVIII, § 2825][/us/pl/102/484/s2825], Oct. 23, 1992, [106 Stat. 2609][/us/stat/106/2609], provided that:
 
->     “(a) __Military Construction Funding Requests.—__ 
+>     “(a)  __Military Construction Funding Requests__  __.—__ 
 
 >     In the case of each military installation considered for closure or realignment or for comparative purposes by the Defense Base Closure and Realignment Commission, the Secretary of Defense shall ensure, subject to subsection (b), that the amount of the authorization requested by the Department of Defense for military construction relating to the closure or realignment of the installation in each of the fiscal years 1992 through 1999 for the following fiscal year does not exceed the estimate of the cost of such construction (adjusted as appropriate for inflation) that was provided to the Commission by the Department of Defense.
 
->     “(b) __Explanation for Inconsistencies.—__ 
+>     “(b)  __Explanation for Inconsistencies__  __.—__ 
 
 >     The Secretary may submit to Congress for a fiscal year a request for the authorization of military construction referred to in subsection (a) in an amount greater than the estimate of the cost of the construction (adjusted as appropriate for inflation) that was provided to the Commission if the Secretary determines that the greater amount is necessary and submits with the request a complete explanation of the reasons for the difference between the requested amount and the estimate.
 
->     “(c) __Investigation.—__ 
+>     “(c)  __Investigation__  __.—__ 
 
 >         (1) The Inspector General of the Department of Defense shall investigate the military construction for which the Secretary is required to submit an explanation to Congress under subsection (b) if the Inspector General determines (under standards prescribed by the Inspector General) that the difference between the requested amount and the estimate for such construction is significant.
 
@@ -1023,7 +1023,7 @@
 
 [Pub. L. 102–190, div. B, title XXVIII, § 2825][/us/pl/102/190/s2825], Dec. 5, 1991, [105 Stat. 1549][/us/stat/105/1549], as amended by [Pub. L. 103–160, div. B, title XXIX, § 2928(a)][/us/pl/103/160/s2928/a], (b)(1), (c), Nov. 30, 1993, [107 Stat. 1934][/us/stat/107/1934], 1935, provided that:
 
->     “(a) __Authority to Convey Facilities.—__ 
+>     “(a)  __Authority to Convey Facilities__  __.—__ 
 
 >         (1)
 
@@ -1035,15 +1035,15 @@
 
 >         “(2) In the case of the conveyance under paragraph (1) of a facility that was not constructed by the depository institution but was substantially renovated by the depository institution, the Secretary shall require the depository institution to pay an amount determined by the Secretary to be equal to the value of the facility in the absence of the renovations.
 
->     “(b) __Authority to Convey Land.—__ 
+>     “(b)  __Authority to Convey Land__  __.—__ 
 
 >     As part of the conveyance of a facility to a depository institution under subsection (a), the Secretary of the military department concerned shall permit the depository institution to purchase the land upon which that facility is located. The Secretary shall offer the land to the depository institution before offering such land for sale or other disposition to any other entity. The purchase price shall be not less than the fair market value of the land, as determined by the Secretary.
 
->     “(c) __Limitation.—__ 
+>     “(c)  __Limitation__  __.—__ 
 
 >     The Secretary of a military department may not convey a facility to a depository institution under subsection (a) if the Secretary determines that the operation of a depository institution at such facility is inconsistent with the redevelopment plan with respect to the installation.
 
->     “(d) __Base Closure Law Defined.—__ 
+>     “(d)  __Base Closure Law Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘base closure law’ means the following:
 
@@ -1055,7 +1055,7 @@
 
 >         “(4) Any other similar law enacted after the date of the enactment of this Act \[Dec. 5, 1991\].
 
->     “(e) __Depository Institution Defined.—__ 
+>     “(e)  __Depository Institution Defined__  __.—__ 
 
 >     For purposes of this section, the term ‘depository institution’ has the meaning given that term in section 19(b)(1)(A) of the Federal Reserve Act ([12 U.S.C. 461(b)(1)(A)][/us/usc/t12/s461/b/1/A]).”
 
@@ -1087,25 +1087,25 @@
 
 > “SEC. 2901. __SHORT TITLE AND PURPOSE__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This part may be cited as the ‘Defense Base Closure and Realignment Act of 1990’.
 
->     “(b) __Purpose.—__ 
+>     “(b)  __Purpose__  __.—__ 
 
 >     The purpose of this part is to provide a fair process that will result in the timely closure and realignment of military installations inside the United States.
 
 > “SEC. 2902. __THE COMMISSION__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established an independent commission to be known as the ‘Defense Base Closure and Realignment Commission’.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The Commission shall carry out the duties specified for it in this part.
 
->     “(c) __Appointment.—__ 
+>     “(c)  __Appointment__  __.—__ 
 
 >         (1)
 
@@ -1137,13 +1137,13 @@
 
 >         “(3) At the time the President nominates individuals for appointment to the Commission for each session of Congress referred to in paragraph (1)(B), the President shall designate one such individual who shall serve as Chairman of the Commission.
 
->     “(d) __Terms.—__ 
+>     “(d)  __Terms__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), each member of the Commission shall serve until the adjournment of Congress sine die for the session during which the member was appointed to the Commission.
 
 >         “(2) The Chairman of the Commission shall serve until the confirmation of a successor.
 
->     “(e) __Meetings.—__ 
+>     “(e)  __Meetings__  __.—__ 
 
 >         (1) The Commission shall meet only during calendar years 1991, 1993, and 1995.
 
@@ -1161,11 +1161,11 @@
 
 >                 “(iii) The Chairmen and ranking minority party members of the Subcommittees on Military Construction of the Committees on Appropriations of the Senate and of the House of Representatives, or such other members of the Subcommittees designated by such Chairmen or ranking minority party members.
 
->     “(f) __Vacancies.—__ 
+>     “(f)  __Vacancies__  __.—__ 
 
 >     A vacancy in the Commission shall be filled in the same manner as the original appointment, but the individual appointed to fill the vacancy shall serve only for the unexpired portion of the term for which the individual’s predecessor was appointed.
 
->     “(g) __Pay and Travel Expenses.—__ 
+>     “(g)  __Pay and Travel Expenses__  __.—__ 
 
 >         (1)
 
@@ -1175,13 +1175,13 @@
 
 >         “(2) Members shall receive travel expenses, including per diem in lieu of subsistence, in accordance with sections 5702 and 5703 of title 5, United States Code.
 
->     “(h) __Director of Staff.—__ 
+>     “(h)  __Director of Staff__  __.—__ 
 
 >         (1) The Commission shall, without regard to [section 5311(b) of title 5][/us/usc/t5/s5311/b], United States Code, appoint a Director who has not served on active duty in the Armed Forces or as a civilian employee of the Department of Defense during the one-year period preceding the date of such appointment.
 
 >         “(2) The Director shall be paid at the rate of basic pay payable for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
 
->     “(i) __Staff.—__ 
+>     “(i)  __Staff__  __.—__ 
 
 >         (1) Subject to paragraphs (2) and (3), the Director, with the approval of the Commission, may appoint and fix the pay of additional personnel.
 
@@ -1223,13 +1223,13 @@
 
 >             “(C) No member of the Armed Forces and no employee of the Department of Defense may serve on the staff.
 
->     “(j) __Other Authority.—__ 
+>     “(j)  __Other Authority__  __.—__ 
 
 >         (1) The Commission may procure by contract, to the extent funds are available, the temporary or intermittent services of experts or consultants pursuant to [section 3109 of title 5][/us/usc/t5/s3109], United States Code.
 
 >         “(2) The Commission may lease space and acquire personal property to the extent funds are available.
 
->     “(k) __Funding.—__ 
+>     “(k)  __Funding__  __.—__ 
 
 >         (1) There are authorized to be appropriated to the Commission such funds as are necessary to carry out its duties under this part. Such funds shall remain available until expended.
 
@@ -1241,17 +1241,17 @@
 
 >             “(B) The account referred to in subparagraph (A) is the Department of Defense Base Closure Account established under section 207(a) of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
->     “(l) __Termination.—__ 
+>     “(l)  __Termination__  __.—__ 
 
 >     The Commission shall terminate on December 31, 1995.
 
->     “(m) __Prohibition Against Restricting Communications.—__ 
+>     “(m)  __Prohibition Against Restricting Communications__  __.—__ 
 
 >     [Section 1034 of title 10][/us/usc/t10/s1034], United States Code, shall apply with respect to communications with the Commission.
 
 > “SEC. 2903. __PROCEDURE FOR MAKING RECOMMENDATIONS FOR BASE CLOSURES AND REALIGNMENTS__ 
 
->     “(a) __Force-Structure Plan.—__ 
+>     “(a)  __Force-Structure Plan__  __.—__ 
 
 >         (1) As part of the budget justification documents submitted to Congress in support of the budget for the Department of Defense for each of the fiscal years 1992, 1994, and 1996, the Secretary shall include a force-structure plan for the Armed Forces based on an assessment by the Secretary of the probable threats to the national security during the six-year period beginning with the fiscal year for which the budget request is made and of the anticipated levels of funding that will be available for national defense purposes during such period.
 
@@ -1267,7 +1267,7 @@
 
 >         “(3) The Secretary shall also transmit a copy of each such force-structure plan to the Commission.
 
->     “(b) __Selection Criteria.—__ 
+>     “(b)  __Selection Criteria__  __.—__ 
 
 >         (1) The Secretary shall, by no later than December 31, 1990, publish in the Federal Register and transmit to the congressional defense committees the criteria proposed to be used by the Department of Defense in making recommendations for the closure or realignment of military installations inside the United States under this part. The Secretary shall provide an opportunity for public comment on the proposed criteria for a period of at least 30 days and shall include notice of that opportunity in the publication required under the preceding sentence.
 
@@ -1277,7 +1277,7 @@
 
 >             “(B) The Secretary may amend such criteria, but such amendments may not become effective until they have been published in the Federal Register, opened to public comment for at least 30 days, and then transmitted to the congressional defense committees in final form by no later than January 15 of the year concerned. Such amended criteria shall be the final criteria to be used, along with the force-structure plan referred to in subsection (a), in making such recommendations unless disapproved by a joint resolution of Congress enacted on or before February 15 of the year concerned.
 
->     “(c) __DOD Recommendations.—__ 
+>     “(c)  __DOD Recommendations__  __.—__ 
 
 >         (1) The Secretary may, by no later than April 15, 1991, March 15, 1993, and March 1, 1995, publish in the Federal Register and transmit to the congressional defense committees and to the Commission a list of the military installations inside the United States that the Secretary recommends for closure or realignment on the basis of the force-structure plan and the final criteria referred to in subsection (b)(2) that are applicable to the year concerned.
 
@@ -1315,7 +1315,7 @@
 
 >         “(6) Any information provided to the Commission by a person described in paragraph (5)(B) shall also be submitted to the Senate and the House of Representatives to be made available to the Members of the House concerned in accordance with the rules of that House. The information shall be submitted to the Senate and House of Representatives within 24 hours after the submission of the information to the Commission.
 
->     “(d) __Review and Recommendations by the Commission.—__ 
+>     “(d)  __Review and Recommendations by the Commission__  __.—__ 
 
 >         (1) After receiving the recommendations from the Secretary pursuant to subsection (c) for any year, the Commission shall conduct public hearings on the recommendations. All testimony before the Commission at a public hearing conducted under this paragraph shall be presented under oath.
 
@@ -1361,7 +1361,7 @@
 
 >             “(B) by no later than April 15 of each year in which the Secretary makes such recommendations, transmit to the Congress and to the Commission a report containing a detailed analysis of the Secretary’s recommendations and selection process.
 
->     “(e) __Review by the President.—__ 
+>     “(e)  __Review by the President__  __.—__ 
 
 >         (1) The President shall, by no later than July 15 of each year in which the Commission makes recommendations under subsection (d), transmit to the Commission and to the Congress a report containing the President’s approval or disapproval of the Commission’s recommendations.
 
@@ -1375,7 +1375,7 @@
 
 > “SEC. 2904. __CLOSURE AND REALIGNMENT OF MILITARY INSTALLATIONS__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Subject to subsection (b), the Secretary shall—
 
@@ -1389,7 +1389,7 @@
 
 >         “(5) complete all such closures and realignments no later than the end of the six-year period beginning on the date on which the President transmits the report pursuant to section 2903(e) containing the recommendations for such closures or realignments.
 
->     “(b) __Congressional Disapproval.—__ 
+>     “(b)  __Congressional Disapproval__  __.—__ 
 
 >         (1)
 
@@ -1403,7 +1403,7 @@
 
 > “SEC. 2905. __IMPLEMENTATION__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1)
 
@@ -1429,7 +1429,7 @@
 
 >         “(2) In carrying out any closure or realignment under this part, the Secretary shall ensure that environmental restoration of any property made excess to the needs of the Department of Defense as a result of such closure or realignment be carried out as soon as possible with funds available for such purpose.
 
->     “(b) __Management and Disposal of Property.—__ 
+>     “(b)  __Management and Disposal of Property__  __.—__ 
 
 >         (1)
 
@@ -1941,7 +1941,7 @@
 
 >             “(D) The Secretary shall include in a contract for services entered into with a local government under this paragraph a clause that requires the use of professionals to furnish the services to the extent that professionals are available in the area under the jurisdiction of such government.
 
->     “(c) __Applicability of National Environmental Policy Act of 1969.—__ 
+>     “(c)  __Applicability of National Environmental Policy Act of__  __1969.—__ 
 
 >         (1) The provisions of the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.) shall not apply to the actions of the President, the Commission, and, except as provided in paragraph (2), the Department of Defense in carrying out this part.
 
@@ -1961,7 +1961,7 @@
 
 >         “(3) A civil action for judicial review, with respect to any requirement of the National Environmental Policy Act of 1969 to the extent such Act is applicable under paragraph (2), of any act or failure to act by the Department of Defense during the closing, realigning, or relocating of functions referred to in clauses (i) and (ii) of paragraph (2)(A), may not be brought more than 60 days after the date of such act or failure to act.
 
->     “(d) __Waiver.—__ 
+>     “(d)  __Waiver__  __.—__ 
 
 >     The Secretary of Defense may close or realign military installations under this part without regard to—
 
@@ -1969,7 +1969,7 @@
 
 >         “(2) sections 2662 and 2687 of title 10, United States Code.
 
->     “(e) __Transfer Authority in Connection With Payment of Environmental Remediation Costs.—__ 
+>     “(e)  __Transfer Authority in Connection With Payment of Environmental Remediation Costs__  __.—__ 
 
 >         (1)
 
@@ -2003,7 +2003,7 @@
 
 >     “\[(f) Repealed. [Pub. L. 108–136, div. B, title XXVIII, § 2805(d)(2)][/us/pl/108/136/s2805/d/2], Nov. 24, 2003, [117 Stat. 1721][/us/stat/117/1721].\]
 
->     “(g) __Acquisition of Manufactured Housing.—__ 
+>     “(g)  __Acquisition of Manufactured Housing__  __.—__ 
 
 >         (1)
 
@@ -2019,7 +2019,7 @@
 
 > “SEC. 2906. __DEPARTMENT OF DEFENSE BASE CLOSURE ACCOUNT 1990__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >         (1) There is hereby established on the books of the Treasury an account to be known as the ‘Department of Defense Base Closure Account 1990’ which shall be administered by the Secretary as a single account.
 
@@ -2037,13 +2037,13 @@
 
 >         “(3) The Account shall be closed at the time and in the manner provided for appropriation accounts under [section 1555 of title 31][/us/usc/t31/s1555], United States Code. Unobligated funds which remain in the Account upon closure shall be held by the Secretary of the Treasury until transferred by law after the congressional defense committees receive the final report transmitted under subsection (c)(2).
 
->     “(b) __Use of Funds.—__ 
+>     “(b)  __Use of Funds__  __.—__ 
 
 >         (1) The Secretary may use the funds in the Account only for the purposes described in section 2905 with respect to military installations the date of approval of closure or realignment of which is before January 1, 2005, or, after September 30, 1995, for environmental restoration and property management and disposal at installations closed or realigned under title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note). After July 13, 2001, the Account shall be the sole source of Federal funds for environmental restoration, property management, and other caretaker costs associated with any real property at military installations closed or realigned under this part or such title II.
 
 >         “(2) When a decision is made to use funds in the Account to carry out a construction project under section 2905(a) and the cost of the project will exceed the maximum amount authorized by law for a minor military construction project, the Secretary shall notify in writing the congressional defense committees of the nature of, and justification for, the project and the amount of expenditures for such project. Any such construction project may be carried out without regard to [section 2802(a) of title 10][/us/usc/t10/s2802/a], United States Code.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >         (1)
 
@@ -2087,7 +2087,7 @@
 
 >             “(B) any amount remaining in the Account.
 
->     “(d) __Disposal or Transfer of Commissary Stores and Property Purchased With Nonappropriated Funds.—__ 
+>     “(d)  __Disposal or Transfer of Commissary Stores and Property Purchased With Nonappropriated Funds__  __.—__ 
 
 >         (1) If any real property or facility acquired, constructed, or improved (in whole or in part) with commissary store funds or nonappropriated funds is transferred or disposed of in connection with the closure or realignment of a military installation under this part the date of approval of closure or realignment of which is before January 1, 2005, a portion of the proceeds of the transfer or other disposal of property on that installation shall be deposited in the reserve account established under section 204(b)(7)(C) of the Defense Authorization Amendments and Base Closure and Realignment Act \[[Pub. L. 100–526][/us/pl/100/526]\] ([10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
@@ -2111,7 +2111,7 @@
 
 >             “(C) The term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Armed Forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
->     “(e) __Account Exclusive Source of Funds for Environmental Restoration Projects.—__ 
+>     “(e)  __Account Exclusive Source of Funds for Environmental Restoration Projects__  __.—__ 
 
 >     Except as provided in section 2906A(e) with respect to funds in the Department of Defense Base Closure Account 2005 under section 2906A and except for funds deposited into the Account under subsection (a), funds appropriated to the Department of Defense may not be used for purposes described in section 2905(a)(1)(C). The prohibition in this subsection shall expire upon the closure of the Account under subsection (a)(3).    \[[Pub. L. 112–239, div. B, title XXVII, § 2711(a)][/us/pl/112/239/s2711/a], (d), Jan. 2, 2013, [126 Stat. 2140][/us/stat/126/2140], 2144, provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note) is amended by striking out section 2906 and inserting the following new section 2906:
 
@@ -2617,7 +2617,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 [Pub. L. 101–510, div. B, title XXIX, § 2921][/us/pl/101/510/s2921], Nov. 5, 1990, [104 Stat. 1819][/us/stat/104/1819], as amended by [Pub. L. 102–190, div. A, title III, § 344(b)(2)][/us/pl/102/190/s344/b/2], Dec. 5, 1991, [105 Stat. 1345][/us/stat/105/1345]; [Pub. L. 102–484, div. B, title XXVIII][/us/pl/102/484], §§ 2821(c), 2827, Oct. 23, 1992, [106 Stat. 2608][/us/stat/106/2608], 2609; [Pub. L. 103–160, div. B, title XXIX, § 2924(b)][/us/pl/103/160/s2924/b], Nov. 30, 1993, [107 Stat. 1931][/us/stat/107/1931]; [Pub. L. 103–337, div. A, title XIII, § 1305(c)][/us/pl/103/337/s1305/c], div. B, title XXVIII, § 2817, Oct. 5, 1994, [108 Stat. 2891][/us/stat/108/2891], 3057; [Pub. L. 104–106, div. A, title X, § 1063(b)][/us/pl/104/106/s1063/b], title XV, §§ 1502(c)(4)(D), 1505(e)(2), Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444], 508, 515; [Pub. L. 105–85, div. A, title X, § 1073(d)(4)(C)][/us/pl/105/85/s1073/d/4/C], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905]; [Pub. L. 106–65, div. A, title X, § 1067(10)][/us/pl/106/65/s1067/10], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(b)][/us/pl/108/136/s1031/b], Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of the Congress that—
 
@@ -2629,7 +2629,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(4) the determination of the fair market value of such improvements released to host countries in whole or in part by the United States should be handled on a facility-by-facility basis.
 
->     “(b) __Residual Value.—__ 
+>     “(b)  __Residual Value__  __.—__ 
 
 >         (1) For each installation outside the United States at which military operations were being carried out by the United States on October 1, 1990, the Secretary of Defense shall transmit, by no later than June 1, 1991, an estimate of the fair market value, as of January 1, 1991, of the improvements made by the United States at facilities at each such installation.
 
@@ -2641,7 +2641,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >             “(B) The term ‘improvements’ includes new construction of facilities and all additions, improvements, modifications, or renovations made to existing facilities or to real property, without regard to whether they were carried out with appropriated or nonappropriated funds.
 
->     “(c) __Establishment of Special Account.—__ 
+>     “(c)  __Establishment of Special Account__  __.—__ 
 
 >         (1) There is established on the books of the Treasury a special account to be known as the ‘Department of Defense Overseas Military Facility Investment Recovery Account’. Except as provided in subsection (d), amounts paid to the United States, pursuant to any treaty, status of forces agreement, or other international agreement to which the United States is a party, for the residual value of real property or improvements to real property used by civilian or military personnel of the Department of Defense shall be deposited into such account.
 
@@ -2655,7 +2655,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(3) Funds in the Department of Defense Overseas Facility Investment Recovery Account shall remain available until expended.
 
->     “(d) __Amounts Corresponding to the Value of Property Purchased With Nonappropriated Funds.—__ 
+>     “(d)  __Amounts Corresponding to the Value of Property Purchased With Nonappropriated Funds__  __.—__ 
 
 >         (1) In the case of a payment referred to in subsection (c)(1) for the residual value of real property or improvements at an overseas military facility, the portion of the payment that is equal to the depreciated value of the investment made with nonappropriated funds shall be deposited in the reserve account established under section 204(b)(7)(C) of the Defense Authorization Amendments and Base Closure and Realignment Act \[[Pub. L. 100–526][/us/pl/100/526], set out below\]. The Secretary may use amounts in the account (in such an aggregate amount as is provided in advance by appropriation Acts) for the purpose of acquiring, constructing, or improving commissary stores and nonappropriated fund instrumentalities.
 
@@ -2673,7 +2673,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >             “(B) The term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Armed Forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
 
->     “(e) __Negotiations for Payments-in-Kind.—__ 
+>     “(e)  __Negotiations for Payments-in-Kind__  __.—__ 
 
 >         (1) Before the Secretary of Defense enters into negotiations with a host country regarding the acceptance by the United States of any payment-in-kind in connection with the release to the host country of improvements made by the United States at military installations in the host country, the Secretary shall submit to the appropriate congressional committees a written notice regarding the intended negotiations.
 
@@ -2695,13 +2695,13 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >             “(B) the Committee on Armed Services, the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
 
->     “(f) __OMB Review of Proposed Settlements.—__ 
+>     “(f) __OMB__  __Review of Proposed Settlements__  __.—__ 
 
 >         (1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
 
 >         “(2) Each year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
 
->     “(g) __Congressional Oversight of Payments-In-Kind.—__ 
+>     “(g)  __Congressional Oversight of Payments-In-Kind__  __.—__ 
 
 >         (1)
 
@@ -2811,11 +2811,11 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 [Pub. L. 101–189, div. A, title VII, § 723][/us/pl/101/189/s723], Nov. 29, 1989, [103 Stat. 1478][/us/stat/103/1478], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     The end strength levels for medical personnel for each component of the Armed Forces, and the number of civilian personnel of the Department of Defense assigned to military medical facilities, may not be reduced as a result of the closure or realignment of a military installation under [section 2687 of title 10][/us/usc/t10/s2687], United States Code, or title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
->     “(b) __Medical Personnel Defined.—__ 
+>     “(b)  __Medical Personnel Defined__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘medical personnel’ has the meaning given that term in subparagraph (D) of [section 115(b)(1) of title 10][/us/usc/t10/s115/b/1], United States Code.”
 
@@ -2823,7 +2823,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 [Pub. L. 101–189, div. B, title XXVIII, § 2832][/us/pl/101/189/s2832], Nov. 29, 1989, [103 Stat. 1660][/us/stat/103/1660], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds that—
 
@@ -2835,7 +2835,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(4) facilities rendered excess by the base closure process should be seriously considered for use as prisons and drug treatment facilities, as appropriate.
 
->     “(b) __Sense of Congress.—__ 
+>     “(b)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of Defense should, pursuant to the provisions of title II of the Defense Authorization Amendments and Base Closure and Realignment Act, give priority to making real property (including the improvements thereon) of the Department of Defense rendered excess or surplus as a result of the recommendations of the Commission on Base Realignment and Closure available to another Federal agency or a State or local government for use as a penal or correctional facility or as a drug abuse prevention, treatment, or rehabilitation center.”
 
@@ -2843,13 +2843,13 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 [Pub. L. 101–189, div. B, title XXVIII, § 2833][/us/pl/101/189/s2833], Nov. 29, 1989, [103 Stat. 1661][/us/stat/103/1661], provided that:
 
->     “(a) __Identification of Enrollment Changes.—__ 
+>     “(a)  __Identification of Enrollment Changes__  __.—__ 
 
 >         (1) Not later than January 1 of each year in which any activities necessary to close or realign a military installation under title II of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [102 Stat. 2627][/us/stat/102/2627]) \[set out below\] are conducted, the Secretary of Defense shall identify, to the extent practicable, each local educational agency that will experience at least a 5-percent increase or at least a 10-percent reduction in the number of dependent children of members of the Armed Forces and of civilian employees of the Department of Defense enrolled in schools under the jurisdiction of such agency during the next academic year (compared with the number of such children enrolled in such schools during the preceding year) as a result of the closure or realignment of a military installation under that Act \[[Pub. L. 100–526][/us/pl/100/526], see Short Title of 1988 Amendment note above\].
 
 >         “(2) The Secretary shall carry out this subsection in consultation with the Secretary of Education.
 
->     “(b) __Notice Required.—__ 
+>     “(b)  __Notice Required__  __.—__ 
 
 >     Not later than 30 days after the date on which the Secretary of Defense identifies a local educational agency under subsection (a), the Secretary shall transmit a written notice of the schedule for the closure or realignment of the military installation affecting that local educational agency to that local educational agency and to the State government education agency responsible for administering State government education programs involving that local educational agency.”
 
@@ -2869,7 +2869,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 > “SEC. 202. __CONDITIONS__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary may not carry out any closure or realignment of a military installation under this title unless—
 
@@ -2879,11 +2879,11 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(3) the Secretary of Defense has transmitted to the Commission the study required by section 206(b).
 
->     “(b) __Joint Resolution.—__ 
+>     “(b)  __Joint Resolution__  __.—__ 
 
 >     The Secretary may not carry out any closure or realignment under this title if, within the 45-day period beginning on March 1, 1989, a joint resolution is enacted, in accordance with the provisions of section 208, disapproving the recommendations of the Commission. The days on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in the computation of such 45-day period.
 
->     “(c) __Termination of Authority.—__ 
+>     “(c)  __Termination of Authority__  __.—__ 
 
 >         (1) Except as provided in paragraph (2), the authority of the Secretary to carry out any closure or realignment under this title shall terminate on October 1, 1995.
 
@@ -2891,11 +2891,11 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 > “SEC. 203. __THE COMMISSION__ 
 
->     “(a) __Membership.—__ 
+>     “(a)  __Membership__  __.—__ 
 
 >     The Commission shall consist of 12 members appointed by the Secretary of Defense.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The Commission shall—
 
@@ -2909,13 +2909,13 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >             “(B) a statement certifying that the Commission has identified the military installations to be closed or realigned by reviewing all military installations inside the United States, including all military installations under construction and all those planned for construction.
 
->     “(c) __Staff.—__ 
+>     “(c)  __Staff__  __.—__ 
 
 >     Not more than one-half of the professional staff of the Commission shall be individuals who have been employed by the Department of Defense during calendar year 1988 in any capacity other than as an employee of the Commission.
 
 > “SEC. 204. __IMPLEMENTATION__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     In closing or realigning a military installation under this title, the Secretary—
 
@@ -2933,7 +2933,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(3) subject to the availability of funds authorized for and appropriated to the Department of Defense for environmental restoration and the availability of funds in the Account, may carry out activities for the purpose of environmental restoration, including reducing, removing, and recycling hazardous wastes and removing unsafe buildings and debris.
 
->     “(b) __Management and Disposal of Property.—__ 
+>     “(b)  __Management and Disposal of Property__  __.—__ 
 
 >         (1)
 
@@ -3257,7 +3257,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >             “(D) The Secretary shall include in a contract for services entered into with a local government under this paragraph a clause that requires the use of professionals to furnish the services to the extent that professionals are available in the area under the jurisdiction of such government.
 
->     “(c) __Applicability of Other Law.—__ 
+>     “(c)  __Applicability of Other Law__  __.—__ 
 
 >         (1)
 
@@ -3279,7 +3279,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(3) A civil action for judicial review, with respect to any requirement of the National Environmental Policy Act of 1969 to the extent such Act is applicable under paragraph (2), or with respect to any requirement of the Commission made by this title, of any action or failure to act by the Secretary during the closing, realigning, or relocating referred to in clauses (A) and (B) of paragraph (2), or of any action or failure to act by the Commission under this title, may not be brought later than the 60th day after the date of such action or failure to act.
 
->     “(d) __Transfer Authority in Connection With Payment of Environmental Remediation Costs.—__ 
+>     “(d)  __Transfer Authority in Connection With Payment of Environmental Remediation Costs__  __.—__ 
 
 >         (1)
 
@@ -3307,7 +3307,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >     “\[(e) Repealed. [Pub. L. 108–136, div. B, title XXVIII, § 2805(d)(1)][/us/pl/108/136/s2805/d/1], Nov. 24, 2003, [117 Stat. 1721][/us/stat/117/1721].\]
 
->     “(f) __Acquisition of Manufactured Housing.—__ 
+>     “(f)  __Acquisition of Manufactured Housing__  __.—__ 
 
 >         (1)
 
@@ -3331,7 +3331,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 > “SEC. 206. __REPORTS__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     As part of each annual budget request for the Department of Defense, the Secretary shall transmit to the appropriate committees of Congress—
 
@@ -3339,7 +3339,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(2) a description of the military installations, including those under construction and those planned for construction, to which functions are to be transferred as a result of such closures and realignments, together with the Secretary’s assessment of the environmental effects of such transfers.
 
->     “(b) __Study.—__ 
+>     “(b)  __Study__  __.—__ 
 
 >         (1) The Secretary shall conduct a study of the military installations of the United States outside the United States to determine if efficiencies can be realized through closure or realignment of the overseas base structure of the United States. Not later than October 15, 1988, the Secretary shall transmit a report of the findings and conclusions of such study to the Commission and to the Committees on Armed Services of the Senate and the House of Representatives. In developing its recommendations to the Secretary under this title, the Commission shall consider the Secretary’s study.
 
@@ -3349,7 +3349,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 > “SEC. 207. __FUNDING__ 
 
->     “(a) __Account.—__ 
+>     “(a)  __Account__  __.—__ 
 
 >         (1) There is hereby established on the books of the Treasury an account to be known as the ‘Department of Defense Base Closure Account’ which shall be administered by the Secretary as a single account.
 
@@ -3387,13 +3387,13 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(7) Proceeds received after September 30, 1995, from the lease, transfer, or disposal of any property at a military installation closed or realigned under this title shall be deposited directly into the Department of Defense Base Closure Account 1990 established by section 2906(a) of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
->     “(b) __Base Closure Account To Be Exclusive Source of Funds for Environmental Restoration Projects.—__ 
+>     “(b)  __Base Closure Account To Be Exclusive Source of Funds for Environmental Restoration Projects__  __.—__ 
 
 >     No funds appropriated to the Department of Defense may be used for purposes described in section 204(a)(3) except funds that have been authorized for and appropriated to the Account. The prohibition in the preceding sentence expires upon the termination of the authority of the Secretary to carry out a closure or realignment under this title.    \[[Pub. L. 112–239, div. B, title XXVII, § 2711(c)(1)][/us/pl/112/239/s2711/c/1], (d), Jan. 2, 2013, [126 Stat. 2143][/us/stat/126/2143], 2144, provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, section 207 of the Defense Authorization Amendments and Base Closure and Realignment Act ([Public Law 100–526][/us/pl/100/526]; [10 U.S.C. 2687][/us/usc/t10/s2687] note) is repealed.\]
 
 > “SEC. 208. __CONGRESSIONAL CONSIDERATION OF COMMISSION REPORT__ 
 
->     “(a) __Terms of the Resolution.—__ 
+>     “(a)  __Terms of the Resolution__  __.—__ 
 
 >     For purposes of section 202(b), the term ‘joint resolution’ means only a joint resolution which is introduced before March 15, 1989, and—
 
@@ -3403,15 +3403,15 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(3) the title of which is as follows: ‘Joint resolution disapproving the recommendations of the Commission on Base Realignment and Closure.’.
 
->     “(b) __Referral.—__ 
+>     “(b)  __Referral__  __.—__ 
 
 >     A resolution described in subsection (a), introduced in the House of Representatives shall be referred to the Committee on Armed Services of the House of Representatives. A resolution described in subsection (a) introduced in the Senate shall be referred to the Committee on Armed Services of the Senate.
 
->     “(c) __Discharge.—__ 
+>     “(c)  __Discharge__  __.—__ 
 
 >     If the committee to which a resolution described in subsection (a) is referred has not reported such resolution (or an identical resolution) before March 15, 1989, such committee shall be, as of March 15, 1989, discharged from further consideration of such resolution, and such resolution shall be placed on the appropriate calendar of the House involved.
 
->     “(d) __Consideration.—__ 
+>     “(d)  __Consideration__  __.—__ 
 
 >         (1) On or after the third day after the date on which the committee to which such a resolution is referred has reported, or has been discharged (under subsection (c)) from further consideration of, such a resolution, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the respective House to move to proceed to the consideration of the resolution (but only on the day after the calendar day on which such Member announces to the House concerned the Member’s intention to do so). All points of order against the resolution (and against consideration of the resolution) are waived. The motion is highly privileged in the House of Representatives and is privileged in the Senate and is not debatable. The motion is not subject to amendment, or to a motion to postpone, or to a motion to proceed to the consideration of other business. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the resolution is agreed to, the respective House shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the resolution shall remain the unfinished business of the respective House until disposed of.
 
@@ -3421,7 +3421,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(4) Appeals from the decisions of the Chair relating to the application of the rules of the Senate or the House of Representatives, as the case may be, to the procedure relating to a resolution described in subsection (a) shall be decided without debate.
 
->     “(e) __Consideration by Other House.—__ 
+>     “(e)  __Consideration by Other House__  __.—__ 
 
 >         (1)
 
@@ -3439,7 +3439,7 @@ Similar provisions for specified fiscal years were contained in the following ap
 
 >         “(2) Upon disposition of the resolution received from the other House, it shall no longer be in order to consider the resolution that originated in the receiving House.
 
->     “(f) __Rules of the Senate and House.—__ 
+>     “(f)  __Rules of the Senate and House__  __.—__ 
 
 >     This section is enacted by Congress—
 

@@ -15,7 +15,7 @@
 
 ## § 407. Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
         (1)
 
@@ -35,13 +35,13 @@
 
             (B) provides such assistance as part of a military operation that does not involve the armed forces.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
         (1) Humanitarian demining assistance and stockpiled conventional munitions assistance may not be provided under this section unless the Secretary of State specifically approves the provision of such assistance.
 
         (2) Any authority provided under any other provision of law to provide humanitarian demining assistance or stockpiled conventional munitions assistance to a foreign country shall be carried out in accordance with, and subject to, the limitations prescribed in this section.
 
-    (c) __Expenses.—__ 
+    (c)  __Expenses__  __.—__ 
 
         (1) Expenses incurred as a direct result of providing humanitarian demining assistance or stockpiled conventional munitions assistance under this section to a foreign country shall be paid for out of funds specifically appropriated for the purpose of the provision by the Department of Defense of overseas humanitarian assistance.
 
@@ -55,7 +55,7 @@
 
         (3) The cost of equipment, services, and supplies provided in any fiscal year under this section may not exceed $10,000,000.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
     The Secretary of Defense shall include in the annual report under [section 401 of this title][/us/usc/t10/s401] a separate discussion of activities carried out under this section during the preceding fiscal year, including—
 
@@ -67,7 +67,7 @@
 
         (4) the amount expended in carrying out such assistance in each such country during the preceding fiscal year.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -107,11 +107,11 @@
 
 [Pub. L. 112–239, div. A, title X, § 1053][/us/pl/112/239/s1053], Jan. 2, 2013, [126 Stat. 1937][/us/stat/126/1937], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of Defense is authorized to transfer surplus Mine-Resistant Ambush-Protected vehicles, including spare parts for such vehicles, to non-profit United States humanitarian demining organizations for purposes of demining activities and training of such organizations.
 
->     “(b) __Terms and Conditions.—__ 
+>     “(b)  __Terms and Conditions__  __.—__ 
 
 >     Any transfer of vehicles or spare parts under subsection (a) shall be subject to the following terms and conditions:
 
@@ -121,7 +121,7 @@
 
 >         “(3) Any other terms and conditions as the Secretary of Defense determines to be appropriate.
 
->     “(c) __Notification.—__ 
+>     “(c)  __Notification__  __.—__ 
 
 >     The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] in writing not less than 60 days before making any transfer of vehicles or spare parts under subsection (a). Such notification shall include the name of the organization, the number and model of the vehicle to be transferred, a listing of any spare parts to be transferred, and any other information the Secretary considers appropriate.”
 

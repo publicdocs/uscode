@@ -15,13 +15,13 @@
 
 ## § 2873. Direct loans and loan guarantees
 
-    (a) __Direct Loans.—__ 
+    (a)  __Direct Loans__  __.—__ 
 
         (1) Subject to subsection (c), the Secretary concerned may make direct loans to an eligible entity in order to provide funds to the eligible entity for the acquisition or construction of housing units that the Secretary determines are suitable for use as military family housing or as military unaccompanied housing.
 
         (2) The Secretary concerned shall establish such terms and conditions with respect to loans made under this subsection as the Secretary considers appropriate to protect the interests of the United States, including the period and frequency for repayment of such loans and the obligations of the obligors on such loans upon default.
 
-    (b) __Loan Guarantees.—__ 
+    (b)  __Loan Guarantees__  __.—__ 
 
         (1) Subject to subsection (c), the Secretary concerned may guarantee a loan made to an eligible entity if the proceeds of the loan are to be used by the eligible entity to acquire, or construct housing units that the Secretary determines are suitable for use as military family housing or as military unaccompanied housing.
 
@@ -35,7 +35,7 @@
 
         (3) The Secretary concerned shall establish such terms and conditions with respect to guarantees of loans under this subsection as the Secretary considers appropriate to protect the interests of the United States, including the rights and obligations of obligors of such loans and the rights and obligations of the United States with respect to such guarantees.
 
-    (c) __Limitation on Direct Loan and Guarantee Authority.—__ 
+    (c)  __Limitation on Direct Loan and Guarantee Authority__  __.—__ 
 
     Direct loans and loan guarantees may be made under this section only to the extent that appropriations of budget authority to cover their cost (as defined in section 502(5) of the Federal Credit Reform Act of 1990 ([2 U.S.C. 661a(5)][/us/usc/t2/s661a/5])) are made in advance, or authority is otherwise provided in appropriation Acts. If such appropriation or other authority is provided, there may be established a financing account (as defined in section 502(7) of such Act ([2 U.S.C. 661a(7)][/us/usc/t2/s661a/7])), which shall be available for the disbursement of direct loans or payment of claims for payment on loan guarantees under this section and for all other cash flows to and from the Government as a result of direct loans and guarantees made under this section.
 

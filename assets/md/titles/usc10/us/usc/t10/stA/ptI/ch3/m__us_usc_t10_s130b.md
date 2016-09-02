@@ -15,7 +15,7 @@
 
 ## § 130b. Personnel in overseas, sensitive, or routinely deployable units: nondisclosure of personally identifying information
 
-    (a) __Exemption From Disclosure.—__ 
+    (a)  __Exemption From Disclosure__  __.—__ 
 
     The Secretary of Defense and, with respect to the Coast Guard when it is not operating as a service in the Navy, the Secretary of Homeland Security may, notwithstanding [section 552 of title 5][/us/usc/t5/s552], authorize to be withheld from disclosure to the public personally identifying information regarding—
 
@@ -23,13 +23,13 @@
 
         (2) any employee of the Department of Defense or of the Coast Guard whose duty station is with any such unit.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
         (1) The authority in subsection (a) is subject to such exceptions as the President may direct.
 
         (2) Subsection (a) does not authorize any official to withhold, or to authorize the withholding of, information from Congress.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

@@ -15,15 +15,15 @@
 
 ## § 4772. Heritage Center for the National Museum of the United States Army: development and operation
 
-    (a) __Agreement for Development of Center.—__ 
+    (a)  __Agreement for Development of Center__  __.—__ 
 
     The Secretary of the Army may enter into an agreement with the Army Historical Foundation, a nonprofit organization, for the design, construction, and operation of a facility or group of facilities at Fort Belvoir, Virginia, for the National Museum of the United States Army. The facility or group of facilities constructed pursuant to the agreement shall be known as the Heritage Center for the National Museum of the United States Army (in this section referred to as the “Center”).
 
-    (b) __Purpose of Center.—__ 
+    (b)  __Purpose of Center__  __.—__ 
 
     The Center shall be used for the identification, curation, storage, and public viewing of artifacts and artwork of significance to the United States Army, as agreed to by the Secretary of the Army. The Center may also be used to support such education, training, research, and associated purposes as the Secretary considers appropriate.
 
-    (c) __Design and Construction.—__ 
+    (c)  __Design and Construction__  __.—__ 
 
         (1) The design of the Center shall be subject to the approval of the Secretary of the Army.
 
@@ -35,17 +35,17 @@
 
             (B) permit the Army Historical Foundation to contract for the design and construction of such phase of the Center.
 
-    (d) __Acceptance by Secretary.—__ 
+    (d)  __Acceptance by Secretary__  __.—__ 
 
     Upon the satisfactory completion, as determined by the Secretary of the Army, of any phase of the Center, and upon the satisfaction of any financial obligations incident to such phase of the Center by the Army Historical Foundation, the Secretary shall accept such phase of the Center from the Army Historical Foundation, and all right, title, and interest in and to such phase of the Center shall vest in the United States. Upon becoming the property of the United States, the Secretary shall assume administrative jurisdiction over the Center.
 
-    (e) __Use of Certain Gifts.—__ 
+    (e)  __Use of Certain Gifts__  __.—__ 
 
         (1) Under regulations prescribed by the Secretary of the Army, the Commander of the United States Army Center of Military History may, without regard to [section 2601 of this title][/us/usc/t10/s2601], accept, hold, administer, invest, and spend any gift, devise, or bequest of personal property of a value of $250,000 or less made to the United States if such gift, devise, or bequest is for the benefit of the National Museum of the United States Army or the Center.
 
         (2) The Secretary may pay or authorize the payment of any reasonable and necessary expense in connection with the conveyance or transfer of a gift, devise, or bequest under this subsection.
 
-    (f) __Lease of Facility.—__ 
+    (f)  __Lease of Facility__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
         (3) Notwithstanding any other provision of law, the Secretary shall use amounts paid under paragraph (2) to cover the costs of operation of the Center.
 
-    (g) __Additional Terms and Conditions.—__ 
+    (g)  __Additional Terms and Conditions__  __.—__ 
 
     The Secretary of the Army may require such additional terms and conditions in connection with the agreement authorized by subsection (a) as the Secretary considers appropriate to protect the interests of the United States.
 

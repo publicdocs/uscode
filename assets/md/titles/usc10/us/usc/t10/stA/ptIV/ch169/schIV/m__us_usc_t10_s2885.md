@@ -15,7 +15,7 @@
 
 ## § 2885. Oversight and accountability for privatization projects
 
-    (a) __Oversight and Accountability Measures.—__ 
+    (a)  __Oversight and Accountability Measures__  __.—__ 
 
     Each Secretary concerned shall prescribe regulations to effectively oversee and manage military housing privatization projects carried out under this subchapter during the course of the construction or renovation of the housing units. The regulations shall include the following requirements for each privatization project:
 
@@ -31,25 +31,25 @@
 
             (B) If the project owner, developer, or general contractor responsible for the privatization project is unable, within 60 days after receiving a notice of deficiency under subparagraph (A), to make progress on the issues outlined in such notice, the Secretary concerned shall notify the congressional defense committees of the status of the project, and shall provide a recommended course of action to correct the problems.
 
-    (b) __Required Qualifications.—__ 
+    (b)  __Required Qualifications__  __.—__ 
 
     The Secretary concerned or designated representative shall ensure that the project owner, developer, or general contractor that is selected for each military housing privatization initiative project has construction experience commensurate with that required to complete the project.
 
-    (c) __Bonding Levels.—__ 
+    (c)  __Bonding Levels__  __.—__ 
 
     The Secretary concerned shall ensure that the project owner, developer, or general contractor responsible for a military housing privatization initiative project has sufficient payment and performance bonds or suitable instruments in place for each phase of a construction or renovation portion of the project to ensure successful completion of the work in amounts as agreed to in the project’s legal documents, but in no case less than 50 percent of the total value of the active phases of the project, prior to the commencement of work for that phase.
 
-    (d) __Reporting of Efforts To Select Successor in Event of Default.—__ 
+    (d)  __Reporting of Efforts To Select Successor in Event of Default__  __.—__ 
 
     In the event a military housing privatization initiative project enters into default, the assistant secretary for installations and environment of the respective military department shall submit a report to the congressional defense committees every 90 days detailing the status of negotiations to award the project to a new project owner, developer, or general contractor.
 
-    (e) __Effect of Notices of Deficiency on Contractors and Affiliated Entities.—__ 
+    (e)  __Effect of Notices of Deficiency on Contractors and Affiliated Entities__  __.—__ 
 
         (1) The Secretary concerned shall keep a record of all plans of action or notices of deficiency issued to a project owner, developer, or general contractor under subsection (a)(4), including the identity of each parent, subsidiary, affiliate, or other controlling entity of such owner, developer, or contractor.
 
         (2) Each military department shall consult all records maintained under paragraph (1) when reviewing the past performance of owners, developers, and contractors in the bidding process for a contract or other agreement for a military housing privatization initiative project.
 
-    (f) __Financial Integrity and Accountability Measures.—__ 
+    (f)  __Financial Integrity and Accountability Measures__  __.—__ 
 
         (1)
 

@@ -15,7 +15,7 @@
 
 ## § 2784a. Management of travel cards
 
-    (a) __Disbursement of Travel Allowances Directly to Creditors.—__ 
+    (a)  __Disbursement of Travel Allowances Directly to Creditors__  __.—__ 
 
         (1) The Secretary of Defense shall require that any part of a travel or transportation allowance of an employee of the Department of Defense or a member of the armed forces be disbursed directly to the issuer of a Defense travel card if the amount is disbursed to the issuer in payment of amounts of expenses of official travel that are charged by the employee or member on the Defense travel card.
 
@@ -23,7 +23,7 @@
 
         (3) For the purposes of this subsection, the travel and transportation allowances referred to in paragraph (1) are amounts to which an employee of the Department of Defense is entitled under [section 5702 of title 5][/us/usc/t5/s5702] or a member of the armed forces is entitled under [section 474 of title 37][/us/usc/t37/s474].
 
-    (b) __Offsets for Delinquent Travel Card Charges.—__ 
+    (b)  __Offsets for Delinquent Travel Card Charges__  __.—__ 
 
         (1)
 
@@ -39,17 +39,17 @@
 
         (4) The Secretary of Defense shall prescribe procedures for deducting and withholding amounts from pay under this subsection. The procedures shall be substantially equivalent to the procedures under [section 3716 of title 31][/us/usc/t31/s3716].
 
-    (c) __Offsets of Retired Pay.—__ 
+    (c)  __Offsets of Retired Pay__  __.—__ 
 
     In the case of a former employee of the Department of Defense or a retired member of the armed forces who is receiving retired pay and who owes an amount to a creditor by reason of one or more charges on a Defense travel card that were made before the retirement of the employee or member, the Secretary may require amounts to be deducted and withheld from any retired pay of the former employee or retired member in the same manner and subject to the same conditions as the Secretary deducts and withholds amounts from basic pay payable to an employee or member under subsection (b).
 
-    (d) __Determinations of Creditworthiness for Issuance of Defense Travel Card.—__ 
+    (d)  __Determinations of Creditworthiness for Issuance of Defense Travel Card__  __.—__ 
 
         (1) The Secretary of Defense shall evaluate the creditworthiness of an employee of the Department of Defense or a member of armed forces before issuing a Defense travel card to such an employee or member. The evaluation may include an examination of the individual’s credit history in available credit records.
 
         (2) An individual may not be issued a Defense travel card if the individual is found not creditworthy as a result of the evaluation required under paragraph (1).
 
-    (e) __Regulations on Disciplinary Action.—__ 
+    (e)  __Regulations on Disciplinary Action__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations for making determinations regarding the taking of disciplinary action, including assessment of penalties, against Department of Defense personnel for improper, fraudulent, or abusive use of Defense travel cards by such personnel.
 
@@ -61,7 +61,7 @@
 
             (B) provide that a violation of such regulations by a person subject to chapter 47 of this title (the Uniform Code of Military Justice) is punishable as a violation of [section 892 of this title][/us/usc/t10/s892] (article 92 of the Uniform Code of Military Justice).
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -83,7 +83,7 @@
 
             (B) in the case of a retired member of the armed forces or member of the Fleet Reserve or Fleet Marine Corps Reserve, retired or retainer pay to which the member is entitled.
 
-    (g) __Exclusion of Coast Guard.—__ 
+    (g)  __Exclusion of Coast Guard__  __.—__ 
 
     This section does not apply to the Coast Guard.
 

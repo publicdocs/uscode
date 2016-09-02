@@ -15,19 +15,19 @@
 
 ## § 2811. Repair of facilities
 
-    (a) __Repairs Using Operations and Maintenance Funds.—__ 
+    (a)  __Repairs Using Operations and Maintenance Funds__  __.—__ 
 
     Using funds available to the Secretary concerned for operation and maintenance, the Secretary concerned may carry out repair projects for an entire single-purpose facility or one or more functional areas of a multipurpose facility.
 
-    (b) __Approval Required for Major Repairs.—__ 
+    (b)  __Approval Required for Major Repairs__  __.—__ 
 
     A repair project costing more than $7,500,000 may not be carried out under this section unless approved in advance by the Secretary concerned. In determining the total cost of a repair project, the Secretary shall include all phases of a multi-year repair project to a single facility. In considering a repair project for approval, the Secretary shall ensure that the project is consistent with force structure plans, that repair of the facility is more cost effective than replacement, and that the project is an appropriate use of operation and maintenance funds.
 
-    (c) __Prohibition on New Construction or Additions.—__ 
+    (c)  __Prohibition on New Construction or Additions__  __.—__ 
 
     Construction of new facilities or additions to existing facilities may not be carried out under the authority of this section.
 
-    (d) __Congressional Notification.—__ 
+    (d)  __Congressional Notification__  __.—__ 
 
     When a decision is made to carry out a repair project under this section with an estimated cost in excess of $7,500,000, the Secretary concerned shall submit to the appropriate committees of Congress a report containing—
 
@@ -37,7 +37,7 @@
 
         (3) a description of the elements of military construction, including the elements specified in [section 2802(b) of this title][/us/usc/t10/s2802/b], incorporated into the repair project.
 
-    (e) __Repair Project Defined.—__ 
+    (e)  __Repair Project Defined__  __.—__ 
 
     In this section, the term “repair project” means a project to restore a real property facility, system, or component to such a condition that it may effectively be used for its designated functional purpose.
 

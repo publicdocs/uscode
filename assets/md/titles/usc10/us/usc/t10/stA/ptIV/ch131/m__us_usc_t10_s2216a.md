@@ -15,11 +15,11 @@
 
 ## § 2216a. Rapidly meeting urgent needs: Joint Urgent Operational Needs Fund
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is established in the Treasury an account to be known as the “Joint Urgent Operational Needs Fund” (in this section referred to as the “Fund”).
 
-    (b) __Elements.—__ 
+    (b)  __Elements__  __.—__ 
 
     The Fund shall consist of the following:
 
@@ -29,7 +29,7 @@
 
         (3) Any other amounts made available to the Fund by law.
 
-    (c) __Use of Funds.—__ 
+    (c)  __Use of Funds__  __.—__ 
 
         (1) Amounts in the Fund shall be available to the Secretary of Defense for capabilities that are determined by the Secretary, pursuant to the review process required by section 804(b) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 ([10 U.S.C. 2302][/us/usc/t10/s2302] note), to be suitable for rapid fielding in response to urgent operational needs.
 
@@ -37,7 +37,7 @@
 
         (3) Nothing in this section shall be interpreted to require or enable any official of the Department of Defense to provide funding under this section pursuant to a congressional earmark, as defined in clause 9 of Rule XXI of the Rules of the House of Representatives, or a congressionally directed spending item, as defined in paragraph 5 of Rule XLIV of the Standing Rules of the Senate.
 
-    (d) __Transfer Authority.—__ 
+    (d)  __Transfer Authority__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (4) The transfer authority provided by paragraphs (1) and (2) is in addition to any other transfer authority available to the Department of Defense by law.
 
-    (e) __Sunset.—__ 
+    (e)  __Sunset__  __.—__ 
 
     The authority to make expenditures or transfers from the Fund shall expire on September 30, 2015.
 

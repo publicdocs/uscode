@@ -15,11 +15,11 @@
 
 ## § 949h. Former jeopardy
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     No person may, without the person’s consent, be tried by a military commission under this chapter a second time for the same offense.
 
-    (b) __Scope of Trial.—__ 
+    (b)  __Scope of Trial__  __.—__ 
 
     No proceeding in which the accused has been found guilty by military commission under this chapter upon any charge or specification is a trial in the sense of this section until the finding of guilty has become final after review of the case has been fully completed.
 

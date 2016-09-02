@@ -15,7 +15,7 @@
 
 ## § 2710. Inventory of unexploded ordnance, discarded military munitions, and munitions constituents at defense sites (other than operational ranges)
 
-    (a) __Inventory Required.—__ 
+    (a)  __Inventory Required__  __.—__ 
 
         (1) The Secretary of Defense shall develop and maintain an inventory of defense sites that are known or suspected to contain unexploded ordnance, discarded military munitions, or munitions constituents.
 
@@ -31,7 +31,7 @@
 
             (D) Any restrictions or other land use controls currently in place at the defense site that might affect the potential for public and environmental exposure to the unexploded ordnance, discarded military munitions, or munitions constituents.
 
-    (b) __Site Prioritization.—__ 
+    (b)  __Site Prioritization__  __.—__ 
 
         (1) The Secretary shall develop, in consultation with representatives of the States and Indian Tribes, a proposed protocol for assigning to each defense site a relative priority for response activities related to unexploded ordnance, discarded military munitions, and munitions constituents based on the overall conditions at the defense site. After public notice and comment on the proposed protocol, the Secretary shall issue a final protocol and shall apply the protocol to defense sites listed on the inventory. The level of response priority assigned the site shall be included with the information required by subsection (a)(2).
 
@@ -57,13 +57,13 @@
 
         (3) The priority assigned to a defense site included on the inventory shall not impair, alter, or diminish any applicable Federal or State authority to establish requirements for the investigation of, and response to, environmental problems at the defense site.
 
-    (c) __Updates and Availability.—__ 
+    (c)  __Updates and Availability__  __.—__ 
 
         (1) The Secretary shall annually update the inventory and site prioritization list to reflect new information that becomes available. The inventory shall be available in published and electronic form.
 
         (2) The Secretary shall work with communities adjacent to a defense site to provide information concerning conditions at the site and response activities. At a minimum, the Secretary shall provide the site inventory information and site prioritization list to appropriate Federal, State, tribal, and local officials, and, to the extent the Secretary considers appropriate, to civil defense or emergency management agencies and the public.
 
-    (d) __Exceptions.—__ 
+    (d)  __Exceptions__  __.—__ 
 
     This section does not apply to the following:
 
@@ -75,7 +75,7 @@
 
         (4) Operational ranges.
 
-    (e) __Definitions.—__ 
+    (e)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -109,11 +109,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 314, Oct. 14, 2008, [122 Stat. 4410][/us/stat/122/4410], as amended by [Pub. L. 111–84, div. A, title X, § 1073(c)(1)][/us/pl/111/84/s1073/c/1], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474], provided that:
 
->     “(a) __Expedited Use of Appropriate Technologies.—__ 
+>     “(a)  __Expedited Use of Appropriate Technologies__  __.—__ 
 
 >     The Secretary of Defense shall expedite the use of appropriate unexploded ordnance detection instrument technology developed through research funded by the Department of Defense or developed by entities other than the Department of Defense.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than October 1, 2009, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report describing and evaluating the following:
 
@@ -129,7 +129,7 @@
 
 >         “(6) Activities undertaken by the Department to raise public awareness regarding unexploded ordnance.
 
->     “(c) __Unexploded Ordnance Defined.—__ 
+>     “(c)  __Unexploded Ordnance Defined__  __.—__ 
 
 >     In this section, the term ‘unexploded ordnance’ has the meaning given such term in [section 101(e)(5) of title 10][/us/usc/t10/s101/e/5], United States Code.”
 
@@ -139,7 +139,7 @@
 
 [Pub. L. 109–364, div. A, title III, § 313(a)][/us/pl/109/364/s313/a]–(d), Oct. 17, 2006, [120 Stat. 2138][/us/stat/120/2138], 2139, provided that:
 
->     “(a) __Performance Goals for Remediation.—__ 
+>     “(a)  __Performance Goals for Remediation__  __.—__ 
 
 >     The Secretary of Defense shall set the following remediation goals with regard to unexploded ordnance, discarded military munitions, and munitions constituents:
 
@@ -153,11 +153,11 @@
 
 >     “(b) __Response Plan Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a comprehensive plan for addressing the remediation of unexploded ordnance, discarded military munitions, and munitions constituents at current and former defense sites (other than operational ranges).
 
->         “(2) __Content.—__ 
+>         “(2)  __Content__  __.—__ 
 
 >         The plan required by paragraph (1) shall include—
 
@@ -167,11 +167,11 @@
 
 >             “(C) an estimate of the funding required to achieve the goals established pursuant to such subsection and the interim goals established pursuant to subparagraphs (A) and (B).
 
->         “(3) __Updates.—__ 
+>         “(3)  __Updates__  __.—__ 
 
 >         Not later than March 15 of 2008, 2009, and 2010, the Secretary shall submit to the congressional defense committees an update of the plan required under paragraph (1). The Secretary may include the update in the report on environmental restoration activities that is submitted to Congress under \[former\] [section 2706(a) of title 10][/us/usc/t10/s2706/a], United States Code, in the year in which that update is required and may include in the update any adjustment to the remediation goals established under subsection (a) that the Secretary determines necessary to respond to unforeseen circumstances.
 
->     “(c) __Report on Reuse Standards and Principles.—__ 
+>     “(c)  __Report on Reuse Standards and Principles__  __.—__ 
 
 >     Not later than March 1, 2007, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the efforts of the Department of Defense to achieve agreement with relevant regulatory agencies on appropriate reuse standards or principles, including—
 
@@ -179,7 +179,7 @@
 
 >         “(2) a discussion of any issues that remain in disagreement, including the impact that any such disagreement is likely to have on the ability of the Department of Defense to carry out the response plan required by subsection (b).
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -193,43 +193,43 @@
 
 >     “(a) __Identification of Disposal Sites.—__ 
 
->         “(1) __Historical review.—__ 
+>         “(1)  __Historical review__  __.—__ 
 
 >         The Secretary of Defense shall conduct a historical review of available records to determine the number, size, and probable locations of sites where the Armed Forces disposed of military munitions in coastal waters. The historical review shall, to the extent possible, identify the types of munitions at individual sites.
 
->         “(2) __Cooperation.—__ 
+>         “(2)  __Cooperation__  __.—__ 
 
 >         The Secretary shall request the assistance of the Coast Guard, the National Oceanic and Atmospheric Administration, and other relevant Federal agencies in conducting the review required by this subsection.
 
->         “(3) __Interim reports.—__ 
+>         “(3)  __Interim reports__  __.—__ 
 
 >         The Secretary shall periodically, but no less often than annually, release any new information obtained during the historical review conducted under paragraph (1). The Secretary may withhold from public release the exact nature and locations of munitions the potential unauthorized retrieval of which could pose a significant threat to the national defense or public safety.
 
->         “(4) __Inclusion of information in annual report on environmental restoration activities.—__ 
+>         “(4)  __Inclusion of information in annual report on environmental restoration activities__  __.—__ 
 
 >         The Secretary shall include the information obtained pursuant to the review conducted under paragraph (1) in the annual report on environmental restoration activities submitted to Congress under \[former\] [section 2706 of title 10][/us/usc/t10/s2706], United States Code.
 
->         “(5) __Final report.—__ 
+>         “(5)  __Final report__  __.—__ 
 
 >         The Secretary shall complete the historical review required under paragraph (1) and submit a final report on the findings of such review in the annual report on environmental restoration activities submitted to Congress for fiscal year 2009.
 
 >     “(b) __Identification of Navigational and Safety Hazards.—__ 
 
->         “(1) __Identification of hazards.—__ 
+>         “(1)  __Identification of hazards__  __.—__ 
 
 >         The Secretary of Defense shall provide available information to the Secretary of Commerce to assist the National Oceanic and Atmospheric Administration in preparing nautical charts and other navigational materials for coastal waters that identify known or potential hazards posed by disposed military munitions to private activities, including commercial shipping and fishing operations.
 
->         “(2) __Continuation of information activities.—__ 
+>         “(2)  __Continuation of information activities__  __.—__ 
 
 >         The Secretary of Defense shall continue activities to inform potentially affected users of the ocean environment, particularly fishing operations, of the possible hazards from contact with disposed military munitions and the proper methods to mitigate such hazards.
 
 >     “(c) __Research.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall continue to conduct research on the effects on the ocean environment and those who use it of military munitions disposed of in coastal waters.
 
->         “(2) __Scope.—__ 
+>         “(2)  __Scope__  __.—__ 
 
 >         Research under paragraph (1) shall include—
 
@@ -243,19 +243,19 @@
 
 >             “(E) the development of effective safety measures for dealing with such military munitions.
 
->         “(3) __Research criteria.—__ 
+>         “(3)  __Research criteria__  __.—__ 
 
 >         In conducting the research required by this subsection, the Secretary shall ensure that the sampling, analysis, and investigations are conducted at representative sites, taking into account factors such as depth, water temperature, nature of the military munitions present, and relative proximity to onshore populations. In conducting such research, the Secretary shall select at least two representative sites each in the areas of the Atlantic coast, the Pacific coast (including Alaska), and the Hawaiian Islands.
 
->         “(4) __Authority to make grants and enter into cooperative agreements.—__ 
+>         “(4)  __Authority to make grants and enter into cooperative agreements__  __.—__ 
 
 >         In conducting research under this subsection, the Secretary may make grants to, and enter into cooperative agreements with, qualified research entities.
 
->     “(d) __Monitoring.—__ 
+>     “(d)  __Monitoring__  __.—__ 
 
 >     If the historical review required by subsection (a) or the research required by subsection (c) indicates that contamination is being released into the ocean waters from disposed military munitions at a particular site or that the site poses a significant public health or safety risk, the Secretary of Defense shall institute appropriate monitoring mechanisms at that site and report to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] on any additional measures that may be necessary to address the release or risk, as applicable.
 
->     “(e) __Definitions.—__ 
+>     “(e)  __Definitions__  __.—__ 
 
 >     In this section:
 

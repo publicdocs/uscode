@@ -15,15 +15,15 @@
 
 ## § 1503. Actions of Secretary concerned; initial board inquiry
 
-    (a) __Determination by Secretary.—__ 
+    (a)  __Determination by Secretary__  __.—__ 
 
     Upon receiving a recommendation under [section 1502(a) of this title][/us/usc/t10/s1502/a] that a person be placed in a missing status, the Secretary receiving the recommendation shall review the recommendation and, not later than 10 days after receiving such recommendation, shall appoint a board under this section to conduct an inquiry into the whereabouts and status of the person.
 
-    (b) __Inquiries Involving More Than One Missing Person.—__ 
+    (b)  __Inquiries Involving More Than One Missing Person__  __.—__ 
 
     If it appears to the Secretary who appoints a board under this section that the absence or missing status of two or more persons is factually related, the Secretary may appoint a single board under this section to conduct the inquiry into the whereabouts and status of all such persons.
 
-    (c) __Composition.—__ 
+    (c)  __Composition__  __.—__ 
 
         (1) A board appointed under this section to inquire into the whereabouts and status of a person shall consist of at least one individual described in paragraph (2) who has experience with and understanding of military operations or activities similar to the operation or activity in which the person disappeared.
 
@@ -39,7 +39,7 @@
 
         (4) A Secretary appointing a board under this subsection shall, for purposes of providing legal counsel to the board, assign to the board a judge advocate, or appoint to the board an attorney, who has expertise in the law relating to missing persons, the determination of death of such persons, and the rights of family members and dependents of such persons.
 
-    (d) __Duties of Board.—__ 
+    (d)  __Duties of Board__  __.—__ 
 
     A board appointed to conduct an inquiry into the whereabouts and status of a missing person under this section shall—
 
@@ -57,7 +57,7 @@
 
             (B) the person be declared to have deserted, to be absent without leave, or (subject to the requirements of [section 1507 of this title][/us/usc/t10/s1507]) to be dead.
 
-    (e) __Board Proceedings.—__ 
+    (e)  __Board Proceedings__  __.—__ 
 
     During the proceedings of an inquiry under this section, a board shall—
 
@@ -67,7 +67,7 @@
 
         (3) maintain a record of its proceedings.
 
-    (f) __Counsel for Missing Person.—__ 
+    (f)  __Counsel for Missing Person__  __.—__ 
 
         (1) The Secretary appointing a board to conduct an inquiry under this section shall appoint counsel to represent each person covered by the inquiry or, in a case covered by subsection (b), one counsel to represent all persons covered by the inquiry. Counsel appointed under this paragraph may be referred to as “missing person’s counsel” and represents the interests of the person covered by the inquiry (and not any member of the person’s family or other interested parties). The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person’s primary next of kin and any other previously designated person of the person.
 
@@ -97,11 +97,11 @@
 
         (5) A missing person’s counsel shall review the report of the board under subsection (h) and submit to the Secretary concerned who appointed the board an independent review of that report. That review shall be made an official part of the record of the board.
 
-    (g) __Access to Proceedings.—__ 
+    (g)  __Access to Proceedings__  __.—__ 
 
     The proceedings of a board during an inquiry under this section shall be closed to the public (including, with respect to the person covered by the inquiry, the primary next of kin, other members of the immediate family, and any other previously designated person of the person).
 
-    (h) __Report.—__ 
+    (h)  __Report__  __.—__ 
 
         (1)
 
@@ -117,7 +117,7 @@
 
         (3) The Secretary of Defense shall prescribe procedures for the release of a report submitted under this subsection with respect to a missing person. Such procedures shall provide that the report may not be made public (except as provided for in subsection (j)) until one year after the date on which the report is submitted.
 
-    (i) __Determination by Secretary.—__ 
+    (i)  __Determination by Secretary__  __.—__ 
 
         (1) Not later than 30 days after receiving a report from a board under subsection (h), the Secretary receiving the report shall review the report.
 
@@ -135,7 +135,7 @@
 
             (D) be declared to be dead.
 
-    (j) __Report to Family Members and Other Interested Persons.—__ 
+    (j)  __Report to Family Members and Other Interested Persons__  __.—__ 
 
     Not later than 30 days after the date on which the Secretary concerned makes a determination of the status of a person under subsection (i), the Secretary shall take reasonable actions to—
 
@@ -149,7 +149,7 @@
 
         (2) inform each individual referred to in paragraph (1) that the United States will conduct a subsequent inquiry into the whereabouts and status of the person on or about one year after the date of the first official notice of the disappearance of the person, unless information becomes available sooner that may result in a change in status of the person.
 
-    (k) __Treatment of Determination.—__ 
+    (k)  __Treatment of Determination__  __.—__ 
 
     Any determination of the status of a missing person under subsection (i) shall be treated as the determination of the status of the person by all departments and agencies of the United States.
 

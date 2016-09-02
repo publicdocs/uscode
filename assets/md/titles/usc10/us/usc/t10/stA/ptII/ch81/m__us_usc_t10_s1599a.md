@@ -15,11 +15,11 @@
 
 ## § 1599a. Financial assistance to certain employees in acquisition of critical skills
 
-    (a) __Training Program.—__ 
+    (a)  __Training Program__  __.—__ 
 
     The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees in the Military Department Civilian Intelligence Personnel Management System that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 ([50 U.S.C. 402][/us/usc/t50/s402] note)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  for civilian employees of the National Security Agency.
 
-    (b) __Use of Funds for Training Program.—__ 
+    (b)  __Use of Funds for Training Program__  __.—__ 
 
     Any payment made by the Secretary to carry out the program required to be established by subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.
 

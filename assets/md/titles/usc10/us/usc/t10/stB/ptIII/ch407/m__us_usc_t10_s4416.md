@@ -15,7 +15,7 @@
 
 ## § 4416. Academy of Health Sciences: admission of civilians in physician assistant training program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of the Army may, pursuant to an agreement entered into with an accredited institution of higher education—
 
@@ -23,19 +23,19 @@
 
         (2) accept from the institution academic services to support the physician assistant training program at the Academy.
 
-    (b) __Agreement for Exchange of Services.—__ 
+    (b)  __Agreement for Exchange of Services__  __.—__ 
 
     An agreement entered into with an institution of higher education under this section shall require the institution, in exchange for services provided under paragraph (1) of subsection (a), to provide academic services described in paragraph (2) of such subsection that the Secretary and authorized representatives of the institution consider appropriate.
 
-    (c) __Selection of Students.—__ 
+    (c)  __Selection of Students__  __.—__ 
 
     In consultation with the authorized representatives of the institution of higher education concerned, the Secretary shall prescribe the qualifications and methods of selection for students of the institution to receive instruction at the Academy under this section. The qualifications shall be comparable to those generally required for admission to the physician assistant training program at the Academy.
 
-    (d) __Rules of Attendance.—__ 
+    (d)  __Rules of Attendance__  __.—__ 
 
     Except as the Secretary determines necessary, a student who receives instruction at the Academy under this section shall be subject to the same regulations governing attendance, discipline, discharge, and dismissal as apply to other persons attending the Academy.
 
-    (e) __Limitations.—__ 
+    (e)  __Limitations__  __.—__ 
 
     The Secretary shall ensure the following:
 

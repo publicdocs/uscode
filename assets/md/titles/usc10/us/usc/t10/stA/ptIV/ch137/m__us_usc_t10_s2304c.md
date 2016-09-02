@@ -15,7 +15,7 @@
 
 ## § 2304c. Task and delivery order contracts: orders
 
-    (a) __Issuance of Orders.—__ 
+    (a)  __Issuance of Orders__  __.—__ 
 
     The following actions are not required for issuance of a task or delivery order under a task or delivery order contract:
 
@@ -23,7 +23,7 @@
 
         (2) Except as provided in subsection (b), a competition (or a waiver of competition approved in accordance with [section 2304(f) of this title][/us/usc/t10/s2304/f]) that is separate from that used for entering into the contract.
 
-    (b) __Multiple Award Contracts.—__ 
+    (b)  __Multiple Award Contracts__  __.—__ 
 
     When multiple task or delivery order contracts are awarded under section 2304a(d)(1)(B) or 2304b(e) of this title, all contractors awarded such contracts shall be provided a fair opportunity to be considered, pursuant to procedures set forth in the contracts, for each task or delivery order in excess of $2,500 that is to be issued under any of the contracts unless—
 
@@ -35,11 +35,11 @@
 
         (4) it is necessary to place the order with a particular contractor in order to satisfy a minimum guarantee.
 
-    (c) __Statement of Work.—__ 
+    (c)  __Statement of Work__  __.—__ 
 
     A task or delivery order shall include a statement of work that clearly specifies all tasks to be performed or property to be delivered under the order.
 
-    (d) __Enhanced Competition for Orders in Excess of $5,000,000.—__ 
+    (d)  __Enhanced Competition for Orders in Excess of__  __$5,000,000.—__ 
 
     In the case of a task or delivery order in excess of $5,000,000, the requirement to provide all contractors a fair opportunity to be considered under subsection (b) is not met unless all such contractors are provided, at a minimum—
 
@@ -53,7 +53,7 @@
 
         (5) an opportunity for a post-award debriefing consistent with the requirements of [section 2305(b)(5) of this title][/us/usc/t10/s2305/b/5].
 
-    (e) __Protests.—__ 
+    (e)  __Protests__  __.—__ 
 
         (1)
 
@@ -65,11 +65,11 @@
 
         (2) Notwithstanding [section 3556 of title 31][/us/usc/t31/s3556], the Comptroller General of the United States shall have exclusive jurisdiction of a protest authorized under paragraph (1)(B).
 
-    (f) __Task and Delivery Order Ombudsman.—__ 
+    (f)  __Task and Delivery Order Ombudsman__  __.—__ 
 
     Each head of an agency who awards multiple task or delivery order contracts pursuant to section 2304a(d)(1)(B) or 2304b(e) of this title shall appoint or designate a task and delivery order ombudsman who shall be responsible for reviewing complaints from the contractors on such contracts and ensuring that all of the contractors are afforded a fair opportunity to be considered for task or delivery orders when required under subsection (b). The task and delivery order ombudsman shall be a senior agency official who is independent of the contracting officer for the contracts and may be the agency’s competition advocate.
 
-    (g) __Applicability.—__ 
+    (g)  __Applicability__  __.—__ 
 
     This section applies to task and delivery order contracts entered into under sections 2304a and 2304b of this title.
 

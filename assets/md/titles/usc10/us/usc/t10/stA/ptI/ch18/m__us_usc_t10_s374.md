@@ -181,7 +181,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 103–337, div. A, title X, § 1011(b)][/us/pl/103/337/s1011/b]–(d), Oct. 5, 1994, [108 Stat. 2836][/us/stat/108/2836], provided that:
 
->     “(b) __Condition on Transfer of Funds.—__ 
+>     “(b)  __Condition on Transfer of Funds__  __.—__ 
 
 >     Funds appropriated for the Department of Defense may not be transferred to a National Drug Control Program agency account except to the extent provided in a law that specifically states—
 
@@ -191,11 +191,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) the account to which such amount is authorized to be transferred.
 
->     “(c) __Condition on Detailing Personnel.—__ 
+>     “(c)  __Condition on Detailing Personnel__  __.—__ 
 
 >     Personnel of the Department of Defense may not be detailed to another department or agency in order to implement the National Drug Control Strategy unless the Secretary of Defense certifies to Congress that the detail of such personnel is in the national security interest of the United States.
 
->     “(d) __Relationship to Other Law.—__ 
+>     “(d)  __Relationship to Other Law__  __.—__ 
 
 >     A provision of law may not be construed as modifying or superseding the provisions of subsection (b) or (c) unless that provision of law—
 
@@ -249,7 +249,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [Pub. L. 101–510, div. A, title X, § 1004][/us/pl/101/510/s1004], Nov. 5, 1990, [104 Stat. 1629][/us/stat/104/1629], as amended by [Pub. L. 102–190, div. A, title X, § 1088(a)][/us/pl/102/190/s1088/a], Dec. 5, 1991, [105 Stat. 1484][/us/stat/105/1484]; [Pub. L. 102–484, div. A, title X, § 1041(a)][/us/pl/102/484/s1041/a]–(d)(1), Oct. 23, 1992, [106 Stat. 2491][/us/stat/106/2491]; [Pub. L. 103–160, div. A, title XI, § 1121(a)][/us/pl/103/160/s1121/a], (b), Nov. 30, 1993, [107 Stat. 1753][/us/stat/107/1753]; [Pub. L. 103–337, div. A, title X, § 1011(a)][/us/pl/103/337/s1011/a], Oct. 5, 1994, [108 Stat. 2836][/us/stat/108/2836]; [Pub. L. 105–261, div. A, title X, § 1021][/us/pl/105/261/s1021], Oct. 17, 1998, [112 Stat. 2120][/us/stat/112/2120]; [Pub. L. 107–107, div. A, title X, § 1021][/us/pl/107/107/s1021], Dec. 28, 2001, [115 Stat. 1212][/us/stat/115/1212]; [Pub. L. 109–364, div. A, title X, § 1021][/us/pl/109/364/s1021], Oct. 17, 2006, [120 Stat. 2382][/us/stat/120/2382]; [Pub. L. 111–383, div. A, title X, § 1015(a)][/us/pl/111/383/s1015/a], Jan. 7, 2011, [124 Stat. 4347][/us/stat/124/4347]; [Pub. L. 112–81, div. A, title X, § 1005][/us/pl/112/81/s1005], Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556], provided that:
 
->     “(a) __Support to Other Agencies.—__ 
+>     “(a)  __Support to Other Agencies__  __.—__ 
 
 >     During fiscal years 2012 through 2014, the Secretary of Defense may provide support for the counter-drug activities of any other department or agency of the Federal Government or of any State, local, tribal, or foreign law enforcement agency for any of the purposes set forth in subsection (b) if such support is requested—
 
@@ -259,7 +259,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) by an appropriate official of a department or agency of the Federal Government that has counter-drug responsibilities, in the case of support for foreign law enforcement agencies.
 
->     “(b) __Types of Support.—__ 
+>     “(b)  __Types of Support__  __.—__ 
 
 >     The purposes for which the Secretary of Defense may provide support under subsection (a) are the following:
 
@@ -301,29 +301,29 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(10) Aerial and ground reconnaissance.
 
->     “(c) __Limitation on Counter-Drug Requirements.—__ 
+>     “(c)  __Limitation on Counter-Drug Requirements__  __.—__ 
 
 >     The Secretary of Defense may not limit the requirements for which support may be provided under subsection (a) only to critical, emergent, or unanticipated requirements.
 
->     “(d) __Contract Authority.—__ 
+>     “(d)  __Contract Authority__  __.—__ 
 
 >     In carrying out subsection (a), the Secretary of Defense may acquire services or equipment by contract for support provided under that subsection if the Department of Defense would normally acquire such services or equipment by contract for the purpose of conducting a similar activity for the Department of Defense.
 
->     “(e) __Limited Waiver of Prohibition.—__ 
+>     “(e)  __Limited Waiver of Prohibition__  __.—__ 
 
 >     Notwithstanding [section 376 of title 10][/us/usc/t10/s376], United States Code, the Secretary of Defense may provide support pursuant to subsection (a) in any case in which the Secretary determines that the provision of such support would adversely affect the military preparedness of the United States in the short term if the Secretary determines that the importance of providing such support outweighs such short-term adverse effect.
 
->     “(f) __Conduct of Training or Operation To Aid Civilian Agencies.—__ 
+>     “(f)  __Conduct of Training or Operation To Aid Civilian Agencies__  __.—__ 
 
 >     In providing support pursuant to subsection (a), the Secretary of Defense may plan and execute otherwise valid military training or operations (including training exercises undertaken pursuant to section 1206(a) of the National Defense Authorization Act for Fiscal Years 1990 and 1991 ([Public Law 101–189][/us/pl/101/189]; [103 Stat. 1564][/us/stat/103/1564] \[[10 U.S.C. 124][/us/usc/t10/s124] note\])) for the purpose of aiding civilian law enforcement agencies.
 
->     “(g) __Relationship to Other Laws.—__ 
+>     “(g)  __Relationship to Other Laws__  __.—__ 
 
 >         (1) The authority provided in this section for the support of counter-drug activities by the Department of Defense is in addition to, and except as provided in paragraph (2), not subject to the requirements of chapter 18 of title 10, United States Code.
 
 >         “(2) Support under this section shall be subject to the provisions of section 375 and, except as provided in subsection (e), [section 376 of title 10][/us/usc/t10/s376], United States Code.
 
->     “(h) __Congressional Notification of Facilities Projects.—__ 
+>     “(h)  __Congressional Notification of Facilities Projects__  __.—__ 
 
 >         (1) When a decision is made to carry out a military construction project described in paragraph (2), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] written notice of the decision, including the justification for the project and the estimated cost of the project. The project may be commenced only after the end of the 21-day period beginning on the date on which the written notice is received by Congress.
 
@@ -337,7 +337,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) This subsection may not be construed as an authorization for the use of funds for any military construction project that would exceed the approved cost limitations of an unspecified minor military construction project under [section 2805(a)(2) of title 10][/us/usc/t10/s2805/a/2], United States Code.
 
->     “(i) __Definitions Relating to Tribal Governments.—__ 
+>     “(i)  __Definitions Relating to Tribal Governments__  __.—__ 
 
 >     In this section:
 

@@ -15,11 +15,11 @@
 
 ## § 12532. Termination for nonpayment of premiums; forfeiture
 
-    (a) __Termination for Nonpayment.—__ 
+    (a)  __Termination for Nonpayment__  __.—__ 
 
     The coverage of a member under the insurance program shall terminate without prior notice upon a failure of the member to make required monthly payments of premiums for two consecutive months. The Secretary may provide in the regulations for reinstatement of insurance coverage terminated under this subsection.
 
-    (b) __Forfeiture.—__ 
+    (b)  __Forfeiture__  __.—__ 
 
     Any person convicted of mutiny, treason, spying, or desertion, or who refuses to perform service in the armed forces or refuses to wear the uniform of any of the armed forces shall forfeit all rights to insurance under this chapter.
 

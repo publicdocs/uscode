@@ -15,15 +15,15 @@
 
 ## § 127c. Purchase of weapons overseas: force protection
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     When elements of the armed forces are engaged in ongoing military operations in a country, the Secretary of Defense may, for the purpose of protecting United States forces in that country, purchase weapons from any foreign person, foreign government, international organization, or other entity located in that country.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     The total amount expended during any fiscal year for purchases under this section may not exceed $15,000,000.
 
-    (c) __Semiannual Congressional Report.—__ 
+    (c)  __Semiannual Congressional Report__  __.—__ 
 
     In any case in which the authority provided in subsection (a) is used during the period of the first six months of a fiscal year, or during the period of the second six months of a fiscal year, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and Committee on Armed Services of the House of Representatives a report on the use of that authority during that six-month period. Each such report shall be submitted not later than 30 days after the end of the six-month period during which the authority is used. Each such report shall include the following:
 

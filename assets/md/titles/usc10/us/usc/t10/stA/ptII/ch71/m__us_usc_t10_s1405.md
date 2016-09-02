@@ -15,7 +15,7 @@
 
 ## § 1405. Years of service
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     For the purposes of the computation of the years of service of a member of the armed forces under a provision of this title providing for such computation to be made under this section, the years of service of the member are computed by adding—
 
@@ -25,7 +25,7 @@
 
         (3) the years of service, not included in clause (1) or (2), with which he would be entitled to be credited under [section 12733 of this title][/us/usc/t10/s12733] if he were entitled to retired pay under [section 12731 of this title][/us/usc/t10/s12731].
 
-    (b) __Fractional Years of Service.—__ 
+    (b)  __Fractional Years of Service__  __.—__ 
 
     In determining a member’s years of service under subsection (a)—
 
@@ -33,7 +33,7 @@
 
         (2) any remaining fractional part of a month shall be disregarded.
 
-    (c) __Exclusion of Time Required To Be Made Up or Excluded.—__ 
+    (c)  __Exclusion of Time Required To Be Made Up or Excluded__  __.—__ 
 
         (1) Time required to be made up by an enlisted member of the Army or Air Force under [section 972(a) of this title][/us/usc/t10/s972/a], or required to be made up by an enlisted member of the Navy, Marine Corps, or Coast Guard under that section with respect to a period of time after October 5, 1994, may not be counted in determining years of service under subsection (a).
 

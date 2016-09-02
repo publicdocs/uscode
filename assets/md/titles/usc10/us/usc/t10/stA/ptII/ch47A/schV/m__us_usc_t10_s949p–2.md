@@ -15,17 +15,17 @@
 
 ## § 949p–2. Pretrial conference
 
-    (a) __Motion.—__ 
+    (a)  __Motion__  __.—__ 
 
     At any time after service of charges, any party may move for a pretrial conference to consider matters relating to classified information that may arise in connection with the prosecution.
 
-    (b) __Conference.—__ 
+    (b)  __Conference__  __.—__ 
 
     Following a motion under subsection (a), or sua sponte, the military judge shall promptly hold a pretrial conference. Upon request by either party, the court shall hold such conference ex parte to the extent necessary to protect classified information from disclosure, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.).
 
     (c) __Matters To Be Established at Pretrial Conference.—__ 
 
-        (1) __Timing of subsequent actions.—__ 
+        (1)  __Timing of subsequent actions__  __.—__ 
 
         At the pretrial conference, the military judge shall establish the timing of—
 
@@ -35,7 +35,7 @@
 
             (C) the initiation of the procedure established by [section 949p–6 of this title][/us/usc/t10/s949p–6].
 
-        (2) __Other matters.—__ 
+        (2)  __Other matters__  __.—__ 
 
         At the pretrial conference, the military judge may also consider any matter—
 
@@ -43,7 +43,7 @@
 
             (B) which may promote a fair and expeditious trial.
 
-    (d) __Effect of Admissions by Accused at Pretrial Conference.—__ 
+    (d)  __Effect of Admissions by Accused at Pretrial Conference__  __.—__ 
 
     No admission made by the accused or by any counsel for the accused at a pretrial conference under this section may be used against the accused unless the admission is in writing and is signed by the accused and by the counsel for the accused.
 

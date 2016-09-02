@@ -15,11 +15,11 @@
 
 ## § 10219. Suicide prevention and resilience program
 
-    (a) __Program Requirement.—__ 
+    (a)  __Program Requirement__  __.—__ 
 
     The Secretary of Defense shall establish and carry out a program to provide members of the National Guard and Reserves and their families with training in suicide prevention, resilience, and community healing and response to suicide, including provision of such training at Yellow Ribbon Reintegration Program events and activities authorized under section 582 of the National Defense Authorization Act for Fiscal Year 2008 ([10 U.S.C. 10101][/us/usc/t10/s10101] note).
 
-    (b) __Suicide Prevention Training.—__ 
+    (b)  __Suicide Prevention Training__  __.—__ 
 
     Under the program, the Secretary shall provide members of the National Guard and Reserves with training in suicide prevention. Such training may include—
 
@@ -29,7 +29,7 @@
 
         (3) engaging in interactive case scenarios and role plays to practice effective intervention strategies.
 
-    (c) __Community Response Training.—__ 
+    (c)  __Community Response Training__  __.—__ 
 
     Under the program, the Secretary shall provide the families and communities of members of the National Guard and Reserves with training in responses to suicide that promote individual and community healing. Such training may include—
 
@@ -41,15 +41,15 @@
 
         (4) managing resources to assist key community and military service providers in helping the families, friends, and fellow servicemembers of a suicide victim through the processes of grieving and healing.
 
-    (d) __Community Training Assistance.—__ 
+    (d)  __Community Training Assistance__  __.—__ 
 
     The program shall include the provision of assistance with such training to the local communities of those servicemembers and families, to be provided in coordination with local community programs.
 
-    (e) __Collaboration.—__ 
+    (e)  __Collaboration__  __.—__ 
 
     In carrying out the program, the Secretary shall collect and analyze “lessons learned” and suggestions from State National Guard and Reserve organizations with existing or developing suicide prevention and community response programs.
 
-    (f) __Termination.—__ 
+    (f)  __Termination__  __.—__ 
 
     The program under this section shall terminate on October 1, 2017.
 

@@ -15,11 +15,11 @@
 
 ## § 14307. Number of officers to be recommended for promotion
 
-    (a) __Determination of Maximum Number.—__ 
+    (a)  __Determination of Maximum Number__  __.—__ 
 
     Before convening a promotion board under [section 14101(a) of this title][/us/usc/t10/s14101/a] for a grade and competitive category (other than a vacancy promotion board), the Secretary of the military department concerned, under regulations prescribed by the Secretary of Defense, shall determine the maximum number of officers in that grade and competitive category that the board may recommend for promotion. The Secretary shall make the determination under the preceding sentence of the maximum number that may be recommended with a view to having on the reserve active-status list a sufficient number of officers in each grade and competitive category to meet the needs of the armed force concerned for officers on that list. In order to make that determination, the Secretary shall determine (1) the number of positions needed to accomplish mission objectives which require officers of such competitive category in the grade to which the board will recommend officers for promotion, (2) the estimated number of officers needed to fill vacancies in such positions during the period in which it is anticipated that officers selected for promotion will be promoted, (3) the number of officers authorized by the Secretary of the military department concerned to serve on the reserve active-status list in the grade and competitive category under consideration, and (4) any statutory limitation on the number of officers in any grade or category (or combination thereof) authorized to be on the reserve active-status list.
 
-    (b) __Below-the-Zone Selections.—__ 
+    (b)  __Below-the-Zone Selections__  __.—__ 
 
         (1) The Secretary of the military department concerned may, when the needs of the armed force concerned require, authorize the consideration of officers in the grade of captain, major, or lieutenant colonel on the reserve active-status list of the Army or Air Force, in a grade above first lieutenant on the reserve active-status list of the Marine Corps, or in a grade above lieutenant (junior grade) on the reserve active-status list of the Navy, for promotion to the next higher grade from below the promotion zone.
 

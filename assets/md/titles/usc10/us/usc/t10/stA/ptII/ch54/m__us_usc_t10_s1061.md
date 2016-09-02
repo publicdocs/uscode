@@ -15,11 +15,11 @@
 
 ## § 1061. Survivors of certain Reserve and Guard members
 
-    (a) __Benefits.—__ 
+    (a)  __Benefits__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations to allow dependents of members of the uniformed services described in subsection (b) to use commissary and exchange stores on the same basis as dependents of members of the uniformed services who die while on active duty for a period of more than 30 days.
 
-    (b) __Covered Dependents.—__ 
+    (b)  __Covered Dependents__  __.—__ 
 
     A dependent referred to in subsection (a) is a dependent of a member of a uniformed service who died—
 

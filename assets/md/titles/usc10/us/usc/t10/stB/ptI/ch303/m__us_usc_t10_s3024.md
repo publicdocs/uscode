@@ -15,15 +15,15 @@
 
 ## § 3024. Director of Small Business Programs
 
-    (a) __Director.—__ 
+    (a)  __Director__  __.—__ 
 
     There is a Director of Small Business Programs in the Department of the Army. The Director is appointed by the Secretary of the Army.
 
-    (b) __Office of Small Business Programs.—__ 
+    (b)  __Office of Small Business Programs__  __.—__ 
 
     The Office of Small Business Programs of the Department of the Army is the office that is established within the Department of the Army under section 15(k) of the Small Business Act ([15 U.S.C. 644(k)][/us/usc/t15/s644/k]). The Director of Small Business Programs is the head of such office.
 
-    (c) __Duties and Powers.—__ 
+    (c)  __Duties and Powers__  __.—__ 
 
         (1) The Director of Small Business Programs shall, subject to paragraph (2), perform such duties regarding small business programs of the Department of the Army, and shall exercise such powers regarding those programs, as the Secretary of the Army may prescribe.
 

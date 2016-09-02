@@ -15,7 +15,7 @@
 
 ## § 127d. Allied forces participating in combined operations: authority to provide logistic support, supplies, and services
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
         (1) Subject to subsections (b) and (c), the Secretary of Defense may provide logistic support, supplies, and services to allied forces participating in a combined operation with the armed forces of the United States.
 
@@ -23,7 +23,7 @@
 
         (3) Provision of support, supplies, and services pursuant to paragraph (1) or (2) may be made only with the concurrence of the Secretary of State.
 
-    (b) __Limitations.—__ 
+    (b)  __Limitations__  __.—__ 
 
         (1) The authority provided by subsection (a)(1) may be used only in accordance with the Arms Export Control Act and other export control laws of the United States.
 
@@ -41,13 +41,13 @@
 
                 (ii) would not be able to participate in the combined operation but for the provision of such logistic support, supplies, and services by the Secretary.
 
-    (c) __Limitations on Value.—__ 
+    (c)  __Limitations on Value__  __.—__ 
 
         (1) The value of logistic support, supplies, and services provided under subsection (a)(1) in any fiscal year may not exceed $100,000,000.
 
         (2) The value of the logistic support, supplies, and services provided under subsection (a)(2) in any fiscal year may not exceed $5,000,000.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1) Not later than December 31 each year, the Secretary of Defense shall submit to the Committee on Armed Services and the Committee on Foreign Relations of the Senate and the Committee on Armed Services and the Committee on Foreign Affairs of the House of Representatives a report on the use of the authority provided by subsection (a) during the preceding fiscal year.
 
@@ -61,7 +61,7 @@
 
             (B) For each such nation, a description of the type and value of logistic support, supplies, and services so provided.
 
-    (e) __Definition.—__ 
+    (e)  __Definition__  __.—__ 
 
     In this section, the term “logistic support, supplies, and services” has the meaning given that term in [section 2350(1) of this title][/us/usc/t10/s2350/1].
 

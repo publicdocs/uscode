@@ -15,7 +15,7 @@
 
 ## § 2350e. NATO Airborne Warning and Control System (AWACS) program: authority of Secretary of Defense
 
-    (a) __Authority Under AWACS Program.—__ 
+    (a)  __Authority Under AWACS Program__  __.—__ 
 
     The Secretary of Defense, in carrying out an AWACS memorandum of understanding, may do the following:
 
@@ -51,11 +51,11 @@
 
             (C) the United States share of the unfunded termination liability.
 
-    (b) __Contract Authority Limitation.—__ 
+    (b)  __Contract Authority Limitation__  __.—__ 
 
     Authority under this section to enter into contracts shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “AWACS memorandum of understanding” means—
 

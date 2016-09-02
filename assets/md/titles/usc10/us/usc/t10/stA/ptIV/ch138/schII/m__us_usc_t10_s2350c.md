@@ -75,33 +75,33 @@
 
 >     “(a) __Participation Authorized.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense may, with the concurrence of the Secretary of State, authorize the participation of the United States in the Air Transport, Air-to-Air Refueling and other Exchanges of Services program (in this section referred to as the ‘ATARES program’) of the Movement Coordination Centre Europe.
 
->         “(2) __Scope of participation.—__ 
+>         “(2)  __Scope of participation__  __.—__ 
 
 >         Participation in the ATARES program under paragraph (1) shall be limited to the reciprocal exchange or transfer of air transportation and air refueling services on a reimbursable basis or by replacement-in-kind or the exchange of air transportation or air refueling services of an equal value.
 
->         “(3) __Limitations.—__ 
+>         “(3)  __Limitations__  __.—__ 
 
 >         The United States’ balance of executed flight hours, whether as credits or debits, in participation in the ATARES program under paragraph (1) may not exceed 500 hours. The United States’ balance of executed flight hours for air refueling in the ATARES program under paragraph (1) may not exceed 200 hours.
 
 >     “(b) __Written Arrangement or Agreement.—__ 
 
->         “(1) __Arrangement or agreement required.—__ 
+>         “(1)  __Arrangement or agreement required__  __.—__ 
 
 >         The participation of the United States in the ATARES program under subsection (a) shall be in accordance with a written arrangement or agreement entered into by the Secretary of Defense, with the concurrence of the Secretary of State, and the Movement Coordination Centre Europe.
 
->         “(2) __Funding arrangements.—__ 
+>         “(2)  __Funding arrangements__  __.—__ 
 
 >         If Department of Defense facilities, equipment, or funds are used to support the ATARES program, the written arrangement or agreement under paragraph (1) shall specify the details of any equitable cost sharing or other funding arrangement.
 
->         “(3) __Other elements.—__ 
+>         “(3)  __Other elements__  __.—__ 
 
 >         Any written arrangement or agreement entered into under paragraph (1) shall require that any accrued credits and liabilities resulting from an unequal exchange or transfer of air transportation or air refueling services shall be liquidated, not less than once every five years, through the ATARES program.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     In carrying out any written arrangement or agreement entered into under subsection (b), the Secretary of Defense may—
 
@@ -109,7 +109,7 @@
 
 >         “(2) assign members of the Armed Forces or Department of Defense civilian personnel, from among members and personnel within billets authorized for the United States European Command, to duty at the Movement Coordination Centre Europe as necessary to fulfill the United States’ obligations under that arrangement or agreement.
 
->     “(d) __Crediting of Receipts.—__ 
+>     “(d)  __Crediting of Receipts__  __.—__ 
 
 >     Any amount received by the United States in carrying out a written arrangement or agreement entered into under subsection (b) shall be credited, as elected by the Secretary of Defense, to the following:
 
@@ -117,7 +117,7 @@
 
 >         “(2) An appropriation, fund, or account currently available for the purposes for which such obligation was made.
 
->     “(e) __Annual Secretary of Defense Reports.—__ 
+>     “(e)  __Annual Secretary of Defense Reports__  __.—__ 
 
 >     Not later than 30 days after the end of each fiscal year in which the authority provided by this section is in effect, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on United States participation in the ATARES program during such fiscal year. Each report shall include the following:
 
@@ -131,11 +131,11 @@
 
 >         “(5) A description of any amounts received by the United States in carrying out a written arrangement or agreement entered into under subsection (b).
 
->     “(f) __Comptroller General of United States Report.—__ 
+>     “(f)  __Comptroller General of United States Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Jan. 2, 2013\], the Comptroller General of the United States shall submit to the congressional defense committees a report on the ATARES program. The report shall set forth the assessment of the Comptroller General of the program, including the types of services available under the program, whether the program is achieving its intended purposes, and, on the basis of actual cost data from the performance of the program, the cost-effectiveness of the program.
 
->     “(g) __Expiration.—__ 
+>     “(g)  __Expiration__  __.—__ 
 
 >     The authority provided by this section to participate in the ATARES program shall expire five years after the date on which the Secretary of Defense first enters into a written arrangement or agreement under subsection (b). The Secretary shall publish notice of such date on a public website of the Department of Defense.”
 
@@ -145,7 +145,7 @@
 
 >     “(a) __Authority To Participate in Partnership.—__ 
 
->         “(1) __Memorandum of understanding.—__ 
+>         “(1)  __Memorandum of understanding__  __.—__ 
 
 >         The Secretary of Defense may enter into a multilateral memorandum of understanding authorizing the Strategic Airlift Capability Partnership to conduct activities necessary to accomplish its purpose, including—
 
@@ -153,11 +153,11 @@
 
 >             “(B) the acquisition or transfer of airlift and airlift-related services and supplies among members of the Strategic Airlift Capability Partnership, or between the Partnership and non-member countries or international organizations, on a reimbursable basis or by replacement-in-kind or exchange of airlift or airlift-related services of an equal value.
 
->         “(2) __Payments.—__ 
+>         “(2)  __Payments__  __.—__ 
 
 >         From funds available to the Department of Defense for such purpose, the Secretary of Defense may pay the United States equitable share of the recurring and non-recurring costs of the activities and operations of the Strategic Airlift Capability Partnership, including costs associated with procurement of aircraft components and spare parts, maintenance, facilities, and training, and the costs of claims.
 
->     “(b) __Authorities Under Partnership.—__ 
+>     “(b)  __Authorities Under Partnership__  __.—__ 
 
 >     In carrying out the memorandum of understanding entered into under subsection (a), the Secretary of Defense may do the following:
 
@@ -183,7 +183,7 @@
 
 >         “(3) Pay the salaries, travel, lodging, and subsistence expenses of Department of Defense personnel assigned for duty to the Strategic Airlift Capability Partnership without seeking reimbursement or cost-sharing for such expenses.
 
->     “(c) __Crediting of Receipts.—__ 
+>     “(c)  __Crediting of Receipts__  __.—__ 
 
 >     Any amount received by the United States in carrying out the memorandum of understanding entered into under subsection (a) shall be credited, as elected by the Secretary of Defense, to the following:
 
@@ -193,15 +193,15 @@
 
 >     “(d) __Authority To Transfer Aircraft.—__ 
 
->         “(1) __Transfer authority.—__ 
+>         “(1)  __Transfer authority__  __.—__ 
 
 >         The Secretary of Defense may transfer one strategic airlift aircraft to the Strategic Airlift Capability Partnership in accordance with the terms and conditions of the memorandum of understanding entered into under subsection (a).
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than 30 days before the date on which the Secretary transfers a strategic airlift aircraft under paragraph (1), the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the strategic airlift aircraft to be transferred, including the type of strategic airlift aircraft to be transferred and the tail registration or serial number of such aircraft.
 
->     “(e) __Strategic Airlift Capability Partnership Defined.—__ 
+>     “(e)  __Strategic Airlift Capability Partnership Defined__  __.—__ 
 
 >     In this section the term ‘Strategic Airlift Capability Partnership’ means the strategic airlift capability consortium established by the United States and other participating countries.”
 

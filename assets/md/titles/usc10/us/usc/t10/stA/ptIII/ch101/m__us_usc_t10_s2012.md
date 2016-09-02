@@ -15,7 +15,7 @@
 
 ## § 2012. Support and services for eligible organizations and activities outside Department of Defense
 
-    (a) __Authority To Provide Services and Support.—__ 
+    (a)  __Authority To Provide Services and Support__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, the Secretary of a military department may in accordance with this section authorize units or individual members of the armed forces under that Secretary’s jurisdiction to provide support and services to non-Department of Defense organizations and activities specified in subsection (e), but only if—
 
@@ -23,7 +23,7 @@
 
         (2) the provision of such assistance is incidental to military training.
 
-    (b) __Scope of Covered Activities Subject to Section.—__ 
+    (b)  __Scope of Covered Activities Subject to Section__  __.—__ 
 
     This section does not—
 
@@ -31,7 +31,7 @@
 
         (2) prohibit the Secretary concerned from encouraging members of the armed forces under the Secretary’s jurisdiction to provide volunteer support for community relations activities under regulations prescribed by the Secretary of Defense.
 
-    (c) __Requirement for Specific Request.—__ 
+    (c)  __Requirement for Specific Request__  __.—__ 
 
     Assistance under subsection (a) may only be provided if—
 
@@ -39,7 +39,7 @@
 
         (2) the assistance is not reasonably available from a commercial entity or (if so available) the official submitting the request for assistance certifies that the commercial entity that would otherwise provide such services has agreed to the provision of such services by the armed forces.
 
-    (d) __Relationship to Military Training.—__ 
+    (d)  __Relationship to Military Training__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
         (2) Subparagraph (A)(i) of paragraph (1) does not apply in a case in which the assistance to be provided consists primarily of military manpower and the total amount of such assistance in the case of a particular project does not exceed 100 man-hours.
 
-    (e) __Eligible Entities.—__ 
+    (e)  __Eligible Entities__  __.—__ 
 
     The following organizations and activities are eligible for assistance under this section:
 
@@ -69,7 +69,7 @@
 
         (3) Any other entity as may be approved by the Secretary of Defense on a case-by-case basis.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations governing the provision of assistance under this section. The regulations shall include the following:
 
@@ -87,13 +87,13 @@
 
         (4) Procedures to ensure that Department of Defense resources are not applied exclusively to the program receiving the assistance.
 
-    (g) __Treatment of Member’s Participation in Provision of Support or Services.—__ 
+    (g)  __Treatment of Member’s Participation in Provision of Support or Services__  __.—__ 
 
         (1) The Secretary of a military department may not require or request a member of the armed forces to submit for consideration by a selection board (including a promotion board, command selection board, or any other kind of selection board) evidence of the member’s participation in the provision of support and services to non-Department of Defense organizations and activities under this section or the member’s involvement in, or support of, other community relations and public affairs activities of the armed forces.
 
         (2) Paragraph (1) does not prevent a selection board from considering material submitted voluntarily by a member of the armed forces which provides evidence of the participation of that member or another member in activities described in that paragraph.
 
-    (h) __Advisory Councils.—__ 
+    (h)  __Advisory Councils__  __.—__ 
 
         (1) The Secretary of Defense shall encourage the establishment of advisory councils at regional, State, and local levels, as appropriate, in order to obtain recommendations and guidance concerning assistance under this section from persons who are knowledgeable about regional, State, and local conditions and needs.
 
@@ -101,7 +101,7 @@
 
         (3) The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to such councils.
 
-    (i) __Construction of Provision.—__ 
+    (i)  __Construction of Provision__  __.—__ 
 
     Nothing in this section shall be construed as authorizing—
 
@@ -109,7 +109,7 @@
 
         (2) the use of Department of Defense personnel or resources for any program, project, or activity that is prohibited by law.
 
-    (j) __Oversight and Cost Accounting.—__ 
+    (j)  __Oversight and Cost Accounting__  __.—__ 
 
     The Secretary of Defense shall establish a program to improve the oversight and cost accounting of training projects conducted in accordance with this section. The program shall include measures to accomplish the following:
 

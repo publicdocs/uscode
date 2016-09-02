@@ -31,15 +31,15 @@
 
 [Pub. L. 112–239, div. A, title V, § 513][/us/pl/112/239/s513], Jan. 2, 2013, [126 Stat. 1718][/us/stat/126/1718], provided that:
 
->     “(a) __Transition Assistance Advisor Program Authorized.—__ 
+>     “(a)  __Transition Assistance Advisor Program Authorized__  __.—__ 
 
 >     The Chief of the National Guard Bureau may establish a program to provide professionals (to be known as Transition Assistance Advisors) in each State to serve as points of contact to assist eligible members of the reserve components in accessing benefits and health care furnished under laws administered by the Secretary of Defense and benefits and health care furnished under laws administered by the Secretary of Veterans Affairs.
 
->     “(b) __Eligible Members.—__ 
+>     “(b)  __Eligible Members__  __.—__ 
 
 >     To be eligible for assistance under this section, a member of a reserve component must have served on active duty in the Armed Forces for a period of more than 180 consecutive days.
 
->     “(c) __Duties.—__ 
+>     “(c)  __Duties__  __.—__ 
 
 >     The duties of a Transition Assistance Advisor include the following:
 
@@ -51,7 +51,7 @@
 
 >         “(4) To provide information on educational support services available to the member, including Post-9/11 Educational Assistance under chapter 33 of title 38, United States Code.
 
->     “(d) __Transition Plans.—__ 
+>     “(d)  __Transition Plans__  __.—__ 
 
 >     The individual transition plan referred to in subsection (c)(1) created for an eligible member of a reserve component shall include at a minimum the following:
 
@@ -63,11 +63,11 @@
 
 >         “(4) Such other information determined to be essential for the transition of the member, as determined by the Chief of the National Guard Bureau in consultation with the Secretary of Defense and the Secretary of Veterans Affairs.
 
->     “(e) __Funding.—__ 
+>     “(e)  __Funding__  __.—__ 
 
 >     Funding for Transition Assistance Advisors for a fiscal year shall be derived from amounts authorized to be appropriated for operation and maintenance for the National Guard for that fiscal year.
 
->     “(f) __State Defined.—__ 
+>     “(f)  __State Defined__  __.—__ 
 
 >     In this section, the term ‘State’ means each of the several States of the United States, the District of Columbia, and any territory of the United States.”
 
@@ -75,21 +75,21 @@
 
 [Pub. L. 103–335, title VIII, § 8129][/us/pl/103/335/s8129], Sept. 30, 1994, [108 Stat. 2652][/us/stat/108/2652], provided that:
 
->     “(a) __Finding.—__ 
+>     “(a)  __Finding__  __.—__ 
 
 >     Congress finds that the implementation of the off-site agreement may result in the loss to the Armed Forces of military personnel who have significant military experience and expertise.
 
->     “(b) __Reassignment of Members.—__ 
+>     “(b)  __Reassignment of Members__  __.—__ 
 
 >         (1) To the maximum extent practicable, the Secretary of the Army shall ensure that members of the Armed Forces who would otherwise be separated from service as a result of the deactivation of military units of the Army National Guard and the Army Reserve under the off-site agreement be reassigned instead to units that are not being deactivated.
 
 >         “(2) The reassignment of a member under paragraph (1) shall not affect the grade or rank in grade of the member.
 
->     “(c) __Reports.—__ 
+>     “(c)  __Reports__  __.—__ 
 
 >     Not later than April 15 and October 15 of each calendar year while the off-site agreement is in effect, the Secretary of the Army shall submit to the congressional defense committees a semi-annual report on the number of members of the Armed Forces who were reassigned under subsection (b)(1) during the preceding six months.
 
->     “(d) __Definitions.—__ 
+>     “(d)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -127,21 +127,21 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 4413. __RESTRICTION ON RESERVE FORCE REDUCTION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     During the force reduction transition period, a member of the Selected Reserve may not be involuntarily discharged from a reserve component of the Armed Forces, or involuntarily transferred from the Selected Reserve, before the Secretary of Defense has prescribed and implemented regulations that govern the treatment of members of the Selected Reserve assigned to such units and members of the Selected Reserve that are being subjected to such actions and a copy of such regulations has been transmitted to the Committees on Armed Services of the Senate and House of Representatives.
 
->     “(b) __Savings Provision.—__ 
+>     “(b)  __Savings Provision__  __.—__ 
 
 >     Subsection (a) shall not apply to actions completed before the date of the enactment of this Act \[Oct. 23, 1992\].
 
 > “SEC. 4414. __TRANSITION PLAN REQUIREMENTS.__ 
 
->     “(a) __Purpose of Plan.—__ 
+>     “(a)  __Purpose of Plan__  __.—__ 
 
 >     The purpose of the regulations referred to in section 4413 shall be to ensure that the members of the Selected Reserve are treated with fairness, with respect for their service to their country, and with attention to the adverse personal consequences of Selected Reserve unit inactivations, involuntary discharges of such members from the reserve components of the Armed Forces, and involuntary transfers of such members from the Selected Reserve.
 
->     “(b) __Scope of Plan.—__ 
+>     “(b)  __Scope of Plan__  __.—__ 
 
 >     The regulations shall include—
 
@@ -149,7 +149,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) such other policies and procedures for the recruitment of personnel for service in the Selected Reserve of the Ready Reserve, and for the reassignment, retraining, separation, and retirement of members of the Selected Reserve, as are appropriate for satisfying the needs of the Selected Reserve together with the purpose set out in subsection (a).
 
->     “(c) __Minimum Requirements for Plan.—__ 
+>     “(c)  __Minimum Requirements for Plan__  __.—__ 
 
 >     The regulations shall include the following:
 
@@ -167,7 +167,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(4) Such other protections, preferences, and benefits as the Secretary of Defense considers appropriate.
 
->     “(d) __Uniform Applicability.—__ 
+>     “(d)  __Uniform Applicability__  __.—__ 
 
 >     The regulations shall apply uniformly to the Army, Navy, Air Force, and Marine Corps.
 
@@ -193,7 +193,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 4416. __FORCE REDUCTION PERIOD RETIREMENTS.__ 
 
->     “(a) __Temporary Special Authority for Elimination of Officers From Active Status.—__ 
+>     “(a)  __Temporary Special Authority for Elimination of Officers From Active Status__  __.—__ 
 
 >         (1) During the force reduction transition period, the Secretary of the Army and the Secretary of the Air Force may, whenever the Secretary determines that such action is necessary, convene a board to recommend an appropriate number of officers in the reserve components of the Army or the Air Force, as the case may be, who (A) have met the age and service requirements specified in [section 12731 of title 10][/us/usc/t10/s12731], United States Code, for entitlement to retired pay for nonregular service except for not being at least 60 years of age, or (B) are immediately eligible for retired pay based on military service under any provision of law, for elimination from an active status.
 
@@ -201,7 +201,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) A member of the Army National Guard of the United States or the Air National Guard of the United States may not be eliminated from an active status under this section without the consent of the Governor or other appropriate authority of the State or territory, Puerto Rico, or the District of Columbia, whichever is concerned.
 
->     “(b) __Temporary Special Authority.—__ 
+>     “(b)  __Temporary Special Authority__  __.—__ 
 
 >     During the force reduction transition period, the Secretary concerned may grant a member of the Selected Reserve under the age of 60 years the annual payments provided for under this section if—
 
@@ -213,11 +213,11 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(c) __\[Repealed.__  __[__  __Pub. L. 103–160, div. A, title V, § 561(f)(2)(B)__  __][/us/pl/103/160/s561/f/2/B]__  __,__  __Nov. 30, 1993__  __,__  __[__  __107 Stat. 1667__  __][/us/stat/107/1667]__  __.\]__ 
 
->     “(d) __Annual Payment Period.—__ 
+>     “(d)  __Annual Payment Period__  __.—__ 
 
 >     An annual payment granted to a member under this section shall be paid for a period of years prescribed by the Secretary concerned, except that if the member attains 60 years of age during that period the entitlement to the annual payment shall terminate on the member’s 60th birthday. A period prescribed for purposes of this subsection may not be less than one year nor more than five years.
 
->     “(e) __Computation of Annual Payment.—__ 
+>     “(e)  __Computation of Annual Payment__  __.—__ 
 
 >         (1) The annual payment for a member shall be equal to the amount determined by multiplying the product of 12 and the applicable percent under paragraph (2) by the monthly basic pay to which the member would be entitled if the member were serving on active duty as of the date the member is transferred to the Retired Reserve.
 
@@ -229,37 +229,37 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(3) In the case of a member who will attain 60 years of age during the 12-month period following the date on which an annual payment is due, the payment shall be paid on a prorated basis of one-twelfth of the annual payment for each full month between the date on which the payment is due and the date on which the member attains age 60.
 
->     “(f) __Applicability Subject to Needs of the Service.—__ 
+>     “(f)  __Applicability Subject to Needs of the Service__  __.—__ 
 
 >         (1) Subject to regulations prescribed by the Secretary of Defense, the Secretary concerned may limit the applicability of this section to any category of personnel defined by the Secretary concerned in order to meet a need of the armed force under the jurisdiction of the Secretary concerned to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
 >         “(2) A limitation under paragraph (1) shall be consistent with the purpose set forth in section 4414(a).
 
->     “(g) __Nonduplication of Benefits.—__ 
+>     “(g)  __Nonduplication of Benefits__  __.—__ 
 
 >     A member transferred to the Retired Reserve under the authority of [section 12731a of title 10][/us/usc/t10/s12731a], United States Code (as added by section 4417), may not be paid annual payments under this section.
 
->     “(h) __Funding.—__ 
+>     “(h)  __Funding__  __.—__ 
 
 >     To the extent provided in appropriations Acts, payments under this section in a fiscal year shall be made out of amounts available to the Department of Defense for that fiscal year for the pay of reserve component personnel.
 
 > “SEC. 4417. __RETIREMENT WITH 15 YEARS OF SERVICE.__ 
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     \[Enacted section 1331a \[now 12731a\] of this title.\]
 
->     “(b) __Clerical Amendment.—__ 
+>     “(b)  __Clerical Amendment__  __.—__ 
 
 >     \[Amended analysis of chapter 67 \[now 1223\] of this title.\]
 
 > “SEC. 4418. __SEPARATION PAY.__ 
 
->     “(a) __Eligibility.—__ 
+>     “(a)  __Eligibility__  __.—__ 
 
 >     Subject to section 4415, a member of the Selected Reserve who, after completing at least 6 years of service computed under [section 12732 of title 10][/us/usc/t10/s12732], United States Code, and before completing 15 years of service computed under that section, is involuntarily discharged from a reserve component of the Armed Forces or is involuntarily transferred from the Selected Reserve during the force reduction transition period is entitled to separation pay.
 
->     “(b) __Amount of Separation Pay.—__ 
+>     “(b)  __Amount of Separation Pay__  __.—__ 
 
 >         (1)
 
@@ -271,21 +271,21 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >         “(2) In the case of a person who receives separation pay under this section and who later receives basic pay, compensation for inactive duty training, or retired pay under any provision of law, such basic pay, compensation, or retired pay, as the case may be, shall be reduced by 75 percent until the total amount withheld through such reduction equals the total amount of the separation pay received by that person under this section.
 
->     “(c) __Relationship to Other Service-Related Pay.—__ 
+>     “(c)  __Relationship to Other Service-Related Pay__  __.—__ 
 
 >     Subsections (g) and (h) of [section 1174 of title 10][/us/usc/t10/s1174], United States Code, shall apply to separation pay under this section.
 
->     “(d) __Regulations.—__ 
+>     “(d)  __Regulations__  __.—__ 
 
 >     The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, and Marine Corps, for the administration of this section.
 
 > “SEC. 4419. __WAIVER OF CONTINUED SERVICE REQUIREMENT FOR CERTAIN RESERVISTS FOR MONTGOMERY GI BILL BENEFITS.__ 
 
->     “(a) __Chapter 106.—__ 
+>     “(a)  __Chapter__  __106.—__ 
 
 >     \[Amended section 2133(b)(1) \[now 16133(b)(1)\] of this title.\]
 
->     “(b) __Chapter 30.—__ 
+>     “(b)  __Chapter__  __30.—__ 
 
 >     \[Amended [section 3012(b)(1)(B) of Title 38][/us/usc/t38/s3012/b/1/B], Veterans’ Benefits.\]
 
@@ -299,27 +299,27 @@ Similar provisions were contained in the following prior appropriation acts:
 
 > “SEC. 4421. __APPLICABILITY AND TERMINATION OF BENEFITS.__ 
 
->     “(a) __Applicability Subject to Needs of the Service.—__ 
+>     “(a)  __Applicability Subject to Needs of the Service__  __.—__ 
 
 >         (1) Subject to regulations prescribed by the Secretary of Defense, the Secretary of the military department concerned may limit the applicability of a benefit provided under sections 4418 through 4420 to any category of personnel defined by the Secretary concerned in order to meet a need of the armed force under the jurisdiction of the Secretary concerned to reduce the number of members in certain grades, the number of members who have completed a certain number of years of service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
 >         “(2) A limitation under paragraph (1) shall be consistent with the purpose set forth in section 4414(a).
 
->     “(b) __Inapplicability to Certain Separations and Reassignments.—__ 
+>     “(b)  __Inapplicability to Certain Separations and Reassignments__  __.—__ 
 
 >     Sections 4418 through 4420 do not apply with respect to personnel who cease to be members of the Selected Reserve under adverse conditions, as characterized by the Secretary of the military department concerned.
 
->     “(c) __Termination of Benefits.—__ 
+>     “(c)  __Termination of Benefits__  __.—__ 
 
 >     The eligibility of a member of a reserve component of the Armed Forces (after having involuntarily ceased to be a member of the Selected Reserve) to receive benefits and privileges under sections 4418 through 4420 terminates upon the involuntary separation of such member from the Armed Forces under adverse conditions, as characterized by the Secretary of the military department concerned.
 
 > “SEC. 4422. __READJUSTMENT BENEFITS FOR CERTAIN VOLUNTARILY SEPARATED MEMBERS OF THE RESERVE COMPONENTS.__ 
 
->     “(a) __Special Separation Benefits.—__ 
+>     “(a)  __Special Separation Benefits__  __.—__ 
 
 >     \[Amended [section 1174a of this title][/us/usc/t10/s1174a].\]
 
->     “(b) __Voluntary Separation Incentive.—__ 
+>     “(b)  __Voluntary Separation Incentive__  __.—__ 
 
 >     \[Amended [section 1175 of this title][/us/usc/t10/s1175].\]”
 

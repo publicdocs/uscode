@@ -15,7 +15,7 @@
 
 ## § 425. Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies
 
-    (a) __Prohibition.—__ 
+    (a)  __Prohibition__  __.—__ 
 
     Except with the written permission of both the Secretary of Defense and the Director of National Intelligence, no person may knowingly use, in connection with any merchandise, retail product, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Secretary and the Director, any of the following (or any colorable imitation thereof):
 
@@ -29,7 +29,7 @@
 
         (5) The words “National Geospatial-Intelligence Agency”, the initials “NGA,” or the seal of the National Geospatial-Intelligence Agency.
 
-    (b) __Authority To Enjoin Violations.—__ 
+    (b)  __Authority To Enjoin Violations__  __.—__ 
 
     Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 

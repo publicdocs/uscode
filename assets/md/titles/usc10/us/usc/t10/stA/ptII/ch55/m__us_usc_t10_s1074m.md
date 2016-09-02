@@ -15,7 +15,7 @@
 
 ## § 1074m. Mental health assessments for members of the armed forces deployed in support of a contingency operation
 
-    (a) __Mental Health Assessments.—__ 
+    (a)  __Mental Health Assessments__  __.—__ 
 
         (1)
 
@@ -41,11 +41,11 @@
 
             (B) providing such assessment to the member during the time periods under such subparagraphs would remove the member from forward deployment or put members or operational objectives at risk.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     The purpose of the mental health assessments provided pursuant to this section shall be to identify post-traumatic stress disorder, suicidal tendencies, and other behavioral health conditions identified among members described in subsection (a) in order to determine which such members are in need of additional care and treatment for such health conditions.
 
-    (c) __Elements.—__ 
+    (c)  __Elements__  __.—__ 
 
         (1)
 
@@ -69,11 +69,11 @@
 
         (2) The Secretary may treat periodic health assessments and other person-to-person assessments that are provided to members of the armed forces, including examinations under [section 1074f of this title][/us/usc/t10/s1074f], as meeting the requirements for mental health assessments required under this section if the Secretary determines that such assessments and person-to-person assessments meet the requirements for mental health assessments established by this section.
 
-    (d) __Cessation of Assessments.—__ 
+    (d)  __Cessation of Assessments__  __.—__ 
 
     No mental health assessment is required to be provided to an individual under subsection (a)(1)(C) after the individual’s discharge or release from the armed forces.
 
-    (e) __Sharing of Information.—__ 
+    (e)  __Sharing of Information__  __.—__ 
 
         (1) The Secretary of Defense shall share with the Secretary of Veterans Affairs such information on members of the armed forces that is derived from confidential mental health assessments, including mental health assessments provided pursuant to this section and health assessments and other person-to-person assessments provided before the date of the enactment of this section, as the Secretary of Defense and the Secretary of Veterans Affairs jointly consider appropriate to ensure continuity of mental health care and treatment of members of the armed forces during the transition from health care and treatment provided by the Department of Defense to health care and treatment provided by the Department of Veterans Affairs.
 
@@ -87,7 +87,7 @@
 
         (3) Before each mental health assessment is conducted under subsection (a), the Secretary of Defense shall ensure that the member is notified of the sharing of information with the Secretary of Veterans Affairs under this subsection.
 
-    (f) __Regulations.—__ 
+    (f)  __Regulations__  __.—__ 
 
         (1) The Secretary of Defense, in consultation with the other administering Secretaries, shall prescribe regulations for the administration of this section.
 

@@ -15,7 +15,7 @@
 
 ## § 1174. Separation pay upon involuntary discharge or release from active duty
 
-    (a) __Regular Officers.—__ 
+    (a)  __Regular Officers__  __.—__ 
 
         (1) A regular officer who is discharged under chapter 36 of this title (except under section 630(1)(A) or 643 of such chapter) or under section 580 or 6383 of this title and who has completed six or more, but less than twenty, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1).
 
@@ -25,13 +25,13 @@
 
         (4) Notwithstanding paragraphs (1) and (2), an officer who is subject to discharge under any provision of chapter 36 of this title or under section 580 or 6383 of this title by reason of having twice failed of selection for promotion to the next higher grade is not entitled to separation pay under this section if that officer, after such second failure of selection for promotion, is selected for, and declines, continuation on active duty for a period that is equal to or more than the amount of service required to qualify the officer for retirement.
 
-    (b) __Regular Enlisted Members.—__ 
+    (b)  __Regular Enlisted Members__  __.—__ 
 
         (1) A regular enlisted member of an armed force who is discharged involuntarily or as the result of the denial of the reenlistment of the member and who has completed six or more, but less than 20, years of active service immediately before that discharge is entitled to separation pay computed under subsection (d) unless the Secretary concerned determines that the conditions under which the member is discharged do not warrant payment of such pay.
 
         (2) Separation pay of an enlisted member shall be computed under paragraph (1) of subsection (d), except that such pay shall be computed under paragraph (2) of such subsection in the case of a member who is discharged under criteria prescribed by the Secretary of Defense.
 
-    (c) __Other Members.—__ 
+    (c)  __Other Members__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
             (B) if the period of time for which the officer was selected for continuation on active duty is equal to or more than the amount of service that would be required to qualify the officer for retirement, the officer’s discharge or release from active duty shall not be considered to be involuntary for the purposes of paragraph (1)(A).
 
-    (d) __Amount of Separation Pay.—__ 
+    (d)  __Amount of Separation Pay__  __.—__ 
 
     The amount of separation pay which may be paid to a member under this section is—
 
@@ -61,7 +61,7 @@
 
         (2) one-half of the amount computed under clause (1).
 
-    (e) __Requirement for Service in Ready Reserve; Exceptions To Eligibility.—__ 
+    (e)  __Requirement for Service in Ready Reserve; Exceptions To Eligibility__  __.—__ 
 
         (1)
 
@@ -81,21 +81,21 @@
 
             (D) upon discharge or release from active duty, is immediately eligible for retired or retainer pay based on his military service.
 
-    (f) __Counting Fractional Years of Service.—__ 
+    (f)  __Counting Fractional Years of Service__  __.—__ 
 
     In determining a member’s years of active service for the purpose of computing separation pay under this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.
 
-    (g) __Coordination With Other Separation or Severance Pay Benefits.—__ 
+    (g)  __Coordination With Other Separation or Severance Pay Benefits__  __.—__ 
 
     A period for which a member has previously received separation pay under this section or severance pay or readjustment pay under any other provision of law based on service in the armed forces may not be included in determining the years of service that may be counted in computing the separation pay of the member under this section.
 
-    (h) __Coordination With Retired or Retainer Pay and Disability Compensation.—__ 
+    (h)  __Coordination With Retired or Retainer Pay and Disability Compensation__  __.—__ 
 
         (1) A member who has received separation pay under this section, or separation pay, severance pay, or readjustment pay under any other provision of law, based on service in the armed forces, and who later qualifies for retired or retainer pay under this title or title 14 shall have deducted from each payment of such retired or retainer pay an amount, in such schedule of monthly installments as the Secretary of Defense shall specify, taking into account the financial ability of the member to pay and avoiding the imposition of undue financial hardship on the member and member’s dependents, until the total amount deducted is equal to the total amount of separation pay, severance pay, and readjustment pay so paid.
 
         (2) A member who has received separation pay under this section, or severance pay or readjustment pay under any other provision of law, based on service in the armed forces shall not be deprived, by reason of his receipt of such separation pay, severance pay, or readjustment pay, of any disability compensation to which he is entitled under the laws administered by the Department of Veterans Affairs, but there shall be deducted from that disability compensation an amount equal to the total amount of separation pay, severance pay, and readjustment pay received, less the amount of Federal income tax withheld from such pay (such withholding being at the flat withholding rate for Federal income tax withholding, as in effect pursuant to regulations prescribed under chapter 24 of the Internal Revenue Code of 1986). Notwithstanding the preceding sentence, no deduction may be made from disability compensation for the amount of any separation pay, severance pay, or readjustment pay received because of an earlier discharge or release from a period of active duty if the disability which is the basis for that disability compensation was incurred or aggravated during a later period of active duty.
 
-    (i) __Special Rule for Members Receiving Sole Survivorship Discharge.—__ 
+    (i)  __Special Rule for Members Receiving Sole Survivorship Discharge__  __.—__ 
 
         (1) A member of the armed forces who receives a sole survivorship discharge shall be entitled to separation pay under this section even though the member has completed less than six years of active service immediately before that discharge. Subsection (e) shall not apply to a member who receives a sole survivorship discharge.
 
@@ -115,7 +115,7 @@
 
             (B) the death, status, or disability did not result from the intentional misconduct or willful neglect of the parent or sibling and was not incurred during a period of unauthorized absence.
 
-    (j) __Regulations; Crediting of Other Commissioned Service.—__ 
+    (j)  __Regulations; Crediting of Other Commissioned Service__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations, which shall be uniform for the Army, Navy, Air Force, and Marine Corps, for the administration of this section.
 

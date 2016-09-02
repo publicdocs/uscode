@@ -15,11 +15,11 @@
 
 ## § 10543. National Guard and reserve component equipment procurement and military construction funding: inclusion in future-years defense program
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall specify in each future-years defense program submitted to Congress under [section 221 of this title][/us/usc/t10/s221] the estimated expenditures and the proposed appropriations, for each fiscal year of the period covered by that program, for the procurement of equipment and for military construction for each of the reserve components of the armed forces.
 
-    (b) __Associated Annexes.—__ 
+    (b)  __Associated Annexes__  __.—__ 
 
     The associated annexes of the future-years defense program shall specify, at the same level of detail as is set forth in the annexes for the active components, the amount requested for—
 
@@ -27,7 +27,7 @@
 
         (2) each military construction project to be carried out for each reserve component, together with the location of the project.
 
-    (c) __Report.—__ 
+    (c)  __Report__  __.—__ 
 
         (1) If the aggregate of the amounts specified in paragraphs (1) and (2) of subsection (b) for a fiscal year is less than the amount equal to 90 percent of the average authorized amount applicable for that fiscal year under paragraph (2), the Secretary of Defense shall submit to Congress a report specifying for each reserve component the additional items of equipment that would be procured, and the additional military construction projects that would be carried out, if that aggregate amount were an amount equal to such average authorized amount. The report shall be at the same level of detail as is required by subsection (b).
 

@@ -15,15 +15,15 @@
 
 ## § 2882. Effect of assignment of members to housing units acquired or constructed under alternative authority
 
-    (a) __Treatment as Quarters of the United States.—__ 
+    (a)  __Treatment as Quarters of the United States__  __.—__ 
 
     Except as provided in subsection (b), housing units acquired or constructed under this subchapter shall be considered as quarters of the United States or a housing facility under the jurisdiction of a uniformed service for purposes of [section 403 of title 37][/us/usc/t37/s403].
 
-    (b) __Availability of Basic Allowance for Housing.—__ 
+    (b)  __Availability of Basic Allowance for Housing__  __.—__ 
 
     A member of the armed forces who is assigned to a housing unit acquired or constructed under this subchapter that is not owned or leased by the United States shall be entitled to a basic allowance for housing under [section 403 of title 37][/us/usc/t37/s403].
 
-    (c) __Lease Payments Through Pay Allotments.—__ 
+    (c)  __Lease Payments Through Pay Allotments__  __.—__ 
 
     The Secretary concerned may require members of the armed forces who lease housing in housing units acquired or constructed under this subchapter to make lease payments for such housing pursuant to allotments of the pay of such members under [section 701 of title 37][/us/usc/t37/s701].
 

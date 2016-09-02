@@ -15,11 +15,11 @@
 
 ## § 1176. Enlisted members: retention after completion of 18 or more, but less than 20, years of service
 
-    (a) __Regular Members.—__ 
+    (a)  __Regular Members__  __.—__ 
 
     A regular enlisted member who is selected to be involuntarily separated, or whose term of enlistment expires and who is denied reenlistment, and who on the date on which the member is to be discharged is within two years of qualifying for retirement under section 3914 or 8914 of this title, or of qualifying for transfer to the Fleet Reserve or Fleet Marine Corps Reserve under [section 6330 of this title][/us/usc/t10/s6330], shall be retained on active duty until the member is qualified for retirement or transfer to the Fleet Reserve or Fleet Marine Corps Reserve, as the case may be, unless the member is sooner retired or discharged under any other provision of law.
 
-    (b) __Reserve Members in Active Status.—__ 
+    (b)  __Reserve Members in Active Status__  __.—__ 
 
     A reserve enlisted member serving in an active status who is selected to be involuntarily separated (other than for physical disability or for cause), or whose term of enlistment expires and who is denied reenlistment (other than for physical disability or for cause), and who on the date on which the member is to be discharged or transferred from an active status is entitled to be credited with at least 18 but less than 20 years of service computed under [section 12732 of this title][/us/usc/t10/s12732], may not be discharged, denied reenlistment, or transferred from an active status without the member’s consent before the earlier of the following:
 

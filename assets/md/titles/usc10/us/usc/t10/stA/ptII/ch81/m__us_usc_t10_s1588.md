@@ -15,7 +15,7 @@
 
 ## § 1588. Authority to accept certain voluntary services
 
-    (a) __Authority To Accept Services.—__ 
+    (a)  __Authority To Accept Services__  __.—__ 
 
     Subject to subsection (b) and notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the Secretary concerned may accept from any person the following services:
 
@@ -53,7 +53,7 @@
 
         (9) Voluntary services to facilitate accounting for missing persons.
 
-    (b) __Requirements and Limitations.—__ 
+    (b)  __Requirements and Limitations__  __.—__ 
 
         (1) The Secretary concerned shall notify the person of the scope of the services accepted.
 
@@ -73,11 +73,11 @@
 
             (B) except as provided in subsection (e), compensate the person for the provision of such services.
 
-    (c) __Authority To Recruit and Train Persons Providing Services.—__ 
+    (c)  __Authority To Recruit and Train Persons Providing Services__  __.—__ 
 
     The Secretary concerned may recruit and train persons to provide voluntary services accepted under subsection (a).
 
-    (d) __Status of Persons Providing Services.—__ 
+    (d)  __Status of Persons Providing Services__  __.—__ 
 
         (1)
 
@@ -111,11 +111,11 @@
 
             (B) the minimum wage determined in accordance with section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]).
 
-    (e) __Reimbursement of Incidental Expenses.—__ 
+    (e)  __Reimbursement of Incidental Expenses__  __.—__ 
 
     The Secretary concerned may provide for reimbursement of a person for incidental expenses incurred by the person in providing voluntary services accepted under subsection (a). The Secretary shall determine which expenses are eligible for reimbursement under this subsection. Any such reimbursement may be made from appropriated or nonappropriated funds.
 
-    (f) __Authority To Install Equipment.—__ 
+    (f)  __Authority To Install Equipment__  __.—__ 
 
         (1) The Secretary concerned may install telephone lines and any necessary telecommunication equipment in the private residences of persons, designated in accordance with the regulations prescribed under paragraph (4), who provide voluntary services accepted under paragraph (3) or (8) of subsection (a).
 

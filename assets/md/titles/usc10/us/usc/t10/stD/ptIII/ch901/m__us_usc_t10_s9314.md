@@ -15,11 +15,11 @@
 
 ## § 9314. Degree granting authority for United States Air Force Institute of Technology
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the Secretary of the Air Force, the commander of the Air University may, upon the recommendation of the faculty of the United States Air Force Institute of Technology, confer appropriate degrees upon graduates of the United States Air Force Institute of Technology who meet the degree requirements.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     A degree may not be conferred under this section unless—
 
@@ -27,7 +27,7 @@
 
         (2) the United States Air Force Institute of Technology is accredited by the appropriate civilian academic accrediting agency or organization to award the degree, as determined by the Secretary of Education.
 
-    (c) __Congressional Notification Requirements.—__ 
+    (c)  __Congressional Notification Requirements__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (3) The Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a report containing an explanation of any action by the appropriate academic accrediting agency or organization not to accredit the United States Air Force Institute of Technology to award any new or existing degree.
 
-    (d) __Civilian Faculty.—__ 
+    (d)  __Civilian Faculty__  __.—__ 
 
         (1) The Secretary of the Air Force may employ as many civilian faculty members at the United States Air Force Institute of Technology as is consistent with the needs of the Air Force and with Department of Defense personnel limits.
 
@@ -53,7 +53,7 @@
 
             (B) pay of civilian members of the faculty, notwithstanding chapter 53 of title 5, but subject to the limitation set out in [section 5373 of title 5][/us/usc/t5/s5373].
 
-    (e) __Reimbursement and Tuition.—__ 
+    (e)  __Reimbursement and Tuition__  __.—__ 
 
         (1) The Department of the Army, the Department of the Navy, and the Department of Homeland Security shall bear the cost of the instruction at the Air Force Institute of Technology that is received by members of the armed forces detailed for that instruction by the Secretaries of the Army, Navy, and Homeland Security, respectively.
 
@@ -69,7 +69,7 @@
 
         (5) Amounts received by the Institute for the instruction of students under this subsection shall be retained by the Institute. Such amounts shall be available to the Institute to cover the costs of such instruction. The source and disposition of such amounts shall be specifically identified in the records of the Institute.
 
-    (f) __Acceptance of Research Grants.—__ 
+    (f)  __Acceptance of Research Grants__  __.—__ 
 
         (1) The Secretary of the Air Force may authorize the Commandant of the United States Air Force Institute of Technology to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of the Institute for a scientific, literary, or educational purpose.
 

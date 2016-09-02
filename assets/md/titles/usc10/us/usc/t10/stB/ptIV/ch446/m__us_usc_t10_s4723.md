@@ -15,19 +15,19 @@
 
 ## § 4723. Advisory committee on Arlington National Cemetery
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     The Secretary of the Army shall appoint an advisory committee on Arlington National Cemetery.
 
-    (b) __Role.—__ 
+    (b)  __Role__  __.—__ 
 
     The Secretary of the Army shall advise and consult with the advisory committee with respect to the administration of Arlington National Cemetery, the erection of memorials at the cemetery, and master planning for the cemetery.
 
-    (c) __Reports and Recommendations.—__ 
+    (c)  __Reports and Recommendations__  __.—__ 
 
     The advisory committee shall make periodic reports and recommendations to the Secretary of the Army.
 
-    (d) __Submission to Congress.—__ 
+    (d)  __Submission to Congress__  __.—__ 
 
     Not later than 90 days after receiving a report or recommendations from the advisory committee under subsection (c), the Secretary of the Army shall submit the report or recommendations to the congressional defense committees and the Committees on Veterans’ Affairs of the Senate and House of Representatives and include such comments and recommendations of the Secretary as the Secretary considers appropriate.
 

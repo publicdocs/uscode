@@ -187,11 +187,11 @@
 
 [Pub. L. 109–364, div. A, title V, § 557][/us/pl/109/364/s557], Oct. 17, 2006, [120 Stat. 2219][/us/stat/120/2219], provided that:
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     The Secretary of Defense shall conduct a review of the policy, procedures, and processes of the military departments for awarding decorations to members of the Armed Forces.
 
->     “(b) __Time Periods.—__ 
+>     “(b)  __Time Periods__  __.—__ 
 
 >     As part of the review under subsection (a), the Secretary shall compare the time frames of the awards process between active duty and reserve components—
 
@@ -199,11 +199,11 @@
 
 >         “(2) from the time the award of a decoration is approved until the time when the decoration is presented to the recipient.
 
->     “(c) __Reserve Components.—__ 
+>     “(c)  __Reserve Components__  __.—__ 
 
 >     If the Secretary, in conducting the review under subsection (a), finds that the timeliness of the awards process for members of the reserve components is not the same as, or similar to, that for members of the active components, the Secretary shall take appropriate steps to address the discrepancy.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than August 1, 2007, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report containing the Secretary’s findings as a result of the review under subsection (a), together with a plan for implementing whatever changes are determined to be appropriate to the process for awarding decorations in order to ensure that decorations are awarded in a timely manner, to the extent practicable.”
 
@@ -215,11 +215,11 @@
 
 [Pub. L. 108–234, § 1][/us/pl/108/234/s1], May 28, 2004, [118 Stat. 655][/us/stat/118/655], provided that:
 
->     “(a) __Requirement.—__ 
+>     “(a)  __Requirement__  __.—__ 
 
 >     The President shall establish a campaign medal specifically to recognize service by members of the uniformed services in Operation Enduring Freedom and a separate campaign medal specifically to recognize service by members of the uniformed services in Operation Iraqi Freedom.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     Subject to such limitations as may be prescribed by the President, eligibility for a campaign medal established pursuant to subsection (a) shall be set forth in regulations to be prescribed by the Secretary concerned (as defined in [section 101 of title 10][/us/usc/t10/s101], United States Code). In the case of regulations prescribed by the Secretaries of the military departments, the regulations shall be subject to approval by the Secretary of Defense and shall be uniform throughout the Department of Defense.”
 
@@ -227,7 +227,7 @@
 
 [Pub. L. 105–85, div. A, title X, § 1084][/us/pl/105/85/s1084], Nov. 18, 1997, [111 Stat. 1919][/us/stat/111/1919], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     The Congress finds the following:
 
@@ -241,11 +241,11 @@
 
 >         “(5) The discipline and dedication of those personnel were fundamental to the prevention of a superpower military conflict.
 
->     “(b) __Congressional Commendation.—__ 
+>     “(b)  __Congressional Commendation__  __.—__ 
 
 >     The Congress hereby commends the members of the Armed Forces and civilian personnel of the Government who contributed to the historic victory in the Cold War and expresses its gratitude and appreciation for their service and sacrifices.
 
->     “(c) __Certificates of Recognition.—__ 
+>     “(c)  __Certificates of Recognition__  __.—__ 
 
 >     The Secretary of Defense shall prepare a certificate recognizing the Cold War service of qualifying members of the Armed Forces and civilian personnel of the Department of Defense and other Government agencies contributing to national security, as determined by the Secretary, and shall provide the certificate to such members and civilian personnel upon request.”
 

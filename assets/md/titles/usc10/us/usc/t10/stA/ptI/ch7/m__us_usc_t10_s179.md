@@ -15,7 +15,7 @@
 
 ## § 179. Nuclear Weapons Council
 
-    (a) __Establishment; Membership.—__ 
+    (a)  __Establishment; Membership__  __.—__ 
 
     There is a Nuclear Weapons Council (hereinafter in this section referred to as the “Council”) operated as a joint activity of the Department of Defense and the Department of Energy. The membership of the Council is comprised of the following officers of those departments:
 
@@ -29,7 +29,7 @@
 
         (5) The commander of the United States Strategic Command.
 
-    (b) __Chairman; Meetings.—__ 
+    (b)  __Chairman; Meetings__  __.—__ 
 
         (1) Except as provided in paragraph (2), the Chairman of the Council shall be the member designated under subsection (a)(1).
 
@@ -37,7 +37,7 @@
 
         (3) The Council shall meet not less often than once every three months. To the extent possible, not later than seven days before a meeting, the Chairman shall disseminate to each member of the Council the agenda and documents for such meeting.
 
-    (c) __Staff and Administrative Services; Staff Director.—__ 
+    (c)  __Staff and Administrative Services; Staff Director__  __.—__ 
 
         (1) The Secretary of Defense and the Secretary of Energy shall enter into an agreement with the Council to furnish necessary staff and administrative services to the Council.
 
@@ -49,7 +49,7 @@
 
             (B) An individual designated under subparagraph (A) shall possess substantial technical and policy experience relevant to the management and oversight of nuclear weapons programs.
 
-    (d) __Responsibilities.—__ 
+    (d)  __Responsibilities__  __.—__ 
 
     The Council shall be responsible for the following matters:
 
@@ -85,17 +85,17 @@
 
             and transmitting such guidance and comments to the Secretary of Defense before the preparation of the annual budget request of the Department of Defense.
 
-    (e) __Report on Difficulties Relating to Safety or Reliability.—__ 
+    (e)  __Report on Difficulties Relating to Safety or Reliability__  __.—__ 
 
     The Council shall submit to Congress a report on any analysis conducted by the Council with respect to difficulties at nuclear weapons laboratories or nuclear weapons production plants that have significant bearing on confidence in the safety or reliability of nuclear weapons or nuclear weapon types.
 
-    (f) __Budget and Funding Matters.—__ 
+    (f)  __Budget and Funding Matters__  __.—__ 
 
         (1) The Council shall submit to Congress each year, at the same time the budget of the President for the fiscal year beginning in such year is submitted to Congress pursuant to [section 1105(a) of title 31][/us/usc/t31/s1105/a], a certification whether or not the amounts requested for the National Nuclear Security Administration in such budget, and anticipated over the four fiscal years following such budget, meets nuclear stockpile and stockpile stewardship program requirements for such fiscal year and over such four fiscal years. If a member of the Council does not concur in a certification, the certification shall include the reasons for the member’s non-concurrence.
 
         (2) If a House of Congress adopts a bill authorizing or appropriating funds for the National Nuclear Security Administration for nuclear stockpile and stockpile stewardship program activities or other activities that, as determined by the Council, provides insufficient funds for such activities for the period covered by such bill, the Council shall notify the congressional defense committees of the determination.
 
-    (g) __Annual Report.—__ 
+    (g)  __Annual Report__  __.—__ 
 
     Each fiscal year, at the same time the President submits the budget pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the Chairman of the Council, through the Secretary of Energy, shall submit to the congressional defense committees a report, in classified form, on the following:
 

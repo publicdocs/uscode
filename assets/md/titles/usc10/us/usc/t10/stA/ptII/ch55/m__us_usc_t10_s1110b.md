@@ -15,11 +15,11 @@
 
 ## § 1110b. TRICARE program: extension of dependent coverage
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     In accordance with subsection (c), an individual described in subsection (b) shall be deemed to be a dependent (as described in [section 1072(2)(D) of this title][/us/usc/t10/s1072/2/D]) for purposes of coverage under the TRICARE program.
 
-    (b) __Individual Described.—__ 
+    (b)  __Individual Described__  __.—__ 
 
     An individual described in this subsection is an individual who—
 
@@ -33,7 +33,7 @@
 
         (5) meets other criteria specified in regulations prescribed by the Secretary, similar to regulations prescribed by the Secretary of Health and Human Services under section 2714(b) of the Public Health Service Act.
 
-    (c) __Premium.—__ 
+    (c)  __Premium__  __.—__ 
 
         (1) The Secretary shall prescribe by regulation a premium (or premiums) for coverage under the TRICARE program provided pursuant to this section to an individual described in subsection (b).
 

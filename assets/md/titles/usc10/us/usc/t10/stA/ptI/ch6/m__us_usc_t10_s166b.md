@@ -15,11 +15,11 @@
 
 ## § 166b. Combatant commands: funding for combating terrorism readiness initiatives
 
-    (a) __Combating Terrorism Readiness Initiatives Fund.—__ 
+    (a)  __Combating Terrorism Readiness Initiatives Fund__  __.—__ 
 
     From funds made available in any fiscal year for the budget account in the Department of Defense known as the “Combating Terrorism Readiness Initiatives Fund”, the Chairman of the Joint Chiefs of Staff may provide funds to the commander of a combatant command, upon the request of the commander, or, with respect to a geographic area or areas not within the area of responsibility of a commander of a combatant command, to an officer designated by the Chairman of the Joint Chiefs of Staff for such purpose. The Chairman may provide such funds for initiating any activity named in subsection (b) and for maintaining and sustaining the activity for the fiscal year in which initiated and one additional fiscal year.
 
-    (b) __Authorized Activities.—__ 
+    (b)  __Authorized Activities__  __.—__ 
 
     Activities for which funds may be provided under subsection (a) are the following:
 
@@ -39,15 +39,15 @@
 
             (D) any other activity relating to physical security.
 
-    (c) __Priority.—__ 
+    (c)  __Priority__  __.—__ 
 
     The Chairman of the Joint Chiefs of Staff, in considering requests for funds in the Combating Terrorism Readiness Initiatives Fund, should give priority consideration to emergency or emergent unforeseen high-priority requirements for combating terrorism.
 
-    (d) __Relationship to Other Funding.—__ 
+    (d)  __Relationship to Other Funding__  __.—__ 
 
     Any amount provided by the Chairman of the Joint Chiefs of Staff for a fiscal year out of the Combating Terrorism Readiness Initiatives Fund for an activity referred to in subsection (b) shall be in addition to amounts otherwise available for that activity for that fiscal year.
 
-    (e) __Limitation.—__ 
+    (e)  __Limitation__  __.—__ 
 
     Funds may not be provided under this section for any activity that has been denied authorization by Congress.
 

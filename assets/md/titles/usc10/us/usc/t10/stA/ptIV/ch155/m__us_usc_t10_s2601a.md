@@ -15,7 +15,7 @@
 
 ## § 2601a. Direct acceptance of gifts by members of the armed forces and Department of Defense and Coast Guard employees and their families
 
-    (a) __Regulations Governing Acceptance of Gifts.—__ 
+    (a)  __Regulations Governing Acceptance of Gifts__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
             (B) require review and approval by a designated agency ethics official before acceptance of a gift to ensure that acceptance of the gift complies with the Joint Ethics Regulation.
 
-    (b) __Covered Members.—__ 
+    (b)  __Covered Members__  __.—__ 
 
     This section applies to a member of the armed forces who, while performing active duty, full-time National Guard duty, or inactive-duty training on or after September 11, 2001, incurred an injury or illness—
 
@@ -47,15 +47,15 @@
 
         (3) under other circumstances determined by the Secretary concerned to warrant treatment analogous to members covered by paragraph (1).
 
-    (c) __Covered Employees.—__ 
+    (c)  __Covered Employees__  __.—__ 
 
     This section applies to a civilian employee of the Department of Defense or Coast Guard who, while an employee on or after September 11, 2001, incurred an injury or illness under a circumstance described in paragraph (1), (2) or (3) of subsection (b).
 
-    (d) __Gifts From Certain Sources Prohibited.—__ 
+    (d)  __Gifts From Certain Sources Prohibited__  __.—__ 
 
     The regulations issued under subsection (a) may not authorize the acceptance of a gift from a foreign government or international organization or their agents.
 
-    (e) __Application of Certain Regulations.—__ 
+    (e)  __Application of Certain Regulations__  __.—__ 
 
     To the extent provided in the regulations issued under subsection (a) to implement subsection (b)(2), the regulations shall apply to the acceptance of gifts received after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2012 for injuries or illnesses incurred on or after September 11, 2001.
 

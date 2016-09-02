@@ -15,15 +15,15 @@
 
 ## § 10301. Reserve Forces Policy Board
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     As provided in [section 175 of this title][/us/usc/t10/s175], there is in the Office of the Secretary of Defense a board known as the “Reserve Forces Policy Board” (in this section referred to as the “Board”).
 
-    (b) __Functions.—__ 
+    (b)  __Functions__  __.—__ 
 
     The Board shall serve as an independent adviser to the Secretary of Defense to provide advice and recommendations to the Secretary on strategies, policies, and practices designed to improve and enhance the capabilities, efficiency, and effectiveness of the reserve components.
 
-    (c) __Membership.—__ 
+    (c)  __Membership__  __.—__ 
 
     The Board consists of 20 members, appointed or designated as follows:
 
@@ -83,15 +83,15 @@
 
         (8) A senior enlisted member of a reserve component recommended by the chair and designated by the Secretary of Defense, who shall serve without vote as enlisted military adviser to the chair.
 
-    (d) __Matters To Be Acted on.—__ 
+    (d)  __Matters To Be Acted on__  __.—__ 
 
     The Board may act on those matters referred to it by the chair and on any matter raised by a member of the Board or the Secretary of Defense.
 
-    (e) __Staff.—__ 
+    (e)  __Staff__  __.—__ 
 
     The Board shall be supported by a staff consisting of one full-time officer from each of the reserve components listed in paragraphs (1) through (6) of [section 10101 of this title][/us/usc/t10/s10101] who holds the grade of colonel (or in the case of the Navy, the grade of captain) or who has been selected for promotion to that grade. These officers shall also serve as liaisons between their respective components and the Board. They shall perform their staff and liaison duties under the supervision of the military executive officer of the Board in an independent manner reflecting the independent nature of the Board.
 
-    (f) __Relationship to Service Reserve Policy Committees and Boards.—__ 
+    (f)  __Relationship to Service Reserve Policy Committees and Boards__  __.—__ 
 
     This section does not affect the committees and boards prescribed within the military departments by sections 10302 through 10305 of this title, and a member of such a committee or board may, if otherwise eligible, be a member of the Board.
 

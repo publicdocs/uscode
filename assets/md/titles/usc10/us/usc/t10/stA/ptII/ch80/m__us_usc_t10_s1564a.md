@@ -15,11 +15,11 @@
 
 ## § 1564a. Counterintelligence polygraph program
 
-    (a) __Authority for Program.—__ 
+    (a)  __Authority for Program__  __.—__ 
 
     The Secretary of Defense may carry out a program for the administration of counterintelligence polygraph examinations to persons described in subsection (b). The program shall be conducted in accordance with the standards specified in subsection (e).
 
-    (b) __Persons Covered.—__ 
+    (b)  __Persons Covered__  __.—__ 
 
     Except as provided in subsection (d), the following persons, if their duties are described in subsection (c), are subject to this section:
 
@@ -31,7 +31,7 @@
 
         (4) An applicant for a position in the Department of Defense.
 
-    (c) __Covered Types of Duties.—__ 
+    (c)  __Covered Types of Duties__  __.—__ 
 
     The Secretary of Defense may provide, under standards established by the Secretary, that a person described in subsection (b) is subject to this section if that person’s duties involve—
 
@@ -53,7 +53,7 @@
 
             (C) compromise technologies, operational plans, or security procedures vital to the strategic advantage of the United States and its allies.
 
-    (d) __Exceptions From Coverage for Certain Intelligence Agencies and Functions.—__ 
+    (d)  __Exceptions From Coverage for Certain Intelligence Agencies and Functions__  __.—__ 
 
     This section does not apply to the following persons:
 
@@ -75,7 +75,7 @@
 
         (4) A person employed by, or assigned or detailed to, an office within the Department of Defense for the collection of specialized national foreign intelligence through reconnaissance programs or a contractor of such an office.
 
-    (e) __Standards.—__ 
+    (e)  __Standards__  __.—__ 
 
         (1) Polygraph examinations conducted under this section shall comply with all applicable laws and regulations.
 
@@ -105,13 +105,13 @@
 
             (C) All questions asked concerning the matter at issue, other than technical questions necessary to the polygraph technique, must have a relevance to the subject of the inquiry.
 
-    (f) __Oversight.—__ 
+    (f)  __Oversight__  __.—__ 
 
         (1) The Secretary shall establish a process to monitor responsible and effective application of polygraph examinations within the Department of Defense.
 
         (2) The Secretary shall make information on the use of polygraphs within the Department of Defense available to the congressional defense committees.
 
-    (g) __Polygraph Research Program.—__ 
+    (g)  __Polygraph Research Program__  __.—__ 
 
     The Secretary shall carry out a continuing research program to support the polygraph examination activities of the Department of Defense. The program shall include the following:
 

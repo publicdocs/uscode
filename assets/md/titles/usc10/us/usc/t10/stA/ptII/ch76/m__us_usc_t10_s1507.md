@@ -15,7 +15,7 @@
 
 ## § 1507. Recommendation of status of death
 
-    (a) __Requirements Relating to Recommendation.—__ 
+    (a)  __Requirements Relating to Recommendation__  __.—__ 
 
     A board appointed under section 1503, 1504, or 1505 of this title may not recommend that a person be declared dead unless—
 
@@ -31,7 +31,7 @@
 
             (B) have examined the records of the government or entity having control over the area where the person was last seen (unless, after making a good faith effort to obtain access to such records, such representatives are not granted such access).
 
-    (b) __Submittal of Information on Death.—__ 
+    (b)  __Submittal of Information on Death__  __.—__ 
 
     If a board appointed under section 1503, 1504, or 1505 of this title makes a recommendation that a missing person be declared dead, the board shall include in the report of the board with respect to the person under that section the following:
 

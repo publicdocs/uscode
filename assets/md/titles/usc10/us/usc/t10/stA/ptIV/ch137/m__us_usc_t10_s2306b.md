@@ -15,7 +15,7 @@
 
 ## § 2306b. Multiyear contracts: acquisition of property
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     To the extent that funds are otherwise available for obligation, the head of an agency may enter into multiyear contracts for the purchase of property whenever the head of that agency finds each of the following:
 
@@ -33,7 +33,7 @@
 
         (7) In the case of a contract in an amount equal to or greater than $500,000,000, that the conditions required by subparagraphs (C) through (F) of paragraph (1) of subsection (i) will be met, in accordance with the Secretary’s certification and determination under such subsection, by such contract.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
         (1) Each official named in paragraph (2) shall prescribe acquisition regulations for the agency or agencies under the jurisdiction of such official to promote the use of multiyear contracting as authorized by subsection (a) in a manner that will allow the most efficient use of multiyear contracting.
 
@@ -45,11 +45,11 @@
 
             (C) The Administrator of the National Aeronautics and Space Administration shall prescribe the regulations applicable to the National Aeronautics and Space Administration.
 
-    (c) __Contract Cancellations.—__ 
+    (c)  __Contract Cancellations__  __.—__ 
 
     The regulations may provide for cancellation provisions in multiyear contracts to the extent that such provisions are necessary and in the best interests of the United States. The cancellation provisions may include consideration of both recurring and nonrecurring costs of the contractor associated with the production of the items to be delivered under the contract.
 
-    (d) __Participation by Subcontractors, Vendors, and Suppliers.—__ 
+    (d)  __Participation by Subcontractors, Vendors, and Suppliers__  __.—__ 
 
     In order to broaden the defense industrial base, the regulations shall provide that, to the extent practicable—
 
@@ -57,7 +57,7 @@
 
         (2) upon accrual of any payment or other benefit under such a multiyear contract to any subcontractor, vendor, or supplier company participating in such contract, such payment or benefit shall be delivered to such company in the most expeditious manner practicable.
 
-    (e) __Protection of Existing Authority.—__ 
+    (e)  __Protection of Existing Authority__  __.—__ 
 
     The regulations shall provide that, to the extent practicable, the administration of this section, and of the regulations prescribed under this section, shall not be carried out in a manner to preclude or curtail the existing ability of an agency—
 
@@ -65,7 +65,7 @@
 
         (2) to provide for termination of a prime contract the performance of which is deficient with respect to cost, quality, or schedule.
 
-    (f) __Cancellation or Termination for Insufficient Funding.—__ 
+    (f)  __Cancellation or Termination for Insufficient Funding__  __.—__ 
 
     In the event funds are not made available for the continuation of a contract made under this section into a subsequent fiscal year, the contract shall be canceled or terminated. The costs of cancellation or termination may be paid from—
 
@@ -75,7 +75,7 @@
 
         (3) funds appropriated for those payments.
 
-    (g) __Contract Cancellation Ceilings Exceeding $100,000,000.—__ 
+    (g)  __Contract Cancellation Ceilings Exceeding__  __$100,000,000.—__ 
 
         (1) Before any contract described in subsection (a) that contains a clause setting forth a cancellation ceiling in excess of $100,000,000 may be awarded, the head of the agency concerned shall give written notification of the proposed contract and of the proposed cancellation ceiling for that contract to the congressional defense committees, and such contract may not then be awarded until the end of a period of 30 days beginning on the date of such notification.
 
@@ -89,7 +89,7 @@
 
             (C) a financial risk assessment of not including budgeting for costs of contract cancellation.
 
-    (h) __Defense Acquisitions of Weapon Systems.—__ 
+    (h)  __Defense Acquisitions of Weapon Systems__  __.—__ 
 
     In the case of the Department of Defense, the authority under subsection (a) includes authority to enter into the following multiyear contracts in accordance with this section:
 
@@ -97,7 +97,7 @@
 
         (2) A multiyear contract for advance procurement of components, parts, and materials necessary to the manufacture of a weapon system, including a multiyear contract for such advance procurement that is entered into in order to achieve economic-lot purchases and more efficient production rates.
 
-    (i) __Defense Acquisitions Specifically Authorized by Law.—__ 
+    (i)  __Defense Acquisitions Specifically Authorized by Law__  __.—__ 
 
         (1)
 
@@ -133,15 +133,15 @@
 
         (7) The Secretary of Defense shall send a notification containing the findings of the agency head under subsection (a), and the basis for such findings, 30 days prior to the award of a multiyear contract for a defense acquisition program that has been specifically authorized by law.
 
-    (j) __Defense Contract Options for Varying Quantities.—__ 
+    (j)  __Defense Contract Options for Varying Quantities__  __.—__ 
 
     The Secretary of Defense may instruct the Secretary of the military department concerned to incorporate into a proposed multiyear contract negotiated priced options for varying the quantities of end items to be procured over the period of the contract.
 
-    (k) __Multiyear Contract Defined.—__ 
+    (k)  __Multiyear Contract Defined__  __.—__ 
 
     For the purposes of this section, a multiyear contract is a contract for the purchase of property for more than one, but not more than five, program years. Such a contract may provide that performance under the contract during the second and subsequent years of the contract is contingent upon the appropriation of funds and (if it does so provide) may provide for a cancellation payment to be made to the contractor if such appropriations are not made.
 
-    (l) __Various Additional Requirements With Respect to Multiyear Defense Contracts.—__ 
+    (l)  __Various Additional Requirements With Respect to Multiyear Defense Contracts__  __.—__ 
 
         (1)
 
@@ -211,7 +211,7 @@
 
             (B) The term “agency procurement total” means the procurement accounts of the agency entering into a multiyear procurement contract (or contract extension) treated in the aggregate.
 
-    (m) __Increased Funding and Reprogramming Requests.—__ 
+    (m)  __Increased Funding and Reprogramming Requests__  __.—__ 
 
     Any request for increased funding for the procurement of a major system under a multiyear contract authorized under this section shall be accompanied by an explanation of how the request for increased funding affects the determinations made by the Secretary under subsection (i).
 

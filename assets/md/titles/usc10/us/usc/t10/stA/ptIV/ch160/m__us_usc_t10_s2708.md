@@ -15,7 +15,7 @@
 
 ## § 2708. Contracts for handling hazardous waste from defense facilities
 
-    (a) __Reimbursement Requirement.—__ 
+    (a)  __Reimbursement Requirement__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) Not later than 30 days after such a contract or subcontract is awarded, the contractor or subcontractor shall demonstrate that the contractor or subcontractor will reimburse the Federal Government as provided in paragraph (1).
 
-    (b) __Applicability.—__ 
+    (b)  __Applicability__  __.—__ 
 
         (1) Except as provided in paragraph (2), this section applies to each contract entered into by the Secretary of Defense or the Secretary of a military department, and any subcontract under any such contract, with an owner or operator of a hazardous waste treatment or disposal facility during fiscal years 1992 through 1996 for the offsite treatment or disposal of hazardous wastes from a facility under the jurisdiction of the Secretary of Defense.
 
@@ -41,7 +41,7 @@
 
             (C) any contract or subcontract to dispose of ammunition or solid rocket motors.
 
-    (c) __Exception to Reimbursement Requirement.—__ 
+    (c)  __Exception to Reimbursement Requirement__  __.—__ 
 
     Notwithstanding subsection (a), in the case of any contract to which this section applies, if the Secretary of Defense or the Secretary of the military department concerned determines that—
 
@@ -51,7 +51,7 @@
 
         then the contract may be awarded without including the reimbursement provision required by subsection (a).
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -63,7 +63,7 @@
 
         (4) The term “polychlorinated biphenyls” has the meaning given that term under section 6(e) of the Toxic Substances Control Act ([15 U.S.C. 2605(e)][/us/usc/t15/s2605/e]).
 
-    (e) __Effect on Liability.—__ 
+    (e)  __Effect on Liability__  __.—__ 
 
     Nothing in this section shall affect the liability of the Federal Government under any Federal or State law or under common law.
 

@@ -15,15 +15,15 @@
 
 ## § 461. Management rights
 
-    (a) __Scope.—__ 
+    (a)  __Scope__  __.—__ 
 
     If there is no obligation under the provisions of chapter 71 of title 5 for the head of an agency of the United States to consult or negotiate with a labor organization on a particular matter by reason of that matter being covered by a provision of law or a Governmentwide regulation, the Director of the National Geospatial-Intelligence Agency is not obligated to consult or negotiate with a labor organization on that matter even if that provision of law or regulation is inapplicable to the National Geospatial-Intelligence Agency.
 
-    (b) __Bargaining Units.—__ 
+    (b)  __Bargaining Units__  __.—__ 
 
     The Director of the National Geospatial-Intelligence Agency shall accord exclusive recognition to a labor organization under [section 7111 of title 5][/us/usc/t5/s7111] only for a bargaining unit that was recognized as appropriate for the Defense Mapping Agency on September 30, 1996.
 
-    (c) __Termination of Bargaining Unit Coverage of Position Modified To Affect National Security Directly.—__ 
+    (c)  __Termination of Bargaining Unit Coverage of Position Modified To Affect National Security Directly__  __.—__ 
 
         (1) If the Director of the National Geospatial-Intelligence Agency determines that the responsibilities of a position within a collective bargaining unit should be modified to include intelligence, counterintelligence, investigative, or security duties not previously assigned to that position and that the performance of the newly assigned duties directly affects the national security of the United States, then, upon such a modification of the responsibilities of that position, the position shall cease to be covered by the collective bargaining unit and the employee in that position shall cease to be entitled to representation by a labor organization accorded exclusive recognition for that collective bargaining unit.
 

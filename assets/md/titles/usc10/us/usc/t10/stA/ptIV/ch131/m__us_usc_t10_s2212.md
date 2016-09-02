@@ -15,15 +15,15 @@
 
 ## § 2212. Obligations for contract services: reporting in budget object classes
 
-    (a) __Limitation on Reporting in Miscellaneous Services Object Class.—__ 
+    (a)  __Limitation on Reporting in Miscellaneous Services Object Class__  __.—__ 
 
     The Secretary of Defense shall ensure that, in reporting to the Office of Management and Budget (pursuant to OMB Circular A–11 (relating to preparation and submission of budget estimates)) obligations of the Department of Defense for any period of time for contract services, no more than 15 percent of the total amount of obligations so reported is reported in the miscellaneous services object class.
 
-    (b) __Definition of Reporting Categories for Advisory and Assistance Services.—__ 
+    (b)  __Definition of Reporting Categories for Advisory and Assistance Services__  __.—__ 
 
     In carrying out [section 1105(g) of title 31][/us/usc/t31/s1105/g] for the Department of Defense (and in determining what services are to be reported to the Office of Management and Budget in the advisory and assistance services object class), the Secretary of Defense shall apply to the terms used for the definition of “advisory and assistance services” in paragraph (2)(A) of that section the following meanings (subject to the authorized exemptions):
 
-        (1) __Management and professional support services.—__ 
+        (1)  __Management and professional support services__  __.—__ 
 
         The term “management and professional support services” (used in clause (i) of [section 1105(g)(2)(A) of title 31][/us/usc/t31/s1105/g/2/A]) means services that provide engineering or technical support, assistance, advice, or training for the efficient and effective management and operation of organizations, activities, or systems. Those services—
 
@@ -31,23 +31,23 @@
 
             (B) include efforts that support or contribute to improved organization or program management, logistics management, project monitoring and reporting, data collection, budgeting, accounting, auditing, and administrative or technical support for conferences and training programs.
 
-        (2) __Studies, analyses, and evaluations.—__ 
+        (2)  __Studies, analyses, and evaluations__  __.—__ 
 
         The term “studies, analyses, and evaluations” (used in clause (ii) of [section 1105(g)(2)(A) of title 31][/us/usc/t31/s1105/g/2/A]) means services that provide organized, analytic assessments to understand or evaluate complex issues to improve policy development, decisionmaking, management, or administration and that result in documents containing data or leading to conclusions or recommendations. Those services may include databases, models, methodologies, and related software created in support of a study, analysis, or evaluation.
 
-        (3) __Engineering and technical services.—__ 
+        (3)  __Engineering and technical services__  __.—__ 
 
         The term “engineering and technical services” (used in clause (iii) of [section 1105(g)(2)(A) of title 31][/us/usc/t31/s1105/g/2/A]) means services that take the form of advice, assistance, training, or hands-on training necessary to maintain and operate fielded weapon systems, equipment, and components (including software when applicable) at design or required levels of effectiveness.
 
-    (c) __Proper Classification of Advisory and Assistance Services.—__ 
+    (c)  __Proper Classification of Advisory and Assistance Services__  __.—__ 
 
     Before the submission to the Office of Management and Budget of the proposed Department of Defense budget for inclusion in the President’s budget for a fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense, acting through the Under Secretary of Defense (Comptroller), shall conduct a review of Department of Defense services expected to be performed as contract services during the fiscal year for which that budget is to be submitted in order to ensure that those services that are advisory and assistance services (as defined in accordance with subsection (b)) are in fact properly classified, in accordance with that subsection, in the advisory and assistance services object class.
 
-    (d) __Report to Congress.—__ 
+    (d)  __Report to Congress__  __.—__ 
 
     The Secretary shall submit to Congress each year, not later than 30 days after the date on which the budget for the next fiscal year is submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105], a report containing the information derived from the review under subsection (c).
 
-    (e) __Assessment by Comptroller General.—__ 
+    (e)  __Assessment by Comptroller General__  __.—__ 
 
         (1)
 
@@ -59,7 +59,7 @@
 
         (2) Not later than 120 days after the date on which the Secretary submits to Congress the report required under subsection (d) for any year, the Comptroller General shall submit to Congress the Comptroller General’s report containing the results of the review for that year under paragraph (1).
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

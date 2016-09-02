@@ -15,15 +15,15 @@
 
 ## § 143. Office of the Secretary of Defense personnel: limitation
 
-    (a) __Permanent Limitation on OSD Personnel.—__ 
+    (a)  __Permanent Limitation on OSD Personnel__  __.—__ 
 
     The number of OSD personnel may not exceed 3,767.
 
-    (b) __OSD Personnel Defined.—__ 
+    (b) __OSD__  __Personnel Defined__  __.—__ 
 
     For purposes of this section, the term “OSD personnel” means military and civilian personnel of the Department of Defense who are assigned to, or employed in, functions in the Office of the Secretary of Defense (including Direct Support Activities of that Office and the Washington Headquarters Services of the Department of Defense).
 
-    (c) __Limitation on Reassignment of Functions.—__ 
+    (c)  __Limitation on Reassignment of Functions__  __.—__ 
 
     In carrying out reductions in the number of personnel assigned to, or employed in, the Office of the Secretary of Defense in order to comply with this section, the Secretary of Defense may not reassign functions solely in order to evade the requirements contained in this section.
 
@@ -57,7 +57,7 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1111, Oct. 14, 2008, [122 Stat. 4619][/us/stat/122/4619], as amended by [Pub. L. 111–84, div. A, title XI, § 1109(a)][/us/pl/111/84/s1109/a], Oct. 28, 2009, [123 Stat. 2492][/us/stat/123/2492]; [Pub. L. 111–383, div. A, title X, § 1075(e)(17)][/us/pl/111/383/s1075/e/17], Jan. 7, 2011, [124 Stat. 4375][/us/stat/124/4375], provided that:
 
->     “(a) __Exception to Limitations on Personnel.—__ 
+>     “(a)  __Exception to Limitations on Personnel__  __.—__ 
 
 >     For fiscal year 2009 and fiscal years thereafter, the baseline personnel limitations in sections 143, 194, 3014, 5014, and 8014 of title 10, United States Code (as adjusted pursuant to subsection (b)), shall not apply to—
 
@@ -65,7 +65,7 @@
 
 >         “(2) personnel hired pursuant to a shortage category designation by the Secretary of Defense or the Director of the Office of Personnel Management.
 
->     “(b) __Authority to Adjust Limitations on Personnel.—__ 
+>     “(b)  __Authority to Adjust Limitations on Personnel__  __.—__ 
 
 >     For fiscal year 2009 and fiscal years thereafter, the Secretary of Defense or a Secretary of a military department may adjust the baseline personnel limitations in sections 143, 194, 3014, 5014 and 8014 of title 10, United States Code, to—
 

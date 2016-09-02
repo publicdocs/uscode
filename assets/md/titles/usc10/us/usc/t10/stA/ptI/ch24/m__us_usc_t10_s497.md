@@ -15,7 +15,7 @@
 
 ## § 497. Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe
 
-    (a) __Notification.—__ 
+    (a)  __Notification__  __.—__ 
 
     Upon any decision to reduce, consolidate, or withdraw the nuclear forces of the United States that are based in Europe, the President shall transmit to the appropriate congressional committees a notification containing—
 
@@ -25,15 +25,15 @@
 
     (b) __Prior Notification Required.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The President shall transmit the notification required by subsection (a) by not later than 60 days before the date on which the President commences a reduction, consolidation, or withdrawal of the nuclear forces of the United States that are based in Europe described in such notification.
 
-        (2) __Exception.—__ 
+        (2)  __Exception__  __.—__ 
 
         The limitation in paragraph (1) shall not apply to a reduction, consolidation, or withdrawal of nuclear weapons of the United States that are based in Europe made to ensure the safety, security, reliability, and credibility of such weapons.
 
-    (c) __Appropriate Congressional Committees Defined.—__ 
+    (c)  __Appropriate Congressional Committees Defined__  __.—__ 
 
     In this section, the term “appropriate congressional committees” means—
 

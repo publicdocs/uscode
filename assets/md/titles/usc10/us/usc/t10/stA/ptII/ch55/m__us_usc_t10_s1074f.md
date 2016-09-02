@@ -15,11 +15,11 @@
 
 ## § 1074f. Medical tracking system for members deployed overseas
 
-    (a) __System Required.—__ 
+    (a)  __System Required__  __.—__ 
 
     The Secretary of Defense shall establish a system to assess the medical condition of members of the armed forces (including members of the reserve components) who are deployed outside the United States or its territories or possessions as part of a contingency operation (including a humanitarian operation, peacekeeping operation, or similar operation) or combat operation.
 
-    (b) __Elements of System.—__ 
+    (b)  __Elements of System__  __.—__ 
 
         (1)
 
@@ -53,11 +53,11 @@
 
             (B) The protocol under subparagraph (A) shall include appropriate mechanisms to permit the differential diagnosis of traumatic brain injury in members returning from deployment in a combat zone.
 
-    (c) __Recordkeeping.—__ 
+    (c)  __Recordkeeping__  __.—__ 
 
     The results of all medical examinations and reassessments conducted under the system, records of all health care services (including immunizations and the prescription and administration of psychotropic medications) received by members described in subsection (a) in anticipation of their deployment or during the course of their deployment, and records of events occurring in the deployment area that may affect the health of such members shall be retained and maintained in a centralized location to improve future access to the records.
 
-    (d) __Quality Assurance.—__ 
+    (d)  __Quality Assurance__  __.—__ 
 
         (1) The Secretary of Defense shall establish a quality assurance program to evaluate the success of the system in ensuring that members described in subsection (a) receive predeployment medical examinations, postdeployment medical examinations, and postdeployment health reassessments and that the recordkeeping requirements with respect to the system are met.
 
@@ -83,7 +83,7 @@
 
             (F) The diagnosis and treatment of traumatic brain injury and post-traumatic stress disorder.
 
-    (e) __Criteria for Referral for Further Evaluations.—__ 
+    (e)  __Criteria for Referral for Further Evaluations__  __.—__ 
 
     The system described in subsection (a) shall include—
 
@@ -93,7 +93,7 @@
 
         (3) mechanisms for oversight to ensure that healthcare providers apply such guidelines consistently.
 
-    (f) __Minimum Standards for Deployment.—__ 
+    (f)  __Minimum Standards for Deployment__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe in regulations minimum standards for mental health for the eligibility of a member of the armed forces for deployment to a combat operation or contingency operation.
 
@@ -147,11 +147,11 @@
 
 [Pub. L. 112–239, div. A, title VII, § 723][/us/pl/112/239/s723], Jan. 2, 2013, [126 Stat. 1805][/us/stat/126/1805], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs shall jointly enter into a memorandum of understanding providing for the sharing by the Department of Defense with the Department of Veterans Affairs of the results of examinations and other records on members of the Armed Forces that are retained and maintained with respect to the medical tracking system for members deployed overseas under [section 1074f(c) of title 10][/us/usc/t10/s1074f/c], United States Code.
 
->     “(b) __Cessation Upon Implementation of Electronic Health Record.—__ 
+>     “(b)  __Cessation Upon Implementation of Electronic Health Record__  __.—__ 
 
 >     The sharing required pursuant to subsection (a) shall cease on the date on which the Secretary of Defense and the Secretary of Veterans Affairs jointly certify to Congress that the Secretaries have fully implemented an integrated electronic health record for members of the Armed Forces that is fully interoperable between the Department of Defense and the Department of Veterans Affairs.”
 
@@ -159,11 +159,11 @@
 
 [Pub. L. 111–383, div. A, title VII, § 722][/us/pl/111/383/s722], Jan. 7, 2011, [124 Stat. 4251][/us/stat/124/4251], provided that:
 
->     “(a) __Comprehensive Policy Required.—__ 
+>     “(a)  __Comprehensive Policy Required__  __.—__ 
 
 >     Not later than January 31, 2011, the Secretary of Defense shall develop and implement a comprehensive policy on consistent neurological cognitive assessments of members of the Armed Forces before and after deployment.
 
->     “(b) __Updates.—__ 
+>     “(b)  __Updates__  __.—__ 
 
 >     The Secretary shall revise the policy required by subsection (a) on a periodic basis in accordance with experience and evolving best practice guidelines.”
 
@@ -175,11 +175,11 @@
 
 [Pub. L. 111–84, div. A, title VII, § 712][/us/pl/111/84/s712], Oct. 28, 2009, [123 Stat. 2379][/us/stat/123/2379], provided that:
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >     Not later than October 1, 2010, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the implementation of policy guidance dated November 7, 2006, regarding deployment-limiting psychiatric conditions and medications.
 
->     “(b) __Policy Required.—__ 
+>     “(b)  __Policy Required__  __.—__ 
 
 >     Not later than October 1, 2010, the Secretary shall establish and implement a policy for the use of psychotropic medications for deployed members of the Armed Forces. The policy shall, at a minimum, address the following:
 
@@ -225,7 +225,7 @@
 
 [Pub. L. 108–375, div. A, title VII, § 733(b)][/us/pl/108/375/s733/b], Oct. 28, 2004, [118 Stat. 1998][/us/stat/118/1998], as amended by [Pub. L. 109–364, div. A, title X, § 1071(g)(9)][/us/pl/109/364/s1071/g/9], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that:
 
->     “(1) __Time requirements.—__ 
+>     “(1)  __Time requirements__  __.—__ 
 
 >     Subject to paragraph (2), the Secretary of Defense shall require that—
 
@@ -233,7 +233,7 @@
 
 >         “(B) the blood samples necessary for the postdeployment medical examination of a member of the Armed Forces required under such section 1074f(b) of such title be drawn not later than 30 days after the date on which the deployment ends.
 
->     “(2) __Contingent applicability.—__ 
+>     “(2)  __Contingent applicability__  __.—__ 
 
 >     The standards under paragraph (1) shall apply unless the Joint Medical Readiness Oversight Committee established by section 731(b) \[[10 U.S.C. 1074][/us/usc/t10/s1074] note\] recommends, and the Secretary approves, different standards for blood sampling.”
 

@@ -15,11 +15,11 @@
 
 ## § 4361. Policy on sexual harassment and sexual violence
 
-    (a) __Required Policy.—__ 
+    (a)  __Required Policy__  __.—__ 
 
     Under guidance prescribed by the Secretary of Defense, the Secretary of the Army shall direct the Superintendent of the Academy to prescribe a policy on sexual harassment and sexual violence applicable to the cadets and other personnel of the Academy.
 
-    (b) __Matters To Be Specified in Policy.—__ 
+    (b)  __Matters To Be Specified in Policy__  __.—__ 
 
     The policy on sexual harassment and sexual violence prescribed under this section shall include specification of the following:
 
@@ -41,7 +41,7 @@
 
         (5) Required training on the policy for all cadets and other Academy personnel, including the specific training required for personnel who process allegations of sexual harassment or sexual violence involving Academy personnel.
 
-    (c) __Annual Assessment.—__ 
+    (c)  __Annual Assessment__  __.—__ 
 
         (1) The Secretary of Defense, through the Secretary of the Army, shall direct the Superintendent to conduct at the Academy during each Academy program year an assessment, to be administered by the Department of Defense, to determine the effectiveness of the policies, training, and procedures of the Academy with respect to sexual harassment and sexual violence involving Academy personnel.
 
@@ -69,7 +69,7 @@
 
                 (iv) any other issues relating to sexual harassment and sexual violence involving Academy personnel.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1) The Secretary of the Army shall direct the Superintendent of the Academy to submit to the Secretary a report on sexual harassment and sexual violence involving cadets or other personnel at the Academy for each Academy program year.
 
@@ -97,15 +97,15 @@
 
 [Pub. L. 109–364, div. A, title V, § 532(b)][/us/pl/109/364/s532/b], Oct. 17, 2006, [120 Stat. 2205][/us/stat/120/2205], provided that:
 
->     “(1) __Use of focus groups for years when survey not required.—__ 
+>     “(1)  __Use of focus groups for years when survey not required__  __.—__ 
 
 >     In any year in which the Secretary of a military department is not required by law to conduct a survey at the service academy under the Secretary’s jurisdiction on matters relating to sexual assault and sexual harassment issues at that Academy, the Secretary shall provide for focus groups to be conducted at that Academy for the purposes of ascertaining information relating to sexual assault and sexual harassment issues at that Academy.
 
->     “(2) __Inclusion in report.—__ 
+>     “(2)  __Inclusion in report__  __.—__ 
 
 >     Information ascertained from a focus group conducted pursuant to paragraph (1) shall be included in the Secretary’s annual report to Congress on sexual harassment and sexual violence at the service academies.
 
->     “(3) __Service academies.—__ 
+>     “(3)  __Service academies__  __.—__ 
 
 >     For purposes of this subsection, the term ‘service academy’ means the following:
 

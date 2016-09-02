@@ -15,7 +15,7 @@
 
 ## § 1047. Allowance for civilian clothing
 
-    (a) __Members Traveling In Connection With Medical Evacuation.—__ 
+    (a)  __Members Traveling In Connection With Medical Evacuation__  __.—__ 
 
     The Secretary of the military department concerned may furnish civilian clothing and luggage to a member at a cost not to exceed $250, or reimburse a member for the purchase of civilian clothing and luggage in an amount not to exceed $250, in the case of a member who—
 
@@ -23,7 +23,7 @@
 
         (2) after being medically evacuated as described in paragraph (1), is in an authorized travel status from a medical facility to another location approved by the Secretary.
 
-    (b) __Certain Enlisted Members.—__ 
+    (b)  __Certain Enlisted Members__  __.—__ 
 
     The Secretary of the military department concerned may furnish civilian clothing, at a cost of not more than $40, to an enlisted member who is—
 
@@ -169,11 +169,11 @@ Provisions similar to those in this section were contained in the following appr
 
 [Pub. L. 108–375, div. A, title V, § 584(b)][/us/pl/108/375/s584/b], (c), Oct. 28, 2004, [118 Stat. 1930][/us/stat/118/1930], provided that:
 
->     “(b) __Effective Date.—__ 
+>     “(b)  __Effective Date__  __.—__ 
 
 >     Subsection (a) of [section 1047 of title 10][/us/usc/t10/s1047], United States Code, as added by subsection (a), shall take effect as of October 1, 2004, and (subject to subsection (c)) shall apply with respect to clothing furnished, and reimbursement for clothing purchased, on or after that date.
 
->     “(c) __Retroactive Application.—__ 
+>     “(c)  __Retroactive Application__  __.—__ 
 
 >     With respect to the period beginning on October 1, 2004, and ending on the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall provide for subsection (a) of [section 1047 of title 10][/us/usc/t10/s1047], United States Code, as added by subsection (a), to be applied as a continuation of the authority provided in section 1319 of the Emergency Wartime Supplemental Appropriations Act, 2003 ([Public Law 108–11][/us/pl/108/11]; [117 Stat. 571][/us/stat/117/571]), as continued in effect during fiscal year 2004 by section 1103 of the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004 ([Public Law 108–106][/us/pl/108/106]; [117 Stat. 1214][/us/stat/117/1214]).”
 

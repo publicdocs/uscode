@@ -15,15 +15,15 @@
 
 ## § 153. Chairman: functions
 
-    (a) __Planning; Advice; Policy Formulation.—__ 
+    (a)  __Planning; Advice; Policy Formulation__  __.—__ 
 
     Subject to the authority, direction, and control of the President and the Secretary of Defense, the Chairman of the Joint Chiefs of Staff shall be responsible for the following:
 
-        (1) __Strategic Direction.—__ 
+        (1)  __Strategic Direction__  __.—__ 
 
         Assisting the President and the Secretary of Defense in providing for the strategic direction of the armed forces.
 
-        (2) __Strategic Planning.—__ 
+        (2)  __Strategic Planning__  __.—__ 
 
             (A) Preparing strategic plans, including plans which conform with resource levels projected by the Secretary of Defense to be available for the period of time for which the plans are to be effective.
 
@@ -31,7 +31,7 @@
 
             (C) Performing net assessments to determine the capabilities of the armed forces of the United States and its allies as compared with those of their potential adversaries.
 
-        (3) __Contingency Planning; Preparedness.—__ 
+        (3)  __Contingency Planning; Preparedness__  __.—__ 
 
             (A) Providing for the preparation and review of contingency plans which conform to policy guidance from the President and the Secretary of Defense.
 
@@ -45,7 +45,7 @@
 
             (F) In coordination with the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Secretaries of the military departments, the heads of the Defense Agencies, and the commanders of the combatant commands, determining the operational contract support requirements of the armed forces and recommending the resources required to improve and enhance operational contract support for the armed forces and planning for such operational contract support.
 
-        (4) __Advice on Requirements, Programs, and Budget.—__ 
+        (4)  __Advice on Requirements, Programs, and Budget__  __.—__ 
 
             (A) Advising the Secretary, under [section 163(b)(2) of this title][/us/usc/t10/s163/b/2], on the priorities of the requirements identified by the commanders of the unified and specified combatant commands.
 
@@ -61,7 +61,7 @@
 
             (G) Recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure that such trade-offs are made in the acquisition of materiel and equipment to support the strategic and contingency plans required by this subsection in the most effective and efficient manner.
 
-        (5) __Doctrine, Training, and Education.—__ 
+        (5)  __Doctrine, Training, and Education__  __.—__ 
 
             (A) Developing doctrine for the joint employment of the armed forces.
 
@@ -69,7 +69,7 @@
 
             (C) Formulating policies for coordinating the military education and training of members of the armed forces.
 
-        (6) __Other Matters.—__ 
+        (6)  __Other Matters__  __.—__ 
 
             (A) Providing for representation of the United States on the Military Staff Committee of the United Nations in accordance with the Charter of the United Nations.
 
@@ -77,7 +77,7 @@
 
     (b) __National Military Strategy.—__ 
 
-        (1) __National military strategy.—__ 
+        (1)  __National military strategy__  __.—__ 
 
             (A) The Chairman shall determine each even-numbered year whether to prepare a new National Military Strategy in accordance with this subparagraph or to update a strategy previously prepared in accordance with this subsection. The Chairman shall complete preparation of the National Military Strategy or update in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion of the report of the Secretary of Defense, if any, under paragraph (4).
 
@@ -129,7 +129,7 @@
 
             (F) Each update to a National Military Strategy under this paragraph shall address only those parts of the most recent National Military Strategy for which the Chairman determines, on the basis of a comprehensive review conducted in conjunction with the other members of the Joint Chiefs of Staff and the commanders of the combatant commands, that a modification is needed.
 
-        (2) __Risk assessment.—__ 
+        (2)  __Risk assessment__  __.—__ 
 
             (A) The Chairman shall prepare each year an assessment of the risks associated with the most current National Military Strategy (or update) under paragraph (1). The risk assessment shall be known as the “Risk Assessment of the Chairman of the Joint Chiefs of Staff”. The Chairman shall complete preparation of the Risk Assessment in time for transmittal to Congress pursuant to paragraph (3), including in time for inclusion of the report of the Secretary of Defense, if any, under paragraph (4).
 
@@ -161,13 +161,13 @@
 
                 (vi) Identify and assess the critical deficiencies and strengths in force capabilities (including manpower, logistics, intelligence, and mobility support) identified during the preparation and review of the contingency plans of each unified combatant command, and identify and assess the effect of such deficiencies and strengths for the National Military Strategy.
 
-        (3) __Submittal of national military strategy and risk assessment to congress.—__ 
+        (3)  __Submittal of national military strategy and risk assessment to congress__  __.—__ 
 
             (A) Not later than February 15 of each even-numbered year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the National Military Strategy or update, if any, prepared under paragraph (1) in such year.
 
             (B) Not later than February 15 each year, the Chairman shall, through the Secretary of Defense, submit to the Committees on Armed Services of the Senate and the House of Representatives the Risk Assessment prepared under paragraph (2) in such year.
 
-        (4) __Secretary of defense reports to congress.—__ 
+        (4)  __Secretary of defense reports to congress__  __.—__ 
 
             (A) In transmitting a National Military Strategy (or update) or Risk Assessment to Congress pursuant to paragraph (3), the Secretary of Defense shall include in the transmittal such comments of the Secretary thereon, if any, as the Secretary considers appropriate.
 
@@ -179,7 +179,7 @@
 
                 (ii) specify, for each risk addressed, the extent of, and a schedule for expected mitigation of, such risk, and an assessment of the potential for residual risk, if any, after mitigation.
 
-    (c) __Annual Report on Combatant Command Requirements.—__ 
+    (c)  __Annual Report on Combatant Command Requirements__  __.—__ 
 
         (1) At or about the time that the budget is submitted to Congress for a fiscal year under [section 1105(a) of title 31][/us/usc/t31/s1105/a], the Chairman shall submit to the congressional defense committees a report on the requirements of the combatant commands established under [section 161 of this title][/us/usc/t10/s161].
 
@@ -255,11 +255,11 @@
 
 [Pub. L. 105–85, div. A, title III, § 326][/us/pl/105/85/s326], Nov. 18, 1997, [111 Stat. 1679][/us/stat/111/1679], provided that:
 
->     “(a) __Means for Measurement.—__ 
+>     “(a)  __Means for Measurement__  __.—__ 
 
 >     The Chairman of the Joint Chiefs of Staff shall, to the maximum extent practicable, develop (1) a common means of measuring the operations tempo (OPTEMPO) of each of the Armed Forces, and (2) a common means of measuring the personnel tempo (PERSTEMPO) of each of the Armed Forces. The Chairman shall consult with the other members of the Joint Chiefs of Staff in developing those common means of measurement.
 
->     “(b) __PERSTEMPO Measurement.—__ 
+>     “(b)  __PERSTEMPO Measurement__  __.—__ 
 
 >     The measurement of personnel tempo developed by the Chairman shall include a means of identifying the rate of deployment for individual members of the Armed Forces in addition to the rate of deployment for units.”
 

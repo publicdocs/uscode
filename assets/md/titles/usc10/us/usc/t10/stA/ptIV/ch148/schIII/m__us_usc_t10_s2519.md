@@ -15,37 +15,37 @@
 
 ## § 2519. Federal Defense Laboratory Diversification Program
 
-    (a) __Establishment of Program.—__ 
+    (a)  __Establishment of Program__  __.—__ 
 
     The Secretary of Defense shall conduct a program in accordance with this section for the purpose of promoting cooperation between Department of Defense laboratories and industry on research and development of dual-use technologies in order to further the national security objectives set forth in [section 2501(a) of this title][/us/usc/t10/s2501/a].
 
-    (b) __Partnerships.—__ 
+    (b)  __Partnerships__  __.—__ 
 
         (1) The Secretary shall provide for the establishment under the program of cooperative arrangements (hereinafter in this section referred to as “partnerships”) between a Department of Defense laboratory and eligible firms and nonprofit research corporations. A partnership may also include one or more additional Federal laboratories, institutions of higher education, agencies of State and local governments, and other entities, as determined appropriate by the Secretary.
 
         (2) For purposes of this section, a federally funded research and development center shall be considered a Department of Defense laboratory if the center is sponsored by the Department of Defense.
 
-    (c) __Assistance Authorized.—__ 
+    (c)  __Assistance Authorized__  __.—__ 
 
         (1) The Secretary may make grants, enter into contracts, enter into cooperative agreements and other transactions pursuant to [section 2371 of this title][/us/usc/t10/s2371], and enter into cooperative research and development agreements under section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a]) in order to establish partnerships.
 
         (2) Subject to subsection (d), the Secretary may provide a partnership with technical and other assistance in order to facilitate the achievement of the purpose of this section.
 
-    (d) __Financial Commitment of Non-Federal Government Participants.—__ 
+    (d)  __Financial Commitment of Non-Federal Government Participants__  __.—__ 
 
         (1) The Secretary shall ensure that the non-Federal Government participants in a partnership make a substantial contribution to the total cost of partnership activities. The amount of the contribution shall be commensurate with the risk undertaken by such participants and the potential benefits of the activities for such participants.
 
         (2) The regulations prescribed pursuant to [section 2511(c)(2) of this title][/us/usc/t10/s2511/c/2] shall apply to in-kind contributions made by non-Federal Government participants in a partnership.
 
-    (e) __Selection Process.—__ 
+    (e)  __Selection Process__  __.—__ 
 
     Competitive procedures shall be used in the establishment of partnerships.
 
-    (f) __Selection Criteria.—__ 
+    (f)  __Selection Criteria__  __.—__ 
 
     The criteria for the selection of a proposed partnership for establishment under this section shall include the criteria set forth in [section 2511(e) of this title][/us/usc/t10/s2511/e].
 
-    (g) __Regulations.—__ 
+    (g)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations for the purposes of this section.
 

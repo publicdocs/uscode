@@ -15,7 +15,7 @@
 
 ## § 2378. Procurement of copier paper containing specified percentages of post-consumer recycled content
 
-    (a) __Procurement Requirement.—__ 
+    (a)  __Procurement Requirement__  __.—__ 
 
         (1) Except as provided in subsections (b) and (c), a department or agency of the Department of Defense may not procure copying machine paper after the applicable date specified in paragraph (2) unless the percentage of post-consumer recycled content of the paper meets the percentage then in effect under such paragraph.
 
@@ -29,7 +29,7 @@
 
             (C) 50 percent as of January 1, 2004.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     A department or agency of the Department of Defense is not required to procure copying machine paper containing a percentage of post-consumer recycled content that meets the applicable requirement in subsection (a) if the Secretary concerned determines that one or more of the following circumstances apply with respect to that procurement:
 
@@ -39,13 +39,13 @@
 
         (3) Copying machine paper containing a percentage of post-consumer recycled content meeting such requirement does not meet performance standards of the department or agency for copying machine paper.
 
-    (c) __Effect of Inability To Meet Goal in 2004.—__ 
+    (c)  __Effect of Inability To Meet Goal in__  __2004.—__ 
 
         (1) In the case of the requirement that will take effect on January 1, 2004, pursuant to subsection (a)(2)(C), the requirement shall not take effect with respect to a military department or Defense Agency if the Secretary of Defense determines that the department or agency will be unable to meet such requirement by that date.
 
         (2) The Secretary shall submit to Congress written notice of any determination made under paragraph (1) and the reasons for the determination. The Secretary shall submit such notice, if at all, not later than January 1, 2003.
 
-    (d) __Secretary Concerned Defined.—__ 
+    (d)  __Secretary Concerned Defined__  __.—__ 
 
     In this section, the term “Secretary concerned” means the Secretary of each military department and the Secretary of Defense with respect to the Defense Agencies.
 

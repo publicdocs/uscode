@@ -15,17 +15,17 @@
 
 ## § 1107a. Emergency use products
 
-    (a) __Waiver by the President.—__ 
+    (a)  __Waiver by the President__  __.—__ 
 
         (1) In the case of the administration of a product authorized for emergency use under section 564 of the Federal Food, Drug, and Cosmetic Act to members of the armed forces, the condition described in section 564(e)(1)(A)(ii)(III) of such Act and required under paragraph (1)(A) or (2)(A) of such section 564(e), designed to ensure that individuals are informed of an option to accept or refuse administration of a product, may be waived only by the President only if the President determines, in writing, that complying with such requirement is not in the interests of national security.
 
         (2) The waiver authority provided in paragraph (1) shall not be construed to apply to any case other than a case in which an individual is required to be informed of an option to accept or refuse administration of a particular product by reason of a determination by the Secretary of Health and Human Services that emergency use of such product is authorized under section 564 of the Federal Food, Drug, and Cosmetic Act.
 
-    (b) __Provision of Information.—__ 
+    (b)  __Provision of Information__  __.—__ 
 
     If the President, under subsection (a), waives the condition described in section 564(e)(1)(A)(ii)(III) of the Federal Food, Drug, and Cosmetic Act, and if the Secretary of Defense, in consultation with the Secretary of Health and Human Services, makes a determination that it is not feasible based on time limitations for the information described in section 564(e)(1)(A)(ii)(I) or (II) of such Act and required under paragraph (1)(A) or (2)(A) of such section 564(e), to be provided to a member of the armed forces prior to the administration of the product, such information shall be provided to such member of the armed forces (or next-of-kin in the case of the death of a member) to whom the product was administered as soon as possible, but not later than 30 days, after such administration. The authority provided for in this subsection may not be delegated. Information concerning the administration of the product shall be recorded in the medical record of the member.
 
-    (c) __Applicability of Other Provisions.—__ 
+    (c)  __Applicability of Other Provisions__  __.—__ 
 
     In the case of an authorization by the Secretary of Health and Human Services under section 564(a)(1) of the Federal Food, Drug, and Cosmetic Act based on a determination by the Secretary of Defense under section 564(b)(1)(B) of such Act, subsections (a) through (f) of section 1107 shall not apply to the use of a product that is the subject of such authorization, within the scope of such authorization and while such authorization is effective.
 

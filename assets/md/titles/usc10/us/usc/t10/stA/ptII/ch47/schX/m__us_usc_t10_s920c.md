@@ -15,7 +15,7 @@
 
 ## § 920c. Art. 120c. Other sexual misconduct
 
-    (a) __Indecent Viewing, Visual Recording, or Broadcasting.—__ 
+    (a)  __Indecent Viewing, Visual Recording, or Broadcasting__  __.—__ 
 
     Any person subject to this chapter who, without legal justification or lawful authorization—
 
@@ -27,27 +27,27 @@
 
         is guilty of an offense under this section and shall be punished as a court-martial may direct.
 
-    (b) __Forcible Pandering.—__ 
+    (b)  __Forcible Pandering__  __.—__ 
 
     Any person subject to this chapter who compels another person to engage in an act of prostitution with any person is guilty of forcible pandering and shall be punished as a court-martial may direct.
 
-    (c) __Indecent Exposure.—__ 
+    (c)  __Indecent Exposure__  __.—__ 
 
     Any person subject to this chapter who intentionally exposes, in an indecent manner, the genitalia, anus, buttocks, or female areola or nipple is guilty of indecent exposure and shall by punished as a court-martial may direct.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Act of prostitution.—__ 
+        (1)  __Act of prostitution__  __.—__ 
 
         The term “act of prostitution” means a sexual act or sexual contact (as defined in [section 920(g) of this title][/us/usc/t10/s920/g] (article 120(g))) on account of which anything of value is given to, or received by, any person.
 
-        (2) __Private area.—__ 
+        (2)  __Private area__  __.—__ 
 
         The term “private area” means the naked or underwear-clad genitalia, anus, buttocks, or female areola or nipple.
 
-        (3) __Reasonable expectation of privacy.—__ 
+        (3)  __Reasonable expectation of privacy__  __.—__ 
 
         The term “under circumstances in which that other person has a reasonable expectation of privacy” means—
 
@@ -55,15 +55,15 @@
 
             (B) circumstances in which a reasonable person would believe that a private area of the person would not be visible to the public.
 
-        (4) __Broadcast.—__ 
+        (4)  __Broadcast__  __.—__ 
 
         The term “broadcast” means to electronically transmit a visual image with the intent that it be viewed by a person or persons.
 
-        (5) __Distribute.—__ 
+        (5)  __Distribute__  __.—__ 
 
         The term “distribute” means delivering to the actual or constructive possession of another, including transmission by electronic means.
 
-        (6) __Indecent manner.—__ 
+        (6)  __Indecent manner__  __.—__ 
 
         The term “indecent manner” means conduct that amounts to a form of immorality relating to sexual impurity which is grossly vulgar, obscene, and repugnant to common propriety, and tends to excite sexual desire or deprave morals with respect to sexual relations.
 

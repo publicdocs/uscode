@@ -15,11 +15,11 @@
 
 ## § 456. Civil actions barred
 
-    (a) __Claims Barred.—__ 
+    (a)  __Claims Barred__  __.—__ 
 
     No civil action may be brought against the United States on the basis of the content of a navigational aid prepared or disseminated by the National Geospatial-Intelligence Agency.
 
-    (b) __Navigational Aids Covered.—__ 
+    (b)  __Navigational Aids Covered__  __.—__ 
 
     Subsection (a) applies with respect to a navigational aid in the form of a map, a chart, or a publication and any other form or medium of product or information in which the National Geospatial-Intelligence Agency prepares or disseminates navigational aids.
 

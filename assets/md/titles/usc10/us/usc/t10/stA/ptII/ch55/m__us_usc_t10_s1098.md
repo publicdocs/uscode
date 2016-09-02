@@ -15,7 +15,7 @@
 
 ## § 1098. Incentives for participation in cost-effective health care plans
 
-    (a) __Waiver of Limitations and Copayments.—__ 
+    (a)  __Waiver of Limitations and Copayments__  __.—__ 
 
     Subject to subsection (b), the Secretary of Defense, with respect to any plan contracted for under the authority of section 1079 or 1086 of this title, may waive, in whole or in part—
 
@@ -23,7 +23,7 @@
 
         (2) any requirement for payment by the patient under section 1079(b) or 1086(b) of this title.
 
-    (b) __Determination and Report.—__ 
+    (b)  __Determination and Report__  __.—__ 
 
         (1)
 

@@ -15,7 +15,7 @@
 
 ## § 424. Disclosure of organizational and personnel information: exemption for specified intelligence agencies
 
-    (a) __Exemption From Disclosure.—__ 
+    (a)  __Exemption From Disclosure__  __.—__ 
 
     Except as required by the President or as provided in subsection (c), no provision of law shall be construed to require the disclosure of—
 
@@ -23,7 +23,7 @@
 
         (2) the number of persons employed by or assigned or detailed to any such organization or the name, official title, occupational series, grade, or salary of any such person.
 
-    (b) __Covered Organizations.—__ 
+    (b)  __Covered Organizations__  __.—__ 
 
     This section applies to the following organizations of the Department of Defense:
 
@@ -33,7 +33,7 @@
 
         (3) The National Geospatial-Intelligence Agency.
 
-    (c) __Provision of Information to Congress.—__ 
+    (c)  __Provision of Information to Congress__  __.—__ 
 
     Subsection (a) does not apply with respect to the provision of information to Congress.
 
@@ -57,15 +57,15 @@
 
 [Pub. L. 103–359, title V, § 503][/us/pl/103/359/s503], Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding [section 552a(e)(3) of title 5][/us/usc/t5/s552a/e/3], United States Code, intelligence personnel of the Department of Defense who are authorized by the Secretary of Defense to collect intelligence from human sources shall not be required, when making an initial assessment contact outside the United States, to give notice of governmental affiliation to potential sources who are United States persons.
 
->     “(b) __Records.—__ 
+>     “(b)  __Records__  __.—__ 
 
 >     Records concerning such contacts shall be maintained by the Department of Defense and made available upon request to the appropriate committees of the Congress in accordance with applicable security procedures. Such records shall include for each such contact an explanation of why notice of government affiliation could not reasonably be provided, the nature of the information obtained from the United States person as a result of the contact, and whether additional contacts resulted with the person concerned.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     For the purposes of this section—
 

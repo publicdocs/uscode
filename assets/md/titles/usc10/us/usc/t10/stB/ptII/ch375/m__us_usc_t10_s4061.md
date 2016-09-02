@@ -15,7 +15,7 @@
 
 ## § 4061. Fatality reviews
 
-    (a) __Review of Fatalities.—__ 
+    (a)  __Review of Fatalities__  __.—__ 
 
     The Secretary of the Army shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
 
@@ -25,7 +25,7 @@
 
         (3) A current or former intimate partner who has a child in common or has shared a common domicile with a member of the Army on active duty.
 
-    (b) __Matters To Be Included.—__ 
+    (b)  __Matters To Be Included__  __.—__ 
 
     The report of a fatality review under subsection (a) shall, at a minimum, include the following:
 
@@ -41,7 +41,7 @@
 
         (6) Recommendations for systemic changes, if any, within the Department of the Army and the Department of Defense.
 
-    (c) __OSD Guidance.—__ 
+    (c) __OSD__  __Guidance__  __.—__ 
 
     The Secretary of Defense shall prescribe guidance, which shall be uniform for the military departments, for the conduct of reviews by the Secretary under subsection (a).
 

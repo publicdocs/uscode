@@ -15,11 +15,11 @@
 
 ## § 457. Operational files previously maintained by or concerning activities of National Photographic Interpretation Center: authority to withhold from public disclosure
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense may withhold from public disclosure operational files described in subsection (b) to the same extent that operational files may be withheld under section 701 of the National Security Act of 1947 ([50 U.S.C. 431][/us/usc/t50/s431]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
-    (b) __Covered Operational Files.—__ 
+    (b)  __Covered Operational Files__  __.—__ 
 
     The authority under subsection (a) applies to operational files in the possession of the National Geospatial-Intelligence Agency that—
 
@@ -27,7 +27,7 @@
 
         (2) concern the activities of the Agency that, as of such date, were performed by the National Photographic Interpretation Center.
 
-    (c) __Operational Files Defined.—__ 
+    (c)  __Operational Files Defined__  __.—__ 
 
     In this section, the term “operational files” has the meaning given that term in section 701(b) of the National Security Act of 1947 ([50 U.S.C. 431(b)][/us/usc/t50/s431/b]).1
 

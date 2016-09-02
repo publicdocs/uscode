@@ -15,11 +15,11 @@
 
 ## § 14308. Promotions: how made
 
-    (a) __Promotion List.—__ 
+    (a)  __Promotion List__  __.—__ 
 
     When the report of a selection board convened under section 14101(a) or 14502 of this title is approved by the President, the Secretary of the military department concerned shall place the names of all officers selected for promotion within a competitive category on a single list for that competitive category, to be known as a promotion list, in the order of seniority of those officers on the reserve active-status list. A promotion list is considered to be established under this section as of the date of the approval of the report of the selection board under the preceding sentence.
 
-    (b) __Promotion; How Made; Order.—__ 
+    (b)  __Promotion; How Made; Order__  __.—__ 
 
         (1) Officers on a promotion list for a competitive category shall be promoted in the manner specified in [section 12203 of this title][/us/usc/t10/s12203].
 
@@ -43,7 +43,7 @@
 
                 (ii) would be eligible for consideration for promotion to the next higher grade by a selection board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] upon the convening of such a board.
 
-    (c) __Date of Rank.—__ 
+    (c)  __Date of Rank__  __.—__ 
 
         (1) The date of rank of an officer appointed to a higher grade under this section is determined under [section 741(d)(2) of this title][/us/usc/t10/s741/d/2].
 
@@ -51,11 +51,11 @@
 
         (3) Except as provided in paragraph (2) or as otherwise specifically authorized by law, a reserve officer is not entitled to additional pay or allowances if the effective date of the officer’s promotion is adjusted to reflect a date earlier than the actual date of the officer’s promotion.
 
-    (d) __Officers With Running Mates.—__ 
+    (d)  __Officers With Running Mates__  __.—__ 
 
     An officer to whom a running mate system applies under [section 14306 of this title][/us/usc/t10/s14306] and who is selected for promotion is eligible for promotion to the grade for which selected when the officer who is that officer’s running mate becomes eligible for promotion under chapter 36 of this title. The effective date of the promotion of that officer shall be the same as that of the officer’s running mate in the grade to which the running mate is promoted.
 
-    (e) __Army Reserve and Air Force Reserve Promotions To Fill Vacancies.—__ 
+    (e)  __Army Reserve and Air Force Reserve Promotions To Fill Vacancies__  __.—__ 
 
     Subject to this section and to [section 14311(e) of this title][/us/usc/t10/s14311/e], and under regulations prescribed by the Secretary of the military department concerned—
 
@@ -63,11 +63,11 @@
 
         (2) an officer in a grade below colonel in the Army Reserve or the Air Force Reserve who is on a promotion list as a result of selection for promotion by a vacancy promotion board convened under [section 14101(a) of this title][/us/usc/t10/s14101/a] may be promoted at any time to fill the vacancy for which the officer was selected.
 
-    (f) __Effective Date of Promotion After Federal Recognition.—__ 
+    (f)  __Effective Date of Promotion After Federal Recognition__  __.—__ 
 
     The effective date of a promotion of a reserve commissioned officer of the Army or the Air Force who is extended Federal recognition in the next higher grade in the Army National Guard or the Air National Guard under section 307 or 310 of title 32 shall be the date on which such Federal recognition in that grade is so extended.
 
-    (g) __Army and Air Force General Officer Promotions.—__ 
+    (g)  __Army and Air Force General Officer Promotions__  __.—__ 
 
     A reserve officer of the Army or the Air Force who is on a promotion list for promotion to the grade of brigadier general or major general as a result of selection by a vacancy promotion board may be promoted to that grade only to fill a vacancy in the Army Reserve or the Air Force Reserve, as the case may be, in that grade.
 

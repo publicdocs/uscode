@@ -15,11 +15,11 @@
 
 ## § 2350k. Relocation within host nation of elements of armed forces overseas
 
-    (a) __Authority To Accept Contributions.—__ 
+    (a)  __Authority To Accept Contributions__  __.—__ 
 
     The Secretary of Defense may accept contributions from any nation because of or in support of the relocation of elements of the armed forces from or to any location within that nation. Such contributions may be accepted in dollars or in the currency of the host nation. Any such contribution shall be placed in an account established for such purpose and shall remain available until expended for the purposes specified in subsection (b). The Secretary shall establish a separate account for such purpose for each country from which such contributions are accepted.
 
-    (b) __Use of Contributions.—__ 
+    (b)  __Use of Contributions__  __.—__ 
 
     The Secretary may use a contribution accepted under subsection (a) only for payment of costs incurred in connection with the relocation concerning which the contribution was made. Those costs include the following:
 
@@ -35,7 +35,7 @@
 
         (6) All other clearly identifiable expenses directly related to relocation.
 
-    (c) __Method of Contribution.—__ 
+    (c)  __Method of Contribution__  __.—__ 
 
     Contributions may be accepted in any of the following forms:
 

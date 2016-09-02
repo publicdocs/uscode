@@ -15,11 +15,11 @@
 
 ## § 1511. Return alive of person declared missing or dead
 
-    (a) __Pay and Allowances.—__ 
+    (a)  __Pay and Allowances__  __.—__ 
 
     Any person (except for a person subsequently determined to have been absent without leave or a deserter) in a missing status or declared dead under subchapter VII of chapter 55 of title 5 or chapter 10 of title 37 or by a board appointed under this chapter who is found alive and returned to the control of the United States shall be paid for the full time of the absence of the person while given that status or declared dead under the law and regulations relating to the pay and allowances of persons returning from a missing status.
 
-    (b) __Effect on Gratuities Paid as a Result of Status.—__ 
+    (b)  __Effect on Gratuities Paid as a Result of Status__  __.—__ 
 
     Subsection (a) shall not be interpreted to invalidate or otherwise affect the receipt by any person of a death gratuity or other payment from the United States on behalf of a person referred to in subsection (a) before February 10, 1996.
 

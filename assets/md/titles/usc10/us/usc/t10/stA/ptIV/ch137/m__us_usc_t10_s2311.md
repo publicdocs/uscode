@@ -15,11 +15,11 @@
 
 ## § 2311. Assignment and delegation of procurement functions and responsibilities
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except to the extent expressly prohibited by another provision of law, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter.
 
-    (b) __Procurements For or With Other Agencies.—__ 
+    (b)  __Procurements For or With Other Agencies__  __.—__ 
 
     Subject to subsection (a), to facilitate the procurement of property and services covered by this chapter by each agency named in [section 2303 of this title][/us/usc/t10/s2303] for any other agency, and to facilitate joint procurement by those agencies—
 
@@ -29,7 +29,7 @@
 
         (3) the heads of two or more agencies may create joint or combined offices to exercise procurement functions and responsibilities.
 
-    (c) __Approval of Terminations and Reductions of Joint Acquisition Programs.—__ 
+    (c)  __Approval of Terminations and Reductions of Joint Acquisition Programs__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations that prohibit each military department participating in a joint acquisition program approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
 

@@ -15,11 +15,11 @@
 
 ## § 139c. Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
     There is a Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy, who shall be appointed by the Under Secretary of Defense for Acquisition, Technology, and Logistics and shall report to the Under Secretary.
 
-    (b) __Responsibilities.—__ 
+    (b)  __Responsibilities__  __.—__ 
 
     The Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy shall be the principal advisor to the Under Secretary of Defense for Acquisition, Technology, and Logistics in the performance of the Under Secretary’s duties relating to the following:
 
@@ -65,11 +65,11 @@
 
         (18) Such other duties as are assigned by the Under Secretary.
 
-    (c) __Rule of Construction.—__ 
+    (c)  __Rule of Construction__  __.—__ 
 
     Nothing in subsection (b)(9) may be construed to limit the authority or modify the policies of the Committee on Foreign Investment in the United States established under section 721(k) of the Defense Production Act of 1950 (50 U.S.C. App. 2170(k)).
 
-    (d) __Materials Critical to National Security Defined.—__ 
+    (d)  __Materials Critical to National Security Defined__  __.—__ 
 
     In this section, the term “materials critical to national security” has the meaning given that term in [section 187(e)(1) of this title][/us/usc/t10/s187/e/1].
 

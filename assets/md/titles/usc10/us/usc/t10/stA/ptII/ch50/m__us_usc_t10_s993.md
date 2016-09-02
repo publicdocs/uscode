@@ -15,11 +15,11 @@
 
 ## § 993. Notification of permanent reduction of sizable numbers of members of the armed forces
 
-    (a) __Notification.—__ 
+    (a)  __Notification__  __.—__ 
 
     The Secretary of Defense or the Secretary of the military department concerned shall notify Congress under subsection (b) of a plan to reduce more than 1,000 members of the armed forces assigned at a military installation. In calculating the number of members to be reduced, the Secretary shall take into consideration both direct reductions and indirect reductions.
 
-    (b) __Notice Requirements.—__ 
+    (b)  __Notice Requirements__  __.—__ 
 
     No irrevocable action may be taken to effect or implement a reduction described under subsection (a) until—
 
@@ -35,15 +35,15 @@
 
     (c) __Exceptions.—__ 
 
-        (1) __Base closure process.—__ 
+        (1)  __Base closure process__  __.—__ 
 
         Subsections (a) and (b) do not apply in the case of the realignment of a military installation pursuant to a base closure law.
 
-        (2) __National security or emergency.—__ 
+        (2)  __National security or emergency__  __.—__ 
 
         Subsections (a) and (b) do not apply if the President certifies to Congress that the reduction in military personnel at a military installation must be implemented for reasons of national security or a military emergency.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 

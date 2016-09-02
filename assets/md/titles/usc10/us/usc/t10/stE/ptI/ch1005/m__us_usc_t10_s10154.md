@@ -41,19 +41,19 @@
 
 [Pub. L. 103–337, div. A, title III, § 377][/us/pl/103/337/s377], Oct. 5, 1994, [108 Stat. 2737][/us/stat/108/2737], as amended by [Pub. L. 104–106, div. A, title XV, § 1501(d)(1)][/us/pl/104/106/s1501/d/1], Feb. 10, 1996, [110 Stat. 500][/us/stat/110/500]; [Pub. L. 105–85, div. A, title X, § 1073(d)(1)(E)(i)][/us/pl/105/85/s1073/d/1/E/i], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905]; [Pub. L. 109–163, div. A, title V, § 515(h)][/us/pl/109/163/s515/h], Jan. 6, 2006, [119 Stat. 3237][/us/stat/119/3237], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of the Navy may issue a military identification card to a member of the Retired Reserve described in subsection (b).
 
->     “(b) __Covered Members.—__ 
+>     “(b)  __Covered Members__  __.—__ 
 
 >     A member of the Retired Reserve referred to in subsection (a) is a member of the Navy Reserve or Marine Corps Reserve who transferred to the Retired Reserve under section 274(2) \[see 10154(2)\] of title 10, United States Code, without having completed the years of service required under section 1331(a)(2) \[see 12731(a)(2)\] of such title for eligibility for retired pay under chapter 67 \[see 1223\] of such title or who after November 30, 1994, transferred to the Retired Reserve under [section 10154(2) of title 10][/us/usc/t10/s10154/2], United States Code, without having completed the years of service required under section 12731(a)(2) of such title for eligibility for retired pay under chapter 1223 of such title.
 
->     “(c) __Effect on Commissary and Exchange Benefits.—__ 
+>     “(c)  __Effect on Commissary and Exchange Benefits__  __.—__ 
 
 >     The issuance of a military identification card under subsection (a) to a member of the Retired Reserve does not confer eligibility for commissary and exchange benefits on that member.
 
->     “(d) __Limitation on Color and Format.—__ 
+>     “(d)  __Limitation on Color and Format__  __.—__ 
 
 >     The Secretary shall ensure that the color and format in which a military identification card is issued under subsection (a) is not similar to the color and format in which a military identification card is issued by the Department of Defense to individuals other than members described in subsection (b).”
 

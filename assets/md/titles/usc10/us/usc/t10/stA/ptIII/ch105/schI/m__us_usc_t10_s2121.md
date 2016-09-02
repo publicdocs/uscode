@@ -75,11 +75,11 @@
 
 [Pub. L. 109–364, div. A, title V, § 538(d)][/us/pl/109/364/s538/d], Oct. 17, 2006, [120 Stat. 2210][/us/stat/120/2210], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     The amendments made by this section \[amending this section and [section 2127 of this title][/us/usc/t10/s2127]\] shall take effect on October 1, 2006.
 
->     “(2) __Prohibition on adjustments.—__ 
+>     “(2)  __Prohibition on adjustments__  __.—__ 
 
 >     The adjustments required by the second sentence of subsection (d) of [section 2121 of title 10][/us/usc/t10/s2121], United States Code, and the second sentence of subsection (e) of section 2127 of such title to be made in 2007 shall not be made.”
 

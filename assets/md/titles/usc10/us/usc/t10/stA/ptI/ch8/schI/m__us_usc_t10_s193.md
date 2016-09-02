@@ -15,7 +15,7 @@
 
 ## § 193. Combat support agencies: oversight
 
-    (a) __Combat Readiness.—__ 
+    (a)  __Combat Readiness__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) In preparing each such report, the Chairman shall review the plans of each such agency with respect to its support of operating forces in the event of a war or threat to national security. After consultation with the Secretaries of the military departments and the commanders of the unified and specified combatant commands, as appropriate, the Chairman may, with the approval of the Secretary of Defense, take steps to provide for any revision of those plans that the Chairman considers appropriate.
 
-    (b) __Participation in Joint Training Exercises.—__ 
+    (b)  __Participation in Joint Training Exercises__  __.—__ 
 
     The Chairman shall—
 
@@ -35,21 +35,21 @@
 
         (2) assess the performance in joint training exercises of each such agency and, in accordance with guidelines established by the Secretary of Defense, take steps to provide for any change that the Chairman considers appropriate to improve that performance.
 
-    (c) __Readiness Reporting System.—__ 
+    (c)  __Readiness Reporting System__  __.—__ 
 
     The Chairman shall develop, in consultation with the director of each combat support agency, a uniform system for reporting to the Secretary of Defense, the commanders of the unified and specified combatant commands, and the Secretaries of the military departments concerning the readiness of each such agency to perform with respect to a war or threat to national security.
 
-    (d) __Review of National Security Agency and National Geospatial-Intelligence Agency.—__ 
+    (d)  __Review of National Security Agency and National Geospatial-Intelligence Agency__  __.—__ 
 
         (1) Subsections (a), (b), and (c) shall apply to the National Security Agency and the National Geospatial-Intelligence Agency, but only with respect to combat support functions that the agencies perform for the Department of Defense.
 
         (2) The Secretary, after consulting with the Director of National Intelligence, shall establish policies and procedures with respect to the application of subsections (a), (b), and (c) to the National Security Agency and the National Geospatial-Intelligence Agency.
 
-    (e) __Combat Support Capabilities of DIA, NSA, and NGA.—__ 
+    (e)  __Combat Support Capabilities of DIA, NSA, and NGA__  __.—__ 
 
     The Secretary of Defense, in consultation with the Director of National Intelligence, shall develop and implement, as they may determine to be necessary, policies and programs to correct such deficiencies as the Chairman of the Joint Chiefs of Staff and other officials of the Department of Defense may identify in the capabilities of the Defense Intelligence Agency, the National Security Agency, and the National Geospatial-Intelligence Agency to accomplish assigned missions in support of military combat operations.
 
-    (f) __Definition of Combat Support Agency.—__ 
+    (f)  __Definition of Combat Support Agency__  __.—__ 
 
     In this section, the term “combat support agency” means any of the following Defense Agencies:
 

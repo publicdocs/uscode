@@ -15,23 +15,23 @@
 
 ## § 2805. Unspecified minor construction
 
-    (a) __Authority to Carry Out Unspecified Minor Military Construction Projects.—__ 
+    (a)  __Authority to Carry Out Unspecified Minor Military Construction Projects__  __.—__ 
 
         (1) Within an amount equal to 125 percent of the amount authorized by law for such purpose, the Secretary concerned may carry out unspecified minor military construction projects not otherwise authorized by law.
 
         (2) An unspecified minor military construction project is a military construction project that has an approved cost equal to or less than $2,000,000. However, if the military construction project is intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening, an unspecified minor military construction project may have an approved cost equal to or less than $3,000,000.
 
-    (b) __Approval and Congressional Notification.—__ 
+    (b)  __Approval and Congressional Notification__  __.—__ 
 
         (1) An unspecified minor military construction project costing more than $750,000 may not be carried out under this section unless approved in advance by the Secretary concerned. This paragraph shall apply even though the project is to be carried out using funds made available to enhance the deployment and mobility of military forces and supplies.
 
         (2) When a decision is made to carry out an unspecified minor military construction project to which paragraph (1) is applicable, the Secretary concerned shall notify in writing the appropriate committees of Congress of that decision, of the justification for the project, and of the estimated cost of the project. The project may then be carried out only after the end of the 21-day period beginning on the date the notification is received by the committees or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
 
-    (c) __Use of Operation and Maintenance Funds.—__ 
+    (c)  __Use of Operation and Maintenance Funds__  __.—__ 
 
     The Secretary concerned may spend from appropriations available for operation and maintenance amounts necessary to carry out an unspecified minor military construction project costing not more than $750,000.
 
-    (d) __Laboratory Revitalization.—__ 
+    (d)  __Laboratory Revitalization__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (5) The authority to carry out a project under this subsection expires on September 30, 2016.
 
-    (e) __Prohibition on Use for New Housing Units.—__ 
+    (e)  __Prohibition on Use for New Housing Units__  __.—__ 
 
     Military family housing projects for construction of new housing units may not be carried out under the authority of this section.
 
@@ -159,11 +159,11 @@
 
 [Pub. L. 104–106, div. B, title XXVIII, § 2892][/us/pl/104/106/s2892], Feb. 10, 1996, [110 Stat. 590][/us/stat/110/590], as amended by [Pub. L. 105–261, div. B, title XXVIII, § 2871][/us/pl/105/261/s2871], Oct. 17, 1998, [112 Stat. 2225][/us/stat/112/2225]; [Pub. L. 108–375, div. B, title XXVIII, § 2891][/us/pl/108/375/s2891], Oct. 28, 2004, [118 Stat. 2154][/us/stat/118/2154], provided that:
 
->     “(a) __Program Authorized.—__ 
+>     “(a)  __Program Authorized__  __.—__ 
 
 >     The Secretary of Defense may carry out a program (to be known as the ‘Department of Defense Laboratory Revitalization Demonstration Program’) for the revitalization of Department of Defense laboratories. Under the program, the Secretary may carry out minor military construction projects in accordance with subsection (b) and other applicable law to improve Department of Defense laboratories covered by the program.
 
->     “(b) __Increased Maximum Amounts Applicable to Minor Construction Projects.—__ 
+>     “(b)  __Increased Maximum Amounts Applicable to Minor Construction Projects__  __.—__ 
 
 >     For purpose of any military construction project carried out under the program—
 
@@ -173,21 +173,21 @@
 
 >         “(3) the amount provided in subsection (c)(1)(B) of such section shall be deemed to be $1,000,000.
 
->     “(c) __Program Requirements.—__ 
+>     “(c)  __Program Requirements__  __.—__ 
 
 >         (1) Not later than 30 days before commencing the program, the Secretary shall establish procedures for the review and approval of requests from Department of Defense laboratories for construction under the program.
 
 >         “(2) The laboratories at which construction may be carried out under the program may not include Department of Defense laboratories that are contractor-owned.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than February 1, 2003, the Secretary shall submit to Congress a report on the program. The report shall include the Secretary’s conclusions and recommendation regarding the desirability of making the authority set forth under subsection (b) permanent.
 
->     “(e) __Exclusivity of Program.—__ 
+>     “(e)  __Exclusivity of Program__  __.—__ 
 
 >     Nothing in this section may be construed to limit any other authority provided by law for any military construction project at a Department of Defense laboratory covered by the program.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -203,7 +203,7 @@
 
 >         “(2) The term ‘supporting facility’, with respect to a laboratory, means any building or structure that is used in support of research, development, test, and evaluation at the laboratory.
 
->     “(g) __Expiration of Authority.—__ 
+>     “(g)  __Expiration of Authority__  __.—__ 
 
 >     The Secretary may not commence a construction project under the program after September 30, 2005.”
 

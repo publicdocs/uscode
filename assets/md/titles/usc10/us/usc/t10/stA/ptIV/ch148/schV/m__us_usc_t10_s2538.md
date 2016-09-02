@@ -15,15 +15,15 @@
 
 ## § 2538. Industrial mobilization: orders; priorities; possession of manufacturing plants; violations
 
-    (a) __Ordering Authority.—__ 
+    (a)  __Ordering Authority__  __.—__ 
 
     In time of war or when war is imminent, the President, through the head of any department, may order from any person or organized manufacturing industry necessary products or materials of the type usually produced or capable of being produced by that person or industry.
 
-    (b) __Compliance With Order Required.—__ 
+    (b)  __Compliance With Order Required__  __.—__ 
 
     A person or industry with whom an order is placed under subsection (a), or the responsible head thereof, shall comply with that order and give it precedence over all orders not placed under that subsection.
 
-    (c) __Seizure of Manufacturing Plants Upon Noncompliance.—__ 
+    (c)  __Seizure of Manufacturing Plants Upon Noncompliance__  __.—__ 
 
     In time of war or when war is imminent, the President, through the head of any department, may take immediate possession of any plant that is equipped to manufacture, or that in the opinion of the head of that department is capable of being readily transformed into a plant for manufacturing, arms or ammunition, parts thereof, or necessary supplies for the armed forces if the person or industry owning or operating the plant, or the responsible head thereof, refuses—
 
@@ -33,15 +33,15 @@
 
         (3) to furnish them at a reasonable price as determined by the head of such department.
 
-    (d) __Use of Seized Plant.—__ 
+    (d)  __Use of Seized Plant__  __.—__ 
 
     The President, through the head of any department, may manufacture products that are needed in time of war or when war is imminent, in any plant that is seized under subsection (c).
 
-    (e) __Compensation Required.—__ 
+    (e)  __Compensation Required__  __.—__ 
 
     Each person or industry from whom products or materials are ordered under subsection (a) is entitled to fair and just compensation. Each person or industry whose plant is seized under subsection (c) is entitled to a fair and just rental.
 
-    (f) __Criminal Penalty.—__ 
+    (f)  __Criminal Penalty__  __.—__ 
 
     Whoever fails to comply with this section shall be imprisoned for not more than three years and fined under title 18.
 

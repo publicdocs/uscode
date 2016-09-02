@@ -15,11 +15,11 @@
 
 ## § 1795. Parent partnerships with child development centers
 
-    (a) __Parent Boards.—__ 
+    (a)  __Parent Boards__  __.—__ 
 
     The Secretary of Defense shall require that there be established at each military child development center a board of parents, to be composed of parents of children attending the center. The board shall meet periodically with staff of the center and the commander of the installation served by the center for the purpose of discussing problems and concerns. The board, together with the staff of the center, shall be responsible for coordinating the parent participation program described in subsection (b).
 
-    (b) __Parent Participation Programs.—__ 
+    (b)  __Parent Participation Programs__  __.—__ 
 
     The Secretary of Defense shall require the establishment of a parent participation program at each military child development center. As part of such program, the Secretary of Defense may establish fees for attendance of children at such a center, in the case of parents who participate in the parent participation program at that center, at rates lower than the rates that otherwise apply.
 

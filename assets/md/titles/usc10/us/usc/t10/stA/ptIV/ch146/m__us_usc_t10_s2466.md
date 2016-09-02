@@ -15,11 +15,11 @@
 
 ## § 2466. Limitations on the performance of depot-level maintenance of materiel
 
-    (a) __Percentage Limitation.—__ 
+    (a)  __Percentage Limitation__  __.—__ 
 
     Not more than 50 percent of the funds made available in a fiscal year to a military department or a Defense Agency for depot-level maintenance and repair workload may be used to contract for the performance by non-Federal Government personnel of such workload for the military department or the Defense Agency. Any such funds that are not used for such a contract shall be used for the performance of depot-level maintenance and repair workload by employees of the Department of Defense.
 
-    (b) __Waiver of Limitation.—__ 
+    (b)  __Waiver of Limitation__  __.—__ 
 
     The Secretary of Defense may waive the limitation in subsection (a) for a fiscal year if—
 
@@ -27,11 +27,11 @@
 
         (2) the Secretary submits to Congress a notification of the waiver together with the reasons for the waiver.
 
-    (c) __Prohibition on Delegation of Waiver Authority.—__ 
+    (c)  __Prohibition on Delegation of Waiver Authority__  __.—__ 
 
     The authority to grant a waiver under subsection (b) may not be delegated.
 
-    (d) __Annual Report.—__ 
+    (d)  __Annual Report__  __.—__ 
 
         (1) Not later than 90 days after the date on which the budget of the President for a fiscal year is submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], the Secretary of Defense shall submit to Congress a report identifying, for each of the armed forces (other than the Coast Guard) and each Defense Agency, the percentage of the funds referred to in subsection (a) that was expended during the preceding fiscal year, and are projected to be expended during the current fiscal year and the ensuing fiscal year, for performance of depot-level maintenance and repair workloads by the public and private sectors.
 
@@ -133,7 +133,7 @@
 
 [Pub. L. 103–337, div. A, title III, § 337][/us/pl/103/337/s337], Oct. 5, 1994, [108 Stat. 2717][/us/stat/108/2717], provided that:
 
->     “(a) __Program Authorized.—__ 
+>     “(a)  __Program Authorized__  __.—__ 
 
 >     The Secretary of Defense shall conduct activities to encourage commercial firms to enter into partnerships with depot-level activities of the military departments for the purposes of—
 
@@ -143,7 +143,7 @@
 
 >         “(3) supporting the goals of other defense conversion, reinvestment, and transition assistance programs while also allowing the depot-level activities to remain in operation to continue to perform their defense readiness mission.
 
->     “(b) __Conditions.—__ 
+>     “(b)  __Conditions__  __.—__ 
 
 >     The Secretary shall ensure that activities conducted under this section—
 

@@ -15,15 +15,15 @@
 
 ## § 2541a. Fees charged and collected
 
-    (a) __Fee Required.—__ 
+    (a)  __Fee Required__  __.—__ 
 
     The Secretary of Defense shall assess a fee for providing a loan guarantee under this subchapter.
 
-    (b) __Amount of Fee.—__ 
+    (b)  __Amount of Fee__  __.—__ 
 
     The amount of the fee shall be not less than 75 percent of the amount incurred by the Secretary to provide the loan guarantee.
 
-    (c) __Special Account.—__ 
+    (c)  __Special Account__  __.—__ 
 
         (1) Such fees shall be credited to a special account in the Treasury.
 

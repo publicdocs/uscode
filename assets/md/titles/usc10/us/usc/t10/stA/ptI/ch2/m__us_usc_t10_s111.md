@@ -101,11 +101,11 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 [Pub. L. 104–106, div. A, title IX, § 908][/us/pl/104/106/s908], Feb. 10, 1996, [110 Stat. 406][/us/stat/110/406], provided that:
 
->     “(a) __Redesignation.—__ 
+>     “(a)  __Redesignation__  __.—__ 
 
 >     The agency in the Department of Defense known as the Advanced Research Projects Agency shall after the date of the enactment of this Act \[Feb. 10, 1996\] be designated as the Defense Advanced Research Projects Agency.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     Any reference in any law, regulation, document, record, or other paper of the United States or in any provision of this Act to the Advanced Research Projects Agency shall be considered to be a reference to the Defense Advanced Research Projects Agency.”
 
@@ -135,11 +135,11 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 [Pub. L. 110–181, div. A, title IX, § 952][/us/pl/110/181/s952], Jan. 28, 2008, [122 Stat. 291][/us/stat/122/291], provided that:
 
->     “(a) __Plan Required.—__ 
+>     “(a)  __Plan Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall develop and submit to Congress a plan to improve and reform the Department of Defense’s participation in and contribution to the interagency coordination process on national security issues.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The elements of the plan shall include the following:
 
@@ -167,7 +167,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 >             “(F) To serve as the lead official in Department of Defense for the development of deployable joint interagency task forces.
 
->     “(c) __Factors To Be Considered.—__ 
+>     “(c)  __Factors To Be Considered__  __.—__ 
 
 >     In drafting the plan, the Secretary of Defense shall also consider the following factors:
 
@@ -181,19 +181,19 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 >         “(5) The role of such official in ensuring that future defense planning guidance takes into account the capabilities and needs of other agencies.
 
->     “(d) __Recommendation on Changes in Law.—__ 
+>     “(d)  __Recommendation on Changes in Law__  __.—__ 
 
 >     The Secretary of Defense may submit with the plan or with any future budget submissions recommendations for any changes to law that are required to enhance the ability of the official assigned under subsection (b)(1) in the Department of Defense to coordinate defense interagency efforts or to improve the ability of the Department of Defense to work with other agencies.
 
->     “(e) __Annual Report.—__ 
+>     “(e)  __Annual Report__  __.—__ 
 
 >     If an official is named by the Secretary of Defense under subsection (b)(1), the official shall annually submit to Congress a report, beginning in the fiscal year following the naming of the official, on those actions taken by the Department of Defense to enhance national security interagency coordination, the views of the Department of Defense on efforts and challenges in improving the ability of agencies to work together, and suggestions on changes needed to laws or regulations that would enhance the coordination of efforts of agencies.
 
->     “(f) __Definition.—__ 
+>     “(f)  __Definition__  __.—__ 
 
 >     In this section, the term ‘interagency coordination’, within the context of Department of Defense involvement, means the coordination that occurs between elements of the Department of Defense and engaged Federal Government agencies for the purpose of achieving an objective.
 
->     “(g) __Construction.—__ 
+>     “(g)  __Construction__  __.—__ 
 
 >     Nothing in this provision shall be construed as preventing the Secretary of Defense from naming an official with the responsibilities listed in subsection (b) before the submission of the report required under this section.”
 
@@ -213,11 +213,11 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 [Pub. L. 105–261, div. A, title XII, § 1232][/us/pl/105/261/s1232], Oct. 17, 1998, [112 Stat. 2155][/us/stat/112/2155], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Notwithstanding any other provision of law, no provision of the Kyoto Protocol to the United Nations Framework Convention on Climate Change, or any regulation issued pursuant to such protocol, shall restrict the training or operations of the United States Armed Forces or limit the military equipment procured by the United States Armed Forces.
 
->     “(b) __Waiver.—__ 
+>     “(b)  __Waiver__  __.—__ 
 
 >     A provision of law may not be construed as modifying or superseding the provisions of subsection (a) unless that provision of law—
 
@@ -225,7 +225,7 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 >         “(2) specifically states that such provision of law modifies or supersedes the provisions of this section.
 
->     “(c) __Matters Not Affected.—__ 
+>     “(c)  __Matters Not Affected__  __.—__ 
 
 >     Nothing in this section shall be construed to preclude the Department of Defense from implementing any measure to achieve efficiencies or for any other reason independent of the Kyoto Protocol.”
 
@@ -233,13 +233,13 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 [Pub. L. 105–85, div. A, title X, § 1081][/us/pl/105/85/s1081], Nov. 18, 1997, [111 Stat. 1916][/us/stat/111/1916], provided that:
 
->     “(a) __Applicability of Certain Pay Authorities.—__ 
+>     “(a)  __Applicability of Certain Pay Authorities__  __.—__ 
 
 >         (1) An individual who is a member of a commission or panel specified in subsection (b) and is an annuitant otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the commission or panel is not subject to the provisions of that section with respect to such membership.
 
 >         “(2) An individual who is a member of a commission or panel specified in subsection (b) and is a member or former member of a uniformed service is not subject to the provisions of subsections (b) and (c) of section 5532 of such title with respect to membership on the commission or panel.
 
->     “(b) __Specified Entities.—__ 
+>     “(b)  __Specified Entities__  __.—__ 
 
 >     Subsection (a) applies—
 
@@ -251,15 +251,15 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 [Pub. L. 104–201, div. A, title IX, § 912][/us/pl/104/201/s912], Sept. 23, 1996, [110 Stat. 2623][/us/stat/110/2623], as amended by [Pub. L. 109–163, div. A, title IX, § 906][/us/pl/109/163/s906], Jan. 6, 2006, [119 Stat. 3402][/us/stat/119/3402], provided that:
 
->     “(a) __Telecommunications Support and Audiovisual Support Services.—__ 
+>     “(a)  __Telecommunications Support and Audiovisual Support Services__  __.—__ 
 
 >     The Secretary of Defense shall ensure that the activities of the White House Communications Agency in providing support services on a nonreimbursable basis for the President from funds appropriated for the Department of Defense for any fiscal year are limited to the provision of telecommunications support and audiovisual support services to the President and Vice President and to related elements (as defined in regulations of that agency and specified by the President with respect to particular individuals within those related elements).
 
->     “(b) __Other Support.—__ 
+>     “(b)  __Other Support__  __.—__ 
 
 >     Support services other than telecommunications and audiovisual support services described in subsection (a) may be provided by the Department of Defense for the President through the White House Communications Agency on a reimbursable basis.
 
->     “(c) __White House Communications Agency.—__ 
+>     “(c)  __White House Communications Agency__  __.—__ 
 
 >     For purposes of this section, the term ‘White House Communications Agency’ means the element of the Department of Defense within the Defense Communications Agency that is known on the date of the enactment of this Act \[Sept. 23, 1996\] as the White House Communications Agency and includes any successor agency.”
 
@@ -275,11 +275,11 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 [Pub. L. 103–160, div. A, title XI, § 1151][/us/pl/103/160/s1151], Nov. 30, 1993, [107 Stat. 1758][/us/stat/107/1758], provided that:
 
->     “(a) __Termination of Report Requirements.—__ 
+>     “(a)  __Termination of Report Requirements__  __.—__ 
 
 >     Unless otherwise provided by a law enacted after the date of the enactment of this Act \[Nov. 30, 1993\], each provision of law requiring the submittal to Congress (or any committee of Congress) of any report specified in the list submitted under subsection (b) shall, with respect to that requirement, cease to be effective on October 30, 1995.
 
->     “(b) __Preparation of List.—__ 
+>     “(b)  __Preparation of List__  __.—__ 
 
 >         (1) The Secretary of Defense shall submit to Congress a list of each provision of law that, as of the date specified in subsection (c), imposes upon the Secretary of Defense (or any other officer of the Department of Defense) a reporting requirement described in paragraph (2). The list of provisions of law shall include a statement or description of the report required under each such provision of law.
 
@@ -287,15 +287,15 @@ July 26, 1947, ch. 343, § 201(a) (less last 10 words), (b); restated Aug. 10,
 
 >         “(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
 
->     “(c) __Submission of List.—__ 
+>     “(c)  __Submission of List__  __.—__ 
 
 >     The list under subsection (a) shall be submitted not later than April 30, 1994.
 
->     “(d) __Scope of Section.—__ 
+>     “(d)  __Scope of Section__  __.—__ 
 
 >     For purposes of this section, the term ‘report’ includes a certification, notification, or other characterization of a communication.
 
->     “(e) __Interpretation of Section.—__ 
+>     “(e)  __Interpretation of Section__  __.—__ 
 
 >     This section does not require the Secretary of Defense to review each report required of the Department of Defense by law.”
 

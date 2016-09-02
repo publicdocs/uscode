@@ -79,19 +79,19 @@ The words “That the provisions of existing law relating to the award of medals
 
 [Pub. L. 112–81, div. A, title V, § 595][/us/pl/112/81/s595], Dec. 31, 2011, [125 Stat. 1444][/us/stat/125/1444], provided that:
 
->     “(a) __Review Required.—__ 
+>     “(a)  __Review Required__  __.—__ 
 
 >     The Secretary of the Army and the Secretary of the Navy shall review the service of each Jewish American World War I veteran described in subsection (b) to determine whether such veteran should be posthumously awarded the Medal of Honor.
 
->     “(b) __Covered Jewish American War Veterans.—__ 
+>     “(b)  __Covered Jewish American War Veterans__  __.—__ 
 
 >     The Jewish American World War I veterans whose service is to be reviewed under subsection (a) are any Jewish American World War I veterans awarded the Distinguished Service Cross or the Navy Cross for heroism during World War I and whose name and supporting material for upgrade of the award are submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act \[Dec. 31, 2011\].
 
->     “(c) __Recommendation Based on Review.—__ 
+>     “(c)  __Recommendation Based on Review__  __.—__ 
 
 >     If the Secretary concerned determines, based upon the review under subsection (a) that the award of the Medal of Honor to a veteran is warranted, the Secretary shall submit to the Secretary of Defense a recommendation that the Medal of Honor be awarded posthumously to the veteran.
 
->     “(d) __World War I Defined.—__ 
+>     “(d)  __World War I Defined__  __.—__ 
 
 >     In this section, the term ‘World War I’ means the period beginning on April 6, 1917, and ending on November 11, 1918.”
 
@@ -99,11 +99,11 @@ The words “That the provisions of existing law relating to the award of medals
 
 [Pub. L. 107–107, div. A, title V, § 552][/us/pl/107/107/s552], Dec. 28, 2001, [115 Stat. 1115][/us/stat/115/1115], provided that:
 
->     “(a) __Review Required.—__ 
+>     “(a)  __Review Required__  __.—__ 
 
 >     The Secretary of each military department shall review the service records of each Jewish American war veteran or Hispanic American war veteran described in subsection (b) to determine whether that veteran should be awarded the Medal of Honor.
 
->     “(b) __Covered Jewish American War Veterans and Hispanic American War Veterans.—__ 
+>     “(b)  __Covered Jewish American War Veterans and Hispanic American War Veterans__  __.—__ 
 
 >     The Jewish American war veterans and Hispanic American war veterans whose service records are to be reviewed under subsection (a) are the following:
 
@@ -111,19 +111,19 @@ The words “That the provisions of existing law relating to the award of medals
 
 >         “(2) Any other Jewish American war veteran or Hispanic American war veteran whose name is submitted to the Secretary concerned for such purpose before the end of the one-year period beginning on the date of the enactment of this Act.
 
->     “(c) __Consultations.—__ 
+>     “(c)  __Consultations__  __.—__ 
 
 >     In carrying out the review under subsection (a), the Secretary of each military department shall consult with the Jewish War Veterans of the United States of America and with such other veterans service organizations as the Secretary considers appropriate.
 
->     “(d) __Recommendation Based on Review.—__ 
+>     “(d)  __Recommendation Based on Review__  __.—__ 
 
 >     If the Secretary concerned determines, based upon the review under subsection (a) of the service records of any Jewish American war veteran or Hispanic American war veteran, that the award of the Medal of Honor to that veteran is warranted, the Secretary shall submit to the President a recommendation that the President award the Medal of Honor to that veteran.
 
->     “(e) __Authority To Award Medal of Honor.—__ 
+>     “(e)  __Authority To Award Medal of Honor__  __.—__ 
 
 >     A Medal of Honor may be awarded to a Jewish American war veteran or Hispanic American war veteran in accordance with a recommendation of the Secretary concerned under subsection (d).
 
->     “(f) __Waiver of Time Limitations.—__ 
+>     “(f)  __Waiver of Time Limitations__  __.—__ 
 
 >     An award of the Medal of Honor may be made under subsection (e) without regard to—
 
@@ -137,7 +137,7 @@ The words “That the provisions of existing law relating to the award of medals
 
 >             “(B) the awarding of the Medal of Honor for service for which a Distinguished Service Cross, Navy Cross, or Air Force Cross has been awarded.
 
->     “(g) __Definition.—__ 
+>     “(g)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘Jewish American war veteran’ means any person who served in the Armed Forces during World War II or a later period of war and who identified himself or herself as Jewish on his or her military personnel records.”
 
@@ -145,13 +145,13 @@ The words “That the provisions of existing law relating to the award of medals
 
 [Pub. L. 104–106, div. A, title V, § 524][/us/pl/104/106/s524], Feb. 10, 1996, [110 Stat. 312][/us/stat/110/312], provided that:
 
->     “(a) __Review Required.—__ 
+>     “(a)  __Review Required__  __.—__ 
 
 >         (1) The Secretary of the Army shall review the records relating to each award of the Distinguished-Service Cross, and the Secretary of the Navy shall review the records relating to each award of the Navy Cross, that was awarded to an Asian-American or a Native American Pacific Islander with respect to service as a member of the Armed Forces during World War II. The purpose of the review shall be to determine whether any such award should be upgraded to the Medal of Honor.
 
 >         “(2) If the Secretary concerned determines, based upon the review under paragraph (1), that such an upgrade is appropriate in the case of any person, the Secretary shall submit to the President a recommendation that the President award the Medal of Honor to that person.
 
->     “(b) __Waiver of Time Limitations.—__ 
+>     “(b)  __Waiver of Time Limitations__  __.—__ 
 
 >     A Medal of Honor may be awarded to a person referred to in subsection (a) in accordance with a recommendation of the Secretary concerned under that subsection without regard to—
 
@@ -165,7 +165,7 @@ The words “That the provisions of existing law relating to the award of medals
 
 >             “(B) the awarding of the Medal of Honor for service for which a Distinguished-Service Cross or Navy Cross has been awarded.
 
->     “(c) __Definition.—__ 
+>     “(c)  __Definition__  __.—__ 
 
 >     For purposes of this section, the term ‘Native American Pacific Islander’ means a Native Hawaiian and any other Native American Pacific Islander within the meaning of the Native American Programs Act of 1974 ([42 U.S.C. 2991][/us/usc/t42/s2991] et seq.).”
 

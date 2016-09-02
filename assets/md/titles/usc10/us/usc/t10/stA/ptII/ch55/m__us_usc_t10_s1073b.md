@@ -15,7 +15,7 @@
 
 ## § 1073b. Recurring reports
 
-    (a) __Annual Report on Health Protection Quality.—__ 
+    (a)  __Annual Report on Health Protection Quality__  __.—__ 
 
         (1)
 
@@ -31,7 +31,7 @@
 
         (2) The Secretary of Defense shall act through the Assistant Secretary of Defense for Health Affairs in carrying out this subsection.
 
-    (b) __Annual Report on Recording of Health Assessment Data in Military Health Records.—__ 
+    (b)  __Annual Report on Recording of Health Assessment Data in Military Health Records__  __.—__ 
 
     The Secretary of Defense shall issue each year a report on the compliance by the military departments with applicable law and policies on the recording of health assessment data in military health records, including compliance with [section 1074f(c) of this title][/us/usc/t10/s1074f/c]. The report shall cover the calendar year preceding the year in which the report is submitted and include a discussion of the extent to which immunization status and predeployment and postdeployment health care data are being recorded in such records.
 

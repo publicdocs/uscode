@@ -15,7 +15,7 @@
 
 ## § 1701a. Management for acquisition workforce excellence
 
-    (a) __Purpose.—__ 
+    (a)  __Purpose__  __.—__ 
 
     The purpose of this chapter is to require the Department of Defense to develop and manage a highly skilled professional acquisition workforce—
 
@@ -27,7 +27,7 @@
 
         (4) which is managed in a manner that complements and reinforces the management of the defense acquisition system pursuant to chapter 149 of this title.
 
-    (b) __Performance Management.—__ 
+    (b)  __Performance Management__  __.—__ 
 
     In order to achieve the purpose set forth in subsection (a), the Secretary of Defense shall—
 
@@ -57,11 +57,11 @@
 
         (9) use the authorities for expedited security clearance processing pursuant to [section 1564 of this title][/us/usc/t10/s1564].
 
-    (c) __Negotiations.—__ 
+    (c)  __Negotiations__  __.—__ 
 
     Any action taken by the Secretary under this section, or to implement this section, shall be subject to the requirements of chapter 71 of title 5.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     Any rules or regulations prescribed pursuant to this section shall be deemed an agency rule or regulation under [section 7117(a)(2) of title 5][/us/usc/t5/s7117/a/2], and shall not be deemed a Government-wide rule or regulation under section 7117(a)(1) of such title.
 

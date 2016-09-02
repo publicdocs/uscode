@@ -15,7 +15,7 @@
 
 ## § 14702. Retention on reserve active-status list of certain officers in the grade of major, lieutenant colonel, colonel, or brigadier general
 
-    (a) __Retention.—__ 
+    (a)  __Retention__  __.—__ 
 
     Notwithstanding the provisions of section 14506, 14507, or 14508 of this title, the Secretary of the military department concerned may, with the officer’s consent, retain on the reserve active-status list an officer in the grade of major, lieutenant colonel, colonel, or brigadier general who is—
 
@@ -23,7 +23,7 @@
 
         (2) a reserve officer of the Army or Air Force who, as a condition of continued employment as a National Guard or Reserve technician is required by the Secretary concerned to maintain membership in a Selected Reserve unit or organization.
 
-    (b) __Separation for Age.—__ 
+    (b)  __Separation for Age__  __.—__ 
 
     An officer may be retained under this section only so long as the officer continues to meet the conditions of paragraph (1) or (2) of subsection (a). An officer described in paragraph (1) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 62 years of age. An officer described in paragraph (2) of such subsection may not be retained under this section after the last day of the month in which the officer becomes 60 years of age.
 

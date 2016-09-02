@@ -15,15 +15,15 @@
 
 ## § 14704. Selective early removal from the reserve active-status list
 
-    (a) __Boards To Recommend Officers for Removal From Reserve Active-Status List.—__ 
+    (a)  __Boards To Recommend Officers for Removal From Reserve Active-Status List__  __.—__ 
 
     Whenever the Secretary of the military department concerned determines that there are in any reserve component under the jurisdiction of the Secretary too many officers in any grade and competitive category who have at least 30 years of service computed under [section 14706 of this title][/us/usc/t10/s14706] or at least 20 years of service computed under [section 12732 of this title][/us/usc/t10/s12732], the Secretary may convene a selection board under [section 14101(b) of this title][/us/usc/t10/s14101/b] to consider all officers on that list who are in that grade and competitive category, and who have that amount of service, for the purpose of recommending officers by name for removal from the reserve active-status list, in the number specified by the Secretary by each grade and competitive category.
 
-    (b) __Separation of Officers Selected.—__ 
+    (b)  __Separation of Officers Selected__  __.—__ 
 
     In the case of an officer recommended for separation in the report of a board under subsection (a), the Secretary may separate the officer in accordance with [section 14514 of this title][/us/usc/t10/s14514].
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary of the military department concerned shall prescribe regulations for the administration of this section.
 

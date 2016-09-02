@@ -17,11 +17,11 @@
 
     In this chapter:
 
-    (1) __Alien.—__ 
+    (1)  __Alien__  __.—__ 
 
     The term “alien” means an individual who is not a citizen of the United States.
 
-    (2) __Classified information.—__ 
+    (2)  __Classified information__  __.—__ 
 
     The term “classified information” means the following:
 
@@ -29,23 +29,23 @@
 
         (B) Any restricted data, as that term is defined in section 11 y. of the Atomic Energy Act of 1954 ([42 U.S.C. 2014(y)][/us/usc/t42/s2014/y]).
 
-    (3) __Coalition partner.—__ 
+    (3)  __Coalition partner__  __.—__ 
 
     The term “coalition partner”, with respect to hostilities engaged in by the United States, means any State or armed force directly engaged along with the United States in such hostilities or providing direct operational support to the United States in connection with such hostilities.
 
-    (4) __Geneva convention relative to the treatment of prisoners of war.—__ 
+    (4)  __Geneva convention relative to the treatment of prisoners of war__  __.—__ 
 
     The term “Geneva Convention Relative to the Treatment of Prisoners of War” means the Convention Relative to the Treatment of Prisoners of War, done at Geneva August 12, 1949 (6 UST 3316).
 
-    (5) __Geneva conventions.—__ 
+    (5)  __Geneva conventions__  __.—__ 
 
     The term “Geneva Conventions” means the international conventions signed at Geneva on August 12, 1949.
 
-    (6) __Privileged belligerent.—__ 
+    (6)  __Privileged belligerent__  __.—__ 
 
     The term “privileged belligerent” means an individual belonging to one of the eight categories enumerated in Article 4 of the Geneva Convention Relative to the Treatment of Prisoners of War.
 
-    (7) __Unprivileged enemy belligerent.—__ 
+    (7)  __Unprivileged enemy belligerent__  __.—__ 
 
     The term “unprivileged enemy belligerent” means an individual (other than a privileged belligerent) who—
 
@@ -55,11 +55,11 @@
 
         (C) was a part of al Qaeda at the time of the alleged offense under this chapter.
 
-    (8) __National security.—__ 
+    (8)  __National security__  __.—__ 
 
     The term “national security” means the national defense and foreign relations of the United States.
 
-    (9) __Hostilities.—__ 
+    (9)  __Hostilities__  __.—__ 
 
     The term “hostilities” means any conflict subject to the laws of war.
 
@@ -85,11 +85,11 @@
 
 [Pub. L. 111–84, div. A, title XVIII, § 1804][/us/pl/111/84/s1804], Oct. 28, 2009, [123 Stat. 2612][/us/stat/123/2612], provided that:
 
->     “(a) __Prior Convictions.—__ 
+>     “(a)  __Prior Convictions__  __.—__ 
 
 >     The amendment made by section 1802 \[generally amending this chapter\] shall have no effect on the validity of any conviction pursuant to chapter 47A of title 10, United States Code (as such chapter was in effect on the day before the date of the enactment of this Act \[Oct. 28, 2009\]).
 
->     “(b) __Composition of Military Commissions.—__ 
+>     “(b)  __Composition of Military Commissions__  __.—__ 
 
 >     Notwithstanding the amendment made by section 1802—
 
@@ -105,7 +105,7 @@
 
 >         “(6) any appellate military judge or other duly appointed appellate judge on the Court of Military Commission Review pursuant to chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), shall be deemed to have been detailed or appointed to the United States Court of Military Commission Review pursuant to chapter 47A of title 10, United States Code (as so amended).
 
->     “(c) __Charges and Specifications.—__ 
+>     “(c)  __Charges and Specifications__  __.—__ 
 
 >     Notwithstanding the amendment made by section 1802—
 
@@ -115,11 +115,11 @@
 
 >     “(d) __Procedures and Requirements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in subsections (a) through (c) and subject to paragraph (2), any commission convened pursuant to chapter 47A of title 10, United States Code (as such chapter was in effect on the day before the date of the enactment of this Act), shall be conducted after the date of the enactment of this Act in accordance with the procedures and requirements of chapter 47A of title 10, United States Code (as amended by section 1802).
 
->         “(2) __Temporary continuation of prior procedures and requirements.—__ 
+>         “(2)  __Temporary continuation of prior procedures and requirements__  __.—__ 
 
 >         Any military commission described in paragraph (1) may be conducted in accordance with any procedures and requirements of chapter 47A of title 10, United States Code (as in effect on the day before the date of the enactment of this Act), that are not inconsistent with the provisions of chapter 47A of title 10, United States Code, (as so amended), until the earlier of—
 
@@ -131,11 +131,11 @@
 
 [Pub. L. 111–84, div. A, title XVIII, § 1805][/us/pl/111/84/s1805], Oct. 28, 2009, [123 Stat. 2614][/us/stat/123/2614], provided that:
 
->     “(a) __Deadline for Submittal.—__ 
+>     “(a)  __Deadline for Submittal__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives the revised rules for military commissions prescribed by the Secretary for purposes of chapter 47A of title 10, United States Code (as amended by section 1802).
 
->     “(b) __Treatment of Revised Rules Under Requirement for Notice and Wait Regarding Modification of Rules.—__ 
+>     “(b)  __Treatment of Revised Rules Under Requirement for Notice and Wait Regarding Modification of Rules__  __.—__ 
 
 >     The revised rules submitted to Congress under subsection (a) shall not be treated as a modification of the rules in effect for military commissions for purposes of [section 949a(d) of title 10][/us/usc/t10/s949a/d], United States Code (as so amended).”
 
@@ -143,11 +143,11 @@
 
 [Pub. L. 111–84, div. A, title XVIII, § 1806][/us/pl/111/84/s1806], Oct. 28, 2009, [123 Stat. 2614][/us/stat/123/2614], provided that:
 
->     “(a) __Annual Reports Required.—__ 
+>     “(a)  __Annual Reports Required__  __.—__ 
 
 >     Not later than January 31 of each year, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on any trials conducted by military commissions under chapter 47A of title 10, United States Code (as amended by section 1802), during the preceding year.
 
->     “(b) __Form.—__ 
+>     “(b)  __Form__  __.—__ 
 
 >     Each report under this section shall be submitted in unclassified form, but may include a classified annex.”
 

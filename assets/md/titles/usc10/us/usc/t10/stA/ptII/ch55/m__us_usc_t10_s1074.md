@@ -287,11 +287,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 112–239, div. A, title III, § 313(a)][/us/pl/112/239/s313/a], Jan. 2, 2013, [126 Stat. 1692][/us/stat/126/1692], provided that:
 
->     “(1) __In general.—__ 
+>     “(1)  __In general__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall issue guidance to the military departments and appropriate defense agencies regarding environmental exposures on military installations.
 
->     “(2) __Elements.—__ 
+>     “(2)  __Elements__  __.—__ 
 
 >     The guidance issued pursuant to paragraph (1) shall address, at a minimum, the following:
 
@@ -301,7 +301,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(C) The appropriate actions to be undertaken to assess significant long-term health risks from past environmental exposures to military personnel and civilian individuals from living or working on military installations.
 
->     “(3) __Submission.—__ 
+>     “(3)  __Submission__  __.—__ 
 
 >     Not later than 30 days after the issuance of the guidance required by paragraph (1), the Secretary of Defense shall transmit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a copy of the guidance.”
 
@@ -309,15 +309,15 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VII, § 713, Oct. 14, 2008, [122 Stat. 4503][/us/stat/122/4503], provided that:
 
->     “(a) __TRICARE Smoking Cessation Program.—__ 
+>     “(a) __TRICARE__  __Smoking Cessation Program__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall establish a smoking cessation program under the TRICARE program, to be made available to all beneficiaries under the TRICARE program, subject to subsection (b). The Secretary may prescribe such regulations as may be necessary to implement the program.
 
->     “(b) __Exclusion for Medicare-Eligible Beneficiaries.—__ 
+>     “(b)  __Exclusion for Medicare-Eligible Beneficiaries__  __.—__ 
 
 >     The smoking cessation program shall not be made available to medicare-eligible beneficiaries.
 
->     “(c) __Elements.—__ 
+>     “(c)  __Elements__  __.—__ 
 
 >     The program shall include, at a minimum, the following elements:
 
@@ -329,17 +329,17 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(4) Access to printed and Internet web-based tobacco cessation material.
 
->     “(d) __Chain of Command Involvement.—__ 
+>     “(d)  __Chain of Command Involvement__  __.—__ 
 
 >     In establishing the program, the Secretary of Defense shall provide for involvement by officers in the chain of command of participants in the program who are on active duty.
 
->     “(e) __Plan.—__ 
+>     “(e)  __Plan__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan to implement the program.
 
 >     “(f) __Refund of Copayments.—__ 
 
->         “(1) __Authority.—__ 
+>         “(1)  __Authority__  __.—__ 
 
 >         Under regulations prescribed by the Secretary of Defense, the Secretary may pay a refund to a medicare-eligible beneficiary otherwise excluded by this section, subject to the availability of appropriations specifically for such refunds, consisting of an amount up to the difference between—
 
@@ -347,11 +347,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(B) the amount the beneficiary would have paid during such fiscal year if the beneficiary had not been excluded under subsection (b) from the smoking cessation program under subsection (a).
 
->         “(2) __Copayments covered.—__ 
+>         “(2)  __Copayments covered__  __.—__ 
 
 >         The refunds under paragraph (1) are available only for copayments paid by medicare-eligible beneficiaries during fiscal year 2009.
 
->     “(g) __Report.—__ 
+>     “(g)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report covering the following:
 
@@ -371,15 +371,15 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(8) Recommendations concerning the future utility of the program.
 
->     “(h) __Definitions.—__ 
+>     “(h)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __TRICARE program.—__ 
+>         “(1) __TRICARE__  __program__  __.—__ 
 
 >         The term ‘TRICARE program’ has the meaning provided by [section 1072(7) of title 10][/us/usc/t10/s1072/7], United States Code.
 
->         “(2) __Medicare-eligible.—__ 
+>         “(2)  __Medicare-eligible__  __.—__ 
 
 >         The term ‘medicare-eligible’ has the meaning provided by [section 1111(b) of title 10][/us/usc/t10/s1111/b], United States Code.”
 
@@ -387,15 +387,15 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 109–364, div. A, title VII, § 721][/us/pl/109/364/s721], Oct. 17, 2006, [120 Stat. 2294][/us/stat/120/2294], provided that:
 
->     “(a) __Study Required.—__ 
+>     “(a)  __Study Required__  __.—__ 
 
 >     The Secretary of Defense shall conduct a longitudinal study on the effects of traumatic brain injury incurred by members of the Armed Forces serving in Operation Iraqi Freedom or Operation Enduring Freedom on the members who incur such an injury and their families.
 
->     “(b) __Duration.—__ 
+>     “(b)  __Duration__  __.—__ 
 
 >     The study required by subsection (a) shall be conducted for a period of 15 years.
 
->     “(c) __Elements.—__ 
+>     “(c)  __Elements__  __.—__ 
 
 >     The study required by subsection (a) shall specifically address the following:
 
@@ -407,11 +407,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(4) The effect on family members of a member incurring such an injury.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     The Secretary of Defense shall conduct the study required by subsection (a) and prepare the reports required by subsection (e) in consultation with the Secretary of Veterans Affairs.
 
->     “(e) __Periodic and Final Reports.—__ 
+>     “(e)  __Periodic and Final Reports__  __.—__ 
 
 >     After the third, seventh, eleventh, and fifteenth years of the study required by subsection (a), the Secretary of Defense shall submit to Congress a comprehensive report on the results of the study during the preceding years. Each report shall include the following:
 
@@ -423,11 +423,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 109–364, div. A, title VII, § 733][/us/pl/109/364/s733], Oct. 17, 2006, [120 Stat. 2298][/us/stat/120/2298], provided that:
 
->     “(a) __Report on Uniform Standards for Access.—__ 
+>     “(a)  __Report on Uniform Standards for Access__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on uniform standards for the access of wounded, injured, or ill members of the Armed Forces to health care services in the United States following return from a combat zone.
 
->     “(b) __Matters Covered.—__ 
+>     “(b)  __Matters Covered__  __.—__ 
 
 >     The report required by subsection (a) shall describe in detail policies with respect to the following:
 
@@ -439,21 +439,21 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(4) Waiting times of such members for acute care and for routine follow-up care.
 
->     “(c) __Referral to Providers Outside Military Health Care System.—__ 
+>     “(c)  __Referral to Providers Outside Military Health Care System__  __.—__ 
 
 >     The Secretary shall require that health care services and rehabilitation needs of members described in subsection (a) be met through whatever means or mechanisms possible, including through the referral of members described in that subsection to health care providers outside the military health care system.
 
->     “(d) __Uniform System for Tracking of Performance.—__ 
+>     “(d)  __Uniform System for Tracking of Performance__  __.—__ 
 
 >     The Secretary shall establish a uniform system for tracking the performance of the military health care system in meeting the requirements for access of wounded, injured, or ill members of the Armed Forces to health care services described in subsection (a).
 
 >     “(e) __Reports.—__ 
 
->         “(1) __Tracking system.—__ 
+>         “(1)  __Tracking system__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the system established under subsection (d).
 
->         “(2) __Access.—__ 
+>         “(2)  __Access__  __.—__ 
 
 >         Not later than October 1, 2006, and each quarter thereafter during fiscal year 2007, the Secretary shall submit to such committees a report on the performance of the health care system in meeting the access standards described in the report required by subsection (a).”
 
@@ -461,17 +461,17 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 109–364, div. A, title VII, § 741][/us/pl/109/364/s741], Oct. 17, 2006, [120 Stat. 2304][/us/stat/120/2304], provided that:
 
->     “(a) __Pilot Projects Required.—__ 
+>     “(a)  __Pilot Projects Required__  __.—__ 
 
 >     The Secretary of Defense shall carry out not less than three pilot projects to evaluate the efficacy of various approaches to improving the capability of the military and civilian health care systems to provide early diagnosis and treatment of post traumatic stress disorder and other mental health conditions.
 
->     “(b) __Duration.—__ 
+>     “(b)  __Duration__  __.—__ 
 
 >     Any pilot project carried out under this section shall begin not later than October 1, 2007, and cease on September 30, 2008.
 
 >     “(c) __Pilot Project Requirements.—__ 
 
->         “(1) __Diagnostic and treatment approaches.—__ 
+>         “(1)  __Diagnostic and treatment approaches__  __.—__ 
 
 >         One of the pilot projects under this section shall be designed to evaluate effective diagnostic and treatment approaches for use by primary care providers in the military health care system in order to improve the capability of such providers to diagnose and treat post traumatic stress disorder.
 
@@ -481,11 +481,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(B) The pilot project described in subparagraph (A) shall be designed to develop educational materials and other tools for use by members of the National Guard or Reserves who come into contact with other members of the National Guard or Reserves who may suffer from post traumatic stress disorder in order to encourage and facilitate early reporting and referral for treatment.
 
->         “(3) __Outreach.—__ 
+>         “(3)  __Outreach__  __.—__ 
 
 >         One of the pilot projects under this section shall be designed to provide outreach to the family members of the members of the Armed Forces on post traumatic stress disorder and other mental health conditions.
 
->     “(d) __Evaluation of Pilot Projects.—__ 
+>     “(d)  __Evaluation of Pilot Projects__  __.—__ 
 
 >     The Secretary shall evaluate each pilot project carried out under this section in order to assess the effectiveness of the approaches taken under such pilot project—
 
@@ -495,11 +495,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >     “(e) __Report to Congress.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than December 31, 2008, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the pilot projects carried out under this section.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The report required by paragraph (1) shall include the following:
 
@@ -523,11 +523,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >     “(a) __Traumatic Brain Injury Family Caregiver Panel.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary of Defense shall establish a panel within the Department of Defense, to be known as the ‘Traumatic Brain Injury Family Caregiver Panel’, to develop coordinated, uniform, and consistent training curricula to be used in training family members in the provision of care and assistance to members and former members of the Armed Forces with traumatic brain injuries.
 
->         “(2) __Members.—__ 
+>         “(2)  __Members__  __.—__ 
 
 >         The Traumatic Brain Injury Family Caregiver Panel shall consist of 15 members appointed by the Secretary of Defense from among the following:
 
@@ -545,17 +545,17 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(G) Such other individuals the Secretary considers appropriate.
 
->         “(3) __Consultation.—__ 
+>         “(3)  __Consultation__  __.—__ 
 
 >         In establishing the Traumatic Brain Injury Family Caregiver Panel and appointing the members of the Panel, the Secretary of Defense shall consult with the Secretary of Veterans Affairs.
 
 >     “(b) __Development of Curricula.—__ 
 
->         “(1) __Development.—__ 
+>         “(1)  __Development__  __.—__ 
 
 >         The Traumatic Brain Injury Family Caregiver Panel shall develop training curricula to be used by family members of members and former members of the Armed Forces on techniques, strategies, and skills for care and assistance for such members and former members with traumatic brain injury.
 
->         “(2) __Scope of curricula.—__ 
+>         “(2)  __Scope of curricula__  __.—__ 
 
 >         The curricula shall—
 
@@ -563,7 +563,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(B) shall provide for training that permits recipients to tailor caregiving to the unique circumstances of the member or former member of the Armed Forces receiving care.
 
->         “(3) __Particular requirements.—__ 
+>         “(3)  __Particular requirements__  __.—__ 
 
 >         In developing the curricula, the Traumatic Brain Injury Family Caregiver Panel shall—
 
@@ -571,17 +571,17 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(B) identify appropriate care and assistance to be provided for the degree of severity of traumatic brain injury for caregivers of various levels of skill and capability.
 
->         “(4) __Use of existing materials.—__ 
+>         “(4)  __Use of existing materials__  __.—__ 
 
 >         In developing the curricula, the Traumatic Brain Injury Family Caregiver Panel shall use and enhance any existing training curricula, materials, and resources applicable to such curricula as the Panel considers appropriate.
 
->         “(5) __Deadline for development.—__ 
+>         “(5)  __Deadline for development__  __.—__ 
 
 >         The Traumatic Brain Injury Family Caregiver Panel shall develop the curricula not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\].
 
 >     “(c) __Dissemination of Curricula.—__ 
 
->         “(1) __Dissemination mechanisms.—__ 
+>         “(1)  __Dissemination mechanisms__  __.—__ 
 
 >         The Secretary of Defense shall develop mechanisms for the dissemination of the curricula developed under subsection (b)—
 
@@ -591,11 +591,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(C) to other care or support personnel who may provide service to members or former members affected by traumatic brain injury.
 
->         “(2) __Use of existing mechanisms.—__ 
+>         “(2)  __Use of existing mechanisms__  __.—__ 
 
 >         In developing such mechanisms, the Secretary may use and enhance existing mechanisms, including the Military Severely Injured Center (authorized under section 564 of this Act \[[10 U.S.C. 113][/us/usc/t10/s113] note\]) and the programs for service to severely injured members established by the military departments.
 
->     “(d) __Report.—__ 
+>     “(d)  __Report__  __.—__ 
 
 >     Not later than one year after the development of the curricula required by subsection (b), the Secretary of Defense and the Secretary of Veterans Affairs shall submit to the Committees on Armed Services and Veterans Affairs of the Senate and the House of Representatives a report on the following:
 
@@ -607,7 +607,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 109–163, div. A, title VII, § 722][/us/pl/109/163/s722], Jan. 6, 2006, [119 Stat. 3347][/us/stat/119/3347], provided that:
 
->     “(a) __Pilot Projects Required.—__ 
+>     “(a)  __Pilot Projects Required__  __.—__ 
 
 >     The Secretary of Defense may carry out pilot projects to evaluate the efficacy of various approaches to improving the capability of the military and civilian health care systems to provide early diagnosis and treatment of post traumatic stress disorder (PTSD) and other mental health conditions.
 
@@ -615,21 +615,21 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(1) __Mobilization-demobilization facility.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A pilot project under subsection (a) may be carried out at a military medical facility at a large military installation at which the mobilization or demobilization of members of the Armed Forces occurs.
 
->             “(B) __Elements.—__ 
+>             “(B)  __Elements__  __.—__ 
 
 >             The pilot project under this paragraph shall be designed to evaluate and produce effective diagnostic and treatment approaches for use by primary care providers in the military health care system in order to improve the capability of such providers to diagnose and treat post traumatic stress disorder in a manner that avoids the referral of patients to specialty care by a psychiatrist or other mental health professional.
 
 >         “(2) __National guard or reserve facility.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             A pilot project under subsection (a) may be carried out at the location of a National Guard or Reserve unit or units that are located more than 40 miles from a military medical facility and whose personnel are served primarily by civilian community health resources.
 
->             “(B) __Elements.—__ 
+>             “(B)  __Elements__  __.—__ 
 
 >             The pilot project under this paragraph shall be designed—
 
@@ -637,7 +637,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >                 “(ii) to develop educational materials and other tools for use by members of the National Guard or Reserve who come into contact with other members of the National Guard or Reserve who may suffer from post traumatic stress disorder in order to encourage and facilitate early reporting and referral for treatment.
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than September 1, 2006, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress toward identifying pilot projects to be carried out under this section. To the extent possible the report shall include a description of each such pilot project, including the location of the pilot projects under paragraphs (1) and (2) of subsection (b), and the scope and objectives of each such pilot project.”
 
@@ -645,11 +645,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 109–163, div. A, title VII, § 746][/us/pl/109/163/s746], Jan. 6, 2006, [119 Stat. 3362][/us/stat/119/3362], provided that:
 
->     “(a) __Outreach Program Required.—__ 
+>     “(a)  __Outreach Program Required__  __.—__ 
 
 >     The Secretary of the Navy, in coordination with the Secretary of Veterans Affairs, shall conduct an outreach program intended to contact as many members and former members of the naval service as possible who, in connection with service aboard Navy ships, may have been exposed to aerosolized particles resulting from the removal of nonskid coating used on those ships.
 
->     “(b) __Purposes of Outreach Program.—__ 
+>     “(b)  __Purposes of Outreach Program__  __.—__ 
 
 >     The purposes of the outreach program are as follows:
 
@@ -661,7 +661,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(4) To provide the Department of Veterans Affairs with data and information for the effective evaluation of veterans who may seek care for sarcoidosis.
 
->     “(c) __Implementation and Report.—__ 
+>     “(c)  __Implementation and Report__  __.—__ 
 
 >     Not later than six months after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of the Navy shall begin the outreach program. Not later than one year after beginning the program, the Secretary shall provide to the Committees on Armed Services of the Senate and the House of Representatives and the Committees on Veterans Affairs of the Senate and House of Representatives a report on the results of the outreach program.”
 
@@ -669,17 +669,17 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 108–375, div. A, title VII, § 731][/us/pl/108/375/s731], Oct. 28, 2004, [118 Stat. 1993][/us/stat/118/1993], as amended by [Pub. L. 109–163, div. A, title V, § 515(h)][/us/pl/109/163/s515/h], Jan. 6, 2006, [119 Stat. 3237][/us/stat/119/3237]; [Pub. L. 109–364, div. A, title X, § 1071(g)(8)][/us/pl/109/364/s1071/g/8], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402]; [Pub. L. 112–81, div. A, title X, § 1062(f)(1)][/us/pl/112/81/s1062/f/1], Dec. 31, 2011, [125 Stat. 1585][/us/stat/125/1585], provided that:
 
->     “(a) __Requirement for Plan.—__ 
+>     “(a)  __Requirement for Plan__  __.—__ 
 
 >     The Secretary of Defense shall develop a comprehensive plan to improve medical readiness, and Department of Defense tracking of the health status, of members of the Armed Forces throughout their service in the Armed Forces, and to strengthen medical readiness and tracking before, during, and after deployment of members of the Armed Forces overseas. The matters covered by the comprehensive plan shall include all elements that are described in this subtitle \[subtitle D \[§§ 731 to 740\] of title VII of [Pub. L. 108–375][/us/pl/108/375], enacting sections 1073b and 1092a of this title and enacting provisions set out as notes under this section and sections 1073b, 1074f, and 1092a of this title\] and the amendments made by this subtitle and shall comply with requirements in law.
 
 >     “(b) __Joint Medical Readiness Oversight Committee.—__ 
 
->         “(1) __Establishment.—__ 
+>         “(1)  __Establishment__  __.—__ 
 
 >         The Secretary of Defense shall establish a Joint Medical Readiness Oversight Committee.
 
->         “(2) __Composition.—__ 
+>         “(2)  __Composition__  __.—__ 
 
 >         The members of the Committee are as follows:
 
@@ -713,7 +713,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(O) A representative of the Department of Veterans Affairs designated by the Secretary of Veterans Affairs.
 
->         “(3) __Duties.—__ 
+>         “(3)  __Duties__  __.—__ 
 
 >         The duties of the Committee are as follows:
 
@@ -743,7 +743,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(F) To improve continuity of care in coordination with the Secretary of Veterans Affairs, for members of the Armed Forces separating from active service with service-connected medical conditions.
 
->         “(4) __First meeting.—__ 
+>         “(4)  __First meeting__  __.—__ 
 
 >         The first meeting of the Committee shall be held not later than 120 days after the date of the enactment of this Act \[Oct. 28, 2004\].”
 
@@ -751,7 +751,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 108–375, div. A, title VII, § 732(b)][/us/pl/108/375/s732/b], Oct. 28, 2004, [118 Stat. 1997][/us/stat/118/1997], provided that:
 
->     “(1) __Policy.—__ 
+>     “(1)  __Policy__  __.—__ 
 
 >     The Secretary of Defense shall take measures, in addition to those required by [section 1074f of title 10][/us/usc/t10/s1074f], United States Code, to ensure that individual members and commanders of reserve component units fulfill their responsibilities and meet the requirements for medical and dental readiness of members of the units. Such measures may include—
 
@@ -759,11 +759,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(B) providing additional support and information to commanders to assist them in improving the health status of members of their units.
 
->     “(2) __Review and followup care.—__ 
+>     “(2)  __Review and followup care__  __.—__ 
 
 >     The measures under this subsection shall provide for review of the health assessments under paragraph (1) by a medical professional and for any followup care and treatment that is otherwise authorized for medical or dental readiness.
 
->     “(3) __Modification of predeployment health assessment survey.—__ 
+>     “(3)  __Modification of predeployment health assessment survey__  __.—__ 
 
 >     In carrying out paragraph (1), the Secretary shall—
 
@@ -775,11 +775,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 108–375, div. A, title VII, § 732(c)][/us/pl/108/375/s732/c], Oct. 28, 2004, [118 Stat. 1997][/us/stat/118/1997], provided that:
 
->     “(1) __Requirement for policy.—__ 
+>     “(1)  __Requirement for policy__  __.—__ 
 
 >     The Secretary of Defense shall prescribe, for uniform applicability throughout the Armed Forces, a policy on deferral of medical treatment of members pending deployment.
 
->     “(2) __Content.—__ 
+>     “(2)  __Content__  __.—__ 
 
 >     The policy prescribed under paragraph (1) may specify the following matters:
 
@@ -791,17 +791,17 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 108–375, div. A, title VII, § 734][/us/pl/108/375/s734], Oct. 28, 2004, [118 Stat. 1998][/us/stat/118/1998], provided that:
 
->     “(a) __Recordkeeping Policy.—__ 
+>     “(a)  __Recordkeeping Policy__  __.—__ 
 
 >     The Secretary of Defense shall prescribe a policy that requires the records of all medical care provided to a member of the Armed Forces in a theater of operations to be maintained as part of a complete health record for the member.
 
 >     “(b) __In-Theater Medical Tracking and Health Surveillance.—__ 
 
->         “(1) __Requirement for evaluation.—__ 
+>         “(1)  __Requirement for evaluation__  __.—__ 
 
 >         The Secretary of Defense shall evaluate the system for the medical tracking and health surveillance of members of the Armed Forces in theaters of operations and take such actions as may be necessary to improve the medical tracking and health surveillance.
 
->         “(2) __Report.—__ 
+>         “(2)  __Report__  __.—__ 
 
 >         Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall submit a report on the actions taken under paragraph (1) to the Committees on Armed Services of the Senate and the House of Representatives. The report shall include the following matters:
 
@@ -823,11 +823,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(F) An assessment of whether there is a need for changes to regulations and standards for drawing blood samples for effective tracking and health surveillance of the medical conditions of personnel before deployment, upon the end of a deployment, and for a followup period of appropriate length.
 
->     “(c) __Plan To Obtain Health Care Records From Allies.—__ 
+>     “(c)  __Plan To Obtain Health Care Records From Allies__  __.—__ 
 
 >     The Secretary of Defense shall develop a plan for obtaining all records of medical treatment provided to members of the Armed Forces by allies of the United States in Operation Enduring Freedom and Operation Iraqi Freedom. The plan shall specify the actions that are to be taken to obtain all such records.
 
->     “(d) __Policy on In-Theater Personnel Locator Data.—__ 
+>     “(d)  __Policy on In-Theater Personnel Locator Data__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Oct. 28, 2004\], the Secretary of Defense shall prescribe a Department of Defense policy on the collection and dissemination of in-theater individual personnel location data.”
 
@@ -835,7 +835,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 108–375, div. A, title VII, § 735][/us/pl/108/375/s735], Oct. 28, 2004, [118 Stat. 1999][/us/stat/118/1999], provided that:
 
->     “(a) __Requirement for Review.—__ 
+>     “(a)  __Requirement for Review__  __.—__ 
 
 >     The Secretary of Defense shall review and, as determined appropriate, revise the classification policies of the Department of Defense with a view to facilitating the declassification of data that is potentially useful for the monitoring and assessment of the health of members of the Armed Forces who have been exposed to environmental hazards during deployments overseas, including the following data:
 
@@ -845,7 +845,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(3) Health tracking and surveillance data.
 
->     “(b) __Consultation With Commanders of Theater Combatant Commands.—__ 
+>     “(b)  __Consultation With Commanders of Theater Combatant Commands__  __.—__ 
 
 >     The Secretary shall, to the extent that the Secretary considers appropriate, consult with the senior commanders of the in-theater forces of the combatant commands in carrying out the review and revising policies under subsection (a).”
 
@@ -853,7 +853,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 108–375, div. A, title VII, § 737][/us/pl/108/375/s737], Oct. 28, 2004, [118 Stat. 2000][/us/stat/118/2000], provided that:
 
->     “(a) __Health Care at Mobilization Installations.—__ 
+>     “(a)  __Health Care at Mobilization Installations__  __.—__ 
 
 >     The Secretary of Defense shall take such steps as necessary, including through the uniform policy established under subsection (c), to ensure that anticipated health care needs of members of the Armed Forces at mobilization installations can be met at those installations. Such steps may, within authority otherwise available to the Secretary, include the following with respect to any such installation:
 
@@ -863,7 +863,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(3) Temporary employment of health care personnel to provide services at such installation.
 
->     “(b) __Mobilization Installations.—__ 
+>     “(b)  __Mobilization Installations__  __.—__ 
 
 >     For purposes of this section, the term ‘mobilization installation’ means a military installation at which members of the Armed Forces, in connection with a contingency operation or during a national emergency—
 
@@ -875,23 +875,23 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >     “(c) __Requirement for Regulations.—__ 
 
->         “(1) __Policy on implementation.—__ 
+>         “(1)  __Policy on implementation__  __.—__ 
 
 >         The Secretary of Defense shall by regulation establish a policy for the implementation of subsection (a) throughout the Department of Defense.
 
->         “(2) __Identification and analysis of needs.—__ 
+>         “(2)  __Identification and analysis of needs__  __.—__ 
 
 >         As part of the policy prescribed under paragraph (1), the Secretary shall require the Secretary of each military department, with respect to each mobilization installation under the jurisdiction of that Secretary, to identify and analyze the anticipated health care needs at that installation with respect to members of the Armed Forces who may be expected to mobilize or deploy or redeploy at that installation as described in subsection (b)(1). Such identification and analysis shall be carried out so as to be completed before the arrival of such members at the installation.
 
->         “(3) __Response to needs.—__ 
+>         “(3)  __Response to needs__  __.—__ 
 
 >         The policy established by the Secretary of Defense under paragraph (1) shall require that, based on the results of the identification and analysis under paragraph (2), the Secretary of the military department concerned shall determine how to expeditiously and effectively respond to those anticipated health care needs that cannot be met within the resources otherwise available at that installation, in accordance with subsection (a).
 
->         “(4) __Implementation of authority.—__ 
+>         “(4)  __Implementation of authority__  __.—__ 
 
 >         In implementing the policy established under paragraph (1) at any installation, the Secretary of the military department concerned shall ensure that the commander of the installation, and the officers and other personnel superior to that commander in that commander’s chain of command, have appropriate authority and responsibility for such implementation.
 
->     “(d) __Policy.—__ 
+>     “(d)  __Policy__  __.—__ 
 
 >     The Secretary of Defense shall ensure—
 
@@ -903,7 +903,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 108–375, div. A, title VII, § 738][/us/pl/108/375/s738], Oct. 28, 2004, [118 Stat. 2001][/us/stat/118/2001], provided that:
 
->     “(a) __Implementation at All Levels.—__ 
+>     “(a)  __Implementation at All Levels__  __.—__ 
 
 >     The Secretary of Defense, in conjunction with the Secretaries of the military departments, shall take such actions as are necessary to ensure that the Army, Navy, Air Force, and Marine Corps fully implement at all levels—
 
@@ -911,7 +911,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(2) the Force Health Protection and Readiness Program of the Department of Defense (relating to the prevention of injury and illness and the reduction of disease and noncombat injury threats).
 
->     “(b) __Action Official.—__ 
+>     “(b)  __Action Official__  __.—__ 
 
 >     The Secretary of Defense may act through the Under Secretary of Defense for Personnel and Readiness in carrying out subsection (a).”
 
@@ -957,15 +957,15 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 108–136, div. A, title VII, § 706][/us/pl/108/136/s706], Nov. 24, 2003, [117 Stat. 1529][/us/stat/117/1529], as amended by [Pub. L. 110–181, div. A, title X, § 1063(g)(1)][/us/pl/110/181/s1063/g/1], Jan. 28, 2008, [122 Stat. 323][/us/stat/122/323], provided that:
 
->     “(a) __Outlay Limitation.—__ 
+>     “(a)  __Outlay Limitation__  __.—__ 
 
 >     In the administration of the temporary Reserve health care programs, the Secretary of Defense shall carry out those programs so as to limit the total Department of Defense expenditures under those programs during fiscal year 2004 to an amount not in excess $400,000,000.
 
->     “(b) __Continuity of Care.—__ 
+>     “(b)  __Continuity of Care__  __.—__ 
 
 >     In the administration of the temporary Reserve health care programs, the Secretary of Defense shall carry out the implementation and termination of those programs so as to ensure the least amount of disruption to the continuity of care for persons provided care under those programs.
 
->     “(c) __Temporary Reserve Health Care Programs.—__ 
+>     “(c)  __Temporary Reserve Health Care Programs__  __.—__ 
 
 >     For purposes of this section, the term ‘temporary Reserve health care programs’ means the following:
 
@@ -979,27 +979,27 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 107–314, div. A, title VII, § 709][/us/pl/107/314/s709], Dec. 2, 2002, [116 Stat. 2586][/us/stat/116/2586], provided that:
 
->     “(a) __Plan for Disclosure of Information.—__ 
+>     “(a)  __Plan for Disclosure of Information__  __.—__ 
 
 >     Not later than 90 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall submit to Congress and the Secretary of Veterans Affairs a comprehensive plan for the review, declassification, and submittal to the Department of Veterans Affairs of all records and information of the Department of Defense on Project 112 that are relevant to the provision of benefits by the Secretary of Veterans Affairs to members of the Armed Forces who participated in that project.
 
->     “(b) __Plan Requirements.—__ 
+>     “(b)  __Plan Requirements__  __.—__ 
 
 >         (1) The records and information covered by the plan under subsection (a) shall be the records and information necessary to permit the identification of members of the Armed Forces who were or may have been exposed to chemical or biological agents as a result of Project 112.
 
 >         “(2) The plan shall provide for completion of all activities contemplated by the plan not later than one year after the date of the enactment of this Act \[Dec. 2, 2002\].
 
->     “(c) __Identification of Other Projects or Tests.—__ 
+>     “(c)  __Identification of Other Projects or Tests__  __.—__ 
 
 >     The Secretary of Defense also shall work with veterans and veterans service organizations to identify other projects or tests conducted by the Department of Defense that may have exposed members of the Armed Forces to chemical or biological agents.
 
->     “(d) __GAO Reports on Plan and Implementation.—__ 
+>     “(d) __GAO__  __Reports on Plan and Implementation__  __.—__ 
 
 >         (1) Not later than 30 days after submission of the plan under subsection (a), the Comptroller General shall submit to Congress a report reviewing the plan. The report shall include an examination of whether adequate resources have been committed, the timeliness of the information to be released to the Department of Veterans Affairs, and the adequacy of the procedures to notify affected veterans of potential exposure.
 
 >         “(2) Not later than six months after implementation of the plan begins, the Comptroller General shall submit to Congress a report evaluating the progress in the implementation of the plan.
 
->     “(e) __DOD Reports on Implementation.—__ 
+>     “(e) __DOD__  __Reports on Implementation__  __.—__ 
 
 >         (1) Not later than six months after the date of the enactment of this Act \[Dec. 2, 2002\], and upon completion of all activities contemplated by the plan under subsection (a), the Secretary of Defense shall submit to Congress and the Secretary of Veterans Affairs a report on progress in the implementation of the plan.
 
@@ -1025,7 +1025,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(D) the extent of submittal of records and information to the Secretary of Veterans Affairs under this section.
 
->     “(f) __Project 112.—__ 
+>     “(f)  __Project__  __112.—__ 
 
 >     For purposes of this section, Project 112 refers to the chemical and biological weapons vulnerability-testing program of the Department of Defense conducted by the Deseret Test Center from 1963 to 1969. The project included the Shipboard Hazard and Defense (SHAD) project of the Navy.”
 
@@ -1033,19 +1033,19 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 106–65, div. A, title VII, § 706][/us/pl/106/65/s706], Oct. 5, 1999, [113 Stat. 684][/us/stat/113/684], as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 722(a)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–185, provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     Health care may be furnished by a designated provider pursuant to any contract entered into by the designated provider under section 722(b) of the National Defense Authorization Act for Fiscal Year 1997 ([Public Law 104–201][/us/pl/104/201]; [10 U.S.C. 1073][/us/usc/t10/s1073] note) to eligible members who reside within the service area of the designated provider.
 
->     “(b) __Eligibility.—__ 
+>     “(b)  __Eligibility__  __.—__ 
 
 >     A member of the uniformed services (as defined in [section 1072(1) of title 10][/us/usc/t10/s1072/1], United States Code) is eligible for health care under subsection (a) if the member is a member described in section 731(c) of the National Defense Authorization Act for Fiscal Year 1998 ([Public Law 105–85][/us/pl/105/85]; [111 Stat. 1811][/us/stat/111/1811]; [10 U.S.C. 1074][/us/usc/t10/s1074] note).
 
->     “(c) __Applicable Policies.—__ 
+>     “(c)  __Applicable Policies__  __.—__ 
 
 >     In furnishing health care to an eligible member under subsection (a), a designated provider shall adhere to the Department of Defense policies applicable to the furnishing of care under the TRICARE Prime Remote program, including coordinating with uniformed services medical authorities for hospitalizations and all referrals for specialty care.
 
->     “(d) __Reimbursement Rates.—__ 
+>     “(d)  __Reimbursement Rates__  __.—__ 
 
 >     The Secretary of Defense, in consultation with the designated providers, shall prescribe reimbursement rates for care furnished to eligible members under subsection (a). The rates prescribed for health care may not exceed the amounts allowable under the TRICARE Standard plan for the same care.”
 
@@ -1053,7 +1053,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 105–85, div. A, title VII, § 731(b)][/us/pl/105/85/s731/b]–(f), Nov. 18, 1997, [111 Stat. 1811][/us/stat/111/1811], 1812, as amended by [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title VII, § 722(a)(2), (b)(2)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–185, 1654A–186, provided that:
 
->     “(b) __Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations.—__ 
+>     “(b)  __Temporary Authority for Managed Care Expansion to Members on Active Duty at Certain Remote Locations__  __.—__ 
 
 >         (1) A member of the uniformed services described in subsection (c) is entitled to receive care under the Civilian Health and Medical Program of the Uniformed Services. In connection with such care, the Secretary of Defense shall waive the obligation of the member to pay a deductible, copayment, or annual fee that would otherwise be applicable under that program for care provided to the members under the program. A dependent of the member, as described in subparagraph (A), (D), or (I) of [section 1072(2) of title 10][/us/usc/t10/s1072/2], United States Code, who is residing with the member shall have the same entitlement to care and to waiver of charges as the member.
 
@@ -1069,7 +1069,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(4) The Secretary of Defense shall consult with the other administering Secretaries in the administration of this subsection.
 
->     “(c) __Eligible Members.—__ 
+>     “(c)  __Eligible Members__  __.—__ 
 
 >     A member referred to in subsection (b) is a member of the uniformed services on active duty who—
 
@@ -1083,7 +1083,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(B) the nearest source of the needed care that is available to the member under the TRICARE Prime plan.
 
->     “(d) __Duty Assignments Covered.—__ 
+>     “(d)  __Duty Assignments Covered__  __.—__ 
 
 >     A duty assignment referred to in subsection (c)(1) means any of the following:
 
@@ -1095,11 +1095,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(4) Any other permanent duty designated by the Secretary concerned for purposes of this subsection.
 
->     “(e) __Payment of Costs.—__ 
+>     “(e)  __Payment of Costs__  __.—__ 
 
 >     Deductibles, copayments, and annual fees not payable by a member by reason of a waiver granted under the regulations prescribed pursuant to subsection (b) shall be paid out of funds available to the Department of Defense for the Defense Health Program.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section \[amending this section and enacting provisions set out as a note above\]:
 
@@ -1123,7 +1123,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 104–201, div. A, title VII, § 743][/us/pl/104/201/s743], Sept. 23, 1996, [110 Stat. 2601][/us/stat/110/2601], provided that:
 
->     “(a) __Definitions.—__ 
+>     “(a)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -1133,7 +1133,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(3) The term ‘Persian Gulf War’ has the meaning given that term in [section 101(33) of title 38][/us/usc/t38/s101/33], United States Code.
 
->     “(b) __Research.—__ 
+>     “(b)  __Research__  __.—__ 
 
 >     The Secretary of Defense shall provide, by contract, grant, or other transaction, for scientific research to be carried out by entities independent of the Federal Government on possible causal relationships between Gulf War syndrome and—
 
@@ -1141,7 +1141,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(2) the use by the Department of Defense during the Persian Gulf War of combinations of various inoculations and investigational new drugs.
 
->     “(c) __Procedures for Awarding Grants.—__ 
+>     “(c)  __Procedures for Awarding Grants__  __.—__ 
 
 >     The Secretary shall prescribe the procedures to be used to make research awards under subsection (b). The procedures shall—
 
@@ -1149,7 +1149,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(2) provide for the final selection of proposals for award to be based on the scientific merit and program relevance of the proposed research.
 
->     “(d) __Availability of Funds.—__ 
+>     “(d)  __Availability of Funds__  __.—__ 
 
 >     Of the amount authorized to be appropriated under section 301(21) \[[110 Stat. 2475][/us/stat/110/2475]\] for defense medical programs, $10,000,000 is available for research under subsection (b).”
 
@@ -1171,11 +1171,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 > “SEC. 762. __PLAN FOR HEALTH CARE SERVICES FOR PERSIAN GULF VETERANS.__ 
 
->     “(a) __Plan Required.—__ 
+>     “(a)  __Plan Required__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall prepare a plan to provide appropriate health care to Persian Gulf veterans (and dependents eligible by law) who suffer from a Gulf War illness.
 
->     “(b) __Contents of Plan.—__ 
+>     “(b)  __Contents of Plan__  __.—__ 
 
 >     In preparing the plan, the Secretaries shall—
 
@@ -1185,17 +1185,17 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(3) estimate the costs to the Government of providing full or partial health care services under the plan to covered Persian Gulf veterans (and covered dependents eligible by law).
 
->     “(c) __Follow-up Treatment.—__ 
+>     “(c)  __Follow-up Treatment__  __.—__ 
 
 >     The plan required by subsection (a) shall specifically address the measures to be used to monitor the quality, appropriateness, and effectiveness of, and patient satisfaction with, health care services provided to Persian Gulf veterans after their initial medical examination as part of registration in the Persian Gulf War Veterans Health Registry or the Comprehensive Clinical Evaluation Program.
 
->     “(d) __Submission of Plan.—__ 
+>     “(d)  __Submission of Plan__  __.—__ 
 
 >     Not later than March 1, 1998, the Secretaries shall submit to Congress the plan required by subsection (a).
 
 > “SEC. 770. __PERSIAN GULF ILLNESS CLINICAL TRIALS PROGRAM.__ 
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress finds the following:
 
@@ -1203,11 +1203,11 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(2) The medical literature and testimony presented in hearings on Gulf War illnesses indicate that there are therapies, such as cognitive behavioral therapy, that have been effective in treating patients with symptoms similar to those seen in many Persian Gulf veterans.
 
->     “(b) __Establishment of Program.—__ 
+>     “(b)  __Establishment of Program__  __.—__ 
 
 >     The Secretary of Defense and the Secretary of Veterans Affairs, acting jointly, shall establish a program of cooperative clinical trials at multiple sites to assess the effectiveness of protocols for treating Persian Gulf veterans who suffer from ill-defined or undiagnosed conditions. Such protocols shall include a multidisciplinary treatment model, of which cognitive behavioral therapy is a component.
 
->     “(c) __Funding.—__ 
+>     “(c)  __Funding__  __.—__ 
 
 >     Of the funds authorized to be appropriated in section 201(1) \[[111 Stat. 1655][/us/stat/111/1655]\] for research, development, test, and evaluation for the Army, the sum of $4,500,000 shall be available for program element 62787A (medical technology) in the budget of the Department of Defense for fiscal year 1998 to carry out the clinical trials program established pursuant to subsection (b).”
 
@@ -1215,7 +1215,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 > “SEC. 721. __PROGRAMS RELATED TO DESERT STORM MYSTERY ILLNESS.__ 
 
->     “(a) __Outreach Program to Persian Gulf Veterans and Families.—__ 
+>     “(a)  __Outreach Program to Persian Gulf Veterans and Families__  __.—__ 
 
 >     The Secretary of Defense shall institute a comprehensive outreach program to inform members of the Armed Forces who served in the Southwest Asia theater of operations during the Persian Gulf Conflict, and the families of such members, of illnesses that may result from such service. The program shall be carried out through both medical and command channels, as well as any other means the Secretary considers appropriate. Under the program, the Secretary shall—
 
@@ -1235,7 +1235,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(3) encourage such members to report any symptoms they may have and to register in the appropriate health surveillance registry.
 
->     “(b) __Incentives to Persian Gulf Veterans To Register.—__ 
+>     “(b)  __Incentives to Persian Gulf Veterans To Register__  __.—__ 
 
 >     In order to encourage Persian Gulf veterans to register any symptoms they may have in one of the existing health registries, the Secretary of Defense shall provide the following:
 
@@ -1245,7 +1245,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(3) For a Persian Gulf veteran who is not, as of the date of the enactment of this Act \[Oct. 5, 1994\], on active duty or a member of a reserve component, assistance and information at a military medical facility on registering with the Persian Gulf War Registry of the Department of Veterans Affairs and information related to support services provided by the Department of Veterans Affairs.
 
->     “(c) __Compatibility of Department of Defense and Department of Veterans Affairs Registries.—__ 
+>     “(c)  __Compatibility of Department of Defense and Department of Veterans Affairs Registries__  __.—__ 
 
 >     The Secretary of Defense shall take appropriate actions to ensure—
 
@@ -1253,7 +1253,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(2) that all information on individuals who register with the Department of Defense for purposes of the Persian Gulf War Health Surveillance System is provided to the Secretary of Veterans Affairs for incorporation into the Persian Gulf War Veterans Health Registry.
 
->     “(d) __Presumptions on Behalf of Service Member.—__ 
+>     “(d)  __Presumptions on Behalf of Service Member__  __.—__ 
 
 >         (1) A member of the Armed Forces who is a Persian Gulf veteran, who has symptoms of illness, and who the Secretary concerned finds may have become ill as a result of serving on active duty in the Southwest Asia theater of operations during the Persian Gulf War shall be considered for Department of Defense purposes to have become ill as a result of serving in that theater of operations.
 
@@ -1263,7 +1263,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(4) The Secretary of Defense shall ensure that the presumptions of service connection and illness specified in paragraphs (1) and (2) are incorporated in appropriate service medical and personnel regulations and are widely disseminated throughout the Department of Defense.
 
->     “(e) __Revision of the Physical Evaluation Board Criteria.—__ 
+>     “(e)  __Revision of the Physical Evaluation Board Criteria__  __.—__ 
 
 >         (1) The Secretary of Defense, in consultation with the Secretary of Veterans Affairs and the Secretary of Health and Human Services, shall ensure that case definitions of Persian Gulf related illnesses, as well as the Physical Evaluation Board criteria used to set disability ratings for members no longer medically qualified for continuation on active duty, are established as soon as possible to permit accurate disability ratings related to a diagnosis of Persian Gulf illnesses.
 
@@ -1275,25 +1275,25 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(B) that any member of the Armed Forces on active duty who is found by a Physical Evaluation Board to be unfit for continuation on active duty as a result of a Persian Gulf-related illness for which the board has no rating criteria (or inadequate rating criteria) for the illness or condition from which the member suffers is placed on the temporary disability retired list.
 
->     “(f) __Review of Records and Rerating of Previously Discharged Gulf War Veterans.—__ 
+>     “(f)  __Review of Records and Rerating of Previously Discharged Gulf War Veterans__  __.—__ 
 
 >         (1) The Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall ensure that a review is made of the health and personnel records of each Persian Gulf veteran who before the date of the enactment of this Act \[Oct. 5, 1994\] was discharged from active duty, or was medically retired, as a result of a Physical Evaluation Board process.
 
 >         “(2) The review under paragraph (1) shall be carried out to ensure that former Persian Gulf veterans who may have been suffering from a Persian Gulf-related illness at the time of discharge or retirement from active duty as a result of the Physical Evaluation Board process are reevaluated in accordance with the criteria established under subsection (e)(1) and, if appropriate, are rerated.
 
->     “(g) __Persian Gulf Illness Medical Referral Centers.—__ 
+>     “(g)  __Persian Gulf Illness Medical Referral Centers__  __.—__ 
 
 >     The Secretary of Defense shall evaluate the feasibility of establishing one or more medical referral centers to provide uniform, coordinated medical care for Persian Gulf veterans on active duty who are or may be suffering from a Persian Gulf-related illness. The Secretary shall submit a report on such feasibility to the Committees on Armed Services of the Senate and House of Representatives not later than six months after the date of the enactment of this Act \[Oct. 5, 1994\].
 
 >     “\[(h) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(e)][/us/pl/108/136/s1031/e], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604].\]
 
->     “(i) __Persian Gulf Veteran.—__ 
+>     “(i)  __Persian Gulf Veteran__  __.—__ 
 
 >     For purposes of this section, a Persian Gulf veteran is an individual who served on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf Conflict.
 
 > “SEC. 722. __STUDIES OF HEALTH CONSEQUENCES OF MILITARY SERVICE OR EMPLOYMENT IN SOUTHWEST ASIA DURING THE PERSIAN GULF WAR.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense, in coordination with the Secretary of Veterans Affairs and the Secretary of Health and Human Services, shall conduct studies and administer grants for studies to determine—
 
@@ -1301,7 +1301,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(2) the appropriate treatment for those illnesses.
 
->     “(b) __Nature of the Studies.—__ 
+>     “(b)  __Nature of the Studies__  __.—__ 
 
 >         (1)
 
@@ -1327,7 +1327,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >             “(B) The second project carried out under paragraph (1)(C)(ii) shall consist of animal research and nonanimal research, including in vitro systems, as required, designed to determine whether the use of pyridostigmine bromide in combination with exposure to pesticides or other organophosphates, carbamates, or relevant chemicals will result in increased toxicity in animals and is likely to have a similar effect on humans.
 
->     “(c) __Individuals Covered by the Studies.—__ 
+>     “(c)  __Individuals Covered by the Studies__  __.—__ 
 
 >     Studies conducted pursuant to subsections \[sic\] (a) shall apply to the following individuals:
 
@@ -1339,7 +1339,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(4) To the extent appropriate, the spouses and children of individuals described in paragraph (1).
 
->     “(d) __Plan for the Studies.—__ 
+>     “(d)  __Plan for the Studies__  __.—__ 
 
 >         (1) The Secretary of Defense shall prepare a coordinated plan for the studies to be conducted pursuant to subsection (a). The plan shall include plans and requirements for research grants in support of the studies. The Secretary shall submit the plan to the National Academy of Sciences for review and comment.
 
@@ -1347,13 +1347,13 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(3) The plan, and annual updates to the plan, shall be prepared in coordination with the Secretary of Veterans Affairs and the Secretary of Health and Human Services.
 
->     “(e) __Funding.—__ 
+>     “(e)  __Funding__  __.—__ 
 
 >         (1) From the amount authorized to be appropriated pursuant to section 201 \[[108 Stat. 2690][/us/stat/108/2690]\] for Defense-wide activities, the Secretary of Defense shall make available such funds as the Secretary considers necessary to support the studies conducted pursuant to subsection (a).
 
 >         “(2) For each year in which activities continue in support of the studies conducted pursuant to subsection (a), the Secretary of Defense shall include in the budget request for the Department of Defense a request for such funds as the Secretary determines necessary to continue the activities during that fiscal year.
 
->     “(f) __Reports.—__ 
+>     “(f)  __Reports__  __.—__ 
 
 >         (1) Not later than March 31, 1995, the Secretary of Defense shall submit to Congress the coordinated plan for the studies to be conducted pursuant to subsection (a) and the results of the review of that plan by the National Academy of Sciences.
 
@@ -1361,7 +1361,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(3) Each report under this section shall be prepared in coordination with the Secretary of Veterans Affairs and the Secretary of Health and Human Services.
 
->     “(g) __Definition.—__ 
+>     “(g)  __Definition__  __.—__ 
 
 >     In this section, the term ‘Persian Gulf War’ has the meaning given such term in [section 101 of title 38][/us/usc/t38/s101], United States Code.”
 
@@ -1383,7 +1383,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 [Pub. L. 102–190, div. A, title VII, § 734][/us/pl/102/190/s734], Dec. 5, 1991, [105 Stat. 1411][/us/stat/105/1411], as amended by [Pub. L. 102–585, title VII, § 704][/us/pl/102/585/s704], Nov. 4, 1992, [106 Stat. 4977][/us/stat/106/4977]; [Pub. L. 108–136, div. A, title X, § 1031(c)(1)][/us/pl/108/136/s1031/c/1], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604], provided that:
 
->     “(a) __Establishment of Registry.—__ 
+>     “(a)  __Establishment of Registry__  __.—__ 
 
 >     The Secretary of Defense shall establish and maintain a special record (in this section referred to as the ‘Registry’) relating to the following members of the Armed Forces:
 
@@ -1391,7 +1391,7 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >         “(2) Any other members who served in the Operation Desert Storm theater of operations during the Persian Gulf conflict.
 
->     “(b) __Contents of Registry.—__ 
+>     “(b)  __Contents of Registry__  __.—__ 
 
 >         (1)
 
@@ -1411,15 +1411,15 @@ June 7, 1956, ch. 374, §§ 102(a)(3) (as applicable to § 301(b)), 301(a), 
 
 >     “\[(c) Repealed. [Pub. L. 108–136, div. A, title X, § 1031(c)(1)][/us/pl/108/136/s1031/c/1], Nov. 24, 2003, [117 Stat. 1604][/us/stat/117/1604].\]
 
->     “(d) __Medical Examination.—__ 
+>     “(d)  __Medical Examination__  __.—__ 
 
 >     Upon the request of any member listed in the Registry pursuant to subsection (a)(1), the Secretary of the military department concerned shall, if medically appropriate, furnish a pulmonary function examination and chest x-ray to such person.
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     The Secretary shall establish the Registry not later than 180 days after the date of the enactment of this Act \[Dec. 5, 1991\].
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

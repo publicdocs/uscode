@@ -15,7 +15,7 @@
 
 ## § 14701. Selection of officers for continuation on the reserve active-status list
 
-    (a) __Consideration for Continuation.—__ 
+    (a)  __Consideration for Continuation__  __.—__ 
 
         (1) A reserve officer of the Army, Navy, Air Force, or Marine Corps who is required to be removed from the reserve active-status list under section 14505, 14506, or 14507 of this title may, subject to the needs of the service and to [section 14509 of this title][/us/usc/t10/s14509], be considered for continuation on the reserve active-status list under regulations prescribed by the Secretary of Defense.
 
@@ -31,7 +31,7 @@
 
         (7) Each officer who is continued on the reserve active-status list under this section, who is not subsequently promoted or continued on the active-status list, and whose name is not on a list of officers recommended for promotion to the next higher grade shall (unless sooner separated under another provision of law) be separated in accordance with section 14513 or 14514 of this title, as appropriate, upon the expiration of the period for which the officer was continued on the reserve active-status list.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the administration of this section.
 

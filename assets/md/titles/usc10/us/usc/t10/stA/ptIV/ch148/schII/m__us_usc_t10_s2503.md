@@ -15,15 +15,15 @@
 
 ## § 2503. National defense program for analysis of the technology and industrial base
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     The Secretary of Defense shall establish a program for analysis of the national technology and industrial base.
 
-    (b) __Supervision of Program.—__ 
+    (b)  __Supervision of Program__  __.—__ 
 
     The Secretary of Defense shall carry out the program through the Under Secretary of Defense for Acquisition, Technology, and Logistics. In carrying out the program, the Under Secretary shall consult with the Secretary of Energy, the Secretary of Commerce, and the Secretary of Labor.
 
-    (c) __Functions.—__ 
+    (c)  __Functions__  __.—__ 
 
     The functions of the program shall include, with respect to the national technology and industrial base, the following:
 

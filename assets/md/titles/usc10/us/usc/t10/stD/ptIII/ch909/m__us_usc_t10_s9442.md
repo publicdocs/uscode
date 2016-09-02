@@ -15,11 +15,11 @@
 
 ## § 9442. Status as volunteer civilian auxiliary of the Air Force
 
-    (a) __Volunteer Civilian Auxiliary.—__ 
+    (a)  __Volunteer Civilian Auxiliary__  __.—__ 
 
     The Civil Air Patrol is a volunteer civilian auxiliary of the Air Force when the services of the Civil Air Patrol are used by any department or agency in any branch of the Federal Government.
 
-    (b) __Use by Air Force.—__ 
+    (b)  __Use by Air Force__  __.—__ 
 
         (1) The Secretary of the Air Force may use the services of the Civil Air Patrol to fulfill the noncombat programs and missions of the Department of the Air Force.
 

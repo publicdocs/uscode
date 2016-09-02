@@ -15,13 +15,13 @@
 
 ## § 1764. Authority to establish different minimum requirements
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
         (1) The Secretary of Defense may prescribe a different minimum number of years of experience, different minimum education qualifications, and different tenure of service qualifications to be required for eligibility for appointment or advancement to an acquisition position referred to in subsection (b) than is required for such position under or pursuant to any provision of this chapter.
 
         (2) Any requirement prescribed under paragraph (1) for a position referred to in any paragraph of subsection (b) shall be applied uniformly to all positions referred to in such paragraph.
 
-    (b) __Applicability.—__ 
+    (b)  __Applicability__  __.—__ 
 
     This section applies to the following acquisition positions in the Department of Defense:
 
@@ -37,7 +37,7 @@
 
         (6) A position in the contract contingency force of an armed force that is filled by a member of that armed force.
 
-    (c) __Definition.—__ 
+    (c)  __Definition__  __.—__ 
 
     In this section, the term “contract contingency force”, with respect to an armed force, has the meaning given such term in regulations prescribed by the Secretary concerned.
 

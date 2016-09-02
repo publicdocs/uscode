@@ -107,17 +107,17 @@
 
 [Pub. L. 108–375, div. B, title XXVIII, § 2823][/us/pl/108/375/s2823], Oct. 28, 2004, [118 Stat. 2132][/us/stat/118/2132], provided that:
 
->     “(a) __Authority to Acquire Complete Title.—__ 
+>     “(a)  __Authority to Acquire Complete Title__  __.—__ 
 
 >     If real property owned by the United States and used as a Navy homeport is subject to a reversionary interest of any kind, the Secretary of the Navy may enter into an agreement with the holder of the reversionary interest to acquire the reversionary interest and thereby secure for the United States all right, title, and interest in and to the property.
 
->     “(b) __Authorized Consideration.—__ 
+>     “(b)  __Authorized Consideration__  __.—__ 
 
 >         (1) As consideration for the acquisition of a reversionary interest under subsection (a), the Secretary shall provide the holder of the reversionary interest with in-kind consideration, to be determined pursuant to negotiations between the Secretary and the holder of the reversionary interest.
 
 >         “(2) In determining the type and value of any in-kind consideration to be provided for the acquisition of a reversionary interest under subsection (a), the Secretary shall take into account the nature of the reversionary interest, including whether it would require the holder of the reversionary interest to pay for any improvements acquired by the holder as part of the reversion of the real property, and the long-term use and ultimate disposition of the real property if the United States were to acquire all right, title, and interest in and to the real property subject to the reversionary interest.
 
->     “(c) __Prohibited Consideration.—__ 
+>     “(c)  __Prohibited Consideration__  __.—__ 
 
 >     Cash payments are not authorized to be made as consideration for the acquisition of a reversionary interest under subsection (a).”
 
@@ -125,11 +125,11 @@
 
 [Pub. L. 108–136, div. A, title III, § 338][/us/pl/108/136/s338], Nov. 24, 2003, [117 Stat. 1447][/us/stat/117/1447], as amended by [Pub. L. 110–181, div. A, title III, § 329][/us/pl/110/181/s329], Jan. 28, 2008, [122 Stat. 67][/us/stat/122/67]; [Pub. L. 112–239, div. A, title III, § 321][/us/pl/112/239/s321], Jan. 2, 2013, [126 Stat. 1694][/us/stat/126/1694], provided that:
 
->     “(a) __Demonstration Project Authorized.—__ 
+>     “(a)  __Demonstration Project Authorized__  __.—__ 
 
 >     In accordance with sub[section 4703 of title 5][/us/usc/t5/s4703], United States Code, the Secretary of a military department may carry out a demonstration project at facilities described in subsection (b) under which workers who are certified at the journey level as able to perform multiple trades shall be promoted by one grade level.
 
->     “(b) __Selection Requirements.—__ 
+>     “(b)  __Selection Requirements__  __.—__ 
 
 >     As a condition on eligibility for selection to participate in the demonstration project, the head of an Air Force Air Logistics Complex, Navy Fleet Readiness Center, Navy shipyard, Marine Corps Logistics Base, or Army depot shall submit to the Secretary of the military department concerned a business case analysis and concept plan—
 
@@ -137,21 +137,21 @@
 
 >         “(2) that describes the improvements in cost, quality, or schedule of work that are anticipated to result from the participation in the demonstration project.
 
->     “(c) __Participating Workers.—__ 
+>     “(c)  __Participating Workers__  __.—__ 
 
 >         (1) Actual worker participation in the demonstration project shall be determined through competitive selection. Not more than 15 percent of the wage grade journeyman at a demonstration project location may be selected to participate.
 
 >         “(2) Job descriptions and competency-based training plans must be developed for each worker while in training under the demonstration project and once certified as a multi-trade worker. A certified multi-trade worker who receives a pay grade promotion under the demonstration project must use each new skill during at least 25 percent of the worker’s work year.
 
->     “(d) __Duration.—__ 
+>     “(d)  __Duration__  __.—__ 
 
 >     The demonstration project shall be conducted during fiscal years 2008 through 2018.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     Not later than January 15, 2019, the Secretary of each military department that carried out a demonstration project under this section shall submit a report to Congress describing the results of the demonstration project. Each such report shall include the Secretary’s recommendation on whether permanent multi-trade authority should be authorized.
 
->     “(f) __GAO Evaluation.—__ 
+>     “(f) __GAO__  __Evaluation__  __.—__ 
 
 >     Each Secretary who submits a report under subsection (e) shall transmit a copy of the report to the Comptroller General. Within 90 days after receiving a report, the Comptroller General shall submit to Congress an evaluation of that report.”
 
@@ -163,23 +163,23 @@
 
 [Pub. L. 103–160, div. A, title XIII, § 1374][/us/pl/103/160/s1374], Nov. 30, 1993, [107 Stat. 1821][/us/stat/107/1821], as amended by [Pub. L. 103–337, div. A, title X, § 1064][/us/pl/103/337/s1064], Oct. 5, 1994, [108 Stat. 2848][/us/stat/108/2848], provided that:
 
->     “(a) __Demonstration Project Authorized.—__ 
+>     “(a)  __Demonstration Project Authorized__  __.—__ 
 
 >     The Secretary of the Navy may conduct a demonstration project to test the feasibility of using Navy facilities to provide employment training to nonviolent offenders in a State penal system prior to their release from incarceration. The demonstration project shall be limited to not more than three military installations under the jurisdiction of the Secretary.
 
->     “(b) __Sources of Training.—__ 
+>     “(b)  __Sources of Training__  __.—__ 
 
 >     The Secretary may enter into a cooperative agreement with one or more private, nonprofit organizations for purposes of providing at the military installations included in the demonstration project the prerelease employment training authorized under subsection (a) or may provide such training directly at such installations by agreement with the State concerned.
 
->     “(c) __Use of Facilities.—__ 
+>     “(c)  __Use of Facilities__  __.—__ 
 
 >     Under a cooperative agreement entered into under subsection (b), the Secretary may lease or otherwise make available to a nonprofit organization participating in the demonstration project at a military installation included in the demonstration project any real property or facilities at the installation that the Secretary considers to be appropriate for use to provide the prerelease employment training authorized under subsection (a). Notwithstanding [section 2667(b)(4) of title 10][/us/usc/t10/s2667/b/4], United States Code, the use of such real property or facilities may be permitted with or without reimbursement.
 
->     “(d) __Acceptance of Services.—__ 
+>     “(d)  __Acceptance of Services__  __.—__ 
 
 >     Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], United States Code, the Secretary may accept voluntary services provided by persons participating in the prerelease employment training authorized under subsection (a).
 
->     “(e) __Liability and Indemnification.—__ 
+>     “(e)  __Liability and Indemnification__  __.—__ 
 
 >         (1)
 
@@ -197,7 +197,7 @@
 
 >             “(B) hold harmless and indemnify the United States from and against any suit, claim, demand, action, or liability arising out of any claim for personal injury or property damage that may result from, or in connection with, the provision of the training except to the extent that the personal injury or property damage results from a wrongful act or omission of Federal Government personnel.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than two years after the date of the enactment of this Act \[Nov. 30, 1993\], the Secretary shall submit to Congress a report evaluating the success of the demonstration project and containing such recommendations with regard to the termination, continuation, or expansion of the demonstration project as the Secretary considers to be appropriate.”
 

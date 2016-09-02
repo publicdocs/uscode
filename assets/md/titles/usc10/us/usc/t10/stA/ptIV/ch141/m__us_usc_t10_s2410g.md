@@ -15,7 +15,7 @@
 
 ## § 2410g. Advance notification of contract performance outside the United States
 
-    (a) __Notification.—__ 
+    (a)  __Notification__  __.—__ 
 
         (1) A firm that is performing a Department of Defense contract for an amount exceeding $10,000,000, or is submitting a bid or proposal for such a contract, shall notify the Department of Defense in advance of any intention of the firm or any first-tier subcontractor of the firm to perform outside the United States and Canada any part of the contract that exceeds $500,000 in value and could be performed inside the United States or Canada.
 
@@ -23,7 +23,7 @@
 
         (3) The notification by a firm under paragraph (1) with respect to a first-tier subcontractor shall be made, to the maximum extent practicable, at least 30 days before award of the subcontract.
 
-    (b) __Recipient of Notification.—__ 
+    (b)  __Recipient of Notification__  __.—__ 
 
     The firm shall transmit the notification—
 
@@ -31,11 +31,11 @@
 
         (2) in the case of any other Department of Defense contract, to such officer or employee of the Department of Defense as the Secretary of Defense may direct.
 
-    (c) __Availability of Notifications.—__ 
+    (c)  __Availability of Notifications__  __.—__ 
 
     The Secretary of Defense shall ensure that the notifications (or copies) are maintained in compiled form for a period of 5 years after the date of submission and are available for use in the preparation of the national defense technology and industrial base assessment carried out under [section 2505 of this title][/us/usc/t10/s2505].
 
-    (d) __Inapplicability to Certain Contracts.—__ 
+    (d)  __Inapplicability to Certain Contracts__  __.—__ 
 
     This section shall not apply to contracts for any of the following:
 

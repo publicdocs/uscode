@@ -37,15 +37,15 @@
 
         (4) The provisions of paragraph (1) may not be superseded except by a provision of law which is enacted after the date of the enactment of this section and which specifically cites and repeals or modifies those provisions.
 
-    (b) __Regulations.—__ 
+    (b)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations for the administration of this section. Such regulations shall ensure consistent application of the authority in subsection (a) across the military departments.
 
-    (c) __Delegation.—__ 
+    (c)  __Delegation__  __.—__ 
 
     The Secretary of Defense may delegate the authority to make a determination under subsection (a) to the Director of Administration and Management of the Department.
 
-    (d) __Transparency.—__ 
+    (d)  __Transparency__  __.—__ 
 
     Each determination of the Secretary, or the Secretary’s designee, under subsection (a) shall be made in writing and accompanied by a statement of the basis for the determination. All such determinations and statements of basis shall be available to the public, upon request, through the Office of the Director of Administration and Management.
 

@@ -15,7 +15,7 @@
 
 ## § 10505. Vice Chief of the National Guard Bureau
 
-    (a) __Appointment.—__ 
+    (a)  __Appointment__  __.—__ 
 
         (1)
 
@@ -41,11 +41,11 @@
 
         (4) The Secretary of Defense may waive the restrictions in paragraph (2) and the provisions of paragraph (3)(B) for a limited period of time to provide for the orderly transition of officers appointed to serve in the positions of Chief of the National Guard Bureau and the Vice Chief of the National Guard Bureau.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The Vice Chief of the National Guard Bureau performs such duties as may be prescribed by the Chief of the National Guard Bureau.
 
-    (c) __Grade and Exclusion From General and Flag Officer Authorized Strength.—__ 
+    (c)  __Grade and Exclusion From General and Flag Officer Authorized Strength__  __.—__ 
 
         (1) The Vice Chief of the National Guard Bureau shall be appointed to serve in the grade of lieutenant general.
 

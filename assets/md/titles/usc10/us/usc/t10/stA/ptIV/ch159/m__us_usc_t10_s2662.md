@@ -15,7 +15,7 @@
 
 ## § 2662. Real property transactions: reports to congressional committees
 
-    (a) __General Notice and Wait Requirements.—__ 
+    (a)  __General Notice and Wait Requirements__  __.—__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
         (4) The report for a month under this subsection may not be submitted later than the first day of that month.
 
-    (b) __Additional Reporting Requirements Regarding Leases of Real Property Owned by the United States.—__ 
+    (b)  __Additional Reporting Requirements Regarding Leases of Real Property Owned by the United States__  __.—__ 
 
         (1)
 
@@ -91,19 +91,19 @@
 
             (E) A description of the competitive procedures used to select the lessee or, in the case of a lease involving the public benefit exception authorized by [section 2667(h)(2) of this title][/us/usc/t10/s2667/h/2], a description of the public benefit to be served by the lease.
 
-    (c) __Excepted Projects.—__ 
+    (c)  __Excepted Projects__  __.—__ 
 
     This section does not apply to real property for water resource development projects of the Corps of Engineers, or to leases of Government-owned real property for agricultural or grazing purposes or to any real property acquisition specifically authorized in a Military Construction Authorization Act.
 
-    (d) __Statements of Compliance in Transaction Instruments.—__ 
+    (d)  __Statements of Compliance in Transaction Instruments__  __.—__ 
 
     A statement in an instrument of conveyance, including a lease, that the requirements of this section have been met, or that the conveyance is not subject to this section, is conclusive.
 
-    (e) __Reports on Transactions Involving Intelligence Components.—__ 
+    (e)  __Reports on Transactions Involving Intelligence Components__  __.—__ 
 
     Whenever a transaction covered by this section is made by or on behalf of an intelligence component of the Department of Defense or involves real property used by such a component, any report under this section with respect to the transaction that is submitted to the congressional committees named in subsection (a) shall be submitted concurrently to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-    (f) __Exceptions for Transactions for War and Certain Emergency and Other Operations.—__ 
+    (f)  __Exceptions for Transactions for War and Certain Emergency and Other Operations__  __.—__ 
 
         (1)
 
@@ -129,7 +129,7 @@
 
         (3) Not later than 30 days after entering into a real property transaction covered by paragraph (1) or (2), the Secretary concerned shall submit to the committees named in subsection (a) a report on the transaction. The report shall set forth any facts or information which would otherwise have been submitted in a report on the transaction under subsection (a), but for the operation of paragraph (1) or (2).
 
-    (g) __Secretary Concerned Defined.—__ 
+    (g)  __Secretary Concerned Defined__  __.—__ 
 
     In this section, the term “Secretary concerned” includes, with respect to Defense Agencies, the Secretary of Defense.
 

@@ -15,11 +15,11 @@
 
 ## § 1453. Recovery of amounts erroneously paid
 
-    (a) __Recovery.—__ 
+    (a)  __Recovery__  __.—__ 
 
     In addition to any other method of recovery provided by law, the Secretary concerned may authorize the recovery of any amount erroneously paid to a person under this subchapter by deduction from later payments to that person.
 
-    (b) __Authority To Waive Recovery.—__ 
+    (b)  __Authority To Waive Recovery__  __.—__ 
 
     Recovery of an amount erroneously paid to a person under this subchapter is not required if, in the judgment of the Secretary concerned—
 

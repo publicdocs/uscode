@@ -15,7 +15,7 @@
 
 ## § 4683. Excess non-automatic service rifles: loan or donation for funeral and other ceremonial purposes
 
-    (a) __Authority To Lend or Donate.—__ 
+    (a)  __Authority To Lend or Donate__  __.—__ 
 
         (1) The Secretary of the Army, under regulations prescribed by the Secretary, may conditionally lend or donate excess M–1 rifles (not more than 15), slings, and cartridge belts to any eligible organization for use by that organization for funeral ceremonies of a member or former member of the armed forces, and for other ceremonial purposes.
 
@@ -33,15 +33,15 @@
 
             (B) Nothing in this paragraph shall be construed to supersede any Federal law or regulation governing the use or ownership of firearms.
 
-    (b) __Relief From Liability.—__ 
+    (b)  __Relief From Liability__  __.—__ 
 
     The Secretary may relieve an eligible organization to which materials are lent or donated under subsection (a), and the surety on its bond, from liability for loss or destruction of the material lent or donated, if there is conclusive evidence that the loss or destruction did not result from negligence.
 
-    (c) __Conditions on Loan or Donation.—__ 
+    (c)  __Conditions on Loan or Donation__  __.—__ 
 
     In lending or donating rifles under subsection (a), the Secretary shall impose such conditions on the use of the rifles as may be necessary to ensure security, safety, and accountability. The Secretary may impose such other conditions as the Secretary considers appropriate.
 
-    (d) __Eligible Organization Defined.—__ 
+    (d)  __Eligible Organization Defined__  __.—__ 
 
     In this section, the term “eligible organization” means—
 

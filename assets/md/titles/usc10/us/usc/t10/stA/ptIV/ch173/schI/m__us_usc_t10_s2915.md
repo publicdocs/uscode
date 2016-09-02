@@ -15,11 +15,11 @@
 
 ## § 2915. Facilities: use of renewable forms of energy and energy efficient products
 
-    (a) __Use of Renewable Forms of Energy Encouraged.—__ 
+    (a)  __Use of Renewable Forms of Energy Encouraged__  __.—__ 
 
     The Secretary of Defense shall encourage the use of energy systems using solar energy or other renewable forms of energy as a source of energy for military construction projects (including military family housing projects) and facility repairs and renovations where use of such form of energy is consistent with the energy performance goals and energy performance master plan for the Department of Defense developed under [section 2911 of this title][/us/usc/t10/s2911] and supported by the special considerations specified in subsection (c) of such section.
 
-    (b) __Consideration During Design Phase of Projects.—__ 
+    (b)  __Consideration During Design Phase of Projects__  __.—__ 
 
         (1)
 
@@ -31,17 +31,17 @@
 
         (2) The Secretary concerned shall require that contracts for construction resulting from such design include a requirement that energy systems using solar energy or other renewable forms of energy be installed if such systems can be shown to be cost effective.
 
-    (c) __Determination of Cost Effectiveness.—__ 
+    (c)  __Determination of Cost Effectiveness__  __.—__ 
 
         (1) For the purposes of this section, an energy system using solar energy or other renewable forms of energy for a facility shall be considered to be cost effective if the difference between (A) the original investment cost of the energy system for the facility with such a system, and (B) the original investment cost of the energy system for the facility without such a system can be recovered over the expected life of the facility.
 
         (2) A determination under paragraph (1) concerning whether a cost-differential can be recovered over the expected life of a facility shall be made using the life-cycle cost methods and procedures established pursuant to section 544(a) of the National Energy Conservation Policy Act ([42 U.S.C. 8254(a)][/us/usc/t42/s8254/a]).
 
-    (d) __Exception to Square Feet and Cost Per Square Foot Limitations.—__ 
+    (d)  __Exception to Square Feet and Cost Per Square Foot Limitations__  __.—__ 
 
     In order to equip a military construction project (including a military family housing project) with heating equipment, cooling equipment, or both heating and cooling equipment using solar energy or other renewable forms of energy or with a passive energy system using solar energy or other renewable forms of energy, the Secretary concerned may authorize an increase in any otherwise applicable limitation with respect to the number of square feet or the cost per square foot of the project by such amount as may be necessary for such purpose. Any such increase under this subsection shall be in addition to any other administrative increase in cost per square foot or variation in floor area authorized by law.
 
-    (e) __Use of Energy Efficient Products in Facilities.—__ 
+    (e)  __Use of Energy Efficient Products in Facilities__  __.—__ 
 
         (1) The Secretary of Defense shall ensure, to the maximum extent practicable, that energy efficient products meeting the requirements of the Department of Defense are used in construction, repair, or renovation of facilities by or for the Department carried out under chapter 169 of this title if such products are readily available and their use is consistent with the energy performance goals and energy performance master plan for the Department developed under [section 2911 of this title][/us/usc/t10/s2911] and supported by the special considerations specified in subsection (c) of such section.
 

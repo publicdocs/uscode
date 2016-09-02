@@ -15,11 +15,11 @@
 
 ## § 1793. Parent fees
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations establishing fees to be charged parents for the attendance of children at military child development centers. Those regulations shall be uniform for the military departments and shall require that, in the case of children who attend the centers on a regular basis, the fees shall be based on family income.
 
-    (b) __Local Waiver Authority.—__ 
+    (b)  __Local Waiver Authority__  __.—__ 
 
     The Secretary of Defense may provide authority to installation commanders, on a case-by-case basis, to establish fees for attendance of children at child development centers at rates lower than those prescribed under subsection (a) if the rates prescribed under subsection (a) are not competitive with rates at local non-military child development centers.
 

@@ -15,7 +15,7 @@
 
 ## § 2330. Procurement of contract services: management structure
 
-    (a) __Requirement for Management Structure.—__ 
+    (a)  __Requirement for Management Structure__  __.—__ 
 
     The Secretary of Defense shall establish and implement a management structure for the procurement of contract services for the Department of Defense. The management structure shall provide, at a minimum, for the following:
 
@@ -57,7 +57,7 @@
 
         (3) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall be the senior official responsible for the management of acquisition of contract services for or on behalf of the Defense Agencies and other components of the Department of Defense outside the military departments.
 
-    (b) __Duties and Responsibilities of Senior Officials Responsible for the Management of Acquisition of Contract Services.—__ 
+    (b)  __Duties and Responsibilities of Senior Officials Responsible for the Management of Acquisition of Contract Services__  __.—__ 
 
         (1) Except as provided in paragraph (2), the senior officials responsible for the management of acquisition of contract services shall assign responsibility for the review and approval of procurements in each contract services acquisition category established under subsection (a)(1)(C) to specific Department of Defense officials, subject to the direction, supervision, and oversight of such senior officials.
 
@@ -79,7 +79,7 @@
 
             (F) monitor data collection under [section 2330a of this title][/us/usc/t10/s2330a], and periodically conduct spending analyses, to ensure that funds expended for the procurement of contract services are being expended in the most rational and economical manner practicable.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -119,11 +119,11 @@
 
 [Pub. L. 112–81, div. A, title VIII, § 807][/us/pl/112/81/s807], Dec. 31, 2011, [125 Stat. 1488][/us/stat/125/1488], provided that:
 
->     “(a) __Plan for Implementation.—__ 
+>     “(a)  __Plan for Implementation__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall, acting pursuant to the Under Secretary’s responsibility under [section 2330 of title 10][/us/usc/t10/s2330], United States Code, develop a plan for implementing the recommendations of the Defense Science Board Task Force on Improvements to Service Contracting.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The plan developed pursuant to subsection (a) shall include, to the extent determined appropriate by the Under Secretary for Acquisition, Technology, and Logistics, the following:
 
@@ -143,7 +143,7 @@
 
 >         “(8) Actions to ensure that the Department of Defense conducts realistic exercises and training that account for services contracting during contingency operations, as required by [section 2333(e) of title 10][/us/usc/t10/s2333/e], United States Code.
 
->     “(c) __Comptroller General Report.—__ 
+>     “(c)  __Comptroller General Report__  __.—__ 
 
 >     Not later than 18 months after the date of the enactment of this Act \[Dec. 31, 2011\], the Comptroller General of the United States shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the following:
 
@@ -159,11 +159,11 @@
 
 [Pub. L. 111–383, div. A, title VIII, § 863(a)][/us/pl/111/383/s863/a]–(h), Jan. 7, 2011, [124 Stat. 4293][/us/stat/124/4293], 4294, as amended by [Pub. L. 112–81, div. A, title IX, § 933(c)][/us/pl/112/81/s933/c], Dec. 31, 2011, [125 Stat. 1544][/us/stat/125/1544]; [Pub. L. 112–239, div. A, title X, § 1076(a)(18)][/us/pl/112/239/s1076/a/18], Jan. 2, 2013, [126 Stat. 1949][/us/stat/126/1949], provided that:
 
->     “(a) __Establishment of Requirements Processes for the Acquisition of Services.—__ 
+>     “(a)  __Establishment of Requirements Processes for the Acquisition of Services__  __.—__ 
 
 >     The Secretary of Defense shall ensure that the military departments and Defense Agencies each establish a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services.
 
->     “(b) __Operational Requirements.—__ 
+>     “(b)  __Operational Requirements__  __.—__ 
 
 >     With regard to requirements for the acquisition of services in support of combatant commands and military operations, the Secretary shall ensure—
 
@@ -171,11 +171,11 @@
 
 >         “(2) that commanders of unified combatant commands and other officers identified or designated as joint qualified officers have an opportunity to participate in the process of each military department to provide input on joint requirements for the acquisition of services.
 
->     “(c) __Supporting Requirements.—__ 
+>     “(c)  __Supporting Requirements__  __.—__ 
 
 >     With regard to requirements for the acquisition of services not covered by subsection (b), the Secretary shall ensure that the secretaries of the military departments and the heads of the Defense Agencies implement and bear chief responsibility for carrying out, within the military department or Defense Agency concerned, the process established pursuant to subsection (a) for such military department or Defense Agency.
 
->     “(d) __Implementation Plans Required.—__ 
+>     “(d)  __Implementation Plans Required__  __.—__ 
 
 >     The Secretary shall ensure that an implementation plan is developed for each process established pursuant to subsection (a) that addresses, at a minimum, the following:
 
@@ -197,19 +197,19 @@
 
 >         “(9) Considerations relating to total force management policies and procedures established under [section 129a of title 10][/us/usc/t10/s129a], United States Code.
 
->     “(e) __Matters Required in Implementation Plan.—__ 
+>     “(e)  __Matters Required in Implementation Plan__  __.—__ 
 
 >     Each plan required under subsection (d) shall provide for initial implementation of a process for identifying, assessing, reviewing, and validating requirements for the acquisition of services not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\] and shall provide for full implementation of such process at the earliest date practicable.
 
->     “(f) __Consistency With Joint Guidance.—__ 
+>     “(f)  __Consistency With Joint Guidance__  __.—__ 
 
 >     Whenever, at any time, guidance is issued by the Chairman of the Joint Chiefs of Staff relating to requirements for the acquisition of services in support of combatant commands and military operations, each process established pursuant to subsection (a) shall be revised in accordance with such joint guidance.
 
->     “(g) __Definition.—__ 
+>     “(g)  __Definition__  __.—__ 
 
 >     The term ‘requirements for the acquisition of services’ means objectives to be achieved through acquisitions primarily involving the procurement of services.
 
->     “(h) __Review of Supporting Requirements To Identify Savings.—__ 
+>     “(h)  __Review of Supporting Requirements To Identify Savings__  __.—__ 
 
 >     The secretaries of the military departments and the heads of the Defense Agencies shall review and validate each requirement described in subsection (c) with an anticipated cost in excess of $10,000,000 with the objective of identifying unneeded or low priority requirements that can be reduced or eliminated, with the savings transferred to higher priority objectives. Savings identified and transferred to higher priority objectives through review and revalidation under this subsection shall count toward the savings objectives established in the June 4, 2010, guidance of the Secretary of Defense on improved operational efficiencies and the annual reduction in funding for service support contractors required by the August 16, 2010, guidance of the Secretary of Defense on efficiency initiatives. As provided by the Secretary, cost avoidance shall not count toward these objectives.”
 
@@ -217,17 +217,17 @@
 
 [Pub. L. 110–181, div. A, title VIII, § 805][/us/pl/110/181/s805], Jan. 28, 2008, [122 Stat. 212][/us/stat/122/212], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(4), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], provided that:
 
->     “(a) __Regulations Required.—__ 
+>     “(a)  __Regulations Required__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall modify the regulations of the Department of Defense for the procurement of commercial services for or on behalf of the Department of Defense.
 
 >     “(b) __Applicability of Commercial Procedures.—__ 
 
->         “(1) __Services of a type sold in marketplace.—__ 
+>         “(1)  __Services of a type sold in marketplace__  __.—__ 
 
 >         The regulations modified pursuant to subsection (a) shall ensure that services that are not offered and sold competitively in substantial quantities in the commercial marketplace, but are of a type offered and sold competitively in substantial quantities in the commercial marketplace, may be treated as commercial items for purposes of [section 2306a of title 10][/us/usc/t10/s2306a], United States Code (relating to truth in negotiations), only if the contracting officer determines in writing that the offeror has submitted sufficient information to evaluate, through price analysis, the reasonableness of the price for such services.
 
->         “(2) __Information submitted.—__ 
+>         “(2)  __Information submitted__  __.—__ 
 
 >         To the extent necessary to make a determination under paragraph (1), the contracting officer may request the offeror to submit—
 
@@ -237,7 +237,7 @@
 
 >     “(c) __Time-and-Materials Contracts.—__ 
 
->         “(1) __Commercial item acquisitions.—__ 
+>         “(1)  __Commercial item acquisitions__  __.—__ 
 
 >         The regulations modified pursuant to subsection (a) shall ensure that procedures applicable to time-and-materials contracts and labor-hour contracts for commercial item acquisitions may be used only for the following:
 
@@ -257,7 +257,7 @@
 
 >                 “(iv) the use of a time-and-materials or labor-hour contract type is in the best interest of the Government.
 
->         “(2) __Non-commercial item acquisitions.—__ 
+>         “(2)  __Non-commercial item acquisitions__  __.—__ 
 
 >         Nothing in this subsection shall be construed to preclude the use of procedures applicable to time-and-materials contracts and labor-hour contracts for non-commercial item acquisitions for the acquisition of any category of services.”
 
@@ -265,7 +265,7 @@
 
 [Pub. L. 110–181, div. A, title VIII, § 808][/us/pl/110/181/s808], Jan. 28, 2008, [122 Stat. 215][/us/stat/122/215], as amended by [Pub. L. 111–383, div. A, title X, § 1075(f)(3)][/us/pl/111/383/s1075/f/3], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
 
->     “(a) __Guidance and Instructions.—__ 
+>     “(a)  __Guidance and Instructions__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall issue guidance, with detailed implementation instructions, for the Department of Defense to provide for periodic independent management reviews of contracts for services. The independent management review guidance and instructions issued pursuant to this subsection shall be designed to evaluate, at a minimum—
 
@@ -279,7 +279,7 @@
 
 >         “(5) the extent of any pass-throughs, and excessive pass-through charges (as defined in section 852 of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[[Pub. L. 109–364][/us/pl/109/364], [10 U.S.C. 2324][/us/usc/t10/s2324] note\]), by the contractor.
 
->     “(b) __Additional Subject of Review.—__ 
+>     “(b)  __Additional Subject of Review__  __.—__ 
 
 >     In addition to the matters required by subsection (a), the guidance and instructions issued pursuant to subsection (a) shall provide for procedures for the periodic review of contracts under which one contractor provides oversight for services performed by other contractors. In particular, the procedures shall be designed to evaluate, at a minimum—
 
@@ -287,7 +287,7 @@
 
 >         “(2) the financial interest of any prime contractor performing acquisition functions described in paragraph (1) in any contract or subcontract with regard to which the contractor provided advice or recommendations to the agency.
 
->     “(c) __Elements.—__ 
+>     “(c)  __Elements__  __.—__ 
 
 >     The guidance and instructions issued pursuant to subsection (a) shall address, at a minimum—
 
@@ -305,11 +305,11 @@
 
 >     “(d) __Reports.—__ 
 
->         “(1) __Report on guidance and instruction.—__ 
+>         “(1)  __Report on guidance and instruction__  __.—__ 
 
 >         Not later than 270 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the guidance and instructions issued pursuant to subsection (a).
 
->         “(2) __GAO report on implementation.—__ 
+>         “(2) __GAO__  __report on implementation__  __.—__ 
 
 >         Not later than two years after the date of the enactment of this Act, the Comptroller General of the United States shall submit to the congressional defense committees a report on the implementation of the guidance and instructions issued pursuant to subsection (a).”
 
@@ -321,7 +321,7 @@
 
 [Pub. L. 109–163, div. A, title VIII, § 812(b)][/us/pl/109/163/s812/b], (c), Jan. 6, 2006, [119 Stat. 3378][/us/stat/119/3378], 3379, provided that:
 
->     “(b) __Phased Implementation.—__ 
+>     “(b)  __Phased Implementation__  __.—__ 
 
 >     The requirements of [section 2330 of title 10][/us/usc/t10/s2330], United States Code (as added by subsection (a)), shall be implemented as follows:
 
@@ -353,7 +353,7 @@
 
 >             “(C) Not later than October 1, 2009, for all categories established pursuant to paragraph (2)(C).
 
->     “(c) __Report.—__ 
+>     “(c)  __Report__  __.—__ 
 
 >     Not later than one year after the date of the enactment of this Act \[Jan. 6, 2006\], the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives a final report on the implementation of [section 2330 of title 10][/us/usc/t10/s2330], United States Code, as added by this section.”
 
@@ -361,7 +361,7 @@
 
 [Pub. L. 107–107, div. A, title VIII, § 801(d)][/us/pl/107/107/s801/d]–(f), Dec. 28, 2001, [115 Stat. 1177][/us/stat/115/1177], provided that:
 
->     “(d) __Requirement for Program Review Structure.—__ 
+>     “(d)  __Requirement for Program Review Structure__  __.—__ 
 
 >         (1) Not later than 180 days after the date of the enactment of this Act \[Dec. 28, 2001\], the Secretary of Defense shall issue and implement a policy that applies to the procurement of services by the Department of Defense a program review structure that is similar to the one developed for and applied to the procurement of weapon systems by the Department of Defense.
 
@@ -375,11 +375,11 @@
 
 >             “(C) A description of the specific matters that should be reviewed.
 
->     “(e) __Comptroller General Review.—__ 
+>     “(e)  __Comptroller General Review__  __.—__ 
 
 >     Not later than 90 days after the date on which the Secretary issues the policy required by subsection (d) and the Under Secretary of Defense for Acquisition, Technology, and Logistics issues the guidance required by subsection (b)(2) \[set out as a note above\], the Comptroller General shall submit to the Committees on Armed Services of the Senate and the House of Representatives an assessment of the compliance with the requirements of this section \[enacting this section and [section 2330a of this title][/us/usc/t10/s2330a], amending sections 133 and 2331 of this title, and enacting provisions set out as a note under this section\] and the amendments made by this section.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -391,7 +391,7 @@
 
 [Pub. L. 107–107, div. A, title VIII, § 802][/us/pl/107/107/s802], Dec. 28, 2001, [115 Stat. 1178][/us/stat/115/1178], as amended by [Pub. L. 107–314, div. A, title VIII, § 805][/us/pl/107/314/s805], Dec. 2, 2002, [116 Stat. 2605][/us/stat/116/2605], provided that:
 
->     “(a) __Goals.—__ 
+>     “(a)  __Goals__  __.—__ 
 
 >         (1)
 
@@ -437,7 +437,7 @@
 
 >             “(B) submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing an explanation of the reasons for the Secretary’s determination and a statement of the new goal that the Secretary has established.
 
->     “(b) __Annual Report.—__ 
+>     “(b)  __Annual Report__  __.—__ 
 
 >     Not later than March 1, 2002, and annually thereafter through March 1, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the progress made toward meeting the objective and goals established in subsection (a). Each report shall include, at a minimum, the following information:
 
@@ -457,7 +457,7 @@
 
 >             “(B) The percentage (calculated on the basis of dollar value) of such purchases that are performance-based purchases specifying firm fixed prices for the specific tasks to be performed.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >         (1) In this section, the terms ‘individual purchase’ and ‘multiple award contract’ have the meanings given such terms in section 803(c) of this Act \[[10 U.S.C. 2304][/us/usc/t10/s2304] note\].
 

@@ -105,15 +105,15 @@
 
             (B) The term “customer” means a requisitioning component or agency.
 
-    (m) __Capital Asset Subaccounts.—__ 
+    (m)  __Capital Asset Subaccounts__  __.—__ 
 
     Amounts charged for depreciation of capital assets shall be credited to a separate capital asset subaccount established within a working-capital fund.
 
-    (n) __Separate Accounting, Reporting, and Auditing of Funds and Activities.—__ 
+    (n)  __Separate Accounting, Reporting, and Auditing of Funds and Activities__  __.—__ 
 
     The Secretary of Defense, with respect to the working-capital funds of each Defense Agency, and the Secretary of each military department, with respect to the working-capital funds of the military department, shall provide for separate accounting, reporting, and auditing of funds and activities managed through the working-capital funds.
 
-    (o) __Charges for Goods and Services Provided Through the Fund.—__ 
+    (o)  __Charges for Goods and Services Provided Through the Fund__  __.—__ 
 
         (1)
 
@@ -133,11 +133,11 @@
 
             (C) Amounts necessary to recover the costs of functions designated by the Secretary of Defense as mission critical, such as ammunition handling safety, and amounts for ancillary tasks not directly related to the mission of the function or activity managed through the fund.
 
-    (p) __Procedures For Accumulation of Funds.—__ 
+    (p)  __Procedures For Accumulation of Funds__  __.—__ 
 
     The Secretary of Defense, with respect to each working-capital fund of a Defense Agency, and the Secretary of a military department, with respect to each working-capital fund of the military department, shall establish billing procedures to ensure that the balance in that working-capital fund does not exceed the amount necessary to provide for the working-capital requirements of that fund, as determined by the Secretary.
 
-    (q) __Annual Reports and Budget.—__ 
+    (q)  __Annual Reports and Budget__  __.—__ 
 
     The Secretary of Defense, with respect to each working-capital fund of a Defense Agency, and the Secretary of each military department, with respect to each working-capital fund of the military department, shall annually submit to Congress, at the same time that the President submits the budget under [section 1105 of title 31][/us/usc/t31/s1105], the following:
 
@@ -161,7 +161,7 @@
 
             (E) A statement of how much of the estimated balance at the end of the fiscal year in which the report is submitted will be needed to pay outlays in the immediately following fiscal year that are in excess of the amount to be credited to the subaccount in the immediately following fiscal year.
 
-    (r) __Notification of Transfers.—__ 
+    (r)  __Notification of Transfers__  __.—__ 
 
         (1) Notwithstanding any authority provided in this section to transfer funds, the transfer of funds from a working-capital fund, including a transfer to another working-capital fund, shall not be made under such authority unless the Secretary of Defense submits, in advance, a notification of the proposed transfer to the congressional defense committees in accordance with customary procedures.
 

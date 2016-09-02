@@ -15,11 +15,11 @@
 
 ## § 201. Certain intelligence officials: consultation and concurrence regarding appointments; evaluation of performance
 
-    (a) __Consultation Regarding Appointment.—__ 
+    (a)  __Consultation Regarding Appointment__  __.—__ 
 
     Before submitting a recommendation to the President regarding the appointment of an individual to the position of Director of the Defense Intelligence Agency, the Secretary of Defense shall consult with the Director of National Intelligence regarding the recommendation.
 
-    (b) __Concurrence in Appointment.—__ 
+    (b)  __Concurrence in Appointment__  __.—__ 
 
         (1) In the event of a vacancy in a position referred to in paragraph (2), before appointing an individual to fill the vacancy or recommending to the President an individual to be nominated to fill the vacancy, the Secretary of Defense shall obtain the concurrence of the Director of National Intelligence as provided in section 106(b) of the National Security Act of 1947 ([50 U.S.C. 403–6(b)][/us/usc/t50/s403–6/b]). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
@@ -33,7 +33,7 @@
 
             (C) The Director of the National Geospatial-Intelligence Agency.
 
-    (c) __Performance Evaluations.—__ 
+    (c)  __Performance Evaluations__  __.—__ 
 
         (1) The Director of National Intelligence shall provide annually to the Secretary of Defense, for the Secretary’s consideration, an evaluation of the performance of the individuals holding the positions referred to in paragraph (2) in fulfilling their respective responsibilities with regard to the National Intelligence Program.
 
@@ -91,15 +91,15 @@
 
 [Pub. L. 102–190, div. A, title IX, § 923][/us/pl/102/190/s923], Dec. 5, 1991, [105 Stat. 1453][/us/stat/105/1453], provided that:
 
->     “(a) __Requirement for Center.—__ 
+>     “(a)  __Requirement for Center__  __.—__ 
 
 >     The Secretary of Defense shall direct the consolidation of existing single-service current intelligence centers that are located within the District of Columbia or its vicinity into a joint intelligence center that is responsible for preparing current intelligence assessments (including indications and warning). The joint intelligence center shall be located within the District of Columbia or its vicinity. As appropriate for the support of military operations, the joint intelligence center shall provide for and manage the collection and analysis of intelligence.
 
->     “(b) __Management.—__ 
+>     “(b)  __Management__  __.—__ 
 
 >     The center shall be managed by the Defense Intelligence Agency in its capacity as the intelligence staff activity of the Chairman of the Joint Chiefs of Staff.
 
->     “(c) __Responsiveness to Command Authorities.—__ 
+>     “(c)  __Responsiveness to Command Authorities__  __.—__ 
 
 >     The Secretary shall ensure that the center is fully responsive to the intelligence needs of the Secretary, the Chairman of the Joint Chiefs of Staff, and the commanders of the combatant commands.”
 

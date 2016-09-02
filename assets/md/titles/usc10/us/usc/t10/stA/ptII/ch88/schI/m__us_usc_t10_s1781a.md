@@ -15,11 +15,11 @@
 
 ## § 1781a. Department of Defense Military Family Readiness Council
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is in the Department of Defense the Department of Defense Military Family Readiness Council (in this section referred to as the “Council”).
 
-    (b) __Members.—__ 
+    (b)  __Members__  __.—__ 
 
         (1)
 
@@ -49,11 +49,11 @@
 
             (B) The term on the Council of the members appointed under subparagraph (C) of paragraph (1) shall be three years.
 
-    (c) __Meetings.—__ 
+    (c)  __Meetings__  __.—__ 
 
     The Council shall meet not less often than twice each year.
 
-    (d) __Duties.—__ 
+    (d)  __Duties__  __.—__ 
 
     The duties of the Council shall include the following:
 
@@ -63,7 +63,7 @@
 
         (3) To evaluate and assess the effectiveness of the military family readiness programs and activities of the Department of Defense.
 
-    (e) __Annual Reports.—__ 
+    (e)  __Annual Reports__  __.—__ 
 
         (1) Not later than February 1 each year, the Council shall submit to the Secretary of Defense and the congressional defense committees a report on military family readiness.
 

@@ -15,11 +15,11 @@
 
 ## § 1455. Regulations
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The President shall prescribe regulations to carry out this subchapter. Those regulations shall, so far as practicable, be uniform for the uniformed services.
 
-    (b) __Notice of Elections.—__ 
+    (b)  __Notice of Elections__  __.—__ 
 
     Regulations prescribed under this section shall provide that before the date on which a member becomes entitled to retired pay—
 
@@ -27,13 +27,13 @@
 
         (2) if the notification referred to in [section 1448(a)(3)(E) of this title][/us/usc/t10/s1448/a/3/E] is required, any former spouse of the member shall be informed of the elections available and the effects of such elections.
 
-    (c) __Procedure for Depositing Certain Receipts.—__ 
+    (c)  __Procedure for Depositing Certain Receipts__  __.—__ 
 
     Regulations prescribed under this section shall establish procedures for depositing the amounts referred to in sections 1448(g), 1450(k)(2), and 1452(d) of this title.
 
     (d) __Payments to Guardians and Fiduciaries.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Regulations prescribed under this section shall provide procedures for the payment of an annuity under this subchapter in the case of—
 
@@ -41,7 +41,7 @@
 
             (B) a minor, mentally incompetent, or otherwise legally disabled person for whom a guardian or other fiduciary has not been appointed.
 
-        (2) __Authorized procedures.—__ 
+        (2)  __Authorized procedures__  __.—__ 
 
         The regulations under paragraph (1) may include provisions for the following:
 
@@ -67,7 +67,7 @@
 
             (H) Provisions for any other matter that the President considers appropriate in connection with the payment of an annuity in the case of a person referred to in paragraph (1).
 
-        (3) __Legal effect of payment to guardian or fiduciary.—__ 
+        (3)  __Legal effect of payment to guardian or fiduciary__  __.—__ 
 
         An annuity paid to a person on behalf of an annuitant in accordance with the regulations prescribed pursuant to paragraph (1) discharges the obligation of the United States for payment to the annuitant of the amount of the annuity so paid.
 

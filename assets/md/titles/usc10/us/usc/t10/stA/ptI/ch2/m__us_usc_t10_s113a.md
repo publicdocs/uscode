@@ -15,11 +15,11 @@
 
 ## § 113a. Transmission of annual defense authorization request
 
-    (a) __Time for Transmittal.—__ 
+    (a)  __Time for Transmittal__  __.—__ 
 
     The Secretary of Defense shall transmit to Congress the annual defense authorization request for a fiscal year during the first 30 days after the date on which the President transmits to Congress the budget for that fiscal year pursuant to [section 1105 of title 31][/us/usc/t31/s1105].
 
-    (b) __Defense Authorization Request Defined.—__ 
+    (b)  __Defense Authorization Request Defined__  __.—__ 
 
     In this section, the term “defense authorization request”, with respect to a fiscal year, means a legislative proposal submitted to Congress for the enactment of the following:
 

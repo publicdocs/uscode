@@ -15,7 +15,7 @@
 
 ## § 950p. Definitions; construction of certain offenses; common circumstances
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this subchapter:
 
@@ -25,15 +25,15 @@
 
         (3) The term “protected property” means any property specifically protected by the law of war, including buildings dedicated to religion, education, art, science, or charitable purposes, historic monuments, hospitals, and places where the sick and wounded are collected, but only if and to the extent such property is not being used for military purposes or is not otherwise a military objective. The term includes objects properly identified by one of the distinctive emblems of the Geneva Conventions, but does not include civilian property that is a military objective.
 
-    (b) __Construction of Certain Offenses.—__ 
+    (b)  __Construction of Certain Offenses__  __.—__ 
 
     The intent required for offenses under paragraphs (1), (2), (3), (4), and (12) of [section 950t of this title][/us/usc/t10/s950t] precludes the applicability of such offenses with regard to collateral damage or to death, damage, or injury incident to a lawful attack.
 
-    (c) __Common Circumstances.—__ 
+    (c)  __Common Circumstances__  __.—__ 
 
     An offense specified in this subchapter is triable by military commission under this chapter only if the offense is committed in the context of and associated with hostilities.
 
-    (d) __Effect.—__ 
+    (d)  __Effect__  __.—__ 
 
     The provisions of this subchapter codify offenses that have traditionally been triable by military commission. This chapter does not establish new crimes that did not exist before the date of the enactment of this subchapter, as amended by the National Defense Authorization Act for Fiscal Year 2010, but rather codifies those crimes for trial by military commission. Because the provisions of this subchapter codify offenses that have traditionally been triable under the law of war or otherwise triable by military commission, this subchapter does not preclude trial for offenses that occurred before the date of the enactment of this subchapter, as so amended.
 

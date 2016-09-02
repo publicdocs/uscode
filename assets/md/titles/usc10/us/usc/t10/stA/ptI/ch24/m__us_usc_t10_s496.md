@@ -15,7 +15,7 @@
 
 ## § 496. Consideration of expansion of nuclear forces of other countries
 
-    (a) __Report and Certification.—__ 
+    (a)  __Report and Certification__  __.—__ 
 
     Not later than 60 days before the President recommends any reductions to the nuclear forces of the United States—
 
@@ -47,11 +47,11 @@
 
             (B) degrade the deterrence or assurance provided by the United States to friends and allies of the United States.
 
-    (b) __Form.—__ 
+    (b)  __Form__  __.—__ 
 
     The reports required by subsection (a)(1) shall be submitted in unclassified form, but may include a classified annex.
 
-    (c) __Appropriate Congressional Committees Defined.—__ 
+    (c)  __Appropriate Congressional Committees Defined__  __.—__ 
 
     In this section, the term “appropriate congressional committees” means the following:
 

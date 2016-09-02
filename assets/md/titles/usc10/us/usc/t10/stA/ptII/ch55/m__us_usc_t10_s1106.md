@@ -15,11 +15,11 @@
 
 ## § 1106. Submittal of claims: standard form; time limits
 
-    (a) __Standard Form.—__ 
+    (a)  __Standard Form__  __.—__ 
 
     The Secretary of Defense, after consultation with the other administering Secretaries, shall prescribe by regulation a standard form for the submission of claims for the payment of health care services provided under this chapter.
 
-    (b) __Time for Submission.—__ 
+    (b)  __Time for Submission__  __.—__ 
 
     A claim for payment for services provided under this chapter shall be submitted as provided in such regulations as follows:
 
@@ -51,11 +51,11 @@
 
 [Pub. L. 105–261, div. A, title VII, § 714][/us/pl/105/261/s714], Oct. 17, 1998, [112 Stat. 2060][/us/stat/112/2060], provided that:
 
->     “(a) __Establishment of Appeals Process.—__ 
+>     “(a)  __Establishment of Appeals Process__  __.—__ 
 
 >     Not later than January 1, 1999, the Secretary of Defense shall establish an appeals process in cases of denials through the ClaimCheck computer software system (or any other claims processing system that may be used by the Secretary) of claims by civilian providers for payment for health care services provided under the TRICARE program.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than March 1, 1999, the Secretary shall submit to Congress a report on the implementation of this section.”
 
@@ -63,13 +63,13 @@
 
 [Pub. L. 102–484, div. A, title VII, § 711][/us/pl/102/484/s711], Oct. 23, 1992, [106 Stat. 2433][/us/stat/106/2433], provided that:
 
->     “(a) __Claims Processing System Required.—__ 
+>     “(a)  __Claims Processing System Required__  __.—__ 
 
 >         (1) The Secretary of Defense, in consultation with the other administering Secretaries, shall provide by contract for the operation of a claims processing system to be known as the ‘National Claims Processing System for CHAMPUS’. The Secretary may procure the system in installments, including the use of incremental modules. The system, including completion and integration of all modules, shall be in full operation not later than seven years after the date of the enactment of this Act \[Oct. 23, 1992\].
 
 >         “(2) The Secretary shall use competitive procedures for entering into any contract or contracts under paragraph (1).
 
->     “(b) __System Functions.—__ 
+>     “(b)  __System Functions__  __.—__ 
 
 >     The claims processing system shall include at least the following functions:
 
@@ -89,19 +89,19 @@
 
 >         “(4) The provision of the information described in paragraphs (1) and (2) and information on the matters referred to in paragraph (3) by telephone, electronic, or other means to covered beneficiaries, insurers, medical services, and health plans.
 
->     “(c) __Consistency with Medicare Claims Requirements.—__ 
+>     “(c)  __Consistency with Medicare Claims Requirements__  __.—__ 
 
 >     The Secretary of Defense shall ensure, to the maximum extent practicable, that claims submitted to the claims processing system conform to the requirements applicable to claims submitted to the Secretary of Health and Human Services with respect to medical care provided under part A of title XVIII of the Social Security Act ([42 U.S.C. 1395c][/us/usc/t42/s1395c] et seq.).
 
->     “(d) __Identification Card.—__ 
+>     “(d)  __Identification Card__  __.—__ 
 
 >     The Secretary of Defense shall take appropriate actions to determine whether the use by covered beneficiaries of a standard identification card containing electronically readable information will enhance the capability of the claims processing center to carry out the activities set forth in subsection (b).
 
->     “(e) __Transition to System.—__ 
+>     “(e)  __Transition to System__  __.—__ 
 
 >     After January 1, 1996, any modification or acquisition related to claims processing systems operations in the Office of the Civilian Health and Medical Program of the Uniformed Services shall contain provisions to transfer such operations to the claims processing system required by subsection (a). After January 1, 1999, any renewal or acquisition for fiscal intermediary services (including coordinated care implementations in military hospitals and clinics) shall contain provisions to transfer claims processing systems operations related to such fiscal intermediary services to the claims processing system required by subsection (a).
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 

@@ -15,11 +15,11 @@
 
 ## § 2359. Science and technology programs to be conducted so as to foster the transition of science and technology to higher levels of research, development, test, and evaluation
 
-    (a) __Policy.—__ 
+    (a)  __Policy__  __.—__ 
 
     Each official specified in subsection (b) shall ensure that the management and conduct of the science and technology programs under the authority of that official are carried out in a manner that will foster the transition of science and technology to higher levels of research, development, test, and evaluation.
 
-    (b) __Covered Officials.—__ 
+    (b)  __Covered Officials__  __.—__ 
 
     Subsection (a) applies to the following officials of the Department of Defense:
 
@@ -41,11 +41,11 @@
 
 [Pub. L. 111–383, div. A, title X, § 1073][/us/pl/111/383/s1073], Jan. 7, 2011, [124 Stat. 4366][/us/stat/124/4366], provided that:
 
->     “(a) __Program Established.—__ 
+>     “(a)  __Program Established__  __.—__ 
 
 >     The Secretary of Defense shall establish a competitive, merit-based program to accelerate the fielding of technologies developed pursuant to phase II Small Business Innovation Research Program projects, technologies developed by the defense laboratories, and other innovative technologies (including dual use technologies). The purpose of this program is to stimulate innovative technologies and reduce acquisition or lifecycle costs, address technical risks, improve the timeliness and thoroughness of test and evaluation outcomes, and rapidly insert such products directly in support of primarily major defense acquisition programs, but also other defense acquisition programs that meet critical national security needs.
 
->     “(b) __Guidelines.—__ 
+>     “(b)  __Guidelines__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary shall issue guidelines for the operation of the program. At a minimum such guidance shall provide for the following:
 
@@ -57,23 +57,23 @@
 
 >         “(4) No project shall be funded under the program for more than two years, unless the Secretary, or the Secretary’s designee, approves funding for any additional year. Any such approval shall be made on a case-by-case basis and notice of any such approval shall be submitted to the congressional defense committees by not later than 30 days after such approval is made.
 
->     “(c) __Treatment Pursuant to Certain Congressional Rules.—__ 
+>     “(c)  __Treatment Pursuant to Certain Congressional Rules__  __.—__ 
 
 >     Nothing in this section shall be interpreted to require or enable any official of the Department of Defense to provide funding under this section to any earmark as defined pursuant to House Rule XXI, clause 9, or any congressionally directed spending item as defined pursuant to Senate Rule XLIV, paragraph 5.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >     Subject to the availability of appropriations for such purpose, the amounts authorized to be appropriated for research, development, test, and evaluation for each of fiscal years 2011 through 2015 may be used for any such fiscal year for the program established under subsection (a).
 
->     “(e) __Transfer Authority.—__ 
+>     “(e)  __Transfer Authority__  __.—__ 
 
 >     The Secretary may transfer funds available for the program to the research, development, test, and evaluation accounts of a military department, defense agency, or the unified combatant command for special operations forces pursuant to a proposal, or any part of a proposal, that the Secretary determines would directly support the purposes of the program. The transfer authority provided in this subsection is in addition to any other transfer authority available to the Department of Defense.
 
->     “(f) __Report.—__ 
+>     “(f)  __Report__  __.—__ 
 
 >     Not later than 60 days after the last day of a fiscal year during which the Secretary carries out a program under this section, the Secretary shall submit to the congressional defense committees a report that includes a list and description of each project funded under this section, including, for each such project, the amount of funding provided for the project, the defense acquisition program that the project supports, including the extent to which the project meets needs identified in its acquisition plan, the anticipated timeline for transition for the project, and the degree to which a competitive, merit-based process was used to evaluate and select the performers of the projects selected under this program.
 
->     “(g) __Termination.—__ 
+>     “(g)  __Termination__  __.—__ 
 
 >     The authority to carry out a program under this section shall terminate on September 30, 2015. Any amounts made available for the program that remain available for obligation on the date the program terminates may be transferred under subsection (e) during the 180-day period beginning on the date of the termination of the program.”
 

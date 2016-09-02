@@ -15,11 +15,11 @@
 
 ## § 1153. Assistance to separated members to obtain employment with health care providers
 
-    (a) __Placement Program.—__ 
+    (a)  __Placement Program__  __.—__ 
 
     The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may establish a program to assist eligible members of the armed forces to obtain employment with health care providers upon their discharge or release from active duty.
 
-    (b) __Eligible Members.—__ 
+    (b)  __Eligible Members__  __.—__ 
 
         (1)
 
@@ -35,7 +35,7 @@
 
         (3) A member who is discharged or released from service under other than honorable conditions shall not be eligible to participate in the program.
 
-    (c) __Selection of Participants.—__ 
+    (c)  __Selection of Participants__  __.—__ 
 
         (1) The Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, shall select members to participate in the program established under subsection (a) on the basis of applications submitted to the Secretary concerned not later than one year after the date of the discharge or release of the members from active duty or, in the case of an applicant becoming educationally qualified for teacher placement assistance in accordance with subsection (b)(2), not later than one year after the date on which the applicant becomes educationally qualified. An application shall be in such form and contain such information as the Secretaries may require.
 
@@ -47,7 +47,7 @@
 
             (B) The Secretaries shall inform noncommissioned officers identified under subparagraph (A) of the opportunity to qualify in accordance with subsection (b)(2) for placement assistance under the program.
 
-    (d) __Grants to Facilitate Employment.—__ 
+    (d)  __Grants to Facilitate Employment__  __.—__ 
 
         (1) The Secretary of Defense and the Secretary of Homeland Security may enter into an agreement with a health care provider to assist eligible members selected under subsection (c) to obtain suitable employment with the health care provider. Under such an agreement, a health care provider shall agree to employ a participant in the program on a full-time basis for at least five years.
 
@@ -71,13 +71,13 @@
 
         (5) The Secretary concerned may not make a grant under this subsection to a health care provider if the Secretary concerned determines that the provider terminated the employment of another employee in order to fill the vacancy so created with a participant in this program.
 
-    (e) __Agreements With States.—__ 
+    (e)  __Agreements With States__  __.—__ 
 
         (1) In addition to the agreements referred to in subsection (d)(1), the Secretary of Defense, and the Secretary of Homeland Security with respect to the Coast Guard, may enter into an agreement directly with a State to allow the State to arrange the placement of participants in the program with health care providers. Paragraphs (2) through (5) of subsection (d) shall apply with respect to any placement made through such an agreement.
 
         (2) The Secretary concerned may reserve up to 10 percent of the funds made available to carry out the program for a fiscal year for the placement of participants through agreements entered into under paragraph (1).
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section, the term “State” includes the District of Columbia, American Samoa, the Federated States of Micronesia, Guam, the Republic of the Marshall Islands, the Commonwealth of the Northern Mariana Islands, the Commonwealth of Puerto Rico, Palau, and the Virgin Islands.
 

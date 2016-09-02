@@ -15,7 +15,7 @@
 
 ## § 1557. Timeliness standards for disposition of applications before Corrections Boards
 
-    (a) __Ten-Month Clearance Percentage.—__ 
+    (a)  __Ten-Month Clearance Percentage__  __.—__ 
 
     Of the applications received by a Corrections Board during a period specified in the following table, the percentage on which final action by the Corrections Board must be completed within 10 months of receipt (other than for those applications considered suitable for administrative correction) is as follows:
 
@@ -95,23 +95,23 @@
 
     </table>
 
-    (b) __Clearance Deadline for All Applications.—__ 
+    (b)  __Clearance Deadline for All Applications__  __.—__ 
 
     Final action by a Corrections Board on all applications received by the Corrections Board (other than those applications considered suitable for administrative correction) shall be completed within 18 months of receipt.
 
-    (c) __Waiver Authority.—__ 
+    (c)  __Waiver Authority__  __.—__ 
 
     The Secretary of the military department concerned may exclude an individual application from the timeliness standards prescribed in subsections (a) and (b) if the Secretary determines that the application warrants a longer period of consideration. The authority of the Secretary of a military department under this subsection may not be delegated.
 
-    (d) __Failure To Meet Timeliness Standards Not To Affect Any Individual Application.—__ 
+    (d)  __Failure To Meet Timeliness Standards Not To Affect Any Individual Application__  __.—__ 
 
     Failure of a Corrections Board to meet the applicable timeliness standard for any period of time under subsection (a) or (b) does not confer any presumption or advantage with respect to consideration by the board of any application.
 
-    (e) __Reports on Failure To Meet Timeliness Standards.—__ 
+    (e)  __Reports on Failure To Meet Timeliness Standards__  __.—__ 
 
     The Secretary of the military department concerned shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report not later than June 1 following any fiscal year during which the Corrections Board of that Secretary’s military department was unable to meet the applicable timeliness standard for that fiscal year under subsections (a) and (b). The report shall specify the reasons why the standard could not be met and the corrective actions initiated to ensure compliance in the future. The report shall also specify the number of waivers granted under subsection (c) during that fiscal year.
 
-    (f) __Corrections Board Defined.—__ 
+    (f)  __Corrections Board Defined__  __.—__ 
 
     In this section, the term “Corrections Board” means—
 

@@ -133,11 +133,11 @@
 
 [Pub. L. 109–364, div. A, title V, § 511(c)][/us/pl/109/364/s511/c], Oct. 17, 2006, [120 Stat. 2183][/us/stat/120/2183], provided that:
 
->     “(1) __Deadline.—__ 
+>     “(1)  __Deadline__  __.—__ 
 
 >     The Secretary of Defense shall prescribe the regulations required by [section 624(d) of title 10][/us/usc/t10/s624/d], United States Code (as amended by subsection (a)(1) of this section), and the regulations required by section 14311 of such title (as amended by subsection (b)(1) of this section) not later than March 1, 2008.
 
->     “(2) __Savings clause for existing regulations.—__ 
+>     “(2)  __Savings clause for existing regulations__  __.—__ 
 
 >     Until the Secretary of Defense prescribes regulations pursuant to paragraph (1), regulations prescribed by the Secretaries of the military departments under the sections referred to in paragraph (1) shall remain in effect.”
 

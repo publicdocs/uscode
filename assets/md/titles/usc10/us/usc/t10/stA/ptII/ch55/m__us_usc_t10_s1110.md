@@ -15,13 +15,13 @@
 
 ## § 1110. Anthrax vaccine immunization program; procedures for exemptions and monitoring reactions
 
-    (a) __Procedures for Medical and Administrative Exemptions.—__ 
+    (a)  __Procedures for Medical and Administrative Exemptions__  __.—__ 
 
         (1) The Secretary of Defense shall establish uniform procedures under which members of the armed forces may be exempted from participating in the anthrax vaccine immunization program for either administrative or medical reasons.
 
         (2) The Secretaries of the military departments shall provide for notification of all members of the armed forces of the procedures established pursuant to paragraph (1).
 
-    (b) __System for Monitoring Adverse Reactions.—__ 
+    (b)  __System for Monitoring Adverse Reactions__  __.—__ 
 
         (1)
 

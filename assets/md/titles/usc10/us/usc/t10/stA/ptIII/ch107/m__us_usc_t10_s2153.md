@@ -15,11 +15,11 @@
 
 ## § 2153. Capstone course: newly selected general and flag officers
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
     Each officer selected for promotion to the grade of brigadier general or, in the case of the Navy, rear admiral (lower half) shall be required, after such selection, to attend a military education course designed specifically to prepare new general and flag officers to work with the other armed forces.
 
-    (b) __Waiver Authority.—__ 
+    (b)  __Waiver Authority__  __.—__ 
 
         (1)
 

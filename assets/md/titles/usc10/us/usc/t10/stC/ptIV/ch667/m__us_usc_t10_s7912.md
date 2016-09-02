@@ -15,11 +15,11 @@
 
 ## § 7912. Rifles and ammunition for target practice: educational institutions having corps of midshipmen
 
-    (a) __Authority To Lend.—__ 
+    (a)  __Authority To Lend__  __.—__ 
 
     The Secretary of the Navy may lend, without expense to the United States, magazine rifles and appendages that are not of the existing service models in use at the time and that are not necessary for a proper reserve supply, to any educational institution having a uniformed corps of midshipmen of sufficient number for target practice. The Secretary may also issue 40 rounds of ball cartridges for each midshipman for each range at which target practice is held, but not more than 120 rounds each year for each midshipman participating in target practice.
 
-    (b) __Responsibilities of Institutions.—__ 
+    (b)  __Responsibilities of Institutions__  __.—__ 
 
     The institutions to which property is lent under subsection (a) shall—
 
@@ -29,7 +29,7 @@
 
         (3) return the property when required.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary of the Navy shall prescribe regulations to carry out this section, containing such other requirements as he considers necessary to safeguard the interests of the United States.
 

@@ -49,7 +49,7 @@
 
 [Pub. L. 111–383, div. B, title XXVIII, § 2852][/us/pl/111/383/s2852], Jan. 7, 2011, [124 Stat. 4475][/us/stat/124/4475], provided that:
 
->     “(a) __Unified Construction Standard for Military Construction and Repairs to Military Medical Centers.—__ 
+>     “(a)  __Unified Construction Standard for Military Construction and Repairs to Military Medical Centers__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary of Defense shall establish a unified construction standard for military construction and repairs for military medical centers that provides a single standard of care. This standard shall also include—
 
@@ -59,7 +59,7 @@
 
 >     “(b) __Independent Review Panel.—__ 
 
->         “(1) __Establishment; purpose.—__ 
+>         “(1)  __Establishment; purpose__  __.—__ 
 
 >         The Secretary of Defense shall establish an independent advisory panel for the purpose of—
 
@@ -81,7 +81,7 @@
 
 >         “(2) __Members.—__ 
 
->             “(A) __Appointments by secretary.—__ 
+>             “(A)  __Appointments by secretary__  __.—__ 
 
 >             The panel shall be composed of such members as determined by the Secretary of Defense, except that the Secretary shall include as members—
 
@@ -93,29 +93,29 @@
 
 >                 “(iv) former retired senior military officers with joint operational and budgetary experience.
 
->             “(B) __Congressional appointments.—__ 
+>             “(B)  __Congressional appointments__  __.—__ 
 
 >             The chairmen and ranking members of the Committees on the Armed Services of the Senate and House of Representatives may each designate one member of the panel.
 
->             “(C) __Term.—__ 
+>             “(C)  __Term__  __.—__ 
 
 >             Members of the panel may serve on the panel until the termination date specified in paragraph (7).
 
->             “(D) __Compensation.—__ 
+>             “(D)  __Compensation__  __.—__ 
 
 >             While performing duties on behalf of the panel, a member and any adviser referred to in paragraph (4) shall be reimbursed under Government travel regulations for necessary travel expenses.
 
->         “(3) __Meetings.—__ 
+>         “(3)  __Meetings__  __.—__ 
 
 >         The panel shall meet not less than quarterly. The panel or its members may make other visits to military treatment centers and military headquarters in connection with the duties of the panel.
 
->         “(4) __Staff and advisors.—__ 
+>         “(4)  __Staff and advisors__  __.—__ 
 
 >         The Secretary of Defense shall provide necessary administrative staff support to the panel. The panel may call in advisers for consultation.
 
 >         “(5) __Reports.—__ 
 
->             “(A) __Initial report.—__ 
+>             “(A)  __Initial report__  __.—__ 
 
 >             Not later than 120 days after the first meeting of the panel, the panel shall submit to the Secretary of Defense a written report containing—
 
@@ -123,11 +123,11 @@
 
 >                 “(ii) the recommendations of the panel to improve the plan.
 
->             “(B) __Additional reports.—__ 
+>             “(B)  __Additional reports__  __.—__ 
 
 >             Not later than February 1, 2011, and each February 1 thereafter until termination of the panel, the panel shall submit to the Secretary of Defense a report on the findings and recommendations of the panel to address any deficiencies identified by the panel.
 
->         “(6) __Assessment of recommendations.—__ 
+>         “(6)  __Assessment of recommendations__  __.—__ 
 
 >         Not later than 30 days after the date of the submission of each report under paragraph (5), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report including—
 
@@ -137,19 +137,19 @@
 
 >             “(C) the plans of the Secretary for addressing such findings and recommendations.
 
->         “(7) __Termination.—__ 
+>         “(7)  __Termination__  __.—__ 
 
 >         The panel shall terminate on September 30, 2015.
 
->     “(c) __Definitions.—__ 
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
->         “(1) __National capital region.—__ 
+>         “(1)  __National capital region__  __.—__ 
 
 >         The term ‘National Capital Region’ has the meaning given the term in [section 2674(f) of title 10][/us/usc/t10/s2674/f], United States Code.
 
->         “(2) __World class military medical center.—__ 
+>         “(2)  __World class military medical center__  __.—__ 
 
 >         The term ‘world class military medical center’ has the meaning given the term ‘world class military medical facility’ by the National Capital Region Base Realignment and Closure Health Systems Advisory Subcommittee of the Defense Health Board in appendix B of the report titled ‘Achieving World Class—An Independent Review of the Design Plans for the Walter Reed National Military Medical Center and the Fort Belvoir Community Hospital’ and published in May 2009, as required by section 2721 of the Military Construction Authorization Act for Fiscal Year 2009 (division B of [Public Law 110–417][/us/pl/110/417]; [122 Stat. 4716][/us/stat/122/4716]).”
 
@@ -157,7 +157,7 @@
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 389\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–89, provided that:
 
->     “(a) __Assessment of Damage and Prevention and Mitigation Technology.—__ 
+>     “(a)  __Assessment of Damage and Prevention and Mitigation Technology__  __.—__ 
 
 >     The Secretary of Defense shall require the Secretaries of the military departments to assess—
 
@@ -165,25 +165,25 @@
 
 >         “(2) the availability of technologies capable of preventing, treating, or mitigating alkali silica reactivity in hardened concrete structures and pavements.
 
->     “(b) __Evaluation of Technologies.—__ 
+>     “(b)  __Evaluation of Technologies__  __.—__ 
 
 >         (1) Taking into consideration the assessment under subsection (a), the Secretary of each military department may conduct a demonstration project at a location selected by the Secretary concerned to test and evaluate the effectiveness of technologies intended to prevent, treat, or mitigate alkali silica reactivity in hardened concrete structures and pavements.
 
 >         “(2) The Secretary of Defense shall ensure that the locations selected for the demonstration projects represent the diverse operating environments of the Armed Forces.
 
->     “(c) __New Construction.—__ 
+>     “(c)  __New Construction__  __.—__ 
 
 >     The Secretary of Defense shall develop specific guidelines for appropriate testing and use of lithium salts to prevent alkali silica reactivity in new construction of the Department of Defense.
 
->     “(d) __Completion of Assessment and Demonstration.—__ 
+>     “(d)  __Completion of Assessment and Demonstration__  __.—__ 
 
 >     The assessment conducted under subsection (a) and the demonstration projects, if any, conducted under subsection (b) shall be completed not later than September 30, 2006.
 
->     “(e) __Delegation of Authority.—__ 
+>     “(e)  __Delegation of Authority__  __.—__ 
 
 >     The authority to conduct the assessment under subsection (a) may be delegated only to the Chief of Engineers of the Army, the Commander of the Naval Facilities Engineering Command, and the Civil Engineer of the Air Force.
 
->     “(f) __Limitation on Expenditures.—__ 
+>     “(f)  __Limitation on Expenditures__  __.—__ 
 
 >     The Secretary of Defense and the Secretaries of the military departments may not expend more than a total of $5,000,000 to conduct both the assessment under subsection (a) and all of the demonstration projects under subsection (b).”
 

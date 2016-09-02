@@ -15,7 +15,7 @@
 
 ## § 2116. Military nursing research
 
-    (a) __Definitions.—__ 
+    (a)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -23,15 +23,15 @@
 
         (2) The term “TriService Nursing Research Program” means the program of military nursing research authorized under this section.
 
-    (b) __Program Authorized.—__ 
+    (b)  __Program Authorized__  __.—__ 
 
     The Secretary of Defense may establish at the University a program of military nursing research.
 
-    (c) __TriService Research Group.—__ 
+    (c)  __TriService Research Group__  __.—__ 
 
     The TriService Nursing Research Program shall be administered by a TriService Nursing Research Group composed of Army, Navy, and Air Force nurses who are involved in military nursing research and are designated by the Secretary concerned to serve as members of the group.
 
-    (d) __Duties of Group.—__ 
+    (d)  __Duties of Group__  __.—__ 
 
     The TriService Nursing Research Group shall—
 
@@ -45,7 +45,7 @@
 
             (B) expertise and information beneficial to the encouragement of meaningful nursing research.
 
-    (e) __Research Topics.—__ 
+    (e)  __Research Topics__  __.—__ 
 
     For purposes of this section, military nursing research includes research on the following issues:
 

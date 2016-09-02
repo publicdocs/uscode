@@ -15,11 +15,11 @@
 
 ## § 1733. Critical acquisition positions
 
-    (a) __Requirement for Corps Member.—__ 
+    (a)  __Requirement for Corps Member__  __.—__ 
 
     A critical acquisition position may be filled only by a member of the Acquisition Corps.
 
-    (b) __Designation of Critical Acquisition Positions.—__ 
+    (b)  __Designation of Critical Acquisition Positions__  __.—__ 
 
         (1)
 

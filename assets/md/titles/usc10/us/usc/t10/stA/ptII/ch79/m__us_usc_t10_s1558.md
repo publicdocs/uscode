@@ -15,15 +15,15 @@
 
 ## § 1558. Review of actions of selection boards: correction of military records by special boards; judicial review
 
-    (a) __Correction of Military Records.—__ 
+    (a)  __Correction of Military Records__  __.—__ 
 
     The Secretary of a military department may correct a person’s military records in accordance with a recommendation made by a special board. Any such correction may be made effective as of the effective date of the action taken on a report of a previous selection board that resulted in the action corrected in the person’s military records.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Special board.—__ 
+        (1)  __Special board__  __.—__ 
 
             (A) The term “special board” means a board that the Secretary of a military department convenes under any authority to consider whether to recommend a person for appointment, enlistment, reenlistment, assignment, promotion, retention, separation, retirement, or transfer to inactive status in a reserve component instead of referring the records of that person for consideration by a previously convened selection board which considered or should have considered that person.
 
@@ -31,7 +31,7 @@
 
             (C) Such term does not include a promotion special selection board convened under section 628 or 14502 of this title.
 
-        (2) __Selection board.—__ 
+        (2)  __Selection board__  __.—__ 
 
             (A) The term “selection board” means a selection board convened under section 573(c), 580, 580a, 581, 611(b), 637, 638, 638a, 14101(b), 14701, 14704, or 14705 of this title, and any other board convened by the Secretary of a military department under any authority to recommend persons for appointment, enlistment, reenlistment, assignment, promotion, or retention in the armed forces or for separation, retirement, or transfer to inactive status in a reserve component for the purpose of reducing the number of persons serving in the armed forces.
 
@@ -47,11 +47,11 @@
 
                 (iv) A board for the correction of military records convened under [section 1552 of this title][/us/usc/t10/s1552].
 
-        (3) __Involuntarily board-separated.—__ 
+        (3)  __Involuntarily board-separated__  __.—__ 
 
         The term “involuntarily board-separated” means separated or retired from an armed force, or transferred to the Retired Reserve or to inactive status in a reserve component, as a result of a recommendation of a selection board.
 
-    (c) __Relief Associated With Correction of Certain Actions.—__ 
+    (c)  __Relief Associated With Correction of Certain Actions__  __.—__ 
 
         (1) The Secretary of the military department concerned shall ensure that an involuntarily board-separated person receives relief under paragraph (2) or under paragraph (3) if the person, as a result of a correction of the person’s military records under subsection (a), becomes entitled to retention on or restoration to active duty or to active status in a reserve component.
 
@@ -75,11 +75,11 @@
 
                 (ii) the date on which the person would otherwise have been separated, retired, or transferred to the Retired Reserve or to inactive status in a reserve component, as the case may be.
 
-    (d) __Finality of Unfavorable Action.—__ 
+    (d)  __Finality of Unfavorable Action__  __.—__ 
 
     If a special board makes a recommendation not to correct the military records of a person regarding action taken in the case of that person on the basis of a previous report of a selection board, the action previously taken on that report shall be considered as final as of the date of the action taken on that report.
 
-    (e) __Regulations.—__ 
+    (e)  __Regulations__  __.—__ 
 
         (1) The Secretary of each military department shall prescribe regulations to carry out this section. Regulations under this subsection may not apply to subsection (f), other than to paragraph (4)(C) of that subsection.
 
@@ -93,7 +93,7 @@
 
         (3) Regulations prescribed by the Secretary of a military department under this subsection may not take effect until approved by the Secretary of Defense.
 
-    (f) __Judicial Review.—__ 
+    (f)  __Judicial Review__  __.—__ 
 
         (1) A person seeking to challenge an action or recommendation of a selection board, or an action taken by the Secretary of the military department concerned on the report of a selection board, is not entitled to relief in any judicial proceeding unless the action or recommendation has first been considered by a special board under this section or the Secretary concerned has denied the convening of such a board for such consideration.
 
@@ -133,7 +133,7 @@
 
             (C) Under regulations prescribed under subsection (e), the Secretary of a military department may waive the applicability of subparagraph (A) or (B) in a case if the Secretary determines that a longer period for consideration of the case is warranted. Such a waiver may be for an additional period of not more than six months. The Secretary concerned may not delegate authority to make a determination under this subparagraph.
 
-    (g) __Existing Jurisdiction.—__ 
+    (g)  __Existing Jurisdiction__  __.—__ 
 
     Nothing in this section limits—
 

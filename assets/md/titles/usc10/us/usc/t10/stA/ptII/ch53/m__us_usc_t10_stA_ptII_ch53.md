@@ -459,15 +459,15 @@
 
 >     “(a) __Protection of Rights of Conscience.—__ 
 
->         “(1) __Accommodation.—__ 
+>         “(1)  __Accommodation__  __.—__ 
 
 >         The Armed Forces shall accommodate the beliefs of a member of the armed forces reflecting the conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such beliefs as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
 
->         “(2) __Disciplinary or administrative action.—__ 
+>         “(2)  __Disciplinary or administrative action__  __.—__ 
 
 >         Nothing in paragraph (1) precludes disciplinary or administrative action for conduct that is proscribed by chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), including actions and speech that threaten good order and discipline.
 
->     “(b) __Protection of Chaplain Decisions Relating to Conscience, Moral Principles, or Religious Beliefs.—__ 
+>     “(b)  __Protection of Chaplain Decisions Relating to Conscience, Moral Principles, or Religious Beliefs__  __.—__ 
 
 >     No member of the Armed Forces may—
 
@@ -475,7 +475,7 @@
 
 >         “(2) discriminate or take any adverse personnel action against a chaplain, including denial of promotion, schooling, training, or assignment, on the basis of the refusal by the chaplain to comply with a requirement prohibited by paragraph (1).
 
->     “(c) __Regulations.—__ 
+>     “(c)  __Regulations__  __.—__ 
 
 >     The Secretary of Defense shall issue regulations implementing the protections afforded by this section.”
 
@@ -489,7 +489,7 @@
 
 [Pub. L. 111–383, div. A, title X, § 1062][/us/pl/111/383/s1062], Jan. 7, 2011, [124 Stat. 4363][/us/stat/124/4363], as amended by [Pub. L. 112–239, div. A, title X, § 1057][/us/pl/112/239/s1057], Jan. 2, 2013, [126 Stat. 1938][/us/stat/126/1938], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsection (c), the Secretary of Defense shall not prohibit, issue any requirement relating to, or collect or record any information relating to the otherwise lawful acquisition, possession, ownership, carrying, or other use of a privately owned firearm, privately owned ammunition, or another privately owned weapon by a member of the Armed Forces or civilian employee of the Department of Defense on property that is not—
 
@@ -499,15 +499,15 @@
 
 >     “(b) __Existing Regulations and Records.—__ 
 
->         “(1) __Regulations.—__ 
+>         “(1)  __Regulations__  __.—__ 
 
 >         Any regulation promulgated before the date of enactment of this Act \[Jan. 7, 2011\] shall have no force or effect to the extent that it requires conduct prohibited by this section.
 
->         “(2) __Records.—__ 
+>         “(2)  __Records__  __.—__ 
 
 >         Not later than 90 days after the date of enactment of this Act, the Secretary of Defense shall destroy any record containing information described in subsection (a) that was collected before the date of enactment of this Act.
 
->     “(c) __Rule of Construction.—__ 
+>     “(c)  __Rule of Construction__  __.—__ 
 
 >     Subsection (a) shall not be construed to limit the authority of the Secretary of Defense to—
 
@@ -523,7 +523,7 @@
 
 >         “(3) authorize a health professional that is a member of the Armed Forces or a civilian employee of the Department of Defense or a commanding officer to inquire if a member of the Armed Forces plans to acquire, or already possesses or owns, a privately-owned firearm, ammunition, or other weapon, if such health professional or such commanding officer has reasonable grounds to believe such member is at risk for suicide or causing harm to others.
 
->     “(d) __Review.—__ 
+>     “(d)  __Review__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act, the Secretary of Defense shall—
 
@@ -531,7 +531,7 @@
 
 >         “(2) submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report regarding the findings of and recommendations relating to the review conducted under paragraph (1), including any recommendations for adjustments to the requirements under this section.
 
->     “(e) __Military Installation Defined.—__ 
+>     “(e)  __Military Installation Defined__  __.—__ 
 
 >     In this section, the term ‘military installation’ has the meaning given that term under section 2687(e)(1) \[now 2687(g)(1)\] of title 10, United States Code.”
 
@@ -539,13 +539,13 @@
 
 [Pub. L. 108–136, div. A, title III, § 344][/us/pl/108/136/s344], Nov. 24, 2003, [117 Stat. 1448][/us/stat/117/1448], as amended by [Pub. L. 108–375, div. A, title III, § 341][/us/pl/108/375/s341], Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 109–163, div. A, title III, § 375][/us/pl/109/163/s375], Jan. 6, 2006, [119 Stat. 3213][/us/stat/119/3213]; [Pub. L. 109–364, div. A, title III, § 355(a)][/us/pl/109/364/s355/a]–(c), Oct. 17, 2006, [120 Stat. 2162][/us/stat/120/2162], 2163; [Pub. L. 111–383, div. A, title X, § 1075(g)(3)][/us/pl/111/383/s1075/g/3], Jan. 7, 2011, [124 Stat. 4376][/us/stat/124/4376], provided that:
 
->     “(a) __Provision of Benefit.—__ 
+>     “(a)  __Provision of Benefit__  __.—__ 
 
 >         (1) The Secretary of Defense shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service, to members of the Armed Forces stationed outside the United States who (as determined by the Secretary) are eligible for combat zone tax exclusion benefits due to their service in direct support of a contingency operation to enable those members to make telephone calls without cost to the member.
 
 >         “(2) As soon as possible after the date of the enactment of the John Warner National Defense Authorization Act for Fiscal Year 2007 \[Oct. 17, 2006\], the Secretary shall provide, wherever practicable, prepaid phone cards, packet based telephony service, or an equivalent telecommunications benefit which includes access to telephone service to members of the Armed Forces who, although are no longer directly supporting a contingency operation, are hospitalized as a result of wounds or other injuries incurred while serving in direct support of a contingency operation.
 
->     “(b) __Monthly Benefit.—__ 
+>     “(b)  __Monthly Benefit__  __.—__ 
 
 >     The value of the benefit provided under subsection (a) to any member in any month, to the extent the benefit is provided from amounts available to the Department of Defense, may not exceed—
 
@@ -553,11 +553,11 @@
 
 >         “(2) 120 calling minutes, if the cost to the Department of Defense of providing such number of calling minutes is less than the amount specified in paragraph (1).
 
->     “(c) __Termination of Benefit.—__ 
+>     “(c)  __Termination of Benefit__  __.—__ 
 
 >     The authority to provide a benefit under subsection (a)(1) to a member directly supporting a contingency operation shall terminate on the date that is 60 days after the date on which the Secretary determines that the contingency operation has ended.
 
->     “(d) __Funding.—__ 
+>     “(d)  __Funding__  __.—__ 
 
 >         (1)
 
@@ -575,15 +575,15 @@
 
 >             “(C) any source in the private sector of the United States or a foreign country.
 
->     “(e) __Deployment of Additional Telephone Equipment or Internet Access.—__ 
+>     “(e)  __Deployment of Additional Telephone Equipment or Internet Access__  __.—__ 
 
 >     If the Secretary of Defense determines that, in order to implement this section as quickly as practicable, it is necessary to provide additional telephones or Internet service in any area to facilitate telephone or packet based telephony calling for which benefits are provided under this section, the Secretary may, consistent with the availability of resources, award competitively bid contracts to one or more commercial entities for the provision and installation of telephones or Internet access in that area.
 
->     “(f) __No Compromise of Military Mission.—__ 
+>     “(f)  __No Compromise of Military Mission__  __.—__ 
 
 >     The Secretary of Defense should not take any action under this section that would compromise the military objectives or mission of the Department of Defense.
 
->     “(g) __Contingency Operation Defined.—__ 
+>     “(g)  __Contingency Operation Defined__  __.—__ 
 
 >     In this section, the term ‘contingency operation’ has the meaning given that term in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13], United States Code. The term includes Operation Iraqi Freedom and Operation Enduring Freedom.”
 

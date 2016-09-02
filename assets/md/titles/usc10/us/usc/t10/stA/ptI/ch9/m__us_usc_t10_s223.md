@@ -15,11 +15,11 @@
 
 ## § 223. Ballistic missile defense programs: program elements
 
-    (a) __Program Elements Specified by President.—__ 
+    (a)  __Program Elements Specified by President__  __.—__ 
 
     In the budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a]), the amount requested for activities of the Missile Defense Agency shall be set forth in accordance with such program elements as the President may specify.
 
-    (b) __Separate Program Elements for Programs Entering Engineering and Manufacturing Development.—__ 
+    (b)  __Separate Program Elements for Programs Entering Engineering and Manufacturing Development__  __.—__ 
 
         (1) The Secretary of Defense shall ensure that each ballistic missile defense program that enters engineering and manufacturing development is assigned a separate, dedicated program element.
 
@@ -33,7 +33,7 @@
 
             (C) demonstrate system capabilities through testing.
 
-    (c) __Management and Support.—__ 
+    (c)  __Management and Support__  __.—__ 
 
     The amount requested for a fiscal year for any program element specified for that fiscal year pursuant to subsection (a) shall include requests for the amounts necessary for the management and support of the programs, projects, and activities contained in that program element.
 
@@ -101,7 +101,7 @@
 
 [Pub. L. 110–181, div. A, title II, § 223][/us/pl/110/181/s223], Jan. 28, 2008, [122 Stat. 39][/us/stat/122/39], as amended by [Pub. L. 112–81, div. A, title II, § 231(b)(2)][/us/pl/112/81/s231/b/2], Dec. 31, 2011, [125 Stat. 1339][/us/stat/125/1339], provided that:
 
->     “(a) __Revised Budget Structure.—__ 
+>     “(a)  __Revised Budget Structure__  __.—__ 
 
 >     The budget justification materials submitted to Congress in support of the Department of Defense budget for any fiscal year after fiscal year 2009 (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code) shall set forth separately amounts requested for the Missile Defense Agency for each of the following:
 
@@ -113,7 +113,7 @@
 
 >         “(4) Military construction.
 
->     “(b) __Revised Budget Structure for Fiscal Year 2009.—__ 
+>     “(b)  __Revised Budget Structure for Fiscal Year__  __2009.—__ 
 
 >     The budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2009 (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code) shall—
 
@@ -129,7 +129,7 @@
 
 >             “(C) Military construction.
 
->     “(c) __Availability of RDT&E Funds for Fiscal Year 2009.—__ 
+>     “(c)  __Availability of RDT&E Funds for Fiscal Year__  __2009.—__ 
 
 >     Upon approval by the Secretary of Defense, and consistent with the plan submitted under subsection (f), funds appropriated pursuant to an authorization of appropriations or otherwise made available for fiscal year 2009 for research, development, test, and evaluation for the Missile Defense Agency—
 
@@ -143,15 +143,15 @@
 
 >             “(B) procurement or advance procurement of long lead items, including for Terminal High Altitude Area Defense firing units 3 and 4, and for Standard Missile-3 Block 1A interceptors.
 
->     “(d) __Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years 2009 and 2010.—__ 
+>     “(d)  __Full Funding Requirement Not Applicable to Use of Procurement Funds for Fiscal Years__  __2009__  __and__  __2010.—__ 
 
 >     In any case in which funds appropriated pursuant to an authorization of appropriations or otherwise made available for procurement for the Missile Defense Agency for fiscal years 2009 and 2010 are used for the fielding of ballistic missile defense capabilities, the funds may be used for the fielding of those capabilities on an ‘incremental’ basis, notwithstanding any law or policy of the Department of Defense that would otherwise require a ‘full funding’ basis.
 
->     “(e) __Relationship to Other Law.—__ 
+>     “(e)  __Relationship to Other Law__  __.—__ 
 
 >     Nothing in this provision shall be construed to alter or otherwise affect in any way the applicability of the requirements and other provisions of section 234(a) through (d) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ([Public Law 108–375][/us/pl/108/375]; [118 Stat. 1837][/us/stat/118/1837]; [10 U.S.C. 2431][/us/usc/t10/s2431] note).
 
->     “(f) __Plan Required.—__ 
+>     “(f)  __Plan Required__  __.—__ 
 
 >     Not later than March 1, 2008, the Director of the Missile Defense Agency shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for transitioning the Missile Defense Agency from using exclusively research, development, test, and evaluation funds to using procurement, military construction, operations and maintenance, and research, development, test, and evaluation funds for the appropriate budget activities, and for transitioning from incremental funding to full funding for fiscal years after fiscal year 2010.”
 
@@ -165,15 +165,15 @@
 
 [Pub. L. 105–85, div. A, title II, § 233][/us/pl/105/85/s233], Nov. 18, 1997, [111 Stat. 1663][/us/stat/111/1663], as amended by [Pub. L. 107–314, div. A, title II, § 225(b)(4)(A)][/us/pl/107/314/s225/b/4/A], Dec. 2, 2002, [116 Stat. 2486][/us/stat/116/2486], provided that:
 
->     “(a) __Requirement for New Program Element.—__ 
+>     “(a)  __Requirement for New Program Element__  __.—__ 
 
 >     The Secretary of Defense shall establish a program element for the Missile Defense Agency, to be referred to as the ‘Cooperative Ballistic Missile Defense Program’, to support technical and analytical cooperative efforts between the United States and other nations that contribute to United States ballistic missile defense capabilities. Except as provided in subsection (b), all international cooperative ballistic missile defense programs of the Department of Defense shall be budgeted and administered through that program element.
 
->     “(b) __Authority for Exceptions.—__ 
+>     “(b)  __Authority for Exceptions__  __.—__ 
 
 >     The Secretary of Defense may exclude from the program element established pursuant to subsection (a) any international cooperative ballistic missile defense program of the Department of Defense that after the date of the enactment of this Act \[Nov. 18, 1997\] is designated by the Secretary of Defense (pursuant to applicable Department of Defense acquisition regulations and policy) to be managed as a separate acquisition program.
 
->     “(c) __Relationship to Other Program Elements.—__ 
+>     “(c)  __Relationship to Other Program Elements__  __.—__ 
 
 >     The program element established pursuant to subsection (a) is in addition to the program elements for activities of the Missile Defense Agency required under section 251 of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106]; [110 Stat. 233][/us/stat/110/233]; \[former\] [10 U.S.C. 221][/us/usc/t10/s221] note).”
 

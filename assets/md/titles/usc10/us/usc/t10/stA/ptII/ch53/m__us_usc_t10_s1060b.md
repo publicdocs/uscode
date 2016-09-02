@@ -15,7 +15,7 @@
 
 ## § 1060b. Military ID cards: dependents and survivors of retirees
 
-    (a) __Issuance of Permanent ID Card.—__ 
+    (a)  __Issuance of Permanent ID Card__  __.—__ 
 
         (1)
 
@@ -27,7 +27,7 @@
 
         (2) A permanent ID card shall be issued to a retiree dependent under paragraph (1)(A) upon the expiration, after the retiree dependent attains 75 years of age, of any earlier, renewable military card or, if earlier, upon the request of the retiree dependent after attaining age 75.
 
-    (b) __Definitions.—__ 
+    (b)  __Definitions__  __.—__ 
 
     In this section:
 

@@ -15,11 +15,11 @@
 
 ## § 1174a. Special separation benefits programs
 
-    (a) __Requirement for Programs.—__ 
+    (a)  __Requirement for Programs__  __.—__ 
 
     The Secretary concerned shall carry out a special separation benefits program under this section. An eligible member of the armed forces may request separation under the program. The request shall be subject to the approval of the Secretary.
 
-    (b) __Benefits.—__ 
+    (b)  __Benefits__  __.—__ 
 
     Upon the approval of the request of an eligible member, the member shall—
 
@@ -33,7 +33,7 @@
 
             (B) the same benefits and services as are provided under chapter 58 of this title, sections 474 and 476 of title 37, and section 503(c) of the National Defense Authorization Act for Fiscal Year 1991 ([104 Stat. 1558][/us/stat/104/1558]; [37 U.S.C. 476][/us/usc/t37/s476] note) for members of the armed forces who are involuntarily separated within the meaning of [section 1141 of this title][/us/usc/t10/s1141].
 
-    (c) __Eligibility.—__ 
+    (c)  __Eligibility__  __.—__ 
 
     Subject to subsections (d) and (e), a member of an armed force is eligible for voluntary separation under a program established for that armed force pursuant to this section if the member—
 
@@ -57,7 +57,7 @@
 
             (D) remaining period of obligated service.
 
-    (d) __Program Applicability.—__ 
+    (d)  __Program Applicability__  __.—__ 
 
     The Secretary concerned may provide for the program under this section to apply to any of the following members:
 
@@ -67,7 +67,7 @@
 
         (3) A member of an armed force other than a regular member.
 
-    (e) __Applicability Subject to Needs of the Service.—__ 
+    (e)  __Applicability Subject to Needs of the Service__  __.—__ 
 
         (1) Subject to paragraphs (2) and (3), the Secretary concerned may limit the applicability of a program under this section to any category of personnel defined by the Secretary in order to meet a need of the armed force under the Secretary’s jurisdiction to reduce the number of members in certain grades, the number of members who have completed a certain number of years of active service, or the number of members who possess certain military skills or are serving in designated competitive categories.
 
@@ -75,7 +75,7 @@
 
         (3) A member of the armed forces offered a voluntary separation incentive under [section 1175 of this title][/us/usc/t10/s1175] shall also be offered the opportunity to request separation under a program established pursuant to this section. If the Secretary concerned approves a request for separation under either such section, the member shall be separated under the authority of the section selected by such member.
 
-    (f) __Application Requirements.—__ 
+    (f)  __Application Requirements__  __.—__ 
 
         (1)
 
@@ -93,11 +93,11 @@
 
         (2) For purposes of this section, the entry of a member into an agreement referred to in paragraph (1)(A)(ii) under a program established pursuant to this section shall be considered a request for separation under the program.
 
-    (g) __Other Conditions, Requirements, and Administrative Provisions.—__ 
+    (g)  __Other Conditions, Requirements, and Administrative Provisions__  __.—__ 
 
     Subsections (e) through (h), other than subsection (e)(2)(A), of [section 1174 of this title][/us/usc/t10/s1174] shall apply in the administration of programs established under this section.
 
-    (h) __Termination of Program.—__ 
+    (h)  __Termination of Program__  __.—__ 
 
         (1) Except as provided in paragraph (2), the Secretary concerned may not conduct a program pursuant to this section after December 31, 2001.
 
@@ -165,7 +165,7 @@
 
 [Pub. L. 103–160, div. A, title V, § 507][/us/pl/103/160/s507], Nov. 30, 1993, [107 Stat. 1646][/us/stat/107/1646], as amended by [Pub. L. 103–337, div. A, title X, § 1070(b)(1)][/us/pl/103/337/s1070/b/1], Oct. 5, 1994, [108 Stat. 2856][/us/stat/108/2856], provided that:
 
->     “(a) __Procedure for Review.—__ 
+>     “(a)  __Procedure for Review__  __.—__ 
 
 >         (1) The Secretary of each military department shall establish a procedure for the review of the individual circumstances of an officer described in paragraph (2) who is discharged, or who the Secretary concerned approves for discharge, following the report of a selection board convened by the Secretary to select officers for separation. The procedure established by the Secretary of a military department under this section shall provide that each review under that procedure be carried out by the Board for the Correction of Military Records of that military department.
 
@@ -177,17 +177,17 @@
 
 >             “(B) submits an application under subsection (b) during the two-year period beginning on the later of the date of the enactment of this Act \[Nov. 30, 1993\] and the date of such discharge or separation.
 
->     “(b) __Application.—__ 
+>     “(b)  __Application__  __.—__ 
 
 >     A review under this section shall be conducted in any case submitted to the Secretary concerned by application from the officer or former officer under regulations prescribed by the Secretary.
 
->     “(c) __Purpose of Review.—__ 
+>     “(c)  __Purpose of Review__  __.—__ 
 
 >         (1) The review under this section shall be designed to evaluate the effectiveness of the counseling of the officer before the convening of the board to ensure that the officer was properly informed that selection for discharge or other separation from active duty was a potential result of being within the group of officers to be considered by the board and that the officer was not improperly informed that such selection in that officer’s personal case was unlikely.
 
 >         “(2) The Board for the Correction of Military Records of a military department shall render a decision in each case under this section not later than 60 days after receipt by the Secretary concerned of an application under subsection (b).
 
->     “(d) __Remedy.—__ 
+>     “(d)  __Remedy__  __.—__ 
 
 >     Upon a finding of ineffective counseling under subsection (c), the Secretary shall provide the officer the opportunity to participate, at the officer’s option, in any one of the following programs for which the officer meets all eligibility criteria:
 
@@ -197,7 +197,7 @@
 
 >         “(3) Retirement under the authority provided by section 4403 of the National Defense Authorization Act for Fiscal Year 1993 ([Public Law 102–484][/us/pl/102/484]; [106 Stat. 2702][/us/stat/106/2702]; [10 U.S.C. 1293][/us/usc/t10/s1293] note).
 
->     “(e) __Effective Date.—__ 
+>     “(e)  __Effective Date__  __.—__ 
 
 >     This section shall apply with respect to officers separated after September 30, 1990.”
 

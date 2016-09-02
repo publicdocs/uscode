@@ -15,7 +15,7 @@
 
 ## § 2535. Defense Industrial Reserve
 
-    (a) __Declaration of Purpose and Policy.—__ 
+    (a)  __Declaration of Purpose and Policy__  __.—__ 
 
     It is the intent of Congress—
 
@@ -27,7 +27,7 @@
 
         (4) that machine tools and other industrial manufacturing equipment may be held in plant equipment packages or in a general reserve to maintain a high state of readiness for production of critical items of defense materiel, to provide production capacity not available in private industry for defense materiel, or to assist private industry in time of national disaster.
 
-    (b) __Powers and Duties of the Secretary of Defense.—__ 
+    (b)  __Powers and Duties of the Secretary of Defense__  __.—__ 
 
         (1)
 
@@ -61,7 +61,7 @@
 
             (B) The Secretary of Defense shall prescribe regulations establishing general policies and fee schedules for reimbursements under subparagraph (A).
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 

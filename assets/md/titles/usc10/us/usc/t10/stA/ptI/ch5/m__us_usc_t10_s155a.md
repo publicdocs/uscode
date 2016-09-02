@@ -15,7 +15,7 @@
 
 ## § 155a. Assistants to the Chairman of the Joint Chiefs of Staff for National Guard matters and Reserve matters
 
-    (a) __Establishment of Positions.—__ 
+    (a)  __Establishment of Positions__  __.—__ 
 
     The Secretary of Defense shall establish the following positions within the Joint Staff:
 
@@ -23,7 +23,7 @@
 
         (2) Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters.
 
-    (b) __Selection.—__ 
+    (b)  __Selection__  __.—__ 
 
         (1)
 
@@ -45,21 +45,21 @@
 
             (C) are in a grade above the grade of colonel or, in the case of the Navy Reserve, captain.
 
-    (c) __Term of Office.—__ 
+    (c)  __Term of Office__  __.—__ 
 
     Each Assistant to the Chairman of the Joint Chiefs of Staff under subsection (a) serves at the pleasure of the Chairman for a term of two years and may be continued in that assignment in the same manner for one additional term. However, in time of war there is no limit on the number of terms.
 
-    (d) __Grade.—__ 
+    (d)  __Grade__  __.—__ 
 
     Each Assistant to the Chairman of the Joint Chiefs of Staff under subsection (a), while so serving, holds the grade of major general or, in the case of the Navy Reserve, rear admiral. Each such officer shall be considered to be serving in a position covered by the limited exclusion from the authorized strength of general officers and flag officers on active duty provided by [section 526(b) of this title][/us/usc/t10/s526/b].
 
-    (e) __Duties.—__ 
+    (e)  __Duties__  __.—__ 
 
         (1) The Assistant to the Chairman of the Joint Chiefs of Staff for National Guard Matters is an adviser to the Chairman on matters relating to the National Guard and performs the duties prescribed for that position by the Chairman.
 
         (2) The Assistant to the Chairman of the Joint Chiefs of Staff for Reserve Matters is an adviser to the Chairman on matters relating to the reserves and performs the duties prescribed for that position by the Chairman.
 
-    (f) __Other Reserve Component Representation on Joint Staff.—__ 
+    (f)  __Other Reserve Component Representation on Joint Staff__  __.—__ 
 
     The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, shall develop appropriate policy guidance to ensure that, to the maximum extent practicable, the level of representation of reserve component officers on the Joint Staff is commensurate with the significant role of the reserve components within the armed forces.
 

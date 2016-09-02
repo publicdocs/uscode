@@ -15,11 +15,11 @@
 
 ## § 2111b. Senior military colleges: Department of Defense international student program
 
-    (a) __Program Requirement.—__ 
+    (a)  __Program Requirement__  __.—__ 
 
     The Secretary of Defense shall establish a program to facilitate the enrollment and instruction of persons from foreign countries as international students at the senior military colleges.
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of the program shall be—
 
@@ -27,15 +27,15 @@
 
         (2) to enhance the educational experience and preparation of future United States military leaders through increased, extended interaction with highly qualified potential foreign military leaders.
 
-    (c) __Coordination With the Senior Military Colleges.—__ 
+    (c)  __Coordination With the Senior Military Colleges__  __.—__ 
 
     Guidelines for implementation of the program shall be developed in coordination with the senior military colleges.
 
-    (d) __Recommendations for Admission of Students Under the Program.—__ 
+    (d)  __Recommendations for Admission of Students Under the Program__  __.—__ 
 
     The Secretary of Defense shall annually identify to the senior military colleges the international students who, based on criteria established by the Secretary, the Secretary recommends be considered for admission under the program. The Secretary shall identify the recommended international students to the senior military colleges as early as possible each year to enable those colleges to consider them in a timely manner in their respective admissions processes.
 
-    (e) __DOD Financial Support.—__ 
+    (e)  __DOD Financial Support__  __.—__ 
 
     An international student who is admitted to a senior military college under the program under this section is responsible for the cost of instruction at that college. The Secretary of Defense may, from funds available to the Department of Defense other than funds available for financial assistance under [section 2107a of this title][/us/usc/t10/s2107a], provide some or all of the costs of instruction for any such student.
 

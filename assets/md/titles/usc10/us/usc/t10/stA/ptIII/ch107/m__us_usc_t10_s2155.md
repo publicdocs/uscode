@@ -15,13 +15,13 @@
 
 ## § 2155. Joint professional military education Phase II program of instruction
 
-    (a) __Prerequisite of Completion of Joint Professional Military Education Phase I Program of Instruction.—__ 
+    (a)  __Prerequisite of Completion of Joint Professional Military Education Phase I Program of Instruction__  __.—__ 
 
         (1) After September 30, 2009, an officer of the armed forces may not be accepted for, or assigned to, a program of instruction designated by the Secretary of Defense as joint professional military education Phase II unless the officer has successfully completed a program of instruction designated by the Secretary of Defense as joint professional military education Phase I.
 
         (2) The Chairman of the Joint Chiefs of Staff may grant exceptions to the requirement under paragraph (1). Such an exception may be granted only on a case-by-case basis under exceptional circumstances, as determined by the Chairman. An officer selected to receive such an exception shall have knowledge of joint matters and other aspects of the Phase I curriculum that, to the satisfaction of the Chairman, qualifies the officer to meet the minimum requirements established for entry into Phase II instruction without first completing Phase I instruction. The number of officers selected to attend an offering of the principal course of instruction at the Joint Forces Staff College or a senior level service school designated by the Secretary of Defense as a joint professional military education institution who have not completed Phase I instruction should comprise no more than 10 percent of the total number of officers selected.
 
-    (b) __Phase II Requirements.—__ 
+    (b)  __Phase II Requirements__  __.—__ 
 
     The Secretary shall require that the curriculum for Phase II joint professional military education at any school—
 
@@ -35,7 +35,7 @@
 
             (B) so that students progress from a basic knowledge of joint matters learned in Phase I instruction to the level of expertise necessary for successful performance in the joint arena.
 
-    (c) __Curriculum Content.—__ 
+    (c)  __Curriculum Content__  __.—__ 
 
     In addition to the subjects specified in [section 2151(a) of this title][/us/usc/t10/s2151/a], the curriculum for Phase II joint professional military education shall include the following:
 
@@ -47,7 +47,7 @@
 
         (4) Joint, interagency, and multinational capabilities and the integration of those capabilities.
 
-    (d) __Student Ratio; Faculty Ratio.—__ 
+    (d)  __Student Ratio; Faculty Ratio__  __.—__ 
 
     Not later than September 30, 2009, for courses of instruction in a Phase II program of instruction that is offered at senior level service school that has been designated by the Secretary of Defense as a joint professional military education institution—
 
@@ -67,19 +67,19 @@
 
 [Pub. L. 112–81, div. A, title V, § 552(b)][/us/pl/112/81/s552/b], Dec. 31, 2011, [125 Stat. 1412][/us/stat/125/1412], provided that:
 
->     “(1) __Pilot program authorized.—__ 
+>     “(1)  __Pilot program authorized__  __.—__ 
 
 >     The Secretary of Defense may carry out a pilot program to assess the feasibility and advisability of offering a program of instruction for Phase II joint professional military education (JPME II) on an other than in-residence basis.
 
->     “(2) __Location.—__ 
+>     “(2)  __Location__  __.—__ 
 
 >     The pilot program authorized by this subsection shall be carried out at the headquarters of not more than two combatant commands selected by the Secretary for purposes of the pilot program.
 
->     “(3) __Program of instruction.—__ 
+>     “(3)  __Program of instruction__  __.—__ 
 
 >     The program of instruction offered under the pilot program authorized by this subsection shall meet the requirements of [section 2155 of title 10][/us/usc/t10/s2155], United States Code.
 
->     “(4) __Report.—__ 
+>     “(4)  __Report__  __.—__ 
 
 >     Not later than one year before completion of the pilot program authorized by this subsection, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the pilot program. The report shall include the following:
 
@@ -89,7 +89,7 @@
 
 >         “(C) The assessment of the Secretary regarding the feasibility and advisability of expanding the pilot program to the headquarters of additional combatant commands, or of making the pilot program permanent, and a statement of the legislative or administrative actions required to implement such assessment.
 
->     “(5) __Sunset.—__ 
+>     “(5)  __Sunset__  __.—__ 
 
 >     The authority in this subsection to carry out the pilot program shall expire on the date that is five years after the date of the enactment of this Act \[Dec. 31, 2011\].”
 

@@ -15,7 +15,7 @@
 
 ## § 1593. Uniform allowance: civilian employees
 
-    (a) __Allowance Authorized.—__ 
+    (a)  __Allowance Authorized__  __.—__ 
 
         (1) The Secretary of Defense may pay an allowance to each civilian employee of the Department of Defense who is required by law or regulation to wear a prescribed uniform in the performance of official duties.
 
@@ -23,15 +23,15 @@
 
         (3) This subsection shall not apply with respect to a civilian employee of the Defense Intelligence Agency who is entitled to an allowance under [section 1622 of this title][/us/usc/t10/s1622].
 
-    (b) __Amount of Allowance.—__ 
+    (b)  __Amount of Allowance__  __.—__ 
 
     Notwithstanding [section 5901(a) of title 5][/us/usc/t5/s5901/a], the amount of an allowance paid, and the cost of uniforms provided, under subsection (a) to a civilian employee may not exceed $400 per year (or such higher maximum amount as the Secretary of Defense may by regulation prescribe).
 
-    (c) __Treatment of Allowance.—__ 
+    (c)  __Treatment of Allowance__  __.—__ 
 
     An allowance paid, or uniform provided, under subsection (a) shall be treated in the same manner as is provided in [section 5901(c) of title 5][/us/usc/t5/s5901/c] for an allowance paid under that section.
 
-    (d) __Use of Appropriated Funds for Allowance.—__ 
+    (d)  __Use of Appropriated Funds for Allowance__  __.—__ 
 
     Amounts appropriated annually to the Department of Defense for the pay of civilian employees may be used for uniforms, or for allowance for uniforms, as authorized by this section and [section 5901 of title 5][/us/usc/t5/s5901].
 

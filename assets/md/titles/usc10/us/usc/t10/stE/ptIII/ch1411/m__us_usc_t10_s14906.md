@@ -15,7 +15,7 @@
 
 ## § 14906. Officers eligible to serve on boards
 
-    (a) __Composition of Boards.—__ 
+    (a)  __Composition of Boards__  __.—__ 
 
     Each board convened under this chapter shall consist of officers appointed as follows:
 
@@ -25,7 +25,7 @@
 
         (3) Each member of the board shall be senior in grade to any officer to be considered by the board.
 
-    (b) __Limitation.—__ 
+    (b)  __Limitation__  __.—__ 
 
     A person may not be a member of more than one board convened under this chapter to consider the same officer.
 

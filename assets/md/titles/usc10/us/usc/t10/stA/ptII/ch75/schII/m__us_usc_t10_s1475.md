@@ -171,15 +171,15 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
 >     “(a) __Comprehensive Policy on Casualty Assistance.—__ 
 
->         “(1) __Policy required.—__ 
+>         “(1)  __Policy required__  __.—__ 
 
 >         Not later than August 1, 2006, the Secretary of Defense shall prescribe a comprehensive policy for the Department of Defense on the provision of casualty assistance to survivors and next of kin of members of the Armed Forces who die during military service (in this section referred to as ‘military decedents’).
 
->         “(2) __Consultation.—__ 
+>         “(2)  __Consultation__  __.—__ 
 
 >         The Secretary shall develop the policy under paragraph (1) in consultation with the Secretaries of the military departments, the Secretary of Veterans Affairs, and the Secretary of Homeland Security with respect to the Coast Guard.
 
->         “(3) __Incorporation of past experience and practice.—__ 
+>         “(3)  __Incorporation of past experience and practice__  __.—__ 
 
 >         The policy developed under paragraph (1) shall be based on—
 
@@ -189,11 +189,11 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
 >             “(C) such other matters as the Secretary of Defense considers appropriate.
 
->         “(4) __Procedures.—__ 
+>         “(4)  __Procedures__  __.—__ 
 
 >         The policy shall include procedures to be followed by the military departments in the provision of casualty assistance to survivors and next of kin of military decedents. The procedures shall be uniform across the military departments except to the extent necessary to reflect the traditional practices or customs of a particular military department.
 
->     “(b) __Elements of Policy.—__ 
+>     “(b)  __Elements of Policy__  __.—__ 
 
 >     The comprehensive policy developed under subsection (a) shall address the following matters:
 
@@ -237,11 +237,11 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
 >             “(D) include procedures by which such survivors shall, upon request, receive updates or supplemental information from qualified Department of Defense personnel.
 
->     “(c) __Adoption by Military Departments.—__ 
+>     “(c)  __Adoption by Military Departments__  __.—__ 
 
 >     Not later than November 1, 2006, the Secretary of each military department shall prescribe regulations, or modify current regulations, on the policies and procedures of such military department on the provision of casualty assistance to survivors and next of kin of military decedents in order to conform such policies and procedures to the policy developed under subsection (a).
 
->     “(d) __Report on Improvement of Casualty Assistance Programs.—__ 
+>     “(d)  __Report on Improvement of Casualty Assistance Programs__  __.—__ 
 
 >     Not later than December 1, 2006, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report that includes—
 
@@ -253,11 +253,11 @@ In subsection (a), the word “receiving” is inserted for clarity. Clause (1) 
 
 >     “(e) __GAO Report.—__ 
 
->         “(1) __Report required.—__ 
+>         “(1)  __Report required__  __.—__ 
 
 >         Not later than July 1, 2006, the Comptroller General shall submit to the committees specified in subsection (d) a report on the evaluation by the Comptroller General of the casualty assistance programs of the Department of Defense and of such other departments and agencies of the Federal Government as provide casualty assistance to survivors and next of kin of military decedents.
 
->         “(2) __Assessment.—__ 
+>         “(2)  __Assessment__  __.—__ 
 
 >         The report shall include the assessment of the Comptroller General of the adequacy of the current policies and procedures of, and funding for, the casualty assistance programs covered by the report to achieve their intended purposes.”
 

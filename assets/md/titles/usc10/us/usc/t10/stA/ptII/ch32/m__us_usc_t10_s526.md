@@ -15,7 +15,7 @@
 
 ## § 526. Authorized strength: general and flag officers on active duty
 
-    (a) __Limitations.—__ 
+    (a)  __Limitations__  __.—__ 
 
     The number of general officers on active duty in the Army, Air Force, and Marine Corps, and the number of flag officers on active duty in the Navy, may not exceed the number specified for the armed force concerned as follows:
 
@@ -27,7 +27,7 @@
 
         (4) For the Marine Corps, 61.
 
-    (b) __Limited Exclusion for Joint Duty Requirements.—__ 
+    (b)  __Limited Exclusion for Joint Duty Requirements__  __.—__ 
 
         (1) The Secretary of Defense may designate up to 310 general officer and flag officer positions that are joint duty assignments for purposes of chapter 38 of this title for exclusion from the limitations in subsection (a). The Secretary of Defense shall allocate those exclusions to the armed forces based on the number of general or flag officers required from each armed force for assignment to these designated positions.
 
@@ -75,7 +75,7 @@
 
     \[(c) Repealed. [Pub. L. 107–314, div. A, title X, § 1041(a)(3)][/us/pl/107/314/s1041/a/3], Dec. 2, 2002, [116 Stat. 2645][/us/stat/116/2645].\]
 
-    (d) __Exclusion of Certain Reserve Officers.—__ 
+    (d)  __Exclusion of Certain Reserve Officers__  __.—__ 
 
         (1) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for training or who is on active duty under a call or order specifying a period of less than 180 days.
 
@@ -83,21 +83,21 @@
 
         (3) The limitations of this section do not apply to a reserve component general or flag officer who is on active duty for a period in excess of 365 days but not to exceed three years, except that the number of such officers from each reserve component who are covered by this paragraph and not serving in a position that is a joint duty assignment for purposes of chapter 38 of this title may not exceed 5 per component, unless authorized by the Secretary of Defense.
 
-    (e) __Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions.—__ 
+    (e)  __Exclusion of Certain Officers Pending Separation or Retirement or Between Senior Positions__  __.—__ 
 
     The limitations of this section do not apply to a general or flag officer who is covered by an exclusion under [section 525(e) of this title][/us/usc/t10/s525/e].
 
-    (f) __Exclusion of Attending Physician to the Congress.—__ 
+    (f)  __Exclusion of Attending Physician to the Congress__  __.—__ 
 
     The limitations of this section do not apply to the general or flag officer who is serving as Attending Physician to the Congress.
 
-    (g) __Temporary Exclusion for Assignment to Certain Temporary Billets.—__ 
+    (g)  __Temporary Exclusion for Assignment to Certain Temporary Billets__  __.—__ 
 
         (1) The limitations in subsection (a) and in [section 525(a) of this title][/us/usc/t10/s525/a] do not apply to a general or flag officer assigned to a temporary joint duty assignment designated by the Secretary of Defense.
 
         (2) A general or flag officer assigned to a temporary joint duty assignment as described in paragraph (1) may not be excluded under this subsection from the limitations in subsection (a) for a period of longer than one year.
 
-    (h) __Exclusion of Officers Departing From Joint Duty Assignments.—__ 
+    (h)  __Exclusion of Officers Departing From Joint Duty Assignments__  __.—__ 
 
     The limitations in subsection (a) do not apply to an officer released from a joint duty assignment, but only during the 60-day period beginning on the date the officer departs the joint duty assignment. The Secretary of Defense may authorize the Secretary of a military department to extend the 60-day period by an additional 120 days, except that not more than three officers on active duty from each armed force may be covered by an extension under this sentence at the same time.
 
@@ -229,11 +229,11 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 503(e), Oct. 14, 2008, [122 Stat. 4434][/us/stat/122/4434], provided that:
 
->     “(1) __Reservation of army increase.—__ 
+>     “(1)  __Reservation of army increase__  __.—__ 
 
 >     The increase in the number of general officers on active duty in the Army, as authorized by the amendment made by subsection (a) \[amending this section\] is reserved for general officers in the Army who serve in an acquisition position.
 
->     “(2) __Reservation of portion of increase in joint duty assignments excluded from limitation.—__ 
+>     “(2)  __Reservation of portion of increase in joint duty assignments excluded from limitation__  __.—__ 
 
 >     Of the increase in the number of general officer and flag officer joint duty assignments that may be designated for exclusion from the limitations on the number of general officers and flag officers on active duty, as authorized by the amendment made by subsection (c) \[amending this section\], five of the designated assignments are reserved for general officers or flag officers who serve in an acquisition position, including one assignment in the Defense Contract Management Agency.”
 

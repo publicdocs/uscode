@@ -15,13 +15,13 @@
 
 ## § 2581. Excess UH–1 Huey and AH–1 Cobra helicopters: requirements for transfer to foreign countries
 
-    (a) __Requirements.—__ 
+    (a)  __Requirements__  __.—__ 
 
         (1) Before an excess UH–1 Huey helicopter or AH–1 Cobra helicopter is transferred on a grant or sales basis to a foreign country for the purpose of flight operations by that country, the Secretary of Defense shall make all reasonable efforts to ensure that the helicopter receives, to the extent necessary, maintenance and repair equivalent to the depot-level maintenance and repair (as defined in [section 2460 of this title][/us/usc/t10/s2460]) that the helicopter would need were the helicopter to remain in operational use with the armed forces. Any such maintenance and repair work shall be performed at no cost to the Department of Defense.
 
         (2) The Secretary shall make all reasonable efforts to ensure that maintenance and repair work described in paragraph (1) is performed in the United States.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     Subsection (a) does not apply with respect to salvage helicopters provided to the foreign country solely as a source for spare parts.
 

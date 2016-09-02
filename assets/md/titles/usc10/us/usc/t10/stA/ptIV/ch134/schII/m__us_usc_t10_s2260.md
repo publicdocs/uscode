@@ -15,15 +15,15 @@
 
 ## § 2260. Licensing of intellectual property: retention of fees
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense or the Secretary of Homeland Security, the Secretary concerned may license trademarks, service marks, certification marks, and collective marks owned or controlled by the Secretary concerned and may retain and expend fees received from such licensing in accordance with this section.
 
-    (b) __Designated Marks.—__ 
+    (b)  __Designated Marks__  __.—__ 
 
     The Secretary concerned shall designate the trademarks, service marks, certification marks, and collective marks regarding which the Secretary will exercise the authority to retain licensing fees under this section.
 
-    (c) __Licenses for Qualifying Companies.—__ 
+    (c)  __Licenses for Qualifying Companies__  __.—__ 
 
         (1) The Secretary concerned may license trademarks, service marks, certification marks, and collective marks owned or controlled by the Secretary relating to military designations and likenesses of military weapons systems to any qualifying company upon receipt of a request from the company.
 
@@ -41,7 +41,7 @@
 
         (5) A license under this subsection shall not be an exclusive license.
 
-    (d) __Use of Fees.—__ 
+    (d)  __Use of Fees__  __.—__ 
 
     The Secretary concerned shall use fees retained under this section for the following purposes:
 
@@ -55,11 +55,11 @@
 
         (2) For morale, welfare, and recreation activities under the jurisdiction of the Secretary, to the extent (if any) that the total amount of the licensing fees available under this section for a fiscal year exceed the total amount needed for such fiscal year under paragraph (1).
 
-    (e) __Availability.—__ 
+    (e)  __Availability__  __.—__ 
 
     Fees received in a fiscal year and retained under this section shall be available for obligation in such fiscal year and the following two fiscal years.
 
-    (f) __Definitions.—__ 
+    (f)  __Definitions__  __.—__ 
 
     In this section:
 

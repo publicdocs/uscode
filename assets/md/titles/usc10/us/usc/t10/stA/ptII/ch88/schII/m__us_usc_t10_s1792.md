@@ -15,7 +15,7 @@
 
 ## § 1792. Child care employees
 
-    (a) __Required Training.—__ 
+    (a)  __Required Training__  __.—__ 
 
         (1) The Secretary of Defense shall prescribe regulations implementing a training program for child care employees. Those regulations shall apply uniformly among the military departments. Subject to paragraph (2), satisfactory completion of the training program shall be a condition of employment of any person as a child care employee.
 
@@ -33,7 +33,7 @@
 
             (D) Cardiopulmonary resuscitation and other emergency medical procedures.
 
-    (b) __Training and Curriculum Specialists.—__ 
+    (b)  __Training and Curriculum Specialists__  __.—__ 
 
         (1) The Secretary of Defense shall require that at least one employee at each military child development center be a specialist in training and curriculum development. The Secretary shall ensure that such employees have appropriate credentials and experience.
 
@@ -53,7 +53,7 @@
 
         (3) Each employee referred to in paragraph (1) shall be an employee in a competitive service position.
 
-    (c) __Competitive Rates of Pay.—__ 
+    (c)  __Competitive Rates of Pay__  __.—__ 
 
     For the purpose of providing military child development centers with a qualified and stable civilian workforce, employees at a military installation who are directly involved in providing child care and are paid from nonappropriated funds—
 
@@ -61,7 +61,7 @@
 
         (2) in the case of other employees, shall be paid at rates of pay substantially equivalent to the rates of pay paid to other employees at that installation with similar training, seniority, and experience.
 
-    (d) __Competitive Service Position Defined.—__ 
+    (d)  __Competitive Service Position Defined__  __.—__ 
 
     In this section, the term “competitive service position” means a position in the competitive service, as defined in [section 2102(a)(1) of title 5][/us/usc/t5/s2102/a/1].
 

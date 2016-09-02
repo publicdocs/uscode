@@ -15,19 +15,19 @@
 
 ## § 1608. Time-limited appointments
 
-    (a) __Authority for Time-Limited Appointments.—__ 
+    (a)  __Authority for Time-Limited Appointments__  __.—__ 
 
     The Secretary of Defense may by regulation authorize appointing officials to make time-limited appointments to defense intelligence positions specified in the regulations.
 
-    (b) __Review of Use of Authority.—__ 
+    (b)  __Review of Use of Authority__  __.—__ 
 
     The Secretary of Defense shall review each time-limited appointment in a defense intelligence position at the end of the first year of the period of the appointment and determine whether the appointment should be continued for the remainder of the period. The continuation of a time-limited appointment after the first year shall be subject to the approval of the Secretary.
 
-    (c) __Condition on Permanent Appointment to Defense Intelligence Senior Executive Service.—__ 
+    (c)  __Condition on Permanent Appointment to Defense Intelligence Senior Executive Service__  __.—__ 
 
     An employee serving in a defense intelligence position pursuant to a time-limited appointment is not eligible for a permanent appointment to a Defense Intelligence Senior Executive Service position (including a position in which the employee is serving) unless the employee is selected for the permanent appointment on a competitive basis.
 
-    (d) __Time-Limited Appointment Defined.—__ 
+    (d)  __Time-Limited Appointment Defined__  __.—__ 
 
     In this section, the term “time-limited appointment” means an appointment (subject to the condition in subsection (b)) for a period not to exceed two years.
 

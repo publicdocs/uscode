@@ -49,11 +49,11 @@
 
 [Pub. L. 112–81, div. A, title VIII, § 852][/us/pl/112/81/s852], Dec. 31, 2011, [125 Stat. 1517][/us/stat/125/1517], as amended by [Pub. L. 112–239, div. A, title XVI, § 1603(d)][/us/pl/112/239/s1603/d], Jan. 2, 2013, [126 Stat. 2063][/us/stat/126/2063], provided that:
 
->     “(a) __Report Required.—__ 
+>     “(a)  __Report Required__  __.—__ 
 
 >     The Secretary of Defense shall ensure that the annual report to Congress on the defense industrial base submitted for fiscal year 2012 pursuant to [section 2504 of title 10][/us/usc/t10/s2504], United States Code, includes a description of, and a status report on, the sector-by-sector, tier-by-tier assessment of the industrial base undertaken by the Department of Defense.
 
->     “(b) __Contents of Report.—__ 
+>     “(b)  __Contents of Report__  __.—__ 
 
 >     The report required by subsection (a) shall include, at a minimum, a description of the steps taken and planned to be taken—
 
@@ -73,7 +73,7 @@
 
 >             “(B) such disruption would adversely affect the ability of the Department of Defense to fill its national security mission.
 
->     “(c) __Follow-up Review.—__ 
+>     “(c)  __Follow-up Review__  __.—__ 
 
 >     The Secretary of Defense shall ensure that the annual report to Congress on the defense industrial base submitted for each of fiscal years 2013, 2014, and 2015 includes an update on the steps taken by the Department of Defense to act on the findings of the sector-by-sector, tier-by-tier assessment of the industrial base and implement the strategy required by [section 2501 of title 10][/us/usc/t10/s2501], United States Code. Such updates shall, at a minimum—
 

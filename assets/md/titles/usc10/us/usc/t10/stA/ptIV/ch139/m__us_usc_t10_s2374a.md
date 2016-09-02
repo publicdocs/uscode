@@ -15,31 +15,31 @@
 
 ## § 2374a. Prizes for advanced technology achievements
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering and the service acquisition executive for each military department, may carry out programs to award cash prizes in recognition of outstanding achievements in basic, advanced, and applied research, technology development, and prototype development that have the potential for application to the performance of the military missions of the Department of Defense.
 
-    (b) __Competition Requirements.—__ 
+    (b)  __Competition Requirements__  __.—__ 
 
     Each program under subsection (a) shall use a competitive process for the selection of recipients of cash prizes. The process shall include the widely-advertised solicitation of submissions of research results, technology developments, and prototypes.
 
-    (c) __Limitations.—__ 
+    (c)  __Limitations__  __.—__ 
 
         (1) The total amount made available for award of cash prizes in a fiscal year may not exceed $10,000,000.
 
         (2) No prize competition may result in the award of more than $1,000,000 in cash prizes without the approval of the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-    (d) __Relationship to Other Authority.—__ 
+    (d)  __Relationship to Other Authority__  __.—__ 
 
     A program under subsection (a) may be carried out in conjunction with or in addition to the exercise of any other authority of an official referred to in that subsection to acquire, support, or stimulate basic, advanced and applied research, technology development, or prototype projects.
 
     (e) __Annual Report.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         Not later than March 1 of each year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the activities carried out during the preceding fiscal year under the authority in subsection (a).
 
-        (2) __Information included.—__ 
+        (2)  __Information included__  __.—__ 
 
         The report for a fiscal year under this subsection shall include, for each program under subsection (a), the following:
 
@@ -55,11 +55,11 @@
 
             (F) A description of any plans to transition the technologies or prototypes developed as a result of the program into an acquisition program of the Department.
 
-        (3) __Suspension of authority for failure to include information.—__ 
+        (3)  __Suspension of authority for failure to include information__  __.—__ 
 
         For each program under subsection (a), the authority to obligate or expend funds under that program is suspended as of the date specified in paragraph (1) if the Secretary does not, by that date, submit a report that includes, for that program, all the information required by paragraph (2). As of the date on which the Secretary does submit a report that includes, for that program, all the information required by paragraph (2), the suspension is lifted.
 
-    (f) __Period of Authority.—__ 
+    (f)  __Period of Authority__  __.—__ 
 
     The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2013.
 

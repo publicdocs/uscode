@@ -15,17 +15,17 @@
 
 ## § 949l. Voting and rulings
 
-    (a) __Vote by Secret Written Ballot.—__ 
+    (a)  __Vote by Secret Written Ballot__  __.—__ 
 
     Voting by members of a military commission under this chapter on the findings and on the sentence shall be by secret written ballot.
 
-    (b) __Rulings.—__ 
+    (b)  __Rulings__  __.—__ 
 
         (1) The military judge in a military commission under this chapter shall rule upon all questions of law, including the admissibility of evidence and all interlocutory questions arising during the proceedings.
 
         (2) Any ruling made by the military judge upon a question of law or an interlocutory question (other than the factual issue of mental responsibility of the accused) is conclusive and constitutes the ruling of the military commission. However, a military judge may change such a ruling at any time during the trial.
 
-    (c) __Instructions Prior to Vote.—__ 
+    (c)  __Instructions Prior to Vote__  __.—__ 
 
     Before a vote is taken of the findings of a military commission under this chapter, the military judge shall, in the presence of the accused and counsel, instruct the members as to the elements of the offense and charge the members—
 

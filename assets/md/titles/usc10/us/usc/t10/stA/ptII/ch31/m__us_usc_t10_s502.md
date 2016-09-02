@@ -15,11 +15,11 @@
 
 ## § 502. Enlistment oath: who may administer
 
-    (a) __Enlistment Oath.—__ 
+    (a)  __Enlistment Oath__  __.—__ 
 
     Each person enlisting in an armed force shall take the following oath:    “I, \_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God.”
 
-    (b) __Who May Administer.—__ 
+    (b)  __Who May Administer__  __.—__ 
 
     The oath may be taken before the President, the Vice-President, the Secretary of Defense, any commissioned officer, or any other person designated under regulations prescribed by the Secretary of Defense.
 

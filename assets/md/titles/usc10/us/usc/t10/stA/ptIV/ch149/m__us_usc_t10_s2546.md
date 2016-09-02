@@ -15,11 +15,11 @@
 
 ## § 2546. Civilian management of the defense acquisition system
 
-    (a) __Responsibility of the Under Secretary of Defense for Acquisition, Technology, and Logistics.—__ 
+    (a)  __Responsibility of the Under Secretary of Defense for Acquisition, Technology, and Logistics__  __.—__ 
 
     Subject to the authority, direction and control of the Secretary of Defense, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall be responsible for the management of the defense acquisition system and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of the defense acquisition system, including the duties enumerated and assigned to the Under Secretary elsewhere in this title.
 
-    (b) __Responsibility of the Service Acquisition Executives.—__ 
+    (b)  __Responsibility of the Service Acquisition Executives__  __.—__ 
 
     Subject to the direction of the Under Secretary of Defense for Acquisition, Technology, and Logistics on matters pertaining to acquisition, and subject to the authority, direction, and control of the Secretary of the military department concerned, a service acquisition executive of a military department shall be responsible for the management of elements of the defense acquisition system in that military department and shall exercise such control of the system and perform such duties as are necessary to ensure the successful and efficient operation of such elements of the defense acquisition system.
 

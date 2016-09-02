@@ -15,7 +15,7 @@
 
 ## § 619. Eligibility for consideration for promotion: time-in-grade and other requirements
 
-    (a) __Time-in-Grade Requirements.—__ 
+    (a)  __Time-in-Grade Requirements__  __.—__ 
 
         (1)
 
@@ -39,13 +39,13 @@
 
         (5) In computing service in grade for purposes of this section, service in a grade held as a result of assignment to a position is counted as service in the grade in which the officer would have served except for such assignment or appointment.
 
-    (b) __Continued Eligibility for Consideration for Promotion of Officers Who Have Previously Failed of Selection.—__ 
+    (b)  __Continued Eligibility for Consideration for Promotion of Officers Who Have Previously Failed of Selection__  __.—__ 
 
         (1) Except as provided in paragraph (2), an officer who has failed of selection for promotion to the next higher grade remains eligible for consideration for promotion to that grade as long as he continues on active duty in other than a retired status and is not promoted.
 
         (2) Paragraph (1) does not apply to a regular officer who is ineligible for consideration for promotion under [section 631(c) of this title][/us/usc/t10/s631/c] or to a reserve officer who has failed of selection for promotion to the grade of captain or, in the case of an officer of the Navy, lieutenant for the second time.
 
-    (c) __Officers To Be Considered by Promotion Boards.—__ 
+    (c)  __Officers To Be Considered by Promotion Boards__  __.—__ 
 
         (1) Each time a selection board is convened under [section 611(a) of this title][/us/usc/t10/s611/a] for consideration of officers in a competitive category for promotion to the next higher grade, each officer in the promotion zone (except as provided under paragraph (2)), and each officer above the promotion zone, for the grade and competitive category under consideration shall be considered for promotion.
 
@@ -83,7 +83,7 @@
 
                 (v) A requirement that the preselection board may recommend that an officer be precluded from consideration by a selection board only on the basis of the general guidance provided by the Secretary of the military department concerned, information in the officer’s official military personnel records that has been described in the notice provided the officer as required pursuant to clause (iii), and any communication to the board received from that officer before the board convenes.
 
-    (d) __Certain Officers Not To Be Considered.—__ 
+    (d)  __Certain Officers Not To Be Considered__  __.—__ 
 
     A selection board convened under [section 611(a) of this title][/us/usc/t10/s611/a] may not consider for promotion to the next higher grade any of the following officers:
 

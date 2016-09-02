@@ -15,11 +15,11 @@
 
 ## § 14309. Acceptance of promotion; oath of office
 
-    (a) __Acceptance.—__ 
+    (a)  __Acceptance__  __.—__ 
 
     An officer who is appointed to a higher grade under this chapter shall be considered to have accepted the appointment on the date on which the appointment is made unless the officer expressly declines the appointment or is granted a delay of promotion under [section 14312 of this title][/us/usc/t10/s14312].
 
-    (b) __Oath.—__ 
+    (b)  __Oath__  __.—__ 
 
     An officer who has served continuously since taking the oath of office prescribed in [section 3331 of title 5][/us/usc/t5/s3331] is not required to take a new oath upon appointment to a higher grade under this chapter.
 

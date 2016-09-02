@@ -15,7 +15,7 @@
 
 ## § 972. Members: effect of time lost
 
-    (a) __Enlisted Members Required To Make Up Time Lost.—__ 
+    (a)  __Enlisted Members Required To Make Up Time Lost__  __.—__ 
 
     An enlisted member of an armed force who—
 
@@ -29,7 +29,7 @@
 
         is liable, after his return to full duty, to serve for a period that, when added to the period that he served before his absence from duty, amounts to the term for which he was enlisted or inducted.
 
-    (b) __Officers Not Allowed Service Credit for Time Lost.—__ 
+    (b)  __Officers Not Allowed Service Credit for Time Lost__  __.—__ 
 
     In the case of an officer of an armed force who after February 10, 1996—
 
@@ -43,7 +43,7 @@
 
         the period of such desertion, absence, confinement, or inability to perform duties may not be counted in computing, for any purpose other than basic pay under [section 205 of title 37][/us/usc/t37/s205], the officer’s length of service.
 
-    (c) __Waiver of Recoupment of Time Lost for Confinement.—__ 
+    (c)  __Waiver of Recoupment of Time Lost for Confinement__  __.—__ 
 
     The Secretary concerned shall waive liability for a period of confinement in connection with a trial under subsection (a)(3), or exclusion of a period of confinement in connection with a trial under subsection (b)(3), in a case upon the occurrence of any of the following events:
 

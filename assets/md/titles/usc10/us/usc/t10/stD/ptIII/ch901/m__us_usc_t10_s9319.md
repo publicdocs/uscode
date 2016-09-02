@@ -15,7 +15,7 @@
 
 ## § 9319. Recruit basic training: separate housing for male and female recruits
 
-    (a) __Physically Separate Housing.—__ 
+    (a)  __Physically Separate Housing__  __.—__ 
 
         (1) The Secretary of the Air Force shall provide for housing male recruits and female recruits separately and securely from each other during basic training.
 
@@ -23,15 +23,15 @@
 
         (3) The Secretary shall ensure that, when a recruit is in an area referred to in paragraph (2), the area is supervised by one or more persons who are authorized and trained to supervise the area.
 
-    (b) __Alternative Separate Housing.—__ 
+    (b)  __Alternative Separate Housing__  __.—__ 
 
     If male recruits and female recruits cannot be housed as provided under subsection (a) by October 1, 2001, at a particular installation, the Secretary of the Air Force shall require (on and after that date) that male recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for males and that female recruits in basic training at such installation be housed in barracks or other troop housing facilities that are only for females.
 
-    (c) __Construction Planning.—__ 
+    (c)  __Construction Planning__  __.—__ 
 
     In planning for the construction of housing to be used for housing recruits during basic training, the Secretary of the Air Force shall ensure that the housing is to be constructed in a manner that facilitates the housing of male recruits and female recruits separately and securely from each other.
 
-    (d) __Basic Training Defined.—__ 
+    (d)  __Basic Training Defined__  __.—__ 
 
     In this section, the term “basic training” means the initial entry training program of the Air Force that constitutes the basic training of new recruits.
 

@@ -15,11 +15,11 @@
 
 ## § 950e. Rehearings
 
-    (a) __Composition of Military Commission for Rehearing.—__ 
+    (a)  __Composition of Military Commission for Rehearing__  __.—__ 
 
     Each rehearing under this chapter shall take place before a military commission under this chapter composed of members who were not members of the military commission which first heard the case.
 
-    (b) __Scope of Rehearing.—__ 
+    (b)  __Scope of Rehearing__  __.—__ 
 
         (1)
 

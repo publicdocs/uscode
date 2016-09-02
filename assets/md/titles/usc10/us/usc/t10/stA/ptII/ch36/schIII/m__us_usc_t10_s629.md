@@ -15,15 +15,15 @@
 
 ## § 629. Removal from a list of officers recommended for promotion
 
-    (a) __Removal by President.—__ 
+    (a)  __Removal by President__  __.—__ 
 
     The President may remove the name of any officer from a list of officers recommended for promotion by a selection board convened under this chapter.
 
-    (b) __Removal Due to Senate Not Giving Advice and Consent.—__ 
+    (b)  __Removal Due to Senate Not Giving Advice and Consent__  __.—__ 
 
     If, after consideration of a list of officers approved for promotion by the President to a grade for which appointment is required by [section 624(c) of this title][/us/usc/t10/s624/c] to be made by and with the advice and consent of the Senate, the Senate does not give its advice and consent to the appointment of an officer whose name is on the list, that officer’s name shall be removed from the list.
 
-    (c) __Removal After 18 Months.—__ 
+    (c)  __Removal After__  __18__  __Months__  __.—__ 
 
         (1) If an officer whose name is on a list of officers approved for promotion under [section 624(a) of this title][/us/usc/t10/s624/a] to a grade for which appointment is required by [section 624(c) of this title][/us/usc/t10/s624/c] to be made by and with the advice and consent of the Senate is not appointed to that grade under such section during the officer’s promotion eligibility period, the officer’s name shall be removed from the list unless as of the end of such period the Senate has given its advice and consent to the appointment.
 
@@ -31,11 +31,11 @@
 
         (3) In this subsection, the term “promotion eligibility period” means, with respect to an officer whose name is on a list of officers approved for promotion under [section 624(a) of this title][/us/usc/t10/s624/a] to a grade for which appointment is required by [section 624(c) of this title][/us/usc/t10/s624/c] to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
 
-    (d) __Administrative Removal.—__ 
+    (d)  __Administrative Removal__  __.—__ 
 
     Under regulations prescribed by the Secretary concerned, if an officer on the active-duty list is discharged or dropped from the rolls or transferred to a retired status after having been recommended for promotion to a higher grade under this chapter, but before being promoted, the officer’s name shall be administratively removed from the list of officers recommended for promotion by a selection board.
 
-    (e) __Continued Eligibility for Promotion.—__ 
+    (e)  __Continued Eligibility for Promotion__  __.—__ 
 
         (1) An officer whose name is removed from a list under subsection (a), (b), or (c) continues to be eligible for consideration for promotion. If he is recommended for promotion by the next selection board convened for his grade and competitive category and he is promoted, the Secretary of the military department concerned may, upon such promotion, grant him the same date of rank, the same effective date for the pay and allowances of the grade to which promoted, and the same position on the active-duty list as he would have had if his name had not been so removed.
 

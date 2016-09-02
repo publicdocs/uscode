@@ -15,19 +15,19 @@
 
 ## § 18240. Acquisition of facilities by exchange
 
-    (a) __Exchange Authority.—__ 
+    (a)  __Exchange Authority__  __.—__ 
 
     In addition to the acquisition authority provided by [section 18233 of this title][/us/usc/t10/s18233], the Secretary of Defense may authorize the Secretary of a military department to acquire a facility, or addition to an existing facility, needed to satisfy military requirements for a reserve component by carrying out an exchange of an existing facility under the control of that Secretary through an agreement with an Executive agency (as defined in [section 105 of title 5][/us/usc/t5/s105]), the United States Postal Service, or a State, local government, local authority, or private entity. The acquisition of a facility or an addition to an existing facility under this section may include the acquisition of utilities, equipment, and furnishings for the facility.
 
-    (b) __Facilities Eligible for Exchange.—__ 
+    (b)  __Facilities Eligible for Exchange__  __.—__ 
 
     Only a facility of a reserve component that is not excess property (as defined in [section 102(3) of title 40][/us/usc/t40/s102/3]) may be exchanged using the authority provided by this section.
 
-    (c) __Equal Value Exchange.—__ 
+    (c)  __Equal Value Exchange__  __.—__ 
 
     In any exchange carried out using the authority provided by this section, the value of the replacement facility, or addition to an existing facility, including any utilities, equipment, and furnishings, to be acquired by the United States shall be at least equal to the fair market value of the facility conveyed by the United States under the agreement. If the values are unequal, the values may not be equalized by any payment of cash consideration by either party to the agreement.
 
-    (d) __Requirements for Replacement Facilities.—__ 
+    (d)  __Requirements for Replacement Facilities__  __.—__ 
 
     The Secretary of a military department may not accept a replacement facility, or addition to an existing facility, to be acquired by the United States in an exchange carried out using the authority provided by this section until that Secretary determines that the facility or addition—
 
@@ -37,7 +37,7 @@
 
         (3) meets all applicable Federal, State, and local requirements relating to health, safety, fire, and the environment.
 
-    (e) __Consultation Requirements.—__ 
+    (e)  __Consultation Requirements__  __.—__ 
 
     The Secretary of a military department authorized to enter into an agreement under subsection (a) to convey an existing facility under the control of that Secretary by exchange shall consult with representatives of other reserve components to evaluate—
 
@@ -45,7 +45,7 @@
 
         (2) the feasibility of using the conveyance of the facility to acquire a facility, or an addition to an existing facility, that would be jointly used by more than one reserve component or unit.
 
-    (f) __Advance Notice of Proposed Exchange.—__ 
+    (f)  __Advance Notice of Proposed Exchange__  __.—__ 
 
         (1)
 
@@ -65,7 +65,7 @@
 
         (3) [Section 2662 of this title][/us/usc/t10/s2662] shall not apply to an exchange carried out using the authority provided by this section.
 
-    (g) __Relation to Other Military Construction Requirements.—__ 
+    (g)  __Relation to Other Military Construction Requirements__  __.—__ 
 
     The acquisition of a facility, or an addition to an existing facility, using the authority provided by this section shall not be treated as a military construction project for which an authorization is required by [section 2802 of this title][/us/usc/t10/s2802].
 

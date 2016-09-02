@@ -15,11 +15,11 @@
 
 ## § 688. Retired members: authority to order to active duty; duties
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     Under regulations prescribed by the Secretary of Defense, a member described in subsection (b) may be ordered to active duty by the Secretary of the military department concerned at any time.
 
-    (b) __Covered Members.—__ 
+    (b)  __Covered Members__  __.—__ 
 
     Except as provided in subsection (d), subsection (a) applies to the following members of the armed forces:
 
@@ -29,11 +29,11 @@
 
         (3) A member of the Fleet Reserve or Fleet Marine Corps Reserve.
 
-    (c) __Duties of Member Ordered to Active Duty.—__ 
+    (c)  __Duties of Member Ordered to Active Duty__  __.—__ 
 
     The Secretary concerned may, to the extent consistent with other provisions of law, assign a member ordered to active duty under this section to such duties as the Secretary considers necessary in the interests of national defense.
 
-    (d) __Exclusion of Officers Retired on Selective Early Retirement Basis.—__ 
+    (d)  __Exclusion of Officers Retired on Selective Early Retirement Basis__  __.—__ 
 
     The following officers may not be ordered to active duty under this section:
 
@@ -47,7 +47,7 @@
 
             (B) was retired pursuant to that request.
 
-    (e) __Limitation of Period of Recall Service.—__ 
+    (e)  __Limitation of Period of Recall Service__  __.—__ 
 
         (1) A member ordered to active duty under subsection (a) may not serve on active duty pursuant to orders under that subsection for more than 12 months within the 24 months following the first day of the active duty to which ordered under that subsection.
 
@@ -63,7 +63,7 @@
 
             (D) An officer who is assigned to duty as a defense attaché or service attaché for the period of active duty to which ordered.
 
-    (f) __Waiver for Periods of War or National Emergency.—__ 
+    (f)  __Waiver for Periods of War or National Emergency__  __.—__ 
 
     Subsections (d) and (e) do not apply in time of war or of national emergency declared by Congress or the President.
 

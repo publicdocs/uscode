@@ -15,17 +15,17 @@
 
 ## § 2359b. Defense Acquisition Challenge Program
 
-    (a) __Program Required.—__ 
+    (a)  __Program Required__  __.—__ 
 
         (1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall carry out a program to provide opportunities for the increased introduction of innovative and cost-saving technology in acquisition programs of the Department of Defense.
 
         (2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the “Challenge Program”), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, or system level of an existing Department of Defense acquisition program that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program.
 
-    (b) __Panels.—__ 
+    (b)  __Panels__  __.—__ 
 
     The Under Secretary shall establish one or more panels of highly qualified scientists and engineers (hereinafter in this section referred to as “Panels”) to provide preliminary evaluations of challenge proposals under subsection (c).
 
-    (c) __Preliminary Evaluation by Panels.—__ 
+    (c)  __Preliminary Evaluation by Panels__  __.—__ 
 
         (1) Under procedures prescribed by the Under Secretary, a person or activity within or outside the Department of Defense may submit challenge proposals to a Panel, through the unsolicited proposal process or in response to a broad agency announcement.
 
@@ -65,7 +65,7 @@
 
         (7) If a Panel determines that a challenge proposal satisfies each of the criteria specified in paragraph (5), the person or activity submitting that challenge proposal shall be provided an opportunity to submit such challenge proposal for a full review and evaluation under subsection (d).
 
-    (d) __Full Review and Evaluation.—__ 
+    (d)  __Full Review and Evaluation__  __.—__ 
 
         (1) Under procedures prescribed by the Under Secretary, for each challenge proposal submitted for a full review and evaluation as provided in subsection (c)(7), the office carrying out the acquisition program to which the proposal relates shall, in consultation with the prime system contractor carrying out such program, conduct a full review and evaluation of the proposal.
 
@@ -77,7 +77,7 @@
 
             (B) consideration of any intellectual property issues associated with the challenge proposal.
 
-    (e) __Action Upon Favorable Full Review and Evaluation.—__ 
+    (e)  __Action Upon Favorable Full Review and Evaluation__  __.—__ 
 
         (1) Under procedures prescribed by the Under Secretary, each challenge proposal determined under a full review and evaluation to satisfy each of the criteria specified in subsection (c)(5) with respect to an acquisition program shall be considered by the office carrying out the applicable acquisition program and the prime system contractor for incorporation into the acquisition program as a new technology insertion at the component, subsystem, or system level.
 
@@ -85,7 +85,7 @@
 
         (3) In the case of a challenge proposal submitted in response to a solicitation issued as a result of a critical cost growth threshold breach that is determined under full review and evaluation to satisfy each of the criteria specified in subsection (c)(5), the Under Secretary shall establish guidelines for covering the costs of the challenge proposal. If appropriate, such guidelines shall not be restricted to funding provided by the Defense Acquisition Challenge Program, but shall also consider alternative funding sources, such as the acquisition program with respect to which the breach occurred.
 
-    (f) __Action Upon Unfavorable Full Review and Evaluation.—__ 
+    (f)  __Action Upon Unfavorable Full Review and Evaluation__  __.—__ 
 
     Under procedures prescribed by the Under Secretary, if a challenge proposal is determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but is not determined under a full review and evaluation to satisfy such criteria, the following provisions apply:
 
@@ -93,21 +93,21 @@
 
         (2) If the Panel disagrees with the rationale provided under paragraph (1), the Panel may return the challenge proposal to the office for further consideration.
 
-    (g) __Access to Technical Resources.—__ 
+    (g)  __Access to Technical Resources__  __.—__ 
 
         (1) Under procedures established by the Under Secretary, the technical resources of the laboratories, research, development, and engineering centers, test and evaluation activities, and other elements of the Department may be called upon to support the activities of the Challenge Program.
 
         (2) Funds available to carry out this program may be used to compensate such laboratories, centers, activities, and elements for technical assistance provided to a Panel pursuant to paragraph (1).
 
-    (h) __Conflicts of Interest and Confidentiality.—__ 
+    (h)  __Conflicts of Interest and Confidentiality__  __.—__ 
 
     In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term “Federal Government” includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
 
-    (i) __Limitation on Use of Funds.—__ 
+    (i)  __Limitation on Use of Funds__  __.—__ 
 
     Funds made available for the Challenge Program may be used only for activities authorized by this section, and not for implementation of challenge proposals.
 
-    (j) __System Defined.—__ 
+    (j)  __System Defined__  __.—__ 
 
     In this section, the term “system”—
 
@@ -123,11 +123,11 @@
 
     (k) __Pilot Program for Programs Other Than Major Defense Acquisition Programs.—__ 
 
-        (1) __In general.—__ 
+        (1)  __In general__  __.—__ 
 
         The Under Secretary of Defense for Acquisition, Technology, and Logistics shall carry out a pilot program to expand the use of the authority provided in this section to provide opportunities for the introduction of innovative and cost-saving approaches to programs other than major defense acquisition programs through the submission, review, and implementation, where appropriate, of qualifying proposals.
 
-        (2) __Qualifying proposals.—__ 
+        (2)  __Qualifying proposals__  __.—__ 
 
         For purposes of this subsection, a qualifying proposal is an offer to supply a nondevelopmental item that—
 
@@ -135,27 +135,27 @@
 
             (B) is evaluated as achieving a level of performance that is significantly better than the level of performance of an item being procured under a covered acquisition program without any increase in cost to the Government.
 
-        (3) __Review procedures.—__ 
+        (3)  __Review procedures__  __.—__ 
 
         The Under Secretary shall adopt modifications as may be needed to the procedures applicable to the Challenge Program to provide for Department of Defense review of, and action on, qualifying proposals. Such procedures shall include, at a minimum, the issuance of a broad agency announcement inviting interested parties to submit qualifying proposals in areas of interest to the Department.
 
-        (4) __Definitions.—__ 
+        (4)  __Definitions__  __.—__ 
 
         In this subsection:
 
-            (A) __Nondevelopmental item.—__ 
+            (A)  __Nondevelopmental item__  __.—__ 
 
             The term “nondevelopmental item” has the meaning given that term in section 4  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Office of Federal Procurement Policy Act ([41 U.S.C. 403][/us/usc/t41/s403]).
 
-            (B) __Covered acquisition program.—__ 
+            (B)  __Covered acquisition program__  __.—__ 
 
             The term “covered acquisition program” means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup> 
 
-            (C) __Level of performance.—__ 
+            (C)  __Level of performance__  __.—__ 
 
             The term “level of performance”, with respect to a nondevelopmental item, means the extent to which the item demonstrates required item functional characteristics.
 
-        (5) __Sunset.—__ 
+        (5)  __Sunset__  __.—__ 
 
         The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016.
 

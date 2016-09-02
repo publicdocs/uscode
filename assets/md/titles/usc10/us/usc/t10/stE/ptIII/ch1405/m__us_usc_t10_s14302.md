@@ -15,7 +15,7 @@
 
 ## § 14302. Promotion zones
 
-    (a) __Promotion Zones Generally.—__ 
+    (a)  __Promotion Zones Generally__  __.—__ 
 
     For purposes of this chapter, a promotion zone is an eligibility category for the consideration of officers by a mandatory promotion board. A promotion zone consists of those officers on the reserve active-status list who are in the same grade and competitive category and who meet the requirements of both paragraphs (1) and (2) or the requirements of paragraph (3), as follows:
 
@@ -37,7 +37,7 @@
 
             (C) are senior to the officer designated by the Secretary of the military department concerned to be the junior officer in the promotion zone eligible for consideration for promotion to that next higher grade and the officer so designated.
 
-    (b) __Officers Above the Zone.—__ 
+    (b)  __Officers Above the Zone__  __.—__ 
 
     Officers on the reserve active-status list are considered to be above the promotion zone for a grade and competitive category if they—
 
@@ -47,7 +47,7 @@
 
         (3) are senior to the senior officer in the promotion zone for that competitive category.
 
-    (c) __Officers Below the Zone.—__ 
+    (c)  __Officers Below the Zone__  __.—__ 
 
     Officers on the reserve active-status list are considered to be below the promotion zone for a grade and competitive category if they—
 

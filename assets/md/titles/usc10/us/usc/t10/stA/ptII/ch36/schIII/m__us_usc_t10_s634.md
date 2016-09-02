@@ -15,11 +15,11 @@
 
 ## § 634. Retirement for years of service: regular colonels and Navy captains
 
-    (a) __30 Years of Active Commissioned Service.—__ 
+    (a) __30__  __Years of Active Commissioned Service__  __.—__ 
 
     Except as provided in subsection (b) and as provided under [section 637(b) of this title][/us/usc/t10/s637/b], each officer of the Regular Army, Regular Air Force, or Regular Marine Corps who holds the regular grade of colonel, and each officer of the Regular Navy who holds the regular grade of captain, who is not on a list of officers recommended for promotion to the regular grade of brigadier general or rear admiral (lower half), respectively, shall, if not earlier retired, be retired on the first day of the month after the month in which he completes 30 years of active commissioned service.
 
-    (b) __Exceptions.—__ 
+    (b)  __Exceptions__  __.—__ 
 
     Subsection (a) does not apply to the following:
 

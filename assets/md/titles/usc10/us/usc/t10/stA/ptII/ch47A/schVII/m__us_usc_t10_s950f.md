@@ -15,11 +15,11 @@
 
 ## § 950f. Review by United States Court of Military Commission Review
 
-    (a) __Establishment.—__ 
+    (a)  __Establishment__  __.—__ 
 
     There is a court of record to be known as the “United States Court of Military Commission Review” (in this section referred to as the “Court”). The Court shall consist of one or more panels, each composed of not less than three judges on the Court. For the purpose of reviewing decisions of military commissions under this chapter, the Court may sit in panels or as a whole, in accordance with rules prescribed by the Secretary of Defense.
 
-    (b) __Judges.—__ 
+    (b)  __Judges__  __.—__ 
 
         (1) Judges on the Court shall be assigned or appointed in a manner consistent with the provisions of this subsection.
 
@@ -29,15 +29,15 @@
 
         (4) No person may serve as a judge on the Court in any case in which that person acted as a military judge, counsel, or reviewing official.
 
-    (c) __Cases To Be Reviewed.—__ 
+    (c)  __Cases To Be Reviewed__  __.—__ 
 
     The Court shall, in accordance with procedures prescribed under regulations of the Secretary, review the record in each case that is referred to the Court by the convening authority under [section 950c of this title][/us/usc/t10/s950c] with respect to any matter properly raised by the accused.
 
-    (d) __Standard and Scope of Review.—__ 
+    (d)  __Standard and Scope of Review__  __.—__ 
 
     In a case reviewed by the Court under this section, the Court may act only with respect to the findings and sentence as approved by the convening authority. The Court may affirm only such findings of guilty, and the sentence or such part or amount of the sentence, as the Court finds correct in law and fact and determines, on the basis of the entire record, should be approved. In considering the record, the Court may weigh the evidence, judge the credibility of witnesses, and determine controverted questions of fact, recognizing that the military commission saw and heard the witnesses.
 
-    (e) __Rehearings.—__ 
+    (e)  __Rehearings__  __.—__ 
 
     If the Court sets aside the findings or sentence, the Court may, except where the setting aside is based on lack of sufficient evidence in the record to support the findings, order a rehearing. If the Court sets aside the findings or sentence and does not order a rehearing, the Court shall order that the charges be dismissed.
 

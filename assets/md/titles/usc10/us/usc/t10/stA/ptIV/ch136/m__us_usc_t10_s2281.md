@@ -15,7 +15,7 @@
 
 ## § 2281. Global Positioning System
 
-    (a) __Sustainment and Operation for Military Purposes.—__ 
+    (a)  __Sustainment and Operation for Military Purposes__  __.—__ 
 
     The Secretary of Defense shall provide for the sustainment of the capabilities of the Global Positioning System (hereinafter in this section referred to as the “GPS”), and the operation of basic GPS services, that are beneficial for the national security interests of the United States. In doing so, the Secretary shall—
 
@@ -23,7 +23,7 @@
 
         (2) ensure that United States armed forces have the capability to use the GPS effectively despite hostile attempts to prevent the use of the system by such forces.
 
-    (b) __Sustainment and Operation for Civilian Purposes.—__ 
+    (b)  __Sustainment and Operation for Civilian Purposes__  __.—__ 
 
     The Secretary of Defense shall provide for the sustainment and operation of the GPS Standard Positioning Service for peaceful civil, commercial, and scientific uses on a continuous worldwide basis free of direct user fees. In doing so, the Secretary—
 
@@ -37,11 +37,11 @@
 
         (5) may not agree to any restriction on the Global Positioning System proposed by the head of a department or agency of the United States outside the Department of Defense in the exercise of that official’s regulatory authority that would adversely affect the military potential of the Global Positioning System.
 
-    (c) __Federal Radionavigation Plan.—__ 
+    (c)  __Federal Radionavigation Plan__  __.—__ 
 
     The Secretary of Defense and the Secretary of Transportation shall jointly prepare the Federal Radionavigation Plan. The plan shall be revised and updated not less often than every two years. The plan shall be prepared in accordance with the requirements applicable to such plan as first prepared pursuant to section 507 of the International Maritime Satellite Telecommunications Act  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  ([47 U.S.C. 756][/us/usc/t47/s756]). The plan, and any amendment to the plan, shall be published in the Federal Register.
 
-    (d) __Definitions.—__ 
+    (d)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -95,15 +95,15 @@
 
 [Pub. L. 111–383, div. A, title IX, § 913][/us/pl/111/383/s913], Jan. 7, 2011, [124 Stat. 4328][/us/stat/124/4328], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     Except as provided in subsections (b) and (c), none of the funds authorized to be appropriated or otherwise made available by this Act or any other Act for the Department of Defense may be obligated or expended to purchase user equipment for the Global Positioning System during fiscal years after fiscal year 2017 unless the equipment is capable of receiving the military code (commonly known as the ‘M code’) from the Global Positioning System.
 
->     “(b) __Exception.—__ 
+>     “(b)  __Exception__  __.—__ 
 
 >     The limitation under subsection (a) shall not apply with respect to the purchase of passenger vehicles or commercial vehicles in which Global Positioning System equipment is installed.
 
->     “(c) __Waiver.—__ 
+>     “(c)  __Waiver__  __.—__ 
 
 >     The Secretary of Defense may waive the limitation under subsection (a) if the Secretary determines that—
 
@@ -127,11 +127,11 @@
 
 [Pub. L. 105–261, div. A, title II, § 218][/us/pl/105/261/s218], Oct. 17, 1998, [112 Stat. 1951][/us/stat/112/1951], provided that:
 
->     “(a) __Policy on Priority for Development of Enhanced GPS System.—__ 
+>     “(a)  __Policy on Priority for Development of Enhanced GPS System__  __.—__ 
 
 >     The development of an enhanced Global Positioning System is an urgent national security priority.
 
->     “(b) __Development Required.—__ 
+>     “(b)  __Development Required__  __.—__ 
 
 >     To fulfill the requirements described in section 279(b) of the National Defense Authorization Act for Fiscal Year 1996 ([Public Law 104–106][/us/pl/104/106]; [110 Stat. 243][/us/stat/110/243]) \[set out as a note below\] and [section 2281 of title 10][/us/usc/t10/s2281], United States Code, the Secretary of Defense shall develop an enhanced Global Positioning System in accordance with the priority declared in subsection (a). The enhanced Global Positioning System shall include the following elements:
 
@@ -141,7 +141,7 @@
 
 >         “(3) To the extent funded by the Secretary of Transportation, additional civil frequencies and other enhancements for civil users.
 
->     “(c) __Sense of Congress Regarding Funding.—__ 
+>     “(c)  __Sense of Congress Regarding Funding__  __.—__ 
 
 >     It is the sense of Congress that—
 
@@ -149,15 +149,15 @@
 
 >         “(2) the Secretary of Transportation should provide sufficient funding to support additional civil frequencies for the Global Positioning System and other enhancements of the system for civil users.
 
->     “(d) __Plan for Development of Enhanced Global Positioning System.—__ 
+>     “(d)  __Plan for Development of Enhanced Global Positioning System__  __.—__ 
 
 >     Not later than April 15, 1999, the Secretary of Defense shall submit to Congress a plan for carrying out the requirements of subsection (b).
 
->     “(e) __Delayed Effective Date for Limitation on Procurement of Systems Not GPS-Equipped.—__ 
+>     “(e)  __Delayed Effective Date for Limitation on Procurement of Systems Not GPS-Equipped__  __.—__ 
 
 >     \[Amended [section 152(b) of Pub. L. 103–160][/us/pl/103/160/s152/b], set out as a note below.\]
 
->     “(f) __Funding From Authorized Appropriations for Fiscal Year 1999.—__ 
+>     “(f)  __Funding From Authorized Appropriations for Fiscal Year__  __1999.—__ 
 
 >     Of the amounts authorized to be appropriated under section 201(3) \[[112 Stat. 1946][/us/stat/112/1946]\], $44,000,000 shall be available to establish and carry out an enhanced Global Positioning System program.”
 
@@ -165,7 +165,7 @@
 
 [Pub. L. 105–85, div. A, title X, § 1074(a)][/us/pl/105/85/s1074/a], (b), Nov. 18, 1997, [111 Stat. 1907][/us/stat/111/1907], provided that:
 
->     “(a) __Findings.—__ 
+>     “(a)  __Findings__  __.—__ 
 
 >     Congress makes the following findings:
 
@@ -195,7 +195,7 @@
 
 >             “(D) to encourage open access in all international markets to the Global Positioning System and supporting equipment, services, and techniques.
 
->     “(b) __International Cooperation.—__ 
+>     “(b)  __International Cooperation__  __.—__ 
 
 >     Congress urges the President to promote the security of the United States and its allies, the public safety, and commercial interests by taking the following steps:
 
@@ -211,11 +211,11 @@
 
 [Pub. L. 104–106, div. A, title II, § 279][/us/pl/104/106/s279], Feb. 10, 1996, [110 Stat. 243][/us/stat/110/243], provided that:
 
->     “(a) __Conditional Prohibition on Use of Selective Availability Feature.—__ 
+>     “(a)  __Conditional Prohibition on Use of Selective Availability Feature__  __.—__ 
 
 >     Except as provided in subsection (b), after May 1, 1996, the Secretary of Defense may not (through use of the feature known as ‘selective availability’) deny access of non-Department of Defense users to the full capabilities of the Global Positioning System.
 
->     “(b) __Plan.—__ 
+>     “(b)  __Plan__  __.—__ 
 
 >     Subsection (a) shall cease to apply upon submission by the Secretary of Defense to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives of a plan for enhancement of the Global Positioning System that provides for—
 

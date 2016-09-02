@@ -15,7 +15,7 @@
 
 ## § 1142. Preseparation counseling; transmittal of medical records to Department of Veterans Affairs
 
-    (a) __Requirement.—__ 
+    (a)  __Requirement__  __.—__ 
 
         (1) Within the time periods specified in paragraph (3), the Secretary concerned shall (except as provided in paragraph (4)) provide for individual preseparation counseling of each member of the armed forces whose discharge or release from active duty is anticipated as of a specific date. A notation of the provision of such counseling with respect to each matter specified in subsection (b), signed by the member, shall be placed in the service record of each member receiving such counseling.
 
@@ -33,7 +33,7 @@
 
             (B) Subparagraph (A) shall not apply in the case of a member who is being retired or separated for disability.
 
-    (b) __Matters To Be Covered By Counseling.—__ 
+    (b)  __Matters To Be Covered By Counseling__  __.—__ 
 
     Counseling under this section shall include the following:
 
@@ -79,7 +79,7 @@
 
         (17) A description, developed in consultation with the Secretary of Veterans Affairs, of health care and other benefits to which the member may be entitled under the laws administered by the Secretary of Veterans Affairs, and information regarding the means by which the member can receive additional counseling regarding the member’s actual entitlement to such benefits and apply for such benefits.
 
-    (c) __Transmittal of Medical Information to Department of Veterans Affairs.—__ 
+    (c)  __Transmittal of Medical Information to Department of Veterans Affairs__  __.—__ 
 
     In the case of a member being medically separated or being retired under chapter 61 of this title, the Secretary concerned shall ensure (subject to the consent of the member) that a copy of the member’s service medical record (including any results of a Physical Evaluation Board) is transmitted to the Secretary of Veterans Affairs within 60 days of the separation or retirement.
 

@@ -15,31 +15,31 @@
 
 ## § 1413a. Combat-related special compensation
 
-    (a) __Authority.—__ 
+    (a)  __Authority__  __.—__ 
 
     The Secretary concerned shall pay to each eligible combat-related disabled uniformed services retiree who elects benefits under this section a monthly amount for the combat-related disability of the retiree determined under subsection (b).
 
     (b) __Amount.—__ 
 
-        (1) __Determination of monthly amount.—__ 
+        (1)  __Determination of monthly amount__  __.—__ 
 
         Subject to paragraphs (2) and (3), the monthly amount to be paid an eligible combat-related disabled uniformed services retiree under subsection (a) for any month is the amount of compensation to which the retiree is entitled under title 38 for that month, determined without regard to any disability of the retiree that is not a combat-related disability.
 
-        (2) __Maximum amount.—__ 
+        (2)  __Maximum amount__  __.—__ 
 
         The amount paid to an eligible combat-related disabled uniformed services retiree for any month under paragraph (1) may not exceed the amount of the reduction in retired pay that is applicable to the retiree for that month under sections 5304 and 5305 of title 38.
 
-        (3) __Special rules for chapter 61 disability retirees.—__ 
+        (3)  __Special rules for chapter__  __61__  __disability retirees__  __.—__ 
 
-            (A) __General rule.—__ 
+            (A)  __General rule__  __.—__ 
 
             In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount of retired pay to which the member would have been entitled under any other provision of law based upon the member’s service in the uniformed services if the member had not been retired under chapter 61 of this title.
 
-            (B) __Special rule for retirees with fewer than 20 years of service.—__ 
+            (B)  __Special rule for retirees with fewer than 20 years of service__  __.—__ 
 
             In the case of an eligible combat-related disabled uniformed services retiree who is retired under chapter 61 of this title with fewer than 20 years of creditable service, the amount of the payment under paragraph (1) for any month may not, when combined with the amount of retired pay payable to the retiree after any such reduction under sections 5304 and 5305 of title 38, cause the total of such combined payment to exceed the amount equal to 2½ percent of the member’s years of creditable service multiplied by the member’s retired pay base under section 1406(b)(1) or 1407 of this title, whichever is applicable to the member.
 
-    (c) __Eligible Retirees.—__ 
+    (c)  __Eligible Retirees__  __.—__ 
 
     For purposes of this section, an eligible combat-related disabled uniformed services retiree referred to in subsection (a) is a member of the uniformed services who—
 
@@ -47,11 +47,11 @@
 
         (2) has a combat-related disability.
 
-    (d) __Procedures.—__ 
+    (d)  __Procedures__  __.—__ 
 
     The Secretary of Defense shall prescribe procedures and criteria under which a disabled uniformed services retiree may apply to the Secretary of a military department to be considered to be an eligible combat-related disabled uniformed services retiree. Such procedures shall apply uniformly throughout the Department of Defense.
 
-    (e) __Combat-Related Disability.—__ 
+    (e)  __Combat-Related Disability__  __.—__ 
 
     In this section, the term “combat-related disability” means a disability that is compensable under the laws administered by the Secretary of Veterans Affairs and that—
 
@@ -69,19 +69,19 @@
 
             (D) through an instrumentality of war.
 
-    (f) __Coordination With Concurrent Receipt Provision.—__ 
+    (f)  __Coordination With Concurrent Receipt Provision__  __.—__ 
 
     Subsection (d) of [section 1414 of this title][/us/usc/t10/s1414] provides for coordination between benefits under that section and under this section.
 
-    (g) __Status of Payments.—__ 
+    (g)  __Status of Payments__  __.—__ 
 
     Payments under this section are not retired pay.
 
-    (h) __Source of Payments.—__ 
+    (h)  __Source of Payments__  __.—__ 
 
     Payments under this section for a member of the Army, Navy, Air Force, or Marine Corps shall be paid from the Department of Defense Military Retirement Fund. Payments under this section for any other member for any fiscal year shall be paid out of funds appropriated for pay and allowances payable by the Secretary concerned for that fiscal year.
 
-    (i) __Other Definitions.—__ 
+    (i)  __Other Definitions__  __.—__ 
 
     In this section:
 

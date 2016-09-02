@@ -15,11 +15,11 @@
 
 ## § 1253. Age 64: regular commissioned officers in general and flag officer grades; exception
 
-    (a) __General Rule.—__ 
+    (a)  __General Rule__  __.—__ 
 
     Unless retired or separated earlier, each regular commissioned officer of the Army, Navy, Air Force, or Marine Corps serving in a general or flag officer grade shall be retired on the first day of the month following the month in which the officer becomes 64 years of age.
 
-    (b) __Exception for Officers Serving in O–9 and O–10 Positions.—__ 
+    (b)  __Exception for Officers Serving in O–__  __9__  __ and O–__  __10__  __ Positions__  __.—__ 
 
     In the case of an officer serving in a position that carries a grade above major general or rear admiral, the retirement under subsection (a) of that officer may be deferred—
 

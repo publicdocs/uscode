@@ -15,11 +15,11 @@
 
 ## § 409. Center for Complex Operations
 
-    (a) __Center Authorized.—__ 
+    (a)  __Center Authorized__  __.—__ 
 
     The Secretary of Defense may establish a center to be known as the “Center for Complex Operations” (in this section referred to as the “Center”).
 
-    (b) __Purposes.—__ 
+    (b)  __Purposes__  __.—__ 
 
     The purposes of the Center established under subsection (a) shall be the following:
 
@@ -41,11 +41,11 @@
 
         (4) To identify gaps in the education and training of Department of Defense personnel, and other relevant United States Government personnel, relating to complex operations, and to facilitate efforts to fill such gaps.
 
-    (c) __Concurrence of the Secretary of State.—__ 
+    (c)  __Concurrence of the Secretary of State__  __.—__ 
 
     The Secretary of Defense shall seek the concurrence of the Secretary of State to the extent the efforts and activities of the Center involve the entities referred to in subparagraphs (B) and (C) of subsection (b)(2).
 
-    (d) __Support From Other United States Government Departments or Agencies.—__ 
+    (d)  __Support From Other United States Government Departments or Agencies__  __.—__ 
 
     The head of any non-Department of Defense department or agency of the United States Government may—
 
@@ -53,7 +53,7 @@
 
         (2) transfer funds to the Secretary of Defense to support the operations of the Center.
 
-    (e) __Acceptance of Gifts and Donations.—__ 
+    (e)  __Acceptance of Gifts and Donations__  __.—__ 
 
         (1) Subject to paragraph (3), the Secretary of Defense may accept from any source specified in paragraph (2) any gift or donation for purposes of defraying the costs or enhancing the operations of the Center.
 
@@ -79,11 +79,11 @@
 
         (4) The Secretary shall provide written guidance setting forth the criteria to be used in determining the applicability of paragraph (3) to any proposed gift or donation under this subsection.
 
-    (f) __Crediting of Funds Transferred or Accepted.—__ 
+    (f)  __Crediting of Funds Transferred or Accepted__  __.—__ 
 
     Funds transferred to or accepted by the Secretary of Defense under this section shall be credited to appropriations available to the Department of Defense for the Center, and shall be available for the same purposes, and subject to the same conditions and limitations, as the appropriations with which merged. Any funds so transferred or accepted shall remain available until expended.
 
-    (g) __Definitions.—__ 
+    (g)  __Definitions__  __.—__ 
 
     In this section:
 

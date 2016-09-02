@@ -15,11 +15,11 @@
 
 ## § 2881. Ancillary supporting facilities
 
-    (a) __Authority To Acquire or Construct.—__ 
+    (a)  __Authority To Acquire or Construct__  __.—__ 
 
     Any project for the acquisition or construction of military family housing units or military unaccompanied housing units under this subchapter may include the acquisition or construction of ancillary supporting facilities for the housing units concerned.
 
-    (b) __Restriction.—__ 
+    (b)  __Restriction__  __.—__ 
 
     A project referred to in subsection (a) may not include the acquisition or construction of an ancillary supporting facility (other than a child development center) if, as determined by the Secretary concerned, the facility is to be used for providing merchandise or services in direct competition with—
 

@@ -15,13 +15,13 @@
 
 ## § 2911. Energy performance goals and master plan for the Department of Defense
 
-    (a) __Energy Performance Goals.—__ 
+    (a)  __Energy Performance Goals__  __.—__ 
 
         (1) The Secretary of Defense shall submit to the congressional defense committees the energy performance goals for the Department of Defense regarding transportation systems, support systems, utilities, and infrastructure and facilities.
 
         (2) The energy performance goals shall be submitted annually not later than the date on which the President submits to Congress the budget for the next fiscal year under [section 1105 of title 31][/us/usc/t31/s1105] and cover that fiscal year as well as the next five, l0, and 20 years. The Secretary shall identify changes to the energy performance goals since the previous submission.
 
-    (b) __Energy Performance Master Plan.—__ 
+    (b)  __Energy Performance Master Plan__  __.—__ 
 
         (1) The Secretary of Defense shall develop a comprehensive master plan for the achievement of the energy performance goals of the Department of Defense, as set forth in laws, executive orders, and Department of Defense policies.
 
@@ -43,7 +43,7 @@
 
         (3) Not later than 30 days after the date on which the budget of the President is submitted to Congress for a fiscal year under [section 1105(a) of title 31][/us/usc/t31/s1105/a], the Secretary shall submit the current version of the master plan to Congress.
 
-    (c) __Special Considerations.—__ 
+    (c)  __Special Considerations__  __.—__ 
 
     For the purpose of developing and implementing the energy performance goals and energy performance master plan, the Secretary of Defense shall consider at a minimum the following:
 
@@ -71,7 +71,7 @@
 
         (12) Opportunities for improving energy security for facility energy projects that will use renewable energy sources.
 
-    (d) __Selection of Energy Conservation Measures.—__ 
+    (d)  __Selection of Energy Conservation Measures__  __.—__ 
 
     For the purpose of implementing the energy performance master plan, the Secretary of Defense shall provide that the selection of energy conservation measures, including energy efficient maintenance, shall be limited to those measures that—
 
@@ -83,7 +83,7 @@
 
         (4) are supported by the special considerations specified in subsection (c).
 
-    (e) __Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs.—__ 
+    (e)  __Goal Regarding Use of Renewable Energy To Meet Facility Energy Needs__  __.—__ 
 
         (1)
 
@@ -153,9 +153,9 @@
 
 [Pub. L. 112–239, div. B, title XXVIII, § 2824][/us/pl/112/239/s2824], Jan. 2, 2013, [126 Stat. 2153][/us/stat/126/2153], provided that:
 
->     “(a) __Guidance on Use of Available Financing Approaches.—__ 
+>     “(a)  __Guidance on Use of Available Financing Approaches__  __.—__ 
 
->         “(1) __Issuance.—__ 
+>         “(1)  __Issuance__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the Secretary of Defense shall—
 
@@ -163,19 +163,19 @@
 
 >             “(B) direct the Secretaries of the military departments to update their military department-wide guidance accordingly.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The guidance issued pursuant to paragraph (1) should describe the requirements and restrictions applicable to the underlying authorities and any Department of Defense-specific guidelines for using appropriated funds and alternative-financing approaches for renewable energy projects to maximize cost savings and energy efficiency for the Department of Defense.
 
->     “(b) __Guidance on Use of Business Case Analyses.—__ 
+>     “(b)  __Guidance on Use of Business Case Analyses__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall issue guidance that establishes and clearly describes the processes used by the military departments to select financing approaches for renewable energy projects to ensure that business case analyses are completed to maximize cost savings and energy efficiency and mitigate drawbacks and risks associated with different financing approaches.
 
->     “(c) __Information Sharing.—__ 
+>     “(c)  __Information Sharing__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall develop a formalized communications process, such as a shared Internet website, that will enable officials at military installations to have timely access on an ongoing basis to information related to financing renewable energy projects on other installations, including best practices and lessons that officials at other installations have learned from their experiences in financing renewable energy projects.
 
->     “(d) __Consultation.—__ 
+>     “(d)  __Consultation__  __.—__ 
 
 >     The Secretary of Defense shall issue the guidance under subsections (a) and (b) and develop the communications process under subsection (c) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics and the Deputy Under Secretary of Defense for Installations and Environment. The Secretary of Defense shall also issue the guidance under subsection (b) in consultation with the Secretaries of the military departments.”
 
@@ -183,11 +183,11 @@
 
 [Pub. L. 112–81, div. A, title III, § 315][/us/pl/112/81/s315], Dec. 31, 2011, [125 Stat. 1357][/us/stat/125/1357], provided that:
 
->     “(a) __Energy Performance Master Plan.—__ 
+>     “(a)  __Energy Performance Master Plan__  __.—__ 
 
 >     The energy performance master plan for the Department of Defense developed under [section 2911 of title 10][/us/usc/t10/s2911], United States Code, shall specifically address the application of energy-efficient or energy reduction technologies or processes meeting the requirements of subsection (b) in logistics support contracts for contingency operations. In accordance with the requirements of such section, the plan shall include goals, metrics, and incentives for achieving energy efficiency in such contracts.
 
->     “(b) __Requirements for Energy Technologies and Processes.—__ 
+>     “(b)  __Requirements for Energy Technologies and Processes__  __.—__ 
 
 >     Energy-efficient and energy reduction technologies or processes described in subsection (a) are technologies or processes that meet the following criteria:
 
@@ -201,11 +201,11 @@
 
  Regulations and Guidance.—The Under Secretary of Defense for Acquisition, Technology, and Logistics shall issue such regulations and guidance as may be needed to implement the requirements of this section and ensure that goals established pursuant to subsection (a) are met. Such regulations or guidance shall consider the lifecycle cost savings associated with the energy technology or process being offered by a vendor for defense logistics support and oblige the offeror to demonstrate the savings achieved over traditional technologies.
 
->     “(e) __Report.—__ 
+>     “(e)  __Report__  __.—__ 
 
 >     The annual report required by [section 2925(b) of title 10][/us/usc/t10/s2925/b], United States Code, shall include information on the progress in the implementation of this section, including savings achieved by the Department resulting from such implementation.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -217,7 +217,7 @@
 
 [Pub. L. 112–81, div. B, title XXVIII, § 2822(a)][/us/pl/112/81/s2822/a], Dec. 31, 2011, [125 Stat. 1691][/us/stat/125/1691], provided that:
 
->     “(1) __Policy required.—__ 
+>     “(1)  __Policy required__  __.—__ 
 
 >     Not later than 180 days after the date of enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall establish a policy for military installations that includes the following:
 
@@ -225,11 +225,11 @@
 
 >         “(B) Guidance for commanders of military installations inside the United States on planning measures to minimize the effects of a disruption of services by a utility that sells natural gas, water, or electric energy to those installations in the event that a disruption occurs.
 
->     “(2) __Notification.—__ 
+>     “(2)  __Notification__  __.—__ 
 
 >     The Secretary of Defense shall provide notification to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] within 30 days after entering into any agreement for a facility energy project described in paragraph (1)(A) that excludes pursuit of energy security on the grounds that inclusion of energy security is cost prohibitive. The Secretary shall also provide a cost-benefit-analysis of the decision.
 
->     “(3) __Energy security defined.—__ 
+>     “(3)  __Energy security defined__  __.—__ 
 
 >     In this subsection, the term ‘energy security’ has the meaning given that term in paragraph (3) of [section 2924 of title 10][/us/usc/t10/s2924], United States Code, as added by section 2821(a).”
 
@@ -249,7 +249,7 @@
 
 [Pub. L. 112–81, div. B, title XXVIII, § 2829][/us/pl/112/81/s2829], Dec. 31, 2011, [125 Stat. 1694][/us/stat/125/1694], provided that:
 
->     “(a) __Establishment of Training Policy.—__ 
+>     “(a)  __Establishment of Training Policy__  __.—__ 
 
 >     The Secretary of Defense shall establish a training policy for Department of Defense energy managers designated for military installations in order to—
 
@@ -261,11 +261,11 @@
 
 >         “(4) collaborate with the Department of Energy regarding energy manager training.
 
->     “(b) __Issuance of Policy.—__ 
+>     “(b)  __Issuance of Policy__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretary of Defense shall issue the training policy for Department of Defense energy managers. In creating the policy, the Secretary shall consider the best practices and certifications available in either the military services or in the private sector.
 
->     “(c) __Briefing Requirement.—__ 
+>     “(c)  __Briefing Requirement__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense, or designated representatives of the Secretary, shall brief the Committees on Armed Services of the Senate and House of Representatives regarding the details of the energy manager policy.”
 
@@ -273,11 +273,11 @@
 
 [Pub. L. 111–383, div. A, title II, § 242][/us/pl/111/383/s242], Jan. 7, 2011, [124 Stat. 4176][/us/stat/124/4176], provided that:
 
->     “(a) __Pilot Program.—__ 
+>     “(a)  __Pilot Program__  __.—__ 
 
 >     The Secretary of Defense, in coordination with the Secretary of Energy, may carry out a collaborative energy security pilot program involving one or more partnerships between one military installation and one national laboratory, for the purpose of evaluating and validating secure, salable microgrid components and systems for deployment.
 
->     “(b) __Selection of Military Installation and National Laboratory.—__ 
+>     “(b)  __Selection of Military Installation and National Laboratory__  __.—__ 
 
 >     If the Secretary of Defense carries out a pilot program under this section, the Secretary of Defense and the Secretary of Energy shall jointly select a military installation and a national laboratory for the purpose of carrying out the pilot program. In making such selections, the Secretaries shall consider each of the following:
 
@@ -291,7 +291,7 @@
 
 >         “(5) The effects of any utility tariffs, surcharges, or other considerations on the feasibility of enabling any excess electricity generated on a military installation being considered for selection to be sold or otherwise made available to the local community near the installation.
 
->     “(c) __Program Elements.—__ 
+>     “(c)  __Program Elements__  __.—__ 
 
 >     A pilot program under this section shall be carried out as follows:
 
@@ -305,21 +305,21 @@
 
 >         “(5) The pilot program shall support the effort of the Secretary of Defense to use the military as a test bed to demonstrate innovative energy technologies.
 
->     “(d) __Implementation and Duration.—__ 
+>     “(d)  __Implementation and Duration__  __.—__ 
 
 >     If the Secretary of Defense carries out a pilot program under this section, such pilot program shall begin by not later than July 1, 2011, and shall be not less than three years in duration.
 
 >     “(e) __Reports.—__ 
 
->         “(1) __Initial report.—__ 
+>         “(1)  __Initial report__  __.—__ 
 
 >         If the Secretary of Defense carries out a pilot program under this section, the Secretary shall submit to the appropriate congressional committees by not later than October 1, 2011, an initial report that provides an update on the implementation of the pilot program, including an identification of the selected military installation and national laboratory partner and a description of technologies under evaluation.
 
->         “(2) __Final report.—__ 
+>         “(2)  __Final report__  __.—__ 
 
 >         Not later than 90 days after completion of a pilot program under this section, the Secretary shall submit to the appropriate congressional committees a report on the pilot program, including any findings and recommendations of the Secretary.
 
->     “(f) __Definitions.—__ 
+>     “(f)  __Definitions__  __.—__ 
 
 >     For purposes of this section:
 
@@ -347,11 +347,11 @@
 
 >     “(a) __Plan for Energy Security Required.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Secretary of Defense shall develop a plan for identifying and addressing areas in which the electricity needed to carry out critical military missions on Department of Defense installations is vulnerable to disruption.
 
->         “(2) __Elements.—__ 
+>         “(2)  __Elements__  __.—__ 
 
 >         The plan developed under paragraph (1) shall include, at a minimum, the following:
 
@@ -363,7 +363,7 @@
 
 >             “(D) An estimate of and consideration for the costs to the Department associated with implementation of the strategy.
 
->     “(b) __Work With Non-Department of Defense Entities.—__ 
+>     “(b)  __Work With Non-Department of Defense Entities__  __.—__ 
 
 >     The Secretary of Defense shall work with other Federal entities, and with State and local government entities, to develop any regulations or other mechanisms needed to require or encourage actions to address areas of vulnerability identified pursuant to the plan developed under subsection (a) that are beyond the control of the Department of Defense.”
 
@@ -371,27 +371,27 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 332, Oct. 14, 2008, [122 Stat. 4420][/us/stat/122/4420], as amended by [Pub. L. 111–383, div. A, title X, § 1075(e)(5)][/us/pl/111/383/s1075/e/5], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
 
->     “(a) __Planning.—__ 
+>     “(a)  __Planning__  __.—__ 
 
 >     In the case of analyses and force planning processes that are used to establish capability requirements and inform acquisition decisions, the Secretary of Defense shall require that analyses and force planning processes consider the requirements for, and vulnerability of, fuel logistics.
 
->     “(b) __Capability Requirements Development Process.—__ 
+>     “(b)  __Capability Requirements Development Process__  __.—__ 
 
 >     The Secretary of Defense shall develop and implement a methodology to enable the implementation of a fuel efficiency key performance parameter in the requirements development process for the modification of existing or development of new fuel consuming systems.
 
->     “(c) __Acquisition Process.—__ 
+>     “(c)  __Acquisition Process__  __.—__ 
 
 >     The Secretary of Defense shall require that the life-cycle cost analysis for new capabilities include the fully burdened cost of fuel during analysis of alternatives and evaluation of alternatives and acquisition program design trades.
 
->     “(d) __Implementation Plan.—__ 
+>     “(d)  __Implementation Plan__  __.—__ 
 
 >     The Secretary of Defense shall prepare a plan for implementing the requirements of this section. The plan shall be completed not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\] and provide for the implementation of the requirements by not later than three years after the date of the enactment of this Act.
 
->     “(e) __Progress Report.—__ 
+>     “(e)  __Progress Report__  __.—__ 
 
 >     Not later than two years after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing progress made to implement the requirements of this section, including an assessment of whether the implementation plan required by subsection (d) is being carried out on schedule.
 
->     “(f) __Notification of Compliance.—__ 
+>     “(f)  __Notification of Compliance__  __.—__ 
 
 >     As soon as practicable during the three-year period beginning on the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of Defense shall notify the congressional defense committees that the Secretary has complied with the requirements of this section. If the Secretary is unable to provide the notification, the Secretary shall submit to the congressional defense committees at the end of the three-year period a report containing—
 
@@ -399,7 +399,7 @@
 
 >         “(2) a revised plan under subsection (d) to complete implementation or a rationale regarding why portions of the requirements cannot or should not be implemented.
 
->     “(g) __Fully Burdened Cost of Fuel Defined.—__ 
+>     “(g)  __Fully Burdened Cost of Fuel Defined__  __.—__ 
 
 >     In this section, the term ‘fully burdened cost of fuel’ means the commodity price for fuel plus the total cost of all personnel and assets required to move and, when necessary, protect the fuel from the point at which the fuel is received from the commercial supplier to the point of use.”
 
@@ -407,17 +407,17 @@
 
 [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title III, § 335, Oct. 14, 2008, [122 Stat. 4422][/us/stat/122/4422], provided that:
 
->     “(a) __Risk Assessment.—__ 
+>     “(a)  __Risk Assessment__  __.—__ 
 
 >     The Secretary of Defense shall conduct a comprehensive technical and operational risk assessment of the risks posed to mission critical installations, facilities, and activities of the Department of Defense by extended power outages resulting from failure of the commercial electricity supply or grid and related infrastructure.
 
 >     “(b) __Risk Mitigation Plans.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall develop integrated prioritized plans to eliminate, reduce, or mitigate significant risks identified in the risk assessment under subsection (a).
 
->         “(2) __Additional considerations.—__ 
+>         “(2)  __Additional considerations__  __.—__ 
 
 >         In developing the risk mitigation plans under paragraph (1), the Secretary of Defense shall—
 
@@ -427,11 +427,11 @@
 
 >     “(c) __Annual Report.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Secretary of Defense shall submit a report on the efforts of the Department of Defense to mitigate the risks described in subsection (a) as part of the budget justification materials submitted to Congress in support of the Department of Defense budget for fiscal year 2010 and each fiscal year thereafter (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code).
 
->         “(2) __Content.—__ 
+>         “(2)  __Content__  __.—__ 
 
 >         Each report submitted under paragraph (1) shall describe the integrated prioritized plans developed under subsection (b) and the progress made toward achieving the goals established under such subsection.”
 
@@ -439,15 +439,15 @@
 
 [Pub. L. 110–181, div. B, title XXVIII, § 2863][/us/pl/110/181/s2863], Jan. 28, 2008, [122 Stat. 560][/us/stat/122/560], provided that:
 
->     “(a) __Construction and Alteration of Buildings.—__ 
+>     “(a)  __Construction and Alteration of Buildings__  __.—__ 
 
 >     Each building constructed or significantly altered by the Secretary of Defense or the Secretary of a military department shall be equipped, to the maximum extent feasible as determined by the Secretary concerned, with lighting fixtures and bulbs that are energy efficient.
 
->     “(b) __Maintenance of Buildings.—__ 
+>     “(b)  __Maintenance of Buildings__  __.—__ 
 
 >     Each lighting fixture or bulb that is replaced in the normal course of maintenance of buildings under the jurisdiction of the Secretary of Defense or the Secretary of a military department shall be replaced, to the maximum extent feasible as determined by the Secretary concerned, with a lighting fixture or bulb that is energy efficient.
 
->     “(c) __Considerations.—__ 
+>     “(c)  __Considerations__  __.—__ 
 
 >     In making a determination under this section concerning the feasibility of installing a lighting fixture or bulb that is energy efficient, the Secretary of Defense or the Secretary of a military department shall consider—
 
@@ -461,7 +461,7 @@
 
 >         “(5) such other factors as the Secretary concerned determines appropriate.
 
->     “(d) __Energy Star.—__ 
+>     “(d)  __Energy Star__  __.—__ 
 
 >     A lighting fixture or bulb shall be treated as being energy efficient for purposes of this section if—
 
@@ -469,15 +469,15 @@
 
 >         “(2) the Secretary of Defense or the Secretary of a military department has otherwise determined that the fixture or bulb is energy efficient.
 
->     “(e) __Significant Alterations.—__ 
+>     “(e)  __Significant Alterations__  __.—__ 
 
 >     A building shall be treated as being significantly altered for purposes of subsection (a) if the alteration is subject to congressional authorization under [section 2802 of title 10][/us/usc/t10/s2802], United States Code.
 
->     “(f) __Waiver Authority.—__ 
+>     “(f)  __Waiver Authority__  __.—__ 
 
 >     The Secretary of Defense may waive the requirements of this section if the Secretary determines that such a waiver is necessary to protect the national security interests of the United States.
 
->     “(g) __Effective Date.—__ 
+>     “(g)  __Effective Date__  __.—__ 
 
 >     The requirements of subsections (a) and (b) shall take effect one year after the date of the enactment of this Act \[Jan. 28, 2008\].”
 
@@ -485,7 +485,7 @@
 
 [Pub. L. 110–181, div. B, title XXVIII, § 2864][/us/pl/110/181/s2864], Jan. 28, 2008, [122 Stat. 561][/us/stat/122/561], provided that:
 
->     “(a) __Initial Report.—__ 
+>     “(a)  __Initial Report__  __.—__ 
 
 >     Not later than 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Under Secretary of Defense for Acquisition, Technology, and Logistics shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report containing the following information:
 
@@ -497,11 +497,11 @@
 
 >         “(4) A graphical illustration of energy use from renewable energy sources by the Department as a percentage of total facility electricity use over time, starting no later than fiscal year 2000 and running through fiscal year 2025, including projected future trends in renewable energy consumption through fiscal year 2025 in order to meet the goals for renewable energy set forth in [section 2911(e) of title 10][/us/usc/t10/s2911/e], United States Code, or other goals, as appropriate.
 
->     “(b) __Subsequent Reports.—__ 
+>     “(b)  __Subsequent Reports__  __.—__ 
 
 >     For fiscal year 2008 and each fiscal year thereafter, the information required by paragraphs (1) through (4) of subsection (a) shall be included in the Annual Energy Management Report prepared by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
->     “(c) __Renewable Energy Sources Defined.—__ 
+>     “(c)  __Renewable Energy Sources Defined__  __.—__ 
 
 >     In this section, the term ‘renewable energy sources’ has the meaning given that term in section 203(b) of the Energy Policy Act of 2005 ([42 U.S.C. 15852(b)][/us/usc/t42/s15852/b]).”
 
@@ -531,15 +531,15 @@
 
 [Pub. L. 107–107, div. A, title III, § 317][/us/pl/107/107/s317], Dec. 28, 2001, [115 Stat. 1054][/us/stat/115/1054], provided that:
 
->     “(a) __Sense of Congress.—__ 
+>     “(a)  __Sense of Congress__  __.—__ 
 
 >     It is the sense of Congress that the Secretary of Defense should work to implement fuel efficiency reforms that allow for investment decisions based on the true cost of delivered fuel, strengthen the linkage between warfighting capability and fuel logistics requirements, provide high-level leadership encouraging fuel efficiency, target fuel efficiency improvements through science and technology investment, and include fuel efficiency in requirements and acquisition processes.
 
->     “(b) __Energy Efficiency Program.—__ 
+>     “(b)  __Energy Efficiency Program__  __.—__ 
 
 >     The Secretary shall carry out a program to significantly improve the energy efficiency of facilities of the Department of Defense through 2010. The Secretary shall designate a senior official of the Department of Defense to be responsible for managing the program for the Department and a senior official of each military department to be responsible for managing the program for such department.
 
->     “(c) __Energy Efficiency Goals.—__ 
+>     “(c)  __Energy Efficiency Goals__  __.—__ 
 
 >     The goal of the energy efficiency program shall be to achieve reductions in energy consumption by facilities of the Department of Defense as follows:
 
@@ -559,7 +559,7 @@
 
 >             “(B) by 35 percent by 2010.
 
->     “(d) __Strategies for Improving Energy Efficiency.—__ 
+>     “(d)  __Strategies for Improving Energy Efficiency__  __.—__ 
 
 >     In order to achieve the goals set forth in subsection (c), the Secretary shall, to the maximum extent practicable—
 
@@ -575,7 +575,7 @@
 
 >         “(6) retire inefficient equipment on an accelerated basis where replacement results in lower life-cycle costs.
 
->     “(e) __Reporting Requirements.—__ 
+>     “(e)  __Reporting Requirements__  __.—__ 
 
 >     Not later than January 1, 2002, and each January 1 thereafter through 2010, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the report required to be prepared by the Secretary pursuant to section 303 of Executive Order 13123 (64 Fed. Reg. 30851; \[former\] [42 U.S.C. 8251][/us/usc/t42/s8251] note) regarding the progress made toward achieving the energy efficiency goals of the Department of Defense.”
 

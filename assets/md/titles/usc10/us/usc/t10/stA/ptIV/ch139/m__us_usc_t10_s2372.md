@@ -15,15 +15,15 @@
 
 ## § 2372. Independent research and development and bid and proposal costs: payments to contractors
 
-    (a) __Regulations.—__ 
+    (a)  __Regulations__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations governing the payment, by the Department of Defense, of expenses incurred by contractors for independent research and development and bid and proposal costs.
 
-    (b) __Costs Allowable as Indirect Expenses.—__ 
+    (b)  __Costs Allowable as Indirect Expenses__  __.—__ 
 
     The regulations prescribed pursuant to subsection (a) shall provide that independent research and development and bid and proposal costs shall be allowable as indirect expenses on covered contracts to the extent that those costs are allocable, reasonable, and not otherwise unallowable by law or under the Federal Acquisition Regulation.
 
-    (c) __Additional Controls.—__ 
+    (c)  __Additional Controls__  __.—__ 
 
     Subject to subsection (f), the regulations prescribed pursuant to subsection (a) may include the following provisions:
 
@@ -39,7 +39,7 @@
 
             (B) from contractors to the Department of Defense, in a reasonable manner, of information regarding progress by the contractor on the contractor’s independent research and development programs.
 
-    (d) __Adjusted Maximum Reimbursement Amount.—__ 
+    (d)  __Adjusted Maximum Reimbursement Amount__  __.—__ 
 
     For purposes of subsection (c)(2), the adjusted maximum reimbursement amount for a major contractor for a fiscal year is the sum of—
 
@@ -55,7 +55,7 @@
 
             (B) the estimated percentage rate of inflation from the end of the preceding fiscal year to the end of the fiscal year for which the amount of the limitation is being computed.
 
-    (e) __Waiver of Adjusted Maximum Reimbursement Amount.—__ 
+    (e)  __Waiver of Adjusted Maximum Reimbursement Amount__  __.—__ 
 
     The Secretary of Defense may waive the applicability of any limitation prescribed under subsection (c)(2) to any contractor for a fiscal year to the extent that the Secretary determines that allowing the contractor to exceed the contractor’s adjusted maximum reimbursement amount for such year—
 
@@ -63,11 +63,11 @@
 
         (2) is otherwise in the best interest of the Government.
 
-    (f) __Limitations on Regulations.—__ 
+    (f)  __Limitations on Regulations__  __.—__ 
 
     Regulations prescribed pursuant to subsection (c) may not include provisions that would infringe on the independence of a contractor to choose which technologies to pursue in its independent research and development program.
 
-    (g) __Encouragement of Certain Contractor Activities.—__ 
+    (g)  __Encouragement of Certain Contractor Activities__  __.—__ 
 
     The regulations under subsection (a) shall encourage contractors to engage in research and development activities of potential interest to the Department of Defense, including activities intended to accomplish any of the following:
 
@@ -85,19 +85,19 @@
 
         (7) Providing efficient and effective technologies for achieving such environmental benefits as improved environmental data gathering, environmental cleanup and restoration, pollution reduction in manufacturing, environmental conservation, and environmentally safe management of facilities.
 
-    (h) __Major Contractors.—__ 
+    (h)  __Major Contractors__  __.—__ 
 
     A contractor shall be considered to be a major contractor for the purposes of subsection (c) for any fiscal year if for the preceding fiscal year the contractor’s covered segments allocated to Department of Defense contracts a total of more than $10,000,000 in independent research and development and bid and proposal costs.
 
-    (i) __Definitions.—__ 
+    (i)  __Definitions__  __.—__ 
 
     In this section:
 
-        (1) __Covered contract.—__ 
+        (1)  __Covered contract__  __.—__ 
 
         The term “covered contract” has the meaning given that term in section 2324(l) of this title.
 
-        (2) __Covered segment.—__ 
+        (2)  __Covered segment__  __.—__ 
 
         The term “covered segment”, with respect to a contractor, means a product division of the contractor that allocated more than $1,000,000 in independent research and development and bid and proposal costs to Department of Defense contracts during the preceding fiscal year. In the case of a contractor that has no product divisions, such term means the contractor as a whole.
 

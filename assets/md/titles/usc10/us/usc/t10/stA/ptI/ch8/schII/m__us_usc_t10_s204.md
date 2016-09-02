@@ -15,11 +15,11 @@
 
 ## § 204. Small Business Ombudsman for defense audit agencies
 
-    (a) __Small Business Ombudsman.—__ 
+    (a)  __Small Business Ombudsman__  __.—__ 
 
     The Secretary of Defense shall designate within each defense audit agency an official as the Small Business Ombudsman to have the duties described in subsection (b) and such other responsibilities as may be determined by the Secretary.
 
-    (b) __Duties.—__ 
+    (b)  __Duties__  __.—__ 
 
     The Small Business Ombudsman of a defense audit agency shall—
 
@@ -37,11 +37,11 @@
 
         (4) make recommendations to the Director regarding policies, processes, and procedures related to the timeliness of audits of small business concerns and the responsiveness of the defense audit agency to issues or other matters raised by small business concerns.
 
-    (c) __Audit Independence.—__ 
+    (c)  __Audit Independence__  __.—__ 
 
     The Small Business Ombudsman of a defense audit agency shall be segregated from ongoing audits in the field and shall not engage in activities with regard to particular audits that could compromise the independence of the defense audit agency or undermine compliance with applicable audit standards.
 
-    (d) __Defense Audit Agency Defined.—__ 
+    (d)  __Defense Audit Agency Defined__  __.—__ 
 
     In this section, the term “defense audit agency” means the Defense Contract Audit Agency and the Defense Contract Management Agency.
 

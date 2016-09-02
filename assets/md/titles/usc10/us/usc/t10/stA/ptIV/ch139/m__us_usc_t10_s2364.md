@@ -15,7 +15,7 @@
 
 ## § 2364. Coordination and communication of defense research activities
 
-    (a) __Coordination of Department of Defense Technological Data.—__ 
+    (a)  __Coordination of Department of Defense Technological Data__  __.—__ 
 
     The Secretary of Defense shall promote, monitor, and evaluate programs for the communication and exchange of technological data—
 
@@ -23,7 +23,7 @@
 
         (2) among Defense research facilities and other offices, agencies, and bureaus in the Department that are engaged in related technological matters.
 
-    (b) __Functions of Defense Research Facilities.—__ 
+    (b)  __Functions of Defense Research Facilities__  __.—__ 
 
     The Secretary of Defense shall ensure, to the maximum extent practicable—
 
@@ -37,7 +37,7 @@
 
         (5) that, in order to promote increased consideration of technological issues early in the development process, any position paper prepared by a Defense research facility on a technological issue relating to a major weapon system, and any technological assessment made by such facility in the case of such component, is made a part of the records considered for the purpose of making acquisition program decisions.
 
-    (c) __Definitions.—__ 
+    (c)  __Definitions__  __.—__ 
 
     In this section:
 
@@ -107,11 +107,11 @@
 
 [Pub. L. 99–661, div. A, title II, § 234(a)][/us/pl/99/661/s234/a], (b), Nov. 14, 1986, [100 Stat. 3848][/us/stat/100/3848], provided that:
 
->     “(a) __Purpose.—__ 
+>     “(a)  __Purpose__  __.—__ 
 
 >     The purpose of this section is to strengthen coordination among Department of Defense research facilities and other organizations in the Department of Defense.
 
->     “(b) __Findings.—__ 
+>     “(b)  __Findings__  __.—__ 
 
 >     The Congress finds that centralized coordination of the collection and dissemination of technological data among research facilities and other organizations within the Department of Defense is necessary—
 

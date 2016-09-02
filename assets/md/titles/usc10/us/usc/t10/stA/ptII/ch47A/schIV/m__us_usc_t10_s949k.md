@@ -15,15 +15,15 @@
 
 ## § 949k. Defense of lack of mental responsibility
 
-    (a) __Affirmative Defense.—__ 
+    (a)  __Affirmative Defense__  __.—__ 
 
     It is an affirmative defense in a trial by military commission under this chapter that, at the time of the commission of the acts constituting the offense, the accused, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of the acts. Mental disease or defect does not otherwise constitute a defense.
 
-    (b) __Burden of Proof.—__ 
+    (b)  __Burden of Proof__  __.—__ 
 
     The accused in a military commission under this chapter has the burden of proving the defense of lack of mental responsibility by clear and convincing evidence.
 
-    (c) __Findings Following Assertion of Defense.—__ 
+    (c)  __Findings Following Assertion of Defense__  __.—__ 
 
     Whenever lack of mental responsibility of the accused with respect to an offense is properly at issue in a military commission under this chapter, the military judge shall instruct the members as to the defense of lack of mental responsibility under this section and shall charge the members to find the accused—
 
@@ -33,7 +33,7 @@
 
         (3) subject to subsection (d), not guilty by reason of lack of mental responsibility.
 
-    (d) __Majority Vote Required for Finding.—__ 
+    (d)  __Majority Vote Required for Finding__  __.—__ 
 
     The accused shall be found not guilty by reason of lack of mental responsibility under subsection (c)(3) only if a majority of the members present at the time the vote is taken determines that the defense of lack of mental responsibility has been established.
 

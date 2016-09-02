@@ -15,7 +15,7 @@
 
 ## § 2433a. Critical cost growth in major defense acquisition programs
 
-    (a) __Reassessment of Program.—__ 
+    (a)  __Reassessment of Program__  __.—__ 
 
     If the program acquisition unit cost or procurement unit cost of a major defense acquisition program or designated subprogram (as determined by the Secretary under [section 2433(d) of this title][/us/usc/t10/s2433/d]) increases by a percentage equal to or greater than the critical cost growth threshold for the program or subprogram, the Secretary of Defense, after consultation with the Joint Requirements Oversight Council regarding program requirements, shall—
 
@@ -33,7 +33,7 @@
 
             (D) the need to reduce funding for other programs due to the growth in cost of the program.
 
-    (b) __Presumption of Termination.—__ 
+    (b)  __Presumption of Termination__  __.—__ 
 
         (1) After conducting the reassessment required by subsection (a) with respect to a major defense acquisition program, the Secretary shall terminate the program unless the Secretary submits to Congress, before the end of the 60-day period beginning on the day the Selected Acquisition Report containing the information described in [section 2433(g) of this title][/us/usc/t10/s2433/g] is required to be submitted under [section 2432(f) of this title][/us/usc/t10/s2432/f], a written certification in accordance with paragraph (2).
 
@@ -53,7 +53,7 @@
 
         (3) A written certification under paragraph (2) shall be accompanied by a report presenting the root cause analysis and assessment carried out pursuant to subsection (a) and the basis for each determination made in accordance with subparagraphs (A) through (E) of paragraph (2), together with supporting documentation.
 
-    (c) __Actions if Program Not Terminated.—__ 
+    (c)  __Actions if Program Not Terminated__  __.—__ 
 
         (1)
 
@@ -115,7 +115,7 @@
 
                     (II) 10 percent over the procurement unit cost for the program or subprogram as shown in the original Baseline Estimate for the program or subprogram.
 
-    (d) __Actions if Program Terminated.—__ 
+    (d)  __Actions if Program Terminated__  __.—__ 
 
     If a major defense acquisition program is terminated pursuant to subsection (b), the Secretary shall submit to Congress a written report setting forth—
 

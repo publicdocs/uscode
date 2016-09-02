@@ -15,11 +15,11 @@
 
 ## § 2165. National Defense University: component institutions
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     There is a National Defense University in the Department of Defense.
 
-    (b) __Component Institutions.—__ 
+    (b)  __Component Institutions__  __.—__ 
 
     The National Defense University consists of the following institutions:
 
@@ -37,11 +37,11 @@
 
     \[(c) Repealed. [Pub. L. 109–364, div. A, title IX, § 904(b)(2)(B)][/us/pl/109/364/s904/b/2/B], Oct. 17, 2006, [120 Stat. 2353][/us/stat/120/2353].\]
 
-    (d) __Source of Funds for Professional Development Education Operations.—__ 
+    (d)  __Source of Funds for Professional Development Education Operations__  __.—__ 
 
     Funding for the professional development education operations of the National Defense University shall be provided from funds made available to the Secretary of Defense from the annual appropriation “Operation and Maintenance, Defense-wide”.
 
-    (e) __Acceptance of Faculty Research Grants.—__ 
+    (e)  __Acceptance of Faculty Research Grants__  __.—__ 
 
         (1) The Secretary of Defense may authorize the President of the National Defense University to accept qualifying research grants. Any such grant may only be accepted if the work under the grant is to be carried out by a professor or instructor of one of the institutions comprising the University for a scientific, literary, or educational purpose.
 
@@ -81,25 +81,25 @@
 
 [Pub. L. 112–81, div. B, title XXVIII, § 2861][/us/pl/112/81/s2861], Dec. 31, 2011, [125 Stat. 1701][/us/stat/125/1701], provided that:
 
->     “(a) __Redesignation.—__ 
+>     “(a)  __Redesignation__  __.—__ 
 
 >     The Industrial College of the Armed Forces is hereby renamed the ‘Dwight D. Eisenhower School for National Security and Resource Strategy’.
 
->     “(b) __Conforming Amendment.—__ 
+>     “(b)  __Conforming Amendment__  __.—__ 
 
 >     \[Amended [section 2165(b)(2) of this title][/us/usc/t10/s2165/b/2].\]
 
->     “(c) __References.—__ 
+>     “(c)  __References__  __.—__ 
 
 >     Any reference to the Industrial College of the Armed Forces in any law, regulation, map, document, record, or other paper of the United States shall be deemed to be a reference to the Dwight D. Eisenhower School for National Security and Resource Strategy.”
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 913(a), (c)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–230, provided that:
 
->     “(a) __Change in Name.—__ 
+>     “(a)  __Change in Name__  __.—__ 
 
 >     The Armed Forces Staff College of the Department of Defense is hereby renamed the ‘Joint Forces Staff College’.
 
->     “(c) __References.—__ 
+>     “(c)  __References__  __.—__ 
 
 >     Any reference to the Armed Forces Staff College in any law, regulation, map, document, record, or other paper of the United States shall be considered to be a reference to the Joint Forces Staff College.”
 
@@ -113,23 +113,23 @@
 
 [Pub. L. 106–65, div. A, title IX, § 914][/us/pl/106/65/s914], Oct. 5, 1999, [113 Stat. 721][/us/stat/113/721], provided that:
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     The Secretary of Defense shall establish a Center for the Study of Chinese Military Affairs as part of the National Defense University. The Center shall be organized under the Institute for National Strategic Studies of the University.
 
->     “(b) __Qualifications of Director.—__ 
+>     “(b)  __Qualifications of Director__  __.—__ 
 
 >     The Director of the Center shall be an individual who is a distinguished scholar of proven academic, management, and leadership credentials with a superior record of achievement and publication regarding Chinese political, strategic, and military affairs.
 
->     “(c) __Mission.—__ 
+>     “(c)  __Mission__  __.—__ 
 
 >     The mission of the Center is to study and inform policymakers in the Department of Defense, Congress, and throughout the Government regarding the national goals and strategic posture of the People’s Republic of China and the ability of that nation to develop, field, and deploy an effective military instrument in support of its national strategic objectives. The Center shall accomplish that mission by a variety of means intended to widely disseminate the research findings of the Center.
 
->     “(d) __Startup of Center.—__ 
+>     “(d)  __Startup of Center__  __.—__ 
 
 >     The Secretary of Defense shall establish the Center for the Study of Chinese Military Affairs not later than March 1, 2000. The first Director of the Center shall be appointed not later than June 1, 2000. The Center should be fully operational not later than June 1, 2001.
 
->     “(e) __Implementation Report.—__ 
+>     “(e)  __Implementation Report__  __.—__ 
 
 >         (1) Not later than January 1, 2001, the President of the National Defense University shall submit to the Secretary of Defense a report setting forth the President’s organizational plan for the Center for the Study of Chinese Military Affairs, the proposed budget for the Center, and the timetable for initial and full operations of the Center. The President of the National Defense University shall prepare that report in consultation with the Director of the Center and the Director of the Institute for National Strategic Studies of the University.
 

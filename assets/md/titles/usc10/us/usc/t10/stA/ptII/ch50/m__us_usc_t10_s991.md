@@ -15,7 +15,7 @@
 
 ## § 991. Management of deployments of members and measurement and data collection of unit operating and personnel tempo
 
-    (a) __Management Responsibilities.—__ 
+    (a)  __Management Responsibilities__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
         (4) The Secretary of Defense shall prescribe a policy that addresses the amount of dwell time a member of the armed forces or unit remains at the member’s or unit’s permanent duty station or home port, as the case may be, between deployments.
 
-    (b) __Deployment Defined.—__ 
+    (b)  __Deployment Defined__  __.—__ 
 
         (1) For the purposes of this section, a member of the armed forces shall be considered to be deployed or in a deployment on any day on which, pursuant to orders, the member is performing service in a training exercise or operation at a location or under circumstances that make it impossible or infeasible for the member to spend off-duty time in the housing in which the member resides when on garrison duty at the member’s permanent duty station or homeport, as the case may be.
 
@@ -79,7 +79,7 @@
 
         (4) The Secretary of Defense may prescribe a definition of deployment for the purposes of this section other than the definition specified in paragraphs (1) and (2). Any such definition may not take effect until 90 days after the date on which the Secretary notifies the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives of the revised standard definition of deployment.
 
-    (c) __Recordkeeping.—__ 
+    (c)  __Recordkeeping__  __.—__ 
 
         (1)
 
@@ -113,15 +113,15 @@
 
         (4) For each of the armed forces, the data collection repository shall be able to indicate, for a fiscal year, the number of days that high demand, low density units (as defined by the Chairman of the Joint Chiefs of Staff) were deployed, and whether these units met the force goals for limiting deployments, as described in the personnel tempo policies applicable to that armed force.
 
-    (d) __National Security Waiver Authority.—__ 
+    (d)  __National Security Waiver Authority__  __.—__ 
 
     The Secretary of the military department concerned may suspend the applicability of this section to a member or any group of members under the Secretary’s jurisdiction when the Secretary determines that such a waiver is necessary in the national security interests of the United States.
 
-    (e) __Inapplicability to Coast Guard.—__ 
+    (e)  __Inapplicability to Coast Guard__  __.—__ 
 
     This section does not apply to a member of the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-    (f) __Other Definitions.—__ 
+    (f)  __Other Definitions__  __.—__ 
 
     In this section:
 
@@ -217,7 +217,7 @@
 
 [Pub. L. 108–136, div. A, title V, § 585][/us/pl/108/136/s585], Nov. 24, 2003, [117 Stat. 1492][/us/stat/117/1492], provided that:
 
->     “(a) __Publication of Policy.—__ 
+>     “(a)  __Publication of Policy__  __.—__ 
 
 >     Not later than 180 days after the date of the enactment of this Act \[Nov. 24, 2003\], the Secretary of Defense shall—
 
@@ -225,7 +225,7 @@
 
 >         “(2) transmit the policy to the Committees on Armed Services of the Senate and the House of Representatives.
 
->     “(b) __Dual-Military Family Defined.—__ 
+>     “(b)  __Dual-Military Family Defined__  __.—__ 
 
 >     In this section, the term ‘dual-military family’ means a family in which both spouses are members of the Armed Forces.”
 

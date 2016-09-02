@@ -41,11 +41,11 @@
 
 [Pub. L. 102–484, div. A, title XIII, § 1351][/us/pl/102/484/s1351], Oct. 23, 1992, [106 Stat. 2558][/us/stat/106/2558], provided that:
 
->     “(a) __Prohibition.—__ 
+>     “(a)  __Prohibition__  __.—__ 
 
 >     Funds available to the Department of Defense may not be used to pay severance pay to a foreign national employed by the Department of Defense in the Republic of the Philippines if the discontinuation of the employment of the foreign national is the result of the termination of basing rights of the United States military in the Republic of the Philippines.
 
->     “(b) __Prohibition on Allowance of Certain Severance Pay as Contract Costs.—__ 
+>     “(b)  __Prohibition on Allowance of Certain Severance Pay as Contract Costs__  __.—__ 
 
 >     Funds available to the Department of Defense may not be used to pay the costs of severance pay paid by a contractor to a foreign national employed by the contractor under a defense service contract in the Philippines if the discontinuation of the employment of the foreign national is the result of the termination of basing rights of the United States military in the Philippines.”
 

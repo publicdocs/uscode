@@ -15,11 +15,11 @@
 
 ## § 2365. Global Research Watch Program
 
-    (a) __Program.—__ 
+    (a)  __Program__  __.—__ 
 
     The Assistant Secretary of Defense for Research and Engineering shall carry out a Global Research Watch program in accordance with this section.
 
-    (b) __Program Goals.—__ 
+    (b)  __Program Goals__  __.—__ 
 
     The goals of the program are as follows:
 
@@ -35,11 +35,11 @@
 
         (6) To establish and maintain an electronic database on international research capabilities, comparative assessments of capabilities, cooperative research opportunities, and ongoing cooperative programs.
 
-    (c) __Focus of Program.—__ 
+    (c)  __Focus of Program__  __.—__ 
 
     The program shall be focused on research and technologies at a technical maturity level equivalent to Department of Defense basic and applied research programs.
 
-    (d) __Coordination.—__ 
+    (d)  __Coordination__  __.—__ 
 
         (1) The Assistant Secretary shall coordinate the program with the international cooperation and analysis activities of the military departments and Defense Agencies.
 
@@ -51,11 +51,11 @@
 
             (B) The limitation in subparagraph (A) shall not be construed to alter or effect the availability to a military department of funds for intelligence activities.
 
-    (e) __Classification of Database Information.—__ 
+    (e)  __Classification of Database Information__  __.—__ 
 
     Information in electronic databases of the Global Research Watch program shall be maintained in unclassified form and, as determined necessary by the Assistant Secretary, in classified form in such databases.
 
-    (f) __Termination.—__ 
+    (f)  __Termination__  __.—__ 
 
     The requirement to carry out the program under this section shall terminate on September 30, 2015.
 

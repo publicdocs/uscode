@@ -31,11 +31,11 @@
 
 [Pub. L. 103–160, div. A, title V, § 515][/us/pl/103/160/s515], Nov. 30, 1993, [107 Stat. 1650][/us/stat/107/1650], provided that:
 
->     “(a) __Requirement To Establish.—__ 
+>     “(a)  __Requirement To Establish__  __.—__ 
 
 >     The Secretary of the Army shall, not later than September 30, 1995, establish one or more active-component units of the Army with the primary mission of providing training support to reserve units. Each such unit shall be part of the active Army force structure and shall have a commander who is on the active-duty list of the Army.
 
->     “(b) __Implementation Plan.—__ 
+>     “(b)  __Implementation Plan__  __.—__ 
 
 >     The Secretary of the Army shall during fiscal year 1994 submit to the Committees on Armed Services of the Senate and House of Representatives a plan to meet the requirement in subsection (a). The plan shall include a proposal for any statutory changes that the Secretary considers to be necessary for the implementation of the plan.”
 
@@ -55,67 +55,67 @@
 
 > “SEC. 1111. __PRIOR ACTIVE-DUTY PERSONNEL.__ 
 
->     “(a) __Additional Prior Active Duty Officers.—__ 
+>     “(a)  __Additional Prior Active Duty Officers__  __.—__ 
 
 >     The Secretary of the Army shall increase the number of qualified prior active-duty officers in the Army National Guard by providing a program that permits the separation of officers on active duty with at least two, but less than three, years of active service upon condition that the officer is accepted for appointment in the Army National Guard. The Secretary shall have a goal of having not fewer than 150 officers become members of the Army National Guard each year under this section.
 
->     “(b) __Additional Prior Active Duty Enlisted Members.—__ 
+>     “(b)  __Additional Prior Active Duty Enlisted Members__  __.—__ 
 
 >     The Secretary of the Army shall increase the number of qualified prior active-duty enlisted members in the Army National Guard through the use of enlistments as described in section 8020 of the Department of Defense Appropriations Act, 1994 ([Public Law 103–139][/us/pl/103/139]) \[[107 Stat. 1441][/us/stat/107/1441]\]. The Secretary shall enlist not fewer than 1,000 new enlisted members each year under enlistments described in that section.
 
->     “(c) __Qualified Prior Active-Duty Personnel.—__ 
+>     “(c)  __Qualified Prior Active-Duty Personnel__  __.—__ 
 
 >     For purposes of this section, qualified prior active-duty personnel are members of the Army National Guard with not less than two years of active duty.
 
 > “SEC. 1112. __SERVICE IN SELECTED RESERVE IN LIEU OF ACTIVE-DUTY SERVICE.__ 
 
->     “(a) __Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve for Period of Active-duty Service Obligation Not Served on Active Duty.—__ 
+>     “(a)  __Academy Graduates and Distinguished ROTC Graduates To Serve in Selected Reserve for Period of Active-duty Service Obligation Not Served on Active Duty__  __.—__ 
 
 >         (1) An officer who is a graduate of one of the service academies or who was commissioned as a distinguished Reserve Officers’ Training Corps graduate and who is permitted to be released from active duty before the completion of the active-duty service obligation applicable to that officer shall serve the remaining period of such active-duty service obligation as a member of the Selected Reserve.
 
 >         “(2) The Secretary concerned may waive paragraph (1) in a case in which the Secretary determines that there is no unit position available for the officer.
 
->     “(b) __ROTC Graduates.—__ 
+>     “(b)  __ROTC Graduates__  __.—__ 
 
 >     The Secretary of the Army shall provide a program under which graduates of the Reserve Officers’ Training Corps program may perform their minimum period of obligated service by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation, to be served in the Selected Reserve.
 
 > “SEC. 1113. __REVIEW OF OFFICER PROMOTIONS BY COMMANDER OF ASSOCIATED ACTIVE DUTY UNIT.__ 
 
->     “(a) __Review.—__ 
+>     “(a)  __Review__  __.—__ 
 
 >     Whenever an officer in an Army Selected Reserve unit as defined in subsection (b) is recommended for a unit vacancy promotion to a grade above first lieutenant, the recommended promotion shall be reviewed by the commander of the active duty unit associated with the Selected Reserve unit of that officer or another active-duty officer designated by the Secretary of the Army. The commander or other active-duty officer designated by the Secretary of the Army shall provide to the promoting authority, through the promotion board convened by the promotion authority to consider unit vacancy promotion candidates, before the promotion is made, a recommendation of concurrence or nonconcurrence in the promotion. The recommendation shall be provided to the promoting authority within 60 days after receipt of notice of the recommended promotion.
 
->     “(b) __Coverage of Selected Reserve Combat and Early Deploying Units.—__ 
+>     “(b)  __Coverage of Selected Reserve Combat and Early Deploying Units__  __.—__ 
 
 >         (1) Subsection (a) applies to officers in all units of the Selected Reserve that are designated as combat units or that are designated for deployment within 75 days of mobilization.
 
 >         “(2) Subsection (a) shall take effect with respect to officers of the Army Reserve, and with respect to officers of the Army National Guard in units not subject to subsection (a) as of the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996 \[Feb. 10, 1996\], at the end of the 90-day period beginning on such date of enactment.
 
->     “(c) __Report on Feasibility.—__ 
+>     “(c)  __Report on Feasibility__  __.—__ 
 
 >     The Secretary of the Army shall submit to the Committees on Armed Services of the Senate and House of Representatives a report, not later than March 1, 1993, containing a plan for implementation of subsection (a). The Secretary may include with the report such proposals for legislation to clarify, improve, or modify the provisions of subsection (a) in order to better carry out the purposes of those provisions as the Secretary considers appropriate.
 
 > “SEC. 1114. __NONCOMMISSIONED OFFICER EDUCATION REQUIREMENTS.__ 
 
->     “(a) __Nonwaivability.—__ 
+>     “(a)  __Nonwaivability__  __.—__ 
 
 >     Any standard prescribed by the Secretary of the Army establishing a military education requirement for noncommissioned officers that must be met as a requirement for promotion to a higher noncommissioned officer grade may be waived only if the Secretary determines that the waiver is necessary in order to preserve unit leadership continuity under combat conditions.
 
->     “(b) __Availability of Training Positions.—__ 
+>     “(b)  __Availability of Training Positions__  __.—__ 
 
 >     The Secretary of the Army shall ensure that there are sufficient training positions available to enable compliance with subsection (a).
 
 > “SEC. 1115. __INITIAL ENTRY TRAINING AND NONDEPLOYABLE PERSONNEL ACCOUNT.__ 
 
->     “(a) __Establishment of Personnel Account.—__ 
+>     “(a)  __Establishment of Personnel Account__  __.—__ 
 
 >     The Secretary of the Army shall establish a personnel accounting category for members of the Army Selected Reserve to be used for categorizing members of the Selected Reserve who have not completed the minimum training required for deployment or who are otherwise not available for deployment. The account shall be designed so that it is compatible with the decentralized personnel systems of the Army Guard and Reserve. The account shall be used for the reporting of personnel readiness and may not be used as a factor in establishing the level of Army Guard and Reserve force structure.
 
->     “(b) __Use of Account.—__ 
+>     “(b)  __Use of Account__  __.—__ 
 
 >     Until a member of the Army Selected Reserve has completed the minimum training necessary for deployment, the member may not be assigned to fill a position in a Selected Reserve unit but shall be carried in the account established under subsection (a).
 
->     “(c) __Time for Qualification for Deployment.—__ 
+>     “(c)  __Time for Qualification for Deployment__  __.—__ 
 
 >         (1) If at the end of 24 months after a member of the Army Selected Reserve enters the Army Selected Reserve, the member has not completed the minimum training required for deployment, the member shall be discharged.
 
@@ -181,7 +181,7 @@
 
 > “SEC. 1131. __ACTIVE DUTY ASSOCIATE UNIT RESPONSIBILITY.__ 
 
->     “(a) __Associate Units.—__ 
+>     “(a)  __Associate Units__  __.—__ 
 
 >     The Secretary of the Army shall require—
 
@@ -189,7 +189,7 @@
 
 >         “(2) that combat support and combat service support units of the Army Selected Reserve that (as determined by the Secretary) are essential for the execution of the National Military Strategy be associated with active-duty units.
 
->     “(b) __Responsibilities.—__ 
+>     “(b)  __Responsibilities__  __.—__ 
 
 >     The commander (at a brigade or higher level) of the associated active duty unit for any National Guard unit or Army Selected Reserve unit that (as determined by the Secretary under subsection (a)) is essential for the execution of the National Military Strategy shall be responsible for—
 
@@ -201,7 +201,7 @@
 
 >         “(4) validating, not less often than annually, the compatibility of that unit with the active duty forces.
 
->     “(c) __Implementation.—__ 
+>     “(c)  __Implementation__  __.—__ 
 
 >     The Secretary of the Army shall begin to implement subsection (a) during fiscal year 1993 and shall achieve full implementation of the plan not later than October 1, 1995.
 
@@ -211,11 +211,11 @@
 
 > “SEC. 1133. __SYSTEMS COMPATIBILITY.__ 
 
->     “(a) __Compatibility Program.—__ 
+>     “(a)  __Compatibility Program__  __.—__ 
 
 >     The Secretary of the Army shall develop and implement a program to ensure that Army personnel systems, Army supply systems, Army maintenance management systems, and Army finance systems are compatible across all Army components.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     Not later than September 30, 1993, the Secretary shall submit to the Committees on Armed Services of the Senate and House of Representatives a report describing the program under subsection (a) and setting forth a plan for implementation of the program by the end of fiscal year 1997.
 
@@ -225,15 +225,15 @@
 
 > “SEC. 1135. __DEPLOYMENT PLANNING REFORM.__ 
 
->     “(a) __Requirement for Priority System.—__ 
+>     “(a)  __Requirement for Priority System__  __.—__ 
 
 >     The Secretary of the Army shall develop a system for identifying the priority for mobilization of Army reserve component units. The priority system shall be based on regional contingency planning requirements and doctrine to be integrated into the Army war planning process.
 
->     “(b) __Unit Deployment Designators.—__ 
+>     “(b)  __Unit Deployment Designators__  __.—__ 
 
 >     The system shall include the use of Unit Deployment Designators to specify the post-mobilization training days allocated to a unit before deployment. The Secretary shall specify standard designator categories in order to group units according to the timing of deployment after mobilization.
 
->     “(c) __Use of Designators.—__ 
+>     “(c)  __Use of Designators__  __.—__ 
 
 >         (1) The Secretary shall establish procedures to link the Unit Deployment Designator system to the process by which resources are provided for National Guard units.
 

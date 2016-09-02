@@ -15,7 +15,7 @@
 
 ## § 1734. Career development
 
-    (a) __Three-Year Assignment Period.—__ 
+    (a)  __Three-Year Assignment Period__  __.—__ 
 
         (1) Except as provided under subsection (b) and paragraph (3), the Secretary of each military department, acting through the service acquisition executive for that department, shall provide that any person who is assigned to a critical acquisition position shall be assigned to the position for not fewer than three years. Except as provided in subsection (d), the Secretary concerned may not reassign a person from such an assignment before the end of the three-year period.
 
@@ -23,7 +23,7 @@
 
         (3) The assignment period requirement of the first sentence of paragraph (1) is waived for any individual serving as a deputy program manager if the individual is assigned to a critical acquisition position upon completion of the individual’s assignment as a deputy program manager.
 
-    (b) __Assignment Period for Program Managers.—__ 
+    (b)  __Assignment Period for Program Managers__  __.—__ 
 
         (1)
 
@@ -39,33 +39,33 @@
 
         (3) The assignment period requirement under subparagraph (A) of paragraph (1) is waived for any individual serving as a deputy program manager if the individual is assigned to a critical acquisition position upon completion of the individual’s assignment as a deputy program manager.
 
-    (c) __Major Milestone Regulations.—__ 
+    (c)  __Major Milestone Regulations__  __.—__ 
 
         (1) The Secretary of Defense shall issue regulations defining what constitutes major milestones for purposes of this section. The service acquisition executive of each military department shall establish major milestones at the beginning of a major defense acquisition program consistent with such regulations and shall use such milestones to determine the assignment period for program managers and deputy program managers under subsection (b).
 
         (2) The regulations shall require that major milestones be clearly definable and measurable events that mark the completion of a significant phase in a major defense acquisition program and that such milestones be the same as the milestones contained in the baseline description established for the program pursuant to [section 2435(a) of this title][/us/usc/t10/s2435/a]. The Secretary shall require that the major milestones as defined in the regulations be included in the Selected Acquisition Report required for such program under [section 2432 of this title][/us/usc/t10/s2432].
 
-    (d) __Waiver of Assignment Period.—__ 
+    (d)  __Waiver of Assignment Period__  __.—__ 
 
         (1) With respect to a person assigned to a critical acquisition position, the Secretary concerned may waive the prohibition on reassignment of that person (in subsection (a)(1) or (b)(1)) and the service obligation in an agreement executed by that person (under subsection (a)(2) or (b)(2)), but only in exceptional circumstances in which a waiver is necessary for reasons permitted in regulations prescribed by the Secretary of Defense.
 
         (2) With respect to each waiver granted under this subsection, the service acquisition executive (or his delegate) shall set forth in a written document the rationale for the decision to grant the waiver.
 
-    (e) __Rotation Policy.—__ 
+    (e)  __Rotation Policy__  __.—__ 
 
         (1) The Secretary of Defense shall establish a policy encouraging the rotation of members of the Acquisition Corps serving in critical acquisition positions to new assignments after completion of five years of service in such positions, or, in the case of a program manager, after completion of a major program milestone, whichever is longer. Such rotation policy shall be designed to ensure opportunities for career broadening assignments and an infusion of new ideas into critical acquisition positions.
 
         (2) The Secretary of Defense shall establish a procedure under which the assignment of each person assigned to a critical acquisition position shall be reviewed on a case-by-case basis for the purpose of determining whether the Government and such person would be better served by a reassignment to a different position. Such a review shall be carried out with respect to each such person not later than five years after that person is assigned to a critical position.
 
-    (f) __Centralized Job Referral System.—__ 
+    (f)  __Centralized Job Referral System__  __.—__ 
 
     The Secretary of Defense shall prescribe regulations providing for the use of centralized lists to ensure that persons are selected for critical positions without regard to geographic location of applicants for such positions.
 
-    (g) __Exchange Program.—__ 
+    (g)  __Exchange Program__  __.—__ 
 
     The Secretary of Defense shall establish, for purposes of broadening the experience of members of the Acquisition Corps, a test program in which members of the Corps serving in a military department or Defense Agency are assigned or detailed to an acquisition position in another department or agency. Under the test program, the Secretary of Defense shall ensure that, to the maximum extent practicable, at least 5 percent of the members of the Acquisition Corps shall serve in such exchange assignments each year. The test program shall operate for not less than a period of three years.
 
-    (h) __Responsibility for Assignments.—__ 
+    (h)  __Responsibility for Assignments__  __.—__ 
 
     The Secretary of each military department, acting through the service acquisition executive for that department, is responsible for making assignments of civilian and military personnel of that military department who are members of the Acquisition Corps to critical acquisition positions.
 

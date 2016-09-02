@@ -17,17 +17,17 @@
 
     (a) __Limitations on Discovery or Access by the Accused.—__ 
 
-        (1) __Declarations by the united states of damage to national security.—__ 
+        (1)  __Declarations by the united states of damage to national security__  __.—__ 
 
         In any case before a military commission in which the United States seeks to delete, withhold, or otherwise obtain other relief with respect to the discovery of or access to any classified information, the trial counsel shall submit a declaration invoking the United States’ classified information privilege and setting forth the damage to the national security that the discovery of or access to such information reasonably could be expected to cause. The declaration shall be signed by a knowledgeable United States official possessing authority to classify information.
 
-        (2) __Standard for authorization of discovery or access.—__ 
+        (2)  __Standard for authorization of discovery or access__  __.—__ 
 
         Upon the submission of a declaration under paragraph (1), the military judge may not authorize the discovery of or access to such classified information unless the military judge determines that such classified information would be noncumulative, relevant, and helpful to a legally cognizable defense, rebuttal of the prosecution’s case, or to sentencing, in accordance with standards generally applicable to discovery of or access to classified information in Federal criminal cases. If the discovery of or access to such classified information is authorized, it shall be addressed in accordance with the requirements of subsection (b).
 
     (b) __Discovery of Classified Information.—__ 
 
-        (1) __Substitutions and other relief.—__ 
+        (1)  __Substitutions and other relief__  __.—__ 
 
         The military judge, in assessing the accused’s discovery of or access to classified information under this section, may authorize the United States—
 
@@ -37,15 +37,15 @@
 
             (C) to substitute a statement admitting relevant facts that the classified information or material would tend to prove.
 
-        (2) __Ex parte presentations.—__ 
+        (2)  __Ex parte presentations__  __.—__ 
 
         The military judge shall permit the trial counsel to make a request for an authorization under paragraph (1) in the form of an ex parte presentation to the extent necessary to protect classified information, in accordance with the practice of the Federal courts under the Classified Information Procedures Act (18 U.S.C. App.). If the military judge enters an order granting relief following such an ex parte showing, the entire presentation (including the text of any written submission, verbatim transcript of the ex parte oral conference or hearing, and any exhibits received by the court as part of the ex parte presentation) shall be sealed and preserved in the records of the military commission to be made available to the appellate court in the event of an appeal.
 
-        (3) __Action by military judge.—__ 
+        (3)  __Action by military judge__  __.—__ 
 
         The military judge shall grant the request of the trial counsel to substitute a summary or to substitute a statement admitting relevant facts, or to provide other relief in accordance with paragraph (1), if the military judge finds that the summary, statement, or other relief would provide the accused with substantially the same ability to make a defense as would discovery of or access to the specific classified information.
 
-    (c) __Reconsideration.—__ 
+    (c)  __Reconsideration__  __.—__ 
 
     An order of a military judge authorizing a request of the trial counsel to substitute, summarize, withhold, or prevent access to classified information under this section is not subject to a motion for reconsideration by the accused, if such order was entered pursuant to an ex parte showing under this section.
 

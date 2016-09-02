@@ -15,7 +15,7 @@
 
 ## § 943. Art. 143. Organization and employees
 
-    (a) __Chief Judge.—__ 
+    (a)  __Chief Judge__  __.—__ 
 
         (1)
 
@@ -43,11 +43,11 @@
 
         (5) If a chief judge is temporarily unable to perform his duties as a chief judge, the duties shall be performed by the judge of the court in active service who is present, able and qualified to act, and is next in precedence.
 
-    (b) __Precedence of Judges.—__ 
+    (b)  __Precedence of Judges__  __.—__ 
 
     The chief judge of the court shall have precedence and preside at any session that he attends. The other judges shall have precedence and preside according to the seniority of their original commissions. Judges whose commissions bear the same date shall have precedence according to seniority in age.
 
-    (c) __Status of Certain Positions.—__ 
+    (c)  __Status of Certain Positions__  __.—__ 
 
         (1) Attorney positions of employment under the Court of Appeals for the Armed Forces are excepted from the competitive service. A position of employment under the court that is provided primarily for the service of one judge of the court, reports directly to the judge, and is a position of a confidential character is excepted from the competitive service. Appointments to positions referred to in the preceding sentences shall be made by the court, without the concurrence of any other officer or employee of the executive branch, in the same manner as appointments are made to other executive branch positions of a confidential or policy-determining character for which it is not practicable to examine or to hold a competitive examination. Such positions shall not be counted as positions of that character for purposes of any limitation on the number of positions of that character provided in law.
 

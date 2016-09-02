@@ -235,7 +235,7 @@
 
 [Pub. L. 109–364, div. A, title X, § 1018][/us/pl/109/364/s1018], Oct. 17, 2006, [120 Stat. 2380][/us/stat/120/2380], as amended by [Pub. L. 110–417, div. C, title XXXV, § 3504][/us/pl/110/417/s3504], Oct. 14, 2008, [122 Stat. 4762][/us/stat/122/4762], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of Defense may not award, renew, extend, or exercise an option to extend any charter of a vessel documented under chapter 121 of title 46, United States Code, for the Department of Defense, or any contract for the carriage of cargo by a vessel documented under that chapter for the Department of Defense, unless the charter or contract, respectively, includes provisions that—
 
@@ -245,7 +245,7 @@
 
 >     “(b) __Exemption.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In accordance with regulations issued by the Secretary of Defense, an individual shall not be treated as a riding gang member for the purposes of [section 8106 of title 46][/us/usc/t46/s8106], United States Code, and this section if—
 
@@ -265,7 +265,7 @@
 
 >         “(2) __Background check.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             This section shall not apply to an individual unless—
 
@@ -273,11 +273,11 @@
 
 >                 “(ii) except as provided in subparagraph (B), the individual successfully passes a background check by the Secretary prior to going aboard the vessel.
 
->             “(B) __Waiver.—__ 
+>             “(B)  __Waiver__  __.—__ 
 
 >             The Secretary may waive the application of subparagraph (A)(ii) for an individual who holds a merchant mariner’s document issued under chapter 73 of title 46, United States Code, or a transportation security card issued under section 70105 of such title.
 
->         “(3) __Exempted individual not treated as in addition to the crew.—__ 
+>         “(3)  __Exempted individual not treated as in addition to the crew__  __.—__ 
 
 >         An individual who, under paragraph (1), is not treated as a riding gang member shall not be counted as an individual in addition to the crew for the purposes of [section 3304 of title 46][/us/usc/t46/s3304], United States Code.”
 
@@ -285,11 +285,11 @@
 
 [Pub. L. 103–160, div. A, title I, § 126][/us/pl/103/160/s126], Nov. 30, 1993, [107 Stat. 1567][/us/stat/107/1567], as amended by [Pub. L. 104–106, div. D, title XLIII, § 4321(i)(1)(A)][/us/pl/104/106/s4321/i/1/A], Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Secretary of the Navy may enter into a long-term lease or charter for any double-hull tanker or oceanographic vessel constructed in a United States shipyard after the date of the enactment of this Act \[Nov. 30, 1993\] using assistance provided under the National Shipbuilding Initiative.
 
->     “(b) __Conditions on Obligation of Funds.—__ 
+>     “(b)  __Conditions on Obligation of Funds__  __.—__ 
 
 >     Unless budget authority is specifically provided in an appropriations Act for the lease or charter of vessels pursuant to subsection (a), the Secretary may not enter into a contract for a lease or charter pursuant to that subsection unless the contract includes the following provisions:
 
@@ -299,11 +299,11 @@
 
 >         “(3) A statement that such a commitment given under paragraph (2) does not constitute an obligation of the United States.
 
->     “(c) __Inapplicability of Certain Laws.—__ 
+>     “(c)  __Inapplicability of Certain Laws__  __.—__ 
 
 >     A long-term lease or charter authorized by subsection (a) may be entered into without regard to the provisions of section 2401 or 2401a of title 10, United States Code.
 
->     “(d) __Definition.—__ 
+>     “(d)  __Definition__  __.—__ 
 
 >     For purposes of subsection (a), the term ‘long-term lease or charter’ has the meaning given that term in subparagraph (A) of [section 2401(d)(1) of title 10][/us/usc/t10/s2401/d/1], United States Code.”
 

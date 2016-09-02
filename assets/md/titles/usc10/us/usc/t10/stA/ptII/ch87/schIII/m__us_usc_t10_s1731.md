@@ -15,11 +15,11 @@
 
 ## § 1731. Acquisition Corps: in general
 
-    (a) __Acquisition Corps.—__ 
+    (a)  __Acquisition Corps__  __.—__ 
 
     The Secretary of Defense shall ensure that an Acquisition Corps is established for the Department of Defense.
 
-    (b) __Promotion Rate for Officers in Acquisition Corps.—__ 
+    (b)  __Promotion Rate for Officers in Acquisition Corps__  __.—__ 
 
     The Secretary of Defense shall ensure that the qualifications of commissioned officers selected for the Acquisition Corps are such that those officers are expected, as a group, to be promoted at a rate not less than the rate for all line (or the equivalent) officers of the same armed force (both in the zone and below the zone) in the same grade.
 
