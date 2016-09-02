@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s44, 45.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs46)
+[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s43.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs46)
 
 ## § 46. Additional land districts and officers
 
@@ -37,7 +37,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s44, 45.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs46)
+[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s43.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s47.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs46)
 
 ----------
 ----------

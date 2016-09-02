@@ -33,7 +33,7 @@ SUBCHAPTER I—DISPOSAL OF MATERIALS ON PUBLIC LANDS  </td>
 
   <tr>
 
-    <td> 601.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs601" data-uslm-ref="/us/usc/t30/s601">601.</a>  </td>
 
     <td> Rules and regulations governing disposal of materials; payment; removal without charge; lands excluded.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—DISPOSAL OF MATERIALS ON PUBLIC LANDS  </td>
 
   <tr>
 
-    <td> 602.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs602" data-uslm-ref="/us/usc/t30/s602">602.</a>  </td>
 
     <td> Bidding; advertising and other notice; conditions for negotiation of contract.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—DISPOSAL OF MATERIALS ON PUBLIC LANDS  </td>
 
   <tr>
 
-    <td> 603.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs603" data-uslm-ref="/us/usc/t30/s603">603.</a>  </td>
 
     <td> Disposition of moneys from disposal of materials.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—DISPOSAL OF MATERIALS ON PUBLIC LANDS  </td>
 
   <tr>
 
-    <td> 604.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs604" data-uslm-ref="/us/usc/t30/s604">604.</a>  </td>
 
     <td> Disposal of sand, peat moss, etc., in Alaska; contracts.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER II—MINING LOCATIONS  </td>
 
   <tr>
 
-    <td> 611.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs611" data-uslm-ref="/us/usc/t30/s611">611.</a>  </td>
 
     <td> Common varieties of sand, stone, gravel, pumice, pumicite, or cinders, and petrified wood.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER II—MINING LOCATIONS  </td>
 
   <tr>
 
-    <td> 612.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs612" data-uslm-ref="/us/usc/t30/s612">612.</a>  </td>
 
     <td> Unpatented mining claims.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER II—MINING LOCATIONS  </td>
 
   <tr>
 
-    <td> 613.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs613" data-uslm-ref="/us/usc/t30/s613">613.</a>  </td>
 
     <td> Procedure for determining title uncertainties.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—MINING LOCATIONS  </td>
 
   <tr>
 
-    <td> 614.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs614" data-uslm-ref="/us/usc/t30/s614">614.</a>  </td>
 
     <td> Waiver of rights.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—MINING LOCATIONS  </td>
 
   <tr>
 
-    <td> 615.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs615" data-uslm-ref="/us/usc/t30/s615">615.</a>  </td>
 
     <td> Limitation of existing rights.  </td>
 

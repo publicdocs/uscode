@@ -15,7 +15,7 @@
 
 ## § 1501. Congressional statement of findings
 
-The Congress finds that—
+    The Congress finds that—
 
     (1) domestic geothermal reserves can be developed into regionally significant energy sources promoting the economic health and national security of the Nation;
 

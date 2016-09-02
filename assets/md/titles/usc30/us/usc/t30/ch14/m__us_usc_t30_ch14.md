@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 571.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs571" data-uslm-ref="/us/usc/t30/s571">571.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 572.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs572" data-uslm-ref="/us/usc/t30/s572">572.</a>  </td>
 
     <td> United States contributions to Pennsylvania: authority, conditions, limitations.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 573.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs573" data-uslm-ref="/us/usc/t30/s573">573.</a>  </td>
 
     <td> Statement by Commonwealth for Secretary.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 574.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs574" data-uslm-ref="/us/usc/t30/s574">574.</a>  </td>
 
     <td> Hearings; withholding payments.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 575.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs575" data-uslm-ref="/us/usc/t30/s575">575.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 576.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs576" data-uslm-ref="/us/usc/t30/s576">576.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

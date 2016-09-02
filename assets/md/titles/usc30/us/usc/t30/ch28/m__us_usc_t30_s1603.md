@@ -15,7 +15,7 @@
 
 ## § 1603. Implementation of policies
 
-For the purpose of implementing the policies set forth in [section 1602 of this title][/us/usc/t30/s1602] and the provisions of [section 1604 of this title][/us/usc/t30/s1604], the Congress declares that the President shall, through the Executive Office of the President, coordinate the responsible departments and agencies, and shall—
+    For the purpose of implementing the policies set forth in [section 1602 of this title][/us/usc/t30/s1602] and the provisions of [section 1604 of this title][/us/usc/t30/s1604], the Congress declares that the President shall, through the Executive Office of the President, coordinate the responsible departments and agencies, and shall—
 
     (1) direct that the responsible departments and agencies identify, assist, and make recommendations for carrying out appropriate policies and programs to ensure adequate, stable, and economical materials supplies essential to national security, economic well-being, and industrial production;
 

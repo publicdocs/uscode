@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1101" data-uslm-ref="/us/usc/t30/s1101">1101.</a>  </td>
 
     <td> Congressional findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1102" data-uslm-ref="/us/usc/t30/s1102">1102.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—GEOTHERMAL ENERGY COORDINATION AND MANAGEMENT PROJECT  </td>
 
   <tr>
 
-    <td> 1121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1121" data-uslm-ref="/us/usc/t30/s1121">1121.</a>  </td>
 
     <td> Formation of Project.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—GEOTHERMAL ENERGY COORDINATION AND MANAGEMENT PROJECT  </td>
 
   <tr>
 
-    <td> 1122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1122" data-uslm-ref="/us/usc/t30/s1122">1122.</a>  </td>
 
     <td> Program definition.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—GEOTHERMAL ENERGY COORDINATION AND MANAGEMENT PROJECT  </td>
 
   <tr>
 
-    <td> 1123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1123" data-uslm-ref="/us/usc/t30/s1123">1123.</a>  </td>
 
     <td> Resource inventory and assessment program.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—GEOTHERMAL ENERGY COORDINATION AND MANAGEMENT PROJECT  </td>
 
   <tr>
 
-    <td> 1124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1124" data-uslm-ref="/us/usc/t30/s1124">1124.</a>  </td>
 
     <td> Research and development.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—GEOTHERMAL ENERGY COORDINATION AND MANAGEMENT PROJECT  </td>
 
   <tr>
 
-    <td> 1125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1125" data-uslm-ref="/us/usc/t30/s1125">1125.</a>  </td>
 
     <td> Geothermal demonstration plants and projects.  </td>
 
@@ -89,7 +89,7 @@ SUBCHAPTER I—GEOTHERMAL ENERGY COORDINATION AND MANAGEMENT PROJECT  </td>
 
   <tr>
 
-    <td> 1126.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1126" data-uslm-ref="/us/usc/t30/s1126">1126.</a>  </td>
 
     <td> Scientific and technical education.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—LOAN GUARANTIES  </td>
 
   <tr>
 
-    <td> 1141.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1141" data-uslm-ref="/us/usc/t30/s1141">1141.</a>  </td>
 
     <td> Establishment of loan guaranty program.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—LOAN GUARANTIES  </td>
 
   <tr>
 
-    <td> 1142.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1142" data-uslm-ref="/us/usc/t30/s1142">1142.</a>  </td>
 
     <td> Payment of guaranteed obligation by Secretary of Energy.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—LOAN GUARANTIES  </td>
 
   <tr>
 
-    <td> 1143.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1143" data-uslm-ref="/us/usc/t30/s1143">1143.</a>  </td>
 
     <td> Period of guaranties and interest assistance.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—LOAN GUARANTIES  </td>
 
   <tr>
 
-    <td> 1144.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1144" data-uslm-ref="/us/usc/t30/s1144">1144.</a>  </td>
 
     <td> Geothermal Resources Development Fund.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—LOAN GUARANTIES  </td>
 
   <tr>
 
-    <td> 1145.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1145" data-uslm-ref="/us/usc/t30/s1145">1145.</a>  </td>
 
     <td> Community impact assistance functions of Secretary of Energy.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—LOAN GUARANTIES  </td>
 
   <tr>
 
-    <td> 1146.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1146" data-uslm-ref="/us/usc/t30/s1146">1146.</a>  </td>
 
     <td> Approval or disapproval of loan guarantee applications.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—LOAN GUARANTIES  </td>
 
   <tr>
 
-    <td> 1147.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1147" data-uslm-ref="/us/usc/t30/s1147">1147.</a>  </td>
 
     <td> Application of national environmental policy provisions.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1161" data-uslm-ref="/us/usc/t30/s1161">1161.</a>  </td>
 
     <td> Protection of environment.  </td>
 
@@ -177,7 +177,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1162" data-uslm-ref="/us/usc/t30/s1162">1162.</a>  </td>
 
     <td> Final report to President and Congress on terminated projects.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1163.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1163" data-uslm-ref="/us/usc/t30/s1163">1163.</a>  </td>
 
     <td> Transfer of functions.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—GENERAL PROVISIONS  </td>
 
   <tr>
 
-    <td> 1164.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1164" data-uslm-ref="/us/usc/t30/s1164">1164.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

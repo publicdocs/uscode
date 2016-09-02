@@ -15,7 +15,7 @@
 
 ## § 1322. Fellowship recipients
 
-Recipients of fellowships under this subchapter shall be—
+    Recipients of fellowships under this subchapter shall be—
 
     (a) persons who have been accepted by an institution of higher education for graduate study leading to an advanced degree or for a professional degree, and
 

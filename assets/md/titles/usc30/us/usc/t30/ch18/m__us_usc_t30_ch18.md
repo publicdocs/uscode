@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 661.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs661" data-uslm-ref="/us/usc/t30/s661">661.</a>  </td>
 
     <td> Short title; definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 662.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs662" data-uslm-ref="/us/usc/t30/s662">662.</a>  </td>
 
     <td> Powers and duties of Secretary.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 663, 664.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs663" data-uslm-ref="/us/usc/t30/s663">663</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs664" data-uslm-ref="/us/usc/t30/s664">664.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 665.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs665" data-uslm-ref="/us/usc/t30/s665">665.</a>  </td>
 
     <td> Sites for conducting research; availability of personnel and facilities.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 666.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs666" data-uslm-ref="/us/usc/t30/s666">666.</a>  </td>
 
     <td> Public-availability requirement; national defense; patent agreements.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 667.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs667" data-uslm-ref="/us/usc/t30/s667">667.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 668.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs668" data-uslm-ref="/us/usc/t30/s668">668.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

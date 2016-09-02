@@ -15,7 +15,7 @@
 
 ## § 2006. Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary to carry out this chapter, to remain available until expended—
+    There are authorized to be appropriated to the Secretary to carry out this chapter, to remain available until expended—
 
     (1) $15,000,000 for fiscal year 2006;
 

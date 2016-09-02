@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 301.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs301" data-uslm-ref="/us/usc/t30/s301">301.</a>  </td>
 
     <td> Authorization for lease of oil and gas deposits; by and to whom leased.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 302.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs302" data-uslm-ref="/us/usc/t30/s302">302.</a>  </td>
 
     <td> Assignment of lease; subletting.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 303.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs303" data-uslm-ref="/us/usc/t30/s303">303.</a>  </td>
 
     <td> Conditions precedent to award of lease; preferred class; bidding.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 304.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs304" data-uslm-ref="/us/usc/t30/s304">304.</a>  </td>
 
     <td> Provisions authorized in lease.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 305.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs305" data-uslm-ref="/us/usc/t30/s305">305.</a>  </td>
 
     <td> Royalties under lease.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 306.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs306" data-uslm-ref="/us/usc/t30/s306">306.</a>  </td>
 
     <td> Rules and regulations.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 1702. Definitions
 
-For the purposes of this chapter, the term—
+    For the purposes of this chapter, the term—
 
     (1) “Federal land” means all land and interests in land owned by the United States which are subject to the mineral leasing laws, including mineral resources or mineral estates reserved to the United States in the conveyance of a surface or nonmineral estate;
 

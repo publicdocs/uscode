@@ -15,7 +15,7 @@
 
 ## § 1809. General authority of Council
 
-The Council is authorized—
+    The Council is authorized—
 
     (1) to establish such internal rules and regulations as may be necessary for its operation;
 

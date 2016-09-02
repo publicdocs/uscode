@@ -15,7 +15,7 @@
 
 ## § 1808. Responsibilities and duties of Director
 
-In carrying out his functions the Director shall assist and advise the Council on policies and programs of the Federal Government affecting critical and advanced materials by—
+    In carrying out his functions the Director shall assist and advise the Council on policies and programs of the Federal Government affecting critical and advanced materials by—
 
     (1) providing the professional and administrative staff and support for the Council;
 

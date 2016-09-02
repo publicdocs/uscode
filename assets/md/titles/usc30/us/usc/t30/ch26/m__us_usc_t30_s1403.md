@@ -15,7 +15,7 @@
 
 ## § 1403. Definitions
 
-For purposes of this chapter, the term—
+    For purposes of this chapter, the term—
 
     (1)
 

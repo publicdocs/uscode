@@ -15,7 +15,7 @@
 
 ## § 1441. Declaration of Congressional intent
 
-It is the intent of Congress—
+    It is the intent of Congress—
 
     (1)
 

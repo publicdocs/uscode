@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 551.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs551" data-uslm-ref="/us/usc/t30/s551">551.</a>  </td>
 
     <td> Declaration of policy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 552.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs552" data-uslm-ref="/us/usc/t30/s552">552.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 553.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs553" data-uslm-ref="/us/usc/t30/s553">553.</a>  </td>
 
     <td> Duties of Secretary; surveys, research, etc.; proj­ects.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 554.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs554" data-uslm-ref="/us/usc/t30/s554">554.</a>  </td>
 
     <td> Lands subject to chapter.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 555.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs555" data-uslm-ref="/us/usc/t30/s555">555.</a>  </td>
 
     <td> Conditions precedent for aid to non-Federal lands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 556.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs556" data-uslm-ref="/us/usc/t30/s556">556.</a>  </td>
 
     <td> Administration.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 557.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs557" data-uslm-ref="/us/usc/t30/s557">557.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 558.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs558" data-uslm-ref="/us/usc/t30/s558">558.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 801. Congressional findings and declaration of purpose
 
-Congress declares that—
+    Congress declares that—
 
     (a) the first priority and concern of all in the coal or other mining industry must be the health and safety of its most precious resource—the miner;
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s229.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s230 to 233.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs229a)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s229.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s233a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs229a)
 
 ## § 229a. Water struck while drilling for oil and gas
 
@@ -49,9 +49,23 @@
 
     Amendment by [Pub. L. 94–579][/us/pl/94/579] not to be construed as terminating any valid lease, permit, patent, etc., existing on Oct. 21, 1976, see [section 701 of Pub. L. 94–579][/us/pl/94/579/s701], set out as a note under [section 1701 of Title 43][/us/usc/t43/s1701], Public Lands.
 
+§§ 230 to 233. __Repealed.__  __[__  __June 22, 1948, ch. 605, § 3__  __][/us/act/1948-06-22/ch605/s3]__  __,__  __[__  __62 Stat. 576__  __][/us/stat/62/576]__ 
+
+    Section 230, [act Mar. 4, 1923, ch. 249, § 1][/us/act/1923-03-04/ch249/s1], [42 Stat. 1448][/us/stat/42/1448], authorized permits and leases for certain United States citizens and corporations in Oklahoma.
+
+    Section 231, [act Mar. 4, 1923, ch. 249, § 2][/us/act/1923-03-04/ch249/s2], [42 Stat. 1448][/us/stat/42/1448], required applications for permits and leases to be made not later than sixty days after Mar. 4, 1923.
+
+    Section 232, [act Mar. 4, 1923, ch. 249, § 3][/us/act/1923-03-04/ch249/s3], [42 Stat. 1448][/us/stat/42/1448], limited amount of land any one person or corporation could be granted.
+
+    Section 233, [act Mar. 4, 1923, ch. 249, § 4][/us/act/1923-03-04/ch249/s4], [42 Stat. 1448][/us/stat/42/1448], provided for payment of royalties to United States.
+
+ __Savings Provision__ 
+
+    [Act June 22, 1948, ch. 605, § 3][/us/act/1948-06-22/ch605/s3], [62 Stat. 576][/us/stat/62/576], provided that the repeal of these sections is subject to existing valid rights.
+
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s229.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s230 to 233.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs229a)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s229.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s233a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs229a)
 
 ----------
 ----------
@@ -68,5 +82,17 @@
 [/us/pl/94/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579
 [/us/pl/94/579/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F579%2Fs701
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
+[/us/act/1948-06-22/ch605/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-22%2Fch605%2Fs3
+[/us/stat/62/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F576
+[/us/act/1923-03-04/ch249/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch249%2Fs1
+[/us/stat/42/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1448
+[/us/act/1923-03-04/ch249/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch249%2Fs2
+[/us/stat/42/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1448
+[/us/act/1923-03-04/ch249/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch249%2Fs3
+[/us/stat/42/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1448
+[/us/act/1923-03-04/ch249/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1923-03-04%2Fch249%2Fs4
+[/us/stat/42/1448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F42%2F1448
+[/us/act/1948-06-22/ch605/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-22%2Fch605%2Fs3
+[/us/stat/62/576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F576
 
 

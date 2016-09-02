@@ -15,7 +15,7 @@
 
 ## § 1467. Jurisdiction of courts
 
-The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. These courts may, at any time—
+    The district courts of the United States shall have exclusive jurisdiction over any case or controversy arising under the provisions of this chapter. These courts may, at any time—
 
     (1) enter restraining orders or prohibitions;
 

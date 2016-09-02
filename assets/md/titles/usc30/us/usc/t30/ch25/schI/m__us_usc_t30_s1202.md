@@ -15,7 +15,7 @@
 
 ## § 1202. Statement of purpose
 
-It is the purpose of this chapter to—
+    It is the purpose of this chapter to—
 
     (a) establish a nationwide program to protect society and the environment from the adverse effects of surface coal mining operations;
 

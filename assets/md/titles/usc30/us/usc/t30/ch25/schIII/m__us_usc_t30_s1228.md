@@ -15,7 +15,7 @@
 
 ## § 1228. Interagency cooperation
 
-The President shall, by such means as he deems appropriate, clarify agency responsibility for Federal mining and mineral resources research and provide for interagency coordination of such research, including the research authorized by this subchapter. Such coordination shall include—
+    The President shall, by such means as he deems appropriate, clarify agency responsibility for Federal mining and mineral resources research and provide for interagency coordination of such research, including the research authorized by this subchapter. Such coordination shall include—
 
     (1) continuing review of the adequacy of the Government-wide program in mining and mineral resources research;
 

@@ -15,7 +15,7 @@
 
 ## § 902. Definitions
 
-For purposes of this subchapter—
+    For purposes of this subchapter—
 
     (a)
 

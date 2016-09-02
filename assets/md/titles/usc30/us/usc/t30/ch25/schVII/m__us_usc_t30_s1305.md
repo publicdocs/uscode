@@ -15,7 +15,7 @@
 
 ## § 1305. Federal lessee protection
 
-In those instances where the coal proposed to be mined by surface coal mining operations is owned by the Federal Government and the surface is subject to a lease or a permit issued by the Federal Government, the application for a permit shall include either:
+    In those instances where the coal proposed to be mined by surface coal mining operations is owned by the Federal Government and the surface is subject to a lease or a permit issued by the Federal Government, the application for a permit shall include either:
 
     (1) the written consent of the permittee or lessee of the surface lands involved to enter and commence surface coal mining operations on such land, or in lieu thereof;
 

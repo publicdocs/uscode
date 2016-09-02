@@ -15,7 +15,7 @@
 
 ## § 802. Definitions
 
-For the purpose of this chapter, the term—
+    For the purpose of this chapter, the term—
 
     (a) “Secretary” means the Secretary of Labor or his delegate;
 

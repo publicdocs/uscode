@@ -15,7 +15,7 @@
 
 ## § 1302. Authorization of appropriations
 
-There is authorized to be appropriated to the Secretary for the purposes of this chapter the following sums; and all such funds appropriated shall remain available until expended:
+    There is authorized to be appropriated to the Secretary for the purposes of this chapter the following sums; and all such funds appropriated shall remain available until expended:
 
     (a) For the implementation and funding of sections 1252, 1273, and 1300 of this title, there are authorized to be appropriated to the Secretary of the Interior the sum of $10,000,000 for the fiscal year ending September 30, 1978, $25,000,000 for each of the two succeeding fiscal years, and in such fiscal years such additional amounts as may be necessary for increases in salary, pay, retirement, other employee benefits authorized by law, and other nondiscretionary costs.
 

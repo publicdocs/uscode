@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s663, 664.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s666.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs665)
+[Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s662.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s666.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs665)
 
 ## § 665. Sites for conducting research; availability of personnel and facilities
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s663, 664.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s666.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs665)
+[Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s662.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s666.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs665)
 
 ----------
 ----------

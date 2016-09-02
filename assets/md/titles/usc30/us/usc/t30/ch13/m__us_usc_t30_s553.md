@@ -15,7 +15,7 @@
 
 ## § 553. Duties of Secretary; surveys, research, etc.; proj­ects
 
-The Secretary of the Interior, in order to effectuate the policy declared in [section 551 of this title][/us/usc/t30/s551], is hereby authorized—
+    The Secretary of the Interior, in order to effectuate the policy declared in [section 551 of this title][/us/usc/t30/s551], is hereby authorized—
 
     (a) to conduct surveys, investigations, and research relating to the causes and extent of outcrop and underground fires in coal formations and the methods for control or extinguishment of such fires; to publish the results of any such surveys, investigations, and researches; and to disseminate information concerning such method; and
 

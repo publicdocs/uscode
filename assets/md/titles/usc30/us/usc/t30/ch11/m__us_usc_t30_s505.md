@@ -19,7 +19,7 @@
 
 ([Aug. 12, 1953, ch. 405, § 5][/us/act/1953-08-12/ch405/s5], [67 Stat. 540][/us/stat/67/540].)
 
- __References In Text__ 
+ __References in Text__ 
 
     Act of October 20, 1914, referred to in text, is [act Oct. 20, 1914, ch. 330][/us/act/1914-10-20/ch330], [38 Stat. 741][/us/stat/38/741], known as the Alaska Coal Lands Act, which was repealed by [Pub. L. 86–252, § 1][/us/pl/86/252/s1], Sept. 9, 1959, [73 Stat. 490][/us/stat/73/490]. The subject matter of this Act is generally covered by subchapters I to VII (§ 181 et seq.) of chapter 3A of this title. For complete classification of this Act to the Code prior to repeal, see Tables.
 

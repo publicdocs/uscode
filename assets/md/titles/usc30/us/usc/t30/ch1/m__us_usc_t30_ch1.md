@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1" data-uslm-ref="/us/usc/t30/s1">1.</a>  </td>
 
     <td> United States Bureau of Mines; establishment; director; experts and other employees.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1a" data-uslm-ref="/us/usc/t30/s1a">1a.</a>  </td>
 
     <td> Transfer of activities, employees, records, etc., from Bureau of Foreign and Domestic Commerce to the United States Bureau of Mines.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs2" data-uslm-ref="/us/usc/t30/s2">2.</a>  </td>
 
     <td> Performance of duties in absence of director.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs3" data-uslm-ref="/us/usc/t30/s3">3.</a>  </td>
 
     <td> Duties of United States Bureau of Mines.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4" data-uslm-ref="/us/usc/t30/s4">4.</a>  </td>
 
     <td> Investigation of lignite coal and peat.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 4a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4a" data-uslm-ref="/us/usc/t30/s4a">4a.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 4b.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4b" data-uslm-ref="/us/usc/t30/s4b">4b.</a>  </td>
 
     <td> Cooperation with individuals, municipalities, etc.; contracts with owners; agreements as to prices.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 4c.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4c" data-uslm-ref="/us/usc/t30/s4c">4c.</a>  </td>
 
     <td> Investigation of sub-bituminous and lignite coal.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 4d.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4d" data-uslm-ref="/us/usc/t30/s4d">4d.</a>  </td>
 
     <td> Plants, machinery, and equipment.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 4e.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4e" data-uslm-ref="/us/usc/t30/s4e">4e.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 4f to 4o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4f" data-uslm-ref="/us/usc/t30/s4f">4f</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs4" data-uslm-ref="/us/usc/t30/s4">4</a>o.  </td>
 
     <td> Transferred.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs5" data-uslm-ref="/us/usc/t30/s5">5.</a>  </td>
 
     <td> Reports of investigations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs6" data-uslm-ref="/us/usc/t30/s6">6.</a>  </td>
 
     <td> Personal interest of director and members of Bureau in mines.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs7" data-uslm-ref="/us/usc/t30/s7">7.</a>  </td>
 
     <td> Fees for tests or investigations.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 8.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs8" data-uslm-ref="/us/usc/t30/s8">8.</a>  </td>
 
     <td> Additional mining experiment stations and mine safety stations authorized.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 9.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs9" data-uslm-ref="/us/usc/t30/s9">9.</a>  </td>
 
     <td> Acceptance of lands from States.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 10.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs10" data-uslm-ref="/us/usc/t30/s10">10.</a>  </td>
 
     <td> Headquarters of mine rescue cars; site for experimental work; leases and donations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 11, 12.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs11" data-uslm-ref="/us/usc/t30/s11">11</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs12" data-uslm-ref="/us/usc/t30/s12">12.</a>  </td>
 
     <td> Omitted or Repealed.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs13" data-uslm-ref="/us/usc/t30/s13">13.</a>  </td>
 
     <td> Research laboratory for utilization of anthracite coal; establishment and maintenance.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 14.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs14" data-uslm-ref="/us/usc/t30/s14">14.</a>  </td>
 
     <td> Acquisition of land; cooperation with other agencies.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs15" data-uslm-ref="/us/usc/t30/s15">15.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs16" data-uslm-ref="/us/usc/t30/s16">16.</a>  </td>
 
     <td> Research laboratory for utilization of anthracite coal; establishment of advisory committee; composition; functions; appointment.  </td>
 

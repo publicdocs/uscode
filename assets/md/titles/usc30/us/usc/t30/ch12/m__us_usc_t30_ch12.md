@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs521" data-uslm-ref="/us/usc/t30/s521">521.</a>  </td>
 
     <td> Mineral leasing claims.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs522" data-uslm-ref="/us/usc/t30/s522">522.</a>  </td>
 
     <td> Conflicting periods of location of claims.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs523" data-uslm-ref="/us/usc/t30/s523">523.</a>  </td>
 
     <td> Uranium leases.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs524" data-uslm-ref="/us/usc/t30/s524">524.</a>  </td>
 
     <td> Reservation of minerals to United States.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs525" data-uslm-ref="/us/usc/t30/s525">525.</a>  </td>
 
     <td> Future location of claims on mineral lands.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs526" data-uslm-ref="/us/usc/t30/s526">526.</a>  </td>
 
     <td> Mining and Leasing Act operations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs527" data-uslm-ref="/us/usc/t30/s527">527.</a>  </td>
 
     <td> Determination of unpatented mining claims.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs528" data-uslm-ref="/us/usc/t30/s528">528.</a>  </td>
 
     <td> Waiver and relinquishment of mineral rights.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs529" data-uslm-ref="/us/usc/t30/s529">529.</a>  </td>
 
     <td> Helium lands subject to entry.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs530" data-uslm-ref="/us/usc/t30/s530">530.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs531" data-uslm-ref="/us/usc/t30/s531">531.</a>  </td>
 
     <td> Approval of United States officials.  </td>
 

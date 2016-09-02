@@ -15,7 +15,7 @@
 
 ## § 878. Definitions
 
-For the purpose of this subchapter and subchapter II of this chapter, the term—
+    For the purpose of this subchapter and subchapter II of this chapter, the term—
 
     (a) “certified” or “registered” as applied to any person means a person certified or registered by the State in which the coal mine is located to perform duties prescribed by such subchapters, except that, in a State where no program of certification or registration is provided or where the program does not meet at least minimum Federal standards established by the Secretary, such certification or registration shall be by the Secretary;
 

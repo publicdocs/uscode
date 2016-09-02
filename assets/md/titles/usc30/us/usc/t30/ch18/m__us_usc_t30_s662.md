@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s661.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s663, 664.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs662)
+[Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s661.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s665.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs662)
 
 ## § 662. Powers and duties of Secretary
 
-The Secretary shall—
+    The Secretary shall—
 
     (1) develop through research, new and more efficient methods of mining, preparing, and utilizing coal;
 
@@ -35,9 +35,15 @@ The Secretary shall—
 
     Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See [section 14 of Pub. L. 92–463][/us/pl/92/463/s14], Oct. 6, 1972, [86 Stat. 776][/us/stat/86/776], set out in the Appendix to Title 5, Government Organization and Employees.
 
+§§ 663, 664. __Repealed.__  __[__  __Pub. L. 109–58, title X, § 1009(a)(1)(C)__  __][/us/pl/109/58/s1009/a/1/C]__  __,__  __Aug. 8, 2005__  __,__  __[__  __119 Stat. 934__  __][/us/stat/119/934]__ 
+
+    Section 663, [Pub. L. 86–599, § 3][/us/pl/86/599/s3], July 7, 1960, [74 Stat. 336][/us/stat/74/336], related to advisory committees appointed under provisions of chapter.
+
+    Section 664, [Pub. L. 86–599, § 4][/us/pl/86/599/s4] (part), July 7, 1960, [74 Stat. 336][/us/stat/74/336], related to appointment of Director of Coal Research.
+
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s661.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s663, 664.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs662)
+[Previous](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s661.md) | [Next](./../../../..//us/usc/t30/ch18/m__us_usc_t30_s665.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs662)
 
 ----------
 ----------
@@ -49,5 +55,11 @@ The Secretary shall—
 [/us/pl/109/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
+[/us/pl/109/58/s1009/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1009%2Fa%2F1%2FC
+[/us/stat/119/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F934
+[/us/pl/86/599/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599%2Fs3
+[/us/stat/74/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F336
+[/us/pl/86/599/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F599%2Fs4
+[/us/stat/74/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F336
 
 

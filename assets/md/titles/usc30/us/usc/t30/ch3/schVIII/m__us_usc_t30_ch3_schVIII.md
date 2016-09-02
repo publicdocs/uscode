@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3/schVII/m__us_usc_t30_s141 to 152.md) | [Next](./../../../../..//us/usc/t30/ch3/schVIII/m__us_usc_t30_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch3%2FschVIII)
+[Previous](./../../../../..//us/usc/t30/ch3/schVII/m__us_usc_t30_ch3_schVII.md) | [Next](./../../../../..//us/usc/t30/ch3/schVIII/m__us_usc_t30_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch3%2FschVIII)
 
 ### SUBCHAPTER VIII—BUILDING STONE OR SALINE LAND ENTRIES UNDER PLACER-MINING LAWS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3/schVII/m__us_usc_t30_s141 to 152.md) | [Next](./../../../../..//us/usc/t30/ch3/schVIII/m__us_usc_t30_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch3%2FschVIII)
+[Previous](./../../../../..//us/usc/t30/ch3/schVII/m__us_usc_t30_ch3_schVII.md) | [Next](./../../../../..//us/usc/t30/ch3/schVIII/m__us_usc_t30_s161.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch3%2FschVIII)
 
 ----------
 ----------

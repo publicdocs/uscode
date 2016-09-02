@@ -15,7 +15,7 @@
 
 ## § 1443. Protection of interim investments
 
-In order to further the objectives set forth in [section 1441 of this title][/us/usc/t30/s1441], the Administrator, not more than one year after June 28, 1980—
+    In order to further the objectives set forth in [section 1441 of this title][/us/usc/t30/s1441], the Administrator, not more than one year after June 28, 1980—
 
     (1) shall submit to the Congress proposed legislation necessary for the United States to implement a system for the protection of interim investments that has been adopted as part of an international agreement and any resolution relating to such international agreement; or
 

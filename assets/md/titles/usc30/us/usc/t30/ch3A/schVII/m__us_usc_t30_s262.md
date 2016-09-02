@@ -29,6 +29,12 @@
 
     1928—Act Dec. 11, 1928, amended section generally.
 
+ __Soda Ash Royalties__ 
+
+[Pub. L. 113–40, § 10(e)][/us/pl/113/40/s10/e], Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546], provided that: 
+
+> “Notwithstanding section 24 of the Mineral Leasing Act ([30 U.S.C. 262][/us/usc/t30/s262]) and the terms of any lease under that Act \[[30 U.S.C. 181][/us/usc/t30/s181] et seq.\], the royalty rate on the quantity of gross value of the output of sodium compounds and related products at the point of shipment to market from Federal land in the 2-year period beginning on the date of enactment of this Act \[Oct. 2, 2013\] shall be 4 percent.”
+
  __Soda Ash Royalty Reduction__ 
 
 [Pub. L. 109–338, title I][/us/pl/109/338], Oct. 12, 2006, [120 Stat. 1786][/us/stat/120/1786], provided that:
@@ -70,6 +76,10 @@
 [/us/stat/44/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1058
 [/us/act/1927-02-07/ch66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1927-02-07%2Fch66
 [/us/stat/44/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F1057
+[/us/pl/113/40/s10/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fe
+[/us/stat/127/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F546
+[/us/usc/t30/s262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs262
+[/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 [/us/pl/109/338]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F338
 [/us/stat/120/1786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1786
 [/us/usc/t43/s1701/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701%2Fa%2F9

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 411.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs411" data-uslm-ref="/us/usc/t30/s411">411.</a>  </td>
 
     <td> Establishment and operation of experimental plant.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 412.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs412" data-uslm-ref="/us/usc/t30/s412">412.</a>  </td>
 
     <td> Acquisition of lands and interests; acceptance of money and property; disposition and use of money.  </td>
 

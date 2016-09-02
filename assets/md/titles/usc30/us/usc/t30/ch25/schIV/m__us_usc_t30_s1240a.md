@@ -129,7 +129,25 @@
 
             Notwithstanding any other provision of this subsection, the total annual payment to a certified State or Indian tribe under this subsection shall be not more than $15,000,000.
 
-([Pub. L. 95–87, title IV, § 411][/us/pl/95/87/s411], as added [Pub. L. 101–508, title VI, § 6010(2)][/us/pl/101/508/s6010/2], Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296]; amended [Pub. L. 109–432, div. C, title II, § 206][/us/pl/109/432/s206], Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016]; [Pub. L. 112–141, div. F, title I, § 100125][/us/pl/112/141/s100125], July 6, 2012, [126 Stat. 915][/us/stat/126/915]; [Pub. L. 112–175, § 142][/us/pl/112/175/s142], Sept. 28, 2012, [126 Stat. 1321][/us/stat/126/1321].)
+        (6) __Supplemental funding__ 
+
+            (A) __Waiver of limitation__ 
+
+                Notwithstanding paragraph (5), the limitation on the total annual payments to a certified State or Indian tribe under this subsection shall not apply for fiscal years 2014 and 2015.
+
+            (B) __Limitation on waiver__ 
+
+                Notwithstanding subparagraph (A), the total annual payment to a certified State or Indian tribe under this subsection for fiscal year 2014 shall not be more than $28,000,000 and for fiscal year 2015 shall not be more than $75,000,000.
+
+            (C) __Insufficient amounts__ 
+
+            If the total annual payment to a certified State or Indian tribe under paragraphs (1) and (2) is limited by subparagraph (B), the Secretary shall—
+
+                (i) give priority to making payments under paragraph (2); and
+
+                (ii) use any remaining funds to make payments under paragraph (1).
+
+([Pub. L. 95–87, title IV, § 411][/us/pl/95/87/s411], as added [Pub. L. 101–508, title VI, § 6010(2)][/us/pl/101/508/s6010/2], Nov. 5, 1990, [104 Stat. 1388–296][/us/stat/104/1388-296]; amended [Pub. L. 109–432, div. C, title II, § 206][/us/pl/109/432/s206], Dec. 20, 2006, [120 Stat. 3016][/us/stat/120/3016]; [Pub. L. 112–141, div. F, title I, § 100125][/us/pl/112/141/s100125], July 6, 2012, [126 Stat. 915][/us/stat/126/915]; [Pub. L. 112–175, § 142][/us/pl/112/175/s142], Sept. 28, 2012, [126 Stat. 1321][/us/stat/126/1321]; [Pub. L. 113–40, § 10(d)][/us/pl/113/40/s10/d], Oct. 2, 2013, [127 Stat. 546][/us/stat/127/546].)
 
  __References in Text__ 
 
@@ -142,6 +160,8 @@
     A prior [section 411 of Pub. L. 95–87][/us/pl/95/87/s411] was renumbered section 412 and was classified to [section 1241 of this title][/us/usc/t30/s1241], prior to being omitted from the Code.
 
  __Amendments__ 
+
+    2013—Subsec. (h)(6). [Pub. L. 113–40][/us/pl/113/40] added par. (6).
 
     2012—Subsec. (h)(4)(A). [Pub. L. 112–175][/us/pl/112/175] amended subpar. (A) generally. Prior to amendment, text read as follows: “The amount allocated to any State or Indian tribe under subparagraph (A) or (B) of [section 1232(g)(1) of this title][/us/usc/t30/s1232/g/1] that is paid to the State or Indian tribe as a result of a payment under paragraph (1) or (2) shall be reallocated and available for grants under [section 1232(g)(5) of this title][/us/usc/t30/s1232/g/5].”
 
@@ -197,6 +217,8 @@
 [/us/stat/126/915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F915
 [/us/pl/112/175/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175%2Fs142
 [/us/stat/126/1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1321
+[/us/pl/113/40/s10/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40%2Fs10%2Fd
+[/us/stat/127/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F546
 [/us/pl/95/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F604
 [/us/stat/92/3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3021
 [/us/usc/t42/s7901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7901
@@ -205,6 +227,7 @@
 [/us/usc/t42/s9601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9601
 [/us/pl/95/87/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F87%2Fs411
 [/us/usc/t30/s1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1241
+[/us/pl/113/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F40
 [/us/pl/112/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F175
 [/us/usc/t30/s1232/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F1
 [/us/usc/t30/s1232/g/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1232%2Fg%2F5

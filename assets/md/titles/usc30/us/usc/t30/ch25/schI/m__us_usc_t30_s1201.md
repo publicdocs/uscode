@@ -15,7 +15,7 @@
 
 ## § 1201. Congressional findings
 
-The Congress finds and declares that—
+    The Congress finds and declares that—
 
     (a) extraction of coal and other minerals from the earth can be accomplished by various methods of mining, including surface mining;
 

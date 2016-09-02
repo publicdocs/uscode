@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs2001" data-uslm-ref="/us/usc/t30/s2001">2001.</a>  </td>
 
     <td> Findings.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs2002" data-uslm-ref="/us/usc/t30/s2002">2002.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs2003" data-uslm-ref="/us/usc/t30/s2003">2003.</a>  </td>
 
     <td> Methane hydrate research and development program.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs2004" data-uslm-ref="/us/usc/t30/s2004">2004.</a>  </td>
 
     <td> National Research Council study.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs2005" data-uslm-ref="/us/usc/t30/s2005">2005.</a>  </td>
 
     <td> Reports and studies for Congress.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs2006" data-uslm-ref="/us/usc/t30/s2006">2006.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 28–2. Definitions
 
-As used in [section 28–1 of this title][/us/usc/t30/s28–1],
+    As used in [section 28–1 of this title][/us/usc/t30/s28–1],
 
     (a) The term “geological surveys” means surveys on the ground for mineral deposits by the proper application of the principles and techniques of the science of geology as they relate to the search for and discovery of mineral deposits;
 

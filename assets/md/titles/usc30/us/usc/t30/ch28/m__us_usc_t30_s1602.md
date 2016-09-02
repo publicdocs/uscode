@@ -15,7 +15,7 @@
 
 ## § 1602. Congressional declaration of policies
 
-The Congress declares that it is the continuing policy of the United States to promote an adequate and stable supply of materials necessary to maintain national security, economic well-being and industrial production with appropriate attention to a long-term balance between resource production, energy use, a healthy environment, natural resources conservation, and social needs. The Congress further declares that implementation of this policy requires that the President shall, through the Executive Office of the President, coordinate the responsible departments and agencies to, among other measures—
+    The Congress declares that it is the continuing policy of the United States to promote an adequate and stable supply of materials necessary to maintain national security, economic well-being and industrial production with appropriate attention to a long-term balance between resource production, energy use, a healthy environment, natural resources conservation, and social needs. The Congress further declares that implementation of this policy requires that the President shall, through the Executive Office of the President, coordinate the responsible departments and agencies to, among other measures—
 
     (1) identify materials needs and assist in the pursuit of measures that would assure the availability of materials critical to commerce, the economy, and national security;
 

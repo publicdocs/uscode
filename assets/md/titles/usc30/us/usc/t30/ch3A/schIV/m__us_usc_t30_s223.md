@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s221 to 222i.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s223a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs223)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_ch3A_schIV.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s223a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs223)
 
 ## § 223. Leases; amount and survey of land; term of lease; royalties and annual rental
 
@@ -33,7 +33,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s221 to 222i.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s223a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs223)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_ch3A_schIV.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s223a.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs223)
 
 ----------
 ----------

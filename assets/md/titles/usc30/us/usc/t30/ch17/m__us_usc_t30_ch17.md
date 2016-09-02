@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 641.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs641" data-uslm-ref="/us/usc/t30/s641">641.</a>  </td>
 
     <td> Establishment and maintenance of program for exploration; financial assistance.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 642.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs642" data-uslm-ref="/us/usc/t30/s642">642.</a>  </td>
 
     <td> Exploration contracts.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 643.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs643" data-uslm-ref="/us/usc/t30/s643">643.</a>  </td>
 
     <td> “Exploration” defined.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 644.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs644" data-uslm-ref="/us/usc/t30/s644">644.</a>  </td>
 
     <td> Advice and assistance by Government departments and agencies; expenditure of funds.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 645.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs645" data-uslm-ref="/us/usc/t30/s645">645.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 646.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs646" data-uslm-ref="/us/usc/t30/s646">646.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

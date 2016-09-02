@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs621" data-uslm-ref="/us/usc/t30/s621">621.</a>  </td>
 
     <td> Entry to lands reserved for power development.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs622" data-uslm-ref="/us/usc/t30/s622">622.</a>  </td>
 
     <td> Liability for damage, destruction, or loss of claim.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs623" data-uslm-ref="/us/usc/t30/s623">623.</a>  </td>
 
     <td> Recording and reporting of unpatented claims; time.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs624" data-uslm-ref="/us/usc/t30/s624">624.</a>  </td>
 
     <td> Protection of existing valid claims.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs625" data-uslm-ref="/us/usc/t30/s625">625.</a>  </td>
 
     <td> Prohibition of unspecified use.  </td>
 

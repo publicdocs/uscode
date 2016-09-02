@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1801.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1801" data-uslm-ref="/us/usc/t30/s1801">1801.</a>  </td>
 
     <td> Congressional findings and declaration of purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1802.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1802" data-uslm-ref="/us/usc/t30/s1802">1802.</a>  </td>
 
     <td> Establishment of National Critical Materials Council.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1803.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1803" data-uslm-ref="/us/usc/t30/s1803">1803.</a>  </td>
 
     <td> Responsibilities and authorities of Council.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1804.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1804" data-uslm-ref="/us/usc/t30/s1804">1804.</a>  </td>
 
     <td> Program and policy for advanced materials research and technology.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1805.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1805" data-uslm-ref="/us/usc/t30/s1805">1805.</a>  </td>
 
     <td> Innovation in basic and advanced materials industries.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1806.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1806" data-uslm-ref="/us/usc/t30/s1806">1806.</a>  </td>
 
     <td> Compensation of members and reimbursement.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1807.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1807" data-uslm-ref="/us/usc/t30/s1807">1807.</a>  </td>
 
     <td> Executive Director.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1808.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1808" data-uslm-ref="/us/usc/t30/s1808">1808.</a>  </td>
 
     <td> Responsibilities and duties of Director.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1809.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1809" data-uslm-ref="/us/usc/t30/s1809">1809.</a>  </td>
 
     <td> General authority of Council.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1810.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1810" data-uslm-ref="/us/usc/t30/s1810">1810.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1811.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1811" data-uslm-ref="/us/usc/t30/s1811">1811.</a>  </td>
 
     <td> “Materials” defined.  </td>
 

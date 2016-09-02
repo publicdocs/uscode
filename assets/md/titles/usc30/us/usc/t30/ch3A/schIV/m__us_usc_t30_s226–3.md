@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226–2.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226a, 226b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%E2%80%933)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226–2.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%E2%80%933)
 
 ## § 226–3. Lands not subject to oil and gas leasing
 
@@ -43,9 +43,19 @@
 
     Subsec. (b). [Pub. L. 100–443, § 5(c)(2)][/us/pl/100/443/s5/c/2], inserted “, coal, oil shale, phosphate, potassium, sulphur, gilsonite or geothermal resources” after “oil and gas”.
 
+§§ 226a, 226b. __Repealed.__  __[__  __Aug. 8, 1946, ch. 916, § 14__  __][/us/act/1946-08-08/ch916/s14]__  __,__  __[__  __60 Stat. 958__  __][/us/stat/60/958]__ 
+
+    Section 226a, [act July 8, 1940, ch. 548][/us/act/1940-07-08/ch548], [54 Stat. 742][/us/stat/54/742], related to lease of lands not within known productive field. See [section 226 of this title][/us/usc/t30/s226].
+
+    Section 226b, acts [July 29, 1942, ch. 534, § 1][/us/act/1942-07-29/ch534/s1], [56 Stat. 726][/us/stat/56/726]; [Dec. 22, 1943, ch. 376][/us/act/1943-12-22/ch376], [57 Stat. 608][/us/stat/57/608]; [Sept. 27, 1944, ch. 429][/us/act/1944-09-27/ch429], [58 Stat. 755][/us/stat/58/755]; [Nov. 30, 1945, ch. 495][/us/act/1945-11-30/ch495], [59 Stat. 587][/us/stat/59/587], related to preference right to new oil and gas lease upon expiration of five-year non-competitive oil and gas lease. See [section 226 of this title][/us/usc/t30/s226].
+
+ __Savings Provision__ 
+
+    See note set out under [section 181 of this title][/us/usc/t30/s181].
+
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226–2.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226a, 226b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%E2%80%933)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226–2.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226c.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226%E2%80%933)
 
 ----------
 ----------
@@ -61,5 +71,20 @@
 [/us/usc/t30/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs1001
 [/us/pl/100/443/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs5%2Fc%2F1
 [/us/pl/100/443/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F443%2Fs5%2Fc%2F2
+[/us/act/1946-08-08/ch916/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-08%2Fch916%2Fs14
+[/us/stat/60/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F958
+[/us/act/1940-07-08/ch548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-07-08%2Fch548
+[/us/stat/54/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F742
+[/us/usc/t30/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226
+[/us/act/1942-07-29/ch534/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1942-07-29%2Fch534%2Fs1
+[/us/stat/56/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F56%2F726
+[/us/act/1943-12-22/ch376]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-12-22%2Fch376
+[/us/stat/57/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F608
+[/us/act/1944-09-27/ch429]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-09-27%2Fch429
+[/us/stat/58/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F755
+[/us/act/1945-11-30/ch495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-11-30%2Fch495
+[/us/stat/59/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F587
+[/us/usc/t30/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs226
+[/us/usc/t30/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs181
 
 

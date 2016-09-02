@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s234 to 236.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s236b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs236a)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s233a.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s236b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs236a)
 
 ## § 236a. Lands in naval petroleum reserves and naval oil-shale reserves; effect of other laws
 
@@ -31,7 +31,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s234 to 236.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s236b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs236a)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s233a.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s236b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs236a)
 
 ----------
 ----------

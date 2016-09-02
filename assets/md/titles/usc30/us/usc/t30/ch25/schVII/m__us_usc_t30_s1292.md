@@ -49,7 +49,7 @@
 
 ([Pub. L. 95–87, title VII, § 702][/us/pl/95/87/s702], Aug. 3, 1977, [91 Stat. 519][/us/stat/91/519].)
 
- __References In Text__ 
+ __References in Text__ 
 
     The Mining and Minerals Policy Act of 1970 ([30 U.S.C. 21a][/us/usc/t30/s21a]), referred to in subsec. (a), is [Pub. L. 91–631][/us/pl/91/631], Dec. 31, 1970, [84 Stat. 1876][/us/stat/84/1876], which enacted [section 21a of this title][/us/usc/t30/s21a] and provisions set out as a note under [section 21a of this title][/us/usc/t30/s21a]. For complete classification of this Act to the Code, see Short Title note set out under [section 21a of this title][/us/usc/t30/s21a] and Tables.
 

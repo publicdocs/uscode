@@ -15,7 +15,7 @@
 
 ## § 1716. Liabilities and bonding
 
-A person (including any agent or employee of the United States and any independent contractor) authorized to collect, receive, account for, or otherwise handle any moneys payable to, or received by, the Department of the Interior which are derived from the sale, lease, or other disposal of any oil or gas shall be—
+    A person (including any agent or employee of the United States and any independent contractor) authorized to collect, receive, account for, or otherwise handle any moneys payable to, or received by, the Department of the Interior which are derived from the sale, lease, or other disposal of any oil or gas shall be—
 
     (1) liable to the United States for any losses caused by any intentional or reckless action or inaction of such individual with respect to such moneys; and
 

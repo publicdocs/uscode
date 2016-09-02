@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1501" data-uslm-ref="/us/usc/t30/s1501">1501.</a>  </td>
 
     <td> Congressional statement of findings.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—PROJECT LOANS  </td>
 
   <tr>
 
-    <td> 1511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1511" data-uslm-ref="/us/usc/t30/s1511">1511.</a>  </td>
 
     <td> Loans for geothermal reservoir confirmation.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—PROJECT LOANS  </td>
 
   <tr>
 
-    <td> 1512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1512" data-uslm-ref="/us/usc/t30/s1512">1512.</a>  </td>
 
     <td> Loan size limitation.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—PROJECT LOANS  </td>
 
   <tr>
 
-    <td> 1513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1513" data-uslm-ref="/us/usc/t30/s1513">1513.</a>  </td>
 
     <td> Loan interest rates; repayment periods.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—PROJECT LOANS  </td>
 
   <tr>
 
-    <td> 1514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1514" data-uslm-ref="/us/usc/t30/s1514">1514.</a>  </td>
 
     <td> Program termination.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—PROJECT LOANS  </td>
 
   <tr>
 
-    <td> 1515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1515" data-uslm-ref="/us/usc/t30/s1515">1515.</a>  </td>
 
     <td> Regulations.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—PROJECT LOANS  </td>
 
   <tr>
 
-    <td> 1516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1516" data-uslm-ref="/us/usc/t30/s1516">1516.</a>  </td>
 
     <td> Authorizations.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—STUDY, ESTABLISHMENT, AND IMPLEMENTATION OF INSURANCE PROGRAM  <
 
   <tr>
 
-    <td> 1521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1521" data-uslm-ref="/us/usc/t30/s1521">1521.</a>  </td>
 
     <td> Reservoir insurance program study.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—STUDY, ESTABLISHMENT, AND IMPLEMENTATION OF INSURANCE PROGRAM  <
 
   <tr>
 
-    <td> 1522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1522" data-uslm-ref="/us/usc/t30/s1522">1522.</a>  </td>
 
     <td> Establishment of program.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER III—ESTABLISHMENT OF ASSISTANCE PROGRAM  </td>
 
   <tr>
 
-    <td> 1531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1531" data-uslm-ref="/us/usc/t30/s1531">1531.</a>  </td>
 
     <td> Feasibility study loan program.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER IV—FEDERAL FACILITIES  </td>
 
   <tr>
 
-    <td> 1541.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1541" data-uslm-ref="/us/usc/t30/s1541">1541.</a>  </td>
 
     <td> Use of geothermal energy in Federal facilities.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER IV—FEDERAL FACILITIES  </td>
 
   <tr>
 
-    <td> 1542.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs1542" data-uslm-ref="/us/usc/t30/s1542">1542.</a>  </td>
 
     <td> Regulations.  </td>
 

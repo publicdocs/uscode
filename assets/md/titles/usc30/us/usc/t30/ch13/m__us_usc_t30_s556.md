@@ -15,7 +15,7 @@
 
 ## § 556. Administration
 
-In carrying out the provisions of [section 553 of this title][/us/usc/t30/s553] the Secretary of the Interior is authorized—
+    In carrying out the provisions of [section 553 of this title][/us/usc/t30/s553] the Secretary of the Interior is authorized—
 
     (a) __Employment of personnel__ 
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs291" data-uslm-ref="/us/usc/t30/s291">291.</a>  </td>
 
     <td> Lease of gold, silver, or quicksilver deposits on lands title to which confirmed by Court of Private Land Claims.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs292" data-uslm-ref="/us/usc/t30/s292">292.</a>  </td>
 
     <td> Royalties and rentals; disposition.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs293" data-uslm-ref="/us/usc/t30/s293">293.</a>  </td>
 
     <td> Duties of Secretary of the Interior.  </td>
 

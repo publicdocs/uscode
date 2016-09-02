@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 401.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs401" data-uslm-ref="/us/usc/t30/s401">401.</a>  </td>
 
     <td> Establishment of research laboratory; duties.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 402.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs402" data-uslm-ref="/us/usc/t30/s402">402.</a>  </td>
 
     <td> Acquisition of lands and property; utilization of voluntary services; cooperation with other Federal, State, and private agencies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 403.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs403" data-uslm-ref="/us/usc/t30/s403">403.</a>  </td>
 
     <td> Repealed.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 404.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs404" data-uslm-ref="/us/usc/t30/s404">404.</a>  </td>
 
     <td> Establishment of an advisory committee; composition and appointment.  </td>
 

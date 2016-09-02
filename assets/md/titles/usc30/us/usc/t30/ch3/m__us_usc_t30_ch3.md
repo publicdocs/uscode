@@ -33,7 +33,7 @@ SUBCHAPTER I—COAL LAND ENTRIES IN GENERAL  </td>
 
   <tr>
 
-    <td> 71.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs71" data-uslm-ref="/us/usc/t30/s71">71.</a>  </td>
 
     <td> Entry of unappropriated or unreserved Federal coal lands; eligibility; application; acreage limitation; price per acre.  </td>
 
@@ -41,7 +41,7 @@ SUBCHAPTER I—COAL LAND ENTRIES IN GENERAL  </td>
 
   <tr>
 
-    <td> 72.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs72" data-uslm-ref="/us/usc/t30/s72">72.</a>  </td>
 
     <td> Preference right of coal mine entry; acreage limitation.  </td>
 
@@ -49,7 +49,7 @@ SUBCHAPTER I—COAL LAND ENTRIES IN GENERAL  </td>
 
   <tr>
 
-    <td> 73.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs73" data-uslm-ref="/us/usc/t30/s73">73.</a>  </td>
 
     <td> Presentation of claims.  </td>
 
@@ -57,7 +57,7 @@ SUBCHAPTER I—COAL LAND ENTRIES IN GENERAL  </td>
 
   <tr>
 
-    <td> 74.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs74" data-uslm-ref="/us/usc/t30/s74">74.</a>  </td>
 
     <td> Number of coal land entries; other entries upon noncompliance with conditions.  </td>
 
@@ -65,7 +65,7 @@ SUBCHAPTER I—COAL LAND ENTRIES IN GENERAL  </td>
 
   <tr>
 
-    <td> 75.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs75" data-uslm-ref="/us/usc/t30/s75">75.</a>  </td>
 
     <td> Conflicting claims upon coal lands; rules and regulations.  </td>
 
@@ -73,7 +73,7 @@ SUBCHAPTER I—COAL LAND ENTRIES IN GENERAL  </td>
 
   <tr>
 
-    <td> 76.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs76" data-uslm-ref="/us/usc/t30/s76">76.</a>  </td>
 
     <td> Reservation of rights upon coal lands; sale of certain mining lands.  </td>
 
@@ -81,7 +81,7 @@ SUBCHAPTER I—COAL LAND ENTRIES IN GENERAL  </td>
 
   <tr>
 
-    <td> 77.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs77" data-uslm-ref="/us/usc/t30/s77">77.</a>  </td>
 
     <td> Alabama coal lands; agricultural entry.  </td>
 
@@ -97,7 +97,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs81" data-uslm-ref="/us/usc/t30/s81">81.</a>  </td>
 
     <td> Rights of entrymen of lands subsequently classified as coal lands; disposal of coal deposits.  </td>
 
@@ -105,7 +105,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 82.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs82" data-uslm-ref="/us/usc/t30/s82">82.</a>  </td>
 
     <td> New or supplemental patents, in case of lands subsequently classified as noncoal.  </td>
 
@@ -113,7 +113,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs83" data-uslm-ref="/us/usc/t30/s83">83.</a>  </td>
 
     <td> Homestead or desert-land and other entries.  </td>
 
@@ -121,7 +121,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 84.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs84" data-uslm-ref="/us/usc/t30/s84">84.</a>  </td>
 
     <td> Applications for entry.  </td>
 
@@ -129,7 +129,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs85" data-uslm-ref="/us/usc/t30/s85">85.</a>  </td>
 
     <td> Patents for lands, with reservation of coal; disposal of coal deposits.  </td>
 
@@ -137,7 +137,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 86.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs86" data-uslm-ref="/us/usc/t30/s86">86.</a>  </td>
 
     <td> Disposition of lands in Indian reservations with reservation of coal; examination and appraisal of lands.  </td>
 
@@ -145,7 +145,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 87.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs87" data-uslm-ref="/us/usc/t30/s87">87.</a>  </td>
 
     <td> Statements in application; patents.  </td>
 
@@ -153,7 +153,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 88.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs88" data-uslm-ref="/us/usc/t30/s88">88.</a>  </td>
 
     <td> Disposition of coal by United States.  </td>
 
@@ -161,7 +161,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 89.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs89" data-uslm-ref="/us/usc/t30/s89">89.</a>  </td>
 
     <td> Disposition of proceeds.  </td>
 
@@ -169,7 +169,7 @@ SUBCHAPTER II—COAL LAND ENTRIES UNDER NONMINERAL LAND LAWS WITH RESERVATION OF
 
   <tr>
 
-    <td> 90.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs90" data-uslm-ref="/us/usc/t30/s90">90.</a>  </td>
 
     <td> Selection of coal lands by States; sale in isolated or disconnected tracts.  </td>
 
@@ -185,7 +185,7 @@ SUBCHAPTER III—PETROLEUM, OTHER MINERAL OIL, OR GAS LAND ENTRIES UNDER MINING 
 
   <tr>
 
-    <td> 101.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs101" data-uslm-ref="/us/usc/t30/s101">101.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -193,7 +193,7 @@ SUBCHAPTER III—PETROLEUM, OTHER MINERAL OIL, OR GAS LAND ENTRIES UNDER MINING 
 
   <tr>
 
-    <td> 102.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs102" data-uslm-ref="/us/usc/t30/s102">102.</a>  </td>
 
     <td> Assessment work on contiguous oil lands, located as claims, of same owner.  </td>
 
@@ -201,7 +201,7 @@ SUBCHAPTER III—PETROLEUM, OTHER MINERAL OIL, OR GAS LAND ENTRIES UNDER MINING 
 
   <tr>
 
-    <td> 103.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs103" data-uslm-ref="/us/usc/t30/s103">103.</a>  </td>
 
     <td> Patents for oil or gas lands not denied because of transfer before discovery of oil or gas; acreage limitation; nonapplication to withdraw lands.  </td>
 
@@ -209,7 +209,7 @@ SUBCHAPTER III—PETROLEUM, OTHER MINERAL OIL, OR GAS LAND ENTRIES UNDER MINING 
 
   <tr>
 
-    <td> 104.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs104" data-uslm-ref="/us/usc/t30/s104">104.</a>  </td>
 
     <td> Agreements with applicants for patents as to disposition of oil or gas, or proceeds thereof, pending determination of title; Navy Petroleum Fund.  </td>
 
@@ -225,7 +225,9 @@ SUBCHAPTER IV—HOMESTEAD ENTRY OF LANDS IN UTAH, WITHDRAWN OR CLASSIFIED AS OIL
 
   <tr>
 
-    <td> 111 to 113. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs111" data-uslm-ref="/us/usc/t30/s111">111</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs113" data-uslm-ref="/us/usc/t30/s113">113.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -239,7 +241,7 @@ SUBCHAPTER V—AGRICULTURAL ENTRY OF LANDS WITHDRAWN OR CLASSIFIED AS CONTAINING
 
   <tr>
 
-    <td> 121.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs121" data-uslm-ref="/us/usc/t30/s121">121.</a>  </td>
 
     <td> Agricultural entry or purchase of lands withdrawn or classified as containing phosphate, nitrate, potash, oil, or gas; reservations to United States; application.  </td>
 
@@ -247,7 +249,7 @@ SUBCHAPTER V—AGRICULTURAL ENTRY OF LANDS WITHDRAWN OR CLASSIFIED AS CONTAINING
 
   <tr>
 
-    <td> 122.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs122" data-uslm-ref="/us/usc/t30/s122">122.</a>  </td>
 
     <td> Patents; reservation in the United States of reserved deposits; acquisition of right to remove deposits; application for entry to disprove classification.  </td>
 
@@ -255,7 +257,7 @@ SUBCHAPTER V—AGRICULTURAL ENTRY OF LANDS WITHDRAWN OR CLASSIFIED AS CONTAINING
 
   <tr>
 
-    <td> 123.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs123" data-uslm-ref="/us/usc/t30/s123">123.</a>  </td>
 
     <td> Persons locating lands subsequently withdrawn or classified; patents to.  </td>
 
@@ -263,7 +265,7 @@ SUBCHAPTER V—AGRICULTURAL ENTRY OF LANDS WITHDRAWN OR CLASSIFIED AS CONTAINING
 
   <tr>
 
-    <td> 124.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs124" data-uslm-ref="/us/usc/t30/s124">124.</a>  </td>
 
     <td> Agricultural entry or purchase of lands withdrawn or classified as containing sodium or sulphur.  </td>
 
@@ -271,7 +273,7 @@ SUBCHAPTER V—AGRICULTURAL ENTRY OF LANDS WITHDRAWN OR CLASSIFIED AS CONTAINING
 
   <tr>
 
-    <td> 125.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs125" data-uslm-ref="/us/usc/t30/s125">125.</a>  </td>
 
     <td> Patents in North Platte Reclamation Project; mineral rights; subrogation.  </td>
 
@@ -287,7 +289,7 @@ SUBCHAPTER VI—LOCATION OF PHOSPHATE ROCK LANDS UNDER PLACER-MINING LAWS  </td>
 
   <tr>
 
-    <td> 131.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs131" data-uslm-ref="/us/usc/t30/s131">131.</a>  </td>
 
     <td> Omitted.  </td>
 
@@ -303,7 +305,9 @@ SUBCHAPTER VII—PERMITS TO PROSPECT FOR CHLORIDES, SULPHATES, CARBONATES, BORAT
 
   <tr>
 
-    <td> 141 to 152. Repealed.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs141" data-uslm-ref="/us/usc/t30/s141">141</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs152" data-uslm-ref="/us/usc/t30/s152">152.</a>  </td>
+
+    <td> Repealed.  </td>
 
   </tr>
 
@@ -317,7 +321,7 @@ SUBCHAPTER VIII—BUILDING STONE OR SALINE LAND ENTRIES UNDER PLACER-MINING LAWS
 
   <tr>
 
-    <td> 161.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs161" data-uslm-ref="/us/usc/t30/s161">161.</a>  </td>
 
     <td> Entry of building-stone lands; previous law unaffected.  </td>
 
@@ -325,7 +329,7 @@ SUBCHAPTER VIII—BUILDING STONE OR SALINE LAND ENTRIES UNDER PLACER-MINING LAWS
 
   <tr>
 
-    <td> 162.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs162" data-uslm-ref="/us/usc/t30/s162">162.</a>  </td>
 
     <td> Entry of saline lands; limitation.  </td>
 
@@ -341,7 +345,7 @@ SUBCHAPTER IX—DISPOSAL OF ALABAMA LANDS AS AGRICULTURAL LANDS  </td>
 
   <tr>
 
-    <td> 171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs171" data-uslm-ref="/us/usc/t30/s171">171.</a>  </td>
 
     <td> Disposal as agricultural lands.  </td>
 
@@ -349,7 +353,7 @@ SUBCHAPTER IX—DISPOSAL OF ALABAMA LANDS AS AGRICULTURAL LANDS  </td>
 
   <tr>
 
-    <td> 172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs172" data-uslm-ref="/us/usc/t30/s172">172.</a>  </td>
 
     <td> Certain Alabama lands subject to homestead entry.  </td>
 

@@ -15,7 +15,7 @@
 
 ## § 525. Future location of claims on mineral lands
 
-Subject to the conditions and provisions of this chapter, mining claims and millsites may hereafter be located under the mining laws of the United States on lands of the United States which at the time of location are—
+    Subject to the conditions and provisions of this chapter, mining claims and millsites may hereafter be located under the mining laws of the United States on lands of the United States which at the time of location are—
 
     (a) included in a permit or lease issued under the mineral leasing laws; or
 
@@ -23,7 +23,7 @@ Subject to the conditions and provisions of this chapter, mining claims and mill
 
     (c) known to be valuable for minerals subject to disposition under the mineral leasing laws;
 
-        to the same extent in all respects as if such lands were not so included or covered or known.
+    to the same extent in all respects as if such lands were not so included or covered or known.
 
 ([Aug. 13, 1954, ch. 730, § 5][/us/act/1954-08-13/ch730/s5], [68 Stat. 710][/us/stat/68/710].)
 

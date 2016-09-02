@@ -15,7 +15,7 @@
 
 ## § 554. Lands subject to chapter
 
-The acts authorized in [section 553 of this title][/us/usc/t30/s553] may be performed—
+    The acts authorized in [section 553 of this title][/us/usc/t30/s553] may be performed—
 
     (a) on lands owned or controlled by the United States or any of its agencies, with the cooperation of the agency having jurisdiction thereof; and
 

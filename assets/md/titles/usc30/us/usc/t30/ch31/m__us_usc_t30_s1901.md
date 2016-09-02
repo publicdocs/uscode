@@ -15,7 +15,7 @@
 
 ## § 1901. Definitions
 
-In this chapter:
+    In this chapter:
 
     (1) The term “contract” has the same meaning as “procurement contract” in [section 6303 of title 31][/us/usc/t31/s6303].
 

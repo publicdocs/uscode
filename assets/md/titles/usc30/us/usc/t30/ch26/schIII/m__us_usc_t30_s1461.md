@@ -15,7 +15,7 @@
 
 ## § 1461. Prohibited acts
 
-It is unlawful for any person who is a United States citizen, or a foreign national on board a vessel documented or numbered under the laws of the United States, or subject to the jurisdiction of the United States under a reciprocating state agreement negotiated under [section 1428(e) of this title][/us/usc/t30/s1428/e]—
+    It is unlawful for any person who is a United States citizen, or a foreign national on board a vessel documented or numbered under the laws of the United States, or subject to the jurisdiction of the United States under a reciprocating state agreement negotiated under [section 1428(e) of this title][/us/usc/t30/s1428/e]—
 
     (1) to violate any provision of this chapter, any regulation issued under this chapter, or any term, condition, or restriction of any license or permit issued to such person under this chapter;
 

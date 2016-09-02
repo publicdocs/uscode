@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch6/m__us_usc_t30_s321 to 325.md) | [Next](./../../../..//us/usc/t30/ch7/m__us_usc_t30_s351.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch7)
+[Previous](./../../../..//us/usc/t30/ch6/m__us_usc_t30_ch6.md) | [Next](./../../../..//us/usc/t30/ch7/m__us_usc_t30_s351.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch7)
 
 ## CHAPTER 7—LEASE OF MINERAL DEPOSITS WITHIN ACQUIRED LANDS
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs351" data-uslm-ref="/us/usc/t30/s351">351.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs352" data-uslm-ref="/us/usc/t30/s352">352.</a>  </td>
 
     <td> Deposits subject to lease; consent of department heads; lands excluded.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs353" data-uslm-ref="/us/usc/t30/s353">353.</a>  </td>
 
     <td> Sale of lands unaffected; reservation of mineral rights; sale subject to prior lease; naval petroleum reserves unaffected.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs354" data-uslm-ref="/us/usc/t30/s354">354.</a>  </td>
 
     <td> Lease of partial or future interests in deposits.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs355" data-uslm-ref="/us/usc/t30/s355">355.</a>  </td>
 
     <td> Disposition of receipts.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs356" data-uslm-ref="/us/usc/t30/s356">356.</a>  </td>
 
     <td> Furnishing description of lands and title documents; recordation of documents; authenticated copies.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs357" data-uslm-ref="/us/usc/t30/s357">357.</a>  </td>
 
     <td> State or local government rights; taxation.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs358" data-uslm-ref="/us/usc/t30/s358">358.</a>  </td>
 
     <td> Rights under prior leases; priority of pending applications; exchange of leases.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 359.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs359" data-uslm-ref="/us/usc/t30/s359">359.</a>  </td>
 
     <td> Rules and regulations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 360.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs360" data-uslm-ref="/us/usc/t30/s360">360.</a>  </td>
 
     <td> Authority to manage certain mineral leases.  </td>
 
@@ -107,7 +107,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch6/m__us_usc_t30_s321 to 325.md) | [Next](./../../../..//us/usc/t30/ch7/m__us_usc_t30_s351.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch7)
+[Previous](./../../../..//us/usc/t30/ch6/m__us_usc_t30_ch6.md) | [Next](./../../../..//us/usc/t30/ch7/m__us_usc_t30_s351.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch7)
 
 ----------
 ----------

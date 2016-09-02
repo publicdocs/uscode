@@ -15,7 +15,7 @@
 
 ## § 1102. Definitions
 
-For the purposes of this chapter—
+    For the purposes of this chapter—
 
     (1) the term “geothermal resources” means (A) all products of geothermal processes, embracing indigenous steam, hot water, and brines, (B) steam and other gases, hot water and hot brines, resulting from water, gas, or other fluids artificially introduced into geothermal formations, and (C) any byproduct derived from them;
 

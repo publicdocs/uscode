@@ -15,7 +15,7 @@
 
 ## § 1278. Surface mining operations not subject to this chapter
 
-The provisions of this chapter shall not apply to any of the following activities:
+    The provisions of this chapter shall not apply to any of the following activities:
 
     (1) the extraction of coal by a landowner for his own noncommercial use from land owned or leased by him; and
 

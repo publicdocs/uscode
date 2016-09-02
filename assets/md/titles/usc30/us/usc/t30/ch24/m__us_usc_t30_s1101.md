@@ -15,7 +15,7 @@
 
 ## § 1101. Congressional findings
 
-The Congress hereby finds that—
+    The Congress hereby finds that—
 
     (1) the Nation is currently suffering a critical shortage of environmentally acceptable forms of energy;
 

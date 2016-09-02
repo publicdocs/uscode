@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s42.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s44, 45.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs43)
+[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s42.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s46.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs43)
 
 ## § 43. Conditions of sale by local legislature
 
@@ -27,9 +27,17 @@
 
     Provisions of this section as not amended, modified or repealed by the Submerged Lands Act, see [section 1303 of Title 43][/us/usc/t43/s1303], Public Lands.
 
+§§ 44, 45. __Omitted__ 
+
+ __Codification__ 
+
+    Section 44, R.S. § 2341; [act Mar. 3, 1891, ch. 561, § 4][/us/act/1891-03-03/ch561/s4], [26 Stat. 1097][/us/stat/26/1097], provided for extension of provisions of Homestead laws to citizens of United States who had prior to 1874 located on lands designated prior to 1866 as mineral lands, and improved them for agricultural purposes, provided no valuable mineral deposits had been discovered thereon.
+
+    Section 45, R.S. § 2342; [act Mar. 3, 1891, ch. 561, § 4][/us/act/1891-03-03/ch561/s4], [26 Stat. 1097][/us/stat/26/1097], provided for setting apart the lands as agricultural.
+
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s42.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s44, 45.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs43)
+[Previous](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s42.md) | [Next](./../../../..//us/usc/t30/ch2/m__us_usc_t30_s46.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs43)
 
 ----------
 ----------
@@ -37,5 +45,9 @@
 [/us/act/1866-07-26/ch262/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1866-07-26%2Fch262%2Fs5
 [/us/stat/14/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F14%2F252
 [/us/usc/t43/s1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1303
+[/us/act/1891-03-03/ch561/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs4
+[/us/stat/26/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1097
+[/us/act/1891-03-03/ch561/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1891-03-03%2Fch561%2Fs4
+[/us/stat/26/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F1097
 
 

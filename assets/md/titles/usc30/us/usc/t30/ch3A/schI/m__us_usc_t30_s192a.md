@@ -15,7 +15,7 @@
 
 ## § 192a. Cancellation or modification of contracts
 
-Where, under any existing contract entered into pursuant to the first proviso in the second paragraph of [section 192 of this title][/us/usc/t30/s192], any refinery is required to pay a premium price for the purchase of Government royalty oil, such refinery may, at its option, by written notice to the Secretary of the Interior, elect either—
+    Where, under any existing contract entered into pursuant to the first proviso in the second paragraph of [section 192 of this title][/us/usc/t30/s192], any refinery is required to pay a premium price for the purchase of Government royalty oil, such refinery may, at its option, by written notice to the Secretary of the Interior, elect either—
 
     (1) to terminate such contract, the termination to take place at the end of the calendar month following the month in which such notice is given; or
 

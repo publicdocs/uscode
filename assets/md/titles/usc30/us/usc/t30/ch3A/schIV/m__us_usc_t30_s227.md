@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226d, 226e.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s228.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs227)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226c.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s228.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs227)
 
 ## § 227. Omitted
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226d, 226e.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s228.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs227)
+[Previous](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s226c.md) | [Next](./../../../../..//us/usc/t30/ch3A/schIV/m__us_usc_t30_s228.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs227)
 
 ----------
 ----------

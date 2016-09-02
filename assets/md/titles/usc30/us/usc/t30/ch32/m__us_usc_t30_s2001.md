@@ -15,7 +15,7 @@
 
 ## § 2001. Findings
 
-Congress finds that—
+    Congress finds that—
 
     (1) in order to promote energy independence and meet the increasing demand for energy, the United States will require a diversified portfolio of substantially increased quantities of electricity, natural gas, and transportation fuels;
 

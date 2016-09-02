@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch10/m__us_usc_t30_s451 to 460, 471 to 483.md) | [Next](./../../../..//us/usc/t30/ch11/m__us_usc_t30_s501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch11)
+[Previous](./../../../..//us/usc/t30/ch10/m__us_usc_t30_ch10.md) | [Next](./../../../..//us/usc/t30/ch11/m__us_usc_t30_s501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch11)
 
 ## CHAPTER 11—MINING CLAIMS ON LANDS SUBJECT TO MINERAL LEASING LAWS
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs501" data-uslm-ref="/us/usc/t30/s501">501.</a>  </td>
 
     <td> Mining claims located between July 31, 1939, and January 1, 1953.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs502" data-uslm-ref="/us/usc/t30/s502">502.</a>  </td>
 
     <td> Reservation of minerals to the United States; rights of entry, disposition and removal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs503" data-uslm-ref="/us/usc/t30/s503">503.</a>  </td>
 
     <td> Reservations required by law; atomic energy materials.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs504" data-uslm-ref="/us/usc/t30/s504">504.</a>  </td>
 
     <td> Power to make arrangements respecting atomic energy materials as unaffected.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft30%2Fs505" data-uslm-ref="/us/usc/t30/s505">505.</a>  </td>
 
     <td> “Mineral leasing laws” defined.  </td>
 
@@ -67,7 +67,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t30/ch10/m__us_usc_t30_s451 to 460, 471 to 483.md) | [Next](./../../../..//us/usc/t30/ch11/m__us_usc_t30_s501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch11)
+[Previous](./../../../..//us/usc/t30/ch10/m__us_usc_t30_ch10.md) | [Next](./../../../..//us/usc/t30/ch11/m__us_usc_t30_s501.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fch11)
 
 ----------
 ----------
