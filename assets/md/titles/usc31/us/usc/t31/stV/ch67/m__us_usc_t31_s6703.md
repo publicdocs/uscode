@@ -117,7 +117,11 @@
 
             (B) will comply with subsection (d) and regulations prescribed under subsection (d).
 
-(Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1861][/us/stat/108/1861]; amended [Pub. L. 104–316, title I, § 115(j)][/us/pl/104/316/s115/j], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–424, 2681–432; [Pub. L. 107–217, § 3(h)(8)][/us/pl/107/217/s3/h/8], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 109–270, § 2(i)][/us/pl/109/270/s2/i], Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748].)
+(Added [Pub. L. 103–322, title III, § 31001(a)][/us/pl/103/322/s31001/a], Sept. 13, 1994, [108 Stat. 1861][/us/stat/108/1861]; amended [Pub. L. 104–316, title I, § 115(j)][/us/pl/104/316/s115/j], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(c)(3), (d)(27), (f)(19)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–417, 2681–424, 2681–432; [Pub. L. 107–217, § 3(h)(8)][/us/pl/107/217/s3/h/8], Aug. 21, 2002, [116 Stat. 1300][/us/stat/116/1300]; [Pub. L. 109–270, § 2(i)][/us/pl/109/270/s2/i], Aug. 12, 2006, [120 Stat. 748][/us/stat/120/748]; [Pub. L. 113–128, title V, § 512(ff)][/us/pl/113/128/s512/ff], July 22, 2014, [128 Stat. 1719][/us/stat/128/1719].)
+
+ __Amendment of Subsection (a)(4)__ 
+
+    [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 512(ff), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1719, provided that, effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], subsection (a)(4) of this section is amended by striking “Programs under title I of the Workforce Investment Act of 1998.” and inserting “Programs under title I of the Workforce Innovation and Opportunity Act.” See 2014 Amendment note below.
 
  __References in Text__ 
 
@@ -161,6 +165,8 @@
 
  __Amendments__ 
 
+    2014—Subsec. (a)(4). [Pub. L. 113–128][/us/pl/113/128] substituted “Programs under title I of the Workforce Innovation and Opportunity Act.” for “Programs under title I of the Workforce Investment Act of 1998.”
+
     2006—Subsec. (a)(12). [Pub. L. 109–270][/us/pl/109/270] which directed the substitution of “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”, was executed by making the substitution for “Carl Perkins Vocational Educational and Applied Technology Education Act” to reflect the probable intent of Congress.
 
     2002—Subsec. (d)(5). [Pub. L. 107–217][/us/pl/107/217] substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act); as amended ([40 U.S.C. 276a–276a][/us/usc/t40/s276a–276a]–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” for “[section 2 of the Act of June 1, 1934][/us/act/1934-06-01/s2] (commonly known as the Copeland Anti-Kickback Act), as amended ([40 U.S.C. 276c][/us/usc/t40/s276c], [48 Stat. 948][/us/stat/48/948])”.
@@ -172,6 +178,10 @@
     Subsec. (a)(15) to (19). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(c)(3)\], redesignated pars. (16) to (19) as (15) to (18), respectively, and struck out former par. (15) which read as follows: “The family support program under subtitle F of title VII of the Stewart B. McKinney Homeless Assistance Act ([42 U.S.C. 11481][/us/usc/t42/s11481] et seq.).”
 
     1996—Subsec. (d)(6). [Pub. L. 104–316][/us/pl/104/316] struck out “after consultation with the Comptroller General of the United States” after “by the Secretary”.
+
+ __Effective Date of 2014 Amendment__ 
+
+    Amendment by Pub. L. 113—128 effective on the first day of the first full program year after July 22, 2014 \[probably July 1, 2015\], see section 506 of Pub. L. 113—128, set out as an Effective Date note under [section 3101 of Title 29][/us/usc/t29/s3101], Labor.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -209,6 +219,10 @@
 [/us/stat/116/1300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1300
 [/us/pl/109/270/s2/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs2%2Fi
 [/us/stat/120/748]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F748
+[/us/pl/113/128/s512/ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fff
+[/us/stat/128/1719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1719
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
 [/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
 [/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
@@ -279,6 +293,7 @@
 [/us/stat/97/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1309
 [/us/pl/99/272/s14001/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs14001%2Fa%2F1
 [/us/stat/100/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F327
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/usc/t40/s276a–276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a%E2%80%93276a
@@ -292,6 +307,7 @@
 [/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
 [/us/usc/t42/s11481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11481
 [/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277

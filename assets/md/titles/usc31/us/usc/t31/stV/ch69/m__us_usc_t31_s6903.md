@@ -471,7 +471,7 @@
 
     (d) On October 1 of each year after the date of enactment of the Payment in Lieu of Taxes Act, the Secretary of the Interior shall adjust each dollar amount specified in subsections (b) and (c) to reflect changes in the Consumer Price Index published by the Bureau of Labor Statistics of the Department of Labor, for the 12 months ending the preceding June 30.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1032][/us/stat/96/1032]; [Pub. L. 98–63, title I, § 101(2)][/us/pl/98/63/s101/2], July 30, 1983, [97 Stat. 324][/us/stat/97/324]; [Pub. L. 103–397][/us/pl/103/397], §§ 2, 3, 5(b), Oct. 22, 1994, [108 Stat. 4156–4158][/us/stat/108/4156-4158]; [Pub. L. 106–393, § 4][/us/pl/106/393/s4], Oct. 30, 2000, [114 Stat. 1610][/us/stat/114/1610].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1032][/us/stat/96/1032]; [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 324][/us/stat/97/324]; [Pub. L. 103–397][/us/pl/103/397], §§ 2, 3, 5(b), Oct. 22, 1994, [108 Stat. 4156–4158][/us/stat/108/4156-4158]; [Pub. L. 106–393, § 4][/us/pl/106/393/s4], Oct. 30, 2000, [114 Stat. 1610][/us/stat/114/1610].)
 
 <table>
 
@@ -675,7 +675,7 @@ Oct. 20, 1976, Pub. L. 94–565, §§ 2, 4, 90 Stat. 2662, 2664.  </td>
 
  __Payments Made Prior to__  __January 1, 1983__ 
 
-[Pub. L. 98–63, title I, § 101(3)][/us/pl/98/63/s101/3], July 30, 1983, [97 Stat. 324][/us/stat/97/324], provided in part that: 
+[Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 324][/us/stat/97/324], provided in part that: 
 
 > “The United States shall not be subject to any cause of action or any liability for distribution of payments made prior to January 1, 1983, under the Act of October 20, 1976 ([90 Stat. 2662][/us/stat/90/2662]), as amended \[[Pub. L. 94–565][/us/pl/94/565], see [31 U.S.C. 6901][/us/usc/t31/s6901] et seq.\], or regulations pursuant thereto.”
 
@@ -704,7 +704,7 @@ Oct. 20, 1976, Pub. L. 94–565, §§ 2, 4, 90 Stat. 2662, 2664.  </td>
 [/us/usc/t31/s6902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs6902
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1032
-[/us/pl/98/63/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs101%2F2
+[/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
 [/us/stat/97/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F324
 [/us/pl/103/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F397
 [/us/stat/108/4156-4158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4156-4158
@@ -740,7 +740,7 @@ Oct. 20, 1976, Pub. L. 94–565, §§ 2, 4, 90 Stat. 2662, 2664.  </td>
 [/us/stat/108/4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4159
 [/us/pl/103/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F397
 [/us/stat/108/4160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4160
-[/us/pl/98/63/s101/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs101%2F3
+[/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
 [/us/stat/97/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F324
 [/us/stat/90/2662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2662
 [/us/pl/94/565]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F565

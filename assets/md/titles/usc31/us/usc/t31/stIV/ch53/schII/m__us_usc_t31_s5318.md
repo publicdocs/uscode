@@ -33,9 +33,17 @@
 
             (A) under the laws of such State, that class of transactions is subject to requirements substantially similar to those imposed under this subchapter; and
 
-            (B) there is adequate provision for the enforcement of such requirements; and
+            (B) there is adequate provision for the enforcement of such requirements;
 
-        (6) prescribe an appropriate exemption from a requirement under this subchapter and regulations prescribed under this subchapter. The Secretary may revoke an exemption under this paragraph or paragraph (5) by actually or constructively notifying the parties affected. A revocation is effective during judicial review.
+        (6)
+
+         rely on examinations conducted by a State supervisory agency of a category of financial institution, if the Secretary determines that—
+
+            (A) the category of financial institution is required to comply with this subchapter and regulations prescribed under this subchapter; or
+
+            (B) the State supervisory agency examines the category of financial institution for compliance with this subchapter and regulations prescribed under this subchapter; and
+
+        (7) prescribe an appropriate exemption from a requirement under this subchapter and regulations prescribed under this subchapter. The Secretary may revoke an exemption under this paragraph or paragraph (5) by actually or constructively notifying the parties affected. A revocation is effective during judicial review.
 
     (b) __Limitations on Summons Power.—__ 
 
@@ -429,7 +437,7 @@
 
             No regulations shall be prescribed under this subsection before the Secretary certifies to the Congress that the Financial Crimes Enforcement Network has the technological systems in place to effectively and efficiently receive, keep, exploit, protect the security of, and disseminate information from reports of cross-border electronic transmittals of funds to law enforcement and other entities engaged in efforts against money laundering and terrorist financing.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 999][/us/stat/96/999]; [Pub. L. 99–570, title I, § 1356(a)][/us/pl/99/570/s1356/a], (b), (c)(2), Oct. 27, 1986, [100 Stat. 3207–23][/us/stat/100/3207-23], 3207–24; [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6185(e), 6469(c), Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357], 4377; [Pub. L. 102–550, title XV][/us/pl/102/550], §§ 1504(d)(1), 1513, 1517(b), Oct. 28, 1992, [106 Stat. 4055][/us/stat/106/4055], 4058, 4059; [Pub. L. 103–322, title XXXIII, § 330017(b)(1)][/us/pl/103/322/s330017/b/1], Sept. 13, 1994, [108 Stat. 2149][/us/stat/108/2149]; [Pub. L. 103–325, title IV][/us/pl/103/325], §§ 403(a), 410, 413(b)(1), Sept. 23, 1994, [108 Stat. 2245][/us/stat/108/2245], 2252, 2254; [Pub. L. 107–56, title III][/us/pl/107/56], §§ 312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, [115 Stat. 304][/us/stat/115/304], 306, 312, 317, 320, 322, 326, 328, 335; [Pub. L. 108–159, title VIII, § 811(g)][/us/pl/108/159/s811/g], Dec. 4, 2003, [117 Stat. 2012][/us/stat/117/2012]; [Pub. L. 108–458, title VI][/us/pl/108/458], §§ 6202(h), 6203(c), (d), 6302, Dec. 17, 2004, [118 Stat. 3746–3748][/us/stat/118/3746-3748]; [Pub. L. 109–177, title IV, § 407][/us/pl/109/177/s407], Mar. 9, 2006, [120 Stat. 245][/us/stat/120/245]; [Pub. L. 112–74, div. C, title I, § 118][/us/pl/112/74/s118], Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 999][/us/stat/96/999]; [Pub. L. 99–570, title I, § 1356(a)][/us/pl/99/570/s1356/a], (b), (c)(2), Oct. 27, 1986, [100 Stat. 3207–23][/us/stat/100/3207-23], 3207–24; [Pub. L. 100–690, title VI][/us/pl/100/690], §§ 6185(e), 6469(c), Nov. 18, 1988, [102 Stat. 4357][/us/stat/102/4357], 4377; [Pub. L. 102–550, title XV][/us/pl/102/550], §§ 1504(d)(1), 1513, 1517(b), Oct. 28, 1992, [106 Stat. 4055][/us/stat/106/4055], 4058, 4059; [Pub. L. 103–322, title XXXIII, § 330017(b)(1)][/us/pl/103/322/s330017/b/1], Sept. 13, 1994, [108 Stat. 2149][/us/stat/108/2149]; [Pub. L. 103–325, title IV][/us/pl/103/325], §§ 403(a), 410, 413(b)(1), Sept. 23, 1994, [108 Stat. 2245][/us/stat/108/2245], 2252, 2254; [Pub. L. 107–56, title III][/us/pl/107/56], §§ 312(a), 313(a), 319(b), 325, 326(a), 351, 352(a), 358(b), 359(c), 365(c)(2)(B), Oct. 26, 2001, [115 Stat. 304][/us/stat/115/304], 306, 312, 317, 320, 322, 326, 328, 335; [Pub. L. 108–159, title VIII, § 811(g)][/us/pl/108/159/s811/g], Dec. 4, 2003, [117 Stat. 2012][/us/stat/117/2012]; [Pub. L. 108–458, title VI][/us/pl/108/458], §§ 6202(h), 6203(c), (d), 6302, Dec. 17, 2004, [118 Stat. 3746–3748][/us/stat/118/3746-3748]; [Pub. L. 109–177, title IV, § 407][/us/pl/109/177/s407], Mar. 9, 2006, [120 Stat. 245][/us/stat/120/245]; [Pub. L. 112–74, div. C, title I, § 118][/us/pl/112/74/s118], Dec. 23, 2011, [125 Stat. 891][/us/stat/125/891]; [Pub. L. 113–156, § 2(a)][/us/pl/113/156/s2/a], Aug. 8, 2014, [128 Stat. 1829][/us/stat/128/1829].)
 
 <table>
 
@@ -516,6 +524,8 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
     For provisions relating to the Bank Secrecy Act Advisory Group, referred to in subsec. (n)(4)(B), see [section 1564 of Pub. L. 102–550][/us/pl/102/550/s1564], which is set out as a note under [section 5311 of this title][/us/usc/t31/s5311].
 
  __Amendments__ 
+
+    2014—Subsec. (a)(6), (7). [Pub. L. 113–156][/us/pl/113/156] added par. (6) and redesignated former par. (6) as (7).
 
     2011—Subsec. (g)(2)(A)(i). [Pub. L. 112–74, § 118(1)][/us/pl/112/74/s118/1], added cl. (i) and struck out former cl. (i) which read as follows: “the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and”.
 
@@ -743,6 +753,8 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 [/us/stat/120/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F245
 [/us/pl/112/74/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs118
 [/us/stat/125/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F891
+[/us/pl/113/156/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F156%2Fs2%2Fa
+[/us/stat/128/1829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1829
 [/us/usc/t31/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5315
 [/us/usc/t12/s1829b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1829b
 [/us/usc/t12/s1730d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1730d
@@ -761,6 +773,7 @@ Oct. 26, 1970, Pub. L. 91–508, §§ 205(a), (b)(1st sentence), 206, 84 Stat.
 [/us/pl/108/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F458
 [/us/pl/102/550/s1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F550%2Fs1564
 [/us/usc/t31/s5311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5311
+[/us/pl/113/156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F156
 [/us/pl/112/74/s118/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs118%2F1
 [/us/pl/112/74/s118/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs118%2F2
 [/us/pl/109/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F177

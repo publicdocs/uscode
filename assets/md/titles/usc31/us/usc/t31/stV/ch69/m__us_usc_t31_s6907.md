@@ -21,7 +21,7 @@
 
     (c) Appropriations made for payments in lieu of taxes for a fiscal year may be used to correct underpayments in the previous fiscal year to achieve equity among all qualified recipients.
 
-(Added [Pub. L. 98–63, title I, § 101(4)][/us/pl/98/63/s101/4], July 30, 1983, [97 Stat. 324][/us/stat/97/324]; amended [Pub. L. 103–272, § 4(f)(1)(U)(ii)][/us/pl/103/272/s4/f/1/U/ii], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362].)
+(Added [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 324][/us/stat/97/324]; amended [Pub. L. 103–272, § 4(f)(1)(U)(ii)][/us/pl/103/272/s4/f/1/U/ii], July 5, 1994, [108 Stat. 1362][/us/stat/108/1362].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/98/63/s101/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs101%2F4
+[/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
 [/us/stat/97/324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F324
 [/us/pl/103/272/s4/f/1/U/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F272%2Fs4%2Ff%2F1%2FU%2Fii
 [/us/stat/108/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1362

@@ -877,7 +877,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 
 >     “(13) Section 3732 of the Revised Statutes, popularly known as the ‘Food and Forage Act’ (\[former\] [41 U.S.C. 11][/us/usc/t41/s11]) \[now [41 U.S.C. 6301(a)][/us/usc/t41/s6301/a], (b)\].
 
->     “(14) Section 101(b)(6) of the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff(b)(6)][/us/usc/t42/s1973ff/b/6]).
+>     “(14) Section 101(b)(6) of the Uniformed and Overseas Citizens Absentee Voting Act (\[former\] [42 U.S.C. 1973ff(b)(6)][/us/usc/t42/s1973ff/b/6]) \[now [52 U.S.C. 20301(b)(6)][/us/usc/t52/s20301/b/6]\].
 
 >     “(15) Section 1436(e) of the National Defense Authorization Act, Fiscal Year 1989 ([Public Law 100–456][/us/pl/100/456]; \[former\] [42 U.S.C. 2121][/us/usc/t42/s2121] note).
 
@@ -1385,6 +1385,7 @@ June 10, 1921, ch. 18, 42 Stat. 20, § 201(k)(2); added Sept. 8, 1982, Pub. L.
 [/us/usc/t41/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs11
 [/us/usc/t41/s6301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6301%2Fa
 [/us/usc/t42/s1973ff/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%2Fb%2F6
+[/us/usc/t52/s20301/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301%2Fb%2F6
 [/us/pl/100/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F456
 [/us/usc/t42/s2121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2121
 [/us/usc/t42/s6245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6245

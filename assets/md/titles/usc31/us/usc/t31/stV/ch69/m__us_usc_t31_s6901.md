@@ -63,7 +63,7 @@
 
         (B) the term “governmental services” includes, but is not limited to, those services that relate to public safety, the environment, housing, social services, transportation, and governmental administration.
 
-([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1031][/us/stat/96/1031]; [Pub. L. 98–63, title I, § 101(1)][/us/pl/98/63/s101/1], July 30, 1983, [97 Stat. 323][/us/stat/97/323]; [Pub. L. 100–446, title I][/us/pl/100/446], Sept. 27, 1988, [102 Stat. 1775][/us/stat/102/1775]; [Pub. L. 103–272, § 4(f)(3)][/us/pl/103/272/s4/f/3], July 5, 1994, [108 Stat. 1364][/us/stat/108/1364]; [Pub. L. 104–333, div. I, title X, § 1033(a)][/us/pl/104/333/s1033/a], Nov. 12, 1996, [110 Stat. 4239][/us/stat/110/4239]; [Pub. L. 105–83, title III, § 350][/us/pl/105/83/s350], Nov. 14, 1997, [111 Stat. 1607][/us/stat/111/1607]; [Pub. L. 105–263, § 5(d)][/us/pl/105/263/s5/d], Oct. 19, 1998, [112 Stat. 2348][/us/stat/112/2348].)
+([Pub. L. 97–258][/us/pl/97/258], Sept. 13, 1982, [96 Stat. 1031][/us/stat/96/1031]; [Pub. L. 98–63, title I][/us/pl/98/63], July 30, 1983, [97 Stat. 323][/us/stat/97/323]; [Pub. L. 100–446, title I][/us/pl/100/446], Sept. 27, 1988, [102 Stat. 1775][/us/stat/102/1775]; [Pub. L. 103–272, § 4(f)(3)][/us/pl/103/272/s4/f/3], July 5, 1994, [108 Stat. 1364][/us/stat/108/1364]; [Pub. L. 104–333, div. I, title X, § 1033(a)][/us/pl/104/333/s1033/a], Nov. 12, 1996, [110 Stat. 4239][/us/stat/110/4239]; [Pub. L. 105–83, title III, § 350][/us/pl/105/83/s350], Nov. 14, 1997, [111 Stat. 1607][/us/stat/111/1607]; [Pub. L. 105–263, § 5(d)][/us/pl/105/263/s5/d], Oct. 19, 1998, [112 Stat. 2348][/us/stat/112/2348].)
 
 <table>
 
@@ -234,7 +234,7 @@ June 15, 1935, ch. 261, 49 Stat. 378, § 401(h)(1); added Oct. 17, 1978, Pub. 
 [/us/usc/t16/s715s/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs715s%2Fg%2F3
 [/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1031
-[/us/pl/98/63/s101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63%2Fs101%2F1
+[/us/pl/98/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F63
 [/us/stat/97/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F323
 [/us/pl/100/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F446
 [/us/stat/102/1775]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1775
