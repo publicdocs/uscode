@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs451" data-uslm-ref="/us/usc/t28/s451">451.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs452" data-uslm-ref="/us/usc/t28/s452">452.</a>  </td>
 
     <td> Courts always open; power unrestricted by expiration of sessions. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs453" data-uslm-ref="/us/usc/t28/s453">453.</a>  </td>
 
     <td> Oath of justices and judges. <sup>[1]</sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs454" data-uslm-ref="/us/usc/t28/s454">454.</a>  </td>
 
     <td> Practice of law by justices and judges.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs455" data-uslm-ref="/us/usc/t28/s455">455.</a>  </td>
 
     <td> Disqualification of justice, judge, or magistrate judge.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 456.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs456" data-uslm-ref="/us/usc/t28/s456">456.</a>  </td>
 
     <td> Traveling expenses of justices and judges; official duty stations.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 457.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs457" data-uslm-ref="/us/usc/t28/s457">457.</a>  </td>
 
     <td> Records; obsolete papers.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 458.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs458" data-uslm-ref="/us/usc/t28/s458">458.</a>  </td>
 
     <td> Relative of justice or judge ineligible to appointment.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 459.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs459" data-uslm-ref="/us/usc/t28/s459">459.</a>  </td>
 
     <td> Administration of oaths and acknowledgments.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 460.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs460" data-uslm-ref="/us/usc/t28/s460">460.</a>  </td>
 
     <td> Application to other courts.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 461.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs461" data-uslm-ref="/us/usc/t28/s461">461.</a>  </td>
 
     <td> Adjustments in certain salaries.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 462.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs462" data-uslm-ref="/us/usc/t28/s462">462.</a>  </td>
 
     <td> Court accommodations.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 463.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs463" data-uslm-ref="/us/usc/t28/s463">463.</a>  </td>
 
     <td> Expenses of litigation.  </td>
 

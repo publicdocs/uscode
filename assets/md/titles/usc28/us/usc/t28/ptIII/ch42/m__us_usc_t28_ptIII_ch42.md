@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 620.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs620" data-uslm-ref="/us/usc/t28/s620">620.</a>  </td>
 
     <td> Federal Judicial Center.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 621.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs621" data-uslm-ref="/us/usc/t28/s621">621.</a>  </td>
 
     <td> Board; composition, tenure of members, compensation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 622.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs622" data-uslm-ref="/us/usc/t28/s622">622.</a>  </td>
 
     <td> Meetings; conduct of business.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 623.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs623" data-uslm-ref="/us/usc/t28/s623">623.</a>  </td>
 
     <td> Duties of the Board.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 624.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs624" data-uslm-ref="/us/usc/t28/s624">624.</a>  </td>
 
     <td> Powers of the Board.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 625.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs625" data-uslm-ref="/us/usc/t28/s625">625.</a>  </td>
 
     <td> Director and staff.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 626.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs626" data-uslm-ref="/us/usc/t28/s626">626.</a>  </td>
 
     <td> Compensation of the Director and Deputy Director.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 627.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs627" data-uslm-ref="/us/usc/t28/s627">627.</a>  </td>
 
     <td> Retirement; employee benefits.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 628.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs628" data-uslm-ref="/us/usc/t28/s628">628.</a>  </td>
 
     <td> Appropriations and accounting.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 629.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs629" data-uslm-ref="/us/usc/t28/s629">629.</a>  </td>
 
     <td> Federal Judicial Center Foundation.  </td>
 

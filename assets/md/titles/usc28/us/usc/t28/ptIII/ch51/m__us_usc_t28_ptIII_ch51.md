@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 791.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs791" data-uslm-ref="/us/usc/t28/s791">791.</a>  </td>
 
     <td> Clerk.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [792, 793.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs792" data-uslm-ref="/us/usc/t28/s792">792</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs793" data-uslm-ref="/us/usc/t28/s793">793.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 794.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs794" data-uslm-ref="/us/usc/t28/s794">794.</a>  </td>
 
     <td> Law clerks and secretaries.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 795.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs795" data-uslm-ref="/us/usc/t28/s795">795.</a>  </td>
 
     <td> Bailiffs and messengers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 796.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs796" data-uslm-ref="/us/usc/t28/s796">796.</a>  </td>
 
     <td> Reporting of court proceedings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 797.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs797" data-uslm-ref="/us/usc/t28/s797">797.</a>  </td>
 
     <td> Recall of retired judges.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 798.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs798" data-uslm-ref="/us/usc/t28/s798">798.</a>  </td>
 
     <td> Places of holding court; appointment of special masters.  </td>
 

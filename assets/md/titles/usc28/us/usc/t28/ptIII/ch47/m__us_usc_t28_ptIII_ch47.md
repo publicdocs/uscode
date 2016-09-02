@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs711" data-uslm-ref="/us/usc/t28/s711">711.</a>  </td>
 
     <td> Clerks and employees.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs712" data-uslm-ref="/us/usc/t28/s712">712.</a>  </td>
 
     <td> Law clerks and secretaries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs713" data-uslm-ref="/us/usc/t28/s713">713.</a>  </td>
 
     <td> Librarians.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs714" data-uslm-ref="/us/usc/t28/s714">714.</a>  </td>
 
     <td> Criers and messengers.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs715" data-uslm-ref="/us/usc/t28/s715">715.</a>  </td>
 
     <td> Staff attorneys and technical assistants.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 651.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs651" data-uslm-ref="/us/usc/t28/s651">651.</a>  </td>
 
     <td> Authorization of alternative dispute resolution.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 652.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs652" data-uslm-ref="/us/usc/t28/s652">652.</a>  </td>
 
     <td> Jurisdiction.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 653.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs653" data-uslm-ref="/us/usc/t28/s653">653.</a>  </td>
 
     <td> Neutrals.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 654.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs654" data-uslm-ref="/us/usc/t28/s654">654.</a>  </td>
 
     <td> Arbitration.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 655.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs655" data-uslm-ref="/us/usc/t28/s655">655.</a>  </td>
 
     <td> Arbitrators.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 656.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs656" data-uslm-ref="/us/usc/t28/s656">656.</a>  </td>
 
     <td> Subpoenas.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 657.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs657" data-uslm-ref="/us/usc/t28/s657">657.</a>  </td>
 
     <td> Arbitration award and judgment.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 658.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs658" data-uslm-ref="/us/usc/t28/s658">658.</a>  </td>
 
     <td> Compensation of arbitrators and neutrals.  </td>
 

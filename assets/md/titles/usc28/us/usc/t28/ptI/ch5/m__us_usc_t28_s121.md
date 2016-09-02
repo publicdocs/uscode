@@ -15,7 +15,7 @@
 
 ## § 121. South Carolina
 
-South Carolina constitutes one judicial district comprising eleven divisions.
+    South Carolina constitutes one judicial district comprising eleven divisions.
 
     (1) The Charleston Division comprises the counties of Berkeley, Charleston, Clarendon, Colleton, Dorchester, and Georgetown.    Court for the Charleston Division shall be held at Charleston.
 

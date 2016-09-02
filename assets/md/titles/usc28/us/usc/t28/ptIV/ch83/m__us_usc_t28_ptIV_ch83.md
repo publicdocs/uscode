@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1291" data-uslm-ref="/us/usc/t28/s1291">1291.</a>  </td>
 
     <td> Final decisions of district courts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1292" data-uslm-ref="/us/usc/t28/s1292">1292.</a>  </td>
 
     <td> Interlocutory decisions.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [1293.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1293" data-uslm-ref="/us/usc/t28/s1293">1293.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1294" data-uslm-ref="/us/usc/t28/s1294">1294.</a>  </td>
 
     <td> Circuits in which decisions reviewable.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1295" data-uslm-ref="/us/usc/t28/s1295">1295.</a>  </td>
 
     <td> Jurisdiction of the United States Court of Appeals for the Federal Circuit.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1296" data-uslm-ref="/us/usc/t28/s1296">1296.</a>  </td>
 
     <td> Review of certain agency actions.  </td>
 

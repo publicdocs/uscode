@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 151.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs151" data-uslm-ref="/us/usc/t28/s151">151.</a>  </td>
 
     <td> Designation of bankruptcy courts.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 152.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs152" data-uslm-ref="/us/usc/t28/s152">152.</a>  </td>
 
     <td> Appointment of bankruptcy judges.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 153.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs153" data-uslm-ref="/us/usc/t28/s153">153.</a>  </td>
 
     <td> Salaries; character of service.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 154.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs154" data-uslm-ref="/us/usc/t28/s154">154.</a>  </td>
 
     <td> Division of business; chief judge. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 155.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs155" data-uslm-ref="/us/usc/t28/s155">155.</a>  </td>
 
     <td> Temporary transfer of bankruptcy judges.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 156.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs156" data-uslm-ref="/us/usc/t28/s156">156.</a>  </td>
 
     <td> Staff; expenses.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 157.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs157" data-uslm-ref="/us/usc/t28/s157">157.</a>  </td>
 
     <td> Procedures.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 158.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs158" data-uslm-ref="/us/usc/t28/s158">158.</a>  </td>
 
     <td> Appeals.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 159.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs159" data-uslm-ref="/us/usc/t28/s159">159.</a>  </td>
 
     <td> Bankruptcy statistics.  </td>
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 751.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs751" data-uslm-ref="/us/usc/t28/s751">751.</a>  </td>
 
     <td> Clerks.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 752.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs752" data-uslm-ref="/us/usc/t28/s752">752.</a>  </td>
 
     <td> Law clerks and secretaries.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 753.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs753" data-uslm-ref="/us/usc/t28/s753">753.</a>  </td>
 
     <td> Reporters.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 754.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs754" data-uslm-ref="/us/usc/t28/s754">754.</a>  </td>
 
     <td> Receivers of property in different districts.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 755.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs755" data-uslm-ref="/us/usc/t28/s755">755.</a>  </td>
 
     <td> Criers and bailiffs.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 756.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs756" data-uslm-ref="/us/usc/t28/s756">756.</a>  </td>
 
     <td> Power to appoint.  </td>
 

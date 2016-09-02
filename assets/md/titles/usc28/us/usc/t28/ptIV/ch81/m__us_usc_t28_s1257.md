@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1255, 1256.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1258.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257)
+[Previous](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1254.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1258.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257)
 
 ## § 1257. State courts; certiorari
 
@@ -63,7 +63,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1255, 1256.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1258.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257)
+[Previous](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1254.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch81/m__us_usc_t28_s1258.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1257)
 
 ----------
 ----------

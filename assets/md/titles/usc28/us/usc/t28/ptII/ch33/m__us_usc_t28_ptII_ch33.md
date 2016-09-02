@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 531.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs531" data-uslm-ref="/us/usc/t28/s531">531.</a>  </td>
 
     <td> Federal Bureau of Investigation.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 532.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs532" data-uslm-ref="/us/usc/t28/s532">532.</a>  </td>
 
     <td> Director of the Federal Bureau of Investigation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 533.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs533" data-uslm-ref="/us/usc/t28/s533">533.</a>  </td>
 
     <td> Investigative and other officials; appointment.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 534.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs534" data-uslm-ref="/us/usc/t28/s534">534.</a>  </td>
 
     <td> Acquisition, preservation, and exchange of identification records and information; appointment of officials.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 535.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs535" data-uslm-ref="/us/usc/t28/s535">535.</a>  </td>
 
     <td> Investigation of crimes involving Government officers and employees; limitations.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 536.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs536" data-uslm-ref="/us/usc/t28/s536">536.</a>  </td>
 
     <td> Positions in excepted service.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 537.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs537" data-uslm-ref="/us/usc/t28/s537">537.</a>  </td>
 
     <td> Expenses of unforeseen emergencies of a confidential character.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 538.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs538" data-uslm-ref="/us/usc/t28/s538">538.</a>  </td>
 
     <td> Investigation of aircraft piracy and related violations.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 539.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs539" data-uslm-ref="/us/usc/t28/s539">539.</a>  </td>
 
     <td> Counterintelligence official reception and representation expenses.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 540.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs540" data-uslm-ref="/us/usc/t28/s540">540.</a>  </td>
 
     <td> Investigation of felonious killings of State or local law enforcement officers.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 540A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs540A" data-uslm-ref="/us/usc/t28/s540A">540A.</a>  </td>
 
     <td> Investigation of violent crimes against travelers.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 540B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs540B" data-uslm-ref="/us/usc/t28/s540B">540B.</a>  </td>
 
     <td> Investigation of serial killings.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 540C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs540C" data-uslm-ref="/us/usc/t28/s540C">540C.</a>  </td>
 
     <td> FBI police.  </td>
 

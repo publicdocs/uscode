@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 171.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs171" data-uslm-ref="/us/usc/t28/s171">171.</a>  </td>
 
     <td> Appointment and number of judges; character of court; designation of chief judge.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 172.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs172" data-uslm-ref="/us/usc/t28/s172">172.</a>  </td>
 
     <td> Tenure and salaries of judges.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 173.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs173" data-uslm-ref="/us/usc/t28/s173">173.</a>  </td>
 
     <td> Times and places of holding court.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 174.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs174" data-uslm-ref="/us/usc/t28/s174">174.</a>  </td>
 
     <td> Assignment of judges; decisions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 175.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs175" data-uslm-ref="/us/usc/t28/s175">175.</a>  </td>
 
     <td> Official duty station; residence.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 176.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs176" data-uslm-ref="/us/usc/t28/s176">176.</a>  </td>
 
     <td> Removal from office.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 177.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs177" data-uslm-ref="/us/usc/t28/s177">177.</a>  </td>
 
     <td> Disbarment of removed judges.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 178.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs178" data-uslm-ref="/us/usc/t28/s178">178.</a>  </td>
 
     <td> Retirement of judges of the Court of Federal Claims.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 179.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs179" data-uslm-ref="/us/usc/t28/s179">179.</a>  </td>
 
     <td> Personnel application and insurance programs.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [180.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs180" data-uslm-ref="/us/usc/t28/s180">180.</a>  </td>
 
     <td> Repealed.]  </td>
 

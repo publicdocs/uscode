@@ -27,7 +27,7 @@
 
     In this section:
 
-    “child” means—
+        “child” means—
 
         (A) a person under 18 years of age; and
 
@@ -71,71 +71,71 @@
 
         “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the territories and possessions of the United States, and Indian country (as defined in [section 1151 of title 18][/us/usc/t18/s1151]).
 
-        (c) __Requirements of Child Support Orders.—__ 
+    (c) __Requirements of Child Support Orders.—__ 
 
-        A child support order made by a court of a State is made consistently with this section if—
+    A child support order made by a court of a State is made consistently with this section if—
 
-            (1)
+        (1)
 
-             a court that makes the order, pursuant to the laws of the State in which the court is located and subsections (e), (f), and (g)—
+         a court that makes the order, pursuant to the laws of the State in which the court is located and subsections (e), (f), and (g)—
 
-                (A) has subject matter jurisdiction to hear the matter and enter such an order; and
+            (A) has subject matter jurisdiction to hear the matter and enter such an order; and
 
-                (B) has personal jurisdiction over the contestants; and
+            (B) has personal jurisdiction over the contestants; and
 
-            (2) reasonable notice and opportunity to be heard is given to the contestants.
+        (2) reasonable notice and opportunity to be heard is given to the contestants.
 
-        (d) __Continuing Jurisdiction.—__ 
+    (d) __Continuing Jurisdiction.—__ 
 
-        A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
+    A court of a State that has made a child support order consistently with this section has continuing, exclusive jurisdiction over the order if the State is the child’s State or the residence of any individual contestant unless the court of another State, acting in accordance with subsections (e) and (f), has made a modification of the order.
 
-        (e) __Authority To Modify Orders.—__ 
+    (e) __Authority To Modify Orders.—__ 
 
-        A court of a State may modify a child support order issued by a court of another State if—
+    A court of a State may modify a child support order issued by a court of another State if—
 
-            (1) the court has jurisdiction to make such a child support order pursuant to subsection (i); and
+        (1) the court has jurisdiction to make such a child support order pursuant to subsection (i); and
 
-            (2)
+        (2)
 
-                (A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child’s State or the residence of any individual contestant; or
+            (A) the court of the other State no longer has continuing, exclusive jurisdiction of the child support order because that State no longer is the child’s State or the residence of any individual contestant; or
 
-                (B) each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
+            (B) each individual contestant has filed written consent with the State of continuing, exclusive jurisdiction for a court of another State to modify the order and assume continuing, exclusive jurisdiction over the order.
 
-        (f) __Recognition of Child Support Orders.—__ 
+    (f) __Recognition of Child Support Orders.—__ 
 
-        If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
+    If 1 or more child support orders have been issued with regard to an obligor and a child, a court shall apply the following rules in determining which order to recognize for purposes of continuing, exclusive jurisdiction and enforcement:
 
-            (1) If only 1 court has issued a child support order, the order of that court must be recognized.
+        (1) If only 1 court has issued a child support order, the order of that court must be recognized.
 
-            (2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
+        (2) If 2 or more courts have issued child support orders for the same obligor and child, and only 1 of the courts would have continuing, exclusive jurisdiction under this section, the order of that court must be recognized.
 
-            (3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current home State of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
+        (3) If 2 or more courts have issued child support orders for the same obligor and child, and more than 1 of the courts would have continuing, exclusive jurisdiction under this section, an order issued by a court in the current home State of the child must be recognized, but if an order has not been issued in the current home State of the child, the order most recently issued must be recognized.
 
-            (4) If 2 or more courts have issued child support orders for the same obligor and child, and none of the courts would have continuing, exclusive jurisdiction under this section, a court having jurisdiction over the parties shall issue a child support order, which must be recognized.
+        (4) If 2 or more courts have issued child support orders for the same obligor and child, and none of the courts would have continuing, exclusive jurisdiction under this section, a court having jurisdiction over the parties shall issue a child support order, which must be recognized.
 
-            (5) The court that has issued an order recognized under this subsection is the court having continuing, exclusive jurisdiction under subsection (d).
+        (5) The court that has issued an order recognized under this subsection is the court having continuing, exclusive jurisdiction under subsection (d).
 
-        (g) __Enforcement of Modified Orders.—__ 
+    (g) __Enforcement of Modified Orders.—__ 
 
-        A court of a State that no longer has continuing, exclusive jurisdiction of a child support order may enforce the order with respect to nonmodifiable obligations and unsatisfied obligations that accrued before the date on which a modification of the order is made under subsections (e) and (f).
+    A court of a State that no longer has continuing, exclusive jurisdiction of a child support order may enforce the order with respect to nonmodifiable obligations and unsatisfied obligations that accrued before the date on which a modification of the order is made under subsections (e) and (f).
 
-        (h) __Choice of Law.—__ 
+    (h) __Choice of Law.—__ 
 
-            (1) __In general.—__ 
+        (1) __In general.—__ 
 
-            In a proceeding to establish, modify, or enforce a child support order, the forum State’s law shall apply except as provided in paragraphs (2) and (3).
+        In a proceeding to establish, modify, or enforce a child support order, the forum State’s law shall apply except as provided in paragraphs (2) and (3).
 
-            (2) __Law of state of issuance of order.—__ 
+        (2) __Law of state of issuance of order.—__ 
 
-            In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
+        In interpreting a child support order including the duration of current payments and other obligations of support, a court shall apply the law of the State of the court that issued the order.
 
-            (3) __Period of limitation.—__ 
+        (3) __Period of limitation.—__ 
 
-            In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
+        In an action to enforce arrears under a child support order, a court shall apply the statute of limitation of the forum State or the State of the court that issued the order, whichever statute provides the longer period of limitation.
 
-        (i) __Registration for Modification.—__ 
+    (i) __Registration for Modification.—__ 
 
-        If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
+    If there is no individual contestant or child residing in the issuing State, the party or support enforcement agency seeking to modify, or to modify and enforce, a child support order issued in another State shall register that order in a State with jurisdiction over the nonmovant for the purpose of modification.
 
 (Added [Pub. L. 103–383, § 3(a)][/us/pl/103/383/s3/a], Oct. 20, 1994, [108 Stat. 4064][/us/stat/108/4064]; amended [Pub. L. 104–193, title III, § 322][/us/pl/104/193/s322], Aug. 22, 1996, [110 Stat. 2221][/us/stat/110/2221]; [Pub. L. 105–33, title V, § 5554][/us/pl/105/33/s5554], Aug. 5, 1997, [111 Stat. 636][/us/stat/111/636].)
 

@@ -15,7 +15,7 @@
 
 ## § 1259. Court of Appeals for the Armed Forces; certiorari
 
-Decisions of the United States Court of Appeals for the Armed Forces may be reviewed by the Supreme Court by writ of certiorari in the following cases:
+    Decisions of the United States Court of Appeals for the Armed Forces may be reviewed by the Supreme Court by writ of certiorari in the following cases:
 
     (1) Cases reviewed by the Court of Appeals for the Armed Forces under [section 867(a)(1) of title 10][/us/usc/t10/s867/a/1].
 

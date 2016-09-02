@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs501" data-uslm-ref="/us/usc/t28/s501">501.</a>  </td>
 
     <td> Executive department.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs502" data-uslm-ref="/us/usc/t28/s502">502.</a>  </td>
 
     <td> Seal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs503" data-uslm-ref="/us/usc/t28/s503">503.</a>  </td>
 
     <td> Attorney General.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 504.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs504" data-uslm-ref="/us/usc/t28/s504">504.</a>  </td>
 
     <td> Deputy Attorney General.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 504a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs504a" data-uslm-ref="/us/usc/t28/s504a">504a.</a>  </td>
 
     <td> Associate Attorney General.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs505" data-uslm-ref="/us/usc/t28/s505">505.</a>  </td>
 
     <td> Solicitor General.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 506.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs506" data-uslm-ref="/us/usc/t28/s506">506.</a>  </td>
 
     <td> Assistant Attorneys General.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs507" data-uslm-ref="/us/usc/t28/s507">507.</a>  </td>
 
     <td> Assistant Attorney General for Administration.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 507A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs507A" data-uslm-ref="/us/usc/t28/s507A">507A.</a>  </td>
 
     <td> Assistant Attorney General for National Security.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs508" data-uslm-ref="/us/usc/t28/s508">508.</a>  </td>
 
     <td> Vacancies.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs509" data-uslm-ref="/us/usc/t28/s509">509.</a>  </td>
 
     <td> Functions of the Attorney General.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 509A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs509A" data-uslm-ref="/us/usc/t28/s509A">509A.</a>  </td>
 
     <td> National Security Division.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 509B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs509B" data-uslm-ref="/us/usc/t28/s509B">509B.</a>  </td>
 
     <td> Section to enforce human rights laws.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 510.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs510" data-uslm-ref="/us/usc/t28/s510">510.</a>  </td>
 
     <td> Delegation of authority.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 511.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs511" data-uslm-ref="/us/usc/t28/s511">511.</a>  </td>
 
     <td> Attorney General to advise the President.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 512.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs512" data-uslm-ref="/us/usc/t28/s512">512.</a>  </td>
 
     <td> Attorney General to advise heads of executive departments.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 513.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs513" data-uslm-ref="/us/usc/t28/s513">513.</a>  </td>
 
     <td> Attorney General to advise Secretaries of military departments.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 514.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs514" data-uslm-ref="/us/usc/t28/s514">514.</a>  </td>
 
     <td> Legal services on pending claims in departments and agencies.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 515.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs515" data-uslm-ref="/us/usc/t28/s515">515.</a>  </td>
 
     <td> Authority for legal proceedings; commission, oath, and salary for special attorneys.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 516.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs516" data-uslm-ref="/us/usc/t28/s516">516.</a>  </td>
 
     <td> Conduct of litigation reserved to Department of Justice.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 517.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs517" data-uslm-ref="/us/usc/t28/s517">517.</a>  </td>
 
     <td> Interests of United States in pending suits.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 518.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs518" data-uslm-ref="/us/usc/t28/s518">518.</a>  </td>
 
     <td> Conduct and argument of cases.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 519.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs519" data-uslm-ref="/us/usc/t28/s519">519.</a>  </td>
 
     <td> Supervision of litigation.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 520.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs520" data-uslm-ref="/us/usc/t28/s520">520.</a>  </td>
 
     <td> Transmission of petitions in United States Court of Federal Claims or in United States Court of Appeals for the Federal Circuit; statement furnished by departments.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 521.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs521" data-uslm-ref="/us/usc/t28/s521">521.</a>  </td>
 
     <td> Publication and distribution of opinions.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 522.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs522" data-uslm-ref="/us/usc/t28/s522">522.</a>  </td>
 
     <td> Report of business and statistics.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 523.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs523" data-uslm-ref="/us/usc/t28/s523">523.</a>  </td>
 
     <td> Requisitions.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 524.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs524" data-uslm-ref="/us/usc/t28/s524">524.</a>  </td>
 
     <td> Availability of appropriations.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 525.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs525" data-uslm-ref="/us/usc/t28/s525">525.</a>  </td>
 
     <td> Procurement of law books, reference books, and periodicals; sale and exchange.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 526.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs526" data-uslm-ref="/us/usc/t28/s526">526.</a>  </td>
 
     <td> Authority of the Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 527.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs527" data-uslm-ref="/us/usc/t28/s527">527.</a>  </td>
 
     <td> Establishment of working capital fund.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 528.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs528" data-uslm-ref="/us/usc/t28/s528">528.</a>  </td>
 
     <td> Disqualification of officers and employees of the Department of Justice.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 529.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs529" data-uslm-ref="/us/usc/t28/s529">529.</a>  </td>
 
     <td> Annual report of Attorney General.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 530.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs530" data-uslm-ref="/us/usc/t28/s530">530.</a>  </td>
 
     <td> Payment of travel and transportation expenses of newly appointed special agents.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 530A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs530A" data-uslm-ref="/us/usc/t28/s530A">530A.</a>  </td>
 
     <td> Authorization of appropriations for travel and related expenses and for health care of personnel serving abroad.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 530B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs530B" data-uslm-ref="/us/usc/t28/s530B">530B.</a>  </td>
 
     <td> Ethical standards for attorneys for the Government.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 530C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs530C" data-uslm-ref="/us/usc/t28/s530C">530C.</a>  </td>
 
     <td> Authority to use available funds.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 530D.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs530D" data-uslm-ref="/us/usc/t28/s530D">530D.</a>  </td>
 
     <td> Report on enforcement of laws.  </td>
 

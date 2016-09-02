@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 631.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs631" data-uslm-ref="/us/usc/t28/s631">631.</a>  </td>
 
     <td> Appointment and tenure.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 632.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs632" data-uslm-ref="/us/usc/t28/s632">632.</a>  </td>
 
     <td> Character of service.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 633.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs633" data-uslm-ref="/us/usc/t28/s633">633.</a>  </td>
 
     <td> Determination of number, locations, and salaries of magistrate judges.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 634.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs634" data-uslm-ref="/us/usc/t28/s634">634.</a>  </td>
 
     <td> Compensation.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 635.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs635" data-uslm-ref="/us/usc/t28/s635">635.</a>  </td>
 
     <td> Expenses.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 636.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs636" data-uslm-ref="/us/usc/t28/s636">636.</a>  </td>
 
     <td> Jurisdiction, powers, and temporary assignment.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 637.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs637" data-uslm-ref="/us/usc/t28/s637">637.</a>  </td>
 
     <td> Training.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 638.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs638" data-uslm-ref="/us/usc/t28/s638">638.</a>  </td>
 
     <td> Dockets and forms; United States Code; seals.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 639.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs639" data-uslm-ref="/us/usc/t28/s639">639.</a>  </td>
 
     <td> Definitions.  </td>
 

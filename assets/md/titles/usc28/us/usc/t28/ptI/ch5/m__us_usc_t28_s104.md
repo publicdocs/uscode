@@ -15,35 +15,47 @@
 
 ## § 104. Mississippi
 
-Mississippi is divided into two judicial districts to be known as the northern and southern districts of Mississippi.
+    Mississippi is divided into two judicial districts to be known as the northern and southern districts of Mississippi.
 
 Northern District
 
-    (a)
+    (a) The northern district comprises three divisions.
 
-     The northern district comprises three divisions.
+    (1) The Aberdeen Division comprises the counties of Alcorn, Chickasaw, Choctaw, Clay, Itawamba, Lee, Lowndes, Monroe, Oktibbeha, Prentiss, Tishomingo, Webster, and Winston.
 
-        (1) The Aberdeen Division comprises the counties of Alcorn, Chickasaw, Choctaw, Clay, Itawamba, Lee, Lowndes, Monroe, Oktibbeha, Prentiss, Tishomingo, Webster, and Winston.    Court for the Aberdeen Division shall be held at Aberdeen, Ackerman, and Corinth.
+    Court for the Aberdeen Division shall be held at Aberdeen, Ackerman, and Corinth.
 
-        (2) The Oxford Division comprises the counties of Benton, Calhoun, DeSoto, Lafayette, Marshall, Panola, Pontotoc, Quitman, Tallahatchie, Tate, Tippah, Tunica, Union, and Yalobusha.    Court for the Oxford Division shall be held at Oxford.
+    (2) The Oxford Division comprises the counties of Benton, Calhoun, DeSoto, Lafayette, Marshall, Panola, Pontotoc, Quitman, Tallahatchie, Tate, Tippah, Tunica, Union, and Yalobusha.
 
-        (3) The Greenville Division comprises the counties of Attala, Bolivar, Carroll, Coahoma, Grenada, Humphreys, Leflore, Montgomery, Sunflower, and Washington.    Court for the Greenville Division shall be held at Clarksdale, Cleveland, and Greenville.
+    Court for the Oxford Division shall be held at Oxford.
 
-        Southern District
+    (3) The Greenville Division comprises the counties of Attala, Bolivar, Carroll, Coahoma, Grenada, Humphreys, Leflore, Montgomery, Sunflower, and Washington.
 
-    (b)
+    Court for the Greenville Division shall be held at Clarksdale, Cleveland, and Greenville.
 
-     The southern district comprises five divisions.
+Southern District
 
-        (1) The Jackson division comprises the counties of Amite, Copiah, Franklin, Hinds, Holmes, Leake, Lincoln, Madison, Pike, Rankin, Scott, Simpson, and Smith.    Court for the Jackson division shall be held at Jackson.
+    (b) The southern district comprises five divisions.
 
-        (2) The eastern division comprises the counties of Clarke, Jasper, Kemper, Lauderdale, Neshoba, Newton, Noxubee, and Wayne.    Court for the eastern division shall be held at Meridian.
+    (1) The Jackson division comprises the counties of Amite, Copiah, Franklin, Hinds, Holmes, Leake, Lincoln, Madison, Pike, Rankin, Scott, Simpson, and Smith.
 
-        (3) The western division comprises the counties of Adams, Claiborne, Issaquena, Jefferson, Sharkey, Warren, Wilkinson, and Yazoo.    Court for the western division shall be held at Natchez and Vicksburg.
+    Court for the Jackson division shall be held at Jackson.
 
-        (4) The southern division comprises the counties of George, Hancock, Harrison, Jackson, Pearl River, and Stone.    Court for the southern division shall be held at Biloxi and Gulfport.
+    (2) The eastern division comprises the counties of Clarke, Jasper, Kemper, Lauderdale, Neshoba, Newton, Noxubee, and Wayne.
 
-        (5) The Hattiesburg division comprises the counties of Covington, Forrest, Greene, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, and Walthall.    Court for the Hattiesburg division shall be held at Hattiesburg.
+    Court for the eastern division shall be held at Meridian.
+
+    (3) The western division comprises the counties of Adams, Claiborne, Issaquena, Jefferson, Sharkey, Warren, Wilkinson, and Yazoo.
+
+    Court for the western division shall be held at Natchez and Vicksburg.
+
+    (4) The southern division comprises the counties of George, Hancock, Harrison, Jackson, Pearl River, and Stone.
+
+    Court for the southern division shall be held at Biloxi and Gulfport.
+
+    (5) The Hattiesburg division comprises the counties of Covington, Forrest, Greene, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, and Walthall.
+
+    Court for the Hattiesburg division shall be held at Hattiesburg.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 883][/us/stat/62/883]; [Aug. 7, 1950, ch. 601][/us/act/1950-08-07/ch601], [64 Stat. 415][/us/stat/64/415]; [Pub. L. 90–92][/us/pl/90/92], Sept. 27, 1967, [81 Stat. 229][/us/stat/81/229]; [Pub. L. 91–546][/us/pl/91/546], §§ 2, 3, Dec. 14, 1970, [84 Stat. 1412][/us/stat/84/1412]; [Pub. L. 95–408, § 2(b)][/us/pl/95/408/s2/b], Oct. 2, 1978, [92 Stat. 883][/us/stat/92/883]; [Pub. L. 106–130, § 1][/us/pl/106/130/s1], Dec. 6, 1999, [113 Stat. 1677][/us/stat/113/1677]; [Pub. L. 108–455, § 2][/us/pl/108/455/s2], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628]; [Pub. L. 112–188, § 3][/us/pl/112/188/s3], Oct. 5, 2012, [126 Stat. 1433][/us/stat/126/1433].)
 

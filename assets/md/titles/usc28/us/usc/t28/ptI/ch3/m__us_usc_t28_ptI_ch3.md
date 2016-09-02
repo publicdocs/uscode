@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 41.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs41" data-uslm-ref="/us/usc/t28/s41">41.</a>  </td>
 
     <td> Number and composition of circuits.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 42.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs42" data-uslm-ref="/us/usc/t28/s42">42.</a>  </td>
 
     <td> Allotment of Supreme Court justices to circuits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 43.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs43" data-uslm-ref="/us/usc/t28/s43">43.</a>  </td>
 
     <td> Creation and composition of courts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 44.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs44" data-uslm-ref="/us/usc/t28/s44">44.</a>  </td>
 
     <td> Appointment, tenure, residence and salary of circuit judges.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 45.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs45" data-uslm-ref="/us/usc/t28/s45">45.</a>  </td>
 
     <td> Chief judges; precedence of judges.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 46.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs46" data-uslm-ref="/us/usc/t28/s46">46.</a>  </td>
 
     <td> Assignment of judges; panels; hearings; quorum.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 47.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs47" data-uslm-ref="/us/usc/t28/s47">47.</a>  </td>
 
     <td> Disqualification of trial judge to hear appeal.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 48.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs48" data-uslm-ref="/us/usc/t28/s48">48.</a>  </td>
 
     <td> Terms of court.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 49.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs49" data-uslm-ref="/us/usc/t28/s49">49.</a>  </td>
 
     <td> Assignment of judges to division to appoint independent counsels.  </td>
 

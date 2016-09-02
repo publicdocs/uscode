@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1" data-uslm-ref="/us/usc/t28/s1">1.</a>  </td>
 
     <td> Number of justices; quorum.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2" data-uslm-ref="/us/usc/t28/s2">2.</a>  </td>
 
     <td> Terms of court.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs3" data-uslm-ref="/us/usc/t28/s3">3.</a>  </td>
 
     <td> Vacancy in office of Chief Justice; disability.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 4.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs4" data-uslm-ref="/us/usc/t28/s4">4.</a>  </td>
 
     <td> Precedence of associate justices.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs5" data-uslm-ref="/us/usc/t28/s5">5.</a>  </td>
 
     <td> Salaries of justices.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs6" data-uslm-ref="/us/usc/t28/s6">6.</a>  </td>
 
     <td> Records of former court of appeals.  </td>
 

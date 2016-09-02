@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 591.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs591" data-uslm-ref="/us/usc/t28/s591">591.</a>  </td>
 
     <td> Applicability of provisions of this chapter.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 592.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs592" data-uslm-ref="/us/usc/t28/s592">592.</a>  </td>
 
     <td> Preliminary investigation and application for appointment of an independent counsel.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 593.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs593" data-uslm-ref="/us/usc/t28/s593">593.</a>  </td>
 
     <td> Duties of the division of the court.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 594.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs594" data-uslm-ref="/us/usc/t28/s594">594.</a>  </td>
 
     <td> Authority and duties of an independent counsel.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 595.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs595" data-uslm-ref="/us/usc/t28/s595">595.</a>  </td>
 
     <td> Congressional oversight.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 596.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs596" data-uslm-ref="/us/usc/t28/s596">596.</a>  </td>
 
     <td> Removal of an independent counsel; termination of office.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 597.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs597" data-uslm-ref="/us/usc/t28/s597">597.</a>  </td>
 
     <td> Relationship with Department of Justice.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 598.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs598" data-uslm-ref="/us/usc/t28/s598">598.</a>  </td>
 
     <td> Severability.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 599.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs599" data-uslm-ref="/us/usc/t28/s599">599.</a>  </td>
 
     <td> Termination of effect of chapter.  </td>
 

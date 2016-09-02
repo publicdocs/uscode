@@ -15,7 +15,7 @@
 
 ## § 533. Investigative and other officials; appointment
 
-The Attorney General may appoint officials—
+    The Attorney General may appoint officials—
 
     (1) to detect and prosecute crimes against the United States;
 
@@ -25,7 +25,7 @@ The Attorney General may appoint officials—
 
     (4) to conduct such other investigations regarding official matters under the control of the Department of Justice and the Department of State as may be directed by the Attorney General.
 
-        This section does not limit the authority of departments and agencies to investigate crimes against the United States when investigative jurisdiction has been assigned by law to such departments and agencies.
+    This section does not limit the authority of departments and agencies to investigate crimes against the United States when investigative jurisdiction has been assigned by law to such departments and agencies.
 
 (Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 616][/us/stat/80/616]; amended [Pub. L. 107–273, div. A, title II, § 204(e)][/us/pl/107/273/s204/e], Nov. 2, 2002, [116 Stat. 1776][/us/stat/116/1776].)
 
@@ -149,9 +149,9 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >             may be used as a subject of the investigation directs without regard to [section 3302 of title 31][/us/usc/t31/s3302] of the United States Code: Provided, That the Director of the Federal Bureau of Investigation or the Administrator of the Drug Enforcement Administration, or their designees, in advance or as soon as practicable thereafter, make a written determination that such a use would further the investigation: And provided further, That the financial audit requirements of paragraphs (5) and (6) shall apply in each investigation where such a determination has been made.
 
->             “(3) As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under subparagraphs (C) and (D) of paragraph (1), or under paragraph (2) are no longer necessary for the conduct of such operation, such proceeds or the balance of such proceeds remaining at the time shall be deposited in the Treasury of the United States as miscellaneous receipts.
+>         “(3) As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under subparagraphs (C) and (D) of paragraph (1), or under paragraph (2) are no longer necessary for the conduct of such operation, such proceeds or the balance of such proceeds remaining at the time shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
->             “(4) If a corporation or business entity established or acquired as part of an undercover operation under subparagraph (B) of paragraph (1) with a net value of over $50,000 is to be liquidated, sold, or otherwise disposed of, the Federal Bureau of Investigation or the Drug Enforcement Administration, as much in advance as the Director or the Administrator, or the designee of the Director or the Administrator, determines is practicable, shall report the circumstances to the Attorney General and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
+>         “(4) If a corporation or business entity established or acquired as part of an undercover operation under subparagraph (B) of paragraph (1) with a net value of over $50,000 is to be liquidated, sold, or otherwise disposed of, the Federal Bureau of Investigation or the Drug Enforcement Administration, as much in advance as the Director or the Administrator, or the designee of the Director or the Administrator, determines is practicable, shall report the circumstances to the Attorney General and the Comptroller General. The proceeds of the liquidation, sale, or other disposition, after obligations are met, shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
 >         “(5)
 

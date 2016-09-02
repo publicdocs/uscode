@@ -29,71 +29,71 @@
 
   <tr>
 
-    <td> 31.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptII%2Fch31" data-uslm-ref="/us/usc/t28/ptII/ch31">31.</a>  </td>
 
     <td> The Attorney General  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs501" data-uslm-ref="/us/usc/t28/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 33.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptII%2Fch33" data-uslm-ref="/us/usc/t28/ptII/ch33">33.</a>  </td>
 
     <td> Federal Bureau of Investigation  </td>
 
-    <td> 531  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs531" data-uslm-ref="/us/usc/t28/s531">531</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 35.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptII%2Fch35" data-uslm-ref="/us/usc/t28/ptII/ch35">35.</a>  </td>
 
     <td> United States Attorneys  </td>
 
-    <td> 541  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs541" data-uslm-ref="/us/usc/t28/s541">541</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 37.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptII%2Fch37" data-uslm-ref="/us/usc/t28/ptII/ch37">37.</a>  </td>
 
     <td> United States Marshals Service  </td>
 
-    <td> 561  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs561" data-uslm-ref="/us/usc/t28/s561">561</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 39.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptII%2Fch39" data-uslm-ref="/us/usc/t28/ptII/ch39">39.</a>  </td>
 
     <td> United States Trustees  </td>
 
-    <td> 581  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs581" data-uslm-ref="/us/usc/t28/s581">581</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 40.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptII%2Fch40" data-uslm-ref="/us/usc/t28/ptII/ch40">40.</a>  </td>
 
     <td> Independent Counsel  </td>
 
-    <td> 591  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs591" data-uslm-ref="/us/usc/t28/s591">591</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 40A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptII%2Fch40A" data-uslm-ref="/us/usc/t28/ptII/ch40A">40A.</a>  </td>
 
     <td> Bureau of Alcohol, Tobacco, Firearms, and Explosives  </td>
 
-    <td> 2599A <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be section “599A”. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2599A" data-uslm-ref="/us/usc/t28/s2599A">2599A</a> <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be section “599A”. </sup></sup>   </td>
 
   </tr>
 

@@ -15,27 +15,31 @@
 
 ## § 102. Michigan
 
-Michigan is divided into two judicial districts to be known as the Eastern and Western Districts of Michigan.
+    Michigan is divided into two judicial districts to be known as the Eastern and Western Districts of Michigan.
 
 Eastern District
 
-    (a)
+    (a) The Eastern District comprises two divisions.
 
-     The Eastern District comprises two divisions.
+    (1) The Southern Division comprises the counties of Genesee, Jackson, Lapeer, Lenawee, Livingston, Macomb, Monroe, Oakland, Saint Clair, Sanilac, Shiawassee, Washtenaw, and Wayne.
 
-        (1) The Southern Division comprises the counties of Genesee, Jackson, Lapeer, Lenawee, Livingston, Macomb, Monroe, Oakland, Saint Clair, Sanilac, Shiawassee, Washtenaw, and Wayne.    Court for the Southern Division shall be held at Ann Arbor, Detroit, Flint, and Port Huron.
+    Court for the Southern Division shall be held at Ann Arbor, Detroit, Flint, and Port Huron.
 
-        (2) The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay, Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola.    Court for the Northern Division shall be held at Bay City.
+    (2) The Northern Division comprises the counties of Alcona, Alpena, Arenac, Bay, Cheboygan, Clare, Crawford, Gladwin, Gratiot, Huron, Iosco, Isabella, Midland, Montmorency, Ogemaw, Oscoda, Otsego, Presque Isle, Roscommon, Saginaw, and Tuscola.
 
-        Western District
+    Court for the Northern Division shall be held at Bay City.
 
-    (b)
+Western District
 
-     The Western District comprises two divisions.
+    (b) The Western District comprises two divisions.
 
-        (1) The Southern Division comprises the counties of Allegan, Antrim, Barry, Benzie, Berrien, Branch, Calhoun, Cass, Charlevoix, Clinton, Eaton, Emmet, Grand Traverse, Hillsdale, Ingham, Ionia, Kalamazoo, Kalkaska, Kent, Lake, Leelanau, Manistee, Mason, Mecosta, Missaukee, Montcalm, Muskegon, Newaygo, Oceana, Osceola, Ottawa, Saint Joseph, Van Buren, and Wexford.    Court for the Southern Division shall be held at Grand Rapids, Kalamazoo, Lansing, and Traverse City.
+    (1) The Southern Division comprises the counties of Allegan, Antrim, Barry, Benzie, Berrien, Branch, Calhoun, Cass, Charlevoix, Clinton, Eaton, Emmet, Grand Traverse, Hillsdale, Ingham, Ionia, Kalamazoo, Kalkaska, Kent, Lake, Leelanau, Manistee, Mason, Mecosta, Missaukee, Montcalm, Muskegon, Newaygo, Oceana, Osceola, Ottawa, Saint Joseph, Van Buren, and Wexford.
 
-        (2) The Northern Division comprises the counties of Alger, Baraga, Chippewa, Delta, Dickinson, Gogebic, Houghton, Iron, Keweenaw, Luce, Mackinac, Marquette, Menominee, Ontonagon, and Schoolcraft.    Court for the Northern Division shall be held at Marquette and Sault Sainte Marie.
+    Court for the Southern Division shall be held at Grand Rapids, Kalamazoo, Lansing, and Traverse City.
+
+    (2) The Northern Division comprises the counties of Alger, Baraga, Chippewa, Delta, Dickinson, Gogebic, Houghton, Iron, Keweenaw, Luce, Mackinac, Marquette, Menominee, Ontonagon, and Schoolcraft.
+
+    Court for the Northern Division shall be held at Marquette and Sault Sainte Marie.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 882][/us/stat/62/882]; [Feb. 10, 1954, ch. 6][/us/act/1954-02-10/ch6] § 2(b)(8), [68 Stat. 11][/us/stat/68/11]; [Pub. L. 87–36, § 3(d)][/us/pl/87/36/s3/d], May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 88–627][/us/pl/88/627], Oct. 6, 1964, [78 Stat. 1003][/us/stat/78/1003]; [Pub. L. 91–272, § 11][/us/pl/91/272/s11], June 2, 1970, [84 Stat. 298][/us/stat/84/298].)
 

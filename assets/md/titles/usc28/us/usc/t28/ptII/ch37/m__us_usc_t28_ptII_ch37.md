@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 561.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs561" data-uslm-ref="/us/usc/t28/s561">561.</a>  </td>
 
     <td> United States Marshals Service.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 562.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs562" data-uslm-ref="/us/usc/t28/s562">562.</a>  </td>
 
     <td> Vacancies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 563.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs563" data-uslm-ref="/us/usc/t28/s563">563.</a>  </td>
 
     <td> Oath of office.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 564.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs564" data-uslm-ref="/us/usc/t28/s564">564.</a>  </td>
 
     <td> Powers as sheriff.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 565.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs565" data-uslm-ref="/us/usc/t28/s565">565.</a>  </td>
 
     <td> Expenses of the Service.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 566.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs566" data-uslm-ref="/us/usc/t28/s566">566.</a>  </td>
 
     <td> Powers and duties.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 567.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs567" data-uslm-ref="/us/usc/t28/s567">567.</a>  </td>
 
     <td> Collection of fees; accounting.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 568.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs568" data-uslm-ref="/us/usc/t28/s568">568.</a>  </td>
 
     <td> Practice of law prohibited.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 569.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs569" data-uslm-ref="/us/usc/t28/s569">569.</a>  </td>
 
     <td> Reemployment rights.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> [570, 571.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs570" data-uslm-ref="/us/usc/t28/s570">570</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs571" data-uslm-ref="/us/usc/t28/s571">571.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> [572.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs572" data-uslm-ref="/us/usc/t28/s572">572.</a>  </td>
 
     <td> Renumbered.]  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> [572a to 574.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs572a" data-uslm-ref="/us/usc/t28/s572a">572a</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs574" data-uslm-ref="/us/usc/t28/s574">574.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> [575, 576.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs575" data-uslm-ref="/us/usc/t28/s575">575</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs576" data-uslm-ref="/us/usc/t28/s576">576.</a>  </td>
 
     <td> Renumbered.]  </td>
 

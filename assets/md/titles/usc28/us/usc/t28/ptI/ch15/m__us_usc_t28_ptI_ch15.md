@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs331" data-uslm-ref="/us/usc/t28/s331">331.</a>  </td>
 
     <td> Judicial Conference of the United States.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs332" data-uslm-ref="/us/usc/t28/s332">332.</a>  </td>
 
     <td> Judicial councils of circuits.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs333" data-uslm-ref="/us/usc/t28/s333">333.</a>  </td>
 
     <td> Judicial conferences of circuits.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs334" data-uslm-ref="/us/usc/t28/s334">334.</a>  </td>
 
     <td> Institutes and joint councils on sentencing.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs335" data-uslm-ref="/us/usc/t28/s335">335.</a>  </td>
 
     <td> Judicial Conference of the Court of International Trade.  </td>
 

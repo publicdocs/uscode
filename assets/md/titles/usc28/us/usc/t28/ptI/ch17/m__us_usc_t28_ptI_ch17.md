@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 371.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs371" data-uslm-ref="/us/usc/t28/s371">371.</a>  </td>
 
     <td> Retirement on salary; retirement in senior status.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 372.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs372" data-uslm-ref="/us/usc/t28/s372">372.</a>  </td>
 
     <td> Retirement for disability; substitute judge on failure to retire.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 373.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs373" data-uslm-ref="/us/usc/t28/s373">373.</a>  </td>
 
     <td> Judges in Territories and Possessions. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F99%2F396" data-uslm-ref="/us/pl/99/396">Pub. L. 99–396</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 374.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs374" data-uslm-ref="/us/usc/t28/s374">374.</a>  </td>
 
     <td> Residence of retired judges; official station.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 375.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs375" data-uslm-ref="/us/usc/t28/s375">375.</a>  </td>
 
     <td> Recall of certain judges and magistrate judges.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 376.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs376" data-uslm-ref="/us/usc/t28/s376">376.</a>  </td>
 
     <td> Annuities for survivors of certain judicial officials of the United States.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 377.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs377" data-uslm-ref="/us/usc/t28/s377">377.</a>  </td>
 
     <td> Retirement of bankruptcy judges and magistrate judges.  </td>
 

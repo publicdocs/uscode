@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1441.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1441" data-uslm-ref="/us/usc/t28/s1441">1441.</a>  </td>
 
     <td> Removal of civil actions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1442.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1442" data-uslm-ref="/us/usc/t28/s1442">1442.</a>  </td>
 
     <td> Federal officers and agencies sued or prosecuted. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1442a.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1442a" data-uslm-ref="/us/usc/t28/s1442a">1442a.</a>  </td>
 
     <td> Members of armed forces sued or prosecuted.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1443.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1443" data-uslm-ref="/us/usc/t28/s1443">1443.</a>  </td>
 
     <td> Civil rights cases.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1444.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1444" data-uslm-ref="/us/usc/t28/s1444">1444.</a>  </td>
 
     <td> Foreclosure action against United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1445.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1445" data-uslm-ref="/us/usc/t28/s1445">1445.</a>  </td>
 
     <td> Nonremovable actions.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1446.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1446" data-uslm-ref="/us/usc/t28/s1446">1446.</a>  </td>
 
     <td> Procedure for removal of civil actions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1447.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1447" data-uslm-ref="/us/usc/t28/s1447">1447.</a>  </td>
 
     <td> Procedure after removal generally.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1448.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1448" data-uslm-ref="/us/usc/t28/s1448">1448.</a>  </td>
 
     <td> Process after removal.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1449.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1449" data-uslm-ref="/us/usc/t28/s1449">1449.</a>  </td>
 
     <td> State court record supplied.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1450.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1450" data-uslm-ref="/us/usc/t28/s1450">1450.</a>  </td>
 
     <td> Attachment or sequestration; securities.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1451.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1451" data-uslm-ref="/us/usc/t28/s1451">1451.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1452.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1452" data-uslm-ref="/us/usc/t28/s1452">1452.</a>  </td>
 
     <td> Removal of claims related to bankruptcy cases.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1453.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1453" data-uslm-ref="/us/usc/t28/s1453">1453.</a>  </td>
 
     <td> Removal of class actions.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1454.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1454" data-uslm-ref="/us/usc/t28/s1454">1454.</a>  </td>
 
     <td> Patent, plant variety protection, and copyright cases.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1455.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1455" data-uslm-ref="/us/usc/t28/s1455">1455.</a>  </td>
 
     <td> Procedure for removal of criminal prosecutions.  </td>
 

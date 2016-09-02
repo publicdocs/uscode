@@ -15,7 +15,7 @@
 
 ## § 1607. Counterclaims
 
-In any action brought by a foreign state, or in which a foreign state intervenes, in a court of the United States or of a State, the foreign state shall not be accorded immunity with respect to any counterclaim—
+    In any action brought by a foreign state, or in which a foreign state intervenes, in a court of the United States or of a State, the foreign state shall not be accorded immunity with respect to any counterclaim—
 
     (a) for which a foreign state would not be entitled to immunity under section 1605 or 1605A of this chapter had such claim been brought in a separate action against the foreign state; or
 

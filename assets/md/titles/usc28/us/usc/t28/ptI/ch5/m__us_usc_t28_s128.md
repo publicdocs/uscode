@@ -15,15 +15,19 @@
 
 ## § 128. Washington
 
-Washington is divided into two judicial districts to be known as the Eastern and Western Districts of Washington.
+    Washington is divided into two judicial districts to be known as the Eastern and Western Districts of Washington.
 
 Eastern District
 
-    (a) The Eastern District comprises the counties of Adams, Asotin, Benton, Chelan, Columbia, Douglas, Ferry, Franklin, Garfield, Grant, Kittitas, Klickitat, Lincoln, Okanogan, Pend Oreille, Spokane, Stevens, Walla Walla, Whitman, and Yakima.    Court for the Eastern District shall be held at Spokane, Yakima, Walla Walla, and Richland.
+    (a) The Eastern District comprises the counties of Adams, Asotin, Benton, Chelan, Columbia, Douglas, Ferry, Franklin, Garfield, Grant, Kittitas, Klickitat, Lincoln, Okanogan, Pend Oreille, Spokane, Stevens, Walla Walla, Whitman, and Yakima.
 
-        Western District
+    Court for the Eastern District shall be held at Spokane, Yakima, Walla Walla, and Richland.
 
-    (b) The Western District comprises the counties of Clallam, Clark, Cowlitz, Grays Harbor, Island, Jefferson, King, Kitsap, Lewis, Mason, Pacific, Pierce, San Juan, Skagit, Skamania, Snohomish, Thurston, Wahkiakum, and Whatcom.    Court for the Western District shall be held at Bellingham, Seattle, Tacoma, and Vancouver.
+Western District
+
+    (b) The Western District comprises the counties of Clallam, Clark, Cowlitz, Grays Harbor, Island, Jefferson, King, Kitsap, Lewis, Mason, Pacific, Pierce, San Juan, Skagit, Skamania, Snohomish, Thurston, Wahkiakum, and Whatcom.
+
+    Court for the Western District shall be held at Bellingham, Seattle, Tacoma, and Vancouver.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 894][/us/stat/62/894]; [Pub. L. 87–699][/us/pl/87/699], Sept. 25, 1962, [76 Stat. 598][/us/stat/76/598]; [Pub. L. 91–272, § 4][/us/pl/91/272/s4], June 2, 1970, [84 Stat. 297][/us/stat/84/297]; [Pub. L. 110–161, div. D, title III, § 308][/us/pl/110/161/s308], Dec. 26, 2007, [121 Stat. 1990][/us/stat/121/1990].)
 

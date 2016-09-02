@@ -15,85 +15,131 @@
 
 ## § 124. Texas
 
-Texas is divided into four judicial districts to be known as the Northern, Southern, Eastern, and Western Districts of Texas.
+    Texas is divided into four judicial districts to be known as the Northern, Southern, Eastern, and Western Districts of Texas.
 
 Northern District
 
-    (a)
+    (a) The Northern District comprises seven divisions.
 
-     The Northern District comprises seven divisions.
+    (1) The Dallas Division comprises the counties of Dallas, Ellis, Hunt, Johnson, Kaufman, Navarro, and Rockwall.
 
-        (1) The Dallas Division comprises the counties of Dallas, Ellis, Hunt, Johnson, Kaufman, Navarro, and Rockwall.    Court for the Dallas Division shall be held at Dallas.
+    Court for the Dallas Division shall be held at Dallas.
 
-        (2) The Fort Worth Division comprises the counties of Comanche, Erath, Hood, Jack, Palo Pinto, Parker, Tarrant, and Wise.    Court for the Fort Worth Division shall be held at Fort Worth.
+    (2) The Fort Worth Division comprises the counties of Comanche, Erath, Hood, Jack, Palo Pinto, Parker, Tarrant, and Wise.
 
-        (3) The Abilene Division comprises the counties of Callahan, Eastland, Fisher, Haskell, Howard, Jones, Mitchell, Nolan, Shackleford, Stephens, Stonewall, Taylor, and Throckmorton.    Court for the Abilene Division shall be held at Abilene.
+    Court for the Fort Worth Division shall be held at Fort Worth.
 
-        (4) The San Angelo Division comprises the counties of Brown, Coke, Coleman, Concho, Crockett, Glasscock, Irion, Menard, Mills, Reagan, Runnels, Schleicher, Sterling, Sutton, and Tom Green.    Court for the San Angelo Division shall be held at San Angelo.
+    (3) The Abilene Division comprises the counties of Callahan, Eastland, Fisher, Haskell, Howard, Jones, Mitchell, Nolan, Shackleford, Stephens, Stonewall, Taylor, and Throckmorton.
 
-        (5) The Amarillo Division comprises the counties of Armstrong, Brisco, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher, and Wheeler.    Court for the Amarillo Division shall be held at Amarillo.
+    Court for the Abilene Division shall be held at Abilene.
 
-        (6) The Wichita Falls Division comprises the counties of Archer, Baylor, Clay, Cottle, Foard, Hardeman, King, Knox, Montague, Wichita, Wilbarger, and Young.    Court for the Wichita Falls Division shall be held at Wichita Falls.
+    (4) The San Angelo Division comprises the counties of Brown, Coke, Coleman, Concho, Crockett, Glasscock, Irion, Menard, Mills, Reagan, Runnels, Schleicher, Sterling, Sutton, and Tom Green.
 
-        (7) The Lubbock Division comprises the counties of Bailey, Borden, Cochran, Crosby, Dawson, Dickens, Floyd, Gaines, Garza, Hale, Hockley, Kent, Lamb, Lubbock, Lynn, Motley, Scurry, Terry, and Yoakum.    Court for the Lubbock Division shall be held at Lubbock.
+    Court for the San Angelo Division shall be held at San Angelo.
 
-        Southern District
+    (5) The Amarillo Division comprises the counties of Armstrong, Brisco, Carson, Castro, Childress, Collingsworth, Dallam, Deaf Smith, Donley, Gray, Hall, Hansford, Hartley, Hemphill, Hutchinson, Lipscomb, Moore, Ochiltree, Oldham, Parmer, Potter, Randall, Roberts, Sherman, Swisher, and Wheeler.
 
-    (b)
+    Court for the Amarillo Division shall be held at Amarillo.
 
-     The Southern District comprises seven divisions.
+    (6) The Wichita Falls Division comprises the counties of Archer, Baylor, Clay, Cottle, Foard, Hardeman, King, Knox, Montague, Wichita, Wilbarger, and Young.
 
-        (1) The Galveston Division comprises the counties of Brazoria, Chambers, Galveston, and Matagorda.    Court for the Galveston Division shall be held at Galveston.
+    Court for the Wichita Falls Division shall be held at Wichita Falls.
 
-        (2) The Houston Division comprises the counties of Austin, Brazos, Colorado, Fayette, Fort Bend, Grimes, Harris, Madison, Montgomery, San Jacinto, Walker, Waller, and Wharton.    Court for the Houston Division shall be held at Houston.
+    (7) The Lubbock Division comprises the counties of Bailey, Borden, Cochran, Crosby, Dawson, Dickens, Floyd, Gaines, Garza, Hale, Hockley, Kent, Lamb, Lubbock, Lynn, Motley, Scurry, Terry, and Yoakum.
 
-        (3) The Laredo Division comprises the counties of Jim Hogg, La Salle, McMullen, Webb, and Zapata.    Court for the Laredo Division shall be held at Laredo.
+    Court for the Lubbock Division shall be held at Lubbock.
 
-        (4) The Brownsville Division comprises the counties of Cameron and Willacy.    Court for the Brownsville Division shall be held at Brownsville.
+Southern District
 
-        (5) The Victoria Division comprises the counties of Calhoun, DeWitt, Goliad, Jackson, Lavaca, Refugio, and Victoria.    Court for the Victoria Division shall be held at Victoria.
+    (b) The Southern District comprises seven divisions.
 
-        (6) The Corpus Christi Division comprises the counties of Aransas, Bee, Brooks, Duval, Jim Wells, Kenedy, Kleberg, Live Oak, Nueces, and San Patricio.    Court for the Corpus Christi Division shall be held at Corpus Christi.
+    (1) The Galveston Division comprises the counties of Brazoria, Chambers, Galveston, and Matagorda.
 
-        (7) The McAllen Division comprises the counties of Hidalgo and Starr.    Court for the McAllen Division shall be held at McAllen.
+    Court for the Galveston Division shall be held at Galveston.
 
-        Eastern District
+    (2) The Houston Division comprises the counties of Austin, Brazos, Colorado, Fayette, Fort Bend, Grimes, Harris, Madison, Montgomery, San Jacinto, Walker, Waller, and Wharton.
 
-    (c)
+    Court for the Houston Division shall be held at Houston.
 
-     The Eastern District comprises seven divisions.
+    (3) The Laredo Division comprises the counties of Jim Hogg, La Salle, McMullen, Webb, and Zapata.
 
-        (1) The Tyler Division comprises the counties of Anderson, Cherokee, Gregg, Henderson, Panola, Rains, Rusk, Smith, Van Zandt, and Wood.    Court for Tyler Division will be held at Tyler.
+    Court for the Laredo Division shall be held at Laredo.
 
-        (2) The Beaumont Division comprises the counties of Hardin, Jasper, Jefferson, Liberty, Newton, and Orange.    Court for the Beaumont Division is to be held at Beaumont.
+    (4) The Brownsville Division comprises the counties of Cameron and Willacy.
 
-        (3) The Sherman Division comprises the counties of Collin, Cook, Delta, Denton, Fannin, Grayson, Hopkins, and Lamar.    Court for the Sherman Division shall be held at Sherman and Plano.
+    Court for the Brownsville Division shall be held at Brownsville.
 
-        (4) The Marshall Division comprises the counties of Camp, Cass, Harrison, Marion, Morris, and Upshur.    Court for the Marshall Division shall be held at Marshall.
+    (5) The Victoria Division comprises the counties of Calhoun, DeWitt, Goliad, Jackson, Lavaca, Refugio, and Victoria.
 
-        (5) The Texarkana Division comprises the counties of Bowie, Franklin, Red River, and Titus.    Court for the Texarkana Division shall be held at Texarkana, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas.
+    Court for the Victoria Division shall be held at Victoria.
 
-        (6) The Lufkin Division comprises the counties of Angelina, Houston, Nacogdoches, Polk, Sabine, San Augustine, Shelby, Trinity, and Tyler.    Court for the Lufkin Division shall be held at Lufkin.
+    (6) The Corpus Christi Division comprises the counties of Aransas, Bee, Brooks, Duval, Jim Wells, Kenedy, Kleberg, Live Oak, Nueces, and San Patricio.
 
-        Western District
+    Court for the Corpus Christi Division shall be held at Corpus Christi.
 
-    (d)
+    (7) The McAllen Division comprises the counties of Hidalgo and Starr.
 
-     The Western District comprises seven divisions.
+    Court for the McAllen Division shall be held at McAllen.
 
-        (1) The Austin Division comprises the counties of Bastrop, Blanco, Burleson, Burnet, Caldwell, Gillespie, Hays, Kimble, Lampasas, Lee, Llano, Mason, McCulloch, San Saba, Travis, Washington, and Williamson.    Court for the Austin Division shall be held at Austin.
+Eastern District
 
-        (2) The Waco Division comprises the counties of Bell, Bosque, Coryell, Falls, Freestone, Hamilton, Hill, Leon, Limestone, McLennan, Milam, Robertson, and Somervell.    Court for the Waco Division shall be held at Waco.
+    (c) The Eastern District comprises seven divisions.
 
-        (3) The El Paso Division comprises the county of El Paso.    Court for the El Paso Division shall be held at El Paso.
+    (1) The Tyler Division comprises the counties of Anderson, Cherokee, Gregg, Henderson, Panola, Rains, Rusk, Smith, Van Zandt, and Wood.
 
-        (4) The San Antonio Division comprises the counties of Atascosa, Bandera, Bexar, Comal, Dimmit, Frio, Gonzales, Guadalupe, Karnes, Kendall, Kerr, Medina, Real, and Wilson.    Court for the San Antonio Division shall be held at San Antonio.
+    Court for Tyler Division will be held at Tyler.
 
-        (5) The Del Rio Division comprises the counties of Edwards, Kinney, Maverick, Terrell, Uvalde, Val Verde, and Zavalla.    Court for the Del Rio Division shall be held at Del Rio.
+    (2) The Beaumont Division comprises the counties of Hardin, Jasper, Jefferson, Liberty, Newton, and Orange.
 
-        (6) The Pecos Division comprises the counties of Brewster, Culberson, Jeff Davis, Hudspeth, Loving, Pecos, Presidio, Reeves, Ward, and Winkler.    Court for the Pecos Division shall be held at Pecos.
+    Court for the Beaumont Division is to be held at Beaumont.
 
-        (7) The Midland-Odessa Division comprises the counties of Andrews, Crane, Ector, Martin, Midland, and Upton.    Court for the Midland-Odessa Division shall be held at Midland. Court may be held, in the discretion of the court, in Odessa, when courtroom facilities are made available at no expense to the Government.
+    (3) The Sherman Division comprises the counties of Collin, Cook, Delta, Denton, Fannin, Grayson, Hopkins, and Lamar.
+
+    Court for the Sherman Division shall be held at Sherman and Plano.
+
+    (4) The Marshall Division comprises the counties of Camp, Cass, Harrison, Marion, Morris, and Upshur.
+
+    Court for the Marshall Division shall be held at Marshall.
+
+    (5) The Texarkana Division comprises the counties of Bowie, Franklin, Red River, and Titus.
+
+    Court for the Texarkana Division shall be held at Texarkana, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas.
+
+    (6) The Lufkin Division comprises the counties of Angelina, Houston, Nacogdoches, Polk, Sabine, San Augustine, Shelby, Trinity, and Tyler.
+
+    Court for the Lufkin Division shall be held at Lufkin.
+
+Western District
+
+    (d) The Western District comprises seven divisions.
+
+    (1) The Austin Division comprises the counties of Bastrop, Blanco, Burleson, Burnet, Caldwell, Gillespie, Hays, Kimble, Lampasas, Lee, Llano, Mason, McCulloch, San Saba, Travis, Washington, and Williamson.
+
+    Court for the Austin Division shall be held at Austin.
+
+    (2) The Waco Division comprises the counties of Bell, Bosque, Coryell, Falls, Freestone, Hamilton, Hill, Leon, Limestone, McLennan, Milam, Robertson, and Somervell.
+
+    Court for the Waco Division shall be held at Waco.
+
+    (3) The El Paso Division comprises the county of El Paso.
+
+    Court for the El Paso Division shall be held at El Paso.
+
+    (4) The San Antonio Division comprises the counties of Atascosa, Bandera, Bexar, Comal, Dimmit, Frio, Gonzales, Guadalupe, Karnes, Kendall, Kerr, Medina, Real, and Wilson.
+
+    Court for the San Antonio Division shall be held at San Antonio.
+
+    (5) The Del Rio Division comprises the counties of Edwards, Kinney, Maverick, Terrell, Uvalde, Val Verde, and Zavalla.
+
+    Court for the Del Rio Division shall be held at Del Rio.
+
+    (6) The Pecos Division comprises the counties of Brewster, Culberson, Jeff Davis, Hudspeth, Loving, Pecos, Presidio, Reeves, Ward, and Winkler.
+
+    Court for the Pecos Division shall be held at Pecos.
+
+    (7) The Midland-Odessa Division comprises the counties of Andrews, Crane, Ector, Martin, Midland, and Upton.
+
+    Court for the Midland-Odessa Division shall be held at Midland. Court may be held, in the discretion of the court, in Odessa, when courtroom facilities are made available at no expense to the Government.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 891][/us/stat/62/891]; [Feb. 10, 1954, ch. 6, § 2(b)(9)(a)][/us/act/1954-02-10/ch6/s2/b/9/a], (b), [68 Stat. 11][/us/stat/68/11]; [Pub. L. 85–298][/us/pl/85/298], §§ 1, 2, Sept. 4, 1957, [71 Stat. 618][/us/stat/71/618]; [Pub. L. 87–352][/us/pl/87/352], Oct. 4, 1961, [75 Stat. 772][/us/stat/75/772]; [Pub. L. 88–282][/us/pl/88/282], Mar. 11, 1964, [78 Stat. 163][/us/stat/78/163]; [Pub. L. 88–512][/us/pl/88/512], Aug. 30, 1964, [78 Stat. 695][/us/stat/78/695]; [Pub. L. 90–216][/us/pl/90/216], Dec. 18, 1967, [81 Stat. 661][/us/stat/81/661]; [Pub. L. 96–462, § 6][/us/pl/96/462/s6], Oct. 15, 1980, [94 Stat. 2054][/us/stat/94/2054]; [Pub. L. 98–620, title IV, § 407(a)][/us/pl/98/620/s407/a], Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362]; [Pub. L. 108–157, § 1(a)][/us/pl/108/157/s1/a], Dec. 3, 2003, [117 Stat. 1947][/us/stat/117/1947]; [Pub. L. 108–455, § 3][/us/pl/108/455/s3], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628].)
 

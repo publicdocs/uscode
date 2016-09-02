@@ -29,57 +29,57 @@
 
   <tr>
 
-    <td> 1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch1" data-uslm-ref="/us/usc/t28/ptI/ch1">1.</a>  </td>
 
     <td> Supreme Court  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1" data-uslm-ref="/us/usc/t28/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 3.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch3" data-uslm-ref="/us/usc/t28/ptI/ch3">3.</a>  </td>
 
     <td> Courts of appeals  </td>
 
-    <td> 41  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs41" data-uslm-ref="/us/usc/t28/s41">41</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 5.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch5" data-uslm-ref="/us/usc/t28/ptI/ch5">5.</a>  </td>
 
     <td> District courts  </td>
 
-    <td> 81  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs81" data-uslm-ref="/us/usc/t28/s81">81</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 6.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch6" data-uslm-ref="/us/usc/t28/ptI/ch6">6.</a>  </td>
 
     <td> Bankruptcy judges  </td>
 
-    <td> 151  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs151" data-uslm-ref="/us/usc/t28/s151">151</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 7.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch7" data-uslm-ref="/us/usc/t28/ptI/ch7">7.</a>  </td>
 
     <td> United States Court of Federal Claims  </td>
 
-    <td> 171  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs171" data-uslm-ref="/us/usc/t28/s171">171</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [9.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch9" data-uslm-ref="/us/usc/t28/ptI/ch9">9.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -89,81 +89,81 @@
 
   <tr>
 
-    <td> 11.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch11" data-uslm-ref="/us/usc/t28/ptI/ch11">11.</a>  </td>
 
     <td> Court of International Trade  </td>
 
-    <td> 251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs251" data-uslm-ref="/us/usc/t28/s251">251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 13.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch13" data-uslm-ref="/us/usc/t28/ptI/ch13">13.</a>  </td>
 
     <td> Assignment of judges to other courts  </td>
 
-    <td> 291  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs291" data-uslm-ref="/us/usc/t28/s291">291</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 15.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch15" data-uslm-ref="/us/usc/t28/ptI/ch15">15.</a>  </td>
 
     <td> Conferences and councils of judges  </td>
 
-    <td> 331  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs331" data-uslm-ref="/us/usc/t28/s331">331</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 16.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch16" data-uslm-ref="/us/usc/t28/ptI/ch16">16.</a>  </td>
 
     <td> Complaints against judges and judicial discipline  </td>
 
-    <td> 351  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs351" data-uslm-ref="/us/usc/t28/s351">351</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 17.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch17" data-uslm-ref="/us/usc/t28/ptI/ch17">17.</a>  </td>
 
     <td> Resignation and retirement of judges  <sup>[1]</sup>  <sup><sup> 1 Chapter heading amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F92%2F397" data-uslm-ref="/us/pl/92/397">Pub. L. 92–397</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
-    <td> 371  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs371" data-uslm-ref="/us/usc/t28/s371">371</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 19.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch19" data-uslm-ref="/us/usc/t28/ptI/ch19">19.</a>  </td>
 
     <td> Distribution of reports and digests  </td>
 
-    <td> 411  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs411" data-uslm-ref="/us/usc/t28/s411">411</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 21.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch21" data-uslm-ref="/us/usc/t28/ptI/ch21">21.</a>  </td>
 
     <td> General provisions applicable to courts and judges  </td>
 
-    <td> 451  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs451" data-uslm-ref="/us/usc/t28/s451">451</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 23.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch23" data-uslm-ref="/us/usc/t28/ptI/ch23">23.</a>  </td>
 
     <td> Civil justice expense and delay reduction plans  </td>
 
-    <td> 471  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs471" data-uslm-ref="/us/usc/t28/s471">471</a>  </td>
 
   </tr>
 

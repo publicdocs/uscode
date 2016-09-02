@@ -15,49 +15,59 @@
 
 ## § 123. Tennessee
 
-Tennessee is divided into three judicial districts to be known as the Eastern, Middle, and Western Districts of Tennessee.
+    Tennessee is divided into three judicial districts to be known as the Eastern, Middle, and Western Districts of Tennessee.
 
 Eastern District
 
-    (a)
+    (a) The Eastern District comprises four divisions.
 
-     The Eastern District comprises four divisions.
+    (1) The Northern Division comprises the counties of Anderson, Blount, Campbell, Claiborne, Grainger, Jefferson, Knox, Loudon, Monroe, Morgan, Roane, Scott, Sevier, and Union.
 
-        (1) The Northern Division comprises the counties of Anderson, Blount, Campbell, Claiborne, Grainger, Jefferson, Knox, Loudon, Monroe, Morgan, Roane, Scott, Sevier, and Union.    Court for the Northern Division shall be held at Knoxville.
+    Court for the Northern Division shall be held at Knoxville.
 
-        (2) The Northeastern Division comprises the counties of Carter, Cocke, Greene, Hamblen, Hancock, Hawkins, Johnson, Sullivan, Unicoi, and Washington.    Court for the Northeastern Division shall be held at Greenville.
+    (2) The Northeastern Division comprises the counties of Carter, Cocke, Greene, Hamblen, Hancock, Hawkins, Johnson, Sullivan, Unicoi, and Washington.
 
-        (3) The Southern Division comprises the counties of Bledsoe, Bradley, Hamilton, McMinn, Marion, Meigs, Polk, Rhea, and Sequatchie.    Court for the Southern Division shall be held at Chattanooga.
+    Court for the Northeastern Division shall be held at Greenville.
 
-        (4) The Winchester Division comprises the counties of Bedford, Coffee, Franklin, Grundy, Lincoln, Moore, Van Buren, and Warren.    Court for the Winchester Division shall be held at Winchester.
+    (3) The Southern Division comprises the counties of Bledsoe, Bradley, Hamilton, McMinn, Marion, Meigs, Polk, Rhea, and Sequatchie.
 
-        Middle District
+    Court for the Southern Division shall be held at Chattanooga.
 
-    (b)
+    (4) The Winchester Division comprises the counties of Bedford, Coffee, Franklin, Grundy, Lincoln, Moore, Van Buren, and Warren.
 
-     The Middle District comprises three divisions.
+    Court for the Winchester Division shall be held at Winchester.
 
-        (1) The Nashville Division comprises the counties of Cannon, Cheatham, Davidson, Dickson, Houston, Humphreys, Montgomery, Robertson, Rutherford, Stewart, Sumner, Trousdale, Williamson, and Wilson.    Court for the Nashville Division shall be held at Nashville.
+Middle District
 
-        (2) The Northeastern Division comprises the counties of Clay, Cumberland, De Kalb, Fentress, Jackson, Macon, Overton, Pickett, Putnam, Smith, and White.    Court for the Northeastern Division shall be held at Cookeville.
+    (b) The Middle District comprises three divisions.
 
-        (3) The Columbia Division comprises the counties of Giles, Hickman, Lawrence, Lewis, Marshall, Maury, and Wayne.    Court for the Columbia Division shall be held at Columbia.
+    (1) The Nashville Division comprises the counties of Cannon, Cheatham, Davidson, Dickson, Houston, Humphreys, Montgomery, Robertson, Rutherford, Stewart, Sumner, Trousdale, Williamson, and Wilson.
 
-        Western District
+    Court for the Nashville Division shall be held at Nashville.
 
-    (c)
+    (2) The Northeastern Division comprises the counties of Clay, Cumberland, De Kalb, Fentress, Jackson, Macon, Overton, Pickett, Putnam, Smith, and White.
 
-     The Western District comprises two divisions.
+    Court for the Northeastern Division shall be held at Cookeville.
 
-        (1) The Eastern Division comprises the counties of Benton, Carroll, Chester, Crockett, Decatur, Dyer, Gibson, Hardeman, Hardin, Haywood, Henderson, Henry, Lake, McNairy, Madison, Obion, Perry, and Weakley.
+    (3) The Columbia Division comprises the counties of Giles, Hickman, Lawrence, Lewis, Marshall, Maury, and Wayne.
 
-        The Eastern Division also includes the waters of Tennessee River to low-water mark on the eastern shore wherever such river forms the boundary between the western and middle districts from the north line of Alabama north to the point in Henry County, Tennessee, where the south boundary of Kentucky strikes the east bank of the river.
+    Court for the Columbia Division shall be held at Columbia.
 
-        Court for the Eastern Division shall be held at Jackson and Dyersburg.
+Western District
 
-        (2) The Western Division comprises the counties of Fayette, Lauderdale, Shelby, and Tipton.    Court for the Western Division shall be held at Memphis.
+    (c) The Western District comprises two divisions.
 
-        The district judge for the Eastern District in office on November 27, 1940, shall hold court in the Northern and Northeastern Divisions. The other judge of that district shall hold the terms of court in the Southern and Winchester Divisions. Each may appoint and remove all officers and employees of the court whose official headquarters are located in the divisions within which he holds court and whose appointments are vested by law in a district judge or chief judge of a district.
+    (1) The Eastern Division comprises the counties of Benton, Carroll, Chester, Crockett, Decatur, Dyer, Gibson, Hardeman, Hardin, Haywood, Henderson, Henry, Lake, McNairy, Madison, Obion, Perry, and Weakley.
+
+    The Eastern Division also includes the waters of Tennessee River to low-water mark on the eastern shore wherever such river forms the boundary between the western and middle districts from the north line of Alabama north to the point in Henry County, Tennessee, where the south boundary of Kentucky strikes the east bank of the river.
+
+    Court for the Eastern Division shall be held at Jackson and Dyersburg.
+
+    (2) The Western Division comprises the counties of Fayette, Lauderdale, Shelby, and Tipton.
+
+    Court for the Western Division shall be held at Memphis.
+
+    The district judge for the Eastern District in office on November 27, 1940, shall hold court in the Northern and Northeastern Divisions. The other judge of that district shall hold the terms of court in the Southern and Winchester Divisions. Each may appoint and remove all officers and employees of the court whose official headquarters are located in the divisions within which he holds court and whose appointments are vested by law in a district judge or chief judge of a district.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 890][/us/stat/62/890]; [Pub. L. 87–36, § 3(e)][/us/pl/87/36/s3/e], May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 87–86][/us/pl/87/86], July 11, 1961, [75 Stat. 203][/us/stat/75/203]; [Pub. L. 91–272, § 12][/us/pl/91/272/s12], June 2, 1970, [84 Stat. 298][/us/stat/84/298]; [Pub. L. 110–406, § 2(a)][/us/pl/110/406/s2/a], Oct. 13, 2008, [122 Stat. 4291][/us/stat/122/4291].)
 

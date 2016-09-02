@@ -15,7 +15,7 @@
 
 ## § 1351. Consuls, vice consuls, and members of a diplomatic mission as defendant
 
-The district courts shall have original jurisdiction, exclusive of the courts of the States, of all civil actions and proceedings against—
+    The district courts shall have original jurisdiction, exclusive of the courts of the States, of all civil actions and proceedings against—
 
     (1) consuls or vice consuls of foreign states; or
 

@@ -15,31 +15,41 @@
 
 ## § 84. California
 
-California is divided into four judicial districts to be known as the Northern, Eastern, Central, and Southern Districts of California.
+    California is divided into four judicial districts to be known as the Northern, Eastern, Central, and Southern Districts of California.
 
 Northern District
 
-    (a) The Northern District comprises the counties of Alameda, Contra Costa, Del Norte, Humboldt, Lake, Marin, Mendocino, Monterey, Napa, San Benito, Santa Clara, Santa Cruz, San Francisco, San Mateo, and Sonoma.    Court for the Northern District shall be held at Eureka, Oakland, San Francisco, and San Jose.
+    (a) The Northern District comprises the counties of Alameda, Contra Costa, Del Norte, Humboldt, Lake, Marin, Mendocino, Monterey, Napa, San Benito, Santa Clara, Santa Cruz, San Francisco, San Mateo, and Sonoma.
 
-        Eastern District
+    Court for the Northern District shall be held at Eureka, Oakland, San Francisco, and San Jose.
 
-    (b) The Eastern District comprises the counties of Alpine, Amador, Butte, Calaveras, Colusa, El Dorado, Fresno, Glenn, Inyo, Kern, Kings, Lassen, Madera, Mariposa, Merced, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Yolo, and Yuba.    Court for the Eastern District shall be held at Fresno, Redding, and Sacramento.
+Eastern District
 
-        Central District
+    (b) The Eastern District comprises the counties of Alpine, Amador, Butte, Calaveras, Colusa, El Dorado, Fresno, Glenn, Inyo, Kern, Kings, Lassen, Madera, Mariposa, Merced, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tulare, Tuolumne, Yolo, and Yuba.
 
-    (c)
+    Court for the Eastern District shall be held at Fresno, Redding, and Sacramento.
 
-     The Central District comprises 3 divisions.
+Central District
 
-        (1) The Eastern Division comprises the counties of Riverside and San Bernardino.    Court for the Eastern Division shall be held at a suitable site in the city of Riverside, the city of San Bernardino, or not more than 5 miles from the boundary of either such city.
+    (c) The Central District comprises 3 divisions.
 
-        (2) The Western Division comprises the counties of Los Angeles, San Luis Obispo, Santa Barbara, and Ventura.    Court for the Western Division shall be held at Los Angeles.
+    (1) The Eastern Division comprises the counties of Riverside and San Bernardino.
 
-        (3) The Southern Division comprises Orange County.    Court for the Southern Division shall be held at Santa Ana.
+    Court for the Eastern Division shall be held at a suitable site in the city of Riverside, the city of San Bernardino, or not more than 5 miles from the boundary of either such city.
 
-        Southern District
+    (2) The Western Division comprises the counties of Los Angeles, San Luis Obispo, Santa Barbara, and Ventura.
 
-    (d) The Southern District comprises the counties of Imperial and San Diego.    Court for the Southern District shall be held at San Diego.
+    Court for the Western Division shall be held at Los Angeles.
+
+    (3) The Southern Division comprises Orange County.
+
+    Court for the Southern Division shall be held at Santa Ana.
+
+Southern District
+
+    (d) The Southern District comprises the counties of Imperial and San Diego.
+
+    Court for the Southern District shall be held at San Diego.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 875][/us/stat/62/875]; [Pub. L. 89–372, § 3(a)][/us/pl/89/372/s3/a], Mar. 18, 1966, [80 Stat. 75][/us/stat/80/75]; [Pub. L. 96–462, § 2][/us/pl/96/462/s2], Oct. 15, 1980, [94 Stat. 2053][/us/stat/94/2053]; [Pub. L. 102–357, § 2][/us/pl/102/357/s2], Aug. 26, 1992, [106 Stat. 958][/us/stat/106/958].)
 

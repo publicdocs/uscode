@@ -15,7 +15,7 @@
 
 ## § 1410. Venue of cases ancillary to foreign proceedings
 
-A case under chapter 15 of title 11 may be commenced in the district court of the United States for the district—
+    A case under chapter 15 of title 11 may be commenced in the district court of the United States for the district—
 
     (1) in which the debtor has its principal place of business or principal assets in the United States;
 

@@ -71,7 +71,7 @@
 
     [Pub. L. 86–3, § 10][/us/pl/86/3/s10], Mar. 18, 1959, [73 Stat. 9][/us/stat/73/9], provided that the amendment made by [section 10 of Pub. L. 86–3][/us/pl/86/3/s10] shall be effective on admission of the State of Hawaii into the Union. Admission of Hawaii into the Union was accomplished Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 25 F.R. 6868, 73 Stat. c74, as required by sections 1 and 7(c) of [Pub. L. 86–3][/us/pl/86/3], Mar. 18, 1959, [73 Stat. 4][/us/stat/73/4], set out as notes preceding 491 of Title 48, Territories and Insular Possessions.
 
- __“Circuit Court of Appeals;” “Senior Circuit Judge,” Etc. Defined__ 
+“Circuit Court of Appeals;” “Senior Circuit Judge,” Etc. Defined
 
 [Act June 25, 1948, ch. 646, § 32][/us/act/1948-06-25/ch646/s32], [62 Stat. 991][/us/stat/62/991], as amended by [act May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107], provided that:
 

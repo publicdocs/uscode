@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2001.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2001" data-uslm-ref="/us/usc/t28/s2001">2001.</a>  </td>
 
     <td> Sale of realty generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2002.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2002" data-uslm-ref="/us/usc/t28/s2002">2002.</a>  </td>
 
     <td> Notice of sale of realty.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2003.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2003" data-uslm-ref="/us/usc/t28/s2003">2003.</a>  </td>
 
     <td> Marshal’s incapacity after levy on or sale of realty.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2004.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2004" data-uslm-ref="/us/usc/t28/s2004">2004.</a>  </td>
 
     <td> Sale of personalty generally.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2005.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2005" data-uslm-ref="/us/usc/t28/s2005">2005.</a>  </td>
 
     <td> Appraisal of goods taken on execution.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2006.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2006" data-uslm-ref="/us/usc/t28/s2006">2006.</a>  </td>
 
     <td> Execution against revenue officer.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2007.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2007" data-uslm-ref="/us/usc/t28/s2007">2007.</a>  </td>
 
     <td> Imprisonment for debt.  </td>
 

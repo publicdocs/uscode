@@ -15,7 +15,7 @@
 
 ## § 1294. Circuits in which decisions reviewable
 
-Except as provided in sections 1292(c), 1292(d), and 1295 of this title, appeals from reviewable decisions of the district and territorial courts shall be taken to the courts of appeals as follows:
+    Except as provided in sections 1292(c), 1292(d), and 1295 of this title, appeals from reviewable decisions of the district and territorial courts shall be taken to the courts of appeals as follows:
 
     (1) From a district court of the United States to the court of appeals for the circuit embracing the district;
 

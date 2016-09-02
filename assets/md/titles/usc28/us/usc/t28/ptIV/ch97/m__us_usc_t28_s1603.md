@@ -15,7 +15,7 @@
 
 ## § 1603. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (a) A “foreign state”, except as used in [section 1608 of this title][/us/usc/t28/s1608], includes a political subdivision of a foreign state or an agency or instrumentality of a foreign state as defined in subsection (b).
 

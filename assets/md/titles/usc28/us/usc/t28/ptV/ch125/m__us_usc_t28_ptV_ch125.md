@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932^extra.md) | [Next](./../../../../..//us/usc/t28/ptV/ch125/m__us_usc_t28_s1961.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptV%2Fch125)
+[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.1^extra.md) | [Next](./../../../../..//us/usc/t28/ptV/ch125/m__us_usc_t28_s1961.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptV%2Fch125)
 
 ### CHAPTER 125—PENDING ACTIONS AND JUDGMENTS
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1961.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1961" data-uslm-ref="/us/usc/t28/s1961">1961.</a>  </td>
 
     <td> Interest.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1962.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1962" data-uslm-ref="/us/usc/t28/s1962">1962.</a>  </td>
 
     <td> Lien.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1963.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1963" data-uslm-ref="/us/usc/t28/s1963">1963.</a>  </td>
 
     <td> Registration of judgments for enforcement in other districts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> [1963A.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1963A" data-uslm-ref="/us/usc/t28/s1963A">1963A.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1964.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1964" data-uslm-ref="/us/usc/t28/s1964">1964.</a>  </td>
 
     <td> Constructive notice of pending actions.  </td>
 
@@ -77,7 +77,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932^extra.md) | [Next](./../../../../..//us/usc/t28/ptV/ch125/m__us_usc_t28_s1961.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptV%2Fch125)
+[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.1^extra.md) | [Next](./../../../../..//us/usc/t28/ptV/ch125/m__us_usc_t28_s1961.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptV%2Fch125)
 
 ----------
 ----------

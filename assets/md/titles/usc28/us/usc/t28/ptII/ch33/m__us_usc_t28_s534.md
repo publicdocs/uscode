@@ -417,11 +417,15 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 >                 In the case of—
 
->                      “(I) a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorized employer as to the fact of whether an employee has been—
+>                          “(I)
 
->                     “(aa) convicted of a felony, an offense involving dishonesty or a false statement if the conviction occurred during the previous 10 years, or an offense involving the use or attempted use of physical force against the person of another if the conviction occurred during the previous 10 years; or
+>                      a participating State that has no State standards for qualification to be a private security officer, the State shall notify an authorized employer as to the fact of whether an employee has been—
 
->                     “(bb) charged with a criminal felony for which there has been no resolution during the preceding 365 days; or         “(II) a participating State that has State standards for qualification to be a private security officer, the State shall use the information received pursuant to this Act \[this section\] in applying the State standards and shall only notify the employer of the results of the application of the State standards.
+>                         “(aa) convicted of a felony, an offense involving dishonesty or a false statement if the conviction occurred during the previous 10 years, or an offense involving the use or attempted use of physical force against the person of another if the conviction occurred during the previous 10 years; or
+
+>                         “(bb) charged with a criminal felony for which there has been no resolution during the preceding 365 days; or
+
+>                          “(II) a participating State that has State standards for qualification to be a private security officer, the State shall use the information received pursuant to this Act \[this section\] in applying the State standards and shall only notify the employer of the results of the application of the State standards.
 
 >             “(E) __Frequency of requests.—__ 
 
@@ -555,7 +559,9 @@ June 11, 1930, ch. 455, 46 Stat. 554.  </td>
 
 [Pub. L. 101–275][/us/pl/101/275], Apr. 23, 1990, [104 Stat. 140][/us/stat/104/140], as amended by [Pub. L. 103–322, title XXXII, § 320926][/us/pl/103/322/s320926], Sept. 13, 1994, [108 Stat. 2131][/us/stat/108/2131]; [Pub. L. 104–155, § 7][/us/pl/104/155/s7], July 3, 1996, [110 Stat. 1394][/us/stat/110/1394]; [Pub. L. 111–84, div. E, § 4708][/us/pl/111/84/s4708], Oct. 28, 2009, [123 Stat. 2841][/us/stat/123/2841], provided: 
 
-> “That (a) this Act may be cited as the ‘Hate Crime Statistics Act’.
+>     “That 
+
+>     (a) this Act may be cited as the ‘Hate Crime Statistics Act’.
 
 >     “(b)
 

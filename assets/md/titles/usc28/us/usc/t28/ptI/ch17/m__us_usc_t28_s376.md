@@ -259,19 +259,19 @@
 
             the total amount credited to the individual account of that judicial official, established under subsection (e) of this section, with interest at 4 percent per annum to December 31, 1947, and at 3 percent per annum thereafter, compounded on December 31, of each year, to the date of that judicial official’s death, shall be paid, upon the establishment of a valid claim therefor, to the person or persons surviving at the date title to the payment arises, in the following order of precedence:
 
-        First, to the beneficiary or beneficiaries whom that judicial official may have designated in a writing received by the Administrative Office of the United States Courts prior to his or her death;
+            First, to the beneficiary or beneficiaries whom that judicial official may have designated in a writing received by the Administrative Office of the United States Courts prior to his or her death;
 
-        Second, if there be no such beneficiary, to the widow or widower of such judicial official;
+            Second, if there be no such beneficiary, to the widow or widower of such judicial official;
 
-        Third, if none of the above, to the child or children of such judicial official and the descendants of any deceased children by representation;
+            Third, if none of the above, to the child or children of such judicial official and the descendants of any deceased children by representation;
 
-        Fourth, if none of the above, to the parents of such judicial official or the survivor of them;
+            Fourth, if none of the above, to the parents of such judicial official or the survivor of them;
 
-        Fifth, if none of the above, to the duly appointed executor, executrix, administrator, or administratrix of the estate of such judicial official;
+            Fifth, if none of the above, to the duly appointed executor, executrix, administrator, or administratrix of the estate of such judicial official;
 
-        Sixth, if none of the above, to such other next of kin of such judicial official, as may be determined by the Director of the Administrative Office of the United States Courts to be entitled to such payment, under the laws of the domicile of such judicial official, at the time of his or her death.
+            Sixth, if none of the above, to such other next of kin of such judicial official, as may be determined by the Director of the Administrative Office of the United States Courts to be entitled to such payment, under the laws of the domicile of such judicial official, at the time of his or her death.
 
-        Such payment shall be a bar to recovery by any other person. For the purposes of this subsection only, a determination that an individual is a widow, widower, or child of a judicial official may be made by the Director of the Administrative Office of the United States Courts without regard to the definitions of those terms contained in paragraphs (3), (4), and (5) of subsection (a) of this section.
+            Such payment shall be a bar to recovery by any other person. For the purposes of this subsection only, a determination that an individual is a widow, widower, or child of a judicial official may be made by the Director of the Administrative Office of the United States Courts without regard to the definitions of those terms contained in paragraphs (3), (4), and (5) of subsection (a) of this section.
 
         (2) In cases in which a judicial official dies as a result of assassination and leaves a survivor or survivors who are entitled to receive the annuity benefits provided by subsection (h) or (t) of this section, paragraph (1)(A) of this subsection shall not apply.
 

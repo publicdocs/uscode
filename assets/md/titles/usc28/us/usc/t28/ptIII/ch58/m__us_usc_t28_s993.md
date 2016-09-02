@@ -15,7 +15,7 @@
 
 ## § 993. Powers and duties of Chair
 
-The Chair shall—
+    The Chair shall—
 
     (a) call and preside at meetings of the Commission, which shall be held for at least two weeks in each quarter after the members of the Commission hold part-time positions; and
 

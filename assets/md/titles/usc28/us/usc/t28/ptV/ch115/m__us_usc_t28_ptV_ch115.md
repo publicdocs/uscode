@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1731.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1731" data-uslm-ref="/us/usc/t28/s1731">1731.</a>  </td>
 
     <td> Handwriting.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1732.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1732" data-uslm-ref="/us/usc/t28/s1732">1732.</a>  </td>
 
     <td> Record made in regular course of business; photographic copies.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1733.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1733" data-uslm-ref="/us/usc/t28/s1733">1733.</a>  </td>
 
     <td> Government records and papers; copies.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1734.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1734" data-uslm-ref="/us/usc/t28/s1734">1734.</a>  </td>
 
     <td> Court record lost or destroyed generally. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1735.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1735" data-uslm-ref="/us/usc/t28/s1735">1735.</a>  </td>
 
     <td> Court record lost or destroyed where United States interested.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1736.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1736" data-uslm-ref="/us/usc/t28/s1736">1736.</a>  </td>
 
     <td> Congressional Journals.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1737.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1737" data-uslm-ref="/us/usc/t28/s1737">1737.</a>  </td>
 
     <td> Copy of officer’s bond.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1738.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1738" data-uslm-ref="/us/usc/t28/s1738">1738.</a>  </td>
 
     <td> State and Territorial statutes and judicial proceedings; full faith and credit.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1738A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1738A" data-uslm-ref="/us/usc/t28/s1738A">1738A.</a>  </td>
 
     <td> Full faith and credit given to child custody determinations.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1738B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1738B" data-uslm-ref="/us/usc/t28/s1738B">1738B.</a>  </td>
 
     <td> Full faith and credit for child support orders.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1738C.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1738C" data-uslm-ref="/us/usc/t28/s1738C">1738C.</a>  </td>
 
     <td> Certain acts, records, and proceedings and the effect thereof.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1739.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1739" data-uslm-ref="/us/usc/t28/s1739">1739.</a>  </td>
 
     <td> State and Territorial nonjudicial records; full faith and credit.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1740.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1740" data-uslm-ref="/us/usc/t28/s1740">1740.</a>  </td>
 
     <td> Copies of consular papers.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1741.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1741" data-uslm-ref="/us/usc/t28/s1741">1741.</a>  </td>
 
     <td> Foreign official documents.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> [1742.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1742" data-uslm-ref="/us/usc/t28/s1742">1742.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1743.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1743" data-uslm-ref="/us/usc/t28/s1743">1743.</a>  </td>
 
     <td> Demand on postmaster.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1744.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1744" data-uslm-ref="/us/usc/t28/s1744">1744.</a>  </td>
 
     <td> Copies of United States Patent and Trademark Office documents generally. <sup>[1]</sup>   </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1745.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1745" data-uslm-ref="/us/usc/t28/s1745">1745.</a>  </td>
 
     <td> Copies of foreign patent documents.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1746.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1746" data-uslm-ref="/us/usc/t28/s1746">1746.</a>  </td>
 
     <td> Unsworn declarations under penalty of perjury.  </td>
 

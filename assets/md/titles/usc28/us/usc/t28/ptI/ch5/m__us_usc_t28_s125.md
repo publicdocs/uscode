@@ -15,7 +15,7 @@
 
 ## § 125. Utah
 
-Utah constitutes one judicial district comprising two divisions.
+    Utah constitutes one judicial district comprising two divisions.
 
     (1) The Northern Division comprises the counties of Box Elder, Cache, Davis, Morgan, Rich, and Weber.    Court for the Northern Division shall be held at Salt Lake City and Ogden.
 

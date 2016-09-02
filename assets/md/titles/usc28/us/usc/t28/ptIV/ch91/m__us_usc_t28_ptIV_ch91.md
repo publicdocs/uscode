@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1491.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1491" data-uslm-ref="/us/usc/t28/s1491">1491.</a>  </td>
 
     <td> Claims against United States generally; actions involving Tennessee Valley Authority.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1492.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1492" data-uslm-ref="/us/usc/t28/s1492">1492.</a>  </td>
 
     <td> Congressional reference cases.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> [1493.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1493" data-uslm-ref="/us/usc/t28/s1493">1493.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1494.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1494" data-uslm-ref="/us/usc/t28/s1494">1494.</a>  </td>
 
     <td> Accounts of officers, agents or contractors.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1495.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1495" data-uslm-ref="/us/usc/t28/s1495">1495.</a>  </td>
 
     <td> Damages for unjust conviction and imprisonment; claim against United States.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1496.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1496" data-uslm-ref="/us/usc/t28/s1496">1496.</a>  </td>
 
     <td> Disbursing officers’ claims.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1497.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1497" data-uslm-ref="/us/usc/t28/s1497">1497.</a>  </td>
 
     <td> Oyster growers’ damages from dredging operations.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1498.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1498" data-uslm-ref="/us/usc/t28/s1498">1498.</a>  </td>
 
     <td> Patent and copyright cases.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1499.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1499" data-uslm-ref="/us/usc/t28/s1499">1499.</a>  </td>
 
     <td> Liquidated damages withheld from contractors under chapter 37 of title 40.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1500.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1500" data-uslm-ref="/us/usc/t28/s1500">1500.</a>  </td>
 
     <td> Pendency of claims in other courts.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1501.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1501" data-uslm-ref="/us/usc/t28/s1501">1501.</a>  </td>
 
     <td> Pensions.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1502.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1502" data-uslm-ref="/us/usc/t28/s1502">1502.</a>  </td>
 
     <td> Treaty cases.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1503.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1503" data-uslm-ref="/us/usc/t28/s1503">1503.</a>  </td>
 
     <td> Set-offs.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> [1504.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1504" data-uslm-ref="/us/usc/t28/s1504">1504.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1505.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1505" data-uslm-ref="/us/usc/t28/s1505">1505.</a>  </td>
 
     <td> Indian claims.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [1506.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1506" data-uslm-ref="/us/usc/t28/s1506">1506.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1507.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1507" data-uslm-ref="/us/usc/t28/s1507">1507.</a>  </td>
 
     <td> Jurisdiction for certain declaratory judgments.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1508.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1508" data-uslm-ref="/us/usc/t28/s1508">1508.</a>  </td>
 
     <td> Jurisdiction for certain partnership proceedings.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1509.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1509" data-uslm-ref="/us/usc/t28/s1509">1509.</a>  </td>
 
     <td> No jurisdiction in cases involving refunds of tax shelter promoter and understatement penalties.  </td>
 

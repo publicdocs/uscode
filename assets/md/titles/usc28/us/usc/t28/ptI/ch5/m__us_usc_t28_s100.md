@@ -15,7 +15,7 @@
 
 ## § 100. Maryland
 
-Maryland constitutes one judicial district comprising two divisions.
+    Maryland constitutes one judicial district comprising two divisions.
 
     (1) The Northern Division comprises the counties of Allegany, Anne Arundel, Baltimore, Caroline, Carroll, Cecil, Dorchester, Frederick, Garrett, Harford, Howard, Kent, Queen Anne’s, Somerset, Talbot, Washington, Wicomico, and Worcester, and the City of Baltimore.    Court for the Northern Division shall be held at Baltimore, Cumberland, and Denton.
 

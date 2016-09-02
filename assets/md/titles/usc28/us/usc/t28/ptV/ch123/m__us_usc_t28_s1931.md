@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1930.md) | [Next](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1931)
+[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1930.md) | [Next](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1931)
 
 ## § 1931. Disposition of filing fees
 
@@ -111,7 +111,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1930.md) | [Next](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1931)
+[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1930.md) | [Next](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.1.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1931)
 
 ----------
 ----------

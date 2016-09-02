@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 471.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs471" data-uslm-ref="/us/usc/t28/s471">471.</a>  </td>
 
     <td> Requirement for a district court civil justice expense and delay reduction plan.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 472.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs472" data-uslm-ref="/us/usc/t28/s472">472.</a>  </td>
 
     <td> Development and implementation of a civil justice expense and delay reduction plan.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 473.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs473" data-uslm-ref="/us/usc/t28/s473">473.</a>  </td>
 
     <td> Content of civil justice expense and delay reduction plans.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 474.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs474" data-uslm-ref="/us/usc/t28/s474">474.</a>  </td>
 
     <td> Review of district court action.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 475.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs475" data-uslm-ref="/us/usc/t28/s475">475.</a>  </td>
 
     <td> Periodic district court assessment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 476.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs476" data-uslm-ref="/us/usc/t28/s476">476.</a>  </td>
 
     <td> Enhancement of judicial information dissemination.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 477.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs477" data-uslm-ref="/us/usc/t28/s477">477.</a>  </td>
 
     <td> Model civil justice expense and delay reduction plan.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 478.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs478" data-uslm-ref="/us/usc/t28/s478">478.</a>  </td>
 
     <td> Advisory groups.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 479.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs479" data-uslm-ref="/us/usc/t28/s479">479.</a>  </td>
 
     <td> Information on litigation management and cost and delay reduction.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 480.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs480" data-uslm-ref="/us/usc/t28/s480">480.</a>  </td>
 
     <td> Training programs.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 481.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs481" data-uslm-ref="/us/usc/t28/s481">481.</a>  </td>
 
     <td> Automated case information.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 482.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs482" data-uslm-ref="/us/usc/t28/s482">482.</a>  </td>
 
     <td> Definitions.  </td>
 

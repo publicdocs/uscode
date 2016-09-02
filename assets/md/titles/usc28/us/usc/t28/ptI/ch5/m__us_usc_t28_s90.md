@@ -15,59 +15,87 @@
 
 ## § 90. Georgia
 
-Georgia is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Georgia.
+    Georgia is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Georgia.
 
 Northern District
 
-    (a)
+    (a) The Northern District comprises four divisions.
 
-     The Northern District comprises four divisions.
+    (1) The Gainesville Division comprises the counties of Banks, Barrow, Dawson, Fannin, Forsyth, Gilmer, Habersham, Hall, Jackson, Lumpkin, Pickens, Rabun, Stephens, Towns, Union, and White.
 
-        (1) The Gainesville Division comprises the counties of Banks, Barrow, Dawson, Fannin, Forsyth, Gilmer, Habersham, Hall, Jackson, Lumpkin, Pickens, Rabun, Stephens, Towns, Union, and White.    Court for the Gainesville Division shall be held at Gainesville.
+    Court for the Gainesville Division shall be held at Gainesville.
 
-        (2) The Atlanta Division comprises the counties of Cherokee, Clayton, Cobb, De Kalb, Douglas, Fulton, Gwinnett, Henry, Newton, and Rockdale.    Court for the Atlanta Division shall be held at Atlanta.
+    (2) The Atlanta Division comprises the counties of Cherokee, Clayton, Cobb, De Kalb, Douglas, Fulton, Gwinnett, Henry, Newton, and Rockdale.
 
-        (3) The Rome Division comprises the counties of Bartow, Catoosa, Chattooga, Dade, Floyd, Gordon, Murray, Paulding, Polk, Walker, and Whitfield.    Court for the Rome Division shall be held at Rome.
+    Court for the Atlanta Division shall be held at Atlanta.
 
-        (4) The Newnan Division comprises the counties of Carroll, Coweta, Fayette, Haralson, Heard, Meriwether, Pike, Spalding, and Troup.    Court for the Newnan Division shall be held at Newnan.
+    (3) The Rome Division comprises the counties of Bartow, Catoosa, Chattooga, Dade, Floyd, Gordon, Murray, Paulding, Polk, Walker, and Whitfield.
 
-        Middle District
+    Court for the Rome Division shall be held at Rome.
 
-    (b)
+    (4) The Newnan Division comprises the counties of Carroll, Coweta, Fayette, Haralson, Heard, Meriwether, Pike, Spalding, and Troup.
 
-     The Middle District comprises seven divisions.
+    Court for the Newnan Division shall be held at Newnan.
 
-        (1) The Athens Division comprises the counties of Clarke, Elbert, Franklin, Greene, Hart, Madison, Morgan, Oconee, Oglethorpe, and Walton.    Court for the Athens Division shall be held at Athens.
+Middle District
 
-        (2) The Macon Division comprises the counties of Baldwin, Bibb, Bleckley, Butts, Crawford, Hancock, Houston, Jasper, Jones, Lamar, Monroe, Peach, Pulaski, Putnam, Twiggs, Upson, Washington, and Wilkinson.    Court for the Macon Division shall be held at Macon.
+    (b) The Middle District comprises seven divisions.
 
-        (3) The Columbus Division comprises the counties of Chattahoochee, Clay, Harris, Marion, Muscogee, Quitman, Randolph, Stewart, Talbot, and Taylor.    Court for the Columbus Division shall be held at Columbus.
+    (1) The Athens Division comprises the counties of Clarke, Elbert, Franklin, Greene, Hart, Madison, Morgan, Oconee, Oglethorpe, and Walton.
 
-        (4) The Americus Division comprises the counties of Ben Hill, Crisp, Dooly, Lee, Macon, Schley, Sumter, Terrell, Webster, and Wilcox.    Court for the Americus Division shall be held at Americus.
+    Court for the Athens Division shall be held at Athens.
 
-        (5) The Albany Division comprises the counties of Baker, Calhoun, Dougherty, Early, Miller, Mitchell, Turner, and Worth.    Court for the Albany Division shall be held at Albany.
+    (2) The Macon Division comprises the counties of Baldwin, Bibb, Bleckley, Butts, Crawford, Hancock, Houston, Jasper, Jones, Lamar, Monroe, Peach, Pulaski, Putnam, Twiggs, Upson, Washington, and Wilkinson.
 
-        (6) The Valdosta Division comprises the counties of Berrien, Clinch, Cook, Echols, Irwin, Lanier, Lowndes, and Tift.    Court for the Valdosta Division shall be held at Valdosta.
+    Court for the Macon Division shall be held at Macon.
 
-        (7) The Thomasville Division comprises the counties of Brooks, Colquitt, Decatur, Grady, Seminole, and Thomas.    Court for the Thomasville Division shall be held at Thomasville.
+    (3) The Columbus Division comprises the counties of Chattahoochee, Clay, Harris, Marion, Muscogee, Quitman, Randolph, Stewart, Talbot, and Taylor.
 
-        Southern District
+    Court for the Columbus Division shall be held at Columbus.
 
-    (c)
+    (4) The Americus Division comprises the counties of Ben Hill, Crisp, Dooly, Lee, Macon, Schley, Sumter, Terrell, Webster, and Wilcox.
 
-     The Southern District comprises six divisions.
+    Court for the Americus Division shall be held at Americus.
 
-        (1) The Augusta Division comprises the Counties of Burke, Columbia, Glascock, Jefferson, Lincoln, McDuffie, Richmond, Taliaferro, Warren, and Wilkes.    Court for the Augusta Division shall be held at Augusta.
+    (5) The Albany Division comprises the counties of Baker, Calhoun, Dougherty, Early, Miller, Mitchell, Turner, and Worth.
 
-        (2) The Dublin Division comprises the counties of Dodge, Johnson, Laurens, Montgomery, Telfair, Treutlen, and Wheeler.    Court for the Dublin Division shall be held at Dublin.
+    Court for the Albany Division shall be held at Albany.
 
-        (3) The Savannah Division comprises the counties of Bryan, Chatham, Effingham, and Liberty.    Court for the Savannah Division shall be held at Savannah.
+    (6) The Valdosta Division comprises the counties of Berrien, Clinch, Cook, Echols, Irwin, Lanier, Lowndes, and Tift.
 
-        (4) The Waycross Division comprises the counties of Atkinson, Bacon, Brantley, Charlton, Coffee, Pierce, and Ware.    Court for the Waycross Division shall be held at Waycross.
+    Court for the Valdosta Division shall be held at Valdosta.
 
-        (5) The Brunswick Division comprises the counties of Appling, Camden, Glynn, Jeff Davis, Long, McIntosh, and Wayne.    Court for the Brunswick Division shall be held at Brunswick.
+    (7) The Thomasville Division comprises the counties of Brooks, Colquitt, Decatur, Grady, Seminole, and Thomas.
 
-        (6) The Statesboro Division comprises the counties of Bulloch, Candler, Emanuel, Evans, Jenkins, Screven, Tattnall, and Toombs.    Court for the Statesboro Division shall be held at Statesboro.
+    Court for the Thomasville Division shall be held at Thomasville.
+
+Southern District
+
+    (c) The Southern District comprises six divisions.
+
+    (1) The Augusta Division comprises the Counties of Burke, Columbia, Glascock, Jefferson, Lincoln, McDuffie, Richmond, Taliaferro, Warren, and Wilkes.
+
+    Court for the Augusta Division shall be held at Augusta.
+
+    (2) The Dublin Division comprises the counties of Dodge, Johnson, Laurens, Montgomery, Telfair, Treutlen, and Wheeler.
+
+    Court for the Dublin Division shall be held at Dublin.
+
+    (3) The Savannah Division comprises the counties of Bryan, Chatham, Effingham, and Liberty.
+
+    Court for the Savannah Division shall be held at Savannah.
+
+    (4) The Waycross Division comprises the counties of Atkinson, Bacon, Brantley, Charlton, Coffee, Pierce, and Ware.
+
+    Court for the Waycross Division shall be held at Waycross.
+
+    (5) The Brunswick Division comprises the counties of Appling, Camden, Glynn, Jeff Davis, Long, McIntosh, and Wayne.
+
+    Court for the Brunswick Division shall be held at Brunswick.
+
+    (6) The Statesboro Division comprises the counties of Bulloch, Candler, Emanuel, Evans, Jenkins, Screven, Tattnall, and Toombs.
+
+    Court for the Statesboro Division shall be held at Statesboro.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 876][/us/stat/62/876]; [Aug. 16, 1949, ch. 444][/us/act/1949-08-16/ch444], [63 Stat. 610][/us/stat/63/610]; [Oct. 31, 1951, ch. 655, § 36a][/us/act/1951-10-31/ch655/s36a], [65 Stat. 723][/us/stat/65/723]; [Pub. L. 98–620, title IV, § 408(a)][/us/pl/98/620/s408/a]–(c), Nov. 8, 1984, [98 Stat. 3362][/us/stat/98/3362]; [Pub. L. 99–657, § 3][/us/pl/99/657/s3], Nov. 14, 1986, [100 Stat. 3670][/us/stat/100/3670].)
 

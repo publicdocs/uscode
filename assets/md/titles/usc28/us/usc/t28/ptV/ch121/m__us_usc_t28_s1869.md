@@ -15,7 +15,7 @@
 
 ## § 1869. Definitions
 
-For purposes of this chapter—
+    For purposes of this chapter—
 
     (a) “clerk” and “clerk of the court” shall mean the clerk of the district court of the United States, any authorized deputy clerk, and any other person authorized by the court to assist the clerk in the performance of functions under this chapter;
 

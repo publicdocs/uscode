@@ -15,7 +15,7 @@
 
 ## § 1333. Admiralty, maritime and prize cases
 
-The district courts shall have original jurisdiction, exclusive of the courts of the States, of:
+    The district courts shall have original jurisdiction, exclusive of the courts of the States, of:
 
     (1) Any civil case of admiralty or maritime jurisdiction, saving to suitors in all cases all other remedies to which they are otherwise entitled.
 

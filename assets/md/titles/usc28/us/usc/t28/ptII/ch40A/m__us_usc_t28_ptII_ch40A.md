@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 599A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs599A" data-uslm-ref="/us/usc/t28/s599A">599A.</a>  </td>
 
     <td> Bureau of Alcohol, Tobacco, Firearms, and Explosives  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 599B.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs599B" data-uslm-ref="/us/usc/t28/s599B">599B.</a>  </td>
 
     <td> Personnel management demonstration project  <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 

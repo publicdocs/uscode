@@ -15,27 +15,31 @@
 
 ## § 115. Ohio
 
-Ohio is divided into two judicial districts to be known as the Northern and Southern Districts of Ohio.
+    Ohio is divided into two judicial districts to be known as the Northern and Southern Districts of Ohio.
 
 Northern District
 
-    (a)
+    (a) The Northern District comprises two divisions.
 
-     The Northern District comprises two divisions.
+    (1) The Eastern Division comprises the counties of Ashland, Ashtabula, Carroll, Columbiana, Crawford, Cuyahoga, Geauga, Holmes, Lake, Lorain, Mahoning, Medina, Portage, Richland, Stark, Summit, Trumbull, Tuscarawas, and Wayne.
 
-        (1) The Eastern Division comprises the counties of Ashland, Ashtabula, Carroll, Columbiana, Crawford, Cuyahoga, Geauga, Holmes, Lake, Lorain, Mahoning, Medina, Portage, Richland, Stark, Summit, Trumbull, Tuscarawas, and Wayne.    Court for the Eastern Division shall be held at Cleveland, Youngstown, and Akron.
+    Court for the Eastern Division shall be held at Cleveland, Youngstown, and Akron.
 
-        (2) The Western Division comprises the counties of Allen, Auglaize, Defiance, Erie, Fulton, Hancock, Hardin, Henry, Huron, Lucas, Marion, Mercer, Ottawa, Paulding, Putnam, Sandusky, Seneca, Van Wert, Williams, Woods, and Wyandot.    Court for the Western Division shall be held at Lima and Toledo.
+    (2) The Western Division comprises the counties of Allen, Auglaize, Defiance, Erie, Fulton, Hancock, Hardin, Henry, Huron, Lucas, Marion, Mercer, Ottawa, Paulding, Putnam, Sandusky, Seneca, Van Wert, Williams, Woods, and Wyandot.
 
-        Southern District
+    Court for the Western Division shall be held at Lima and Toledo.
 
-    (b)
+Southern District
 
-     The Southern District comprises two divisions.
+    (b) The Southern District comprises two divisions.
 
-        (1) The Western Division comprises the counties of Adams, Brown, Butler, Champaign, Clark, Clermont, Clinton, Darke, Greene, Hamilton, Highland, Lawrence, Miami, Montgomery, Preble, Scioto, Shelby, and Warren.    Court for the Western Division shall be held at Cincinnati and Dayton.
+    (1) The Western Division comprises the counties of Adams, Brown, Butler, Champaign, Clark, Clermont, Clinton, Darke, Greene, Hamilton, Highland, Lawrence, Miami, Montgomery, Preble, Scioto, Shelby, and Warren.
 
-        (2) The Eastern Division comprises the counties of Athens, Belmont, Coshocton, Delaware, Fairfield, Fayette, Franklin, Gallia, Guernsey, Harrison, Hocking, Jackson, Jefferson, Knox, Licking, Logan, Madison, Meigs, Monroe, Morgan, Morrow, Muskingum, Noble, Perry, Pickaway, Pike, Ross, Union, Vinton, and Washington.    Court for the Eastern Division shall be held at Columbus  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  St. Clairsville, and Steubenville.
+    Court for the Western Division shall be held at Cincinnati and Dayton.
+
+    (2) The Eastern Division comprises the counties of Athens, Belmont, Coshocton, Delaware, Fairfield, Fayette, Franklin, Gallia, Guernsey, Harrison, Hocking, Jackson, Jefferson, Knox, Licking, Logan, Madison, Meigs, Monroe, Morgan, Morrow, Muskingum, Noble, Perry, Pickaway, Pike, Ross, Union, Vinton, and Washington.
+
+    Court for the Eastern Division shall be held at Columbus  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  St. Clairsville, and Steubenville.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 887][/us/stat/62/887]; [Feb. 10, 1954, ch. 6, § 2(b)(9)][/us/act/1954-02-10/ch6/s2/b/9], [68 Stat. 11][/us/stat/68/11]; [Pub. L. 107–273, div. C, title I, § 11021][/us/pl/107/273/s11021], Nov. 2, 2002, [116 Stat. 1829][/us/stat/116/1829].)
 

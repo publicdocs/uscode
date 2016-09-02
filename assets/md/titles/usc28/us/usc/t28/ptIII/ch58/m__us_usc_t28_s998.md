@@ -15,7 +15,7 @@
 
 ## § 998. Definitions
 
-As used in this chapter—
+    As used in this chapter—
 
     (a) “Commission” means the United States Sentencing Commission;
 

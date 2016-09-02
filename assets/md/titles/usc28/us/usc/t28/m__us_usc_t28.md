@@ -13,11 +13,11 @@
 
 ~~Previous~~ | [Next](./../../..//us/usc/t28/ptI/m__us_usc_t28_ptI.md) | [Root of Title](./../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28)
 
-# 
-
-Title 28—JUDICIARY AND JUDICIAL PROCEDURE
+# Title 28—JUDICIARY AND JUDICIAL PROCEDURE
 
 This title was enacted by [act June 25, 1948, ch. 646, § 1][/us/act/1948-06-25/ch646/s1], [62 Stat. 869][/us/stat/62/869]
+
+Current through 113–44
 
 <table>
 
@@ -33,61 +33,61 @@ This title was enacted by [act June 25, 1948, ch. 646, § 1][/us/act/1948-06-2
 
   <tr>
 
-    <td> I.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptI" data-uslm-ref="/us/usc/t28/ptI">I.</a>  </td>
 
     <td> Organization of Courts  </td>
 
-    <td> 1  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1" data-uslm-ref="/us/usc/t28/s1">1</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> II.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptII" data-uslm-ref="/us/usc/t28/ptII">II.</a>  </td>
 
     <td> Department of Justice  </td>
 
-    <td> 501  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs501" data-uslm-ref="/us/usc/t28/s501">501</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> III.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIII" data-uslm-ref="/us/usc/t28/ptIII">III.</a>  </td>
 
     <td> Court Officers and Employees  </td>
 
-    <td> 601  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs601" data-uslm-ref="/us/usc/t28/s601">601</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> IV.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV" data-uslm-ref="/us/usc/t28/ptIV">IV.</a>  </td>
 
     <td> Jurisdiction and Venue  </td>
 
-    <td> 1251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1251" data-uslm-ref="/us/usc/t28/s1251">1251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> V.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptV" data-uslm-ref="/us/usc/t28/ptV">V.</a>  </td>
 
     <td> Procedure  </td>
 
-    <td> 1651  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1651" data-uslm-ref="/us/usc/t28/s1651">1651</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> VI.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptVI" data-uslm-ref="/us/usc/t28/ptVI">VI.</a>  </td>
 
     <td> Particular Proceedings  </td>
 
-    <td> 2201  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2201" data-uslm-ref="/us/usc/t28/s2201">2201</a>  </td>
 
   </tr>
 

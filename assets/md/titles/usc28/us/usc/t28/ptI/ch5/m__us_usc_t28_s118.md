@@ -15,19 +15,25 @@
 
 ## § 118. Pennsylvania
 
-Pennsylvania is divided into three judicial districts to be known as the Eastern, Middle, and Western Districts of Pennsylvania.
+    Pennsylvania is divided into three judicial districts to be known as the Eastern, Middle, and Western Districts of Pennsylvania.
 
 Eastern District
 
-    (a) The Eastern District comprises the counties of Berks, Bucks, Chester, Delaware, Lancaster, Lehigh, Montgomery, Northampton, and Philadelphia.    Court for the Eastern District shall be held at Allentown, Easton, Lancaster, Reading, and Philadelphia.
+    (a) The Eastern District comprises the counties of Berks, Bucks, Chester, Delaware, Lancaster, Lehigh, Montgomery, Northampton, and Philadelphia.
 
-        Middle District
+    Court for the Eastern District shall be held at Allentown, Easton, Lancaster, Reading, and Philadelphia.
 
-    (b) The Middle District comprises the counties of Adams, Bradford, Cameron, Carbon, Centre, Clinton, Columbia, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lackawanna, Lebanon, Luzerne, Lycoming, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Sullivan, Susquehanna, Tioga, Union, Wayne, Wyoming, and York.    Court for the Middle District shall be held at Harrisburg, Lewisburg, Scranton, Wilkes-Barre, and Williamsport.
+Middle District
 
-        Western District
+    (b) The Middle District comprises the counties of Adams, Bradford, Cameron, Carbon, Centre, Clinton, Columbia, Cumberland, Dauphin, Franklin, Fulton, Huntingdon, Juniata, Lackawanna, Lebanon, Luzerne, Lycoming, Mifflin, Monroe, Montour, Northumberland, Perry, Pike, Potter, Schuylkill, Snyder, Sullivan, Susquehanna, Tioga, Union, Wayne, Wyoming, and York.
 
-    (c) The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.    Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
+    Court for the Middle District shall be held at Harrisburg, Lewisburg, Scranton, Wilkes-Barre, and Williamsport.
+
+Western District
+
+    (c) The Western District comprises the counties of Allegheny, Armstrong, Beaver, Bedford, Blair, Butler, Cambria, Clarion, Clearfield, Crawford, Elk, Erie, Fayette, Forest, Greene, Indiana, Jefferson, Lawrence, McKean, Mercer, Somerset, Venango, Warren, Washington, and Westmoreland.
+
+    Court for the Western District shall be held at Erie, Johnstown, and Pittsburgh.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 888][/us/stat/62/888]; [Pub. L. 91–272, § 6][/us/pl/91/272/s6], June 2, 1970, [84 Stat. 297][/us/stat/84/297]; [Pub. L. 95–573, § 4][/us/pl/95/573/s4], Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458]; [Pub. L. 102–396, title IX, § 9161][/us/pl/102/396/s9161], Oct. 6, 1992, [106 Stat. 1947][/us/stat/106/1947]; [Pub. L. 105–277, div. A, § 101(b)][/us/pl/105/277/s101/b] \[title VI, § 624(a)\], Oct. 21, 1998, [112 Stat. 2681–50][/us/stat/112/2681-50], 2681–116.)
 

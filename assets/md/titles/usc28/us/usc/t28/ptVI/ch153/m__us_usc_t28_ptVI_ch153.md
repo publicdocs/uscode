@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2241.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2241" data-uslm-ref="/us/usc/t28/s2241">2241.</a>  </td>
 
     <td> Power to grant writ.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2242.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2242" data-uslm-ref="/us/usc/t28/s2242">2242.</a>  </td>
 
     <td> Application.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2243.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2243" data-uslm-ref="/us/usc/t28/s2243">2243.</a>  </td>
 
     <td> Issuance of writ; return; hearing; decision.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2244.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2244" data-uslm-ref="/us/usc/t28/s2244">2244.</a>  </td>
 
     <td> Finality of determination.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2245.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2245" data-uslm-ref="/us/usc/t28/s2245">2245.</a>  </td>
 
     <td> Certificate of trial judge admissible in evidence.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 2246.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2246" data-uslm-ref="/us/usc/t28/s2246">2246.</a>  </td>
 
     <td> Evidence; depositions; affidavits.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2247.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2247" data-uslm-ref="/us/usc/t28/s2247">2247.</a>  </td>
 
     <td> Documentary evidence.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 2248.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2248" data-uslm-ref="/us/usc/t28/s2248">2248.</a>  </td>
 
     <td> Return or answer; conclusiveness.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 2249.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2249" data-uslm-ref="/us/usc/t28/s2249">2249.</a>  </td>
 
     <td> Certified copies of indictment, plea and judgment; duty of respondent.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 2250.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2250" data-uslm-ref="/us/usc/t28/s2250">2250.</a>  </td>
 
     <td> Indigent petitioner entitled to documents without cost.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 2251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2251" data-uslm-ref="/us/usc/t28/s2251">2251.</a>  </td>
 
     <td> Stay of State court proceedings.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 2252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2252" data-uslm-ref="/us/usc/t28/s2252">2252.</a>  </td>
 
     <td> Notice.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 2253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2253" data-uslm-ref="/us/usc/t28/s2253">2253.</a>  </td>
 
     <td> Appeal.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 2254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2254" data-uslm-ref="/us/usc/t28/s2254">2254.</a>  </td>
 
     <td> State custody; remedies in Federal courts.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 2255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2255" data-uslm-ref="/us/usc/t28/s2255">2255.</a>  </td>
 
     <td> Federal custody; remedies on motion attacking sentence.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> [2256.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2256" data-uslm-ref="/us/usc/t28/s2256">2256.</a>  </td>
 
     <td> Omitted.]  </td>
 

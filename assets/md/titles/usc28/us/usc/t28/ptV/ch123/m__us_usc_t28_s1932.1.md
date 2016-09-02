@@ -1,7 +1,7 @@
 ---
 ---
 
-# 28 U.S.C., USLM ref /us/usc/t28/s1932
+# 28 U.S.C., USLM ref /us/usc/t28/s1932.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1931.md) | [Next](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1932)
+[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1931.md) | [Next](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.1^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1932.1)
 
 ## § 1932. <sup>\[1\]</sup>  <sup><sup> 1 Another section 1932 is set out after this section. </sup></sup>  Judicial Panel on Multidistrict Litigation
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1931.md) | [Next](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1932)
+[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1931.md) | [Next](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.1^extra.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1932.1)
 
 ----------
 ----------

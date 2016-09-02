@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 291.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs291" data-uslm-ref="/us/usc/t28/s291">291.</a>  </td>
 
     <td> Circuit judges.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 292.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs292" data-uslm-ref="/us/usc/t28/s292">292.</a>  </td>
 
     <td> District judges.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 293.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs293" data-uslm-ref="/us/usc/t28/s293">293.</a>  </td>
 
     <td> Judges of the Court of International Trade.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 294.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs294" data-uslm-ref="/us/usc/t28/s294">294.</a>  </td>
 
     <td> Assignment of retired justices or judges to active duty. <sup>[1]</sup>  <sup><sup> 1 Section catchline amended by <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fpl%2F85%2F755" data-uslm-ref="/us/pl/85/755">Pub. L. 85–755</a> without corresponding amendment of analysis. </sup></sup>   </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 295.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs295" data-uslm-ref="/us/usc/t28/s295">295.</a>  </td>
 
     <td> Conditions upon designation and assignment.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 296.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs296" data-uslm-ref="/us/usc/t28/s296">296.</a>  </td>
 
     <td> Powers upon designation and assignment.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 297.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs297" data-uslm-ref="/us/usc/t28/s297">297.</a>  </td>
 
     <td> Assignment of judges to courts of the freely associated compact states.  </td>
 

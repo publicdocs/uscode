@@ -15,15 +15,19 @@
 
 ## § 129. West Virginia
 
-West Virginia is divided into two judicial districts to be known as the Northern and Southern Districts of West Virginia.
+    West Virginia is divided into two judicial districts to be known as the Northern and Southern Districts of West Virginia.
 
 Northern District
 
-    (a) The Northern District comprises the counties of Barbour, Berkeley, Braxton, Brooke, Calhoun, Doddridge, Gilmer, Grant, Hampshire, Hancock, Hardy, Harrison, Jefferson, Lewis, Marion, Marshall, Mineral, Monongalia, Morgan, Ohio, Pendleton, Pleasants, Pocahontas, Preston, Randolph, Ritchie, Taylor, Tucker, Tyler, Upshur, Webster, and Wetzel.    Court for the Northern District shall be held at Clarksburg, Elkins, Fairmont, Martinsburg, and Wheeling.
+    (a) The Northern District comprises the counties of Barbour, Berkeley, Braxton, Brooke, Calhoun, Doddridge, Gilmer, Grant, Hampshire, Hancock, Hardy, Harrison, Jefferson, Lewis, Marion, Marshall, Mineral, Monongalia, Morgan, Ohio, Pendleton, Pleasants, Pocahontas, Preston, Randolph, Ritchie, Taylor, Tucker, Tyler, Upshur, Webster, and Wetzel.
 
-        Southern District
+    Court for the Northern District shall be held at Clarksburg, Elkins, Fairmont, Martinsburg, and Wheeling.
 
-    (b) The Southern District comprises the counties of Boone, Cabell, Clay, Fayette, Greenbrier, Jackson, Kanawha, Lincoln, Logan, McDowell, Mason, Mercer, Mingo, Monroe, Nicholas, Putnam, Raleigh, Roane, Summers, Wayne, Wirt, Wood, and Wyoming.    Court for the Southern District shall be held at Beckley, Bluefield, Charleston, Huntington, Lewisburg, and Parkersburg.
+Southern District
+
+    (b) The Southern District comprises the counties of Boone, Cabell, Clay, Fayette, Greenbrier, Jackson, Kanawha, Lincoln, Logan, McDowell, Mason, Mercer, Mingo, Monroe, Nicholas, Putnam, Raleigh, Roane, Summers, Wayne, Wirt, Wood, and Wyoming.
+
+    Court for the Southern District shall be held at Beckley, Bluefield, Charleston, Huntington, Lewisburg, and Parkersburg.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 894][/us/stat/62/894]; [Pub. L. 97–471, § 1][/us/pl/97/471/s1], Jan. 14, 1983, [96 Stat. 2601][/us/stat/96/2601].)
 

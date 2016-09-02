@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1711.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1711" data-uslm-ref="/us/usc/t28/s1711">1711.</a>  </td>
 
     <td> Definitions.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1712.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1712" data-uslm-ref="/us/usc/t28/s1712">1712.</a>  </td>
 
     <td> Coupon settlements.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1713.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1713" data-uslm-ref="/us/usc/t28/s1713">1713.</a>  </td>
 
     <td> Protection against loss by class members.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1714.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1714" data-uslm-ref="/us/usc/t28/s1714">1714.</a>  </td>
 
     <td> Protection against discrimination based on geographic location.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1715.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1715" data-uslm-ref="/us/usc/t28/s1715">1715.</a>  </td>
 
     <td> Notifications to appropriate Federal and State officials.  </td>
 

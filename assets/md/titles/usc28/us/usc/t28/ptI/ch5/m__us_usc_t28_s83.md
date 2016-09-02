@@ -15,41 +15,59 @@
 
 ## § 83. Arkansas
 
-Arkansas is divided into two judicial districts to be known as the Eastern and Western Districts of Arkansas.
+    Arkansas is divided into two judicial districts to be known as the Eastern and Western Districts of Arkansas.
 
 Eastern District
 
-    (a)
+    (a) The Eastern District comprises five divisions.
 
-     The Eastern District comprises five divisions.
+    (1) The Eastern Division comprises the counties of Cross, Lee, Monroe, Phillips, Saint Francis, and Woodruff.
 
-        (1) The Eastern Division comprises the counties of Cross, Lee, Monroe, Phillips, Saint Francis, and Woodruff.    Court for the Eastern Division shall be held at Helena.
+    Court for the Eastern Division shall be held at Helena.
 
-        (2) The Western Division comprises the counties of Conway, Faulkner, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Van Buren, White, and Yell.    Court for the Western Division shall be held at Little Rock.
+    (2) The Western Division comprises the counties of Conway, Faulkner, Lonoke, Perry, Pope, Prairie, Pulaski, Saline, Van Buren, White, and Yell.
 
-        (3) The Pine Bluff Division comprises the counties of Arkansas, Chicot, Cleveland, Dallas, Desha, Drew, Grant, Jefferson, and Lincoln.    Court for the Pine Bluff Division shall be held at Pine Bluff.
+    Court for the Western Division shall be held at Little Rock.
 
-        (4) The Northern Division comprises the counties of Cleburne, Fulton, Independence, Izard, Jackson, Sharp, and Stone.    Court for the Northern Division shall be held at Batesville.
+    (3) The Pine Bluff Division comprises the counties of Arkansas, Chicot, Cleveland, Dallas, Desha, Drew, Grant, Jefferson, and Lincoln.
 
-        (5) The Jonesboro Division comprises the counties of Clay, Craighead, Crittenden, Greene, Lawrence, Mississippi, Poinsett, and Randolph.    Court for the Jonesboro Division shall be held at Jonesboro.
+    Court for the Pine Bluff Division shall be held at Pine Bluff.
 
-        Western District
+    (4) The Northern Division comprises the counties of Cleburne, Fulton, Independence, Izard, Jackson, Sharp, and Stone.
 
-    (b)
+    Court for the Northern Division shall be held at Batesville.
 
-     The Western District comprises six divisions.
+    (5) The Jonesboro Division comprises the counties of Clay, Craighead, Crittenden, Greene, Lawrence, Mississippi, Poinsett, and Randolph.
 
-        (1) The Texarkana Division comprises the counties of Hempstead, Howard, Lafayette, Little River, Miller, Nevada, and Sevier.    Court for the Texarkana Division shall be held at Texarkana, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas.
+    Court for the Jonesboro Division shall be held at Jonesboro.
 
-        (2) The El Dorado Division comprises the counties of Ashley, Bradley, Calhoun, Columbia, Ouachita, and Union.    Court for the El Dorado Division shall be held at El Dorado.
+Western District
 
-        (3) The Fort Smith Division comprises the counties of Crawford, Franklin, Johnson, Logan, Polk, Scott, and Sebastian.    Court for the Fort Smith Division shall be held at Fort Smith.
+    (b) The Western District comprises six divisions.
 
-        (4) The Harrison Division comprises the counties of Baxter, Boone, Carroll, Marion, Newton, and Searcy.    Court for the Harrison Division shall be held at Harrison.
+    (1) The Texarkana Division comprises the counties of Hempstead, Howard, Lafayette, Little River, Miller, Nevada, and Sevier.
 
-        (5) The Fayetteville Division comprises the counties of Benton, Madison, and Washington.    Court for the Fayetteville Division shall be held at Fayetteville.
+    Court for the Texarkana Division shall be held at Texarkana, and may be held anywhere within the Federal courthouse in Texarkana that is located astride the State line between Texas and Arkansas.
 
-        (6) The Hot Springs Division comprises the counties of Clark, Garland, Hot Springs, Montgomery, and Pike.    Court for the Hot Springs Division shall be held at Hot Springs.
+    (2) The El Dorado Division comprises the counties of Ashley, Bradley, Calhoun, Columbia, Ouachita, and Union.
+
+    Court for the El Dorado Division shall be held at El Dorado.
+
+    (3) The Fort Smith Division comprises the counties of Crawford, Franklin, Johnson, Logan, Polk, Scott, and Sebastian.
+
+    Court for the Fort Smith Division shall be held at Fort Smith.
+
+    (4) The Harrison Division comprises the counties of Baxter, Boone, Carroll, Marion, Newton, and Searcy.
+
+    Court for the Harrison Division shall be held at Harrison.
+
+    (5) The Fayetteville Division comprises the counties of Benton, Madison, and Washington.
+
+    Court for the Fayetteville Division shall be held at Fayetteville.
+
+    (6) The Hot Springs Division comprises the counties of Clark, Garland, Hot Springs, Montgomery, and Pike.
+
+    Court for the Hot Springs Division shall be held at Hot Springs.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 874][/us/stat/62/874]; [Pub. L. 87–36, § 5][/us/pl/87/36/s5], May 19, 1961, [75 Stat. 84][/us/stat/75/84]; [Pub. L. 108–455, § 3][/us/pl/108/455/s3], Dec. 10, 2004, [118 Stat. 3628][/us/stat/118/3628].)
 

@@ -21,7 +21,7 @@
 
  __Termination of Section__ 
 
-For termination of section by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates note below.
+    For termination of section by [section 501(c) of Pub. L. 100–449][/us/pl/100/449/s501/c], see Effective and Termination Dates note below.
 
  __References in Text__ 
 

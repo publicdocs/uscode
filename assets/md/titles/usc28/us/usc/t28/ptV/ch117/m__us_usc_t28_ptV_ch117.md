@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1781.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1781" data-uslm-ref="/us/usc/t28/s1781">1781.</a>  </td>
 
     <td> Transmittal of letter rogatory or request.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1782.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1782" data-uslm-ref="/us/usc/t28/s1782">1782.</a>  </td>
 
     <td> Assistance to foreign and international tribunals and to litigants before such tribunals.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1783.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1783" data-uslm-ref="/us/usc/t28/s1783">1783.</a>  </td>
 
     <td> Subpoena of person in foreign country.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1784.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1784" data-uslm-ref="/us/usc/t28/s1784">1784.</a>  </td>
 
     <td> Contempt.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1785.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1785" data-uslm-ref="/us/usc/t28/s1785">1785.</a>  </td>
 
     <td> Subpoenas in multiparty, multiforum actions.  </td>
 

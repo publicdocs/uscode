@@ -15,7 +15,7 @@
 
 ## § 122. South Dakota
 
-South Dakota constitutes one judicial district comprising four divisions.
+    South Dakota constitutes one judicial district comprising four divisions.
 
     (1) The Northern Division comprises the counties of Brown, Campbell, Clark, Codington, Corson, Day, Deuel, Edmonds, Grant, Hamlin, McPherson, Marshall, Roberts, Spink, and Walworth.    Court for the Northern Division shall be held at Aberdeen.
 

@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1251" data-uslm-ref="/us/usc/t28/s1251">1251.</a>  </td>
 
     <td> Original jurisdiction.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> [1252.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1252" data-uslm-ref="/us/usc/t28/s1252">1252.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1253" data-uslm-ref="/us/usc/t28/s1253">1253.</a>  </td>
 
     <td> Direct appeals from decisions of three-judge courts.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1254" data-uslm-ref="/us/usc/t28/s1254">1254.</a>  </td>
 
     <td> Courts of appeals; certiorari; certified questions.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> [1255, 1256.   </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1255" data-uslm-ref="/us/usc/t28/s1255">1255</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1256" data-uslm-ref="/us/usc/t28/s1256">1256.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1257" data-uslm-ref="/us/usc/t28/s1257">1257.</a>  </td>
 
     <td> State courts; certiorari.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1258" data-uslm-ref="/us/usc/t28/s1258">1258.</a>  </td>
 
     <td> Supreme Court of Puerto Rico; certiorari.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1259.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1259" data-uslm-ref="/us/usc/t28/s1259">1259.</a>  </td>
 
     <td> Court of Appeals for the Armed Forces; certiorari.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1260.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1260" data-uslm-ref="/us/usc/t28/s1260">1260.</a>  </td>
 
     <td> Supreme Court of the Virgin Islands; certiorari.  </td>
 

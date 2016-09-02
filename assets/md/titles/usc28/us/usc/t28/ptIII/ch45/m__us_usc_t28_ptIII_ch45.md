@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 671.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs671" data-uslm-ref="/us/usc/t28/s671">671.</a>  </td>
 
     <td> Clerk.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 672.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs672" data-uslm-ref="/us/usc/t28/s672">672.</a>  </td>
 
     <td> Marshal.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 673.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs673" data-uslm-ref="/us/usc/t28/s673">673.</a>  </td>
 
     <td> Reporter.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 674.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs674" data-uslm-ref="/us/usc/t28/s674">674.</a>  </td>
 
     <td> Librarian.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 675.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs675" data-uslm-ref="/us/usc/t28/s675">675.</a>  </td>
 
     <td> Law clerks and secretaries.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 676.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs676" data-uslm-ref="/us/usc/t28/s676">676.</a>  </td>
 
     <td> Printing and binding.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 677.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs677" data-uslm-ref="/us/usc/t28/s677">677.</a>  </td>
 
     <td> Counselor to the Chief Justice.  </td>
 

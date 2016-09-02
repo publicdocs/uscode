@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptIV/ch93/m__us_usc_t28_s1541 to 1546.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch95/m__us_usc_t28_s1581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch95)
+[Previous](./../../../../..//us/usc/t28/ptIV/ch93/m__us_usc_t28_ptIV_ch93.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch95/m__us_usc_t28_s1581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch95)
 
 ### CHAPTER 95—COURT OF INTERNATIONAL TRADE
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1581.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1581" data-uslm-ref="/us/usc/t28/s1581">1581.</a>  </td>
 
     <td> Civil actions against the United States and agencies and officers thereof.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1582.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1582" data-uslm-ref="/us/usc/t28/s1582">1582.</a>  </td>
 
     <td> Civil actions commenced by the United States.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1583.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1583" data-uslm-ref="/us/usc/t28/s1583">1583.</a>  </td>
 
     <td> Counterclaims, cross-claims, and third-party actions.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1584.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1584" data-uslm-ref="/us/usc/t28/s1584">1584.</a>  </td>
 
     <td> Civil actions under the North American Free Trade Agreement or the United States-Canada Free-Trade Agreement.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1585.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1585" data-uslm-ref="/us/usc/t28/s1585">1585.</a>  </td>
 
     <td> Powers in law and equity.  </td>
 
@@ -77,7 +77,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptIV/ch93/m__us_usc_t28_s1541 to 1546.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch95/m__us_usc_t28_s1581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch95)
+[Previous](./../../../../..//us/usc/t28/ptIV/ch93/m__us_usc_t28_ptIV_ch93.md) | [Next](./../../../../..//us/usc/t28/ptIV/ch95/m__us_usc_t28_s1581.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch95)
 
 ----------
 ----------

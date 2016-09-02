@@ -255,7 +255,11 @@
 
 >                 “(i) relates to the claims agreement; and
 
->                 “(ii) for the purpose of implementing the claims agreement, is—         “(I) held by an entity designated by the Secretary under subsection (a)(1);
+>                 “(ii)
+
+>                  for the purpose of implementing the claims agreement, is—
+
+>                          “(I) held by an entity designated by the Secretary under subsection (a)(1);
 
 >                          “(II) transferred to the entity; or
 

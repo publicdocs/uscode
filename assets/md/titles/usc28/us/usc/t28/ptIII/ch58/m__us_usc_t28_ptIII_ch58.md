@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 991.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs991" data-uslm-ref="/us/usc/t28/s991">991.</a>  </td>
 
     <td> United States Sentencing Commission; establishment and purposes.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 992.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs992" data-uslm-ref="/us/usc/t28/s992">992.</a>  </td>
 
     <td> Terms of office; compensation.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 993.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs993" data-uslm-ref="/us/usc/t28/s993">993.</a>  </td>
 
     <td> Powers and duties of Chair.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 994.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs994" data-uslm-ref="/us/usc/t28/s994">994.</a>  </td>
 
     <td> Duties of the Commission.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 995.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs995" data-uslm-ref="/us/usc/t28/s995">995.</a>  </td>
 
     <td> Powers of the Commission.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 996.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs996" data-uslm-ref="/us/usc/t28/s996">996.</a>  </td>
 
     <td> Director and staff.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 997.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs997" data-uslm-ref="/us/usc/t28/s997">997.</a>  </td>
 
     <td> Annual report.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 998.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs998" data-uslm-ref="/us/usc/t28/s998">998.</a>  </td>
 
     <td> Definitions.  </td>
 

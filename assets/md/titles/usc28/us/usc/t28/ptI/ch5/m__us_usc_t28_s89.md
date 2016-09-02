@@ -15,19 +15,25 @@
 
 ## § 89. Florida
 
-Florida is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Florida.
+    Florida is divided into three judicial districts to be known as the Northern, Middle, and Southern Districts of Florida.
 
 Northern District
 
-    (a) The Northern District comprises the counties of Alachua, Bay, Calhoun, Dixie, Escambia, Franklin, Gadsden, Gilchrist, Gulf, Holmes, Jackson, Jefferson, Lafayette, Leon, Levy, Liberty, Madison, Okaloosa, Santa Rosa, Taylor, Wakulla, Walton, and Washington.    Court for the Northern District shall be held at Gainesville, Marianna, Panama City, Pensacola, and Tallahassee.
+    (a) The Northern District comprises the counties of Alachua, Bay, Calhoun, Dixie, Escambia, Franklin, Gadsden, Gilchrist, Gulf, Holmes, Jackson, Jefferson, Lafayette, Leon, Levy, Liberty, Madison, Okaloosa, Santa Rosa, Taylor, Wakulla, Walton, and Washington.
 
-        Middle District
+    Court for the Northern District shall be held at Gainesville, Marianna, Panama City, Pensacola, and Tallahassee.
 
-    (b) The Middle District comprises the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Collier, Columbia, De Soto, Duval, Flagler, Glades, Hamilton, Hardee, Hendry, Hernando, Hillsborough, Lake, Lee, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, St. Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia.    Court for the Middle District shall be held at Fernandina, Fort Myers, Jacksonville, Live Oak, Ocala, Orlando, Saint Petersburg, and Tampa.
+Middle District
 
-        Southern District
+    (b) The Middle District comprises the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Collier, Columbia, De Soto, Duval, Flagler, Glades, Hamilton, Hardee, Hendry, Hernando, Hillsborough, Lake, Lee, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, St. Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia.
 
-    (c) The Southern District comprises the counties of Broward, Dade, Highlands, Indian River, Martin, Monroe, Okeechobee, Palm Beach, and St. Lucie.    Court for the Southern District shall be held at Fort Lauderdale, Fort Pierce, Key West, Miami, and West Palm Beach.
+    Court for the Middle District shall be held at Fernandina, Fort Myers, Jacksonville, Live Oak, Ocala, Orlando, Saint Petersburg, and Tampa.
+
+Southern District
+
+    (c) The Southern District comprises the counties of Broward, Dade, Highlands, Indian River, Martin, Monroe, Okeechobee, Palm Beach, and St. Lucie.
+
+    Court for the Southern District shall be held at Fort Lauderdale, Fort Pierce, Key West, Miami, and West Palm Beach.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 876][/us/stat/62/876]; [July 17, 1952, ch. 929][/us/act/1952-07-17/ch929], [66 Stat. 757][/us/stat/66/757]; [Pub. L. 87–36, § 3(f)][/us/pl/87/36/s3/f], May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 87–562, § 1][/us/pl/87/562/s1], July 30, 1962, [76 Stat. 247][/us/stat/76/247]; [Pub. L. 91–272, § 10][/us/pl/91/272/s10], June 2, 1970, [84 Stat. 298][/us/stat/84/298]; [Pub. L. 95–408, § 4(a)][/us/pl/95/408/s4/a], Oct. 2, 1978, [92 Stat. 884][/us/stat/92/884]; [Pub. L. 100–702, title X, § 1021(a)][/us/pl/100/702/s1021/a], Nov. 19, 1988, [102 Stat. 4672][/us/stat/102/4672].)
 

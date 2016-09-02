@@ -29,67 +29,67 @@
 
   <tr>
 
-    <td> 81.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch81" data-uslm-ref="/us/usc/t28/ptIV/ch81">81.</a>  </td>
 
     <td> Supreme Court  </td>
 
-    <td> 1251  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1251" data-uslm-ref="/us/usc/t28/s1251">1251</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 83.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch83" data-uslm-ref="/us/usc/t28/ptIV/ch83">83.</a>  </td>
 
     <td> Courts of Appeals  </td>
 
-    <td> 1291  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1291" data-uslm-ref="/us/usc/t28/s1291">1291</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 85.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch85" data-uslm-ref="/us/usc/t28/ptIV/ch85">85.</a>  </td>
 
     <td> District Courts; Jurisdiction  </td>
 
-    <td> 1331  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “1330”. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1331" data-uslm-ref="/us/usc/t28/s1331">1331</a>  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be “1330”. </sup></sup>   </td>
 
   </tr>
 
   <tr>
 
-    <td> 87.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch87" data-uslm-ref="/us/usc/t28/ptIV/ch87">87.</a>  </td>
 
     <td> District Courts; Venue  </td>
 
-    <td> 1391  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1391" data-uslm-ref="/us/usc/t28/s1391">1391</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 89.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch89" data-uslm-ref="/us/usc/t28/ptIV/ch89">89.</a>  </td>
 
     <td> District Courts; Removal of Cases from State Courts  </td>
 
-    <td> 1441  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1441" data-uslm-ref="/us/usc/t28/s1441">1441</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 91.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch91" data-uslm-ref="/us/usc/t28/ptIV/ch91">91.</a>  </td>
 
     <td> United States Court of Federal Claims  </td>
 
-    <td> 1491  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1491" data-uslm-ref="/us/usc/t28/s1491">1491</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> [93.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch93" data-uslm-ref="/us/usc/t28/ptIV/ch93">93.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -99,31 +99,31 @@
 
   <tr>
 
-    <td> 95.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch95" data-uslm-ref="/us/usc/t28/ptIV/ch95">95.</a>  </td>
 
     <td> Court of International Trade  </td>
 
-    <td> 1581  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1581" data-uslm-ref="/us/usc/t28/s1581">1581</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 97.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch97" data-uslm-ref="/us/usc/t28/ptIV/ch97">97.</a>  </td>
 
     <td> Jurisdictional Immunities of Foreign States  </td>
 
-    <td> 1602  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1602" data-uslm-ref="/us/usc/t28/s1602">1602</a>  </td>
 
   </tr>
 
   <tr>
 
-    <td> 99.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2FptIV%2Fch99" data-uslm-ref="/us/usc/t28/ptIV/ch99">99.</a>  </td>
 
     <td> General Provisions  </td>
 
-    <td> 1631  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1631" data-uslm-ref="/us/usc/t28/s1631">1631</a>  </td>
 
   </tr>
 

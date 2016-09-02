@@ -15,13 +15,13 @@
 
 ## § 521. Publication and distribution of opinions
 
-The Attorney General, from time to time—
+    The Attorney General, from time to time—
 
     (1) shall cause to be edited, and printed in the Government Printing Office, such of his opinions as he considers valuable for preservation in volumes; and
 
     (2) may prescribe the manner for the distribution of the volumes.
 
-        Each volume shall contain headnotes, an index, and such footnotes as the Attorney General may approve.
+    Each volume shall contain headnotes, an index, and such footnotes as the Attorney General may approve.
 
 (Added [Pub. L. 89–554, § 4(c)][/us/pl/89/554/s4/c], Sept. 6, 1966, [80 Stat. 614][/us/stat/80/614].)
 

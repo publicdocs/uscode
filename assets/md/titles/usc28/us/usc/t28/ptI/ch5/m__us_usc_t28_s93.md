@@ -15,25 +15,31 @@
 
 ## § 93. Illinois
 
-Illinois is divided into three judicial districts to be known as the Northern, Central, and Southern Districts of Illinois.
+    Illinois is divided into three judicial districts to be known as the Northern, Central, and Southern Districts of Illinois.
 
 Northern District
 
-    (a)
+    (a) The Northern District comprises two divisions.
 
-     The Northern District comprises two divisions.
+    (1) The Eastern Division comprises the counties of Cook, Du Page, Grundy, Kane, Kendall, Lake, La Salle, and Will.
 
-        (1) The Eastern Division comprises the counties of Cook, Du Page, Grundy, Kane, Kendall, Lake, La Salle, and Will.    Court for the Eastern Division shall be held at Chicago and Wheaton.
+    Court for the Eastern Division shall be held at Chicago and Wheaton.
 
-        (2) The Western Division comprises the counties of Boone, Carroll, De Kalb, Jo Daviess, Lee, McHenry, Ogle, Stephenson, Whiteside, and Winnebago.    Court for the Western Division shall be held at Freeport and Rockford.
+    (2) The Western Division comprises the counties of Boone, Carroll, De Kalb, Jo Daviess, Lee, McHenry, Ogle, Stephenson, Whiteside, and Winnebago.
 
-        Central District
+    Court for the Western Division shall be held at Freeport and Rockford.
 
-        (b) The Central District comprises the counties of Adams, Brown, Bureau, Cass, Champaign, Christian, Coles, De Witt, Douglas, Edgar, Ford, Fulton, Greene, Hancock, Henderson, Henry, Iroquois, Kankakee, Knox, Livingston, Logan, McDonough, McLean, Macoupin, Macon, Marshall, Mason, Menard, Mercer, Montgomery, Morgan, Moultrie, Peoria, Piatt, Pike, Putnam, Rock Island, Sangamon, Schuyler, Scott, Shelby, Stark, Tazewell, Vermilion, Warren, and Woodford.    Court for the Central District shall be held at Champaign/Urbana, Danville, Peoria, Quincy, Rock Island, and Springfield.
+Central District
 
-        Southern District
+    (b) The Central District comprises the counties of Adams, Brown, Bureau, Cass, Champaign, Christian, Coles, De Witt, Douglas, Edgar, Ford, Fulton, Greene, Hancock, Henderson, Henry, Iroquois, Kankakee, Knox, Livingston, Logan, McDonough, McLean, Macoupin, Macon, Marshall, Mason, Menard, Mercer, Montgomery, Morgan, Moultrie, Peoria, Piatt, Pike, Putnam, Rock Island, Sangamon, Schuyler, Scott, Shelby, Stark, Tazewell, Vermilion, Warren, and Woodford.
 
-        (c) The Southern District comprises the counties of Alexander, Bond, Calhoun, Clark, Clay, Clinton, Crawford, Cumberland, Edwards, Effingham, Fayette, Franklin, Gallatin, Hamilton, Hardin, Jackson, Jasper, Jefferson, Jersey, Johnson, Lawrence, Madison, Marion, Massac, Monroe, Perry, Pope, Pulaski, Randolph, Richland, St. Clair, Saline, Union, Wabash, Washington, Wayne, White, and Williamson.    Court for the Southern District shall be held at Alton, Benton, Cairo, and East Saint Louis.
+    Court for the Central District shall be held at Champaign/Urbana, Danville, Peoria, Quincy, Rock Island, and Springfield.
+
+Southern District
+
+    (c) The Southern District comprises the counties of Alexander, Bond, Calhoun, Clark, Clay, Clinton, Crawford, Cumberland, Edwards, Effingham, Fayette, Franklin, Gallatin, Hamilton, Hardin, Jackson, Jasper, Jefferson, Jersey, Johnson, Lawrence, Madison, Marion, Massac, Monroe, Perry, Pope, Pulaski, Randolph, Richland, St. Clair, Saline, Union, Wabash, Washington, Wayne, White, and Williamson.
+
+    Court for the Southern District shall be held at Alton, Benton, Cairo, and East Saint Louis.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 878][/us/stat/62/878]; [Aug. 10, 1950, ch. 675, § 1][/us/act/1950-08-10/ch675/s1], [64 Stat. 438][/us/stat/64/438]; [Pub. L. 87–36, § 3(c)][/us/pl/87/36/s3/c], May 19, 1961, [75 Stat. 83][/us/stat/75/83]; [Pub. L. 91–272, § 8][/us/pl/91/272/s8], June 2, 1970, [84 Stat. 297][/us/stat/84/297]; [Pub. L. 95–408, § 4(b)(1)][/us/pl/95/408/s4/b/1], Oct. 2, 1978, [92 Stat. 884][/us/stat/92/884]; [Pub. L. 95–573, § 1][/us/pl/95/573/s1], Nov. 2, 1978, [92 Stat. 2458][/us/stat/92/2458]; [Pub. L. 98–620, title IV, § 406(a)][/us/pl/98/620/s406/a], (c), Nov. 8, 1984, [98 Stat. 3361][/us/stat/98/3361]; [Pub. L. 106–130, § 2][/us/pl/106/130/s2], Dec. 6, 1999, [113 Stat. 1677][/us/stat/113/1677].)
 

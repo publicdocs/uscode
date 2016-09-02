@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1911.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1911" data-uslm-ref="/us/usc/t28/s1911">1911.</a>  </td>
 
     <td> Supreme Court.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1912.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1912" data-uslm-ref="/us/usc/t28/s1912">1912.</a>  </td>
 
     <td> Damages and costs on affirmance.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1913.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1913" data-uslm-ref="/us/usc/t28/s1913">1913.</a>  </td>
 
     <td> Courts of appeals.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1914.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1914" data-uslm-ref="/us/usc/t28/s1914">1914.</a>  </td>
 
     <td> District court; filing and miscellaneous fees; rules of court.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1915.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1915" data-uslm-ref="/us/usc/t28/s1915">1915.</a>  </td>
 
     <td> Proceedings in forma pauperis.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1915A.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1915A" data-uslm-ref="/us/usc/t28/s1915A">1915A.</a>  </td>
 
     <td> Screening.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1916.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1916" data-uslm-ref="/us/usc/t28/s1916">1916.</a>  </td>
 
     <td> Seamen’s suits.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1917.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1917" data-uslm-ref="/us/usc/t28/s1917">1917.</a>  </td>
 
     <td> District courts; fee on filing notice of or petition for appeal.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1918.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1918" data-uslm-ref="/us/usc/t28/s1918">1918.</a>  </td>
 
     <td> District courts; fines, forfeitures and criminal proceedings.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1919.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1919" data-uslm-ref="/us/usc/t28/s1919">1919.</a>  </td>
 
     <td> Dismissal for lack of jurisdiction.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1920.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1920" data-uslm-ref="/us/usc/t28/s1920">1920.</a>  </td>
 
     <td> Taxation of costs.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1921.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1921" data-uslm-ref="/us/usc/t28/s1921">1921.</a>  </td>
 
     <td> United States marshal’s fees.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1922.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1922" data-uslm-ref="/us/usc/t28/s1922">1922.</a>  </td>
 
     <td> Witness fees before United States magistrate judges.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1923.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1923" data-uslm-ref="/us/usc/t28/s1923">1923.</a>  </td>
 
     <td> Docket fees and costs of briefs.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1924.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1924" data-uslm-ref="/us/usc/t28/s1924">1924.</a>  </td>
 
     <td> Verification of bill of costs.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1925.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1925" data-uslm-ref="/us/usc/t28/s1925">1925.</a>  </td>
 
     <td> Admiralty and maritime cases.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1926.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1926" data-uslm-ref="/us/usc/t28/s1926">1926.</a>  </td>
 
     <td> Court of Federal Claims.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1927.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1927" data-uslm-ref="/us/usc/t28/s1927">1927.</a>  </td>
 
     <td> Counsel’s liability for excessive costs.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1928.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1928" data-uslm-ref="/us/usc/t28/s1928">1928.</a>  </td>
 
     <td> Patent infringement action; disclaimer not filed.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1929.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1929" data-uslm-ref="/us/usc/t28/s1929">1929.</a>  </td>
 
     <td> Extraordinary expenses not expressly authorized.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1930.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1930" data-uslm-ref="/us/usc/t28/s1930">1930.</a>  </td>
 
     <td> Bankruptcy fees.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1931.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1931" data-uslm-ref="/us/usc/t28/s1931">1931.</a>  </td>
 
     <td> Disposition of filing fees.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1932. <sup>[1]</sup>  <sup><sup> 1 So in original. Two sections 1932 have been enacted. </sup></sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1932" data-uslm-ref="/us/usc/t28/s1932">1932.</a> <sup>[1]</sup>  <sup><sup> 1 So in original. Two sections 1932 have been enacted. </sup></sup>   </td>
 
     <td> Judicial Panel on Multidistrict Litigation.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1932. <sup>[1]</sup>   </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1932" data-uslm-ref="/us/usc/t28/s1932">1932.</a> <sup>[1]</sup>   </td>
 
     <td> Revocation of earned release credit.  </td>
 

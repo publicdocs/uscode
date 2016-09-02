@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 1330.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1330" data-uslm-ref="/us/usc/t28/s1330">1330.</a>  </td>
 
     <td> Actions against foreign states.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 1331.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1331" data-uslm-ref="/us/usc/t28/s1331">1331.</a>  </td>
 
     <td> Federal question.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 1332.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1332" data-uslm-ref="/us/usc/t28/s1332">1332.</a>  </td>
 
     <td> Diversity of citizenship; amount in controversy; costs.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 1333.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1333" data-uslm-ref="/us/usc/t28/s1333">1333.</a>  </td>
 
     <td> Admiralty, maritime and prize cases.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 1334.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1334" data-uslm-ref="/us/usc/t28/s1334">1334.</a>  </td>
 
     <td> Bankruptcy cases and proceedings.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 1335.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1335" data-uslm-ref="/us/usc/t28/s1335">1335.</a>  </td>
 
     <td> Interpleader.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 1336.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1336" data-uslm-ref="/us/usc/t28/s1336">1336.</a>  </td>
 
     <td> Surface Transportation Board’s orders.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 1337.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1337" data-uslm-ref="/us/usc/t28/s1337">1337.</a>  </td>
 
     <td> Commerce and antitrust regulations; amount in controversy, costs.  </td>
 
@@ -89,7 +89,7 @@
 
   <tr>
 
-    <td> 1338.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1338" data-uslm-ref="/us/usc/t28/s1338">1338.</a>  </td>
 
     <td> Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition.  </td>
 
@@ -97,7 +97,7 @@
 
   <tr>
 
-    <td> 1339.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1339" data-uslm-ref="/us/usc/t28/s1339">1339.</a>  </td>
 
     <td> Postal matters.  </td>
 
@@ -105,7 +105,7 @@
 
   <tr>
 
-    <td> 1340.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1340" data-uslm-ref="/us/usc/t28/s1340">1340.</a>  </td>
 
     <td> Internal revenue; customs duties.  </td>
 
@@ -113,7 +113,7 @@
 
   <tr>
 
-    <td> 1341.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1341" data-uslm-ref="/us/usc/t28/s1341">1341.</a>  </td>
 
     <td> Taxes by States.  </td>
 
@@ -121,7 +121,7 @@
 
   <tr>
 
-    <td> 1342.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1342" data-uslm-ref="/us/usc/t28/s1342">1342.</a>  </td>
 
     <td> Rate orders of State agencies.  </td>
 
@@ -129,7 +129,7 @@
 
   <tr>
 
-    <td> 1343.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1343" data-uslm-ref="/us/usc/t28/s1343">1343.</a>  </td>
 
     <td> Civil rights and elective franchise.  </td>
 
@@ -137,7 +137,7 @@
 
   <tr>
 
-    <td> 1344.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1344" data-uslm-ref="/us/usc/t28/s1344">1344.</a>  </td>
 
     <td> Election disputes.  </td>
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> 1345.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1345" data-uslm-ref="/us/usc/t28/s1345">1345.</a>  </td>
 
     <td> United States as plaintiff.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> 1346.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1346" data-uslm-ref="/us/usc/t28/s1346">1346.</a>  </td>
 
     <td> United States as defendant.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> 1347.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1347" data-uslm-ref="/us/usc/t28/s1347">1347.</a>  </td>
 
     <td> Partition action where United States is joint tenant.  </td>
 
@@ -169,7 +169,7 @@
 
   <tr>
 
-    <td> 1348.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1348" data-uslm-ref="/us/usc/t28/s1348">1348.</a>  </td>
 
     <td> Banking association as party.  </td>
 
@@ -177,7 +177,7 @@
 
   <tr>
 
-    <td> 1349.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1349" data-uslm-ref="/us/usc/t28/s1349">1349.</a>  </td>
 
     <td> Corporation organized under federal law as party.  </td>
 
@@ -185,7 +185,7 @@
 
   <tr>
 
-    <td> 1350.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1350" data-uslm-ref="/us/usc/t28/s1350">1350.</a>  </td>
 
     <td> Alien’s action for tort.  </td>
 
@@ -193,7 +193,7 @@
 
   <tr>
 
-    <td> 1351.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1351" data-uslm-ref="/us/usc/t28/s1351">1351.</a>  </td>
 
     <td> Consuls, vice consuls, and members of a diplomatic mission as defendant.  </td>
 
@@ -201,7 +201,7 @@
 
   <tr>
 
-    <td> 1352.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1352" data-uslm-ref="/us/usc/t28/s1352">1352.</a>  </td>
 
     <td> Bonds executed under federal law.  </td>
 
@@ -209,7 +209,7 @@
 
   <tr>
 
-    <td> 1353.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1353" data-uslm-ref="/us/usc/t28/s1353">1353.</a>  </td>
 
     <td> Indian allotments.  </td>
 
@@ -217,7 +217,7 @@
 
   <tr>
 
-    <td> 1354.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1354" data-uslm-ref="/us/usc/t28/s1354">1354.</a>  </td>
 
     <td> Land grants from different states.  </td>
 
@@ -225,7 +225,7 @@
 
   <tr>
 
-    <td> 1355.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1355" data-uslm-ref="/us/usc/t28/s1355">1355.</a>  </td>
 
     <td> Fine, penalty or forfeiture.  </td>
 
@@ -233,7 +233,7 @@
 
   <tr>
 
-    <td> 1356.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1356" data-uslm-ref="/us/usc/t28/s1356">1356.</a>  </td>
 
     <td> Seizures not within admiralty and maritime jurisdiction.  </td>
 
@@ -241,7 +241,7 @@
 
   <tr>
 
-    <td> 1357.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1357" data-uslm-ref="/us/usc/t28/s1357">1357.</a>  </td>
 
     <td> Injuries under Federal laws.  </td>
 
@@ -249,7 +249,7 @@
 
   <tr>
 
-    <td> 1358.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1358" data-uslm-ref="/us/usc/t28/s1358">1358.</a>  </td>
 
     <td> Eminent domain.  </td>
 
@@ -257,7 +257,7 @@
 
   <tr>
 
-    <td> 1359.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1359" data-uslm-ref="/us/usc/t28/s1359">1359.</a>  </td>
 
     <td> Parties collusively joined or made.  </td>
 
@@ -265,7 +265,7 @@
 
   <tr>
 
-    <td> 1360.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1360" data-uslm-ref="/us/usc/t28/s1360">1360.</a>  </td>
 
     <td> State civil jurisdiction in actions to which Indians are parties.  </td>
 
@@ -273,7 +273,7 @@
 
   <tr>
 
-    <td> 1361.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1361" data-uslm-ref="/us/usc/t28/s1361">1361.</a>  </td>
 
     <td> Action to compel an officer of the United States to perform his duty.  </td>
 
@@ -281,7 +281,7 @@
 
   <tr>
 
-    <td> 1362.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1362" data-uslm-ref="/us/usc/t28/s1362">1362.</a>  </td>
 
     <td> Indian tribes.  </td>
 
@@ -289,7 +289,7 @@
 
   <tr>
 
-    <td> 1363.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1363" data-uslm-ref="/us/usc/t28/s1363">1363.</a>  </td>
 
     <td> Jurors’ employment rights.  </td>
 
@@ -297,7 +297,7 @@
 
   <tr>
 
-    <td> 1364.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1364" data-uslm-ref="/us/usc/t28/s1364">1364.</a>  </td>
 
     <td> Direct actions against insurers of members of diplomatic missions and their families.  </td>
 
@@ -305,7 +305,7 @@
 
   <tr>
 
-    <td> 1365.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1365" data-uslm-ref="/us/usc/t28/s1365">1365.</a>  </td>
 
     <td> Senate actions.  </td>
 
@@ -313,7 +313,7 @@
 
   <tr>
 
-    <td> 1366.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1366" data-uslm-ref="/us/usc/t28/s1366">1366.</a>  </td>
 
     <td> Construction of references to laws of the United States or Acts of Congress.  </td>
 
@@ -321,7 +321,7 @@
 
   <tr>
 
-    <td> 1367.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1367" data-uslm-ref="/us/usc/t28/s1367">1367.</a>  </td>
 
     <td> Supplemental jurisdiction.  </td>
 
@@ -329,7 +329,7 @@
 
   <tr>
 
-    <td> 1368.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1368" data-uslm-ref="/us/usc/t28/s1368">1368.</a>  </td>
 
     <td> Counterclaims in unfair practices in international trade.  </td>
 
@@ -337,7 +337,7 @@
 
   <tr>
 
-    <td> 1369.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs1369" data-uslm-ref="/us/usc/t28/s1369">1369.</a>  </td>
 
     <td> Multiparty, multiforum jurisdiction.  </td>
 

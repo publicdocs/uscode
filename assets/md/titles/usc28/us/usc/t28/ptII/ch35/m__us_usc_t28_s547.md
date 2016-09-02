@@ -15,7 +15,7 @@
 
 ## § 547. Duties
 
-Except as otherwise provided by law, each United States attorney, within his district, shall—
+    Except as otherwise provided by law, each United States attorney, within his district, shall—
 
     (1) prosecute for all offenses against the United States;
 

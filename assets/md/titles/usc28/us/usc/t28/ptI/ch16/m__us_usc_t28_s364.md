@@ -15,7 +15,7 @@
 
 ## § 364. Effect of felony conviction
 
-In the case of any judge or judge of a court referred to in section 363 who is convicted of a felony under State or Federal law and has exhausted all means of obtaining direct review of the conviction, or the time for seeking further direct review of the conviction has passed and no such review has been sought, the following shall apply:
+    In the case of any judge or judge of a court referred to in section 363 who is convicted of a felony under State or Federal law and has exhausted all means of obtaining direct review of the conviction, or the time for seeking further direct review of the conviction has passed and no such review has been sought, the following shall apply:
 
     (1) The judge shall not hear or decide cases unless the judicial council of the circuit (or, in the case of a judge of a court referred to in section 363, that court) determines otherwise.
 

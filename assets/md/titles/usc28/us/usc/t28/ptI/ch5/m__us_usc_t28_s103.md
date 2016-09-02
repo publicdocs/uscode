@@ -15,7 +15,7 @@
 
 ## § 103. Minnesota
 
-Minnesota constitutes one judicial district comprising six divisions.
+    Minnesota constitutes one judicial district comprising six divisions.
 
     (1) The First Division comprises the counties of Dodge, Fillmore, Houston, Mower, Olmsted, Steele, Wabasha, and Winona.    Court for the First Division shall be held at Winona.
 

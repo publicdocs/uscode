@@ -15,7 +15,7 @@
 
 ## § 624. Powers of the Board
 
-The Board is authorized—
+    The Board is authorized—
 
     (1) to appoint and fix the duties of the Director and the Deputy Director of the Federal Judicial Center, who shall serve at the pleasure of the Board;
 

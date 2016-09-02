@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2071.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2071" data-uslm-ref="/us/usc/t28/s2071">2071.</a>  </td>
 
     <td> Rule-making power generally.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2072.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2072" data-uslm-ref="/us/usc/t28/s2072">2072.</a>  </td>
 
     <td> Rules of procedure and evidence; power to prescribe.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 2073.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2073" data-uslm-ref="/us/usc/t28/s2073">2073.</a>  </td>
 
     <td> Rules of procedure and evidence; method of prescribing.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 2074.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2074" data-uslm-ref="/us/usc/t28/s2074">2074.</a>  </td>
 
     <td> Rules of procedure and evidence; submission to Congress; effective date.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 2075.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2075" data-uslm-ref="/us/usc/t28/s2075">2075.</a>  </td>
 
     <td> Bankruptcy rules.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> [2076.  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2076" data-uslm-ref="/us/usc/t28/s2076">2076.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 2077.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2077" data-uslm-ref="/us/usc/t28/s2077">2077.</a>  </td>
 
     <td> Publication of rules; advisory committees.  </td>
 

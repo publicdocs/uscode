@@ -15,7 +15,7 @@
 
 ## § 1920. Taxation of costs
 
-A judge or clerk of any court of the United States may tax as costs the following:
+    A judge or clerk of any court of the United States may tax as costs the following:
 
     (1) Fees of the clerk and marshal;
 
@@ -29,7 +29,7 @@ A judge or clerk of any court of the United States may tax as costs the followin
 
     (6) Compensation of court appointed experts, compensation of interpreters, and salaries, fees, expenses, and costs of special interpretation services under [section 1828 of this title][/us/usc/t28/s1828].
 
-        A bill of costs shall be filed in the case and, upon allowance, included in the judgment or decree.
+    A bill of costs shall be filed in the case and, upon allowance, included in the judgment or decree.
 
 ([June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], [62 Stat. 955][/us/stat/62/955]; [Pub. L. 95–539, § 7][/us/pl/95/539/s7], Oct. 28, 1978, [92 Stat. 2044][/us/stat/92/2044]; [Pub. L. 110–406, § 6][/us/pl/110/406/s6], Oct. 13, 2008, [122 Stat. 4292][/us/stat/122/4292].)
 

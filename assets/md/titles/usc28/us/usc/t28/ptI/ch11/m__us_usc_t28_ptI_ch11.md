@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptI/ch9/m__us_usc_t28_s211 to 216.md) | [Next](./../../../../..//us/usc/t28/ptI/ch11/m__us_usc_t28_s251.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch11)
+[Previous](./../../../../..//us/usc/t28/ptI/ch9/m__us_usc_t28_ptI_ch9.md) | [Next](./../../../../..//us/usc/t28/ptI/ch11/m__us_usc_t28_s251.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch11)
 
 ### CHAPTER 11—COURT OF INTERNATIONAL TRADE
 
@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 251.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs251" data-uslm-ref="/us/usc/t28/s251">251.</a>  </td>
 
     <td> Appointment and number of judges; offices.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 252.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs252" data-uslm-ref="/us/usc/t28/s252">252.</a>  </td>
 
     <td> Tenure and salaries of judges.  </td>
 
@@ -41,7 +41,7 @@
 
   <tr>
 
-    <td> 253.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs253" data-uslm-ref="/us/usc/t28/s253">253.</a>  </td>
 
     <td> Duties of chief judge.  </td>
 
@@ -49,7 +49,7 @@
 
   <tr>
 
-    <td> 254.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs254" data-uslm-ref="/us/usc/t28/s254">254.</a>  </td>
 
     <td> Single-judge trials.  </td>
 
@@ -57,7 +57,7 @@
 
   <tr>
 
-    <td> 255.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs255" data-uslm-ref="/us/usc/t28/s255">255.</a>  </td>
 
     <td> Three-judge trials.  </td>
 
@@ -65,7 +65,7 @@
 
   <tr>
 
-    <td> 256.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs256" data-uslm-ref="/us/usc/t28/s256">256.</a>  </td>
 
     <td> Trials at ports other than New York.  </td>
 
@@ -73,7 +73,7 @@
 
   <tr>
 
-    <td> 257.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs257" data-uslm-ref="/us/usc/t28/s257">257.</a>  </td>
 
     <td> Publication of decisions.  </td>
 
@@ -81,7 +81,7 @@
 
   <tr>
 
-    <td> 258.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs258" data-uslm-ref="/us/usc/t28/s258">258.</a>  </td>
 
     <td> Chief judges; precedence of judges.  </td>
 
@@ -125,7 +125,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptI/ch9/m__us_usc_t28_s211 to 216.md) | [Next](./../../../../..//us/usc/t28/ptI/ch11/m__us_usc_t28_s251.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch11)
+[Previous](./../../../../..//us/usc/t28/ptI/ch9/m__us_usc_t28_ptI_ch9.md) | [Next](./../../../../..//us/usc/t28/ptI/ch11/m__us_usc_t28_s251.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2FptI%2Fch11)
 
 ----------
 ----------

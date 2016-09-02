@@ -25,7 +25,7 @@
 
   <tr>
 
-    <td> 2201.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2201" data-uslm-ref="/us/usc/t28/s2201">2201.</a>  </td>
 
     <td> Creation of remedy.  </td>
 
@@ -33,7 +33,7 @@
 
   <tr>
 
-    <td> 2202.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft28%2Fs2202" data-uslm-ref="/us/usc/t28/s2202">2202.</a>  </td>
 
     <td> Further relief.  </td>
 

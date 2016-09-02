@@ -1,7 +1,7 @@
 ---
 ---
 
-# 28 U.S.C., USLM ref /us/usc/t28/s1932
+# 28 U.S.C., USLM ref /us/usc/t28/s1932.1
 
 * Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
   Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.md) | [Next](./../../../../..//us/usc/t28/ptV/ch125/m__us_usc_t28_ptV_ch125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1932)
+[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.1.md) | [Next](./../../../../..//us/usc/t28/ptV/ch125/m__us_usc_t28_ptV_ch125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1932.1)
 
 ## § 1932. <sup>\[1\]</sup>  <sup><sup> 1 Another section 1932 is set out preceding this section. </sup></sup>  Revocation of earned release credit
 
-In any civil action brought by an adult convicted of a crime and confined in a Federal correctional facility, the court may order the revocation of such earned good time credit under [section 3624(b) of title 18][/us/usc/t18/s3624/b], United States Code, that has not yet vested, if, on its own motion or the motion of any party, the court finds that—
+    In any civil action brought by an adult convicted of a crime and confined in a Federal correctional facility, the court may order the revocation of such earned good time credit under [section 3624(b) of title 18][/us/usc/t18/s3624/b], United States Code, that has not yet vested, if, on its own motion or the motion of any party, the court finds that—
 
     (1) the claim was filed for a malicious purpose;
 
@@ -27,7 +27,7 @@ In any civil action brought by an adult convicted of a crime and confined in a F
 
 ----------
 
-[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.md) | [Next](./../../../../..//us/usc/t28/ptV/ch125/m__us_usc_t28_ptV_ch125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1932)
+[Previous](./../../../../..//us/usc/t28/ptV/ch123/m__us_usc_t28_s1932.1.md) | [Next](./../../../../..//us/usc/t28/ptV/ch125/m__us_usc_t28_ptV_ch125.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1932.1)
 
 ----------
 ----------
