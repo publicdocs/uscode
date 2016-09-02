@@ -23,7 +23,7 @@
 
     In this section, the term “voting assistance programs” means—
 
-        (1) the Federal Voting Assistance Program carried out under the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.); and
+        (1) the Federal Voting Assistance Program carried out under the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.);  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
 
         (2) any similar program.
 
@@ -51,7 +51,7 @@
 
     (e)  __Regular Military Department Assessments__  __.—__ 
 
-    The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.) and with Department of Defense regulations regarding the Federal Voting Assistance Program.
+    The Secretary of each military department shall include in the set of issues and programs to be reviewed during any management effectiveness review or inspection at the installation level an assessment of compliance with the Uniformed and Overseas Citizens Absentee Voting Act ([42 U.S.C. 1973ff][/us/usc/t42/s1973ff] et seq.) 1 and with Department of Defense regulations regarding the Federal Voting Assistance Program.
 
     (f)  __Voting Assistance Officers__  __.—__ 
 
@@ -83,7 +83,7 @@
 
  __References in Text__ 
 
-    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], as amended, which is classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under [section 1971 of Title 42][/us/usc/t42/s1971] and Tables.
+    The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsecs. (b)(1), (e), and (i)(2), is [Pub. L. 99–410][/us/pl/99/410], Aug. 28, 1986, [100 Stat. 924][/us/stat/100/924], which was formerly classified principally to subchapter I–G (§ 1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare, prior to editorial reclassification and renumbering in Title 52, Voting and Elections, and is now classified principally to chapter 203 (§ 20301 et seq.) of Title 52. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 
@@ -128,7 +128,6 @@
 [/us/stat/120/2235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2235
 [/us/pl/99/410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410
 [/us/stat/100/924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F924
-[/us/usc/t42/s1971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1971
 [/us/pl/109/364/s596/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs596%2Fa
 [/us/pl/109/364/s596/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs596%2Fd
 [/us/pl/108/375/s1084/d/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375%2Fs1084%2Fd%2F13%2FA
