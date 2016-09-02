@@ -143,13 +143,25 @@
 
             (B) termination of benefits under this subchapter in the event that the individual has earnings that exceed the level of earnings established by the Commissioner to represent substantial gainful activity.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 221, as added [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 106(g), [68 Stat. 1081][/us/stat/68/1081]; amended [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(c)(7), (8), (h), [70 Stat. 818][/us/stat/70/818], 823; [Pub. L. 90–248, title I, § 158(c)(3)][/us/pl/90/248/s158/c/3], (4), Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869]; [Pub. L. 96–265, title III][/us/pl/96/265], §§ 304(a)–(f), 311(a), June 9, 1980, [94 Stat. 453–456][/us/stat/94/453-456], 460; [Pub. L. 97–455][/us/pl/97/455], §§ 3(a), 6, Jan. 12, 1983, [96 Stat. 2499][/us/stat/96/2499], 2500; [Pub. L. 98–369, div. B, title VI, § 2663(a)(14)][/us/pl/98/369/s2663/a/14], July 18, 1984, [98 Stat. 1164][/us/stat/98/1164]; [Pub. L. 98–460][/us/pl/98/460], §§ 6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802], 1804, 1805, 1811; [Pub. L. 99–514, title XVIII, § 1883(a)(9)][/us/pl/99/514/s1883/a/9], Oct. 22, 1986, [100 Stat. 2916][/us/stat/100/2916]; [Pub. L. 100–647, title VIII, § 8012(a)][/us/pl/100/647/s8012/a], Nov. 10, 1988, [102 Stat. 3789][/us/stat/102/3789]; [Pub. L. 101–239, title X, § 10306(a)(1)][/us/pl/101/239/s10306/a/1], Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484]; [Pub. L. 101–508, title V, § 5128(a)][/us/pl/101/508/s5128/a], Nov. 5, 1990, [104 Stat. 1388–286][/us/stat/104/1388-286]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 106–170, title I][/us/pl/106/170], §§ 101(b)(1)(A), 111(a), Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873], 1881; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 221, as added [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 106(g), [68 Stat. 1081][/us/stat/68/1081]; amended [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(c)(7), (8), (h), [70 Stat. 818][/us/stat/70/818], 823; [Pub. L. 90–248, title I, § 158(c)(3)][/us/pl/90/248/s158/c/3], (4), Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869]; [Pub. L. 96–265, title III][/us/pl/96/265], §§ 304(a)–(f), 311(a), June 9, 1980, [94 Stat. 453–456][/us/stat/94/453-456], 460; [Pub. L. 97–455][/us/pl/97/455], §§ 3(a), 6, Jan. 12, 1983, [96 Stat. 2499][/us/stat/96/2499], 2500; [Pub. L. 98–369, div. B, title VI, § 2663(a)(14)][/us/pl/98/369/s2663/a/14], July 18, 1984, [98 Stat. 1164][/us/stat/98/1164]; [Pub. L. 98–460][/us/pl/98/460], §§ 6(a), 8(a), 9(a)(1), 10(a), 17(a), Oct. 9, 1984, [98 Stat. 1802][/us/stat/98/1802], 1804, 1805, 1811; [Pub. L. 99–514, title XVIII, § 1883(a)(9)][/us/pl/99/514/s1883/a/9], Oct. 22, 1986, [100 Stat. 2916][/us/stat/100/2916]; [Pub. L. 100–647, title VIII, § 8012(a)][/us/pl/100/647/s8012/a], Nov. 10, 1988, [102 Stat. 3789][/us/stat/102/3789]; [Pub. L. 101–239, title X, § 10306(a)(1)][/us/pl/101/239/s10306/a/1], Dec. 19, 1989, [103 Stat. 2484][/us/stat/103/2484]; [Pub. L. 101–508, title V, § 5128(a)][/us/pl/101/508/s5128/a], Nov. 5, 1990, [104 Stat. 1388–286][/us/stat/104/1388-286]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 106–170, title I][/us/pl/106/170], §§ 101(b)(1)(A), 111(a), Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873], 1881; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 114–74, title VIII, § 832(a)][/us/pl/114/74/s832/a], Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613].)
+
+ __Amendment of Subsection (h)__ 
+
+    [Pub. L. 114–74, title VIII, § 832][/us/pl/114/74/s832], Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613], provided that, applicable with respect to determinations of disability made on or after the date that is 1 year after Nov. 2, 2015, subsection (h) of this section is amended to read as follows:
+
+    (h) An initial determination under subsection (a), (c), (g), or (i) shall not be made until the Commissioner of Social Security has made every reasonable effort to ensure—
+
+    (1) in any case where there is evidence which indicates the existence of a mental impairment, that a qualified psychiatrist or psychologist has completed the medical portion of the case review and any applicable residual functional capacity assessment; and
+
+    (2) in any case where there is evidence which indicates the existence of a physical impairment, that a qualified physician has completed the medical portion of the case review and any applicable residual functional capacity assessment.
 
  __Prior Provisions__ 
 
     A prior section 421, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 221, as added [July 18, 1952, ch. 945, § 3(e)][/us/act/1952-07-18/ch945/s3/e], [66 Stat. 772][/us/stat/66/772]; amended by 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631], relating to disability determinations, ceased to be in effect at the close of June 30, 1953. See section 3(g) of act July 18, 1952, set out as an Effective and Termination Date of 1952 Amendment note under [section 413 of this title][/us/usc/t42/s413].
 
  __Amendments__ 
+
+    2015—Subsec. (h). [Pub. L. 114–74][/us/pl/114/74] amended subsec. (h) generally. Prior to amendment, text read as follows: “An initial determination under subsection (a), (c), (g), or (i) of this section that an individual is not under a disability, in any case where there is evidence which indicates the existence of a mental impairment, shall be made only if the Commissioner of Social Security has made every reasonable effort to ensure that a qualified psychiatrist or psychologist has completed the medical portion of the case review and any applicable residual functional capacity assessment.”
 
     2004—Subsec. (e). [Pub. L. 108–271][/us/pl/108/271] substituted “Government Accountability Office” for “General Accounting Office”.
 
@@ -219,6 +231,12 @@
 
     Subsec. (f). Act Aug. 1, 1956, § 103(h), substituted “Trust Funds” for “Trust Fund”.
 
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–74, title VIII, § 832(b)][/us/pl/114/74/s832/b], Nov. 2, 2015, [129 Stat. 613][/us/stat/129/613], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to determinations of disability made on or after the date that is 1 year after the date of the enactment of this Act \[Nov. 2, 2015\].”
+
  __Effective Date of 1999 Amendment__ 
 
     Amendment by [section 101(b)(1)(A) of Pub. L. 106–170][/us/pl/106/170/s101/b/1/A] effective with the first month following one year after Dec. 17, 1999, subject to [section 101(d) of Pub. L. 106–170][/us/pl/106/170/s101/d], see [section 101(c) of Pub. L. 106–170][/us/pl/106/170/s101/c], set out as an Effective Date note under [section 1320b–19 of this title][/us/usc/t42/s1320b–19].
@@ -280,6 +298,60 @@
  __Effective Date of 1968 Amendment__ 
 
     Amendment by [Pub. L. 90–248][/us/pl/90/248] applicable with respect to application for disability insurance benefits under [section 423 of this title][/us/usc/t42/s423] and to disability determinations under [section 416(i) of this title][/us/usc/t42/s416/i], see [section 158(e) of Pub. L. 90–248][/us/pl/90/248/s158/e], set out as a note under [section 423 of this title][/us/usc/t42/s423].
+
+ __Expansion of Cooperative Disability Investigations Units__ 
+
+[Pub. L. 114–74, title VIII, § 811][/us/pl/114/74/s811], Nov. 2, 2015, [129 Stat. 601][/us/stat/129/601], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than October 1, 2022, the Commissioner of Social Security shall take any necessary actions, subject to the availability of appropriations, to ensure that cooperative disability investigations units have been established, in areas where there is cooperation with local law enforcement agencies, that would cover each of the 50 States, the District of Columbia, Puerto Rico, Guam, the Northern Mariana Islands, the Virgin Islands, and American Samoa.
+
+>     “(b)  __Report__  __.—__ 
+
+>     Not later than 90 days after the date of the enactment of this Act \[Nov. 2, 2015\] and annually thereafter until the earlier of 2022 or the date on which nationwide coverage is achieved, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report describing a plan to implement the nationwide coverage described in subsection (a) and outlining areas where the Social Security Administration did not receive the cooperation of local law enforcement agencies.”
+
+ __Report on Work-Related Continuing Disability Reviews__ 
+
+[Pub. L. 114–74, title VIII, § 845(b)][/us/pl/114/74/s845/b], Nov. 2, 2015, [129 Stat. 618][/us/stat/129/618], provided that:
+
+>     “The Commissioner of Social Security shall annually submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the number of work-related continuing disability reviews conducted each year to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity. Such report shall include—
+
+>     “(1) the number of individuals receiving benefits based on disability under title II of such Act \[probably means title II of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], which is classified to [42 U.S.C. 401][/us/usc/t42/s401] et seq.\] for whom reports of earnings were received from any source by the Commissioner in the previous calendar year, reported as a total number and separately by the source of the report;
+
+>     “(2) the number of individuals for whom such reports resulted in a determination to conduct a work-related continuing disability review, and the basis on which such determinations were made;
+
+>     “(3)
+
+>      in the case of a beneficiary selected for a work-related continuing disability review on the basis of a report of earnings from any source—
+
+>         “(A)
+
+>          the average number of days—
+
+>             “(i) between the receipt of the report and the initiation of the review;
+
+>             “(ii) between the initiation and the completion of the review; and
+
+>             “(iii) the average amount of overpayment, if any;
+
+>         “(B) the number of such reviews completed during such calendar year, and the number of such reviews that resulted in a suspension or termination of benefits;
+
+>         “(C) the number of such reviews initiated in the current year that had not been completed as of the end of such calendar year;
+
+>         “(D) the number of such reviews initiated in a prior year that had not been completed as of the end of such calendar year;
+
+>     “(4) the total savings to the Trust Funds and the Treasury generated from benefits suspended or terminated as a result of such reviews; and
+
+>     “(5)
+
+>      with respect to individuals for whom a work-related continuing disability review was completed during such calendar year—
+
+>         “(A) the number who participated in the Ticket to Work program under section 1148 \[probably means section 1148 of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], which is classified to [42 U.S.C. 1319b–19][/us/usc/t42/s1319b–19]\] during such calendar year;
+
+>         “(B) the number who used any program work incentives during such calendar year; and
+
+>         “(C) the number who received vocational rehabilitation services during such calendar year with respect to which the Commissioner of Social Security reimbursed a State agency under section 222(d) \[probably means section 222(d) of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], which is classified to [42 U.S.C. 422(d)][/us/usc/t42/s422/d]\].”
 
  __Election Under Subsection (__  __l__  __)(1) by Current Recipients__ 
 
@@ -441,11 +513,16 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/stat/113/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1873
 [/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
+[/us/pl/114/74/s832/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs832%2Fa
+[/us/stat/129/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F613
+[/us/pl/114/74/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs832
+[/us/stat/129/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F613
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1952-07-18/ch945/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-18%2Fch945%2Fs3%2Fe
 [/us/stat/66/772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F66%2F772
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
 [/us/usc/t42/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs413
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/106/170/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FA
 [/us/pl/106/170/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs111%2Fa
@@ -474,6 +551,8 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/pl/90/248/s158/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fc%2F3
 [/us/pl/90/248/s158/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fc%2F4
 [/us/usc/t42/s423/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fc
+[/us/pl/114/74/s832/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs832%2Fb
+[/us/stat/129/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F613
 [/us/pl/106/170/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FA
 [/us/pl/106/170/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fd
 [/us/pl/106/170/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fc
@@ -509,6 +588,16 @@ Provisions authorizing payment of travel expenses either on an actual cost or co
 [/us/usc/t42/s416/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs416%2Fi
 [/us/pl/90/248/s158/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs158%2Fe
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/pl/114/74/s811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs811
+[/us/stat/129/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F601
+[/us/pl/114/74/s845/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs845%2Fb
+[/us/stat/129/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F618
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/usc/t42/s1319b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1319b%E2%80%9319
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/usc/t42/s422/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fd
 [/us/pl/101/239/s10306/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10306%2Fa%2F2
 [/us/stat/103/2484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2484
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401

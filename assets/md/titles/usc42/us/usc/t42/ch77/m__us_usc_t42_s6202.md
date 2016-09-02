@@ -39,7 +39,7 @@
 
         (B) may cause major adverse impact on national safety or the national economy; and
 
-        (C) results, or is likely to result, from (i) an interruption in the supply of imported petroleum products, (ii) an interruption in the supply of domestic petroleum products, or (iii) sabotage or an act of God.
+        (C) results, or is likely to result, from (i) an interruption in the supply of imported petroleum products, (ii) an interruption in the supply of domestic petroleum products, or (iii) sabotage, an act of terrorism, or an act of God.
 
     (9)
 
@@ -67,7 +67,7 @@
 
         (D) within military reservations.
 
-([Pub. L. 94–163, § 3][/us/pl/94/163/s3], Dec. 22, 1975, [89 Stat. 874][/us/stat/89/874]; [Pub. L. 95–619, title VI, § 691(a)][/us/pl/95/619/s691/a], Nov. 9, 1978, [92 Stat. 3287][/us/stat/92/3287]; [Pub. L. 98–454, title VI, § 601(f)][/us/pl/98/454/s601/f], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 101–383, § 3(a)][/us/pl/101/383/s3/a], Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727].)
+([Pub. L. 94–163, § 3][/us/pl/94/163/s3], Dec. 22, 1975, [89 Stat. 874][/us/stat/89/874]; [Pub. L. 95–619, title VI, § 691(a)][/us/pl/95/619/s691/a], Nov. 9, 1978, [92 Stat. 3287][/us/stat/92/3287]; [Pub. L. 98–454, title VI, § 601(f)][/us/pl/98/454/s601/f], Oct. 5, 1984, [98 Stat. 1736][/us/stat/98/1736]; [Pub. L. 101–383, § 3(a)][/us/pl/101/383/s3/a], Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727]; [Pub. L. 114–74, title IV, § 401(b)][/us/pl/114/74/s401/b], Nov. 2, 2015, [129 Stat. 589][/us/stat/129/589].)
 
  __References in Text__ 
 
@@ -82,6 +82,8 @@
     Act of June 19, 1936, chapter 592, referred to in par. (9)(E), is [act June 19, 1936, ch. 592][/us/act/1936-06-19/ch592], [49 Stat. 1526][/us/stat/49/1526], popularly known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of Title 15, Commerce and Trade, and amended [section 13 of Title 15][/us/usc/t15/s13]. For complete classification of this Act to the Code, see Short Title note set out under [section 13 of Title 15][/us/usc/t15/s13] and Tables.
 
  __Amendments__ 
+
+    2015—Par. (8)(C)(iii). [Pub. L. 114–74][/us/pl/114/74] substituted “sabotage, an act of terrorism, or an act of God” for “sabotage or an act of God”.
 
     1990—Par. (8)(C). [Pub. L. 101–383][/us/pl/101/383] inserted “(i)” before “an interruption” and substituted “(ii) an interruption in the supply of domestic petroleum products, or (iii)” for “or from”.
 
@@ -114,6 +116,8 @@
 [/us/stat/98/1736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1736
 [/us/pl/101/383/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383%2Fs3%2Fa
 [/us/stat/104/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F727
+[/us/pl/114/74/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs401%2Fb
+[/us/stat/129/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F589
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
@@ -130,6 +134,7 @@
 [/us/stat/49/1526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1526
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
 [/us/usc/t15/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs13
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/101/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F383
 [/us/pl/98/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F454
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619

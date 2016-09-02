@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–1.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXII/m__us_usc_t42_ch7_schXII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%932)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–1.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%932)
 
 ## § 1320e–2. Trust Fund transfers to Patient-Centered Outcomes Research Trust Fund
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–1.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXII/m__us_usc_t42_ch7_schXII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%932)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–1.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–3.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%932)
 
 ----------
 ----------

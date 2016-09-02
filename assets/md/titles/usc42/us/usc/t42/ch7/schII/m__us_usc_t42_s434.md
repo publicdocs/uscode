@@ -19,7 +19,7 @@
 
         (1) __In general__ 
 
-        The Commissioner of Social Security (in this section referred to as the “Commissioner”) shall develop and carry out experiments and demonstration projects designed to determine the relative advantages and disadvantages of—
+        The Commissioner of Social Security (in this section referred to as the “Commissioner”) shall develop and carry out experiments and demonstration projects designed to promote attachment to the labor force and to determine the relative advantages and disadvantages of—
 
             (A) various alternative methods of treating the work activity of individuals entitled to disability insurance benefits under [section 423 of this title][/us/usc/t42/s423] or to monthly insurance benefits under [section 402 of this title][/us/usc/t42/s402] based on such individual’s disability (as defined in [section 423(d) of this title][/us/usc/t42/s423/d]), including such methods as a reduction in benefits based on earnings, designed to encourage the return to work of such individuals;
 
@@ -47,21 +47,85 @@
 
     (c) __Authority to waive compliance with benefits requirements__ 
 
-        In the case of any experiment or demonstration project initiated under subsection (a) of this section on or before December 17, 2005, the Commissioner may waive compliance with the benefit requirements of this subchapter and the requirements of [section 1320b–19 of this title][/us/usc/t42/s1320b–19] as they relate to the program established under this subchapter, and the Secretary may (upon the request of the Commissioner) waive compliance with the benefits requirements of subchapter XVIII of this chapter, insofar as is necessary for a thorough evaluation of the alternative methods under consideration. No such experiment or project shall be actually placed in operation unless at least 90 days prior thereto a written report, prepared for purposes of notification and information only and containing a full and complete description thereof, has been transmitted by the Commissioner to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate. Periodic reports on the progress of such experiments and demonstration projects shall be submitted by the Commissioner to such committees. When appropriate, such reports shall include detailed recommendations for changes in administration or law, or both, to carry out the objectives stated in subsection (a) of this section.
+        In the case of any experiment or demonstration project initiated under subsection (a) of this section on or before December 30, 2021, the Commissioner may waive compliance with the benefit requirements of this subchapter and the requirements of [section 1320b–19 of this title][/us/usc/t42/s1320b–19] as they relate to the program established under this subchapter, and the Secretary may (upon the request of the Commissioner) waive compliance with the benefits requirements of subchapter XVIII of this chapter, insofar as is necessary for a thorough evaluation of the alternative methods under consideration. No such experiment or project shall be actually placed in operation unless at least 90 days prior thereto a written report, prepared for purposes of notification and information only and containing a full and complete description thereof, including the objectives of the experiment or demonstration project, the expected annual and total costs, and the dates on which the experiment or demonstration project is expected to start and finish, has been transmitted by the Commissioner to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate. Periodic reports on the progress of such experiments and demonstration projects shall be submitted by the Commissioner to such committees. When appropriate, such reports shall include detailed recommendations for changes in administration or law, or both, to carry out the objectives stated in subsection (a) of this section.
 
     (d) __Reports__ 
 
         (1) __Interim reports__ 
 
-            On or before June 9 of each year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  together with any related data and materials that the Commissioner may consider appropriate.
+            On or before September 30 of each year, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate an annual interim report on the progress of the experiments and demonstration projects carried out under this subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “section”. </sup></sup>  together with any related data and materials that the Commissioner may consider appropriate.
 
         (2) __Termination and final report__ 
 
-            The authority to initiate projects under the preceding provisions of this section shall terminate on December 18, 2005. Not later than 90 days after the termination of any experiment or demonstration project carried out under this section, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a final report with respect to that experiment or demonstration project.
+            The authority to initiate projects under the preceding provisions of this section shall terminate on December 31, 2021, and the authority to carry out such projects shall terminate on December 31, 2022. Not later than 90 days after the termination of any experiment or demonstration project carried out under this section, the Commissioner shall submit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a final report with respect to that experiment or demonstration project.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 234, as added [Pub. L. 106–170, title III, § 301(a)][/us/pl/106/170/s301/a], Dec. 17, 1999, [113 Stat. 1900][/us/stat/113/1900]; amended [Pub. L. 108–203, title IV, § 401][/us/pl/108/203/s401], Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525].)
+    (e) __Additional requirements__ 
+
+    In developing and carrying out any experiment or demonstration project under this section, the Commissioner may not require any individual to participate in such experiment or demonstration project and shall ensure—
+
+        (1) that the voluntary participation of individuals in such experiment or demonstration project is obtained through informed written consent which satisfies the requirements for informed consent established by the Commissioner for use in such experiment or demonstration project in which human subjects are at risk;
+
+        (2) that any individual’s voluntary agreement to participate in any such experiment or demonstration project may be revoked by such individual at any time; and
+
+        (3) that such experiment or demonstration project is expected to yield statistically significant results.
+
+    (f) __Promoting opportunity demonstration project__ 
+
+        (1) __In general__ 
+
+            The Commissioner shall carry out a demonstration project under this subsection as described in paragraph (2) during a 5-year period beginning not later than January 1, 2017.
+
+        (2) __Benefit offset__ 
+
+        Under the demonstration project described in this paragraph, with respect to any individual participating in the project who is otherwise entitled to a benefit under [section 423(a)(1) of this title][/us/usc/t42/s423/a/1] for a month—
+
+            (A) any such benefit otherwise payable to the individual for such month (other than a benefit payable for any month prior to the 1st month beginning after the date on which the individual’s entitlement to such benefit is determined) shall be reduced by $1 for each $2 by which the individual’s earnings derived from services paid during such month exceeds an amount equal to the individual’s impairment-related work expenses for such month (as determined under paragraph (3)), except that such benefit may not be reduced below $0;
+
+            (B) no benefit shall be payable under [section 402 of this title][/us/usc/t42/s402] on the basis of the wages and self-employment income of the individual for any month for which the benefit of such individual under [section 423(a)(1) of this title][/us/usc/t42/s423/a/1] is reduced to $0 pursuant to subparagraph (A);
+
+            (C) entitlement to any benefit described in subparagraph (A) or (B) shall not terminate due to earnings derived from services except following the first month for which such benefit has been reduced to $0 pursuant to subparagraph (A) (and the trial work period (as defined in [section 422(c) of this title][/us/usc/t42/s422/c]) and extended period of eligibility shall not apply to any such individual for any such month); and
+
+            (D) in any case in which such an individual is entitled to hospital insurance benefits under part A of subchapter XVIII by reason of [section 426(b) of this title][/us/usc/t42/s426/b] and such individual’s entitlement to a benefit described in subparagraph (A) or (B) or status as a qualified railroad retirement beneficiary is terminated pursuant to subparagraph (C), such individual shall be deemed to be entitled to such benefits or to occupy such status (notwithstanding the termination of such entitlement or status) for the period of consecutive months throughout all of which the physical or mental impairment, on which such entitlement or status was based, continues, and throughout all of which such individual would have been entitled to monthly insurance benefits under subchapter II or as a qualified railroad retirement beneficiary had such termination of entitlement or status not occurred, but not in excess of 93 such months.
+
+        (3) __Impairment-related work expenses__ 
+
+            (A) __In general__ 
+
+                For purposes of paragraph (2)(A) and except as provided in subparagraph (C), the amount of an individual’s impairment-related work expenses for a month is deemed to be the minimum threshold amount.
+
+            (B) __Minimum threshold amount__ 
+
+                In this paragraph, the term “minimum threshold amount” means an amount, to be determined by the Commissioner, which shall not exceed the amount sufficient to demonstrate that an individual has rendered services in a month, as determined by the Commissioner under [section 422(c)(4)(A) of this title][/us/usc/t42/s422/c/4/A]. The Commissioner may test multiple minimum threshold amounts.
+
+            (C) __Exception for itemized impairment-related work expenses__ 
+
+                (i) __In general__ 
+
+                    Notwithstanding subparagraph (A), in any case in which the amount of such an individual’s itemized impairment-related work expenses (as defined in clause (ii)) for a month is greater than the minimum threshold amount, the amount of the individual’s impairment-related work expenses for the month shall be equal to the amount of the individual’s itemized impairment-related work expenses (as so defined) for the month.
+
+                (ii) __Definition__ 
+
+                    In this subparagraph, the term “itemized impairment-related work expenses” means the amount excluded under [section 423(d)(4)(A) of this title][/us/usc/t42/s423/d/4/A] from an individual’s earnings for a month in determining whether an individual is able to engage in substantial gainful activity by reason of such earnings in such month, except that such amount does not include the cost to the individual of any item or service for which the individual does not provide to the Commissioner a satisfactory itemized accounting.
+
+            (D) __Limitation__ 
+
+                Notwithstanding the other provisions of this paragraph, for purposes of paragraph (2)(A), the amount of an individual’s impairment-related work expenses for a month shall not exceed the amount of earnings derived from services, prescribed by the Commissioner under regulations issued pursuant to [section 423(d)(4)(A) of this title][/us/usc/t42/s423/d/4/A], sufficient to demonstrate an individual’s ability to engage in substantial gainful activity.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 234, as added [Pub. L. 106–170, title III, § 301(a)][/us/pl/106/170/s301/a], Dec. 17, 1999, [113 Stat. 1900][/us/stat/113/1900]; amended [Pub. L. 108–203, title IV, § 401][/us/pl/108/203/s401], Mar. 2, 2004, [118 Stat. 525][/us/stat/118/525]; [Pub. L. 114–74, title VIII][/us/pl/114/74], §§ 821–823, Nov. 2, 2015, [129 Stat. 605][/us/stat/129/605].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–74, § 822(a)][/us/pl/114/74/s822/a], in introductory provisions, inserted “to promote attachment to the labor force and” after “designed”.
+
+    Subsec. (c). [Pub. L. 114–74][/us/pl/114/74], §§ 821(b), 822(b), substituted “December 30, 2021” for “December 17, 2005” and inserted “including the objectives of the experiment or demonstration project, the expected annual and total costs, and the dates on which the experiment or demonstration project is expected to start and finish,” after “thereof,”.
+
+    Subsec. (d)(1). [Pub. L. 114–74, § 822(d)][/us/pl/114/74/s822/d], substituted “September 30” for “June 9”.
+
+    Subsec. (d)(2). [Pub. L. 114–74, § 821(a)][/us/pl/114/74/s821/a], substituted “December 31, 2021, and the authority to carry out such projects shall terminate on December 31, 2022” for “December 18, 2005”.
+
+    Subsec. (e). [Pub. L. 114–74, § 822(c)][/us/pl/114/74/s822/c], added subsec. (e).
+
+    Subsec. (f). [Pub. L. 114–74, § 823][/us/pl/114/74/s823], added subsec. (f).
 
     2004—Subsec. (c). [Pub. L. 108–203, § 401(1)][/us/pl/108/203/s401/1], substituted “initiated under subsection (a) of this section on or before December 17, 2005” for “conducted under subsection (a) of this section”.
 
@@ -138,11 +202,27 @@
 [/us/usc/t42/s422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fc
 [/us/usc/t42/s426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
+[/us/usc/t42/s423/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fa%2F1
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s423/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fa%2F1
+[/us/usc/t42/s422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fc
+[/us/usc/t42/s426/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs426%2Fb
+[/us/usc/t42/s422/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fc%2F4%2FA
+[/us/usc/t42/s423/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fd%2F4%2FA
+[/us/usc/t42/s423/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fd%2F4%2FA
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/106/170/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs301%2Fa
 [/us/stat/113/1900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1900
 [/us/pl/108/203/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs401
 [/us/stat/118/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F525
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/stat/129/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F605
+[/us/pl/114/74/s822/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs822%2Fa
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/pl/114/74/s822/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs822%2Fd
+[/us/pl/114/74/s821/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs821%2Fa
+[/us/pl/114/74/s822/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs822%2Fc
+[/us/pl/114/74/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs823
 [/us/pl/108/203/s401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs401%2F1
 [/us/pl/108/203/s401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs401%2F2
 [/us/pl/106/170/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs302

@@ -37,6 +37,40 @@
 
             (B) Appropriations for administrative expenses of the Administration are authorized to be provided on a biennial basis.
 
+        (3)
+
+         For each fiscal year beginning with 2016 and ending with 2021, the Commissioner shall include in the annual budget prepared pursuant to subparagraph (A) a report describing the purposes for which amounts made available for purposes described in [section 901(b)(2)(B) of title 2][/us/usc/t2/s901/b/2/B] for the fiscal year were expended by the Social Security Administration and the purposes for which the Commissioner plans for the Administration to expend such funds in the succeeding fiscal year, including—
+
+            (A) the total such amount expended;
+
+            (B) the amount expended on co-operative disability investigation units;
+
+            (C) the number of cases of fraud prevented by co-operative disability investigation units and the amount expended on such cases (as reported to the Commissioner by the Inspector General of the Social Security Administration);
+
+            (D) the number of felony cases prosecuted under [section 408 of this title][/us/usc/t42/s408] (as reported to the Commissioner by the Inspector General) and the amount expended by the Social Security Administration in supporting the prosecution of such cases;
+
+            (E) the amount of such felony cases successfully prosecuted (as reported to the Commissioner by the Inspector General) and the amount expended by the Social Security Administration in supporting the prosecution of such cases;
+
+            (F)
+
+             the amount expended on and the number of completed—
+
+                (i) continuing disability reviews conducted by mail;
+
+                (ii) redeterminations conducted by mail;
+
+                (iii) medical continuing disability reviews conducted pursuant to [section 421(i) of this title][/us/usc/t42/s421/i];
+
+                (iv) medical continuing disability reviews conducted pursuant to 1382c(a)(3)(H)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be preceded by “section”. </sup></sup>  of this title;
+
+                (v) redeterminations conducted pursuant to section 1382(c); and
+
+                (vi) work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity;
+
+            (G) the number of cases of fraud identified for which benefits were terminated as a result of medical continuing disability reviews (as reported to the Commissioner by the Inspector General), work-related continuing disability reviews, and redeterminations, and the amount of resulting savings for each such type of review or redetermination; and
+
+            (H) the number of work-related continuing disability reviews in which a beneficiary improperly reported earnings derived from services for more than 3 consecutive months, and the amount of resulting savings.
+
     (c) __Employment restriction__ 
 
     The total number of positions in the Administration (other than positions established under [section 902 of this title][/us/usc/t42/s902]) which—
@@ -73,9 +107,11 @@
 
         (5) The Commissioner and the Secretary shall each ensure that timely action is taken to establish any necessary routine uses for disclosures required under paragraph (1) or agreed to pursuant to paragraph (3).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 704, [49 Stat. 636][/us/stat/49/636]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 402(b), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 94–273, § 33][/us/pl/94/273/s33], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 98–369, div. B, title VI, § 2663][/us/pl/98/369/s2663](l)(1), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 103–296, title I, § 104(a)][/us/pl/103/296/s104/a], Aug. 15, 1994, [108 Stat. 1470][/us/stat/108/1470]; [Pub. L. 106–169, title II, § 211(a)][/us/pl/106/169/s211/a], Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VII, § 704, [49 Stat. 636][/us/stat/49/636]; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title IV, § 402(b), [64 Stat. 558][/us/stat/64/558]; [Pub. L. 94–273, § 33][/us/pl/94/273/s33], Apr. 21, 1976, [90 Stat. 380][/us/stat/90/380]; [Pub. L. 98–369, div. B, title VI, § 2663][/us/pl/98/369/s2663](l)(1), July 18, 1984, [98 Stat. 1171][/us/stat/98/1171]; [Pub. L. 103–296, title I, § 104(a)][/us/pl/103/296/s104/a], Aug. 15, 1994, [108 Stat. 1470][/us/stat/108/1470]; [Pub. L. 106–169, title II, § 211(a)][/us/pl/106/169/s211/a], Dec. 14, 1999, [113 Stat. 1842][/us/stat/113/1842]; [Pub. L. 114–74, title VIII, § 845(a)][/us/pl/114/74/s845/a], Nov. 2, 2015, [129 Stat. 618][/us/stat/129/618].)
 
  __Amendments__ 
+
+    2015—Subsec. (b)(3). [Pub. L. 114–74][/us/pl/114/74] added par. (3).
 
     1999—Subsec. (b)(1). [Pub. L. 106–169][/us/pl/106/169] designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -111,6 +147,24 @@
 
     Amendment by [Pub. L. 98–369][/us/pl/98/369] effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see [section 2664(b) of Pub. L. 98–369][/us/pl/98/369/s2664/b], set out as a note under [section 401 of this title][/us/usc/t42/s401].
 
+ __Expedited Examination of Administrative Law Judges__ 
+
+[Pub. L. 114–74, title VIII, § 846][/us/pl/114/74/s846], Nov. 2, 2015, [129 Stat. 620][/us/stat/129/620], provided that:
+
+>     “(a)  __In General__  __.—__ 
+
+>     Notwithstanding any other provision of law, the Office of Personnel Management shall, upon request of the Commissioner of Social Security, expeditiously administer a sufficient number of competitive examinations, as determined by the Commissioner, for the purpose of identifying an adequate number of candidates to be appointed as Administrative Law Judges under [section 3105 of title 5][/us/usc/t5/s3105], United States Code. The first such examination shall take place not later than April 1, 2016 and other examinations shall take place at such time or times requested by the Commissioner, but not later than December 31, 2022. Such examinations shall proceed even if one or more individuals who took a prior examination have appealed an adverse determination and one or more of such appeals have not concluded, provided that—
+
+>         “(1) the Commissioner of Social Security has made a determination that delaying the examination poses a significant risk that an adequate number of Administrative Law Judges will not be available to meet the need of the Social Security Administration to reduce or prevent a backlog of cases awaiting a hearing;
+
+>         “(2) an individual whose appeal is pending is provided an option to continue their appeal or elects to take the new examination, in which case the appeal is considered vacated; and
+
+>         “(3) an individual who decides to continue his or her appeal and who ultimately prevails in the appeal shall receive expeditious consideration for hire by the Office Personnel Management and the Commissioner of Social Security.
+
+>     “(b)  __Payment of Costs__  __.—__ 
+
+>     Notwithstanding any other provision of law, the Commissioner of Social Security shall pay the full cost associated with each examination conducted pursuant to subsection (a).”
+
  __Report on SES Positions Under Comprehensive Work Force Plan__ 
 
     [Pub. L. 103–296, title I, § 104(b)][/us/pl/103/296/s104/b], Aug. 15, 1994, [108 Stat. 1472][/us/stat/108/1472], provided that within 60 days after establishment by Commissioner of Social Security of comprehensive work force plan required under subsec. (b)(2) of this section, Director of Office of Personnel Management was to transmit to Congress a report specifying total number of Senior Executive Services positions authorized for Social Security Administration in connection with such work force plan.
@@ -132,6 +186,9 @@
 
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s3133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3133
+[/us/usc/t2/s901/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fb%2F2%2FB
+[/us/usc/t42/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs408
+[/us/usc/t42/s421/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs421%2Fi
 [/us/usc/t42/s902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs902
 [/us/usc/t5/s3132/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3132%2Fa%2F7
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
@@ -149,6 +206,9 @@
 [/us/stat/108/1470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1470
 [/us/pl/106/169/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169%2Fs211%2Fa
 [/us/stat/113/1842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1842
+[/us/pl/114/74/s845/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs845%2Fa
+[/us/stat/129/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F618
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
@@ -166,6 +226,9 @@
 [/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/98/369/s2664/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs2664%2Fb
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/pl/114/74/s846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs846
+[/us/stat/129/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F620
+[/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/pl/103/296/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs104%2Fb
 [/us/stat/108/1472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1472
 [/us/act/1952-07-05/ch575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1952-07-05%2Fch575

@@ -27,9 +27,37 @@
 
         (2) the Commissioner of Social Security determines that the completion of such program, or its continuation for a specified period of time, will increase the likelihood that such individual may (following his participation in such program) be permanently removed from the disability benefit rolls.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 225, as added [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(a), [70 Stat. 817][/us/stat/70/817]; amended [Pub. L. 85–840, title II, § 205][/us/pl/85/840/s205](o), Aug. 28, 1958, [72 Stat. 1025][/us/stat/72/1025]; [Pub. L. 89–97, title III, § 306(c)(15)][/us/pl/89/97/s306/c/15], July 30, 1965, [79 Stat. 373][/us/stat/79/373]; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 104(d)(5), 158(c)(9), Jan. 2, 1968, [81 Stat. 833][/us/stat/81/833], 869; [Pub. L. 92–603, title I, § 107(b)(5)][/us/pl/92/603/s107/b/5], Oct. 30, 1972, [86 Stat. 1343][/us/stat/86/1343]; [Pub. L. 96–265, title III, § 301(a)][/us/pl/96/265/s301/a], June 9, 1980, [94 Stat. 449][/us/stat/94/449]; [Pub. L. 98–21, title III, § 309(p)][/us/pl/98/21/s309/p], Apr. 20, 1983, [97 Stat. 117][/us/stat/97/117]; [Pub. L. 101–508, title V, § 5113(a)][/us/pl/101/508/s5113/a], Nov. 5, 1990, [104 Stat. 1388–273][/us/stat/104/1388-273]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title II, § 201(a)(3)(A), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1494; [Pub. L. 104–121, title I, § 105(a)(4)][/us/pl/104/121/s105/a/4], Mar. 29, 1996, [110 Stat. 853][/us/stat/110/853]; [Pub. L. 106–170, title I, § 101(b)(1)(D)][/us/pl/106/170/s101/b/1/D], Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873].)
+    (c) __Access to information held by payroll data providers__ 
+
+        (1) The Commissioner of Social Security may require each individual who applies for or is entitled to monthly insurance benefits under subsections (d)(1)(B)(ii), (d)(6)(A)(ii), (d)(6)(B), (e)(1)(B)(ii), and (f)(1)(B)(ii) of [section 402 of this title][/us/usc/t42/s402] and subsection (a)(1) of [section 423 of this title][/us/usc/t42/s423] to provide authorization by the individual for the Commissioner to obtain from any payroll data provider (as defined in [section 1320e–3(c)(1) of this title][/us/usc/t42/s1320e–3/c/1]) any record held by the payroll data provider with respect to the individual whenever the Commissioner determines the record is needed in connection with a determination of initial or ongoing entitlement to such benefits.
+
+        (2)
+
+         An authorization provided by an individual under this subsection shall remain effective until the earliest of—
+
+            (A) the rendering of a final adverse decision on the individual’s application or entitlement to benefits under this subchapter;
+
+            (B) the termination of the individual’s entitlement to benefits under this subchapter; or
+
+            (C) the express revocation by the individual of the authorization, in a written notification to the Commissioner.
+
+        (3) The Commissioner of Social Security is not required to furnish any authorization obtained pursuant to this subsection to the payroll data provider.
+
+        (4) The Commissioner shall inform any person who provides authorization pursuant to this clause of the duration and scope of the authorization.
+
+        (5) If an individual who applies for or is entitled to benefits under this subchapter refuses to provide, or revokes, any authorization under this subsection, subsection (d) shall not apply to such individual beginning with the first day of the first month in which he or she refuses or revokes such authorization.
+
+    (d) __Reporting responsibilities for beneficiaries subject to information exchange with payroll data provider__ 
+
+        An individual who has authorized the Commissioner of Social Security to obtain records from a payroll data provider under subsection (c) shall not be subject to a penalty under section 1320a–8a for any omission or error with respect to such individual’s wages as reported by the payroll data provider.
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 225, as added [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(a), [70 Stat. 817][/us/stat/70/817]; amended [Pub. L. 85–840, title II, § 205][/us/pl/85/840/s205](o), Aug. 28, 1958, [72 Stat. 1025][/us/stat/72/1025]; [Pub. L. 89–97, title III, § 306(c)(15)][/us/pl/89/97/s306/c/15], July 30, 1965, [79 Stat. 373][/us/stat/79/373]; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 104(d)(5), 158(c)(9), Jan. 2, 1968, [81 Stat. 833][/us/stat/81/833], 869; [Pub. L. 92–603, title I, § 107(b)(5)][/us/pl/92/603/s107/b/5], Oct. 30, 1972, [86 Stat. 1343][/us/stat/86/1343]; [Pub. L. 96–265, title III, § 301(a)][/us/pl/96/265/s301/a], June 9, 1980, [94 Stat. 449][/us/stat/94/449]; [Pub. L. 98–21, title III, § 309(p)][/us/pl/98/21/s309/p], Apr. 20, 1983, [97 Stat. 117][/us/stat/97/117]; [Pub. L. 101–508, title V, § 5113(a)][/us/pl/101/508/s5113/a], Nov. 5, 1990, [104 Stat. 1388–273][/us/stat/104/1388-273]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title II, § 201(a)(3)(A), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1494; [Pub. L. 104–121, title I, § 105(a)(4)][/us/pl/104/121/s105/a/4], Mar. 29, 1996, [110 Stat. 853][/us/stat/110/853]; [Pub. L. 106–170, title I, § 101(b)(1)(D)][/us/pl/106/170/s101/b/1/D], Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873]; [Pub. L. 114–74, title VIII, § 824(b)(1)][/us/pl/114/74/s824/b/1], (c)(1), Nov. 2, 2015, [129 Stat. 608][/us/stat/129/608], 609.)
 
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–74, § 824(b)(1)][/us/pl/114/74/s824/b/1], added subsec. (c).
+
+    Subsec. (d). [Pub. L. 114–74, § 824(c)(1)][/us/pl/114/74/s824/c/1], added subsec. (d).
 
     1999—Subsec. (b)(1). [Pub. L. 106–170][/us/pl/106/170] substituted “a program consisting of the Ticket to Work and Self-Sufficiency Program under [section 1320b–19 of this title][/us/usc/t42/s1320b–19] or another program of vocational rehabilitation services, employment services, or other support services” for “a program of vocational rehabilitation services”.
 
@@ -64,6 +92,12 @@
     1965—[Pub. L. 89–97][/us/pl/89/97] inserted “The first sentence of this section shall not apply to any child entitled to benefits under [section 402(d) of this title][/us/usc/t42/s402/d], if he has attained the age of 18 but has not attained the age of 22, for any month during which he is a full-time student (as defined and determined under [section 402(d) of this title][/us/usc/t42/s402/d]).”
 
     1958—[Pub. L. 85–840][/us/pl/85/840] provided that whenever the benefits of an individual entitled to a disability insurance benefit are suspended for any month, the benefits of any individual entitled thereto under subsection (b), (c), or (d) of [section 402 of this title][/us/usc/t42/s402], on the basis of the wages and self-employment income of such individual, shall be suspended for such month.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–74, title VIII, § 824(e)][/us/pl/114/74/s824/e], Nov. 2, 2015, [129 Stat. 610][/us/stat/129/610], provided that: 
+
+> “The amendments made by this section \[enacting [section 1320e–3 of this title][/us/usc/t42/s1320e–3], amending this section and [section 1383 of this title][/us/usc/t42/s1383], and enacting provisions set out as a note under [section 1320e–3 of this title][/us/usc/t42/s1320e–3]\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[Nov 2, 2015\].”
 
  __Effective Date of 1999 Amendment__ 
 
@@ -185,6 +219,9 @@
 [/us/usc/t42/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fd
 [/us/usc/t42/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fd
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
+[/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
+[/us/usc/t42/s1320e–3/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%933%2Fc%2F1
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/act/1956-08-01/ch836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch836
 [/us/stat/70/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F817
@@ -208,6 +245,10 @@
 [/us/stat/110/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F853
 [/us/pl/106/170/s101/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FD
 [/us/stat/113/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1873
+[/us/pl/114/74/s824/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs824%2Fb%2F1
+[/us/stat/129/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F608
+[/us/pl/114/74/s824/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs824%2Fb%2F1
+[/us/pl/114/74/s824/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs824%2Fc%2F1
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/usc/t42/s1320b–19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9319
 [/us/pl/104/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121
@@ -233,6 +274,11 @@
 [/us/usc/t42/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fd
 [/us/pl/85/840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840
 [/us/usc/t42/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402
+[/us/pl/114/74/s824/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs824%2Fe
+[/us/stat/129/610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F610
+[/us/usc/t42/s1320e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%933
+[/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
+[/us/usc/t42/s1320e–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%933
 [/us/pl/106/170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170
 [/us/pl/106/170/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fd
 [/us/pl/106/170/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fc

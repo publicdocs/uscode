@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–5.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%936)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–5.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–6a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%936)
 
 ## § 1320a–6. Adjustments in SSI benefits on account of retroactive benefits under subchapter II
 
@@ -73,7 +73,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–5.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%936)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–5.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–6a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%936)
 
 ----------
 ----------

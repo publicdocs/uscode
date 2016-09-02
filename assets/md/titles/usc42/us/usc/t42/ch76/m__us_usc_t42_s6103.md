@@ -61,10 +61,6 @@
 
     The Age Discrimination in Employment Act of 1967 ([29 U.S.C. 621–634][/us/usc/t29/s621–634]), as amended, referred to in subsec. (c)(2), is [Pub. L. 90–202][/us/pl/90/202], Dec. 15, 1967, [81 Stat. 602][/us/stat/81/602], as amended, which is classified generally to chapter 14 (§ 621 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under [section 621 of Title 29][/us/usc/t29/s621] and Tables.
 
- __Codification__ 
-
-    In subsec. (c)(1), “Job Training Partnership Act \[[29 U.S.C. 1501][/us/usc/t29/s1501] et seq.\]” substituted for “Comprehensive Employment and Training Act of 1974 ([29 U.S.C. 801][/us/usc/t29/s801] et seq.), as amended” pursuant to section 183 of the Job Training Partnership Act, [Pub. L. 97–300, title I][/us/pl/97/300], Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357], which is classified to [section 1592 of Title 29][/us/usc/t29/s1592], Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
-
  __Amendments__ 
 
     1998—Subsec. (c)(1). [Pub. L. 105–277][/us/pl/105/277] substituted “Nothing” for “Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing”.
@@ -111,11 +107,6 @@
 [/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F602
 [/us/usc/t29/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621
-[/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501
-[/us/usc/t29/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs801
-[/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
-[/us/stat/96/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1357
-[/us/usc/t29/s1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1592
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/95/478/s401/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fb%2F1
 [/us/pl/95/478/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F478%2Fs401%2Fb%2F2

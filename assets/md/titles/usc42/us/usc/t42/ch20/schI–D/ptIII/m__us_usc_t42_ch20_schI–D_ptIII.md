@@ -17,7 +17,7 @@
 
 §§ 1973cc–21 to 1973cc–26. __Repealed.__  __[__  __Pub. L. 99–410, title II, § 203__  __][/us/pl/99/410/s203]__  __,__  __Aug. 28, 1986__  __,__  __[__  __100 Stat. 930__  __][/us/stat/100/930]__ 
 
-    Section 1973cc–21, [act Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title III, § 301, [69 Stat. 588][/us/stat/69/588], provided definitions of terms used in this subchapter. See [section 1973ff–6 of this title][/us/usc/t42/s1973ff–6].
+    Section 1973cc–21, [act Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title III, § 301, [69 Stat. 588][/us/stat/69/588], provided definitions of terms used in this subchapter. See [section 20310 of Title 52][/us/usc/t52/s20310], Voting and Elections.
 
     Section 1973cc–22, [act Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title III, § 302, [69 Stat. 588][/us/stat/69/588], provided free postage for official post cards, ballots, voting instructions, and envelopes. See [section 3406 of Title 39][/us/usc/t39/s3406], Postal Service.
 
@@ -31,7 +31,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as an Effective Date note under [section 1973ff of this title][/us/usc/t42/s1973ff].
+    Repeal applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as an Effective Date note under [section 20301 of Title 52][/us/usc/t52/s20301], Voting and Elections.
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/stat/100/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F930
 [/us/act/1955-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch656
 [/us/stat/69/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F588
-[/us/usc/t42/s1973ff–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%E2%80%936
+[/us/usc/t52/s20310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20310
 [/us/act/1955-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch656
 [/us/stat/69/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F588
 [/us/usc/t39/s3406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3406
@@ -58,6 +58,6 @@
 [/us/act/1955-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch656
 [/us/stat/69/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F589
 [/us/pl/99/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs204
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 
 

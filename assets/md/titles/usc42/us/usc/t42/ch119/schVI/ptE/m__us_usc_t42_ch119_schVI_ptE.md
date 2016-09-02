@@ -23,7 +23,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal effective July 1, 1999, see [section 199(c)(2)(A) of Pub. L. 105–220][/us/pl/105/220/s199/c/2/A], set out as a note under [section 11421 of this title][/us/usc/t42/s11421].
+    Repeal effective July 1, 1999, see [section 199(c)(2)(A) of Pub. L. 105–220][/us/pl/105/220/s199/c/2/A], as amended, set out as a note under [section 11421 of this title][/us/usc/t42/s11421].
 
 ----------
 

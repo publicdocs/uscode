@@ -31,11 +31,13 @@
 
             (B) the initial or continued right to the benefits of any other individual in whose behalf he or she has applied for or is receiving the benefit,
 
-            conceals or fails to disclose the event with an intent fraudulently to secure the benefit either in a greater amount or quantity than is due or when no such benefit is authorized; or
+            conceals or fails to disclose the event with an intent fraudulently to secure the benefit either in a greater amount or quantity than is due or when no such benefit is authorized;
 
-        (4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts the benefit or any part thereof to a use other than for the use and benefit of the other individual,
+        (4) having made application to receive any such benefit for the use and benefit of another and having received it, knowingly and willfully converts the benefit or any part thereof to a use other than for the use and benefit of the other individual; or
 
-        shall be fined under title 18, imprisoned not more than 5 years, or both.
+        (5) conspires to commit any offense described in any of paragraphs (1) through (3),
+
+        shall be fined under title 18, imprisoned not more than 5 years, or both, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both.
 
     (b) __Court order for restitution__ 
 
@@ -65,13 +67,17 @@
 
                 In the case of funds paid to the Commissioner of Social Security pursuant to paragraph (1)(B), the Commissioner of Social Security shall certify for payment to the individual described in such paragraph an amount equal to the lesser of the amount of the funds so paid or the individual’s outstanding financial loss as described in such paragraph, except that such amount may be reduced by any overpayment of benefits owed under this subchapter, subchapter II of this chapter, or subchapter XVI of this chapter by the individual.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 811, as added [Pub. L. 106–169, title II, § 251(a)][/us/pl/106/169/s251/a], Dec. 14, 1999, [113 Stat. 1852][/us/stat/113/1852]; amended [Pub. L. 108–203, title II, § 209(b)][/us/pl/108/203/s209/b], Mar. 2, 2004, [118 Stat. 514][/us/stat/118/514].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title VIII, § 811, as added [Pub. L. 106–169, title II, § 251(a)][/us/pl/106/169/s251/a], Dec. 14, 1999, [113 Stat. 1852][/us/stat/113/1852]; amended [Pub. L. 108–203, title II, § 209(b)][/us/pl/108/203/s209/b], Mar. 2, 2004, [118 Stat. 514][/us/stat/118/514]; [Pub. L. 114–74, title VIII, § 813(a)(2)][/us/pl/114/74/s813/a/2], (b)(2), Nov. 2, 2015, [129 Stat. 602][/us/stat/129/602], 603.)
 
  __Prior Provisions__ 
 
     For prior provisions, see note set out under [section 1001 of this title][/us/usc/t42/s1001].
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–74, § 813(b)(2)][/us/pl/114/74/s813/b/2], inserted before period at end of concluding provisions “, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both”.
+
+    Subsec. (a)(5). [Pub. L. 114–74, § 813(a)(2)][/us/pl/114/74/s813/a/2], added par. (5).
 
     2004—Subsec. (b). [Pub. L. 108–203][/us/pl/108/203] amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “If a person or organization violates subsection (a) of this section in the person’s or organization’s role as, or in applying to become, a representative payee under [section 1007 of this title][/us/usc/t42/s1007] on behalf of a qualified individual, and the violation includes a willful misuse of funds by the person or entity, the court may also require that full or partial restitution of funds be made to the qualified individual.”
 
@@ -92,7 +98,11 @@
 [/us/stat/113/1852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1852
 [/us/pl/108/203/s209/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fb
 [/us/stat/118/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F514
+[/us/pl/114/74/s813/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fa%2F2
+[/us/stat/129/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F602
 [/us/usc/t42/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1001
+[/us/pl/114/74/s813/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fb%2F2
+[/us/pl/114/74/s813/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fa%2F2
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/usc/t42/s1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1007
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203

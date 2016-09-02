@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–2.md) | [Next](./../../../../..//us/usc/t42/ch7/schXII/m__us_usc_t42_s1321.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXII)
+[Previous](./../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–3.md) | [Next](./../../../../..//us/usc/t42/ch7/schXII/m__us_usc_t42_s1321.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXII)
 
 ### SUBCHAPTER XII—ADVANCES TO STATE UNEMPLOYMENT FUNDS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–2.md) | [Next](./../../../../..//us/usc/t42/ch7/schXII/m__us_usc_t42_s1321.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXII)
+[Previous](./../../../../..//us/usc/t42/ch7/schXI/ptD/m__us_usc_t42_s1320e–3.md) | [Next](./../../../../..//us/usc/t42/ch7/schXII/m__us_usc_t42_s1321.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch7%2FschXII)
 
 ----------
 ----------

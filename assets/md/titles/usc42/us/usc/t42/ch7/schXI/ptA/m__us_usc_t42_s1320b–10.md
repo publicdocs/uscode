@@ -19,7 +19,7 @@
 
         (1)
 
-         No person may use, in connection with any item constituting an advertisement, solicitation, circular, book, pamphlet, or other communication, or a play, motion picture, broadcast, telecast, or other production, alone or with other words, letters, symbols, or emblems—
+         No person may use, in connection with any item constituting an advertisement, solicitation, circular, book, pamphlet, or other communication (including any Internet or other electronic communication), or a play, motion picture, broadcast, telecast, or other production, alone or with other words, letters, symbols, or emblems—
 
             (A) the words “Social Security”, “Social Security Account”, “Social Security System”, “Social Security Administration”, “Medicare”, “Centers for Medicare & Medicaid Services”, “Department of Health and Human Services”, “Health and Human Services”, “Supplemental Security Income Program”, “Medicaid”, “Death Benefits Update”, “Federal Benefit Information”, “Funeral Expenses”, or “Final Supplemental Plan”, the letters “SSA”, “CMS”, “DHHS”, “HHS”, or “SSI”, or any other combination or variation of such words or letters, or
 
@@ -61,7 +61,7 @@
 
         (2) in the case of a violation consisting of a broadcast or telecast, $25,000,
 
-        against any person for each violation by such person of subsection (a) of this section. In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.
+        against any person for each violation by such person of subsection (a) of this section. In the case of any items referred to in subsection (a)(1) of this section consisting of pieces of mail, each such piece of mail which contains one or more words, letters, symbols, or emblems in violation of subsection (a) of this section shall represent a separate violation. In the case of any items referred to in subsection (a)(1) consisting of Internet or other electronic communications, each dissemination, viewing, or accessing of such a communication which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup>  In the case of any item referred to in subsection (a)(2) of this section, the reproduction, reprinting, or distribution of such item shall be treated as a separate violation with respect to each copy thereof so reproduced, reprinted, or distributed.
 
     (c) __Application of other law; compromise, recovery, and deposit into Treasury of civil money penalties__ 
 
@@ -73,9 +73,13 @@
 
         The preceding provisions of this section may be enforced through the Office of the Inspector General of the Social Security Administration or the Office of the Inspector General of the Department of Health and Human Services (as appropriate).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1140, as added [Pub. L. 100–360, title IV, § 428(a)][/us/pl/100/360/s428/a], July 1, 1988, [102 Stat. 815][/us/stat/102/815]; amended [Pub. L. 100–485, title VI, § 608(d)(30)(A)][/us/pl/100/485/s608/d/30/A], Oct. 13, 1988, [102 Stat. 2424][/us/stat/102/2424]; [Pub. L. 103–296, title I, § 108(b)(12)][/us/pl/103/296/s108/b/12], title III, §§ 304(b), 312(a)–(j), Aug. 15, 1994, [108 Stat. 1484][/us/stat/108/1484], 1520, 1526, 1527; [Pub. L. 108–173, title IX, § 900(e)(1)(B)][/us/pl/108/173/s900/e/1/B], Dec. 8, 2003, [117 Stat. 2371][/us/stat/117/2371]; [Pub. L. 108–203, title II][/us/pl/108/203], §§ 204(a), 207(a), Mar. 2, 2004, [118 Stat. 511][/us/stat/118/511], 512.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1140, as added [Pub. L. 100–360, title IV, § 428(a)][/us/pl/100/360/s428/a], July 1, 1988, [102 Stat. 815][/us/stat/102/815]; amended [Pub. L. 100–485, title VI, § 608(d)(30)(A)][/us/pl/100/485/s608/d/30/A], Oct. 13, 1988, [102 Stat. 2424][/us/stat/102/2424]; [Pub. L. 103–296, title I, § 108(b)(12)][/us/pl/103/296/s108/b/12], title III, §§ 304(b), 312(a)–(j), Aug. 15, 1994, [108 Stat. 1484][/us/stat/108/1484], 1520, 1526, 1527; [Pub. L. 108–173, title IX, § 900(e)(1)(B)][/us/pl/108/173/s900/e/1/B], Dec. 8, 2003, [117 Stat. 2371][/us/stat/117/2371]; [Pub. L. 108–203, title II][/us/pl/108/203], §§ 204(a), 207(a), Mar. 2, 2004, [118 Stat. 511][/us/stat/118/511], 512; [Pub. L. 114–74, title VIII, § 814][/us/pl/114/74/s814], Nov. 2, 2015, [129 Stat. 604][/us/stat/129/604].)
 
  __Amendments__ 
+
+    2015—Subsec. (a)(1). [Pub. L. 114–74, § 814(a)][/us/pl/114/74/s814/a], inserted “(including any Internet or other electronic communication)” after “or other communication” in introductory provisions.
+
+    Subsec. (b). [Pub. L. 114–74, § 814(b)][/us/pl/114/74/s814/b], in concluding provisions, inserted “In the case of any items referred to in subsection (a)(1) consisting of Internet or other electronic communications, each dissemination, viewing, or accessing of such a communication which contains one or more words, letters, symbols, or emblems in violation of subsection (a) shall represent a separate violation” after “represent a separate violation.”
 
     2004—[Pub. L. 108–203, § 204(a)(2)][/us/pl/108/203/s204/a/2], substituted “Prohibitions relating to references” for “Prohibition of misuse of symbols, emblems, or names in reference” in section catchline.
 
@@ -204,6 +208,10 @@
 [/us/stat/117/2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2371
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/stat/118/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F511
+[/us/pl/114/74/s814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs814
+[/us/stat/129/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F604
+[/us/pl/114/74/s814/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs814%2Fa
+[/us/pl/114/74/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs814%2Fb
 [/us/pl/108/203/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs204%2Fa%2F2
 [/us/pl/108/203/s207/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs207%2Fa%2F3
 [/us/pl/108/173/s900/e/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs900%2Fe%2F1%2FB%2Fi

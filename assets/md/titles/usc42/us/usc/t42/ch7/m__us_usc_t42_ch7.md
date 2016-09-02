@@ -2153,6 +2153,14 @@ Part A—General Provisions  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%936a" data-uslm-ref="/us/usc/t42/s1320a–6a">1320a–6a.</a>  </td>
+
+    <td> Interagency coordination to improve program administration.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937" data-uslm-ref="/us/usc/t42/s1320a–7">1320a–7.</a>  </td>
 
     <td> Exclusion of certain individuals and entities from participation in Medicare and State health care programs.  </td>
@@ -2764,6 +2772,14 @@ Part D—Comparative Clinical Effectiveness Research  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%932" data-uslm-ref="/us/usc/t42/s1320e–2">1320e–2.</a>  </td>
 
     <td> Trust Fund transfers to Patient-Centered Outcomes Research Trust Fund.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1320e%E2%80%933" data-uslm-ref="/us/usc/t42/s1320e–3">1320e–3.</a>  </td>
+
+    <td> Information exchange with payroll data providers.  </td>
 
   </tr>
 

@@ -91,6 +91,78 @@
 
     1978—Subsecs. (a)(1), (c), (d), (e)(1), (f), (f)(I), (g). [Pub. L. 95–619][/us/pl/95/619] substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
 
+ __Energy Security and Infrastructure Modernization Fund__ 
+
+[Pub. L. 114–74, title IV, § 404][/us/pl/114/74/s404], Nov. 2, 2015, [129 Stat. 590][/us/stat/129/590], provided that:
+
+>     “(a)  __Establishment__  __.—__ 
+
+>     There is hereby established in the Treasury of the United States a fund to be known as the Energy Security and Infrastructure Modernization Fund (referred to in this section as the ‘Fund’), consisting of—
+
+>         “(1) collections deposited in the Fund under subsection (c); and
+
+>         “(2) amounts otherwise appropriated to the Fund.
+
+>     “(b)  __Purpose__  __.—__ 
+
+>     The purpose of the Fund is to provide for the construction, maintenance, repair, and replacement of Strategic Petroleum Reserve facilities.
+
+>     “(c) __Collection and Deposit of Sale Proceeds in Fund.—__ 
+
+>         “(1)  __Drawdown and sale__  __.—__ 
+
+>         Notwithstanding section 161 of the Energy Policy and Conservation Act ([42 U.S.C. 6241][/us/usc/t42/s6241]), to the extent provided in advance in appropriation Acts, the Secretary of Energy shall draw down and sell crude oil from the Strategic Petroleum Reserve in amounts as authorized under subsection (e), except as provided in paragraph (2). Amounts received for a sale under this paragraph shall be deposited into the Fund during the fiscal year in which the sale occurs. Such amounts shall remain available in the Fund without fiscal year limitation.
+
+>         “(2)  __Emergency protection__  __.—__ 
+
+>         The Secretary shall not draw down and sell crude oil under this subsection in amounts that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act ([42 U.S.C. 6241(h)][/us/usc/t42/s6241/h]) in the full amount authorized by that subsection.
+
+>     “(d) __Authorized Uses of Fund.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Amounts in the Fund may be used for, or may be credited as offsetting collections for amounts used for, carrying out the program described in paragraph (2)(B), to the extent provided in advance in appropriation Acts.
+
+>         “(2) __Program to modernize the strategic petroleum reserve.—__ 
+
+>             “(A)  __Findings__  __.—__ 
+
+>             Congress finds the following:
+
+>                 “(i) The Strategic Petroleum Reserve is one of the Nation’s most valuable energy security assets.
+
+>                 “(ii) The age and condition of the Strategic Petroleum Reserve have diminished its value as a Federal energy security asset.
+
+>                 “(iii) Global oil markets and the location and amount of United States oil production and refining capacity have dramatically changed in the 40 years since the establishment of the Strategic Petroleum Reserve.
+
+>                 “(iv) Maximizing the energy security value of the Strategic Petroleum Reserve requires a modernized infrastructure that meets the drawdown and distribution needs of changed domestic and international oil and refining market conditions.
+
+>             “(B)  __Program__  __.—__ 
+
+>             The Secretary of Energy shall establish a Strategic Petroleum Reserve modernization program to protect the United States economy from the impacts of emergency product supply disruptions. The program may include—
+
+>                 “(i) operational improvements to extend the useful life of surface and subsurface infrastructure;
+
+>                 “(ii) maintenance of cavern storage integrity; and
+
+>                 “(iii) addition of infrastructure and facilities to optimize the drawdown and incremental distribution capacity of the Strategic Petroleum Reserve.
+
+>     “(e)  __Authorization of Appropriations__  __.—__ 
+
+>     There are authorized to be appropriated (and drawdowns and sales under subsection (c) in an equal amount are authorized) for carrying out subsection (d)(2)(B), $2,000,000,000 for the period encompassing fiscal years 2017 through 2020.
+
+>     “(f)  __Transmission of Department Budget Requests__  __.—__ 
+
+>     The Secretary of Energy shall prepare and submit in the Department’s annual budget request to Congress—
+
+>         “(1) an itemization of the amounts of funds necessary to carry out subsection (d); and
+
+>         “(2) a designation of any activities thereunder for which a multiyear budget authority would be appropriate.
+
+>     “(g)  __Sunset__  __.—__ 
+
+>     The authority of the Secretary to draw down and sell crude oil from the Strategic Petroleum Reserve under this section shall expire at the end of fiscal year 2020.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6234.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6240.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6239)
@@ -142,5 +214,9 @@
 [/us/pl/97/229/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs4%2Fb%2F1
 [/us/pl/97/229/s4/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F229%2Fs4%2Fb%2F2%2FB
 [/us/pl/95/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F619
+[/us/pl/114/74/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs404
+[/us/stat/129/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F590
+[/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
+[/us/usc/t42/s6241/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241%2Fh
 
 

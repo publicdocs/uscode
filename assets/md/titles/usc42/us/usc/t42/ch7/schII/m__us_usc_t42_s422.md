@@ -35,7 +35,7 @@
 
         (5)
 
-         Upon conviction by a Federal court that an individual has fraudulently concealed work activity during a period of trial work from the Commissioner of Social Security by—
+         Upon conviction by a Federal court, or the imposition of a civil monetary penalty under [section 1320a–8 of this title][/us/usc/t42/s1320a–8], that an individual has fraudulently concealed work activity during a period of trial work from the Commissioner of Social Security by—
 
             (A) providing false information to the Commissioner of Social Security as to whether the individual had earnings in or for a particular period, or as to the amount thereof;
 
@@ -79,7 +79,7 @@
 
         In the case of any individual whose benefits under this subchapter are paid to a representative payee pursuant to [section 405(j)(1)(B) of this title][/us/usc/t42/s405/j/1/B], the Commissioner of Social Security shall refer such individual to the appropriate State agency administering the State plan for substance abuse treatment services approved under subpart II of part B of title XIX of the Public Health Service Act ([42 U.S.C. 300x–21][/us/usc/t42/s300x–21] et seq.).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 222, as added [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 106(g) [68 Stat. 1081][/us/stat/68/1081]; amended [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(b), [70 Stat. 817][/us/stat/70/817]; [Pub. L. 85–840, title II, § 205(n)][/us/pl/85/840/s205/n], title III, § 307(g), Aug. 28, 1958, [72 Stat. 1025][/us/stat/72/1025], 1032; [Pub. L. 86–778, title IV, § 403(a)][/us/pl/86/778/s403/a], Sept. 13, 1960, [74 Stat. 968][/us/stat/74/968]; [Pub. L. 89–97, title III][/us/pl/89/97], §§ 306(c)(14), 308(d)(11), 336, July 30, 1965, [79 Stat. 373][/us/stat/79/373], 379, 408; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 104(d)(3), (4), 158(c)(5), Jan. 2, 1968, [81 Stat. 832][/us/stat/81/832], 869; [Pub. L. 92–603, title I][/us/pl/92/603], §§ 107(b)(3), (4), 131, Oct. 30, 1972, [86 Stat. 1343][/us/stat/86/1343], 1360; [Pub. L. 96–265, title III, § 303(a)][/us/pl/96/265/s303/a], June 9, 1980, [94 Stat. 451][/us/stat/94/451]; [Pub. L. 97–35, title XXII, § 2209(a)][/us/pl/97/35/s2209/a], Aug. 13, 1981, [95 Stat. 840][/us/stat/95/840]; [Pub. L. 98–21, title III, § 309][/us/pl/98/21/s309](l)–(n), Apr. 20, 1983, [97 Stat. 117][/us/stat/97/117]; [Pub. L. 98–369, div. B, title VI, § 2663(a)(15)][/us/pl/98/369/s2663/a/15], July 18, 1984, [98 Stat. 1165][/us/stat/98/1165]; [Pub. L. 98–460, § 11(a)][/us/pl/98/460/s11/a], Oct. 9, 1984, [98 Stat. 1805][/us/stat/98/1805]; [Pub. L. 101–508, title V, § 5112(a)][/us/pl/101/508/s5112/a], Nov. 5, 1990, [104 Stat. 1388–273][/us/stat/104/1388-273]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title II, § 201(a)(4)(B), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1499; [Pub. L. 104–121, title I, § 105(a)(3)][/us/pl/104/121/s105/a/3], Mar. 29, 1996, [110 Stat. 852][/us/stat/110/852]; [Pub. L. 106–170, title I, § 101(b)(1)(B)][/us/pl/106/170/s101/b/1/B], (C), Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873]; [Pub. L. 108–203, title II, § 208(a)][/us/pl/108/203/s208/a], Mar. 2, 2004, [118 Stat. 513][/us/stat/118/513].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 222, as added [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 106(g) [68 Stat. 1081][/us/stat/68/1081]; amended [Aug. 1, 1956, ch. 836][/us/act/1956-08-01/ch836], title I, § 103(b), [70 Stat. 817][/us/stat/70/817]; [Pub. L. 85–840, title II, § 205(n)][/us/pl/85/840/s205/n], title III, § 307(g), Aug. 28, 1958, [72 Stat. 1025][/us/stat/72/1025], 1032; [Pub. L. 86–778, title IV, § 403(a)][/us/pl/86/778/s403/a], Sept. 13, 1960, [74 Stat. 968][/us/stat/74/968]; [Pub. L. 89–97, title III][/us/pl/89/97], §§ 306(c)(14), 308(d)(11), 336, July 30, 1965, [79 Stat. 373][/us/stat/79/373], 379, 408; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 104(d)(3), (4), 158(c)(5), Jan. 2, 1968, [81 Stat. 832][/us/stat/81/832], 869; [Pub. L. 92–603, title I][/us/pl/92/603], §§ 107(b)(3), (4), 131, Oct. 30, 1972, [86 Stat. 1343][/us/stat/86/1343], 1360; [Pub. L. 96–265, title III, § 303(a)][/us/pl/96/265/s303/a], June 9, 1980, [94 Stat. 451][/us/stat/94/451]; [Pub. L. 97–35, title XXII, § 2209(a)][/us/pl/97/35/s2209/a], Aug. 13, 1981, [95 Stat. 840][/us/stat/95/840]; [Pub. L. 98–21, title III, § 309][/us/pl/98/21/s309](l)–(n), Apr. 20, 1983, [97 Stat. 117][/us/stat/97/117]; [Pub. L. 98–369, div. B, title VI, § 2663(a)(15)][/us/pl/98/369/s2663/a/15], July 18, 1984, [98 Stat. 1165][/us/stat/98/1165]; [Pub. L. 98–460, § 11(a)][/us/pl/98/460/s11/a], Oct. 9, 1984, [98 Stat. 1805][/us/stat/98/1805]; [Pub. L. 101–508, title V, § 5112(a)][/us/pl/101/508/s5112/a], Nov. 5, 1990, [104 Stat. 1388–273][/us/stat/104/1388-273]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title II, § 201(a)(4)(B), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1499; [Pub. L. 104–121, title I, § 105(a)(3)][/us/pl/104/121/s105/a/3], Mar. 29, 1996, [110 Stat. 852][/us/stat/110/852]; [Pub. L. 106–170, title I, § 101(b)(1)(B)][/us/pl/106/170/s101/b/1/B], (C), Dec. 17, 1999, [113 Stat. 1873][/us/stat/113/1873]; [Pub. L. 108–203, title II, § 208(a)][/us/pl/108/203/s208/a], Mar. 2, 2004, [118 Stat. 513][/us/stat/118/513]; [Pub. L. 114–74, title VIII, § 813(d)][/us/pl/114/74/s813/d], Nov. 2, 2015, [129 Stat. 604][/us/stat/129/604].)
 
  __References in Text__ 
 
@@ -88,6 +88,8 @@
     The Public Health Service Act, referred to in subsec. (e), is [act July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], [58 Stat. 682][/us/stat/58/682], as amended. Subpart II of part B of title XIX of the Act is classified generally to subpart II (§ 300x–21 et seq.) of part B of subchapter XVII of chapter 6A of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 201 of this title][/us/usc/t42/s201] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (c)(5). [Pub. L. 114–74][/us/pl/114/74] inserted “, or the imposition of a civil monetary penalty under [section 1320a–8 of this title][/us/usc/t42/s1320a–8],” after “conviction by a Federal court” in introductory provisions.
 
     2004—Subsec. (c)(5). [Pub. L. 108–203][/us/pl/108/203] added par. (5).
 
@@ -254,6 +256,7 @@
 [/us/stat/113/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1873
 [/us/usc/t42/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fd
 [/us/usc/t42/s423/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423%2Fd
+[/us/usc/t42/s1320a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%938
 [/us/usc/t42/s423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs423
 [/us/usc/t42/s402/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fd
 [/us/usc/t42/s402/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fe
@@ -300,12 +303,16 @@
 [/us/stat/113/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1873
 [/us/pl/108/203/s208/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs208%2Fa
 [/us/stat/118/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F513
+[/us/pl/114/74/s813/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fd
+[/us/stat/129/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F604
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/usc/t42/s1320a–8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%938
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/pl/106/170/s101/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FB
 [/us/pl/106/170/s101/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FC

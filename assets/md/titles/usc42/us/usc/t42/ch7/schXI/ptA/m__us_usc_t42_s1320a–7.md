@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–6.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–6a.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937)
 
 ## § 1320a–7. Exclusion of certain individuals and entities from participation in Medicare and State health care programs
 
@@ -537,7 +537,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–6.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937)
+[Previous](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–6a.md) | [Next](./../../../../../..//us/usc/t42/ch7/schXI/ptA/m__us_usc_t42_s1320a–7a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%937)
 
 ----------
 ----------

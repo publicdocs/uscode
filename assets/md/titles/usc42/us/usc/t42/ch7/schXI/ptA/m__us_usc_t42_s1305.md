@@ -21,9 +21,13 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–74, title VIII, § 801][/us/pl/114/74/s801], Nov. 2, 2015, [129 Stat. 601][/us/stat/129/601], provided that: 
+
+> “This title \[enacting sections 1320a–6a and 1320e–3 of this title, amending sections 401, 402, 404, 405, 408, 417, 421 to 423, 425 to 426–1, 434, 904, 1011, 1320a–8, 1320b–10, 1383, and 1383a of this title and [section 901 of Title 2][/us/usc/t2/s901], The Congress, and enacting provisions set out as notes under sections 401, 402, 404, 421, 423, 425, 904, 1320a–6a, and 1320e–3 of this title\] may be cited as the ‘Social Security Benefit Protection and Opportunity Enhancement Act of 2015’.”
+
 [Pub. L. 114–63, § 1][/us/pl/114/63/s1], Oct. 7, 2015, [129 Stat. 549][/us/stat/129/549], provided that: 
 
-> “This Act \[enacting and repealing provisions set out as notes under [section 1382a of this title][/us/usc/t42/s1382a]\] may be cited as the ‘Ensuring Access to Clinical Trials Act of 2015’.”
+> “This Act \[amending sections 1382a, 1382b, and 1396a of this title, enacting provisions set out as a note under [section 1382a of this title][/us/usc/t42/s1382a], amending provisions set out as notes under this section and [section 1382a of this title][/us/usc/t42/s1382a], and repealing provisions set out as a note under [section 1382a of this title][/us/usc/t42/s1382a]\] may be cited as the ‘Ensuring Access to Clinical Trials Act of 2015’.”
 
 [Pub. L. 114–42, § 1][/us/pl/114/42/s1], Aug. 6, 2015, [129 Stat. 468][/us/stat/129/468], provided that: 
 
@@ -111,9 +115,11 @@
 
 > “This Act \[amending sections 1320b–20 and 1320b–21 of this title and enacting provisions set out as a note under [section 1320b–20 of this title][/us/usc/t42/s1320b–20]\] may be cited as the ‘WIPA and PABSS Extension Act of 2010’.”
 
-[Pub. L. 111–255, § 1][/us/pl/111/255/s1], Oct. 5, 2010, [124 Stat. 2640][/us/stat/124/2640], provided that: 
+[Pub. L. 111–255, § 1][/us/pl/111/255/s1], Oct. 5, 2010, [124 Stat. 2640][/us/stat/124/2640], as amended by [Pub. L. 111–255, § 3(e)][/us/pl/111/255/s3/e], Oct. 5, 2010, [124 Stat. 2641][/us/stat/124/2641]; [Pub. L. 114–63, § 2][/us/pl/114/63/s2], Oct. 7, 2015, [129 Stat. 549][/us/stat/129/549], provided that: 
 
 > “This Act \[amending sections 1382a, 1382b, and 1396a of this title, enacting provisions set out as notes under [section 1382a of this title][/us/usc/t42/s1382a], and amending provisions set out as notes under sections 1382a, 1382b, and 1396a of this title\] may be cited as the ‘Improving Access to Clinical Trials Act of 2009’.”
+
+    \[[Section 3(e) of Pub. L. 111–255][/us/pl/111/255/s3/e], formerly set out as an Effective and Termination Dates of 2010 Amendment note under [section 1382a of this title][/us/usc/t42/s1382a], which repealed [section 1 of Pub. L. 111–255][/us/pl/111/255/s1], set out above, 5 years after Oct. 5, 2010, was itself repealed by [Pub. L. 114–63, § 2][/us/pl/114/63/s2], Oct. 7, 2015, [129 Stat. 549][/us/stat/129/549], effective as if included in [Pub. L. 111–255][/us/pl/111/255].\]
 
 [Pub. L. 111–152, § 1(a)][/us/pl/111/152/s1/a], Mar. 30, 2010, [124 Stat. 1029][/us/stat/124/1029], provided that: 
 
@@ -558,8 +564,13 @@
 
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F648
+[/us/pl/114/74/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs801
+[/us/stat/129/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F601
+[/us/usc/t2/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901
 [/us/pl/114/63/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F63%2Fs1
 [/us/stat/129/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F549
+[/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
+[/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
 [/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
 [/us/pl/114/42/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F42%2Fs1
 [/us/stat/129/468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F468
@@ -625,7 +636,17 @@
 [/us/usc/t42/s1320b–20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9320
 [/us/pl/111/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs1
 [/us/stat/124/2640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2640
+[/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
+[/us/stat/124/2641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2641
+[/us/pl/114/63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F63%2Fs2
+[/us/stat/129/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F549
 [/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
+[/us/pl/111/255/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs3%2Fe
+[/us/usc/t42/s1382a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382a
+[/us/pl/111/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255%2Fs1
+[/us/pl/114/63/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F63%2Fs2
+[/us/stat/129/549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F549
+[/us/pl/111/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F255
 [/us/pl/111/152/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1%2Fa
 [/us/stat/124/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1029
 [/us/pl/111/148/s6701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6701

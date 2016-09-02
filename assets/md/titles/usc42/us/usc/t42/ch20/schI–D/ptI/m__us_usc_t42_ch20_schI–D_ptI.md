@@ -17,7 +17,7 @@
 
 §§ 1973cc to 1973cc–3. __Repealed.__  __[__  __Pub. L. 99–410, title II, § 203__  __][/us/pl/99/410/s203]__  __,__  __Aug. 28, 1986__  __,__  __[__  __100 Stat. 930__  __][/us/stat/100/930]__ 
 
-    Section 1973cc, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title I, § 101, [69 Stat. 584][/us/stat/69/584]; June 18, 1968, [Pub. L. 90–343, § 1][/us/pl/90/343/s1], [82 Stat. 180][/us/stat/82/180]; Nov. 4, 1978, [Pub. L. 95–593, § 7][/us/pl/95/593/s7], [92 Stat. 2537][/us/stat/92/2537], related to State enactment of absentee voting legislation and to covered persons. See [section 1973ff–1 of this title][/us/usc/t42/s1973ff–1].
+    Section 1973cc, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title I, § 101, [69 Stat. 584][/us/stat/69/584]; June 18, 1968, [Pub. L. 90–343, § 1][/us/pl/90/343/s1], [82 Stat. 180][/us/stat/82/180]; Nov. 4, 1978, [Pub. L. 95–593, § 7][/us/pl/95/593/s7], [92 Stat. 2537][/us/stat/92/2537], related to State enactment of absentee voting legislation and to covered persons. See [section 20302 of Title 52][/us/usc/t52/s20302], Voting and Elections.
 
     Section 1973cc–1, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title I, § 102, [69 Stat. 584][/us/stat/69/584]; June 18, 1968, [Pub. L. 90–344, § 1(1)][/us/pl/90/344/s1/1], [82 Stat. 181][/us/stat/82/181]; Aug. 6, 1981, [Pub. L. 97–31, § 12(19)][/us/pl/97/31/s12/19], [95 Stat. 154][/us/stat/95/154], related to balloting procedures.
 
@@ -27,7 +27,7 @@
 
  __Effective Date of Repeal__ 
 
-    Repeal applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as an Effective Date note under [section 1973ff of this title][/us/usc/t42/s1973ff].
+    Repeal applicable with respect to elections taking place after Dec. 31, 1987, see [section 204 of Pub. L. 99–410][/us/pl/99/410/s204], set out as an Effective Date note under [section 20301 of Title 52][/us/usc/t52/s20301], Voting and Elections.
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/stat/82/180]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F180
 [/us/pl/95/593/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F593%2Fs7
 [/us/stat/92/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2537
-[/us/usc/t42/s1973ff–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%E2%80%931
+[/us/usc/t52/s20302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20302
 [/us/act/1955-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch656
 [/us/stat/69/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F584
 [/us/pl/90/344/s1/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F344%2Fs1%2F1
@@ -57,6 +57,6 @@
 [/us/pl/90/344/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F344%2Fs1%2F2
 [/us/stat/82/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F181
 [/us/pl/99/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs204
-[/us/usc/t42/s1973ff]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff
+[/us/usc/t52/s20301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301
 
 

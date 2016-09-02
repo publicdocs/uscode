@@ -17,13 +17,13 @@
 
 §§ 1973cc–11 to 1973cc–15. __Repealed.__  __[__  __Pub. L. 99–410, title II, § 203__  __][/us/pl/99/410/s203]__  __,__  __Aug. 28, 1986__  __,__  __[__  __100 Stat. 930__  __][/us/stat/100/930]__ 
 
-    Section 1973cc–11, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title II, § 201, [69 Stat. 585][/us/stat/69/585]; Dec. 21, 1982, [Pub. L. 97–375, title II, § 203(b)][/us/pl/97/375/s203/b], [96 Stat. 1823][/us/stat/96/1823], provided for designation of Presidential designee to coordinate and facilitate Federal responsibilities and to report to the President and Congress. See section 1973ff(a) and (b) of this title.
+    Section 1973cc–11, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title II, § 201, [69 Stat. 585][/us/stat/69/585]; Dec. 21, 1982, [Pub. L. 97–375, title II, § 203(b)][/us/pl/97/375/s203/b], [96 Stat. 1823][/us/stat/96/1823], provided for designation of Presidential designee to coordinate and facilitate Federal responsibilities and to report to the President and Congress. See section 20301(a) and (b) of Title 52, Voting and Elections.
 
     Section 1973cc–12, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title II, § 202, [69 Stat. 586][/us/stat/69/586]; Nov. 4, 1978, [Pub. L. 95–593, § 8][/us/pl/95/593/s8], [92 Stat. 2537][/us/stat/92/2537], related to acquisition and distribution by Presidential designee of current absentee voting information from each State.
 
-    Section 1973c–13, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title II, § 203, [69 Stat. 586][/us/stat/69/586]; June 18, 1968, [Pub. L. 90–344, § 1(3)][/us/pl/90/344/s1/3], [82 Stat. 181][/us/stat/82/181]; Nov. 4, 1978, [Pub. L. 95–593, § 9][/us/pl/95/593/s9], [92 Stat. 2538][/us/stat/92/2538], related to cooperation of Government officials, drafts of State legislation, and printing and transmitting of post cards. See [section 1973ff(c) of this title][/us/usc/t42/s1973ff/c].
+    Section 1973c–13, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title II, § 203, [69 Stat. 586][/us/stat/69/586]; June 18, 1968, [Pub. L. 90–344, § 1(3)][/us/pl/90/344/s1/3], [82 Stat. 181][/us/stat/82/181]; Nov. 4, 1978, [Pub. L. 95–593, § 9][/us/pl/95/593/s9], [92 Stat. 2538][/us/stat/92/2538], related to cooperation of Government officials, drafts of State legislation, and printing and transmitting of post cards. See [section 20301(c) of Title 52][/us/usc/t52/s20301/c], Voting and Elections.
 
-    Section 1973cc–14, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title II, § 204, [69 Stat. 586][/us/stat/69/586]; June 18, 1968, [Pub. L. 90–343, § 2][/us/pl/90/343/s2], [82 Stat. 181][/us/stat/82/181]; June 18, 1968, [Pub. L. 90–344, § 1(4)][/us/pl/90/344/s1/4]–(6), [82 Stat. 182][/us/stat/82/182]; Nov. 4, 1978, [Pub. L. 95–593, § 10][/us/pl/95/593/s10], [92 Stat. 2538][/us/stat/92/2538], related to form and content of post card application. See [section 1973ff(b)(2) of this title][/us/usc/t42/s1973ff/b/2].
+    Section 1973cc–14, acts [Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title II, § 204, [69 Stat. 586][/us/stat/69/586]; June 18, 1968, [Pub. L. 90–343, § 2][/us/pl/90/343/s2], [82 Stat. 181][/us/stat/82/181]; June 18, 1968, [Pub. L. 90–344, § 1(4)][/us/pl/90/344/s1/4]–(6), [82 Stat. 182][/us/stat/82/182]; Nov. 4, 1978, [Pub. L. 95–593, § 10][/us/pl/95/593/s10], [92 Stat. 2538][/us/stat/92/2538], related to form and content of post card application. See [section 20301(b)(2) of Title 52][/us/usc/t52/s20301/b/2], Voting and Elections.
 
     Section 1973cc–15, [act Aug. 9, 1955, ch. 656][/us/act/1955-08-09/ch656], title II, § 205, [69 Stat. 588][/us/stat/69/588], related to use of prior post card form for election of Members of Congress.
 
@@ -54,7 +54,7 @@
 [/us/stat/82/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F181
 [/us/pl/95/593/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F593%2Fs9
 [/us/stat/92/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2538
-[/us/usc/t42/s1973ff/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%2Fc
+[/us/usc/t52/s20301/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301%2Fc
 [/us/act/1955-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch656
 [/us/stat/69/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F586
 [/us/pl/90/343/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F343%2Fs2
@@ -63,7 +63,7 @@
 [/us/stat/82/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F182
 [/us/pl/95/593/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F593%2Fs10
 [/us/stat/92/2538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2538
-[/us/usc/t42/s1973ff/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1973ff%2Fb%2F2
+[/us/usc/t52/s20301/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20301%2Fb%2F2
 [/us/act/1955-08-09/ch656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-09%2Fch656
 [/us/stat/69/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F588
 [/us/pl/99/410/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F410%2Fs204

@@ -85,8 +85,6 @@
 
  __References in Text__ 
 
-    The customs laws of the United States, referred to in par. (7), are classified generally to Title 19, Customs Duties.
-
     The Federal Food, Drug, and Cosmetic Act, referred to in par. (8), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
 ----------

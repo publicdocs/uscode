@@ -59,7 +59,25 @@
 
         (7) Rules, regulations, or orders issued in order to carry out this subsection which have the applicability and effect of a rule as defined in [section 551(4) of title 5][/us/usc/t5/s551/4] shall not be subject to the requirements of subchapter II of chapter 5 of such title or to [section 6393 of this title][/us/usc/t42/s6393].
 
-        (8) The Secretary shall transmit to both Houses of the Congress a detailed explanation of the test carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under [section 6245 of this title][/us/usc/t42/s6245].
+        (8) __Notice to congress.—__ 
+
+            (A)  __Prior notice__  __.—__ 
+
+            Not less than 14 days before the date on which a test is carried out under this subsection, the Secretary shall notify both Houses of Congress of the test.
+
+            (B)  __Emergency__  __.—__ 
+
+            The prior notice requirement in subparagraph (A) shall not apply if the Secretary determines that an emergency exists which requires a test to be carried out, in which case the Secretary shall notify both Houses of Congress of the test as soon as possible.
+
+            (C) __Detailed description.—__ 
+
+                (i)  __In general__  __.—__ 
+
+                Not later than 180 days after the date on which a test is completed under this subsection, the Secretary shall submit to both Houses of Congress a detailed description of the test.
+
+                (ii)  __Report__  __.—__ 
+
+                A detailed description submitted under clause (i) may be included as part of a report made to the President and Congress under [section 6245 of this title][/us/usc/t42/s6245].
 
     (h) __Prevention or reduction of adverse impact of severe domestic energy supply interruptions__ 
 
@@ -209,13 +227,15 @@
 
             At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-([Pub. L. 94–163, title I, § 161][/us/pl/94/163/s161], Dec. 22, 1975, [89 Stat. 888][/us/stat/89/888]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 99–58, title I, § 103(a)][/us/pl/99/58/s103/a], (b)(2), July 2, 1985, [99 Stat. 103][/us/stat/99/103], 104; [Pub. L. 101–383][/us/pl/101/383], §§ 3(b), 8, 10, Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727], 735; [Pub. L. 102–486, title XIV, § 1401][/us/pl/102/486/s1401], Oct. 24, 1992, [106 Stat. 2993][/us/stat/106/2993]; [Pub. L. 105–388, § 9(a)][/us/pl/105/388/s9/a], Nov. 13, 1998, [112 Stat. 3482][/us/stat/112/3482]; [Pub. L. 106–469, title I, § 103(15)][/us/pl/106/469/s103/15], Nov. 9, 2000, [114 Stat. 2031][/us/stat/114/2031].)
+([Pub. L. 94–163, title I, § 161][/us/pl/94/163/s161], Dec. 22, 1975, [89 Stat. 888][/us/stat/89/888]; [Pub. L. 95–619, title VI, § 691(b)(2)][/us/pl/95/619/s691/b/2], Nov. 9, 1978, [92 Stat. 3288][/us/stat/92/3288]; [Pub. L. 99–58, title I, § 103(a)][/us/pl/99/58/s103/a], (b)(2), July 2, 1985, [99 Stat. 103][/us/stat/99/103], 104; [Pub. L. 101–383][/us/pl/101/383], §§ 3(b), 8, 10, Sept. 15, 1990, [104 Stat. 727][/us/stat/104/727], 735; [Pub. L. 102–486, title XIV, § 1401][/us/pl/102/486/s1401], Oct. 24, 1992, [106 Stat. 2993][/us/stat/106/2993]; [Pub. L. 105–388, § 9(a)][/us/pl/105/388/s9/a], Nov. 13, 1998, [112 Stat. 3482][/us/stat/112/3482]; [Pub. L. 106–469, title I, § 103(15)][/us/pl/106/469/s103/15], Nov. 9, 2000, [114 Stat. 2031][/us/stat/114/2031]; [Pub. L. 114–74, title IV, § 401(a)][/us/pl/114/74/s401/a], Nov. 2, 2015, [129 Stat. 588][/us/stat/129/588].)
 
  __References in Text__ 
 
     This chapter, referred to in subsec. (j)(6), (7)(A), was in the original “this Act”, meaning [Pub. L. 94–163][/us/pl/94/163], Dec. 22, 1975, [89 Stat. 871][/us/stat/89/871], as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under [section 6201 of this title][/us/usc/t42/s6201] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (g)(8). [Pub. L. 114–74][/us/pl/114/74] added par. (8) and struck out former par. (8) which read as follows: “The Secretary shall transmit to both Houses of the Congress a detailed explanation of the test carried out under this subsection. Such explanation may be a part of any report made to the President and the Congress under [section 6245 of this title][/us/usc/t42/s6245].”
 
     2000—[Pub. L. 106–469, § 103(15)(A)][/us/pl/106/469/s103/15/A], substituted “sale of petroleum products” for “distribution of the Reserve” in section catchline.
 
@@ -299,6 +319,38 @@
 
 >         “(B) section 501 of the Department of Energy Organization Act ([42 U.S.C. 7191][/us/usc/t42/s7191]).”
 
+ __Strategic Petroleum Reserve Drawdown and Sale__ 
+
+[Pub. L. 114–74, title IV, § 403][/us/pl/114/74/s403], Nov. 2, 2015, [129 Stat. 589][/us/stat/129/589], provided that:
+
+>     “(a)  __Drawdown and Sale__  __.—__ 
+
+>     Notwithstanding section 161 of the Energy Policy and Conservation Act ([42 U.S.C. 6241][/us/usc/t42/s6241]), except as provided in subsection (b), the Secretary of Energy shall draw down and sell—
+
+>         “(1) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2018;
+
+>         “(2) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2019;
+
+>         “(3) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2020;
+
+>         “(4) 5,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2021;
+
+>         “(5) 8,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2022;
+
+>         “(6) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2023;
+
+>         “(7) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2024; and
+
+>         “(8) 10,000,000 barrels of crude oil from the Strategic Petroleum Reserve during fiscal year 2025.
+
+>     “(b)  __Emergency Protection__  __.—__ 
+
+>     The Secretary shall not draw down and sell crude oil under this section in amounts that would limit the authority to sell petroleum products under section 161(h) of the Energy Policy and Conservation Act ([42 U.S.C. 6241(h)][/us/usc/t42/s6241/h]) in the full amount authorized by that subsection.
+
+>     “(c)  __Proceeds__  __.—__ 
+
+>     Proceeds from a sale under this section shall be deposited into the general fund of the Treasury during the fiscal year in which the sale occurs.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6240.md) | [Next](./../../../../../..//us/usc/t42/ch77/schI/ptB/m__us_usc_t42_s6242.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241)
@@ -330,9 +382,13 @@
 [/us/stat/112/3482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3482
 [/us/pl/106/469/s103/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15
 [/us/stat/114/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2031
+[/us/pl/114/74/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs401%2Fa
+[/us/stat/129/588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F588
 [/us/pl/94/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F163
 [/us/stat/89/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F871
 [/us/usc/t42/s6201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6201
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/usc/t42/s6245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6245
 [/us/pl/106/469/s103/15/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FA
 [/us/pl/106/469/s103/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FB
 [/us/pl/106/469/s103/15/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F469%2Fs103%2F15%2FC
@@ -370,5 +426,9 @@
 [/us/stat/112/3484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3484
 [/us/usc/t42/s6393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6393
 [/us/usc/t42/s7191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7191
+[/us/pl/114/74/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs403
+[/us/stat/129/589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F589
+[/us/usc/t42/s6241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241
+[/us/usc/t42/s6241/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6241%2Fh
 
 

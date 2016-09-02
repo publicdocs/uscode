@@ -61,19 +61,15 @@
 
         (3) in any case in which a regular course of renal dialysis is resumed subsequent to the termination of an earlier course, entitlement to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter shall begin with the month in which such regular course of renal dialysis is resumed.
 
-    (c)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “(d)”.__  __ </sup></sup> __  __Continuing eligibility of certain terminated individuals__ 
-
-        For purposes of this section, each person whose monthly insurance benefit for any month is terminated or is otherwise not payable solely by reason of paragraph (1) or (7) of section 425(c)  <sup>\[2\]</sup>  <sup><sup> 2 See References in Text note below. </sup></sup>  of this title shall be treated as entitled to such benefit for such month.
-
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 226A, as added [Pub. L. 95–292, § 1(a)][/us/pl/95/292/s1/a], June 13, 1978, [92 Stat. 307][/us/stat/92/307]; amended [Pub. L. 97–248, title II, § 278(b)(2)(C)][/us/pl/97/248/s278/b/2/C], Sept. 3, 1982, [96 Stat. 561][/us/stat/96/561]; [Pub. L. 97–448, title III, § 309(b)(1)][/us/pl/97/448/s309/b/1], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 99–272, title XIII, § 13205(b)(2)(B)][/us/pl/99/272/s13205/b/2/B], Apr. 7, 1986, [100 Stat. 317][/us/stat/100/317]; [Pub. L. 103–296, title II, § 201(a)(3)(D)(ii)][/us/pl/103/296/s201/a/3/D/ii], Aug. 15, 1994, [108 Stat. 1497][/us/stat/108/1497].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 226A, as added [Pub. L. 95–292, § 1(a)][/us/pl/95/292/s1/a], June 13, 1978, [92 Stat. 307][/us/stat/92/307]; amended [Pub. L. 97–248, title II, § 278(b)(2)(C)][/us/pl/97/248/s278/b/2/C], Sept. 3, 1982, [96 Stat. 561][/us/stat/96/561]; [Pub. L. 97–448, title III, § 309(b)(1)][/us/pl/97/448/s309/b/1], Jan. 12, 1983, [96 Stat. 2408][/us/stat/96/2408]; [Pub. L. 99–272, title XIII, § 13205(b)(2)(B)][/us/pl/99/272/s13205/b/2/B], Apr. 7, 1986, [100 Stat. 317][/us/stat/100/317]; [Pub. L. 103–296, title II, § 201(a)(3)(D)(ii)][/us/pl/103/296/s201/a/3/D/ii], Aug. 15, 1994, [108 Stat. 1497][/us/stat/108/1497]; [Pub. L. 114–74, title VIII, § 844(b)][/us/pl/114/74/s844/b], Nov. 2, 2015, [129 Stat. 617][/us/stat/129/617].)
 
  __References in Text__ 
 
     The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], as amended generally by [Pub. L. 93–445, title I, § 101][/us/pl/93/445/s101], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], which is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding [section 231 of Title 45][/us/usc/t45/s231], [section 231t of Title 45][/us/usc/t45/s231t], and Tables.
 
-    [Section 425(c) of this title][/us/usc/t42/s425/c], referred to in subsec. (c), was repealed by [Pub. L. 104–121, title I, § 105(a)(4)][/us/pl/104/121/s105/a/4], Mar. 29, 1996, [110 Stat. 853][/us/stat/110/853].
-
  __Amendments__ 
+
+    2015—Subsec. (c). [Pub. L. 114–74][/us/pl/114/74] struck out subsec. (c) relating to continuing eligibility of certain terminated individuals.
 
     1994—Subsec. (c). [Pub. L. 103–296][/us/pl/103/296] added subsec. (c) relating to continuing eligibility of certain terminated individuals.
 
@@ -136,14 +132,14 @@
 [/us/stat/100/317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F317
 [/us/pl/103/296/s201/a/3/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs201%2Fa%2F3%2FD%2Fii
 [/us/stat/108/1497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1497
+[/us/pl/114/74/s844/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs844%2Fb
+[/us/stat/129/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F617
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/pl/93/445/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2Fs101
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/usc/t45/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231
 [/us/usc/t45/s231t]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs231t
-[/us/usc/t42/s425/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs425%2Fc
-[/us/pl/104/121/s105/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F121%2Fs105%2Fa%2F4
-[/us/stat/110/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F853
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/103/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/97/448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F448

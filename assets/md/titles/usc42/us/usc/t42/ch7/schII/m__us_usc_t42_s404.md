@@ -51,9 +51,35 @@
 
             the amount of such payment in excess of the correct amount shall be treated as a payment of more than the correct amount to such other person. If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual’s death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.
 
-    (b) __No recovery from persons without fault__ 
+    (b) __Access to financial information for old-age, survivors, and disability insurance waivers__ 
 
-        In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience. In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
+        (1) In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience.
+
+        (2) In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).
+
+        (3)
+
+            (A) In making for purposes of this subsection any determination of whether such adjustment or recovery would defeat the purpose of this subchapter, the Commissioner of Social Security shall require an individual to provide authorization for the Commissioner to obtain (subject to the cost reimbursement requirements of section 1115(a) of the Right to Financial Privacy Act \[[12 U.S.C. 3415][/us/usc/t12/s3415]\]) from any financial institution (within the meaning of section 1101(1) of such Act \[[12 U.S.C. 3401(1)][/us/usc/t12/s3401/1]\]) any financial record (within the meaning of section 1101(2) of such Act \[[12 U.S.C. 3401(2)][/us/usc/t12/s3401/2]\]) held by the institution with respect to such individual whenever the Commissioner determines the record is needed in connection with a determination with respect to such adjustment or recovery.
+
+            (B)
+
+             Notwithstanding section 1104(a)(1) of the Right to Financial Privacy Act \[[12 U.S.C. 3404(a)(1)][/us/usc/t12/s3404/a/1]\], an authorization provided by an individual pursuant this paragraph shall remain effective until the earlier of—
+
+                (i) the rendering of a final decision on whether adjustment or recovery would defeat the purpose of this subchapter; or
+
+                (ii) the express revocation by the individual of the authorization, in a written notification to the Commissioner.
+
+            (C)
+
+                (i) An authorization obtained by the Commissioner of Social Security pursuant this paragraph shall be considered to meet the requirements of the Right to Financial Privacy Act \[[12 U.S.C. 3401][/us/usc/t12/s3401] et seq.\] for purposes of section 1103(a) of such Act \[[12 U.S.C. 3403(a)][/us/usc/t12/s3403/a]\], and need not be furnished to the financial institution, notwithstanding section 1104(a) of such Act \[[12 U.S.C. 3404(a)][/us/usc/t12/s3404/a]\].
+
+                (ii) The certification requirements of section 1103(b) of the Right to Financial Privacy Act \[[12 U.S.C. 3403(b)][/us/usc/t12/s3403/b]\] shall not apply to requests by the Commissioner of Social Security pursuant to an authorization provided under this paragraph.
+
+                (iii) A request by the Commissioner pursuant to an authorization provided under this paragraph is deemed to meet the requirements of section 1104(a)(3) of the Right to Financial Privacy Act \[[12 U.S.C. 3404(a)(3)][/us/usc/t12/s3404/a/3]\] and the flush language of section 1102 of such Act \[[12 U.S.C. 3402][/us/usc/t12/s3402]\].
+
+            (D) The Commissioner shall inform any person who provides authorization pursuant to this paragraph of the duration and scope of the authorization.
+
+            (E) If an individual refuses to provide, or revokes, any authorization for the Commissioner of Social Security to obtain from any financial institution any financial record, the Commissioner may, on that basis, determine that adjustment or recovery would not defeat the purpose of this subchapter.
 
     (c) __Nonliability of certifying and disbursing officers__ 
 
@@ -99,9 +125,15 @@
 
         For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see [section 1320b–17 of this title][/us/usc/t42/s1320b–17].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 204, [49 Stat. 624][/us/stat/49/624]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1368; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(b)(1), [64 Stat. 523][/us/stat/64/523]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 111(a), [68 Stat. 1085][/us/stat/68/1085]; [Pub. L. 89–97, title III, § 329][/us/pl/89/97/s329], July 30, 1965, [79 Stat. 401][/us/stat/79/401]; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 152, 153(a), 154(a), Jan. 2, 1968, [81 Stat. 860][/us/stat/81/860], 861; [Pub. L. 96–265, title V, § 501(b)][/us/pl/96/265/s501/b], June 9, 1980, [94 Stat. 470][/us/stat/94/470]; [Pub. L. 99–272, title XII, § 12113(a)][/us/pl/99/272/s12113/a], Apr. 7, 1986, [100 Stat. 288][/us/stat/100/288]; [Pub. L. 101–239, title X, § 10305(b)][/us/pl/101/239/s10305/b], Dec. 19, 1989, [103 Stat. 2483][/us/stat/103/2483]; [Pub. L. 101–508, title V, § 5129(a)][/us/pl/101/508/s5129/a], Nov. 5, 1990, [104 Stat. 1388–287][/us/stat/104/1388-287]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 103–387, § 5(a)][/us/pl/103/387/s5/a], Oct. 22, 1994, [108 Stat. 4077][/us/stat/108/4077]; [Pub. L. 104–134, title III, § 31001(z)(2)(A)][/us/pl/104/134/s31001/z/2/A], Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379]; [Pub. L. 104–316, title I, § 115(g)(2)(E)][/us/pl/104/316/s115/g/2/E], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–306, § 8(b)(1)][/us/pl/105/306/s8/b/1], Oct. 28, 1998, [112 Stat. 2929][/us/stat/112/2929]; [Pub. L. 106–169, title II][/us/pl/106/169], §§ 201(a), 203(c), Dec. 14, 1999, [113 Stat. 1831][/us/stat/113/1831], 1832; [Pub. L. 108–203, title II, § 210(b)(1)][/us/pl/108/203/s210/b/1], Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517]; [Pub. L. 111–115, § 2(a)][/us/pl/111/115/s2/a], Dec. 15, 2009, [123 Stat. 3029][/us/stat/123/3029].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 204, [49 Stat. 624][/us/stat/49/624]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1368; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(b)(1), [64 Stat. 523][/us/stat/64/523]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 111(a), [68 Stat. 1085][/us/stat/68/1085]; [Pub. L. 89–97, title III, § 329][/us/pl/89/97/s329], July 30, 1965, [79 Stat. 401][/us/stat/79/401]; [Pub. L. 90–248, title I][/us/pl/90/248], §§ 152, 153(a), 154(a), Jan. 2, 1968, [81 Stat. 860][/us/stat/81/860], 861; [Pub. L. 96–265, title V, § 501(b)][/us/pl/96/265/s501/b], June 9, 1980, [94 Stat. 470][/us/stat/94/470]; [Pub. L. 99–272, title XII, § 12113(a)][/us/pl/99/272/s12113/a], Apr. 7, 1986, [100 Stat. 288][/us/stat/100/288]; [Pub. L. 101–239, title X, § 10305(b)][/us/pl/101/239/s10305/b], Dec. 19, 1989, [103 Stat. 2483][/us/stat/103/2483]; [Pub. L. 101–508, title V, § 5129(a)][/us/pl/101/508/s5129/a], Nov. 5, 1990, [104 Stat. 1388–287][/us/stat/104/1388-287]; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478]; [Pub. L. 103–387, § 5(a)][/us/pl/103/387/s5/a], Oct. 22, 1994, [108 Stat. 4077][/us/stat/108/4077]; [Pub. L. 104–134, title III, § 31001(z)(2)(A)][/us/pl/104/134/s31001/z/2/A], Apr. 26, 1996, [110 Stat. 1321–379][/us/stat/110/1321-379]; [Pub. L. 104–316, title I, § 115(g)(2)(E)][/us/pl/104/316/s115/g/2/E], Oct. 19, 1996, [110 Stat. 3835][/us/stat/110/3835]; [Pub. L. 105–306, § 8(b)(1)][/us/pl/105/306/s8/b/1], Oct. 28, 1998, [112 Stat. 2929][/us/stat/112/2929]; [Pub. L. 106–169, title II][/us/pl/106/169], §§ 201(a), 203(c), Dec. 14, 1999, [113 Stat. 1831][/us/stat/113/1831], 1832; [Pub. L. 108–203, title II, § 210(b)(1)][/us/pl/108/203/s210/b/1], Mar. 2, 2004, [118 Stat. 517][/us/stat/118/517]; [Pub. L. 111–115, § 2(a)][/us/pl/111/115/s2/a], Dec. 15, 2009, [123 Stat. 3029][/us/stat/123/3029]; [Pub. L. 114–74, title VIII, § 834(a)][/us/pl/114/74/s834/a], Nov. 2, 2015, [129 Stat. 614][/us/stat/129/614].)
+
+ __References in Text__ 
+
+    The Right to Financial Privacy Act, referred to in subsec. (b)(3)(C)(i), probably means the Right to Financial Privacy Act of 1978, title XI of [Pub. L. 95–630][/us/pl/95/630], Nov. 10, 1978, [92 Stat. 3697][/us/stat/92/3697], which is classified generally to chapter 35 (§ 3401 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under [section 3401 of Title 12][/us/usc/t12/s3401] and Tables.
 
  __Amendments__ 
+
+    2015—Subsec. (b). [Pub. L. 114–74][/us/pl/114/74] amended subsec. (b) generally. Prior to amendment, text read as follows: “In any case in which more than the correct amount of payment has been made, there shall be no adjustment of payments to, or recovery by the United States from, any person who is without fault if such adjustment or recovery would defeat the purpose of this subchapter or would be against equity and good conscience. In making for purposes of this subsection any determination of whether any individual is without fault, the Commissioner of Social Security shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
 
     2009—Subsec. (a)(1)(B). [Pub. L. 111–115][/us/pl/111/115] designated existing provisions as cl. (i), substituted “Subject to clause (ii), with” for “With”, and added cls. (ii) and (iii).
 
@@ -146,6 +178,12 @@
     1950—Act Aug. 28, 1950, substituted “Administrator” for “board”.
 
     1939—Act Aug. 10, 1939, omitted former provisions relating to payments to aged individuals not qualified for benefits and substituted the present section relating to overpayments and underpayments.
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–74, title VIII, § 834(c)][/us/pl/114/74/s834/c], Nov. 2, 2015, [129 Stat. 615][/us/stat/129/615], provided that: 
+
+> “The amendments made by this section \[amending this section and [section 1383 of this title][/us/usc/t42/s1383]\] shall apply with respect to determinations made on or after the date that is 3 months after the date of the enactment of this section \[Nov. 2, 2015\].”
 
  __Effective Date of 2009 Amendment__ 
 
@@ -207,6 +245,16 @@
 
     [Act Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], provided that the amendment made by that section is effective Jan. 1, 1940.
 
+ __Report on Overpayment Waivers__ 
+
+[Pub. L. 114–74, title VIII, § 845(c)][/us/pl/114/74/s845/c], Nov. 2, 2015, [129 Stat. 619][/us/stat/129/619], provided that: 
+
+> “Not later than January 1 of each calendar year, the Commissioner of Social Security shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on—
+
+>     “(1) the number and total value of overpayments recovered or scheduled to be recovered by the Social Security Administration during the previous fiscal year of benefits under title II and title XVI \[probably means title II and title XVI of [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], which are classified to [42 U.S.C. 401][/us/usc/t42/s401] et seq. and [42 U.S.C. 1381][/us/usc/t42/s1381] et seq.\], respectively, including the terms and conditions of repayment of such overpayments; and
+
+>     “(2) the number and total value of overpayments waived by the Social Security Administration during the previous fiscal year of benefits under title II and title XVI, respectively.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t42/ch7/schII/m__us_usc_t42_s403.md) | [Next](./../../../../..//us/usc/t42/ch7/schII/m__us_usc_t42_s405.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs404)
@@ -219,6 +267,16 @@
 [/us/usc/t42/s402/x/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fx%2F1
 [/us/usc/t42/s402/x/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fx%2F1
 [/us/usc/t42/s402/x/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fx%2F1
+[/us/usc/t12/s3415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3415
+[/us/usc/t12/s3401/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F1
+[/us/usc/t12/s3401/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401%2F2
+[/us/usc/t12/s3404/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3404%2Fa%2F1
+[/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
+[/us/usc/t12/s3403/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3403%2Fa
+[/us/usc/t12/s3404/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3404%2Fa
+[/us/usc/t12/s3403/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3403%2Fb
+[/us/usc/t12/s3404/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3404%2Fa%2F3
+[/us/usc/t12/s3402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3402
 [/us/usc/t42/s1320a–6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320a%E2%80%936
 [/us/usc/t5/s5514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5514
 [/us/usc/t42/s1320b–17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320b%E2%80%9317
@@ -258,6 +316,12 @@
 [/us/stat/118/517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F517
 [/us/pl/111/115/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F115%2Fs2%2Fa
 [/us/stat/123/3029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3029
+[/us/pl/114/74/s834/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs834%2Fa
+[/us/stat/129/614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F614
+[/us/pl/95/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F630
+[/us/stat/92/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3697
+[/us/usc/t12/s3401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3401
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
 [/us/pl/111/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F115
 [/us/pl/108/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203
 [/us/usc/t42/s1382e/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1382e%2Fa
@@ -282,6 +346,9 @@
 [/us/pl/90/248/s152/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs152%2Fb
 [/us/pl/90/248/s154/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248%2Fs154%2Fa
 [/us/pl/89/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97
+[/us/pl/114/74/s834/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs834%2Fc
+[/us/stat/129/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F615
+[/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/pl/111/115/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F115%2Fs2%2Fc
 [/us/stat/123/3030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3030
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
@@ -323,5 +390,10 @@
 [/us/usc/t42/s402/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs402%2Fj%2F1
 [/us/act/1939-08-10/ch666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-08-10%2Fch666
 [/us/stat/53/1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1362
+[/us/pl/114/74/s845/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs845%2Fc
+[/us/stat/129/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F619
+[/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
+[/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
+[/us/usc/t42/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1381
 
 

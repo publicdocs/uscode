@@ -213,7 +213,7 @@
 
         (1) __Waiver authority__ 
 
-            The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), and 1396b(m)(2)(A)(iii) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
+            The Secretary may waive such requirements of subchapters XI and XVIII and of sections 1396a(a)(1), 1396a(a)(13), 1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section) of this title as may be necessary solely for purposes of carrying out this section with respect to testing models described in subsection (b).
 
         (2) __Limitations on review__ 
 
@@ -261,7 +261,7 @@
 
         Beginning in 2012, and not less than once every other year thereafter, the Secretary shall submit to Congress a report on activities under this section. Each such report shall describe the models tested under subsection (b), including the number of individuals described in subsection (a)(4)(A)(i) and of individuals described in subsection (a)(4)(A)(ii) participating in such models and payments made under applicable subchapters for services on behalf of such individuals, any models chosen for expansion under subsection (c), and the results from evaluations under subsection (b)(4). In addition, each such report shall provide such recommendations as the Secretary determines are appropriate for legislative action to facilitate the development and expansion of successful payment models.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1115A, as added and amended [Pub. L. 111–148, title III, § 3021(a)][/us/pl/111/148/s3021/a], title X, § 10306, Mar. 23, 2010, [124 Stat. 389][/us/stat/124/389], 939; [Pub. L. 114–10, title I, § 101(e)(4)][/us/pl/114/10/s101/e/4], Apr. 16, 2015, [129 Stat. 122][/us/stat/129/122].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XI, § 1115A, as added and amended [Pub. L. 111–148, title III, § 3021(a)][/us/pl/111/148/s3021/a], title X, § 10306, Mar. 23, 2010, [124 Stat. 389][/us/stat/124/389], 939; [Pub. L. 114–10, title I, § 101(e)(4)][/us/pl/114/10/s101/e/4], Apr. 16, 2015, [129 Stat. 122][/us/stat/129/122]; [Pub. L. 114–85, § 1][/us/pl/114/85/s1], Nov. 5, 2015, [129 Stat. 674][/us/stat/129/674].)
 
  __References in Text__ 
 
@@ -272,6 +272,8 @@
     2015—Subsec. (b)(2)(B)(xxi) to (xxiv). [Pub. L. 114–10, § 101(e)(4)(A)][/us/pl/114/10/s101/e/4/A], added cls. (xxi) to (xxiv).
 
     Subsec. (b)(2)(C)(viii). [Pub. L. 114–10, § 101(e)(4)(B)][/us/pl/114/10/s101/e/4/B], substituted “other public sector payers, private sector payers, or statewide payment models” for “other public sector or private sector payers”.
+
+    Subsec. (d)(1). [Pub. L. 114–85][/us/pl/114/85] substituted “1396b(m)(2)(A)(iii), and 1396u–4 (other than subsections (b)(1)(A) and (c)(5) of such section)” for “and 1396b(m)(2)(A)(iii)”.
 
     2010—Subsec. (a)(5). [Pub. L. 111–148, § 10306(1)][/us/pl/111/148/s10306/1], added par. (5).
 
@@ -355,10 +357,13 @@
 [/us/stat/124/389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F389
 [/us/pl/114/10/s101/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F4
 [/us/stat/129/122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F122
+[/us/pl/114/85/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F85%2Fs1
+[/us/stat/129/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F674
 [/us/pl/105/33/s4016]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs4016
 [/us/usc/t42/s1395b–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395b%E2%80%931
 [/us/pl/114/10/s101/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F4%2FA
 [/us/pl/114/10/s101/e/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F10%2Fs101%2Fe%2F4%2FB
+[/us/pl/114/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F85
 [/us/pl/111/148/s10306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F1
 [/us/pl/111/148/s10306/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F2%2FA
 [/us/pl/111/148/s10306/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10306%2F2%2FB

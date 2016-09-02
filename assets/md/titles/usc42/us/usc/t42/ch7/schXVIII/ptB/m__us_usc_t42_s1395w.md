@@ -43,6 +43,8 @@
 
         (3) a Government contribution equal to the amount of payment incentives payable under sections 1395w–4(o) and 1395w–23(l)(3) of this title.
 
+        In applying paragraph (1), the amounts transferred under subsection (d)(1) with respect to enrollees described in subparagraphs (A) and (B) of such subsection shall be treated as premiums payable and deposited in the Trust Fund under subparagraphs (A) and (B), respectively, of paragraph (1).
+
     (b) __Contingency reserve__ 
 
         In order to assure prompt payment of benefits provided under this part and the administrative expenses thereunder during the early months of the program established by this part, and to provide a contingency reserve, there is also authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated, to remain available through the calendar year 1969 for repayable advances (without interest) to the Trust Fund, an amount equal to $18 multiplied by the number of individuals (as estimated by the Secretary) who could be covered in July 1966 by the insurance program established by this part if they had theretofore enrolled under this part.
@@ -51,7 +53,23 @@
 
         The Secretary shall determine the Government contribution under subparagraphs (A) and (B) of subsection (a)(1) of this section without regard to any premium reduction resulting from an election under [section 1395w–24(f)(1)(E) of this title][/us/usc/t42/s1395w–24/f/1/E] or any credits provided under section 1395w–24(b)(1)(C)(iv)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title and without regard to any premium adjustment effected under sections 1395r(h) and 1395w–29(f)  <sup>\[1\]</sup>  of this title and without regard to any premium adjustment under [section 1395r(i) of this title][/us/usc/t42/s1395r/i].
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1844, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 313][/us/stat/79/313]; amended [Pub. L. 90–248, title I, § 167][/us/pl/90/248/s167], Jan. 2, 1968, [81 Stat. 874][/us/stat/81/874]; [Pub. L. 92–603, title II, § 203(e)][/us/pl/92/603/s203/e], Oct. 30, 1972, [86 Stat. 1377][/us/stat/86/1377]; [Pub. L. 97–248, title I, § 124(c)][/us/pl/97/248/s124/c], Sept. 3, 1982, [96 Stat. 364][/us/stat/96/364]; [Pub. L. 98–21, title VI, § 606(a)(3)(F)][/us/pl/98/21/s606/a/3/F], (G), Apr. 20, 1983, [97 Stat. 171][/us/stat/97/171]; [Pub. L. 98–369, div. B, title III, § 2354(b)(16)][/us/pl/98/369/s2354/b/16], July 18, 1984, [98 Stat. 1101][/us/stat/98/1101]; [Pub. L. 100–360, title II, § 211(c)(2)][/us/pl/100/360/s211/c/2], July 1, 1988, [102 Stat. 738][/us/stat/102/738]; [Pub. L. 101–234, title II, § 202(a)][/us/pl/101/234/s202/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 105–33, title IV, § 4571(b)(2)][/us/pl/105/33/s4571/b/2], Aug. 5, 1997, [111 Stat. 464][/us/stat/111/464]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 606(a)(2)(D)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–558; [Pub. L. 108–173, title II][/us/pl/108/173], §§ 222(l)(2)(C), 241(b)(2)(B), title VIII, § 811(b)(2), Dec. 8, 2003, [117 Stat. 2206][/us/stat/117/2206], 2221, 2368; [Pub. L. 111–5, div. B, title IV, § 4103(a)(2)][/us/pl/111/5/s4103/a/2], Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487].)
+    (d) __Transfer of certain General Fund amounts for 2016__ 
+
+        (1)
+
+         For 2016, there shall be transferred from the General Fund to the Trust Fund an amount, as estimated by the Chief Actuary of the Centers for Medicare & Medicaid Services, equal to the reduction in aggregate premiums payable under this part for a month in such year (excluding any changes in amounts collected under [section 1395r(i) of this title][/us/usc/t42/s1395r/i]) that is attributable to the application of [section 1395r(a)(5)(A) of this title][/us/usc/t42/s1395r/a/5/A] with respect to—
+
+            (A) enrollees age 65 and over; and
+
+            (B) enrollees under age 65.
+
+            Such amounts shall be transferred from time to time as appropriate.
+
+        (2) Premium increases affected under [section 1395r(a)(6) of this title][/us/usc/t42/s1395r/a/6] shall not be taken into account in applying subsection (a).
+
+        (3) There shall be transferred from the Trust Fund to the General Fund of the Treasury amounts equivalent to the additional premiums payable as a result of the application of [section 1395r(a)(6) of this title][/us/usc/t42/s1395r/a/6], excluding the aggregate payments attributable to the application of [section 1395r(i)(3)(A)(ii)(II) of this title][/us/usc/t42/s1395r/i/3/A/ii/II].
+
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1844, as added [Pub. L. 89–97, title I, § 102(a)][/us/pl/89/97/s102/a], July 30, 1965, [79 Stat. 313][/us/stat/79/313]; amended [Pub. L. 90–248, title I, § 167][/us/pl/90/248/s167], Jan. 2, 1968, [81 Stat. 874][/us/stat/81/874]; [Pub. L. 92–603, title II, § 203(e)][/us/pl/92/603/s203/e], Oct. 30, 1972, [86 Stat. 1377][/us/stat/86/1377]; [Pub. L. 97–248, title I, § 124(c)][/us/pl/97/248/s124/c], Sept. 3, 1982, [96 Stat. 364][/us/stat/96/364]; [Pub. L. 98–21, title VI, § 606(a)(3)(F)][/us/pl/98/21/s606/a/3/F], (G), Apr. 20, 1983, [97 Stat. 171][/us/stat/97/171]; [Pub. L. 98–369, div. B, title III, § 2354(b)(16)][/us/pl/98/369/s2354/b/16], July 18, 1984, [98 Stat. 1101][/us/stat/98/1101]; [Pub. L. 100–360, title II, § 211(c)(2)][/us/pl/100/360/s211/c/2], July 1, 1988, [102 Stat. 738][/us/stat/102/738]; [Pub. L. 101–234, title II, § 202(a)][/us/pl/101/234/s202/a], Dec. 13, 1989, [103 Stat. 1981][/us/stat/103/1981]; [Pub. L. 105–33, title IV, § 4571(b)(2)][/us/pl/105/33/s4571/b/2], Aug. 5, 1997, [111 Stat. 464][/us/stat/111/464]; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title VI, § 606(a)(2)(D)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–558; [Pub. L. 108–173, title II][/us/pl/108/173], §§ 222(l)(2)(C), 241(b)(2)(B), title VIII, § 811(b)(2), Dec. 8, 2003, [117 Stat. 2206][/us/stat/117/2206], 2221, 2368; [Pub. L. 111–5, div. B, title IV, § 4103(a)(2)][/us/pl/111/5/s4103/a/2], Feb. 17, 2009, [123 Stat. 487][/us/stat/123/487]; [Pub. L. 114–74, title VI, § 601(b)][/us/pl/114/74/s601/b], Nov. 2, 2015, [129 Stat. 595][/us/stat/129/595].)
 
  __References in Text__ 
 
@@ -60,6 +78,10 @@
     [Section 1395w–29 of this title][/us/usc/t42/s1395w–29], referred to in subsec. (c), was repealed by [Pub. L. 111–152, title I, § 1102(f)][/us/pl/111/152/s1102/f], Mar. 30, 2010, [124 Stat. 1046][/us/stat/124/1046].
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–74, § 601(b)(1)][/us/pl/114/74/s601/b/1], inserted concluding provisions.
+
+    Subsec. (d). [Pub. L. 114–74, § 601(b)(2)][/us/pl/114/74/s601/b/2], added subsec. (d).
 
     2009—Subsec. (a)(2), (3). [Pub. L. 111–5][/us/pl/111/5] in par. (2) substituted “; plus” for period at end and added par. (3).
 
@@ -137,6 +159,11 @@
 [/us/usc/t42/s1395r/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fi
 [/us/usc/t42/s1395w–24/f/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Ff%2F1%2FE
 [/us/usc/t42/s1395r/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fi
+[/us/usc/t42/s1395r/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fi
+[/us/usc/t42/s1395r/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fa%2F5%2FA
+[/us/usc/t42/s1395r/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fa%2F6
+[/us/usc/t42/s1395r/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fa%2F6
+[/us/usc/t42/s1395r/i/3/A/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395r%2Fi%2F3%2FA%2Fii%2FII
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/89/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F97%2Fs102%2Fa
 [/us/stat/79/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F313
@@ -162,6 +189,8 @@
 [/us/stat/117/2206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2206
 [/us/pl/111/5/s4103/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs4103%2Fa%2F2
 [/us/stat/123/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F487
+[/us/pl/114/74/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs601%2Fb
+[/us/stat/129/595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F595
 [/us/usc/t42/s1395w–24/b/1/C/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC%2Fiv
 [/us/usc/t42/s1395w–24/b/1/C/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9324%2Fb%2F1%2FC%2Fv
 [/us/pl/111/148/s3202/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs3202%2Fb%2F1%2FB
@@ -172,6 +201,8 @@
 [/us/usc/t42/s1395w–29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395w%E2%80%9329
 [/us/pl/111/152/s1102/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1102%2Ff
 [/us/stat/124/1046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1046
+[/us/pl/114/74/s601/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs601%2Fb%2F1
+[/us/pl/114/74/s601/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs601%2Fb%2F2
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/108/173/s811/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs811%2Fb%2F2%2FA%2Fi
 [/us/pl/108/173/s811/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173%2Fs811%2Fb%2F2%2FA%2Fii

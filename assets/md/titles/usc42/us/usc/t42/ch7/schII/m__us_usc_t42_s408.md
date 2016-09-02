@@ -47,11 +47,13 @@
 
             (B) with intent to deceive, falsely represents a number to be the social security account number assigned by the Commissioner of Social Security to him or to another person, when in fact such number is not the social security account number assigned by the Commissioner of Social Security to him or to such other person; or
 
-            (C) knowingly alters a social security card issued by the Commissioner of Social Security, buys or sells a card that is, or purports to be, a card so issued, counterfeits a social security card, or possesses a social security card or counterfeit social security card with intent to sell or alter it; or
+            (C) knowingly alters a social security card issued by the Commissioner of Social Security, buys or sells a card that is, or purports to be, a card so issued, counterfeits a social security card, or possesses a social security card or counterfeit social security card with intent to sell or alter it;
 
-        (8) discloses, uses, or compels the disclosure of the social security number of any person in violation of the laws of the United States;
+        (8) discloses, uses, or compels the disclosure of the social security number of any person in violation of the laws of the United States; or
 
-        shall be guilty of a felony and upon conviction thereof shall be fined under title 18 or imprisoned for not more than five years, or both.
+        (9) conspires to commit any offense described in any of paragraphs (1) through (4),
+
+        shall be guilty of a felony and upon conviction thereof shall be fined under title 18 or imprisoned for not more than five years, or both, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both.
 
     (b) __Restitution__ 
 
@@ -121,7 +123,7 @@
 
         (3) Paragraph (1) shall not apply with respect to any criminal conduct involving both the conduct described in subsection (a)(7) of this section to which paragraph (1) applies and any other criminal conduct if such other conduct would be criminal conduct if the conduct described in subsection (a)(7) of this section were not committed.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 208, [49 Stat. 625][/us/stat/49/625]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1372; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(c), [64 Stat. 523][/us/stat/64/523]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 111(b), [68 Stat. 1085][/us/stat/68/1085]; [Pub. L. 85–840, title III, § 310][/us/pl/85/840/s310], Aug. 28, 1958, [72 Stat. 1034][/us/stat/72/1034]; [Pub. L. 86–778, title II, § 211(m)][/us/pl/86/778/s211/m], Sept. 13, 1960, [74 Stat. 958][/us/stat/74/958]; [Pub. L. 92–603, title I, § 130(a)][/us/pl/92/603/s130/a], Oct. 30, 1972, [86 Stat. 1359][/us/stat/86/1359]; [Pub. L. 94–455, title XII, § 1211(a)][/us/pl/94/455/s1211/a], (d), Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711], 1712; [Pub. L. 97–123, § 4(a)][/us/pl/97/123/s4/a], (b), Dec. 29, 1981, [95 Stat. 1663][/us/stat/95/1663], 1664; [Pub. L. 98–369, div. B, title VI, § 2663(a)(5)][/us/pl/98/369/s2663/a/5], July 18, 1984, [98 Stat. 1162][/us/stat/98/1162]; [Pub. L. 98–460, § 16(c)(2)][/us/pl/98/460/s16/c/2], Oct. 9, 1984, [98 Stat. 1811][/us/stat/98/1811]; [Pub. L. 100–690, title VII, § 7088][/us/pl/100/690/s7088], Nov. 18, 1988, [102 Stat. 4409][/us/stat/102/4409]; [Pub. L. 101–508, title V][/us/pl/101/508], §§ 5121, 5130(a)(1), Nov. 5, 1990, [104 Stat. 1388–283][/us/stat/104/1388-283], 1388–289; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title III, § 321(a)(12), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1536; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 635(c)(2)(1), (2)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–117; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 213(a)(6)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–180; [Pub. L. 108–203, title II, § 209(a)][/us/pl/108/203/s209/a], Mar. 2, 2004, [118 Stat. 513][/us/stat/118/513].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 208, [49 Stat. 625][/us/stat/49/625]; [Aug. 10, 1939, ch. 666][/us/act/1939-08-10/ch666], title II, § 201, [53 Stat. 1362][/us/stat/53/1362], 1372; [Aug. 28, 1950, ch. 809][/us/act/1950-08-28/ch809], title I, § 109(c), [64 Stat. 523][/us/stat/64/523]; [Sept. 1, 1954, ch. 1206][/us/act/1954-09-01/ch1206], title I, § 111(b), [68 Stat. 1085][/us/stat/68/1085]; [Pub. L. 85–840, title III, § 310][/us/pl/85/840/s310], Aug. 28, 1958, [72 Stat. 1034][/us/stat/72/1034]; [Pub. L. 86–778, title II, § 211(m)][/us/pl/86/778/s211/m], Sept. 13, 1960, [74 Stat. 958][/us/stat/74/958]; [Pub. L. 92–603, title I, § 130(a)][/us/pl/92/603/s130/a], Oct. 30, 1972, [86 Stat. 1359][/us/stat/86/1359]; [Pub. L. 94–455, title XII, § 1211(a)][/us/pl/94/455/s1211/a], (d), Oct. 4, 1976, [90 Stat. 1711][/us/stat/90/1711], 1712; [Pub. L. 97–123, § 4(a)][/us/pl/97/123/s4/a], (b), Dec. 29, 1981, [95 Stat. 1663][/us/stat/95/1663], 1664; [Pub. L. 98–369, div. B, title VI, § 2663(a)(5)][/us/pl/98/369/s2663/a/5], July 18, 1984, [98 Stat. 1162][/us/stat/98/1162]; [Pub. L. 98–460, § 16(c)(2)][/us/pl/98/460/s16/c/2], Oct. 9, 1984, [98 Stat. 1811][/us/stat/98/1811]; [Pub. L. 100–690, title VII, § 7088][/us/pl/100/690/s7088], Nov. 18, 1988, [102 Stat. 4409][/us/stat/102/4409]; [Pub. L. 101–508, title V][/us/pl/101/508], §§ 5121, 5130(a)(1), Nov. 5, 1990, [104 Stat. 1388–283][/us/stat/104/1388-283], 1388–289; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title III, § 321(a)(12), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1536; [Pub. L. 106–553, § 1(a)(2)][/us/pl/106/553/s1/a/2] \[title VI, § 635(c)(2)(1), (2)\], Dec. 21, 2000, [114 Stat. 2762][/us/stat/114/2762], 2762A–117; [Pub. L. 106–554, § 1(a)(4)][/us/pl/106/554/s1/a/4] \[div. A, § 213(a)(6)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–180; [Pub. L. 108–203, title II, § 209(a)][/us/pl/108/203/s209/a], Mar. 2, 2004, [118 Stat. 513][/us/stat/118/513]; [Pub. L. 114–74, title VIII, § 813(a)(1)][/us/pl/114/74/s813/a/1], (b)(1), Nov. 2, 2015, [129 Stat. 602][/us/stat/129/602], 603.)
 
  __References in Text__ 
 
@@ -138,6 +140,10 @@
     Section 202 of the Immigration Reform and Control Act of 1986, referred to in subsec. (e)(1)(B)(i), is [section 202 of Pub. L. 99–603][/us/pl/99/603/s202], which is set out as a note under [section 1255a of Title 8][/us/usc/t8/s1255a].
 
  __Amendments__ 
+
+    2015—Subsec. (a). [Pub. L. 114–74, § 813(b)(1)][/us/pl/114/74/s813/b/1], inserted before period at end of concluding provisions “, except that in the case of a person who receives a fee or other income for services performed in connection with any determination with respect to benefits under this subchapter (including a claimant representative, translator, or current or former employee of the Social Security Administration), or who is a physician or other health care provider who submits, or causes the submission of, medical or other evidence in connection with any such determination, such person shall be guilty of a felony and upon conviction thereof shall be fined under title 18, or imprisoned for not more than ten years, or both”.
+
+    Subsec. (a)(9). [Pub. L. 114–74, § 813(a)(1)][/us/pl/114/74/s813/a/1], added par. (9).
 
     2004—Subsec. (b). [Pub. L. 108–203, § 209(a)(2)][/us/pl/108/203/s209/a/2], added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -285,6 +291,8 @@
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/pl/108/203/s209/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fa
 [/us/stat/118/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F513
+[/us/pl/114/74/s813/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fa%2F1
+[/us/stat/129/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F602
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F3
 [/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
@@ -298,6 +306,8 @@
 [/us/usc/t8/s1255a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255a
 [/us/pl/99/603/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs202
 [/us/usc/t8/s1255a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255a
+[/us/pl/114/74/s813/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fb%2F1
+[/us/pl/114/74/s813/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs813%2Fa%2F1
 [/us/pl/108/203/s209/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fa%2F2
 [/us/pl/108/203/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fa%2F1
 [/us/pl/108/203/s209/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F203%2Fs209%2Fa%2F1
