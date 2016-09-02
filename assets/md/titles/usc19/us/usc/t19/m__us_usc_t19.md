@@ -15,7 +15,7 @@
 
 # Title 19—CUSTOMS DUTIES
 
-Current through 113-52
+Current through 113-56
 
 <table>
 

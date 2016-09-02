@@ -15,7 +15,7 @@
 
 # Title 26—INTERNAL REVENUE CODE
 
-Current through 113-52
+Current through 113-56
 
  __[__  __Act Aug. 16, 1954, ch. 736__  __][/us/act/1954-08-16/ch736]__  __,__  __[__  __68A Stat. 3__  __][/us/stat/68A/3]__ 
 
