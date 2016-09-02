@@ -145,7 +145,7 @@
 
  __Popcorn Acreage__ 
 
-    [Pub. L. 108–7, div. A, title VII, § 767][/us/pl/108/7/s767], Feb. 20, 2003, 117 Stat. formerly set out as a note under this section, was transferred and is set out as a note under [section 9011 of this title][/us/usc/t7/s9011].
+    [Pub. L. 108–7, div. A, title VII, § 767][/us/pl/108/7/s767], Feb. 20, 2003, [117 Stat. 48][/us/stat/117/48], formerly set out as a note under this section, was transferred and is set out as a note under [section 9011 of this title][/us/usc/t7/s9011].
 
 ----------
 
@@ -168,6 +168,7 @@
 [/us/stat/99/1354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1354
 [/us/usc/t7/s1281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1281
 [/us/pl/108/7/s767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs767
+[/us/stat/117/48]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F48
 [/us/usc/t7/s9011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9011
 
 

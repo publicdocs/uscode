@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649], which is classified principally to this chapter. For complete classification of this title to the Code, see Tables.
+    This chapter, referred to in subsec. (a), was in the original “this title”, meaning title I of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 ----------
 

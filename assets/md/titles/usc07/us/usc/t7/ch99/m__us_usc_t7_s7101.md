@@ -77,7 +77,7 @@
 
 >             “(A)
 
->              To each eligible manufacturer under paragraph (3) of section 4002(c) of the Wool Suit and Textile Trade Extension Act of 2004 ([Public Law 108–429][/us/pl/108/429]; [118 Stat. 2600][/us/stat/118/2600] \[2603\]), as amended by section 1633(c) \[1633(b)\] of the Miscellaneous Trade and Technical Corrections Act of 2006 ([Public Law 109–280][/us/pl/109/280]; [120 Stat. 1166][/us/stat/120/1166]) and section 325(b) of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 (division C of [Public Law 110–343][/us/pl/110/343]; [122 Stat. 3875][/us/stat/122/3875]), and any successor-in-interest to such a manufacturer as provided for under paragraph (4) of such section 4002(c) \[[118 Stat. 2603][/us/stat/118/2603]\], that submits an affidavit in accordance with paragraph (2) for the year of the payment—
+>              To each eligible manufacturer under paragraph (3) of section 4002(c) of the Wool Suit and Textile Trade Extension Act of 2004 ([Public Law 108–429][/us/pl/108/429]; [118 Stat. 2600][/us/stat/118/2600] \[2603\]), as amended by section 1633(c) \[1633(b)(1)\] of the Miscellaneous Trade and Technical Corrections Act of 2006 ([Public Law 109–280][/us/pl/109/280]; [120 Stat. 1166][/us/stat/120/1166]) and section 325(b) of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008 (division C of [Public Law 110–343][/us/pl/110/343]; [122 Stat. 3875][/us/stat/122/3875]), and any successor-in-interest to such a manufacturer as provided for under paragraph (4) of such section 4002(c) \[[118 Stat. 2603][/us/stat/118/2603]\], that submits an affidavit in accordance with paragraph (2) for the year of the payment—
 
 >                 “(i) for calendar years 2010 through 2015, payments that, when added to any other payments made to the manufacturer or successor-in-interest under paragraph (3) of such section 4002(c) in such calendar years, equal the total amount of payments authorized to be provided to the manufacturer or successor-in-interest under that paragraph, or the provisions of this section, in such calendar years; and
 
@@ -97,7 +97,7 @@
 
 >             “(A) in each of calendar years 2010 through 2015, to the Commissioner responsible for U.S. Customs and Border Protection not later than April 15; and
 
->             “(B) in each of calendar years 2016 through 2019, to the Secretary, or as directed by the Secretary, and not later than March 1.
+>             “(B) in each of calendar years 2016 through 2019, to the Secretary \[of Agriculture\], or as directed by the Secretary, and not later than March 1.
 
 >     “(c)  __Payment of Amounts__  __.—__ 
 
@@ -109,13 +109,13 @@
 
 >     “(d)  __Memoranda of Understanding__  __.—__ 
 
->     The Secretary shall, as soon as practicable after the date of the enactment of this Act \[Feb. 7, 2014\], negotiate memoranda of understanding with the Commissioner responsible for U.S. Customs and Border Protection and the Secretary of Commerce to establish procedures pursuant to which the Commissioner and the Secretary of Commerce will assist in carrying out the provisions of this section.
+>     The Secretary \[of Agriculture\] shall, as soon as practicable after the date of the enactment of this Act \[Feb. 7, 2014\], negotiate memoranda of understanding with the Commissioner responsible for U.S. Customs and Border Protection and the Secretary of Commerce to establish procedures pursuant to which the Commissioner and the Secretary of Commerce will assist in carrying out the provisions of this section.
 
 >     “(e) __Increase in Payments in the Event of Expiration of Duty Suspensions.—__ 
 
 >         “(1)  __In general__  __.—__ 
 
->         In any calendar year in which the suspension of duty on wool fabrics provided for under headings 9902.51.11, 9902.51.13, 9902.51.14, 9902.51.15, and 9902.51.16 of the Harmonized Tariff Schedule of the United States are not in effect, the amount of any payment described in subsection (b)(1) to a manufacturer or successor-in-interest shall be increased by an amount the Secretary, after consultation with the Secretary of Commerce, determines is equal to the amount the manufacturer or successor-in-interest would have saved during the calendar year of the payment if the suspension of duty on wool fabrics were in effect.
+>         In any calendar year in which the suspension of duty on wool fabrics provided for under headings 9902.51.11, 9902.51.13, 9902.51.14, 9902.51.15, and 9902.51.16 of the Harmonized Tariff Schedule of the United States are not in effect, the amount of any payment described in subsection (b)(1) to a manufacturer or successor-in-interest shall be increased by an amount the Secretary \[of Agriculture\], after consultation with the Secretary of Commerce, determines is equal to the amount the manufacturer or successor-in-interest would have saved during the calendar year of the payment if the suspension of duty on wool fabrics were in effect.
 
 >         “(2)  __No appeal of determinations__  __.—__ 
 
@@ -141,7 +141,7 @@
 
 >     “(a)  __In General__  __.—__ 
 
->     Of the funds of the Commodity Credit Corporation, the Secretary \[of Agriculture\] shall use to provide grants described in section 506(d) of the Trade and Development Act of 2000 \[[Pub. L. 106–200][/us/pl/106/200]\] ([7 U.S.C. 7101][/us/usc/t7/s7101] note) $2,250,000 for each of calendar years 2015 through 2019, to remain available until expended.
+>     Of the funds of the Commodity Credit Corporation, the Secretary \[of Agriculture\] shall use to provide grants described in section 506(d) of the Trade and Development Act of 2000 ([7 U.S.C. 7101][/us/usc/t7/s7101] note) \[[section 506(d) of Pub. L. 106–200][/us/pl/106/200/s506/d]\] $2,250,000 for each of calendar years 2015 through 2019, to remain available until expended.
 
 >     “(b)  __Authorization to Distribute Unexpended Balance__  __.—__ 
 
@@ -222,8 +222,8 @@
 [/us/stat/118/2603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2603
 [/us/pl/113/79/s12316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs12316
 [/us/stat/128/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F997
-[/us/pl/106/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200
 [/us/usc/t7/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7101
+[/us/pl/106/200/s506/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs506%2Fd
 [/us/usc/t7/s7101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7101
 [/us/pl/106/200/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F200%2Fs506
 [/us/stat/114/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F303

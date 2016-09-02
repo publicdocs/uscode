@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    This title and title II, referred to in text, are titles I and II of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649], known as the Agricultural Act of 2014. Title I of the Act is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title][/us/usc/t7/s9001] and Tables.
+    This title and title II, referred to in subsec. (a), are titles I and II of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658], 713. Title I of the Act is classified principally to this chapter. Title II of the Act enacted, amended, and repealed numerous sections and provisions set out as notes in Title 16, Conservation, and Title 43, Public Lands. For complete classification of titles I and II to the Code, see Tables.
 
 ----------
 
@@ -49,7 +49,6 @@
 [/us/pl/113/79/s1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1613
 [/us/stat/128/710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F710
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
-[/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
-[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 
 

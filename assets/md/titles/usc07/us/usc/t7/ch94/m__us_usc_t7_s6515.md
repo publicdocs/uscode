@@ -75,13 +75,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c). [Pub. L. 113–79, § 10005(b)(1)(A)][/us/pl/113/79/s10005/b/1/A], (B), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to maintenance of, access to, and transference of records of certifying agents.
-
-    Subsec. (d). [Pub. L. 113–79, § 10005(b)(1)(C)][/us/pl/113/79/s10005/b/1/C], substituted “subsection (c)” for “subsection (d)” in introductory provisions.
-
-    [Pub. L. 113–79, § 10005(b)(1)(B)][/us/pl/113/79/s10005/b/1/B], redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
-
-    Subsecs. (e) to (i). [Pub. L. 113–79, § 10005(b)(1)(B)][/us/pl/113/79/s10005/b/1/B], redesignated subsecs. (f) to (j) as (e) to (i), respectively. Former subsec. (e) redesignated (d).
+    2014—Subsecs. (c) to (i). [Pub. L. 113–79][/us/pl/113/79] redesignated subsecs. (d) to (j) as (c) to (i), respectively, substituted “subsection (c)” for “subsection (d)” in introductory provisions of subsec. (d), and struck out former subsec. (c) which related to maintenance of, access to, and transference of records of certifying agents.
 
     1991—Subsec. (j)(2). [Pub. L. 102–237][/us/pl/102/237] substituted “such certifying” for “certifying such”.
 
@@ -100,10 +94,7 @@
 [/us/stat/105/1893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1893
 [/us/pl/113/79/s10005/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1
 [/us/stat/128/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F944
-[/us/pl/113/79/s10005/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1%2FA
-[/us/pl/113/79/s10005/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1%2FC
-[/us/pl/113/79/s10005/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1%2FB
-[/us/pl/113/79/s10005/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10005%2Fb%2F1%2FB
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/102/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F237
 
 

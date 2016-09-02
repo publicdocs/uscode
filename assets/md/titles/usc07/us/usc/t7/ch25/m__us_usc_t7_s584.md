@@ -35,7 +35,7 @@
 
 [Pub. L. 113–79, title X, § 10009(c)][/us/pl/113/79/s10009/c], Feb. 7, 2014, [128 Stat. 949][/us/stat/128/949], provided that: 
 
-> “Not later than 60 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary shall issue regulations to carry out the amendments made by this section \[amending this section and [section 589 of this title][/us/usc/t7/s589]\].”
+> “Not later than 60 days after the date of enactment of this Act \[Feb. 7, 2014\], the Secretary \[of Agriculture\] shall issue regulations to carry out the amendments made by this section \[amending this section and [section 589 of this title][/us/usc/t7/s589]\].”
 
 ----------
 

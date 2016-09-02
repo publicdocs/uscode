@@ -157,7 +157,7 @@
 
             (B) $2,000,000 for each of fiscal years 2014 through 2018.
 
-([Pub. L. 103–354, title II, § 226B][/us/pl/103/354/s226B], as added [Pub. L. 110–234, title XIV, § 14013(a)][/us/pl/110/234/s14013/a], May 22, 2008, [122 Stat. 1450][/us/stat/122/1450], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14013(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2212; [Pub. L. 113–79, title XII, § 12202][/us/pl/113/79/s12202], Feb. 7, 2014, [128 Stat. 984][/us/stat/128/984].)
+([Pub. L. 103–354, title II, § 226B][/us/pl/103/354/s226B], as added [Pub. L. 110–234, title XIV, § 14013(a)][/us/pl/110/234/s14013/a], May 22, 2008, [122 Stat. 1450][/us/stat/122/1450], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title XIV, § 14013(a), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2212; amended [Pub. L. 113–79, title XII, § 12202][/us/pl/113/79/s12202], Feb. 7, 2014, [128 Stat. 984][/us/stat/128/984].)
 
  __References in Text__ 
 

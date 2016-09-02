@@ -17,7 +17,7 @@
 
     (a) __Maintenance of base acres and payment yields__ 
 
-        The Secretary shall maintain, for each covered commodity and upland cotton, base acres and payment yields on a farm established under sections 8702, 8751 of this title, as adjusted pursuant to sections U.S.C. 8711, 8712, 8718, and 8752 of this title, as in effect on September 30, 2013.
+        The Secretary shall maintain, for each covered commodity and upland cotton, base acres and payment yields on a farm established under sections 8702 and 8751 of this title, as adjusted pursuant to sections 8711, 8712, 8718, and 8752 of this title, as in effect on September 30, 2013.
 
     (b) __Streamlining__ 
 
@@ -85,11 +85,15 @@
 
  __References in Text__ 
 
-    This chapter, referred to in subsecs. (b) and (c), was in the original “this title”, meaning title I of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658], which is classified principally to this chapter. For complete classification of this title to the Code, see Tables.
+    This chapter, referred to in subsecs. (b) and (c), was in the original “this title”, meaning title I of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658], which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+
+    Subchapter I of this chapter, referred to in subsec. (c)(3)(A), (B)(ii)(II), was in the original a reference to subtitle A of this title, meaning subtitle A (§ 1101 et seq.) of title I of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 658][/us/stat/128/658], which is classified principally to subchapter I (§ 9011 et seq.) of this chapter. For complete classification of subtitle A to the Code, see Tables.
 
     This Act, referred to in subsec. (c)(3)(B)(i), is [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 649][/us/stat/128/649], known as the Agricultural Act of 2014. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title][/us/usc/t7/s9001] and Tables.
 
-    Subtitles B and C of this title, referred to in subsec. (d), are subtitles B and C of title I of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 674][/us/stat/128/674]. Subtitle B of title I is classified generally to subchapter II (§ 9031 et seq.) of this chapter. Subtitle C of title I, comprising [section 1301 of Pub. L. 113–79][/us/pl/113/79/s1301], amended sections 1359bb, 1359ll, and 7272 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 9001 of this title][/us/usc/t7/s9001] and Tables.
+    Subtitles B and C of this title, referred to in subsec. (d), are subtitles B (§ 1201 et seq.) and C (§ 1301) of title I of [Pub. L. 113–79][/us/pl/113/79], Feb. 7, 2014, [128 Stat. 674][/us/stat/128/674], 687. Subtitle B of title I is classified generally to subchapter II (§ 9031 et seq.) of this chapter. Subtitle C of title I amended sections 1359bb, 1359ll, and 7272 of this title. For complete classification of subtitles B and C to the Code, see Tables.
+
+    [Section 901(a) of title 2][/us/usc/t2/s901/a], referred to in subsec. (d)(1), was in the original “[2 U.S.C. 901(a)][/us/usc/t2/s901/a]”, but probably should have been a reference to section 251(a) of the Balanced Budget and Emergency Deficit Control Act of 1985, title II of [Pub. L. 99–177][/us/pl/99/177], which is classified to [section 901(a) of Title 2][/us/usc/t2/s901/a], The Congress.
 
 ----------
 
@@ -105,11 +109,15 @@
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
+[/us/stat/128/658]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F658
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F649
 [/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
 [/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/stat/128/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F674
-[/us/pl/113/79/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1301
-[/us/usc/t7/s9001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs9001
+[/us/usc/t2/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fa
+[/us/usc/t2/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fa
+[/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
+[/us/usc/t2/s901/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fa
 
 

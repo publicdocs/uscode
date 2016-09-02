@@ -129,7 +129,7 @@
 
     Subsec. (g). [Pub. L. 113–79, § 10003(5)][/us/pl/113/79/s10003/5], redesignated subsec. (e) as (g).
 
-    Subsec. (g)(1). [Pub. L. 113–79, § 10003(7)(A)(i)][/us/pl/113/79/s10003/7/A/i], substituted “Mandatory funding” for “Fiscal years 2008 through 2012” in par. heading.
+    Subsec. (g)(1). [Pub. L. 113–79, § 10003(7)(A)(i)][/us/pl/113/79/s10003/7/A/i], substituted “Mandatory funding” for “Fiscal years 2008 through 2012” in heading.
 
     Subsec. (g)(1)(D). [Pub. L. 113–79, § 10003(7)(A)(ii)][/us/pl/113/79/s10003/7/A/ii]–(iv), added subpar. (D).
 

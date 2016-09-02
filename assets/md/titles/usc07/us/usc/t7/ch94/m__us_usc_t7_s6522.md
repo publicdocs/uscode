@@ -55,7 +55,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b)(5) to (7). [Pub. L. 113–79, § 10004(b)(1)][/us/pl/113/79/s10004/b/1], struck out “and” at end of par. (5), added par. (6), and redesignated former par. (6) as (7).
+    2014—Subsec. (b)(6), (7). [Pub. L. 113–79, § 10004(b)(1)][/us/pl/113/79/s10004/b/1], added par. (6) and redesignated former par. (6) as (7).
 
     Subsec. (c). [Pub. L. 113–79, § 10004(b)(2)][/us/pl/113/79/s10004/b/2], added subsec. (c).
 

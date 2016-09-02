@@ -105,7 +105,7 @@
 
 >     “(e)  __Filing Deadline for Affidavits__  __.—__ 
 
->     Any person required to provide an affidavit under this section shall file the affidavit with the Secretary or as directed by the Secretary—
+>     Any person required to provide an affidavit under this section shall file the affidavit with the Secretary \[of Agriculture\] or as directed by the Secretary—
 
 >         “(1) in the case of an affidavit required for calendar year 2014, not later than 60 days after the date of the enactment of this Act \[Feb. 7, 2014\]; and
 
@@ -127,7 +127,7 @@
 
 >     “(g)  __Memorandum of Understanding__  __.—__ 
 
->     The Secretary and the Commissioner responsible for U.S. Customs and Border Protection shall, as soon as practicable after the date of the enactment of this Act \[Feb. 7, 2014\], negotiate a memorandum of understanding to establish procedures pursuant to which the Commissioner will assist the Secretary in carrying out the provisions of this section.
+>     The Secretary \[of Agriculture\] and the Commissioner responsible for U.S. Customs and Border Protection shall, as soon as practicable after the date of the enactment of this Act \[Feb. 7, 2014\], negotiate a memorandum of understanding to establish procedures pursuant to which the Commissioner will assist the Secretary in carrying out the provisions of this section.
 
 >     “(h)  __Funding__  __.—__ 
 

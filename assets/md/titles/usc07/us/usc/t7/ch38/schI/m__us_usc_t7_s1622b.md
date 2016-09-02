@@ -53,7 +53,7 @@
 
 [Pub. L. 110–234, title X, § 10001][/us/pl/110/234/s10001], May 22, 2008, [122 Stat. 1335][/us/stat/122/1335], and [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title X, § 10001, June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2096, provided that: 
 
-> “In this title \[enacting this section, sections 1622c, 7655a, 7721, and 7761 of this title, and [section 2104a of Title 16][/us/usc/t16/s2104a], Conservation, amending sections 608e–1, 1622, 2204g, 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under [section 1621 of this title][/us/usc/t7/s1621]\]:
+> “In this title \[enacting this section, former section 1622c, sections 7655a, 7721, and former [section 7761 of this title][/us/usc/t7/s7761], and [section 2104a of Title 16][/us/usc/t16/s2104a], Conservation, amending sections 608e–1, 1622, 2204g, 3005, 4606, 5925c, 6104, 6522, 6523, 7715, 7733, 7734, 7751, and 7772 of this title, enacting provisions set out as notes under sections 608c, 1622, and 7701 of this title, and amending provisions set out as a note under [section 1621 of this title][/us/usc/t7/s1621]\]:
 
 >     “(1)  __Specialty crop__  __.—__ 
 
@@ -94,6 +94,7 @@
 [/us/stat/122/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1335
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
+[/us/usc/t7/s7761]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs7761
 [/us/usc/t16/s2104a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs2104a
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621
 [/us/usc/t7/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1621

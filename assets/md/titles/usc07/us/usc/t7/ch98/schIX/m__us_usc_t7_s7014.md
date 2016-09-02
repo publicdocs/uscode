@@ -45,13 +45,13 @@
 
         (7) The authority of the Secretary to establish in the Department the Office of Advocacy and Outreach in accordance with [section 6934 of this title][/us/usc/t7/s6934].
 
-        (8) The authority of the Secretary to carry out amendments made to this title by the Agricultural Act of 2014.
+        (8) The authority of the Secretary to carry out amendments made to this chapter by the Agricultural Act of 2014.
 
 ([Pub. L. 103–354, title II, § 296][/us/pl/103/354/s296], Oct. 13, 1994, [108 Stat. 3238][/us/stat/108/3238]; [Pub. L. 105–277, div. A, § 101(a)][/us/pl/105/277/s101/a] \[title X, § 1001(4)\], Oct. 21, 1998, [112 Stat. 2681][/us/stat/112/2681], 2681–42; [Pub. L. 107–171, title X, § 10704(c)][/us/pl/107/171/s10704/c], May 13, 2002, [116 Stat. 518][/us/stat/116/518]; [Pub. L. 110–234, title VII, § 7511(b)][/us/pl/110/234/s7511/b], title XIV, § 14013(b), May 22, 2008, [122 Stat. 1267][/us/stat/122/1267], 1453; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title VII, § 7511(b), title XIV, § 14013(b), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 2028, 2215; [Pub. L. 113–79, title I, § 1610(b)][/us/pl/113/79/s1610/b], Feb. 7, 2014, [128 Stat. 710][/us/stat/128/710].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of [Pub. L. 103–354][/us/pl/103/354], Oct. 13, 1994, [108 Stat. 3209][/us/stat/108/3209], known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t7/s6901] and Tables.
+    This chapter, referred to in subsecs. (a) and (b)(8), was in the original “this title”, meaning title II of [Pub. L. 103–354][/us/pl/103/354], Oct. 13, 1994, [108 Stat. 3209][/us/stat/108/3209], known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under [section 6901 of this title][/us/usc/t7/s6901] and Tables.
 
     Reorganization Plan No. 2 of 1953, referred to in subsec. (b)(2), is Reorg. Plan No. 2 of 1953, June 4, 1953, 18 F.R. 3219, [67 Stat. 633][/us/stat/67/633], as amended, which is set out as a note under [section 2201 of this title][/us/usc/t7/s2201].
 
@@ -63,11 +63,11 @@
 
  __Amendments__ 
 
-    2014—Subsec. (b). [Pub. L. 113–79, § 1610(b)(2)][/us/pl/113/79/s1610/b/2], (3), substituted “The authority” for “the authority” wherever appearing and in pars. (1) to (5) substituted a period for semicolon at end.
+    2014—Subsec. (b). [Pub. L. 113–79, § 1610(b)(2)][/us/pl/113/79/s1610/b/2]–(4), substituted “The authority” for “the authority” in pars. (1) to (7), a period for semicolon at end of pars. (1) to (5), and a period for “; or” at end of par. (6)(C).
 
     [Pub. L. 113–79, § 1610(b)(1)][/us/pl/113/79/s1610/b/1], substituted “affect:” for “affect—” in introductory provisions.
 
-    Subsec. (b)(8). [Pub. L. 113–79, § 1610(b)(4)][/us/pl/113/79/s1610/b/4], (5), added par. (8).
+    Subsec. (b)(8). [Pub. L. 113–79, § 1610(b)(5)][/us/pl/113/79/s1610/b/5], added par. (8).
 
     2008—Subsec. (b)(6). [Pub. L. 110–246, § 7511(b)][/us/pl/110/246/s7511/b], added par. (6).
 
@@ -119,7 +119,7 @@
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
 [/us/pl/113/79/s1610/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fb%2F2
 [/us/pl/113/79/s1610/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fb%2F1
-[/us/pl/113/79/s1610/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fb%2F4
+[/us/pl/113/79/s1610/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1610%2Fb%2F5
 [/us/pl/110/246/s7511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs7511%2Fb
 [/us/pl/110/246/s14013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs14013%2Fb
 [/us/pl/107/171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F171

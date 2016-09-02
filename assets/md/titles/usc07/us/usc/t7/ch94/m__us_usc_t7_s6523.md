@@ -57,7 +57,7 @@
 
  __Amendments__ 
 
-    2014—Subsec. (d)(1). [Pub. L. 113–79, § 10004(c)][/us/pl/113/79/s10004/c], added par. (1) and struck out former par. (1). Text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012.”
+    2014—Subsec. (d)(1). [Pub. L. 113–79][/us/pl/113/79] added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this section $22,000,000 for the period of fiscal years 2008 through 2012.”
 
     2013—Subsec. (a). [Pub. L. 112–240, § 701(g)(3)(A)][/us/pl/112/240/s701/g/3/A], substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”.
 
@@ -102,7 +102,7 @@
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4%2Fa
-[/us/pl/113/79/s10004/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs10004%2Fc
+[/us/pl/113/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79
 [/us/pl/112/240/s701/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F3%2FA
 [/us/pl/112/240/s701/g/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs701%2Fg%2F3%2FB
 [/us/pl/110/246/s10301/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs10301%2F1

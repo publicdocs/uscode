@@ -241,7 +241,7 @@
 
     2014—Subsecs. (e), (f). [Pub. L. 113–79, § 10007(a)][/us/pl/113/79/s10007/a], added subsec. (e) and redesignated former subsec. (e) as (f).
 
-    Subsec. (f)(3) to (6). [Pub. L. 113–79, § 10007(b)][/us/pl/113/79/s10007/b], struck out “and” at end of par. (3), substituted semicolon at end for “and each fiscal year thereafter.” in par. (4), and added pars. (5) and (6).
+    Subsec. (f)(4) to (6). [Pub. L. 113–79, § 10007(b)][/us/pl/113/79/s10007/b], substituted semicolon at end for “and each fiscal year thereafter.” in par. (4), and added pars. (5) and (6).
 
     Subsecs. (g), (h). [Pub. L. 113–79, § 10007(d)][/us/pl/113/79/s10007/d], added subsecs. (g) and (h).
 

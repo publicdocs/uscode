@@ -369,7 +369,7 @@
 
     The Consolidated Farm and Rural Development Act, referred to in subsec. (i)(3)(B), is title III of [Pub. L. 87–128][/us/pl/87/128], Aug. 8, 1961, [75 Stat. 307][/us/stat/75/307], as amended. Subtitle C of the Act is classified generally to subchapter III (§ 1961 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1921 of this title][/us/usc/t7/s1921] and Tables.
 
-    [Section 1308–3a of this title][/us/usc/t7/s1308–3a], referred to in subsec. (i)(4), was amended by [Pub. L. 113–79, title I, § 1605(a)][/us/pl/113/79/s1605/a]–(e), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707], 708, and, as so amended, provisions which formerly appeared in subsec. (b)(1)(A) of section 1308–3a were struck out. See subsec. (b)(1) of section 1308–3a.
+    [Section 1308–3a of this title][/us/usc/t7/s1308–3a], referred to in subsec. (i)(4), was amended by [Pub. L. 113–79, title I, § 1605(a)][/us/pl/113/79/s1605/a]–(e), Feb. 7, 2014, [128 Stat. 707][/us/stat/128/707], 708, and, as so amended, provisions which formerly appeared in subsec. (b)(1)(A) of section 1308–3a were struck out. See subsec. (b)(1) of [section 1308–3a of this title][/us/usc/t7/s1308–3a].
 
  __Codification__ 
 
@@ -491,6 +491,7 @@
 [/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
 [/us/pl/113/79/s1605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F79%2Fs1605%2Fa
 [/us/stat/128/707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F707
+[/us/usc/t7/s1308–3a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1308%E2%80%933a
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
