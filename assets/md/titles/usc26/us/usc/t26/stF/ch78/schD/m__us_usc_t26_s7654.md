@@ -39,7 +39,7 @@
 
     In addition to the amount determined under subsection (a), the United States shall pay to each specified possession at such times and in such manner as determined by the Secretary—
 
-        (1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.), and
+        (1) the amount of the taxes deducted and withheld by the United States under chapter 24 with respect to compensation paid to members of the Armed Forces who are stationed in such possession but who have no income tax liability to such possession with respect to such compensation by reason of the Servicemembers Civil Relief Act (50 App. U.S.C. 501 et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
 
         (2) the amount of the taxes deducted and withheld under chapter 24 with respect to amounts paid for services performed as an employee of the United States (or any agency thereof) in a specified possession with respect to an individual unless section 931 or 932(c) applies.
 
@@ -51,7 +51,7 @@
 
  __References in Text__ 
 
-    The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], as amended, which is classified to section 501 et seq. of the Appendix to Title 50, War and National Defense. For complete classification of this Act to the Code, see section 501 of the Appendix to Title 50 and Tables.
+    The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is [act Oct. 17, 1940, ch. 888][/us/act/1940-10-17/ch888], [54 Stat. 1178][/us/stat/54/1178], was classified to sections 501 et seq. of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification, and is now classified principally to chapter 50 (§ 3901 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
  __Amendments__ 
 

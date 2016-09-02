@@ -909,7 +909,7 @@
 
     Chapter 9 of the Internal Revenue Code of 1939, referred to in subsec. (j)(4)(B), was comprised of sections 1400 to 1636 of former Title 26, Internal Revenue Code. For table of comparisons of the 1939 Code to the 1986 Code, see Table I preceding [section 1 of this title][/us/usc/t26/s1]. See also [section 7851(a)(3) of this title][/us/usc/t26/s7851/a/3] for applicability of chapter 9 of former Title 26. See also [section 7851(e) of this title][/us/usc/t26/s7851/e] for provision that references in the 1986 Code to a provision of the 1939 Code, not then applicable, shall be deemed a reference to the corresponding provision of the 1986 Code, which is then applicable.
 
-    The Military Selective Service Act, referred to in subsec. (n)(5)(B), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under [section 451 of Title 50][/us/usc/t50/s451], Appendix, and Tables.
+    The Military Selective Service Act, referred to in subsec. (n)(5)(B), is [act June 24, 1948, ch. 625][/us/act/1948-06-24/ch625], [62 Stat. 604][/us/stat/62/604], which is classified principally to chapter 49 (§ 3801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Tables.
 
  __Constitutionality__ 
 
@@ -2500,7 +2500,6 @@ For information regarding constitutionality of certain provisions of section 312
 [/us/usc/t26/s7851/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7851%2Fe
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604
-[/us/usc/t50/s451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs451
 [/us/pl/98/21/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F21%2Fs101%2Fb%2F1
 [/us/pl/113/295/s221/a/19/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F19%2FB%2Fiv
 [/us/pl/113/295/s221/a/99/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs221%2Fa%2F99%2FC%2Fi

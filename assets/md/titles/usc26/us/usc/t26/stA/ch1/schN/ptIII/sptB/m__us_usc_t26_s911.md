@@ -247,7 +247,7 @@
 
             For purposes of this paragraph, regulations are described in this subparagraph if such regulations—
 
-                (i) have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), or the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.), and
+                (i) have been adopted pursuant to the Trading With the Enemy Act (50 U.S.C. App. 1 et seq.), or the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  and
 
                 (ii) include provisions generally prohibiting citizens and residents of the United States from engaging in transactions related to travel to, from, or within a foreign country.
 
@@ -333,7 +333,7 @@
 
  __References in Text__ 
 
-    The Trading With the Enemy Act, referred to in subsec. (d)(8)(B)(i), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], as amended, which is classified to sections 1 to 6, 7 to 39, and 41 to 44 of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see Tables.
+    The Trading With the Enemy Act, referred to in subsec. (d)(8)(B)(i), is [act Oct. 6, 1917, ch. 106][/us/act/1917-10-06/ch106], [40 Stat. 411][/us/stat/40/411], which was classified to sections 1 to 6, 7 to 39, and 41 to 44 of the former Appendix to Title 50, War and National Defense, prior to editorial reclassification and renumbering in Title 50, and is now classified generally to chapter 53 (§ 4301 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
     The International Emergency Economic Powers Act, referred to in subsec. (d)(8)(B)(i), is [Pub. L. 95–223, title II][/us/pl/95/223], Dec. 28, 1977, [91 Stat. 1626][/us/stat/91/1626], which is classified generally to chapter 35 (§ 1701 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under [section 1701 of Title 50][/us/usc/t50/s1701] and Tables.
 

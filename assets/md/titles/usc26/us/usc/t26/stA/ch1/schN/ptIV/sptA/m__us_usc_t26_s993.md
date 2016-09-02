@@ -217,7 +217,7 @@
 
  __References in Text__ 
 
-    Sections 3(2)(C) and 7(a) of the Export Administration Act of 1979, referred to in subsec. (c)(2)(D), are classified, respectively, to sections 2402(2)(C) and 2406(a) of the Appendix to Title 50, War and National Defense.
+    Sections 3(2)(C) and 7(a) of the Export Administration Act of 1979, referred to in subsec. (c)(2)(D), are classified, respectively, to sections 4602(2)(C) and 4606(a) of Title 50, War and National Defense.
 
  __Amendments__ 
 
@@ -255,7 +255,7 @@
 
  __Effective Date of 1979 Amendments__ 
 
-    Amendment by [Pub. L. 96–72][/us/pl/96/72] effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see References in Text note set out under section 2418 of Appendix to Title 50, War and National Defense.
+    Amendment by [Pub. L. 96–72][/us/pl/96/72] effective upon the expiration of the Export Administration Act of 1969, which terminated on Sept. 30, 1979, or upon any prior date which the Congress by concurrent resolution or the President by proclamation designated, see References in Text note set out under [section 4621 of Title 50][/us/usc/t50/s4621], War and National Defense.
 
     Amendment by [Pub. L. 96–39][/us/pl/96/39] effective Jan. 1, 1981, with provision for an earlier effective date under certain circumstances, see [section 204 of Pub. L. 96–39][/us/pl/96/39/s204], set out as a note under [section 1401a of Title 19][/us/usc/t19/s1401a], Customs Duties.
 
@@ -331,6 +331,7 @@
 [/us/pl/98/369/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs805%2Fa%2F1
 [/us/usc/t26/s245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs245
 [/us/pl/96/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F72
+[/us/usc/t50/s4621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4621
 [/us/pl/96/39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39
 [/us/pl/96/39/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F39%2Fs204
 [/us/usc/t19/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1401a

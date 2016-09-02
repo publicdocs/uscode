@@ -29,13 +29,17 @@
 
         (4) For assessment of damages awarded by Tax Court for instituting proceedings merely for delay, see section 6673.
 
-        (5) For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).
+        (5) For treatment of certain deficiencies as having been paid, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
         (6) For rules applicable to Tax Court proceedings, see generally subchapter C of chapter 76.
 
         (7) For extension of time for paying amount determined as deficiency, see section 6161(b).
 
 ([Aug. 16, 1954, ch. 736][/us/act/1954-08-16/ch736], [68A Stat. 773][/us/stat/68A/773]; [Pub. L. 94–455, title XIX, § 1906(a)(16)][/us/pl/94/455/s1906/a/16], (b)(13)(A), Oct. 4, 1976, [90 Stat. 1825][/us/stat/90/1825], 1834; [Pub. L. 99–514, title XIV, § 1404(c)(2)][/us/pl/99/514/s1404/c/2], Oct. 22, 1986, [100 Stat. 2714][/us/stat/100/2714].)
+
+ __References in Text__ 
+
+    Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in subsec. (b)(5), was repealed by [Pub. L. 94–412, title V, § 501(g)][/us/pl/94/412/s501/g], Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
 
  __Amendments__ 
 
@@ -62,6 +66,8 @@
 [/us/stat/90/1825]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1825
 [/us/pl/99/514/s1404/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1404%2Fc%2F2
 [/us/stat/100/2714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2714
+[/us/pl/94/412/s501/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2Fs501%2Fg
+[/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/94/455/s1906/b/13/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fb%2F13%2FA
 [/us/pl/94/455/s1906/a/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1906%2Fa%2F16

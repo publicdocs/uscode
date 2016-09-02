@@ -407,7 +407,7 @@
 
     The Arms Export Control Act, referred to in subsec. (j)(2)(A)(i), is [Pub. L. 90–269][/us/pl/90/269], Oct. 22, 1968, [82 Stat. 1320][/us/stat/82/1320], as amended, which is classified principally to chapter 39 (§ 2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 2751 of Title 22][/us/usc/t22/s2751] and Tables.
 
-    Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (j)(2)(A)(iv), is classified to [section 2405(j) of Title 50][/us/usc/t50/s2405/j], Appendix, War and National Defense.
+    Section 6(j) of the Export Administration Act of 1979, referred to in subsec. (j)(2)(A)(iv), is classified to [section 4605(j) of Title 50][/us/usc/t50/s4605/j], War and National Defense.
 
     Sections 15(a) and 15C(a) of the Securities Exchange Act of 1934, referred to in subsec. (k)(4)(A)(i), (ii), are classified to sections 78o(a) and 78o–5(a), respectively, of Title 15, Commerce and Trade.
 
@@ -763,7 +763,7 @@
 [/us/pl/90/269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F269
 [/us/stat/82/1320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F1320
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
-[/us/usc/t50/s2405/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2405%2Fj
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/111/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F226
 [/us/pl/110/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F172
 [/us/pl/109/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135
