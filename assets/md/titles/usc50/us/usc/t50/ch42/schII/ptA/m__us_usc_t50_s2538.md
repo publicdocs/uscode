@@ -79,7 +79,7 @@
 
  __Codification__ 
 
-    Section is comprised of [section 4218 of Pub. L. 107–314][/us/pl/107/314/s4218]. Subsecs. (c) and (d) of [section 4218 of Pub. L. 107–314][/us/pl/107/314/s4218] amended [section 2533 of this title][/us/usc/t50/s2533].
+    Section is comprised of [section 4218 of Pub. L. 107–314][/us/pl/107/314/s4218]. Subsecs. (b) and (c) of [section 4218 of Pub. L. 107–314][/us/pl/107/314/s4218] amended [section 2533 of this title][/us/usc/t50/s2533].
 
     Section was formerly classified to [section 7274p of Title 42][/us/usc/t42/s7274p], The Public Health and Welfare, prior to renumbering by [Pub. L. 112–239][/us/pl/112/239].
 

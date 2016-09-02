@@ -37,6 +37,12 @@ Provisions similar to those in this section were contained in the following appr
 
     [Pub. L. 109–103, title III, § 311][/us/pl/109/103/s311], Nov. 19, 2005, [119 Stat. 2280][/us/stat/119/2280].
 
+ __Funding for Laboratory Directed Research and Development__ 
+
+[Pub. L. 113–76, div. D, title III, § 309][/us/pl/113/76/s309], Jan. 17, 2014, [128 Stat. 175][/us/stat/128/175], provided that: 
+
+> “Notwithstanding [section 307 of Public Law 111–85][/us/pl/111/85/s307] \[listed in a table above\], of the funds made available by the Department of Energy for activities at Government-owned, contractor-operated laboratories funded in this \[Act\] \[div. D of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] or any subsequent Energy and Water Development Appropriations Act for any fiscal year, the Secretary may authorize a specific amount, not to exceed 6 percent of such funds, to be used by such laboratories for laboratory directed research and development.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2791.md) | [Next](./../../../../../..//us/usc/t50/ch42/schVIII/ptB/m__us_usc_t50_s2792.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2791a)
@@ -54,5 +60,9 @@ Provisions similar to those in this section were contained in the following appr
 [/us/stat/121/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1968
 [/us/pl/109/103/s311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F103%2Fs311
 [/us/stat/119/2280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2280
+[/us/pl/113/76/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs309
+[/us/stat/128/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F175
+[/us/pl/111/85/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F85%2Fs307
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 
 
