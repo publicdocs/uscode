@@ -15,13 +15,17 @@
 
 ### Rule 9015. Jury Trials
 
-    (a) __Applicability of Certain Federal Rules of Civil Procedure. Rules 38, 39, 47–49, and 51, F.R.Civ.P., and Rule 81(c) F.R.Civ.P. insofar as it applies to jury trials, apply in cases and proceedings, except that a demand made under Rule 38(b) F.R.Civ.P. shall be filed in accordance with Rule 5005.__ 
+    (a)  __Applicability of Certain Federal Rules of Civil Procedure__  __.__ 
 
-    (b) __Consent To Have Trial Conducted by Bankruptcy Judge. If the right to a jury trial applies, a timely demand has been filed pursuant to Rule 38(b) F.R.Civ.P., and the bankruptcy judge has been specially designated to conduct the jury trial, the parties may consent to have a jury trial conducted by a bankruptcy judge under 28 U.S.C. § 157(e) by jointly or separately filing a statement of consent within any applicable time limits specified by local rule.__ 
+     Rules 38, 39, 47–49, and 51, F.R.Civ.P., and Rule 81(c) F.R.Civ.P. insofar as it applies to jury trials, apply in cases and proceedings, except that a demand made under Rule 38(b) F.R.Civ.P. shall be filed in accordance with Rule 5005.
 
-    (c) __Applicability of Rule 50 F.__ 
+    (b)  __Consent To Have Trial Conducted by Bankruptcy Judge__  __.__ 
 
-    R.Civ.P. Rule 50 F.R.Civ.P. applies in cases and proceedings, except that any renewed motion for judgment or request for a new trial shall be filed no later than 14 days after the entry of judgment.
+     If the right to a jury trial applies, a timely demand has been filed pursuant to Rule 38(b) F.R.Civ.P., and the bankruptcy judge has been specially designated to conduct the jury trial, the parties may consent to have a jury trial conducted by a bankruptcy judge under 28 U.S.C. § 157(e) by jointly or separately filing a statement of consent within any applicable time limits specified by local rule.
+
+    (c)  __Applicability of Rule __  __50 F.R.Civ.P.__ 
+
+     Rule 50 F.R.Civ.P. applies in cases and proceedings, except that any renewed motion for judgment or request for a new trial shall be filed no later than 14 days after the entry of judgment.
 
 (Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
 

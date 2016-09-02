@@ -15,9 +15,13 @@
 
 ### Rule 6002. Accounting by Prior Custodian of Property of the Estate
 
-    (a) __Accounting Required. Any custodian required by the Code to deliver property in the custodian’s possession or control to the trustee shall promptly file and transmit to the United States trustee a report and account with respect to the property of the estate and the administration thereof.__ 
+    (a)  __Accounting Required__  __.__ 
 
-    (b) __Examination of Administration. On the filing and transmittal of the report and account required by subdivision (a) of this rule and after an examination has been made into the superseded administration, after notice and a hearing, the court shall determine the propriety of the administration, including the reasonableness of all disbursements.__ 
+     Any custodian required by the Code to deliver property in the custodian’s possession or control to the trustee shall promptly file and transmit to the United States trustee a report and account with respect to the property of the estate and the administration thereof.
+
+    (b)  __Examination of Administration__  __.__ 
+
+     On the filing and transmittal of the report and account required by subdivision (a) of this rule and after an examination has been made into the superseded administration, after notice and a hearing, the court shall determine the propriety of the administration, including the reasonableness of all disbursements.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993.)
 

@@ -15,9 +15,11 @@
 
 ### Rule 2003. Meeting of Creditors or Equity Security Holders
 
-    (a) __Date and Place. Except as otherwise provided in § 341(e) of the Code, in a chapter 7 liquidation or a chapter 11 reorganization case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 40 days after the order for relief. In a chapter 12 family farmer debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 35 days after the order for relief. In a chapter 13 individual’s debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 50 days after the order for relief. If there is an appeal from or a motion to vacate the order for relief, or if there is a motion to dismiss the case, the United States trustee may set a later date for the meeting. The meeting may be held at a regular place for holding court or at any other place designated by the United States trustee within the district convenient for the parties in interest. If the United States trustee designates a place for the meeting which is not regularly staffed by the United States trustee or an assistant who may preside at the meeting, the meeting may be held not more than 60 days after the order for relief.__ 
+    (a)  __Date and Place__  __.__ 
 
-    (b) __Order of Meeting.__ 
+     Except as otherwise provided in § 341(e) of the Code, in a chapter 7 liquidation or a chapter 11 reorganization case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 40 days after the order for relief. In a chapter 12 family farmer debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 35 days after the order for relief. In a chapter 13 individual’s debt adjustment case, the United States trustee shall call a meeting of creditors to be held no fewer than 21 and no more than 50 days after the order for relief. If there is an appeal from or a motion to vacate the order for relief, or if there is a motion to dismiss the case, the United States trustee may set a later date for the meeting. The meeting may be held at a regular place for holding court or at any other place designated by the United States trustee within the district convenient for the parties in interest. If the United States trustee designates a place for the meeting which is not regularly staffed by the United States trustee or an assistant who may preside at the meeting, the meeting may be held not more than 60 days after the order for relief.
+
+    (b)  __Order of Meeting__  __.__ 
 
         (1) Meeting of Creditors. The United States trustee shall preside at the meeting of creditors. The business of the meeting shall include the examination of the debtor under oath and, in a chapter 7 liquidation case, may include the election of a creditors’ committee and, if the case is not under subchapter V of chapter 7, the election of a trustee. The presiding officer shall have the authority to administer oaths.
 
@@ -25,19 +27,27 @@
 
         (3) Right To Vote. In a chapter 7 liquidation case, a creditor is entitled to vote at a meeting if, at or before the meeting, the creditor has filed a proof of claim or a writing setting forth facts evidencing a right to vote pursuant to § 702(a) of the Code unless objection is made to the claim or the proof of claim is insufficient on its face. A creditor of a partnership may file a proof of claim or writing evidencing a right to vote for the trustee for the estate of the general partner notwithstanding that a trustee for the estate of the partnership has previously qualified. In the event of an objection to the amount or allowability of a claim for the purpose of voting, unless the court orders otherwise, the United States trustee shall tabulate the votes for each alternative presented by the dispute and, if resolution of such dispute is necessary to determine the result of the election, the tabulations for each alternative shall be reported to the court.
 
-    (c) __Record of Meeting. Any examination under oath at the meeting of creditors held pursuant to § 341(a) of the Code shall be recorded verbatim by the United States trustee using electronic sound recording equipment or other means of recording, and such record shall be preserved by the United States trustee and available for public access until two years after the conclusion of the meeting of creditors. Upon request of any entity, the United States trustee shall certify and provide a copy or transcript of such recording at the entity’s expense.__ 
+    (c)  __Record of Meeting__  __.__ 
 
-    (d) __Report of Election and Resolution of Disputes in a Chapter 7 Case.__ 
+     Any examination under oath at the meeting of creditors held pursuant to § 341(a) of the Code shall be recorded verbatim by the United States trustee using electronic sound recording equipment or other means of recording, and such record shall be preserved by the United States trustee and available for public access until two years after the conclusion of the meeting of creditors. Upon request of any entity, the United States trustee shall certify and provide a copy or transcript of such recording at the entity’s expense.
+
+    (d)  __Report of Election and Resolution of Disputes in a Chapter __  __7__  __ Case__  __.__ 
 
         (1) Report of Undisputed Election. In a chapter 7 case, if the election of a trustee or a member of a creditors’ committee is not disputed, the United States trustee shall promptly file a report of the election, including the name and address of the person or entity elected and a statement that the election is undisputed.
 
         (2) Disputed Election. If the election is disputed, the United States trustee shall promptly file a report stating that the election is disputed, informing the court of the nature of the dispute, and listing the name and address of any candidate elected under any alternative presented by the dispute. No later than the date on which the report is filed, the United States trustee shall mail a copy of the report to any party in interest that has made a request to receive a copy of the report. Pending disposition by the court of a disputed election for trustee, the interim trustee shall continue in office. Unless a motion for the resolution of the dispute is filed no later than 14 days after the United States trustee files a report of a disputed election for trustee, the interim trustee shall serve as trustee in the case.
 
-    (e) __Adjournment. The meeting may be adjourned from time to time by announcement at the meeting of the adjourned date and time. The presiding official shall promptly file a statement specifying the date and time to which the meeting is adjourned.__ 
+    (e)  __Adjournment__  __.__ 
 
-    (f) __Special Meetings. The United States trustee may call a special meeting of creditors on request of a party in interest or on the United States trustee’s own initiative.__ 
+     The meeting may be adjourned from time to time by announcement at the meeting of the adjourned date and time. The presiding official shall promptly file a statement specifying the date and time to which the meeting is adjourned.
 
-    (g) __Final Meeting. If the United States trustee calls a final meeting of creditors in a case in which the net proceeds realized exceed $1,500, the clerk shall mail a summary of the trustee’s final account to the creditors with a notice of the meeting, together with a statement of the amount of the claims allowed. The trustee shall attend the final meeting and shall, if requested, report on the administration of the estate.__ 
+    (f)  __Special Meetings__  __.__ 
+
+     The United States trustee may call a special meeting of creditors on request of a party in interest or on the United States trustee’s own initiative.
+
+    (g)  __Final Meeting__  __.__ 
+
+     If the United States trustee calls a final meeting of creditors in a case in which the net proceeds realized exceed $1,500, the clerk shall mail a summary of the trustee’s final account to the creditors with a notice of the meeting, together with a statement of the amount of the claims allowed. The trustee shall attend the final meeting and shall, if requested, report on the administration of the estate.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Mar. 27, 2003, eff. Dec. 1, 2003; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 26, 2011, eff. Dec. 1, 2011.)
 

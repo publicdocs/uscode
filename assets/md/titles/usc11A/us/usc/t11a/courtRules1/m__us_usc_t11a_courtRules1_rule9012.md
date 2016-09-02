@@ -15,11 +15,13 @@
 
 ### Rule 9012. Oaths and Affirmations
 
-    (a) __Persons Authorized To Administer Oaths. The following persons may administer oaths and affirmations and take acknowledgments:__ 
+    (a)  __Persons Authorized To Administer Oaths__  __.__ 
 
-     a bankruptcy judge, clerk, deputy clerk, United States trustee, officer authorized to administer oaths in proceedings before the courts of the United States or under the laws of the state where the oath is to be taken, or a diplomatic or consular officer of the United States in any foreign country.
+     The following persons may administer oaths and affirmations and take acknowledgments: a bankruptcy judge, clerk, deputy clerk, United States trustee, officer authorized to administer oaths in proceedings before the courts of the United States or under the laws of the state where the oath is to be taken, or a diplomatic or consular officer of the United States in any foreign country.
 
-    (b) __Affirmation in Lieu of Oath. When in a case under the Code an oath is required to be taken a solemn affirmation may be accepted in lieu thereof.__ 
+    (b)  __Affirmation in Lieu of Oath__  __.__ 
+
+     When in a case under the Code an oath is required to be taken a solemn affirmation may be accepted in lieu thereof.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

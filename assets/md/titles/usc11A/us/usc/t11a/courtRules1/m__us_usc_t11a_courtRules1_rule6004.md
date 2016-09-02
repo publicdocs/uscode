@@ -15,17 +15,27 @@
 
 ### Rule 6004. Use, Sale, or Lease of Property
 
-    (a) __Notice of Proposed Use, Sale, or Lease of Property. Notice of a proposed use, sale, or lease of property, other than cash collateral, not in the ordinary course of business shall be given pursuant to Rule 2002(a)(2), (c)(1), (i), and (k) and, if applicable, in accordance with § 363(b)(2) of the Code.__ 
+    (a)  __Notice of Proposed Use, Sale, or Lease of Property__  __.__ 
 
-    (b) __Objection to Proposal. Except as provided in subdivisions (c) and (d) of this rule, an objection to a proposed use, sale, or lease of property shall be filed and served not less than seven days before the date set for the proposed action or within the time fixed by the court. An objection to the proposed use, sale, or lease of property is governed by Rule 9014.__ 
+     Notice of a proposed use, sale, or lease of property, other than cash collateral, not in the ordinary course of business shall be given pursuant to Rule 2002(a)(2), (c)(1), (i), and (k) and, if applicable, in accordance with § 363(b)(2) of the Code.
 
-    (c) __Sale Free and Clear of Liens and Other Interests. A motion for authority to sell property free and clear of liens or other interests shall be made in accordance with Rule 9014 and shall be served on the parties who have liens or other interests in the property to be sold. The notice required by subdivision (a) of this rule shall include the date of the hearing on the motion and the time within which objections may be filed and served on the debtor in possession or trustee.__ 
+    (b)  __Objection to Proposal__  __.__ 
 
-    (d) __Sale of Property Under $2,500. Notwithstanding subdivision (a) of this rule, when all of the nonexempt property of the estate has an aggregate gross value less than $2,500, it shall be sufficient to give a general notice of intent to sell such property other than in the ordinary course of business to all creditors, indenture trustees, committees appointed or elected pursuant to the Code, the United States trustee and other persons as the court may direct. An objection to any such sale may be filed and served by a party in interest within 14 days of the mailing of the notice, or within the time fixed by the court. An objection is governed by Rule 9014.__ 
+     Except as provided in subdivisions (c) and (d) of this rule, an objection to a proposed use, sale, or lease of property shall be filed and served not less than seven days before the date set for the proposed action or within the time fixed by the court. An objection to the proposed use, sale, or lease of property is governed by Rule 9014.
 
-    (e) __Hearing. If a timely objection is made pursuant to subdivision (b) or (d) of this rule, the date of the hearing thereon may be set in the notice given pursuant to subdivision (a) of this rule.__ 
+    (c)  __Sale Free and Clear of Liens and Other Interests__  __.__ 
 
-    (f) __Conduct of Sale Not in the Ordinary Course of Business.__ 
+     A motion for authority to sell property free and clear of liens or other interests shall be made in accordance with Rule 9014 and shall be served on the parties who have liens or other interests in the property to be sold. The notice required by subdivision (a) of this rule shall include the date of the hearing on the motion and the time within which objections may be filed and served on the debtor in possession or trustee.
+
+    (d)  __Sale of Property Under __  __$2,500.__ 
+
+     Notwithstanding subdivision (a) of this rule, when all of the nonexempt property of the estate has an aggregate gross value less than $2,500, it shall be sufficient to give a general notice of intent to sell such property other than in the ordinary course of business to all creditors, indenture trustees, committees appointed or elected pursuant to the Code, the United States trustee and other persons as the court may direct. An objection to any such sale may be filed and served by a party in interest within 14 days of the mailing of the notice, or within the time fixed by the court. An objection is governed by Rule 9014.
+
+    (e)  __Hearing__  __.__ 
+
+     If a timely objection is made pursuant to subdivision (b) or (d) of this rule, the date of the hearing thereon may be set in the notice given pursuant to subdivision (a) of this rule.
+
+    (f)  __Conduct of Sale Not in the Ordinary Course of Business__  __.__ 
 
         (1) Public or Private Sale. All sales not in the ordinary course of business may be by private sale or by public auction. Unless it is impracticable, an itemized statement of the property sold, the name of each purchaser, and the price received for each item or lot or for the property as a whole if sold in bulk shall be filed on completion of a sale. If the property is sold by an auctioneer, the auctioneer shall file the statement, transmit a copy thereof to the United States trustee, and furnish a copy to the trustee, debtor in possession, or chapter 13 debtor. If the property is not sold by an auctioneer, the trustee, debtor in possession, or chapter 13 debtor shall file the statement and transmit a copy thereof to the United States trustee.
 
@@ -37,7 +47,9 @@
 
         (2) Appointment. If a consumer privacy ombudsman is appointed under § 332, no later than seven days before the hearing on the motion under § 363(b)(1)(B), the United States trustee shall file a notice of the appointment, including the name and address of the person appointed. The United States trustee’s notice shall be accompanied by a verified statement of the person appointed setting forth the person’s connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
 
-    (h) __Stay of Order Authorizing Use, Sale, or Lease of Property. An order authorizing the use, sale, or lease of property other than cash collateral is stayed until the expiration of 14 days after entry of the order, unless the court orders otherwise.__ 
+    (h)  __Stay of Order Authorizing Use, Sale, or Lease of Property__  __.__ 
+
+     An order authorizing the use, sale, or lease of property other than cash collateral is stayed until the expiration of 14 days after entry of the order, unless the court orders otherwise.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

@@ -15,9 +15,13 @@
 
 ### Rule 3010. Small Dividends and Payments in Chapter 7 Liquidation, Chapter 12 Family Farmer’s Debt Adjustment, and Chapter 13 Individual’s Debt Adjustment Cases
 
-    (a) __Chapter 7 Cases. In a chapter 7 case no dividend in an amount less than $5 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Any dividend not distributed to a creditor shall be treated in the same manner as unclaimed funds as provided in § 347 of the Code.__ 
+    (a)  __Chapter __  __7__  __ Cases__  __.__ 
 
-    (b) __Chapter 12 and Chapter 13 Cases. In a chapter 12 or chapter 13 case no payment in an amount less than $15 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Funds not distributed because of this subdivision shall accumulate and shall be paid whenever the accumulation aggregates $15. Any funds remaining shall be distributed with the final payment.__ 
+     In a chapter 7 case no dividend in an amount less than $5 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Any dividend not distributed to a creditor shall be treated in the same manner as unclaimed funds as provided in § 347 of the Code.
+
+    (b)  __Chapter __  __12__  __ and Chapter __  __13__  __ Cases__  __.__ 
+
+     In a chapter 12 or chapter 13 case no payment in an amount less than $15 shall be distributed by the trustee to any creditor unless authorized by local rule or order of the court. Funds not distributed because of this subdivision shall accumulate and shall be paid whenever the accumulation aggregates $15. Any funds remaining shall be distributed with the final payment.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

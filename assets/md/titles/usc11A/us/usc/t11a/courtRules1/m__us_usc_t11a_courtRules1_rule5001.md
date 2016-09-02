@@ -15,11 +15,17 @@
 
 ### Rule 5001. Courts and Clerks’ Offices
 
-    (a) __Courts Always Open. The courts shall be deemed always open for the purpose of filing any pleading or other proper paper, issuing and returning process, and filing, making, or entering motions, orders and rules.__ 
+    (a)  __Courts Always Open__  __.__ 
 
-    (b) __Trials and Hearings; Orders in Chambers. All trials and hearings shall be conducted in open court and so far as convenient in a regular court room. Except as otherwise provided in 28 U.S.C. § 152(c), all other acts or proceedings may be done or conducted by a judge in chambers and at any place either within or without the district; but no hearing, other than one ex parte, shall be conducted outside the district without the consent of all parties affected thereby.__ 
+     The courts shall be deemed always open for the purpose of filing any pleading or other proper paper, issuing and returning process, and filing, making, or entering motions, orders and rules.
 
-    (c) __Clerk’s Office. The clerk’s office with the clerk or a deputy in attendance shall be open during business hours on all days except Saturdays, Sundays and the legal holidays listed in Rule 9006(a).__ 
+    (b)  __Trials and Hearings; Orders in Chambers__  __.__ 
+
+     All trials and hearings shall be conducted in open court and so far as convenient in a regular court room. Except as otherwise provided in 28 U.S.C. § 152(c), all other acts or proceedings may be done or conducted by a judge in chambers and at any place either within or without the district; but no hearing, other than one ex parte, shall be conducted outside the district without the consent of all parties affected thereby.
+
+    (c)  __Clerk’s Office__  __.__ 
+
+     The clerk’s office with the clerk or a deputy in attendance shall be open during business hours on all days except Saturdays, Sundays and the legal holidays listed in Rule 9006(a).
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

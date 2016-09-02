@@ -15,11 +15,17 @@
 
 ### Rule 9010. Representation and Appearances; Powers of Attorney
 
-    (a) __Authority To Act Personally or by Attorney. A debtor, creditor, equity security holder, indenture trustee, committee or other party may (1) appear in a case under the Code and act either in the entity’s own behalf or by an attorney authorized to practice in the court, and (2) perform any act not constituting the practice of law, by an authorized agent, attorney in fact, or proxy.__ 
+    (a)  __Authority To Act Personally or by Attorney__  __.__ 
 
-    (b) __Notice of Appearance. An attorney appearing for a party in a case under the Code shall file a notice of appearance with the attorney’s name, office address and telephone number, unless the attorney’s appearance is otherwise noted in the record.__ 
+     A debtor, creditor, equity security holder, indenture trustee, committee or other party may (1) appear in a case under the Code and act either in the entity’s own behalf or by an attorney authorized to practice in the court, and (2) perform any act not constituting the practice of law, by an authorized agent, attorney in fact, or proxy.
 
-    (c) __Power of Attorney. The authority of any agent, attorney in fact, or proxy to represent a creditor for any purpose other than the execution and filing of a proof of claim or the acceptance or rejection of a plan shall be evidenced by a power of attorney conforming substantially to the appropriate Official Form. The execution of any such power of attorney shall be acknowledged before one of the officers enumerated in 28 U.S.C. § 459, § 953, Rule 9012, or a person authorized to administer oaths under the laws of the state where the oath is administered.__ 
+    (b)  __Notice of Appearance__  __.__ 
+
+     An attorney appearing for a party in a case under the Code shall file a notice of appearance with the attorney’s name, office address and telephone number, unless the attorney’s appearance is otherwise noted in the record.
+
+    (c)  __Power of Attorney__  __.__ 
+
+     The authority of any agent, attorney in fact, or proxy to represent a creditor for any purpose other than the execution and filing of a proof of claim or the acceptance or rejection of a plan shall be evidenced by a power of attorney conforming substantially to the appropriate Official Form. The execution of any such power of attorney shall be acknowledged before one of the officers enumerated in 28 U.S.C. § 459, § 953, Rule 9012, or a person authorized to administer oaths under the laws of the state where the oath is administered.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

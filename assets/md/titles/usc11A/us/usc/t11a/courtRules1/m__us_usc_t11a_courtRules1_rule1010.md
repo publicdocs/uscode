@@ -15,9 +15,13 @@
 
 ### Rule 1010. Service of Involuntary Petition and Summons; Petition For Recognition of a Foreign Nonmain Proceeding
 
-    (a) __Service of Involuntary Petition and Summons; Service of Petition for Recognition of Foreign Nonmain Proceeding. On the filing of an involuntary petition or a petition for recognition of a foreign nonmain proceeding, the clerk shall forthwith issue a summons for service. When an involuntary petition is filed, service shall be made on the debtor. When a petition for recognition of a foreign nonmain proceeding is filed, service shall be made on the debtor, any entity against whom provisional relief is sought under § 1519 of the Code, and on any other party as the court may direct. The summons shall be served with a copy of the petition in the manner provided for service of a summons and complaint by Rule 7004(a) or (b). If service cannot be so made, the court may order that the summons and petition be served by mailing copies to the party’s last known address, and by at least one publication in a manner and form directed by the court. The summons and petition may be served on the party anywhere. Rule 7004(e) and Rule 4(__  __l__  __) F.R.Civ.P. apply when service is made or attempted under this rule.__ 
+    (a)  __Service of Involuntary Petition and Summons; Service of Petition for Recognition of Foreign Nonmain Proceeding__  __.__ 
 
-    (b) __Corporate Ownership Statement. Each petitioner that is a corporation shall file with the involuntary petition a corporate ownership statement containing the information described in Rule 7007.1.__ 
+     On the filing of an involuntary petition or a petition for recognition of a foreign nonmain proceeding, the clerk shall forthwith issue a summons for service. When an involuntary petition is filed, service shall be made on the debtor. When a petition for recognition of a foreign nonmain proceeding is filed, service shall be made on the debtor, any entity against whom provisional relief is sought under § 1519 of the Code, and on any other party as the court may direct. The summons shall be served with a copy of the petition in the manner provided for service of a summons and complaint by Rule 7004(a) or (b). If service cannot be so made, the court may order that the summons and petition be served by mailing copies to the party’s last known address, and by at least one publication in a manner and form directed by the court. The summons and petition may be served on the party anywhere. Rule 7004(e) and Rule 4(l) F.R.Civ.P. apply when service is made or attempted under this rule.
+
+    (b)  __Corporate Ownership Statement__  __.__ 
+
+     Each petitioner that is a corporation shall file with the involuntary petition a corporate ownership statement containing the information described in Rule 7007.1.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

@@ -15,19 +15,29 @@
 
 ### Rule 6006. Assumption, Rejection or Assignment of an Executory Contract or Unexpired Lease
 
-    (a) __Proceeding To Assume, Reject, or Assign. A proceeding to assume, reject, or assign an executory contract or unexpired lease, other than as part of a plan, is governed by Rule 9014.__ 
+    (a)  __Proceeding To Assume, Reject, or Assign__  __.__ 
 
-    (b) __Proceeding To Require Trustee To Act. A proceeding by a party to an executory contract or unexpired lease in a chapter 9 municipality case, chapter 11 reorganization case, chapter 12 family farmer’s debt adjustment case, or chapter 13 individual’s debt adjustment case, to require the trustee, debtor in possession, or debtor to determine whether to assume or reject the contract or lease is governed by Rule 9014.__ 
+     A proceeding to assume, reject, or assign an executory contract or unexpired lease, other than as part of a plan, is governed by Rule 9014.
 
-    (c) __Notice. Notice of a motion made pursuant to subdivision (a) or (b) of this rule shall be given to the other party to the contract or lease, to other parties in interest as the court may direct, and, except in a chapter 9 municipality case, to the United States trustee.__ 
+    (b)  __Proceeding To Require Trustee To Act__  __.__ 
 
-    (d) __Stay of Order Authorizing Assignment. An order authorizing the trustee to assign an executory contract or unexpired lease under § 365(f) is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.__ 
+     A proceeding by a party to an executory contract or unexpired lease in a chapter 9 municipality case, chapter 11 reorganization case, chapter 12 family farmer’s debt adjustment case, or chapter 13 individual’s debt adjustment case, to require the trustee, debtor in possession, or debtor to determine whether to assume or reject the contract or lease is governed by Rule 9014.
 
-    (e) __Limitations. The trustee shall not seek authority to assume or assign multiple executory contracts or unexpired leases in one motion unless:__ 
+    (c)  __Notice__  __.__ 
 
-         (1) all executory contracts or unexpired leases to be assumed or assigned are between the same parties or are to be assigned to the same assignee; (2) the trustee seeks to assume, but not assign to more than one assignee, unexpired leases of real property; or (3) the court otherwise authorizes the motion to be filed. Subject to subdivision (f), the trustee may join requests for authority to reject multiple executory contracts or unexpired leases in one motion.
+     Notice of a motion made pursuant to subdivision (a) or (b) of this rule shall be given to the other party to the contract or lease, to other parties in interest as the court may direct, and, except in a chapter 9 municipality case, to the United States trustee.
 
-    (f) __Omnibus Motions. A motion to reject or, if permitted under subdivision (e), a motion to assume or assign multiple executory contracts or unexpired leases that are not between the same parties shall:__ 
+    (d)  __Stay of Order Authorizing Assignment__  __.__ 
+
+     An order authorizing the trustee to assign an executory contract or unexpired lease under § 365(f) is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.
+
+    (e)  __Limitations__  __.__ 
+
+     The trustee shall not seek authority to assume or assign multiple executory contracts or unexpired leases in one motion unless: (1) all executory contracts or unexpired leases to be assumed or assigned are between the same parties or are to be assigned to the same assignee; (2) the trustee seeks to assume, but not assign to more than one assignee, unexpired leases of real property; or (3) the court otherwise authorizes the motion to be filed. Subject to subdivision (f), the trustee may join requests for authority to reject multiple executory contracts or unexpired leases in one motion.
+
+    (f)  __Omnibus Motions__  __.__ 
+
+     A motion to reject or, if permitted under subdivision (e), a motion to assume or assign multiple executory contracts or unexpired leases that are not between the same parties shall:
 
         (1) state in a conspicuous place that parties receiving the omnibus motion should locate their names and their contracts or leases listed in the motion;
 
@@ -41,7 +51,9 @@
 
         (6) be limited to no more than 100 executory contracts or unexpired leases.
 
-    (g) __Finality of Determination. The finality of any order respecting an executory contract or unexpired lease included in an omnibus motion shall be determined as though such contract or lease had been the subject of a separate motion.__ 
+    (g)  __Finality of Determination__  __.__ 
+
+     The finality of any order respecting an executory contract or unexpired lease included in an omnibus motion shall be determined as though such contract or lease had been the subject of a separate motion.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 30 2007, eff. Dec. 1, 2007; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

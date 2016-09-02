@@ -15,17 +15,29 @@
 
 ### Rule 2015.3. Reports of Financial Information on Entities in Which a Chapter 11 Estate Holds a Controlling or Substantial Interest
 
-    (a) __Reporting Requirement. In a chapter 11 case, the trustee or debtor in possession shall file periodic financial reports of the value, operations, and profitability of each entity that is not a publicly traded corporation or a debtor in a case under title 11, and in which the estate holds a substantial or controlling interest. The reports shall be prepared as prescribed by the appropriate Official Form, and shall be based upon the most recent information reasonably available to the trustee or debtor in possession.__ 
+    (a)  __Reporting Requirement__  __.__ 
 
-    (b) __Time for Filing; Service. The first report required by this rule shall be filed no later than seven days before the first date set for the meeting of creditors under § 341 of the Code. Subsequent reports shall be filed no less frequently than every six months thereafter, until the effective date of a plan or the case is dismissed or converted. Copies of the report shall be served on the United States trustee, any committee appointed under § 1102 of the Code, and any other party in interest that has filed a request therefor.__ 
+     In a chapter 11 case, the trustee or debtor in possession shall file periodic financial reports of the value, operations, and profitability of each entity that is not a publicly traded corporation or a debtor in a case under title 11, and in which the estate holds a substantial or controlling interest. The reports shall be prepared as prescribed by the appropriate Official Form, and shall be based upon the most recent information reasonably available to the trustee or debtor in possession.
 
-    (c) __Presumption of Substantial or Controlling Interest; Judicial Determination. For purposes of this rule, an entity of which the estate controls or owns at least a 20 percent interest, shall be presumed to be an entity in which the estate has a substantial or controlling interest. An entity in which the estate controls or owns less than a 20 percent interest shall be presumed not to be an entity in which the estate has a substantial or controlling interest. Upon motion, the entity, any holder of an interest therein, the United States trustee, or any other party in interest may seek to rebut either presumption, and the court shall, after notice and a hearing, determine whether the estate’s interest in the entity is substantial or controlling.__ 
+    (b)  __Time for Filing; Service__  __.__ 
 
-    (d) __Modification of Reporting Requirement. The court may, after notice and a hearing, vary the reporting requirement established by subdivision (a) of this rule for cause, including that the trustee or debtor in possession is not able, after a good faith effort, to comply with those reporting requirements, or that the information required by subdivision (a) is publicly available.__ 
+     The first report required by this rule shall be filed no later than seven days before the first date set for the meeting of creditors under § 341 of the Code. Subsequent reports shall be filed no less frequently than every six months thereafter, until the effective date of a plan or the case is dismissed or converted. Copies of the report shall be served on the United States trustee, any committee appointed under § 1102 of the Code, and any other party in interest that has filed a request therefor.
 
-    (e) __Notice and Protective Orders. No later than 14 days before filing the first report required by this rule, the trustee or debtor in possession shall send notice to the entity in which the estate has a substantial or controlling interest, and to all holders—known to the trustee or debtor in possession—of an interest in that entity, that the trustee or debtor in possession expects to file and serve financial information relating to the entity in accordance with this rule. The entity in which the estate has a substantial or controlling interest, or a person holding an interest in that entity, may request protection of the information under § 107 of the Code.__ 
+    (c)  __Presumption of Substantial or Controlling Interest; Judicial Determination__  __.__ 
 
-    (f) __Effect of Request. Unless the court orders otherwise, the pendency of a request under subdivisions (c), (d), or (e) of this rule shall not alter or stay the requirements of subdivision (a).__ 
+     For purposes of this rule, an entity of which the estate controls or owns at least a 20 percent interest, shall be presumed to be an entity in which the estate has a substantial or controlling interest. An entity in which the estate controls or owns less than a 20 percent interest shall be presumed not to be an entity in which the estate has a substantial or controlling interest. Upon motion, the entity, any holder of an interest therein, the United States trustee, or any other party in interest may seek to rebut either presumption, and the court shall, after notice and a hearing, determine whether the estate’s interest in the entity is substantial or controlling.
+
+    (d)  __Modification of Reporting Requirement__  __.__ 
+
+     The court may, after notice and a hearing, vary the reporting requirement established by subdivision (a) of this rule for cause, including that the trustee or debtor in possession is not able, after a good faith effort, to comply with those reporting requirements, or that the information required by subdivision (a) is publicly available.
+
+    (e)  __Notice and Protective Orders__  __.__ 
+
+     No later than 14 days before filing the first report required by this rule, the trustee or debtor in possession shall send notice to the entity in which the estate has a substantial or controlling interest, and to all holders—known to the trustee or debtor in possession—of an interest in that entity, that the trustee or debtor in possession expects to file and serve financial information relating to the entity in accordance with this rule. The entity in which the estate has a substantial or controlling interest, or a person holding an interest in that entity, may request protection of the information under § 107 of the Code.
+
+    (f)  __Effect of Request__  __.__ 
+
+     Unless the court orders otherwise, the pendency of a request under subdivisions (c), (d), or (e) of this rule shall not alter or stay the requirements of subdivision (a).
 
 (Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
 

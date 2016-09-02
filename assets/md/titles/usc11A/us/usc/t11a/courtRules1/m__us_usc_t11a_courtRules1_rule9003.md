@@ -15,9 +15,13 @@
 
 ### Rule 9003. Prohibition of Ex Parte Contacts
 
-    (a) __General Prohibition. Except as otherwise permitted by applicable law, any examiner, any party in interest, and any attorney, accountant, or employee of a party in interest shall refrain from ex parte meetings and communications with the court concerning matters affecting a particular case or proceeding.__ 
+    (a)  __General Prohibition__  __.__ 
 
-    (b) __United States Trustee. Except as otherwise permitted by applicable law, the United States trustee and assistants to and employees or agents of the United States trustee shall refrain from ex parte meetings and communications with the court concerning matters affecting a particular case or proceeding. This rule does not preclude communications with the court to discuss general problems of administration and improvement of bankruptcy administration, including the operation of the United States trustee system.__ 
+     Except as otherwise permitted by applicable law, any examiner, any party in interest, and any attorney, accountant, or employee of a party in interest shall refrain from ex parte meetings and communications with the court concerning matters affecting a particular case or proceeding.
+
+    (b)  __United States Trustee__  __.__ 
+
+     Except as otherwise permitted by applicable law, the United States trustee and assistants to and employees or agents of the United States trustee shall refrain from ex parte meetings and communications with the court concerning matters affecting a particular case or proceeding. This rule does not preclude communications with the court to discuss general problems of administration and improvement of bankruptcy administration, including the operation of the United States trustee system.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

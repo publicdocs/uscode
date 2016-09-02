@@ -15,9 +15,13 @@
 
 ### Rule 2010. Qualification by Trustee; Proceeding on Bond
 
-    (a) __Blanket Bond. The United States trustee may authorize a blanket bond in favor of the United States conditioned on the faithful performance of official duties by the trustee or trustees to cover (1) a person who qualifies as trustee in a number of cases, and (2) a number of trustees each of whom qualifies in a different case.__ 
+    (a)  __Blanket Bond__  __.__ 
 
-    (b) __Proceeding on Bond. A proceeding on the trustee’s bond may be brought by any party in interest in the name of the United States for the use of the entity injured by the breach of the condition.__ 
+     The United States trustee may authorize a blanket bond in favor of the United States conditioned on the faithful performance of official duties by the trustee or trustees to cover (1) a person who qualifies as trustee in a number of cases, and (2) a number of trustees each of whom qualifies in a different case.
+
+    (b)  __Proceeding on Bond__  __.__ 
+
+     A proceeding on the trustee’s bond may be brought by any party in interest in the name of the United States for the use of the entity injured by the breach of the condition.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

@@ -15,11 +15,17 @@
 
 ### Rule 3002. Filing Proof of Claim or Interest
 
-    (a) __Necessity for Filing. An unsecured creditor or an equity security holder must file a proof of claim or interest for the claim or interest to be allowed, except as provided in Rules 1019(3), 3003, 3004, and 3005.__ 
+    (a)  __Necessity for Filing__  __.__ 
 
-    (b) __Place of Filing. A proof of claim or interest shall be filed in accordance with Rule 5005.__ 
+     An unsecured creditor or an equity security holder must file a proof of claim or interest for the claim or interest to be allowed, except as provided in Rules 1019(3), 3003, 3004, and 3005.
 
-    (c) __Time for Filing. In a chapter 7 liquidation, chapter 12 family farmer’s debt adjustment, or chapter 13 individual’s debt adjustment case, a proof of claim is timely filed if it is filed not later than 90 days after the first date set for the meeting of creditors called under § 341(a) of the Code, except as follows:__ 
+    (b)  __Place of Filing__  __.__ 
+
+     A proof of claim or interest shall be filed in accordance with Rule 5005.
+
+    (c)  __Time for Filing__  __.__ 
+
+     In a chapter 7 liquidation, chapter 12 family farmer’s debt adjustment, or chapter 13 individual’s debt adjustment case, a proof of claim is timely filed if it is filed not later than 90 days after the first date set for the meeting of creditors called under § 341(a) of the Code, except as follows:
 
         (1) A proof of claim filed by a governmental unit, other than for a claim resulting from a tax return filed under § 1308, is timely filed if it is filed not later than 180 days after the date of the order for relief. A proof of claim filed by a governmental unit for a claim resulting from a tax return filed under § 1308 is timely filed if it is filed no later than 180 days after the date of the order for relief or 60 days after the date of the filing of the tax return. The court may, for cause, enlarge the time for a governmental unit to file a proof of claim only upon motion of the governmental unit made before expiration of the period for filing a timely proof of claim.
 

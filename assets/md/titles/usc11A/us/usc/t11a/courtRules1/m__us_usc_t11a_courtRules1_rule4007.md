@@ -15,15 +15,25 @@
 
 ### Rule 4007. Determination of Dischargeability of a Debt
 
-    (a) __Persons Entitled To File Complaint. A debtor or any creditor may file a complaint to obtain a determination of the dischargeability of any debt.__ 
+    (a)  __Persons Entitled To File Complaint__  __.__ 
 
-    (b) __Time for Commencing Proceeding Other Than Under § 523(c) of the Code. A complaint other than under § 523(c) may be filed at any time. A case may be reopened without payment of an additional filing fee for the purpose of filing a complaint to obtain a determination under this rule.__ 
+     A debtor or any creditor may file a complaint to obtain a determination of the dischargeability of any debt.
 
-    (c) __Time for Filing Complaint Under § 523(c) in a Chapter 7 Liquidation, Chapter 11 Reorganization, Chapter 12 Family Farmer’s Debt Adjustment Case, or Chapter 13 Individual’s Debt Adjustment Case; Notice of Time Fixed. Except as otherwise provided in subdivision (d), a complaint to determine the dischargeability of a debt under § 523(c) shall be filed no later than 60 days after the first date set for the meeting of creditors under § 341(a). The court shall give all creditors no less than 30 days’ notice of the time so fixed in the manner provided in Rule 2002. On motion of a party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision. The motion shall be filed before the time has expired.__ 
+    (b)  __Time for Commencing Proceeding Other Than Under __  __§ 523(c)__  __ of the Code__  __.__ 
 
-    (d) __Time for Filing Complaint Under § 523(a)(6) in a Chapter 13 Individual’s Debt Adjustment Case; Notice of Time Fixed. On motion by a debtor for a discharge under § 1328(b), the court shall enter an order fixing the time to file a complaint to determine the dischargeability of any debt under § 523(a)(6) and shall give no less than 30 days’ notice of the time fixed to all creditors in the manner provided in Rule 2002. On motion of any party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision. The motion shall be filed before the time has expired.__ 
+     A complaint other than under § 523(c) may be filed at any time. A case may be reopened without payment of an additional filing fee for the purpose of filing a complaint to obtain a determination under this rule.
 
-    (e) __Applicability of Rules in Part VII. A proceeding commenced by a complaint filed under this rule is governed by Part VII of these rules.__ 
+    (c)  __Time for Filing Complaint Under __  __§ 523(c)__  __ in a Chapter __  __7__  __ Liquidation, Chapter __  __11__  __ Reorganization, Chapter __  __12__  __ Family Farmer’s Debt Adjustment Case, or Chapter __  __13__  __ Individual’s Debt Adjustment Case; Notice of Time Fixed__  __.__ 
+
+     Except as otherwise provided in subdivision (d), a complaint to determine the dischargeability of a debt under § 523(c) shall be filed no later than 60 days after the first date set for the meeting of creditors under § 341(a). The court shall give all creditors no less than 30 days’ notice of the time so fixed in the manner provided in Rule 2002. On motion of a party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision. The motion shall be filed before the time has expired.
+
+    (d)  __Time for Filing Complaint Under __  __§ 523(a)(6)__  __ in a Chapter __  __13__  __ Individual’s Debt Adjustment Case; Notice of Time Fixed__  __.__ 
+
+     On motion by a debtor for a discharge under § 1328(b), the court shall enter an order fixing the time to file a complaint to determine the dischargeability of any debt under § 523(a)(6) and shall give no less than 30 days’ notice of the time fixed to all creditors in the manner provided in Rule 2002. On motion of any party in interest, after hearing on notice, the court may for cause extend the time fixed under this subdivision. The motion shall be filed before the time has expired.
+
+    (e)  __Applicability of Rules in Part VII__  __.__ 
+
+     A proceeding commenced by a complaint filed under this rule is governed by Part VII of these rules.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

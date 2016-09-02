@@ -15,13 +15,15 @@
 
 ### Rule 9029. Local Bankruptcy Rules; Procedure When There is No Controlling Law
 
-    (a) __Local Bankruptcy Rules.__ 
+    (a)  __Local Bankruptcy Rules__  __.__ 
 
         (1) Each district court acting by a majority of its district judges may make and amend rules governing practice and procedure in all cases and proceedings within the district court’s bankruptcy jurisdiction which are consistent with—but not duplicative of—Acts of Congress and these rules and which do not prohibit or limit the use of the Official Forms. Rule 83 F.R.Civ.P. governs the procedure for making local rules. A district court may authorize the bankruptcy judges of the district, subject to any limitation or condition it may prescribe and the requirements of 83 F.R.Civ.P., to make and amend rules of practice and procedure which are consistent with—but not duplicative of—Acts of Congress and these rules and which do not prohibit or limit the use of the Official Forms. Local rules shall conform to any uniform numbering system prescribed by the Judicial Conference of the United States.
 
         (2) A local rule imposing a requirement of form shall not be enforced in a manner that causes a party to lose rights because of a nonwillful failure to comply with the requirement.
 
-    (b) __Procedure When There is No Controlling Law. A judge may regulate practice in any manner consistent with federal law, these rules, Official Forms, and local rules of the district. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, Official Forms, or the local rules of the district unless the alleged violator has been furnished in the particular case with actual notice of the requirement.__ 
+    (b)  __Procedure When There is No Controlling Law__  __.__ 
+
+     A judge may regulate practice in any manner consistent with federal law, these rules, Official Forms, and local rules of the district. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, Official Forms, or the local rules of the district unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 27, 1995, eff. Dec. 1, 1995.)
 

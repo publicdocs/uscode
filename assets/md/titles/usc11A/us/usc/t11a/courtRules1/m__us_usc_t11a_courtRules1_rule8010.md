@@ -15,7 +15,9 @@
 
 ### Rule 8010. Form of Briefs; Length
 
-    (a) __Form of Briefs. Unless the district court or the bankruptcy appellate panel by local rule otherwise provides, the form of brief shall be as follows:__ 
+    (a)  __Form of Briefs__  __.__ 
+
+     Unless the district court or the bankruptcy appellate panel by local rule otherwise provides, the form of brief shall be as follows:
 
         (1)
 
@@ -35,9 +37,13 @@
 
         (2) Brief of the Appellee. The brief of the appellee shall conform to the requirements of paragraph (1)(A)–(E) of this subdivision, except that a statement of the basis of appellate jurisdiction, of the issues, or of the case need not be made unless the appellee is dissatisfied with the statement of the appellant.
 
-    (b) __Reproduction of Statutes, Rules, Regulations, or Similar Material. If determination of the issues presented requires reference to the Code or other statutes, rules, regulations, or similar material, relevant parts thereof shall be reproduced in the brief or in an addendum or they may be supplied to the court in pamphlet form.__ 
+    (b)  __Reproduction of Statutes, Rules, Regulations, or Similar Material__  __.__ 
 
-    (c) __Length of Briefs. Unless the district court or the bankruptcy appellate panel by local rule or order otherwise provides, principal briefs shall not exceed 50 pages, and reply briefs shall not exceed 25 pages, exclusive of pages containing the table of contents, tables of citations and any addendum containing statutes, rules, regulations, or similar material.__ 
+     If determination of the issues presented requires reference to the Code or other statutes, rules, regulations, or similar material, relevant parts thereof shall be reproduced in the brief or in an addendum or they may be supplied to the court in pamphlet form.
+
+    (c)  __Length of Briefs__  __.__ 
+
+     Unless the district court or the bankruptcy appellate panel by local rule or order otherwise provides, principal briefs shall not exceed 50 pages, and reply briefs shall not exceed 25 pages, exclusive of pages containing the table of contents, tables of citations and any addendum containing statutes, rules, regulations, or similar material.
 
  __Notes of Advisory Committee on Rules—1983__ 
 

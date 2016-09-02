@@ -15,9 +15,13 @@
 
 ### Rule 8016. Duties of Clerk of District Court and Bankruptcy Appellate Panel
 
-    (a) __Entry of Judgment. The clerk of the district court or the clerk of the bankruptcy appellate panel shall prepare, sign and enter the judgment following receipt of the opinion of the court or the appellate panel or, if there is no opinion, following the instruction of the court or the appellate panel. The notation of a judgment in the docket constitutes entry of judgment.__ 
+    (a)  __Entry of Judgment__  __.__ 
 
-    (b) __Notice of Orders or Judgments; Return of Record. Immediately on the entry of a judgment or order the clerk of the district court or the clerk of the bankruptcy appellate panel shall transmit a notice of the entry to each party to the appeal, to the United States trustee, and to the clerk, together with a copy of any opinion respecting the judgment or order, and shall make a note of the transmission in the docket. Original papers transmitted as the record on appeal shall be returned to the clerk on disposition of the appeal.__ 
+     The clerk of the district court or the clerk of the bankruptcy appellate panel shall prepare, sign and enter the judgment following receipt of the opinion of the court or the appellate panel or, if there is no opinion, following the instruction of the court or the appellate panel. The notation of a judgment in the docket constitutes entry of judgment.
+
+    (b)  __Notice of Orders or Judgments; Return of Record__  __.__ 
+
+     Immediately on the entry of a judgment or order the clerk of the district court or the clerk of the bankruptcy appellate panel shall transmit a notice of the entry to each party to the appeal, to the United States trustee, and to the clerk, together with a copy of any opinion respecting the judgment or order, and shall make a note of the transmission in the docket. Original papers transmitted as the record on appeal shall be returned to the clerk on disposition of the appeal.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

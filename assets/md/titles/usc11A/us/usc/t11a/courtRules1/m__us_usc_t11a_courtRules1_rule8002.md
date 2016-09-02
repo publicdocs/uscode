@@ -15,9 +15,13 @@
 
 ### Rule 8002. Time for Filing Notice of Appeal
 
-    (a) __Fourteen-Day Period. The notice of appeal shall be filed with the clerk within 14 days of the date of the entry of the judgment, order, or decree appealed from. If a timely notice of appeal is filed by a party, any other party may file a notice of appeal within 14 days of the date on which the first notice of appeal was filed, or within the time otherwise prescribed by this rule, whichever period last expires. A notice of appeal filed after the announcement of a decision or order but before entry of the judgment, order, or decree shall be treated as filed after such entry and on the day thereof. If a notice of appeal is mistakenly filed with the district court or the bankruptcy appellate panel, the clerk of the district court or the clerk of the bankruptcy appellate panel shall note thereon the date on which it was received and transmit it to the clerk and it shall be deemed filed with the clerk on the date so noted.__ 
+    (a)  __Fourteen-Day Period__  __.__ 
 
-    (b) __Effect of Motion on Time for Appeal. If any party makes a timely motion of a type specified immediately below, the time for appeal for all parties runs from the entry of the order disposing of the last such motion outstanding. This provision applies to a timely motion:__ 
+     The notice of appeal shall be filed with the clerk within 14 days of the date of the entry of the judgment, order, or decree appealed from. If a timely notice of appeal is filed by a party, any other party may file a notice of appeal within 14 days of the date on which the first notice of appeal was filed, or within the time otherwise prescribed by this rule, whichever period last expires. A notice of appeal filed after the announcement of a decision or order but before entry of the judgment, order, or decree shall be treated as filed after such entry and on the day thereof. If a notice of appeal is mistakenly filed with the district court or the bankruptcy appellate panel, the clerk of the district court or the clerk of the bankruptcy appellate panel shall note thereon the date on which it was received and transmit it to the clerk and it shall be deemed filed with the clerk on the date so noted.
+
+    (b)  __Effect of Motion on Time for Appeal__  __.__ 
+
+     If any party makes a timely motion of a type specified immediately below, the time for appeal for all parties runs from the entry of the order disposing of the last such motion outstanding. This provision applies to a timely motion:
 
         (1) to amend or make additional findings of fact under Rule 7052, whether or not granting the motion would alter the judgment;
 
@@ -27,7 +31,7 @@
 
         (4) for relief under Rule 9024 if the motion is filed no later than 14 days after the entry of judgment. A notice of appeal filed after announcement or entry of the judgment, order, or decree but before disposition of any of the above motions is ineffective to appeal from the judgment, order, or decree, or part thereof, specified in the notice of appeal, until the entry of the order disposing of the last such motion outstanding. Appellate review of an order disposing of any of the above motions requires the party, in compliance with Rule 8001, to amend a previously filed notice of appeal. A party intending to challenge an alteration or amendment of the judgment, order, or decree shall file a notice, or an amended notice, of appeal within the time prescribed by this Rule 8002 measured from the entry of the order disposing of the last such motion outstanding. No additional fees will be required for filing an amended notice.
 
-    (c) __Extension of Time for Appeal.__ 
+    (c)  __Extension of Time for Appeal__  __.__ 
 
         (1)
 

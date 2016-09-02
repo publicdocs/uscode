@@ -15,11 +15,13 @@
 
 ### Rule 7008. General Rules of Pleading
 
-    (a) __Applicability of Rule 8 F.__ 
+    (a)  __Applicability of Rule __  __8 F.R.Civ.P.__ 
 
-    R.Civ.P. Rule 8 F.R.Civ.P. applies in adversary proceedings. The allegation of jurisdiction required by Rule 8(a) shall also contain a reference to the name, number, and chapter of the case under the Code to which the adversary proceeding relates and to the district and division where the case under the Code is pending. In an adversary proceeding before a bankruptcy judge, the complaint, counterclaim, cross-claim, or third-party complaint shall contain a statement that the proceeding is core or non-core and, if non-core, that the pleader does or does not consent to entry of final orders or judgment by the bankruptcy judge.
+     Rule 8 F.R.Civ.P. applies in adversary proceedings. The allegation of jurisdiction required by Rule 8(a) shall also contain a reference to the name, number, and chapter of the case under the Code to which the adversary proceeding relates and to the district and division where the case under the Code is pending. In an adversary proceeding before a bankruptcy judge, the complaint, counterclaim, cross-claim, or third-party complaint shall contain a statement that the proceeding is core or non-core and, if non-core, that the pleader does or does not consent to entry of final orders or judgment by the bankruptcy judge.
 
-    (b) __Attorney’s Fees. A request for an award of attorney’s fees shall be pleaded as a claim in a complaint, cross-claim, third-party complaint, answer, or reply as may be appropriate.__ 
+    (b)  __Attorney’s Fees__  __.__ 
+
+     A request for an award of attorney’s fees shall be pleaded as a claim in a complaint, cross-claim, third-party complaint, answer, or reply as may be appropriate.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
 

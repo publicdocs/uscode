@@ -15,15 +15,21 @@
 
 ### Rule 1020. Small Business Chapter 11 Reorganization Case
 
-    (a) __Small Business Debtor Designation. In a voluntary chapter 11 case, the debtor shall state in the petition whether the debtor is a small business debtor. In an involuntary chapter 11 case, the debtor shall file within 14 days after entry of the order for relief a statement as to whether the debtor is a small business debtor. Except as provided in subdivision (c), the status of the case as a small business case shall be in accordance with the debtor’s statement under this subdivision, unless and until the court enters an order finding that the debtor’s statement is incorrect.__ 
+    (a)  __Small Business Debtor Designation__  __.__ 
 
-    (b) __Objecting to Designation. Except as provided in subdivision (c), the United States trustee or a party in interest may file an objection to the debtor’s statement under subdivision (a) no later than 30 days after the conclusion of the meeting of creditors held under § 341(a) of the Code, or within 30 days after any amendment to the statement, whichever is later.__ 
+     In a voluntary chapter 11 case, the debtor shall state in the petition whether the debtor is a small business debtor. In an involuntary chapter 11 case, the debtor shall file within 14 days after entry of the order for relief a statement as to whether the debtor is a small business debtor. Except as provided in subdivision (c), the status of the case as a small business case shall be in accordance with the debtor’s statement under this subdivision, unless and until the court enters an order finding that the debtor’s statement is incorrect.
 
-    (c) __Appointment of Committee of Unsecured Creditors. If a committee of unsecured creditors has been appointed under § 1102(a)(1), the case shall proceed as a small business case only if, and from the time when, the court enters an order determining that the committee has not been sufficiently active and representative to provide effective oversight of the debtor and that the debtor satisfies all the other requirements for being a small business. A request for a determination under this subdivision may be filed by the United States trustee or a party in interest only within a reasonable time after the failure of the committee to be sufficiently active and representative. The debtor may file a request for a determination at any time as to whether the committee has been sufficiently active and representative.__ 
+    (b)  __Objecting to Designation__  __.__ 
 
-    (d) __Procedure for Objection or Determination. Any objection or request for a determination under this rule shall be governed by Rule 9014 and served on:__ 
+     Except as provided in subdivision (c), the United States trustee or a party in interest may file an objection to the debtor’s statement under subdivision (a) no later than 30 days after the conclusion of the meeting of creditors held under § 341(a) of the Code, or within 30 days after any amendment to the statement, whichever is later.
 
-     the debtor; the debtor’s attorney; the United States trustee; the trustee; any committee appointed under § 1102 or its authorized agent, or, if no committee of unsecured creditors has been appointed under § 1102, the creditors included on the list filed under Rule 1007(d); and any other entity as the court directs.
+    (c)  __Appointment of Committee of Unsecured Creditors__  __.__ 
+
+     If a committee of unsecured creditors has been appointed under § 1102(a)(1), the case shall proceed as a small business case only if, and from the time when, the court enters an order determining that the committee has not been sufficiently active and representative to provide effective oversight of the debtor and that the debtor satisfies all the other requirements for being a small business. A request for a determination under this subdivision may be filed by the United States trustee or a party in interest only within a reasonable time after the failure of the committee to be sufficiently active and representative. The debtor may file a request for a determination at any time as to whether the committee has been sufficiently active and representative.
+
+    (d)  __Procedure for Objection or Determination__  __.__ 
+
+     Any objection or request for a determination under this rule shall be governed by Rule 9014 and served on: the debtor; the debtor’s attorney; the United States trustee; the trustee; any committee appointed under § 1102 or its authorized agent, or, if no committee of unsecured creditors has been appointed under § 1102, the creditors included on the list filed under Rule 1007(d); and any other entity as the court directs.
 
 (Added Apr. 11, 1997, eff. Dec. 1, 1997; amended Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

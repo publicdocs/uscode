@@ -15,15 +15,17 @@
 
 ### Rule 3020. Deposit; Confirmation of Plan in a Chapter 9 Municipality or Chapter 11 Reorganization Case
 
-    (a) __Deposit. In a chapter 11 case, prior to entry of the order confirming the plan, the court may order the deposit with the trustee or debtor in possession of the consideration required by the plan to be distributed on confirmation. Any money deposited shall be kept in a special account established for the exclusive purpose of making the distribution.__ 
+    (a)  __Deposit__  __.__ 
 
-    (b) __Objection to and Hearing on Confirmation in a Chapter 9 or Chapter 11 Case.__ 
+     In a chapter 11 case, prior to entry of the order confirming the plan, the court may order the deposit with the trustee or debtor in possession of the consideration required by the plan to be distributed on confirmation. Any money deposited shall be kept in a special account established for the exclusive purpose of making the distribution.
+
+    (b)  __Objection to and Hearing on Confirmation in a Chapter __  __9__  __ or Chapter __  __11__  __ Case__  __.__ 
 
         (1) Objection. An objection to confirmation of the plan shall be filed and served on the debtor, the trustee, the proponent of the plan, any committee appointed under the Code, and any other entity designated by the court, within a time fixed by the court. Unless the case is a chapter 9 municipality case, a copy of every objection to confirmation shall be transmitted by the objecting party to the United States trustee within the time fixed for filing objections. An objection to confirmation is governed by Rule 9014.
 
         (2) Hearing. The court shall rule on confirmation of the plan after notice and hearing as provided in Rule 2002. If no objection is timely filed, the court may determine that the plan has been proposed in good faith and not by any means forbidden by law without receiving evidence on such issues.
 
-    (c) __Order of Confirmation.__ 
+    (c)  __Order of Confirmation__  __.__ 
 
         (1) The order of confirmation shall conform to the appropriate Official Form. If the plan provides for an injunction against conduct not otherwise enjoined under the Code, the order of confirmation shall (1) describe in reasonable detail all acts enjoined; (2) be specific in its terms regarding the injunction; and (3) identify the entities subject to the injunction.
 
@@ -31,9 +33,13 @@
 
         (3) Except in a chapter 9 municipality case, notice of entry of the order of confirmation shall be transmitted to the United States trustee as provided in Rule 2002(k).
 
-    (d) __Retained Power. Notwithstanding the entry of the order of confirmation, the court may issue any other order necessary to administer the estate.__ 
+    (d)  __Retained Power__  __.__ 
 
-    (e) __Stay of Confirmation Order. An order confirming a plan is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.__ 
+     Notwithstanding the entry of the order of confirmation, the court may issue any other order necessary to administer the estate.
+
+    (e)  __Stay of Confirmation Order__  __.__ 
+
+     An order confirming a plan is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

@@ -15,13 +15,15 @@
 
 ### Rule 7004. Process; Service of Summons, Complaint
 
-    (a) __Summons; Service; Proof of Service.__ 
+    (a)  __Summons; Service; Proof of Service__  __.__ 
 
         (1) Except as provided in Rule 7004(a)(2), Rule 4(a), (b), (c)(1), (d)(1), (e)–(j), (l), and (m) F.R.Civ.P. applies in adversary proceedings. Personal service under Rule 4(e)–(j) F.R.Civ.P. may be made by any person at least 18 years of age who is not a party, and the summons may be delivered by the clerk to any such person.
 
         (2) The clerk may sign, seal, and issue a summons electronically by putting an “s/” before the clerk’s name and including the court’s seal on the summons.
 
-    (b) __Service by First Class Mail. Except as provided in subdivision (h), in addition to the methods of service authorized by Rule 4(e)–(j) F.R.Civ.P., service may be made within the United States by first class mail postage prepaid as follows:__ 
+    (b)  __Service by First Class Mail__  __.__ 
+
+     Except as provided in subdivision (h), in addition to the methods of service authorized by Rule 4(e)–(j) F.R.Civ.P., service may be made within the United States by first class mail postage prepaid as follows:
 
         (1) Upon an individual other than an infant or incompetent, by mailing a copy of the summons and complaint to the individual’s dwelling house or usual place of abode or to the place where the individual regularly conducts a business or profession.
 
@@ -43,17 +45,29 @@
 
         (10) Upon the United States trustee, when the United States trustee is the trustee in the case and service is made upon the United States trustee solely as trustee, by mailing a copy of the summons and complaint to an office of the United States trustee or another place designated by the United States trustee in the district where the case under the Code is pending.
 
-    (c) __Service by Publication. If a party to an adversary proceeding to determine or protect rights in property in the custody of the court cannot be served as provided in Rule 4(e)–(j) F.R.Civ.P. or subdivision (b) of this rule, the court may order the summons and complaint to be served by mailing copies thereof by first class mail, postage prepaid, to the party’s last known address, and by at least one publication in such manner and form as the court may direct.__ 
+    (c)  __Service by Publication__  __.__ 
 
-    (d) __Nationwide Service of Process. The summons and complaint and all other process except a subpoena may be served anywhere in the United States.__ 
+     If a party to an adversary proceeding to determine or protect rights in property in the custody of the court cannot be served as provided in Rule 4(e)–(j) F.R.Civ.P. or subdivision (b) of this rule, the court may order the summons and complaint to be served by mailing copies thereof by first class mail, postage prepaid, to the party’s last known address, and by at least one publication in such manner and form as the court may direct.
 
-    (e) __Summons: Time Limit for Service Within the United States. Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2) F.R.Civ.P. shall be by delivery of the summons and complaint within 14 days after the summons is issued. If service is by any authorized form of mail, the summons and complaint shall be deposited in the mail within 14 days after the summons is issued. If a summons is not timely delivered or mailed, another summons shall be issued and served. This subdivision does not apply to service in a foreign country.__ 
+    (d)  __Nationwide Service of Process__  __.__ 
 
-    (f) __Personal Jurisdiction. If the exercise of jurisdiction is consistent with the Constitution and laws of the United States, serving a summons or filing a waiver of service in accordance with this rule or the subdivisions of Rule 4 F.R.Civ.P. made applicable by these rules is effective to establish personal jurisdiction over the person of any defendant with respect to a case under the Code or a civil proceeding arising under the Code, or arising in or related to a case under the Code.__ 
+     The summons and complaint and all other process except a subpoena may be served anywhere in the United States.
 
-    (g) __Service on Debtor’s Attorney. If the debtor is represented by an attorney, whenever service is made upon the debtor under this Rule, service shall also be made upon the debtor’s attorney by any means authorized under Rule 5(b) F.R.Civ.P.__ 
+    (e)  __Summons: Time Limit for Service Within the United States__  __.__ 
 
-    (h) __Service of Process on an Insured Depository Institution. Service on an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act) in a contested matter or adversary proceeding shall be made by certified mail addressed to an officer of the institution unless—__ 
+     Service made under Rule 4(e), (g), (h)(1), (i), or (j)(2) F.R.Civ.P. shall be by delivery of the summons and complaint within 14 days after the summons is issued. If service is by any authorized form of mail, the summons and complaint shall be deposited in the mail within 14 days after the summons is issued. If a summons is not timely delivered or mailed, another summons shall be issued and served. This subdivision does not apply to service in a foreign country.
+
+    (f)  __Personal Jurisdiction__  __.__ 
+
+     If the exercise of jurisdiction is consistent with the Constitution and laws of the United States, serving a summons or filing a waiver of service in accordance with this rule or the subdivisions of Rule 4 F.R.Civ.P. made applicable by these rules is effective to establish personal jurisdiction over the person of any defendant with respect to a case under the Code or a civil proceeding arising under the Code, or arising in or related to a case under the Code.
+
+    (g)  __Service on Debtor’s Attorney__  __.__ 
+
+     If the debtor is represented by an attorney, whenever service is made upon the debtor under this Rule, service shall also be made upon the debtor’s attorney by any means authorized under Rule 5(b) F.R.Civ.P.
+
+    (h)  __Service of Process on an Insured Depository Institution__  __.__ 
+
+     Service on an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act) in a contested matter or adversary proceeding shall be made by certified mail addressed to an officer of the institution unless—
 
         (1) the institution has appeared by its attorney, in which case the attorney shall be served by first class mail;
 

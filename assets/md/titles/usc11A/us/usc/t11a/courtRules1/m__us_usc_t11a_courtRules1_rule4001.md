@@ -15,7 +15,7 @@
 
 ### Rule 4001. Relief from Automatic Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property; Use of Cash Collateral; Obtaining Credit; Agreements
 
-    (a) __Relief From Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property.__ 
+    (a)  __Relief From Stay; Prohibiting or Conditioning the Use, Sale, or Lease of Property__  __.__ 
 
         (1) Motion. A motion for relief from an automatic stay provided by the Code or a motion to prohibit or condition the use, sale, or lease of property pursuant to § 363(e) shall be made in accordance with Rule 9014 and shall be served on any committee elected pursuant to § 705 or appointed pursuant to § 1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed pursuant to § 1102, on the creditors included on the list filed pursuant to Rule 1007(d), and on such other entities as the court may direct.
 
@@ -23,7 +23,7 @@
 
         (3) Stay of Order. An order granting a motion for relief from an automatic stay made in accordance with Rule 4001(a)(1) is stayed until the expiration of 14 days after the entry of the order, unless the court orders otherwise.
 
-    (b) __Use of Cash Collateral.__ 
+    (b)  __Use of Cash Collateral__  __.__ 
 
         (1)
 
@@ -49,7 +49,7 @@
 
         (3) Notice. Notice of hearing pursuant to this subdivision shall be given to the parties on whom service of the motion is required by paragraph (1) of this subdivision and to such other entities as the court may direct.
 
-    (c) __Obtaining Credit.__ 
+    (c)  __Obtaining Credit__  __.__ 
 
         (1)
 
@@ -89,7 +89,7 @@
 
         (3) Notice. Notice of hearing pursuant to this subdivision shall be given to the parties on whom service of the motion is required by paragraph (1) of this subdivision and to such other entities as the court may direct.
 
-    (d) __Agreement Relating to Relief From the Automatic Stay, Prohibiting or Conditioning the Use, Sale, or Lease of Property, Providing Adequate Protection, Use of Cash Collateral, and Obtaining Credit.__ 
+    (d)  __Agreement Relating to Relief From the Automatic Stay, Prohibiting or Conditioning the Use, Sale, or Lease of Property, Providing Adequate Protection, Use of Cash Collateral, and Obtaining Credit__  __.__ 
 
         (1)
 

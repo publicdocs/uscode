@@ -15,11 +15,17 @@
 
 ### Rule 8017. Stay of Judgment of District Court or Bankruptcy Appellate Panel
 
-    (a) __Automatic Stay of Judgment on Appeal. Judgments of the district court or the bankruptcy appellate panel are stayed until the expiration of 14 days after entry, unless otherwise ordered by the district court or the bankruptcy appellate panel.__ 
+    (a)  __Automatic Stay of Judgment on Appeal__  __.__ 
 
-    (b) __Stay Pending Appeal to the Court of Appeals. On motion and notice to the parties to the appeal, the district court or the bankruptcy appellate panel may stay its judgment pending an appeal to the court of appeals. The stay shall not extend beyond 30 days after the entry of the judgment of the district court or the bankruptcy appellate panel unless the period is extended for cause shown. If before the expiration of a stay entered pursuant to this subdivision there is an appeal to the court of appeals by the party who obtained the stay, the stay shall continue until final disposition by the court of appeals. A bond or other security may be required as a condition to the grant or continuation of a stay of the judgment. A bond or other security may be required if a trustee obtains a stay but a bond or security shall not be required if a stay is obtained by the United States or an officer or agency thereof or at the direction of any department of the Government of the United States.__ 
+     Judgments of the district court or the bankruptcy appellate panel are stayed until the expiration of 14 days after entry, unless otherwise ordered by the district court or the bankruptcy appellate panel.
 
-    (c) __Power of Court of Appeals Not Limited. This rule does not limit the power of a court of appeals or any judge thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore, or grant an injunction during the pendency of an appeal or to make any order appropriate to preserve the status quo or the effectiveness of the judgment subsequently to be entered.__ 
+    (b)  __Stay Pending Appeal to the Court of Appeals__  __.__ 
+
+     On motion and notice to the parties to the appeal, the district court or the bankruptcy appellate panel may stay its judgment pending an appeal to the court of appeals. The stay shall not extend beyond 30 days after the entry of the judgment of the district court or the bankruptcy appellate panel unless the period is extended for cause shown. If before the expiration of a stay entered pursuant to this subdivision there is an appeal to the court of appeals by the party who obtained the stay, the stay shall continue until final disposition by the court of appeals. A bond or other security may be required as a condition to the grant or continuation of a stay of the judgment. A bond or other security may be required if a trustee obtains a stay but a bond or security shall not be required if a stay is obtained by the United States or an officer or agency thereof or at the direction of any department of the Government of the United States.
+
+    (c)  __Power of Court of Appeals Not Limited__  __.__ 
+
+     This rule does not limit the power of a court of appeals or any judge thereof to stay proceedings during the pendency of an appeal or to suspend, modify, restore, or grant an injunction during the pendency of an appeal or to make any order appropriate to preserve the status quo or the effectiveness of the judgment subsequently to be entered.
 
 (As amended Mar. 26, 2009, eff. Dec. 1, 2009.)
 

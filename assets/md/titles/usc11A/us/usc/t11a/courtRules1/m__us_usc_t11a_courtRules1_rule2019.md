@@ -15,7 +15,9 @@
 
 ### Rule 2019. Disclosure Regarding Creditors and Equity Security Holders in Chapter 9 and Chapter 11 Cases
 
-    (a) __Definitions. In this rule the following terms have the meanings indicated:__ 
+    (a)  __Definitions__  __.__ 
+
+     In this rule the following terms have the meanings indicated:
 
         (1) “Disclosable economic interest” means any claim, interest, pledge, lien, option, participation, derivative instrument, or any other right or derivative right granting the holder an economic interest that is affected by the value, acquisition, or disposition of a claim or interest.
 
@@ -37,7 +39,9 @@
 
             (D) a governmental unit that is not a person.
 
-    (c) __Information Required. The verified statement shall include:__ 
+    (c)  __Information Required__  __.__ 
+
+     The verified statement shall include:
 
         (1)
 
@@ -67,7 +71,9 @@
 
         (4) a copy of the instrument, if any, authorizing the entity, group, or committee to act on behalf of creditors or equity security holders.
 
-    (d) __Supplemental Statements. If any fact disclosed in its most recently filed statement has changed materially, an entity, group, or committee shall file a verified supplemental statement whenever it takes a position before the court or solicits votes on the confirmation of a plan. The supplemental statement shall set forth the material changes in the facts required by subdivision (c) to be disclosed.__ 
+    (d)  __Supplemental Statements__  __.__ 
+
+     If any fact disclosed in its most recently filed statement has changed materially, an entity, group, or committee shall file a verified supplemental statement whenever it takes a position before the court or solicits votes on the confirmation of a plan. The supplemental statement shall set forth the material changes in the facts required by subdivision (c) to be disclosed.
 
     (e) __Determination of Failure to Comply; Sanctions.__ 
 

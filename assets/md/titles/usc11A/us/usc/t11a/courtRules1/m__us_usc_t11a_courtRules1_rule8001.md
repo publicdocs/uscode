@@ -15,17 +15,23 @@
 
 ### Rule 8001. Manner of Taking Appeal; Voluntary Dismissal; Certification to Court of Appeals
 
-    (a) __Appeal as of Right; How Taken. An appeal from a judgment, order, or decree of a bankruptcy judge to a district court or bankruptcy appellate panel as permitted by 28 U.S.C. § 158(a)(1) or (a)(2) shall be taken by filing a notice of appeal with the clerk within the time allowed by Rule 8002. An appellant’s failure to take any step other than timely filing a notice of appeal does not affect the validity of the appeal, but is ground only for such action as the district court or bankruptcy appellate panel deems appropriate, which may include dismissal of the appeal. The notice of appeal shall (1) conform substantially to the appropriate Official Form, (2) contain the names of all parties to the judgment, order, or decree appealed from and the names, addresses, and telephone numbers of their respective attorneys, and (3) be accompanied by the prescribed fee. Each appellant shall file a sufficient number of copies of the notice of appeal to enable the clerk to comply promptly with Rule 8004.__ 
+    (a)  __Appeal as of Right; How Taken__  __.__ 
 
-    (b) __Appeal by Leave; How Taken. An appeal from an interlocutory judgment, order, or decree of a bankruptcy judge as permitted by 28 U.S.C. § 158(a)(3) shall be taken by filing a notice of appeal, as prescribed in subdivision (a) of this rule, accompanied by a motion for leave to appeal prepared in accordance with Rule 8003 and with proof of service in accordance with Rule 8008.__ 
+     An appeal from a judgment, order, or decree of a bankruptcy judge to a district court or bankruptcy appellate panel as permitted by 28 U.S.C. § 158(a)(1) or (a)(2) shall be taken by filing a notice of appeal with the clerk within the time allowed by Rule 8002. An appellant’s failure to take any step other than timely filing a notice of appeal does not affect the validity of the appeal, but is ground only for such action as the district court or bankruptcy appellate panel deems appropriate, which may include dismissal of the appeal. The notice of appeal shall (1) conform substantially to the appropriate Official Form, (2) contain the names of all parties to the judgment, order, or decree appealed from and the names, addresses, and telephone numbers of their respective attorneys, and (3) be accompanied by the prescribed fee. Each appellant shall file a sufficient number of copies of the notice of appeal to enable the clerk to comply promptly with Rule 8004.
 
-    (c) __Voluntary Dismissal.__ 
+    (b)  __Appeal by Leave; How Taken__  __.__ 
+
+     An appeal from an interlocutory judgment, order, or decree of a bankruptcy judge as permitted by 28 U.S.C. § 158(a)(3) shall be taken by filing a notice of appeal, as prescribed in subdivision (a) of this rule, accompanied by a motion for leave to appeal prepared in accordance with Rule 8003 and with proof of service in accordance with Rule 8008.
+
+    (c)  __Voluntary Dismissal__  __.__ 
 
         (1) Before Docketing. If an appeal has not been docketed, the appeal may be dismissed by the bankruptcy judge on the filing of a stipulation for dismissal signed by all the parties, or on motion and notice by the appellant.
 
         (2) After Docketing. If an appeal has been docketed and the parties to the appeal sign and file with the clerk of the district court or the clerk of the bankruptcy appellate panel an agreement that the appeal be dismissed and pay any court costs or fees that may be due, the clerk of the district court or the clerk of the bankruptcy appellate panel shall enter an order dismissing the appeal. An appeal may also be dismissed on motion of the appellant on terms and conditions fixed by the district court or bankruptcy appellate panel.
 
-    \[(d) __Effect of Taking a Direct Appeal to the Court of Appeals\] (Abrogated__  __Mar. 30, 1987__  __, eff.__  __Aug. 1, 1987__  __)__ 
+    \[(d)  __Effect of Taking a Direct Appeal to the Court of Appeals__  __\]__ 
+
+     (Abrogated Mar. 30, 1987, eff. Aug. 1, 1987)
 
     (e) __Election To Have Appeal Heard by District Court Instead of Bankruptcy Appellate Panel; Withdrawal of Election.__ 
 

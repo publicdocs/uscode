@@ -15,9 +15,13 @@
 
 ### Rule 1002. Commencement of Case
 
-    (a) __Petition. A petition commencing a case under the Code shall be filed with the clerk.__ 
+    (a)  __Petition__  __.__ 
 
-    (b) __Transmission to United States Trustee. The clerk shall forthwith transmit to the United States trustee a copy of the petition filed pursuant to subdivision (a) of this rule.__ 
+     A petition commencing a case under the Code shall be filed with the clerk.
+
+    (b)  __Transmission to United States Trustee__  __.__ 
+
+     The clerk shall forthwith transmit to the United States trustee a copy of the petition filed pursuant to subdivision (a) of this rule.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

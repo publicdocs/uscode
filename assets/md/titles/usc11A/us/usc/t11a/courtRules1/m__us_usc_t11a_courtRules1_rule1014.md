@@ -15,13 +15,15 @@
 
 ### Rule 1014. Dismissal and Change of Venue
 
-    (a) __Dismissal and Transfer of Cases.__ 
+    (a)  __Dismissal and Transfer of Cases__  __.__ 
 
         (1) Cases Filed in Proper District. If a petition is filed in the proper district, the court, on the timely motion of a party in interest or on its own motion, and after hearing on notice to the petitioners, the United States trustee, and other entities as directed by the court, may transfer the case to any other district if the court determines that the transfer is in the interest of justice or for the convenience of the parties.
 
         (2) Cases Filed in Improper District. If a petition is filed in an improper district, the court, on the timely motion of a party in interest or on its own motion, and after hearing on notice to the petitioners, the United States trustee, and other entities as directed by the court, may dismiss the case or transfer it to any other district if the court determines that transfer is in the interest of justice or for the convenience of the parties.
 
-    (b) __Procedure When Petitions Involving the Same Debtor or Related Debtors Are Filed in Different Courts. If petitions commencing cases under the Code or seeking recognition under chapter 15 are filed in different districts by, regarding, or against (1) the same debtor, (2) a partnership and one or more of its general partners, (3) two or more general partners, or (4) a debtor and an affiliate, on motion filed in the district in which the petition filed first is pending and after hearing on notice to the petitioners, the United States trustee, and other entities as directed by the court, the court may determine, in the interest of justice or for the convenience of the parties, the district or districts in which the case or cases should proceed. Except as otherwise ordered by the court in the district in which the petition filed first is pending, the proceedings on the other petitions shall be stayed by the courts in which they have been filed until the determination is made.__ 
+    (b)  __Procedure When Petitions Involving the Same Debtor or Related Debtors Are Filed in Different Courts__  __.__ 
+
+     If petitions commencing cases under the Code or seeking recognition under chapter 15 are filed in different districts by, regarding, or against (1) the same debtor, (2) a partnership and one or more of its general partners, (3) two or more general partners, or (4) a debtor and an affiliate, on motion filed in the district in which the petition filed first is pending and after hearing on notice to the petitioners, the United States trustee, and other entities as directed by the court, the court may determine, in the interest of justice or for the convenience of the parties, the district or districts in which the case or cases should proceed. Except as otherwise ordered by the court in the district in which the petition filed first is pending, the proceedings on the other petitions shall be stayed by the courts in which they have been filed until the determination is made.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007; Apr. 28, 2010, eff. Dec. 1, 2010.)
 

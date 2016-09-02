@@ -15,9 +15,13 @@
 
 ### Rule 2007. Review of Appointment of Creditors’ Committee Organized Before Commencement of the Case
 
-    (a) __Motion To Review Appointment. If a committee appointed by the United States trustee pursuant to § 1102(a) of the Code consists of the members of a committee organized by creditors before the commencement of a chapter 9 or chapter 11 case, on motion of a party in interest and after a hearing on notice to the United States trustee and other entities as the court may direct, the court may determine whether the appointment of the committee satisfies the requirements of § 1102(b)(1) of the Code.__ 
+    (a)  __Motion To Review Appointment__  __.__ 
 
-    (b) __Selection of Members of Committee. The court may find that a committee organized by unsecured creditors before the commencement of a chapter 9 or chapter 11 case was fairly chosen if:__ 
+     If a committee appointed by the United States trustee pursuant to § 1102(a) of the Code consists of the members of a committee organized by creditors before the commencement of a chapter 9 or chapter 11 case, on motion of a party in interest and after a hearing on notice to the United States trustee and other entities as the court may direct, the court may determine whether the appointment of the committee satisfies the requirements of § 1102(b)(1) of the Code.
+
+    (b)  __Selection of Members of Committee__  __.__ 
+
+     The court may find that a committee organized by unsecured creditors before the commencement of a chapter 9 or chapter 11 case was fairly chosen if:
 
         (1) it was selected by a majority in number and amount of claims of unsecured creditors who may vote under § 702(a) of the Code and were present in person or represented at a meeting of which all creditors having unsecured claims of over $1,000 or the 100 unsecured creditors having the largest claims had at least seven days’ notice in writing, and of which meeting written minutes reporting the names of the creditors present or represented and voting and the amounts of their claims were kept and are available for inspection;
 
@@ -25,7 +29,9 @@
 
         (3) the organization of the committee was in all other respects fair and proper.
 
-    (c) __Failure To Comply With Requirements for Appointment. After a hearing on notice pursuant to subdivision (a) of this rule, the court shall direct the United States trustee to vacate the appointment of the committee and may order other appropriate action if the court finds that such appointment failed to satisfy the requirements of § 1102(b)(1) of the Code.__ 
+    (c)  __Failure To Comply With Requirements for Appointment__  __.__ 
+
+     After a hearing on notice pursuant to subdivision (a) of this rule, the court shall direct the United States trustee to vacate the appointment of the committee and may order other appropriate action if the court finds that such appointment failed to satisfy the requirements of § 1102(b)(1) of the Code.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

@@ -15,13 +15,21 @@
 
 ### Rule 1009. Amendments of Voluntary Petitions, Lists, Schedules and Statements
 
-    (a) __General Right To Amend. A voluntary petition, list, schedule, or statement may be amended by the debtor as a matter of course at any time before the case is closed. The debtor shall give notice of the amendment to the trustee and to any entity affected thereby. On motion of a party in interest, after notice and a hearing, the court may order any voluntary petition, list, schedule, or statement to be amended and the clerk shall give notice of the amendment to entities designated by the court.__ 
+    (a)  __General Right To Amend__  __.__ 
 
-    (b) __Statement of Intention. The statement of intention may be amended by the debtor at any time before the expiration of the period provided in § 521(a) of the Code. The debtor shall give notice of the amendment to the trustee and to any entity affected thereby.__ 
+     A voluntary petition, list, schedule, or statement may be amended by the debtor as a matter of course at any time before the case is closed. The debtor shall give notice of the amendment to the trustee and to any entity affected thereby. On motion of a party in interest, after notice and a hearing, the court may order any voluntary petition, list, schedule, or statement to be amended and the clerk shall give notice of the amendment to entities designated by the court.
 
-    (c) __Statement of Social Security Number. If a debtor becomes aware that the statement of social security number submitted under Rule 1007(f) is incorrect, the debtor shall promptly submit an amended verified statement setting forth the correct social security number. The debtor shall give notice of the amendment to all of the entities required to be included on the list filed under Rule 1007(a)(1) or (a)(2).__ 
+    (b)  __Statement of Intention__  __.__ 
 
-    (d) __Transmission to United States Trustee. The clerk shall promptly transmit to the United States trustee a copy of every amendment filed or submitted under subdivision (a), (b), or (c) of this rule.__ 
+     The statement of intention may be amended by the debtor at any time before the expiration of the period provided in § 521(a) of the Code. The debtor shall give notice of the amendment to the trustee and to any entity affected thereby.
+
+    (c)  __Statement of Social Security Number__  __.__ 
+
+     If a debtor becomes aware that the statement of social security number submitted under Rule 1007(f) is incorrect, the debtor shall promptly submit an amended verified statement setting forth the correct social security number. The debtor shall give notice of the amendment to all of the entities required to be included on the list filed under Rule 1007(a)(1) or (a)(2).
+
+    (d)  __Transmission to United States Trustee__  __.__ 
+
+     The clerk shall promptly transmit to the United States trustee a copy of every amendment filed or submitted under subdivision (a), (b), or (c) of this rule.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 12, 2006, eff. Dec. 1, 2006; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

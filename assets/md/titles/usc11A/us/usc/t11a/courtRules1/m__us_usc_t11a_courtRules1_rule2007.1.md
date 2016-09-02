@@ -15,9 +15,11 @@
 
 ### Rule 2007.1. Appointment of Trustee or Examiner in a Chapter 11 Reorganization Case
 
-    (a) __Order To Appoint Trustee or Examiner. In a chapter 11 reorganization case, a motion for an order to appoint a trustee or an examiner under § 1104(a) or § 1104(c) of the Code shall be made in accordance with Rule 9014.__ 
+    (a)  __Order To Appoint Trustee or Examiner__  __.__ 
 
-    (b) __Election of Trustee.__ 
+     In a chapter 11 reorganization case, a motion for an order to appoint a trustee or an examiner under § 1104(a) or § 1104(c) of the Code shall be made in accordance with Rule 9014.
+
+    (b)  __Election of Trustee__  __.__ 
 
         (1) Request for an Election. A request to convene a meeting of creditors for the purpose of electing a trustee in a chapter 11 reorganization case shall be filed and transmitted to the United States trustee in accordance with Rule 5005 within the time prescribed by § 1104(b) of the Code. Pending court approval of the person elected, any person appointed by the United States trustee under § 1104(d) and approved in accordance with subdivision (c) of this rule shall serve as trustee.
 
@@ -31,7 +33,9 @@
 
             (B) Dispute Arising Out of an Election. If a dispute arises out of an election, the United States trustee shall promptly file a report stating that the election is disputed, informing the court of the nature of the dispute, and listing the name and address of any candidate elected under any alternative presented by the dispute. The report shall be accompanied by a verified statement by each candidate elected under each alternative presented by the dispute, setting forth the person’s connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee. Not later than the date on which the report of the disputed election is filed, the United States trustee shall mail a copy of the report and each verified statement to any party in interest that has made a request to convene a meeting under § 1104(b) or to receive a copy of the report, and to any committee appointed under § 1102 of the Code.
 
-    (c) __Approval of Appointment. An order approving the appointment of a trustee or an examiner under § 1104(d) of the Code shall be made on application of the United States trustee. The application shall state the name of the person appointed and, to the best of the applicant’s knowledge, all the person’s connections with the debtor, creditors, any other parties in interest, their respective attorneys and accountants, the United States trustee, or persons employed in the office of the United States trustee. The application shall state the names of the parties in interest with whom the United States trustee consulted regarding the appointment. The application shall be accompanied by a verified statement of the person appointed setting forth the person’s connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.__ 
+    (c)  __Approval of Appointment__  __.__ 
+
+     An order approving the appointment of a trustee or an examiner under § 1104(d) of the Code shall be made on application of the United States trustee. The application shall state the name of the person appointed and, to the best of the applicant’s knowledge, all the person’s connections with the debtor, creditors, any other parties in interest, their respective attorneys and accountants, the United States trustee, or persons employed in the office of the United States trustee. The application shall state the names of the parties in interest with whom the United States trustee consulted regarding the appointment. The application shall be accompanied by a verified statement of the person appointed setting forth the person’s connections with the debtor, creditors, any other party in interest, their respective attorneys and accountants, the United States trustee, or any person employed in the office of the United States trustee.
 
 (Added Apr. 30, 1991, eff. Aug. 1, 1991; amended Apr. 11, 1997, eff. Dec. 1, 1997; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

@@ -15,9 +15,13 @@
 
 ### Rule 4008. Filing of Reaffirmation Agreement; Statement in Support of Reaffirmation Agreement
 
-    (a) __Filing of Reaffirmation Agreement. A reaffirmation agreement shall be filed no later than 60 days after the first date set for the meeting of creditors under § 341(a) of the Code. The reaffirmation agreement shall be accompanied by a cover sheet, prepared as prescribed by the appropriate Official Form. The court may, at any time and in its discretion, enlarge the time to file a reaffirmation agreement.__ 
+    (a)  __Filing of Reaffirmation Agreement__  __.__ 
 
-    (b) __Statement in Support of Reaffirmation Agreement. The debtor’s statement required under § 524(k)(6)(A) of the Code shall be accompanied by a statement of the total income and expenses stated on schedules I and J. If there is a difference between the total income and expenses stated on those schedules and the statement required under § 524(k)(6)(A), the statement required by this subdivision shall include an explanation of the difference.__ 
+     A reaffirmation agreement shall be filed no later than 60 days after the first date set for the meeting of creditors under § 341(a) of the Code. The reaffirmation agreement shall be accompanied by a cover sheet, prepared as prescribed by the appropriate Official Form. The court may, at any time and in its discretion, enlarge the time to file a reaffirmation agreement.
+
+    (b)  __Statement in Support of Reaffirmation Agreement__  __.__ 
+
+     The debtor’s statement required under § 524(k)(6)(A) of the Code shall be accompanied by a statement of the total income and expenses stated on schedules I and J. If there is a difference between the total income and expenses stated on those schedules and the statement required under § 524(k)(6)(A), the statement required by this subdivision shall include an explanation of the difference.
 
 (As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

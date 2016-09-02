@@ -15,23 +15,29 @@
 
 ### Rule 2006. Solicitation and Voting of Proxies in Chapter 7 Liquidation Cases
 
-    (a) __Applicability. This rule applies only in a liquidation case pending under chapter 7 of the Code.__ 
+    (a)  __Applicability__  __.__ 
 
-    (b) __Definitions.__ 
+     This rule applies only in a liquidation case pending under chapter 7 of the Code.
+
+    (b)  __Definitions__  __.__ 
 
         (1) Proxy. A proxy is a written power of attorney authorizing any entity to vote the claim or otherwise act as the owner’s attorney in fact in connection with the administration of the estate.
 
         (2) Solicitation of Proxy. The solicitation of a proxy is any communication, other than one from an attorney to a regular client who owns a claim or from an attorney to the owner of a claim who has requested the attorney to represent the owner, by which a creditor is asked, directly or indirectly, to give a proxy after or in contemplation of the filing of a petition by or against the debtor.
 
-    (c) __Authorized Solicitation.__ 
+    (c)  __Authorized Solicitation__  __.__ 
 
         (1) A proxy may be solicited only by (A) a creditor owning an allowable unsecured claim against the estate on the date of the filing of the petition; (B) a committee elected pursuant to § 705 of the Code; (C) a committee of creditors selected by a majority in number and amount of claims of creditors (i) whose claims are not contingent or unliquidated, (ii) who are not disqualified from voting under § 702(a) of the Code and (iii) who were present or represented at a meeting of which all creditors having claims of over $500 or the 100 creditors having the largest claims had at least seven days’ notice in writing and of which meeting written minutes were kept and are available reporting the names of the creditors present or represented and voting and the amounts of their claims; or (D) a bona fide trade or credit association, but such association may solicit only creditors who were its members or subscribers in good standing and had allowable unsecured claims on the date of the filing of the petition.
 
         (2) A proxy may be solicited only in writing.
 
-    (d) __Solicitation Not Authorized. This rule does not permit solicitation (1) in any interest other than that of general creditors; (2) by or on behalf of any custodian; (3) by the interim trustee or by or on behalf of any entity not qualified to vote under § 702(a) of the Code; (4) by or on behalf of an attorney at law; or (5) by or on behalf of a transferee of a claim for collection only.__ 
+    (d)  __Solicitation Not Authorized__  __.__ 
 
-    (e) __Data Required From Holders of Multiple Proxies. At any time before the voting commences at any meeting of creditors pursuant to § 341(a) of the Code, or at any other time as the court may direct, a holder of two or more proxies shall file and transmit to the United States trustee a verified list of the proxies to be voted and a verified statement of the pertinent facts and circumstances in connection with the execution and delivery of each proxy, including:__ 
+     This rule does not permit solicitation (1) in any interest other than that of general creditors; (2) by or on behalf of any custodian; (3) by the interim trustee or by or on behalf of any entity not qualified to vote under § 702(a) of the Code; (4) by or on behalf of an attorney at law; or (5) by or on behalf of a transferee of a claim for collection only.
+
+    (e)  __Data Required From Holders of Multiple Proxies__  __.__ 
+
+     At any time before the voting commences at any meeting of creditors pursuant to § 341(a) of the Code, or at any other time as the court may direct, a holder of two or more proxies shall file and transmit to the United States trustee a verified list of the proxies to be voted and a verified statement of the pertinent facts and circumstances in connection with the execution and delivery of each proxy, including:
 
         (1) a copy of the solicitation;
 
@@ -45,7 +51,9 @@
 
         (6) if the solicitor, forwarder, or proxyholder is a committee, a statement signed and verified by each member as to the amount and source of any consideration paid or to be paid to such member in connection with the case other than by way of dividend on the member’s claim.
 
-    (f) __Enforcement of Restrictions on Solicitation. On motion of any party in interest or on its own initiative, the court may determine whether there has been a failure to comply with the provisions of this rule or any other impropriety in connection with the solicitation or voting of a proxy. After notice and a hearing the court may reject any proxy for cause, vacate any order entered in consequence of the voting of any proxy which should have been rejected, or take any other appropriate action.__ 
+    (f)  __Enforcement of Restrictions on Solicitation__  __.__ 
+
+     On motion of any party in interest or on its own initiative, the court may determine whether there has been a failure to comply with the provisions of this rule or any other impropriety in connection with the solicitation or voting of a proxy. After notice and a hearing the court may reject any proxy for cause, vacate any order entered in consequence of the voting of any proxy which should have been rejected, or take any other appropriate action.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

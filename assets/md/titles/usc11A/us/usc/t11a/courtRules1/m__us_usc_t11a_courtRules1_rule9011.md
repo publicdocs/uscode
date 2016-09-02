@@ -15,9 +15,13 @@
 
 ### Rule 9011. Signing of Papers; Representations to the Court; Sanctions; Verification and Copies of Papers
 
-    (a) __Signature. Every petition, pleading, written motion, and other paper, except a list, schedule, or statement, or amendments thereto, shall be signed by at least one attorney of record in the attorney’s individual name. A party who is not represented by an attorney shall sign all papers. Each paper shall state the signer’s address and telephone number, if any. An unsigned paper shall be stricken unless omission of the signature is corrected promptly after being called to the attention of the attorney or party.__ 
+    (a)  __Signature__  __.__ 
 
-    (b) __Representations to the Court. By presenting to the court (whether by signing, filing, submitting, or later advocating) a petition, pleading, written motion, or other paper, an attorney or unrepresented party is certifying that to the best of the person’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances,—__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. The comma probably should not appear.__  __ </sup></sup> __ 
+     Every petition, pleading, written motion, and other paper, except a list, schedule, or statement, or amendments thereto, shall be signed by at least one attorney of record in the attorney’s individual name. A party who is not represented by an attorney shall sign all papers. Each paper shall state the signer’s address and telephone number, if any. An unsigned paper shall be stricken unless omission of the signature is corrected promptly after being called to the attention of the attorney or party.
+
+    (b)  __Representations to the Court__  __.__ 
+
+     By presenting to the court (whether by signing, filing, submitting, or later advocating) a petition, pleading, written motion, or other paper, an attorney or unrepresented party is certifying that to the best of the person’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances,—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup> 
 
         (1) it is not being presented for any improper purpose, such as to harass or to cause unnecessary delay or needless increase in the cost of litigation;
 
@@ -27,7 +31,9 @@
 
         (4) the denials of factual contentions are warranted on the evidence or, if specifically so identified, are reasonably based on a lack of information or belief.
 
-    (c) __Sanctions. If, after notice and a reasonable opportunity to respond, the court determines that subdivision (b) has been violated, the court may, subject to the conditions stated below, impose an appropriate sanction upon the attorneys, law firms, or parties that have violated subdivision (b) or are responsible for the violation.__ 
+    (c)  __Sanctions__  __.__ 
+
+     If, after notice and a reasonable opportunity to respond, the court determines that subdivision (b) has been violated, the court may, subject to the conditions stated below, impose an appropriate sanction upon the attorneys, law firms, or parties that have violated subdivision (b) or are responsible for the violation.
 
         (1)
 
@@ -47,11 +53,17 @@
 
         (3) Order. When imposing sanctions, the court shall describe the conduct determined to constitute a violation of this rule and explain the basis for the sanction imposed.
 
-    (d) __Inapplicability To Discovery. Subdivisions (a) through (c) of this rule do not apply to disclosures and discovery requests, responses, objections, and motions that are subject to the provisions of Rules 7026 through 7037.__ 
+    (d)  __Inapplicability To Discovery__  __.__ 
 
-    (e) __Verification. Except as otherwise specifically provided by these rules, papers filed in a case under the Code need not be verified. Whenever verification is required by these rules, an unsworn declaration as provided in 28 U.S.C. § 1746 satisfies the requirement of verification.__ 
+     Subdivisions (a) through (c) of this rule do not apply to disclosures and discovery requests, responses, objections, and motions that are subject to the provisions of Rules 7026 through 7037.
 
-    (f) __Copies of Signed or Verified Papers. When these rules require copies of a signed or verified paper, it shall suffice if the original is signed or verified and the copies are conformed to the original.__ 
+    (e)  __Verification__  __.__ 
+
+     Except as otherwise specifically provided by these rules, papers filed in a case under the Code need not be verified. Whenever verification is required by these rules, an unsworn declaration as provided in 28 U.S.C. § 1746 satisfies the requirement of verification.
+
+    (f)  __Copies of Signed or Verified Papers__  __.__ 
+
+     When these rules require copies of a signed or verified paper, it shall suffice if the original is signed or verified and the copies are conformed to the original.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 11, 1997, eff. Dec. 1, 1997.)
 

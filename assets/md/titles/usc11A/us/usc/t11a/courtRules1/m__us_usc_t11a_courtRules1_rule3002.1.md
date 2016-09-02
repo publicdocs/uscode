@@ -15,23 +15,41 @@
 
 ### Rule 3002.1. Notice Relating to Claims Secured by Security Interest in the Debtor’s Principal Residence
 
-    (a) __In General. This rule applies in a chapter 13 case to claims that are (1) secured by a security interest in the debtor’s principal residence, and (2) provided for under § 1322(b)(5) of the Code in the debtor’s plan.__ 
+    (a)  __In General__  __.__ 
 
-    (b) __Notice of Payment Changes. The holder of the claim shall file and serve on the debtor, debtor’s counsel, and the trustee a notice of any change in the payment amount, including any change that results from an interest rate or escrow account adjustment, no later than 21 days before a payment in the new amount is due.__ 
+     This rule applies in a chapter 13 case to claims that are (1) secured by a security interest in the debtor’s principal residence, and (2) provided for under § 1322(b)(5) of the Code in the debtor’s plan.
 
-    (c) __Notice of Fees, Expenses, and Charges. The holder of the claim shall file and serve on the debtor, debtor’s counsel, and the trustee a notice itemizing all fees, expenses, or charges (1) that were incurred in connection with the claim after the bankruptcy case was filed, and (2) that the holder asserts are recoverable against the debtor or against the debtor’s principal residence. The notice shall be served within 180 days after the date on which the fees, expenses, or charges are incurred.__ 
+    (b)  __Notice of Payment Changes__  __.__ 
 
-    (d) __Form and Content. A notice filed and served under subdivision (b) or (c) of this rule shall be prepared as prescribed by the appropriate Official Form, and filed as a supplement to the holder’s proof of claim. The notice is not subject to Rule 3001(f).__ 
+     The holder of the claim shall file and serve on the debtor, debtor’s counsel, and the trustee a notice of any change in the payment amount, including any change that results from an interest rate or escrow account adjustment, no later than 21 days before a payment in the new amount is due.
 
-    (e) __Determination of Fees, Expenses, or Charges. On motion of the debtor or trustee filed within one year after service of a notice under subdivision (c) of this rule, the court shall, after notice and hearing, determine whether payment of any claimed fee, expense, or charge is required by the underlying agreement and applicable nonbankruptcy law to cure a default or maintain payments in accordance with § 1322(b)(5) of the Code.__ 
+    (c)  __Notice of Fees, Expenses, and Charges__  __.__ 
 
-    (f) __Notice of Final Cure Payment. Within 30 days after the debtor completes all payments under the plan, the trustee shall file and serve on the holder of the claim, the debtor, and debtor’s counsel a notice stating that the debtor has paid in full the amount required to cure any default on the claim. The notice shall also inform the holder of its obligation to file and serve a response under subdivision (g). If the debtor contends that final cure payment has been made and all plan payments have been completed, and the trustee does not timely file and serve the notice required by this subdivision, the debtor may file and serve the notice.__ 
+     The holder of the claim shall file and serve on the debtor, debtor’s counsel, and the trustee a notice itemizing all fees, expenses, or charges (1) that were incurred in connection with the claim after the bankruptcy case was filed, and (2) that the holder asserts are recoverable against the debtor or against the debtor’s principal residence. The notice shall be served within 180 days after the date on which the fees, expenses, or charges are incurred.
 
-    (g) __Response to Notice of Final Cure Payment. Within 21 days after service of the notice under subdivision (f) of this rule, the holder shall file and serve on the debtor, debtor’s counsel, and the trustee a statement indicating (1) whether it agrees that the debtor has paid in full the amount required to cure the default on the claim, and (2) whether the debtor is otherwise current on all payments consistent with § 1322(b)(5) of the Code. The statement shall itemize the required cure or postpetition amounts, if any, that the holder contends remain unpaid as of the date of the statement. The statement shall be filed as a supplement to the holder’s proof of claim and is not subject to Rule 3001(f).__ 
+    (d)  __Form and Content__  __.__ 
 
-    (h) __Determination of Final Cure and Payment. On motion of the debtor or trustee filed within 21 days after service of the statement under subdivision (g) of this rule, the court shall, after notice and hearing, determine whether the debtor has cured the default and paid all required postpetition amounts.__ 
+     A notice filed and served under subdivision (b) or (c) of this rule shall be prepared as prescribed by the appropriate Official Form, and filed as a supplement to the holder’s proof of claim. The notice is not subject to Rule 3001(f).
 
-    (i) __Failure to Notify. If the holder of a claim fails to provide any information as required by subdivision (b), (c), or (g) of this rule, the court may, after notice and hearing, take either or both of the following actions:__ 
+    (e)  __Determination of Fees, Expenses, or Charges__  __.__ 
+
+     On motion of the debtor or trustee filed within one year after service of a notice under subdivision (c) of this rule, the court shall, after notice and hearing, determine whether payment of any claimed fee, expense, or charge is required by the underlying agreement and applicable nonbankruptcy law to cure a default or maintain payments in accordance with § 1322(b)(5) of the Code.
+
+    (f)  __Notice of Final Cure Payment__  __.__ 
+
+     Within 30 days after the debtor completes all payments under the plan, the trustee shall file and serve on the holder of the claim, the debtor, and debtor’s counsel a notice stating that the debtor has paid in full the amount required to cure any default on the claim. The notice shall also inform the holder of its obligation to file and serve a response under subdivision (g). If the debtor contends that final cure payment has been made and all plan payments have been completed, and the trustee does not timely file and serve the notice required by this subdivision, the debtor may file and serve the notice.
+
+    (g)  __Response to Notice of Final Cure Payment__  __.__ 
+
+     Within 21 days after service of the notice under subdivision (f) of this rule, the holder shall file and serve on the debtor, debtor’s counsel, and the trustee a statement indicating (1) whether it agrees that the debtor has paid in full the amount required to cure the default on the claim, and (2) whether the debtor is otherwise current on all payments consistent with § 1322(b)(5) of the Code. The statement shall itemize the required cure or postpetition amounts, if any, that the holder contends remain unpaid as of the date of the statement. The statement shall be filed as a supplement to the holder’s proof of claim and is not subject to Rule 3001(f).
+
+    (h)  __Determination of Final Cure and Payment__  __.__ 
+
+     On motion of the debtor or trustee filed within 21 days after service of the statement under subdivision (g) of this rule, the court shall, after notice and hearing, determine whether the debtor has cured the default and paid all required postpetition amounts.
+
+    (i)  __Failure to Notify__  __.__ 
+
+     If the holder of a claim fails to provide any information as required by subdivision (b), (c), or (g) of this rule, the court may, after notice and hearing, take either or both of the following actions:
 
         (1) preclude the holder from presenting the omitted information, in any form, as evidence in any contested matter or adversary proceeding in the case, unless the court determines that the failure was substantially justified or is harmless; or
 

@@ -15,13 +15,15 @@
 
 ### Rule 8018. Rules by Circuit Councils and District Courts; Procedure When There is No Controlling Law
 
-    (a) __Local Rules by Circuit Councils and District Courts.__ 
+    (a)  __Local Rules by Circuit Councils and District Courts__  __.__ 
 
         (1) Circuit councils which have authorized bankruptcy appellate panels pursuant to 28 U.S.C. § 158(b) and the district courts may, acting by a majority of the judges of the council or district court, make and amend rules governing practice and procedure for appeals from orders or judgments of bankruptcy judges to the respective bankruptcy appellate panel or district court consistent with—but not duplicative of—Acts of Congress and the rules of this Part VIII. Local rules shall conform to any uniform numbering system prescribed by the Judicial Conference of the United States. Rule 83 F.R.Civ.P. governs the procedure for making and amending rules to govern appeals.
 
         (2) A local rule imposing a requirement of form shall not be enforced in a manner that causes a party to lose rights because of a nonwillful failure to comply with the requirement.
 
-    (b) __Procedure When There is No Controlling Law. A bankruptcy appellate panel or district judge may regulate practice in any manner consistent with federal law, these rules, Official Forms, and local rules of the circuit council or district court. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, Official Forms, or the local rules of the circuit council or district court unless the alleged violator has been furnished in the particular case with actual notice of the requirement.__ 
+    (b)  __Procedure When There is No Controlling Law__  __.__ 
+
+     A bankruptcy appellate panel or district judge may regulate practice in any manner consistent with federal law, these rules, Official Forms, and local rules of the circuit council or district court. No sanction or other disadvantage may be imposed for noncompliance with any requirement not in federal law, federal rules, Official Forms, or the local rules of the circuit council or district court unless the alleged violator has been furnished in the particular case with actual notice of the requirement.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 27, 1995, eff. Dec. 1, 1995.)
 

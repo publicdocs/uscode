@@ -15,17 +15,25 @@
 
 ### Rule 9014. Contested Matters
 
-    (a) __Motion. In a contested matter not otherwise governed by these rules, relief shall be requested by motion, and reasonable notice and opportunity for hearing shall be afforded the party against whom relief is sought. No response is required under this rule unless the court directs otherwise.__ 
+    (a)  __Motion__  __.__ 
 
-    (b) __Service. The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004. Any paper served after the motion shall be served in the manner provided by Rule 5(b) F. R. Civ. P.__ 
+     In a contested matter not otherwise governed by these rules, relief shall be requested by motion, and reasonable notice and opportunity for hearing shall be afforded the party against whom relief is sought. No response is required under this rule unless the court directs otherwise.
 
-    (c) __Application of Part VII Rules. Except as otherwise provided in this rule, and unless the court directs otherwise, the following rules shall apply:__ 
+    (b)  __Service__  __.__ 
 
-     7009, 7017, 7021, 7025, 7026, 7028–7037, 7041, 7042, 7052, 7054–7056, 7064, 7069, and 7071. The following subdivisions of Fed. R. Civ. P. 26, as incorporated by Rule 7026, shall not apply in a contested matter unless the court directs otherwise: 26(a)(1) (mandatory disclosure), 26(a)(2) (disclosures regarding expert testimony) and 26(a)(3) (additional pre-trial disclosure), and 26(f) (mandatory meeting before scheduling conference/discovery plan). An entity that desires to perpetuate testimony may proceed in the same manner as provided in Rule 7027 for the taking of a deposition before an adversary proceeding. The court may at any stage in a particular matter direct that one or more of the other rules in Part VII shall apply. The court shall give the parties notice of any order issued under this paragraph to afford them a reasonable opportunity to comply with the procedures prescribed by the order.
+     The motion shall be served in the manner provided for service of a summons and complaint by Rule 7004. Any paper served after the motion shall be served in the manner provided by Rule 5(b) F. R. Civ. P.
 
-    (d) __Testimony of Witnesses. Testimony of witnesses with respect to disputed material factual issues shall be taken in the same manner as testimony in an adversary proceeding.__ 
+    (c)  __Application of Part VII Rules__  __.__ 
 
-    (e) __Attendance of Witnesses. The court shall provide procedures that enable parties to ascertain at a reasonable time before any scheduled hearing whether the hearing will be an evidentiary hearing at which witnesses may testify.__ 
+     Except as otherwise provided in this rule, and unless the court directs otherwise, the following rules shall apply: 7009, 7017, 7021, 7025, 7026, 7028–7037, 7041, 7042, 7052, 7054–7056, 7064, 7069, and 7071. The following subdivisions of Fed. R. Civ. P. 26, as incorporated by Rule 7026, shall not apply in a contested matter unless the court directs otherwise: 26(a)(1) (mandatory disclosure), 26(a)(2) (disclosures regarding expert testimony) and 26(a)(3) (additional pre-trial disclosure), and 26(f) (mandatory meeting before scheduling conference/discovery plan). An entity that desires to perpetuate testimony may proceed in the same manner as provided in Rule 7027 for the taking of a deposition before an adversary proceeding. The court may at any stage in a particular matter direct that one or more of the other rules in Part VII shall apply. The court shall give the parties notice of any order issued under this paragraph to afford them a reasonable opportunity to comply with the procedures prescribed by the order.
+
+    (d)  __Testimony of Witnesses__  __.__ 
+
+     Testimony of witnesses with respect to disputed material factual issues shall be taken in the same manner as testimony in an adversary proceeding.
+
+    (e)  __Attendance of Witnesses__  __.__ 
+
+     The court shall provide procedures that enable parties to ascertain at a reasonable time before any scheduled hearing whether the hearing will be an evidentiary hearing at which witnesses may testify.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 26, 2004, eff. Dec. 1, 2004.)
 

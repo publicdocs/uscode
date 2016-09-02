@@ -15,15 +15,25 @@
 
 ### Rule 2004. Examination
 
-    (a) __Examination on Motion. On motion of any party in interest, the court may order the examination of any entity.__ 
+    (a)  __Examination on Motion__  __.__ 
 
-    (b) __Scope of Examination. The examination of an entity under this rule or of the debtor under § 343 of the Code may relate only to the acts, conduct, or property or to the liabilities and financial condition of the debtor, or to any matter which may affect the administration of the debtor’s estate, or to the debtor’s right to a discharge. In a family farmer’s debt adjustment case under chapter 12, an individual’s debt adjustment case under chapter 13, or a reorganization case under chapter 11 of the Code, other than for the reorganization of a railroad, the examination may also relate to the operation of any business and the desirability of its continuance, the source of any money or property acquired or to be acquired by the debtor for purposes of consummating a plan and the consideration given or offered therefor, and any other matter relevant to the case or to the formulation of a plan.__ 
+     On motion of any party in interest, the court may order the examination of any entity.
 
-    (c) __Compelling Attendance and Production of Documents. The attendance of an entity for examination and for the production of documents, whether the examination is to be conducted within or without the district in which the case is pending, may be compelled as provided in Rule 9016 for the attendance of a witness at a hearing or trial. As an officer of the court, an attorney may issue and sign a subpoena on behalf of the court for the district in which the examination is to be held if the attorney is admitted to practice in that court or in the court in which the case is pending.__ 
+    (b)  __Scope of Examination__  __.__ 
 
-    (d) __Time and Place of Examination of Debtor. The court may for cause shown and on terms as it may impose order the debtor to be examined under this rule at any time or place it designates, whether within or without the district wherein the case is pending.__ 
+     The examination of an entity under this rule or of the debtor under § 343 of the Code may relate only to the acts, conduct, or property or to the liabilities and financial condition of the debtor, or to any matter which may affect the administration of the debtor’s estate, or to the debtor’s right to a discharge. In a family farmer’s debt adjustment case under chapter 12, an individual’s debt adjustment case under chapter 13, or a reorganization case under chapter 11 of the Code, other than for the reorganization of a railroad, the examination may also relate to the operation of any business and the desirability of its continuance, the source of any money or property acquired or to be acquired by the debtor for purposes of consummating a plan and the consideration given or offered therefor, and any other matter relevant to the case or to the formulation of a plan.
 
-    (e) __Mileage. An entity other than a debtor shall not be required to attend as a witness unless lawful mileage and witness fee for one day’s attendance shall be first tendered. If the debtor resides more than 100 miles from the place of examination when required to appear for an examination under this rule, the mileage allowed by law to a witness shall be tendered for any distance more than 100 miles from the debtor’s residence at the date of the filing of the first petition commencing a case under the Code or the residence at the time the debtor is required to appear for the examination, whichever is the lesser.__ 
+    (c)  __Compelling Attendance and Production of Documents__  __.__ 
+
+     The attendance of an entity for examination and for the production of documents, whether the examination is to be conducted within or without the district in which the case is pending, may be compelled as provided in Rule 9016 for the attendance of a witness at a hearing or trial. As an officer of the court, an attorney may issue and sign a subpoena on behalf of the court for the district in which the examination is to be held if the attorney is admitted to practice in that court or in the court in which the case is pending.
+
+    (d)  __Time and Place of Examination of Debtor__  __.__ 
+
+     The court may for cause shown and on terms as it may impose order the debtor to be examined under this rule at any time or place it designates, whether within or without the district wherein the case is pending.
+
+    (e)  __Mileage__  __.__ 
+
+     An entity other than a debtor shall not be required to attend as a witness unless lawful mileage and witness fee for one day’s attendance shall be first tendered. If the debtor resides more than 100 miles from the place of examination when required to appear for an examination under this rule, the mileage allowed by law to a witness shall be tendered for any distance more than 100 miles from the debtor’s residence at the date of the filing of the first petition commencing a case under the Code or the residence at the time the debtor is required to appear for the examination, whichever is the lesser.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002.)
 

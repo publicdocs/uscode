@@ -15,9 +15,13 @@
 
 ### Rule 5004. Disqualification
 
-    (a) __Disqualification of Judge. A bankruptcy judge shall be governed by 28 U.S.C. § 455, and disqualified from presiding over the proceeding or contested matter in which the disqualifying circumstances__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be “circumstance”.__  __ </sup></sup> __  __arises or, if appropriate, shall be disqualified from presiding over the case.__ 
+    (a)  __Disqualification of Judge__  __.__ 
 
-    (b) __Disqualification of Judge from Allowing Compensation. A bankruptcy judge shall be disqualified from allowing compensation to a person who is a relative of the bankruptcy judge or with whom the judge is so connected as to render it improper for the judge to authorize such compensation.__ 
+     A bankruptcy judge shall be governed by 28 U.S.C. § 455, and disqualified from presiding over the proceeding or contested matter in which the disqualifying circumstances  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “circumstance”. </sup></sup>  arises or, if appropriate, shall be disqualified from presiding over the case.
+
+    (b)  __Disqualification of Judge from Allowing Compensation__  __.__ 
+
+     A bankruptcy judge shall be disqualified from allowing compensation to a person who is a relative of the bankruptcy judge or with whom the judge is so connected as to render it improper for the judge to authorize such compensation.
 
 (As amended Apr. 29, 1985, eff. Aug. 1, 1985; Mar. 30, 1987, eff. Aug. 1, 1987.)
 

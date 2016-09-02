@@ -15,9 +15,13 @@
 
 ### Rule 9004. General Requirements of Form
 
-    (a) __Legibility; Abbreviations. All petitions, pleadings, schedules and other papers shall be clearly legible. Abbreviations in common use in the English language may be used.__ 
+    (a)  __Legibility; Abbreviations__  __.__ 
 
-    (b) __Caption. Each paper filed shall contain a caption setting forth the name of the court, the title of the case, the bankruptcy docket number, and a brief designation of the character of the paper.__ 
+     All petitions, pleadings, schedules and other papers shall be clearly legible. Abbreviations in common use in the English language may be used.
+
+    (b)  __Caption__  __.__ 
+
+     Each paper filed shall contain a caption setting forth the name of the court, the title of the case, the bankruptcy docket number, and a brief designation of the character of the paper.
 
  __Notes of Advisory Committee on Rules—1983__ 
 

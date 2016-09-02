@@ -15,7 +15,7 @@
 
 ### Rule 9027. Removal
 
-    (a) __Notice of Removal.__ 
+    (a)  __Notice of Removal__  __.__ 
 
         (1) Where Filed; Form and Content. A notice of removal shall be filed with the clerk for the district and division within which is located the state or federal court where the civil action is pending. The notice shall be signed pursuant to Rule 9011 and contain a short and plain statement of the facts which entitle the party filing the notice to remove, contain a statement that upon removal of the claim or cause of action the proceeding is core or non-core and, if non-core, that the party filing the notice does or does not consent to entry of final orders or judgment by the bankruptcy judge, and be accompanied by a copy of all process and pleadings.
 
@@ -23,13 +23,19 @@
 
         (3) Time for filing; civil action initiated after commencement of the case under the Code. If a claim or cause of action is asserted in another court after the commencement of a case under the Code, a notice of removal may be filed with the clerk only within the shorter of (A) 30 days after receipt, through service or otherwise, of a copy of the initial pleading setting forth the claim or cause of action sought to be removed, or (B) 30 days after receipt of the summons if the initial pleading has been filed with the court but not served with the summons.
 
-    (b) __Notice. Promptly after filing the notice of removal, the party filing the notice shall serve a copy of it on all parties to the removed claim or cause of action.__ 
+    (b)  __Notice__  __.__ 
 
-    (c) __Filing in Non-Bankruptcy Court. Promptly after filing the notice of removal, the party filing the notice shall file a copy of it with the clerk of the court from which the claim or cause of action is removed. Removal of the claim or cause of action is effected on such filing of a copy of the notice of removal. The parties shall proceed no further in that court unless and until the claim or cause of action is remanded.__ 
+     Promptly after filing the notice of removal, the party filing the notice shall serve a copy of it on all parties to the removed claim or cause of action.
 
-    (d) __Remand. A motion for remand of the removed claim or cause of action shall be governed by Rule 9014 and served on the parties to the removed claim or cause of action.__ 
+    (c)  __Filing in Non-Bankruptcy Court__  __.__ 
 
-    (e) __Procedure After Removal.__ 
+     Promptly after filing the notice of removal, the party filing the notice shall file a copy of it with the clerk of the court from which the claim or cause of action is removed. Removal of the claim or cause of action is effected on such filing of a copy of the notice of removal. The parties shall proceed no further in that court unless and until the claim or cause of action is remanded.
+
+    (d)  __Remand__  __.__ 
+
+     A motion for remand of the removed claim or cause of action shall be governed by Rule 9014 and served on the parties to the removed claim or cause of action.
+
+    (e)  __Procedure After Removal__  __.__ 
 
         (1) After removal of a claim or cause of action to a district court the district court or, if the case under the Code has been referred to a bankruptcy judge of the district, the bankruptcy judge, may issue all necessary orders and process to bring before it all proper parties whether served by process issued by the court from which the claim or cause of action was removed or otherwise.
 
@@ -37,13 +43,21 @@
 
         (3) Any party who has filed a pleading in connection with the removed claim or cause of action, other than the party filing the notice of removal, shall file a statement admitting or denying any allegation in the notice of removal that upon removal of the claim or cause of action the proceeding is core or non-core. If the statement alleges that the proceeding is non-core, it shall state that the party does or does not consent to entry of final orders or judgment by the bankruptcy judge. A statement required by this paragraph shall be signed pursuant to Rule 9011 and shall be filed not later than 14 days after the filing of the notice of removal. Any party who files a statement pursuant to this paragraph shall mail a copy to every other party to the removed claim or cause of action.
 
-    (f) __Process After Removal. If one or more of the defendants has not been served with process, the service has not been perfected prior to removal, or the process served proves to be defective, such process or service may be completed or new process issued pursuant to Part VII of these rules. This subdivision shall not deprive any defendant on whom process is served after removal of the defendant’s right to move to remand the case.__ 
+    (f)  __Process After Removal__  __.__ 
 
-    (g) __Applicability of Part VII. The rules of Part VII apply to a claim or cause of action removed to a district court from a federal or state court and govern procedure after removal. Repleading is not necessary unless the court so orders. In a removed action in which the defendant has not answered, the defendant shall answer or present the other defenses or objections available under the rules of Part VII within 21 days following the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief on which the action or proceeding is based, or within 21 days following the service of summons on such initial pleading, or within seven days following the filing of the notice of removal, whichever period is longest.__ 
+     If one or more of the defendants has not been served with process, the service has not been perfected prior to removal, or the process served proves to be defective, such process or service may be completed or new process issued pursuant to Part VII of these rules. This subdivision shall not deprive any defendant on whom process is served after removal of the defendant’s right to move to remand the case.
 
-    (h) __Record Supplied. When a party is entitled to copies of the records and proceedings in any civil action or proceeding in a federal or a state court, to be used in the removed civil action or proceeding, and the clerk of the federal or state court, on demand accompanied by payment or tender of the lawful fees, fails to deliver certified copies, the court may, on affidavit reciting the facts, direct such record to be supplied by affidavit or otherwise. Thereupon the proceedings, trial and judgment may be had in the court, and all process awarded, as if certified copies had been filed.__ 
+    (g)  __Applicability of Part VII__  __.__ 
 
-    (i) __Attachment or Sequestration; Securities. When a claim or cause of action is removed to a district court, any attachment or sequestration of property in the court from which the claim or cause of action was removed shall hold the property to answer the final judgment or decree in the same manner as the property would have been held to answer final judgment or decree had it been rendered by the court from which the claim or cause of action was removed. All bonds, undertakings, or security given by either party to the claim or cause of action prior to its removal shall remain valid and effectual notwithstanding such removal. All injunctions issued, orders entered and other proceedings had prior to removal shall remain in full force and effect until dissolved or modified by the court.__ 
+     The rules of Part VII apply to a claim or cause of action removed to a district court from a federal or state court and govern procedure after removal. Repleading is not necessary unless the court so orders. In a removed action in which the defendant has not answered, the defendant shall answer or present the other defenses or objections available under the rules of Part VII within 21 days following the receipt through service or otherwise of a copy of the initial pleading setting forth the claim for relief on which the action or proceeding is based, or within 21 days following the service of summons on such initial pleading, or within seven days following the filing of the notice of removal, whichever period is longest.
+
+    (h)  __Record Supplied__  __.__ 
+
+     When a party is entitled to copies of the records and proceedings in any civil action or proceeding in a federal or a state court, to be used in the removed civil action or proceeding, and the clerk of the federal or state court, on demand accompanied by payment or tender of the lawful fees, fails to deliver certified copies, the court may, on affidavit reciting the facts, direct such record to be supplied by affidavit or otherwise. Thereupon the proceedings, trial and judgment may be had in the court, and all process awarded, as if certified copies had been filed.
+
+    (i)  __Attachment or Sequestration; Securities__  __.__ 
+
+     When a claim or cause of action is removed to a district court, any attachment or sequestration of property in the court from which the claim or cause of action was removed shall hold the property to answer the final judgment or decree in the same manner as the property would have been held to answer final judgment or decree had it been rendered by the court from which the claim or cause of action was removed. All bonds, undertakings, or security given by either party to the claim or cause of action prior to its removal shall remain valid and effectual notwithstanding such removal. All injunctions issued, orders entered and other proceedings had prior to removal shall remain in full force and effect until dissolved or modified by the court.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 29, 2002, eff. Dec. 1, 2002; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

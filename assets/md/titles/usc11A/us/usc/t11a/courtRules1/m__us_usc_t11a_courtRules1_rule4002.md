@@ -15,7 +15,9 @@
 
 ### Rule 4002. Duties of Debtor
 
-    (a) __In General. In addition to performing other duties prescribed by the Code and rules, the debtor shall:__ 
+    (a)  __In General__  __.__ 
+
+     In addition to performing other duties prescribed by the Code and rules, the debtor shall:
 
         (1) attend and submit to an examination at the times ordered by the court;
 

@@ -15,13 +15,21 @@
 
 ### Rule 3016. Filing of Plan and Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case
 
-    (a) __Identification of Plan. Every proposed plan and any modification thereof shall be dated and, in a chapter 11 case, identified with the name of the entity or entities submitting or filing it.__ 
+    (a)  __Identification of Plan__  __.__ 
 
-    (b) __Disclosure Statement. In a chapter 9 or 11 case, a disclosure statement under § 1125 of the Code or evidence showing compliance with § 1126(b) shall be filed with the plan or within a time fixed by the court, unless the plan is intended to provide adequate information under § 1125(f)(1). If the plan is intended to provide adequate information under § 1125(f)(1), it shall be so designated and Rule 3017.1 shall apply as if the plan is a disclosure statement.__ 
+     Every proposed plan and any modification thereof shall be dated and, in a chapter 11 case, identified with the name of the entity or entities submitting or filing it.
 
-    (c) __Injunction Under a Plan. If a plan provides for an injunction against conduct not otherwise enjoined under the Code, the plan and disclosure statement shall describe in specific and conspicuous language (bold, italic, or underlined text) all acts to be enjoined and identify the entities that would be subject to the injunction.__ 
+    (b)  __Disclosure Statement__  __.__ 
 
-    (d) __Standard Form Small Business Disclosure Statement and Plan. In a small business case, the court may approve a disclosure statement and may confirm a plan that conform substantially to the appropriate Official Forms or other standard forms approved by the court.__ 
+     In a chapter 9 or 11 case, a disclosure statement under § 1125 of the Code or evidence showing compliance with § 1126(b) shall be filed with the plan or within a time fixed by the court, unless the plan is intended to provide adequate information under § 1125(f)(1). If the plan is intended to provide adequate information under § 1125(f)(1), it shall be so designated and Rule 3017.1 shall apply as if the plan is a disclosure statement.
+
+    (c)  __Injunction Under a Plan__  __.__ 
+
+     If a plan provides for an injunction against conduct not otherwise enjoined under the Code, the plan and disclosure statement shall describe in specific and conspicuous language (bold, italic, or underlined text) all acts to be enjoined and identify the entities that would be subject to the injunction.
+
+    (d)  __Standard Form Small Business Disclosure Statement and Plan__  __.__ 
+
+     In a small business case, the court may approve a disclosure statement and may confirm a plan that conform substantially to the appropriate Official Forms or other standard forms approved by the court.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

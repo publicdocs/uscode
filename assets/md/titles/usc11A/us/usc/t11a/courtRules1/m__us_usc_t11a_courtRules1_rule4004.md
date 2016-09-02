@@ -15,7 +15,9 @@
 
 ### Rule 4004. Grant or Denial of Discharge
 
-    (a) __Time for Objecting to Discharge; Notice of Time Fixed. In a chapter 7 case, a complaint, or a motion under § 727(a)(8) or (a)(9) of the Code, objecting to the debtor’s discharge shall be filed no later than 60 days after the first date set for the meeting of creditors under § 341(a). In a chapter 11 case, the complaint shall be filed no later than the first date set for the hearing on confirmation. In a chapter 13 case, a motion objecting to the debtor’s discharge under § 1328(f) shall be filed no later than 60 days after the first date set for the meeting of creditors under § 341(a). At least 28 days’ notice of the time so fixed shall be given to the United States trustee and all creditors as provided in Rule 2002(f) and (k) and to the trustee and the trustee’s attorney.__ 
+    (a)  __Time for Objecting to Discharge; Notice of Time Fixed__  __.__ 
+
+     In a chapter 7 case, a complaint, or a motion under § 727(a)(8) or (a)(9) of the Code, objecting to the debtor’s discharge shall be filed no later than 60 days after the first date set for the meeting of creditors under § 341(a). In a chapter 11 case, the complaint shall be filed no later than the first date set for the hearing on confirmation. In a chapter 13 case, a motion objecting to the debtor’s discharge under § 1328(f) shall be filed no later than 60 days after the first date set for the meeting of creditors under § 341(a). At least 28 days’ notice of the time so fixed shall be given to the United States trustee and all creditors as provided in Rule 2002(f) and (k) and to the trustee and the trustee’s attorney.
 
     (b) __Extension of Time.__ 
 
@@ -59,15 +61,21 @@
 
         (4) In a chapter 11 case in which the debtor is an individual, or a chapter 13 case, the court shall not grant a discharge if the debtor has not filed any statement required by Rule 1007(b)(7).
 
-    (d) __Applicability of Rules in Part VII and Rule 9014. An objection to discharge is governed by Part VII of these rules, except that an objection to discharge under §§ 727(a)(8),__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Probably should be only one section symbol.__  __ </sup></sup> __  
+    (d)  __Applicability of Rules in Part VII and Rule __  __9014.__ 
 
-        (a)    (9), or 1328(f) is commenced by motion and governed by Rule 9014.
+     An objection to discharge is governed by Part VII of these rules, except that an objection to discharge under §§ 727(a)(8), <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be only one section symbol. </sup></sup>  (a)(9), or 1328(f) is commenced by motion and governed by Rule 9014.
 
-    (e) __Order of Discharge. An order of discharge shall conform to the appropriate Official Form.__ 
+    (e)  __Order of Discharge__  __.__ 
 
-    (f) __Registration in Other Districts. An order of discharge that has become final may be registered in any other district by filing a certified copy of the order in the office of the clerk of that district. When so registered the order of discharge shall have the same effect as an order of the court of the district where registered.__ 
+     An order of discharge shall conform to the appropriate Official Form.
 
-    (g) __Notice of Discharge. The clerk shall promptly mail a copy of the final order of discharge to those specified in subdivision (a) of this rule.__ 
+    (f)  __Registration in Other Districts__  __.__ 
+
+     An order of discharge that has become final may be registered in any other district by filing a certified copy of the order in the office of the clerk of that district. When so registered the order of discharge shall have the same effect as an order of the court of the district where registered.
+
+    (g)  __Notice of Discharge__  __.__ 
+
+     The clerk shall promptly mail a copy of the final order of discharge to those specified in subdivision (a) of this rule.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 28, 2010, eff. Dec. 1, 2010; Apr. 26, 2011, eff. Dec. 1, 2011.)
 

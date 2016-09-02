@@ -15,11 +15,17 @@
 
 ### Rule 6007. Abandonment or Disposition of Property
 
-    (a) __Notice of Proposed Abandonment or Disposition; Objections; Hearing. Unless otherwise directed by the court, the trustee or debtor in possession shall give notice of a proposed abandonment or disposition of property to the United States trustee, all creditors, indenture trustees, and committees elected pursuant to § 705 or appointed pursuant to § 1102 of the Code. A party in interest may file and serve an objection within 14 days of the mailing of the notice, or within the time fixed by the court. If a timely objection is made, the court shall set a hearing on notice to the United States trustee and to other entities as the court may direct.__ 
+    (a)  __Notice of Proposed Abandonment or Disposition; Objections; Hearing__  __.__ 
 
-    (b) __Motion by Party in Interest. A party in interest may file and serve a motion requiring the trustee or debtor in possession to abandon property of the estate.__ 
+     Unless otherwise directed by the court, the trustee or debtor in possession shall give notice of a proposed abandonment or disposition of property to the United States trustee, all creditors, indenture trustees, and committees elected pursuant to § 705 or appointed pursuant to § 1102 of the Code. A party in interest may file and serve an objection within 14 days of the mailing of the notice, or within the time fixed by the court. If a timely objection is made, the court shall set a hearing on notice to the United States trustee and to other entities as the court may direct.
 
-    \[(c) __Hearing\] (Abrogated__  __Apr. 22, 1993__  __, eff.__  __Aug. 1, 1993__  __)__ 
+    (b)  __Motion by Party in Interest__  __.__ 
+
+     A party in interest may file and serve a motion requiring the trustee or debtor in possession to abandon property of the estate.
+
+    \[(c)  __Hearing__  __\]__ 
+
+     (Abrogated Apr. 22, 1993, eff. Aug. 1, 1993)
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

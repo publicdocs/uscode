@@ -15,9 +15,13 @@
 
 ### Rule 7054. Judgments; Costs
 
-    (a) __Judgments. Rule 54(a)–(c) F.R.Civ.P. applies in adversary proceedings.__ 
+    (a)  __Judgments__  __.__ 
 
-    (b) __Costs. The court may allow costs to the prevailing party except when a statute of the United States or these rules otherwise provides. Costs against the United States, its officers and agencies shall be imposed only to the extent permitted by law. Costs may be taxed by the clerk on 14 days’ notice; on motion served within seven days thereafter, the action of the clerk may be reviewed by the court.__ 
+     Rule 54(a)–(c) F.R.Civ.P. applies in adversary proceedings.
+
+    (b)  __Costs__  __.__ 
+
+     The court may allow costs to the prevailing party except when a statute of the United States or these rules otherwise provides. Costs against the United States, its officers and agencies shall be imposed only to the extent permitted by law. Costs may be taxed by the clerk on 14 days’ notice; on motion served within seven days thereafter, the action of the clerk may be reviewed by the court.
 
 (As amended Apr. 23, 2012, eff. Dec. 1, 2012.)
 

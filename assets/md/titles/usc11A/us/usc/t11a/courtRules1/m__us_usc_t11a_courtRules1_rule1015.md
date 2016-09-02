@@ -15,11 +15,17 @@
 
 ### Rule 1015. Consolidation or Joint Administration of Cases Pending in Same Court
 
-    (a) __Cases Involving Same Debtor. If two or more petitions by, regarding, or against the same debtor are pending in the same court, the court may order consolidation of the cases.__ 
+    (a)  __Cases Involving Same Debtor__  __.__ 
 
-    (b) __Cases Involving Two or More Related Debtors. If a joint petition or two or more petitions are pending in the same court by or against (1) a husband and wife, or (2) a partnership and one or more of its general partners, or (3) two or more general partners, or (4) a debtor and an affiliate, the court may order a joint administration of the estates. Prior to entering an order the court shall give consideration to protecting creditors of different estates against potential conflicts of interest. An order directing joint administration of individual cases of a husband and wife shall, if one spouse has elected the exemptions under § 522(b)(2) of the Code and the other has elected the exemptions under § 522(b)(3), fix a reasonable time within which either may amend the election so that both shall have elected the same exemptions. The order shall notify the debtors that unless they elect the same exemptions within the time fixed by the court, they will be deemed to have elected the exemptions provided by § 522(b)(2).__ 
+     If two or more petitions by, regarding, or against the same debtor are pending in the same court, the court may order consolidation of the cases.
 
-    (c) __Expediting and Protective Orders. When an order for consolidation or joint administration of a joint case or two or more cases is entered pursuant to this rule, while protecting the rights of the parties under the Code, the court may enter orders as may tend to avoid unnecessary costs and delay.__ 
+    (b)  __Cases Involving Two or More Related Debtors__  __.__ 
+
+     If a joint petition or two or more petitions are pending in the same court by or against (1) a husband and wife, or (2) a partnership and one or more of its general partners, or (3) two or more general partners, or (4) a debtor and an affiliate, the court may order a joint administration of the estates. Prior to entering an order the court shall give consideration to protecting creditors of different estates against potential conflicts of interest. An order directing joint administration of individual cases of a husband and wife shall, if one spouse has elected the exemptions under § 522(b)(2) of the Code and the other has elected the exemptions under § 522(b)(3), fix a reasonable time within which either may amend the election so that both shall have elected the same exemptions. The order shall notify the debtors that unless they elect the same exemptions within the time fixed by the court, they will be deemed to have elected the exemptions provided by § 522(b)(2).
+
+    (c)  __Expediting and Protective Orders__  __.__ 
+
+     When an order for consolidation or joint administration of a joint case or two or more cases is entered pursuant to this rule, while protecting the rights of the parties under the Code, the court may enter orders as may tend to avoid unnecessary costs and delay.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Apr. 28, 2010, eff. Dec. 1, 2010.)
 

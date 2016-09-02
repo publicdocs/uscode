@@ -15,17 +15,29 @@
 
 ### Rule 1011. Responsive Pleading or Motion in Involuntary and Cross-Border Cases
 
-    (a) __Who May Contest Petition. The debtor named in an involuntary petition, or a party in interest to a petition for recognition of a foreign proceeding, may contest the petition. In the case of a petition against a partnership under Rule 1004, a nonpetitioning general partner, or a person who is alleged to be a general partner but denies the allegation, may contest the petition.__ 
+    (a)  __Who May Contest Petition__  __.__ 
 
-    (b) __Defenses and Objections; When Presented. Defenses and objections to the petition shall be presented in the manner prescribed by Rule 12 F.R.Civ.P. and shall be filed and served within 21 days after service of the summons, except that if service is made by publication on a party or partner not residing or found within the state in which the court sits, the court shall prescribe the time for filing and serving the response.__ 
+     The debtor named in an involuntary petition, or a party in interest to a petition for recognition of a foreign proceeding, may contest the petition. In the case of a petition against a partnership under Rule 1004, a nonpetitioning general partner, or a person who is alleged to be a general partner but denies the allegation, may contest the petition.
 
-    (c) __Effect of Motion. Service of a motion under Rule 12(b) F.R.Civ.P. shall extend the time for filing and serving a responsive pleading as permitted by Rule 12(a) F.R.Civ.P.__ 
+    (b)  __Defenses and Objections; When Presented__  __.__ 
 
-    (d) __Claims Against Petitioners. A claim against a petitioning creditor may not be asserted in the answer except for the purpose of defeating the petition.__ 
+     Defenses and objections to the petition shall be presented in the manner prescribed by Rule 12 F.R.Civ.P. and shall be filed and served within 21 days after service of the summons, except that if service is made by publication on a party or partner not residing or found within the state in which the court sits, the court shall prescribe the time for filing and serving the response.
 
-    (e) __Other Pleadings. No other pleadings shall be permitted, except that the court may order a reply to an answer and prescribe the time for filing and service.__ 
+    (c)  __Effect of Motion__  __.__ 
 
-    (f) __Corporate Ownership Statement. If the entity responding to the involuntary petition or the petition for recognition of a foreign proceeding is a corporation, the entity shall file with its first appearance, pleading, motion, response, or other request addressed to the court a corporate ownership statement containing the information described in Rule 7007.1.__ 
+     Service of a motion under Rule 12(b) F.R.Civ.P. shall extend the time for filing and serving a responsive pleading as permitted by Rule 12(a) F.R.Civ.P.
+
+    (d)  __Claims Against Petitioners__  __.__ 
+
+     A claim against a petitioning creditor may not be asserted in the answer except for the purpose of defeating the petition.
+
+    (e)  __Other Pleadings__  __.__ 
+
+     No other pleadings shall be permitted, except that the court may order a reply to an answer and prescribe the time for filing and service.
+
+    (f)  __Corporate Ownership Statement__  __.__ 
+
+     If the entity responding to the involuntary petition or the petition for recognition of a foreign proceeding is a corporation, the entity shall file with its first appearance, pleading, motion, response, or other request addressed to the court a corporate ownership statement containing the information described in Rule 7007.1.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 26, 2004, eff. Dec. 1, 2004; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

@@ -15,11 +15,13 @@
 
 ### Rule 1021. Health Care Business Case
 
-    (a) __Health Care Business Designation. Unless the court orders otherwise, if a petition in a case under chapter 7, chapter 9, or chapter 11 states that the debtor is a health care business, the case shall proceed as a case in which the debtor is a health care business.__ 
+    (a)  __Health Care Business Designation__  __.__ 
 
-    (b) __Motion. The United States trustee or a party in interest may file a motion to determine whether the debtor is a health care business. The motion shall be transmitted to the United States trustee and served on:__ 
+     Unless the court orders otherwise, if a petition in a case under chapter 7, chapter 9, or chapter 11 states that the debtor is a health care business, the case shall proceed as a case in which the debtor is a health care business.
 
-     the debtor; the trustee; any committee elected under § 705 or appointed under § 1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under § 1102, the creditors included on the list filed under Rule 1007(d); and any other entity as the court directs. The motion shall be governed by Rule 9014.
+    (b)  __Motion__  __.__ 
+
+     The United States trustee or a party in interest may file a motion to determine whether the debtor is a health care business. The motion shall be transmitted to the United States trustee and served on: the debtor; the trustee; any committee elected under § 705 or appointed under § 1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under § 1102, the creditors included on the list filed under Rule 1007(d); and any other entity as the court directs. The motion shall be governed by Rule 9014.
 
 (Added Apr. 23, 2008, eff. Dec. 1, 2008.)
 

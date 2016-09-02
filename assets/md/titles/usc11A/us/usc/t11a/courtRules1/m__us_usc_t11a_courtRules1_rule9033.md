@@ -15,13 +15,21 @@
 
 ### Rule 9033. Review of Proposed Findings of Fact and Conclusions of Law in Non-Core Proceedings
 
-    (a) __Service. In non-core proceedings heard pursuant to 28 U.S.C. § 157(c)(1), the bankruptcy judge shall file proposed findings of fact and conclusions of law. The clerk shall serve forthwith copies on all parties by mail and note the date of mailing on the docket.__ 
+    (a)  __Service__  __.__ 
 
-    (b) __Objections: Time for Filing. Within 14 days after being served with a copy of the proposed findings of fact and conclusions of law a party may serve and file with the clerk written objections which identify the specific proposed findings or conclusions objected to and state the grounds for such objection. A party may respond to another party’s objections within 14 days after being served with a copy thereof. A party objecting to the bankruptcy judge’s proposed findings or conclusions shall arrange promptly for the transcription of the record, or such portions of it as all parties may agree upon or the bankruptcy judge deems sufficient, unless the district judge otherwise directs.__ 
+     In non-core proceedings heard pursuant to 28 U.S.C. § 157(c)(1), the bankruptcy judge shall file proposed findings of fact and conclusions of law. The clerk shall serve forthwith copies on all parties by mail and note the date of mailing on the docket.
 
-    (c) __Extension of Time. The bankruptcy judge may for cause extend the time for filing objections by any party for a period not to exceed 21 days from the expiration of the time otherwise prescribed by this rule. A request to extend the time for filing objections must be made before the time for filing objections has expired, except that a request made no more than 21 days after the expiration of the time for filing objections may be granted upon a showing of excusable neglect.__ 
+    (b)  __Objections: Time for Filing__  __.__ 
 
-    (d) __Standard of Review. The district judge shall make a de novo review upon the record or, after additional evidence, of any portion of the bankruptcy judge’s findings of fact or conclusions of law to which specific written objection has been made in accordance with this rule. The district judge may accept, reject, or modify the proposed findings of fact or conclusions of law, receive further evidence, or recommit the matter to the bankruptcy judge with instructions.__ 
+     Within 14 days after being served with a copy of the proposed findings of fact and conclusions of law a party may serve and file with the clerk written objections which identify the specific proposed findings or conclusions objected to and state the grounds for such objection. A party may respond to another party’s objections within 14 days after being served with a copy thereof. A party objecting to the bankruptcy judge’s proposed findings or conclusions shall arrange promptly for the transcription of the record, or such portions of it as all parties may agree upon or the bankruptcy judge deems sufficient, unless the district judge otherwise directs.
+
+    (c)  __Extension of Time__  __.__ 
+
+     The bankruptcy judge may for cause extend the time for filing objections by any party for a period not to exceed 21 days from the expiration of the time otherwise prescribed by this rule. A request to extend the time for filing objections must be made before the time for filing objections has expired, except that a request made no more than 21 days after the expiration of the time for filing objections may be granted upon a showing of excusable neglect.
+
+    (d)  __Standard of Review__  __.__ 
+
+     The district judge shall make a de novo review upon the record or, after additional evidence, of any portion of the bankruptcy judge’s findings of fact or conclusions of law to which specific written objection has been made in accordance with this rule. The district judge may accept, reject, or modify the proposed findings of fact or conclusions of law, receive further evidence, or recommit the matter to the bankruptcy judge with instructions.
 
 (Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
 

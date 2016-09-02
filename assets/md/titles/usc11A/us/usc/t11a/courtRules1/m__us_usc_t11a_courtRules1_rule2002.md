@@ -15,7 +15,9 @@
 
 ### Rule 2002. Notices to Creditors, Equity Security Holders, Administrators in Foreign Proceedings, Persons Against Whom Provisional Relief is Sought in Ancillary and Other Cross-Border Cases, United States, and United States Trustee
 
-    (a) __Twenty-One-Day Notices to Parties in Interest. Except as provided in subdivisions (h), (i), (__  __l__  __), (p), and (q) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees at least 21 days’ notice by mail of:__ 
+    (a)  __Twenty-One-Day Notices to Parties in Interest__  __.__ 
+
+     Except as provided in subdivisions (h), (i), (l), (p), and (q) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees at least 21 days’ notice by mail of:
 
         (1) the meeting of creditors under § 341 or § 1104(b) of the Code, which notice, unless the court orders otherwise, shall include the debtor’s employer identification number, social security number, and any other federal taxpayer identification number;
 
@@ -33,9 +35,11 @@
 
         (8) the time fixed for filing objections and the hearing to consider confirmation of a chapter 12 plan.
 
-    (b) __Twenty-Eight-Day Notices to Parties in Interest. Except as provided in subdivision (__  __l__  __) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees not less than 28 days’ notice by mail of the time fixed (1) for filing objections and the hearing to consider approval of a disclosure statement or, under § 1125(f), to make a final determination whether the plan provides adequate information so that a separate disclosure statement is not necessary; and (2) for filing objections and the hearing to consider confirmation of a chapter 9, chapter 11, or chapter 13 plan.__ 
+    (b)  __Twenty-Eight-Day Notices to Parties in Interest__  __.__ 
 
-    (c) __Content of Notice.__ 
+     Except as provided in subdivision (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, the trustee, all creditors and indenture trustees not less than 28 days’ notice by mail of the time fixed (1) for filing objections and the hearing to consider approval of a disclosure statement or, under § 1125(f), to make a final determination whether the plan provides adequate information so that a separate disclosure statement is not necessary; and (2) for filing objections and the hearing to consider confirmation of a chapter 9, chapter 11, or chapter 13 plan.
+
+    (c)  __Content of Notice__  __.__ 
 
         (1) Proposed Use, Sale, or Lease of Property. Subject to Rule 6004, the notice of a proposed use, sale, or lease of property required by subdivision (a)(2) of this rule shall include the time and place of any public sale, the terms and conditions of any private sale and the time fixed for filing objections. The notice of a proposed use, sale, or lease of property, including real estate, is sufficient if it generally describes the property. The notice of a proposed sale or lease of personally identifiable information under § 363(b)(1) of the Code shall state whether the sale is consistent with any policy prohibiting the transfer of the information.
 
@@ -51,11 +55,17 @@
 
             (C) identify the entities that would be subject to the injunction.
 
-    (d) __Notice to Equity Security Holders. In a chapter 11 reorganization case, unless otherwise ordered by the court, the clerk, or some other person as the court may direct, shall in the manner and form directed by the court give notice to all equity security holders of (1) the order for relief; (2) any meeting of equity security holders held pursuant to § 341 of the Code; (3) the hearing on the proposed sale of all or substantially all of the debtor’s assets; (4) the hearing on the dismissal or conversion of a case to another chapter; (5) the time fixed for filing objections to and the hearing to consider approval of a disclosure statement; (6) the time fixed for filing objections to and the hearing to consider confirmation of a plan; and (7) the time fixed to accept or reject a proposed modification of a plan.__ 
+    (d)  __Notice to Equity Security Holders__  __.__ 
 
-    (e) __Notice of No Dividend. In a chapter 7 liquidation case, if it appears from the schedules that there are no assets from which a dividend can be paid, the notice of the meeting of creditors may include a statement to that effect; that it is unnecessary to file claims; and that if sufficient assets become available for the payment of a dividend, further notice will be given for the filing of claims.__ 
+     In a chapter 11 reorganization case, unless otherwise ordered by the court, the clerk, or some other person as the court may direct, shall in the manner and form directed by the court give notice to all equity security holders of (1) the order for relief; (2) any meeting of equity security holders held pursuant to § 341 of the Code; (3) the hearing on the proposed sale of all or substantially all of the debtor’s assets; (4) the hearing on the dismissal or conversion of a case to another chapter; (5) the time fixed for filing objections to and the hearing to consider approval of a disclosure statement; (6) the time fixed for filing objections to and the hearing to consider confirmation of a plan; and (7) the time fixed to accept or reject a proposed modification of a plan.
 
-    (f) __Other Notices. Except as provided in subdivision (__  __l__  __) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, all creditors, and indenture trustees notice by mail of:__ 
+    (e)  __Notice of No Dividend__  __.__ 
+
+     In a chapter 7 liquidation case, if it appears from the schedules that there are no assets from which a dividend can be paid, the notice of the meeting of creditors may include a statement to that effect; that it is unnecessary to file claims; and that if sufficient assets become available for the payment of a dividend, further notice will be given for the filing of claims.
+
+    (f)  __Other Notices__  __.__ 
+
+     Except as provided in subdivision (l) of this rule, the clerk, or some other person as the court may direct, shall give the debtor, all creditors, and indenture trustees notice by mail of:
 
         (1) the order for relief;
 
@@ -79,7 +89,7 @@
 
         (11) the time to request a delay in the entry of the discharge under §§ 1141(d)(5)(C), 1228(f), and 1328(h). Notice of the time fixed for accepting or rejecting a plan pursuant to Rule 3017(c) shall be given in accordance with Rule 3017(d).
 
-    (g) __Addressing Notices.__ 
+    (g)  __Addressing Notices__  __.__ 
 
         (1)
 
@@ -97,21 +107,37 @@
 
         (5) A creditor may treat a notice as not having been brought to the creditor’s attention under § 342(g)(1) only if, prior to issuance of the notice, the creditor has filed a statement that designates the name and address of the person or organizational subdivision of the creditor responsible for receiving notices under the Code, and that describes the procedures established by the creditor to cause such notices to be delivered to the designated person or subdivision.
 
-    (h) __Notices to Creditors Whose Claims are Filed. In a chapter 7 case, after 90 days following the first date set for the meeting of creditors under § 341 of the Code, the court may direct that all notices required by subdivision (a) of this rule be mailed only to the debtor, the trustee, all indenture trustees, creditors that hold claims for which proofs of claim have been filed, and creditors, if any, that are still permitted to file claims by reason of an extension granted pursuant to Rule 3002(c)(1) or (c)(2). In a case where notice of insufficient assets to pay a dividend has been given to creditors pursuant to subdivision (e) of this rule, after 90 days following the mailing of a notice of the time for filing claims pursuant to Rule 3002(c)(5), the court may direct that notices be mailed only to the entities specified in the preceding sentence.__ 
+    (h)  __Notices to Creditors Whose Claims are Filed__  __.__ 
 
-    (i) __Notices to Committees. Copies of all notices required to be mailed pursuant to this rule shall be mailed to the committees elected under § 705 or appointed under § 1102 of the Code or to their authorized agents. Notwithstanding the foregoing subdivisions, the court may order that notices required by subdivision (a)(2), (3) and (6) of this rule be transmitted to the United States trustee and be mailed only to the committees elected under § 705 or appointed under § 1102 of the Code or to their authorized agents and to the creditors and equity security holders who serve on the trustee or debtor in possession and file a request that all notices be mailed to them. A committee appointed under § 1114 shall receive copies of all notices required by subdivisions (a)(1), (a)(5), (b), (f)(2), and (f)(7), and such other notices as the court may direct.__ 
+     In a chapter 7 case, after 90 days following the first date set for the meeting of creditors under § 341 of the Code, the court may direct that all notices required by subdivision (a) of this rule be mailed only to the debtor, the trustee, all indenture trustees, creditors that hold claims for which proofs of claim have been filed, and creditors, if any, that are still permitted to file claims by reason of an extension granted pursuant to Rule 3002(c)(1) or (c)(2). In a case where notice of insufficient assets to pay a dividend has been given to creditors pursuant to subdivision (e) of this rule, after 90 days following the mailing of a notice of the time for filing claims pursuant to Rule 3002(c)(5), the court may direct that notices be mailed only to the entities specified in the preceding sentence.
 
-    (j) __Notices to the United States. Copies of notices required to be mailed to all creditors under this rule shall be mailed (1) in a chapter 11 reorganization case, to the Securities and Exchange Commission at any place the Commission designates, if the Commission has filed either a notice of appearance in the case or a written request to receive notices; (2) in a commodity broker case, to the Commodity Futures Trading Commission at Washington, D.C.; (3) in a chapter 11 case, to the Internal Revenue Service at its address set out in the register maintained under Rule 5003(e) for the district in which the case is pending; (4) if the papers in the case disclose a debt to the United States other than for taxes, to the United States attorney for the district in which the case is pending and to the department, agency, or instrumentality of the United States through which the debtor became indebted; or (5) if the filed papers disclose a stock interest of the United States, to the Secretary of the Treasury at Washington, D.C.__ 
+    (i)  __Notices to Committees__  __.__ 
 
-    (k) __Notices to United States Trustee. Unless the case is a chapter 9 municipality case or unless the United States trustee requests otherwise, the clerk, or some other person as the court may direct, shall transmit to the United States trustee notice of the matters described in subdivisions (a)(2), (a)(3), (a)(4), (a)(8), (b), (f)(1), (f)(2), (f)(4), (f)(6), (f)(7), (f)(8), and (q) of this rule and notice of hearings on all applications for compensation or reimbursement of expenses. Notices to the United States trustee shall be transmitted within the time prescribed in subdivision (a) or (b) of this rule. The United States trustee shall also receive notice of any other matter if such notice is requested by the United States trustee or ordered by the court. Nothing in these rules requires the clerk or any other person to transmit to the United States trustee any notice, schedule, report, application or other document in a case under the Securities Investor Protection Act, 15 U.S.C. § 78aaa__  __et.__   __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Period probably should not appear.__  __ </sup></sup> __  __ seq__  __.__ 
+     Copies of all notices required to be mailed pursuant to this rule shall be mailed to the committees elected under § 705 or appointed under § 1102 of the Code or to their authorized agents. Notwithstanding the foregoing subdivisions, the court may order that notices required by subdivision (a)(2), (3) and (6) of this rule be transmitted to the United States trustee and be mailed only to the committees elected under § 705 or appointed under § 1102 of the Code or to their authorized agents and to the creditors and equity security holders who serve on the trustee or debtor in possession and file a request that all notices be mailed to them. A committee appointed under § 1114 shall receive copies of all notices required by subdivisions (a)(1), (a)(5), (b), (f)(2), and (f)(7), and such other notices as the court may direct.
 
-    (l) __Notice by Publication. The court may order notice by publication if it finds that notice by mail is impracticable or that it is desirable to supplement the notice.__ 
+    (j)  __Notices to the United States__  __.__ 
 
-    (m) __Orders Designating Matter of Notices. The court may from time to time enter orders designating the matters in respect to which, the entity to whom, and the form and manner in which notices shall be sent except as otherwise provided by these rules.__ 
+     Copies of notices required to be mailed to all creditors under this rule shall be mailed (1) in a chapter 11 reorganization case, to the Securities and Exchange Commission at any place the Commission designates, if the Commission has filed either a notice of appearance in the case or a written request to receive notices; (2) in a commodity broker case, to the Commodity Futures Trading Commission at Washington, D.C.; (3) in a chapter 11 case, to the Internal Revenue Service at its address set out in the register maintained under Rule 5003(e) for the district in which the case is pending; (4) if the papers in the case disclose a debt to the United States other than for taxes, to the United States attorney for the district in which the case is pending and to the department, agency, or instrumentality of the United States through which the debtor became indebted; or (5) if the filed papers disclose a stock interest of the United States, to the Secretary of the Treasury at Washington, D.C.
 
-    (n) __Caption. The caption of every notice given under this rule shall comply with Rule 1005. The caption of every notice required to be given by the debtor to a creditor shall include the information required to be in the notice by § 342(c) of the Code.__ 
+    (k)  __Notices to United States Trustee__  __.__ 
 
-    (o) __Notice of Order for Relief in Consumer Case. In a voluntary case commenced by an individual debtor whose debts are primarily consumer debts, the clerk or some other person as the court may direct shall give the trustee and all creditors notice by mail of the order for relief within 21 days from the date thereof.__ 
+     Unless the case is a chapter 9 municipality case or unless the United States trustee requests otherwise, the clerk, or some other person as the court may direct, shall transmit to the United States trustee notice of the matters described in subdivisions (a)(2), (a)(3), (a)(4), (a)(8), (b), (f)(1), (f)(2), (f)(4), (f)(6), (f)(7), (f)(8), and (q) of this rule and notice of hearings on all applications for compensation or reimbursement of expenses. Notices to the United States trustee shall be transmitted within the time prescribed in subdivision (a) or (b) of this rule. The United States trustee shall also receive notice of any other matter if such notice is requested by the United States trustee or ordered by the court. Nothing in these rules requires the clerk or any other person to transmit to the United States trustee any notice, schedule, report, application or other document in a case under the Securities Investor Protection Act, 15 U.S.C. § 78aaa et.  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Period probably should not appear. </sup></sup>  seq.
+
+    (l)  __Notice by Publication__  __.__ 
+
+     The court may order notice by publication if it finds that notice by mail is impracticable or that it is desirable to supplement the notice.
+
+    (m)  __Orders Designating Matter of Notices__  __.__ 
+
+     The court may from time to time enter orders designating the matters in respect to which, the entity to whom, and the form and manner in which notices shall be sent except as otherwise provided by these rules.
+
+    (n)  __Caption__  __.__ 
+
+     The caption of every notice given under this rule shall comply with Rule 1005. The caption of every notice required to be given by the debtor to a creditor shall include the information required to be in the notice by § 342(c) of the Code.
+
+    (o)  __Notice of Order for Relief in Consumer Case__  __.__ 
+
+     In a voluntary case commenced by an individual debtor whose debts are primarily consumer debts, the clerk or some other person as the court may direct shall give the trustee and all creditors notice by mail of the order for relief within 21 days from the date thereof.
 
     (p) __Notice to a Creditor With a Foreign Address.__ 
 

@@ -15,7 +15,9 @@
 
 ### Rule 8009. Briefs and Appendix; Filing and Service
 
-    (a) __Briefs. Unless the district court or the bankruptcy appellate panel by local rule or by order excuses the filing of briefs or specifies different time limits:__ 
+    (a)  __Briefs__  __.__ 
+
+     Unless the district court or the bankruptcy appellate panel by local rule or by order excuses the filing of briefs or specifies different time limits:
 
         (1) The appellant shall serve and file a brief within 14 days after entry of the appeal on the docket pursuant to Rule 8007.
 
@@ -23,7 +25,9 @@
 
         (3) The appellant may serve and file a reply brief within 14 days after service of the brief of the appellee, and if the appellee has cross-appealed, the appellee may file and serve a reply brief to the response of the appellant to the issues presented in the cross appeal within 14 days after service of the reply brief of the appellant. No further briefs may be filed except with leave of the district court or the bankruptcy appellate panel.
 
-    (b) __Appendix to Brief. If the appeal is to a bankruptcy appellate panel, the appellant shall serve and file with the appellant’s brief excerpts of the record as an appendix, which shall include the following:__ 
+    (b)  __Appendix to Brief__  __.__ 
+
+     If the appeal is to a bankruptcy appellate panel, the appellant shall serve and file with the appellant’s brief excerpts of the record as an appendix, which shall include the following:
 
         (1) The complaint and answer or other equivalent pleadings;
 

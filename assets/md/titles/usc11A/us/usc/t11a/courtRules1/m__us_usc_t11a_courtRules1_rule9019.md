@@ -15,11 +15,17 @@
 
 ### Rule 9019. Compromise and Arbitration
 
-    (a) __Compromise. On motion by the trustee and after notice and a hearing, the court may approve a compromise or settlement. Notice shall be given to creditors, the United States trustee, the debtor, and indenture trustees as provided in Rule 2002 and to any other entity as the court may direct.__ 
+    (a)  __Compromise__  __.__ 
 
-    (b) __Authority To Compromise or Settle Controversies Within Classes. After a hearing on such notice as the court may direct, the court may fix a class or classes of controversies and authorize the trustee to compromise or settle controversies within such class or classes without further hearing or notice.__ 
+     On motion by the trustee and after notice and a hearing, the court may approve a compromise or settlement. Notice shall be given to creditors, the United States trustee, the debtor, and indenture trustees as provided in Rule 2002 and to any other entity as the court may direct.
 
-    (c) __Arbitration. On stipulation of the parties to any controversy affecting the estate the court may authorize the matter to be submitted to final and binding arbitration.__ 
+    (b)  __Authority To Compromise or Settle Controversies Within Classes__  __.__ 
+
+     After a hearing on such notice as the court may direct, the court may fix a class or classes of controversies and authorize the trustee to compromise or settle controversies within such class or classes without further hearing or notice.
+
+    (c)  __Arbitration__  __.__ 
+
+     On stipulation of the parties to any controversy affecting the estate the court may authorize the matter to be submitted to final and binding arbitration.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993.)
 

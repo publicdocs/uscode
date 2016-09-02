@@ -15,9 +15,13 @@
 
 ### Rule 1003. Involuntary Petition
 
-    (a) __Transferor or Transferee of Claim. A transferor or transferee of a claim shall annex to the original and each copy of the petition a copy of all documents evidencing the transfer, whether transferred unconditionally, for security, or otherwise, and a signed statement that the claim was not transferred for the purpose of commencing the case and setting forth the consideration for and terms of the transfer. An entity that has transferred or acquired a claim for the purpose of commencing a case for liquidation under chapter 7 or for reorganization under chapter 11 shall not be a qualified petitioner.__ 
+    (a)  __Transferor or Transferee of Claim__  __.__ 
 
-    (b) __Joinder of Petitioners After Filing. If the answer to an involuntary petition filed by fewer than three creditors avers the existence of 12 or more creditors, the debtor shall file with the answer a list of all creditors with their addresses, a brief statement of the nature of their claims, and the amounts thereof. If it appears that there are 12 or more creditors as provided in § 303(b) of the Code, the court shall afford a reasonable opportunity for other creditors to join in the petition before a hearing is held thereon.__ 
+     A transferor or transferee of a claim shall annex to the original and each copy of the petition a copy of all documents evidencing the transfer, whether transferred unconditionally, for security, or otherwise, and a signed statement that the claim was not transferred for the purpose of commencing the case and setting forth the consideration for and terms of the transfer. An entity that has transferred or acquired a claim for the purpose of commencing a case for liquidation under chapter 7 or for reorganization under chapter 11 shall not be a qualified petitioner.
+
+    (b)  __Joinder of Petitioners After Filing__  __.__ 
+
+     If the answer to an involuntary petition filed by fewer than three creditors avers the existence of 12 or more creditors, the debtor shall file with the answer a list of all creditors with their addresses, a brief statement of the nature of their claims, and the amounts thereof. If it appears that there are 12 or more creditors as provided in § 303(b) of the Code, the court shall afford a reasonable opportunity for other creditors to join in the petition before a hearing is held thereon.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987.)
 

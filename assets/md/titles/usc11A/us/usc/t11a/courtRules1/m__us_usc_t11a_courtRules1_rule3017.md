@@ -15,15 +15,21 @@
 
 ### Rule 3017. Court Consideration of Disclosure Statement in a Chapter 9 Municipality or Chapter 11 Reorganization Case
 
-    (a) __Hearing on Disclosure Statement and Objections. Except as provided in Rule 3017.1, after a disclosure statement is filed in accordance with Rule 3016(b), the court shall hold a hearing on at least 28 days’ notice to the debtor, creditors, equity security holders and other parties in interest as provided in Rule 2002 to consider the disclosure statement and any objections or modifications thereto. The plan and the disclosure statement shall be mailed with the notice of the hearing only to the debtor, any trustee or committee appointed under the Code, the Securities and Exchange Commission and any party in interest who requests in writing a copy of the statement or plan. Objections to the disclosure statement shall be filed and served on the debtor, the trustee, any committee appointed under the Code, and any other entity designated by the court, at any time before the disclosure statement is approved or by an earlier date as the court may fix. In a chapter 11 reorganization case, every notice, plan, disclosure statement, and objection required to be served or mailed pursuant to this subdivision shall be transmitted to the United States trustee within the time provided in this subdivision.__ 
+    (a)  __Hearing on Disclosure Statement and Objections__  __.__ 
 
-    (b) __Determination on Disclosure Statement. Following the hearing the court shall determine whether the disclosure statement should be approved.__ 
+     Except as provided in Rule 3017.1, after a disclosure statement is filed in accordance with Rule 3016(b), the court shall hold a hearing on at least 28 days’ notice to the debtor, creditors, equity security holders and other parties in interest as provided in Rule 2002 to consider the disclosure statement and any objections or modifications thereto. The plan and the disclosure statement shall be mailed with the notice of the hearing only to the debtor, any trustee or committee appointed under the Code, the Securities and Exchange Commission and any party in interest who requests in writing a copy of the statement or plan. Objections to the disclosure statement shall be filed and served on the debtor, the trustee, any committee appointed under the Code, and any other entity designated by the court, at any time before the disclosure statement is approved or by an earlier date as the court may fix. In a chapter 11 reorganization case, every notice, plan, disclosure statement, and objection required to be served or mailed pursuant to this subdivision shall be transmitted to the United States trustee within the time provided in this subdivision.
 
-    (c) __Dates Fixed for Voting on Plan and Confirmation. On or before approval of the disclosure statement, the court shall fix a time within which the holders of claims and interests may accept or reject the plan and may fix a date for the hearing on confirmation.__ 
+    (b)  __Determination on Disclosure Statement__  __.__ 
 
-    (d) __Transmission and Notice to United States Trustee, Creditors, and Equity Security Holders. Upon approval of a disclosure statement,—__  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. The comma probably should not appear.__  __ </sup></sup> __  __except to the extent that the court orders otherwise with respect to one or more unimpaired classes of creditors or equity security holders—__ 
+     Following the hearing the court shall determine whether the disclosure statement should be approved.
 
-    the debtor in possession, trustee, proponent of the plan, or clerk as the court orders shall mail to all creditors and equity security holders, and in a chapter 11 reorganization case shall transmit to the United States trustee,
+    (c)  __Dates Fixed for Voting on Plan and Confirmation__  __.__ 
+
+     On or before approval of the disclosure statement, the court shall fix a time within which the holders of claims and interests may accept or reject the plan and may fix a date for the hearing on confirmation.
+
+    (d)  __Transmission and Notice to United States Trustee, Creditors, and Equity Security Holders__  __.__ 
+
+     Upon approval of a disclosure statement,—  <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  except to the extent that the court orders otherwise with respect to one or more unimpaired classes of creditors or equity security holders—the debtor in possession, trustee, proponent of the plan, or clerk as the court orders shall mail to all creditors and equity security holders, and in a chapter 11 reorganization case shall transmit to the United States trustee,
 
         (1) the plan or a court-approved summary of the plan;
 
@@ -35,9 +41,13 @@
 
         In addition, notice of the time fixed for filing objections and the hearing on confirmation shall be mailed to all creditors and equity security holders in accordance with Rule 2002(b), and a form of ballot conforming to the appropriate Official Form shall be mailed to creditors and equity security holders entitled to vote on the plan. If the court opinion is not transmitted or only a summary of the plan is transmitted, the court opinion or the plan shall be provided on request of a party in interest at the plan proponent’s expense. If the court orders that the disclosure statement and the plan or a summary of the plan shall not be mailed to any unimpaired class, notice that the class is designated in the plan as unimpaired and notice of the name and address of the person from whom the plan or summary of the plan and disclosure statement may be obtained upon request and at the plan proponent’s expense, shall be mailed to members of the unimpaired class together with the notice of the time fixed for filing objections to and the hearing on confirmation. For the purposes of this subdivision, creditors and equity security holders shall include holders of stock, bonds, debentures, notes, and other securities of record on the date the order approving the disclosure statement is entered or another date fixed by the court, for cause, after notice and a hearing.
 
-    (e) __Transmission to Beneficial Holders of Securities. At the hearing held pursuant to subdivision (a) of this rule, the court shall consider the procedures for transmitting the documents and information required by subdivision (d) of this rule to beneficial holders of stock, bonds, debentures, notes, and other securities, determine the adequacy of the procedures, and enter any orders the court deems appropriate.__ 
+    (e)  __Transmission to Beneficial Holders of Securities__  __.__ 
 
-    (f) __Notice and Transmission of Documents to Entities Subject to an Injunction Under a Plan. If a plan provides for an injunction against conduct not otherwise enjoined under the Code and an entity that would be subject to the injunction is not a creditor or equity security holder, at the hearing held under Rule 3017(a), the court shall consider procedures for providing the entity with:__ 
+     At the hearing held pursuant to subdivision (a) of this rule, the court shall consider the procedures for transmitting the documents and information required by subdivision (d) of this rule to beneficial holders of stock, bonds, debentures, notes, and other securities, determine the adequacy of the procedures, and enter any orders the court deems appropriate.
+
+    (f)  __Notice and Transmission of Documents to Entities Subject to an Injunction Under a Plan__  __.__ 
+
+     If a plan provides for an injunction against conduct not otherwise enjoined under the Code and an entity that would be subject to the injunction is not a creditor or equity security holder, at the hearing held under Rule 3017(a), the court shall consider procedures for providing the entity with:
 
         (1) at least 28 days’ notice of the time fixed for filing objections and the hearing on confirmation of the plan containing the information described in Rule 2002(c)(3); and
 

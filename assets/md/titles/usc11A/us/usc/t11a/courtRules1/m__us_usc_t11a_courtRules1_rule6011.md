@@ -15,7 +15,9 @@
 
 ### Rule 6011. Disposal of Patient Records in Health Care Business Case
 
-    (a) __Notice by Publication Under § 351(1)(A). A notice regarding the claiming or disposing of patient records under § 351(1)(A) shall not identify any patient by name or other identifying information, but shall:__ 
+    (a)  __Notice by Publication Under__  __§ 351(1)(A).__ 
+
+     A notice regarding the claiming or disposing of patient records under § 351(1)(A) shall not identify any patient by name or other identifying information, but shall:
 
         (1) identify with particularity the health care facility whose patient records the trustee proposes to destroy;
 
@@ -25,11 +27,17 @@
 
         (4) state the date by which patient records must be claimed, and that if they are not so claimed the records will be destroyed.
 
-    (b) __Notice by Mail Under § 351(1)(B). Subject to applicable nonbankruptcy law relating to patient privacy, a notice regarding the claiming or disposing of patient records under § 351(1)(B) shall, in addition to including the information in subdivision (a), direct that a patient’s family member or other representative who receives the notice inform the patient of the notice. Any notice under this subdivision shall be mailed to the patient and any family member or other contact person whose name and address have been given to the trustee or the debtor for the purpose of providing information regarding the patient’s health care, to the Attorney General of the State where the health care facility is located, and to any insurance company known to have provided health care insurance to the patient.__ 
+    (b)  __Notice by Mail Under__  __§ 351(1)(B).__ 
 
-    (c) __Proof of Compliance With Notice Requirement. Unless the court orders the trustee to file proof of compliance with § 351(1)(B) under seal, the trustee shall not file, but shall maintain, the proof of compliance for a reasonable time.__ 
+     Subject to applicable nonbankruptcy law relating to patient privacy, a notice regarding the claiming or disposing of patient records under § 351(1)(B) shall, in addition to including the information in subdivision (a), direct that a patient’s family member or other representative who receives the notice inform the patient of the notice. Any notice under this subdivision shall be mailed to the patient and any family member or other contact person whose name and address have been given to the trustee or the debtor for the purpose of providing information regarding the patient’s health care, to the Attorney General of the State where the health care facility is located, and to any insurance company known to have provided health care insurance to the patient.
 
-    (d) __Report of Destruction of Records. The trustee shall file, no later than 30 days after the destruction of patient records under § 351(3), a report certifying that the unclaimed records have been destroyed and explaining the method used to effect the destruction. The report shall not identify any patient by name or other identifying information.__ 
+    (c)  __Proof of Compliance With Notice Requirement__  __.__ 
+
+     Unless the court orders the trustee to file proof of compliance with § 351(1)(B) under seal, the trustee shall not file, but shall maintain, the proof of compliance for a reasonable time.
+
+    (d)  __Report of Destruction of Records__  __.__ 
+
+     The trustee shall file, no later than 30 days after the destruction of patient records under § 351(3), a report certifying that the unclaimed records have been destroyed and explaining the method used to effect the destruction. The report shall not identify any patient by name or other identifying information.
 
 (Added Apr. 23, 2008, eff. Dec. 1, 2008.)
 

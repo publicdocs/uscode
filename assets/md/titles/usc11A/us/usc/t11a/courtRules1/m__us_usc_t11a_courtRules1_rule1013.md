@@ -15,11 +15,17 @@
 
 ### Rule 1013. Hearing and Disposition of a Petition in an Involuntary Case
 
-    (a) __Contested Petition. The court shall determine the issues of a contested petition at the earliest practicable time and forthwith enter an order for relief, dismiss the petition, or enter any other appropriate order.__ 
+    (a)  __Contested Petition__  __.__ 
 
-    (b) __Default. If no pleading or other defense to a petition is filed within the time provided by Rule 1011, the court, on the next day, or as soon thereafter as practicable, shall enter an order for the relief requested in the petition.__ 
+     The court shall determine the issues of a contested petition at the earliest practicable time and forthwith enter an order for relief, dismiss the petition, or enter any other appropriate order.
 
-    \[(c) __Order for Relief\] (Abrogated__  __Apr. 22, 1993__  __, eff.__  __Aug. 1, 1993__  __)__ 
+    (b)  __Default__  __.__ 
+
+     If no pleading or other defense to a petition is filed within the time provided by Rule 1011, the court, on the next day, or as soon thereafter as practicable, shall enter an order for the relief requested in the petition.
+
+    \[(c)  __Order for Relief__  __\]__ 
+
+     (Abrogated Apr. 22, 1993, eff. Aug. 1, 1993)
 
 (As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993.)
 

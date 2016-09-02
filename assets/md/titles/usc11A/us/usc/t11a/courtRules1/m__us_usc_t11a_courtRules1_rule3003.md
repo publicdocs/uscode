@@ -15,15 +15,17 @@
 
 ### Rule 3003. Filing Proof of Claim or Equity Security Interest in Chapter 9 Municipality or Chapter 11 Reorganization Cases
 
-    (a) __Applicability of Rule. This rule applies in chapter 9 and 11 cases.__ 
+    (a)  __Applicability of Rule__  __.__ 
 
-    (b) __Schedule of Liabilities and List of Equity Security Holders.__ 
+     This rule applies in chapter 9 and 11 cases.
+
+    (b)  __Schedule of Liabilities and List of Equity Security Holders__  __.__ 
 
         (1) Schedule of Liabilities. The schedule of liabilities filed pursuant to § 521(l) of the Code shall constitute prima facie evidence of the validity and amount of the claims of creditors, unless they are scheduled as disputed, contingent, or unliquidated. It shall not be necessary for a creditor or equity security holder to file a proof of claim or interest except as provided in subdivision (c)(2) of this rule.
 
         (2) List of Equity Security Holders. The list of equity security holders filed pursuant to Rule 1007(a)(3) shall constitute prima facie evidence of the validity and amount of the equity security interests and it shall not be necessary for the holders of such interests to file a proof of interest.
 
-    (c) __Filing Proof of Claim.__ 
+    (c)  __Filing Proof of Claim__  __.__ 
 
         (1) Who May File. Any creditor or indenture trustee may file a proof of claim within the time prescribed by subdivision (c)(3) of this rule.
 
@@ -35,7 +37,9 @@
 
         (5) Filing by Indenture Trustee. An indenture trustee may file a claim on behalf of all known or unknown holders of securities issued pursuant to the trust instrument under which it is trustee.
 
-    (d) __Proof of Right to Record Status. For the purposes of Rules 3017, 3018 and 3021 and for receiving notices, an entity who is not the record holder of a security may file a statement setting forth facts which entitle that entity to be treated as the record holder. An objection to the statement may be filed by any party in interest.__ 
+    (d)  __Proof of Right to Record Status__  __.__ 
+
+     For the purposes of Rules 3017, 3018 and 3021 and for receiving notices, an entity who is not the record holder of a security may file a statement setting forth facts which entitle that entity to be treated as the record holder. An objection to the statement may be filed by any party in interest.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

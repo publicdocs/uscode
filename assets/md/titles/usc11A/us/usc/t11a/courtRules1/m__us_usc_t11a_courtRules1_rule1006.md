@@ -15,9 +15,11 @@
 
 ### Rule 1006. Filing Fee
 
-    (a) __General Requirement. Every petition shall be accompanied by the filing fee except as provided in subdivisions (b) and (c) of this rule. For the purpose of this rule, “filing fee” means the filing fee prescribed by 28 U.S.C. § 1930(a)(1)–(a)(5) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. § 1930(b) that is payable to the clerk upon the commencement of a case under the Code.__ 
+    (a)  __General Requirement__  __.__ 
 
-    (b) __Payment of Filing Fee in Installments.__ 
+     Every petition shall be accompanied by the filing fee except as provided in subdivisions (b) and (c) of this rule. For the purpose of this rule, “filing fee” means the filing fee prescribed by 28 U.S.C. § 1930(a)(1)–(a)(5) and any other fee prescribed by the Judicial Conference of the United States under 28 U.S.C. § 1930(b) that is payable to the clerk upon the commencement of a case under the Code.
+
+    (b)  __Payment of Filing Fee in Installments__  __.__ 
 
         (1) Application to Pay Filing Fee in Installments. A voluntary petition by an individual shall be accepted for filing if accompanied by the debtor’s signed application, prepared as prescribed by the appropriate Official Form, stating that the debtor is unable to pay the filing fee except in installments.
 
@@ -25,7 +27,9 @@
 
         (3) Postponement of Attorney’s Fees. All installments of the filing fee must be paid in full before the debtor or chapter 13 trustee may make further payments to an attorney or any other person who renders services to the debtor in connection with the case.
 
-    (c) __Waiver of Filing Fee. A voluntary chapter 7 petition filed by an individual shall be accepted for filing if accompanied by the debtor’s application requesting a waiver under 28 U.S.C. § 1930(f), prepared as prescribed by the appropriate Official Form.__ 
+    (c)  __Waiver of Filing Fee__  __.__ 
+
+     A voluntary chapter 7 petition filed by an individual shall be accepted for filing if accompanied by the debtor’s application requesting a waiver under 28 U.S.C. § 1930(f), prepared as prescribed by the appropriate Official Form.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

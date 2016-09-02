@@ -15,7 +15,9 @@
 
 ### Rule 2015. Duty to Keep Records, Make Reports, and Give Notice of Case or Change of Status
 
-    (a) __Trustee or Debtor in Possession. A trustee or debtor in possession shall:__ 
+    (a)  __Trustee or Debtor in Possession__  __.__ 
+
+     A trustee or debtor in possession shall:
 
         (1) in a chapter 7 liquidation case and, if the court directs, in a chapter 11 reorganization case file and transmit to the United States trustee a complete inventory of the property of the debtor within 30 days after qualifying as a trustee or debtor in possession, unless such an inventory has already been filed;
 
@@ -29,17 +31,23 @@
 
         (6) in a chapter 11 small business case, unless the court, for cause, sets another reporting interval, file and transmit to the United States trustee for each calendar month after the order for relief, on the appropriate Official Form, the report required by § 308. If the order for relief is within the first 15 days of a calendar month, a report shall be filed for the portion of the month that follows the order for relief. If the order for relief is after the 15th day of a calendar month, the period for the remainder of the month shall be included in the report for the next calendar month. Each report shall be filed no later than 21 days after the last day of the calendar month following the month covered by the report. The obligation to file reports under this subparagraph terminates on the effective date of the plan, or conversion or dismissal of the case.
 
-    (b) __Chapter 12 Trustee and Debtor in Possession. In a chapter 12 family farmer’s debt adjustment case, the debtor in possession shall perform the duties prescribed in clauses (2)–(4) of subdivision (a) of this rule and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the property of the debtor within the time fixed by the court. If the debtor is removed as debtor in possession, the trustee shall perform the duties of the debtor in possession prescribed in this paragraph.__ 
+    (b)  __Chapter __  __12__  __ Trustee and Debtor in Possession__  __.__ 
 
-    (c) __Chapter 13 Trustee and Debtor.__ 
+     In a chapter 12 family farmer’s debt adjustment case, the debtor in possession shall perform the duties prescribed in clauses (2)–(4) of subdivision (a) of this rule and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the property of the debtor within the time fixed by the court. If the debtor is removed as debtor in possession, the trustee shall perform the duties of the debtor in possession prescribed in this paragraph.
+
+    (c)  __Chapter __  __13__  __ Trustee and Debtor__  __.__ 
 
         (1) Business Cases. In a chapter 13 individual’s debt adjustment case, when the debtor is engaged in business, the debtor shall perform the duties prescribed by clauses (2)–(4) of subdivision (a) of this rule and, if the court directs, shall file and transmit to the United States trustee a complete inventory of the property of the debtor within the time fixed by the court.
 
         (2) Nonbusiness Cases. In a chapter 13 individual’s debt adjustment case, when the debtor is not engaged in business, the trustee shall perform the duties prescribed by clause (2) of subdivision (a) of this rule.
 
-    (d) __Foreign Representative. In a case in which the court has granted recognition of a foreign proceeding under chapter 15, the foreign representative shall file any notice required under § 1518 of the Code within 14 days after the date when the representative becomes aware of the subsequent information.__ 
+    (d)  __Foreign Representative__  __.__ 
 
-    (e) __Transmission of Reports. In a chapter 11 case the court may direct that copies or summaries of annual reports and copies or summaries of other reports shall be mailed to the creditors, equity security holders, and indenture trustees. The court may also direct the publication of summaries of any such reports. A copy of every report or summary mailed or published pursuant to this subdivision shall be transmitted to the United States trustee.__ 
+     In a case in which the court has granted recognition of a foreign proceeding under chapter 15, the foreign representative shall file any notice required under § 1518 of the Code within 14 days after the date when the representative becomes aware of the subsequent information.
+
+    (e)  __Transmission of Reports__  __.__ 
+
+     In a chapter 11 case the court may direct that copies or summaries of annual reports and copies or summaries of other reports shall be mailed to the creditors, equity security holders, and indenture trustees. The court may also direct the publication of summaries of any such reports. A copy of every report or summary mailed or published pursuant to this subdivision shall be transmitted to the United States trustee.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 29, 2002, eff. Dec. 1, 2002; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009; Apr. 23, 2012, eff. Dec. 1, 2012.)
 

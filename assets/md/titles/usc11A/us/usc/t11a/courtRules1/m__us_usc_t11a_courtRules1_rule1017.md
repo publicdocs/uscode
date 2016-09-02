@@ -15,25 +15,33 @@
 
 ### Rule 1017. Dismissal or Conversion of Case; Suspension
 
-    (a) __Voluntary Dismissal; Dismissal for Want of Prosecution or Other Cause. Except as provided in §§ 707(a)(3), 707(b), 1208(b), and 1307(b) of the Code, and in Rule 1017(b), (c), and (e), a case shall not be dismissed on motion of the petitioner, for want of prosecution or other cause, or by consent of the parties, before a hearing on notice as provided in Rule 2002. For the purpose of the notice, the debtor shall file a list of creditors with their addresses within the time fixed by the court unless the list was previously filed. If the debtor fails to file the list, the court may order the debtor or another entity to prepare and file it.__ 
+    (a)  __Voluntary Dismissal; Dismissal for Want of Prosecution or Other Cause__  __.__ 
 
-    (b) __Dismissal for Failure To Pay Filing Fee.__ 
+     Except as provided in §§ 707(a)(3), 707(b), 1208(b), and 1307(b) of the Code, and in Rule 1017(b), (c), and (e), a case shall not be dismissed on motion of the petitioner, for want of prosecution or other cause, or by consent of the parties, before a hearing on notice as provided in Rule 2002. For the purpose of the notice, the debtor shall file a list of creditors with their addresses within the time fixed by the court unless the list was previously filed. If the debtor fails to file the list, the court may order the debtor or another entity to prepare and file it.
+
+    (b)  __Dismissal for Failure To Pay Filing Fee__  __.__ 
 
         (1) If any installment of the filing fee has not been paid, the court may, after a hearing on notice to the debtor and the trustee, dismiss the case.
 
         (2) If the case is dismissed or closed without full payment of the filing fee, the installments collected shall be distributed in the same manner and proportions as if the filing fee had been paid in full.
 
-    (c) __Dismissal of Voluntary Chapter 7 or Chapter 13 Case for Failure To Timely File List of Creditors, Schedules, and Statement of Financial Affairs. The court may dismiss a voluntary chapter 7 or chapter 13 case under § 707(a)(3) or § 1307(c)(9) after a hearing on notice served by the United States trustee on the debtor, the trustee, and any other entities as the court directs.__ 
+    (c)  __Dismissal of Voluntary Chapter __  __7__  __ or Chapter __  __13__  __ Case for Failure To Timely File List of Creditors, Schedules, and Statement of Financial Affairs__  __.__ 
 
-    (d) __Suspension. The court shall not dismiss a case or suspend proceedings under § 305 before a hearing on notice as provided in Rule 2002(a).__ 
+     The court may dismiss a voluntary chapter 7 or chapter 13 case under § 707(a)(3) or § 1307(c)(9) after a hearing on notice served by the United States trustee on the debtor, the trustee, and any other entities as the court directs.
 
-    (e) __Dismissal of an Individual Debtor’s Chapter 7 Case, or Conversion to a Case Under Chapter 11 or 13, for Abuse. The court may dismiss or, with the debtor’s consent, convert an individual debtor’s case for abuse under § 707(b) only on motion and after a hearing on notice to the debtor, the trustee, the United States trustee, and any other entity as the court directs.__ 
+    (d)  __Suspension__  __.__ 
+
+     The court shall not dismiss a case or suspend proceedings under § 305 before a hearing on notice as provided in Rule 2002(a).
+
+    (e)  __Dismissal of an Individual Debtor’s Chapter__  __7__  __Case, or Conversion to a Case Under Chapter__  __11__  __or__  __13__  __, for Abuse__  __.__ 
+
+     The court may dismiss or, with the debtor’s consent, convert an individual debtor’s case for abuse under § 707(b) only on motion and after a hearing on notice to the debtor, the trustee, the United States trustee, and any other entity as the court directs.
 
         (1) Except as otherwise provided in § 704(b)(2), a motion to dismiss a case for abuse under § 707(b) or (c) may be filed only within 60 days after the first date set for the meeting of creditors under § 341(a), unless, on request filed before the time has expired, the court for cause extends the time for filing the motion to dismiss. The party filing the motion shall set forth in the motion all matters to be considered at the hearing. In addition, a motion to dismiss under § 707(b)(1) and (3) shall state with particularity the circumstances alleged to constitute abuse.
 
         (2) If the hearing is set on the court’s own motion, notice of the hearing shall be served on the debtor no later than 60 days after the first date set for the meeting of creditors under § 341(a). The notice shall set forth all matters to be considered by the court at the hearing.
 
-    (f) __Procedure for Dismissal, Conversion, or Suspension.__ 
+    (f)  __Procedure for Dismissal, Conversion, or Suspension__  __.__ 
 
         (1) Rule 9014 governs a proceeding to dismiss or suspend a case, or to convert a case to another chapter, except under §§ 706(a), 1112(a), 1208(a) or (b), or 1307(a) or (b).
 

@@ -15,9 +15,13 @@
 
 ### Rule 3005. Filing of Claim, Acceptance, or Rejection by Guarantor, Surety, Indorser, or Other Codebtor
 
-    (a) __Filing of Claim. If a creditor does not timely file a proof of claim under Rule 3002(c) or 3003(c), any entity that is or may be liable with the debtor to that creditor, or who has secured that creditor, may file a proof of the claim within 30 days after the expiration of the time for filing claims prescribed by Rule 3002(c) or Rule 3003(c) whichever is applicable. No distribution shall be made on the claim except on satisfactory proof that the original debt will be diminished by the amount of distribution.__ 
+    (a)  __Filing of Claim__  __.__ 
 
-    (b) __Filing of Acceptance or Rejection; Substitution of Creditor. An entity which has filed a claim pursuant to the first sentence of subdivision (a) of this rule may file an acceptance or rejection of a plan in the name of the creditor, if known, or if unknown, in the entity’s own name but if the creditor files a proof of claim within the time permitted by Rule 3003(c) or files a notice prior to confirmation of a plan of the creditor’s intention to act in the creditor’s own behalf, the creditor shall be substituted for the obligor with respect to that claim.__ 
+     If a creditor does not timely file a proof of claim under Rule 3002(c) or 3003(c), any entity that is or may be liable with the debtor to that creditor, or who has secured that creditor, may file a proof of the claim within 30 days after the expiration of the time for filing claims prescribed by Rule 3002(c) or Rule 3003(c) whichever is applicable. No distribution shall be made on the claim except on satisfactory proof that the original debt will be diminished by the amount of distribution.
+
+    (b)  __Filing of Acceptance or Rejection; Substitution of Creditor__  __.__ 
+
+     An entity which has filed a claim pursuant to the first sentence of subdivision (a) of this rule may file an acceptance or rejection of a plan in the name of the creditor, if known, or if unknown, in the entity’s own name but if the creditor files a proof of claim within the time permitted by Rule 3003(c) or files a notice prior to confirmation of a plan of the creditor’s intention to act in the creditor’s own behalf, the creditor shall be substituted for the obligor with respect to that claim.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 25, 2005, eff. Dec. 1, 2005.)
 

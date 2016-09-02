@@ -15,11 +15,17 @@
 
 ### Rule 5007. Record of Proceedings and Transcripts
 
-     (a) __Filing of Record or Transcript. The reporter or operator of a recording device shall certify the original notes of testimony, tape recording, or other original record of the proceeding and promptly file them with the clerk. The person preparing any transcript shall promptly file a certified copy.__ 
+     (a)  __Filing of Record or Transcript__  __.__ 
 
-    (b) __Transcript Fees. The fees for copies of transcripts shall be charged at rates prescribed by the Judicial Conference of the United States. No fee may be charged for the certified copy filed with the clerk.__ 
+     The reporter or operator of a recording device shall certify the original notes of testimony, tape recording, or other original record of the proceeding and promptly file them with the clerk. The person preparing any transcript shall promptly file a certified copy.
 
-    (c) __Admissibility of Record in Evidence. A certified sound recording or a transcript of a proceeding shall be admissible as prima facie evidence to establish the record.__ 
+    (b)  __Transcript Fees__  __.__ 
+
+     The fees for copies of transcripts shall be charged at rates prescribed by the Judicial Conference of the United States. No fee may be charged for the certified copy filed with the clerk.
+
+    (c)  __Admissibility of Record in Evidence__  __.__ 
+
+     A certified sound recording or a transcript of a proceeding shall be admissible as prima facie evidence to establish the record.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

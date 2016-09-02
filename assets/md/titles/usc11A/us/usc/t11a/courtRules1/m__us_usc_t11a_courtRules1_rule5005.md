@@ -15,13 +15,13 @@
 
 ### Rule 5005. Filing and Transmittal of Papers
 
-    (a) __Filing.__ 
+    (a)  __Filing__  __.__ 
 
         (1) Place of Filing. The lists, schedules, statements, proofs of claim or interest, complaints, motions, applications, objections and other papers required to be filed by these rules, except as provided in 28 U.S.C. § 1409, shall be filed with the clerk in the district where the case under the Code is pending. The judge of that court may permit the papers to be filed with the judge, in which event the filing date shall be noted thereon, and they shall be forthwith transmitted to the clerk. The clerk shall not refuse to accept for filing any petition or other paper presented for the purpose of filing solely because it is not presented in proper form as required by these rules or any local rules or practices.
 
         (2) Filing by Electronic Means. A court may by local rule permit or require documents to be filed, signed, or verified by electronic means that are consistent with technical standards, if any, that the Judicial Conference of the United States establishes. A local rule may require filing by electronic means only if reasonable exceptions are allowed. A document filed by electronic means in compliance with a local rule constitutes a written paper for the purpose of applying these rules, the Federal Rules of Civil Procedure made applicable by these rules, and § 107 of the Code.
 
-    (b) __Transmittal to the United States Trustee.__ 
+    (b)  __Transmittal to the United States Trustee__  __.__ 
 
         (1) The complaints, motions, applications, objections and other papers required to be transmitted to the United States trustee by these rules shall be mailed or delivered to an office of the United States trustee, or to another place designated by the United States trustee, in the district where the case under the Code is pending.
 
@@ -29,7 +29,9 @@
 
         (3) Nothing in these rules shall require the clerk to transmit any paper to the United States trustee if the United States trustee requests in writing that the paper not be transmitted.
 
-    (c) __Error in Filing or Transmittal. A paper intended to be filed with the clerk but erroneously delivered to the United States trustee, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the clerk of the bankruptcy court. A paper intended to be transmitted to the United States trustee but erroneously delivered to the clerk, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the United States trustee. In the interest of justice, the court may order that a paper erroneously delivered shall be deemed filed with the clerk or transmitted to the United States trustee as of the date of its original delivery.__ 
+    (c)  __Error in Filing or Transmittal__  __.__ 
+
+     A paper intended to be filed with the clerk but erroneously delivered to the United States trustee, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the clerk of the bankruptcy court. A paper intended to be transmitted to the United States trustee but erroneously delivered to the clerk, the trustee, the attorney for the trustee, a bankruptcy judge, a district judge, the clerk of the bankruptcy appellate panel, or the clerk of the district court shall, after the date of its receipt has been noted thereon, be transmitted forthwith to the United States trustee. In the interest of justice, the court may order that a paper erroneously delivered shall be deemed filed with the clerk or transmitted to the United States trustee as of the date of its original delivery.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 22, 1993, eff. Aug. 1, 1993; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 12, 2006, eff. Dec. 1, 2006.)
 

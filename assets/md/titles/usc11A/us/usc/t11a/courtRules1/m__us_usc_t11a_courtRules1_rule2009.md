@@ -15,11 +15,15 @@
 
 ### Rule 2009. Trustees for Estates When Joint Administration Ordered
 
-    (a) __Election of Single Trustee for Estates Being Jointly Administered. If the court orders a joint administration of two or more estates under Rule 1015(b), creditors may elect a single trustee for the estates being jointly administered, unless the case is under subchapter V of chapter 7 of the Code.__ 
+    (a)  __Election of Single Trustee for Estates Being Jointly Administered__  __.__ 
 
-    (b) __Right of Creditors To Elect Separate Trustee. Notwithstanding entry of an order for joint administration under Rule 1015(b), the creditors of any debtor may elect a separate trustee for the estate of the debtor as provided in § 702 of the Code, unless the case is under subchapter V of chapter 7.__ 
+     If the court orders a joint administration of two or more estates under Rule 1015(b), creditors may elect a single trustee for the estates being jointly administered, unless the case is under subchapter V of chapter 7 of the Code.
 
-    (c) __Appointment of Trustees for Estates Being Jointly Administered.__ 
+    (b)  __Right of Creditors To Elect Separate Trustee__  __.__ 
+
+     Notwithstanding entry of an order for joint administration under Rule 1015(b), the creditors of any debtor may elect a separate trustee for the estate of the debtor as provided in § 702 of the Code, unless the case is under subchapter V of chapter 7.
+
+    (c)  __Appointment of Trustees for Estates Being Jointly Administered__  __.__ 
 
         (1) Chapter 7 Liquidation Cases. Except in a case governed by subchapter V of chapter 7, the United States trustee may appoint one or more interim trustees for estates being jointly administered in chapter 7 cases.
 
@@ -29,9 +33,13 @@
 
         (4) Chapter 13 Individual’s Debt Adjustment Cases. The United States trustee may appoint one or more trustees for estates being jointly administered in chapter 13 cases.
 
-    (d) __Potential Conflicts of Interest. On a showing that creditors or equity security holders of the different estates will be prejudiced by conflicts of interest of a common trustee who has been elected or appointed, the court shall order the selection of separate trustees for estates being jointly administered.__ 
+    (d)  __Potential Conflicts of Interest__  __.__ 
 
-    (e) __Separate Accounts. The trustee or trustees of estates being jointly administered shall keep separate accounts of the property and distribution of each estate.__ 
+     On a showing that creditors or equity security holders of the different estates will be prejudiced by conflicts of interest of a common trustee who has been elected or appointed, the court shall order the selection of separate trustees for estates being jointly administered.
+
+    (e)  __Separate Accounts__  __.__ 
+
+     The trustee or trustees of estates being jointly administered shall keep separate accounts of the property and distribution of each estate.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Mar. 27, 2003, eff. Dec. 1, 2003.)
 

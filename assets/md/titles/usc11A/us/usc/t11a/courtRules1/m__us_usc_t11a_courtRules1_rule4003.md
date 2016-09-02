@@ -15,9 +15,11 @@
 
 ### Rule 4003. Exemptions
 
-    (a) __Claim of Exemptions. A debtor shall list the property claimed as exempt under § 522 of the Code on the schedule of assets required to be filed by Rule 1007. If the debtor fails to claim exemptions or file the schedule within the time specified in Rule 1007, a dependent of the debtor may file the list within 30 days thereafter.__ 
+    (a)  __Claim of Exemptions__  __.__ 
 
-    (b) __Objecting to a Claim of Exemptions.__ 
+     A debtor shall list the property claimed as exempt under § 522 of the Code on the schedule of assets required to be filed by Rule 1007. If the debtor fails to claim exemptions or file the schedule within the time specified in Rule 1007, a dependent of the debtor may file the list within 30 days thereafter.
+
+    (b)  __Objecting to a Claim of Exemptions__  __.__ 
 
         (1) Except as provided in paragraphs (2) and (3), a party in interest may file an objection to the list of property claimed as exempt within 30 days after the meeting of creditors held under § 341(a) is concluded or within 30 days after any amendment to the list or supplemental schedules is filed, whichever is later. The court may, for cause, extend the time for filing objections if, before the time to object expires, a party in interest files a request for an extension.
 
@@ -27,9 +29,13 @@
 
         (4) A copy of any objection shall be delivered or mailed to the trustee, the debtor and the debtor’s attorney, and the person filing the list and that person’s attorney.
 
-    (c) __Burden of Proof. In any hearing under this rule, the objecting party has the burden of proving that the exemptions are not properly claimed. After hearing on notice, the court shall determine the issues presented by the objections.__ 
+    (c)  __Burden of Proof__  __.__ 
 
-    (d) __Avoidance by Debtor of Transfers of Exempt Property. A proceeding by the debtor to avoid a lien or other transfer of property exempt under § 522(f) of the Code shall be by motion in accordance with Rule 9014. Notwithstanding the provisions of subdivision (b), a creditor may object to a motion filed under § 522(f) by challenging the validity of the exemption asserted to be impaired by the lien.__ 
+     In any hearing under this rule, the objecting party has the burden of proving that the exemptions are not properly claimed. After hearing on notice, the court shall determine the issues presented by the objections.
+
+    (d)  __Avoidance by Debtor of Transfers of Exempt Property__  __.__ 
+
+     A proceeding by the debtor to avoid a lien or other transfer of property exempt under § 522(f) of the Code shall be by motion in accordance with Rule 9014. Notwithstanding the provisions of subdivision (b), a creditor may object to a motion filed under § 522(f) by challenging the validity of the exemption asserted to be impaired by the lien.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 17, 2000, eff. Dec. 1, 2000; Apr. 23, 2008, eff. Dec. 1, 2008.)
 

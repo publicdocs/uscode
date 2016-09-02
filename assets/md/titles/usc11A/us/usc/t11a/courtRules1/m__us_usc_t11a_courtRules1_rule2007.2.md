@@ -15,17 +15,25 @@
 
 ### Rule 2007.2. Appointment of Patient Care Ombudsman in a Health Care Business Case
 
-    (a) __Order to Appoint Patient Care Ombudsman. In a chapter 7, chapter 9, or chapter 11 case in which the debtor is a health care business, the court shall order the appointment of a patient care ombudsman under § 333 of the Code, unless the court, on motion of the United States trustee or a party in interest filed no later than 21 days after the commencement of the case or within another time fixed by the court, finds that the appointment of a patient care ombudsman is not necessary under the specific circumstances of the case for the protection of patients.__ 
+    (a)  __Order to Appoint Patient Care Ombudsman__  __.__ 
 
-    (b) __Motion for Order To Appoint Ombudsman. If the court has found that the appointment of an ombudsman is not necessary, or has terminated the appointment, the court, on motion of the United States trustee or a party in interest, may order the appointment at a later time if it finds that the appointment has become necessary to protect patients.__ 
+     In a chapter 7, chapter 9, or chapter 11 case in which the debtor is a health care business, the court shall order the appointment of a patient care ombudsman under § 333 of the Code, unless the court, on motion of the United States trustee or a party in interest filed no later than 21 days after the commencement of the case or within another time fixed by the court, finds that the appointment of a patient care ombudsman is not necessary under the specific circumstances of the case for the protection of patients.
 
-    (c) __Notice of Appointment. If a patient care ombudsman is appointed under § 333, the United States trustee shall promptly file a notice of the appointment, including the name and address of the person appointed. Unless the person appointed is a State Long-Term Care Ombudsman, the notice shall be accompanied by a verified statement of the person appointed setting forth the person’s connections with the debtor, creditors, patients, any other party in interest, their respective attorneys and accountants, the United States trustee, and any person employed in the office of the United States trustee.__ 
+    (b)  __Motion for Order To Appoint Ombudsman__  __.__ 
 
-    (d) __Termination of Appointment. On motion of the United States trustee or a party in interest, the court may terminate the appointment of a patient care ombudsman if the court finds that the appointment is not necessary to protect patients.__ 
+     If the court has found that the appointment of an ombudsman is not necessary, or has terminated the appointment, the court, on motion of the United States trustee or a party in interest, may order the appointment at a later time if it finds that the appointment has become necessary to protect patients.
 
-    (e) __Motion. A motion under this rule shall be governed by Rule 9014. The motion shall be transmitted to the United States trustee and served on:__ 
+    (c)  __Notice of Appointment__  __.__ 
 
-     the debtor; the trustee; any committee elected under § 705 or appointed under § 1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under § 1102, on the creditors included on the list filed under Rule 1007(d); and such other entities as the court may direct.
+     If a patient care ombudsman is appointed under § 333, the United States trustee shall promptly file a notice of the appointment, including the name and address of the person appointed. Unless the person appointed is a State Long-Term Care Ombudsman, the notice shall be accompanied by a verified statement of the person appointed setting forth the person’s connections with the debtor, creditors, patients, any other party in interest, their respective attorneys and accountants, the United States trustee, and any person employed in the office of the United States trustee.
+
+    (d)  __Termination of Appointment__  __.__ 
+
+     On motion of the United States trustee or a party in interest, the court may terminate the appointment of a patient care ombudsman if the court finds that the appointment is not necessary to protect patients.
+
+    (e)  __Motion__  __.__ 
+
+     A motion under this rule shall be governed by Rule 9014. The motion shall be transmitted to the United States trustee and served on: the debtor; the trustee; any committee elected under § 705 or appointed under § 1102 of the Code or its authorized agent, or, if the case is a chapter 9 municipality case or a chapter 11 reorganization case and no committee of unsecured creditors has been appointed under § 1102, on the creditors included on the list filed under Rule 1007(d); and such other entities as the court may direct.
 
 (Added Apr. 23, 2008, eff. Dec. 1, 2008; amended Mar. 26, 2009, eff. Dec. 1, 2009.)
 

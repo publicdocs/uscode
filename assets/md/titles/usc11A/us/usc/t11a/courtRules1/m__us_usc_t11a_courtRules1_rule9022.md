@@ -15,9 +15,13 @@
 
 ### Rule 9022. Notice of Judgment or Order
 
-    (a) __Judgment or Order of Bankruptcy Judge. Immediately on the entry of a judgment or order the clerk shall serve a notice of entry in the manner provided in Rule 5(b) F.R.Civ.P. on the contesting parties and on other entities as the court directs. Unless the case is a chapter 9 municipality case, the clerk shall forthwith transmit to the United States trustee a copy of the judgment or order. Service of the notice shall be noted in the docket. Lack of notice of the entry does not affect the time to appeal or relieve or authorize the court to relieve a party for failure to appeal within the time allowed, except as permitted in Rule 8002.__ 
+    (a)  __Judgment or Order of Bankruptcy Judge__  __.__ 
 
-    (b) __Judgment or Order of District Judge. Notice of a judgment or order entered by a district judge is governed by Rule 77(d) F.R.Civ.P. Unless the case is a chapter 9 municipality case, the clerk shall forthwith transmit to the United States trustee a copy of a judgment or order entered by a district judge.__ 
+     Immediately on the entry of a judgment or order the clerk shall serve a notice of entry in the manner provided in Rule 5(b) F.R.Civ.P. on the contesting parties and on other entities as the court directs. Unless the case is a chapter 9 municipality case, the clerk shall forthwith transmit to the United States trustee a copy of the judgment or order. Service of the notice shall be noted in the docket. Lack of notice of the entry does not affect the time to appeal or relieve or authorize the court to relieve a party for failure to appeal within the time allowed, except as permitted in Rule 8002.
+
+    (b)  __Judgment or Order of District Judge__  __.__ 
+
+     Notice of a judgment or order entered by a district judge is governed by Rule 77(d) F.R.Civ.P. Unless the case is a chapter 9 municipality case, the clerk shall forthwith transmit to the United States trustee a copy of a judgment or order entered by a district judge.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 2001, eff. Dec. 1, 2001.)
 

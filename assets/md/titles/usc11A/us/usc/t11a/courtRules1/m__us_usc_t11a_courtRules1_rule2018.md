@@ -15,15 +15,25 @@
 
 ### Rule 2018. Intervention; Right to Be Heard
 
-    (a) __Permissive Intervention. In a case under the Code, after hearing on such notice as the court directs and for cause shown, the court may permit any interested entity to intervene generally or with respect to any specified matter.__ 
+    (a)  __Permissive Intervention__  __.__ 
 
-    (b) __Intervention by Attorney General of a State. In a chapter 7, 11, 12, or 13 case, the Attorney General of a State may appear and be heard on behalf of consumer creditors if the court determines the appearance is in the public interest, but the Attorney General may not appeal from any judgment, order, or decree in the case.__ 
+     In a case under the Code, after hearing on such notice as the court directs and for cause shown, the court may permit any interested entity to intervene generally or with respect to any specified matter.
 
-    (c) __Chapter 9 Municipality Case. The Secretary of the Treasury of the United States may, or if requested by the court shall, intervene in a chapter 9 case. Representatives of the state in which the debtor is located may intervene in a chapter 9 case with respect to matters specified by the court.__ 
+    (b)  __Intervention by Attorney General of a State__  __.__ 
 
-    (d) __Labor Unions. In a chapter 9, 11, or 12 case, a labor union or employees’ association, representative of employees of the debtor, shall have the right to be heard on the economic soundness of a plan affecting the interests of the employees. A labor union or employees’ association which exercises its right to be heard under this subdivision shall not be entitled to appeal any judgment, order, or decree relating to the plan, unless otherwise permitted by law.__ 
+     In a chapter 7, 11, 12, or 13 case, the Attorney General of a State may appear and be heard on behalf of consumer creditors if the court determines the appearance is in the public interest, but the Attorney General may not appeal from any judgment, order, or decree in the case.
 
-    (e) __Service on Entities Covered by This Rule. The court may enter orders governing the service of notice and papers on entities permitted to intervene or be heard pursuant to this rule.__ 
+    (c)  __Chapter __  __9__  __ Municipality Case__  __.__ 
+
+     The Secretary of the Treasury of the United States may, or if requested by the court shall, intervene in a chapter 9 case. Representatives of the state in which the debtor is located may intervene in a chapter 9 case with respect to matters specified by the court.
+
+    (d)  __Labor Unions__  __.__ 
+
+     In a chapter 9, 11, or 12 case, a labor union or employees’ association, representative of employees of the debtor, shall have the right to be heard on the economic soundness of a plan affecting the interests of the employees. A labor union or employees’ association which exercises its right to be heard under this subdivision shall not be entitled to appeal any judgment, order, or decree relating to the plan, unless otherwise permitted by law.
+
+    (e)  __Service on Entities Covered by This Rule__  __.__ 
+
+     The court may enter orders governing the service of notice and papers on entities permitted to intervene or be heard pursuant to this rule.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

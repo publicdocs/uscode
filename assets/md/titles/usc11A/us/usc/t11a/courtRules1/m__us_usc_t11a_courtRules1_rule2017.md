@@ -15,9 +15,13 @@
 
 ### Rule 2017. Examination of Debtor’s Transactions with Debtor’s Attorney
 
-    (a) __Payment or Transfer to Attorney Before Order for Relief. On motion by any party in interest or on the court’s own initiative, the court after notice and a hearing may determine whether any payment of money or any transfer of property by the debtor, made directly or indirectly and in contemplation of the filing of a petition under the Code by or against the debtor or before entry of the order for relief in an involuntary case, to an attorney for services rendered or to be rendered is excessive.__ 
+    (a)  __Payment or Transfer to Attorney Before Order for Relief__  __.__ 
 
-    (b) __Payment or Transfer to Attorney After Order for Relief. On motion by the debtor, the United States trustee, or on the court’s own initiative, the court after notice and a hearing may determine whether any payment of money or any transfer of property, or any agreement therefor, by the debtor to an attorney after entry of an order for relief in a case under the Code is excessive, whether the payment or transfer is made or is to be made directly or indirectly, if the payment, transfer, or agreement therefor is for services in any way related to the case.__ 
+     On motion by any party in interest or on the court’s own initiative, the court after notice and a hearing may determine whether any payment of money or any transfer of property by the debtor, made directly or indirectly and in contemplation of the filing of a petition under the Code by or against the debtor or before entry of the order for relief in an involuntary case, to an attorney for services rendered or to be rendered is excessive.
+
+    (b)  __Payment or Transfer to Attorney After Order for Relief__  __.__ 
+
+     On motion by the debtor, the United States trustee, or on the court’s own initiative, the court after notice and a hearing may determine whether any payment of money or any transfer of property, or any agreement therefor, by the debtor to an attorney after entry of an order for relief in a case under the Code is excessive, whether the payment or transfer is made or is to be made directly or indirectly, if the payment, transfer, or agreement therefor is for services in any way related to the case.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

@@ -15,13 +15,21 @@
 
 ### Rule 3007. Objections to Claims
 
-    (a) __Objections to Claims. An objection to the allowance of a claim shall be in writing and filed. A copy of the objection with notice of the hearing thereon shall be mailed or otherwise delivered to the claimant, the debtor or debtor in possession, and the trustee at least 30 days prior to the hearing.__ 
+    (a)  __Objections to Claims__  __.__ 
 
-    (b) __Demand for Relief Requiring an Adversary Proceeding. A party in interest shall not include a demand for relief of a kind specified in Rule 7001 in an objection to the allowance of a claim, but may include the objection in an adversary proceeding.__ 
+     An objection to the allowance of a claim shall be in writing and filed. A copy of the objection with notice of the hearing thereon shall be mailed or otherwise delivered to the claimant, the debtor or debtor in possession, and the trustee at least 30 days prior to the hearing.
 
-    (c) __Limitation on Joinder of Claims Objections. Unless otherwise ordered by the court or permitted by subdivision (d), objections to more than one claim shall not be joined in a single objection.__ 
+    (b)  __Demand for Relief Requiring an Adversary Proceeding__  __.__ 
 
-    (d) __Omnibus Objection. Subject to subdivision (e), objections to more than one claim may be joined in an omnibus objection if all the claims were filed by the same entity, or the objections are based solely on the grounds that the claims should be disallowed, in whole or in part, because:__ 
+     A party in interest shall not include a demand for relief of a kind specified in Rule 7001 in an objection to the allowance of a claim, but may include the objection in an adversary proceeding.
+
+    (c)  __Limitation on Joinder of Claims Objections__  __.__ 
+
+     Unless otherwise ordered by the court or permitted by subdivision (d), objections to more than one claim shall not be joined in a single objection.
+
+    (d)  __Omnibus Objection__  __.__ 
+
+     Subject to subdivision (e), objections to more than one claim may be joined in an omnibus objection if all the claims were filed by the same entity, or the objections are based solely on the grounds that the claims should be disallowed, in whole or in part, because:
 
         (1) they duplicate other claims;
 
@@ -39,7 +47,9 @@
 
         (8) they assert priority in an amount that exceeds the maximum amount under § 507 of the Code.
 
-    (e) __Requirements for Omnibus Objection. An omnibus objection shall:__ 
+    (e)  __Requirements for Omnibus Objection__  __.__ 
+
+     An omnibus objection shall:
 
         (1) state in a conspicuous place that claimants receiving the objection should locate their names and claims in the objection;
 
@@ -53,7 +63,9 @@
 
         (6) contain objections to no more than 100 claims.
 
-    (f) __Finality of Objection. The finality of any order regarding a claim objection included in an omnibus objection shall be determined as though the claim had been subject to an individual objection.__ 
+    (f)  __Finality of Objection__  __.__ 
+
+     The finality of any order regarding a claim objection included in an omnibus objection shall be determined as though the claim had been subject to an individual objection.
 
 (As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 30, 2007, eff. Dec. 1, 2007.)
 

@@ -15,11 +15,17 @@
 
 ### Rule 5011. Withdrawal and Abstention from Hearing a Proceeding
 
-    (a) __Withdrawal. A motion for withdrawal of a case or proceeding shall be heard by a district judge.__ 
+    (a)  __Withdrawal__  __.__ 
 
-    (b) __Abstention From Hearing a Proceeding. A motion for abstention pursuant to 28 U.S.C. § 1334(c) shall be governed by Rule 9014 and shall be served on the parties to the proceeding.__ 
+     A motion for withdrawal of a case or proceeding shall be heard by a district judge.
 
-    (c) __Effect of Filing of Motion for Withdrawal or Abstention. The filing of a motion for withdrawal of a case or proceeding or for abstention pursuant to 28 U.S.C. § 1334(c) shall not stay the administration of the case or any proceeding therein before the bankruptcy judge except that the bankruptcy judge may stay, on such terms and conditions as are proper, proceedings pending disposition of the motion. A motion for a stay ordinarily shall be presented first to the bankruptcy judge. A motion for a stay or relief from a stay filed in the district court shall state why it has not been presented to or obtained from the bankruptcy judge. Relief granted by the district judge shall be on such terms and conditions as the judge deems proper.__ 
+    (b)  __Abstention From Hearing a Proceeding__  __.__ 
+
+     A motion for abstention pursuant to 28 U.S.C. § 1334(c) shall be governed by Rule 9014 and shall be served on the parties to the proceeding.
+
+    (c)  __Effect of Filing of Motion for Withdrawal or Abstention__  __.__ 
+
+     The filing of a motion for withdrawal of a case or proceeding or for abstention pursuant to 28 U.S.C. § 1334(c) shall not stay the administration of the case or any proceeding therein before the bankruptcy judge except that the bankruptcy judge may stay, on such terms and conditions as are proper, proceedings pending disposition of the motion. A motion for a stay ordinarily shall be presented first to the bankruptcy judge. A motion for a stay or relief from a stay filed in the district court shall state why it has not been presented to or obtained from the bankruptcy judge. Relief granted by the district judge shall be on such terms and conditions as the judge deems proper.
 
 (Added Mar. 30, 1987, eff. Aug. 1, 1987; amended Apr. 30, 1991, eff. Aug. 1, 1991.)
 

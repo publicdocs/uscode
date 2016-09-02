@@ -15,9 +15,13 @@
 
 ### Rule 2013. Public Record of Compensation Awarded to Trustees, Examiners, and Professionals
 
-    (a) __Record To Be Kept. The clerk shall maintain a public record listing fees awarded by the court (1) to trustees and attorneys, accountants, appraisers, auctioneers and other professionals employed by trustees, and (2) to examiners. The record shall include the name and docket number of the case, the name of the individual or firm receiving the fee and the amount of the fee awarded. The record shall be maintained chronologically and shall be kept current and open to examination by the public without charge. “Trustees,” as used in this rule, does not include debtors in possession.__ 
+    (a)  __Record To Be Kept__  __.__ 
 
-    (b) __Summary of Record. At the close of each annual period, the clerk shall prepare a summary of the public record by individual or firm name, to reflect total fees awarded during the preceding year. The summary shall be open to examination by the public without charge. The clerk shall transmit a copy of the summary to the United States trustee.__ 
+     The clerk shall maintain a public record listing fees awarded by the court (1) to trustees and attorneys, accountants, appraisers, auctioneers and other professionals employed by trustees, and (2) to examiners. The record shall include the name and docket number of the case, the name of the individual or firm receiving the fee and the amount of the fee awarded. The record shall be maintained chronologically and shall be kept current and open to examination by the public without charge. “Trustees,” as used in this rule, does not include debtors in possession.
+
+    (b)  __Summary of Record__  __.__ 
+
+     At the close of each annual period, the clerk shall prepare a summary of the public record by individual or firm name, to reflect total fees awarded during the preceding year. The summary shall be open to examination by the public without charge. The clerk shall transmit a copy of the summary to the United States trustee.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 

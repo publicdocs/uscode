@@ -15,9 +15,13 @@
 
 ### Rule 3001. Proof of Claim
 
-    (a) __Form and Content. A proof of claim is a written statement setting forth a creditor’s claim. A proof of claim shall conform substantially to the appropriate Official Form.__ 
+    (a)  __Form and Content__  __.__ 
 
-    (b) __Who May Execute. A proof of claim shall be executed by the creditor or the creditor’s authorized agent except as provided in Rules 3004 and 3005.__ 
+     A proof of claim is a written statement setting forth a creditor’s claim. A proof of claim shall conform substantially to the appropriate Official Form.
+
+    (b)  __Who May Execute__  __.__ 
+
+     A proof of claim shall be executed by the creditor or the creditor’s authorized agent except as provided in Rules 3004 and 3005.
 
     (c) __Supporting Information.__ 
 
@@ -61,9 +65,11 @@
 
             (B) On written request by a party in interest, the holder of a claim based on an open-end or revolving consumer credit agreement shall, within 30 days after the request is sent, provide the requesting party a copy of the writing specified in paragraph (1) of this subdivision.
 
-    (d) __Evidence of Perfection of Security Interest. If a security interest in property of the debtor is claimed, the proof of claim shall be accompanied by evidence that the security interest has been perfected.__ 
+    (d)  __Evidence of Perfection of Security Interest__  __.__ 
 
-    (e) __Transferred Claim.__ 
+     If a security interest in property of the debtor is claimed, the proof of claim shall be accompanied by evidence that the security interest has been perfected.
+
+    (e)  __Transferred Claim__  __.__ 
 
         (1) Transfer of Claim Other Than for Security Before Proof Filed. If a claim has been transferred other than for security before proof of the claim has been filed, the proof of claim may be filed only by the transferee or an indenture trustee.
 
@@ -75,7 +81,9 @@
 
         (5) Service of Objection or Motion; Notice of Hearing. A copy of an objection filed pursuant to paragraph (2) or (4) or a motion filed pursuant to paragraph (3) or (4) of this subdivision together with a notice of a hearing shall be mailed or otherwise delivered to the transferor or transferee, whichever is appropriate, at least 30 days prior to the hearing.
 
-    (f) __Evidentiary Effect. A proof of claim executed and filed in accordance with these rules shall constitute prima facie evidence of the validity and amount of the claim.__ 
+    (f)  __Evidentiary Effect__  __.__ 
+
+     A proof of claim executed and filed in accordance with these rules shall constitute prima facie evidence of the validity and amount of the claim.
 
     (g)  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Subsec. (g) enacted without a catchline. </sup></sup>  To the extent not inconsistent with the United States Warehouse Act or applicable State law, a warehouse receipt, scale ticket, or similar document of the type routinely issued as evidence of title by a grain storage facility, as defined in [section 557 of title 11][/us/usc/t11/s557], shall constitute prima facie evidence of the validity and amount of a claim of ownership of a quantity of grain.
 

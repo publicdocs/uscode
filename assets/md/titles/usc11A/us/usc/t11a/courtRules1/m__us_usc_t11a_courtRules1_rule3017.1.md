@@ -15,7 +15,9 @@
 
 ### Rule 3017.1. Court Consideration of Disclosure Statement in a Small Business Case
 
-    (a) __Conditional Approval of Disclosure Statement. In a small business case, the court may, on application of the plan proponent or on its own initiative, conditionally approve a disclosure statement filed in accordance with Rule 3016. On or before conditional approval of the disclosure statement, the court shall:__ 
+    (a)  __Conditional Approval of Disclosure Statement__  __.__ 
+
+     In a small business case, the court may, on application of the plan proponent or on its own initiative, conditionally approve a disclosure statement filed in accordance with Rule 3016. On or before conditional approval of the disclosure statement, the court shall:
 
         (1) fix a time within which the holders of claims and interests may accept or reject the plan;
 
@@ -25,9 +27,11 @@
 
         (4) fix a date for the hearing on confirmation.
 
-    (b) __Application of Rule 3017. Rule 3017(a), (b), (c), and (e) do not apply to a conditionally approved disclosure statement. Rule 3017(d) applies to a conditionally approved disclosure statement, except that conditional approval is considered approval of the disclosure statement for the purpose of applying Rule 3017(d).__ 
+    (b)  __Application of Rule __  __3017.__ 
 
-    (c) __Final Approval.__ 
+     Rule 3017(a), (b), (c), and (e) do not apply to a conditionally approved disclosure statement. Rule 3017(d) applies to a conditionally approved disclosure statement, except that conditional approval is considered approval of the disclosure statement for the purpose of applying Rule 3017(d).
+
+    (c)  __Final Approval__  __.__ 
 
         (1) Notice. Notice of the time fixed for filing objections and the hearing to consider final approval of the disclosure statement shall be given in accordance with Rule 2002 and may be combined with notice of the hearing on confirmation of the plan.
 

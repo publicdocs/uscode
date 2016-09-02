@@ -15,9 +15,13 @@
 
 ### Rule 7007.1. Corporate Ownership Statement
 
-    (a) __Required Disclosure. Any corporation that is a party to an adversary proceeding, other than the debtor or a governmental unit, shall file two copies of a statement that identifies any corporation, other than a governmental unit, that directly or indirectly owns 10% or more of any class of the corporation’s equity interests, or states that there are no entities to report under this subdivision.__ 
+    (a)  __Required Disclosure__  __.__ 
 
-    (b) __Time for Filing. A party shall file the statement required under Rule 7007.1(a) with its first appearance, pleading, motion, response, or other request addressed to the court. A party shall file a supplemental statement promptly upon any change in circumstances that this rule requires the party to identify or disclose.__ 
+     Any corporation that is a party to an adversary proceeding, other than the debtor or a governmental unit, shall file two copies of a statement that identifies any corporation, other than a governmental unit, that directly or indirectly owns 10% or more of any class of the corporation’s equity interests, or states that there are no entities to report under this subdivision.
+
+    (b)  __Time for Filing__  __.__ 
+
+     A party shall file the statement required under Rule 7007.1(a) with its first appearance, pleading, motion, response, or other request addressed to the court. A party shall file a supplemental statement promptly upon any change in circumstances that this rule requires the party to identify or disclose.
 
 (Added Mar. 27, 2003, eff. Dec. 1, 2003; amended Apr. 30, 2007, eff. Dec. 1, 2007.)
 

@@ -15,11 +15,17 @@
 
 ### Rule 5009. Closing Chapter 7 Liquidation, Chapter 12 Family Farmer’s Debt Adjustment, Chapter 13 Individual’s Debt Adjustment, and Chapter 15 Ancillary and Cross-Border Cases
 
-    (a) __Cases Under Chapters 7, 12, and 13. If in a chapter 7, chapter 12, or chapter 13 case the trustee has filed a final report and final account and has certified that the estate has been fully administered, and if within 30 days no objection has been filed by the United States trustee or a party in interest, there shall be a presumption that the estate has been fully administered.__ 
+    (a)  __Cases Under Chapters__  __7, 12,__  __and__  __13.__ 
 
-    (b) __Notice of Failure To File Rule 1007(b)(7) Statement. If an individual debtor in a chapter 7 or 13 case has not filed the statement required by Rule 1007(b)(7) within 45 days after the first date set for the meeting of creditors under § 341(a) of the Code, the clerk shall promptly notify the debtor that the case will be closed without entry of a discharge unless the statement is filed within the applicable time limit under Rule 1007(c).__ 
+     If in a chapter 7, chapter 12, or chapter 13 case the trustee has filed a final report and final account and has certified that the estate has been fully administered, and if within 30 days no objection has been filed by the United States trustee or a party in interest, there shall be a presumption that the estate has been fully administered.
 
-    (c) __Cases Under Chapter 15. A foreign representative in a proceeding recognized under § 1517 of the Code shall file a final report when the purpose of the representative’s appearance in the court is completed. The report shall describe the nature and results of the representative’s activities in the court. The foreign representative shall transmit the report to the United States trustee, and give notice of its filing to the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all parties to litigation pending in the United States in which the debtor was a party at the time of the filing of the petition, and such other entities as the court may direct. The foreign representative shall file a certificate with the court that notice has been given. If no objection has been filed by the United States trustee or a party in interest within 30 days after the certificate is filed, there shall be a presumption that the case has been fully administered.__ 
+    (b)  __Notice of Failure To File Rule__  __1007(b)(7)__  __Statement__  __.__ 
+
+     If an individual debtor in a chapter 7 or 13 case has not filed the statement required by Rule 1007(b)(7) within 45 days after the first date set for the meeting of creditors under § 341(a) of the Code, the clerk shall promptly notify the debtor that the case will be closed without entry of a discharge unless the statement is filed within the applicable time limit under Rule 1007(c).
+
+    (c)  __Cases Under Chapter__  __15.__ 
+
+     A foreign representative in a proceeding recognized under § 1517 of the Code shall file a final report when the purpose of the representative’s appearance in the court is completed. The report shall describe the nature and results of the representative’s activities in the court. The foreign representative shall transmit the report to the United States trustee, and give notice of its filing to the debtor, all persons or bodies authorized to administer foreign proceedings of the debtor, all parties to litigation pending in the United States in which the debtor was a party at the time of the filing of the petition, and such other entities as the court may direct. The foreign representative shall file a certificate with the court that notice has been given. If no objection has been filed by the United States trustee or a party in interest within 30 days after the certificate is filed, there shall be a presumption that the case has been fully administered.
 
 (As amended Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 28, 2010, eff. Dec. 1, 2010.)
 

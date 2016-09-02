@@ -15,7 +15,9 @@
 
 ### Rule 9006. Computing and Extending Time
 
-    (a) __Computing Time. The following rules apply in computing any time period specified in these rules, in the Federal Rules of Civil Procedure, in any local rule or court order, or in any statute that does not specify a method of computing time.__ 
+    (a)  __Computing Time__  __.__ 
+
+     The following rules apply in computing any time period specified in these rules, in the Federal Rules of Civil Procedure, in any local rule or court order, or in any statute that does not specify a method of computing time.
 
         (1)
 
@@ -65,7 +67,7 @@
 
             (C) for periods that are measured after an event, any other day declared a holiday by the state where the district court is located. (In this rule, “state” includes the District of Columbia and any United States commonwealth or territory.)
 
-    (b) __Enlargement.__ 
+    (b)  __Enlargement__  __.__ 
 
         (1) In General. Except as provided in paragraphs (2) and (3) of this subdivision, when an act is required or allowed to be done at or within a specified period by these rules or by a notice given thereunder or by order of court, the court for cause shown may at any time in its discretion (1) with or without motion or notice order the period enlarged if the request therefor is made before the expiration of the period originally prescribed or as extended by a previous order or (2) on motion made after the expiration of the specified period permit the act to be done where the failure to act was the result of excusable neglect.
 
@@ -73,25 +75,27 @@
 
         (3) Enlargement Governed By Other Rules. The court may enlarge the time for taking action under Rules 1006(b)(2), 1017(e), 3002(c), 4003(b), 4004(a), 4007(c), 4008(a), 8002, and 9033, only to the extent and under the conditions stated in those rules. In addition, the court may enlarge the time to file the statement required under Rule 1007(b)(7), and to file schedules and statements in a small business case under § 1116(3) of the Code, only to the extent and under the conditions stated in Rule 1007(c).
 
-    (c) __Reduction.__ 
+    (c)  __Reduction__  __.__ 
 
         (1) In General. Except as provided in paragraph (2) of this subdivision, when an act is required or allowed to be done at or within a specified time by these rules or by a notice given thereunder or by order of court, the court for cause shown may in its discretion with or without motion or notice order the period reduced.
 
         (2) Reduction Not Permitted. The court may not reduce the time for taking action under Rules 2002(a)(7), 2003(a), 3002(c), 3014, 3015, 4001(b)(2), (c)(2), 4003(a), 4004(a), 4007(c), 4008(a), 8002, and 9033(b). In addition, the court may not reduce the time under Rule 1007(c) to file the statement required by Rule 1007(b)(7).
 
-    (d) __For Motions—__ 
+    (d)  __For Motions—Affidavits__  __.__ 
 
-    Affidavits. A written motion, other than one which may be heard ex parte, and notice of any hearing shall be served not later than seven days before the time specified for such hearing, unless a different period is fixed by these rules or by order of the court. Such an order may for cause shown be made on ex parte application. When a motion is supported by affidavit, the affidavit shall be served with the motion; and, except as otherwise provided in Rule 9023, opposing affidavits may be served not later than one day before the hearing, unless the court permits them to be served at some other time.
+     A written motion, other than one which may be heard ex parte, and notice of any hearing shall be served not later than seven days before the time specified for such hearing, unless a different period is fixed by these rules or by order of the court. Such an order may for cause shown be made on ex parte application. When a motion is supported by affidavit, the affidavit shall be served with the motion; and, except as otherwise provided in Rule 9023, opposing affidavits may be served not later than one day before the hearing, unless the court permits them to be served at some other time.
 
-    (e) __Time of Service. Service of process and service of any paper other than process or of notice by mail is complete on mailing.__ 
+    (e)  __Time of Service__  __.__ 
 
-    (f) __Additional Time After Service by Mail or Under Rule 5(b)(2)(D), (E), or__ 
+     Service of process and service of any paper other than process or of notice by mail is complete on mailing.
 
-        (F) __F.__ 
+    (f)  __Additional Time After Service by Mail or Under Rule __  __5(b)(2)(D), (E)__  __, or __  __(F) F.R.Civ.P.__ 
 
-        R.Civ.P. When there is a right or requirement to act or undertake some proceedings within a prescribed period after service and that service is by mail or under Rule 5(b)(2)(D), (E), or (F) F.R.Civ.P., three days are added after the prescribed period would otherwise expire under Rule 9006(a).
+     When there is a right or requirement to act or undertake some proceedings within a prescribed period after service and that service is by mail or under Rule 5(b)(2)(D), (E), or (F) F.R.Civ.P., three days are added after the prescribed period would otherwise expire under Rule 9006(a).
 
-    (g) __Grain Storage Facility Cases. This rule shall not limit the court’s authority under § 557 of the Code to enter orders governing procedures in cases in which the debtor is an owner or operator of a grain storage facility.__ 
+    (g)  __Grain Storage Facility Cases__  __.__ 
+
+     This rule shall not limit the court’s authority under § 557 of the Code to enter orders governing procedures in cases in which the debtor is an owner or operator of a grain storage facility.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 25, 1989, eff. Aug. 1, 1989; Apr. 30, 1991, eff. Aug. 1, 1991; Apr. 23, 1996, eff. Dec. 1, 1996; Apr. 26, 1999, eff. Dec. 1, 1999; Apr. 23, 2001, eff. Dec. 1, 2001; Apr. 25, 2005, eff. Dec. 1, 2005; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

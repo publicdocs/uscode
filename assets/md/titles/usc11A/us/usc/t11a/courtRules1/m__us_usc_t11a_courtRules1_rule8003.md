@@ -15,15 +15,21 @@
 
 ### Rule 8003. Leave to Appeal
 
-    (a) __Content of Motion; Answer. A motion for leave to appeal under 28 U.S.C. § 158(a) shall contain:__ 
+    (a)  __Content of Motion; Answer__  __.__ 
 
-         (1) a statement of the facts necessary to an understanding of the questions to be presented by the appeal; (2) a statement of those questions and of the relief sought; (3) a statement of the reasons why an appeal should be granted; and (4) a copy of the judgment, order, or decree complained of and of any opinion or memorandum relating thereto. Within 14 days after service of the motion, an adverse party may file with the clerk an answer in opposition.
+     A motion for leave to appeal under 28 U.S.C. § 158(a) shall contain: (1) a statement of the facts necessary to an understanding of the questions to be presented by the appeal; (2) a statement of those questions and of the relief sought; (3) a statement of the reasons why an appeal should be granted; and (4) a copy of the judgment, order, or decree complained of and of any opinion or memorandum relating thereto. Within 14 days after service of the motion, an adverse party may file with the clerk an answer in opposition.
 
-    (b) __Transmittal; Determination of Motion. The clerk shall transmit the notice of appeal, the motion for leave to appeal and any answer thereto to the clerk of the district court or the clerk of the bankruptcy appellate panel as soon as all parties have filed answers or the time for filing an answer has expired. The motion and answer shall be submitted without oral argument unless otherwise ordered.__ 
+    (b)  __Transmittal; Determination of Motion__  __.__ 
 
-    (c) __Appeal Improperly Taken Regarded as a Motion for Leave to Appeal. If a required motion for leave to appeal is not filed, but a notice of appeal is timely filed, the district court or bankruptcy appellate panel may grant leave to appeal or direct that a motion for leave to appeal be filed. The district court or the bankruptcy appellate panel may also deny leave to appeal but in so doing shall consider the notice of appeal as a motion for leave to appeal. Unless an order directing that a motion for leave to appeal be filed provides otherwise, the motion shall be filed within 14 days of entry of the order.__ 
+     The clerk shall transmit the notice of appeal, the motion for leave to appeal and any answer thereto to the clerk of the district court or the clerk of the bankruptcy appellate panel as soon as all parties have filed answers or the time for filing an answer has expired. The motion and answer shall be submitted without oral argument unless otherwise ordered.
 
-    (d) __Requirement of Leave to Appeal. If leave to appeal is required by 28 U.S.C. § 158(a) and has not earlier been granted, the authorization of a direct appeal by a court of appeals under 28 U.S.C. § 158(d)(2) shall be deemed to satisfy the requirement for leave to appeal.__ 
+    (c)  __Appeal Improperly Taken Regarded as a Motion for Leave to Appeal__  __.__ 
+
+     If a required motion for leave to appeal is not filed, but a notice of appeal is timely filed, the district court or bankruptcy appellate panel may grant leave to appeal or direct that a motion for leave to appeal be filed. The district court or the bankruptcy appellate panel may also deny leave to appeal but in so doing shall consider the notice of appeal as a motion for leave to appeal. Unless an order directing that a motion for leave to appeal be filed provides otherwise, the motion shall be filed within 14 days of entry of the order.
+
+    (d)  __Requirement of Leave to Appeal__  __.__ 
+
+     If leave to appeal is required by 28 U.S.C. § 158(a) and has not earlier been granted, the authorization of a direct appeal by a court of appeals under 28 U.S.C. § 158(d)(2) shall be deemed to satisfy the requirement for leave to appeal.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 23, 2008, eff. Dec. 1, 2008; Mar. 26, 2009, eff. Dec. 1, 2009.)
 

@@ -15,9 +15,13 @@
 
 ### Rule 2012. Substitution of Trustee or Successor Trustee; Accounting
 
-    (a) __Trustee. If a trustee is appointed in a chapter 11 case or the debtor is removed as debtor in possession in a chapter 12 case, the trustee is substituted automatically for the debtor in possession as a party in any pending action, proceeding, or matter.__ 
+    (a)  __Trustee__  __.__ 
 
-    (b) __Successor Trustee. When a trustee dies, resigns, is removed, or otherwise ceases to hold office during the pendency of a case under the Code (1) the successor is automatically substituted as a party in any pending action, proceeding, or matter; and (2) the successor trustee shall prepare, file, and transmit to the United States trustee an accounting of the prior administration of the estate.__ 
+     If a trustee is appointed in a chapter 11 case or the debtor is removed as debtor in possession in a chapter 12 case, the trustee is substituted automatically for the debtor in possession as a party in any pending action, proceeding, or matter.
+
+    (b)  __Successor Trustee__  __.__ 
+
+     When a trustee dies, resigns, is removed, or otherwise ceases to hold office during the pendency of a case under the Code (1) the successor is automatically substituted as a party in any pending action, proceeding, or matter; and (2) the successor trustee shall prepare, file, and transmit to the United States trustee an accounting of the prior administration of the estate.
 
 (As amended Mar. 30, 1987, eff. Aug. 1, 1987; Apr. 30, 1991, eff. Aug. 1, 1991.)
 
