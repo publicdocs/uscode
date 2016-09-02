@@ -1,0 +1,126 @@
+---
+---
+
+# 33 U.S.C., USLM ref /us/usc/t33/s2239
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238a.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2240.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239)
+
+## § 2239. Repealed. [Pub. L. 101–640, title IV, § 412(f)][/us/pl/101/640/s412/f], Nov. 28, 1990, [104 Stat. 4650][/us/stat/104/4650]
+
+    Section, [Pub. L. 99–662, title II, § 211][/us/pl/99/662/s211], Nov. 17, 1986, [100 Stat. 4106][/us/stat/100/4106]; [Pub. L. 100–676, § 32][/us/pl/100/676/s32], Nov. 17, 1988, [102 Stat. 4030][/us/stat/102/4030], directed Administrator of Environmental Protection Agency to designate one or more sites for disposal of dredged material as an alternative to disposal at the Mud Dump in New Jersey.
+
+ __Sediments Decontamination Technology__ 
+
+[Pub. L. 102–580, title IV, § 405][/us/pl/102/580/s405], Oct. 31, 1992, [106 Stat. 4863][/us/stat/106/4863], as amended by [Pub. L. 104–303, title II, § 226][/us/pl/104/303/s226], Oct. 12, 1996, [110 Stat. 3697][/us/stat/110/3697]; [Pub. L. 106–53, title II, § 204][/us/pl/106/53/s204], Aug. 17, 1999, [113 Stat. 285][/us/stat/113/285], provided that:
+
+>     “(a) __Decontamination Project.—__ 
+
+>         “(1) __Selection of technologies.—__ 
+
+>         Based upon a review of decontamination technologies identified pursuant to section 412(c) of the Water Resources Development Act of 1990 \[[Pub. L. 101–640][/us/pl/101/640], set out below\], the Administrator of the Environmental Protection Agency and the Secretary shall, within 1 year after the date of the enactment of this Act \[Oct. 31, 1992\], jointly select removal, pre-treatment, post-treatment, and decontamination technologies for contaminated marine sediments for a decontamination project in the New York/New Jersey Harbor.
+
+>         “(2) __Recommended program.—__ 
+
+>         Upon selection of technologies, the Administrator and the Secretary shall jointly recommend a program of selected technologies to assess their effectiveness in rendering sediments acceptable for unrestricted ocean disposal or beneficial reuse, or both.
+
+>         “(3) __Project purpose.—__ 
+
+>         The purpose of the project to be carried out under this section is to provide for the development of 1 or more sediment decontamination technologies on a pilot scale demonstrating a capacity of at least 500,000 cubic yards per year.
+
+>         “(4) __Practical end-use products.—__ 
+
+>         Technologies selected for demonstration at the pilot scale shall be intended to result in practical end-use products.
+
+>         “(5) __Assistance by the secretary.—__ 
+
+>         The Secretary shall assist the project to ensure expeditious completion by providing sufficient quantities of contaminated dredged material to conduct the full-scale demonstrations to stated capacity.
+
+>     “(b) __Decontamination Defined.—__ 
+
+>     For purposes of this section, ‘decontamination’ may include local or remote prototype or production and laboratory decontamination technologies, sediment pre-treatment and post-treatment processes, and siting, economic, or other measures necessary to develop a matrix for selection of interim prototype of long-term processes. Decontamination techniques need not be preproven in terms of likely success.
+
+>     “(c) __Authorization of Appropriations.—__ 
+
+>     There is authorized to be appropriated to carry out this section $22,000,000 to complete technology testing, technology commercialization, and the development of full scale processing facilities within the New York/New Jersey Harbor. Such sums shall remain available until expended.
+
+>     “(d) __Reports.—__ 
+
+>     Not later than September 30, 1998, and periodically thereafter, the Administrator and the Secretary shall transmit to Congress a report on the results of the project to be carried out under this section, including an assessment of the progress made in achieving the purpose of the project set forth in subsection (a)(3).
+
+>     “(e) __Support.—__ 
+
+>     In carrying out the program under this section, the Secretary is encouraged to use contracts, cooperative agreements, and grants with colleges and universities and other non-Federal entities.”
+
+ __Alternatives to Mud Dump Site for Disposal of Dredged Material__ 
+
+[Pub. L. 101–640, title IV, § 412][/us/pl/101/640/s412], Nov. 28, 1990, [104 Stat. 4650][/us/stat/104/4650], provided that:
+
+>     “(a) __Report.—__ 
+
+>     Within 90 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Administrator of the Environmental Protection Agency shall submit to the Congress a final report on the feasibility of designating an alternative site to the Mud Dump Site at a distance not less than 20 miles from the shoreline.
+
+>     “(b) __Plan.—__ 
+
+>     Within 180 days after the date of the enactment of this Act \[Nov. 28, 1990\], the Secretary and the Administrator of the Environmental Protection Agency shall submit to Congress a plan for the long-term management of dredged material from the New York/New Jersey Harbor region. The plan shall include—
+
+>         “(1) an identification of the source, quantities, and characteristics of material to be dredged;
+
+>         “(2) a discussion of potential alternative sites for disposal of dredged material, including the feasibility of altering the boundaries of the Mud Dump Site;
+
+>         “(3) measures to reduce the quantities of dredged material proposed for ocean disposal;
+
+>         “(4) measures to reduce the amount of contaminants in materials proposed to be dredged from the Harbor through source controls and decontamination technology;
+
+>         “(5) a program for monitoring the physical, chemical, and biological effects of dumping dredged material at the Mud Dump Site; and
+
+>         “(6) a study of the characteristics of the bottom sediments, including type and distribution.
+
+>     “(c) __Demonstration Project.—__ 
+
+>     The Secretary, in consultation with the Administrator of the Environmental Protection Agency, shall implement a demonstration project for disposing on an annual basis up to 10 percent of the material dredged from the New York/New Jersey Harbor region in an environmentally sound manner other than by ocean disposal. Environmentally sound alternatives may include, among others, capping of borrow pits, construction of a containment island, application for landfill cover, habitat restoration, and use of decontamination technology.
+
+>     “(d) __Mud Dump Site Defined.—__ 
+
+>     For purposes of this section, the term ‘Mud Dump Site’ means the area located approximately 5¾ miles east of Sandy Hook, New Jersey, with boundary coordinates of 40 degrees, 23 minutes, 48 seconds North, 73 degrees, 51 minutes, 28 seconds West; 40 degrees, 21 minutes, 48 seconds North, 73 degrees, 50 minutes, 00 seconds West; 40 degrees, 21 minutes, 48 seconds North; 73 degrees, 51 minutes, 28 seconds West; and 40 degrees, 23 minutes, 48 seconds North; 73 degrees, 50 minutes, 00 seconds West.
+
+>     “(e) __Authorization of Appropriations.—__ 
+
+>     There are authorized to be appropriated to the Secretary for fiscal year 1991, $3,000,000 to implement subsection (b) and $1,000,000 to implement subsection (c), and such sums as may be necessary for fiscal year 1992.
+
+>     “(f) __Repeal.—__ 
+
+>     Section 211 of the Water Resources Development Act of 1986 ([33 U.S.C. 2239][/us/usc/t33/s2239]) is repealed.”
+
+----------
+
+[Previous](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2238a.md) | [Next](./../../../../..//us/usc/t33/ch36/schII/m__us_usc_t33_s2240.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239)
+
+----------
+----------
+
+[/us/pl/101/640/s412/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs412%2Ff
+[/us/stat/104/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4650
+[/us/pl/99/662/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F662%2Fs211
+[/us/stat/100/4106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4106
+[/us/pl/100/676/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F676%2Fs32
+[/us/stat/102/4030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4030
+[/us/pl/102/580/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F580%2Fs405
+[/us/stat/106/4863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4863
+[/us/pl/104/303/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F303%2Fs226
+[/us/stat/110/3697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3697
+[/us/pl/106/53/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F53%2Fs204
+[/us/stat/113/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F285
+[/us/pl/101/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640
+[/us/pl/101/640/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F640%2Fs412
+[/us/stat/104/4650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F4650
+[/us/usc/t33/s2239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs2239
+
+

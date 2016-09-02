@@ -1,0 +1,32 @@
+---
+---
+
+# 33 U.S.C., USLM ref /us/usc/t33/s59f
+
+* Portions Copyright © 2016 the authors of the https://github.com/publicdocs project.
+  Use of this file is subject to the NOTICE at [https://github.com/publicdocs/uscode/blob/master/NOTICE](https://github.com/publicdocs/uscode/blob/master/NOTICE)
+* See the [Document Metadata](././../../../../..//README.md) for more information.
+  This file is generated from historical government data; content and/or formatting may be inaccurate and out-of-date and should not be used for official purposes.
+
+----------
+----------
+
+[Previous](./../../../../..//us/usc/t33/ch1/schII/m__us_usc_t33_s59e–1.md) | [Next](./../../../../..//us/usc/t33/ch1/schII/m__us_usc_t33_s59g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs59f)
+
+## § 59f. Boston Inner Harbor and Fort Point Channel, Massachusetts
+
+    That portion of Boston Inner Harbor and Fort Point Channel in Suffolk County, Commonwealth of Massachusetts, lying within the following described area is hereby declared to be not a navigable water of the United States within the meaning of the laws of the United States: Beginning at the intersection of the northeasterly sideline of Northern Avenue and the westerly United States Pierhead Line of the Fort Point Channel and running northwesterly by the northwesterly sideline of Northern Avenue to the westerly sideline of Atlantic Avenue: thence turning and running northerly and northwesterly by the westerly sideline of Atlantic Avenue and of Commercial Street to the southeasterly sideline of Hanover Street; thence turning and running northeasterly by the southeasterly sideline of Hanover Street to the southwesterly property line of the United States Coast Guard Base; thence turning and running southeasterly by the southwesterly property line of the United States Coast Guard Base to the southeasterly property line of the United States Coast Guard Base; thence turning and running northeasterly by the southeasterly property line of the United States Coast Guard Base extended to the United States Pierhead Line; thence turning and running southeasterly, southerly and southwesterly by the United States Pierhead Line, to the point of beginning.
+
+([Pub. L. 90–312][/us/pl/90/312], May 18, 1968, [82 Stat. 125][/us/stat/82/125].)
+
+----------
+
+[Previous](./../../../../..//us/usc/t33/ch1/schII/m__us_usc_t33_s59e–1.md) | [Next](./../../../../..//us/usc/t33/ch1/schII/m__us_usc_t33_s59g.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs59f)
+
+----------
+----------
+
+[/us/pl/90/312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F312
+[/us/stat/82/125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F125
+
+
