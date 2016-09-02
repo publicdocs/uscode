@@ -51,7 +51,7 @@
 
         (2)  __Limitation__  __.—__ 
 
-        The Government’s share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentage Government share applicable to any project in any State under subsection (b).
+        The Government’s share of allowable project costs determined under this subsection shall not exceed the lesser of 93.75 percent or the highest percentage Government share applicable to any project in any State under subsection (b), except that at a primary non-hub airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of another State as set forth in paragraph (1) of this subsection, the Government’s share shall be an average of the Government share applicable to any project in each of the States.
 
     (d)  __Special Rule for Privately Owned Reliever Airports__  __.—__ 
 
@@ -69,7 +69,7 @@
 
         (2) is located in an area that meets one or more of the criteria established in section 301(a) of the Public Works and Economic Development Act of 1965 ([42 U.S.C. 3161(a)][/us/usc/t42/s3161/a]), as determined by the Secretary of Commerce.
 
-([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1264][/us/stat/108/1264]; [Pub. L. 103–305, title I, § 114][/us/pl/103/305/s114], Aug. 23, 1994, [108 Stat. 1579][/us/stat/108/1579]; [Pub. L. 104–264, title I, § 149(c)][/us/pl/104/264/s149/c], title XII, § 1211, Oct. 9, 1996, [110 Stat. 3227][/us/stat/110/3227], 3282; [Pub. L. 106–181, title I, § 126][/us/pl/106/181/s126], Apr. 5, 2000, [114 Stat. 76][/us/stat/114/76]; [Pub. L. 107–71, title I, § 119(a)(4)][/us/pl/107/71/s119/a/4], Nov. 19, 2001, [115 Stat. 629][/us/stat/115/629]; [Pub. L. 108–176, title I][/us/pl/108/176], §§ 162, 163, Dec. 12, 2003, [117 Stat. 2513][/us/stat/117/2513]; [Pub. L. 112–95, title I, § 137][/us/pl/112/95/s137], Feb. 14, 2012, [126 Stat. 24][/us/stat/126/24].)
+([Pub. L. 103–272, § 1(e)][/us/pl/103/272/s1/e], July 5, 1994, [108 Stat. 1264][/us/stat/108/1264]; [Pub. L. 103–305, title I, § 114][/us/pl/103/305/s114], Aug. 23, 1994, [108 Stat. 1579][/us/stat/108/1579]; [Pub. L. 104–264, title I, § 149(c)][/us/pl/104/264/s149/c], title XII, § 1211, Oct. 9, 1996, [110 Stat. 3227][/us/stat/110/3227], 3282; [Pub. L. 106–181, title I, § 126][/us/pl/106/181/s126], Apr. 5, 2000, [114 Stat. 76][/us/stat/114/76]; [Pub. L. 107–71, title I, § 119(a)(4)][/us/pl/107/71/s119/a/4], Nov. 19, 2001, [115 Stat. 629][/us/stat/115/629]; [Pub. L. 108–176, title I][/us/pl/108/176], §§ 162, 163, Dec. 12, 2003, [117 Stat. 2513][/us/stat/117/2513]; [Pub. L. 112–95, title I, § 137][/us/pl/112/95/s137], Feb. 14, 2012, [126 Stat. 24][/us/stat/126/24]; [Pub. L. 113–235, div. K, title I, § 119F][/us/pl/113/235/s119F], Dec. 16, 2014, [128 Stat. 2704][/us/stat/128/2704].)
 
 <table>
 
@@ -161,6 +161,8 @@ In subsection (b), the words “If, under subsection (a) of this section, the Go
 
  __Amendments__ 
 
+    2014—Subsec. (c)(2). [Pub. L. 113–235][/us/pl/113/235] inserted before period at end “, except that at a primary non-hub airport located in a State as set forth in paragraph (1) of this subsection that is within 15 miles of another State as set forth in paragraph (1) of this subsection, the Government’s share shall be an average of the Government share applicable to any project in each of the States”.
+
     2012—Subsec. (a). [Pub. L. 112–95, § 137(1)][/us/pl/112/95/s137/1], substituted “otherwise provided in this section” for “provided in subsection (b) or subsection (c) of this section” in introductory provisions.
 
     Subsecs. (e), (f). [Pub. L. 112–95, § 137(2)][/us/pl/112/95/s137/2], added subsecs. (e) and (f).
@@ -225,11 +227,14 @@ In subsection (b), the words “If, under subsection (a) of this section, the Go
 [/us/stat/117/2513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2513
 [/us/pl/112/95/s137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs137
 [/us/stat/126/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F24
+[/us/pl/113/235/s119F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs119F
+[/us/stat/128/2704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2704
 [/us/pl/108/176/s159/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs159%2Fb%2F1
 [/us/stat/117/2510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2510
 [/us/pl/91/258/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F258%2Fs17%2Fb
 [/us/pl/97/248/s523/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F248%2Fs523%2Fa
 [/us/stat/96/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F695
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/95/s137/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs137%2F1
 [/us/pl/112/95/s137/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs137%2F2
 [/us/pl/108/176/s162/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs162%2Fb

@@ -47,9 +47,15 @@
 
     In imposing fees under subsection (a), the Under Secretary shall ensure that the fees are reasonably related to the Transportation Security Administration’s costs of providing services rendered.
 
-    (c)  __Limitation on Fee__  __.—__ 
+    (c) __Limitation on Fee.—__ 
 
-    Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.
+        (1)  __Amount__  __.—__ 
+
+        Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States, except that the fee imposed per round trip shall not exceed $11.20.
+
+        (2)  __Definition of round trip__  __.—__ 
+
+        In this subsection, the term “round trip” means a trip on an air travel itinerary that terminates or has a stopover at the origin point (or co-terminal).
 
     (d) __Imposition of Fee.—__ 
 
@@ -151,7 +157,7 @@
 
             (J) $1,520,000,000 for fiscal year 2023.
 
-(Added [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625]; amended [Pub. L. 108–7, div. I, title III, § 351(b)][/us/pl/108/7/s351/b], Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420]; [Pub. L. 108–176, title VI, § 605(b)(1)][/us/pl/108/176/s605/b/1], (2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 110–53, title XVI, § 1601][/us/pl/110/53/s1601], Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477]; [Pub. L. 110–161, div. E, title V, § 540][/us/pl/110/161/s540], Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 113–67, div. A, title VI, § 601(a)(1)][/us/pl/113/67/s601/a/1], (2), (b), (c), Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187].)
+(Added [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625]; amended [Pub. L. 108–7, div. I, title III, § 351(b)][/us/pl/108/7/s351/b], Feb. 20, 2003, [117 Stat. 420][/us/stat/117/420]; [Pub. L. 108–176, title VI, § 605(b)(1)][/us/pl/108/176/s605/b/1], (2), Dec. 12, 2003, [117 Stat. 2568][/us/stat/117/2568]; [Pub. L. 110–53, title XVI, § 1601][/us/pl/110/53/s1601], Aug. 3, 2007, [121 Stat. 477][/us/stat/121/477]; [Pub. L. 110–161, div. E, title V, § 540][/us/pl/110/161/s540], Dec. 26, 2007, [121 Stat. 2079][/us/stat/121/2079]; [Pub. L. 113–67, div. A, title VI, § 601(a)(1)][/us/pl/113/67/s601/a/1], (2), (b), (c), Dec. 26, 2013, [127 Stat. 1187][/us/stat/127/1187]; [Pub. L. 113–294, § 1(a)][/us/pl/113/294/s1/a], Dec. 19, 2014, [128 Stat. 4009][/us/stat/128/4009].)
 
  __References in Text__ 
 
@@ -162,6 +168,8 @@
     [Pub. L. 107–71, title I, § 118(a)][/us/pl/107/71/s118/a], Nov. 19, 2001, [115 Stat. 625][/us/stat/115/625], which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
 
  __Amendments__ 
+
+    2014—Subsec. (c). [Pub. L. 113–294][/us/pl/113/294] amended subsec. (c) generally. Prior to amendment, text read as follows: “Fees imposed under subsection (a)(1) shall be $5.60 per one-way trip in air transportation or intrastate air transportation that originates at an airport in the United States.”
 
     2013—Subsec. (a)(2). [Pub. L. 113–67, § 601(a)(1)][/us/pl/113/67/s601/a/1], struck out par. (2) which related to fees on air carriers and foreign air carriers engaged in air transportation and intrastate air transportation.
 
@@ -182,6 +190,12 @@
     Subsec. (a)(1)(H), (I). [Pub. L. 108–176, § 605(b)(1)][/us/pl/108/176/s605/b/1], added subpars. (H) and (I).
 
     Subsec. (d)(4). [Pub. L. 108–176, § 605(b)(2)][/us/pl/108/176/s605/b/2], substituted “appropriations Act or in section 44923” for “appropriations Act”.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–294, § 1(b)][/us/pl/113/294/s1/b], Dec. 19, 2014, [128 Stat. 4009][/us/stat/128/4009], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to a trip in air transportation or intrastate air transportation that is purchased on or after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Effective Date of 2013 Amendment__ 
 
@@ -242,9 +256,12 @@
 [/us/stat/121/2079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2079
 [/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
 [/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
+[/us/pl/113/294/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F294%2Fs1%2Fa
+[/us/stat/128/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4009
 [/us/pl/107/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71
 [/us/pl/107/71/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F71%2Fs118%2Fa
 [/us/stat/115/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F625
+[/us/pl/113/294]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F294
 [/us/pl/113/67/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F1
 [/us/pl/113/67/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fb
 [/us/pl/113/67/s601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F2
@@ -257,6 +274,8 @@
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/176/s605/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs605%2Fb%2F1
 [/us/pl/108/176/s605/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176%2Fs605%2Fb%2F2
+[/us/pl/113/294/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F294%2Fs1%2Fb
+[/us/stat/128/4009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4009
 [/us/pl/113/67/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs601%2Fa%2F3
 [/us/stat/127/1187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1187
 [/us/pl/108/176]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F176

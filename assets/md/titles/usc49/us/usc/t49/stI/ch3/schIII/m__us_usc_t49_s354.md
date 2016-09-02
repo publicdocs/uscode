@@ -35,7 +35,13 @@
 
  __Deposit of Forfeited Funds__ 
 
-    [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 600][/us/stat/128/600], provided in part “That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account \[Office of Inspector General, Salaries and Expenses\] for law enforcement activities authorized under the Inspector General Act of 1978, as amended, to remain available until expended.”
+[Pub. L. 113–235, div. K, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2724][/us/stat/128/2724], provided in part: 
+
+> “That hereafter funds transferred to the Office of the Inspector General through forfeiture proceedings or from the Department of Justice Assets Forfeiture Fund or the Department of the Treasury Forfeiture Fund, as a participating agency, as an equitable share from the forfeiture of property in investigations in which the Office of Inspector General participates, or through the granting of a Petition for Remission or Mitigation, shall be deposited to the credit of this account \[Office of Inspector General, Salaries and Expenses\] for law enforcement activities authorized under the Inspector General Act of 1978, as amended \[5 U.S.C. App\], to remain available until expended.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. L, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 600][/us/stat/128/600].
 
 ----------
 
@@ -53,6 +59,8 @@
 [/us/stat/113/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1773
 [/us/pl/108/168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F168
 [/us/pl/106/159/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F159%2Fs228
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2724
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F600
 

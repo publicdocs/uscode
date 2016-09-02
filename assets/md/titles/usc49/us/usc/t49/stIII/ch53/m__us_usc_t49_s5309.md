@@ -1671,6 +1671,12 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(n); added Oct. 6, 1992, Pub
 
     Amendment by [section 5(12) of Pub. L. 104–287][/us/pl/104/287/s5/12] effective July 5, 1994, see [section 8(1) of Pub. L. 104–287][/us/pl/104/287/s8/1], set out as a note under [section 5303 of this title][/us/usc/t49/s5303].
 
+ __Development of Implementation Guidance__ 
+
+[Pub. L. 113–235, div. K, title I, § 167][/us/pl/113/235/s167], Dec. 16, 2014, [128 Stat. 2720][/us/stat/128/2720], provided that: 
+
+> “In developing guidance implementing [49 U.S.C. 5309(i)][/us/usc/t49/s5309/i] Program of Interrelated Projects, the Secretary shall consider projects eligible under section 5309(h) Small Starts Projects, including streetcars.”
+
  __Pilot Program for Expedited Project Delivery__ 
 
 [Pub. L. 112–141, div. B, § 20008(b)][/us/pl/112/141/s20008/b], July 6, 2012, [126 Stat. 674][/us/stat/126/674], provided that:
@@ -2070,6 +2076,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, § 3(n); added Oct. 6, 1992, Pub
 [/us/pl/104/287/s5/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs5%2F12
 [/us/pl/104/287/s8/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F287%2Fs8%2F1
 [/us/usc/t49/s5303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5303
+[/us/pl/113/235/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs167
+[/us/stat/128/2720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2720
+[/us/usc/t49/s5309/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309%2Fi
 [/us/pl/112/141/s20008/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs20008%2Fb
 [/us/stat/126/674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F674
 [/us/usc/t49/s5309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5309
