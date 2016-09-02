@@ -31,7 +31,9 @@
 
         (6) The license plate number and a description of any vehicle owned or operated by the sex offender.
 
-        (7) Any other information required by the Attorney General.
+        (7) Information relating to intended travel of the sex offender outside the United States, including any anticipated dates and places of departure, arrival, or return, carrier and flight numbers for air travel, destination country and address or other contact information therein, means and purpose of travel, and any other itinerary or other travel-related information required by the Attorney General.
+
+        (8) Any other information required by the Attorney General.
 
     (b) __Provided by the jurisdiction__ 
 
@@ -53,7 +55,17 @@
 
         (8) Any other information required by the Attorney General.
 
-([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 114, July 27, 2006, [120 Stat. 594][/us/stat/120/594].)
+    (c) __Time and manner__ 
+
+        A sex offender shall provide and update information required under subsection (a), including information relating to intended travel outside the United States required under paragraph (7) of that subsection, in conformity with any time and manner requirements prescribed by the Attorney General.
+
+([Pub. L. 109–248, title I][/us/pl/109/248/tI], § 114, July 27, 2006, [120 Stat. 594][/us/stat/120/594]; [Pub. L. 114–119][/us/pl/114/119], § 6(a), Feb. 8, 2016, [130 Stat. 22][/us/stat/130/22].)
+
+ __Amendments__ 
+
+    2016—Subsec. (a)(7), (8). [Pub. L. 114–119][/us/pl/114/119], § 6(a)(1), added par. (7) and redesignated former par. (7) as (8).
+
+    Subsec. (c). [Pub. L. 114–119][/us/pl/114/119], § 6(a)(2), added subsec. (c).
 
 ----------
 
@@ -64,5 +76,9 @@
 
 [/us/pl/109/248/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248%2FtI
 [/us/stat/120/594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F594
+[/us/pl/114/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F119
+[/us/stat/130/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F22
+[/us/pl/114/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F119
+[/us/pl/114/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F119
 
 

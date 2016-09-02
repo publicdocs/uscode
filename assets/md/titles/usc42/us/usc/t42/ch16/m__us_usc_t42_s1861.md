@@ -19,6 +19,12 @@
 
 ([May 10, 1950, ch. 171][/us/act/1950-05-10/ch171], § 2, [64 Stat. 149][/us/stat/64/149].)
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–124][/us/pl/114/124], § 1, Feb. 18, 2016, [130 Stat. 120][/us/stat/130/120], provided that: 
+
+> “This Act \[enacting sections 1862r and 1862r–1 of this title and provisions set out as notes under sections 1862r and 1862r–1 of this title\] may be cited as the ‘Research Excellence and Advancements for Dyslexia Act’ or the ‘READ Act’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–59][/us/pl/114/59], § 1, Oct. 7, 2015, [129 Stat. 540][/us/stat/129/540], provided that: 
@@ -258,6 +264,8 @@
 
 [/us/act/1950-05-10/ch171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-05-10%2Fch171
 [/us/stat/64/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F149
+[/us/pl/114/124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F124
+[/us/stat/130/120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F120
 [/us/pl/114/59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F59
 [/us/stat/129/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F540
 [/us/usc/t42/s1862q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862q

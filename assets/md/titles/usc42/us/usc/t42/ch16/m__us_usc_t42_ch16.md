@@ -505,6 +505,22 @@
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1862r" data-uslm-ref="/us/usc/t42/s1862r">1862r.</a>  </td>
+
+    <td> Research in disabilities education.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1862r%E2%80%931" data-uslm-ref="/us/usc/t42/s1862r–1">1862r–1.</a>  </td>
+
+    <td> Dyslexia.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs1863" data-uslm-ref="/us/usc/t42/s1863">1863.</a>  </td>
 
     <td> National Science Board.  </td>

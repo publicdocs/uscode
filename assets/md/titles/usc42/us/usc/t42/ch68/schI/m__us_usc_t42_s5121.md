@@ -55,6 +55,12 @@
 
     [Pub. L. 93–288, title VI][/us/pl/93/288/tVI], § 605, May 22, 1974, [88 Stat. 164][/us/stat/88/164], provided that [Pub. L. 93–288][/us/pl/93/288] was effective Apr. 1, 1974, with the exception of [section 5178 of this title][/us/usc/t42/s5178], prior to repeal by [Pub. L. 100–707, title I][/us/pl/100/707/tI], § 108(b), Nov. 23, 1988, [102 Stat. 4708][/us/stat/102/4708].
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–132][/us/pl/114/132], § 1, Feb. 29, 2016, [130 Stat. 293][/us/stat/130/293], provided that: 
+
+> “This Act \[enacting [section 5165e of this title][/us/usc/t42/s5165e] and provisions set out as notes under [section 5165e of this title][/us/usc/t42/s5165e]\] may be cited as the ‘Directing Dollars to Disaster Relief Act of 2015’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–111][/us/pl/114/111], § 1, Dec. 18, 2015, [129 Stat. 2240][/us/stat/129/2240], provided that: 
@@ -217,6 +223,10 @@ By virtue of the authority vested in me by the Disaster Relief Act of 1974 ([Pub
 [/us/usc/t42/s5178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5178
 [/us/pl/100/707/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F707%2FtI
 [/us/stat/102/4708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4708
+[/us/pl/114/132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F132
+[/us/stat/130/293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F293
+[/us/usc/t42/s5165e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5165e
+[/us/usc/t42/s5165e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5165e
 [/us/pl/114/111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F111
 [/us/stat/129/2240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2240
 [/us/pl/113/2/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F2%2FdB

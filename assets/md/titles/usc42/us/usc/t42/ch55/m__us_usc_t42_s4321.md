@@ -1469,6 +1469,10 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     (d) The requirements of section 2(a)(3) of this order shall not apply to any action of the Department of State or Department of Defense if the Secretary of State or the Secretary of Defense finds that exemption from such requirements is necessary for foreign policy or national security reasons.
 
+ __Extension of Term of Invasive Species Advisory Committee__ 
+
+    Term of Invasive Species Advisory Committee extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
  __Executive Order No. 13148__ 
 
     Ex. Ord. No. 13148, Apr. 21, 2000, 65 F.R. 24595, which directed Federal agencies to establish strategies that supported environmental leadership programs, policies, and procedures and to implement environmental compliance audit programs and policies that emphasized pollution prevention, was revoked by Ex. Ord. No. 13423, § 11(a)(iv), Jan. 24, 2007, 72 F.R. 3923, formerly set out below.

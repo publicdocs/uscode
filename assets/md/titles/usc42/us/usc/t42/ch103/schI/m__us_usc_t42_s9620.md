@@ -333,6 +333,14 @@
 
     For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under subsec. (e)(5) of this section is listed as the 5th item on page 151), see [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, and section 1(a)(4) \[div. A, § 1402(1)\] of [Pub. L. 106–554][/us/pl/106/554], set out as notes under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance.
 
+ __Environmental Compliance, Liability, and Monitoring__ 
+
+[Pub. L. 114–120, title V][/us/pl/114/120/tV], § 534(a), Feb. 8, 2016, [130 Stat. 75][/us/stat/130/75], provided that:
+
+>     “(a)  __Environmental Compliance__  __.—__ 
+
+>     Nothing in this Act \[see Tables for classification\] or any amendment made by this Act may be construed to affect or limit the application of or obligation to comply with any applicable environmental law, including section 120(h) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 ([42 U.S.C. 9620(h)][/us/usc/t42/s9620/h]).”
+
  __Identification of Uncontaminated Property at Installations To Be Closed__ 
 
 [Pub. L. 103–160, div. B, title XXIX][/us/pl/103/160/dB/tXXIX], § 2910, Nov. 30, 1993, [107 Stat. 1924][/us/stat/107/1924], provided that: 
@@ -444,6 +452,9 @@
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
+[/us/pl/114/120/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F120%2FtV
+[/us/stat/130/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F75
+[/us/usc/t42/s9620/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620%2Fh
 [/us/pl/103/160/dB/tXXIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdB%2FtXXIX
 [/us/stat/107/1924]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1924
 [/us/usc/t42/s9620/h/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9620%2Fh%2F4%2FA

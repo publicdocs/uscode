@@ -57,6 +57,12 @@
 
     This chapter, referred to in text, was in the original “this Act”, meaning [Pub. L. 109–248][/us/pl/109/248], July 27, 2006, [120 Stat. 587][/us/stat/120/587], known as the Adam Walsh Child Protection and Safety Act of 2006. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
+ __Short Title of 2016 Amendment__ 
+
+[Pub. L. 114–119][/us/pl/114/119], § 1(a), Feb. 8, 2016, [130 Stat. 15][/us/stat/130/15], provided that: 
+
+> “This Act \[enacting part A–1 of this subchapter and [section 212b of Title 22][/us/usc/t22/s212b], Foreign Relations and Intercourse, and amending [section 16914 of this title][/us/usc/t42/s16914] and [section 2250 of Title 18][/us/usc/t18/s2250], Crimes and Criminal Procedure\] may be cited as the ‘International Megan’s Law to Prevent Child Exploitation and Other Sexual Crimes Through Advanced Notification of Traveling Sex Offenders’.”
+
  __Short Title of 2015 Amendment__ 
 
 [Pub. L. 114–22, title V][/us/pl/114/22/tV], § 501, May 29, 2015, [129 Stat. 258][/us/stat/129/258], provided that: 
@@ -90,6 +96,11 @@
 [/us/stat/120/590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F590
 [/us/pl/109/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F248
 [/us/stat/120/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F587
+[/us/pl/114/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F119
+[/us/stat/130/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F15
+[/us/usc/t22/s212b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs212b
+[/us/usc/t42/s16914]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16914
+[/us/usc/t18/s2250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2250
 [/us/pl/114/22/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2FtV
 [/us/stat/129/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F258
 [/us/usc/t42/s16928a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16928a

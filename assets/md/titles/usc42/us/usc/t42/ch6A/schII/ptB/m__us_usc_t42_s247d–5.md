@@ -249,6 +249,10 @@ Sec. 7. Preventing and Responding to Infections and Outbreaks with Antibiotic-Re
 
                               Barack Obama.
 
+ __Extension of Term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria__ 
+
+    Term of Presidential Advisory Council on Combating Antibiotic-Resistant Bacteria extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–4.md) | [Next](./../../../../../..//us/usc/t42/ch6A/schII/ptB/m__us_usc_t42_s247d–5a.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247d%E2%80%935)

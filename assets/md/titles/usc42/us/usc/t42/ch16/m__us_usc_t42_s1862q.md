@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862p–15.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1863.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862q)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862p–15.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862r.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862q)
 
 ## § 1862q. Informal STEM education
 
@@ -39,7 +39,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862p–15.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1863.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862q)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862p–15.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862r.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1862q)
 
 ----------
 ----------

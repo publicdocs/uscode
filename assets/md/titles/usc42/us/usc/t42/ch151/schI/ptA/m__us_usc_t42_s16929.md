@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16928a.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptB/m__us_usc_t42_ch151_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16929)
+[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16928a.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptA–1/m__us_usc_t42_ch151_schI_ptA–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16929)
 
 ## § 16929. Immunity for good faith conduct
 
@@ -25,7 +25,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16928a.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptB/m__us_usc_t42_ch151_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16929)
+[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16928a.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptA–1/m__us_usc_t42_ch151_schI_ptA–1.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs16929)
 
 ----------
 ----------

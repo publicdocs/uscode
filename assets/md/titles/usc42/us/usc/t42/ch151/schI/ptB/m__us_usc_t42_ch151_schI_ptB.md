@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16929.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptB/m__us_usc_t42_s16941.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch151%2FschI%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA–1/m__us_usc_t42_s16935i.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptB/m__us_usc_t42_s16941.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch151%2FschI%2FptB)
 
 #### Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compliance With Registration and Notification Requirements and Protection of Children From Violent Predators
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA/m__us_usc_t42_s16929.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptB/m__us_usc_t42_s16941.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch151%2FschI%2FptB)
+[Previous](./../../../../../..//us/usc/t42/ch151/schI/ptA–1/m__us_usc_t42_s16935i.md) | [Next](./../../../../../..//us/usc/t42/ch151/schI/ptB/m__us_usc_t42_s16941.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch151%2FschI%2FptB)
 
 ----------
 ----------

@@ -241,6 +241,10 @@ By the authority vested in me as President by the Constitution and the laws of t
 
                               William J. Clinton.
 
+ __Extension of Term of Advisory Board on Radiation and Worker Health__ 
+
+    Term of Advisory Board on Radiation and Worker Health extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
 ----------
 
 [Previous](./../../../../..//us/usc/t42/ch84/schXVI/m__us_usc_t42_ch84_schXVI.md) | [Next](./../../../../..//us/usc/t42/ch84/schXVI/ptA/m__us_usc_t42_ch84_schXVI_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7384)

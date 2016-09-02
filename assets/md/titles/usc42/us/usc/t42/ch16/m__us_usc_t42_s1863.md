@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862q.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1864.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862r–1.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1864.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863)
 
 ## § 1863. National Science Board
 
@@ -153,7 +153,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862q.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1864.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863)
+[Previous](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1862r–1.md) | [Next](./../../../..//us/usc/t42/ch16/m__us_usc_t42_s1864.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1863)
 
 ----------
 ----------

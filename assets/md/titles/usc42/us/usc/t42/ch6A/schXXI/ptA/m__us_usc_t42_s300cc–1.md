@@ -163,6 +163,10 @@
 
                               William J. Clinton.
 
+ __Extension of Term of Presidential Advisory Council on HIV/AIDS__ 
+
+    Term of Presidential Advisory Council on HIV/AIDS extended until Sept. 30, 2017, by Ex. Ord. No. 13708, Sept. 30, 2015, 80 F.R. 60271, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
  __Ex. Ord. No. 13649. Accelerating Improvements in HIV Prevention and Care in the United States Through the HIV Care Continuum Initiative__ 
 
     Ex. Ord. No. 13649, July 15, 2013, 78 F.R. 43057, provided:

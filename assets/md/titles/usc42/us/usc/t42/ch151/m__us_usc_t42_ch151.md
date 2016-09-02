@@ -235,6 +235,94 @@ Part A—Sex Offender Registration and Notification  </td>
 
     <td> 
 
+Part A–1—Advanced Notification of Traveling Sex Offenders  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935" data-uslm-ref="/us/usc/t42/s16935">16935.</a>  </td>
+
+    <td> Findings.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935a" data-uslm-ref="/us/usc/t42/s16935a">16935a.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935b" data-uslm-ref="/us/usc/t42/s16935b">16935b.</a>  </td>
+
+    <td> Angel Watch Center.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935c" data-uslm-ref="/us/usc/t42/s16935c">16935c.</a>  </td>
+
+    <td> Notification by the United States Marshals Service.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935d" data-uslm-ref="/us/usc/t42/s16935d">16935d.</a>  </td>
+
+    <td> Implementation.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935e" data-uslm-ref="/us/usc/t42/s16935e">16935e.</a>  </td>
+
+    <td> Reciprocal notifications.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935f" data-uslm-ref="/us/usc/t42/s16935f">16935f.</a>  </td>
+
+    <td> Implementation plan.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935g" data-uslm-ref="/us/usc/t42/s16935g">16935g.</a>  </td>
+
+    <td> Technical assistance.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935h" data-uslm-ref="/us/usc/t42/s16935h">16935h.</a>  </td>
+
+    <td> Authorization of appropriations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs16935i" data-uslm-ref="/us/usc/t42/s16935i">16935i.</a>  </td>
+
+    <td> Rule of construction.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 Part B—Improving Federal Criminal Law Enforcement To Ensure Sex Offender Compliance With Registration and Notification Requirements and Protection of Children From Violent Predators  </td>
 
   </tr>
