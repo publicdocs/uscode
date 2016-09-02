@@ -17,7 +17,7 @@
 
     (a) __Conditions for reduction; computation__ 
 
-    If for any month prior to the month in which an individual attains the age of 65—
+    If for any month prior to the month in which an individual attains retirement age (as defined in section 416(l)(1) of this title)—
 
         (1) such individual is entitled to benefits under [section 423 of this title][/us/usc/t42/s423], and
 
@@ -89,7 +89,7 @@
 
         (2) The Commissioner of Social Security is authorized to enter into agreements with States, political subdivisions, and other organizations that administer a law or plan subject to the provisions of this section, in order to obtain such information as the Commissioner may require to carry out the provisions of this section.
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 224, as added [Pub. L. 89–97, title III, § 335][/us/pl/89/97/s335], July 30, 1965, [79 Stat. 406][/us/stat/79/406]; amended [Pub. L. 90–248, title I, § 159(a)][/us/pl/90/248/s159/a], Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869]; [Pub. L. 92–603, title I, § 119(a)][/us/pl/92/603/s119/a], (b), Oct. 30, 1972, [86 Stat. 1352][/us/stat/86/1352]; [Pub. L. 94–202, § 8(j)][/us/pl/94/202/s8/j], Jan. 2, 1976, [89 Stat. 1140][/us/stat/89/1140]; [Pub. L. 95–216, title II, § 205(d)][/us/pl/95/216/s205/d], title III, § 353(c), Dec. 20, 1977, [91 Stat. 1529][/us/stat/91/1529], 1553; [Pub. L. 97–35, title XXII, § 2208(a)][/us/pl/97/35/s2208/a], Aug. 13, 1981, [95 Stat. 839][/us/stat/95/839]; [Pub. L. 99–272, title XII, § 12109(a)][/us/pl/99/272/s12109/a], Apr. 7, 1986, [100 Stat. 286][/us/stat/100/286]; [Pub. L. 99–509, title IX, § 9002(c)(2)(F)][/us/pl/99/509/s9002/c/2/F], Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972]; [Pub. L. 101–239, title X, § 10208(b)(2)(A)][/us/pl/101/239/s10208/b/2/A], (C), (d)(2)(A)(i), (iii), Dec. 19, 1989, [103 Stat. 2477][/us/stat/103/2477], 2478, 2480, 2481; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title III, § 321(e)(2)(H), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1540.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title II, § 224, as added [Pub. L. 89–97, title III, § 335][/us/pl/89/97/s335], July 30, 1965, [79 Stat. 406][/us/stat/79/406]; amended [Pub. L. 90–248, title I, § 159(a)][/us/pl/90/248/s159/a], Jan. 2, 1968, [81 Stat. 869][/us/stat/81/869]; [Pub. L. 92–603, title I, § 119(a)][/us/pl/92/603/s119/a], (b), Oct. 30, 1972, [86 Stat. 1352][/us/stat/86/1352]; [Pub. L. 94–202, § 8(j)][/us/pl/94/202/s8/j], Jan. 2, 1976, [89 Stat. 1140][/us/stat/89/1140]; [Pub. L. 95–216, title II, § 205(d)][/us/pl/95/216/s205/d], title III, § 353(c), Dec. 20, 1977, [91 Stat. 1529][/us/stat/91/1529], 1553; [Pub. L. 97–35, title XXII, § 2208(a)][/us/pl/97/35/s2208/a], Aug. 13, 1981, [95 Stat. 839][/us/stat/95/839]; [Pub. L. 99–272, title XII, § 12109(a)][/us/pl/99/272/s12109/a], Apr. 7, 1986, [100 Stat. 286][/us/stat/100/286]; [Pub. L. 99–509, title IX, § 9002(c)(2)(F)][/us/pl/99/509/s9002/c/2/F], Oct. 21, 1986, [100 Stat. 1972][/us/stat/100/1972]; [Pub. L. 101–239, title X, § 10208(b)(2)(A)][/us/pl/101/239/s10208/b/2/A], (C), (d)(2)(A)(i), (iii), Dec. 19, 1989, [103 Stat. 2477][/us/stat/103/2477], 2478, 2480, 2481; [Pub. L. 103–296, title I, § 107(a)(4)][/us/pl/103/296/s107/a/4], title III, § 321(e)(2)(H), Aug. 15, 1994, [108 Stat. 1478][/us/stat/108/1478], 1540; [Pub. L. 113–295, div. B, title II, § 201(a)][/us/pl/113/295/s201/a], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064].)
 
  __References in Text__ 
 
@@ -100,6 +100,8 @@
     A prior section 224 of act Aug. 14, 1935, was classified to [section 424 of this title][/us/usc/t42/s424] prior to repeal by [Pub. L. 85–840, title II, § 206][/us/pl/85/840/s206], Aug. 28, 1958, [72 Stat. 1025][/us/stat/72/1025].
 
  __Amendments__ 
+
+    2014—Subsec. (a). [Pub. L. 113–295][/us/pl/113/295] substituted “retirement age (as defined in section 416(l)(1) of this title)” for “the age of 65” in introductory provisions.
 
     1994—Subsecs. (a)(2)(B), (b), (e), (f)(1). [Pub. L. 103–296, § 107(a)(4)][/us/pl/103/296/s107/a/4], substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner may require” for “he may require” in subsec. (e).
 
@@ -150,6 +152,12 @@
     1972—Subsec. (a). [Pub. L. 92–603][/us/pl/92/603] added cl. (C) in provisions for the determination of an individual’s average current earnings so as to introduce into the formula a factor of one-twelfth of the total wages and self-employment income for the calendar year in which he had the highest such wages and income during the year in which he became disabled and the five years preceding that year.
 
     1968—Subsec. (a). [Pub. L. 90–248][/us/pl/90/248] inserted in cl. (B) of first sentence following par. (8) “(computed without regard to the limitations specified in sections 409(a) and 411(b)(1) of this title)” before “for the five”, and inserted last sentence authorizing the Secretary, in certain cases, to estimate the total of wages and self-employment income for purposes of cl. (B) indicating the extent such earnings exceed the limitations in sections 409(a) and 411(b)(1) of this title.
+
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–295, div. B, title II, § 201(b)][/us/pl/113/295/s201/b], Dec. 19, 2014, [128 Stat. 4064][/us/stat/128/4064], provided that: 
+
+> “The amendment made by subsection (a) \[amending this section\] shall apply with respect to any individual who attains 65 years of age on or after the date that is 12 months after the date of the enactment of this Act \[Dec. 19, 2014\].”
 
  __Effective Date of 1994 Amendment__ 
 
@@ -249,12 +257,15 @@
 [/us/stat/103/2477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2477
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/stat/108/1478]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F1478
+[/us/pl/113/295/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs201%2Fa
+[/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
 [/us/usc/t42/s422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422%2Fb
 [/us/pl/106/170/s101/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs101%2Fb%2F1%2FC
 [/us/stat/113/1873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1873
 [/us/usc/t42/s424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs424
 [/us/pl/85/840/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F840%2Fs206
 [/us/stat/72/1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1025
+[/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/pl/103/296/s321/e/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs321%2Fe%2F2%2FH
 [/us/usc/t42/s409/k/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fk%2F1
@@ -290,6 +301,8 @@
 [/us/pl/94/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F202
 [/us/pl/92/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F603
 [/us/pl/90/248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F248
+[/us/pl/113/295/s201/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs201%2Fb
+[/us/stat/128/4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4064
 [/us/pl/103/296/s107/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs107%2Fa%2F4
 [/us/pl/103/296/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F296%2Fs110%2Fa
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401

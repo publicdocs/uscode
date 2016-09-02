@@ -433,13 +433,13 @@
 
                         Effective for fee schedules established beginning with 2011, reduced expenditures attributable to the multiple procedure payment reduction for therapy services (as described in subsection (b)(7)).
 
-                    (VIII)  __ <sup>\[__  __1__  __\]</sup> __  __ <sup><sup> __  __1__  __ So in original. Two subcls. (VIII) have been enacted.__  __ </sup></sup> __  __Reduced expenditures attributable to application of quality incentives for computed tomography__ 
+                    (VIII) __Reduced expenditures attributable to application of quality incentives for computed tomography__ 
 
-                        Effective for fee schedules established beginning with 2016, reduced expenditures attributable to the application of the quality incentives for computed tomography under [section 1395m(p) of this title][/us/usc/t42/s1395m/p]  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup> 
+                        Effective for fee schedules established beginning with 2016, reduced expenditures attributable to the application of the quality incentives for computed tomography under [section 1395m(p) of this title][/us/usc/t42/s1395m/p]  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup> 
 
-                    (VIII)  __1__  __Reductions for misvalued services if target not met__ 
+                    (IX) __Reductions for misvalued services if target not met__ 
 
-                        Effective for fee schedules beginning with 2017, reduced expenditures attributable to the application of the target recapture amount described in subparagraph (O)(iii).
+                        Effective for fee schedules beginning with 2016, reduced expenditures attributable to the application of the target recapture amount described in subparagraph (O)(iii).
 
                 (vi) __Alternative application of budget-neutrality adjustment__ 
 
@@ -763,7 +763,7 @@
 
             (O) __Target for relative value adjustments for misvalued services__ 
 
-            With respect to fee schedules established for each of 2017 through 2020, the following shall apply:
+            With respect to fee schedules established for each of 2016 through 2018, the following shall apply:
 
                 (i) __Determination of net reduction in expenditures__ 
 
@@ -779,7 +779,7 @@
 
                 (iii) __Exemption from budget neutrality if target not met__ 
 
-                    If the estimated net reduction in expenditures determined under clause (i) for the year is less than the target for the year, reduced expenditures in an amount equal to the target recapture amount shall not be taken into account in applying subparagraph (B)(ii)(II) with respect to fee schedules beginning with 2017.
+                    If the estimated net reduction in expenditures determined under clause (i) for the year is less than the target for the year, reduced expenditures in an amount equal to the target recapture amount shall not be taken into account in applying subparagraph (B)(ii)(II) with respect to fee schedules beginning with 2016.
 
                 (iv) __Target recapture amount__ 
 
@@ -791,7 +791,7 @@
 
                 (v) __Target__ 
 
-                    For purposes of this subparagraph, with respect to a year, the target is calculated as 0.5 percent of the estimated amount of expenditures under the fee schedule under this section for the year.
+                    For purposes of this subparagraph, with respect to a year, the target is calculated as 0.5 percent (or, for 2016, 1.0 percent) of the estimated amount of expenditures under the fee schedule under this section for the year.
 
         (3) __Component percentages__ 
 
@@ -849,7 +849,7 @@
 
         (7) __Phase-in of significant relative value unit (RVU) reductions__ 
 
-            Effective for fee schedules established beginning with 2017, for services that are not new or revised codes, if the total relative value units for a service for a year would otherwise be decreased by an estimated amount equal to or greater than 20 percent as compared to the total relative value units for the previous year, the applicable adjustments in work, practice expense, and malpractice relative value units shall be phased-in over a 2-year period.
+            Effective for fee schedules established beginning with 2016, for services that are not new or revised codes, if the total relative value units for a service for a year would otherwise be decreased by an estimated amount equal to or greater than 20 percent as compared to the total relative value units for the previous year, the applicable adjustments in work, practice expense, and malpractice relative value units shall be phased-in over a 2-year period.
 
     (d) __Conversion factors__ 
 
@@ -1121,7 +1121,7 @@
 
             (C) __Periodic review and adjustments in geographic adjustment factors__ 
 
-                The Secretary, not less often than every 3 years, shall, in consultation with appropriate representatives of physicians, review the indices established under subparagraph (A) and the geographic index values applied under this subsection for all fee schedule areas. Based on such review, the Secretary may revise such index and adjust such index values, except that, if more than 1 year has elasped  <sup>\[3\]</sup>  <sup><sup> 3 So in original. Probably should be “elapsed”. </sup></sup>  since the date of the last previous adjustment, the adjustment to be applied in the first year of the next adjustment shall be ½ of the adjustment that otherwise would be made.
+                The Secretary, not less often than every 3 years, shall, in consultation with appropriate representatives of physicians, review the indices established under subparagraph (A) and the geographic index values applied under this subsection for all fee schedule areas. Based on such review, the Secretary may revise such index and adjust such index values, except that, if more than 1 year has elasped  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “elapsed”. </sup></sup>  since the date of the last previous adjustment, the adjustment to be applied in the first year of the next adjustment shall be ½ of the adjustment that otherwise would be made.
 
             (D) __Use of recent data__ 
 
@@ -1131,9 +1131,9 @@
 
                 After calculating the work geographic index in subparagraph (A)(iii), for purposes of payment for services furnished on or after January 1, 2004, and before April 1, 2015, the Secretary shall increase the work geographic index to 1.00 for any locality for which such work geographic index is less than 1.00.
 
-            (G)  __ <sup>\[__  __4__  __\]</sup> __  __ <sup><sup> __  __4__  __ So in original. No subpar. (F) has been enacted.__  __ </sup></sup> __  __Floor for practice expense, malpractice, and work geographic indices for services furnished in Alaska__ 
+            (G)  __ <sup>\[__  __3__  __\]</sup> __  __ <sup><sup> __  __3__  __ So in original. No subpar. (F) has been enacted.__  __ </sup></sup> __  __Floor for practice expense, malpractice, and work geographic indices for services furnished in Alaska__ 
 
-                For purposes of payment for services furnished in Alaska on or after January 1, 2004, and before January 1, 2006, after calculating the practice expense, malpractice, and work geographic indices in clauses (i), (ii), and (iii) of subparagraph (A) and in subparagraph (B), the Secretary shall increase any such index to 1.67 if such index would otherwise be less than 1.67. For purposes of payment for services furnished in the State described in the preceding sentence on or after January 1, 2009, after calculating the work geographic index in subparagraph (A)(iii), the Secretary shall increase the work geographic index to 1.5 if such index would otherwise be less than 1.5 2
+                For purposes of payment for services furnished in Alaska on or after January 1, 2004, and before January 1, 2006, after calculating the practice expense, malpractice, and work geographic indices in clauses (i), (ii), and (iii) of subparagraph (A) and in subparagraph (B), the Secretary shall increase any such index to 1.67 if such index would otherwise be less than 1.67. For purposes of payment for services furnished in the State described in the preceding sentence on or after January 1, 2009, after calculating the work geographic index in subparagraph (A)(iii), the Secretary shall increase the work geographic index to 1.5 if such index would otherwise be less than 1.5 1
 
             (H) __Practice expense geographic adjustment for 2010 and subsequent years__ 
 
@@ -1173,7 +1173,7 @@
 
                 (i) __In general__ 
 
-                    Subject to clause (ii), for purposes of payment for services furnished in a frontier State (as defined in [section 1395ww(d)(3)(E)(iii)(II) of this title][/us/usc/t42/s1395ww/d/3/E/iii/II]) on or after January 1, 2011, after calculating the practice expense index in subparagraph (A)(i), the Secretary shall increase any such index to 1.00 if such index would otherwise be less that  <sup>\[5\]</sup>  <sup><sup> 5 So in original. Probably should be “than”. </sup></sup>  1.00. The preceding sentence shall not be applied in a budget neutral manner.
+                    Subject to clause (ii), for purposes of payment for services furnished in a frontier State (as defined in [section 1395ww(d)(3)(E)(iii)(II) of this title][/us/usc/t42/s1395ww/d/3/E/iii/II]) on or after January 1, 2011, after calculating the practice expense index in subparagraph (A)(i), the Secretary shall increase any such index to 1.00 if such index would otherwise be less that  <sup>\[4\]</sup>  <sup><sup> 4 So in original. Probably should be “than”. </sup></sup>  1.00. The preceding sentence shall not be applied in a budget neutral manner.
 
                 (ii) __Limitation__ 
 
@@ -1455,7 +1455,7 @@
 
             (B) __Report__ 
 
-                The Secretary shall by not later than April 15, <sup>\[6\]</sup>  <sup><sup> 6 So in original. The comma probably should not appear. </sup></sup>  of each year (beginning with 1991) report to the Congress on the changes described in subparagraph (A)(i) and shall include in the report an examination of the factors (including factors relating to different services and specific categories and groups of services and geographic and demographic variations in utilization) which may contribute to such changes.
+                The Secretary shall by not later than April 15, <sup>\[5\]</sup>  <sup><sup> 5 So in original. The comma probably should not appear. </sup></sup>  of each year (beginning with 1991) report to the Congress on the changes described in subparagraph (A)(i) and shall include in the report an examination of the factors (including factors relating to different services and specific categories and groups of services and geographic and demographic variations in utilization) which may contribute to such changes.
 
             (C) __Recommendations__ 
 
@@ -1529,7 +1529,7 @@
 
         (3) __Physicians’ services__ 
 
-            The term “physicians’ services” includes items and services described in paragraphs (1), (2)(A), (2)(D), (2)(G), (2)(P) (with respect to services described in subparagraphs (A) and (C) of section 1395x(oo)(2) of this title), (2)(R) (with respect to services described in subparagraphs (B), (C), and (D) of [section 1395x(pp)(1) of this title][/us/usc/t42/s1395x/pp/1]), (2)(S), (2)(W), (2)(AA), (2)(DD), (2)(EE), (2)(FF) (including administration of the health risk assessment), (3), (4), (13), (14) (with respect to services described in [section 1395x(nn)(2) of this title][/us/usc/t42/s1395x/nn/2]), and (15) of [section 1395x(s) of this title][/us/usc/t42/s1395x/s] (other than clinical diagnostic laboratory tests and, except for purposes of subsections (a)(3), (g), and (h) of this section  <sup>\[7\]</sup>  <sup><sup> 7 So in original. Probably should be followed by a comma. </sup></sup>  such other items and services as the Secretary may specify).
+            The term “physicians’ services” includes items and services described in paragraphs (1), (2)(A), (2)(D), (2)(G), (2)(P) (with respect to services described in subparagraphs (A) and (C) of section 1395x(oo)(2) of this title), (2)(R) (with respect to services described in subparagraphs (B), (C), and (D) of [section 1395x(pp)(1) of this title][/us/usc/t42/s1395x/pp/1]), (2)(S), (2)(W), (2)(AA), (2)(DD), (2)(EE), (2)(FF) (including administration of the health risk assessment), (3), (4), (13), (14) (with respect to services described in [section 1395x(nn)(2) of this title][/us/usc/t42/s1395x/nn/2]), and (15) of [section 1395x(s) of this title][/us/usc/t42/s1395x/s] (other than clinical diagnostic laboratory tests and, except for purposes of subsections (a)(3), (g), and (h) of this section  <sup>\[6\]</sup>  <sup><sup> 6 So in original. Probably should be followed by a comma. </sup></sup>  such other items and services as the Secretary may specify).
 
         (4) __Practice expenses__ 
 
@@ -1919,9 +1919,9 @@
 
                 (iii) __Reference__ 
 
-                    Any reference in this subsection to a reporting period with respect to the application of subsection (a)(5) (a)(8)  <sup>\[8\]</sup>  <sup><sup> 8 So in original. </sup></sup>  shall be deemed a reference to the reporting period under subsection (a)(5)(D)(iii) or the quality reporting period under subsection (a)(8)(D)(iii), <sup>\[9\]</sup>  <sup><sup> 9 So in original. Probably should be “(a)(8)(C)(iii),”. </sup></sup>  respectively.
+                    Any reference in this subsection to a reporting period with respect to the application of subsection (a)(5) (a)(8)  <sup>\[7\]</sup>  <sup><sup> 7 So in original. </sup></sup>  shall be deemed a reference to the reporting period under subsection (a)(5)(D)(iii) or the quality reporting period under subsection (a)(8)(D)(iii), <sup>\[8\]</sup>  <sup><sup> 8 So in original. Probably should be “(a)(8)(C)(iii),”. </sup></sup>  respectively.
 
-        (7)  __ <sup>\[__  __10__  __\]</sup> __  __ <sup><sup> __  __10__  __ So in original. Two pars. (7) have been enacted.__  __ </sup></sup> __  __Integration of physician quality reporting and EHR reporting__ 
+        (7)  __ <sup>\[__  __9__  __\]</sup> __  __ <sup><sup> __  __9__  __ So in original. Two pars. (7) have been enacted.__  __ </sup></sup> __  __Integration of physician quality reporting and EHR reporting__ 
 
         Not later than January 1, 2012, the Secretary shall develop a plan to integrate reporting on quality measures under this subsection with reporting requirements under subsection (o) relating to the meaningful use of electronic health records. Such integration shall consist of the following:
 
@@ -1935,7 +1935,7 @@
 
             (B) Such other activities as specified by the Secretary.
 
-        (7)  __10__  __Additional incentive payment__ 
+        (7)  __9__  __Additional incentive payment__ 
 
             (A) __In general__ 
 
@@ -2079,15 +2079,15 @@
 
                 (ii) __Timeline for development__ 
 
-                    The episode grouper described in subparagraph (A)  <sup>\[11\]</sup>  <sup><sup> 11 So in original. Probably means cl. (i) of this subpar. </sup></sup>  shall be developed by not later than January 1, 2012.
+                    The episode grouper described in subparagraph (A)  <sup>\[10\]</sup>  <sup><sup> 10 So in original. Probably means cl. (i) of this subpar. </sup></sup>  shall be developed by not later than January 1, 2012.
 
                 (iii) __Public availability__ 
 
-                    The Secretary shall make the details of the episode grouper described in subparagraph (A) 11 available to the public.
+                    The Secretary shall make the details of the episode grouper described in subparagraph (A) 10 available to the public.
 
                 (iv) __Endorsement__ 
 
-                    The Secretary shall seek endorsement of the episode grouper described in subparagraph (A) 11 by the entity with a contract under [section 1395aaa(a) of this title][/us/usc/t42/s1395aaa/a].
+                    The Secretary shall seek endorsement of the episode grouper described in subparagraph (A) 10 by the entity with a contract under [section 1395aaa(a) of this title][/us/usc/t42/s1395aaa/a].
 
             (B) __Reports on utilization__ 
 
@@ -2347,7 +2347,7 @@
 
         (3) __Costs__ 
 
-            For purposes of paragraph (1), costs shall be evaluated, to the extent practicable, based on a composite of appropriate measures of costs established by the Secretary (such as the composite measure under the methodology established under subsection (n)(9)(C)(iii)) that eliminate the effect of geographic adjustments in payment rates (as described in subsection (e)), and take into account risk factors (such as socioeconomic and demographic characteristics, ethnicity, and health status of individuals (such as to recognize that less healthy individuals may require more intensive interventions)  <sup>\[12\]</sup>  <sup><sup> 12 So in original. Probably should be followed by a second closing parenthesis. </sup></sup>  and other factors determined appropriate by the Secretary.
+            For purposes of paragraph (1), costs shall be evaluated, to the extent practicable, based on a composite of appropriate measures of costs established by the Secretary (such as the composite measure under the methodology established under subsection (n)(9)(C)(iii)) that eliminate the effect of geographic adjustments in payment rates (as described in subsection (e)), and take into account risk factors (such as socioeconomic and demographic characteristics, ethnicity, and health status of individuals (such as to recognize that less healthy individuals may require more intensive interventions)  <sup>\[11\]</sup>  <sup><sup> 11 So in original. Probably should be followed by a second closing parenthesis. </sup></sup>  and other factors determined appropriate by the Secretary.
 
         (4) __Implementation__ 
 
@@ -2435,7 +2435,7 @@
 
             (G) the determination of costs under paragraph (8)(A).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1848, as added [Pub. L. 101–239, title VI, § 6102(a)][/us/pl/101/239/s6102/a], Dec. 19, 1989, [103 Stat. 2169][/us/stat/103/2169]; amended [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, [104 Stat. 1388–56][/us/stat/104/1388-56], 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, [107 Stat. 580–583][/us/stat/107/580-583], 585, 586; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, [108 Stat. 4409][/us/stat/108/4409], 4410, 4412, 4415, 4416; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, [111 Stat. 354][/us/stat/111/354], 355, 361, 362, 365, 366, 368, 432–437, 488, 510; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 211(a)(1), (2)(A), (3)(A), (b), title III, § 321(k)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–345 to 1501A–348, 1501A–366; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 104(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–469; [Pub. L. 108–7, div. N, title IV, § 402(a)][/us/pl/108/7/s402/a], Feb. 20, 2003, [117 Stat. 548][/us/stat/117/548]; [Pub. L. 108–173, title III, § 303(a)(1)][/us/pl/108/173/s303/a/1], (g)(2), title IV, § 412, title VI, §§ 601(a)(1), (2), (b)(1), 602, 611(c), title VII, § 736(b)(10), Dec. 8, 2003, [117 Stat. 2233][/us/stat/117/2233], 2253, 2274, 2300, 2301, 2304, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5102, 5104(a), 5112(c), Feb. 8, 2006, [120 Stat. 39][/us/stat/120/39], 40, 44; [Pub. L. 109–432, div. B, title I][/us/pl/109/432], §§ 101(a), (b), (d), 102, Dec. 20, 2006, [120 Stat. 2975][/us/stat/120/2975], 2980, 2981; [Pub. L. 110–90, § 6][/us/pl/110/90/s6], Sept. 29, 2007, [121 Stat. 985][/us/stat/121/985]; [Pub. L. 110–161, div. G, title II, § 225(c)(2)][/us/pl/110/161/s225/c/2], title V, § 524, Dec. 26, 2007, [121 Stat. 2190][/us/stat/121/2190], 2212; [Pub. L. 110–173, title I][/us/pl/110/173], §§ 101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, [121 Stat. 2493–2495][/us/stat/121/2493-2495]; [Pub. L. 110–252, title VII, § 7002(c)][/us/pl/110/252/s7002/c], June 30, 2008, [122 Stat. 2395][/us/stat/122/2395]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, [122 Stat. 2520–2522][/us/stat/122/2520-2522], 2525–2527, 2529, 2532, 2541, 2546, 2552; [Pub. L. 111–5, div. B, title IV, § 4101(a)][/us/pl/111/5/s4101/a], (b), (f), Feb. 17, 2009, [123 Stat. 467][/us/stat/123/467], 472, 476; [Pub. L. 111–118, div. B, § 1011(a)][/us/pl/111/118/s1011/a], Dec. 19, 2009, [123 Stat. 3473][/us/stat/123/3473]; [Pub. L. 111–144, § 5][/us/pl/111/144/s5], Mar. 2, 2010, [124 Stat. 46][/us/stat/124/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, § 4103(c)(2), title V, § 5501(c), title X, §§ 10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, [124 Stat. 363–366][/us/stat/124/363-366], 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1107, 1108, Mar. 30, 2010, [124 Stat. 1050][/us/stat/124/1050]; [Pub. L. 111–157][/us/pl/111/157], §§ 4, 5(a)(1), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 111–192, title I, § 101(a)][/us/pl/111/192/s101/a], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]; [Pub. L. 111–286][/us/pl/111/286], §§ 2, 3, Nov. 30, 2010, [124 Stat. 3056][/us/stat/124/3056]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 101, 103, Dec. 15, 2010, [124 Stat. 3285][/us/stat/124/3285], 3287; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 301, 303, 309, Dec. 23, 2011, [125 Stat. 1283][/us/stat/125/1283], 1284, 1286; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3003(a), 3004(a), Feb. 22, 2012, [126 Stat. 186][/us/stat/126/186], 187; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, [126 Stat. 2345][/us/stat/126/2345], 2347, 2355, 2356; [Pub. L. 113–67, div. B, title I][/us/pl/113/67], §§ 1101, 1102, Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I][/us/pl/113/93], §§ 101, 102, title II, §§ 218(a)(2)(B), 220(a)–(f), (h), Apr. 1, 2014, [128 Stat. 1041][/us/stat/128/1041], 1064, 1070–1074.)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1848, as added [Pub. L. 101–239, title VI, § 6102(a)][/us/pl/101/239/s6102/a], Dec. 19, 1989, [103 Stat. 2169][/us/stat/103/2169]; amended [Pub. L. 101–508, title IV][/us/pl/101/508], §§ 4102(b), (g)(2), 4104(b)(2), 4105(a)(3), (c), 4106(b)(1), 4107(a)(1), 4109(a), 4116, 4118(b)–(f)(1), (k), Nov. 5, 1990, [104 Stat. 1388–56][/us/stat/104/1388-56], 1388–57, 1388–59 to 1388–63, 1388–65, 1388–67, 1388–68, 1388–71; [Pub. L. 103–66, title XIII][/us/pl/103/66], §§ 13511(a), 13512–13514(c), 13515(a)(1), (c), 13516(a)(1), 13517(a), 13518(a), Aug. 10, 1993, [107 Stat. 580–583][/us/stat/107/580-583], 585, 586; [Pub. L. 103–432, title I][/us/pl/103/432], §§ 121(b)(1), (2), 122(a), (b), 123(a), (d), 126(b)(6), (g)(2)(B), (5)–(7), (10)(A), Oct. 31, 1994, [108 Stat. 4409][/us/stat/108/4409], 4410, 4412, 4415, 4416; [Pub. L. 105–33, title IV][/us/pl/105/33], §§ 4022(b)(2)(B), (C), 4102(d), 4103(d), 4104(d), 4105(a)(2), 4106(b), 4501, 4502(a)(1), (b), 4503, 4504(a), 4505(a), (b), (e), (f)(1), 4644(d), 4714(b)(2), Aug. 5, 1997, [111 Stat. 354][/us/stat/111/354], 355, 361, 362, 365, 366, 368, 432–437, 488, 510; [Pub. L. 106–113, div. B, § 1000(a)(6)][/us/pl/106/113/s1000/a/6] \[title II, § 211(a)(1), (2)(A), (3)(A), (b), title III, § 321(k)(5)\], Nov. 29, 1999, [113 Stat. 1536][/us/stat/113/1536], 1501A–345 to 1501A–348, 1501A–366; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title I, § 104(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–469; [Pub. L. 108–7, div. N, title IV, § 402(a)][/us/pl/108/7/s402/a], Feb. 20, 2003, [117 Stat. 548][/us/stat/117/548]; [Pub. L. 108–173, title III, § 303(a)(1)][/us/pl/108/173/s303/a/1], (g)(2), title IV, § 412, title VI, §§ 601(a)(1), (2), (b)(1), 602, 611(c), title VII, § 736(b)(10), Dec. 8, 2003, [117 Stat. 2233][/us/stat/117/2233], 2253, 2274, 2300, 2301, 2304, 2356; [Pub. L. 109–171, title V][/us/pl/109/171], §§ 5102, 5104(a), 5112(c), Feb. 8, 2006, [120 Stat. 39][/us/stat/120/39], 40, 44; [Pub. L. 109–432, div. B, title I][/us/pl/109/432], §§ 101(a), (b), (d), 102, Dec. 20, 2006, [120 Stat. 2975][/us/stat/120/2975], 2980, 2981; [Pub. L. 110–90, § 6][/us/pl/110/90/s6], Sept. 29, 2007, [121 Stat. 985][/us/stat/121/985]; [Pub. L. 110–161, div. G, title II, § 225(c)(2)][/us/pl/110/161/s225/c/2], title V, § 524, Dec. 26, 2007, [121 Stat. 2190][/us/stat/121/2190], 2212; [Pub. L. 110–173, title I][/us/pl/110/173], §§ 101(a)(1), (2)(A), (b)(1), 103, Dec. 29, 2007, [121 Stat. 2493–2495][/us/stat/121/2493-2495]; [Pub. L. 110–252, title VII, § 7002(c)][/us/pl/110/252/s7002/c], June 30, 2008, [122 Stat. 2395][/us/stat/122/2395]; [Pub. L. 110–275, title I][/us/pl/110/275], §§ 131(a)(1), (3)(C), (b)(1)–(4)(A), (5), (c)(1), 132(a), (b), 133(b), 134, 139(a), 144(a)(2), 152(b)(1)(C), July 15, 2008, [122 Stat. 2520–2522][/us/stat/122/2520-2522], 2525–2527, 2529, 2532, 2541, 2546, 2552; [Pub. L. 111–5, div. B, title IV, § 4101(a)][/us/pl/111/5/s4101/a], (b), (f), Feb. 17, 2009, [123 Stat. 467][/us/stat/123/467], 472, 476; [Pub. L. 111–118, div. B, § 1011(a)][/us/pl/111/118/s1011/a], Dec. 19, 2009, [123 Stat. 3473][/us/stat/123/3473]; [Pub. L. 111–144, § 5][/us/pl/111/144/s5], Mar. 2, 2010, [124 Stat. 46][/us/stat/124/46]; [Pub. L. 111–148, title III][/us/pl/111/148], §§ 3002(a)–(c)(1), (d)–(f), 3003(a), 3007, 3101, 3102, 3111(a)(1), 3134(a), 3135(a), (b), title IV, § 4103(c)(2), title V, § 5501(c), title X, §§ 10310, 10324(c), 10327(a), 10501(h), Mar. 23, 2010, [124 Stat. 363–366][/us/stat/124/363-366], 373, 415, 416, 421, 434, 436, 437, 556, 654, 942, 960, 962, 997; [Pub. L. 111–152, title I][/us/pl/111/152], §§ 1107, 1108, Mar. 30, 2010, [124 Stat. 1050][/us/stat/124/1050]; [Pub. L. 111–157][/us/pl/111/157], §§ 4, 5(a)(1), Apr. 15, 2010, [124 Stat. 1117][/us/stat/124/1117]; [Pub. L. 111–192, title I, § 101(a)][/us/pl/111/192/s101/a], June 25, 2010, [124 Stat. 1280][/us/stat/124/1280]; [Pub. L. 111–286][/us/pl/111/286], §§ 2, 3, Nov. 30, 2010, [124 Stat. 3056][/us/stat/124/3056]; [Pub. L. 111–309, title I][/us/pl/111/309], §§ 101, 103, Dec. 15, 2010, [124 Stat. 3285][/us/stat/124/3285], 3287; [Pub. L. 112–78, title III][/us/pl/112/78], §§ 301, 303, 309, Dec. 23, 2011, [125 Stat. 1283][/us/stat/125/1283], 1284, 1286; [Pub. L. 112–96, title III][/us/pl/112/96], §§ 3003(a), 3004(a), Feb. 22, 2012, [126 Stat. 186][/us/stat/126/186], 187; [Pub. L. 112–240, title VI][/us/pl/112/240], §§ 601(a), (b)(1), 602, 633(a), 635, Jan. 2, 2013, [126 Stat. 2345][/us/stat/126/2345], 2347, 2355, 2356; [Pub. L. 113–67, div. B, title I][/us/pl/113/67], §§ 1101, 1102, Dec. 26, 2013, [127 Stat. 1196][/us/stat/127/1196]; [Pub. L. 113–93, title I][/us/pl/113/93], §§ 101, 102, title II, §§ 218(a)(2)(B), 220(a)–(f), (h), Apr. 1, 2014, [128 Stat. 1041][/us/stat/128/1041], 1064, 1070–1074; [Pub. L. 113–295, div. B, title II, § 202][/us/pl/113/295/s202], Dec. 19, 2014, [128 Stat. 4065][/us/stat/128/4065].)
 
  __References in Text__ 
 
@@ -2461,9 +2461,13 @@
 
     2014—Subsec. (c)(2)(B)(ii)(I). [Pub. L. 113–93, § 220(e)(2)(A)][/us/pl/113/93/s220/e/2/A], substituted “subclause (II) and paragraph (7)” for “subclause (II)”.
 
-    Subsec. (c)(2)(B)(v)(VIII). [Pub. L. 113–93, § 220(d)(2)][/us/pl/113/93/s220/d/2], added subcl. (VIII) relating to reductions for misvalued services if target not met.
+    Subsec. (c)(2)(B)(v)(VIII). [Pub. L. 113–295, § 202(1)(A)][/us/pl/113/295/s202/1/A], substituted “2016” for “2017” in subcl. (VIII) relating to reductions for misvalued services if target not met.
+
+    [Pub. L. 113–93, § 220(d)(2)][/us/pl/113/93/s220/d/2], added subcl. (VIII) relating to reductions for misvalued services if target not met.
 
     [Pub. L. 113–93, § 218(a)(2)(B)][/us/pl/113/93/s218/a/2/B], added subcl. (VIII) relating to reduced expenditures attributable to application of quality incentives for computed tomography.
+
+    Subsec. (c)(2)(B)(v)(IX). [Pub. L. 113–295, § 202(1)(B)][/us/pl/113/295/s202/1/B], redesignated subcl. (VIII) relating to reductions for misvalued services if target not met as (IX).
 
     Subsec. (c)(2)(C)(i). [Pub. L. 113–93, § 220(f)(1)][/us/pl/113/93/s220/f/1], substituted “the service or group of services” for “the service” in two places.
 
@@ -2479,9 +2483,17 @@
 
     Subsec. (c)(2)(N). [Pub. L. 113–93, § 220(b)][/us/pl/113/93/s220/b], added subpar. (N).
 
-    Subsec. (c)(2)(O). [Pub. L. 113–93, § 220(d)(1)][/us/pl/113/93/s220/d/1], added subpar. (O).
+    Subsec. (c)(2)(O). [Pub. L. 113–295, § 202(2)(A)][/us/pl/113/295/s202/2/A], substituted “2016 through 2018” for “2017 through 2020” in introductory provisions.
 
-    Subsec. (c)(7). [Pub. L. 113–93, § 220(e)(1)][/us/pl/113/93/s220/e/1], added par. (7).
+    [Pub. L. 113–93, § 220(d)(1)][/us/pl/113/93/s220/d/1], added subpar. (O).
+
+    Subsec. (c)(2)(O)(iii). [Pub. L. 113–295, § 202(2)(B)][/us/pl/113/295/s202/2/B], substituted “2016” for “2017”.
+
+    Subsec. (c)(2)(O)(v). [Pub. L. 113–295, § 202(2)(C)][/us/pl/113/295/s202/2/C], inserted “(or, for 2016, 1.0 percent)” after “0.5 percent”.
+
+    Subsec. (c)(7). [Pub. L. 113–295, § 202(3)][/us/pl/113/295/s202/3], substituted “2016” for “2017”.
+
+    [Pub. L. 113–93, § 220(e)(1)][/us/pl/113/93/s220/e/1], added par. (7).
 
     Subsec. (d)(15). [Pub. L. 113–93, § 101(1)(A)][/us/pl/113/93/s101/1/A], struck out “January through March of” before “2014” in heading.
 
@@ -3915,6 +3927,8 @@
 [/us/stat/127/1196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1196
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/stat/128/1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1041
+[/us/pl/113/295/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202
+[/us/stat/128/4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4065
 [/us/pl/103/66/s13515/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs13515%2Fb
 [/us/usc/t42/s1395u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395u
 [/us/pl/101/239/s6105/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs6105%2Fb
@@ -3934,8 +3948,10 @@
 [/us/stat/121/2494]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2494
 [/us/pl/110/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F275
 [/us/pl/113/93/s220/e/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Fe%2F2%2FA
+[/us/pl/113/295/s202/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2F1%2FA
 [/us/pl/113/93/s220/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Fd%2F2
 [/us/pl/113/93/s218/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs218%2Fa%2F2%2FB
+[/us/pl/113/295/s202/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2F1%2FB
 [/us/pl/113/93/s220/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Ff%2F1
 [/us/pl/113/93/s220/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Ff%2F2
 [/us/pl/113/93/s220/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Ff%2F1
@@ -3943,7 +3959,11 @@
 [/us/pl/113/93/s220/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Fe%2F2%2FB
 [/us/pl/113/93/s220/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Fa%2F1
 [/us/pl/113/93/s220/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Fb
+[/us/pl/113/295/s202/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2F2%2FA
 [/us/pl/113/93/s220/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Fd%2F1
+[/us/pl/113/295/s202/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2F2%2FB
+[/us/pl/113/295/s202/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2F2%2FC
+[/us/pl/113/295/s202/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295%2Fs202%2F3
 [/us/pl/113/93/s220/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs220%2Fe%2F1
 [/us/pl/113/93/s101/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs101%2F1%2FA
 [/us/pl/113/93/s101/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs101%2F1%2FB
