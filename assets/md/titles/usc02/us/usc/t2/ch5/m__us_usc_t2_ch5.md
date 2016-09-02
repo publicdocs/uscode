@@ -131,7 +131,15 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs136" data-uslm-ref="/us/usc/t2/s136">136.</a>  </td>
 
-    <td> Librarian of Congress; appointment; rules and regulations.  </td>
+    <td> Librarian of Congress; rules and regulations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft2%2Fs136%E2%80%931" data-uslm-ref="/us/usc/t2/s136–1">136–1.</a>  </td>
+
+    <td> Appointment and term of service of Librarian of Congress.  </td>
 
   </tr>
 

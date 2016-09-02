@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136a%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136–1.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136a%E2%80%932)
 
 ## § 136a–2. Librarian of Congress and Deputy Librarian of Congress; compensation
 
@@ -55,7 +55,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136a%E2%80%932)
+[Previous](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136–1.md) | [Next](./../../../..//us/usc/t2/ch5/m__us_usc_t2_s136b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs136a%E2%80%932)
 
 ----------
 ----------

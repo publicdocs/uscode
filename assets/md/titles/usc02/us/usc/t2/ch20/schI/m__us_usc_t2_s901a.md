@@ -83,7 +83,7 @@
 
         (B) __Fiscal years 2014–2021__ 
 
-        Except as provided by paragraph (10), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title][/us/usc/t2/s904/c] for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
+        Except as provided by paragraphs (10) and (11), on the date of the submission of its sequestration preview report for fiscal years 2014 through 2021 pursuant to [section 904(c) of this title][/us/usc/t2/s904/c] for each of fiscal years 2014 through 2021, OMB shall reduce the discretionary spending limit—
 
             (i) for the revised security category by the amount of the defense function discretionary reduction calculated pursuant to paragraph (3); and
 
@@ -95,7 +95,7 @@
 
         (B)
 
-         On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, and for fiscal year 2024, pursuant to [section 904(c) of this title][/us/usc/t2/s904/c], the President shall order a sequestration, effective upon issuance such that—
+         On the dates OMB issues its sequestration preview reports for fiscal year 2022, for fiscal year 2023, for fiscal year 2024, and for fiscal year 2025, pursuant to [section 904(c) of this title][/us/usc/t2/s904/c], the President shall order a sequestration, effective upon issuance such that—
 
             (i) the percentage reduction for nonexempt direct spending for the defense function is the same percent as the percentage reduction for nonexempt direct spending for the defense function for fiscal year 2021 calculated under paragraph (3)(B); and
 
@@ -103,15 +103,7 @@
 
         (C)
 
-         Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title][/us/usc/t2/s906/d], the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
-
-            (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
-
-            (ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.
-
-        (D)
-
-         Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title][/us/usc/t2/s906/d], the sequestration order of the President under such subparagraph for fiscal year 2024 shall be applied to such payments so that—
+         Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title][/us/usc/t2/s906/d], the sequestration order of the President under such subparagraph for fiscal year 2025 shall be applied to such payments so that—
 
             (i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 4.0 percent; and
 
@@ -135,7 +127,13 @@
 
         (B) Paragraph (5)(B) shall not be implemented for fiscal years 2014 and 2015.
 
-([Pub. L. 99–177, title II, § 251A][/us/pl/99/177/s251A], as added [Pub. L. 112–25, title III, § 302(a)][/us/pl/112/25/s302/a], Aug. 2, 2011, [125 Stat. 256][/us/stat/125/256]; amended [Pub. L. 112–240, title IX, § 901(a)][/us/pl/112/240/s901/a], (c), Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(b)][/us/pl/113/67/s101/b], (c), (d)(2), div. B, title II, § 1205, Dec. 26, 2013, [127 Stat. 1167][/us/stat/127/1167], 1168, 1200; [Pub. L. 113–82, § 1][/us/pl/113/82/s1], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009]; [Pub. L. 113–93, title II, § 222][/us/pl/113/93/s222], Apr. 1, 2014, [128 Stat. 1077][/us/stat/128/1077].)
+    (11) __Implementing direct spending reductions for fiscal years 2016 and 2017__ 
+
+        (A) OMB shall make the calculations necessary to implement the direct spending reductions calculated pursuant to paragraphs (3) and (4) without regard to the amendment made to [section 901(c) of this title][/us/usc/t2/s901/c] revising the discretionary spending limits for fiscal years 2016 and 2017 by the Bipartisan Budget Act of 2015.
+
+        (B) Paragraph (5)(B) shall not be implemented for fiscal years 2016 and 2017.
+
+([Pub. L. 99–177, title II, § 251A][/us/pl/99/177/s251A], as added [Pub. L. 112–25, title III, § 302(a)][/us/pl/112/25/s302/a], Aug. 2, 2011, [125 Stat. 256][/us/stat/125/256]; amended [Pub. L. 112–240, title IX, § 901(a)][/us/pl/112/240/s901/a], (c), Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(b)][/us/pl/113/67/s101/b], (c), (d)(2), div. B, title II, § 1205, Dec. 26, 2013, [127 Stat. 1167][/us/stat/127/1167], 1168, 1200; [Pub. L. 113–82, § 1][/us/pl/113/82/s1], Feb. 15, 2014, [128 Stat. 1009][/us/stat/128/1009]; [Pub. L. 113–93, title II, § 222][/us/pl/113/93/s222], Apr. 1, 2014, [128 Stat. 1077][/us/stat/128/1077]; [Pub. L. 114–74, title I, § 101(b)][/us/pl/114/74/s101/b], (c), Nov. 2, 2015, [129 Stat. 586][/us/stat/129/586].)
 
  __References in Text__ 
 
@@ -145,11 +143,27 @@
 
     The Bipartisan Budget Act of 2013, referred to in par. (10)(A), is div. A of [Pub. L. 113–67][/us/pl/113/67], Dec. 26, 2013, [127 Stat. 1165][/us/stat/127/1165]. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under [section 900 of this title][/us/usc/t2/s900] and Tables.
 
+    The Bipartisan Budget Act of 2015, referred to in par. (11)(A), is [Pub. L. 114–74][/us/pl/114/74], Nov. 2, 2015, [129 Stat. 584][/us/stat/129/584]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1 of Title 26][/us/usc/t26/s1], Internal Revenue Code, and Tables.
+
  __Prior Provisions__ 
 
     A prior section 901a, [Pub. L. 99–177, title II, § 251A][/us/pl/99/177/s251A], as added [Pub. L. 103–322, title XXXI, § 310001(g)(1)][/us/pl/103/322/s310001/g/1], Sept. 13, 1994, [108 Stat. 2104][/us/stat/108/2104], related to sequestration with respect to Violent Crime Reduction Trust Fund, prior to repeal by [Pub. L. 105–33, title X, § 10204(a)(1)][/us/pl/105/33/s10204/a/1], Aug. 5, 1997, [111 Stat. 702][/us/stat/111/702].
 
  __Amendments__ 
+
+    2015—Par. (5)(B). [Pub. L. 114–74, § 101(b)(1)][/us/pl/114/74/s101/b/1], substituted “paragraphs (10) and (11)” for “paragraph (10)”.
+
+    Par. (6)(B). [Pub. L. 114–74, § 101(c)(1)][/us/pl/114/74/s101/c/1], in introductory provisions, substituted “for fiscal year 2024, and for fiscal year 2025” for “and for fiscal year 2024”.
+
+    Par. (6)(C), (D). [Pub. L. 114–74, § 101(c)(2)][/us/pl/114/74/s101/c/2], (3), redesignated subpar. (D) as (C), substituted “fiscal year 2025” for “fiscal year 2024”, and struck out former subpar. (C) which read as follows:
+
+    “Notwithstanding the 2 percent limit specified in subparagraph (A) for payments for the Medicare programs specified in [section 906(d) of this title][/us/usc/t2/s906/d], the sequestration order of the President under such subparagraph for fiscal year 2023 shall be applied to such payments so that—
+
+    “(i) with respect to the first 6 months in which such order is effective for such fiscal year, the payment reduction shall be 2.90 percent; and
+
+    “(ii) with respect to the second 6 months in which such order is so effective for such fiscal year, the payment reduction shall be 1.11 percent.”
+
+    Par. (11). [Pub. L. 114–74, § 101(b)(2)][/us/pl/114/74/s101/b/2], added par. (11).
 
     2014—Par. (6)(B). [Pub. L. 113–82][/us/pl/113/82] substituted “, for fiscal year 2023, and for fiscal year 2024” for “and for fiscal year 2023”.
 
@@ -237,8 +251,8 @@
 [/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
 [/us/usc/t2/s904/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs904%2Fc
 [/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
-[/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
 [/us/usc/t2/s906/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fk
+[/us/usc/t2/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fc
 [/us/usc/t2/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs901%2Fc
 [/us/pl/99/177/s251A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs251A
 [/us/pl/112/25/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs302%2Fa
@@ -251,6 +265,8 @@
 [/us/stat/128/1009]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1009
 [/us/pl/113/93/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93%2Fs222
 [/us/stat/128/1077]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1077
+[/us/pl/114/74/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs101%2Fb
+[/us/stat/129/586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F586
 [/us/pl/112/25/s401/b/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25%2Fs401%2Fb%2F3%2FB%2Fi%2FII
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
 [/us/pl/99/177]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177
@@ -259,11 +275,19 @@
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/stat/127/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1165
 [/us/usc/t2/s900]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs900
+[/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74
+[/us/stat/129/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F584
+[/us/usc/t26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1
 [/us/pl/99/177/s251A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs251A
 [/us/pl/103/322/s310001/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F322%2Fs310001%2Fg%2F1
 [/us/stat/108/2104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2104
 [/us/pl/105/33/s10204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs10204%2Fa%2F1
 [/us/stat/111/702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F702
+[/us/pl/114/74/s101/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs101%2Fb%2F1
+[/us/pl/114/74/s101/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs101%2Fc%2F1
+[/us/pl/114/74/s101/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs101%2Fc%2F2
+[/us/usc/t2/s906/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs906%2Fd
+[/us/pl/114/74/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs101%2Fb%2F2
 [/us/pl/113/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F82
 [/us/pl/113/93]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F93
 [/us/pl/113/67/s101/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs101%2Fd%2F2%2FA

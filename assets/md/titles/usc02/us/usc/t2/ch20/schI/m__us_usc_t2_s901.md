@@ -87,7 +87,7 @@
 
                 (i)
 
-                 If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\] and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
+                 If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under titles II and XVI of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq., 1381 et seq.\] , for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys, then the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such expenses for that fiscal year, but shall not exceed—
 
                     (I) for fiscal year 2012, $623,000,000 in additional new budget authority;
 
@@ -99,25 +99,25 @@
 
                     (V) for fiscal year 2016, $1,166,000,000 in additional new budget authority;
 
-                    (VI) for fiscal year 2017, $1,309,000,000 in additional new budget authority;
+                    (VI) for fiscal year 2017, $1,546,000,000 in additional new budget authority;
 
-                    (VII) for fiscal year 2018, $1,309,000,000 in additional new budget authority;
+                    (VII) for fiscal year 2018, $1,462,000,000 in additional new budget authority;
 
-                    (VIII) for fiscal year 2019, $1,309,000,000 in additional new budget authority;
+                    (VIII) for fiscal year 2019, $1,410,000,000 in additional new budget authority;
 
                     (IX) for fiscal year 2020, $1,309,000,000 in additional new budget authority; and
 
-                    (X) for fiscal year 2021, $1,309,000,000 in additional new budget authority.
+                    (X) for fiscal year 2021, $1,302,000,000 in additional new budget authority.
 
                 (ii)
 
                  As used in this subparagraph—
 
-                    (I) the term “continuing disability reviews” means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act \[[42 U.S.C. 421(i)][/us/usc/t42/s421/i], 1382c(a)(4)\];
+                    (I) the term “continuing disability reviews” means continuing disability reviews under sections 221(i) and 1614(a)(4) of the Social Security Act \[[42 U.S.C. 421(i)][/us/usc/t42/s421/i], 1382c(a)(4)\], including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity;
 
                     (II) the term “redetermination” means redetermination of eligibility under sections 1611(c)(1) and 1614(a)(3)(H) of the Social Security Act \[[42 U.S.C. 1382(c)(1)][/us/usc/t42/s1382/c/1], 1382c(a)(3)(H)\]; and
 
-                    (III) the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews and redeterminations under the heading “Limitation on Administrative Expenses” for the Social Security Administration.
+                    (III) the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $273,000,000, in an appropriation Act and specified to pay for the costs of continuing disability reviews, redeterminations, co-operative disability investigation units, and fraud prosecutions under the heading “Limitation on Administrative Expenses” for the Social Security Administration.
 
             (C) __Health care fraud and abuse control__ 
 
@@ -187,17 +187,17 @@
 
          for fiscal year 2016—
 
-            (A) for the revised security category, $577,000,000,000 in new budget authority; and
+            (A) for the revised security category, $548,091,000,000 in new budget authority; and
 
-            (B) for the revised nonsecurity category, $530,000,000,000 in new budget authority;
+            (B) for the revised nonsecurity category $518,491,000,000 in new budget authority;
 
         (4)
 
          for fiscal year 2017—
 
-            (A) for the revised security category, $590,000,000,000 in new budget authority; and
+            (A) for the revised security category, $551,068,000,000 in new budget authority; and
 
-            (B) for the revised nonsecurity category, $541,000,000,000 in new budget authority;
+            (B) for the revised nonsecurity category, $518,531,000,000 in new budget authority;
 
         (5)
 
@@ -233,7 +233,7 @@
 
         as adjusted in strict conformance with subsection (b).
 
-([Pub. L. 99–177, title II, § 251][/us/pl/99/177/s251], Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063]; [Pub. L. 100–119, title I, § 102(a)][/us/pl/100/119/s102/a], Sept. 29, 1987, [101 Stat. 754][/us/stat/101/754]; [Pub. L. 100–203, title VIII, § 8003(f)][/us/pl/100/203/s8003/f], Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282]; [Pub. L. 101–508, title XIII, § 13101(a)][/us/pl/101/508/s13101/a], (e)(2), Nov. 5, 1990, [104 Stat. 1388–577][/us/stat/104/1388-577], 1388–593; [Pub. L. 103–66, title XIV, § 14002(c)(1)][/us/pl/103/66/s14002/c/1], Aug. 10, 1993, [107 Stat. 683][/us/stat/107/683]; [Pub. L. 103–87, title V, § 571][/us/pl/103/87/s571], Sept. 30, 1993, [107 Stat. 971][/us/stat/107/971]; [Pub. L. 103–306, title V, § 562][/us/pl/103/306/s562], Aug. 23, 1994, [108 Stat. 1649][/us/stat/108/1649]; [Pub. L. 103–354, title I, § 119(d)(1)][/us/pl/103/354/s119/d/1], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208]; [Pub. L. 104–121, title I, § 103(b)][/us/pl/104/121/s103/b], Mar. 29, 1996, [110 Stat. 848][/us/stat/110/848]; [Pub. L. 104–193, title II, § 211(d)(5)(B)][/us/pl/104/193/s211/d/5/B], Aug. 22, 1996, [110 Stat. 2191][/us/stat/110/2191]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 577\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–169; [Pub. L. 105–33, title X, § 10203(a)][/us/pl/105/33/s10203/a], (b), Aug. 5, 1997, [111 Stat. 698][/us/stat/111/698], 701; [Pub. L. 105–89, title II, § 201(b)(1)][/us/pl/105/89/s201/b/1], Nov. 19, 1997, [111 Stat. 2125][/us/stat/111/2125]; [Pub. L. 105–178, title VIII, § 8101(a)][/us/pl/105/178/s8101/a], (d), June 9, 1998, [112 Stat. 488][/us/stat/112/488], 490; [Pub. L. 106–291, title VIII, § 801(a)][/us/pl/106/291/s801/a], (b), Oct. 11, 2000, [114 Stat. 1026][/us/stat/114/1026], 1027; [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VII, § 701(a)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–64; [Pub. L. 107–117, div. C, § 101(a)][/us/pl/107/117/s101/a], Jan. 10, 2002, [115 Stat. 2341][/us/stat/115/2341]; [Pub. L. 108–88, § 10(a)][/us/pl/108/88/s10/a], (b), Sept. 30, 2003, [117 Stat. 1127][/us/stat/117/1127]; [Pub. L. 108–310, § 10(a)][/us/pl/108/310/s10/a], (b), Sept. 30, 2004, [118 Stat. 1160][/us/stat/118/1160]; [Pub. L. 109–59, title VIII][/us/pl/109/59], §§ 8001(a), 8002, Aug. 10, 2005, [119 Stat. 1915][/us/stat/119/1915], 1916; [Pub. L. 112–25, title I, § 101][/us/pl/112/25/s101], Aug. 2, 2011, [125 Stat. 241][/us/stat/125/241]; [Pub. L. 112–240, title IX, § 901(d)(1)][/us/pl/112/240/s901/d/1], Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(a)][/us/pl/113/67/s101/a], Dec. 26, 2013, [127 Stat. 1166][/us/stat/127/1166].)
+([Pub. L. 99–177, title II, § 251][/us/pl/99/177/s251], Dec. 12, 1985, [99 Stat. 1063][/us/stat/99/1063]; [Pub. L. 100–119, title I, § 102(a)][/us/pl/100/119/s102/a], Sept. 29, 1987, [101 Stat. 754][/us/stat/101/754]; [Pub. L. 100–203, title VIII, § 8003(f)][/us/pl/100/203/s8003/f], Dec. 22, 1987, [101 Stat. 1330–282][/us/stat/101/1330-282]; [Pub. L. 101–508, title XIII, § 13101(a)][/us/pl/101/508/s13101/a], (e)(2), Nov. 5, 1990, [104 Stat. 1388–577][/us/stat/104/1388-577], 1388–593; [Pub. L. 103–66, title XIV, § 14002(c)(1)][/us/pl/103/66/s14002/c/1], Aug. 10, 1993, [107 Stat. 683][/us/stat/107/683]; [Pub. L. 103–87, title V, § 571][/us/pl/103/87/s571], Sept. 30, 1993, [107 Stat. 971][/us/stat/107/971]; [Pub. L. 103–306, title V, § 562][/us/pl/103/306/s562], Aug. 23, 1994, [108 Stat. 1649][/us/stat/108/1649]; [Pub. L. 103–354, title I, § 119(d)(1)][/us/pl/103/354/s119/d/1], Oct. 13, 1994, [108 Stat. 3208][/us/stat/108/3208]; [Pub. L. 104–121, title I, § 103(b)][/us/pl/104/121/s103/b], Mar. 29, 1996, [110 Stat. 848][/us/stat/110/848]; [Pub. L. 104–193, title II, § 211(d)(5)(B)][/us/pl/104/193/s211/d/5/B], Aug. 22, 1996, [110 Stat. 2191][/us/stat/110/2191]; [Pub. L. 104–208, div. A, title I, § 101(c)][/us/pl/104/208/s101/c] \[title V, § 577\], Sept. 30, 1996, [110 Stat. 3009–121][/us/stat/110/3009-121], 3009–169; [Pub. L. 105–33, title X, § 10203(a)][/us/pl/105/33/s10203/a], (b), Aug. 5, 1997, [111 Stat. 698][/us/stat/111/698], 701; [Pub. L. 105–89, title II, § 201(b)(1)][/us/pl/105/89/s201/b/1], Nov. 19, 1997, [111 Stat. 2125][/us/stat/111/2125]; [Pub. L. 105–178, title VIII, § 8101(a)][/us/pl/105/178/s8101/a], (d), June 9, 1998, [112 Stat. 488][/us/stat/112/488], 490; [Pub. L. 106–291, title VIII, § 801(a)][/us/pl/106/291/s801/a], (b), Oct. 11, 2000, [114 Stat. 1026][/us/stat/114/1026], 1027; [Pub. L. 106–429, § 101(a)][/us/pl/106/429/s101/a] \[title VII, § 701(a)\], Nov. 6, 2000, [114 Stat. 1900][/us/stat/114/1900], 1900A–64; [Pub. L. 107–117, div. C, § 101(a)][/us/pl/107/117/s101/a], Jan. 10, 2002, [115 Stat. 2341][/us/stat/115/2341]; [Pub. L. 108–88, § 10(a)][/us/pl/108/88/s10/a], (b), Sept. 30, 2003, [117 Stat. 1127][/us/stat/117/1127]; [Pub. L. 108–310, § 10(a)][/us/pl/108/310/s10/a], (b), Sept. 30, 2004, [118 Stat. 1160][/us/stat/118/1160]; [Pub. L. 109–59, title VIII][/us/pl/109/59], §§ 8001(a), 8002, Aug. 10, 2005, [119 Stat. 1915][/us/stat/119/1915], 1916; [Pub. L. 112–25, title I, § 101][/us/pl/112/25/s101], Aug. 2, 2011, [125 Stat. 241][/us/stat/125/241]; [Pub. L. 112–240, title IX, § 901(d)(1)][/us/pl/112/240/s901/d/1], Jan. 2, 2013, [126 Stat. 2370][/us/stat/126/2370]; [Pub. L. 113–67, div. A, title I, § 101(a)][/us/pl/113/67/s101/a], Dec. 26, 2013, [127 Stat. 1166][/us/stat/127/1166]; [Pub. L. 114–74, title I, § 101(a)][/us/pl/114/74/s101/a], title VIII, § 815, Nov. 2, 2015, [129 Stat. 585][/us/stat/129/585], 604.)
 
  __References in Text__ 
 
@@ -244,6 +244,22 @@
     [Pub. L. 101–508, § 13101(e)(2)][/us/pl/101/508/s13101/e/2], redesignated former subsec. (a)(6)(I) of this section as [section 257(e) of Pub. L. 99–177][/us/pl/99/177/s257/e], which is classified to [section 907(e) of this title][/us/usc/t2/s907/e].
 
  __Amendments__ 
+
+    2015—Subsec. (b)(2)(B)(i). [Pub. L. 114–74, § 815(1)(A)][/us/pl/114/74/s815/1/A], in introductory provisions, substituted “, for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act, for the cost of co-operative disability investigation units, and for the cost associated with the prosecution of fraud in the programs and operations of the Social Security Administration by Special Assistant United States Attorneys” for “and for the cost associated with conducting redeterminations of eligibility under title XVI of the Social Security Act”.
+
+    Subsec. (b)(2)(B)(i)(VI). [Pub. L. 114–74, § 815(1)(B)][/us/pl/114/74/s815/1/B], substituted “$1,546,000,000” for “$1,309,000,000”.
+
+    Subsec. (b)(2)(B)(i)(VII). [Pub. L. 114–74, § 815(1)(C)][/us/pl/114/74/s815/1/C], substituted “$1,462,000,000” for “$1,309,000,000”.
+
+    Subsec. (b)(2)(B)(i)(VIII). [Pub. L. 114–74, § 815(1)(D)][/us/pl/114/74/s815/1/D], substituted “$1,410,000,000” for “$1,309,000,000”.
+
+    Subsec. (b)(2)(B)(i)(X). [Pub. L. 114–74, § 815(1)(E)][/us/pl/114/74/s815/1/E], substituted “$1,302,000,000” for “$1,309,000,000”.
+
+    Subsec. (b)(2)(B)(ii)(I). [Pub. L. 114–74, § 815(2)][/us/pl/114/74/s815/2], inserted before semicolon “, including work-related continuing disability reviews to determine whether earnings derived from services demonstrate an individual’s ability to engage in substantial gainful activity”.
+
+    Subsec. (b)(2)(B)(ii)(III). [Pub. L. 114–74, § 815(3)][/us/pl/114/74/s815/3], substituted “, redeterminations, co-operative disability investigation units, and fraud prosecutions” for “and redeterminations”.
+
+    Subsec. (c)(3), (4). [Pub. L. 114–74, § 101(a)][/us/pl/114/74/s101/a], added pars. (3) and (4) and struck out former pars. (3) and (4) which defined discretionary spending limits for fiscal years 2016 and 2017.
 
     2013—Subsec. (c). [Pub. L. 113–67][/us/pl/113/67] added pars. (1) to (8) and struck out former pars. (1) to (10) which defined discretionary spending limits for fiscal years 2012 to 2021.
 
@@ -480,12 +496,22 @@
 [/us/stat/126/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2370
 [/us/pl/113/67/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67%2Fs101%2Fa
 [/us/stat/127/1166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1166
+[/us/pl/114/74/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs101%2Fa
+[/us/stat/129/585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F585
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/101/508/s13101/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs13101%2Fe%2F2
 [/us/pl/99/177/s257/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F177%2Fs257%2Fe
 [/us/usc/t2/s907/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs907%2Fe
+[/us/pl/114/74/s815/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs815%2F1%2FA
+[/us/pl/114/74/s815/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs815%2F1%2FB
+[/us/pl/114/74/s815/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs815%2F1%2FC
+[/us/pl/114/74/s815/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs815%2F1%2FD
+[/us/pl/114/74/s815/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs815%2F1%2FE
+[/us/pl/114/74/s815/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs815%2F2
+[/us/pl/114/74/s815/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs815%2F3
+[/us/pl/114/74/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs101%2Fa
 [/us/pl/113/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F67
 [/us/pl/112/240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240
 [/us/pl/112/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F25
