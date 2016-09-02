@@ -15,7 +15,7 @@
 
 # Title 28—APPENDIXJUDICIAL PERSONNEL FINANCIAL DISCLOSURE REQUIREMENTS
 
-Current through 114-49
+Current through 114-58
 
 <table>
 
@@ -31,7 +31,7 @@ Current through 114-49
 
     <td> Judicial Personnel Financial Disclosure Requirements (Repealed)  </td>
 
-    <td> 1  </td>
+    <td>   </td>
 
   </tr>
 
@@ -39,7 +39,7 @@ Current through 114-49
 
     <td> Development of Mechanisms for Resolving Minor Disputes (Omitted)  </td>
 
-    <td> 2  </td>
+    <td>   </td>
 
   </tr>
 
