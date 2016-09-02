@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schXII/ptB/m__us_usc_t6_s556.md) | [Next](./../../../../../..//us/usc/t6/ch1/schXIII/m__us_usc_t6_ch1_schXIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs557)
+[Previous](./../../../../../..//us/usc/t6/ch1/schXII/ptB/m__us_usc_t6_s556.md) | [Next](./../../../../../..//us/usc/t6/ch1/schXII–A/m__us_usc_t6_ch1_schXII–A.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs557)
 
 ## § 557. Reference
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schXII/ptB/m__us_usc_t6_s556.md) | [Next](./../../../../../..//us/usc/t6/ch1/schXIII/m__us_usc_t6_ch1_schXIII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs557)
+[Previous](./../../../../../..//us/usc/t6/ch1/schXII/ptB/m__us_usc_t6_s556.md) | [Next](./../../../../../..//us/usc/t6/ch1/schXII–A/m__us_usc_t6_ch1_schXII–A.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs557)
 
 ----------
 ----------

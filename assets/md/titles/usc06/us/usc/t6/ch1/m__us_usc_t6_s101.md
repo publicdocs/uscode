@@ -115,6 +115,20 @@
 
 > “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–254, § 1][/us/pl/113/254/s1], Dec. 18, 2014, [128 Stat. 2898][/us/stat/128/2898], provided that: 
+
+> “This Act \[enacting subchapter XVI of this chapter and enacting and repealing provisions set out as notes under [section 121 of this title][/us/usc/t6/s121]\] may be cited as the ‘Protecting and Securing Chemical Facilities from Terrorist Attacks Act of 2014’.”
+
+[Pub. L. 113–246, § 1][/us/pl/113/246/s1], Dec. 18, 2014, [128 Stat. 2880][/us/stat/128/2880], provided that: 
+
+> “This Act \[enacting [section 146 of this title][/us/usc/t6/s146] and provisions set out as a note under [section 146 of this title][/us/usc/t6/s146]\] may be cited as the ‘Cybersecurity Workforce Assessment Act’.”
+
+[Pub. L. 113–245, § 1][/us/pl/113/245/s1], Dec. 18, 2014, [128 Stat. 2871][/us/stat/128/2871], provided that: 
+
+> “This Act \[enacting subchapter XII–A of this chapter and provisions set out as notes under [section 561 of this title][/us/usc/t6/s561]\] may be cited as the ‘Transportation Security Acquisition Reform Act’.”
+
  __Short Title of 2013 Amendment__ 
 
 [Pub. L. 112–265, § 1][/us/pl/112/265/s1], Jan. 14, 2013, [126 Stat. 2435][/us/stat/126/2435], provided that: 
@@ -529,6 +543,16 @@
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
+[/us/pl/113/254/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F254%2Fs1
+[/us/stat/128/2898]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2898
+[/us/usc/t6/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs121
+[/us/pl/113/246/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F246%2Fs1
+[/us/stat/128/2880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2880
+[/us/usc/t6/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146
+[/us/usc/t6/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs146
+[/us/pl/113/245/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F245%2Fs1
+[/us/stat/128/2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2871
+[/us/usc/t6/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs561
 [/us/pl/112/265/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F265%2Fs1
 [/us/stat/126/2435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2435
 [/us/usc/t6/s455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs455

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t6/ch1/schXV/ptB/m__us_usc_t6_s613.md) | [Next](./../../../..//us/usc/t6/ch2/m__us_usc_t6_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch2)
+[Previous](./../../../..//us/usc/t6/ch1/schXVI/m__us_usc_t6_s629.md) | [Next](./../../../..//us/usc/t6/ch2/m__us_usc_t6_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch2)
 
 ## CHAPTER 2—NATIONAL EMERGENCY MANAGEMENT
 
@@ -451,7 +451,7 @@ Part E—Authorization of Appropriations  </td>
 
 ----------
 
-[Previous](./../../../..//us/usc/t6/ch1/schXV/ptB/m__us_usc_t6_s613.md) | [Next](./../../../..//us/usc/t6/ch2/m__us_usc_t6_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch2)
+[Previous](./../../../..//us/usc/t6/ch1/schXVI/m__us_usc_t6_s629.md) | [Next](./../../../..//us/usc/t6/ch2/m__us_usc_t6_s701.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch2)
 
 ----------
 ----------

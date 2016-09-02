@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s144.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptD/m__us_usc_t6_ch1_schII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs145)
+[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s144.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s146.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs145)
 
 ## § 145. Cyber Security Enhancement Act of 2002
 
@@ -79,7 +79,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s144.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptD/m__us_usc_t6_ch1_schII_ptD.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs145)
+[Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s144.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s146.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs145)
 
 ----------
 ----------

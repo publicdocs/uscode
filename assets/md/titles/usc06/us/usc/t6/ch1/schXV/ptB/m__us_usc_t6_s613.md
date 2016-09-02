@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schXV/ptB/m__us_usc_t6_s612.md) | [Next](./../../../../../..//us/usc/t6/ch2/m__us_usc_t6_ch2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs613)
+[Previous](./../../../../../..//us/usc/t6/ch1/schXV/ptB/m__us_usc_t6_s612.md) | [Next](./../../../../../..//us/usc/t6/ch1/schXVI/m__us_usc_t6_ch1_schXVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs613)
 
 ## § 613. Identification of reporting redundancies and development of performance metrics
 
@@ -91,7 +91,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t6/ch1/schXV/ptB/m__us_usc_t6_s612.md) | [Next](./../../../../../..//us/usc/t6/ch2/m__us_usc_t6_ch2.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs613)
+[Previous](./../../../../../..//us/usc/t6/ch1/schXV/ptB/m__us_usc_t6_s612.md) | [Next](./../../../../../..//us/usc/t6/ch1/schXVI/m__us_usc_t6_ch1_schXVI.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs613)
 
 ----------
 ----------

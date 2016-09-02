@@ -345,6 +345,14 @@ Part C—Information Security  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs146" data-uslm-ref="/us/usc/t6/s146">146.</a>  </td>
+
+    <td> Cybersecurity workforce assessment and strategy.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 Part D—Office of Science and Technology  </td>
@@ -2235,6 +2243,86 @@ Part B—Transitional Provisions  </td>
 
     <td> 
 
+SUBCHAPTER XII–A—TRANSPORTATION SECURITY  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part A—General Provisions  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs561" data-uslm-ref="/us/usc/t6/s561">561.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+Part B—Transportation Security Administration Acquisition Improvements  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs563" data-uslm-ref="/us/usc/t6/s563">563.</a>  </td>
+
+    <td> 5-year technology investment plan.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs563a" data-uslm-ref="/us/usc/t6/s563a">563a.</a>  </td>
+
+    <td> Acquisition justification and reports.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs563b" data-uslm-ref="/us/usc/t6/s563b">563b.</a>  </td>
+
+    <td> Acquisition baseline establishment and reports.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs563c" data-uslm-ref="/us/usc/t6/s563c">563c.</a>  </td>
+
+    <td> Inventory utilization.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs563d" data-uslm-ref="/us/usc/t6/s563d">563d.</a>  </td>
+
+    <td> Small business contracting goals.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs563e" data-uslm-ref="/us/usc/t6/s563e">563e.</a>  </td>
+
+    <td> Consistency with the Federal Acquisition Regulation and departmental policies and directives.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
 SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS  </td>
 
   </tr>
@@ -2500,6 +2588,86 @@ Part B—Grants Administration  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs613" data-uslm-ref="/us/usc/t6/s613">613.</a>  </td>
 
     <td> Identification of reporting redundancies and development of performance metrics.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> 
+
+SUBCHAPTER XVI—CHEMICAL FACILITY ANTI-TERRORISM STANDARDS  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs621" data-uslm-ref="/us/usc/t6/s621">621.</a>  </td>
+
+    <td> Definitions.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs622" data-uslm-ref="/us/usc/t6/s622">622.</a>  </td>
+
+    <td> Chemical Facility Anti-Terrorism Standards Program.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs623" data-uslm-ref="/us/usc/t6/s623">623.</a>  </td>
+
+    <td> Protection and sharing of information.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs624" data-uslm-ref="/us/usc/t6/s624">624.</a>  </td>
+
+    <td> Civil enforcement.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs625" data-uslm-ref="/us/usc/t6/s625">625.</a>  </td>
+
+    <td> Whistleblower protections.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs626" data-uslm-ref="/us/usc/t6/s626">626.</a>  </td>
+
+    <td> Relationship to other laws.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs627" data-uslm-ref="/us/usc/t6/s627">627.</a>  </td>
+
+    <td> CFATS regulations.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs628" data-uslm-ref="/us/usc/t6/s628">628.</a>  </td>
+
+    <td> Small covered chemical facilities.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs629" data-uslm-ref="/us/usc/t6/s629">629.</a>  </td>
+
+    <td> Outreach to chemical facilities of interest.  </td>
 
   </tr>
 

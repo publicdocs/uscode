@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schXII/ptB/m__us_usc_t6_s557.md) | [Next](./../../../../..//us/usc/t6/ch1/schXIII/m__us_usc_t6_s571.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschXIII)
+[Previous](./../../../../..//us/usc/t6/ch1/schXII–A/ptB/m__us_usc_t6_s563e.md) | [Next](./../../../../..//us/usc/t6/ch1/schXIII/m__us_usc_t6_s571.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschXIII)
 
 ### SUBCHAPTER XIII—EMERGENCY COMMUNICATIONS
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t6/ch1/schXII/ptB/m__us_usc_t6_s557.md) | [Next](./../../../../..//us/usc/t6/ch1/schXIII/m__us_usc_t6_s571.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschXIII)
+[Previous](./../../../../..//us/usc/t6/ch1/schXII–A/ptB/m__us_usc_t6_s563e.md) | [Next](./../../../../..//us/usc/t6/ch1/schXIII/m__us_usc_t6_s571.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fch1%2FschXIII)
 
 ----------
 ----------
