@@ -17,7 +17,7 @@
 
     The Secretary is authorized to accept lands, buildings, equipment, and other contributions from public and private sources and to prosecute projects in cooperation with other agencies, Federal, State, or private: Provided further, That the Mine Safety and Health Administration is authorized to promote health and safety education and training in the mining community through cooperative programs with States, industry, and safety associations: Provided further, That the Secretary is authorized to recognize the Joseph A. Holmes Safety Association as a principal safety association and, notwithstanding any other provision of law, may provide funds and, with or without reimbursement, personnel, including service of Mine Safety and Health Administration officials as officers in local chapters or in the national organization: Provided further, That any funds available to the Department of Labor may be used, with the approval of the Secretary, to provide for the costs of mine rescue and survival operations in the event of a major disaster.
 
-([Pub. L. 113–235, div. G, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2460][/us/stat/128/2460].)
+([Pub. L. 114–113, div. H, title I][/us/pl/114/113], Dec. 18, 2015, [129 Stat. 2593][/us/stat/129/2593].)
 
  __Codification__ 
 
@@ -26,6 +26,8 @@
  __Similar Provisions__ 
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–235, div. G, title I][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2460][/us/stat/128/2460].
 
     [Pub. L. 113–76, div. H, title I][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 357][/us/stat/128/357].
 
@@ -102,6 +104,8 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/stat/129/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2593
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/stat/128/2460]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2460
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
