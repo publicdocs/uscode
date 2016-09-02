@@ -2757,19 +2757,29 @@
 
  __Inadmissibility of Foreign Officials and Family Members Involved in Kleptocracy__ 
 
-[Pub. L. 112–74, div. I, title VII, § 7031(c)][/us/pl/112/74/s7031/c], Dec. 23, 2011, [125 Stat. 1211][/us/stat/125/1211], provided that:
+[Pub. L. 113–235, div. J, title VII, § 7031(c)][/us/pl/113/235/s7031/c], Dec. 16, 2014, [128 Stat. 2620][/us/stat/128/2620], provided that:
 
->     “(1) Officials of foreign governments and their immediate family members who the Secretary of State has credible information have been involved in significant corruption, including corruption related to the extraction of natural resources, shall be ineligible for entry into the United States.
+>     “(1)
 
->     “(2) Individuals shall not be ineligible if entry into the United States would further important United States law enforcement objectives or is necessary to permit the United States to fulfill its obligations under the United Nations Headquarters Agreement: Provided, That nothing in this provision shall be construed to derogate from United States Government obligations under applicable international agreements.
+>         (A) Officials of foreign governments and their immediate family members about whom the Secretary of State has credible information have been involved in significant corruption, including corruption related to the extraction of natural resources, or a gross violation of human rights shall be ineligible for entry into the United States.
+
+>         “(B) The Secretary may also publicly or privately designate or identify officials of foreign governments and their immediate family members about whom the Secretary has such credible information without regard to whether the individual has applied for a visa.
+
+>     “(2) Individuals shall not be ineligible if entry into the United States would further important United States law enforcement objectives or is necessary to permit the United States to fulfill its obligations under the United Nations Headquarters Agreement:  Provided, That nothing in paragraph (1) shall be construed to derogate from United States Government obligations under applicable international agreements.
 
 >     “(3) The Secretary may waive the application of paragraph (1) if the Secretary determines that the waiver would serve a compelling national interest or that the circumstances which caused the individual to be ineligible have changed sufficiently.
 
->     “(4) Not later than 90 days after enactment of this Act \[div. I of [Pub. L. 112–74][/us/pl/112/74], approved Dec. 23, 2011\] and 180 days thereafter, the Secretary of State shall submit a report, in classified form if necessary, to the Committees on Appropriations describing the information regarding corruption concerning each of the individuals found ineligible pursuant to paragraph (1), a list of any waivers provided under subsection (3), and the justification for each waiver.”
+>     “(4) Not later than 6 months after enactment of this Act \[div. J of [Pub. L. 113–235][/us/pl/113/235], approved Dec. 16, 2014\], the Secretary of State shall submit a report, including a classified annex if necessary, to the Committees on Appropriations and the Committees on the Judiciary describing the information related to corruption or violation of human rights concerning each of the individuals found ineligible in the previous 12 months pursuant to paragraph (1)(A) as well as the individuals who the Secretary designated or identified pursuant to paragraph (1)(B), or who would be ineligible but for the application of paragraph (2), a list of any waivers provided under paragraph (3), and the justification for each waiver.
+
+>     “(5) Any unclassified portion of the report required under paragraph (4) shall be posted on the Department of State’s Web site.
+
+>     “(6) For purposes of paragraphs (1)(B), (4), and (5), the records of the Department of State and of diplomatic and consular offices of the United States pertaining to the issuance or refusal of visas or permits to enter the United States shall not be considered confidential.”
 
 Similar provisions were contained in the following prior acts:
 
     [Pub. L. 113–76, div. K, title VII, § 7031(c)][/us/pl/113/76/s7031/c], Jan. 17, 2014, [128 Stat. 511][/us/stat/128/511].
+
+    [Pub. L. 112–74, div. I, title VII, § 7031(c)][/us/pl/112/74/s7031/c], Dec. 23, 2011, [125 Stat. 1211][/us/stat/125/1211].
 
     [Pub. L. 111–117, div. F, title VII, § 7084][/us/pl/111/117/s7084], Dec. 16, 2009, [123 Stat. 3400][/us/stat/123/3400].
 
@@ -4267,11 +4277,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t8/s1182/m/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fm%2F6%2FB
 [/us/pl/110/161/s691/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2Fs691%2Fe
 [/us/stat/121/2365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2365
-[/us/pl/112/74/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7031%2Fc
-[/us/stat/125/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1211
-[/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
+[/us/pl/113/235/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs7031%2Fc
+[/us/stat/128/2620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2620
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/113/76/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs7031%2Fc
 [/us/stat/128/511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F511
+[/us/pl/112/74/s7031/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs7031%2Fc
+[/us/stat/125/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1211
 [/us/pl/111/117/s7084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs7084
 [/us/stat/123/3400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3400
 [/us/pl/111/8/s7086]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8%2Fs7086
