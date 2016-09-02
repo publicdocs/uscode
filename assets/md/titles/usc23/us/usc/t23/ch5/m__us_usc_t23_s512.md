@@ -529,7 +529,7 @@
 
 >         “(1)  __Development__  __.—__ 
 
->         The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]) \[see [54 U.S.C. 306108][/us/usc/t54/s306108]\]and the regulations of the Advisory Council on Historic Preservation.
+>         The Secretary \[of Transportation\] shall develop a nationwide programmatic agreement governing the review of activities that support the deployment of intelligent transportation infrastructure and systems in accordance with section 106 of the National Historic Preservation Act ([16 U.S.C. 470f][/us/usc/t16/s470f]) \[see [54 U.S.C. 306108][/us/usc/t54/s306108]\] and the regulations of the Advisory Council on Historic Preservation.
 
 >         “(2)  __Consultation__  __.—__ 
 

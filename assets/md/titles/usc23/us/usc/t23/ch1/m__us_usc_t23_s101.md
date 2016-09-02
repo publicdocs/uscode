@@ -559,6 +559,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–41, § 1(a)][/us/pl/114/41/s1/a], July 31, 2015, [129 Stat. 443][/us/stat/129/443], provided that: 
+
+> “This Act \[see Tables for classification\] may be cited as the ‘Surface Transportation and Veterans Health Care Choice Improvement Act of 2015’.”
+
 [Pub. L. 114–21, § 1(a)][/us/pl/114/21/s1/a], May 29, 2015, [129 Stat. 218][/us/stat/129/218], provided that: 
 
 > “This Act \[amending [section 403 of this title][/us/usc/t23/s403], [section 777c of Title 16][/us/usc/t16/s777c], Conservation, sections 9503, 9504, and 9508 of Title 26, Internal Revenue Code, and sections 5128, 5311, 5336, 5338, 5339, 31104, and 31144 of Title 49, Transportation, and amending provisions set out as notes under sections 104, 202, and 402 of this title and sections 31100 and 31301 of Title 49\] may be cited as the ‘Highway and Transportation Funding Act of 2015’.”
@@ -2566,6 +2570,8 @@ Similar provisions were contained in the following prior acts:
 [/us/usc/t23/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs133
 [/us/pl/86/70/s21/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs21%2Fe
 [/us/stat/73/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F146
+[/us/pl/114/41/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs1%2Fa
+[/us/stat/129/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F443
 [/us/pl/114/21/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F21%2Fs1%2Fa
 [/us/stat/129/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F218
 [/us/usc/t23/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs403
