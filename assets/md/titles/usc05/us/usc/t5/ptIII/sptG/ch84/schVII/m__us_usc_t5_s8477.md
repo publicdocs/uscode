@@ -179,9 +179,9 @@
 
                     (I) for providing for the automatic enrollment of a participant in accordance with section 8432(b)(2)(A);
 
-                    (II) for enrolling a participant in a default investment fund in accordance with section 8438(c)(2); or
+                    (II) for enrolling a participant or beneficiary in a default investment fund or option in accordance with section 8438(c)(2); or
 
-                    (III) for allowing a participant to invest through the mutual fund window or for establishing restrictions applicable to participants’ ability to invest through the mutual fund window.
+                    (III) for allowing a participant or beneficiary to invest through the mutual fund window or for establishing restrictions applicable to participants’ or beneficiaries’ ability to invest through the mutual fund window.
 
             (D)
 
@@ -291,7 +291,7 @@
 
         (2) An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 582][/us/stat/100/582]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–556, title I][/us/pl/99/556], §§ 112, 114(b), Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133]; [Pub. L. 100–238, title I, § 133(a)][/us/pl/100/238/s133/a], (c), Jan. 8, 1988, [101 Stat. 1760][/us/stat/101/1760], 1762; [Pub. L. 100–366, § 3(a)][/us/pl/100/366/s3/a], July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335, § 8][/us/pl/101/335/s8], July 17, 1990, [104 Stat. 325][/us/stat/104/325]; [Pub. L. 111–31, div. B, title I, § 106(b)][/us/pl/111/31/s106/b], June 22, 2009, [123 Stat. 1855][/us/stat/123/1855].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 582][/us/stat/100/582]; amended [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–556, title I][/us/pl/99/556], §§ 112, 114(b), Oct. 27, 1986, [100 Stat. 3133][/us/stat/100/3133]; [Pub. L. 100–238, title I, § 133(a)][/us/pl/100/238/s133/a], (c), Jan. 8, 1988, [101 Stat. 1760][/us/stat/101/1760], 1762; [Pub. L. 100–366, § 3(a)][/us/pl/100/366/s3/a], July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335, § 8][/us/pl/101/335/s8], July 17, 1990, [104 Stat. 325][/us/stat/104/325]; [Pub. L. 111–31, div. B, title I, § 106(b)][/us/pl/111/31/s106/b], June 22, 2009, [123 Stat. 1855][/us/stat/123/1855]; [Pub. L. 113–255, § 3][/us/pl/113/255/s3], Dec. 18, 2014, [128 Stat. 2921][/us/stat/128/2921].)
 
  __References in Text__ 
 
@@ -304,6 +304,10 @@
     Section 114 of the Federal Employees’ Retirement System Technical Corrections Act of 1986, referred to in subsec. (e)(1)(E)(i), is [section 114 of Pub. L. 99–556][/us/pl/99/556/s114] which amended this section and enacted provisions set out as a note under this section.
 
  __Amendments__ 
+
+    2014—Subsec. (e)(1)(C)(ii)(II). [Pub. L. 113–255, § 3(1)][/us/pl/113/255/s3/1], inserted “or beneficiary” after “participant” and “or option” after “fund”.
+
+    Subsec. (e)(1)(C)(ii)(III). [Pub. L. 113–255, § 3(2)][/us/pl/113/255/s3/2], inserted “or beneficiary” after “participant” and “or beneficiaries’ ” after “participants’ ”.
 
     2009—Subsec. (e)(1)(C). [Pub. L. 111–31][/us/pl/111/31] designated existing provisions as cl. (i) and added cl. (ii).
 
@@ -413,9 +417,13 @@
 [/us/stat/104/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F325
 [/us/pl/111/31/s106/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs106%2Fb
 [/us/stat/123/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1855
+[/us/pl/113/255/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs3
+[/us/stat/128/2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2921
 [/us/usc/t15/s78f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78f
 [/us/usc/t29/s1108/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1108%2Fa
 [/us/pl/99/556/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F556%2Fs114
+[/us/pl/113/255/s3/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs3%2F1
+[/us/pl/113/255/s3/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs3%2F2
 [/us/pl/111/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31
 [/us/pl/101/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335
 [/us/pl/100/238/s133/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F238%2Fs133%2Fc

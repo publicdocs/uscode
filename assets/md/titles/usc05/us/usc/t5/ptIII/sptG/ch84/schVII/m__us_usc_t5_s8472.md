@@ -85,7 +85,7 @@
 
             (D) take such other actions as may be necessary to carry out the functions of the Board.
 
-        (2) Except in the case of investments required by [section 8438 of this title][/us/usc/t5/s8438] to be invested in securities of the Government, the Board may not direct the Executive Director to invest or to cause to be invested any sums in the Thrift Savings Fund in a specific asset or to dispose of or cause to be disposed of any specific asset of such Fund.
+        (2) Except in the case of investments under section 8438(c)(2)(B), the Board may not direct the Executive Director to invest or to cause to be invested any sums in the Thrift Savings Fund in a specific asset or to dispose of or cause to be disposed of any specific asset of such Fund.
 
     (h) The members of the Board shall discharge their responsibilities solely in the interest of participants and beneficiaries under this subchapter and subchapter III of this chapter.
 
@@ -93,13 +93,15 @@
 
     (j) The Board may submit to the President, and, at the same time, shall submit to each House of the Congress, any legislative recommendations of the Board relating to any of its functions under this title or any other provision of law.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 578][/us/stat/100/578]; amended [Pub. L. 99–509, title VI, § 6001(e)][/us/pl/99/509/s6001/e], Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 578][/us/stat/100/578]; amended [Pub. L. 99–509, title VI, § 6001(e)][/us/pl/99/509/s6001/e], Oct. 21, 1986, [100 Stat. 1931][/us/stat/100/1931]; [Pub. L. 113–255, § 2(c)][/us/pl/113/255/s2/c], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920].)
 
  __References in Text__ 
 
     Section 311 of the Federal Employees’ Retirement System Act of 1986 \[[Pub. L. 99–335][/us/pl/99/335]\], referred to in subsecs. (c) and (e)(1), is set out as a note below.
 
  __Amendments__ 
+
+    2014—Subsec. (g)(2). [Pub. L. 113–255][/us/pl/113/255] substituted “under section 8438(c)(2)(B)” for “required by [section 8438 of this title][/us/usc/t5/s8438] to be invested in securities of the Government”.
 
     1986—Subsecs. (i), (j). [Pub. L. 99–509][/us/pl/99/509] added subsecs. (i) and (j).
 
@@ -138,13 +140,16 @@
 ----------
 ----------
 
-[/us/usc/t5/s8438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/99/335/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335%2Fs101%2Fa
 [/us/stat/100/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F578
 [/us/pl/99/509/s6001/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Fe
 [/us/stat/100/1931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1931
+[/us/pl/113/255/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fc
+[/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
+[/us/usc/t5/s8438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
 [/us/pl/99/509/s6001/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs6001%2Ff

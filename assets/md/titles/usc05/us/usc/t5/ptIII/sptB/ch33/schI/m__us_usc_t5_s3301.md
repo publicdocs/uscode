@@ -925,6 +925,28 @@ Sec. 5. Responsibilities of the Secretaries of Defense, Labor, Veterans Affairs,
 
                               Barack Obama.
 
+ __Ex. Ord. No. 13678. Conversion Authority for Criminal Investigators (Special Agents) of the Bureau of Alcohol, Tobacco, Firearms, and Explosives__ 
+
+    Ex. Ord. No. 13678, Oct. 3, 2014, 79 F.R. 60949, provided:
+
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 3301 and 3302 of title 5, United States Code, and [section 301 of title 3][/us/usc/t3/s301], United States Code, it is hereby ordered as follows:
+
+    Section 1. Providing Conversion Authority. I find that conditions of good administration (specifically, the need to make the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice (ATF), competitive in recruiting high quality special agents by giving the ATF an authority held by other Federal law enforcement agencies) make necessary an exception to the competitive examination rules for appointment to certain positions in the Federal civil service.
+
+    Criminal Investigators of the ATF, who have been appointed under Schedule B, and who have completed 3 years of fully satisfactory service, may be converted non-competitively to career appointments if they meet qualifications and other requirements established by the Director of the Office of Personnel Management.
+
+    Sec. 2. Implementation. The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to implement this order.
+
+    Sec. 3. General Provisions. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+    (i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+    (ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+    (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+                              Barack Obama.
+
  __Improving the Federal Recruitment and Hiring Process__ 
 
     Memorandum of President of the United States, May 11, 2010, 75 F.R. 27157, provided:
@@ -1102,6 +1124,7 @@ Sec. 2. Directions to the OPM. The OPM shall take the following actions no later
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t5/s3302/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3302%2F1
 [/us/usc/t5/s2301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2301%2Fb%2F1
+[/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t5/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3301
 [/us/usc/t5/s3319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3319
 [/us/usc/t5/s2301/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2301%2Fb%2F1

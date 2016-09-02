@@ -195,9 +195,23 @@
 
         (2) Whenever the Secretary of the Treasury determines that, by reason of the public debt limit, the Secretary will be unable to fully comply with the requirements of subsection (e) of this section, the Secretary shall immediately notify Congress and the Executive Director of the determination. The notification shall be made in writing.
 
-(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 551][/us/stat/100/551]; amended [Pub. L. 100–43, § 2][/us/pl/100/43/s2], May 22, 1987, [101 Stat. 315][/us/stat/101/315]; [Pub. L. 100–366, § 2(a)][/us/pl/100/366/s2/a], July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335, § 3(a)][/us/pl/101/335/s3/a], July 17, 1990, [104 Stat. 320][/us/stat/104/320]; [Pub. L. 102–378, § 2(68)][/us/pl/102/378/s2/68], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 102\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372; [Pub. L. 104–316, title I, § 103(i)][/us/pl/104/316/s103/i], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 111–31, div. B, title I, § 104][/us/pl/111/31/s104], June 22, 2009, [123 Stat. 1854][/us/stat/123/1854].)
+(Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 551][/us/stat/100/551]; amended [Pub. L. 100–43, § 2][/us/pl/100/43/s2], May 22, 1987, [101 Stat. 315][/us/stat/101/315]; [Pub. L. 100–366, § 2(a)][/us/pl/100/366/s2/a], July 13, 1988, [102 Stat. 826][/us/stat/102/826]; [Pub. L. 101–335, § 3(a)][/us/pl/101/335/s3/a], July 17, 1990, [104 Stat. 320][/us/stat/104/320]; [Pub. L. 102–378, § 2(68)][/us/pl/102/378/s2/68], Oct. 2, 1992, [106 Stat. 1355][/us/stat/106/1355]; [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 102\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372; [Pub. L. 104–316, title I, § 103(i)][/us/pl/104/316/s103/i], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 111–31, div. B, title I, § 104][/us/pl/111/31/s104], June 22, 2009, [123 Stat. 1854][/us/stat/123/1854]; [Pub. L. 113–255, § 2(a)][/us/pl/113/255/s2/a], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920].)
+
+ __Amendment of Subsection (c)(2)__ 
+
+[Pub. L. 113–255, § 2(a)][/us/pl/113/255/s2/a], (e), Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that, effective on the date that the Executive Director issues guidance under [section 2(d) of Pub. L. 113–255][/us/pl/113/255/s2/d], set out as a note below, and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, subsection (c)(2) of this section is amended to read as follows:
+
+>     “(2)
+
+>         (A) Consistent with the requirements of subparagraph (B), if an election has not been made with respect to any sums available for investment in the Thrift Savings Fund, the Executive Director shall invest such sums in an age-appropriate target date asset allocation investment fund, as determined by the Executive Director. Such investment fund shall consist of any of the funds described in subsection (b).
+
+>         “(B) If an election has not been made by an eligible member under section 8440e with respect to any sums available for investment in such member’s Thrift Savings Fund account, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
+
+    See 2014 Amendment note below.
 
  __Amendments__ 
+
+    2014—Subsec. (c)(2). [Pub. L. 113–255][/us/pl/113/255] amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If an election has not been made with respect to any sums in the Thrift Savings Fund available for investment, the Executive Director shall invest such sums in the Government Securities Investment Fund.”
 
     2009—Subsec. (b)(1)(F). [Pub. L. 111–31, § 104(a)][/us/pl/111/31/s104/a], added subpar. (F).
 
@@ -231,6 +245,16 @@
 
     1987—Subsecs. (h), (i). [Pub. L. 100–43][/us/pl/100/43] added subsecs. (h) and (i).
 
+ __Effective Date of 2014 Amendment__ 
+
+[Pub. L. 113–255, § 2(e)][/us/pl/113/255/s2/e], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that: 
+
+> “The amendments made by subsections (a) and (b) \[amending this section and [section 8439 of this title][/us/usc/t5/s8439]\] shall—
+
+>     “(1) take effect on the date that the Executive Director issues guidance under subsection (d) \[[section 2(d) of Pub. L. 113–255][/us/pl/113/255/s2/d], set out as a Guidance note below\]; and
+
+>     “(2) apply to individuals enrolled in the Thrift Savings Plan on or after such date.”
+
  __Effective Date of 1996 Amendment__ 
 
     Section 101(f) \[title VI, § 659 \[title I, § 104\]\] provided that: “This title \[title I (§§ 101–104) of section 659 of [section 101(f) of Pub. L. 104–208][/us/pl/104/208/s101/f], amending this section and [section 8439 of this title][/us/usc/t5/s8439] and enacting provisions set out as a note under [section 8401 of this title][/us/usc/t5/s8401]\] shall take effect on the date of enactment of this Act \[Sept. 30, 1996\], and the Funds established under this title shall be offered for investment at the earliest practicable election period (described in [section 8432(b) of title 5][/us/usc/t5/s8432/b], United States Code) as determined by the Executive Director in regulations.”
@@ -244,6 +268,12 @@
 [Pub. L. 100–366, § 2(b)][/us/pl/100/366/s2/b], July 13, 1988, [102 Stat. 826][/us/stat/102/826], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply with respect to earnings attributable to contributions made to the Thrift Savings Fund on or after April 1, 1987.”
+
+ __Guidance__ 
+
+[Pub. L. 113–255, § 2(d)][/us/pl/113/255/s2/d], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that: 
+
+> “Not later than 9 months after the date of enactment of this Act \[Dec. 18, 2014\], the Executive Director (as that term is defined under [section 8401(13) of title 5][/us/usc/t5/s8401/13], United States Code) shall develop and issue guidance implementing the requirements of this Act \[see [section 1 of Pub. L. 113–255][/us/pl/113/255/s1], set out as a Short Title of 2014 Amendment note under [section 101 of this title][/us/usc/t5/s101]\].”
 
  __Removal of Investment Restrictions__ 
 
@@ -282,6 +312,12 @@
 [/us/stat/110/3829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3829
 [/us/pl/111/31/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104
 [/us/stat/123/1854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1854
+[/us/pl/113/255/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fa
+[/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
+[/us/pl/113/255/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fa
+[/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
+[/us/pl/113/255/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fd
+[/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/pl/111/31/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104%2Fa
 [/us/pl/111/31/s104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104%2Fb
 [/us/pl/111/31/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs104%2Fc
@@ -298,6 +334,10 @@
 [/us/pl/101/335/s3/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fa%2F1
 [/us/pl/100/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366
 [/us/pl/100/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F43
+[/us/pl/113/255/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fe
+[/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
+[/us/usc/t5/s8439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8439
+[/us/pl/113/255/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fd
 [/us/pl/104/208/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Ff
 [/us/usc/t5/s8439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8439
 [/us/usc/t5/s8401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401
@@ -308,6 +348,11 @@
 [/us/usc/t5/s8351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8351
 [/us/pl/100/366/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F366%2Fs2%2Fb
 [/us/stat/102/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F826
+[/us/pl/113/255/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fd
+[/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
+[/us/usc/t5/s8401/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8401%2F13
+[/us/pl/113/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs1
+[/us/usc/t5/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs101
 [/us/pl/101/335/s3/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F335%2Fs3%2Fb%2F4
 [/us/stat/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F320
 [/us/usc/t5/s8438/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438%2Fb%2F1%2FA

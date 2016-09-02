@@ -263,6 +263,10 @@
 
     Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
 
+ __Federal Mediation and Conciliation Service__ 
+
+    Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63803.
+
  __General Services Administration__ 
 
     Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59161.
@@ -325,7 +329,9 @@
 
  __Social Security Administration__ 
 
-    Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845.
+    Memorandum of President of the United States, Oct. 17, 2014, 79 F.R. 63805.
+
+    Memorandum of President of the United States, Oct. 17, 2008, 73 F.R. 62845, revoked by Memorandum of President of the United States, § 3, Oct. 17, 2014, 79 F.R. 63805.
 
     Memorandum of President of the United States, Apr. 17, 2006, 71 F.R. 20333, superseded by Memorandum of President of the United States, § 3, Oct. 17, 2008, 73 F.R. 62845.
 

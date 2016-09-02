@@ -215,6 +215,10 @@ R.S. § 159.  </td>
 
  __Short Title of 2014 Amendment__ 
 
+[Pub. L. 113–255, § 1][/us/pl/113/255/s1], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that: 
+
+> “This Act \[amending sections 8438, 8439, 8472, and 8477 of this title and enacting provisions set out as notes under [section 8438 of this title][/us/usc/t5/s8438]\] may be cited as the ‘Smart Savings Act’.”
+
 [Pub. L. 113–170, § 1][/us/pl/113/170/s1], Sept. 26, 2014, [128 Stat. 1894][/us/stat/128/1894], provided that: 
 
 > “This Act \[amending [section 7703 of this title][/us/usc/t5/s7703]\] may be cited as the ‘All Circuit Review Extension Act’.”
@@ -387,6 +391,9 @@ R.S. § 159.  </td>
 [/us/usc/t39/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs101
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
 [/us/pl/89/670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F670
+[/us/pl/113/255/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs1
+[/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
+[/us/usc/t5/s8438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438
 [/us/pl/113/170/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F170%2Fs1
 [/us/stat/128/1894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1894
 [/us/usc/t5/s7703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7703
