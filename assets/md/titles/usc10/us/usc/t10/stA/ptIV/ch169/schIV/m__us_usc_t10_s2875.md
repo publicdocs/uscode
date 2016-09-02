@@ -35,11 +35,13 @@
 
     The Secretary concerned shall enter into collateral incentive agreements with eligible entities in which the Secretary makes an investment under this section to ensure that a suitable preference will be afforded members of the armed forces and their dependents in the lease or purchase, as the case may be, of a reasonable number of the housing units covered by the investment.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 546][/us/stat/110/546]; amended [Pub. L. 105–85, div. B, title XXVIII, § 2805][/us/pl/105/85/s2805], Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 106–65, div. B, title XXVIII, § 2803(d)][/us/pl/106/65/s2803/d], (h)(1), Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849]; [Pub. L. 108–136, div. A, title X, § 1031(a)(50)][/us/pl/108/136/s1031/a/50], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602]; [Pub. L. 113–66, div. B, title XXVIII, § 2805][/us/pl/113/66/s2805], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008].)
+    (e)  __Congressional Notification Required__  __.—__ 
+
+    Amounts in the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund may be used to make a cash investment under this section in an eligible entity only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the investment to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].
+
+(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 546][/us/stat/110/546]; amended [Pub. L. 105–85, div. B, title XXVIII, § 2805][/us/pl/105/85/s2805], Nov. 18, 1997, [111 Stat. 1991][/us/stat/111/1991]; [Pub. L. 106–65, div. B, title XXVIII, § 2803(d)][/us/pl/106/65/s2803/d], (h)(1), Oct. 5, 1999, [113 Stat. 849][/us/stat/113/849]; [Pub. L. 108–136, div. A, title X, § 1031(a)(50)][/us/pl/108/136/s1031/a/50], Nov. 24, 2003, [117 Stat. 1602][/us/stat/117/1602].)
 
  __Amendments__ 
-
-    2013—Subsec. (e). [Pub. L. 113–66][/us/pl/113/66] struck out subsec. (e). Text read as follows: “Amounts in the Department of Defense Family Housing Improvement Fund or the Department of Defense Military Unaccompanied Housing Improvement Fund may be used to make a cash investment under this section in an eligible entity only after the end of the 30-day period beginning on the date the Secretary of Defense submits written notice of, and justification for, the investment to the appropriate committees of Congress or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480].”
 
     2003—Subsec. (e). [Pub. L. 108–136][/us/pl/108/136] inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notice and justification is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
 
@@ -62,6 +64,7 @@
 ----------
 ----------
 
+[/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/pl/104/106/s2801/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs2801%2Fa%2F1
 [/us/stat/110/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F546
 [/us/pl/105/85/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs2805
@@ -70,10 +73,6 @@
 [/us/stat/113/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F849
 [/us/pl/108/136/s1031/a/50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fa%2F50
 [/us/stat/117/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1602
-[/us/pl/113/66/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2805
-[/us/stat/127/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1008
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/pl/106/65/s2803/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs2803%2Fh%2F1

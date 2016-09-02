@@ -25,7 +25,7 @@
 
     (b)  __Annual Naval Vessel Construction Plan__  __.—__ 
 
-        (1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) shall be designed so that the naval vessel force provided for under that plan supports the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan shall be designed so that the naval vessel force provided for under that plan supports the ship force structure recommended in the report of the most recent quadrennial defense review.
+        (1) The annual naval vessel construction plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the naval vessel force provided for under that plan is capable of supporting the national security strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 ([50 U.S.C. 404a][/us/usc/t50/s404a]), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  except that, if at the time such plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then such annual plan should be designed so that the naval vessel force provided for under that plan is capable of supporting the ship force structure recommended in the report of the most recent quadrennial defense review.
 
         (2)
 
@@ -33,15 +33,13 @@
 
             (A) A detailed program for the construction of combatant and support vessels for the Navy over the next 30 fiscal years.
 
-            (B) A description of the necessary naval vessel force structure and capabilities to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
+            (B) A description of the necessary naval vessel force structure to meet the requirements of the national security strategy of the United States or the most recent quadrennial defense review, whichever is applicable under paragraph (1).
 
             (C) The estimated levels of annual funding necessary to carry out the program, together with a discussion of the procurement strategies on which such estimated levels of annual funding are based.
 
-            (D) The estimated total cost of construction for each vessel used to determine estimated levels of annual funding under subparagraph (C).
+    (c)  __Assessment When Vessel Construction Budget Is Insufficient to Meet Applicable Requirements__  __.—__ 
 
-    (c)  __Assessment When Annual Naval Vessel Construction Plan Does Not Meet Force Structure Requirements__  __.—__ 
-
-    If the annual naval vessel construction plan for a fiscal year under subsection (b) does not result in a force structure or capabilities that meet the requirements identified in subsection (b)(2)(B), the Secretary shall include with the defense budget materials for that fiscal year an assessment of the extent of the strategic and operational risk to national security associated with the reduced force structure of naval vessels over the period of time that the required force structure or capabilities are not achieved. Such assessment shall include an analysis of whether the risks are acceptable, and plans to mitigate such risks. Such assessment shall be coordinated in advance with the commanders of the combatant commands and the Nuclear Weapons Council under [section 179 of this title][/us/usc/t10/s179].
+    If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.
 
     (d)  __CBO Evaluation__  __.—__ 
 
@@ -63,7 +61,7 @@
 
         (3) The term “quadrennial defense review” means the review of the defense programs and policies of the United States that is carried out every four years under [section 118 of this title][/us/usc/t10/s118].
 
-(Added [Pub. L. 107–314, div. A, title X, § 1022(a)(1)][/us/pl/107/314/s1022/a/1], Dec. 2, 2002, [116 Stat. 2639][/us/stat/116/2639]; amended [Pub. L. 111–383, div. A, title X, § 1023(a)][/us/pl/111/383/s1023/a], Jan. 7, 2011, [124 Stat. 4349][/us/stat/124/4349]; [Pub. L. 112–81, div. A, title X, § 1011(a)][/us/pl/112/81/s1011/a], Dec. 31, 2011, [125 Stat. 1558][/us/stat/125/1558]; [Pub. L. 112–239, div. A, title X, § 1014(a)][/us/pl/112/239/s1014/a], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X, § 1021][/us/pl/113/66/s1021], Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844].)
+(Added [Pub. L. 107–314, div. A, title X, § 1022(a)(1)][/us/pl/107/314/s1022/a/1], Dec. 2, 2002, [116 Stat. 2639][/us/stat/116/2639]; amended [Pub. L. 111–383, div. A, title X, § 1023(a)][/us/pl/111/383/s1023/a], Jan. 7, 2011, [124 Stat. 4349][/us/stat/124/4349]; [Pub. L. 112–81, div. A, title X, § 1011(a)][/us/pl/112/81/s1011/a], Dec. 31, 2011, [125 Stat. 1558][/us/stat/125/1558]; [Pub. L. 112–239, div. A, title X, § 1014(a)][/us/pl/112/239/s1014/a], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908].)
 
  __References in Text__ 
 
@@ -71,15 +69,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 113–66, § 1021(a)(1)][/us/pl/113/66/s1021/a/1], substituted “shall be designed” for “should be designed” in two places and “supports” for “is capable of supporting” in two places.
-
-    Subsec. (b)(2)(B). [Pub. L. 113–66, § 1021(a)(2)(A)][/us/pl/113/66/s1021/a/2/A], inserted “and capabilities” after “naval vessel force structure”.
-
-    Subsec. (b)(2)(D). [Pub. L. 113–66, § 1021(a)(2)(B)][/us/pl/113/66/s1021/a/2/B], added subpar. (D).
-
-    Subsec. (c). [Pub. L. 113–66, § 1021(b)][/us/pl/113/66/s1021/b], added subsec. (c) and struck out former subsec. (c). Text read as follows: “If the budget for a fiscal year provides for funding of the construction of naval vessels at a level that is not sufficient to sustain the naval vessel force structure specified in the naval vessel construction plan for that fiscal year under subsection (a), the Secretary shall include with the defense budget materials for that fiscal year an assessment that describes and discusses the risks associated with the reduced force structure of naval vessels that will result from funding naval vessel construction at such level. Such assessment shall be coordinated in advance with the commanders of the combatant commands.”
-
-    Subsecs. (e), (f). [Pub. L. 112–239][/us/pl/112/239] added subsec. (e) and redesignated former subsec. (e) as (f).
+    2013—Subsecs. (e), (f). [Pub. L. 112–239][/us/pl/112/239] added subsec. (e) and redesignated former subsec. (e) as (f).
 
     2011—[Pub. L. 112–81][/us/pl/112/81] amended section generally. Prior to amendment, section related to submission of a long-range plan for construction of combatant and support naval vessels that supports the force structure recommendations of a quadrennial defense review.
 
@@ -94,7 +84,6 @@
 
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t50/s404a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs404a
-[/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
 [/us/usc/t10/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs221
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/usc/t10/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs118
@@ -106,15 +95,9 @@
 [/us/stat/125/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1558
 [/us/pl/112/239/s1014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1014%2Fa
 [/us/stat/126/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1908
-[/us/pl/113/66/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021
-[/us/stat/127/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F844
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
-[/us/pl/113/66/s1021/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F1
-[/us/pl/113/66/s1021/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F2%2FA
-[/us/pl/113/66/s1021/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fa%2F2%2FB
-[/us/pl/113/66/s1021/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1021%2Fb
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383

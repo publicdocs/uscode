@@ -45,11 +45,9 @@
 
             (F) periodically review product support arrangements between the product support integrators and product support providers to ensure the arrangements are consistent with the overall product support strategy;
 
-            (G) prior to each change in the product support strategy or every five years, whichever occurs first, revalidate any business-case analysis performed in support of the product support strategy;
+            (G) prior to each change in the product support strategy or every five years, whichever occurs first, revalidate any business-case analysis performed in support of the product support strategy; and
 
-            (H) ensure that the product support strategy maximizes small business participation at the appropriate tiers; and
-
-            (I) ensure that product support arrangements for the weapon system describe how such arrangements will ensure efficient procurement, management, and allocation of Government-owned parts inventories in order to prevent unnecessary procurements of such parts.
+            (H) ensure that the product support strategy maximizes small business participation at the appropriate tiers.
 
     (c)  __Definitions__  __.—__ 
 
@@ -85,11 +83,7 @@
 
         The term “major weapon system” means a major system within the meaning of [section 2302d(a) of this title][/us/usc/t10/s2302d/a].
 
-(Added [Pub. L. 112–239, div. A, title VIII, § 823(a)(1)][/us/pl/112/239/s823/a/1], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830]; amended [Pub. L. 113–66, div. A, title VIII, § 823][/us/pl/113/66/s823], Dec. 26, 2013, [127 Stat. 809][/us/stat/127/809].)
-
- __Amendments__ 
-
-    2013—Subsec. (b)(2)(I). [Pub. L. 113–66][/us/pl/113/66] added subpar. (I).
+(Added [Pub. L. 112–239, div. A, title VIII, § 823(a)(1)][/us/pl/112/239/s823/a/1], Jan. 2, 2013, [126 Stat. 1830][/us/stat/126/1830].)
 
  __Similar Provisions__ 
 
@@ -105,9 +99,6 @@
 [/us/usc/t10/s2302d/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302d%2Fa
 [/us/pl/112/239/s823/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs823%2Fa%2F1
 [/us/stat/126/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1830
-[/us/pl/113/66/s823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs823
-[/us/stat/127/809]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F809
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/84/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs805
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302
 [/us/pl/112/239/s823/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs823%2Fb

@@ -61,13 +61,11 @@
 
     (f)  __Period of Authority__  __.—__ 
 
-    The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2018.
+    The authority to award prizes under subsection (a) shall terminate at the end of September 30, 2013.
 
-(Added [Pub. L. 106–65, div. A, title II, § 244(a)][/us/pl/106/65/s244/a], Oct. 5, 1999, [113 Stat. 552][/us/stat/113/552]; amended [Pub. L. 107–314, div. A, title II, § 248(a)][/us/pl/107/314/s248/a], Dec. 2, 2002, [116 Stat. 2502][/us/stat/116/2502]; [Pub. L. 108–136, div. A, title X, § 1031(a)(20)][/us/pl/108/136/s1031/a/20], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 109–163, div. A, title II, § 257][/us/pl/109/163/s257], Jan. 6, 2006, [119 Stat. 3184][/us/stat/119/3184]; [Pub. L. 109–364, div. A, title II, § 212][/us/pl/109/364/s212], Oct. 17, 2006, [120 Stat. 2119][/us/stat/120/2119]; [Pub. L. 111–84, div. A, title II, § 253][/us/pl/111/84/s253], Oct. 28, 2009, [123 Stat. 2243][/us/stat/123/2243]; [Pub. L. 111–383, div. A, title IX, § 901(j)(4)][/us/pl/111/383/s901/j/4], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324]; [Pub. L. 113–66, div. A, title II, § 263][/us/pl/113/66/s263], Dec. 26, 2013, [127 Stat. 726][/us/stat/127/726].)
+(Added [Pub. L. 106–65, div. A, title II, § 244(a)][/us/pl/106/65/s244/a], Oct. 5, 1999, [113 Stat. 552][/us/stat/113/552]; amended [Pub. L. 107–314, div. A, title II, § 248(a)][/us/pl/107/314/s248/a], Dec. 2, 2002, [116 Stat. 2502][/us/stat/116/2502]; [Pub. L. 108–136, div. A, title X, § 1031(a)(20)][/us/pl/108/136/s1031/a/20], Nov. 24, 2003, [117 Stat. 1598][/us/stat/117/1598]; [Pub. L. 109–163, div. A, title II, § 257][/us/pl/109/163/s257], Jan. 6, 2006, [119 Stat. 3184][/us/stat/119/3184]; [Pub. L. 109–364, div. A, title II, § 212][/us/pl/109/364/s212], Oct. 17, 2006, [120 Stat. 2119][/us/stat/120/2119]; [Pub. L. 111–84, div. A, title II, § 253][/us/pl/111/84/s253], Oct. 28, 2009, [123 Stat. 2243][/us/stat/123/2243]; [Pub. L. 111–383, div. A, title IX, § 901(j)(4)][/us/pl/111/383/s901/j/4], Jan. 7, 2011, [124 Stat. 4324][/us/stat/124/4324].)
 
  __Amendments__ 
-
-    2013—Subsec. (f). [Pub. L. 113–66][/us/pl/113/66] substituted “September 30, 2018” for “September 30, 2013”.
 
     2011—Subsec. (a). [Pub. L. 111–383][/us/pl/111/383] substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
 
@@ -120,9 +118,6 @@
 [/us/stat/123/2243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2243
 [/us/pl/111/383/s901/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fj%2F4
 [/us/stat/124/4324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4324
-[/us/pl/113/66/s263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs263
-[/us/stat/127/726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F726
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/109/364/s212/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs212%2Fa%2F1

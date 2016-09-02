@@ -35,64 +35,6 @@
 
 > “[Section 1788 of title 10][/us/usc/t10/s1788], United States Code, as added by subsection (a), shall take effect on October 1, 2002.”
 
- __Family Support Programs for Immediate Family Members of Members of the Armed Forces Assigned to Special Operations Forces__ 
-
-[Pub. L. 113–66, div. A, title V, § 554][/us/pl/113/66/s554], Dec. 26, 2013, [127 Stat. 765][/us/stat/127/765], provided that:
-
->     “(a)  __Pilot Programs Authorized__  __.—__ 
-
->     Consistent with such regulations as the Secretary of Defense may prescribe to carry out this section, the Commander of the United States Special Operations Command may conduct up to three pilot programs to assess the feasibility and benefits of providing family support activities for the immediate family members of members of the Armed Forces assigned to special operations forces. In selecting and conducting any pilot program under this subsection, the Commander shall coordinate with the Under Secretary of Defense for Personnel and Readiness.
-
->     “(b)  __Selection of Programs__  __.—__ 
-
->     In selecting the pilot programs to be conducted under subsection (a), the Commander shall—
-
->         “(1) identify family support activities that have a direct and concrete impact on the readiness of special operations forces, but that are not being provided by the Secretary of a military department to the immediate family members of members of the Armed Forces assigned to special operations forces; and
-
->         “(2) conduct a cost-benefit analysis of each family support activity proposed to be included in a pilot program.
-
->     “(c)  __Evaluation__  __.—__ 
-
->     The Commander shall develop outcome measurements to evaluate the success of each family support activity included in a pilot program under subsection (a).
-
->     “(d)  __Additional Authority__  __.—__ 
-
->     The Commander may expend up to $5,000,000 during each fiscal year specified in subsection (f) to carry out the pilot programs under subsection (a).
-
->     “(e)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1) The term ‘Commander’ means the Commander of the United States Special Operations Command.
-
->         “(2) The term ‘immediate family members’ has the meaning given that term in [section 1789(c) of title 10][/us/usc/t10/s1789/c], United States Code.
-
->         “(3) The term ‘special operations forces’ means those forces of the Armed Forces identified as special operations forces under section 167(i) of such title.
-
->     “(f)  __Duration of Pilot Program Authority__  __.—__ 
-
->     The authority provided by subsection (a) is available to the Commander during fiscal years 2014 through 2016.
-
->     “(g) __Report Required.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than 180 days after completing a pilot program under subsection (a), the Commander shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report describing the results of the pilot program. The Commander shall prepare the report in coordination with the Under Secretary of Defense for Personnel and Readiness.
-
->         “(2)  __Elements of report__  __.—__ 
-
->         The report shall include the following:
-
->             “(A) A description of the pilot program to address family support requirements not being provided by the Secretary of a military department to immediate family members of members of the Armed Forces assigned to special operations forces.
-
->             “(B) An assessment of the impact of the pilot program on the readiness of members of the Armed Forces assigned to special operations forces.
-
->             “(C) A comparison of the pilot program to other programs conducted by the Secretaries of the military departments to provide family support to immediate family members of members of the Armed Forces.
-
->             “(D) Recommendations for incorporating the lessons learned from the pilot program into family support programs conducted by the Secretaries of the military departments.
-
->             “(E) Any other matters considered appropriate by the Commander or the Under Secretary of Defense for Personnel and Readiness.”
-
  __Pilot Program on Parent Education To Promote Early Childhood Education for Dependent Children Affected by Military Deployment or Relocation of Military Units__ 
 
 [Pub. L. 109–364, div. A, title V, § 575][/us/pl/109/364/s575], Oct. 17, 2006, [120 Stat. 2227][/us/stat/120/2227], provided that:
@@ -168,9 +110,6 @@
 [/us/pl/107/314/s652/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs652%2Fb
 [/us/stat/116/2581]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2581
 [/us/usc/t10/s1788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1788
-[/us/pl/113/66/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs554
-[/us/stat/127/765]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F765
-[/us/usc/t10/s1789/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1789%2Fc
 [/us/pl/109/364/s575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs575
 [/us/stat/120/2227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2227
 

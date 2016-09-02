@@ -23,39 +23,41 @@
 
             (A)
 
-             For purposes of [section 3304 of title 5][/us/usc/t5/s3304], the Secretary of Defense may—
+             For purposes of sections 3304, 5333, and 5753 of title 5, the Secretary of Defense may—
 
                 (i) designate any category of medical or health professional positions within the Department of Defense as a shortage category occupation or critical need occupation; and
 
-                (ii) utilize the authority in such section to recruit and appoint qualified persons directly in the competitive service to positions so designated.
+                (ii) utilize the authorities in such sections to recruit and appoint qualified persons directly in the competitive service to positions so designated.
 
             (B) In using the authority provided by this paragraph, the Secretary shall apply the principles of preference for the hiring of veterans and other persons established in subchapter I of chapter 33 of title 5.
 
             (C) Any designation by the Secretary for purposes of subparagraph (A)(i) shall be based on an analysis of current and future Department of Defense workforce requirements.
 
-    (b)  __Termination of Authority__  __.—__ 
+    (b)  __Recruitment of Personnel__  __.—__ 
 
-        (1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2020.
+        (1) The Secretaries of the military departments shall each develop and implement a strategy to disseminate among appropriate personnel of the military departments authorities and best practices for the recruitment of medical and health professionals, including the authorities under subsection (a).
 
-        (2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2020.
+        (2)
 
-(Added [Pub. L. 107–107, div. A, title XI, § 1104(a)][/us/pl/107/107/s1104/a], Dec. 28, 2001, [115 Stat. 1236][/us/stat/115/1236]; amended [Pub. L. 110–181, div. A, title XVI, § 1636(a)][/us/pl/110/181/s1636/a], Jan. 28, 2008, [122 Stat. 463][/us/stat/122/463]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1107, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 111–383, div. A, title X, § 1075(b)(22)][/us/pl/111/383/s1075/b/22], title XI, § 1104, Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370], 4383; [Pub. L. 113–66, div. A, title XI, § 1109][/us/pl/113/66/s1109], Dec. 26, 2013, [127 Stat. 890][/us/stat/127/890].)
+         Each strategy under paragraph (1) shall—
+
+            (A) assess current recruitment policies, procedures, and practices of the military department concerned to assure that such strategy facilitates the implementation of efficiencies which reduce the time required to fill vacant positions for medical and health professionals; and
+
+            (B) clearly identify processes and actions that will be used to inform and educate military and civilian personnel responsible for the recruitment of medical and health professionals.
+
+    (c)  __Termination of Authority__  __.—__ 
+
+        (1) The authority of the Secretary of Defense under subsection (a)(1) to exercise authorities available under chapter 74 of title 38 for purposes of the recruitment, employment, and retention of civilian health care professionals for the Department of Defense expires December 31, 2015.
+
+        (2) The Secretary may not appoint a person to a position of employment under subsection (a)(2) after December 31, 2015.
+
+(Added [Pub. L. 107–107, div. A, title XI, § 1104(a)][/us/pl/107/107/s1104/a], Dec. 28, 2001, [115 Stat. 1236][/us/stat/115/1236]; amended [Pub. L. 110–181, div. A, title XVI, § 1636(a)][/us/pl/110/181/s1636/a], Jan. 28, 2008, [122 Stat. 463][/us/stat/122/463]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title XI, § 1107, Oct. 14, 2008, [122 Stat. 4617][/us/stat/122/4617]; [Pub. L. 111–383, div. A, title X, § 1075(b)(22)][/us/pl/111/383/s1075/b/22], title XI, § 1104, Jan. 7, 2011, [124 Stat. 4370][/us/stat/124/4370], 4383.)
 
  __Prior Provisions__ 
 
     A prior section 1599c, added [Pub. L. 104–201, div. A, title XVI, § 1615(a)(1)][/us/pl/104/201/s1615/a/1], Sept. 23, 1996, [110 Stat. 2740][/us/stat/110/2740]; amended [Pub. L. 105–85, div. A, title X, § 1073(a)(31)][/us/pl/105/85/s1073/a/31], Nov. 18, 1997, [111 Stat. 1902][/us/stat/111/1902], related to treatment of a Department of Defense violation of veterans’ preference requirements as a prohibited personnel practice, prior to repeal by [Pub. L. 105–339, § 6(c)(1)(A)][/us/pl/105/339/s6/c/1/A], Oct. 31, 1998, [112 Stat. 3188][/us/stat/112/3188].
 
  __Amendments__ 
-
-    2013—Subsec. (a)(2)(A). [Pub. L. 113–66, § 1109(c)(1)][/us/pl/113/66/s1109/c/1], substituted “[section 3304 of title 5][/us/usc/t5/s3304]” for “sections 3304, 5333, and 5753 of title 5”.
-
-    Subsec. (a)(2)(A)(ii). [Pub. L. 113–66, § 1109(c)(2)][/us/pl/113/66/s1109/c/2], substituted “the authority in such section” for “the authorities in such sections”.
-
-    Subsec. (b). [Pub. L. 113–66, § 1109(b)][/us/pl/113/66/s1109/b], redesignated subsec. (c) as (b) and struck out former subsec. (b) which related to recruitment of personnel.
-
-    Subsec. (c). [Pub. L. 113–66, § 1109(b)(2)][/us/pl/113/66/s1109/b/2], redesignated subsec. (c) as (b).
-
-    [Pub. L. 113–66, § 1109(a)][/us/pl/113/66/s1109/a], substituted “December 31, 2020” for “December 31, 2015” in pars. (1) and (2).
 
     2011—Subsec. (a)(2)(A)(i). [Pub. L. 111–383, § 1104(a)(1)(A)][/us/pl/111/383/s1104/a/1/A], substituted “a shortage category occupation or critical need occupation” for “shortage category positions”.
 
@@ -88,7 +90,6 @@
 ----------
 ----------
 
-[/us/usc/t5/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304
 [/us/pl/107/107/s1104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1104%2Fa
 [/us/stat/115/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1236
 [/us/pl/110/181/s1636/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1636%2Fa
@@ -97,20 +98,12 @@
 [/us/stat/122/4617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4617
 [/us/pl/111/383/s1075/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F22
 [/us/stat/124/4370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4370
-[/us/pl/113/66/s1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1109
-[/us/stat/127/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F890
 [/us/pl/104/201/s1615/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1615%2Fa%2F1
 [/us/stat/110/2740]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2740
 [/us/pl/105/85/s1073/a/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F85%2Fs1073%2Fa%2F31
 [/us/stat/111/1902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1902
 [/us/pl/105/339/s6/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F339%2Fs6%2Fc%2F1%2FA
 [/us/stat/112/3188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3188
-[/us/pl/113/66/s1109/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1109%2Fc%2F1
-[/us/usc/t5/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3304
-[/us/pl/113/66/s1109/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1109%2Fc%2F2
-[/us/pl/113/66/s1109/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1109%2Fb
-[/us/pl/113/66/s1109/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1109%2Fb%2F2
-[/us/pl/113/66/s1109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1109%2Fa
 [/us/pl/111/383/s1104/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1104%2Fa%2F1%2FA
 [/us/pl/111/383/s1104/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1104%2Fa%2F1%2FB
 [/us/pl/111/383/s1075/b/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fb%2F22

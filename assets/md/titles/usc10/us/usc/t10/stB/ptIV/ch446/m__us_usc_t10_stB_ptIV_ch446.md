@@ -71,19 +71,7 @@
 
   </tr>
 
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs4727" data-uslm-ref="/us/usc/t10/s4727">4727.</a>  </td>
-
-    <td> Cemetery concessions contracts.  </td>
-
-  </tr>
-
 </table>
-
- __Amendments__ 
-
-    2013—[Pub. L. 113–66, div. A, title V, § 585(b)][/us/pl/113/66/s585/b], Dec. 26, 2013, [127 Stat. 777][/us/stat/127/777], added item 4727.
 
 ----------
 
@@ -92,7 +80,5 @@
 ----------
 ----------
 
-[/us/pl/113/66/s585/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs585%2Fb
-[/us/stat/127/777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F777
 
 

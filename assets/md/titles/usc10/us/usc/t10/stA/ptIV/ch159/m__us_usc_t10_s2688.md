@@ -43,7 +43,7 @@
 
         (1) Except as provided in paragraph (2), a contract for the receipt of utility services as consideration under subsection (c), or any other contract for utility services entered into by the Secretary concerned in connection with the conveyance of a utility system under this section, may be for a period not to exceed 10 years.
 
-        (2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective. The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract.
+        (2) The Secretary of Defense, or the designee of the Secretary, may authorize a contract for utility services described in paragraph (1) to have a term in excess of 10 years, but not to exceed 50 years, if the Secretary determines that a contract for a longer term will be cost effective.
 
     (e)  __Treatment of Payments__  __.—__ 
 
@@ -117,15 +117,13 @@
 
     This section shall not apply to projects constructed or operated by the Army Corps of Engineers under its civil works authorities.
 
-(Added [Pub. L. 105–85, div. B, title XXVIII, § 2812(a)][/us/pl/105/85/s2812/a], Nov. 18, 1997, [111 Stat. 1992][/us/stat/111/1992]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], div. B, title XXVIII, § 2812, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 851; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(15), div. B, title XXVIII, § 2813\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291, 1654A–418; [Pub. L. 108–136, div. A, title X, § 1031(a)(32)][/us/pl/108/136/s1031/a/32], Nov. 24, 2003, [117 Stat. 1600][/us/stat/117/1600]; [Pub. L. 109–163, div. B, title XXVIII, § 2823(a)][/us/pl/109/163/s2823/a]–(d), Jan. 6, 2006, [119 Stat. 3514–3516][/us/stat/119/3514-3516]; [Pub. L. 110–417, div. B, title XXVIII, § 2813][/us/pl/110/417/s2813], Oct. 14, 2008, [122 Stat. 4728][/us/stat/122/4728]; [Pub. L. 111–84, div. B, title XXVIII, § 2821][/us/pl/111/84/s2821], Oct. 28, 2009, [123 Stat. 2664][/us/stat/123/2664]; [Pub. L. 112–81, div. A, title X, § 1061(21)][/us/pl/112/81/s1061/21], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584]; [Pub. L. 113–66, div. B, title XXVIII, § 2813][/us/pl/113/66/s2813], Dec. 26, 2013, [127 Stat. 1014][/us/stat/127/1014].)
+(Added [Pub. L. 105–85, div. B, title XXVIII, § 2812(a)][/us/pl/105/85/s2812/a], Nov. 18, 1997, [111 Stat. 1992][/us/stat/111/1992]; amended [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], div. B, title XXVIII, § 2812, Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774], 851; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(a)(15), div. B, title XXVIII, § 2813\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–291, 1654A–418; [Pub. L. 108–136, div. A, title X, § 1031(a)(32)][/us/pl/108/136/s1031/a/32], Nov. 24, 2003, [117 Stat. 1600][/us/stat/117/1600]; [Pub. L. 109–163, div. B, title XXVIII, § 2823(a)][/us/pl/109/163/s2823/a]–(d), Jan. 6, 2006, [119 Stat. 3514–3516][/us/stat/119/3514-3516]; [Pub. L. 110–417, div. B, title XXVIII, § 2813][/us/pl/110/417/s2813], Oct. 14, 2008, [122 Stat. 4728][/us/stat/122/4728]; [Pub. L. 111–84, div. B, title XXVIII, § 2821][/us/pl/111/84/s2821], Oct. 28, 2009, [123 Stat. 2664][/us/stat/123/2664]; [Pub. L. 112–81, div. A, title X, § 1061(21)][/us/pl/112/81/s1061/21], Dec. 31, 2011, [125 Stat. 1584][/us/stat/125/1584].)
 
  __Prior Provisions__ 
 
     A prior section 2688, added [Pub. L. 96–125, title VIII, § 804(a)(1)][/us/pl/96/125/s804/a/1], Nov. 26, 1979, [93 Stat. 948][/us/stat/93/948]; amended [Pub. L. 96–418, title VIII, § 804][/us/pl/96/418/s804], Oct. 10, 1980, [94 Stat. 1777][/us/stat/94/1777]; [Pub. L. 97–22, § 11(a)(9)][/us/pl/97/22/s11/a/9], July 10, 1981, [95 Stat. 138][/us/stat/95/138]; [Pub. L. 97–99, title IX, § 901][/us/pl/97/99/s901], Dec. 23, 1981, [95 Stat. 1381][/us/stat/95/1381], related to use of solar energy systems in new facilities, prior to repeal by [Pub. L. 97–214][/us/pl/97/214], §§ 7(1), 12(a), July 12, 1982, [96 Stat. 173][/us/stat/96/173], 176, effective Oct. 1, 1982, and applicable to military construction projects, and to construction and acquisition of military family housing authorized before, on, or after such date. See [section 2915 of this title][/us/usc/t10/s2915].
 
  __Amendments__ 
-
-    2013—Subsec. (d)(2). [Pub. L. 113–66][/us/pl/113/66] inserted at end “The determination of cost effectiveness shall be made using a business case analysis that includes an independent estimate of the level of investment that should be required to maintain adequate operation of the utility system over the proposed term of the contract.”
 
     2011—Subsec. (a). [Pub. L. 112–81, § 1061(21)(A)][/us/pl/112/81/s1061/21/A], struck out par. (1) designation before “The Secretary of a military department” and struck out pars. (2) and (3) which related to conditions for entry into a contract to convey all or part of a utility system and conditions under which the Secretary concerned could not reconsider conversion to contractor operation under [section 2461 of this title][/us/usc/t10/s2461] for a five-year period, respectively.
 
@@ -219,8 +217,6 @@
 [/us/stat/123/2664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2664
 [/us/pl/112/81/s1061/21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21
 [/us/stat/125/1584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1584
-[/us/pl/113/66/s2813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2813
-[/us/stat/127/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1014
 [/us/pl/96/125/s804/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F125%2Fs804%2Fa%2F1
 [/us/stat/93/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F948
 [/us/pl/96/418/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F418%2Fs804
@@ -232,7 +228,6 @@
 [/us/pl/97/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214
 [/us/stat/96/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F173
 [/us/usc/t10/s2915]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2915
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81/s1061/21/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21%2FA
 [/us/usc/t10/s2461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2461
 [/us/pl/112/81/s1061/21/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F21%2FB

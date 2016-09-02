@@ -91,14 +91,6 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2419" data-uslm-ref="/us/usc/t10/s2419">2419.</a>  </td>
 
-    <td> Advancing small business growth.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2420" data-uslm-ref="/us/usc/t10/s2420">2420.</a>  </td>
-
     <td> Regulations.  </td>
 
   </tr>
@@ -106,8 +98,6 @@
 </table>
 
  __Amendments__ 
-
-    2013—[Pub. L. 113–66, div. A, title XVI, § 1611(a)(2)][/us/pl/113/66/s1611/a/2], Dec. 26, 2013, [127 Stat. 947][/us/stat/127/947], added item 2419 and redesignated former item 2419 as 2420.
 
     1993—[Pub. L. 103–35, title II, § 201(d)(2)][/us/pl/103/35/s201/d/2], May 31, 1993, [107 Stat. 99][/us/stat/107/99], made technical amendment to items 2418 and 2419.
 
@@ -124,8 +114,6 @@
 ----------
 ----------
 
-[/us/pl/113/66/s1611/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1611%2Fa%2F2
-[/us/stat/127/947]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F947
 [/us/pl/103/35/s201/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F35%2Fs201%2Fd%2F2
 [/us/stat/107/99]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F99
 [/us/pl/102/484/s4236/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4236%2Fa%2F2

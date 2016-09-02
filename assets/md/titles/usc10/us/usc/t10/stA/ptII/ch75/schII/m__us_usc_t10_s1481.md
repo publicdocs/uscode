@@ -67,13 +67,11 @@
 
         (9) To the extent authorized under [section 1482(f) of this title][/us/usc/t10/s1482/f], any retired member of an armed force who dies while outside the United States or any individual who dies outside the United States while a dependent of such a member.
 
-        (10) To the extent authorized under [section 1482(g) of this title][/us/usc/t10/s1482/g], any person not otherwise covered by the preceding paragraphs whose remains (or partial remains) have been retained by the Secretary concerned for purposes of a forensic pathology investigation by the Armed Forces Medical Examiner under [section 1471 of this title][/us/usc/t10/s1471].
-
     (b) This section applies to each person covered by subsection (a)(1)–(7) even though he may have been temporarily absent from active duty, with or without leave, at the time of his death, unless he had been dropped from the rolls of his organization before his death.
 
     (c) In this section, the term “dependent” has the meaning given such term in [section 1072(2) of this title][/us/usc/t10/s1072/2].
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 112][/us/stat/70A/112]; [Pub. L. 88–647, title III, § 301(3)][/us/pl/88/647/s301/3], Oct. 13, 1964, [78 Stat. 1071][/us/stat/78/1071]; [Pub. L. 99–661, div. A, title VI, § 604(e)(3)][/us/pl/99/661/s604/e/3], Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877]; [Pub. L. 103–337, div. A, title VI, § 652(a)(1)][/us/pl/103/337/s652/a/1], Oct. 5, 1994, [108 Stat. 2793][/us/stat/108/2793]; [Pub. L. 104–106, div. A, title VII, § 702(b)][/us/pl/104/106/s702/b], Feb. 10, 1996, [110 Stat. 371][/us/stat/110/371]; [Pub. L. 105–85, div. A, title V, § 513(e)][/us/pl/105/85/s513/e], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 105–261, div. A, title VI, § 645(a)][/us/pl/105/261/s645/a], (b), Oct. 17, 1998, [112 Stat. 2049][/us/stat/112/2049], 2050; [Pub. L. 106–65, div. A, title V, § 578(i)(5)][/us/pl/106/65/s578/i/5], Oct. 5, 1999, [113 Stat. 630][/us/stat/113/630]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(d)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293; [Pub. L. 107–107, div. A, title V, § 513(c)][/us/pl/107/107/s513/c], title VI, § 638(b)(2), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093], 1147; [Pub. L. 112–81, div. A, title VI, § 651(b)][/us/pl/112/81/s651/b], Dec. 31, 2011, [125 Stat. 1467][/us/stat/125/1467]; [Pub. L. 113–66, div. A, title VI, § 651(a)(1)][/us/pl/113/66/s651/a/1], Dec. 26, 2013, [127 Stat. 787][/us/stat/127/787].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 112][/us/stat/70A/112]; [Pub. L. 88–647, title III, § 301(3)][/us/pl/88/647/s301/3], Oct. 13, 1964, [78 Stat. 1071][/us/stat/78/1071]; [Pub. L. 99–661, div. A, title VI, § 604(e)(3)][/us/pl/99/661/s604/e/3], Nov. 14, 1986, [100 Stat. 3877][/us/stat/100/3877]; [Pub. L. 103–337, div. A, title VI, § 652(a)(1)][/us/pl/103/337/s652/a/1], Oct. 5, 1994, [108 Stat. 2793][/us/stat/108/2793]; [Pub. L. 104–106, div. A, title VII, § 702(b)][/us/pl/104/106/s702/b], Feb. 10, 1996, [110 Stat. 371][/us/stat/110/371]; [Pub. L. 105–85, div. A, title V, § 513(e)][/us/pl/105/85/s513/e], Nov. 18, 1997, [111 Stat. 1732][/us/stat/111/1732]; [Pub. L. 105–261, div. A, title VI, § 645(a)][/us/pl/105/261/s645/a], (b), Oct. 17, 1998, [112 Stat. 2049][/us/stat/112/2049], 2050; [Pub. L. 106–65, div. A, title V, § 578(i)(5)][/us/pl/106/65/s578/i/5], Oct. 5, 1999, [113 Stat. 630][/us/stat/113/630]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title X, § 1087(d)(3)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–293; [Pub. L. 107–107, div. A, title V, § 513(c)][/us/pl/107/107/s513/c], title VI, § 638(b)(2), Dec. 28, 2001, [115 Stat. 1093][/us/stat/115/1093], 1147; [Pub. L. 112–81, div. A, title VI, § 651(b)][/us/pl/112/81/s651/b], Dec. 31, 2011, [125 Stat. 1467][/us/stat/125/1467].)
 
 <table>
 
@@ -142,8 +140,6 @@ July 15, 1954, ch. 507, §§ 1, 2 (1st 25 words, as applicable to armed forces
     In subsection (b), the words “This section applies to each person \* \* \* even though” are substituted for the words “The benefits of this Act shall not be denied in respect of a person \* \* \* on the ground”.
 
  __Amendments__ 
-
-    2013—Subsec. (a)(10). [Pub. L. 113–66][/us/pl/113/66] added par. (10).
 
     2011—Subsec. (a)(2)(E) to (G). [Pub. L. 112–81][/us/pl/112/81] added subpar. (E) and redesignated former subpars. (E) and (F) as (F) and (G), respectively.
 
@@ -239,8 +235,6 @@ July 15, 1954, ch. 507, §§ 1, 2 (1st 25 words, as applicable to armed forces
 [/us/pl/99/661/s604/e/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs604%2Fe%2F3%2FB
 [/us/stat/100/3877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3877
 [/us/usc/t10/s1482/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Ff
-[/us/usc/t10/s1482/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482%2Fg
-[/us/usc/t10/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1471
 [/us/usc/t10/s1072/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1072%2F2
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F112
@@ -264,9 +258,6 @@ July 15, 1954, ch. 507, §§ 1, 2 (1st 25 words, as applicable to armed forces
 [/us/stat/115/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1093
 [/us/pl/112/81/s651/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs651%2Fb
 [/us/stat/125/1467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1467
-[/us/pl/113/66/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs651%2Fa%2F1
-[/us/stat/127/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F787
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/107/107/s513/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs513%2Fc
 [/us/pl/107/107/s638/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs638%2Fb%2F2

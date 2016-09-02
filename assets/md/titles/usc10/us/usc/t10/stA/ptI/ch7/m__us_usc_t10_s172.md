@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s171a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s173.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs172)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s171.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s173.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs172)
 
 ## § 172. Ammunition storage board
 
@@ -79,7 +79,7 @@ May 29, 1928, ch. 853 (last par. under “Ordnance Establishment”), 45 Stat. 9
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s171a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s173.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs172)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s171.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch7/m__us_usc_t10_s173.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs172)
 
 ----------
 ----------

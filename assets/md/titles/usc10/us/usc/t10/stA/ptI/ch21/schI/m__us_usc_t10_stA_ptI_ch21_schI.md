@@ -73,9 +73,9 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs427" data-uslm-ref="/us/usc/t10/s427">427.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs427" data-uslm-ref="/us/usc/t10/s427">427.</a>  </td>
 
-    <td> Conflict Records Research Center.  </td>
+    <td> Repealed.]  </td>
 
   </tr>
 
@@ -98,8 +98,6 @@
 </table>
 
  __Amendments__ 
-
-    2013—[Pub. L. 113–66, div. A, title X, § 1071(b)][/us/pl/113/66/s1071/b], Dec. 26, 2013, [127 Stat. 868][/us/stat/127/868], added item 427.
 
     2012—[Pub. L. 112–87, title IV, § 433(b)][/us/pl/112/87/s433/b], Jan. 3, 2012, [125 Stat. 1895][/us/stat/125/1895], added item 429.
 
@@ -138,8 +136,6 @@
 ----------
 ----------
 
-[/us/pl/113/66/s1071/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1071%2Fb
-[/us/stat/127/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F868
 [/us/pl/112/87/s433/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F87%2Fs433%2Fb
 [/us/stat/125/1895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1895
 [/us/pl/112/81/s1061/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1061%2F4%2FB

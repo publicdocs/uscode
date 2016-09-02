@@ -49,90 +49,6 @@
 
     Superconductivity research and development activities by Secretary of Defense and by Defense Advanced Research Projects Agency, see [section 5207 of Title 15][/us/usc/t15/s5207], Commerce and Trade.
 
- __Enhanced Transfer of Technology Developed at Department of Defense Laboratories__ 
-
-[Pub. L. 113–66, div. A, title VIII, § 801][/us/pl/113/66/s801], Dec. 26, 2013, [127 Stat. 802][/us/stat/127/802], provided that:
-
->     “(a)  __Definitions__  __.—__ 
-
->     As used in this section:
-
->         “(1) The term ‘military department’ has the meaning provided in [section 101 of title 10][/us/usc/t10/s101], United States Code.
-
->         “(2)
-
->          The term ‘DOD laboratory’ or ‘laboratory’ means any facility or group of facilities that—
-
->             “(A) is owned, leased, operated, or otherwise used by the Department of Defense; and
-
->             “(B) meets the definition of ‘laboratory’ as provided in subsection (d)(2) of section 12 of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3710a][/us/usc/t15/s3710a]).
-
->     “(b) __Authority.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary of Defense and the Secretary of a military department each may authorize the heads of DOD laboratories to grant nonexclusive, exclusive, or partially exclusive licenses, royalty free or for royalties or for rights to other intellectual property, for computer software and its related documentation developed at a DOD laboratory, but only if—
-
->             “(A) the computer software and related documentation would be a trade secret under the meaning of [section 552(b)(4) of title 5][/us/usc/t5/s552/b/4], United States Code, if the information had been obtained from a non-Federal party;
-
->             “(B) the public is notified of the availability of the software and related documentation for licensing and interested parties have a fair opportunity to submit applications for licensing;
-
->             “(C) such licensing activities and licenses comply with the requirements under [section 209 of title 35][/us/usc/t35/s209], United States Code; and
-
->             “(D) the software originally was developed to meet the military needs of the Department of Defense.
-
->         “(2)  __Protections against unauthorized disclosure__  __.—__ 
-
->         The Secretary of Defense and the Secretary of a military department each shall provide appropriate precautions against the unauthorized disclosure of any computer software or documentation covered by paragraph (1)(A), including exemption from [section 552 of title 5][/us/usc/t5/s552], United States Code, for a period of up to 5 years after the development of the computer software by the DOD laboratory.
-
->     “(c) __Royalties.—__ 
-
->         “(1)  __Use of royalties__  __.—__ 
-
->         Except as provided in paragraph (2), any royalties or other payments received by the Department of Defense or a military department from licensing computer software or documentation under paragraph (b)(1) shall be retained by the Department of Defense or the military department and shall be disposed of as follows:
-
->             “(A)
-
->                 (i) The Department of Defense or the military department shall pay each year the first $2,000, and thereafter at least 15 percent, of the royalties or other payments, to be divided among the employees who developed the computer software.
-
->                 “(ii) The Department of Defense or the military department may provide appropriate lesser incentives, from the royalties or other payments, to laboratory employees who are not developers of such computer software but who substantially increased the technical value of the software.
-
->                 “(iii) The Department of Defense or the military department shall retain the royalties and other payments received until it makes payments to employees of a DOD laboratory under clause (i) or (ii).
-
->                 “(iv) The Department of Defense or the military department may retain an amount reasonably necessary to pay expenses incidental to the administration and distribution of royalties or other payments under this section by an organizational unit of the Department of Defense or military department other than its laboratories.
-
->             “(B)
-
->              The balance of the royalties or other payments shall be transferred by the Department of Defense or the military department to its laboratories, with the majority share of the royalties or other payments going to the laboratory where the development occurred. The royalties or other payments so transferred to any DOD laboratory may be used or obligated by that laboratory during the fiscal year in which they are received or during the 2 succeeding fiscal years—
-
->                 “(i) to reward scientific, engineering, and technical employees of the DOD laboratory, including developers of sensitive or classified technology, regardless of whether the technology has commercial applications;
-
->                 “(ii) to further scientific exchange among the laboratories of the agency;
-
->                 “(iii) for education and training of employees consistent with the research and development missions and objectives of the Department of Defense, military department, or DOD laboratory, and for other activities that increase the potential for transfer of the technology of the DOD laboratory;
-
->                 “(iv) for payment of expenses incidental to the administration and licensing of computer software or other intellectual property made at the DOD laboratory, including the fees or other costs for the services of other agencies, persons, or organizations for intellectual property management and licensing services; or
-
->                 “(v) for scientific research and development consistent with the research and development missions and objectives of the DOD laboratory.
-
->             “(C) All royalties or other payments retained by the Department of Defense, military department, or DOD laboratory after payments have been made pursuant to subparagraphs (A) and (B) that are unobligated and unexpended at the end of the second fiscal year succeeding the fiscal year in which the royalties and other payments were received shall be paid into the Treasury of the United States.
-
->         “(2)  __Exception__  __.—__ 
-
->         If, after payments under paragraph (1)(A), the balance of the royalties or other payments received by the Department of Defense or the military department in any fiscal year exceed 5 percent of the funds received for use by the DOD laboratory for research, development, engineering, testing, and evaluation or other related administrative, processing, or value-added activities for that year, 75 percent of such excess shall be paid to the Treasury of the United States and the remaining 25 percent may be used or obligated under paragraph (1)(B). Any funds not so used or obligated shall be paid into the Treasury of the United States.
-
->         “(3)  __Status of payments to employees__  __.—__ 
-
->         Any payment made to an employee under this section shall be in addition to the regular pay of the employee and to any other awards made to the employee, and shall not affect the entitlement of the employee to any regular pay, annuity, or award to which the employee is otherwise entitled or for which the employee is otherwise eligible or limit the amount thereof except that the monetary value of an award for the same project or effort shall be deducted from the amount otherwise available under this paragraph. Payments, determined under the terms of this paragraph and made to an employee developer as such, may continue after the developer leaves the DOD laboratory or the Department of Defense or military department. Payments made under this section shall not exceed $75,000 per year to any one person, unless the President approves a larger award (with the excess over $75,000 being treated as a Presidential award under [section 4504 of title 5][/us/usc/t5/s4504], United States Code).
-
->     “(d)  __Information in Report__  __.—__ 
-
->     The report required by \[former\] [section 2515(d) of title 10][/us/usc/t10/s2515/d], United States Code, shall include information regarding the implementation and effectiveness of this section.
-
->     “(e)  __Expiration__  __.—__ 
-
->     The authority provided in this section shall expire on December 31, 2017.”
-
  __Technology Transfer to Private Sector__ 
 
 [Pub. L. 100–180, div. A, title II, § 218(c)][/us/pl/100/180/s218/c], Dec. 4, 1987, [101 Stat. 1053][/us/stat/101/1053], as amended by [Pub. L. 103–160, div. A, title IX, § 904(f)][/us/pl/103/160/s904/f], Nov. 30, 1993, [107 Stat. 1729][/us/stat/107/1729]; [Pub. L. 106–65, div. A, title IX, § 911(a)(1)][/us/pl/106/65/s911/a/1], Oct. 5, 1999, [113 Stat. 717][/us/stat/113/717], provided that:
@@ -160,15 +76,6 @@
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
 [/us/usc/t15/s5207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs5207
-[/us/pl/113/66/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs801
-[/us/stat/127/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F802
-[/us/usc/t10/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101
-[/us/usc/t15/s3710a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3710a
-[/us/usc/t5/s552/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552%2Fb%2F4
-[/us/usc/t35/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft35%2Fs209
-[/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/usc/t5/s4504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs4504
-[/us/usc/t10/s2515/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2515%2Fd
 [/us/pl/100/180/s218/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs218%2Fc
 [/us/stat/101/1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1053
 [/us/pl/103/160/s904/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs904%2Ff

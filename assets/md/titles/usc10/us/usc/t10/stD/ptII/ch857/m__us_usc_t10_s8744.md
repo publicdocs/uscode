@@ -15,15 +15,15 @@
 
 ## § 8744. Medal of honor; Air Force cross; distinguished-service medal: limitations on award
 
-    (a) No more than one Air Force Cross or distinguished-service medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal or cross, the President may award a suitable bar or other device to be worn as he directs.
+    (a) No more than one medal of honor, Air Force cross, or distinguished-service medal may be awarded to a person. However, for each succeeding act that would otherwise justify the award of such a medal or cross, the President may award a suitable bar or other device to be worn as he directs.
 
     (b)
 
      Except as provided in subsection (d), no medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, may be awarded to a person unless—
 
-        (1) the award is made within five years after the date of the act justifying the award;
+        (1) the award is made within three years after the date of the act justifying the award;
 
-        (2) a statement setting forth the distinguished service and recommending official recognition of it was made within three years after the distinguished service; and
+        (2) a statement setting forth the distinguished service and recommending official recognition of it was made within two years after the distinguished service; and
 
         (3) it appears from records of the Department of the Air Force that the person is entitled to the award.
 
@@ -33,13 +33,13 @@
 
      If the Secretary of the Air Force determines that—
 
-        (1) a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within three years after the distinguished service; and
+        (1) a statement setting forth the distinguished service and recommending official recognition of it was made and supported by sufficient evidence within two years after the distinguished service; and
 
         (2) no award was made, because the statement was lost or through inadvertence the recommendation was not acted on;
 
         a medal of honor, Air Force cross, distinguished-service medal, or device in place thereof, as the case may be, may be awarded to the person concerned within two years after the date of that determination.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 540][/us/stat/70A/540]; [Pub. L. 86–582, § 1(3)][/us/pl/86/582/s1/3], July 5, 1960, [74 Stat. 320][/us/stat/74/320]; [Pub. L. 86–593, § 1(2)][/us/pl/86/593/s1/2], July 6, 1960, [74 Stat. 331][/us/stat/74/331]; [Pub. L. 113–66, div. A, title V][/us/pl/113/66], §§ 561(c), 562(b), Dec. 26, 2013, [127 Stat. 766][/us/stat/127/766].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 540][/us/stat/70A/540]; [Pub. L. 86–582, § 1(3)][/us/pl/86/582/s1/3], July 5, 1960, [74 Stat. 320][/us/stat/74/320]; [Pub. L. 86–593, § 1(2)][/us/pl/86/593/s1/2], July 6, 1960, [74 Stat. 331][/us/stat/74/331].)
 
 <table>
 
@@ -117,14 +117,6 @@ July 9, 1918, ch. 143 (less words between 1st and 2d semicolons of 15th par. und
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 561(c)][/us/pl/113/66/s561/c], substituted “Air Force Cross” for “medal of honor, Air Force cross,”.
-
-    Subsec. (b)(1). [Pub. L. 113–66, § 562(b)(1)(A)][/us/pl/113/66/s562/b/1/A], substituted “five years” for “three years”.
-
-    Subsec. (b)(2). [Pub. L. 113–66, § 562(b)(1)(B)][/us/pl/113/66/s562/b/1/B], substituted “three years” for “two years”.
-
-    Subsec. (d)(1). [Pub. L. 113–66, § 562(b)(2)][/us/pl/113/66/s562/b/2], substituted “three years” for “two years”.
-
     1960—[Pub. L. 86–593][/us/pl/86/593] substituted “Air Force cross” for “distinguished-service cross” in section catchline and wherever appearing in subsecs. (a) to (d).
 
     Subsec. (b). [Pub. L. 86–582, § 1(3)(A)][/us/pl/86/582/s1/3/A], substituted “Except as provided in subsection (d), no” for “No”.
@@ -150,12 +142,6 @@ July 9, 1918, ch. 143 (less words between 1st and 2d semicolons of 15th par. und
 [/us/stat/74/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F320
 [/us/pl/86/593/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593%2Fs1%2F2
 [/us/stat/74/331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F331
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/stat/127/766]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F766
-[/us/pl/113/66/s561/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs561%2Fc
-[/us/pl/113/66/s562/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs562%2Fb%2F1%2FA
-[/us/pl/113/66/s562/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs562%2Fb%2F1%2FB
-[/us/pl/113/66/s562/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs562%2Fb%2F2
 [/us/pl/86/593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F593
 [/us/pl/86/582/s1/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F582%2Fs1%2F3%2FA
 [/us/pl/86/582/s1/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F582%2Fs1%2F3%2FB

@@ -61,17 +61,13 @@
 
             (G) Recommending to the Secretary appropriate trade-offs among life-cycle cost, schedule, and performance objectives, and procurement quantity objectives, to ensure that such trade-offs are made in the acquisition of materiel and equipment to support the strategic and contingency plans required by this subsection in the most effective and efficient manner.
 
-        (5)  __Joint force development activities__  __.—__ 
+        (5)  __Doctrine, Training, and Education__  __.—__ 
 
             (A) Developing doctrine for the joint employment of the armed forces.
 
-            (B) Formulating policies and technical standards, and executing actions, for the joint training of the armed forces.
+            (B) Formulating policies for the joint training of the armed forces.
 
-            (C) Formulating policies for coordinating the military education of members of the armed forces.
-
-            (D) Formulating policies for concept development and experimentation for the joint employment of the armed forces.
-
-            (E) Formulating policies for gathering, developing, and disseminating joint lessons learned for the armed forces.
+            (C) Formulating policies for coordinating the military education and training of members of the armed forces.
 
         (6)  __Other Matters__  __.—__ 
 
@@ -199,7 +195,7 @@
 
             (D) A description of the funding proposed in the President’s budget for the next fiscal year, and for the subsequent fiscal years covered by the most recent future-years defense program, to address each deficiency in readiness identified during the joint readiness review conducted under [section 117 of this title][/us/usc/t10/s117] for the first quarter of the current fiscal year.
 
-(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1007][/us/stat/100/1007]; amended [Pub. L. 106–65, div. A, title X, § 1033][/us/pl/106/65/s1033], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 905\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–226; [Pub. L. 107–107, div. A, title IX, § 921(b)][/us/pl/107/107/s921/b], Dec. 28, 2001, [115 Stat. 1198][/us/stat/115/1198]; [Pub. L. 107–314, div. A, title X, § 1062(a)(1)][/us/pl/107/314/s1062/a/1], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–136, div. A, title IX, § 903][/us/pl/108/136/s903], title X, § 1043(b)(2), Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558], 1610; [Pub. L. 112–81, div. A, title VIII, § 820(b)][/us/pl/112/81/s820/b], title IX, § 941, Dec. 31, 2011, [125 Stat. 1501][/us/stat/125/1501], 1548; [Pub. L. 112–239, div. A, title VIII, § 845(b)][/us/pl/112/239/s845/b], title IX, §§ 951(a), 952, Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848], 1891, 1892; [Pub. L. 113–66, div. A, title IX, § 905][/us/pl/113/66/s905], Dec. 26, 2013, [127 Stat. 817][/us/stat/127/817].)
+(Added [Pub. L. 99–433, title II, § 201][/us/pl/99/433/s201], Oct. 1, 1986, [100 Stat. 1007][/us/stat/100/1007]; amended [Pub. L. 106–65, div. A, title X, § 1033][/us/pl/106/65/s1033], Oct. 5, 1999, [113 Stat. 751][/us/stat/113/751]; [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title IX, § 905\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–226; [Pub. L. 107–107, div. A, title IX, § 921(b)][/us/pl/107/107/s921/b], Dec. 28, 2001, [115 Stat. 1198][/us/stat/115/1198]; [Pub. L. 107–314, div. A, title X, § 1062(a)(1)][/us/pl/107/314/s1062/a/1], Dec. 2, 2002, [116 Stat. 2649][/us/stat/116/2649]; [Pub. L. 108–136, div. A, title IX, § 903][/us/pl/108/136/s903], title X, § 1043(b)(2), Nov. 24, 2003, [117 Stat. 1558][/us/stat/117/1558], 1610; [Pub. L. 112–81, div. A, title VIII, § 820(b)][/us/pl/112/81/s820/b], title IX, § 941, Dec. 31, 2011, [125 Stat. 1501][/us/stat/125/1501], 1548; [Pub. L. 112–239, div. A, title VIII, § 845(b)][/us/pl/112/239/s845/b], title IX, §§ 951(a), 952, Jan. 2, 2013, [126 Stat. 1848][/us/stat/126/1848], 1891, 1892.)
 
  __References in Text__ 
 
@@ -210,14 +206,6 @@
     2013—Subsec. (a)(3)(F). [Pub. L. 112–239, § 845(b)][/us/pl/112/239/s845/b], added subpar. (F).
 
     Subsec. (a)(4)(F), (G). [Pub. L. 112–239, § 951(a)][/us/pl/112/239/s951/a], added subpars. (F) and (G) and struck out former subpar. (F) which read as follows: “Assessing military requirements for defense acquisition programs.”
-
-    Subsec. (a)(5). [Pub. L. 113–66, § 905(b)][/us/pl/113/66/s905/b], which directed substitution of “Joint force development activities” for “Doctrine, training, and education” in heading, was executed by making the substitution for “Doctrine, Training, and Education” to reflect the probable intent of Congress.
-
-    Subsec. (a)(5)(B). [Pub. L. 113–66, § 905(a)(1)][/us/pl/113/66/s905/a/1], inserted “and technical standards, and executing actions,” after “policies”.
-
-    Subsec. (a)(5)(C). [Pub. L. 113–66, § 905(a)(2)][/us/pl/113/66/s905/a/2], struck out “and training” after “education”.
-
-    Subsec. (a)(5)(D), (E). [Pub. L. 113–66, § 905(a)(3)][/us/pl/113/66/s905/a/3], added subpars. (D) and (E).
 
     Subsec. (b). [Pub. L. 112–239, § 952(a)][/us/pl/112/239/s952/a], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to risks under National Military Strategy.
 
@@ -320,17 +308,11 @@
 [/us/stat/125/1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1501
 [/us/pl/112/239/s845/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs845%2Fb
 [/us/stat/126/1848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1848
-[/us/pl/113/66/s905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905
-[/us/stat/127/817]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F817
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F495
 [/us/usc/t50/s3043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3043
 [/us/pl/112/239/s845/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs845%2Fb
 [/us/pl/112/239/s951/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs951%2Fa
-[/us/pl/113/66/s905/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fb
-[/us/pl/113/66/s905/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fa%2F1
-[/us/pl/113/66/s905/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fa%2F2
-[/us/pl/113/66/s905/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs905%2Fa%2F3
 [/us/pl/112/239/s952/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs952%2Fa
 [/us/pl/112/239/s952/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs952%2Fb
 [/us/pl/112/81/s820/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs820%2Fb%2F1

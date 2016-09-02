@@ -71,34 +71,6 @@
 
 > “[Section 2223 of title 10][/us/usc/t10/s2223], United States Code, as added by subsection (a), shall take effect on October 1, 1998.”
 
- __Additional Requirements Relating to the Software Licenses of the Department of Defense__ 
-
-[Pub. L. 113–66, div. A, title IX, § 935][/us/pl/113/66/s935], Dec. 26, 2013, [127 Stat. 833][/us/stat/127/833], provided that:
-
->     “(a) __Updated Plan.—__ 
-
->         “(1)  __Update__  __.—__ 
-
->         The Chief Information Officer of the Department of the Defense shall, in consultation with the chief information officers of the military departments and the Defense Agencies, update the plan for the inventory of selected software licenses of the Department of Defense required under section 937 of the National Defense Authorization Act for 2013 \[probably means the National Defense Authorization Act for Fiscal Year 2013\] ([Public Law 112–239][/us/pl/112/239]; [10 U.S.C. 2223][/us/usc/t10/s2223] note) to include a plan for the inventory of all software licenses of the Department of Defense for which a military department spends more than $5,000,000 annually on any individual title, including a comparison of licenses purchased with licenses in use.
-
->         “(2)  __Elements__  __.—__ 
-
->         The update required under paragraph (1) shall—
-
->             “(A) include plans for implementing an automated solution capable of reporting the software license compliance position of the Department and providing a verified audit trail, or an audit trail otherwise produced and verified by an independent third party;
-
->             “(B) include details on the process and business systems necessary to regularly perform reviews, a procedure for validating and reporting deregistering and registering new software, and a mechanism and plan to relay that information to the appropriate chief information officer; and
-
->             “(C) a proposed timeline for implementation of the updated plan in accordance with paragraph (3).
-
->         “(3)  __Submission__  __.—__ 
-
->         Not later than September 30, 2015, the Chief Information Officer of the Department of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the updated plan required under paragraph (1).
-
->     “(b)  __Performance Plan__  __.—__ 
-
->     If the Chief Information Officer of the Department of Defense determines through the implementation of the process and business systems in the updated plan required by subsection (a) that the number of software licenses of the Department for an individual title for which a military department spends greater than $5,000,000 annually exceeds the needs of the Department for such software licenses, or the inventory discloses that there is a discrepancy between the number of software licenses purchased and those in actual use, the Chief Information Officer of the Department of Defense shall implement a plan to bring the number of such software licenses into balance with the needs of the Department and the terms of any relevant contract.”
-
  __Collection and Analysis of Network Flow Data__ 
 
 [Pub. L. 112–239, div. A, title IX, § 935][/us/pl/112/239/s935], Jan. 2, 2013, [126 Stat. 1886][/us/stat/126/1886], provided that:
@@ -274,10 +246,6 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/105/261/s331/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs331%2Fb
 [/us/stat/112/1968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1968
-[/us/usc/t10/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2223
-[/us/pl/113/66/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs935
-[/us/stat/127/833]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F833
-[/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/usc/t10/s2223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2223
 [/us/pl/112/239/s935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs935
 [/us/stat/126/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1886

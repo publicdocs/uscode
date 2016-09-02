@@ -37,102 +37,6 @@
 
     A prior section 2359, added [Pub. L. 96–107, title VIII, § 819(a)(1)][/us/pl/96/107/s819/a/1], Nov. 9, 1979, [93 Stat. 818][/us/stat/93/818], related to reports on salaries of officers of Federal contract research centers, prior to repeal by [Pub. L. 101–510, div. A, title XIII, § 1322(a)(5)][/us/pl/101/510/s1322/a/5], Nov. 5, 1990, [104 Stat. 1671][/us/stat/104/1671].
 
- __Proof of Concept Commercialization Pilot Program__ 
-
-[Pub. L. 113–66, div. A, title XVI, § 1603][/us/pl/113/66/s1603], Dec. 26, 2013, [127 Stat. 944][/us/stat/127/944], provided that:
-
->     “(a)  __Pilot Program__  __.—__ 
-
->     The Secretary of Defense, acting through the Assistant Secretary of Defense for Research and Engineering, may establish and implement a pilot program, to be known as the ‘Proof of Concept Commercialization Pilot Program’, in accordance with this section.
-
->     “(b)  __Purpose__  __.—__ 
-
->     The purpose of the pilot program is to accelerate the commercialization of basic research innovations from qualifying institutions.
-
->     “(c) __Awards.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Under the pilot program, the Secretary shall make financial awards to qualifying institutions in accordance with this subsection.
-
->         “(2)  __Competitive, merit-based process__  __.—__ 
-
->         An award under the pilot program shall be made using a competitive, merit-based process.
-
->         “(3)  __Eligibility__  __.—__ 
-
->         A qualifying institution shall be eligible for an award under the pilot program if the institution agrees to—
-
->             “(A) use funds from the award for the uses specified in paragraph (5); and
-
->             “(B)
-
->              oversee the use of the funds through—
-
->                 “(i) a rigorous, diverse review board comprised of experts in translational and proof of concept research, including industry, start-up, venture capital, technical, financial, and business experts and university technology transfer officials;
-
->                 “(ii) technology validation milestones focused on market feasibility;
-
->                 “(iii) simple reporting on program progress; and
-
->                 “(iv) a process to reallocate funding from poor performing projects to those with more potential.
-
->         “(4)  __Criteria__  __.—__ 
-
->         An award may be made under the pilot program to a qualifying institution in accordance with the following criteria:
-
->             “(A)
-
->              The extent to which a qualifying institution—
-
->                 “(i) has an established and proven technology transfer or commercialization office and has a plan for engaging that office in the program’s implementation or has outlined an innovative approach to technology transfer that has the potential to increase or accelerate technology transfer outcomes and can be adopted by other qualifying institutions;
-
->                 “(ii) can assemble a project management board comprised of industry, start-up, venture capital, technical, financial, and business experts;
-
->                 “(iii) has an intellectual property rights strategy or office; and
-
->                 “(iv) demonstrates a plan for sustainability beyond the duration of the funding from the award.
-
->             “(B) Such other criteria as the Secretary determines necessary.
-
->         “(5) __Use of award.—__ 
-
->             “(A)  __In general__  __.—__ 
-
->             Subject to subparagraph (B), the funds from an award may be used to evaluate the commercial potential of existing discoveries, including activities that contribute to determining a project’s commercialization path, including technical validations, market research, clarifying intellectual property rights, and investigating commercial and business opportunities.
-
->             “(B) __Limitations.—__ 
-
->                 “(i) The amount of an award may not exceed $500,000 a year.
-
->                 “(ii) Funds from an award may not be used for basic research, or to fund the acquisition of research equipment or supplies unrelated to commercialization activities.
-
->     “(d)  __Report__  __.—__ 
-
->     Not later than one year after the establishment of the pilot program, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] and to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report evaluating the effectiveness of the activities of the pilot program. The report shall include—
-
->         “(1) a detailed description of the pilot program, including incentives and activities undertaken by review board experts;
-
->         “(2) an accounting of the funds used in the pilot program;
-
->         “(3) a detailed description of the institutional selection process;
-
->         “(4) a detailed compilation of results achieved by the pilot program; and
-
->         “(5) an analysis of the program’s effectiveness, with data supporting the analysis.
-
->     “(e)  __Qualifying Institution Defined__  __.—__ 
-
->     In this section, the term ‘qualifying institution’ means a nonprofit institution, as defined in section 4(3) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3703(3)][/us/usc/t15/s3703/3]), or a Federal laboratory, as defined in section 4(4) of the Stevenson-Wydler Technology Innovation Act of 1980 ([15 U.S.C. 3703(4)][/us/usc/t15/s3703/4]).
-
->     “(f)  __Limitation__  __.—__ 
-
->     Not more than $5,000,000 may be obligated or expended to conduct the pilot program under this section.
-
->     “(g)  __Termination__  __.—__ 
-
->     The pilot program conducted under this section shall terminate on September 30, 2018.”
-
  __Defense Research and Development Rapid Innovation Program__ 
 
 [Pub. L. 111–383, div. A, title X, § 1073][/us/pl/111/383/s1073], Jan. 7, 2011, [124 Stat. 4366][/us/stat/124/4366], provided that:
@@ -186,10 +90,6 @@
 [/us/stat/93/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F818
 [/us/pl/101/510/s1322/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1322%2Fa%2F5
 [/us/stat/104/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1671
-[/us/pl/113/66/s1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1603
-[/us/stat/127/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F944
-[/us/usc/t15/s3703/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703%2F3
-[/us/usc/t15/s3703/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3703%2F4
 [/us/pl/111/383/s1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1073
 [/us/stat/124/4366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4366
 

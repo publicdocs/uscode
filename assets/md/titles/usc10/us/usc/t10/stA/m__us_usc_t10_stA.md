@@ -219,7 +219,7 @@ PART I—ORGANIZATION AND GENERAL MILITARY POWERS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2FstA%2FptI%2Fch24" data-uslm-ref="/us/usc/t10/stA/ptI/ch24">24.</a>  </td>
 
-    <td> Nuclear Posture  </td>
+    <td> Nuclear posture  <sup>[1]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>   </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs491" data-uslm-ref="/us/usc/t10/s491">491</a>  </td>
 
@@ -1191,9 +1191,7 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title X, § 1091(a)(1)][/us/pl/113/66/s1091/a/1], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875], substituted “Nuclear Posture” for “Nuclear posture” in item for chapter 24.
-
-    [Pub. L. 112–239, div. A, title X, § 1031(b)(2)][/us/pl/112/239/s1031/b/2], Jan. 2, 2013, [126 Stat. 1918][/us/stat/126/1918], added item for chapter 24.
+    2013—[Pub. L. 112–239, div. A, title X, § 1031(b)(2)][/us/pl/112/239/s1031/b/2], Jan. 2, 2013, [126 Stat. 1918][/us/stat/126/1918], added item for chapter 24.
 
     2011—[Pub. L. 111–383, div. A, title VIII, § 861(b)][/us/pl/111/383/s861/b], title X, § 1075(b)(1), Jan. 7, 2011, [124 Stat. 4292][/us/stat/124/4292], 4368, substituted “1030” for “1031” in item for chapter 53 and added item for chapter 149.
 
@@ -1310,8 +1308,6 @@ PART IV—SERVICE, SUPPLY, AND PROCUREMENT  </td>
 ----------
 ----------
 
-[/us/pl/113/66/s1091/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F1
-[/us/stat/127/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F875
 [/us/pl/112/239/s1031/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1031%2Fb%2F2
 [/us/stat/126/1918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1918
 [/us/pl/111/383/s861/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs861%2Fb

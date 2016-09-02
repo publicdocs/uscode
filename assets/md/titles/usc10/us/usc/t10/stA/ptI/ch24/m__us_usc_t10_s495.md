@@ -95,40 +95,6 @@
 
 > “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the National Defense Authorization Act for Fiscal Year 2013 \[[Pub. L. 112–239][/us/pl/112/239]\].”
 
- __Retention of Capability to Redeploy Multiple Independently Targetable Reentry Vehicles__ 
-
-[Pub. L. 113–66, div. A, title X, § 1057][/us/pl/113/66/s1057], Dec. 26, 2013, [127 Stat. 864][/us/stat/127/864], provided that:
-
->     “(a)  __Deployment Capability__  __.—__ 
-
->     The Secretary of the Air Force shall ensure that the Air Force is capable of—
-
->         “(1) deploying multiple independently targetable reentry vehicles to Minuteman III intercontinental ballistic missiles; and
-
->         “(2) commencing such deployment not later than 180 days after the date on which the President determines such deployment necessary.
-
->     “(b)  __Warhead Capability__  __.—__ 
-
->     The Nuclear Weapons Council established by [section 179 of title 10][/us/usc/t10/s179], United States Code, shall ensure that—
-
->         “(1) the nuclear weapons stockpile contains a sufficient number of nuclear warheads that are capable of being deployed as multiple independently targetable reentry vehicles with respect to Minuteman III intercontinental ballistic missiles; and
-
->         “(2) such deployment is capable of being commenced not later than 180 days after the date on which the President determines such deployment necessary.”
-
- __Senses of Congress on Ensuring the Modernization of the Nuclear Forces of the United States__ 
-
-[Pub. L. 113–66, div. A, title X, § 1062(a)][/us/pl/113/66/s1062/a], Dec. 26, 2013, [127 Stat. 866][/us/stat/127/866], provided that: 
-
-> “It is the policy of the United States to—
-
->     “(1) modernize or replace the triad of strategic nuclear delivery systems;
-
->     “(2) proceed with a robust stockpile stewardship program;
-
->     “(3) maintain and modernize the nuclear weapons production capabilities that will ensure the safety, security, reliability, and performance of the nuclear forces of the United States at the levels required by the New START Treaty; and
-
->     “(4) underpin deterrence by meeting the requirements for hedging against possible international developments or technical problems, in accordance with the policies of the United States.”
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s494.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s496.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs495)
@@ -152,10 +118,5 @@
 [/us/pl/112/240/s801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F240%2Fs801%2Fb
 [/us/stat/126/2369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2369
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/113/66/s1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1057
-[/us/stat/127/864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F864
-[/us/usc/t10/s179]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs179
-[/us/pl/113/66/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1062%2Fa
-[/us/stat/127/866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F866
 
 

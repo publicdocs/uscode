@@ -93,12 +93,6 @@
 
 (Added [Pub. L. 109–364, div. A, title V, § 532(a)(1)][/us/pl/109/364/s532/a/1], Oct. 17, 2006, [120 Stat. 2200][/us/stat/120/2200].)
 
- __Prevention of Sexual Assault at Military Service Academies__ 
-
-[Pub. L. 113–66, div. A, title XVII, § 1746][/us/pl/113/66/s1746], Dec. 26, 2013, [127 Stat. 983][/us/stat/127/983], provided that: 
-
-> “The Secretary of Defense shall ensure that the United States Military Academy, the United States Naval Academy, and the United States Air Force Academy include a section in the curricula of that military service academy that outlines honor, respect, and character development as such pertain to the issue of preventing sexual assault in the Armed Forces. Such curricula section shall include a brief history of the problem of sexual assault in the Armed Forces, a definition of sexual assault, information relating to reporting a sexual assault, victims’ rights, and dismissal and dishonorable discharge for offenders. Training in such section in the curricula shall be provided within 14 days after the initial arrival of a new cadet or midshipman at that military service academy and repeated annually thereafter.”
-
  __Further Information From Cadets and Midshipmen at the Service Academies on Sexual Assault and Sexual Harassment Issues__ 
 
 [Pub. L. 109–364, div. A, title V, § 532(b)][/us/pl/109/364/s532/b], Oct. 17, 2006, [120 Stat. 2205][/us/stat/120/2205], provided that:
@@ -130,8 +124,6 @@
 
 [/us/pl/109/364/s532/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs532%2Fa%2F1
 [/us/stat/120/2200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2200
-[/us/pl/113/66/s1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1746
-[/us/stat/127/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F983
 [/us/pl/109/364/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs532%2Fb
 [/us/stat/120/2205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2205
 

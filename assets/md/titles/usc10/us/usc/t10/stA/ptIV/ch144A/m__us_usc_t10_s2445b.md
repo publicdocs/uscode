@@ -27,7 +27,7 @@
 
         (2) The implementation schedule, including estimates of milestone dates, full deployment decision, and full deployment.
 
-        (3) Estimates of total acquisition costs and full life-cycle costs.
+        (3) Estimates of development costs and full life-cycle costs.
 
         (4) A summary of key performance parameters.
 
@@ -61,11 +61,9 @@
 
     With respect to each other major information technology investment program, the information required by subsection (a) may be provided in the format that is most appropriate to the current status of the program.
 
-(Added [Pub. L. 109–364, div. A, title VIII, § 816(a)(1)][/us/pl/109/364/s816/a/1], Oct. 17, 2006, [120 Stat. 2323][/us/stat/120/2323]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(b), Oct. 14, 2008, [122 Stat. 4525][/us/stat/122/4525]; [Pub. L. 111–84, div. A, title VIII, § 841(a)][/us/pl/111/84/s841/a], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 111–383, div. A, title VIII, § 805(b)][/us/pl/111/383/s805/b], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259]; [Pub. L. 113–66, div. A, title X, § 1092(d)(1)][/us/pl/113/66/s1092/d/1], Dec. 26, 2013, [127 Stat. 877][/us/stat/127/877].)
+(Added [Pub. L. 109–364, div. A, title VIII, § 816(a)(1)][/us/pl/109/364/s816/a/1], Oct. 17, 2006, [120 Stat. 2323][/us/stat/120/2323]; amended [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 812(b), Oct. 14, 2008, [122 Stat. 4525][/us/stat/122/4525]; [Pub. L. 111–84, div. A, title VIII, § 841(a)][/us/pl/111/84/s841/a], Oct. 28, 2009, [123 Stat. 2418][/us/stat/123/2418]; [Pub. L. 111–383, div. A, title VIII, § 805(b)][/us/pl/111/383/s805/b], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259].)
 
  __Amendments__ 
-
-    2013—Subsec. (b)(3). [Pub. L. 113–66][/us/pl/113/66] substituted “total acquisition costs” for “development costs”.
 
     2011—Subsec. (b)(5), (6). [Pub. L. 111–383][/us/pl/111/383] added pars. (5) and (6).
 
@@ -96,9 +94,6 @@
 [/us/stat/123/2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2418
 [/us/pl/111/383/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs805%2Fb
 [/us/stat/124/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4259
-[/us/pl/113/66/s1092/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1092%2Fd%2F1
-[/us/stat/127/877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F877
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417/s812/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs812%2Fb%2F1

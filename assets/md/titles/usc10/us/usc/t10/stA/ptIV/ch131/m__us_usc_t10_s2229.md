@@ -15,31 +15,9 @@
 
 ## § 2229. Strategic policy on prepositioning of materiel and equipment
 
-    (a) __Policy Required.—__ 
+    (a)  __Policy Required__  __.—__ 
 
-        (1)  __In general__  __.—__ 
-
-        The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for prepositioned materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands, and shall address how the Department’s prepositioning programs, both ground and afloat, align with national defense strategies and departmental priorities.
-
-        (2)  __Elements__  __.—__ 
-
-        The strategic policy required under paragraph (1) shall include the following elements:
-
-            (A) Overarching strategic guidance concerning planning and resource priorities that link the Department of Defense’s current and future needs for prepositioned stocks, such as desired responsiveness, to evolving national defense objectives.
-
-            (B) A description of the Department’s vision for prepositioning programs and the desired end state.
-
-            (C) Specific interim goals demonstrating how the vision and end state will be achieved.
-
-            (D) A description of the strategic environment, requirements for, and challenges associated with, prepositioning.
-
-            (E) Metrics for how the Department will evaluate the extent to which prepositioned assets are achieving defense objectives.
-
-            (F) A framework for joint departmental oversight that reviews and synchronizes the military services’ prepositioning strategies to minimize potentially duplicative efforts and maximize efficiencies in prepositioned materiel and equipment across the Department of Defense.
-
-        (3)  __Joint oversight__  __.—__ 
-
-        The Secretary of Defense shall establish joint oversight of the military services’ prepositioning efforts to maximize efficiencies across the Department of Defense.
+    The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for the prepositioning of materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands.
 
     (b)  __Limitation of Diversion of Prepositioned Materiel__  __.—__ 
 
@@ -61,45 +39,11 @@
 
         (3) A certification under this subsection shall be in an unclassified form but may have a classified annex.
 
-(Added [Pub. L. 109–364, div. A, title III, § 351(a)][/us/pl/109/364/s351/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; amended [Pub. L. 112–81, div. A, title III, § 341(a)][/us/pl/112/81/s341/a], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369]; [Pub. L. 113–66, div. A, title III, § 321(a)][/us/pl/113/66/s321/a], Dec. 26, 2013, [127 Stat. 730][/us/stat/127/730].)
+(Added [Pub. L. 109–364, div. A, title III, § 351(a)][/us/pl/109/364/s351/a], Oct. 17, 2006, [120 Stat. 2160][/us/stat/120/2160]; amended [Pub. L. 112–81, div. A, title III, § 341(a)][/us/pl/112/81/s341/a], Dec. 31, 2011, [125 Stat. 1369][/us/stat/125/1369].)
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66][/us/pl/113/66] amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall maintain a strategic policy on the programs of the Department of Defense for the prepositioning of materiel and equipment. Such policy shall take into account national security threats, strategic mobility, service requirements, and the requirements of the combatant commands.”
-
     2011—Subsec. (d). [Pub. L. 112–81][/us/pl/112/81] added subsec. (d).
-
- __Implementation Plan and Report__ 
-
-[Pub. L. 113–66, div. A, title III, § 321(b)][/us/pl/113/66/s321/b], (c), Dec. 26, 2013, [127 Stat. 731][/us/stat/127/731], 732, provided that:
-
->     “(b) __Implementation Plan.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Not later than 120 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for implementation of the prepositioning strategic policy required under [section 2229(a) of title 10][/us/usc/t10/s2229/a], United States Code, as amended by subsection (a).
-
->         “(2)  __Elements__  __.—__ 
-
->         The implementation plan required under paragraph (1) shall include the following elements:
-
->             “(A) Detailed guidance for how the Department of Defense will achieve the vision, end state, and goals outlined in the strategic policy.
-
->             “(B) A comprehensive list of the Department’s prepositioned materiel and equipment programs.
-
->             “(C) A detailed description of how the plan will be implemented.
-
->             “(D) A schedule with milestones for the implementation of the plan.
-
->             “(E) An assignment of roles and responsibilities for the implementation of the plan.
-
->             “(F) A description of the resources required to implement the plan.
-
->             “(G) A description of how the plan will be reviewed and assessed to monitor progress.
-
->     “(c)  __Comptroller General Report__  __.—__ 
-
->     Not later than 180 days after the date of the enactment of this Act, and annually thereafter, the Comptroller General of the United States shall review the implementation plan submitted under subsection (b) and the prepositioning strategic policy required under [section 2229(a) of title 10][/us/usc/t10/s2229/a], United States Code, as amended by subsection (a), and submit to the congressional defense committees a report describing the findings of such review and including any additional information relating to the propositioning strategic policy and plan that the Comptroller General determines appropriate.”
 
  __Deadline for Establishment of Policy__ 
 
@@ -149,14 +93,7 @@
 [/us/stat/120/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2160
 [/us/pl/112/81/s341/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs341%2Fa
 [/us/stat/125/1369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1369
-[/us/pl/113/66/s321/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs321%2Fa
-[/us/stat/127/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F730
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/113/66/s321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs321%2Fb
-[/us/stat/127/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F731
-[/us/usc/t10/s2229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229%2Fa
-[/us/usc/t10/s2229/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229%2Fa
 [/us/pl/109/364/s351/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs351%2Fc
 [/us/stat/120/2160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2160
 [/us/usc/t10/s2229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2229

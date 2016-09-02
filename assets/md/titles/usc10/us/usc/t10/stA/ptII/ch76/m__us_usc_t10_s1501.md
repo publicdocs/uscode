@@ -27,8 +27,6 @@
 
             (C) coordination for the Department of Defense with other departments and agencies of the United States on all matters concerning missing persons.
 
-            (D) the dissemination of appropriate information on the status of missing persons to authorized family members.
-
         (2) The official designated under paragraph (1) shall also serve as the Director, Defense Prisoner of War/Missing Personnel Office, as established under paragraph (6)(A), exercising authority, direction, and control over that activity.
 
         (3) In carrying out the responsibilities established under this subsection, the official designated under paragraph (1) and (2) shall be responsible for the coordination for such purposes within the Department of Defense among the military departments, the Joint Staff, and the commanders of the combatant commands.
@@ -97,11 +95,9 @@
 
     In this chapter, the term “Secretary concerned” includes, in the case of a civilian officer or employee of the Department of Defense or an employee of a contractor of the Department of Defense, the Secretary of the military department or head of the element of the Department of Defense employing the officer or employee or contracting with the contractor, as the case may be.
 
-(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(1)][/us/pl/104/201/s578/a/1], Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(1)][/us/pl/105/85/s599/a/1], Nov. 18, 1997, [111 Stat. 1766][/us/stat/111/1766]; [Pub. L. 106–65, div. A, title X, § 1066(a)(13)][/us/pl/106/65/s1066/a/13], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 107–314, div. A, title V, § 551][/us/pl/107/314/s551], Dec. 2, 2002, [116 Stat. 2551][/us/stat/116/2551]; [Pub. L. 108–375, div. A, title V, § 582(a)][/us/pl/108/375/s582/a], Oct. 28, 2004, [118 Stat. 1928][/us/stat/118/1928]; [Pub. L. 111–383, div. A, title IX, § 901(g)][/us/pl/111/383/s901/g], Jan. 7, 2011, [124 Stat. 4322][/us/stat/124/4322]; [Pub. L. 113–66, div. A, title V, § 581(a)][/us/pl/113/66/s581/a], Dec. 26, 2013, [127 Stat. 773][/us/stat/127/773].)
+(Added [Pub. L. 104–106, div. A, title V, § 569(b)(1)][/us/pl/104/106/s569/b/1], Feb. 10, 1996, [110 Stat. 336][/us/stat/110/336]; amended [Pub. L. 104–201, div. A, title V, § 578(a)(1)][/us/pl/104/201/s578/a/1], Sept. 23, 1996, [110 Stat. 2536][/us/stat/110/2536]; [Pub. L. 105–85, div. A, title V, § 599(a)(1)][/us/pl/105/85/s599/a/1], Nov. 18, 1997, [111 Stat. 1766][/us/stat/111/1766]; [Pub. L. 106–65, div. A, title X, § 1066(a)(13)][/us/pl/106/65/s1066/a/13], Oct. 5, 1999, [113 Stat. 771][/us/stat/113/771]; [Pub. L. 107–314, div. A, title V, § 551][/us/pl/107/314/s551], Dec. 2, 2002, [116 Stat. 2551][/us/stat/116/2551]; [Pub. L. 108–375, div. A, title V, § 582(a)][/us/pl/108/375/s582/a], Oct. 28, 2004, [118 Stat. 1928][/us/stat/118/1928]; [Pub. L. 111–383, div. A, title IX, § 901(g)][/us/pl/111/383/s901/g], Jan. 7, 2011, [124 Stat. 4322][/us/stat/124/4322].)
 
  __Amendments__ 
-
-    2013—Subsec. (a)(1)(D). [Pub. L. 113–66][/us/pl/113/66] added subpar. (D).
 
     2011—Subsec. (a). [Pub. L. 111–383, § 901(g)(1)][/us/pl/111/383/s901/g/1], substituted “Responsibility for Missing Personnel” for “Office for Missing Personnel” in heading.
 
@@ -213,9 +209,6 @@
 [/us/stat/118/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1928
 [/us/pl/111/383/s901/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg
 [/us/stat/124/4322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4322
-[/us/pl/113/66/s581/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs581%2Fa
-[/us/stat/127/773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F773
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383/s901/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F1
 [/us/pl/111/383/s901/g/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F2%2FA
 [/us/pl/111/383/s901/g/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs901%2Fg%2F2%2FD

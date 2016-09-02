@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2276.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2278.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2277)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2276.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch136/m__us_usc_t10_stA_ptIV_ch136.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2277)
 
 ## § 2277. Report on foreign counter-space programs
 
@@ -55,20 +55,30 @@
 
  __Prior Provisions__ 
 
-    A prior section 2277, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127], related to availability of appropriations, prior to repeal by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+    Prior sections 2277 to 2279 were repealed by [Pub. L. 103–160, div. A, title VIII, § 821(a)(1)][/us/pl/103/160/s821/a/1], Nov. 30, 1993, [107 Stat. 1704][/us/stat/107/1704].
+
+    Section 2277, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127], related to availability of appropriations.
+
+    Section 2278, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127], related to purchases of sample aircraft.
+
+    Section 2279, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 127][/us/stat/70A/127], related to restrictions on alien employees of contractors as to access to plans and specifications.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2276.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2278.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2277)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2276.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch136/m__us_usc_t10_stA_ptIV_ch136.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2277)
 
 ----------
 ----------
 
 [/us/pl/112/239/s913/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs913%2Fc%2F1
 [/us/stat/126/1875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1875
-[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
-[/us/stat/70A/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F127
 [/us/pl/103/160/s821/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs821%2Fa%2F1
 [/us/stat/107/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1704
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F127
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F127
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
+[/us/stat/70A/127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F127
 
 

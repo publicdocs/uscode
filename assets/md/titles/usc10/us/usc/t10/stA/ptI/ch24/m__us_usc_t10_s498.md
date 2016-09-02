@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s497a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/m__us_usc_t10_stA_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs498)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s497.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/m__us_usc_t10_stA_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs498)
 
-## § 498. Unilateral change in nuclear weapons stockpile of the United States
+## § 498  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a period. </sup></sup>  Unilateral change in nuclear weapons stockpile of the United States
 
     (a)  __In General__  __.—__ 
 
@@ -35,23 +35,16 @@
 
     A Nuclear Posture Review under this section shall be submitted in unclassified form, but may include a classified annex.
 
-(Added [Pub. L. 112–239, div. A, title X, § 1038(a)][/us/pl/112/239/s1038/a], Jan. 2, 2013, [126 Stat. 1927][/us/stat/126/1927]; amended [Pub. L. 113–66, div. A, title X, § 1091(a)(6)][/us/pl/113/66/s1091/a/6], Dec. 26, 2013, [127 Stat. 875][/us/stat/127/875].)
-
- __Amendments__ 
-
-    2013—[Pub. L. 113–66][/us/pl/113/66] inserted a period after the enumerator in section catchline.
+(Added [Pub. L. 112–239, div. A, title X, § 1038(a)][/us/pl/112/239/s1038/a], Jan. 2, 2013, [126 Stat. 1927][/us/stat/126/1927].)
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s497a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/m__us_usc_t10_stA_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs498)
+[Previous](./../../../../../..//us/usc/t10/stA/ptI/ch24/m__us_usc_t10_s497.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/m__us_usc_t10_stA_ptII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs498)
 
 ----------
 ----------
 
 [/us/pl/112/239/s1038/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1038%2Fa
 [/us/stat/126/1927]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1927
-[/us/pl/113/66/s1091/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F6
-[/us/stat/127/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F875
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

@@ -119,15 +119,9 @@
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 2008, and shall apply with respect to programs and activities under [section 168 of title 10][/us/usc/t10/s168], United States Code, as so amended, that begin on or after that date.”
 
- __Update of Policy Guidance on Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense__ 
-
-[Pub. L. 113–66, div. A, title X, § 1094(a)(2)][/us/pl/113/66/s1094/a/2], Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], provided that: 
-
-> “The Under Secretary of Defense for Policy shall issue an update of the policy of the Department of Defense for assignment of civilian employees of the Department as advisors to foreign ministries of defense under the authority in section 1081 of the National Defense Authorization Act for Fiscal Year 2012 \[[section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out below\], as amended by this section.”
-
  __Authority for Assignment of Civilian Employees of the Department of Defense as Advisors to Foreign Ministries of Defense__ 
 
-[Pub. L. 112–81, div. A, title X, § 1081][/us/pl/112/81/s1081], Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], as amended by [Pub. L. 113–66, div. A, title X, § 1094(a)(1)][/us/pl/113/66/s1094/a/1], (3)–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], provided that:
+[Pub. L. 112–81, div. A, title X, § 1081][/us/pl/112/81/s1081], Dec. 31, 2011, [125 Stat. 1599][/us/stat/125/1599], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -141,15 +135,15 @@
 
 >         “(1)  __In general__  __.—__ 
 
->         The authority of the Secretary of Defense to assign civilian employees under the program under subsection (a) terminates at the close of September 30, 2017.
+>         The authority of the Secretary of Defense to assign civilian employees under the program under subsection (a) terminates at the close of September 30, 2014.
 
 >         “(2)  __Continuation of assignments__  __.—__ 
 
->         Any assignment of a civilian employee under subsection (a) before the date specified in paragraph (1) may continue after that date, but only using funds available for a fiscal year ending on or before that date.
+>         Any assignment of a civilian employee under subsection (a) before the date specified in paragraph (1) may continue after that date, but only using funds available for fiscal year 2012, 2013, or 2014.
 
 >     “(c)  __Annual Report__  __.—__ 
 
->     Not later than December 30 each year through 2017, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report on activities under the program under subsection (a) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
+>     Not later than December 30 each year through 2014, the Secretary of Defense shall submit to the Committees on Armed Services and Foreign Relations of the Senate and the Committees on Armed Services and Foreign Affairs of the House of Representatives a report on activities under the program under subsection (a) during the preceding fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
 >         “(1) A list of the defense ministries to which civilian employees were assigned under the program.
 
@@ -157,7 +151,7 @@
 
 >         “(3) A statement of the duration of the various assignments of such employees.
 
->         “(4) A brief description of the activities carried out by such employees pursuant to such assignments.
+>         “(4) A brief description of the activities carried out such by such employees pursuant to such assignments.
 
 >         “(5) A description of the criteria used to select the defense ministries identified in paragraph (1) and the civilian employees so assigned.
 
@@ -167,9 +161,7 @@
 
 >     “(d)  __Comptroller General Report__  __.—__ 
 
->     Not later than December 31, 2014, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (c) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.”
-
-    \[[Pub. L. 113–66, div. A, title X, § 1094(a)(3)][/us/pl/113/66/s1094/a/3]–(5), Dec. 26, 2013, [127 Stat. 878][/us/stat/127/878], which directed amendment of “such section” by striking “2014” and inserting “2017”, in subsec. (c), by striking “carried out such by such” and inserting “carried out by such” in subsec. (c)(4), and by striking “December 30, 2013” and inserting “December 31, 2014” in subsec. (d), was executed to [section 1081 of Pub. L. 112–81][/us/pl/112/81/s1081], set out above, to reflect the probable intent of Congress.\]
+>     Not later than December 30, 2013, the Comptroller General of the United States shall submit to the committees of Congress specified in subsection (c) a report setting forth an assessment of the effectiveness of the advisory services provided by civilian employees assigned under the program under subsection (a) as of the date of the report in meeting the purposes of the program.”
 
  __Authority for Non-Reciprocal Exchanges of Defense Personnel Between the United States and Foreign Countries__ 
 
@@ -361,16 +353,8 @@
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4622
 [/us/usc/t10/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs168
-[/us/pl/113/66/s1094/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F2
-[/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
-[/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081
 [/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081
 [/us/stat/125/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1599
-[/us/pl/113/66/s1094/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F1
-[/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
-[/us/pl/113/66/s1094/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1094%2Fa%2F3
-[/us/stat/127/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F878
-[/us/pl/112/81/s1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1081
 [/us/pl/111/84/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1207
 [/us/stat/123/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2514
 [/us/pl/112/239/s1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1202

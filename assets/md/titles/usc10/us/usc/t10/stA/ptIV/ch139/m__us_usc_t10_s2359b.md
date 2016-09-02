@@ -149,7 +149,7 @@
 
             (B)  __Covered acquisition program__  __.—__ 
 
-            The term “covered acquisition program” means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.).
+            The term “covered acquisition program” means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act ([15 U.S.C. 631][/us/usc/t15/s631] et seq.)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a period. </sup></sup> 
 
             (C)  __Level of performance__  __.—__ 
 
@@ -159,7 +159,7 @@
 
         The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016.
 
-(Added [Pub. L. 107–314, div. A, title II, § 243(a)][/us/pl/107/314/s243/a], Dec. 2, 2002, [116 Stat. 2495][/us/stat/116/2495]; amended [Pub. L. 109–364, div. A, title II, § 213(b)][/us/pl/109/364/s213/b], (d)–(g), Oct. 17, 2006, [120 Stat. 2121–2123][/us/stat/120/2121-2123]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 821, Oct. 14, 2008, [122 Stat. 4531][/us/stat/122/4531]; [Pub. L. 111–383, div. A, title VIII, § 827][/us/pl/111/383/s827], Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270]; [Pub. L. 112–239, div. A, title X, § 1076(e)(3)][/us/pl/112/239/s1076/e/3], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951]; [Pub. L. 113–66, div. A, title X, § 1091(a)(10)][/us/pl/113/66/s1091/a/10], Dec. 26, 2013, [127 Stat. 876][/us/stat/127/876].)
+(Added [Pub. L. 107–314, div. A, title II, § 243(a)][/us/pl/107/314/s243/a], Dec. 2, 2002, [116 Stat. 2495][/us/stat/116/2495]; amended [Pub. L. 109–364, div. A, title II, § 213(b)][/us/pl/109/364/s213/b], (d)–(g), Oct. 17, 2006, [120 Stat. 2121–2123][/us/stat/120/2121-2123]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 821, Oct. 14, 2008, [122 Stat. 4531][/us/stat/122/4531]; [Pub. L. 111–383, div. A, title VIII, § 827][/us/pl/111/383/s827], Jan. 7, 2011, [124 Stat. 4270][/us/stat/124/4270]; [Pub. L. 112–239, div. A, title X, § 1076(e)(3)][/us/pl/112/239/s1076/e/3], Jan. 2, 2013, [126 Stat. 1951][/us/stat/126/1951].)
 
  __References in Text__ 
 
@@ -169,9 +169,7 @@
 
  __Amendments__ 
 
-    2013—Subsec. (k)(4)(B). [Pub. L. 113–66][/us/pl/113/66] inserted period at end.
-
-    Subsec. (k)(5). [Pub. L. 112–239][/us/pl/112/239] substituted “January 7, 2016” for “the date that is five years after the date of the enactment of this Act”.
+    2013—Subsec. (k)(5). [Pub. L. 112–239][/us/pl/112/239] substituted “January 7, 2016” for “the date that is five years after the date of the enactment of this Act”.
 
     2011—Subsecs. (j) to (l). [Pub. L. 111–383][/us/pl/111/383] redesignated subsec. (l) as (j), added subsec. (k), and struck out former subsecs. (j) and (k) which related to annual report and termination of authority, respectively.
 
@@ -223,8 +221,6 @@
 [/us/stat/124/4270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4270
 [/us/pl/112/239/s1076/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fe%2F3
 [/us/stat/126/1951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1951
-[/us/pl/113/66/s1091/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1091%2Fa%2F10
-[/us/stat/127/876]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F876
 [/us/pl/93/400/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F400%2Fs4
 [/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3677
@@ -232,7 +228,6 @@
 [/us/pl/85/536/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F536%2Fs2
 [/us/stat/72/384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F384
 [/us/usc/t15/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs631
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

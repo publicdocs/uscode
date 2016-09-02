@@ -49,31 +49,15 @@
 
     In carrying out the program, the Secretary shall collect and analyze “lessons learned” and suggestions from State National Guard and Reserve organizations with existing or developing suicide prevention and community response programs.
 
-    (f)  __Outreach for Certain Members of the Reserve Components__  __.—__ 
-
-        (1) Upon the request of an adjutant general of a State, the Secretary may share with the adjutant general the contact information of members described in paragraph (2) who reside in such State in order for the adjutant general to include such members in suicide prevention efforts conducted under this section.
-
-        (2)
-
-         Members described in this paragraph are—
-
-            (A) members of the Individual Ready Reserve; and
-
-            (B) members of a reserve component who are individual mobilization augmentees.
-
-    (g)  __Termination__  __.—__ 
+    (f)  __Termination__  __.—__ 
 
     The program under this section shall terminate on October 1, 2017.
 
-(Added [Pub. L. 112–239, div. A, title V, § 581(a)(1)][/us/pl/112/239/s581/a/1], Jan. 2, 2013, [126 Stat. 1764][/us/stat/126/1764]; amended [Pub. L. 113–66, div. A, title V, § 511(a)][/us/pl/113/66/s511/a], Dec. 26, 2013, [127 Stat. 751][/us/stat/127/751].)
+(Added [Pub. L. 112–239, div. A, title V, § 581(a)(1)][/us/pl/112/239/s581/a/1], Jan. 2, 2013, [126 Stat. 1764][/us/stat/126/1764].)
 
  __References in Text__ 
 
     Section 582 of the National Defense Authorization Act for Fiscal Year 2008, referred to in subsec. (a), is [section 582 of Pub. L. 110–181][/us/pl/110/181/s582], which is set out as a note under [section 10101 of this title][/us/usc/t10/s10101].
-
- __Amendments__ 
-
-    2013—Subsecs. (f), (g). [Pub. L. 113–66][/us/pl/113/66] added subsec. (f) and redesignated former subsec. (f) as (g).
 
 ----------
 
@@ -85,10 +69,7 @@
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
 [/us/pl/112/239/s581/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs581%2Fa%2F1
 [/us/stat/126/1764]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1764
-[/us/pl/113/66/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs511%2Fa
-[/us/stat/127/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F751
 [/us/pl/110/181/s582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs582
 [/us/usc/t10/s10101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10101
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 
 

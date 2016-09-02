@@ -35,7 +35,7 @@
 
          To support a funeral honors detail under this section, the Secretary of a military department may provide the following:
 
-            (A) For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464] or the daily stipend prescribed under paragraph (2).
+            (A) For a person who participates in a funeral honors detail (other than a person who is a member of the armed forces not in a retired status or an employee of the United States), either transportation (or reimbursement for transportation) and expenses or the daily stipend prescribed under paragraph (2).
 
             (B) For members of a veterans organization or other organization referred to in subsection (b)(2) and for members of the armed forces in a retired status, materiel, equipment, and training.
 
@@ -75,13 +75,11 @@
 
         (2) was a member or former member of the Selected Reserve described in [section 2301(f) of title 38][/us/usc/t38/s2301/f].
 
-(Added [Pub. L. 105–261, div. A, title V, § 567(b)(1)][/us/pl/105/261/s567/b/1], Oct. 17, 1998, [112 Stat. 2030][/us/stat/112/2030]; amended [Pub. L. 106–65, div. A, title V, § 578(a)(1)][/us/pl/106/65/s578/a/1], (b)–(e), (k)(1), title X, § 1067(1), Oct. 5, 1999, [113 Stat. 625–627][/us/stat/113/625-627], 630, 774; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 561(a), 564, Dec. 28, 2001, [115 Stat. 1119][/us/stat/115/1119], 1120; [Pub. L. 107–314, div. A, title V, § 571][/us/pl/107/314/s571], Dec. 2, 2002, [116 Stat. 2556][/us/stat/116/2556]; [Pub. L. 109–163, div. A, title VI, § 662(b)(4)][/us/pl/109/163/s662/b/4], Jan. 6, 2006, [119 Stat. 3315][/us/stat/119/3315]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948]; [Pub. L. 113–66, div. A, title VI, § 621(f)][/us/pl/113/66/s621/f], Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784].)
+(Added [Pub. L. 105–261, div. A, title V, § 567(b)(1)][/us/pl/105/261/s567/b/1], Oct. 17, 1998, [112 Stat. 2030][/us/stat/112/2030]; amended [Pub. L. 106–65, div. A, title V, § 578(a)(1)][/us/pl/106/65/s578/a/1], (b)–(e), (k)(1), title X, § 1067(1), Oct. 5, 1999, [113 Stat. 625–627][/us/stat/113/625-627], 630, 774; [Pub. L. 107–107, div. A, title V][/us/pl/107/107], §§ 561(a), 564, Dec. 28, 2001, [115 Stat. 1119][/us/stat/115/1119], 1120; [Pub. L. 107–314, div. A, title V, § 571][/us/pl/107/314/s571], Dec. 2, 2002, [116 Stat. 2556][/us/stat/116/2556]; [Pub. L. 109–163, div. A, title VI, § 662(b)(4)][/us/pl/109/163/s662/b/4], Jan. 6, 2006, [119 Stat. 3315][/us/stat/119/3315]; [Pub. L. 112–81, div. A, title VI, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], Dec. 31, 2011, [125 Stat. 1465][/us/stat/125/1465]; [Pub. L. 112–239, div. A, title X, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], Jan. 2, 2013, [126 Stat. 1948][/us/stat/126/1948].)
 
  __Amendments__ 
 
-    2013—Subsec. (d)(1)(A). [Pub. L. 113–66][/us/pl/113/66] substituted “travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464]” for “transportation (or reimbursement for transportation) and expenses”.
-
-    Subsec. (d)(3). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
+    2013—Subsec. (d)(3). [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], made technical amendment to directory language of [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A]. See 2011 Amendment note below.
 
     2011—Subsec. (d)(3). [Pub. L. 112–81, § 631(f)(4)(A)][/us/pl/112/81/s631/f/4/A], as amended by [Pub. L. 112–239, § 1076(a)(9)][/us/pl/112/239/s1076/a/9], substituted “495(a)(2)” for “435(a)(2)”.
 
@@ -145,7 +143,6 @@
 ----------
 
 [/us/usc/t10/s985/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs985%2Fa
-[/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
 [/us/usc/t37/s495/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs495%2Fa%2F2
 [/us/usc/t38/s101/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F24
 [/us/usc/t38/s2301/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs2301%2Ff
@@ -163,10 +160,6 @@
 [/us/stat/125/1465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1465
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/stat/126/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1948
-[/us/pl/113/66/s621/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Ff
-[/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
 [/us/pl/112/239/s1076/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fa%2F9
 [/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA
 [/us/pl/112/81/s631/f/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs631%2Ff%2F4%2FA

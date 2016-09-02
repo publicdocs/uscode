@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806b.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schII/m__us_usc_t10_s807.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47%2FschII)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806a.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schII/m__us_usc_t10_s807.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47%2FschII)
 
 ##### SUBCHAPTER II—APPREHENSION AND RESTRAINT
 
@@ -165,7 +165,7 @@ Delivery of offenders to civil authorities.  </td>
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806b.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schII/m__us_usc_t10_s807.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47%2FschII)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806a.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schII/m__us_usc_t10_s807.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch47%2FschII)
 
 ----------
 ----------

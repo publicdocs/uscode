@@ -33,9 +33,9 @@
 
         (7) Funeral director’s services.
 
-        (8) Transportation of the remains, and travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464] for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized. When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]; [10 U.S.C. 1482][/us/usc/t10/s1482] note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
+        (8) Transportation of the remains, and roundtrip transportation and prescribed allowances for an escort of one person, to the place selected by the person designated to direct disposition of the remains or, if such a selection is not made, to a national or other cemetery which is selected by the Secretary and in which burial of the decedent is authorized. When transportation of the remains includes transportation by aircraft under section 562 of the John Warner National Defense Authorization Act for Fiscal Year 2007 ([Public Law 109–364][/us/pl/109/364]; [10 U.S.C. 1482][/us/usc/t10/s1482] note), the Secretary concerned shall provide, to the maximum extent practicable, for delivery of the remains by air to the commercial, general aviation, or military airport nearest to the place selected by the designee.
 
-        (9) Interment or inurnment of the remains.
+        (9) Interment of the remains.
 
     (b) If an individual pays any expense payable by the United States under this section, the Secretary concerned shall reimburse him or his representative in an amount not larger than that normally incurred by the Secretary in furnishing the supply or service concerned. If reimbursement by the United States is also authorized under another provision of law or regulation, the individual may elect under which provision to be reimbursed.
 
@@ -97,19 +97,9 @@
 
             (B) The term “child” has the meaning prescribed by [section 1477(d) of this title][/us/usc/t10/s1477/d].
 
-    (f) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by [section 1481(a)(9) of this title][/us/usc/t10/s1481/a/9] is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
+    (f) The payment of expenses incident to the recovery, care, and disposition of a decedent covered by [section 1481(a)(9) of this title][/us/usc/t10/s1481/a/9] is limited to the payment of expenses described in paragraphs (1) through (5) of subsection (a) and air transportation of the remains from a location outside the United States to a point of entry in the United States. Such air transportation may be provided without reimbursement on a space-available basis in military or military-chartered aircraft. The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available, at the time of reimbursement, for the payment of such expenses.
 
-    (g)
-
-        (1) The payment of expenses incident to the recovery, care, and disposition of the remains of a decedent covered by [section 1481(a)(10) of this title][/us/usc/t10/s1481/a/10] is limited to those expenses that, as determined under regulations prescribed by the Secretary of Defense, would not have been incurred but for the retention of those remains for purposes of a forensic pathology investigation by the Armed Forces Medical Examiner under [section 1471 of this title][/us/usc/t10/s1471].
-
-        (2) In a case covered by paragraph (1), if the person designated under subsection (c) to direct disposition of the remains of a decedent does not direct disposition of the remains that were retained for the forensic pathology investigation, the Secretary may pay for the transportation of those remains to, and interment or inurnment of those remains in, an appropriate place selected by the Secretary, in lieu of the transportation authorized to be paid under paragraph (8) of subsection (a).
-
-        (3) In a case covered by paragraph (1), expenses that may be paid do not include expenses with respect to an escort under paragraph (8) of subsection (a), whether or not on a reimbursable basis.
-
-        (4) The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section on a reimbursable basis. Amounts reimbursed to the Secretary concerned under this subsection shall be credited to appropriations available at the time of reimbursement for the payment of such expenses.
-
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 113][/us/stat/70A/113]; [Pub. L. 85–716][/us/pl/85/716], Aug. 21, 1958, [72 Stat. 708][/us/stat/72/708]; [Pub. L. 91–397][/us/pl/91/397], Sept. 1, 1970, [84 Stat. 837][/us/stat/84/837]; [Pub. L. 91–487][/us/pl/91/487], Oct. 22, 1970, [84 Stat. 1086][/us/stat/84/1086]; [Pub. L. 93–292][/us/pl/93/292], May 28, 1974, [88 Stat. 176][/us/stat/88/176]; [Pub. L. 93–649][/us/pl/93/649], Jan. 8, 1975, [88 Stat. 2361][/us/stat/88/2361]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189], §§ 652(a)(3), 653(a)(6), title XVI, § 1622(c)(4), Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461], 1462, 1604; [Pub. L. 103–337, div. A, title VI, § 652(a)(2)][/us/pl/103/337/s652/a/2], title XVI, § 1671(c)(8), Oct. 5, 1994, [108 Stat. 2793][/us/stat/108/2793], 3014; [Pub. L. 104–106, div. A, title XV, § 1501(c)(19)][/us/pl/104/106/s1501/c/19], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 107–107, div. A, title VI, § 638(b)(1)][/us/pl/107/107/s638/b/1], Dec. 28, 2001, [115 Stat. 1147][/us/stat/115/1147]; [Pub. L. 110–181, div. A, title V, § 591][/us/pl/110/181/s591], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 581, Oct. 14, 2008, [122 Stat. 4472][/us/stat/122/4472]; [Pub. L. 112–81, div. A, title V, § 528][/us/pl/112/81/s528], Dec. 31, 2011, [125 Stat. 1402][/us/stat/125/1402]; [Pub. L. 113–66, div. A, title VI][/us/pl/113/66], §§ 621(e), 651(a)(2)–(c), Dec. 26, 2013, [127 Stat. 784][/us/stat/127/784], 787, 788.)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 113][/us/stat/70A/113]; [Pub. L. 85–716][/us/pl/85/716], Aug. 21, 1958, [72 Stat. 708][/us/stat/72/708]; [Pub. L. 91–397][/us/pl/91/397], Sept. 1, 1970, [84 Stat. 837][/us/stat/84/837]; [Pub. L. 91–487][/us/pl/91/487], Oct. 22, 1970, [84 Stat. 1086][/us/stat/84/1086]; [Pub. L. 93–292][/us/pl/93/292], May 28, 1974, [88 Stat. 176][/us/stat/88/176]; [Pub. L. 93–649][/us/pl/93/649], Jan. 8, 1975, [88 Stat. 2361][/us/stat/88/2361]; [Pub. L. 101–189, div. A, title VI][/us/pl/101/189], §§ 652(a)(3), 653(a)(6), title XVI, § 1622(c)(4), Nov. 29, 1989, [103 Stat. 1461][/us/stat/103/1461], 1462, 1604; [Pub. L. 103–337, div. A, title VI, § 652(a)(2)][/us/pl/103/337/s652/a/2], title XVI, § 1671(c)(8), Oct. 5, 1994, [108 Stat. 2793][/us/stat/108/2793], 3014; [Pub. L. 104–106, div. A, title XV, § 1501(c)(19)][/us/pl/104/106/s1501/c/19], Feb. 10, 1996, [110 Stat. 499][/us/stat/110/499]; [Pub. L. 107–107, div. A, title VI, § 638(b)(1)][/us/pl/107/107/s638/b/1], Dec. 28, 2001, [115 Stat. 1147][/us/stat/115/1147]; [Pub. L. 110–181, div. A, title V, § 591][/us/pl/110/181/s591], Jan. 28, 2008, [122 Stat. 138][/us/stat/122/138]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title V, § 581, Oct. 14, 2008, [122 Stat. 4472][/us/stat/122/4472]; [Pub. L. 112–81, div. A, title V, § 528][/us/pl/112/81/s528], Dec. 31, 2011, [125 Stat. 1402][/us/stat/125/1402].)
 
 <table>
 
@@ -178,14 +168,6 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
     In subsection (c), 5:2162 (1st sentence) is omitted since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The introductory language is substituted for 5:2162 (1st 22 words of 2d sentence). The words “ascertained and” are omitted as surplusage.
 
  __Amendments__ 
-
-    2013—Subsec. (a)(8). [Pub. L. 113–66, § 621(e)][/us/pl/113/66/s621/e], substituted “and travel and transportation allowances as specified in regulations prescribed under [section 464 of title 37][/us/usc/t37/s464]” for “and roundtrip transportation and prescribed allowances”.
-
-    Subsec. (a)(9). [Pub. L. 113–66, § 651(b)][/us/pl/113/66/s651/b], inserted “or inurnment” after “Interment”.
-
-    Subsec. (f). [Pub. L. 113–66, § 651(c)][/us/pl/113/66/s651/c], substituted “The Secretary concerned may pay any other expenses relating to the remains of such a decedent that are authorized to be paid under this section only on a reimbursable basis.” for “The Secretary concerned shall pay all other expenses authorized to be paid under this subsection only on a reimbursable basis.”
-
-    Subsec. (g). [Pub. L. 113–66, § 651(a)(2)][/us/pl/113/66/s651/a/2], added subsec. (g).
 
     2011—Subsec. (c). [Pub. L. 112–81][/us/pl/112/81] substituted “The” for “Only the” in introductory provisions, added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and substituted “paragraphs (1) through (4)” for “clauses (1)–(3)” in par. (5).
 
@@ -339,7 +321,6 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 ----------
 
 [/us/usc/t10/s1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1481
-[/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364
 [/us/usc/t10/s1482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1482
 [/us/usc/t10/s1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1481
@@ -349,8 +330,6 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 [/us/usc/t10/s12731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs12731
 [/us/usc/t10/s1477/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1477%2Fd
 [/us/usc/t10/s1481/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1481%2Fa%2F9
-[/us/usc/t10/s1481/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1481%2Fa%2F10
-[/us/usc/t10/s1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1471
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F113
 [/us/pl/85/716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F716
@@ -377,13 +356,6 @@ July 15, 1954, ch. 507, §§ 2 (less 1st 25 words, as applicable to armed forc
 [/us/stat/122/4472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4472
 [/us/pl/112/81/s528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs528
 [/us/stat/125/1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1402
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/stat/127/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F784
-[/us/pl/113/66/s621/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fe
-[/us/usc/t37/s464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs464
-[/us/pl/113/66/s651/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs651%2Fb
-[/us/pl/113/66/s651/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs651%2Fc
-[/us/pl/113/66/s651/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs651%2Fa%2F2
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/109/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364

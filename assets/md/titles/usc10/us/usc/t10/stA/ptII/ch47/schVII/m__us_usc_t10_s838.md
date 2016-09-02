@@ -59,11 +59,7 @@
 
     (e) An assistant defense counsel of a general or special court-martial may, under the direction of the defense counsel or when he is qualified to be the defense counsel as required by [section 827 of this title][/us/usc/t10/s827] (article 27), perform any duty imposed by law, regulation, or the custom of the service upon counsel for the accused.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 50][/us/stat/70A/50]; [Pub. L. 90–632, § 2(14)][/us/pl/90/632/s2/14], Oct. 24, 1968, [82 Stat. 1338][/us/stat/82/1338]; [Pub. L. 97–81, § 4(b)][/us/pl/97/81/s4/b], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 98–209, § 3(e)][/us/pl/98/209/s3/e], Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(C)][/us/pl/113/66/s1702/c/3/C], Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957].)
-
- __Amendment of Subsection (b)(1)__ 
-
-    [Pub. L. 113–66, div. A, title XVII, § 1702(c)(3)(C)][/us/pl/113/66/s1702/c/3/C], (d)(1), Dec. 26, 2013, [127 Stat. 957][/us/stat/127/957], 958, provided that, effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, subsection (b)(1) of this section is amended by striking “an investigation under section 832” and inserting “a preliminary hearing under section 832”. See 2013 Amendment notes below.
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 50][/us/stat/70A/50]; [Pub. L. 90–632, § 2(14)][/us/pl/90/632/s2/14], Oct. 24, 1968, [82 Stat. 1338][/us/stat/82/1338]; [Pub. L. 97–81, § 4(b)][/us/pl/97/81/s4/b], Nov. 20, 1981, [95 Stat. 1088][/us/stat/95/1088]; [Pub. L. 98–209, § 3(e)][/us/pl/98/209/s3/e], Dec. 6, 1983, [97 Stat. 1394][/us/stat/97/1394]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
 
 <table>
 
@@ -151,8 +147,6 @@ May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120.  </td>
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 113–66][/us/pl/113/66] substituted “a preliminary hearing under section 832” for “an investigation under section 832”.
-
     1999—Subsec. (b)(7). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
     1996—Subsec. (b)(7). [Pub. L. 104–106][/us/pl/104/106] substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
@@ -166,10 +160,6 @@ May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120.  </td>
     1981—Subsec. (b). [Pub. L. 97–81][/us/pl/97/81] revised subsec. (b) by dividing its provisions into seven numbered paragraphs and inserted provisions relating to the right to counsel at an investigation under [section 832 of this title][/us/usc/t10/s832] (article 32), authorizing the promulgation of regulations relating to the “reasonable availability” of military counsel, and authorizing the detailing of additional military counsel for the accused under specified circumstances.
 
     1968—Subsec. (b). [Pub. L. 90–632][/us/pl/90/632] substituted “military judge or by the president of a court-martial without a military judge” for “president of the court”.
-
- __Effective Date of 2013 Amendment__ 
-
-    Amendment by [Pub. L. 113–66][/us/pl/113/66] effective one year after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, see [section 1702(d)(1) of Pub. L. 113–66][/us/pl/113/66/s1702/d/1], set out as a note under [section 802 of this title][/us/usc/t10/s802].
 
  __Effective Date of 1983 Amendment__ 
 
@@ -208,11 +198,6 @@ May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120.  </td>
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
 [/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/113/66/s1702/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FC
-[/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
-[/us/pl/113/66/s1702/c/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F3%2FC
-[/us/stat/127/957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F957
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/98/209/s3/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209%2Fs3%2Fe%2F1
@@ -222,9 +207,6 @@ May 5, 1950, ch. 169, § 1 (Art. 38), 64 Stat. 120.  </td>
 [/us/pl/97/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F81
 [/us/usc/t10/s832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs832
 [/us/pl/90/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F632
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/113/66/s1702/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F1
-[/us/usc/t10/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs802
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
 [/us/usc/t10/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs801

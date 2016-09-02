@@ -43,7 +43,7 @@
 
     (b)
 
-     Any civilian employee or member of the armed forces who has authority to take, direct others to take, recommend, or approve any personnel action shall not, with respect to such authority, take or fail to take, or threaten to take or fail to take, a personnel action with respect to any nonappropriated fund instrumentality employee (or any applicant for a position as such an employee) as a reprisal for—
+     Any civilian employee or member of the armed forces who has authority to take, direct others to take, recommend, or approve any personnel action shall not, with respect to such authority, take or fail to take a personnel action with respect to any nonappropriated fund instrumentality employee (or any applicant for a position as such an employee) as a reprisal for—
 
         (1)
 
@@ -69,11 +69,9 @@
 
     (e) The Secretary of Defense, after consultation with the Director of the Office of Personnel Management and the Special Counsel of the Merit Systems Protection Board, shall prescribe regulations to carry out this section. Such regulations shall include provisions to protect the confidentiality of employees and applicants making disclosures described in clauses (1) and (2) of subsection (b) and to permit the reporting of alleged violations of subsection (b) directly to the Inspector General of the Department of Defense.
 
-(Added [Pub. L. 98–94, title XII, § 1253(a)(1)][/us/pl/98/94/s1253/a/1], Sept. 24, 1983, [97 Stat. 699][/us/stat/97/699]; amended [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 104–106, div. A, title IX, § 903(f)(3)][/us/pl/104/106/s903/f/3], title X, § 1040(a)–(d)(1), Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402], 433; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617]; [Pub. L. 113–66, div. A, title VI, § 641][/us/pl/113/66/s641], Dec. 26, 2013, [127 Stat. 787][/us/stat/127/787].)
+(Added [Pub. L. 98–94, title XII, § 1253(a)(1)][/us/pl/98/94/s1253/a/1], Sept. 24, 1983, [97 Stat. 699][/us/stat/97/699]; amended [Pub. L. 100–26, § 7(k)(2)][/us/pl/100/26/s7/k/2], Apr. 21, 1987, [101 Stat. 284][/us/stat/101/284]; [Pub. L. 104–106, div. A, title IX, § 903(f)(3)][/us/pl/104/106/s903/f/3], title X, § 1040(a)–(d)(1), Feb. 10, 1996, [110 Stat. 402][/us/stat/110/402], 433; [Pub. L. 104–201, div. A, title IX, § 901][/us/pl/104/201/s901], Sept. 23, 1996, [110 Stat. 2617][/us/stat/110/2617].)
 
  __Amendments__ 
-
-    2013—Subsec. (b). [Pub. L. 113–66][/us/pl/113/66] inserted “, or threaten to take or fail to take,” after “take or fail to take”.
 
     1996—[Pub. L. 104–106, § 1040(d)(1)][/us/pl/104/106/s1040/d/1], inserted “: reprisals” after “instrumentalities” in section catchline.
 
@@ -149,9 +147,6 @@
 [/us/stat/110/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F402
 [/us/pl/104/201/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs901
 [/us/stat/110/2617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2617
-[/us/pl/113/66/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs641
-[/us/stat/127/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F787
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/104/106/s1040/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1040%2Fd%2F1
 [/us/pl/104/106/s1040/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1040%2Fc
 [/us/pl/104/106/s1040/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1040%2Fa

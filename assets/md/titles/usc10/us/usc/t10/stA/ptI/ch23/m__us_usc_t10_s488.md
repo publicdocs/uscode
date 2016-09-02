@@ -13,47 +13,17 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s487.md) | [Next](./../../../../../..//us/usc/t10/stA/ptI/ch23/m__us_usc_t10_s489.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs488)
 
-## § 488. Management of electromagnetic spectrum
+## § 488. Management of electromagnetic spectrum: biennial strategic plan
 
     (a)  __Requirement for Strategic Plan__  __.—__ 
 
-    Every three years  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by a comma. </sup></sup>  the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the national security of the United States. Each such strategic plan shall include each of the following:
+    Every other year, and in time for submission to Congress under subsection (b), the Secretary of Defense shall prepare a strategic plan for the management of the electromagnetic spectrum to ensure the accessibility and efficient use of that spectrum needed to support the mission of the Department of Defense.
 
-        (1) An inventory of the uses of the electromagnetic spectrum for national security purposes and other purposes.
+    (b)  __Submission of Plan to Congress__  __.—__ 
 
-        (2) An estimate of the need for electromagnetic spectrum for national security and other purposes over each of the periods specified in subsection (b).
+    The Secretary of Defense shall submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
 
-        (3) Any other matters that the Secretary of Defense, in consultation with the Director of National Intelligence and the Secretary of Commerce, considers appropriate for the strategic plan.
-
-    (b)  __Periods Covered by Strategic Plan__  __.—__ 
-
-    Each strategic plan prepared under subsection (a) shall cover each of the following periods (counting from the date of the issuance of the plan):
-
-        (1) Zero to five years.
-
-        (2) Five to ten years.
-
-        (3) Ten to thirty years.
-
-    (c)  __Submission of Plan to Congress__  __.—__ 
-
-        (1) The Secretary of Defense shall submit to Congress the strategic plan most recently prepared under subsection (a) at the same time that the President submits to Congress the budget for an even-numbered fiscal year under [section 1105(a) of title 31][/us/usc/t31/s1105/a].
-
-        (2) Each strategic plan submitted under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
-
-(Added [Pub. L. 108–136, div. A, title X, § 1054(a)][/us/pl/108/136/s1054/a], Nov. 24, 2003, [117 Stat. 1615][/us/stat/117/1615]; amended [Pub. L. 113–66, div. A, title X, § 1072(a)][/us/pl/113/66/s1072/a], (b)(1), Dec. 26, 2013, [127 Stat. 868][/us/stat/127/868], 869.)
-
- __Amendments__ 
-
-    2013—[Pub. L. 113–66, § 1072(b)(1)][/us/pl/113/66/s1072/b/1], struck out “: biennial strategic plan” after “spectrum” in section catchline.
-
-    Subsec. (a). [Pub. L. 113–66, § 1072(a)(1)][/us/pl/113/66/s1072/a/1], substituted “three years” for “other year, and in time for submission to Congress under subsection (b),”, inserted “, in consultation with the Director of National Intelligence and the Secretary of Commerce,” after “Secretary of Defense”, substituted “the national security of the United States. Each such strategic plan shall include each of the following:” for “the mission of the Department of Defense.”, and added pars. (1) to (3).
-
-    Subsec. (b). [Pub. L. 113–66, § 1072(a)(2)][/us/pl/113/66/s1072/a/2], added subsec. (b). Former subsec. (b) redesignated (c).
-
-    Subsec. (c). [Pub. L. 113–66, § 1072(a)(3)][/us/pl/113/66/s1072/a/3], designated existing provisions as par. (1) and added par. (2).
-
-    [Pub. L. 113–66, § 1072(a)(2)][/us/pl/113/66/s1072/a/2], redesignated subsec. (b) as (c).
+(Added [Pub. L. 108–136, div. A, title X, § 1054(a)][/us/pl/108/136/s1054/a], Nov. 24, 2003, [117 Stat. 1615][/us/stat/117/1615].)
 
 ----------
 
@@ -65,12 +35,5 @@
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/108/136/s1054/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1054%2Fa
 [/us/stat/117/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1615
-[/us/pl/113/66/s1072/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa
-[/us/stat/127/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F868
-[/us/pl/113/66/s1072/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fb%2F1
-[/us/pl/113/66/s1072/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa%2F1
-[/us/pl/113/66/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa%2F2
-[/us/pl/113/66/s1072/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa%2F3
-[/us/pl/113/66/s1072/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1072%2Fa%2F2
 
 

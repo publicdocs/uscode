@@ -107,13 +107,13 @@
 
  __Competition in Connection With Department of Defense Tactical Data Link Systems__ 
 
-[Pub. L. 112–239, div. A, title IX, § 934][/us/pl/112/239/s934], Jan. 2, 2013, [126 Stat. 1885][/us/stat/126/1885], as amended by [Pub. L. 113–66, div. A, title IX, § 931][/us/pl/113/66/s931], Dec. 26, 2013, [127 Stat. 829][/us/stat/127/829], provided that:
+[Pub. L. 112–239, div. A, title IX, § 934][/us/pl/112/239/s934], Jan. 2, 2013, [126 Stat. 1885][/us/stat/126/1885], provided that:
 
 >     “(a)  __Competition in Connection With Tactical Data Link Systems__  __.—__ 
 
 >     Not later than December 1, 2013, the Under Secretary of Defense for Acquisition, Technology, and Logistics shall—
 
->         “(1) develop an inventory of all tactical data link systems in use and in development in the Department of Defense, including interfaces and waveforms and an assessment of vulnerabilities to such systems in anti-access or area-denial environments;
+>         “(1) develop an inventory of all tactical data link systems in use and in development in the Department of Defense, including interfaces and waveforms;
 
 >         “(2)
 
@@ -339,8 +339,6 @@
 [/us/usc/t5/s5334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5334
 [/us/pl/112/239/s934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs934
 [/us/stat/126/1885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1885
-[/us/pl/113/66/s931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs931
-[/us/stat/127/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F829
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
 [/us/pl/111/383/s215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs215
 [/us/stat/124/4165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4165

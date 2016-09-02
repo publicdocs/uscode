@@ -227,23 +227,13 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130e" data-uslm-ref="/us/usc/t10/s130e">130e.</a>  </td>
 
-    <td> Treatment under Freedom of Information Act of critical infrastructure security information.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs130f" data-uslm-ref="/us/usc/t10/s130f">130f.</a>  </td>
-
-    <td> Congressional notification regarding sensitive military operations. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
+    <td> Treatment under Freedom of Information Act of certain critical infrastructure security information. <sup>[1]</sup>  <sup><sup> 1 So in original. Does not conform to section catchline. </sup></sup>   </td>
 
   </tr>
 
 </table>
 
  __Amendments__ 
-
-    2013—[Pub. L. 113–66, div. A, title X][/us/pl/113/66], §§ 1041(a)(2), 1091(a)(2), Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857], 875, added item 130f and substituted “Treatment under Freedom of Information Act of critical infrastructure security information” for “Treatment under Freedom of Information Act of certain critical infrastructure security information” in item 130e.
 
     2011—[Pub. L. 112–81, div. A, title VIII, § 802(a)(2)][/us/pl/112/81/s802/a/2], title IX, § 931(b), title X, § 1091(b), Dec. 31, 2011, [125 Stat. 1485][/us/stat/125/1485], 1543, 1605, added items 129d and 130e and substituted “General policy for total force management” for “General personnel policy” in item 129a.
 
@@ -300,8 +290,6 @@
 ----------
 ----------
 
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
 [/us/pl/112/81/s802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs802%2Fa%2F2
 [/us/stat/125/1485]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1485
 [/us/pl/111/383/s1061/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1061%2Fa%2F2

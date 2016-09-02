@@ -59,97 +59,7 @@
 
         (3) A rehearing may be ordered by the convening authority or other person taking action under this section if he disapproves the findings and sentence and states the reasons for disapproval of the findings. If such person disapproves the findings and sentence and does not order a rehearing, he shall dismiss the charges. A rehearing as to the findings may not be ordered where there is a lack of sufficient evidence in the record to support the findings. A rehearing as to the sentence may be ordered if the convening authority or other person taking action under this subsection disapproves the sentence.
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 57][/us/stat/70A/57]; [Pub. L. 98–209, § 5(a)(1)][/us/pl/98/209/s5/a/1], Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 99–661, div. A, title VIII, § 806(a)][/us/pl/99/661/s806/a]–(c), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908], 3909; [Pub. L. 104–106, div. A, title XI, § 1132][/us/pl/104/106/s1132], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464]; [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66], §§ 1702(b), (c)(1), 1706, Dec. 26, 2013, [127 Stat. 955–957][/us/stat/127/955-957], 960.)
-
- __Amendment of Section__ 
-
-    [Pub. L. 113–66, div. A, title XVII, § 1702(b)][/us/pl/113/66/s1702/b], (c)(1), (d)(2), Dec. 26, 2013, [127 Stat. 955–958][/us/stat/127/955-958], provided that, effective 180 days after Dec. 26, 2013, and applicable with respect to offenses committed under this chapter on or after that effective date, this section is amended:
-
-    (1) in subsection (b)(2), by striking “or other person taking action under this section” and inserting “or another person authorized to act under this section”;
-
-    (2) by amending subsection (c) to read as follows:
-
-    (c)(1) Under regulations of the Secretary concerned, a commissioned officer commanding for the time being, a successor in command, or any person exercising general court-martial jurisdiction may act under this section in place of the convening authority.
-
-    (2)(A) Action on the sentence of a court-martial shall be taken by the convening authority or by another person authorized to act under this section. Subject to regulations of the Secretary concerned, such action may be taken only after consideration of any matters submitted by the accused under subsection (b) or after the time for submitting such matters expires, whichever is earlier.
-
-    (B) Except as provided in paragraph (4), the convening authority or another person authorized to act under this section may approve, disapprove, commute, or suspend the sentence of the court-martial in whole or in part.
-
-    (C) If the convening authority or another person authorized to act under this section acts to disapprove, commute, or suspend, in whole or in part, the sentence of the court-martial for an offense (other than a qualifying offense), the convening authority or other person shall provide, at that same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of the trial and action thereon.
-
-    (3)(A) Action on the findings of a court-martial by the convening authority or by another person authorized to act under this section is not required.
-
-    (B) If the convening authority or another person authorized to act under this section acts on the findings of a court-martial, the convening authority or other person—
-
-    (i) may not dismiss any charge or specification, other than a charge or specification for a qualifying offense, by setting aside a finding of guilty thereto; or
-
-    (ii) may not change a finding of guilty to a charge or specification, other than a charge or specification for a qualifying offense, to a finding of guilty to an offense that is a lesser included offense of the offense stated in the charge or specification.
-
-    (C) If the convening authority or another person authorized to act under this section acts on the findings to dismiss or change any charge or specification for an offense (other than a qualifying offense), the convening authority or other person shall provide, at that same time, a written explanation of the reasons for such action. The written explanation shall be made a part of the record of the trial and action thereon.
-
-    (D)(i) In this subsection, the term “qualifying offense” means, except in the case of an offense excluded pursuant to clause (ii), an offense under this chapter for which—
-
-    (I) the maximum sentence of confinement that may be adjudged does not exceed two years; and
-
-    (II) the sentence adjudged does not include dismissal, a dishonorable or bad-conduct discharge, or confinement for more than six months.
-
-    (ii) Such term does not include any of the following:
-
-    (I) An offense under subsection (a) or (b) of [section 920 of this title][/us/usc/t10/s920] (article 120).
-
-    (II) An offense under section 920b or 925 of this title (articles 120b and 125).
-
-    (III) Such other offenses as the Secretary of Defense may specify by regulation.
-
-    (4)(A) Except as provided in subparagraph (B) or (C), the convening authority or another person authorized to act under this section may not disapprove, commute, or suspend in whole or in part an adjudged sentence of confinement for more than six months or a sentence of dismissal, dishonorable discharge, or bad conduct discharge.
-
-    (B) Upon the recommendation of the trial counsel, in recognition of the substantial assistance by the accused in the investigation or prosecution of another person who has committed an offense, the convening authority or another person authorized to act under this section shall have the authority to disapprove, commute, or suspend the adjudged sentence in whole or in part, even with respect to an offense for which a mandatory minimum sentence exists.
-
-    (C) If a pre-trial agreement has been entered into by the convening authority and the accused, as authorized by Rule for Courts–Martial 705, the convening authority or another person authorized to act under this section shall have the authority to approve, disapprove, commute, or suspend a sentence in whole or in part pursuant to the terms of the pre-trial agreement, subject to the following limitations for convictions of offenses that involve a mandatory minimum sentence:
-
-    (i) If a mandatory minimum sentence of a dishonorable discharge applies to an offense for which the accused has been convicted, the convening authority or another person authorized to act under this section may commute the dishonorable discharge to a bad conduct discharge pursuant to the terms of the pre-trial agreement.
-
-    (ii) Except as provided in clause (i), if a mandatory minimum sentence applies to an offense for which the accused has been convicted, the convening authority or another person authorized to act under this section may not disapprove, otherwise commute, or suspend the mandatory minimum sentence in whole or in part, unless authorized to do so under subparagraph (B).
-
-    (3) in subsection (d), by striking “or other person taking action under this section” the first place it appears and inserting “or another person authorized to act under this section”; and
-
-    (4) in subsection (e)—
-
-    (A) in paragraph (1), by striking “or other person taking action under this section, in his sole discretion,” and inserting “or another person authorized to act under this section”; and
-
-    (B) in paragraph (3), by striking “or other person taking action under this section” and inserting “or another person authorized to act under this section”.
-
-    [Pub. L. 113–66, div. A, title XVII, § 1706][/us/pl/113/66/s1706], Dec. 26, 2013, [127 Stat. 960][/us/stat/127/960], provided that this section, as amended by [section 1702 of Pub. L. 113–66][/us/pl/113/66/s1702], is further amended:
-
-    (1) in subsection (b)—
-
-    (A) in paragraph (1), by striking “subsection (d)” and inserting “subsection (e)”; and
-
-    (B) by adding at the end the following new paragraph:
-
-    (5) The convening authority or other person taking action under this section shall not consider under this section any submitted matters that relate to the character of a victim unless such matters were presented as evidence at trial and not excluded at trial.
-
-    (2) by redesignating subsections (d) and (e) as subsections (e) and (f), respectively; and
-
-    (3) by inserting after subsection (c) the following new subsection:
-
-    (d)(1) In any case in which findings and sentence have been adjudged for an offense that involved a victim, the victim shall be provided an opportunity to submit matters for consideration by the convening authority or by another person authorized to act under this section before the convening authority or such other person takes action under this section.
-
-    (2)(A) Except as provided in subparagraph (B), the submission of matters under paragraph (1) shall be made within 10 days after the later of—
-
-    (i) the date on which the victim has been given an authenticated record of trial in accordance with [section 854(e) of this title][/us/usc/t10/s854/e] (article 54(e)); and
-
-    (ii) if applicable, the date on which the victim has been given the recommendation of the staff judge advocate or legal officer under subsection (e).
-
-    (B) In the case of a summary court-martial, the submission of matters under paragraph (1) shall be made within seven days after the date on which the sentence is announced.
-
-    (3) If a victim shows that additional time is required for submission of matters under paragraph (1), the convening authority or other person taking action under this section, for good cause, may extend the submission period under paragraph (2) for not more than an additional 20 days.
-
-    (4) A victim may waive the right under this subsection to make a submission to the convening authority or other person taking action under this section. Such a waiver shall be made in writing and may not be revoked. For the purposes of subsection (c)(2), the time within which a victim may make a submission under this subsection shall be deemed to have expired upon the submission of such waiver to the convening authority or such other person.
-
-    (5) In this section, the term “victim” means a person who has suffered a direct physical, emotional, or pecuniary loss as a result of a commission of an offense under this chapter (the Uniform Code of Military Justice) and on which the convening authority or other person authorized to take action under this section is taking action under this section.
-
-    See 2013 Amendment notes below.
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 57][/us/stat/70A/57]; [Pub. L. 98–209, § 5(a)(1)][/us/pl/98/209/s5/a/1], Dec. 6, 1983, [97 Stat. 1395][/us/stat/97/1395]; [Pub. L. 99–661, div. A, title VIII, § 806(a)][/us/pl/99/661/s806/a]–(c), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908], 3909; [Pub. L. 104–106, div. A, title XI, § 1132][/us/pl/104/106/s1132], Feb. 10, 1996, [110 Stat. 464][/us/stat/110/464].)
 
 <table>
 
@@ -199,26 +109,6 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 
  __Amendments__ 
 
-    2013—Subsec. (b)(1). [Pub. L. 113–66, § 1706(c)][/us/pl/113/66/s1706/c], substituted “subsection (e)” for “subsection (d)”.
-
-    Subsec. (b)(2). [Pub. L. 113–66, § 1702(c)(1)(A)][/us/pl/113/66/s1702/c/1/A], substituted “or another person authorized to act under this section” for “or other person taking action under this section”.
-
-    Subsec. (b)(5). [Pub. L. 113–66, § 1706(b)][/us/pl/113/66/s1706/b], added par. (5).
-
-    Subsec. (c). [Pub. L. 113–66, § 1702(b)][/us/pl/113/66/s1702/b], amended subsec. (c) generally. Prior to amendment, text related to the command prerogative of the convening authority to modify the findings and sentence of a court-martial.
-
-    Subsec. (d). [Pub. L. 113–66, § 1706(a)][/us/pl/113/66/s1706/a], added subsec. (d) and redesignated former subsec. (d) as (e).
-
-    [Pub. L. 113–66, § 1702(c)(1)(B)][/us/pl/113/66/s1702/c/1/B], substituted “or another person authorized to act under this section” for “or other person taking action under this section” in first sentence.
-
-    Subsec. (e). [Pub. L. 113–66, § 1706(a)(1)][/us/pl/113/66/s1706/a/1], redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
-
-    Subsec. (e)(1). [Pub. L. 113–66, § 1702(c)(1)(C)][/us/pl/113/66/s1702/c/1/C], substituted “or another person authorized to act under this section” for “or other person taking action under this section, in his sole discretion,”.
-
-    Subsec. (e)(3). [Pub. L. 113–66, § 1702(c)(1)(D)][/us/pl/113/66/s1702/c/1/D], substituted “or another person authorized to act under this section” for “or other person taking action under this section”.
-
-    Subsec. (f). [Pub. L. 113–66, § 1706(a)(1)][/us/pl/113/66/s1706/a/1], redesignated subsec. (e) as (f).
-
     1996—Subsec. (b)(1). [Pub. L. 104–106][/us/pl/104/106] inserted after first sentence “Any such submission shall be in writing.”
 
     1986—Subsec. (b)(1). [Pub. L. 99–661, § 806(a)(3)][/us/pl/99/661/s806/a/3], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 30 days after the sentence of a general court-martial or of a special court-martial which has adjudged a bad-conduct discharge has been announced, the accused may submit to the convening authority matters for consideration by the convening authority with respect to the findings and the sentence. In the case of all other special courts-martial, the accused may make such a submission to the convening authority within 20 days after the sentence is announced. In the case of all summary courts-martial the accused may make such a submission to the convening authority within seven days after the sentence is announced. If the accused shows that additional time is required for the accused to submit such matters, the convening authority or other person taking action under this section, for good cause, may extend the period—
@@ -236,12 +126,6 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
     Subsec. (d). [Pub. L. 99–661, § 806(c)][/us/pl/99/661/s806/c], substituted “who may submit any matter in response under subsection (b)” for “who shall have five days from the date of receipt in which to submit any matter in response. The convening authority or other person taking action under this section, for good cause, may extend that period for up to an additional 20 days.”
 
     1983—[Pub. L. 98–209][/us/pl/98/209] amended section generally, substituting “Action by the convening authority” for “Initial action on the record” as section catchline, and, in text, substituting new provision for provision that after a trial by court-martial the record had to be forwarded to the convening authority, and action thereon could be taken by the person who convened the court, a commissioned officer commanding for the time being, a successor in command, or any officer exercising general court-martial jurisdiction.
-
- __Effective Date of 2013 Amendment__ 
-
-[Pub. L. 113–66, div. A, title XVII, § 1702(d)(2)][/us/pl/113/66/s1702/d/2], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], provided that: 
-
-> “The amendments made by subsection (b) and paragraphs (1) and (2) of subsection (c) \[amending this section and [section 871 of this title][/us/usc/t10/s871]\] shall take effect 180 days after the date of the enactment of this Act \[Dec. 26, 2013\] and shall apply with respect to offenses committed under chapter 47 of title 10, United States Code (the Uniform Code of Military Justice), on or after that effective date.”
 
  __Effective Date of 1986 Amendment__ 
 
@@ -270,25 +154,6 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 [/us/stat/100/3908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3908
 [/us/pl/104/106/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1132
 [/us/stat/110/464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F464
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/stat/127/955-957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F955-957
-[/us/pl/113/66/s1702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fb
-[/us/stat/127/955-958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F955-958
-[/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
-[/us/pl/113/66/s1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1706
-[/us/stat/127/960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F960
-[/us/pl/113/66/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702
-[/us/usc/t10/s854/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs854%2Fe
-[/us/pl/113/66/s1706/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1706%2Fc
-[/us/pl/113/66/s1702/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F1%2FA
-[/us/pl/113/66/s1706/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1706%2Fb
-[/us/pl/113/66/s1702/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fb
-[/us/pl/113/66/s1706/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1706%2Fa
-[/us/pl/113/66/s1702/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F1%2FB
-[/us/pl/113/66/s1706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1706%2Fa%2F1
-[/us/pl/113/66/s1702/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F1%2FC
-[/us/pl/113/66/s1702/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fc%2F1%2FD
-[/us/pl/113/66/s1706/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1706%2Fa%2F1
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/99/661/s806/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs806%2Fa%2F3
 [/us/pl/99/661/s806/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs806%2Fa%2F2
@@ -296,9 +161,6 @@ May 5, 1950, ch. 169, § 1 (Art. 60), 64 Stat. 127.  </td>
 [/us/pl/99/661/s806/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs806%2Fb
 [/us/pl/99/661/s806/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs806%2Fc
 [/us/pl/98/209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F209
-[/us/pl/113/66/s1702/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1702%2Fd%2F2
-[/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
-[/us/usc/t10/s871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs871
 [/us/pl/99/661/s806/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs806%2Fc
 [/us/stat/100/3909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3909
 [/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661

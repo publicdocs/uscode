@@ -55,9 +55,9 @@
 
         States shall not—
 
-            (A) authorize creditors to charge covered members and their dependents annual percentage rates of interest for any consumer credit or loans higher than the legal limit for residents of the State; or
+            (A) authorize creditors to charge covered members and their dependents annual percentage rates of interest for loans higher than the legal limit for residents of the State; or
 
-            (B) permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member’s or dependent’s domicile or permanent home of record.
+            (B) permit violation or waiver of any State consumer lending protections for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member’s or dependent’s domicile or permanent home of record.
 
     (e)  __Limitations__  __.—__ 
 
@@ -217,6 +217,16 @@
 
 (Added [Pub. L. 109–364, div. A, title VI, § 670(a)][/us/pl/109/364/s670/a], Oct. 17, 2006, [120 Stat. 2266][/us/stat/120/2266]; amended [Pub. L. 112–239, div. A, title VI][/us/pl/112/239], §§ 661(a), (b), 662(a), (b), 663, Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], 1786.)
 
+ __Amendment of Subsection (d)(2)__ 
+
+    [Pub. L. 112–239, div. A, title VI, § 661(a)][/us/pl/112/239/s661/a], (c), Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], provided that, one year after Jan. 2, 2013, or such earlier date as the Secretary of Defense shall specify in the modification of regulations required by [§ 661(c)(1) of Pub. L. 112–239][/us/pl/112/239/s661/c/1], subsection (d)(2) of this section is amended—
+
+    (1) in subparagraph (A), by inserting “any consumer credit or” before “loans”; and
+
+    (2) in subparagraph (B), by inserting “covering consumer credit” after “State consumer lending protections”.
+
+    See 2011 Amendment notes below.
+
  __References in Text__ 
 
     The Truth in Lending Act, referred to in subsec. (c)(1)(B), (2), is title I of [Pub. L. 90–321][/us/pl/90/321], May 29, 1968, [82 Stat. 146][/us/stat/82/146], as amended, which is classified generally to subchapter I (§ 1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of Title 15][/us/usc/t15/s1601] and Tables.
@@ -237,7 +247,7 @@
 
     Subsec. (i)(2). [Pub. L. 112–239, § 663][/us/pl/112/239/s663], amended par. (2) generally. Prior to amendment, par. (2) defined the term “dependent”.
 
- __Effective Date of 2013 Amendment__ 
+ __Effective Date of 2013 Amendments__ 
 
 [Pub. L. 112–239, div. A, title VI, § 661(c)][/us/pl/112/239/s661/c], Jan. 2, 2013, [126 Stat. 1785][/us/stat/126/1785], provided that:
 
@@ -300,6 +310,9 @@
 [/us/stat/120/2266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2266
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/stat/126/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1785
+[/us/pl/112/239/s661/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fa
+[/us/stat/126/1785]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1785
+[/us/pl/112/239/s661/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs661%2Fc%2F1
 [/us/pl/90/321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F321
 [/us/stat/82/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F82%2F146
 [/us/usc/t15/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1601

@@ -35,7 +35,7 @@
 
  __Authority for Joint Task Forces to Provide Support to Law Enforcement Agencies Conducting Counter-Terrorism Activities__ 
 
-[Pub. L. 108–136, div. A, title X, § 1022][/us/pl/108/136/s1022], Nov. 24, 2003, [117 Stat. 1594][/us/stat/117/1594], as amended by [Pub. L. 109–163, div. A, title X, § 1022][/us/pl/109/163/s1022], Jan. 6, 2006, [119 Stat. 3427][/us/stat/119/3427]; [Pub. L. 110–181, div. A, title X, § 1021][/us/pl/110/181/s1021], Jan. 28, 2008, [122 Stat. 304][/us/stat/122/304]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1022, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 111–84, div. A, title X, § 1012][/us/pl/111/84/s1012], Oct. 28, 2009, [123 Stat. 2441][/us/stat/123/2441]; [Pub. L. 111–383, div. A, title X, § 1012(a)][/us/pl/111/383/s1012/a]–(b)(2), Jan. 7, 2011, [124 Stat. 4346][/us/stat/124/4346], 4347; [Pub. L. 112–81, div. A, title X, § 1004(a)][/us/pl/112/81/s1004/a], Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556]; [Pub. L. 112–239, div. A, title X, § 1011][/us/pl/112/239/s1011], Jan. 2, 2013, [126 Stat. 1907][/us/stat/126/1907]; [Pub. L. 113–66, div. A, title X, § 1012][/us/pl/113/66/s1012], Dec. 26, 2013, [127 Stat. 844][/us/stat/127/844], provided that:
+[Pub. L. 108–136, div. A, title X, § 1022][/us/pl/108/136/s1022], Nov. 24, 2003, [117 Stat. 1594][/us/stat/117/1594], as amended by [Pub. L. 109–163, div. A, title X, § 1022][/us/pl/109/163/s1022], Jan. 6, 2006, [119 Stat. 3427][/us/stat/119/3427]; [Pub. L. 110–181, div. A, title X, § 1021][/us/pl/110/181/s1021], Jan. 28, 2008, [122 Stat. 304][/us/stat/122/304]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1022, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 111–84, div. A, title X, § 1012][/us/pl/111/84/s1012], Oct. 28, 2009, [123 Stat. 2441][/us/stat/123/2441]; [Pub. L. 111–383, div. A, title X, § 1012(a)][/us/pl/111/383/s1012/a]–(b)(2), Jan. 7, 2011, [124 Stat. 4346][/us/stat/124/4346], 4347; [Pub. L. 112–81, div. A, title X, § 1004(a)][/us/pl/112/81/s1004/a], Dec. 31, 2011, [125 Stat. 1556][/us/stat/125/1556]; [Pub. L. 112–239, div. A, title X, § 1011][/us/pl/112/239/s1011], Jan. 2, 2013, [126 Stat. 1907][/us/stat/126/1907], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -43,7 +43,7 @@
 
 >     “(b)  __Availability of Funds__  __.—__ 
 
->     During fiscal years 2006 through 2015, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
+>     During fiscal years 2006 through 2013, funds available to a joint task force to support counter-drug activities may also be used to provide the counter-terrorism support authorized by subsection (a).
 
 >     “(c)  __Annual Report__  __.—__ 
 
@@ -108,8 +108,6 @@
 [/us/stat/125/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1556
 [/us/pl/112/239/s1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1011
 [/us/stat/126/1907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1907
-[/us/pl/113/66/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1012
-[/us/stat/127/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F844
 [/us/pl/112/81/s1004/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs1004%2Fb
 [/us/stat/125/1556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1556
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136

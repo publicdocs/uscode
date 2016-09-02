@@ -15,7 +15,7 @@
 
 ## \[§ 6157. Repealed. [Pub. L. 87–651, title I, § 123(b)][/us/pl/87/651/s123/b], Sept. 7, 1962, [76 Stat. 514][/us/stat/76/514]\]
 
-    Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 387][/us/stat/70A/387], related to transportation of motor vehicles on permanent change of station.
+    Section, [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 387][/us/stat/70A/387], related to transportation of motor vehicles on permanent change of station. See [section 2634 of this title][/us/usc/t10/s2634].
 
 ----------
 
@@ -28,5 +28,6 @@
 [/us/stat/76/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F514
 [/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F387
+[/us/usc/t10/s2634]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2634
 
 

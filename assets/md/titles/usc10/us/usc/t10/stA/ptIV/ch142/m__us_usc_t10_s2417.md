@@ -21,7 +21,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 2417 was renumbered [section 2420 of this title][/us/usc/t10/s2420].
+    A prior section 2417 was renumbered [section 2419 of this title][/us/usc/t10/s2419].
 
  __Effective Date__ 
 
@@ -38,7 +38,7 @@
 
 [/us/pl/101/510/s814/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs814%2Fa%2F1%2FB
 [/us/stat/104/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1596
-[/us/usc/t10/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2420
+[/us/usc/t10/s2419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2419
 [/us/pl/101/510/s814/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs814%2Fb
 [/us/stat/104/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1597
 [/us/usc/t10/s2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2417

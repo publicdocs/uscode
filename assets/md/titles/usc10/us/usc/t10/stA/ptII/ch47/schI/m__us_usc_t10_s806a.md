@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806b.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs806a)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schII/m__us_usc_t10_stA_ptII_ch47_schII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs806a)
 
 ## § 806a. Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges
 
@@ -29,7 +29,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806b.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs806a)
+[Previous](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schI/m__us_usc_t10_s806.md) | [Next](./../../../../../../..//us/usc/t10/stA/ptII/ch47/schII/m__us_usc_t10_stA_ptII_ch47_schII.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs806a)
 
 ----------
 ----------

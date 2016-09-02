@@ -137,14 +137,6 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1134a" data-uslm-ref="/us/usc/t10/s1134a">1134a.</a>  </td>
-
-    <td> Medal of honor: Army, Navy, Air Force, and Coast Guard Medal of Honor Roll.  </td>
-
-  </tr>
-
-  <tr>
-
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1135" data-uslm-ref="/us/usc/t10/s1135">1135.</a>  </td>
 
     <td> Replacement of military decorations.  </td>
@@ -154,8 +146,6 @@
 </table>
 
  __Amendments__ 
-
-    2013—[Pub. L. 113–66, div. A, title V, § 563(a)(2)][/us/pl/113/66/s563/a/2], Dec. 26, 2013, [127 Stat. 767][/us/stat/127/767], added item 1134a.
 
     2011—[Pub. L. 111–383, div. A, title V, § 571(b)][/us/pl/111/383/s571/b], Jan. 7, 2011, [124 Stat. 4223][/us/stat/124/4223], added item 1133 and struck out former item 1133 “Bronze star: limitation to members receiving imminent danger pay”.
 
@@ -416,8 +406,6 @@
 ----------
 ----------
 
-[/us/pl/113/66/s563/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs563%2Fa%2F2
-[/us/stat/127/767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F767
 [/us/pl/111/383/s571/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs571%2Fb
 [/us/stat/124/4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4223
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

@@ -15,7 +15,7 @@
 
 ## § 843. Art. 43. Statute of limitations
 
-    (a) A person charged with absence without leave or missing movement in time of war, with murder, rape or sexual assault, or rape or sexual assault of a child, or with any other offense punishable by death, may be tried and punished at any time without limitation.
+    (a) A person charged with absence without leave or missing movement in time of war, with murder, rape, or rape of a child, or with any other offense punishable by death, may be tried and punished at any time without limitation.
 
     (b)
 
@@ -29,7 +29,7 @@
 
              In subparagraph (A), the term “child abuse offense” means an act that involves abuse of a person who has not attained the age of 16 years and constitutes any of the following offenses:
 
-                (i) Any offense in violation of section 920, 920a, 920b, or 920c of this title (article 120, 120a, 120b, or 120c), unless the offense is covered by subsection (a).
+                (i) Any offense in violation of section 920, 920a, 920b, or 920c of this title (article 120, 120a, 120b, or 120c).
 
                 (ii) Maiming in violation of [section 924 of this title][/us/usc/t10/s924] (article 124).
 
@@ -81,7 +81,7 @@
 
             (B) allege the same acts or omissions that were alleged in the dismissed charges or specifications (or allege acts or omissions that were included in the dismissed charges or specifications).
 
-([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 99–661, div. A, title VIII, § 805(a)][/us/pl/99/661/s805/a], (b), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908]; [Pub. L. 108–136, div. A, title V, § 551][/us/pl/108/136/s551], Nov. 24, 2003, [117 Stat. 1481][/us/stat/117/1481]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 552(e), 553, Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263], 3264; [Pub. L. 109–364, div. A, title X, § 1071(a)(4)][/us/pl/109/364/s1071/a/4], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 111–383, div. A, title X, § 1075(b)(14)][/us/pl/111/383/s1075/b/14], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–81, div. A, title V, § 541(d)(1)][/us/pl/112/81/s541/d/1], Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410]; [Pub. L. 112–239, div. A, title X, § 1076(f)(8)][/us/pl/112/239/s1076/f/8], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952]; [Pub. L. 113–66, div. A, title XVII, § 1703(a)][/us/pl/113/66/s1703/a], (b), Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958].)
+([Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], [70A Stat. 51][/us/stat/70A/51]; [Pub. L. 99–661, div. A, title VIII, § 805(a)][/us/pl/99/661/s805/a], (b), Nov. 14, 1986, [100 Stat. 3908][/us/stat/100/3908]; [Pub. L. 108–136, div. A, title V, § 551][/us/pl/108/136/s551], Nov. 24, 2003, [117 Stat. 1481][/us/stat/117/1481]; [Pub. L. 109–163, div. A, title V][/us/pl/109/163], §§ 552(e), 553, Jan. 6, 2006, [119 Stat. 3263][/us/stat/119/3263], 3264; [Pub. L. 109–364, div. A, title X, § 1071(a)(4)][/us/pl/109/364/s1071/a/4], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 111–383, div. A, title X, § 1075(b)(14)][/us/pl/111/383/s1075/b/14], Jan. 7, 2011, [124 Stat. 4369][/us/stat/124/4369]; [Pub. L. 112–81, div. A, title V, § 541(d)(1)][/us/pl/112/81/s541/d/1], Dec. 31, 2011, [125 Stat. 1410][/us/stat/125/1410]; [Pub. L. 112–239, div. A, title X, § 1076(f)(8)][/us/pl/112/239/s1076/f/8], Jan. 2, 2013, [126 Stat. 1952][/us/stat/126/1952].)
 
 <table>
 
@@ -197,11 +197,7 @@ May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121.  </td>
 
  __Amendments__ 
 
-    2013—Subsec. (a). [Pub. L. 113–66, § 1703(a)][/us/pl/113/66/s1703/a], substituted “rape or sexual assault, or rape or sexual assault of a child” for “rape, or rape of a child”.
-
-    Subsec. (b)(2)(B)(i). [Pub. L. 113–66, § 1703(b)][/us/pl/113/66/s1703/b], inserted “, unless the offense is covered by subsection (a)” before period at end.
-
-    Subsec. (b)(2)(B)(v). [Pub. L. 112–239][/us/pl/112/239] substituted “Kidnaping,” for “Kidnaping,,”.
+    2013—Subsec. (b)(2)(B)(v). [Pub. L. 112–239][/us/pl/112/239] substituted “Kidnaping,” for “Kidnaping,,”.
 
     2011—Subsec. (b)(2)(B)(i). [Pub. L. 112–81, § 541(d)(1)(A)][/us/pl/112/81/s541/d/1/A], substituted “section 920, 920a, 920b, or 920c of this title (article 120, 120a, 120b, or 120c)” for “[section 920 of this title][/us/usc/t10/s920] (article 120)”.
 
@@ -238,12 +234,6 @@ May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121.  </td>
     “(c) Except as otherwise provided in this article, a person charged with any offense is not liable to be tried by court-martial or punished under [section 815 of this title][/us/usc/t10/s815] (article 15) if the offense was committed more than two years before the receipt of sworn charges and specifications by an officer exercising summary court-martial jurisdiction over the command or before the imposition of punishment under [section 815 of this title][/us/usc/t10/s815] (article 15).”
 
     Subsec. (g). [Pub. L. 99–661, § 805(b)][/us/pl/99/661/s805/b], added subsec. (g).
-
- __Effective Date of 2013 Amendment__ 
-
-[Pub. L. 113–66, div. A, title XVII, § 1703(c)][/us/pl/113/66/s1703/c], Dec. 26, 2013, [127 Stat. 958][/us/stat/127/958], provided that: 
-
-> “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 26, 2013\], and shall apply with respect to an offense covered by section 920(b) or 920b(b) of title 10, United States Code (article 120(b) or 120b(b) of the Uniform Code of Military Justice), that is committed on or after that date.”
 
  __Effective Date of 2011 Amendment__ 
 
@@ -291,10 +281,6 @@ May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121.  </td>
 [/us/stat/125/1410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1410
 [/us/pl/112/239/s1076/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Ff%2F8
 [/us/stat/126/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1952
-[/us/pl/113/66/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1703%2Fa
-[/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
-[/us/pl/113/66/s1703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1703%2Fa
-[/us/pl/113/66/s1703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1703%2Fb
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
 [/us/pl/112/81/s541/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Fd%2F1%2FA
 [/us/usc/t10/s920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs920
@@ -314,8 +300,6 @@ May 5, 1950, ch. 169, § 1 (Art. 43), 64 Stat. 121.  </td>
 [/us/usc/t10/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs815
 [/us/usc/t10/s815]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs815
 [/us/pl/99/661/s805/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661%2Fs805%2Fb
-[/us/pl/113/66/s1703/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1703%2Fc
-[/us/stat/127/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F958
 [/us/pl/112/81/s541/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs541%2Ff
 [/us/stat/125/1411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1411
 [/us/pl/109/163/s552/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs552%2Ff

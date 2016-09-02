@@ -11,66 +11,56 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch142/m__us_usc_t10_s2418.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch142/m__us_usc_t10_s2420.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2419)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch142/m__us_usc_t10_s2418.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch143/m__us_usc_t10_stA_ptIV_ch143.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2419)
 
-## § 2419. Advancing small business growth
+## § 2419. Regulations
 
-    (a)  __Contract Clause Required__  __.—__ 
+    The Secretary of Defense shall prescribe regulations to carry out this chapter.
 
-        (1) The Under Secretary of Defense for Acquisition, Technology, and Logistics shall require the clause described in paragraph (2) to be included in each covered contract awarded by the Department of Defense.
+(Added [Pub. L. 98–525, title XII, § 1241(a)(1)][/us/pl/98/525/s1241/a/1], Oct. 19, 1984, [98 Stat. 2606][/us/stat/98/2606], § 2416; renumbered § 2417, [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 957(a)(1)(A)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–174, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 957(a)(1)(A)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–174, and [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 957(a)(1)(A), Nov. 14, 1986, [100 Stat. 3954][/us/stat/100/3954], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; renumbered § 2418, [Pub. L. 101–510, div. A, title VIII, § 814(a)(1)(A)][/us/pl/101/510/s814/a/1/A], Nov. 5, 1990, [104 Stat. 1596][/us/stat/104/1596]; renumbered § 2419, [Pub. L. 102–484, div. D, title XLII, § 4236(a)(1)(A)][/us/pl/102/484/s4236/a/1/A], Oct. 23, 1992, [106 Stat. 2691][/us/stat/106/2691].)
 
-        (2)
+ __Codification__ 
 
-         The clause described in this paragraph is a clause that—
+    [Pub. L. 99–591][/us/pl/99/591] is a corrected version of [Pub. L. 99–500][/us/pl/99/500].
 
-            (A) requires the contractor to acknowledge that acceptance of the contract may cause the business to exceed the applicable small business size standards (established pursuant to section 3(a) of the Small Business Act) for the industry concerned and that the contractor may no longer qualify as a small business concern for that industry; and
+ __Amendments__ 
 
-            (B) encourages the contractor to develop capabilities and characteristics typically desired in contractors that are competitive as an other-than-small business in that industry.
+    1992—[Pub. L. 102–484][/us/pl/102/484] renumbered [section 2418 of this title][/us/usc/t10/s2418] as this section.
 
-    (b)  __Availability of Assistance__  __.—__ 
+    1990—[Pub. L. 101–510][/us/pl/101/510] renumbered [section 2417 of this title][/us/usc/t10/s2417] as this section.
 
-    Covered small businesses may be provided assistance as part of any procurement technical assistance furnished pursuant to this chapter.
-
-    (c)  __Definitions__  __.—__ 
-
-    In this section:
-
-        (1)
-
-         The term “covered contract” means a contract—
-
-            (A) awarded to a qualified small business concern as defined pursuant to section 3(a) of the Small Business Act; and
-
-            (B)
-
-             with an estimated annual value—
-
-                (i) that will exceed the applicable receipt-based small business size standard; or
-
-                (ii) if the contract is in an industry with an employee-based size standard, that will exceed $70,000,000.
-
-        (2) The term “covered small business” means a qualified small business concern as defined pursuant to section 3(a) of the Small Business Act that has entered into a contract with the Department of Defense that includes a contract clause described in subsection (a)(2).
-
-(Added [Pub. L. 113–66, div. A, title XVI, § 1611(a)(1)(B)][/us/pl/113/66/s1611/a/1/B], Dec. 26, 2013, [127 Stat. 946][/us/stat/127/946].)
-
- __References in Text__ 
-
-    Section 3(a) of the Small Business Act, referred to in subsecs. (a)(2)(A), (c)(1)(A), (2), is classified to [section 632(a) of Title 15][/us/usc/t15/s632/a], Commerce and Trade.
-
- __Prior Provisions__ 
-
-    A prior section 2419 was renumbered [section 2420 of this title][/us/usc/t10/s2420].
+    1986—[Pub. L. 99–500][/us/pl/99/500], [Pub. L. 99–591][/us/pl/99/591], and [Pub. L. 99–661][/us/pl/99/661], renumbered [section 2416 of this title][/us/usc/t10/s2416] as this section.
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch142/m__us_usc_t10_s2418.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch142/m__us_usc_t10_s2420.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2419)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch142/m__us_usc_t10_s2418.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch143/m__us_usc_t10_stA_ptIV_ch143.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2419)
 
 ----------
 ----------
 
-[/us/pl/113/66/s1611/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1611%2Fa%2F1%2FB
-[/us/stat/127/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F946
-[/us/usc/t15/s632/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs632%2Fa
-[/us/usc/t10/s2420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2420
+[/us/pl/98/525/s1241/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1241%2Fa%2F1
+[/us/stat/98/2606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2606
+[/us/pl/99/500/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fc
+[/us/stat/100/1783-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-82
+[/us/pl/99/591/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fc
+[/us/stat/100/3341-82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-82
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/stat/100/3954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3954
+[/us/pl/100/26/s3/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F26%2Fs3%2F5
+[/us/stat/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F273
+[/us/pl/101/510/s814/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs814%2Fa%2F1%2FA
+[/us/stat/104/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1596
+[/us/pl/102/484/s4236/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs4236%2Fa%2F1%2FA
+[/us/stat/106/2691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2691
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
+[/us/usc/t10/s2418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2418
+[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/usc/t10/s2417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2417
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
+[/us/pl/99/661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F661
+[/us/usc/t10/s2416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2416
 
 

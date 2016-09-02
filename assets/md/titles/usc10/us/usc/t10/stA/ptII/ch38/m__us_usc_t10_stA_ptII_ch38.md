@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s657.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch38/m__us_usc_t10_s661.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch38)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s656.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch38/m__us_usc_t10_s661.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch38)
 
 #### CHAPTER 38—JOINT OFFICER MANAGEMENT
 
@@ -99,7 +99,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s657.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch38/m__us_usc_t10_s661.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch38)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s656.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch38/m__us_usc_t10_s661.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2FstA%2FptII%2Fch38)
 
 ----------
 ----------

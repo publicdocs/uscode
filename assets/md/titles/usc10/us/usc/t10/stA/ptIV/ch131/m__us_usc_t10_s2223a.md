@@ -45,40 +45,6 @@
 
 (Added [Pub. L. 111–383, div. A, title VIII, § 805(a)(1)][/us/pl/111/383/s805/a/1], Jan. 7, 2011, [124 Stat. 4259][/us/stat/124/4259].)
 
- __Supervision of the Acquisition of Cloud Computing Capabilities__ 
-
-[Pub. L. 113–66, div. A, title IX, § 938][/us/pl/113/66/s938], Dec. 26, 2013, [127 Stat. 835][/us/stat/127/835], provided that:
-
->     “(a) __Supervision.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary of Defense shall, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Under Secretary of Defense for Intelligence, the Chief Information Officer of the Department of Defense, and the Chairman of the Joint Requirements Oversight Council, supervise the following:
-
->             “(A) Review, development, modification, and approval of requirements for cloud computing solutions for data analysis and storage by the Armed Forces and the Defense Agencies, including requirements for cross-domain, enterprise-wide discovery and correlation of data stored in cloud and non-cloud computing databases, relational and non-relational databases, and hybrid databases.
-
->             “(B) Review, development, modification, approval, and implementation of plans for the competitive acquisition of cloud computing systems or services to meet requirements described in subparagraph (A), including plans for the transition from current computing systems to systems or services acquired.
-
->             “(C) Development and implementation of plans to ensure that the cloud systems or services acquired pursuant to subparagraph (B) are interoperable and universally accessible and usable through attribute-based access controls.
-
->             “(D) Integration of plans under subparagraphs (B) and (C) with enterprise-wide plans of the Armed Forces and the Department of Defense for the Joint Information Environment and the Defense Intelligence Information Environment.
-
->         “(2)  __Direction__  __.—__ 
-
->         The Secretary shall provide direction to the Armed Forces and the Defense Agencies on the matters covered by paragraph (1) by not later than March 15, 2014.
-
->     “(b)  __Integration With Intelligence Community Efforts__  __.—__ 
-
->     The Secretary shall coordinate with the Director of National Intelligence to ensure that activities under this section are integrated with the Intelligence Community Information Technology Enterprise in order to achieve interoperability, information sharing, and other efficiencies.
-
->     “(c)  __Limitation__  __.—__ 
-
->     The requirements of subparagraphs (B), (C), and (D) of subsection (a)(1) shall not apply to a contract for the acquisition of cloud computing capabilities in an amount less than $1,000,000.
-
->     “(d)  __Rule of Construction__  __.—__ 
-
->     Nothing in this section shall be construed to alter or affect the authorities or responsibilities of the Director of National Intelligence under section 102A of the National Security Act of 1947 ([50 U.S.C. 3024][/us/usc/t50/s3024]).”
-
  __Data Servers and Centers__ 
 
 [Pub. L. 112–81, div. B, title XXVIII, § 2867][/us/pl/112/81/s2867], Dec. 31, 2011, [125 Stat. 1704][/us/stat/125/1704], as amended by [Pub. L. 112–239, div. B, title XXVIII, § 2853][/us/pl/112/239/s2853], Jan. 2, 2013, [126 Stat. 2161][/us/stat/126/2161], provided that:
@@ -202,9 +168,6 @@
 
 [/us/pl/111/383/s805/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs805%2Fa%2F1
 [/us/stat/124/4259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4259
-[/us/pl/113/66/s938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs938
-[/us/stat/127/835]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F835
-[/us/usc/t50/s3024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3024
 [/us/pl/112/81/s2867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs2867
 [/us/stat/125/1704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1704
 [/us/pl/112/239/s2853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2853

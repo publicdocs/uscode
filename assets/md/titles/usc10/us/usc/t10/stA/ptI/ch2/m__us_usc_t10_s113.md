@@ -469,106 +469,6 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
     For order of succession during any period when the Secretary has died, resigned, or is otherwise unable to perform the functions and duties of the office of Secretary, see Ex. Ord. No. 13533, Mar. 1, 2010, 75 F.R. 10163, listed in a table under [section 3345 of Title 5][/us/usc/t5/s3345], Government Organization and Employees.
 
- __Provision of Military Service Records to the Secretary of Veterans Affairs in an Electronic Format__ 
-
-[Pub. L. 113–66, div. A, title V, § 525][/us/pl/113/66/s525], Dec. 26, 2013, [127 Stat. 757][/us/stat/127/757], provided that:
-
->     “(a)  __Provision in Electronic Format__  __.—__ 
-
->     In accordance with subsection (b), the Secretary of Defense, in consultation with the Secretary of Veterans Affairs, shall make the covered records of each member of the Armed Forces available to the Secretary of Veterans Affairs in an electronic format.
-
->     “(b)  __Deadline for Provision of Records__  __.—__ 
-
->     With respect to a member of the Armed Forces who is discharged or released from the Armed Forces on or after January 1, 2014, the Secretary of Defense shall ensure that the covered records of the member are made available to the Secretary of Veterans Affairs not later than 90 days after the date of the member’s discharge or release.
-
->     “(c)  __Sharing of Protected Health Information__  __.—__ 
-
->     For purposes of the regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 ([Public Law 104–191][/us/pl/104/191]; [42 U.S.C. 1320d–2][/us/usc/t42/s1320d–2] note), making medical records available to the Secretary of Veterans Affairs under subsection (a) shall be treated as a permitted disclosure.
-
->     “(d)  __Records Currently Available to Secretary of Veterans Affairs__  __.—__ 
-
->     The Secretary of Veterans Affairs, in consultation with the Secretary of Defense, shall ensure that the covered records of members of the Armed Forces that are available to the Secretary of Veterans Affairs as of the date of the enactment of this Act \[Dec. 26, 2013\] are made electronically accessible and available as soon as practicable after that date to the Veterans Benefits Administration.
-
->     “(e)  __Covered Records Defined__  __.—__ 
-
->     In this section, the term ‘covered records’ means, with respect to a member of the Armed Forces—
-
->         “(1) service treatment records;
-
->         “(2) accompanying personal records;
-
->         “(3) relevant unit records; and
-
->         “(4) medical records created by reason of treatment or services received pursuant to chapter 55 of title 10, United States Code.”
-
- __Strategy for Future Military Information Operations Capabilities__ 
-
-[Pub. L. 113–66, div. A, title X, § 1096][/us/pl/113/66/s1096], Dec. 26, 2013, [127 Stat. 880][/us/stat/127/880], provided that:
-
->     “(a)  __Strategy Required__  __.—__ 
-
->     The Secretary of Defense shall develop and implement a strategy for developing and sustaining through fiscal year 2020 information operations capabilities for future contingencies. The Secretary shall submit such strategy to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] by not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\].
-
->     “(b)  __Contents of Strategy__  __.—__ 
-
->     The strategy required by subsection (a) shall include each of the following:
-
->         “(1) A plan for the sustainment of existing capabilities that have been developed during the ten-year period prior to the date of the enactment of this Act, including such capabilities developed using funds authorized to be appropriated for overseas contingency operations determined to be of enduring value for continued sustainment.
-
->         “(2) A discussion of how the capabilities referred to in paragraph (1) are integrated into policy, doctrine, and operations.
-
->         “(3) An assessment of the force structure that is required to sustain operational planning and potential contingency operations, including the integration across the active and reserve components.
-
->         “(4) Estimates of the steady-state resources needed to support the force structure referred to in paragraph (3), as well as estimates for resources that might be needed based on selected operational plans, contingency plans, and named operations.
-
->         “(5) An assessment of the impact of how new and emerging technologies can be incorporated into policy, doctrine, and operations.
-
->         “(6) A description of ongoing research into new capabilities that may be needed to fill any identified gaps and programs that might be required to develop such capabilities.
-
->         “(7) Potential policy implications or legal challenges that may prevent the integration of new and emerging technologies into the projected force structure.
-
->         “(8) Potential policy implications or challenges to the better leveraging of capabilities from interagency partners.”
-
- __Prohibition of Retaliation Against Members of the Armed Forces for Reporting a Criminal Offense__ 
-
-[Pub. L. 113–66, div. A, title XVII, § 1709(a)][/us/pl/113/66/s1709/a], (b), Dec. 26, 2013, [127 Stat. 962][/us/stat/127/962], provided that:
-
->     “(a) __Regulations on Prohibition of Retaliation.—__ 
-
->         “(1)  __Regulations required__  __.—__ 
-
->         The Secretary of Defense shall prescribe regulations, or require the Secretaries of the military departments to prescribe regulations, that prohibit retaliation against an alleged victim or other member of the Armed Forces who reports a criminal offense. The regulations shall prescribe that a violation of the regulations is an offense punishable under [section 892 of title 10][/us/usc/t10/s892], United States Code (article 92 of the Uniform Code of Military Justice).
-
->         “(2)  __Deadline__  __.—__ 
-
->         The regulations required by this subsection shall be prescribed not later than 120 days after the date of the enactment of this Act \[Dec. 26, 2013\].
-
->     “(b) __Retaliation and Personnel Action Described.—__ 
-
->         “(1)  __Retaliation__  __.—__ 
-
->         For purposes of the regulations required by subsection (a), the Secretary of Defense shall define retaliation to include, at a minimum—
-
->             “(A) taking or threatening to take an adverse personnel action, or withholding or threatening to withhold a favorable personnel action, with respect to a member of the Armed Forces because the member reported a criminal offense; and
-
->             “(B) ostracism and such of \[sic\] acts of maltreatment, as designated by the Secretary of Defense, committed by peers of a member of the Armed Forces or by other persons because the member reported a criminal offense.
-
->         “(2)  __Personnel actions__  __.—__ 
-
->         For purposes of paragraph (1)(A), the Secretary of Defense shall define the personnel actions to be covered by the regulations.”
-
- __Review and Policy Regarding Department of Defense Investigative Practices in Response to Allegations of Uniform Code of Military Justice Violations__ 
-
-[Pub. L. 113–66, div. A, title XVII, § 1732][/us/pl/113/66/s1732], Dec. 26, 2013, [127 Stat. 975][/us/stat/127/975], provided that:
-
->     “(a)  __Review__  __.—__ 
-
->     Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall conduct a review of the practices of the military criminal investigative organizations (Army Criminal Investigation Command, Naval Criminal Investigative Service, and Air Force Office of Special Investigation) in response to an allegation that a member of the Armed Forces has committed an offense under the Uniform Code of Military Justice, including the extent to which the military criminal investigative organizations make a recommendation regarding whether an allegation appears founded or unfounded.
-
->     “(b)  __Policy__  __.—__ 
-
->     After conducting the review required by subsection (a), the Secretary of Defense shall develop a uniform policy for the Armed Forces, to the extent practicable, regarding the use of case determinations to record the results of the investigation of an alleged violation of the Uniform Code of Military Justice. In developing the policy, the Secretary shall consider the feasibility of adopting case determination methods, such as the uniform crime report, used by nonmilitary law enforcement agencies.”
-
  __Designation of Department of Defense Senior Official for Enterprise Resource Planning System Data Conversion__ 
 
 [Pub. L. 112–239, div. A, title IX, § 903][/us/pl/112/239/s903], Jan. 2, 2013, [126 Stat. 1866][/us/stat/126/1866], provided that: 
@@ -689,7 +589,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Authority to Support Operations and Activities of the Office of Security Cooperation in Iraq__ 
 
-[Pub. L. 112–81, div. A, title XII, § 1215][/us/pl/112/81/s1215], Dec. 31, 2011, [125 Stat. 1631][/us/stat/125/1631], as amended by [Pub. L. 112–239, div. A, title XII, § 1211(a)][/us/pl/112/239/s1211/a]–(c), Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982]; [Pub. L. 113–66, div. A, title XII, § 1214(a)][/us/pl/113/66/s1214/a]–(c), Dec. 26, 2013, [127 Stat. 906][/us/stat/127/906], provided that:
+[Pub. L. 112–81, div. A, title XII, § 1215][/us/pl/112/81/s1215], Dec. 31, 2011, [125 Stat. 1631][/us/stat/125/1631], as amended by [Pub. L. 112–239, div. A, title XII, § 1211(a)][/us/pl/112/239/s1211/a]–(c), Jan. 2, 2013, [126 Stat. 1982][/us/stat/126/1982], provided that:
 
 >     “(a)  __Authority__  __.—__ 
 
@@ -705,31 +605,19 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >     “(c)  __Limitation on Amount__  __.—__ 
 
->     The total amount of funds provided under the authority in subsection (a) in fiscal year 2014 may not exceed $209,000,000.
+>     The total amount of funds provided under the authority in subsection (a) in fiscal year 2012 may not exceed $524,000,000 and in fiscal year 2013 may not exceed $508,000,000.
 
 >     “(d)  __Source of Funds__  __.—__ 
 
->     Funds for purposes of subsection (a) for fiscal year 2014 shall be derived from amounts available for that fiscal year for operation and maintenance for the Air Force.
+>     Funds for purposes of subsection (a) for fiscal year 2012 or fiscal year 2013 shall be derived from amounts available for fiscal year 2012 or 2013, as the case may be, for operation and maintenance for the Air Force.
 
 >     “(e)  __Coverage of Costs of OSCI in Connection With Sales of Defense Articles or Defense Services to Iraq__  __.—__ 
 
 >     The President shall ensure that any letter of offer for the sale to Iraq of any defense articles or defense services issued after the date of the enactment of this Act \[Dec. 31, 2011\] includes, consistent with the provisions of the Arms Export Control Act ([22 U.S.C. 2751][/us/usc/t22/s2751] et seq.), charges sufficient to recover the costs of operations and activities of security assistance teams in Iraq in connection with such sale.
 
->     “(f) __Additional Authority for Activities of OSCI.—__ 
+>     “(f)  __Additional Authority for Activities of OSCI__  __.—__ 
 
->         “(1)  __In general__  __.—__ 
-
->         During fiscal year 2014, the Secretary of Defense, with the concurrence of the Secretary of State, may authorize the Office of Security Cooperation in Iraq to conduct non-operational training activities in support of Iraqi Ministry of Defense and Counter Terrorism Service personnel in an institutional environment to address capability gaps, integrate processes relating to intelligence, air sovereignty, combined arms, logistics and maintenance, and to manage and integrate defense-related institutions.
-
->         “(2)  __Required elements of training__  __.—__ 
-
->         The training conducted under paragraph (1) shall include elements that promote the following:
-
->             “(A) Observance of and respect for human rights and fundamental freedoms.
-
->             “(B) Military professionalism.
-
->             “(C) Respect for legitimate civilian authority within Iraq.
+>     During fiscal year 2013, the Secretary of Defense, with the concurrence of the Secretary of State, may authorize the Office of Security Cooperation in Iraq to conduct non-operational training activities in support of Iraqi Ministry of Defense and Counter Terrorism Service personnel in an institutional environment to address capability gaps, integrate processes relating to intelligence, air sovereignty, combined arms, logistics and maintenance, and to manage and integrate defense-related institutions.
 
 >     “(g)  __Report__  __.—__ 
 
@@ -1333,7 +1221,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Protection of Certain Individuals__ 
 
-[Pub. L. 110–181, div. A, title X, § 1074][/us/pl/110/181/s1074], Jan. 28, 2008, [122 Stat. 330][/us/stat/122/330], as amended by [Pub. L. 113–66, div. A, title X, § 1084(b)(2)(A)][/us/pl/113/66/s1084/b/2/A], Dec. 26, 2013, [127 Stat. 872][/us/stat/127/872], provided that:
+[Pub. L. 110–181, div. A, title X, § 1074][/us/pl/110/181/s1074], Jan. 28, 2008, [122 Stat. 330][/us/stat/122/330], provided that:
 
 >     “(a)  __Protection for Department Leadership__  __.—__ 
 
@@ -1403,7 +1291,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >             “(A)  __In general__  __.—__ 
 
->             Except as provided in subparagraph (D), the Secretary of Defense shall submit to the congressional defense committees each determination made under paragraph (4) to provide protection and security to an individual and of each determination under paragraph (5)(B) to extend such protection and security, together with the justification for such determination, not later than 15 days after the date on which the determination is made.
+>             The Secretary of Defense shall submit to the congressional defense committees each determination made under paragraph (4) to provide protection and security to an individual and of each determination under paragraph (5)(B) to extend such protection and security, together with the justification for such determination, not later than 15 days after the date on which the determination is made.
 
 >             “(B)  __Form of report__  __.—__ 
 
@@ -1412,14 +1300,6 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 >             “(C)  __Regulations and guidelines__  __.—__ 
 
 >             The Secretary of Defense shall submit to the congressional defense committees the regulations and guidelines prescribed pursuant to paragraph (1) not less than 20 days before the date on which such regulations take effect.
-
->             “(D)  __Exceptions__  __.—__ 
-
->             Subparagraph (A) does not apply to determinations made with respect to the following individuals:
-
->                 “(i) An individual described in paragraph (2)(C) who is otherwise sponsored by the Secretary of Defense, the Deputy Secretary of Defense, the Chairman of the Joint Chiefs of Staff, or the Vice Chairman of the Joint Chiefs of Staff.
-
->                 “(ii) An individual described in paragraph (2)(E).
 
 >     “(c)  __Definitions__  __.—__ 
 
@@ -3047,7 +2927,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Annual Report on Military and Security Developments Involving the People’s Republic of China__ 
 
-[Pub. L. 106–65, div. A, title XII, § 1202][/us/pl/106/65/s1202], Oct. 5, 1999, [113 Stat. 781][/us/stat/113/781], as amended by [Pub. L. 107–107, div. A, title XII, § 1221][/us/pl/107/107/s1221], Dec. 28, 2001, [115 Stat. 1252][/us/stat/115/1252]; [Pub. L. 110–181, div. A, title XII, § 1263][/us/pl/110/181/s1263], Jan. 28, 2008, [122 Stat. 407][/us/stat/122/407]; [Pub. L. 111–84, div. A, title XII, § 1246(a)][/us/pl/111/84/s1246/a]–(c), Oct. 28, 2009, [123 Stat. 2544][/us/stat/123/2544], 2545; [Pub. L. 112–81, div. A, title X, § 1066(e)(1)][/us/pl/112/81/s1066/e/1], title XII, § 1238(a), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1642; [Pub. L. 112–239, div. A, title XII, § 1271][/us/pl/112/239/s1271], Jan. 2, 2013, [126 Stat. 2022][/us/stat/126/2022]; [Pub. L. 113–66, div. A, title XII, § 1242][/us/pl/113/66/s1242], Dec. 26, 2013, [127 Stat. 920][/us/stat/127/920], provided that:
+[Pub. L. 106–65, div. A, title XII, § 1202][/us/pl/106/65/s1202], Oct. 5, 1999, [113 Stat. 781][/us/stat/113/781], as amended by [Pub. L. 107–107, div. A, title XII, § 1221][/us/pl/107/107/s1221], Dec. 28, 2001, [115 Stat. 1252][/us/stat/115/1252]; [Pub. L. 110–181, div. A, title XII, § 1263][/us/pl/110/181/s1263], Jan. 28, 2008, [122 Stat. 407][/us/stat/122/407]; [Pub. L. 111–84, div. A, title XII, § 1246(a)][/us/pl/111/84/s1246/a]–(c), Oct. 28, 2009, [123 Stat. 2544][/us/stat/123/2544], 2545; [Pub. L. 112–81, div. A, title X, § 1066(e)(1)][/us/pl/112/81/s1066/e/1], title XII, § 1238(a), Dec. 31, 2011, [125 Stat. 1589][/us/stat/125/1589], 1642; [Pub. L. 112–239, div. A, title XII, § 1271][/us/pl/112/239/s1271], Jan. 2, 2013, [126 Stat. 2022][/us/stat/126/2022], provided that:
 
 >     “(a)  __Annual Report__  __.—__ 
 
@@ -3110,8 +2990,6 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 >         “(18) A description of Chinese military-to-military relationships with other countries, including the size and activity of military attache offices around the world and military education programs conducted in China for other countries or in other countries for the Chinese.
 
 >         “(19) A description of any significant sale or transfer of military hardware, expertise, and technology to or from the People’s Republic of China, including a forecast of possible future sales and transfers, a description of the implications of those sales and transfers for the security of the United States and its partners and allies in Asia, and a description of any significant assistance to and from any selling state with military-related research and development programs in China.
-
->         “(20) The status of the 5th generation fighter program of the People’s Republic of China, including an assessment of each individual aircraft type, estimated initial and full operational capability dates, and the ability of such aircraft to provide air superiority.
 
 >     “(c)  __Specified Congressional Committees__  __.—__ 
 
@@ -3749,13 +3627,11 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
  __Plan Requiring Disbursing Officials of Department of Defense To Match Disbursements to Particular Obligations__ 
 
-[Pub. L. 113–76, div. C, title VIII, § 8067][/us/pl/113/76/s8067], Jan. 17, 2014, [128 Stat. 121][/us/stat/128/121], provided that: 
+[Pub. L. 113–6, div. C, title VIII, § 8067][/us/pl/113/6/s8067], Mar. 26, 2013, [127 Stat. 313][/us/stat/127/313], provided that: 
 
-> “Section 8106 of the Department of Defense Appropriations Act, 1997 (titles I through VIII of the matter under sub[section 101(b) of Public Law 104–208][/us/pl/104/208/s101/b]; [110 Stat. 3009–111][/us/stat/110/3009-111]; [10 U.S.C. 113][/us/usc/t10/s113] note) shall continue in effect to apply to disbursements that are made by the Department of Defense in fiscal year 2014.”
+> “Section 8106 of the Department of Defense Appropriations Act, 1997 (titles I through VIII of the matter under sub[section 101(b) of Public Law 104–208][/us/pl/104/208/s101/b]; [110 Stat. 3009–111][/us/stat/110/3009-111]; [10 U.S.C. 113][/us/usc/t10/s113] note) shall continue in effect to apply to disbursements that are made by the Department of Defense in fiscal year 2013.”
 
 Similar provisions were contained in the following prior appropriation acts:
-
-    [Pub. L. 113–6, div. C, title VIII, § 8067][/us/pl/113/6/s8067], Mar. 26, 2013, [127 Stat. 313][/us/stat/127/313].
 
     [Pub. L. 112–74, div. A, title VIII, § 8068][/us/pl/112/74/s8068], Dec. 23, 2011, [125 Stat. 822][/us/stat/125/822].
 
@@ -3801,13 +3677,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Gender-Neutral Occupational Performance Standards__ 
 
-[Pub. L. 103–160, div. A, title V, § 543][/us/pl/103/160/s543], Nov. 30, 1993, [107 Stat. 1660][/us/stat/107/1660], as amended by [Pub. L. 113–66, div. A, title V, § 523][/us/pl/113/66/s523], Dec. 26, 2013, [127 Stat. 756][/us/stat/127/756], provided that:
+[Pub. L. 103–160, div. A, title V, § 543][/us/pl/103/160/s543], Nov. 30, 1993, [107 Stat. 1660][/us/stat/107/1660], provided that:
 
 >     “(a)  __Gender Neutrality Requirement__  __.—__ 
 
->     In the case of any military career designator that is open to both male and female members of the Armed Forces, the Secretary of Defense—
+>     In the case of any military occupational career field that is open to both male and female members of the Armed Forces, the Secretary of Defense—
 
->         “(1) shall ensure that qualification of members of the Armed Forces for, and continuance of members of the Armed Forces in, that occupational career field is evaluated on the basis of an occupational standard, without differential standards or evaluation on the basis of gender;
+>         “(1) shall ensure that qualification of members of the Armed Forces for, and continuance of members of the Armed Forces in, that occupational career field is evaluated on the basis of common, relevant performance standards, without differential standards or evaluation on the basis of gender;
 
 >         “(2) may not use any gender quota, goal, or ceiling except as specifically authorized by law; and
 
@@ -3815,29 +3691,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
 >     “(b)  __Requirements Relating To Use of Specific Physical Requirements__  __.—__ 
 
->         (1) For any military career designator for which the Secretary of Defense determines that specific physical requirements for muscular strength and endurance and cardiovascular capacity are essential to the performance of duties, the Secretary shall prescribe specific physical requirements as part of the gender-neutral occupational standard for members in that career designator and shall ensure (in the case of a career designator that is open to both male and female members of the Armed Forces) that those requirements are applied on a gender-neutral basis.
+>         (1) For any military occupational specialty for which the Secretary of Defense determines that specific physical requirements for muscular strength and endurance and cardiovascular capacity are essential to the performance of duties, the Secretary shall prescribe specific physical requirements for members in that specialty and shall ensure (in the case of an occupational specialty that is open to both male and female members of the Armed Forces) that those requirements are applied on a gender-neutral basis.
 
->         “(2) Whenever the Secretary establishes or revises a physical requirement for a military career designator, a member serving in that military career designator when the new requirement becomes effective, who is otherwise considered to be a satisfactory performer, shall be provided a reasonable period, as determined under regulations prescribed by the Secretary, to meet the standard established by the new requirement. During that period, the new physical requirement may not be used to disqualify the member from continued service in that military career designator.
+>         “(2) Whenever the Secretary establishes or revises a physical requirement for an occupational specialty, a member serving in that occupational specialty when the new requirement becomes effective, who is otherwise considered to be a satisfactory performer, shall be provided a reasonable period, as determined under regulations prescribed by the Secretary, to meet the standard established by the new requirement. During that period, the new physical requirement may not be used to disqualify the member from continued service in that specialty.
 
 >     “(c)  __Notice to Congress of Changes__  __.—__ 
 
->     Whenever the Secretary of Defense proposes to implement changes to the gender-neutral occupational standard for a military career designator that are expected to result in an increase, or in a decrease, of at least 10 percent in the number of female members of the Armed Forces who enter, or are assigned to, that military career designator, the Secretary of Defense shall submit to Congress a report providing notice of the change and the justification and rationale for the change. Such changes may then be implemented only after the end of the 60-day period beginning on the date on which such report is submitted.
-
->     “(d)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1)  __Gender-neutral occupational standard__  __.—__ 
-
->         The term ‘gender-neutral occupational standard’, with respect to a military career designator, means that all members of the Armed Forces serving in or assigned to the military career designator must meet the same performance outcome-based standards for the successful accomplishment of the necessary and required specific tasks associated with the qualifications and duties performed while serving in or assigned to the military career designator.
-
->         “(2)  __Military career designator__  __.—__ 
-
->         The term ‘military career designator’ refers to—
-
->             “(A) in the case of enlisted members and warrant officers of the Armed Forces, military occupational specialties, specialty codes, enlisted designators, enlisted classification codes, additional skill identifiers, and special qualification identifiers; and
-
->             “(B) in the case of commissioned officers (other than commissioned warrant officers), officer areas of concentration, occupational specialties, specialty codes, additional skill identifiers, and special qualification identifiers.”
+>     Whenever the Secretary of Defense proposes to implement changes to the occupational standards for a military occupational field that are expected to result in an increase, or in a decrease, of at least 10 percent in the number of female members of the Armed Forces who enter, or are assigned to, that occupational field, the Secretary of Defense shall submit to Congress a report providing notice of the change and the justification and rationale for the change. Such changes may then be implemented only after the end of the 60-day period beginning on the date on which such report is submitted.”
 
  __Security Clearances__ 
 
@@ -4655,17 +4515,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/usc/t5/s3345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3345
-[/us/pl/113/66/s525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs525
-[/us/stat/127/757]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F757
-[/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
-[/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
-[/us/pl/113/66/s1096]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1096
-[/us/stat/127/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F880
-[/us/pl/113/66/s1709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1709%2Fa
-[/us/stat/127/962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F962
-[/us/usc/t10/s892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs892
-[/us/pl/113/66/s1732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1732
-[/us/stat/127/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F975
 [/us/pl/112/239/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs903
 [/us/stat/126/1866]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1866
 [/us/pl/112/239/s1061/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1061%2Fa
@@ -4680,8 +4529,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/125/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1631
 [/us/pl/112/239/s1211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1211%2Fa
 [/us/stat/126/1982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1982
-[/us/pl/113/66/s1214/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1214%2Fa
-[/us/stat/127/906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F906
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/pl/111/383/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs124
 [/us/stat/124/4159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4159
@@ -4736,8 +4583,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/pl/110/181/s1074]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1074
 [/us/stat/122/330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F330
-[/us/pl/113/66/s1084/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1084%2Fb%2F2%2FA
-[/us/stat/127/872]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F872
 [/us/usc/t18/s1385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1385
 [/us/pl/110/181/s1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1208
 [/us/stat/122/367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F367
@@ -4926,8 +4771,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/125/1589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1589
 [/us/pl/112/239/s1271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1271
 [/us/stat/126/2022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2022
-[/us/pl/113/66/s1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1242
-[/us/stat/127/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F920
 [/us/pl/96/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F8
 [/us/usc/t22/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3301
 [/us/usc/t10/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs168
@@ -5053,13 +4896,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/103/337/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1031
 [/us/stat/108/2838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2838
 [/us/usc/t38/s101/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F9
-[/us/pl/113/76/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs8067
-[/us/stat/128/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F121
+[/us/pl/113/6/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8067
+[/us/stat/127/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F313
 [/us/pl/104/208/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fb
 [/us/stat/110/3009-111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-111
 [/us/usc/t10/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs113
-[/us/pl/113/6/s8067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs8067
-[/us/stat/127/313]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F313
 [/us/pl/112/74/s8068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs8068
 [/us/stat/125/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F822
 [/us/pl/112/10/s8070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs8070
@@ -5109,8 +4950,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/stat/119/3251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3251
 [/us/pl/103/160/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs543
 [/us/stat/107/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1660
-[/us/pl/113/66/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs523
-[/us/stat/127/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F756
 [/us/pl/103/337/s1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1041
 [/us/stat/108/2842]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2842
 [/us/pl/103/160/s1183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs1183

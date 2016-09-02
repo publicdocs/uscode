@@ -67,12 +67,6 @@
 
     Subsec. (d). [Pub. L. 112–239, § 2851(c)][/us/pl/112/239/s2851/c], added subsec. (d).
 
- __Notification of Necessary Assessments or Studies__ 
-
-[Pub. L. 113–66, div. A, title X, § 1074(b)][/us/pl/113/66/s1074/b], Dec. 26, 2013, [127 Stat. 870][/us/stat/127/870], provided that: 
-
-> “The Secretary of the Army, when making a congressional notification in accordance with [section 993 of title 10][/us/usc/t10/s993], United States Code, shall include the Secretary’s assessment of whether or not the changes covered by the notification require an Environmental Assessment or Environmental Impact Statement in accordance with the National Environmental Policy Act of 1969 ([42 U.S.C. 4321][/us/usc/t42/s4321] et seq.), and, if an assessment or study is required, the plan for conducting such assessment or study.”
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s14.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch50/m__us_usc_t10_s994.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs993)
@@ -87,9 +81,5 @@
 [/us/pl/112/239/s2851/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2851%2Fa
 [/us/pl/112/239/s2851/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2851%2Fb
 [/us/pl/112/239/s2851/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2851%2Fc
-[/us/pl/113/66/s1074/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1074%2Fb
-[/us/stat/127/870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F870
-[/us/usc/t10/s993]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs993
-[/us/usc/t42/s4321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4321
 
 

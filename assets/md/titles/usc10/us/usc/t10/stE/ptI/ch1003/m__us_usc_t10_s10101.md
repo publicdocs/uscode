@@ -63,11 +63,11 @@
 
  __Pilot Program on Enhancements of Department of Defense Efforts on Mental Health in the National Guard and Reserves Through Community Partnerships__ 
 
-[Pub. L. 112–239, div. A, title VII, § 706][/us/pl/112/239/s706], Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800], as amended by [Pub. L. 113–66, div. A, title V, § 511(b)][/us/pl/113/66/s511/b], Dec. 26, 2013, [127 Stat. 751][/us/stat/127/751], provided that:
+[Pub. L. 112–239, div. A, title VII, § 706][/us/pl/112/239/s706], Jan. 2, 2013, [126 Stat. 1800][/us/stat/126/1800], provided that:
 
 >     “(a)  __Program Authority__  __.—__ 
 
->     The Secretary of Defense may carry out a pilot program to enhance the efforts of the Department of Defense in research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention in members of the National Guard and Reserves, their family members, and their caregivers through community partners.
+>     The Secretary of Defense may carry out a pilot program to enhance the efforts of the Department of Defense in research, treatment, education, and outreach on mental health and substance use disorders and traumatic brain injury in members of the National Guard and Reserves, their family members, and their caregivers through community partners.
 
 >     “(b)  __Agreements With Community Partners__  __.—__ 
 
@@ -81,7 +81,7 @@
 
 >         “(2) Identifying and disseminating evidence-based treatments of mental health and substance use disorders and traumatic brain injury described in paragraph (1).
 
->         “(3) Outreach and education to such members, their families and caregivers, and the public about mental health, substance use disorders, traumatic brain injury, and suicide prevention.
+>         “(3) Outreach and education to such members, their families and caregivers, and the public about mental health and substance use disorders and traumatic brain injury described in paragraph (1).
 
 >     “(d)  __Duration__  __.—__ 
 
@@ -89,7 +89,7 @@
 
 >     “(e)  __Report__  __.—__ 
 
->     Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements of the pilot program with respect to research, treatment, education, and outreach on mental health, substance use disorders, traumatic brain injury, and suicide prevention.”
+>     Not later than 180 days before the completion of the pilot program, the Secretary of Defense shall submit to the Secretary of Veterans Affairs and the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the results of the pilot program, including the number of members of the National Guard and Reserves provided treatment or services by community partners, and a description and assessment of the effectiveness and achievements of the pilot program with respect to research, treatment, education, and outreach on mental health and substance use disorders and traumatic brain injury.”
 
  __Behavioral Health Support__ 
 
@@ -472,8 +472,6 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 [/us/pl/112/239/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs706
 [/us/stat/126/1800]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1800
-[/us/pl/113/66/s511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs511%2Fb
-[/us/stat/127/751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F751
 [/us/pl/112/81/s703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs703%2Fb
 [/us/stat/125/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1471
 [/us/usc/t10/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs10001

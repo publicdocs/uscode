@@ -93,7 +93,7 @@
 
         (2) If the debt associated with a privatization project exceeds net operating income or the occupancy rates for the housing units are below 75 percent for more than one year, the plan developed to mitigate the financial risk of the project.
 
-        (3) An assessment of any significant project variances between the actual and pro forma deposits in the recapitalization account, to specifically include any unique variances associated with litigation costs.
+        (3) An assessment of any significant project variances between the actual and pro forma deposits in the recapitalization account.
 
         (4) The details of any significant withdrawals from a recapitalization account, including the purpose and rationale of the withdrawal and, if the withdrawal occurs before the normal recapitalization period, the impact of the early withdrawal on the financial health of the project.
 
@@ -101,13 +101,11 @@
 
         (6) An assessment of cost assessed to members of the armed forces for utilities compared to utility rates in the local area.
 
-(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 550][/us/stat/110/550]; amended [Pub. L. 108–136, div. B, title XXVIII, § 2807][/us/pl/108/136/s2807], Nov. 24, 2003, [117 Stat. 1722][/us/stat/117/1722]; [Pub. L. 108–375, div. B, title XXVIII, § 2806][/us/pl/108/375/s2806], Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122]; [Pub. L. 109–163, div. B, title XXVIII, § 2806(c)][/us/pl/109/163/s2806/c], Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–417, div. B, title XXVIII, § 2805(b)][/us/pl/110/417/s2805/b], (f), Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723], 4724; [Pub. L. 111–383, div. A, title X, § 1075(h)(6)][/us/pl/111/383/s1075/h/6], div. B, title XXVIII, § 2803(g), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], 4459; [Pub. L. 112–239, div. B, title XXVIII, § 2803(b)][/us/pl/112/239/s2803/b], Jan. 2, 2013, [126 Stat. 2148][/us/stat/126/2148]; [Pub. L. 113–66, div. B, title XXVIII, § 2806][/us/pl/113/66/s2806], Dec. 26, 2013, [127 Stat. 1008][/us/stat/127/1008].)
+(Added [Pub. L. 104–106, div. B, title XXVIII, § 2801(a)(1)][/us/pl/104/106/s2801/a/1], Feb. 10, 1996, [110 Stat. 550][/us/stat/110/550]; amended [Pub. L. 108–136, div. B, title XXVIII, § 2807][/us/pl/108/136/s2807], Nov. 24, 2003, [117 Stat. 1722][/us/stat/117/1722]; [Pub. L. 108–375, div. B, title XXVIII, § 2806][/us/pl/108/375/s2806], Oct. 28, 2004, [118 Stat. 2122][/us/stat/118/2122]; [Pub. L. 109–163, div. B, title XXVIII, § 2806(c)][/us/pl/109/163/s2806/c], Jan. 6, 2006, [119 Stat. 3507][/us/stat/119/3507]; [Pub. L. 110–417, div. B, title XXVIII, § 2805(b)][/us/pl/110/417/s2805/b], (f), Oct. 14, 2008, [122 Stat. 4723][/us/stat/122/4723], 4724; [Pub. L. 111–383, div. A, title X, § 1075(h)(6)][/us/pl/111/383/s1075/h/6], div. B, title XXVIII, § 2803(g), Jan. 7, 2011, [124 Stat. 4377][/us/stat/124/4377], 4459; [Pub. L. 112–239, div. B, title XXVIII, § 2803(b)][/us/pl/112/239/s2803/b], Jan. 2, 2013, [126 Stat. 2148][/us/stat/126/2148].)
 
  __Amendments__ 
 
     2013—Subsecs. (b), (c). [Pub. L. 112–239][/us/pl/112/239] added subsecs. (b) and (c) and struck out former subsec. (b) which required the Secretary of Defense to provide annual reports to Congress.
-
-    Subsec. (c)(3). [Pub. L. 113–66][/us/pl/113/66] inserted “, to specifically include any unique variances associated with litigation costs” before period at end.
 
     2011—Subsec. (a)(4). [Pub. L. 111–383, § 2803(g)][/us/pl/111/383/s2803/g], inserted before period at end “or, if earlier, a period of 20 days has elapsed from the date on which a copy of the report is provided in an electronic medium pursuant to [section 480 of this title][/us/usc/t10/s480]”.
 
@@ -171,10 +169,7 @@
 [/us/stat/124/4377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4377
 [/us/pl/112/239/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2803%2Fb
 [/us/stat/126/2148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2148
-[/us/pl/113/66/s2806]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2806
-[/us/stat/127/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1008
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/111/383/s2803/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2803%2Fg
 [/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/pl/111/383/s1075/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fh%2F6

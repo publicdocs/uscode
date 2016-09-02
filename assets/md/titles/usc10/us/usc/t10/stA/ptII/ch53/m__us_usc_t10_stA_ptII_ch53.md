@@ -73,9 +73,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1036" data-uslm-ref="/us/usc/t10/s1036">1036.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1036" data-uslm-ref="/us/usc/t10/s1036">1036.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Escorts for dependents of members: transportation and travel allowances.  </td>
 
   </tr>
 
@@ -172,14 +172,6 @@
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1044d" data-uslm-ref="/us/usc/t10/s1044d">1044d.</a>  </td>
 
     <td> Military testamentary instruments: requirement for recognition by States.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1044e" data-uslm-ref="/us/usc/t10/s1044e">1044e.</a>  </td>
-
-    <td> Special Victims’ Counsel for victims of sex-related offenses.  </td>
 
   </tr>
 
@@ -289,9 +281,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1053a" data-uslm-ref="/us/usc/t10/s1053a">1053a.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs1053a" data-uslm-ref="/us/usc/t10/s1053a">1053a.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Expenses incurred in connection with leave canceled due to contingency operations: reimbursement.  </td>
 
   </tr>
 
@@ -379,8 +371,6 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title VI, § 621(a)(2)(B)][/us/pl/113/66/s621/a/2/B], (c)(2)(B), title XVII, § 1716(a)(2), Dec. 26, 2013, [127 Stat. 783][/us/stat/127/783], 784, 969, added item 1044e and struck out items 1036 “Escorts for dependents of members: transportation and travel allowances” and 1053a “Expenses incurred in connection with leave canceled due to contingency operations: reimbursement”.
-
     2011—[Pub. L. 112–81, div. A, title V, § 588(b)][/us/pl/112/81/s588/b], title IX, § 951(a)(2), Dec. 31, 2011, [125 Stat. 1437][/us/stat/125/1437], 1549, added items 1051c and 1056a.
 
     [Pub. L. 111–383, div. A, title XII, § 1204(b)][/us/pl/111/383/s1204/b], Jan. 7, 2011, [124 Stat. 4387][/us/stat/124/4387], added item 1050a.
@@ -465,13 +455,13 @@
 
  __Protection of Rights of Conscience of Members of the Armed Forces and Chaplains of Such Members__ 
 
-[Pub. L. 112–239, div. A, title V, § 533][/us/pl/112/239/s533], Jan. 2, 2013, [126 Stat. 1727][/us/stat/126/1727], as amended by [Pub. L. 113–66, div. A, title V, § 532(a)][/us/pl/113/66/s532/a], Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759], provided that:
+[Pub. L. 112–239, div. A, title V, § 533][/us/pl/112/239/s533], Jan. 2, 2013, [126 Stat. 1727][/us/stat/126/1727], provided that:
 
 >     “(a) __Protection of Rights of Conscience.—__ 
 
 >         “(1)  __Accommodation__  __.—__ 
 
->         Unless it could have an adverse impact on military readiness, unit cohesion, and good order and discipline, the Armed Forces shall accommodate individual expressions of belief of a member of the armed forces reflecting the sincerely held conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such expression of belief as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
+>         The Armed Forces shall accommodate the beliefs of a member of the armed forces reflecting the conscience, moral principles, or religious beliefs of the member and, in so far as practicable, may not use such beliefs as the basis of any adverse personnel action, discrimination, or denial of promotion, schooling, training, or assignment.
 
 >         “(2)  __Disciplinary or administrative action__  __.—__ 
 
@@ -488,12 +478,6 @@
 >     “(c)  __Regulations__  __.—__ 
 
 >     The Secretary of Defense shall issue regulations implementing the protections afforded by this section.”
-
-\[[Pub. L. 113–66, div. A, title V, § 532(b)][/us/pl/113/66/s532/b], Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759], provided that: 
-
-> “Regulations.—Not later than 90 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall prescribe the implementing regulations required by subsection (c) of such section \[[section 533 of Pub. L. 112–239][/us/pl/112/239/s533], set out above\]. In prescribing such regulations, the Secretary shall consult with the official military faith-group representatives who endorse military chaplains.”
-
-\]
 
  __Freedom of Conscience of Military Chaplains With Respect to the Performance of Marriages__ 
 
@@ -610,8 +594,6 @@
 ----------
 ----------
 
-[/us/pl/113/66/s621/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs621%2Fa%2F2%2FB
-[/us/stat/127/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F783
 [/us/pl/112/81/s588/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs588%2Fb
 [/us/stat/125/1437]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1437
 [/us/pl/111/383/s1204/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1204%2Fb
@@ -707,11 +689,6 @@
 [/us/stat/72/1445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1445
 [/us/pl/112/239/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs533
 [/us/stat/126/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1727
-[/us/pl/113/66/s532/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs532%2Fa
-[/us/stat/127/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F759
-[/us/pl/113/66/s532/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs532%2Fb
-[/us/stat/127/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F759
-[/us/pl/112/239/s533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs533
 [/us/pl/112/81/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs544
 [/us/stat/125/1412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1412
 [/us/pl/111/383/s1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1062

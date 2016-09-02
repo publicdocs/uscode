@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_stA_ptII_ch59.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch59/m__us_usc_t10_s1164.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1161)
 
-## § 1161. Commissioned officers: limitations on dismissal
+## § 1161.  Commissioned  officers:  limitations  on dismissal
 
     (a)
 

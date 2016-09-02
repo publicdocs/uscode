@@ -161,9 +161,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2837" data-uslm-ref="/us/usc/t10/s2837">2837.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs2837" data-uslm-ref="/us/usc/t10/s2837">2837.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Limited partnerships with private developers of housing.  </td>
 
   </tr>
 
@@ -178,8 +178,6 @@
 </table>
 
  __Amendments__ 
-
-    2013—[Pub. L. 113–66, div. B, title XXVIII, § 2802(a)(2)][/us/pl/113/66/s2802/a/2], Dec. 26, 2013, [127 Stat. 1006][/us/stat/127/1006], struck out item 2837 “Limited partnerships with private developers of housing”.
 
     2008—[Pub. L. 110–417, div. B, title XXVIII][/us/pl/110/417], §§ 2803(b), 2804(b), Oct. 14, 2008, [122 Stat. 4720][/us/stat/122/4720], 4721, added items 2835a and 2838.
 
@@ -200,8 +198,6 @@
 ----------
 ----------
 
-[/us/pl/113/66/s2802/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2802%2Fa%2F2
-[/us/stat/127/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1006
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4720
 [/us/pl/109/364/s2803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs2803%2Fb

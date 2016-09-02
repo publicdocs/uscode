@@ -61,27 +61,11 @@
 
             (A) the same information, in detailed and summarized form, as is provided in reports submitted under [section 2431 of this title][/us/usc/t10/s2431];
 
-            (B)
+            (B) the current program acquisition unit cost for each major defense acquisition program or designated major subprogram included in the report and the history of that cost from the date the program or subprogram was first included in a Selected Acquisition Report to the end of the quarter for which the current report is submitted;
 
-             for each major defense acquisition program or designated major subprogram included in the report—
+            (C) the current procurement unit cost for each major defense acquisition program or designated major subprogram included in the report and the history of that cost from the date the program or subprogram was first included in a Selected Acquisition Report to the end of the quarter for which the current report is submitted; and
 
-                (i) the Baseline Estimate (as that term is defined in [section 2433(a)(2) of this title][/us/usc/t10/s2433/a/2]), along with the associated risk and sensitivity analysis of that estimate;
-
-                (ii) the original Baseline Estimate (as that term is defined in [section 2435(d)(1) of this title][/us/usc/t10/s2435/d/1]), along with the associated risk and sensitivity analysis of that estimate;
-
-                (iii) if the original Baseline Estimate was adjusted or revised pursuant to [section 2435(d)(2) of this title][/us/usc/t10/s2435/d/2], such adjusted or revised estimate, along with the associated risk and sensitivity analysis of that estimate; and
-
-                (iv) the primary risk parameters associated with the current procurement cost for the program (as that term is used in [section 2432(e)(4) of this title][/us/usc/t10/s2432/e/4]);
-
-            (C) a summary of the history of significant developments from the date each major defense acquisition program or designated major subprogram included in the report was first included in a Selected Acquisition Report and program highlights since the last Selected Acquisition Report;
-
-            (D) the significant schedule and technical risks for each such program or subprogram, identified at each major milestone and as of the quarter for which the current report is submitted;
-
-            (E) the current program acquisition cost and program acquisition unit cost for each such program or subprogram included in the report and the history of those costs from the December 2001 reporting period to the end of the quarter for which the current report is submitted;
-
-            (F) the current procurement unit cost for each such program or subprogram included in the report and the history of that cost from the December 2001 reporting period to the end of the quarter for which the current report is submitted; and
-
-            (G) such other information as the Secretary of Defense considers appropriate.
+            (D) such other information as the Secretary of Defense considers appropriate.
 
         (2) Each Selected Acquisition Report for the first quarter of a fiscal year shall be designed to provide to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives the information such Committees need to perform their oversight functions. Whenever the Secretary of Defense proposes to make changes in the content of a Selected Acquisition Report, the Secretary shall submit a notice of the proposed changes to such committees. The changes shall be considered approved by the Secretary, and may be incorporated into the report, only after the end of the 60-day period beginning on the date on which the notice is received by those committees.
 
@@ -153,23 +137,13 @@
 
         (3) The submission requirements for a limited report under this subsection shall be the same as for quarterly Selected Acquisition Reports for total program reporting.
 
-(Added [Pub. L. 97–252, title XI, § 1107(a)(1)][/us/pl/97/252/s1107/a/1], Sept. 8, 1982, [96 Stat. 739][/us/stat/96/739], § 139a; amended [Pub. L. 98–525, title XII, § 1242(a)][/us/pl/98/525/s1242/a], Oct. 19, 1984, [98 Stat. 2606][/us/stat/98/2606]; [Pub. L. 99–145, title XII, § 1201][/us/pl/99/145/s1201], Nov. 8, 1985, [99 Stat. 715][/us/stat/99/715]; renumbered § 2432 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1003, 1004; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 961(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–175, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 961(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–175; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 961(a), Nov. 14, 1986, [100 Stat. 3955][/us/stat/100/3955], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 7(b)(3)][/us/pl/100/26/s7/b/3], (k)(2), Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279], 284; [Pub. L. 100–180, div. A, title XII, § 1233(a)(1)][/us/pl/100/180/s1233/a/1], title XIII, § 1314(a)(1), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161], 1175; [Pub. L. 101–189, div. A, title VIII, § 811(c)][/us/pl/101/189/s811/c], Nov. 29, 1989, [103 Stat. 1493][/us/stat/103/1493]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510], §§ 1407(a)–(c), 1484(f)(4), Nov. 5, 1990, [104 Stat. 1681][/us/stat/104/1681], 1717; [Pub. L. 102–25, title VII, § 701(f)(3)][/us/pl/102/25/s701/f/3], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; [Pub. L. 102–190, div. A, title VIII, § 801(b)(2)][/us/pl/102/190/s801/b/2], title X, § 1061(a)(14), Dec. 5, 1991, [105 Stat. 1412][/us/stat/105/1412], 1473; [Pub. L. 102–484, div. A, title VIII, § 817(c)][/us/pl/102/484/s817/c], Oct. 23, 1992, [106 Stat. 2455][/us/stat/106/2455]; [Pub. L. 103–355, title III, § 3002(a)(1)][/us/pl/103/355/s3002/a/1], (b)–(h), Oct. 13, 1994, [108 Stat. 3328][/us/stat/108/3328], 3329; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 104–201, div. A, title VIII, § 806][/us/pl/104/201/s806], Sept. 23, 1996, [110 Stat. 2606][/us/stat/110/2606]; [Pub. L. 105–85, div. A, title VIII, § 841(c)][/us/pl/105/85/s841/c], Nov. 18, 1997, [111 Stat. 1843][/us/stat/111/1843]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–107, div. A, title VIII, § 821(a)][/us/pl/107/107/s821/a], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 108–136, div. A, title X, § 1045(a)(6)][/us/pl/108/136/s1045/a/6], Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612]; [Pub. L. 108–375, div. A, title VIII, § 801(b)(2)][/us/pl/108/375/s801/b/2], Oct. 28, 2004, [118 Stat. 2004][/us/stat/118/2004]; [Pub. L. 109–364, div. A, title X, § 1071(g)(10)][/us/pl/109/364/s1071/g/10], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 811(b), Oct. 14, 2008, [122 Stat. 4521][/us/stat/122/4521]; [Pub. L. 112–81, div. A, title VIII, § 812][/us/pl/112/81/s812], Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491]; [Pub. L. 113–66, div. A, title VIII, § 812(a)][/us/pl/113/66/s812/a], Dec. 26, 2013, [127 Stat. 807][/us/stat/127/807].)
+(Added [Pub. L. 97–252, title XI, § 1107(a)(1)][/us/pl/97/252/s1107/a/1], Sept. 8, 1982, [96 Stat. 739][/us/stat/96/739], § 139a; amended [Pub. L. 98–525, title XII, § 1242(a)][/us/pl/98/525/s1242/a], Oct. 19, 1984, [98 Stat. 2606][/us/stat/98/2606]; [Pub. L. 99–145, title XII, § 1201][/us/pl/99/145/s1201], Nov. 8, 1985, [99 Stat. 715][/us/stat/99/715]; renumbered § 2432 and amended [Pub. L. 99–433, title I][/us/pl/99/433], §§ 101(a)(5), 110(d)(13), (g)(7), Oct. 1, 1986, [100 Stat. 995][/us/stat/100/995], 1003, 1004; [Pub. L. 99–500, § 101(c)][/us/pl/99/500/s101/c] \[title X, § 961(a)\], Oct. 18, 1986, [100 Stat. 1783–82][/us/stat/100/1783-82], 1783–175, and [Pub. L. 99–591, § 101(c)][/us/pl/99/591/s101/c] \[title X, § 961(a)\], Oct. 30, 1986, [100 Stat. 3341–82][/us/stat/100/3341-82], 3341–175; [Pub. L. 99–661, div. A, title IX][/us/pl/99/661], formerly title IV, § 961(a), Nov. 14, 1986, [100 Stat. 3955][/us/stat/100/3955], renumbered title IX, [Pub. L. 100–26, § 3(5)][/us/pl/100/26/s3/5], Apr. 21, 1987, [101 Stat. 273][/us/stat/101/273]; [Pub. L. 100–26, § 7(b)(3)][/us/pl/100/26/s7/b/3], (k)(2), Apr. 21, 1987, [101 Stat. 279][/us/stat/101/279], 284; [Pub. L. 100–180, div. A, title XII, § 1233(a)(1)][/us/pl/100/180/s1233/a/1], title XIII, § 1314(a)(1), Dec. 4, 1987, [101 Stat. 1161][/us/stat/101/1161], 1175; [Pub. L. 101–189, div. A, title VIII, § 811(c)][/us/pl/101/189/s811/c], Nov. 29, 1989, [103 Stat. 1493][/us/stat/103/1493]; [Pub. L. 101–510, div. A, title XIV][/us/pl/101/510], §§ 1407(a)–(c), 1484(f)(4), Nov. 5, 1990, [104 Stat. 1681][/us/stat/104/1681], 1717; [Pub. L. 102–25, title VII, § 701(f)(3)][/us/pl/102/25/s701/f/3], Apr. 6, 1991, [105 Stat. 115][/us/stat/105/115]; [Pub. L. 102–190, div. A, title VIII, § 801(b)(2)][/us/pl/102/190/s801/b/2], title X, § 1061(a)(14), Dec. 5, 1991, [105 Stat. 1412][/us/stat/105/1412], 1473; [Pub. L. 102–484, div. A, title VIII, § 817(c)][/us/pl/102/484/s817/c], Oct. 23, 1992, [106 Stat. 2455][/us/stat/106/2455]; [Pub. L. 103–355, title III, § 3002(a)(1)][/us/pl/103/355/s3002/a/1], (b)–(h), Oct. 13, 1994, [108 Stat. 3328][/us/stat/108/3328], 3329; [Pub. L. 104–106, div. A, title XV, § 1502(a)(1)][/us/pl/104/106/s1502/a/1], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 104–201, div. A, title VIII, § 806][/us/pl/104/201/s806], Sept. 23, 1996, [110 Stat. 2606][/us/stat/110/2606]; [Pub. L. 105–85, div. A, title VIII, § 841(c)][/us/pl/105/85/s841/c], Nov. 18, 1997, [111 Stat. 1843][/us/stat/111/1843]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 107–107, div. A, title VIII, § 821(a)][/us/pl/107/107/s821/a], Dec. 28, 2001, [115 Stat. 1181][/us/stat/115/1181]; [Pub. L. 108–136, div. A, title X, § 1045(a)(6)][/us/pl/108/136/s1045/a/6], Nov. 24, 2003, [117 Stat. 1612][/us/stat/117/1612]; [Pub. L. 108–375, div. A, title VIII, § 801(b)(2)][/us/pl/108/375/s801/b/2], Oct. 28, 2004, [118 Stat. 2004][/us/stat/118/2004]; [Pub. L. 109–364, div. A, title X, § 1071(g)(10)][/us/pl/109/364/s1071/g/10], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VIII, § 811(b), Oct. 14, 2008, [122 Stat. 4521][/us/stat/122/4521]; [Pub. L. 112–81, div. A, title VIII, § 812][/us/pl/112/81/s812], Dec. 31, 2011, [125 Stat. 1491][/us/stat/125/1491].)
 
  __Codification__ 
 
     [Pub. L. 99–591][/us/pl/99/591] is a corrected version of [Pub. L. 99–500][/us/pl/99/500].
 
  __Amendments__ 
-
-    2013—Subsec. (c)(1)(B) to (D). [Pub. L. 113–66, § 812(a)(2)][/us/pl/113/66/s812/a/2], added subpars. (B) to (D). Former subpars. (B) to (D) redesignated (E) to (G), respectively.
-
-    Subsec. (c)(1)(E). [Pub. L. 113–66, § 812(a)(3)(B)][/us/pl/113/66/s812/a/3/B], which directed insertion of “program acquisition cost and” after “current”, was executed by making the insertion after “current” the first place appearing, to reflect the probable intent of Congress.
-
-    [Pub. L. 113–66, § 812(a)(1)][/us/pl/113/66/s812/a/1], (3)(A), (C), (D), redesignated subpar. (B) as (E) and substituted “such program or subprogram” for “major defense acquisition program or designated major subprogram”, “those costs” for “that cost”, and “December 2001 reporting period” for “date the program or subprogram was first included in a Selected Acquisition Report”.
-
-    Subsec. (c)(1)(F). [Pub. L. 113–66, § 812(a)(1)][/us/pl/113/66/s812/a/1], (4), redesignated subpar. (C) as (F) and substituted “such program or subprogram” for “major defense acquisition program or designated major subprogram” and “December 2001 reporting period” for “date the program or subprogram was first included in a Selected Acquisition Report”.
-
-    Subsec. (c)(1)(G). [Pub. L. 113–66, § 812(a)(1)][/us/pl/113/66/s812/a/1], redesignated subpar. (D) as (G).
 
     2011—Subsec. (f). [Pub. L. 112–81][/us/pl/112/81] substituted “45 days after the date” for “60 days after the date”.
 
@@ -309,16 +283,6 @@
 
     Subsec. (g). [Pub. L. 98–525, § 1242(a)(5)][/us/pl/98/525/s1242/a/5], added subsec. (g).
 
- __Effective Date of 2013 Amendment; Phase-In of Additional Information Requirements__ 
-
-[Pub. L. 113–66, div. A, title VIII, § 812(b)][/us/pl/113/66/s812/b], Dec. 26, 2013, [127 Stat. 807][/us/stat/127/807], provided that: 
-
-> “[Section 2432(c)(1) of title 10][/us/usc/t10/s2432/c/1], United States Code, as amended by subsection (a), shall apply to Selected Acquisition Reports after the date of the enactment of this Act \[Dec. 26, 2013\] as follows:
-
->     “(1) For the December 2014 reporting period, to Selected Acquisition Reports for five major defense acquisition programs or designated major subprograms, as determined by the Secretary.
-
->     “(2) For the December 2019 reporting period and each reporting period thereafter, to Selected Acquisition Reports for all major defense acquisition programs or designated major subprograms.”
-
  __Effective Date of 2006 Amendment__ 
 
     [Pub. L. 109–364, div. A, title X, § 1071(g)][/us/pl/109/364/s1071/g], Oct. 17, 2006, [120 Stat. 2402][/us/stat/120/2402], provided that the amendment made by section 1071(g)(10) is effective as of Oct. 28, 2004, and as if included in [Pub. L. 108–375][/us/pl/108/375] as enacted.
@@ -386,10 +350,6 @@
 
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t10/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2431
-[/us/usc/t10/s2433/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2433%2Fa%2F2
-[/us/usc/t10/s2435/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2435%2Fd%2F1
-[/us/usc/t10/s2435/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2435%2Fd%2F2
-[/us/usc/t10/s2432/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Fe%2F4
 [/us/usc/t10/s2431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2431
 [/us/pl/97/252/s1107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F252%2Fs1107%2Fa%2F1
 [/us/stat/96/739]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F739
@@ -443,15 +403,8 @@
 [/us/stat/122/4521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4521
 [/us/pl/112/81/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs812
 [/us/stat/125/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1491
-[/us/pl/113/66/s812/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa
-[/us/stat/127/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F807
 [/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
-[/us/pl/113/66/s812/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa%2F2
-[/us/pl/113/66/s812/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa%2F3%2FB
-[/us/pl/113/66/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa%2F1
-[/us/pl/113/66/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa%2F1
-[/us/pl/113/66/s812/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fa%2F1
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/417/s811/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fb%2F1
 [/us/pl/110/417/s811/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs811%2Fb%2F2%2FA
@@ -538,9 +491,6 @@
 [/us/pl/98/525/s1242/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fa%2F3
 [/us/pl/98/525/s1242/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fa%2F4
 [/us/pl/98/525/s1242/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F525%2Fs1242%2Fa%2F5
-[/us/pl/113/66/s812/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs812%2Fb
-[/us/stat/127/807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F807
-[/us/usc/t10/s2432/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2432%2Fc%2F1
 [/us/pl/109/364/s1071/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs1071%2Fg
 [/us/stat/120/2402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2402
 [/us/pl/108/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F375

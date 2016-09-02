@@ -17,12 +17,6 @@
 
     Section, added [Pub. L. 107–314, div. A, title II, § 242(a)(1)][/us/pl/107/314/s242/a/1], Dec. 2, 2002, [116 Stat. 2494][/us/stat/116/2494]; amended [Pub. L. 109–163, div. A, title II, § 255(a)][/us/pl/109/163/s255/a], Jan. 6, 2006, [119 Stat. 3180][/us/stat/119/3180]; [Pub. L. 109–364, div. A, title X, § 1071(a)(2)][/us/pl/109/364/s1071/a/2], Oct. 17, 2006, [120 Stat. 2398][/us/stat/120/2398]; [Pub. L. 110–181, div. A, title II, § 233][/us/pl/110/181/s233], Jan. 28, 2008, [122 Stat. 46][/us/stat/122/46]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title II, § 253(b), Oct. 14, 2008, [122 Stat. 4402][/us/stat/122/4402], related to Technology Transition Initiative.
 
- __Effective Date of Repeal__ 
-
-[Pub. L. 112–81, div. A, title II, § 251(b)][/us/pl/112/81/s251/b], Dec. 31, 2011, [125 Stat. 1347][/us/stat/125/1347], provided that: 
-
-> “The amendments made by subsection (a) \[repealing this section\] shall take effect on October 1, 2013.”
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2359.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch139/m__us_usc_t10_s2359b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2359a)
@@ -42,7 +36,5 @@
 [/us/stat/122/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F46
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4402
-[/us/pl/112/81/s251/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs251%2Fb
-[/us/stat/125/1347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1347
 
 

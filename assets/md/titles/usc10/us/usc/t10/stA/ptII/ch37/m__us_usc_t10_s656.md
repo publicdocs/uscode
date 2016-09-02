@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s655.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s657.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs656)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s655.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch38/m__us_usc_t10_stA_ptII_ch38.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs656)
 
 ## § 656. Diversity in military leadership: plan
 
@@ -43,7 +43,7 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s655.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s657.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs656)
+[Previous](./../../../../../..//us/usc/t10/stA/ptII/ch37/m__us_usc_t10_s655.md) | [Next](./../../../../../..//us/usc/t10/stA/ptII/ch38/m__us_usc_t10_stA_ptII_ch38.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs656)
 
 ----------
 ----------

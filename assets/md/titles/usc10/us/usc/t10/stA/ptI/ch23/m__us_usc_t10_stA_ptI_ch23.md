@@ -49,9 +49,9 @@
 
   <tr>
 
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs483" data-uslm-ref="/us/usc/t10/s483">483.</a>  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs483" data-uslm-ref="/us/usc/t10/s483">483.</a>  </td>
 
-    <td> Repealed.]  </td>
+    <td> Reports on transfers from high-priority readiness appropriations.  </td>
 
   </tr>
 
@@ -65,15 +65,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs485" data-uslm-ref="/us/usc/t10/s485">485.</a>  </td>
-
-    <td> Quarterly counterterrorism operations briefings.  </td>
-
-  </tr>
-
-  <tr>
-
-    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs486" data-uslm-ref="/us/usc/t10/s486">486</a>, <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs487" data-uslm-ref="/us/usc/t10/s487">487.</a>  </td>
+    <td> [<a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs485" data-uslm-ref="/us/usc/t10/s485">485</a> to <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs487" data-uslm-ref="/us/usc/t10/s487">487.</a>  </td>
 
     <td> Repealed.]  </td>
 
@@ -83,7 +75,7 @@
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft10%2Fs488" data-uslm-ref="/us/usc/t10/s488">488.</a>  </td>
 
-    <td> Management of electromagnetic spectrum.  </td>
+    <td> Management of electromagnetic spectrum: biennial strategic plan.  </td>
 
   </tr>
 
@@ -107,9 +99,7 @@
 
  __Amendments__ 
 
-    2013—[Pub. L. 113–66, div. A, title X][/us/pl/113/66], §§ 1042(a)(2), 1072(b)(2), 1084(a)(1)(B), Dec. 26, 2013, [127 Stat. 857][/us/stat/127/857], 869, 871, added item 485, substituted “Management of electromagnetic spectrum” for “Management of electromagnetic spectrum: biennial strategic plan” in item 488, and struck out item 483 “Reports on transfers from high-priority readiness appropriations”.
-
-    [Pub. L. 112–239, div. A, title IX, § 939(c)][/us/pl/112/239/s939/c], title X, § 1031(b)(3)(A)(ii), Jan. 2, 2013, [126 Stat. 1888][/us/stat/126/1888], 1918, added item 484 and struck out items 490a “Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system” and 491 “Nuclear employment strategy of the United States: reports on modification of strategy”.
+    2013—[Pub. L. 112–239, div. A, title IX, § 939(c)][/us/pl/112/239/s939/c], title X, § 1031(b)(3)(A)(ii), Jan. 2, 2013, [126 Stat. 1888][/us/stat/126/1888], 1918, added item 484 and struck out items 490a “Biennial assessment and report on the delivery platforms for nuclear weapons and the nuclear command and control system” and 491 “Nuclear employment strategy of the United States: reports on modification of strategy”.
 
     2011—[Pub. L. 112–81, div. A, title X][/us/pl/112/81], §§ 1041(c), 1046(b)(2), 1061(6)(B), (7)(B), (8)(B), (9)(B), (10)(B), Dec. 31, 2011, [125 Stat. 1575][/us/stat/125/1575], 1579, 1583, added items 490a and 491 and struck out items 484 “Annual report on aircraft inventory”, 485 “Joint and service concept development and experimentation”, 486 “Quadrennial report on emerging operational concepts”, 487 “Unit operations tempo and personnel tempo: annual report”, and 490 “Space cadre management: biennial report”.
 
@@ -144,8 +134,6 @@
 ----------
 ----------
 
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/stat/127/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F857
 [/us/pl/112/239/s939/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs939%2Fc
 [/us/stat/126/1888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1888
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81

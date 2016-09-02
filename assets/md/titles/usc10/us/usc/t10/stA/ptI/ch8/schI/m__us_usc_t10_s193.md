@@ -19,7 +19,7 @@
 
         (1)
 
-         Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense and the congressional defense committees a report on the combat support agencies. Each such report shall include—
+         Periodically (and not less often than every two years), the Chairman of the Joint Chiefs of Staff shall submit to the Secretary of Defense a report on the combat support agencies. Each such report shall include—
 
             (A) a determination with respect to the responsiveness and readiness of each such agency to support operating forces in the event of a war or threat to national security; and
 
@@ -63,11 +63,9 @@
 
         (5) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
 
-(Added [Pub. L. 99–433, title III, § 301(a)(2)][/us/pl/99/433/s301/a/2], Oct. 1, 1986, [100 Stat. 1020][/us/stat/100/1020]; amended [Pub. L. 104–201, div. A, title XI, § 1112(c)][/us/pl/104/201/s1112/c], Sept. 23, 1996, [110 Stat. 2683][/us/stat/110/2683]; [Pub. L. 105–85, div. A, title X, § 1073(a)(5)][/us/pl/105/85/s1073/a/5], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900]; [Pub. L. 108–136, div. A, title IX, § 921(d)(3)][/us/pl/108/136/s921/d/3], Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568]; [Pub. L. 109–364, div. A, title IX, § 907][/us/pl/109/364/s907], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–181, div. A, title IX, § 931(a)(2)][/us/pl/110/181/s931/a/2], (3), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(1), (2), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475]; [Pub. L. 113–66, div. A, title X, § 1082][/us/pl/113/66/s1082], Dec. 26, 2013, [127 Stat. 871][/us/stat/127/871].)
+(Added [Pub. L. 99–433, title III, § 301(a)(2)][/us/pl/99/433/s301/a/2], Oct. 1, 1986, [100 Stat. 1020][/us/stat/100/1020]; amended [Pub. L. 104–201, div. A, title XI, § 1112(c)][/us/pl/104/201/s1112/c], Sept. 23, 1996, [110 Stat. 2683][/us/stat/110/2683]; [Pub. L. 105–85, div. A, title X, § 1073(a)(5)][/us/pl/105/85/s1073/a/5], Nov. 18, 1997, [111 Stat. 1900][/us/stat/111/1900]; [Pub. L. 108–136, div. A, title IX, § 921(d)(3)][/us/pl/108/136/s921/d/3], Nov. 24, 2003, [117 Stat. 1568][/us/stat/117/1568]; [Pub. L. 109–364, div. A, title IX, § 907][/us/pl/109/364/s907], Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 110–181, div. A, title IX, § 931(a)(2)][/us/pl/110/181/s931/a/2], (3), Jan. 28, 2008, [122 Stat. 285][/us/stat/122/285]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 932(a)(1), (2), Oct. 14, 2008, [122 Stat. 4576][/us/stat/122/4576]; [Pub. L. 111–84, div. A, title X, § 1073(c)(10)][/us/pl/111/84/s1073/c/10], Oct. 28, 2009, [123 Stat. 2475][/us/stat/123/2475].)
 
  __Amendments__ 
-
-    2013—Subsec. (a)(1). [Pub. L. 113–66, § 1082][/us/pl/113/66/s1082], inserted “and the congressional defense committees” after “the Secretary of Defense” in introductory provisions.
 
     2009—Subsecs. (d)(2), (e). [Pub. L. 111–84][/us/pl/111/84] repealed [Pub. L. 110–417, § 932(a)(1)][/us/pl/110/417/s932/a/1], (2). See 2008 Amendment note below.
 
@@ -132,9 +130,6 @@
 [/us/stat/122/4576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4576
 [/us/pl/111/84/s1073/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs1073%2Fc%2F10
 [/us/stat/123/2475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2475
-[/us/pl/113/66/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1082
-[/us/stat/127/871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F871
-[/us/pl/113/66/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1082
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/417/s932/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs932%2Fa%2F1
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181

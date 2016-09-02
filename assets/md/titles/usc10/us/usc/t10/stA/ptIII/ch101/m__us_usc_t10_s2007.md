@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2006a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2008.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2007)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2006.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2008.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2007)
 
 ## § 2007. Payment of tuition for off-duty training or education
 
@@ -245,7 +245,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2006a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2008.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2007)
+[Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2006.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2008.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2007)
 
 ----------
 ----------

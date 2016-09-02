@@ -85,70 +85,6 @@
 
     1999—Subsec. (d)(1). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security” in introductory provisions.
 
- __Limitation on Construction on United States Territory of Satellite Positioning Ground Monitoring Stations of Foreign Governments__ 
-
-[Pub. L. 113–66, div. A, title XVI, § 1602(b)][/us/pl/113/66/s1602/b], Dec. 26, 2013, [127 Stat. 943][/us/stat/127/943], provided that:
-
->     “(1) __Certification.—__ 
-
->         “(A)  __In general__  __.—__ 
-
->         The President may not authorize or permit the construction of a global navigation satellite system ground monitoring station directly or indirectly controlled by a foreign government (including a ground monitoring station owned, operated, or controlled on behalf of a foreign government) in the territory of the United States unless the Secretary of Defense and the Director of National Intelligence jointly certify to the appropriate congressional committees that such ground monitoring station will not possess the capability or potential to be used for the purpose of gathering intelligence in the United States or improving any foreign weapon system.
-
->         “(B)  __Form__  __.—__ 
-
->         Each certification under subparagraph (A) shall be submitted in unclassified form, but may include a classified annex.
-
->     “(2)  __National security waiver__  __.—__ 
-
->     The Secretary of Defense and the Director of National Intelligence may jointly waive the certification requirement in paragraph (1) for a ground monitoring station if—
-
->         “(A) the Secretary and the Director jointly determine that the waiver is in the vital interests of the national security of the United States; and
-
->         “(B)
-
->          the Secretary and the Director ensure that—
-
->             “(i) all data collected or transmitted from ground monitoring stations covered by the waiver are not encrypted;
-
->             “(ii) all persons involved in the construction, operation, and maintenance of such ground monitoring stations are United States persons;
-
->             “(iii) such ground monitoring stations are not located in geographic proximity to sensitive United States national security sites;
-
->             “(iv) the United States approves all equipment to be located at such ground monitoring stations;
-
->             “(v) appropriate actions are taken to ensure that any such ground monitoring stations do not pose a cyber espionage or other threat, including intelligence or counterintelligence, to the national security of the United States; and
-
->             “(vi) any improvements to such ground monitoring stations do not reduce or compete with the advantages of Global Positioning System technology for users.
-
->     “(3)  __Waiver report__  __.—__ 
-
->     For each waiver under paragraph (2), the Secretary of Defense and the Director of National Intelligence, in consultation with the Secretary of State, shall jointly submit to the appropriate congressional committees a report containing—
-
->         “(A) the reason why it is not possible to provide the certification under paragraph (1) for the ground monitoring stations covered by such waiver;
-
->         “(B) an assessment of the impact of the exercise of authority under paragraph (2) with respect to such ground monitoring stations on the national security of the United States;
-
->         “(C) a description of the means to be used to mitigate any such impact to the United States for the duration that such ground monitoring stations are operated in the territory of the United States; and
-
->         “(D) any other information in connection with the waiver that the Secretary of Defense and the Director of National Intelligence, in consultation with the Secretary of State, consider appropriate.
-
->     “(4)  __Notice__  __.—__ 
-
->     Not later than 30 days before the exercise of the authority to waive under paragraph (2) the certification requirement under paragraph (1) for a ground monitoring station, the Secretary of Defense and the Director of National Intelligence shall jointly provide to the appropriate congressional committees notice of the exercise of such authority and the report required under paragraph (3) with respect to such ground monitoring station.
-
->     “(5)  __Appropriate congressional committees defined__  __.—__ 
-
->     In this subsection, the term ‘appropriate congressional committees’ means—
-
->         “(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
-
->         “(B) the Committee on Armed Services, the committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
-
->     “(6)  __Sunset__  __.—__ 
-
->     Effective on the date that is five years after the date of the enactment of this Act \[Dec. 26, 2013\], paragraphs (1) through (5) are repealed.”
-
  __Use of Funds for Global Positioning System__ 
 
 [Pub. L. 112–10, div. A, title VIII, § 8068][/us/pl/112/10/s8068], Apr. 15, 2011, [125 Stat. 73][/us/stat/125/73], provided that: 
@@ -331,8 +267,6 @@
 [/us/pl/108/136/s914/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fa%2F4
 [/us/pl/108/136/s914/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs914%2Fb
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
-[/us/pl/113/66/s1602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1602%2Fb
-[/us/stat/127/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F943
 [/us/pl/112/10/s8068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs8068
 [/us/stat/125/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F73
 [/us/pl/111/383/s913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs913

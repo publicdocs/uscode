@@ -33,18 +33,6 @@
 
     2006—Par. (2). [Pub. L. 109–163, § 323(a)][/us/pl/109/163/s323/a], inserted “, or a Government-owned, contractor-operated depot for the storage, maintenance, renovation, or demilitarization of ammunition,” after “manufacturing facility”.
 
- __Consideration of Army Arsenals’ Capabilities to Fulfill Manufacturing Requirements__ 
-
-[Pub. L. 113–66, div. A, title III, § 323][/us/pl/113/66/s323], Dec. 26, 2013, [127 Stat. 733][/us/stat/127/733], provided that:
-
->     “(a)  __Consideration of Capability of Arsenals__  __.—__ 
-
->     When undertaking a make-or-buy analysis, a program executive officer or program manager of a military service or Defense Agency shall consider the capability of arsenals owned by the United States to fulfill a manufacturing requirement.
-
->     “(b)  __Notification of Solicitations__  __.—__ 
-
->     Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall establish and begin implementation of a system for ensuring that the arsenals owned by the United States are notified of any solicitation that fulfills a manufacturing requirement for which there is no or limited domestic commercial source and which may be appropriate for manufacturing within an arsenal owned by the United States.”
-
  __Arsenal Support Program Initiative__ 
 
 [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[\[div. A\], title III, § 343\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–65, as amended by [Pub. L. 107–314, div. A, title III, § 362][/us/pl/107/314/s362], Dec. 2, 2002, [116 Stat. 2519][/us/stat/116/2519]; [Pub. L. 108–375, div. A, title III, § 342][/us/pl/108/375/s342], Oct. 28, 2004, [118 Stat. 1857][/us/stat/118/1857]; [Pub. L. 110–181, div. A, title III, § 341][/us/pl/110/181/s341], Jan. 28, 2008, [122 Stat. 69][/us/stat/122/69]; [Pub. L. 111–84, div. A, title III, § 354][/us/pl/111/84/s354], Oct. 28, 2009, [123 Stat. 2264][/us/stat/123/2264]; [Pub. L. 111–383, div. A, title III, § 342][/us/pl/111/383/s342], Jan. 7, 2011, [124 Stat. 4190][/us/stat/124/4190], provided that:
@@ -157,8 +145,6 @@
 [/us/pl/109/163/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs323%2Fa
 [/us/stat/119/3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3193
 [/us/pl/109/163/s323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs323%2Fa
-[/us/pl/113/66/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs323
-[/us/stat/127/733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F733
 [/us/pl/106/398/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398%2Fs1
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/107/314/s362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs362

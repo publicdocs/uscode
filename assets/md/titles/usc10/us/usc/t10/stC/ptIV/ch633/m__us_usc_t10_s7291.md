@@ -89,7 +89,67 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Procurement Programs for Future Naval Surface Combatants__ 
 
-    [Pub. L. 111–84, div. A, title I, § 125][/us/pl/111/84/s125], Oct. 28, 2009, [123 Stat. 2214][/us/stat/123/2214], related to procurement programs for future naval surface combatants, prior to repeal by [Pub. L. 113–66, div. A, title I, § 122][/us/pl/113/66/s122], Dec. 26, 2013, [127 Stat. 693][/us/stat/127/693].
+[Pub. L. 111–84, div. A, title I, § 125][/us/pl/111/84/s125], Oct. 28, 2009, [123 Stat. 2214][/us/stat/123/2214], provided that:
+
+>     “(a)  __Limitation on Availability of Funds Pending Reports About Surface Combatant Shipbuilding Programs__  __.—__ 
+
+>     The Secretary of the Navy may not obligate or expend funds for the construction of, or advanced procurement of materials for, a surface combatant to be constructed after fiscal year 2011 until the Secretary has submitted to Congress each of the following:
+
+>         “(1) An acquisition strategy for such surface combatants that has been approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics.
+
+>         “(2)
+
+>          Certification that the Joint Requirements Oversight Council—
+
+>             “(A) has been briefed on the acquisition strategy to procure such surface combatants; and
+
+>             “(B) has concurred that such strategy is the best preferred approach to deliver required capabilities to address future threats, as reflected in the latest assessment by the defense intelligence community.
+
+>         “(3)
+
+>          A verification by, and conclusions of, an independent review panel that, in evaluating the program or programs concerned, the Secretary of the Navy considered each of the following:
+
+>             “(A) Modeling and simulation, including war gaming conclusions regarding combat effectiveness for the selected ship platforms as compared to other reasonable alternative approaches.
+
+>             “(B) Assessments of platform operational availability.
+
+>             “(C) Life cycle costs, including vessel manning levels, to accomplish missions.
+
+>             “(D) The differences in cost and schedule arising from the need to accommodate new sensors and weapons in surface combatants to be constructed after fiscal year 2011 to counter the future threats referred to in paragraph (2), when compared with the cost and schedule arising from the need to accommodate sensors and weapons on surface combatants as contemplated by the 2009 shipbuilding plan for the vessels concerned.
+
+>         “(4) The conclusions of a joint review by the Secretary of the Navy and the Director of the Missile Defense Agency setting forth additional requirements for investment in Aegis ballistic missile defense beyond the number of DDG–51 and CG–47 vessels planned to be equipped for this mission area in the budget of the President for fiscal year 2010 (as submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code).
+
+>     “(b)  __Future Surface Combatant Acquisition Strategy__  __.—__ 
+
+>     Not later than the date upon which the President submits to Congress the budget for fiscal year 2012 (as so submitted), the Secretary of the Navy shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] an update to the open architecture report to Congress that reflects the Navy’s combat systems acquisition plans for the surface combatants to be procured in fiscal year 2012 and fiscal years thereafter.
+
+>     “(c)  __Naval Surface Fire Support__  __.—__ 
+
+>     Not later than 120 days after the enactment of this Act \[Oct. 28, 2009\], the Secretary of the Navy shall submit to the congressional defense committees an update to the March 2006 Report to Congress on Naval Surface Fire Support. The update shall identify how the Department of Defense intends to address any shortfalls between required naval surface fire support capability and the plan of the Navy to provide that capability. The update shall include addenda by the Chief of Naval Operations and Commandant of the Marine Corps, as was the case in the 2006 report.
+
+>     “(d) __Technology Roadmap for Future Surface Combatants and Fleet Modernization.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Not later than 120 days after the date of the enactment of this Act, the Secretary of the Navy shall develop a plan to incorporate into surface combatants constructed after 2011, and into fleet modernization programs, the technologies developed for the DDG–1000 destroyer and the DDG–51 and CG–47 Aegis ships, including technologies and systems designed to achieve significant manpower savings.
+
+>         “(2)  __Scope of plan__  __.—__ 
+
+>         The plan required by paragraph (1) shall include sufficient detail for systems and subsystems to ensure that the plan—
+
+>             “(A) avoids redundant development for common functions;
+
+>             “(B) reflects implementation of Navy plans for achieving an open architecture for all naval surface combat systems; and
+
+>             “(C) fosters competition.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) The term ‘2009 shipbuilding plan’ means the 30-year shipbuilding plan submitted to Congress pursuant to section 231, title 10, United States Code, together with the budget of the President for fiscal year 2009 (as submitted to Congress pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code).
+
+>         “(2) The term ‘surface combatant’ means a cruiser, a destroyer, or any naval vessel, excluding Littoral Combat Ships, under a program currently designated as a future surface combatant program.”
 
  __Assessments Required Prior to Start of Construction on First Ship of a Shipbuilding Program__ 
 
@@ -149,13 +209,17 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 
  __Policy Relating to Major Combatant Vessels of the Strike Forces of the United States Navy__ 
 
-[Pub. L. 110–181, div. A, title X, § 1012][/us/pl/110/181/s1012], Jan. 28, 2008, [122 Stat. 303][/us/stat/122/303], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1015, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 112–239, div. A, title X, § 1013][/us/pl/112/239/s1013], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908]; [Pub. L. 113–66, div. A, title X, § 1027][/us/pl/113/66/s1027], Dec. 26, 2013, [127 Stat. 849][/us/stat/127/849], provided that:
+[Pub. L. 110–181, div. A, title X, § 1012][/us/pl/110/181/s1012], Jan. 28, 2008, [122 Stat. 303][/us/stat/122/303], as amended by [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1015, Oct. 14, 2008, [122 Stat. 4586][/us/stat/122/4586]; [Pub. L. 112–239, div. A, title X, § 1013][/us/pl/112/239/s1013], Jan. 2, 2013, [126 Stat. 1908][/us/stat/126/1908], provided that:
 
->     “(a)  __Requirement To Request Nuclear Vessels__  __.—__ 
+>     “(a)  __Integrated Nuclear Power Systems__  __.—__ 
 
->     If a request is submitted to Congress in the budget for a fiscal year for construction of a new class of major combatant vessel for the strike forces of the United States, the request shall include a specific assessment of such a vessel with an integrated nuclear power system in the analysis of alternatives, unless the Secretary of the Navy notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that, as a result of a cost-benefit analysis, it would not be practical for the Navy to design the class of ships with an integrated nuclear power system.
+>     It is the policy of the United States to construct the major combatant vessels of the strike forces of the United States Navy, including all new classes of such vessels, with integrated nuclear power systems.
 
->     “(b)  __Definitions__  __.—__ 
+>     “(b)  __Requirement To Request Nuclear Vessels__  __.—__ 
+
+>     If a request is submitted to Congress in the budget for a fiscal year for construction of a new class of major combatant vessel for the strike forces of the United States, the request shall be for such a vessel with an integrated nuclear power system, unless the Secretary of the Navy notifies the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] that, as a result of a cost-benefit analysis, it would not be practical for the Navy to design the class of ships with an integrated nuclear power system.
+
+>     “(c)  __Definitions__  __.—__ 
 
 >     In this section:
 
@@ -178,8 +242,6 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 >         “(3)  __Budget__  __.—__ 
 
 >         The term ‘budget’ means the budget that is submitted to Congress by the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code.”
-
-    \[[Pub. L. 113–66, div. A, title X, § 1027(2)(B)][/us/pl/113/66/s1027/2/B], Dec. 26, 2013, [127 Stat. 849][/us/stat/127/849], which directed insertion of “in the analysis of alternatives” after “nuclear power system” in subsec. (a) of [section 1012 of Pub. L. 110–181][/us/pl/110/181/s1012], as redesignated by section 1027(1) of Pub. 113–66, set out above, was executed by making the insertion after “nuclear power system” the first time appearing to reflect the probable intent of Congress.\]
 
  __Alternative Technologies for Future Surface Combatants__ 
 
@@ -529,8 +591,8 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 [/us/stat/123/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2214
 [/us/pl/111/84/s125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs125
 [/us/stat/123/2214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2214
-[/us/pl/113/66/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs122
-[/us/stat/127/693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F693
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
+[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/110/181/s124]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs124
 [/us/stat/122/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F28
 [/us/usc/t10/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs231
@@ -540,12 +602,7 @@ Mar. 3, 1901, ch. 852 (last par. as applicable to classification of vessels), 31
 [/us/stat/122/4586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4586
 [/us/pl/112/239/s1013]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1013
 [/us/stat/126/1908]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1908
-[/us/pl/113/66/s1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1027
-[/us/stat/127/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F849
 [/us/usc/t31/s1105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105%2Fa
-[/us/pl/113/66/s1027/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1027%2F2%2FB
-[/us/stat/127/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F849
-[/us/pl/110/181/s1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1012
 [/us/pl/109/364/s128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F364%2Fs128
 [/us/stat/120/2109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2109
 [/us/pl/108/136/s126]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs126

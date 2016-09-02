@@ -33,7 +33,7 @@
 
         (3) Not more than three of the judges of the court may be appointed from the same political party, and no person may be appointed to be a judge of the court unless the person is a member of the bar of a Federal court or the highest court of a State.
 
-        (4) A person may not be appointed as a judge of the court within seven years after retirement from active duty as a commissioned officer of a regular component of an armed force.
+        (4) For purposes of appointment of judges to the court, a person retired from the armed forces after 20 or more years of active service (whether or not such person is on the retired list) shall not be considered to be in civilian life.
 
     (c)  __Removal__  __.—__ 
 
@@ -109,11 +109,9 @@
 
     A vacancy on the court does not impair the right of the remaining judges to exercise the powers of the court.
 
-(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)][/us/pl/101/189/s1301/c], Nov. 29, 1989, [103 Stat. 1570][/us/stat/103/1570]; amended [Pub. L. 101–510, div. A, title V, § 541(f)][/us/pl/101/510/s541/f], Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565]; [Pub. L. 102–190, div. A, title X, § 1061(b)(1)(A)][/us/pl/102/190/s1061/b/1/A], (B), (2), Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 113–66, div. A, title V, § 531(a)][/us/pl/113/66/s531/a], Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759].)
+(Added [Pub. L. 101–189, div. A, title XIII, § 1301(c)][/us/pl/101/189/s1301/c], Nov. 29, 1989, [103 Stat. 1570][/us/stat/103/1570]; amended [Pub. L. 101–510, div. A, title V, § 541(f)][/us/pl/101/510/s541/f], Nov. 5, 1990, [104 Stat. 1565][/us/stat/104/1565]; [Pub. L. 102–190, div. A, title X, § 1061(b)(1)(A)][/us/pl/102/190/s1061/b/1/A], (B), (2), Dec. 5, 1991, [105 Stat. 1474][/us/stat/105/1474]; [Pub. L. 103–337, div. A, title IX, § 924(c)(1)][/us/pl/103/337/s924/c/1], Oct. 5, 1994, [108 Stat. 2831][/us/stat/108/2831]; [Pub. L. 104–106, div. A, title XV, § 1502(a)(2)][/us/pl/104/106/s1502/a/2], Feb. 10, 1996, [110 Stat. 502][/us/stat/110/502]; [Pub. L. 106–65, div. A, title X, § 1067(1)][/us/pl/106/65/s1067/1], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774].)
 
  __Amendments__ 
-
-    2013—Subsec. (b)(4). [Pub. L. 113–66][/us/pl/113/66] amended par. (4) generally. Prior to amendment, par. (4) read as follows: “For purposes of appointment of judges to the court, a person retired from the armed forces after 20 or more years of active service (whether or not such person is on the retired list) shall not be considered to be in civilian life.”
 
     1999—Subsec. (e)(5). [Pub. L. 106–65][/us/pl/106/65] substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
 
@@ -134,12 +132,6 @@
     1990—Subsec. (b)(1). [Pub. L. 101–510, § 541(f)(1)][/us/pl/101/510/s541/f/1], substituted “civilian life” for “civil life”.
 
     Subsec. (b)(4). [Pub. L. 101–510, § 541(f)(2)][/us/pl/101/510/s541/f/2], added par. (4).
-
- __Effective Date of 2013 Amendment__ 
-
-[Pub. L. 113–66, div. A, title V, § 531(b)][/us/pl/113/66/s531/b], Dec. 26, 2013, [127 Stat. 759][/us/stat/127/759], provided that: 
-
-> “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 26, 2013\], and shall apply with respect to appointments to the United States Court of Appeals for the Armed Forces that occur on or after that date.”
 
  __Effective Date of 1991 Amendment__ 
 
@@ -221,9 +213,6 @@
 [/us/stat/110/502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F502
 [/us/pl/106/65/s1067/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs1067%2F1
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
-[/us/pl/113/66/s531/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs531%2Fa
-[/us/stat/127/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F759
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/106/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -234,8 +223,6 @@
 [/us/pl/102/190/s1061/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fb%2F2%2FB
 [/us/pl/101/510/s541/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Ff%2F1
 [/us/pl/101/510/s541/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs541%2Ff%2F2
-[/us/pl/113/66/s531/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs531%2Fb
-[/us/stat/127/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F759
 [/us/pl/102/190/s1061/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs1061%2Fb%2F1%2FD
 [/us/stat/105/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1474
 [/us/usc/t10/s945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs945

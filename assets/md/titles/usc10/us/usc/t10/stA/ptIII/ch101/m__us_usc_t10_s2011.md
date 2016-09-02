@@ -69,96 +69,6 @@
 
     1996—Subsec. (a). [Pub. L. 104–106][/us/pl/104/106] substituted “To” for “to” in heading.
 
- __Training of General Purpose Forces of the United States Armed Forces With Military and Other Security Forces of Friendly Foreign Countries__ 
-
-[Pub. L. 113–66, div. A, title XII, § 1203][/us/pl/113/66/s1203], Dec. 26, 2013, [127 Stat. 894][/us/stat/127/894], provided that:
-
->     “(a) __Training Authorized.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         Under regulations prescribed under subsection (f), general purpose forces of the United States Armed Forces may train with the military forces or other security forces of a friendly foreign country if the Secretary of Defense determines that it is in the national security interests of the United States to do so. Training may be conducted under this section only with the prior approval of the Secretary of Defense.
-
->         “(2)  __Concurrence__  __.—__ 
-
->         Before conducting a training event in or with a foreign country under this subsection, the Secretary of Defense shall seek the concurrence of the Secretary of State in such training event.
-
->     “(b)  __Types of Training Authorized__  __.—__ 
-
->     Any training conducted by the United States Armed Forces pursuant to subsection (a) shall, to the maximum extent practicable—
-
->         “(1) support the mission essential tasks for which the training unit providing such training is responsible;
-
->         “(2) be with a foreign unit or organization with equipment that is functionally similar to such training unit; and
-
->         “(3)
-
->          include elements that promote—
-
->             “(A) observance of and respect for human rights and fundamental freedoms; and
-
->             “(B) respect for legitimate civilian authority within the foreign country or countries concerned.
-
->     “(c) __Authority To Pay Expenses.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary of a military department or the commander of a combatant command may pay, or authorize payment for, the incremental expenses incurred by a friendly foreign country as the direct result of training with general purpose forces of the United States Armed Forces pursuant to subsection (a).
-
->         “(2)  __Limitation__  __.—__ 
-
->         The amount of incremental expenses payable under paragraph (1) in any fiscal year may not exceed $10,000,000.
-
->     “(d)  __Notice Before Commencement of Training__  __.—__ 
-
->     The Secretary of Defense shall notify the Committees on Armed Services of the Senate and the House of Representatives not later than 15 days before the commencement of any training event pursuant to subsection (a). The notice on a training event shall include a description of the event and the foreign country or countries involved in the event.
-
->     “(e)  __Annual Reports to Congress__  __.—__ 
-
->     Not later than April 1 of each year following a fiscal year in which training is conducted pursuant to subsection (a), the Secretary of Defense shall submit to the appropriate committees of Congress a report on the training conducted pursuant to that subsection. Each report shall specify the following:
-
->         “(1)
-
->          For the fiscal year covered by such report, the following:
-
->             “(A) Each country in which training was conducted.
-
->             “(B) The type of training conducted, the duration of such training, and the number of members of the United States Armed Forces involved in such training.
-
->             “(C) The extent of participation in such training by foreign military forces and other security forces, including the number and service affiliation of foreign military and other security force personnel involved and the physical and financial contribution of each country specified in subparagraph (A) in such training.
-
->             “(D) The relationship of such training to other overseas training programs conducted by the United States Armed Forces, such as military exercise programs sponsored by the Joint Chiefs of Staff, military exercise programs sponsored by a combatant command, and military training activities sponsored by a military department (including deployments for training, short duration exercises, and other similar unit training events).
-
->             “(E) A summary of the expenditures under subsection (c) in connection with such training.
-
->             “(F) A description and assessment of the unique military training benefits for members of the United States Armed Forces involved in such training.
-
->         “(2) A list of the training events to be conducted during the 12-month period beginning on April 1 of the year in which such report is submitted.
-
->     “(f)  __Regulations__  __.—__ 
-
->     Any training conducted pursuant to subsection (a) shall be conducted under regulations prescribed by the Secretary of Defense for the administration of this section. The regulations shall be prescribed not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\].
-
->     “(g)  __Definitions__  __.—__ 
-
->     In this section:
-
->         “(1)
-
->          The term ‘appropriate committees of Congress’ means—
-
->             “(A) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Appropriations of the Senate; and
-
->             “(B) the Committee on Armed Services, the Committee on Foreign Affairs, and the Committee on Appropriations of the House of Representatives.
-
->         “(2) The term ‘incremental expenses’, with respect to a friendly foreign country, means the reasonable and proper costs of rations, fuel, training ammunition, transportation, and other goods and services consumed by such country as a direct result of that country’s participation in training conducted pursuant to subsection (a), except that such term does not include pay, allowances, and other normal costs of such country’s military or security force personnel.
-
->         “(3) The term ‘other security forces’ includes national security forces that conduct border and maritime security, but does not include civilian police.
-
->     “(h)  __Expiration__  __.—__ 
-
->     The authority under this section may not be exercised after September 30, 2017.”
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2010.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIII/ch101/m__us_usc_t10_s2012.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2011)
@@ -179,7 +89,5 @@
 [/us/pl/105/261/s1062/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1062%2Fa
 [/us/pl/105/261/s1062/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F261%2Fs1062%2Fb
 [/us/pl/104/106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106
-[/us/pl/113/66/s1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs1203
-[/us/stat/127/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F894
 
 

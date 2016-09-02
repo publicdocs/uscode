@@ -51,21 +51,11 @@
 
         (1) The Secretary concerned shall be reimbursed for any utilities or services furnished under subsection (a).
 
-        (2)
+        (2) The amount of any cash payment received under paragraph (1) shall be credited to the appropriation or working capital account from which the cost of furnishing the utilities or services concerned was paid. Amounts so credited to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
 
-         The amount of any cash payment received under paragraph (1) as reimbursement for the cost of furnishing utilities or services shall—
-
-            (A) in the case of a cost paid using funds appropriated or otherwise made available before October 1, 2014, be credited to the appropriation or working capital account from which the cost of furnishing utilities or services concerned was paid; or
-
-            (B) in the case of a cost paid using funds appropriated or otherwise made available on or after October 1, 2014, be credited to the appropriation or working capital account currently available for the purpose of furnishing utilities or services under subsection (a).
-
-        (3) Amounts credited under paragraph (2) to an appropriation or account shall be merged with funds in such appropriation or account, and shall be available to the same extent, and subject to the same terms and conditions, as such funds.
-
-(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2805(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–414; amended [Pub. L. 107–314, div. B, title XXVIII, § 2802(a)][/us/pl/107/314/s2802/a], Dec. 2, 2002, [116 Stat. 2703][/us/stat/116/2703]; [Pub. L. 113–66, div. B, title XXVIII, § 2804][/us/pl/113/66/s2804], Dec. 26, 2013, [127 Stat. 1007][/us/stat/127/1007].)
+(Added [Pub. L. 106–398, § 1][/us/pl/106/398/s1] \[div. B, title XXVIII, § 2805(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–414; amended [Pub. L. 107–314, div. B, title XXVIII, § 2802(a)][/us/pl/107/314/s2802/a], Dec. 2, 2002, [116 Stat. 2703][/us/stat/116/2703].)
 
  __Amendments__ 
-
-    2013—Subsec. (c)(2), (3). [Pub. L. 113–66][/us/pl/113/66] substituted “under paragraph (1) as reimbursement for the cost of furnishing utilities or services shall—” for “under paragraph (1) shall be credited to the appropriation or working capital account from which the cost of furnishing the utilities or services concerned was paid.”, added subpars. (A) and (B), and substituted “(3) Amounts credited under paragraph (2)” for “Amounts so credited”.
 
     2002—Subsec. (b)(11), (12). [Pub. L. 107–314][/us/pl/107/314] added pars. (11) and (12).
 
@@ -80,9 +70,6 @@
 [/us/stat/114/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1654
 [/us/pl/107/314/s2802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs2802%2Fa
 [/us/stat/116/2703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2703
-[/us/pl/113/66/s2804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2804
-[/us/stat/127/1007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1007
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
 
 

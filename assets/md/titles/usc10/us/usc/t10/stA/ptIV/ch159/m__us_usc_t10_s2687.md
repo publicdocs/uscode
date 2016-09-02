@@ -279,7 +279,7 @@
 
 >             “(B) providing a direct Federal subsidy to public-private ventures.”
 
-[Pub. L. 111–84, div. B, title XXVIII, § 2835][/us/pl/111/84/s2835], Oct. 28, 2009, [123 Stat. 2674][/us/stat/123/2674], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(24)][/us/pl/111/383/s1075/d/24], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374]; [Pub. L. 113–66, div. B, title XXVIII, § 2821][/us/pl/113/66/s2821], Dec. 26, 2013, [127 Stat. 1015][/us/stat/127/1015], provided that:
+[Pub. L. 111–84, div. B, title XXVIII, § 2835][/us/pl/111/84/s2835], Oct. 28, 2009, [123 Stat. 2674][/us/stat/123/2674], as amended by [Pub. L. 111–383, div. A, title X, § 1075(d)(24)][/us/pl/111/383/s1075/d/24], Jan. 7, 2011, [124 Stat. 4374][/us/stat/124/4374], provided that:
 
 >     “(a)  __Interagency Coordination Group__  __.—__ 
 
@@ -345,7 +345,7 @@
 
 >         “(1)  __Annual reports__  __.—__ 
 
->         Not later than February 1 of each year, the chairperson of the Interagency Coordination Group shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Secretary of Defense, and the Secretary of the Interior a report summarizing, for the preceding fiscal year, the activities of the Interagency Coordination Group during such year and the activities under programs and operations funded with amounts appropriated or otherwise made available for military construction on Guam. Each report shall include, for the year covered by the report, a detailed statement of all obligations, expenditures, and revenues associated with such construction, including the following:
+>         Not later than February 1 of each year, the chairperson of the Interagency Coordination Group shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], the Secretary of Defense, and the Secretary of the Interior a report summarizing, for the preceding calendar year, the activities of the Interagency Coordination Group during such year and the activities under programs and operations funded with amounts appropriated or otherwise made available for military construction on Guam. Each report shall include, for the year covered by the report, a detailed statement of all obligations, expenditures, and revenues associated with such construction, including the following:
 
 >             “(A) Obligations and expenditures of appropriated funds.
 
@@ -2615,23 +2615,117 @@ Similar provisions for specified fiscal years were contained in the following ap
 
     [Pub. L. 102–396, title IX, § 9047A][/us/pl/102/396/s9047A], Oct. 6, 1992, [106 Stat. 1913][/us/stat/106/1913], as amended by [Pub. L. 104–106, div. A, title XV, § 1502(f)(2)][/us/pl/104/106/s1502/f/2], Feb. 10, 1996, [110 Stat. 509][/us/stat/110/509].
 
-[Pub. L. 101–510, div. B, title XXIX, § 2921][/us/pl/101/510/s2921], Nov. 5, 1990, [104 Stat. 1819][/us/stat/104/1819], as amended by [Pub. L. 102–190, div. A, title III, § 344(b)(2)][/us/pl/102/190/s344/b/2], Dec. 5, 1991, [105 Stat. 1345][/us/stat/105/1345]; [Pub. L. 102–484, div. B, title XXVIII][/us/pl/102/484], §§ 2821(c), 2827, Oct. 23, 1992, [106 Stat. 2608][/us/stat/106/2608], 2609; [Pub. L. 103–160, div. B, title XXIX, § 2924(b)][/us/pl/103/160/s2924/b], Nov. 30, 1993, [107 Stat. 1931][/us/stat/107/1931]; [Pub. L. 103–337, div. A, title XIII, § 1305(c)][/us/pl/103/337/s1305/c], div. B, title XXVIII, § 2817, Oct. 5, 1994, [108 Stat. 2891][/us/stat/108/2891], 3057; [Pub. L. 104–106, div. A, title X, § 1063(b)][/us/pl/104/106/s1063/b], title XV, §§ 1502(c)(4)(D), 1505(e)(2), Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444], 508, 515; [Pub. L. 105–85, div. A, title X, § 1073(d)(4)(C)][/us/pl/105/85/s1073/d/4/C], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905]; [Pub. L. 106–65, div. A, title X, § 1067(10)][/us/pl/106/65/s1067/10], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(b)][/us/pl/108/136/s1031/b], Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603]; [Pub. L. 113–66, div. B, title XXVIII, § 2807(b)(1)][/us/pl/113/66/s2807/b/1], Dec. 26, 2013, [127 Stat. 1011][/us/stat/127/1011], provided that:
+[Pub. L. 101–510, div. B, title XXIX, § 2921][/us/pl/101/510/s2921], Nov. 5, 1990, [104 Stat. 1819][/us/stat/104/1819], as amended by [Pub. L. 102–190, div. A, title III, § 344(b)(2)][/us/pl/102/190/s344/b/2], Dec. 5, 1991, [105 Stat. 1345][/us/stat/105/1345]; [Pub. L. 102–484, div. B, title XXVIII][/us/pl/102/484], §§ 2821(c), 2827, Oct. 23, 1992, [106 Stat. 2608][/us/stat/106/2608], 2609; [Pub. L. 103–160, div. B, title XXIX, § 2924(b)][/us/pl/103/160/s2924/b], Nov. 30, 1993, [107 Stat. 1931][/us/stat/107/1931]; [Pub. L. 103–337, div. A, title XIII, § 1305(c)][/us/pl/103/337/s1305/c], div. B, title XXVIII, § 2817, Oct. 5, 1994, [108 Stat. 2891][/us/stat/108/2891], 3057; [Pub. L. 104–106, div. A, title X, § 1063(b)][/us/pl/104/106/s1063/b], title XV, §§ 1502(c)(4)(D), 1505(e)(2), Feb. 10, 1996, [110 Stat. 444][/us/stat/110/444], 508, 515; [Pub. L. 105–85, div. A, title X, § 1073(d)(4)(C)][/us/pl/105/85/s1073/d/4/C], Nov. 18, 1997, [111 Stat. 1905][/us/stat/111/1905]; [Pub. L. 106–65, div. A, title X, § 1067(10)][/us/pl/106/65/s1067/10], Oct. 5, 1999, [113 Stat. 774][/us/stat/113/774]; [Pub. L. 108–136, div. A, title X, § 1031(b)][/us/pl/108/136/s1031/b], Nov. 24, 2003, [117 Stat. 1603][/us/stat/117/1603], provided that:
 
->     “It is the sense of the Congress that—
+>     “(a)  __Sense of Congress__  __.—__ 
 
->     “(1) the termination of military operations by the United States at military installations outside the United States should be accomplished at the discretion of the Secretary of Defense at the earliest opportunity;
+>     It is the sense of the Congress that—
 
->     “(2) in providing for such termination, the Secretary of Defense should take steps to ensure that the United States receives, through direct payment or otherwise, consideration equal to the fair market value of the improvements made by the United States at facilities that will be released to host countries;
+>         “(1) the termination of military operations by the United States at military installations outside the United States should be accomplished at the discretion of the Secretary of Defense at the earliest opportunity;
 
->     “(3) the Secretary of Defense, acting through the military component commands or the sub-unified commands to the combatant commands, should be the lead official in negotiations relating to determining and receiving such consideration; and
+>         “(2) in providing for such termination, the Secretary of Defense should take steps to ensure that the United States receives, through direct payment or otherwise, consideration equal to the fair market value of the improvements made by the United States at facilities that will be released to host countries;
 
->     “(4) the determination of the fair market value of such improvements released to host countries in whole or in part by the United States should be handled on a facility-by-facility basis.”
+>         “(3) the Secretary of Defense, acting through the military component commands or the sub-unified commands to the combatant commands, should be the lead official in negotiations relating to determining and receiving such consideration; and
 
-\[[Pub. L. 113–66, div. B, title XXVIII, § 2807(b)(2)][/us/pl/113/66/s2807/b/2], Dec. 26, 2013, [127 Stat. 1011][/us/stat/127/1011], provided that: 
+>         “(4) the determination of the fair market value of such improvements released to host countries in whole or in part by the United States should be handled on a facility-by-facility basis.
 
-> “The repeal of subsection (c) of section 2921 of the National Defense Authorization Act for Fiscal Year 1991 \[[section 2921 of Pub. L. 101–510][/us/pl/101/510/s2921], set out above\] by paragraph (1)(B) shall not affect the Department of Defense Overseas Military Facility Investment Recovery Account established by such subsection, amounts in such account, or the continued use of such account as provided in [section 2687a of title 10][/us/usc/t10/s2687a], United States Code, as amended by subsection (a) of this section.”
+>     “(b)  __Residual Value__  __.—__ 
 
-\]
+>         (1) For each installation outside the United States at which military operations were being carried out by the United States on October 1, 1990, the Secretary of Defense shall transmit, by no later than June 1, 1991, an estimate of the fair market value, as of January 1, 1991, of the improvements made by the United States at facilities at each such installation.
+
+>         “(2)
+
+>          For purposes of this section:
+
+>             “(A) The term ‘fair market value of the improvements’ means the value of improvements determined by the Secretary on the basis of their highest use.
+
+>             “(B) The term ‘improvements’ includes new construction of facilities and all additions, improvements, modifications, or renovations made to existing facilities or to real property, without regard to whether they were carried out with appropriated or nonappropriated funds.
+
+>     “(c)  __Establishment of Special Account__  __.—__ 
+
+>         (1) There is established on the books of the Treasury a special account to be known as the ‘Department of Defense Overseas Military Facility Investment Recovery Account’. Except as provided in subsection (d), amounts paid to the United States, pursuant to any treaty, status of forces agreement, or other international agreement to which the United States is a party, for the residual value of real property or improvements to real property used by civilian or military personnel of the Department of Defense shall be deposited into such account.
+
+>         “(2)
+
+>          Money deposited in the Department of Defense Overseas Military Facility Investment Recovery Account shall be available to the Secretary of Defense for payment, as provided in appropriation Acts, of costs incurred by the Department of Defense in connection with—
+
+>             “(A) facility maintenance and repair and environmental restoration at military installations in the United States; and
+
+>             “(B) facility maintenance and repair and compliance with applicable environmental laws at military installations outside the United States that the Secretary anticipates will be occupied by the Armed Forces for a long period.
+
+>         “(3) Funds in the Department of Defense Overseas Facility Investment Recovery Account shall remain available until expended.
+
+>     “(d)  __Amounts Corresponding to the Value of Property Purchased With Nonappropriated Funds__  __.—__ 
+
+>         (1) In the case of a payment referred to in subsection (c)(1) for the residual value of real property or improvements at an overseas military facility, the portion of the payment that is equal to the depreciated value of the investment made with nonappropriated funds shall be deposited in the reserve account established under section 204(b)(7)(C) of the Defense Authorization Amendments and Base Closure and Realignment Act \[[Pub. L. 100–526][/us/pl/100/526], set out below\]. The Secretary may use amounts in the account (in such an aggregate amount as is provided in advance by appropriation Acts) for the purpose of acquiring, constructing, or improving commissary stores and nonappropriated fund instrumentalities.
+
+>         “(2)
+
+>          As used in this subsection:
+
+>             “(A)
+
+>              The term ‘nonappropriated funds’ means funds received from—
+
+>                 “(i) the adjustment of, or surcharge on, selling prices at commissary stores fixed under [section 2685 of title 10][/us/usc/t10/s2685], United States Code; or
+
+>                 “(ii) a nonappropriated fund instrumentality.
+
+>             “(B) The term ‘nonappropriated fund instrumentality’ means an instrumentality of the United States under the jurisdiction of the Armed Forces (including the Army and Air Force Exchange Service, the Navy Resale and Services Support Office, and the Marine Corps exchanges) which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the Armed Forces.
+
+>     “(e)  __Negotiations for Payments-in-Kind__  __.—__ 
+
+>         (1) Before the Secretary of Defense enters into negotiations with a host country regarding the acceptance by the United States of any payment-in-kind in connection with the release to the host country of improvements made by the United States at military installations in the host country, the Secretary shall submit to the appropriate congressional committees a written notice regarding the intended negotiations.
+
+>         “(2)
+
+>          The notice shall contain the following:
+
+>             “(A) A justification for entering into negotiations for payments-in-kind with the host country.
+
+>             “(B) The types of benefit options to be pursued by the Secretary in the negotiations.
+
+>             “(C) A discussion of the adjustments that are intended to be made in the future-years defense program or in the budget of the Department of Defense for the fiscal year in which the notice is submitted or the following fiscal year in order to reflect costs that it may no longer be necessary for the United States to incur as a result of the payments-in-kind to be sought in the negotiations.
+
+>         “(3)
+
+>          For purposes of this subsection, the appropriate congressional committees are—
+
+>             “(A) the Committee on Armed Services, the Committee on Appropriations, and the National Security Subcommittee of the Committee on Appropriations of the House of Representatives; and
+
+>             “(B) the Committee on Armed Services, the Committee on Appropriations, and the Subcommittee on Defense of the Committee on Appropriations of the Senate.
+
+>     “(f) __OMB__  __Review of Proposed Settlements__  __.—__ 
+
+>         (1) The Secretary of Defense may not enter into an agreement of settlement with a host country regarding the release to the host country of improvements made by the United States to facilities at an installation located in the host country until 30 days after the date on which the Secretary submits the proposed settlement to the Director of the Office of Management and Budget. The prohibition set forth in the preceding sentence shall apply only to agreements of settlement for improvements having a value in excess of $10,000,000. The Director shall evaluate the overall equity of the proposed settlement. In evaluating the proposed settlement, the Director shall consider such factors as the extent of the United States capital investment in the improvements being released to the host country, the depreciation of the improvements, the condition of the improvements, and any applicable requirements for environmental remediation or restoration at the installation.
+
+>         “(2) Each year, the Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on each proposed agreement of settlement that was not submitted by the Secretary to the Director of the Office of Management and Budget in the previous year under paragraph (1) because the value of the improvements to be released pursuant to the proposed agreement did not exceed $10,000,000.
+
+>     “(g)  __Congressional Oversight of Payments-In-Kind__  __.—__ 
+
+>         (1)
+
+>          Before concluding an agreement for acceptance of military construction or facility improvements as a payment-in-kind, the Secretary of Defense shall submit to Congress a notification on the proposed agreement. Any such notification shall contain the following:
+
+>             “(A) A description of the military construction project or facility improvement project, as the case may be.
+
+>             “(B) A certification that the project is needed by United States forces.
+
+>             “(C) An explanation of how the project will aid in the achievement of the mission of those forces.
+
+>             “(D) A certification that, if the project were to be carried out by the Department of Defense, appropriations would be necessary for the project and it would be necessary to provide for the project in the next future-years defense program.
+
+>         “(2)
+
+>          Before concluding an agreement for acceptance of host nation support or host nation payment of operating costs of United States forces as a payment-in-kind, the Secretary of Defense shall submit to Congress a notification on the proposed agreement. Any such notification shall contain the following:
+
+>             “(A) A description of each activity to be covered by the payment-in-kind.
+
+>             “(B) A certification that the costs to be covered by the payment-in-kind are included in the budget of one or more of the military departments or that it will otherwise be necessary to provide for payment of such costs in a budget of one or more of the military departments.
+
+>             “(C) A certification that, unless the payment-in-kind is accepted or funds are appropriated for payment of such costs, the military mission of the United States forces with respect to the host nation concerned will be adversely affected.
+
+>         “(3) When the Secretary submits a notification of a proposed agreement under paragraph (1) or (2), the Secretary may then enter into the agreement described in the notification only after the end of the 30-day period beginning on the date on which the notification is submitted or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to [section 480 of title 10][/us/usc/t10/s480], United States Code.”
 
     \[For effective date of amendment by [section 344(b)(2) of Pub. L. 102–190][/us/pl/102/190/s344/b/2] to [section 2921 of Pub. L. 101–510][/us/pl/101/510/s2921], set out above, see Effective Date of 1991 Amendments by [Section 344 of Pub. L. 102–190][/us/pl/102/190/s344] note set out above.\]
 
@@ -3506,8 +3600,6 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/stat/123/2674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2674
 [/us/pl/111/383/s1075/d/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs1075%2Fd%2F24
 [/us/stat/124/4374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4374
-[/us/pl/113/66/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2821
-[/us/stat/127/1015]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1015
 [/us/pl/110/417/s2824]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2824
 [/us/stat/122/4730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4730
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
@@ -3902,12 +3994,9 @@ Similar provisions for specified fiscal years were contained in the following ap
 [/us/stat/113/774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F774
 [/us/pl/108/136/s1031/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1031%2Fb
 [/us/stat/117/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1603
-[/us/pl/113/66/s2807/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2807%2Fb%2F1
-[/us/stat/127/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1011
-[/us/pl/113/66/s2807/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2807%2Fb%2F2
-[/us/stat/127/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1011
-[/us/pl/101/510/s2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs2921
-[/us/usc/t10/s2687a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687a
+[/us/pl/100/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F526
+[/us/usc/t10/s2685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2685
+[/us/usc/t10/s480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs480
 [/us/pl/102/190/s344/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs344%2Fb%2F2
 [/us/pl/101/510/s2921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs2921
 [/us/pl/102/190/s344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F190%2Fs344

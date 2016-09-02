@@ -17,7 +17,7 @@
 
     (a)  __Establishment of Program__  __.—__ 
 
-    For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training in return for a commitment to subsequent service in the Selected Reserve of the Ready Reserve.
+    For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training in return for a commitment to subsequent service in the Ready Reserve.
 
     (b)  __Medical and Dental School Students__  __.—__ 
 
@@ -81,7 +81,7 @@
 
             (C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-            (D) the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
+            (D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
 
     (d)  __Registered Nurses in Critical Specialties__  __.—__ 
 
@@ -91,7 +91,15 @@
 
             (A) is a registered nurse;
 
-            (B) is eligible for appointment as a Reserve officer for service in a reserve component in a Nurse Corps or as a nurse; and
+            (B)
+
+             is eligible for appointment as—
+
+                (i) a Reserve officer for service in the Army Reserve in the Army Nurse Corps;
+
+                (ii) a Reserve officer for service in the Navy Reserve in the Navy Nurse Corps; or
+
+                (iii) a Reserve officer for service in the Air Force Reserve with a view to designation as an Air Force nurse under [section 8067(e) of this title][/us/usc/t10/s8067/e]; and
 
             (C) is enrolled or has been accepted for enrollment in an accredited program in nursing in a specialty designated by the Secretary concerned as a specialty critically needed by that military department in wartime.
 
@@ -101,11 +109,17 @@
 
             (A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (g), for the period or the remainder of the period of the nursing program in which the participant enrolls or is enrolled;
 
-            (B) the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve in a Nurse Corps or as a nurse;
+            (B)
+
+             the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve—
+
+                (i) in the Nurse Corps of the Army or Navy; or
+
+                (ii) as an Air Force nurse of the Air Force;
 
             (C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-            (D) the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
+            (D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
 
     (e)  __Baccalaureate Students in Nursing or Other Health Professions__  __.—__ 
 
@@ -133,7 +147,7 @@
 
             (C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-            (D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Selected Reserve for each year, or part thereof, for which the stipend is paid.
+            (D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Ready Reserve for each year, or part thereof, for which the stipend is paid.
 
     (f)  __Mental Health Professionals in Critical Wartime Specialties__  __.—__ 
 
@@ -171,39 +185,15 @@
 
     (g)  __Amount of Stipend__  __.—__ 
 
-    The amount of a stipend under an agreement under subsection (b), (c), (d), or (f) shall be the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under [section 2121(d) of this title][/us/usc/t10/s2121/d].
+    The amount of a stipend under an agreement under subsection (b), (c), or (f) shall be—
 
-(Added [Pub. L. 100–180, div. A, title VII, § 711(a)(3)][/us/pl/100/180/s711/a/3], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], § 2128; renumbered § 16201 and amended [Pub. L. 103–337, div. A, title XVI, § 1663(c)(2)][/us/pl/103/337/s1663/c/2], (5), Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007], 3008; [Pub. L. 104–106, div. A, title VII, § 736][/us/pl/104/106/s736], Feb. 10, 1996, [110 Stat. 383][/us/stat/110/383]; [Pub. L. 107–107, div. A, title V, § 539][/us/pl/107/107/s539], Dec. 28, 2001, [115 Stat. 1108][/us/stat/115/1108]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(WW)][/us/pl/109/163/s515/b/1/WW], Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 616(c), Oct. 14, 2008, [122 Stat. 4486][/us/stat/122/4486]; [Pub. L. 111–84, div. A, title X, § 1073(c)(3)][/us/pl/111/84/s1073/c/3], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 112–81, div. A, title V, § 556][/us/pl/112/81/s556], Dec. 31, 2011, [125 Stat. 1416][/us/stat/125/1416]; [Pub. L. 113–66, div. A, title VI, § 618][/us/pl/113/66/s618], Dec. 26, 2013, [127 Stat. 782][/us/stat/127/782].)
+        (1) the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under [section 2121(d) of this title][/us/usc/t10/s2121/d], if the participant has agreed to serve in the Selected Reserve; or
+
+        (2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.
+
+(Added [Pub. L. 100–180, div. A, title VII, § 711(a)(3)][/us/pl/100/180/s711/a/3], Dec. 4, 1987, [101 Stat. 1108][/us/stat/101/1108], § 2128; renumbered § 16201 and amended [Pub. L. 103–337, div. A, title XVI, § 1663(c)(2)][/us/pl/103/337/s1663/c/2], (5), Oct. 5, 1994, [108 Stat. 3007][/us/stat/108/3007], 3008; [Pub. L. 104–106, div. A, title VII, § 736][/us/pl/104/106/s736], Feb. 10, 1996, [110 Stat. 383][/us/stat/110/383]; [Pub. L. 107–107, div. A, title V, § 539][/us/pl/107/107/s539], Dec. 28, 2001, [115 Stat. 1108][/us/stat/115/1108]; [Pub. L. 109–163, div. A, title V, § 515(b)(1)(WW)][/us/pl/109/163/s515/b/1/WW], Jan. 6, 2006, [119 Stat. 3234][/us/stat/119/3234]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title VI, § 616(c), Oct. 14, 2008, [122 Stat. 4486][/us/stat/122/4486]; [Pub. L. 111–84, div. A, title X, § 1073(c)(3)][/us/pl/111/84/s1073/c/3], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 112–81, div. A, title V, § 556][/us/pl/112/81/s556], Dec. 31, 2011, [125 Stat. 1416][/us/stat/125/1416].)
 
  __Amendments__ 
-
-    2013—Subsec. (a). [Pub. L. 113–66, § 618(b)(1)][/us/pl/113/66/s618/b/1], substituted “the Selected Reserve of the Ready Reserve” for “the Ready Reserve”.
-
-    Subsec. (c)(2)(D). [Pub. L. 113–66, § 618(b)(2)][/us/pl/113/66/s618/b/2], added subpar. (D) and struck out former subpar. (D) which read as follows: “the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.”
-
-    Subsec. (d)(1)(B). [Pub. L. 113–66, § 618(a)(1)][/us/pl/113/66/s618/a/1], added subpar. (B) and struck out former subpar. (B) which read as follows: “is eligible for appointment as—
-
-    “(i) a Reserve officer for service in the Army Reserve in the Army Nurse Corps;
-
-    “(ii) a Reserve officer for service in the Navy Reserve in the Navy Nurse Corps; or
-
-    “(iii) a Reserve officer for service in the Air Force Reserve with a view to designation as an Air Force nurse under [section 8067(e) of this title][/us/usc/t10/s8067/e]; and”.
-
-    Subsec. (d)(2)(B). [Pub. L. 113–66, § 618(a)(2)][/us/pl/113/66/s618/a/2], added subpar. (B) and struck out former subpar. (B) which read as follows: “the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve—
-
-    “(i) in the Nurse Corps of the Army or Navy; or
-
-    “(ii) as an Air Force nurse of the Air Force;”.
-
-    Subsec. (d)(2)(D). [Pub. L. 113–66, § 618(b)(3)][/us/pl/113/66/s618/b/3], added subpar. (D) and struck out former subpar. (D) which read as follows: “the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.”
-
-    Subsec. (e)(2)(D). [Pub. L. 113–66, § 618(b)(4)][/us/pl/113/66/s618/b/4], substituted “the Selected Reserve” for “the Ready Reserve”.
-
-    Subsec. (g). [Pub. L. 113–66, § 618(c)][/us/pl/113/66/s618/c], amended subsec. (g) generally. Prior to amendment, text read as follows: “The amount of a stipend under an agreement under subsection (b), (c), or (f) shall be—
-
-    “(1) the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under [section 2121(d) of this title][/us/usc/t10/s2121/d], if the participant has agreed to serve in the Selected Reserve; or
-
-    “(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.”
 
     2011—Subsecs. (b)(2)(A), (c)(2)(A), (d)(2)(A). [Pub. L. 112–81, § 556(b)(1)][/us/pl/112/81/s556/b/1], substituted “subsection (g)” for “subsection (f)”.
 
@@ -274,6 +264,7 @@
 ----------
 ----------
 
+[/us/usc/t10/s8067/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8067%2Fe
 [/us/usc/t10/s2121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2121%2Fd
 [/us/usc/t10/s2121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2121%2Fd
 [/us/pl/100/180/s711/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F180%2Fs711%2Fa%2F3
@@ -292,17 +283,6 @@
 [/us/stat/123/2474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2474
 [/us/pl/112/81/s556]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs556
 [/us/stat/125/1416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1416
-[/us/pl/113/66/s618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs618
-[/us/stat/127/782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F782
-[/us/pl/113/66/s618/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs618%2Fb%2F1
-[/us/pl/113/66/s618/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs618%2Fb%2F2
-[/us/pl/113/66/s618/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs618%2Fa%2F1
-[/us/usc/t10/s8067/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs8067%2Fe
-[/us/pl/113/66/s618/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs618%2Fa%2F2
-[/us/pl/113/66/s618/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs618%2Fb%2F3
-[/us/pl/113/66/s618/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs618%2Fb%2F4
-[/us/pl/113/66/s618/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs618%2Fc
-[/us/usc/t10/s2121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2121%2Fd
 [/us/pl/112/81/s556/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs556%2Fb%2F1
 [/us/pl/112/81/s556/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs556%2Fa%2F2
 [/us/pl/112/81/s556/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs556%2Fa%2F1

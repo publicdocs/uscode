@@ -83,96 +83,6 @@
 
     Amendment by [Pub. L. 106–398][/us/pl/106/398] effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, § 1065\] of [Pub. L. 106–398][/us/pl/106/398], set out as an Effective Date note under [section 3531 of Title 44][/us/usc/t44/s3531], Public Printing and Documents.
 
- __Authorities, Capabilities, and Oversight of the United States Cyber Command__ 
-
-[Pub. L. 113–66, div. A, title IX, § 932][/us/pl/113/66/s932], Dec. 26, 2013, [127 Stat. 829][/us/stat/127/829], provided that:
-
->     “(a)  __Provision of Certain Operational Capabilities__  __.—__ 
-
->     The Secretary of Defense shall take such actions as the Secretary considers appropriate to provide the United States Cyber Command operational military units with infrastructure and equipment enabling access to the Internet and other types of networks to permit the United States Cyber Command to conduct the peacetime and wartime missions of the Command.
-
->     “(b) __Cyber Ranges.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary shall review existing cyber ranges and adapt one or more such ranges, as necessary, to support training and exercises of cyber units that are assigned to execute offensive military cyber operations.
-
->         “(2)  __Elements__  __.—__ 
-
->         Each range adapted under paragraph (1) shall have the capability to support offensive military operations against targets that—
-
->             “(A) have not been previously identified and prepared for attack; and
-
->             “(B) must be compromised or neutralized immediately without regard to whether the adversary can detect or attribute the attack.
-
->     “(c) __Principal Advisor on Military Cyber Force Matters.—__ 
-
->         “(1)  __Designation__  __.—__ 
-
->         The Secretary shall designate, from among the personnel of the Office of the Under Secretary of Defense for Policy, a Principal Cyber Advisor to act as the principal advisor to the Secretary on military cyber forces and activities. The Secretary may only designate an official under this paragraph if such official was appointed to the position in which such official serves by and with the advice and consent of the Senate.
-
->         “(2)  __Responsibilities__  __.—__ 
-
->         The Principal Cyber Advisor shall be responsible for the following:
-
->             “(A) Overall supervision of cyber activities related to offensive missions, defense of the United States, and defense of Department of Defense networks, including oversight of policy and operational considerations, resources, personnel, and acquisition and technology.
-
->             “(B) Such other matters relating to offensive military cyber forces as the Secretary shall specify for purposes of this subsection.
-
->         “(3)  __Cross-functional team__  __.—__ 
-
->         The Principal Cyber Advisor shall—
-
->             “(A) integrate the cyber expertise and perspectives of appropriate organizations within the Office of the Secretary of Defense, Joint Staff, military departments, Defense Agencies, and combatant commands, by establishing and maintaining a full-time cross-functional team of subject matter experts from those organizations; and
-
->             “(B) select team members, and designate a team leader, from among those personnel nominated by the heads of such organizations.
-
->     “(d)  __Training of Cyber Personnel__  __.—__ 
-
->     The Secretary shall establish and maintain training capabilities and facilities in the Armed Forces and, as the Secretary considers appropriate, at the United States Cyber Command, to support the needs of the Armed Forces and the United States Cyber Command for personnel who are assigned offensive and defensive cyber missions in the Department of Defense.”
-
- __Joint Federated Centers for Trusted Defense Systems for the Department of Defense__ 
-
-[Pub. L. 113–66, div. A, title IX, § 937][/us/pl/113/66/s937], Dec. 26, 2013, [127 Stat. 834][/us/stat/127/834], provided that:
-
->     “(a) __Federation Required.—__ 
-
->         “(1)  __In general__  __.—__ 
-
->         The Secretary of Defense shall provide for the establishment of a joint federation of capabilities to support the trusted defense system needs of the Department of Defense (in this section referred to as the ‘federation’).
-
->         “(2)  __Purpose__  __.—__ 
-
->         The purpose of the federation shall be to serve as a joint, Department-wide federation of capabilities to support the trusted defense system needs of the Department to ensure security in the software and hardware developed, acquired, maintained, and used by the Department, pursuant to the trusted defense systems strategy of the Department and supporting policies related to software assurance and supply chain risk management.
-
->     “(b)  __Discharge of Establishment__  __.—__ 
-
->     In providing for the establishment of the federation, the Secretary shall consider whether the purpose of the federation can be met by existing centers in the Department. If the Department determines that there are capabilities gaps that cannot be satisfied by existing centers, the Department shall devise a strategy for creating and providing resources for such capabilities to fill such gaps.
-
->     “(c)  __Charter__  __.—__ 
-
->     Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary shall issue a charter for the federation. The charter shall—
-
->         “(1) be established pursuant to the trusted defense systems strategy of the Department and supporting policies related to software assurance and supply chain risk management; and
-
->         “(2)
-
->          set forth—
-
->             “(A) the role of the federation in supporting program offices in implementing the trusted defense systems strategy of the Department;
-
->             “(B) the software and hardware assurance expertise and capabilities of the federation, including policies, standards, requirements, best practices, contracting, training, and testing;
-
->             “(C) the requirements for the discharge by the federation, in coordination with the Center for Assured Software of the National Security Agency, of a program of research and development to improve automated software code vulnerability analysis and testing tools;
-
->             “(D) the requirements for the federation to procure, manage, and distribute enterprise licenses for automated software vulnerability analysis tools; and
-
->             “(E) the requirements for the discharge by the federation, in coordination with the Defense Microelectronics Activity, of a program of research and development to improve hardware vulnerability, testing, and protection tools.
-
->     “(d)  __Report__  __.—__ 
-
->     The Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], at the time of the submittal to Congress of the budget of the President for fiscal year 2016 pursuant to [section 1105 of title 31][/us/usc/t31/s1105], United States Code, a report on the funding and management of the federation. The report shall set forth such recommendations as the Secretary considers appropriate regarding the optimal placement of the federation within the organizational structure of the Department, including responsibility for the funding and management of the federation.”
-
  __Improvements in Assurance of Computer Software Procured by the Department of Defense__ 
 
 [Pub. L. 112–239, div. A, title IX, § 933][/us/pl/112/239/s933], Jan. 2, 2013, [126 Stat. 1884][/us/stat/126/1884], provided that:
@@ -610,11 +520,6 @@
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/pl/106/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F398
 [/us/usc/t44/s3531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3531
-[/us/pl/113/66/s932]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs932
-[/us/stat/127/829]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F829
-[/us/pl/113/66/s937]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs937
-[/us/stat/127/834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F834
-[/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/pl/112/239/s933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs933
 [/us/stat/126/1884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1884
 [/us/usc/t10/s2302/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302%2F5

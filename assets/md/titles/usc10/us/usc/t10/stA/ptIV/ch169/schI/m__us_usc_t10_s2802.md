@@ -33,33 +33,9 @@
 
     (c) In determining the scope of a proposed military construction project, the Secretary concerned shall submit to the President such recommendations as the Secretary considers to be appropriate regarding the incorporation and inclusion of life-cycle cost-effective practices as an element in the project documents submitted to Congress in connection with the budget submitted pursuant to [section 1105 of title 31][/us/usc/t31/s1105] for the fiscal year in which a contract is proposed to be awarded for the project.
 
-    (d)
-
-        (1) The requirement under subsection (a) that a military construction project must be authorized by law includes military construction projects funded through payment-in-kind contributions pursuant to a bilateral agreement with a host country.
-
-        (2) The Secretary of Defense or the Secretary concerned shall include military construction projects covered under paragraph (1) in the budget justification documents for the Department of Defense submitted to Congress in connection with the budget for a fiscal year submitted under 1105 of title 31.
-
-        (3)
-
-         This subsection does not apply to a military construction project that—
-
-            (A) was specified in a bilateral agreement with a host country that was entered into prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014;
-
-            (B) was accepted as payment-in-kind for the residual value of improvements made by the United States at military installations released to the host country under section 2921 of the Military Construction Authorization Act for Fiscal Year 1991 (division B of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note) prior to the date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014; or
-
-            (C) will cost less than the cost specified in subsection (a)(2) of [section 2805 of this title][/us/usc/t10/s2805] for certain unspecified minor military construction projects.
-
-        (4) In the case of a military construction project excluded pursuant to paragraph (3)(C) whose cost will exceed the cost specified in subsection (b) of [section 2805 of this title][/us/usc/t10/s2805] for certain unspecified minor military construction projects, the congressional notification requirements and waiting period specified in paragraph (2) of such subsection shall apply.
-
-(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 154][/us/stat/96/154]; amended [Pub. L. 110–181, div. B, title XXVIII, § 2802(a)][/us/pl/110/181/s2802/a], Jan. 28, 2008, [122 Stat. 539][/us/stat/122/539]; [Pub. L. 110–417, div. B, title XXVIII, § 2801(b)][/us/pl/110/417/s2801/b], Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719]; [Pub. L. 113–66, div. B, title XXVIII, § 2807(c)][/us/pl/113/66/s2807/c], Dec. 26, 2013, [127 Stat. 1012][/us/stat/127/1012].)
-
- __References in Text__ 
-
-    The date of the enactment of the Military Construction Authorization Act for Fiscal Year 2014, referred to in subsec. (d)(3)(A) and (B), is the date of enactment of div. B of [Pub. L. 113–66][/us/pl/113/66], which was approved Dec. 26, 2013.
+(Added [Pub. L. 97–214, § 2(a)][/us/pl/97/214/s2/a], July 12, 1982, [96 Stat. 154][/us/stat/96/154]; amended [Pub. L. 110–181, div. B, title XXVIII, § 2802(a)][/us/pl/110/181/s2802/a], Jan. 28, 2008, [122 Stat. 539][/us/stat/122/539]; [Pub. L. 110–417, div. B, title XXVIII, § 2801(b)][/us/pl/110/417/s2801/b], Oct. 14, 2008, [122 Stat. 4719][/us/stat/122/4719].)
 
  __Amendments__ 
-
-    2013—Subsec. (d). [Pub. L. 113–66][/us/pl/113/66] added subsec. (d).
 
     2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181] inserted “, land acquisitions, and defense access road projects (as described under [section 210 of title 23][/us/usc/t23/s210])” after “military construction projects”.
 
@@ -224,20 +200,12 @@
 
 [/us/usc/t23/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
-[/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
-[/us/usc/t10/s2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2805
 [/us/pl/97/214/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F214%2Fs2%2Fa
 [/us/stat/96/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F154
 [/us/pl/110/181/s2802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs2802%2Fa
 [/us/stat/122/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F539
 [/us/pl/110/417/s2801/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417%2Fs2801%2Fb
 [/us/stat/122/4719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4719
-[/us/pl/113/66/s2807/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs2807%2Fc
-[/us/stat/127/1012]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F1012
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
-[/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t23/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs210
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417

@@ -71,7 +71,7 @@
 
         (2)  __Cross-fiscal year agreements__  __.—__ 
 
-        An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years. This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account established by section 2906 of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
+        An agreement with an agency under paragraph (1) may be for a period that begins in one fiscal year and ends in another fiscal year so long as the period of the agreement does not exceed two years. This two-year limitation does not apply to an agreement funded using amounts in the Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A of the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of [Public Law 101–510][/us/pl/101/510]; [10 U.S.C. 2687][/us/usc/t10/s2687] note).
 
         (3)  __Limitation on reimbursable agreements__  __.—__ 
 
@@ -148,6 +148,10 @@
         (4) The program manager may establish an independent advisory and review panel that may include representatives of the National Academy of Sciences, nongovernmental organizations with expertise regarding unexploded ordnance, discarded military munitions, or munitions constituents, the Environmental Protection Agency, States (as defined in section 2710 1 of this title), and tribal governments. If established, the panel shall report annually to Congress on progress made by the Department of Defense to address unexploded ordnance, discarded military munitions, or munitions constituents at defense sites and make such recommendations as the panel considers appropriate.
 
 (Added [Pub. L. 99–499, title II, § 211(a)(1)(B)][/us/pl/99/499/s211/a/1/B], Oct. 17, 1986, [100 Stat. 1719][/us/stat/100/1719]; amended [Pub. L. 101–510, div. A, title XIV, § 1481(i)(1)][/us/pl/101/510/s1481/i/1], Nov. 5, 1990, [104 Stat. 1708][/us/stat/104/1708]; [Pub. L. 102–190, div. A, title III, § 336(a)][/us/pl/102/190/s336/a], Dec. 5, 1991, [105 Stat. 1342][/us/stat/105/1342]; [Pub. L. 102–484, div. A, title III, § 331(b)][/us/pl/102/484/s331/b], title X, § 1052(35), Oct. 23, 1992, [106 Stat. 2373][/us/stat/106/2373], 2501; [Pub. L. 103–35, title II, § 201(d)(6)][/us/pl/103/35/s201/d/6], May 31, 1993, [107 Stat. 99][/us/stat/107/99]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337], §§ 322, 323, Oct. 5, 1994, [108 Stat. 2711][/us/stat/108/2711]; [Pub. L. 104–106, div. A, title III, § 321(a)(1)][/us/pl/104/106/s321/a/1], title XV, § 1504(a)(1), div. D, title XLIII, § 4321(b)(22), Feb. 10, 1996, [110 Stat. 251][/us/stat/110/251], 513, 673; [Pub. L. 104–201, div. A, title III, § 329][/us/pl/104/201/s329], Sept. 23, 1996, [110 Stat. 2483][/us/stat/110/2483]; [Pub. L. 107–107, div. A, title III, § 314][/us/pl/107/107/s314], Dec. 28, 2001, [115 Stat. 1053][/us/stat/115/1053]; [Pub. L. 107–217, § 3(b)(17)][/us/pl/107/217/s3/b/17], Aug. 21, 2002, [116 Stat. 1296][/us/stat/116/1296]; [Pub. L. 107–314, div. A, title III][/us/pl/107/314], §§ 311, 312, 313(c)(2), div. B, title XXVIII, § 2812(c), Dec. 2, 2002, [116 Stat. 2506][/us/stat/116/2506], 2508, 2709; [Pub. L. 108–375, div. A, title X, § 1084(d)(24)][/us/pl/108/375/s1084/d/24], Oct. 28, 2004, [118 Stat. 2062][/us/stat/118/2062]; [Pub. L. 109–163, div. A, title III, § 312(a)][/us/pl/109/163/s312/a], Jan. 6, 2006, [119 Stat. 3190][/us/stat/119/3190]; [Pub. L. 109–284, § 2][/us/pl/109/284/s2], Sept. 27, 2006, [120 Stat. 1211][/us/stat/120/1211]; [Pub. L. 109–364, div. A, title III][/us/pl/109/364], §§ 311, 312, Oct. 17, 2006, [120 Stat. 2137][/us/stat/120/2137]; [Pub. L. 111–84, div. A, title X, § 1073(a)(28)][/us/pl/111/84/s1073/a/28], Oct. 28, 2009, [123 Stat. 2474][/us/stat/123/2474]; [Pub. L. 111–383, div. A, title X, § 1075(b)(46)(B)][/us/pl/111/383/s1075/b/46/B], Jan. 7, 2011, [124 Stat. 4371][/us/stat/124/4371]; [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A)][/us/pl/112/239/s2711/c/4/A], Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144].)
+
+ __Amendment of Subsection (d)(2)__ 
+
+    [Pub. L. 112–239, div. B, title XXVII, § 2711(c)(4)(A)][/us/pl/112/239/s2711/c/4/A], (d), Jan. 2, 2013, [126 Stat. 2144][/us/stat/126/2144], provided that, effective on the later of Oct. 1, 2013, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014, subsection (d)(2) of this section is amended by striking “Department of Defense Base Closure Account 1990 or the Department of Defense Base Closure Account 2005 established under sections 2906 and 2906A” and inserting “Department of Defense Base Closure Account established by section 2906”. See 2013 Amendment note below.
 
  __References in Text__ 
 
@@ -247,7 +251,7 @@
 
 >     “(1) October 1, 2013; and \[sic\]
 
->     “(2) the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014 \[div. J of [Pub. L. 113–76][/us/pl/113/76], approved Jan. 17, 2014\].”
+>     “(2) the date of the enactment of an Act authorizing funds for military construction for fiscal year 2014.”
 
  __Effective Date of 1996 Amendment__ 
 
@@ -257,7 +261,7 @@
 
  __Prohibition on Disposing of Waste in Open-Air Burn Pits__ 
 
-[Pub. L. 111–84, div. A, title III, § 317][/us/pl/111/84/s317], Oct. 28, 2009, [123 Stat. 2249][/us/stat/123/2249], as amended by [Pub. L. 112–81, div. A, title III, § 316][/us/pl/112/81/s316], Dec. 31, 2011, [125 Stat. 1358][/us/stat/125/1358]; [Pub. L. 113–66, div. A, title III, § 314][/us/pl/113/66/s314], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729], provided that:
+[Pub. L. 111–84, div. A, title III, § 317][/us/pl/111/84/s317], Oct. 28, 2009, [123 Stat. 2249][/us/stat/123/2249], as amended by [Pub. L. 112–81, div. A, title III, § 316][/us/pl/112/81/s316], Dec. 31, 2011, [125 Stat. 1358][/us/stat/125/1358], provided that:
 
 >     “(a) __Regulations.—__ 
 
@@ -313,39 +317,9 @@
 
 >             “(A) hazardous waste, as defined by section 1004(5) of the Solid Waste Disposal Act ([42 U.S.C. 6903(5)][/us/usc/t42/s6903/5]);
 
->             “(B) medical waste;
+>             “(B) medical waste; and
 
->             “(C) tires;
-
->             “(D) treated wood;
-
->             “(E) batteries;
-
->             “(F) plastics, except insignificant amounts of plastic remaining after a good-faith effort to remove or recover plastic materials from the solid waste stream;
-
->             “(G) munitions and explosives, except when disposed of in compliance with guidance on the destruction of munitions and explosives contained in the Department of Defense Ammunition and Explosives Safety Standards, DoD Manual 6055.09-M;
-
->             “(H) compressed gas cylinders, unless empty with valves removed;
-
->             “(I) fuel containers, unless completely evacuated of its contents;
-
->             “(J) aerosol cans;
-
->             “(K) polychlorinated biphenyls;
-
->             “(L) petroleum, oils, and lubricants products (other than waste fuel for initial combustion);
-
->             “(M) asbestos;
-
->             “(N) mercury;
-
->             “(O) foam tent material;
-
->             “(P) any item containing any of the materials referred to in a preceding paragraph; and
-
->             “(Q) other waste as designated by the Secretary.”
-
-    \[[Pub. L. 113–66, div. A, title III, § 314][/us/pl/113/66/s314], Dec. 26, 2013, [127 Stat. 729][/us/stat/127/729], which directed amendment of [section 317(c)(2) of Pub. L. 111–84][/us/pl/111/84/s317/c/2], set out above, was executed to [section 317(d)(2) of Pub. L. 111–84][/us/pl/111/84/s317/d/2], to reflect the probable intent of Congress.\]
+>             “(C) other waste as designated by the Secretary.”
 
  __Purpose of__  __[__  __Pub. L. 109–284__  __][/us/pl/109/284]__ 
 
@@ -1208,6 +1182,8 @@
 [/us/stat/124/4371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4371
 [/us/pl/112/239/s2711/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F4%2FA
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
+[/us/pl/112/239/s2711/c/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fc%2F4%2FA
+[/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
 [/us/usc/t10/s2710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2710
 [/us/pl/101/165/s9038]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2Fs9038
 [/us/stat/103/1137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1137
@@ -1270,7 +1246,6 @@
 [/us/pl/112/239/s2711/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs2711%2Fd
 [/us/stat/126/2144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2144
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/104/106/s1504/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs1504%2Fa
 [/us/stat/110/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F513
 [/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
@@ -1281,14 +1256,8 @@
 [/us/stat/123/2249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2249
 [/us/pl/112/81/s316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs316
 [/us/stat/125/1358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1358
-[/us/pl/113/66/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs314
-[/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
 [/us/usc/t42/s6903/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6903%2F5
-[/us/pl/113/66/s314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66%2Fs314
-[/us/stat/127/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F729
-[/us/pl/111/84/s317/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs317%2Fc%2F2
-[/us/pl/111/84/s317/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs317%2Fd%2F2
 [/us/pl/109/284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284
 [/us/pl/109/284/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F284%2Fs1
 [/us/stat/120/1211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1211
