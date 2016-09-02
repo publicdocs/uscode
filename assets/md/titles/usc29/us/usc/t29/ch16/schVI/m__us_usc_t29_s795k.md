@@ -73,43 +73,43 @@
 
         (8) contain such other information and be submitted in such manner as the Commissioner may require.
 
-([Pub. L. 93–112, title VI, § 606][/us/pl/93/112/s606], formerly § 625, as added [Pub. L. 105–220, title IV, § 409][/us/pl/105/220/s409], Aug. 7, 1998, [112 Stat. 1215][/us/stat/112/1215]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–414; renumbered § 606 and amended [Pub. L. 113–128, title IV, § 461(3)][/us/pl/113/128/s461/3], (8), July 22, 2014, [128 Stat. 1679][/us/stat/128/1679], 1681.)
+([Pub. L. 93–112, title VI][/us/pl/93/112/tVI], § 606, formerly § 625, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 409, Aug. 7, 1998, [112 Stat. 1215][/us/stat/112/1215]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(b)(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–414; renumbered § 606 and amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 461(3), (8), July 22, 2014, [128 Stat. 1679][/us/stat/128/1679], 1681.)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 795n of this title][/us/usc/t29/s795n] prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    A prior section 795k, [Pub. L. 93–112, title VI, § 632][/us/pl/93/112/s632], as added [Pub. L. 102–569, title VI, § 621(a)][/us/pl/102/569/s621/a], Oct. 29, 1992, [106 Stat. 4439][/us/stat/106/4439], related to allotments, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220]. See [section 795h of this title][/us/usc/t29/s795h].
+    A prior section 795k, [Pub. L. 93–112, title VI][/us/pl/93/112/tVI], § 632, as added [Pub. L. 102–569, title VI][/us/pl/102/569/tVI], § 621(a), Oct. 29, 1992, [106 Stat. 4439][/us/stat/106/4439], related to allotments, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220]. See [section 795h of this title][/us/usc/t29/s795h].
 
-    Another prior section 795k, [Pub. L. 93–112, title VI, § 632][/us/pl/93/112/s632], as added [Pub. L. 99–506, title VII, § 704(a)(1)][/us/pl/99/506/s704/a/1], Oct. 21, 1986, [100 Stat. 1834][/us/stat/100/1834], related to eligibility for services under former part C of this subchapter, prior to repeal by [Pub. L. 102–569, § 621(a)][/us/pl/102/569/s621/a].
+    Another prior section 795k, [Pub. L. 93–112, title VI][/us/pl/93/112/tVI], § 632, as added [Pub. L. 99–506, title VII][/us/pl/99/506/tVII], § 704(a)(1), Oct. 21, 1986, [100 Stat. 1834][/us/stat/100/1834], related to eligibility for services under former part C of this subchapter, prior to repeal by [Pub. L. 102–569][/us/pl/102/569], § 621(a).
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–128, § 461(8)(A)][/us/pl/113/128/s461/8/A], substituted “this subchapter” for “this part” and inserted “, including youth with the most significant disabilities,” after “individuals”.
+    2014—Subsec. (a). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(A), substituted “this subchapter” for “this part” and inserted “, including youth with the most significant disabilities,” after “individuals”.
 
-    Subsec. (b)(1). [Pub. L. 113–128, § 461(8)(B)(i)][/us/pl/113/128/s461/8/B/i], substituted “this subchapter” for “this part”.
+    Subsec. (b)(1). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(i), substituted “this subchapter” for “this part”.
 
-    Subsec. (b)(2). [Pub. L. 113–128, § 461(8)(B)(ii)][/us/pl/113/128/s461/8/B/ii], inserted “, including youth,” after “rehabilitation needs of individuals”.
+    Subsec. (b)(2). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(ii), inserted “, including youth,” after “rehabilitation needs of individuals”.
 
-    Subsec. (b)(3). [Pub. L. 113–128, § 461(8)(B)(iii)][/us/pl/113/128/s461/8/B/iii], inserted “, including youth with the most significant disabilities,” after “provided to individuals” and made technical amendment to reference in original act which appears in text as reference to [section 795h of this title][/us/usc/t29/s795h].
+    Subsec. (b)(3). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(iii), inserted “, including youth with the most significant disabilities,” after “provided to individuals” and made technical amendment to reference in original act which appears in text as reference to [section 795h of this title][/us/usc/t29/s795h].
 
-    Subsec. (b)(6), (7). [Pub. L. 113–128, § 461(8)(B)(iv)][/us/pl/113/128/s461/8/B/iv]–(vi), added par. (6), redesignated former par. (6) as (7), and struck out former par. (7) which read as follows: “provide assurances that the State agencies designated under paragraph (1) will expend not more than 5 percent of the allotment of the State under this part for administrative costs of carrying out this part; and”.
+    Subsec. (b)(6), (7). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(iv)–(vi), added par. (6), redesignated former par. (6) as (7), and struck out former par. (7) which read as follows: “provide assurances that the State agencies designated under paragraph (1) will expend not more than 5 percent of the allotment of the State under this part for administrative costs of carrying out this part; and”.
 
-    Subsec. (b)(7)(A). [Pub. L. 113–128, § 461(8)(B)(vii)(I)][/us/pl/113/128/s461/8/B/vii/I], substituted “under this subchapter” for “under this part” in two places.
+    Subsec. (b)(7)(A). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(vii)(I), substituted “under this subchapter” for “under this part” in two places.
 
-    Subsec. (b)(7)(B). [Pub. L. 113–128, § 461(8)(B)(vii)(II)][/us/pl/113/128/s461/8/B/vii/II], inserted “, including youth with the most significant disabilities,” after “significant disabilities”.
+    Subsec. (b)(7)(B). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(vii)(II), inserted “, including youth with the most significant disabilities,” after “significant disabilities”.
 
-    Subsec. (b)(7)(C)(i). [Pub. L. 113–128, § 461(8)(B)(vii)(III)(aa)][/us/pl/113/128/s461/8/B/vii/III/aa], inserted “, including, as appropriate, for youth with the most significant disabilities, transition services and pre-employment transition services” after “services to be provided”.
+    Subsec. (b)(7)(C)(i). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(vii)(III)(aa), inserted “, including, as appropriate, for youth with the most significant disabilities, transition services and pre-employment transition services” after “services to be provided”.
 
-    Subsec. (b)(7)(C)(ii). [Pub. L. 113–128, § 461(8)(B)(vii)(III)(bb)][/us/pl/113/128/s461/8/B/vii/III/bb], inserted “, including the extended services that may be provided to youth with the most significant disabilities under this subchapter, in accordance with an approved individualized plan for employment, for a period not to exceed 4 years” after “services needed”.
+    Subsec. (b)(7)(C)(ii). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(vii)(III)(bb), inserted “, including the extended services that may be provided to youth with the most significant disabilities under this subchapter, in accordance with an approved individualized plan for employment, for a period not to exceed 4 years” after “services needed”.
 
-    Subsec. (b)(7)(C)(iii). [Pub. L. 113–128, § 461(8)(B)(vii)(III)(cc)][/us/pl/113/128/s461/8/B/vii/III/cc], substituted “identify, as appropriate, the source of extended services,” for “identify the source of extended services,”, “or indicate” for “or to the extent”, and “employment is developed;” for “employment is developed, a statement describing the basis for concluding that there is a reasonable expectation that such sources will become available;”.
+    Subsec. (b)(7)(C)(iii). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(vii)(III)(cc), substituted “identify, as appropriate, the source of extended services,” for “identify the source of extended services,”, “or indicate” for “or to the extent”, and “employment is developed;” for “employment is developed, a statement describing the basis for concluding that there is a reasonable expectation that such sources will become available;”.
 
-    Subsec. (b)(7)(D). [Pub. L. 113–128, § 461(8)(B)(vii)(IV)][/us/pl/113/128/s461/8/B/vii/IV], substituted “under this subchapter” for “under this part”.
+    Subsec. (b)(7)(D). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(vii)(IV), substituted “under this subchapter” for “under this part”.
 
-    Subsec. (b)(7)(G). [Pub. L. 113–128, § 461(8)(B)(vii)(VI)][/us/pl/113/128/s461/8/B/vii/VI], struck out “for the maximum number of hours possible” after “integrated setting”.
+    Subsec. (b)(7)(G). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(vii)(VI), struck out “for the maximum number of hours possible” after “integrated setting”.
 
-    Subsec. (b)(7)(H), (I). [Pub. L. 113–128, § 461(8)(B)(vii)(V)][/us/pl/113/128/s461/8/B/vii/V], (VII), added subpars. (H) and (I).
+    Subsec. (b)(7)(H), (I). [Pub. L. 113–128][/us/pl/113/128], § 461(8)(B)(vii)(V), (VII), added subpars. (H) and (I).
 
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment in original to section designation and catchline.
 
@@ -128,38 +128,38 @@
 [/us/usc/t29/s722/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722%2Fb%2F1
 [/us/usc/t29/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722
 [/us/usc/t29/s795h/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs795h%2Fd
-[/us/pl/93/112/s606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs606
-[/us/pl/105/220/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs409
+[/us/pl/93/112/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1215
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s461/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F3
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1679
 [/us/usc/t29/s795n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs795n
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs632
-[/us/pl/102/569/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs621%2Fa
+[/us/pl/93/112/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVI
+[/us/pl/102/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVI
 [/us/stat/106/4439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4439
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/usc/t29/s795h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs795h
-[/us/pl/93/112/s632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs632
-[/us/pl/99/506/s704/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs704%2Fa%2F1
+[/us/pl/93/112/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVI
+[/us/pl/99/506/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtVII
 [/us/stat/100/1834]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1834
-[/us/pl/102/569/s621/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs621%2Fa
-[/us/pl/113/128/s461/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FA
-[/us/pl/113/128/s461/8/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fi
-[/us/pl/113/128/s461/8/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fii
-[/us/pl/113/128/s461/8/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fiii
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s795h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs795h
-[/us/pl/113/128/s461/8/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fiv
-[/us/pl/113/128/s461/8/B/vii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fvii%2FI
-[/us/pl/113/128/s461/8/B/vii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fvii%2FII
-[/us/pl/113/128/s461/8/B/vii/III/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fvii%2FIII%2Faa
-[/us/pl/113/128/s461/8/B/vii/III/bb]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fvii%2FIII%2Fbb
-[/us/pl/113/128/s461/8/B/vii/III/cc]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fvii%2FIII%2Fcc
-[/us/pl/113/128/s461/8/B/vii/IV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fvii%2FIV
-[/us/pl/113/128/s461/8/B/vii/VI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fvii%2FVI
-[/us/pl/113/128/s461/8/B/vii/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F8%2FB%2Fvii%2FV
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

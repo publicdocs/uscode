@@ -57,7 +57,7 @@
 
         The privilege established under subsection (d) shall apply to communications related to any investigation, audit, examination, or inquiry conducted or coordinated by any of the agencies. A communication that is privileged under subsection (d) shall not waive any privilege otherwise available to the communicating agency or to any person who provided the information that is communicated.
 
-([Pub. L. 93–406, title I, § 504][/us/pl/93/406/s504], Sept. 2, 1974, [88 Stat. 893][/us/stat/88/893]; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 111–148, title VI, § 6607][/us/pl/111/148/s6607], Mar. 23, 2010, [124 Stat. 781][/us/stat/124/781].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 504, Sept. 2, 1974, [88 Stat. 893][/us/stat/88/893]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6607, Mar. 23, 2010, [124 Stat. 781][/us/stat/124/781].)
 
  __Amendments__ 
 
@@ -82,11 +82,11 @@
 
 [/us/usc/t26/s6103/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6103%2Fg
 [/us/usc/t12/s1813/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fq
-[/us/pl/93/406/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs504
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F893
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/111/148/s6607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6607
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F781
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

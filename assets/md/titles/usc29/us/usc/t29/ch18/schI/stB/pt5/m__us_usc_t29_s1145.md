@@ -17,7 +17,7 @@
 
     Every employer who is obligated to make contributions to a multiemployer plan under the terms of the plan or under the terms of a collectively bargained agreement shall, to the extent not inconsistent with law, make such contributions in accordance with the terms and conditions of such plan or such agreement.
 
-([Pub. L. 93–406, title I, § 515][/us/pl/93/406/s515], as added [Pub. L. 96–364, title III, § 306(a)][/us/pl/96/364/s306/a], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 515, as added [Pub. L. 96–364, title III][/us/pl/96/364/tIII], § 306(a), Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295].)
 
  __Effective Date__ 
 
@@ -30,8 +30,8 @@
 ----------
 ----------
 
-[/us/pl/93/406/s515]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs515
-[/us/pl/96/364/s306/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs306%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/96/364/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIII
 [/us/stat/94/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1295
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 

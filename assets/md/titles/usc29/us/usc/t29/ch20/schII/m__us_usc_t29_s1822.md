@@ -27,7 +27,7 @@
 
         No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any migrant agricultural worker.
 
-([Pub. L. 97–470, title II, § 202][/us/pl/97/470/s202], Jan. 14, 1983, [96 Stat. 2591][/us/stat/96/2591].)
+([Pub. L. 97–470, title II][/us/pl/97/470/tII], § 202, Jan. 14, 1983, [96 Stat. 2591][/us/stat/96/2591].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs202
+[/us/pl/97/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtII
 [/us/stat/96/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2591
 
 

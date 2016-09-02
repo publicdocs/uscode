@@ -17,7 +17,7 @@
 
     Whenever it shall appear that any person has violated or is about to violate any of the provisions of this subchapter, the Secretary may bring a civil action for such relief (including injunctions) as may be appropriate. Any such action may be brought in the district court of the United States where the violation occurred or, at the option of the parties, in the United States District Court for the District of Columbia.
 
-([Pub. L. 86–257, title II, § 210][/us/pl/86/257/s210], Sept. 14, 1959, [73 Stat. 530][/us/stat/73/530].)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 210, Sept. 14, 1959, [73 Stat. 530][/us/stat/73/530].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs210
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F530
 
 

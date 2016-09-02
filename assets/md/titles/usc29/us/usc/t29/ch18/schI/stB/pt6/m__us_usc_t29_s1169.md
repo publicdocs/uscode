@@ -169,7 +169,7 @@
 
         Any regulations prescribed under this section shall be prescribed by the Secretary of Labor, in consultation with the Secretary of Health and Human Services.
 
-([Pub. L. 93–406, title I, § 609][/us/pl/93/406/s609], as added [Pub. L. 103–66, title IV, § 4301(a)][/us/pl/103/66/s4301/a], Aug. 10, 1993, [107 Stat. 371][/us/stat/107/371]; amended [Pub. L. 104–193, title III, § 381(a)][/us/pl/104/193/s381/a], Aug. 22, 1996, [110 Stat. 2257][/us/stat/110/2257]; [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5611(a), (b), 5612(a), 5613(a), (b), Aug. 5, 1997, [111 Stat. 647][/us/stat/111/647], 648; [Pub. L. 105–200, title IV, § 401(d)][/us/pl/105/200/s401/d], (h)(2)(A)(iii), (B), (3)(A), July 16, 1998, [112 Stat. 662][/us/stat/112/662], 668.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 609, as added [Pub. L. 103–66, title IV][/us/pl/103/66/tIV], § 4301(a), Aug. 10, 1993, [107 Stat. 371][/us/stat/107/371]; amended [Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 381(a), Aug. 22, 1996, [110 Stat. 2257][/us/stat/110/2257]; [Pub. L. 105–33, title V][/us/pl/105/33/tV], §§ 5611(a), (b), 5612(a), 5613(a), (b), Aug. 5, 1997, [111 Stat. 647][/us/stat/111/647], 648; [Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 401(d), (h)(2)(A)(iii), (B), (3)(A), July 16, 1998, [112 Stat. 662][/us/stat/112/662], 668.)
 
  __References in Text__ 
 
@@ -181,27 +181,27 @@
 
  __Amendments__ 
 
-    1998—Subsec. (a)(2)(B)(ii). [Pub. L. 105–200, § 401(h)(2)(A)(iii)][/us/pl/105/200/s401/h/2/A/iii], substituted “is made pursuant to” for “enforces”.
+    1998—Subsec. (a)(2)(B)(ii). [Pub. L. 105–200][/us/pl/105/200], § 401(h)(2)(A)(iii), substituted “is made pursuant to” for “enforces”.
 
-    Subsec. (a)(2)(D). [Pub. L. 105–200, § 401(h)(2)(B)][/us/pl/105/200/s401/h/2/B], added subpar. (D).
+    Subsec. (a)(2)(D). [Pub. L. 105–200][/us/pl/105/200], § 401(h)(2)(B), added subpar. (D).
 
-    Subsec. (a)(5)(C). [Pub. L. 105–200, § 401(d)][/us/pl/105/200/s401/d], added subpar. (C).
+    Subsec. (a)(5)(C). [Pub. L. 105–200][/us/pl/105/200], § 401(d), added subpar. (C).
 
-    Subsec. (a)(9). [Pub. L. 105–200, § 401(h)(3)(A)][/us/pl/105/200/s401/h/3/A], substituted “the address of an alternate recipient” for “the name and address of an alternate recipient”.
+    Subsec. (a)(9). [Pub. L. 105–200][/us/pl/105/200], § 401(h)(3)(A), substituted “the address of an alternate recipient” for “the name and address of an alternate recipient”.
 
-    1997—Subsec. (a)(1). [Pub. L. 105–33, § 5613(b)][/us/pl/105/33/s5613/b], inserted at end “A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.”
+    1997—Subsec. (a)(1). [Pub. L. 105–33][/us/pl/105/33], § 5613(b), inserted at end “A qualified medical child support order with respect to any participant or beneficiary shall be deemed to apply to each group health plan which has received such order, from which the participant or beneficiary is eligible to receive benefits, and with respect to which the requirements of paragraph (4) are met.”
 
-    Subsec. (a)(2)(B). [Pub. L. 105–33, § 5612(a)][/us/pl/105/33/s5612/a], inserted at end of concluding provisions “For purposes of this subparagraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.”
+    Subsec. (a)(2)(B). [Pub. L. 105–33][/us/pl/105/33], § 5612(a), inserted at end of concluding provisions “For purposes of this subparagraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.”
 
-    Subsec. (a)(3)(A). [Pub. L. 105–33, § 5611(a)][/us/pl/105/33/s5611/a], inserted at end “except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,”.
+    Subsec. (a)(3)(A). [Pub. L. 105–33][/us/pl/105/33], § 5611(a), inserted at end “except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,”.
 
-    Subsec. (a)(3)(B). [Pub. L. 105–33, § 5613(a)(1)][/us/pl/105/33/s5613/a/1], (2), struck out “by the plan” after “to be provided” and inserted “and” at end.
+    Subsec. (a)(3)(B). [Pub. L. 105–33][/us/pl/105/33], § 5613(a)(1), (2), struck out “by the plan” after “to be provided” and inserted “and” at end.
 
-    Subsec. (a)(3)(C). [Pub. L. 105–33, § 5613(a)(3)][/us/pl/105/33/s5613/a/3], substituted a period for “, and” at end.
+    Subsec. (a)(3)(C). [Pub. L. 105–33][/us/pl/105/33], § 5613(a)(3), substituted a period for “, and” at end.
 
-    Subsec. (a)(3)(D). [Pub. L. 105–33, § 5613(a)(4)][/us/pl/105/33/s5613/a/4], struck out subpar. (D) which read as follows: “each plan to which such order applies.”
+    Subsec. (a)(3)(D). [Pub. L. 105–33][/us/pl/105/33], § 5613(a)(4), struck out subpar. (D) which read as follows: “each plan to which such order applies.”
 
-    Subsec. (a)(9). [Pub. L. 105–33, § 5611(b)][/us/pl/105/33/s5611/b], added par. (9).
+    Subsec. (a)(9). [Pub. L. 105–33][/us/pl/105/33], § 5611(b), added par. (9).
 
     1996—Subsec. (a)(2)(B). [Pub. L. 104–193][/us/pl/104/193] substituted “which—” for “issued by a court of competent jurisdiction which—” in introductory provisions, substituted a comma for a period at end of cl. (ii), and inserted concluding provisions after cl. (ii).
 
@@ -209,27 +209,27 @@
 
     Amendment by [section 401(h)(2)(A)(iii) of Pub. L. 105–200][/us/pl/105/200/s401/h/2/A/iii] effective as if included in the enactment of section 4301(c)(4)(A) of the Omnibus Budget Reconciliation Act of 1993, [Pub. L. 103–66][/us/pl/103/66], see [section 401(h)(2)(C) of Pub. L. 105–200][/us/pl/105/200/s401/h/2/C], set out as a note under [section 1144 of this title][/us/usc/t29/s1144].
 
-[Pub. L. 105–200, title IV, § 401(h)(3)(B)][/us/pl/105/200/s401/h/3/B], July 16, 1998, [112 Stat. 668][/us/stat/112/668], provided that: 
+[Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 401(h)(3)(B), July 16, 1998, [112 Stat. 668][/us/stat/112/668], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall be effective as if included in the enactment of section 5611(b) of the Balanced Budget Act of 1997 \[[Pub. L. 105–33][/us/pl/105/33]\].”
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–33, title V, § 5611(c)][/us/pl/105/33/s5611/c], Aug. 5, 1997, [111 Stat. 647][/us/stat/111/647], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5611(c), Aug. 5, 1997, [111 Stat. 647][/us/stat/111/647], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
-[Pub. L. 105–33, title V, § 5612(b)][/us/pl/105/33/s5612/b], Aug. 5, 1997, [111 Stat. 647][/us/stat/111/647], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5612(b), Aug. 5, 1997, [111 Stat. 647][/us/stat/111/647], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall be effective as if included in the enactment of section 381 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 ([Public Law 104–193][/us/pl/104/193]; [110 Stat. 2257][/us/stat/110/2257]).”
 
-[Pub. L. 105–33, title V, § 5613(c)][/us/pl/105/33/s5613/c], Aug. 5, 1997, [111 Stat. 648][/us/stat/111/648], provided that: 
+[Pub. L. 105–33, title V][/us/pl/105/33/tV], § 5613(c), Aug. 5, 1997, [111 Stat. 648][/us/stat/111/648], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to medical child support orders issued on or after the date of the enactment of this Act \[Aug. 5, 1997\].”
 
  __Effective Date of 1996 Amendment__ 
 
-[Pub. L. 104–193, title III, § 381(b)][/us/pl/104/193/s381/b], Aug. 22, 1996, [110 Stat. 2257][/us/stat/110/2257], provided that:
+[Pub. L. 104–193, title III][/us/pl/104/193/tIII], § 381(b), Aug. 22, 1996, [110 Stat. 2257][/us/stat/110/2257], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -249,7 +249,7 @@
 
  __National Medical Support Notices for Health Plans; Qualified Medical Child Support Orders__ 
 
-[Pub. L. 105–200, title IV, § 401(e)][/us/pl/105/200/s401/e]–(g), July 16, 1998, [112 Stat. 663–668][/us/stat/112/663-668], as amended by [Pub. L. 109–171, title VII, § 7307(a)(2)(B)][/us/pl/109/171/s7307/a/2/B], (C), Feb. 8, 2006, [120 Stat. 146][/us/stat/120/146], provided that:
+[Pub. L. 105–200, title IV][/us/pl/105/200/tIV], § 401(e)–(g), July 16, 1998, [112 Stat. 663–668][/us/stat/112/663-668], as amended by [Pub. L. 109–171, title VII][/us/pl/109/171/tVII], § 7307(a)(2)(B), (C), Feb. 8, 2006, [120 Stat. 146][/us/stat/120/146], provided that:
 
 >     “(e) __National Medical Support Notices for State or Local Governmental Group Health Plans.—__ 
 
@@ -431,14 +431,14 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1396s/h/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396s%2Fh%2F6
-[/us/pl/93/406/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs609
-[/us/pl/103/66/s4301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2Fs4301%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/103/66/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66%2FtIV
 [/us/stat/107/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F371
-[/us/pl/104/193/s381/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs381%2Fa
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2257
-[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F647
-[/us/pl/105/200/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fd
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/662]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F662
 [/us/pl/105/200/s401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fb
 [/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651
@@ -447,41 +447,41 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/105/200/s401/h/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fh%2F2%2FA%2Fiii
-[/us/pl/105/200/s401/h/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fh%2F2%2FB
-[/us/pl/105/200/s401/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fd
-[/us/pl/105/200/s401/h/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fh%2F3%2FA
-[/us/pl/105/33/s5613/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5613%2Fb
-[/us/pl/105/33/s5612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5612%2Fa
-[/us/pl/105/33/s5611/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5611%2Fa
-[/us/pl/105/33/s5613/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5613%2Fa%2F1
-[/us/pl/105/33/s5613/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5613%2Fa%2F3
-[/us/pl/105/33/s5613/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5613%2Fa%2F4
-[/us/pl/105/33/s5611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5611%2Fb
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
+[/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/105/200/s401/h/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fh%2F2%2FA%2Fiii
 [/us/pl/103/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F66
 [/us/pl/105/200/s401/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fh%2F2%2FC
 [/us/usc/t29/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144
-[/us/pl/105/200/s401/h/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fh%2F3%2FB
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F668
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/105/33/s5611/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5611%2Fc
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F647
-[/us/pl/105/33/s5612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5612%2Fb
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F647
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/stat/110/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2257
-[/us/pl/105/33/s5613/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5613%2Fc
+[/us/pl/105/33/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtV
 [/us/stat/111/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F648
-[/us/pl/104/193/s381/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs381%2Fb
+[/us/pl/104/193/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2FtIII
 [/us/stat/110/2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2257
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/pl/104/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193
 [/us/usc/t42/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs654
-[/us/pl/105/200/s401/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fe
+[/us/pl/105/200/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2FtIV
 [/us/stat/112/663-668]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F663-668
-[/us/pl/109/171/s7307/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2Fs7307%2Fa%2F2%2FB
+[/us/pl/109/171/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F171%2FtVII
 [/us/stat/120/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F146
 [/us/pl/105/200/s401/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F200%2Fs401%2Fb%2F2
 [/us/usc/t42/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs651

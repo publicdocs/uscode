@@ -25,7 +25,7 @@
 
     (e) As used in [section 255 of this title][/us/usc/t29/s255] the term “State” means any State of the United States or the District of Columbia or any Territory or possession of the United States.
 
-([May 14, 1947, ch. 52, § 13][/us/act/1947-05-14/ch52/s13], [61 Stat. 90][/us/stat/61/90].)
+([May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 13, [61 Stat. 90][/us/stat/61/90].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 [/us/stat/49/2036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F2036
 [/us/stat/49/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F1011
 [/us/usc/t29/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs255
-[/us/act/1947-05-14/ch52/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs13
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F90
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

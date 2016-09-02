@@ -39,7 +39,7 @@
 
     (2) not later than 2 years after the date on which the Commission first meets, prepare and submit, to the appropriate Committees of Congress, a report concerning the subjects listed in paragraph (1).
 
-([Pub. L. 103–3, title III, § 302][/us/pl/103/3/s302], Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23].)
+([Pub. L. 103–3, title III][/us/pl/103/3/tIII], § 302, Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23].)
 
  __References in Text__ 
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t29/s2618/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2618%2Fa
 [/us/usc/t29/s2614/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2614%2Fc%2F2
-[/us/pl/103/3/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs302
+[/us/pl/103/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIII
 [/us/stat/107/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F23
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6

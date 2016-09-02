@@ -17,7 +17,7 @@
 
     Agreements by employees purporting to waive or to modify their rights under this chapter shall be void as contrary to public policy, except that a waiver or modification of rights in favor of the Secretary shall be valid for purposes of enforcement of this chapter.
 
-([Pub. L. 97–470, title V, § 506][/us/pl/97/470/s506], Jan. 14, 1983, [96 Stat. 2598][/us/stat/96/2598].)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 506, Jan. 14, 1983, [96 Stat. 2598][/us/stat/96/2598].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs506
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2598
 
 

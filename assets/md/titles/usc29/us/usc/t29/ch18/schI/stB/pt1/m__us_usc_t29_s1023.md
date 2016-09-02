@@ -255,27 +255,27 @@
 
         With respect to any multiple employer plan, an annual report under this section for a plan year shall include a list of participating employers and a good faith estimate of the percentage of total contributions made by such participating employers during the plan year.
 
-([Pub. L. 93–406, title I, § 103][/us/pl/93/406/s103], Sept. 2, 1974, [88 Stat. 841][/us/stat/88/841]; [Pub. L. 96–364, title III, § 307][/us/pl/96/364/s307], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 99–272, title XI, § 11016(b)(1)][/us/pl/99/272/s11016/b/1], Apr. 7, 1986, [100 Stat. 272][/us/stat/100/272]; [Pub. L. 100–203, title IX, § 9342(a)(1)][/us/pl/100/203/s9342/a/1], Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371]; [Pub. L. 101–239, title VII, § 7881(j)(1)][/us/pl/101/239/s7881/j/1], Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 109–280, title I, § 108(a)(2)][/us/pl/109/280/s108/a/2], (3), formerly § 107(a)(2), (3), title V, § 503(a)(1), (b), Aug. 17, 2006, [120 Stat. 818][/us/stat/120/818], 942, 943, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 101(d)(1)(A)][/us/pl/110/458/s101/d/1/A], Dec. 23, 2008, [122 Stat. 5098][/us/stat/122/5098]; [Pub. L. 113–97, title I][/us/pl/113/97], §§ 102(b)(5), 104(c), Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116], 1121.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 103, Sept. 2, 1974, [88 Stat. 841][/us/stat/88/841]; [Pub. L. 96–364, title III][/us/pl/96/364/tIII], § 307, Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11016(b)(1), Apr. 7, 1986, [100 Stat. 272][/us/stat/100/272]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9342(a)(1), Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7881(j)(1), Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442]; [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 108(a)(2), (3), formerly § 107(a)(2), (3), title V, § 503(a)(1), (b), Aug. 17, 2006, [120 Stat. 818][/us/stat/120/818], 942, 943, renumbered [Pub. L. 111–192, title II][/us/pl/111/192/tII], § 202(a), June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 101(d)(1)(A), Dec. 23, 2008, [122 Stat. 5098][/us/stat/122/5098]; [Pub. L. 113–97, title I][/us/pl/113/97/tI], §§ 102(b)(5), 104(c), Apr. 7, 2014, [128 Stat. 1116][/us/stat/128/1116], 1121.)
 
  __Amendments__ 
 
-    2014—Subsec. (d)(8)(B). [Pub. L. 113–97, § 102(b)(5)][/us/pl/113/97/s102/b/5], substituted “sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title” for “sections 1083(h) and 1084(c)(3) of this title”.
+    2014—Subsec. (d)(8)(B). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(5), substituted “sections 1083(h), 1084(c)(3), and 1085a(c)(3) of this title” for “sections 1083(h) and 1084(c)(3) of this title”.
 
-    Subsec. (g). [Pub. L. 113–97, § 104(c)][/us/pl/113/97/s104/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 113–97][/us/pl/113/97], § 104(c), added subsec. (g).
 
-    2008—Subsec. (d)(3). [Pub. L. 110–458, § 101(d)(1)(A)(i)][/us/pl/110/458/s101/d/1/A/i], substituted “the normal costs or target normal costs, the accrued liabilities or funding target” for “the normal costs, the accrued liabilities”.
+    2008—Subsec. (d)(3). [Pub. L. 110–458][/us/pl/110/458], § 101(d)(1)(A)(i), substituted “the normal costs or target normal costs, the accrued liabilities or funding target” for “the normal costs, the accrued liabilities”.
 
-    Subsec. (d)(7). [Pub. L. 110–458, § 101(d)(1)(A)(ii)][/us/pl/110/458/s101/d/1/A/ii], added par. (7) and struck out former par. (7) which read as follows: “A certification of the contribution necessary to reduce the accumulated funding deficiency to zero.”
+    Subsec. (d)(7). [Pub. L. 110–458][/us/pl/110/458], § 101(d)(1)(A)(ii), added par. (7) and struck out former par. (7) which read as follows: “A certification of the contribution necessary to reduce the accumulated funding deficiency to zero.”
 
-    2006—Subsec. (a)(1)(B). [Pub. L. 109–280, § 503(a)(1)(A)][/us/pl/109/280/s503/a/1/A], substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)” in introductory provisions.
+    2006—Subsec. (a)(1)(B). [Pub. L. 109–280][/us/pl/109/280], § 503(a)(1)(A), substituted “subsections (d), (e), and (f)” for “subsections (d) and (e)” in introductory provisions.
 
-    Subsec. (d)(8)(B). [Pub. L. 109–280, § 108(a)(2)][/us/pl/109/280/s108/a/2], formerly § 107(a)(2), as renumbered by [Pub. L. 111–192][/us/pl/111/192], substituted “the applicable requirements of sections 1083(h) and 1084(c)(3)” for “the requirements of section 1082(c)(3)”.
+    Subsec. (d)(8)(B). [Pub. L. 109–280][/us/pl/109/280], § 108(a)(2), formerly § 107(a)(2), as renumbered by [Pub. L. 111–192][/us/pl/111/192], substituted “the applicable requirements of sections 1083(h) and 1084(c)(3)” for “the requirements of section 1082(c)(3)”.
 
-    Subsec. (d)(11). [Pub. L. 109–280, § 108(a)(3)][/us/pl/109/280/s108/a/3], formerly § 107(a)(3), as renumbered by [Pub. L. 111–192][/us/pl/111/192], added par. (11) and struck out former par. (11) which read as follows: “If the current value of the assets of the plan is less than 70 percent of the current liability under the plan (within the meaning of [section 1082(d)(7) of this title][/us/usc/t29/s1082/d/7]), the percentage which such value is of such liability..”
+    Subsec. (d)(11). [Pub. L. 109–280][/us/pl/109/280], § 108(a)(3), formerly § 107(a)(3), as renumbered by [Pub. L. 111–192][/us/pl/111/192], added par. (11) and struck out former par. (11) which read as follows: “If the current value of the assets of the plan is less than 70 percent of the current liability under the plan (within the meaning of [section 1082(d)(7) of this title][/us/usc/t29/s1082/d/7]), the percentage which such value is of such liability..”
 
-    Subsec. (d)(12) to (14). [Pub. L. 109–280, § 503(b)][/us/pl/109/280/s503/b], added par. (12) and redesignated former pars. (12) and (13) as (13) and (14), respectively.
+    Subsec. (d)(12) to (14). [Pub. L. 109–280][/us/pl/109/280], § 503(b), added par. (12) and redesignated former pars. (12) and (13) as (13) and (14), respectively.
 
-    Subsec. (f). [Pub. L. 109–280, § 503(a)(1)(B)][/us/pl/109/280/s503/a/1/B], added subsec. (f).
+    Subsec. (f). [Pub. L. 109–280][/us/pl/109/280], § 503(a)(1)(B), added subsec. (f).
 
     1989—Subsec. (d)(11). [Pub. L. 101–239][/us/pl/101/239] substituted “70 percent” for “60 percent” and “the percentage which such value is of such liability.” for “such percentage”.
 
@@ -325,7 +325,7 @@
 
  __Guidance by Secretary of Labor__ 
 
-[Pub. L. 109–280, title V, § 503(a)(2)][/us/pl/109/280/s503/a/2], Aug. 17, 2006, [120 Stat. 943][/us/stat/120/943], provided that: 
+[Pub. L. 109–280, title V][/us/pl/109/280/tV], § 503(a)(2), Aug. 17, 2006, [120 Stat. 943][/us/stat/120/943], provided that: 
 
 > “Not later than 1 year after the date of enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor shall publish guidance to assist multiemployer defined benefit plans to—
 
@@ -335,7 +335,7 @@
 
  __Transition Rules__ 
 
-[Pub. L. 99–272, title XI, § 11016(b)(3)][/us/pl/99/272/s11016/b/3], Apr. 7, 1986, [100 Stat. 273][/us/stat/100/273], provided that: 
+[Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11016(b)(3), Apr. 7, 1986, [100 Stat. 273][/us/stat/100/273], provided that: 
 
 > “Any regulations, modifications, or waivers which have been issued by the Secretary of Labor with respect to section 103(d)(6) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1023(d)(6)][/us/usc/t29/s1023/d/6]\] (as in effect immediately before the date of the enactment of this Act \[Apr. 7, 1986\]) shall remain in full force and effect until modified by any regulations with respect to such section 103(d)(6) prescribed by the Pension Benefit Guaranty Corporation.”
 
@@ -372,36 +372,36 @@
 [/us/usc/t26/s431/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs431%2Fd
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
-[/us/pl/93/406/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs103
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F841
-[/us/pl/96/364/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs307
+[/us/pl/96/364/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIII
 [/us/stat/94/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1295
-[/us/pl/99/272/s11016/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fb%2F1
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F272
-[/us/pl/100/203/s9342/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9342%2Fa%2F1
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-371
-[/us/pl/101/239/s7881/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fj%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2442
-[/us/pl/109/280/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fa%2F2
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F818
-[/us/pl/111/192/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fa
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
-[/us/pl/110/458/s101/d/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F1%2FA
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5098]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5098
-[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtI
 [/us/stat/128/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1116
-[/us/pl/113/97/s102/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F5
-[/us/pl/113/97/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs104%2Fc
-[/us/pl/110/458/s101/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F1%2FA%2Fi
-[/us/pl/110/458/s101/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fd%2F1%2FA%2Fii
-[/us/pl/109/280/s503/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs503%2Fa%2F1%2FA
-[/us/pl/109/280/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fa%2F2
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
-[/us/pl/109/280/s108/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fa%2F3
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
 [/us/usc/t29/s1082/d/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082%2Fd%2F7
-[/us/pl/109/280/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs503%2Fb
-[/us/pl/109/280/s503/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs503%2Fa%2F1%2FB
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
@@ -437,10 +437,10 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/109/280/s503/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs503%2Fa%2F2
+[/us/pl/109/280/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtV
 [/us/stat/120/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F943
 [/us/usc/t29/s1023/f/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1023%2Ff%2F2%2FD
-[/us/pl/99/272/s11016/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fb%2F3
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F273
 [/us/usc/t29/s1023/d/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1023%2Fd%2F6
 [/us/usc/t26/s6059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6059

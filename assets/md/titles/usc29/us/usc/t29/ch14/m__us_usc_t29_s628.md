@@ -17,7 +17,7 @@
 
     In accordance with the provisions of subchapter II of chapter 5 of title 5, the Equal Employment Opportunity Commission may issue such rules and regulations as it may consider necessary or appropriate for carrying out this chapter, and may establish such reasonable exemptions to and from any or all provisions of this chapter as it may find necessary and proper in the public interest.
 
-([Pub. L. 90–202, § 9][/us/pl/90/202/s9], Dec. 15, 1967, [81 Stat. 605][/us/stat/81/605]; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781].)
+([Pub. L. 90–202][/us/pl/90/202], § 9, Dec. 15, 1967, [81 Stat. 605][/us/stat/81/605]; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/202/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs9
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F605
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781

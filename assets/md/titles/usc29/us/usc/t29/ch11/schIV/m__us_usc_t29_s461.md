@@ -35,7 +35,7 @@
 
         Each individual required to sign a report under this section shall be personally responsible for the filing of such report and for any statement contained therein which he knows to be false.
 
-([Pub. L. 86–257, title III, § 301][/us/pl/86/257/s301], Sept. 14, 1959, [73 Stat. 530][/us/stat/73/530].)
+([Pub. L. 86–257, title III][/us/pl/86/257/tIII], § 301, Sept. 14, 1959, [73 Stat. 530][/us/stat/73/530].)
 
 ----------
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t29/s431/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs431%2Fb
-[/us/pl/86/257/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs301
+[/us/pl/86/257/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIII
 [/us/stat/73/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F530
 
 

@@ -35,7 +35,7 @@
 
         On the request of an individual, the Center shall remove all information relating to the individual from any registry established under subsection (a) of this section.
 
-([Pub. L. 98–221, title II, § 209][/us/pl/98/221/s209], as added [Pub. L. 105–220, title IV, § 412(c)][/us/pl/105/220/s412/c], Aug. 7, 1998, [112 Stat. 1241][/us/stat/112/1241].)
+([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 209, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 412(c), Aug. 7, 1998, [112 Stat. 1241][/us/stat/112/1241].)
 
 ----------
 
@@ -45,8 +45,8 @@
 ----------
 
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/pl/98/221/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs209
-[/us/pl/105/220/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs412%2Fc
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1241
 
 

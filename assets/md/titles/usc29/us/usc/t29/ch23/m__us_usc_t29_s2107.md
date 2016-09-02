@@ -19,7 +19,7 @@
 
     (b) The mailing of notice to an employee’s last known address or inclusion of notice in the employee’s paycheck will be considered acceptable methods for fulfillment of the employer’s obligation to give notice to each affected employee under this chapter.
 
-([Pub. L. 100–379, § 8][/us/pl/100/379/s8], Aug. 4, 1988, [102 Stat. 894][/us/stat/102/894].)
+([Pub. L. 100–379][/us/pl/100/379], § 8, Aug. 4, 1988, [102 Stat. 894][/us/stat/102/894].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/100/379/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379%2Fs8
+[/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F894
 
 

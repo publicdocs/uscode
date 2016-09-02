@@ -45,7 +45,7 @@
 
         The Secretary shall prepare and submit to the Committee on Education and the Workforce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate and make available to the public, a report on the activities carried out under this section.
 
-([Pub. L. 113–128, title II, § 243][/us/pl/113/128/s243], July 22, 2014, [128 Stat. 1623][/us/stat/128/1623].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 243, July 22, 2014, [128 Stat. 1623][/us/stat/128/1623].)
 
  __Effective Date__ 
 
@@ -60,7 +60,7 @@
 
 [/us/usc/t29/s3291/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3291%2Fa%2F2
 [/us/usc/t29/s3291/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3291%2Fa%2F2
-[/us/pl/113/128/s243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs243
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1623]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1623
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

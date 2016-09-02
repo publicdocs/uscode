@@ -19,7 +19,7 @@
 
     (b) Whoever shall be injured in his business or property by reason or  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “of”. </sup></sup>  any violation of subsection (a) may sue therefor in any district court of the United States subject to the limitations and provisions of [section 185 of this title][/us/usc/t29/s185] without respect to the amount in controversy, or in any other court having jurisdiction of the parties, and shall recover the damages by him sustained and the cost of the suit.
 
-([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title III, § 303, [61 Stat. 158][/us/stat/61/158]; [Pub. L. 86–257, title VII, § 704(e)][/us/pl/86/257/s704/e], Sept. 14, 1959, [73 Stat. 545][/us/stat/73/545].)
+([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title III, § 303, [61 Stat. 158][/us/stat/61/158]; [Pub. L. 86–257, title VII][/us/pl/86/257/tVII], § 704(e), Sept. 14, 1959, [73 Stat. 545][/us/stat/73/545].)
 
  __Amendments__ 
 
@@ -36,7 +36,7 @@
 [/us/usc/t29/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs185
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F158
-[/us/pl/86/257/s704/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs704%2Fe
+[/us/pl/86/257/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVII
 [/us/stat/73/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F545
 [/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/usc/t29/s158/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fb%2F4

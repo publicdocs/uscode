@@ -57,7 +57,7 @@
 
         This section does not apply with respect to an application for any plan received by the Secretary of the Treasury before the date on which [section 410 of title 26][/us/usc/t26/s410] applies to the plan, or on which such section will apply if the plan is determined by the Secretary to be a qualified plan.
 
-([Pub. L. 93–406, title III, § 3001][/us/pl/93/406/s3001], Sept. 2, 1974, [88 Stat. 995][/us/stat/88/995]; [Pub. L. 100–203, title IX, § 9343(b)][/us/pl/100/203/s9343/b], Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372]; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
+([Pub. L. 93–406, title III][/us/pl/93/406/tIII], § 3001, Sept. 2, 1974, [88 Stat. 995][/us/stat/88/995]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9343(b), Dec. 22, 1987, [101 Stat. 1330–372][/us/stat/101/1330-372]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
 
  __Amendments__ 
 
@@ -81,11 +81,11 @@
 [/us/usc/t26/s7476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7476
 [/us/usc/t26/s7476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7476
 [/us/usc/t26/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410
-[/us/pl/93/406/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs3001
+[/us/pl/93/406/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIII
 [/us/stat/88/995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F995
-[/us/pl/100/203/s9343/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9343%2Fb
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-372
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

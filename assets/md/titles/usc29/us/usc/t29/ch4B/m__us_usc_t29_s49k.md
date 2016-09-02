@@ -17,7 +17,7 @@
 
     The Secretary is authorized to make such rules and regulations as may be necessary to carry out the provisions of this chapter.
 
-([June 6, 1933, ch. 49, § 12][/us/act/1933-06-06/ch49/s12], [48 Stat. 117][/us/stat/48/117]; [Pub. L. 105–220, title III, § 308][/us/pl/105/220/s308], Aug. 7, 1998, [112 Stat. 1082][/us/stat/112/1082].)
+([June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 12, [48 Stat. 117][/us/stat/48/117]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 308, Aug. 7, 1998, [112 Stat. 1082][/us/stat/112/1082].)
 
  __Amendments__ 
 
@@ -34,9 +34,9 @@
 ----------
 ----------
 
-[/us/act/1933-06-06/ch49/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs12
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F117
-[/us/pl/105/220/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs308
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1082
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220

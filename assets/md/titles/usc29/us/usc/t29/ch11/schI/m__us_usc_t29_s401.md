@@ -27,7 +27,7 @@
 
         The Congress, therefore, further finds and declares that the enactment of this chapter is necessary to eliminate or prevent improper practices on the part of labor organizations, employers, labor relations consultants, and their officers and representatives which distort and defeat the policies of the Labor Management Relations Act, 1947, as amended \[[29 U.S.C. 141][/us/usc/t29/s141] et seq.\], and the Railway Labor Act, as amended \[[45 U.S.C. 151][/us/usc/t45/s151] et seq.\], and have the tendency or necessary effect of burdening or obstructing commerce by (1) impairing the efficiency, safety, or operation of the instrumentalities of commerce; (2) occurring in the current of commerce; (3) materially affecting, restraining, or controlling the flow of raw materials or manufactured or processed goods into or from the channels of commerce, or the prices of such materials or goods in commerce; or (4) causing diminution of employment and wages in such volume as substantially to impair or disrupt the market for goods flowing into or from the channels of commerce.
 
-([Pub. L. 86–257, § 2][/us/pl/86/257/s2], Sept. 14, 1959, [73 Stat. 519][/us/stat/73/519].)
+([Pub. L. 86–257][/us/pl/86/257], § 2, Sept. 14, 1959, [73 Stat. 519][/us/stat/73/519].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Short Title__ 
 
-[Pub. L. 86–257, § 1][/us/pl/86/257/s1], Sept. 14, 1959, [73 Stat. 519][/us/stat/73/519], provided that: 
+[Pub. L. 86–257][/us/pl/86/257], § 1, Sept. 14, 1959, [73 Stat. 519][/us/stat/73/519], provided that: 
 
 > “This Act \[enacting this chapter, amending sections 153, 158, 159, 160, 164, 186, and 187 of this title, and enacting provisions set out as notes under sections 153, 158, and 481 of this title\] may be cited as the ‘Labor-Management Reporting and Disclosure Act of 1959’.”
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t29/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs141
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/86/257/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs2
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/stat/73/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F519
 [/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/stat/73/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F519
@@ -62,7 +62,7 @@
 [/us/act/1926-05-20/ch347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347
 [/us/stat/44/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F577
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/86/257/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs1
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/stat/73/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F519
 
 

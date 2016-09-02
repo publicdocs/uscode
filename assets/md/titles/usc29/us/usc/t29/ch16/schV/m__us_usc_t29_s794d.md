@@ -117,27 +117,27 @@
 
         This section shall not be construed to limit any right, remedy, or procedure otherwise available under any provision of Federal law (including sections 791 through 794a of this title) that provides greater or equal protection for the rights of individuals with disabilities than this section.
 
-([Pub. L. 93–112, title V, § 508][/us/pl/93/112/s508], as added [Pub. L. 99–506, title VI, § 603(a)][/us/pl/99/506/s603/a], Oct. 21, 1986, [100 Stat. 1830][/us/stat/100/1830]; amended [Pub. L. 100–630, title II, § 206(f)][/us/pl/100/630/s206/f], Nov. 7, 1988, [102 Stat. 3312][/us/stat/102/3312]; [Pub. L. 102–569, title V, § 509(a)][/us/pl/102/569/s509/a], Oct. 29, 1992, [106 Stat. 4430][/us/stat/106/4430]; [Pub. L. 105–220, title IV, § 408(b)][/us/pl/105/220/s408/b], Aug. 7, 1998, [112 Stat. 1203][/us/stat/112/1203]; [Pub. L. 106–246, div. B, title II, § 2405][/us/pl/106/246/s2405], July 13, 2000, [114 Stat. 555][/us/stat/114/555].)
+([Pub. L. 93–112, title V][/us/pl/93/112/tV], § 508, as added [Pub. L. 99–506, title VI][/us/pl/99/506/tVI], § 603(a), Oct. 21, 1986, [100 Stat. 1830][/us/stat/100/1830]; amended [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 206(f), Nov. 7, 1988, [102 Stat. 3312][/us/stat/102/3312]; [Pub. L. 102–569, title V][/us/pl/102/569/tV], § 509(a), Oct. 29, 1992, [106 Stat. 4430][/us/stat/106/4430]; [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 408(b), Aug. 7, 1998, [112 Stat. 1203][/us/stat/112/1203]; [Pub. L. 106–246, div. B, title II][/us/pl/106/246/dB/tII], § 2405, July 13, 2000, [114 Stat. 555][/us/stat/114/555].)
 
  __Codification__ 
 
-    “[Section 11101(6) of title 40][/us/usc/t40/s11101/6]” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401(3)][/us/usc/t40/s1401/3])” and “[section 11103(a) of title 40][/us/usc/t40/s11103/a]” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1452][/us/usc/t40/s1452])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
+    “[Section 11101(6) of title 40][/us/usc/t40/s11101/6]” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1401(3)][/us/usc/t40/s1401/3])” and “[section 11103(a) of title 40][/us/usc/t40/s11103/a]” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 ([40 U.S.C. 1452][/us/usc/t40/s1452])” on authority of [Pub. L. 107–217][/us/pl/107/217], § 5(c), Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
 
-    2000—Subsec. (f)(1)(A). [Pub. L. 106–246, § 2405(1)][/us/pl/106/246/s2405/1], substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
+    2000—Subsec. (f)(1)(A). [Pub. L. 106–246][/us/pl/106/246], § 2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
 
-    Subsec. (f)(1)(B). [Pub. L. 106–246, § 2405(2)][/us/pl/106/246/s2405/2], substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
+    Subsec. (f)(1)(B). [Pub. L. 106–246][/us/pl/106/246], § 2405(2), substituted “6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section.” for “2 years after August 7, 1998.”
 
     1998—[Pub. L. 105–220][/us/pl/105/220] amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) and (b) relating to electronic and information technology accessibility guidelines.
 
     1992—[Pub. L. 102–569][/us/pl/102/569] amended section generally, substituting present provisions for provisions relating to electronic equipment accessibility guidelines, in consultation with electronic industry, designed to insure individuals with handicaps use of electronic office equipment with or without special peripherals, requiring the Administrator of General Services to adopt guidelines for electronic equipment accessibility established under this section for Federal procurement of electronic equipment, and defining term “special peripherals”.
 
-    1988—Subsec. (a)(1). [Pub. L. 100–630, § 206(f)(1)][/us/pl/100/630/s206/f/1], inserted “the Director of” before “the National Institute”, struck out “the” before “General Services”, and substituted “individuals with handicaps” for “handicapped individuals”.
+    1988—Subsec. (a)(1). [Pub. L. 100–630][/us/pl/100/630], § 206(f)(1), inserted “the Director of” before “the National Institute”, struck out “the” before “General Services”, and substituted “individuals with handicaps” for “handicapped individuals”.
 
-    Subsec. (a)(3). [Pub. L. 100–630, § 206(f)(2)][/us/pl/100/630/s206/f/2], inserted “by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees” after “revised”.
+    Subsec. (a)(3). [Pub. L. 100–630][/us/pl/100/630], § 206(f)(2), inserted “by the Director of the National Institute on Disability and Rehabilitation Research and the Administrator of General Services in consultation with the electronics industry and the Interagency Committee for Computer Support of Handicapped Employees” after “revised”.
 
-    Subsec. (c). [Pub. L. 100–630, § 206(f)(3)][/us/pl/100/630/s206/f/3], substituted “an individual with handicaps” for “a handicapped individual”.
+    Subsec. (c). [Pub. L. 100–630][/us/pl/100/630], § 206(f)(3), substituted “an individual with handicaps” for “a handicapped individual”.
 
 ----------
 
@@ -149,29 +149,29 @@
 [/us/usc/t40/s11101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101%2F6
 [/us/usc/t40/s11103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11103%2Fa
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/93/112/s508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs508
-[/us/pl/99/506/s603/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs603%2Fa
+[/us/pl/93/112/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtV
+[/us/pl/99/506/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtVI
 [/us/stat/100/1830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1830
-[/us/pl/100/630/s206/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Ff
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3312
-[/us/pl/102/569/s509/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs509%2Fa
+[/us/pl/102/569/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtV
 [/us/stat/106/4430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4430
-[/us/pl/105/220/s408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fb
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1203
-[/us/pl/106/246/s2405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2405
+[/us/pl/106/246/dB/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2FdB%2FtII
 [/us/stat/114/555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F555
 [/us/usc/t40/s11101/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11101%2F6
 [/us/usc/t40/s1401/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1401%2F3
 [/us/usc/t40/s11103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11103%2Fa
 [/us/usc/t40/s1452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1452
-[/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
+[/us/pl/107/217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
-[/us/pl/106/246/s2405/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2405%2F1
-[/us/pl/106/246/s2405/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246%2Fs2405%2F2
+[/us/pl/106/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246
+[/us/pl/106/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F246
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
-[/us/pl/100/630/s206/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Ff%2F1
-[/us/pl/100/630/s206/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Ff%2F2
-[/us/pl/100/630/s206/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Ff%2F3
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
 
 

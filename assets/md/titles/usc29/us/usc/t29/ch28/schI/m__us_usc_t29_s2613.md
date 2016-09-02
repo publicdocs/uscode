@@ -69,15 +69,15 @@
 
         An employer may require that a request for leave under [section 2612(a)(1)(E) of this title][/us/usc/t29/s2612/a/1/E] be supported by a certification issued at such time and in such manner as the Secretary may by regulation prescribe. If the Secretary issues a regulation requiring such certification, the employee shall provide, in a timely manner, a copy of such certification to the employer.
 
-([Pub. L. 103–3, title I, § 103][/us/pl/103/3/s103], Feb. 5, 1993, [107 Stat. 11][/us/stat/107/11]; [Pub. L. 110–181, div. A, title V, § 585(a)(3)(E)][/us/pl/110/181/s585/a/3/E], Jan. 28, 2008, [122 Stat. 130][/us/stat/122/130]; [Pub. L. 111–84, div. A, title V, § 565(a)(1)(C)][/us/pl/111/84/s565/a/1/C], Oct. 28, 2009, [123 Stat. 2310][/us/stat/123/2310].)
+([Pub. L. 103–3, title I][/us/pl/103/3/tI], § 103, Feb. 5, 1993, [107 Stat. 11][/us/stat/107/11]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 585(a)(3)(E), Jan. 28, 2008, [122 Stat. 130][/us/stat/122/130]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 565(a)(1)(C), Oct. 28, 2009, [123 Stat. 2310][/us/stat/123/2310].)
 
  __Amendments__ 
 
     2009—Subsec. (f). [Pub. L. 111–84][/us/pl/111/84] substituted “covered active duty” for “active duty” in two places in heading.
 
-    2008—Subsec. (a). [Pub. L. 110–181, § 585(a)(3)(E)(i)][/us/pl/110/181/s585/a/3/E/i], substituted “paragraph (1) or paragraph (3) of section 2612(a)” for “section 2612(a)(1)” and inserted “or of the next of kin of an individual in the case of leave taken under such paragraph (3),” after “parent of the employee,”.
+    2008—Subsec. (a). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(E)(i), substituted “paragraph (1) or paragraph (3) of section 2612(a)” for “section 2612(a)(1)” and inserted “or of the next of kin of an individual in the case of leave taken under such paragraph (3),” after “parent of the employee,”.
 
-    Subsec. (f). [Pub. L. 110–181, § 585(a)(3)(E)(ii)][/us/pl/110/181/s585/a/3/E/ii], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(E)(ii), added subsec. (f).
 
 ----------
 
@@ -93,14 +93,14 @@
 [/us/usc/t29/s2612/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2612%2Fa%2F1%2FC
 [/us/usc/t29/s2612/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2612%2Fa%2F1
 [/us/usc/t29/s2612/a/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2612%2Fa%2F1%2FE
-[/us/pl/103/3/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs103
+[/us/pl/103/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtI
 [/us/stat/107/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F11
-[/us/pl/110/181/s585/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FE
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F130
-[/us/pl/111/84/s565/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FC
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2310
 [/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
-[/us/pl/110/181/s585/a/3/E/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FE%2Fi
-[/us/pl/110/181/s585/a/3/E/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FE%2Fii
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

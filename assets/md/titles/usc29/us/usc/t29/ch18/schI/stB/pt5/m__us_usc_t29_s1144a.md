@@ -55,7 +55,7 @@
 
         Except as provided in subsection (d) of this section, the application of this section is limited to determining the status of a church plan that is a welfare plan under the provisions of State insurance laws described in subsection (b) of this section. This section shall not otherwise be construed to recharacterize the status, or modify or affect the rights, of any plan participant or beneficiary, including participants or beneficiaries who make plan contributions.
 
-([Pub. L. 106–244, § 2][/us/pl/106/244/s2], July 10, 2000, [114 Stat. 499][/us/stat/114/499].)
+([Pub. L. 106–244][/us/pl/106/244], § 2, July 10, 2000, [114 Stat. 499][/us/stat/114/499].)
 
  __Codification__ 
 
@@ -63,7 +63,7 @@
 
  __Purpose__ 
 
-[Pub. L. 106–244, § 1][/us/pl/106/244/s1], July 10, 2000, [114 Stat. 499][/us/stat/114/499], provided that: 
+[Pub. L. 106–244][/us/pl/106/244], § 1, July 10, 2000, [114 Stat. 499][/us/stat/114/499], provided that: 
 
 > “The purpose of this Act \[enacting this section\] is only to clarify the application to a church plan that is a welfare plan of State insurance laws that require or solely relate to licensing, solvency, insolvency, or the status of such plan as a single employer plan.”
 
@@ -80,9 +80,9 @@
 [/us/usc/t29/s1002/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F33
 [/us/usc/t26/s9832/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9832%2Fb%2F2
 [/us/usc/t26/s9832/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9832%2Fb%2F3
-[/us/pl/106/244/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F244%2Fs2
+[/us/pl/106/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F244
 [/us/stat/114/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F499
-[/us/pl/106/244/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F244%2Fs1
+[/us/pl/106/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F244
 [/us/stat/114/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F499
 
 

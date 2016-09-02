@@ -17,7 +17,7 @@
 
     The principal office of the Board shall be in the District of Columbia, but it may meet and exercise any or all of its powers at any other place. The Board may, by one or more of its members or by such agents or agencies as it may designate, prosecute any inquiry necessary to its functions in any part of the United States. A member who participates in such an inquiry shall not be disqualified from subsequently participating in a decision of the Board in the same case.
 
-([July 5, 1935, ch. 372, § 5][/us/act/1935-07-05/ch372/s5], [49 Stat. 452][/us/stat/49/452]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 140][/us/stat/61/140].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 5, [49 Stat. 452][/us/stat/49/452]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 140][/us/stat/61/140].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1935-07-05/ch372/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs5
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F452
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F140

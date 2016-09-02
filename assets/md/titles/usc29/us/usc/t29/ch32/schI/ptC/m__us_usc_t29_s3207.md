@@ -41,7 +41,7 @@
 
         Personnel of the uniformed services who are detailed or assigned to duty in the performance of agreements made by the Secretary for the support of the Job Corps shall not be counted in computing strength under any law limiting the strength of such services or in computing the percentage authorized by law for any grade in such services.
 
-([Pub. L. 113–128, title I, § 157][/us/pl/113/128/s157], July 22, 2014, [128 Stat. 1552][/us/stat/128/1552].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 157, July 22, 2014, [128 Stat. 1552][/us/stat/128/1552].)
 
  __References in Text__ 
 
@@ -63,7 +63,7 @@
 [/us/usc/t5/s8101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8101
 [/us/usc/t5/s8143/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8143%2Fa
 [/us/usc/t28/s2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2672
-[/us/pl/113/128/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs157
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1552
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

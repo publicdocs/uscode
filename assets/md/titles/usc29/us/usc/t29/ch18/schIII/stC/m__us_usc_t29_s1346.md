@@ -29,13 +29,13 @@
 
     (6) any other information with respect to the plan the trustee may require in order to terminate the plan.
 
-([Pub. L. 93–406, title IV, § 4046][/us/pl/93/406/s4046], Sept. 2, 1974, [88 Stat. 1028][/us/stat/88/1028]; [Pub. L. 96–364, title IV, § 403(e)][/us/pl/96/364/s403/e], Sept. 26, 1980, [94 Stat. 1301][/us/stat/94/1301].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4046, Sept. 2, 1974, [88 Stat. 1028][/us/stat/88/1028]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 403(e), Sept. 26, 1980, [94 Stat. 1301][/us/stat/94/1301].)
 
  __Amendments__ 
 
-    1980—Par. (2). [Pub. L. 96–364, § 403(e)(1)][/us/pl/96/364/s403/e/1], inserted “basic” before “benefits” and “or 1322a” after “1322”.
+    1980—Par. (2). [Pub. L. 96–364][/us/pl/96/364], § 403(e)(1), inserted “basic” before “benefits” and “or 1322a” after “1322”.
 
-    Par. (3). [Pub. L. 96–364, § 403(e)][/us/pl/96/364/s403/e], inserted “basic” before “benefits” and “or 1322a” after “1322”, and substituted “1322b” for “1322(b)(5)”.
+    Par. (3). [Pub. L. 96–364][/us/pl/96/364], § 403(e), inserted “basic” before “benefits” and “or 1322a” after “1322”, and substituted “1322b” for “1322(b)(5)”.
 
  __Effective Date of 1980 Amendment__ 
 
@@ -50,12 +50,12 @@
 
 [/us/usc/t29/s1322b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322b
 [/us/usc/t29/s1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1344
-[/us/pl/93/406/s4046]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4046
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1028
-[/us/pl/96/364/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs403%2Fe
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1301
-[/us/pl/96/364/s403/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs403%2Fe%2F1
-[/us/pl/96/364/s403/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs403%2Fe
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 

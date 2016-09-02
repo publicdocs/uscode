@@ -17,7 +17,7 @@
 
     Any person whose rights secured by the provisions of this subchapter have been infringed by any violation of this subchapter may bring a civil action in a district court of the United States for such relief (including injunctions) as may be appropriate. Any such action against a labor organization shall be brought in the district court of the United States for the district where the alleged violation occurred, or where the principal office of such labor organization is located.
 
-([Pub. L. 86–257, title I, § 102][/us/pl/86/257/s102], Sept. 14, 1959, [73 Stat. 523][/us/stat/73/523].)
+([Pub. L. 86–257, title I][/us/pl/86/257/tI], § 102, Sept. 14, 1959, [73 Stat. 523][/us/stat/73/523].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs102
+[/us/pl/86/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtI
 [/us/stat/73/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F523
 
 

@@ -91,23 +91,23 @@
 
         (4) No waiver agreement may affect the Commission’s rights and responsibilities to enforce this chapter. No waiver may be used to justify interfering with the protected right of an employee to file a charge or participate in an investigation or proceeding conducted by the Commission.
 
-([Pub. L. 90–202, § 7][/us/pl/90/202/s7], Dec. 15, 1967, [81 Stat. 604][/us/stat/81/604]; [Pub. L. 95–256, § 4(a)][/us/pl/95/256/s4/a], (b)(1), (c)(1), Apr. 6, 1978, [92 Stat. 190][/us/stat/92/190], 191; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 101–433, title II, § 201][/us/pl/101/433/s201], Oct. 16, 1990, [104 Stat. 983][/us/stat/104/983]; [Pub. L. 102–166, title I, § 115][/us/pl/102/166/s115], Nov. 21, 1991, [105 Stat. 1079][/us/stat/105/1079]; [Pub. L. 111–2, § 4][/us/pl/111/2/s4], Jan. 29, 2009, [123 Stat. 6][/us/stat/123/6].)
+([Pub. L. 90–202][/us/pl/90/202], § 7, Dec. 15, 1967, [81 Stat. 604][/us/stat/81/604]; [Pub. L. 95–256][/us/pl/95/256], § 4(a), (b)(1), (c)(1), Apr. 6, 1978, [92 Stat. 190][/us/stat/92/190], 191; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 101–433, title II][/us/pl/101/433/tII], § 201, Oct. 16, 1990, [104 Stat. 983][/us/stat/104/983]; [Pub. L. 102–166, title I][/us/pl/102/166/tI], § 115, Nov. 21, 1991, [105 Stat. 1079][/us/stat/105/1079]; [Pub. L. 111–2][/us/pl/111/2], § 4, Jan. 29, 2009, [123 Stat. 6][/us/stat/123/6].)
 
  __Amendments__ 
 
-    2009—Subsec. (d). [Pub. L. 111–2, § 4(1)(B)][/us/pl/111/2/s4/1/B]–(3), inserted “(1)” before “No civil” and “(2)” before “Upon receiving” and added par. (3).
+    2009—Subsec. (d). [Pub. L. 111–2][/us/pl/111/2], § 4(1)(B)–(3), inserted “(1)” before “No civil” and “(2)” before “Upon receiving” and added par. (3).
 
-    [Pub. L. 111–2, § 4(1)(A)][/us/pl/111/2/s4/1/A], which directed amendment of first sentence by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, was executed by making the redesignation in the second sentence to reflect the probable intent of Congress.
+    [Pub. L. 111–2][/us/pl/111/2], § 4(1)(A), which directed amendment of first sentence by redesignating pars. (1) and (2) as subpars. (A) and (B), respectively, was executed by making the redesignation in the second sentence to reflect the probable intent of Congress.
 
     1991—Subsec. (e). [Pub. L. 102–166][/us/pl/102/166] struck out par. (1) designation, substituted “Section” for “Sections 255 and”, inserted at end “If a charge filed with the Commission under this chapter is dismissed or the proceedings of the Commission are otherwise terminated by the Commission, the Commission shall notify the person aggrieved. A civil action may be brought under this section by a person defined in [section 630(a) of this title][/us/usc/t29/s630/a] against the respondent named in the charge within 90 days after the date of the receipt of such notice.”, and struck out par. (2) which read as follows: “For the period during which the Equal Employment Opportunity Commission is attempting to effect voluntary compliance with requirements of this chapter through informal methods of conciliation, conference, and persuasion pursuant to subsection (b), the statute of limitations as provided in [section 255 of this title][/us/usc/t29/s255] shall be tolled, but in no event for a period in excess of one year.”
 
     1990—Subsec. (f). [Pub. L. 101–433][/us/pl/101/433] added subsec. (f).
 
-    1978—Subsec. (c). [Pub. L. 95–256, § 4(a)][/us/pl/95/256/s4/a], designated existing provisions as par. (1) and added par. (2).
+    1978—Subsec. (c). [Pub. L. 95–256][/us/pl/95/256], § 4(a), designated existing provisions as par. (1) and added par. (2).
 
-    Subsec. (d). [Pub. L. 95–256, § 4(b)(1)][/us/pl/95/256/s4/b/1], substituted references to the filing of a charge with the Secretary alleging unlawful discrimination for references to the filing with the Secretary of notice of intent to sue.
+    Subsec. (d). [Pub. L. 95–256][/us/pl/95/256], § 4(b)(1), substituted references to the filing of a charge with the Secretary alleging unlawful discrimination for references to the filing with the Secretary of notice of intent to sue.
 
-    Subsec. (e). [Pub. L. 95–256, § 4(c)(1)][/us/pl/95/256/s4/c/1], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (e). [Pub. L. 95–256][/us/pl/95/256], § 4(c)(1), designated existing provisions as par. (1) and added par. (2).
 
  __Effective Date of 2009 Amendment__ 
 
@@ -119,17 +119,17 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–433, title II, § 202(a)][/us/pl/101/433/s202/a], Oct. 16, 1990, [104 Stat. 984][/us/stat/104/984], provided that: 
+[Pub. L. 101–433, title II][/us/pl/101/433/tII], § 202(a), Oct. 16, 1990, [104 Stat. 984][/us/stat/104/984], provided that: 
 
 > “The amendment made by section 201 \[amending this section\] shall not apply with respect to waivers that occur before the date of enactment of this Act \[Oct. 16, 1990\].”
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–256, § 4(b)(2)][/us/pl/95/256/s4/b/2], Apr. 6, 1978, [92 Stat. 190][/us/stat/92/190], provided that: 
+[Pub. L. 95–256][/us/pl/95/256], § 4(b)(2), Apr. 6, 1978, [92 Stat. 190][/us/stat/92/190], provided that: 
 
 > “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect with respect to civil actions brought after the date of enactment of this Act \[Apr. 6, 1978\].”
 
-[Pub. L. 95–256, § 4(c)(2)][/us/pl/95/256/s4/c/2], Apr. 6, 1978, [92 Stat. 191][/us/stat/92/191], provided that: 
+[Pub. L. 95–256][/us/pl/95/256], § 4(c)(2), Apr. 6, 1978, [92 Stat. 191][/us/stat/92/191], provided that: 
 
 > “The amendment made by paragraph (1) of this subsection \[amending this section\] shall take effect with respect to conciliations commenced by the Secretary of Labor after the date of enactment of this Act \[Apr. 6, 1978\].”
 
@@ -139,13 +139,13 @@
 
  __Rule on Waivers__ 
 
-[Pub. L. 101–433, title II, § 202(b)][/us/pl/101/433/s202/b], Oct. 16, 1990, [104 Stat. 984][/us/stat/104/984], provided that: 
+[Pub. L. 101–433, title II][/us/pl/101/433/tII], § 202(b), Oct. 16, 1990, [104 Stat. 984][/us/stat/104/984], provided that: 
 
 > “Effective on the date of enactment of this Act \[Oct. 16, 1990\], the rule on waivers issued by the Equal Employment Opportunity Commission and contained in section 1627.16(c) of title 29, Code of Federal Regulations, shall have no force and effect.”
 
  __Age Discrimination Claims Assistance__ 
 
-    [Pub. L. 100–283][/us/pl/100/283], Apr. 7, 1988, [102 Stat. 78][/us/stat/102/78], as amended by [Pub. L. 101–504, § 2][/us/pl/101/504/s2], Nov. 3, 1990, [104 Stat. 1298][/us/stat/104/1298], provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period was applicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
+    [Pub. L. 100–283][/us/pl/100/283], Apr. 7, 1988, [102 Stat. 78][/us/stat/102/78], as amended by [Pub. L. 101–504][/us/pl/101/504], § 2, Nov. 3, 1990, [104 Stat. 1298][/us/stat/104/1298], provided extension period for filing civil actions under this section, such period consisting of 450 days beginning on Apr. 7, 1988, in cases where a charge was timely filed with the Equal Employment Opportunity Commission after Dec. 31, 1983, and 450 days beginning on Nov. 3, 1990, in cases where a charge was timely filed after Apr. 6, 1985, but the Commission did not, within the applicable period set forth in subsec. (e) of this section either eliminate the alleged unlawful practice or notify the complainant, in writing, of the disposition of the charge and of right of such person to bring civil action on such claim; required the Commission to provide notice regarding claims for which extension period was applicable; and required the Commission to submit reports to Congress containing, among other things, information as to number of persons eligible for extension period and number of persons who were provided notice regarding claims for which extension period was provided.
 
 ----------
 
@@ -159,44 +159,44 @@
 [/us/usc/t29/s633/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs633%2Fb
 [/us/usc/t29/s259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs259
 [/us/usc/t29/s630/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs630%2Fa
-[/us/pl/90/202/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs7
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F604
-[/us/pl/95/256/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs4%2Fa
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/stat/92/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F190
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
-[/us/pl/101/433/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F433%2Fs201
+[/us/pl/101/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F433%2FtII
 [/us/stat/104/983]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F983
-[/us/pl/102/166/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs115
+[/us/pl/102/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2FtI
 [/us/stat/105/1079]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1079
-[/us/pl/111/2/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs4
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/stat/123/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F6
-[/us/pl/111/2/s4/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs4%2F1%2FB
-[/us/pl/111/2/s4/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs4%2F1%2FA
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/usc/t29/s630/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs630%2Fa
 [/us/usc/t29/s255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs255
 [/us/pl/101/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F433
-[/us/pl/95/256/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs4%2Fa
-[/us/pl/95/256/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs4%2Fb%2F1
-[/us/pl/95/256/s4/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs4%2Fc%2F1
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/pl/111/2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs6
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
 [/us/pl/102/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166
 [/us/pl/102/166/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs402
 [/us/usc/t42/s1981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1981
-[/us/pl/101/433/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F433%2Fs202%2Fa
+[/us/pl/101/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F433%2FtII
 [/us/stat/104/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F984
-[/us/pl/95/256/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs4%2Fb%2F2
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/stat/92/190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F190
-[/us/pl/95/256/s4/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs4%2Fc%2F2
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/stat/92/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F191
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
-[/us/pl/101/433/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F433%2Fs202%2Fb
+[/us/pl/101/433/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F433%2FtII
 [/us/stat/104/984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F984
 [/us/pl/100/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F283
 [/us/stat/102/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F78
-[/us/pl/101/504/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F504%2Fs2
+[/us/pl/101/504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F504
 [/us/stat/104/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1298
 
 

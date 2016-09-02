@@ -205,7 +205,7 @@
 
             (B) was acquired after December 17, 1987, pursuant to a legally binding contract in effect on December 17, 1987, and has been so held at all times after the acquisition.
 
-([Pub. L. 93–406, title I, § 407][/us/pl/93/406/s407], Sept. 2, 1974, [88 Stat. 880][/us/stat/88/880]; [Pub. L. 100–203, title IX, § 9345(a)(1)][/us/pl/100/203/s9345/a/1], (2), (b), Dec. 22, 1987, [101 Stat. 1330–373][/us/stat/101/1330-373]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2445, 2450; [Pub. L. 101–540, § 1][/us/pl/101/540/s1], Nov. 8, 1990, [104 Stat. 2379][/us/stat/104/2379]; [Pub. L. 105–34, title XV, § 1524(a)][/us/pl/105/34/s1524/a], Aug. 5, 1997, [111 Stat. 1071][/us/stat/111/1071]; [Pub. L. 109–280, title IX, § 901(b)(2)][/us/pl/109/280/s901/b/2], Aug. 17, 2006, [120 Stat. 1032][/us/stat/120/1032].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 407, Sept. 2, 1974, [88 Stat. 880][/us/stat/88/880]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9345(a)(1), (2), (b), Dec. 22, 1987, [101 Stat. 1330–373][/us/stat/101/1330-373]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7881(l)(1)–(4), 7891(a)(1), 7894(e)(2), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2445, 2450; [Pub. L. 101–540][/us/pl/101/540], § 1, Nov. 8, 1990, [104 Stat. 2379][/us/stat/104/2379]; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1524(a), Aug. 5, 1997, [111 Stat. 1071][/us/stat/111/1071]; [Pub. L. 109–280, title IX][/us/pl/109/280/tIX], § 901(b)(2), Aug. 17, 2006, [120 Stat. 1032][/us/stat/120/1032].)
 
  __References in Text__ 
 
@@ -219,25 +219,25 @@
 
     1990—Subsec. (d)(5). [Pub. L. 101–540][/us/pl/101/540] amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘qualifying employer security’ means an employer security which is stock or a marketable obligation (as defined in subsection (e) of this section). After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
 
-    1989—Subsec. (d)(3)(A), (6)(A), (7). [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    1989—Subsec. (d)(3)(A), (6)(A), (7). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    Subsec. (d)(3)(C). [Pub. L. 101–239, § 7881][/us/pl/101/239/s7881](l)(1), realigned margin.
+    Subsec. (d)(3)(C). [Pub. L. 101–239][/us/pl/101/239], § 7881(l)(1), realigned margin.
 
-    Subsec. (d)(6)(A). [Pub. L. 101–239, § 7894(e)(2)][/us/pl/101/239/s7894/e/2], substituted “money purchase plan” for “money purchase” and “employer securities” for “employee securities”.
+    Subsec. (d)(6)(A). [Pub. L. 101–239][/us/pl/101/239], § 7894(e)(2), substituted “money purchase plan” for “money purchase” and “employer securities” for “employee securities”.
 
-    Subsec. (d)(9). [Pub. L. 101–239, § 7881][/us/pl/101/239/s7881](l)(2), substituted “such individual account plan” for “such arrangement” and realigned margin.
+    Subsec. (d)(9). [Pub. L. 101–239][/us/pl/101/239], § 7881(l)(2), substituted “such individual account plan” for “such arrangement” and realigned margin.
 
-    Subsec. (f)(1). [Pub. L. 101–239, § 7881][/us/pl/101/239/s7881](l)(3)(A), (4), substituted “paragraph” for “subsection” and “if, immediately following the acquisition of such stock” for “if”.
+    Subsec. (f)(1). [Pub. L. 101–239][/us/pl/101/239], § 7881(l)(3)(A), (4), substituted “paragraph” for “subsection” and “if, immediately following the acquisition of such stock” for “if”.
 
-    Subsec. (f)(3). [Pub. L. 101–239, § 7881][/us/pl/101/239/s7881](l)(3)(B), struck out par. (3) which read as follows: “After December 17, 1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date.”
+    Subsec. (f)(3). [Pub. L. 101–239][/us/pl/101/239], § 7881(l)(3)(B), struck out par. (3) which read as follows: “After December 17, 1987, no plan may acquire stock which does not satisfy the requirements of paragraph (1) unless the acquisition is made pursuant to a legally binding contract in effect on such date.”
 
-    1987—Subsec. (d)(3)(C). [Pub. L. 100–203, § 9345(a)(1)][/us/pl/100/203/s9345/a/1], added subpar. (C).
+    1987—Subsec. (d)(3)(C). [Pub. L. 100–203][/us/pl/100/203], § 9345(a)(1), added subpar. (C).
 
-    Subsec. (d)(5). [Pub. L. 100–203, § 9345(b)(1)][/us/pl/100/203/s9345/b/1], inserted at end “After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
+    Subsec. (d)(5). [Pub. L. 100–203][/us/pl/100/203], § 9345(b)(1), inserted at end “After December 17, 1987, in the case of a plan other than an eligible individual account plan, stock shall be considered a qualifying employer security only if such stock satisfies the requirements of subsection (f)(1) of this section.”
 
-    Subsec. (d)(9). [Pub. L. 100–203, § 9345(a)(2)][/us/pl/100/203/s9345/a/2], added par. (9).
+    Subsec. (d)(9). [Pub. L. 100–203][/us/pl/100/203], § 9345(a)(2), added par. (9).
 
-    Subsec. (f). [Pub. L. 100–203, § 9345(b)(2)][/us/pl/100/203/s9345/b/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 100–203][/us/pl/100/203], § 9345(b)(2), added subsec. (f).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -245,7 +245,7 @@
 
  __Effective Date of 1997 Amendment__ 
 
-[Pub. L. 105–34, title XV, § 1524(b)][/us/pl/105/34/s1524/b], Aug. 5, 1997, [111 Stat. 1072][/us/stat/111/1072], as amended by [Pub. L. 107–16, title VI, § 655(a)][/us/pl/107/16/s655/a], June 7, 2001, [115 Stat. 131][/us/stat/115/131], provided that:
+[Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1524(b), Aug. 5, 1997, [111 Stat. 1072][/us/stat/111/1072], as amended by [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 655(a), June 7, 2001, [115 Stat. 131][/us/stat/115/131], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -255,7 +255,7 @@
 
 >     The amendments made by this section shall not apply to any elective deferral which is invested in assets consisting of qualifying employer securities, qualifying employer real property, or both, if such assets were acquired before January 1, 1999.”
 
-\[[Pub. L. 107–16, title VI, § 655(b)][/us/pl/107/16/s655/b], June 7, 2001, [115 Stat. 131][/us/stat/115/131], provided that: 
+\[[Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 655(b), June 7, 2001, [115 Stat. 131][/us/stat/115/131], provided that: 
 
 > “The amendment made by this section \[amending [section 1524(b) of Pub. L. 105–34][/us/pl/105/34/s1524/b], set out above\] shall apply as if included in the provision of the Taxpayer Relief Act of 1997 \[[Pub. L. 105–34][/us/pl/105/34]\] to which it relates.”
 
@@ -263,7 +263,7 @@
 
  __Effective Date of 1990 Amendment__ 
 
-[Pub. L. 101–540, § 2][/us/pl/101/540/s2], Nov. 8, 1990, [104 Stat. 2379][/us/stat/104/2379], provided that: 
+[Pub. L. 101–540][/us/pl/101/540], § 2, Nov. 8, 1990, [104 Stat. 2379][/us/stat/104/2379], provided that: 
 
 > “The amendment made by section 1 \[amending this section\] shall apply to interests in publicly traded partnerships acquired before, on, or after January 1, 1987.”
 
@@ -277,7 +277,7 @@
 
  __Effective Date of 1987 Amendment__ 
 
-[Pub. L. 100–203, title IX, § 9345(a)(3)][/us/pl/100/203/s9345/a/3], Dec. 22, 1987, [101 Stat. 1330–373][/us/stat/101/1330-373], provided that: 
+[Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9345(a)(3), Dec. 22, 1987, [101 Stat. 1330–373][/us/stat/101/1330-373], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply with respect to arrangements established after December 17, 1987.”
 
@@ -307,45 +307,45 @@
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/usc/t26/s1563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1563%2Fa
-[/us/pl/93/406/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs407
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/880]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F880
-[/us/pl/100/203/s9345/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9345%2Fa%2F1
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-373
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2443
-[/us/pl/101/540/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F540%2Fs1
+[/us/pl/101/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F540
 [/us/stat/104/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2379
-[/us/pl/105/34/s1524/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1524%2Fa
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1071
-[/us/pl/109/280/s901/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs901%2Fb%2F2
+[/us/pl/109/280/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIX
 [/us/stat/120/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1032
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t26/s7704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7704
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
 [/us/pl/101/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F540
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
-[/us/pl/101/239/s7881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881
-[/us/pl/101/239/s7894/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fe%2F2
-[/us/pl/101/239/s7881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881
-[/us/pl/101/239/s7881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881
-[/us/pl/101/239/s7881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881
-[/us/pl/100/203/s9345/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9345%2Fa%2F1
-[/us/pl/100/203/s9345/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9345%2Fb%2F1
-[/us/pl/100/203/s9345/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9345%2Fa%2F2
-[/us/pl/100/203/s9345/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9345%2Fb%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s901/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs901%2Fc
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/105/34/s1524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1524%2Fb
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1072
-[/us/pl/107/16/s655/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs655%2Fa
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F131
-[/us/pl/107/16/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs655%2Fb
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F131
 [/us/pl/105/34/s1524/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1524%2Fb
 [/us/pl/105/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34
-[/us/pl/101/540/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F540%2Fs2
+[/us/pl/101/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F540
 [/us/stat/104/2379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2379
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -359,7 +359,7 @@
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/101/239/s7894/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fi
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
-[/us/pl/100/203/s9345/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9345%2Fa%2F3
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-373
 
 

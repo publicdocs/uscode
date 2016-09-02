@@ -145,7 +145,7 @@
 
         There are authorized to be appropriated from sums otherwise authorized to be appropriated, for each fiscal year such sums as may be necessary to carry out this section.
 
-([Pub. L. 102–522, title II, § 209][/us/pl/102/522/s209], Oct. 26, 1992, [106 Stat. 3420][/us/stat/106/3420].)
+([Pub. L. 102–522, title II][/us/pl/102/522/tII], § 209, Oct. 26, 1992, [106 Stat. 3420][/us/stat/106/3420].)
 
  __References in Text__ 
 
@@ -165,7 +165,7 @@
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/usc/t29/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs667
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/102/522/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2Fs209
+[/us/pl/102/522/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F522%2FtII
 [/us/stat/106/3420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3420
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

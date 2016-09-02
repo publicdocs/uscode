@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 88–136, title I][/us/pl/88/136], Oct. 11, 1963, [77 Stat. 226][/us/stat/77/226], which related to personnel standards, was transferred to [section 49n of this title][/us/usc/t29/s49n] and subsequently omitted from the Code.
+    Section, [Pub. L. 88–136, title I][/us/pl/88/136/tI], Oct. 11, 1963, [77 Stat. 226][/us/stat/77/226], which related to personnel standards, was transferred to [section 49n of this title][/us/usc/t29/s49n] and subsequently omitted from the Code.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/88/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F136
+[/us/pl/88/136/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F136%2FtI
 [/us/stat/77/226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F226
 [/us/usc/t29/s49n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49n
 

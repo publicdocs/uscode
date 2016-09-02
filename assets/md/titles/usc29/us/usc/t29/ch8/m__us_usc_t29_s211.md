@@ -31,7 +31,7 @@
 
         The Administrator is authorized to make such regulations and orders regulating, restricting, or prohibiting industrial homework as are necessary or appropriate to prevent the circumvention or evasion of and to safeguard the minimum wage rate prescribed in this chapter, and all existing regulations or orders of the Administrator relating to industrial homework are continued in full force and effect.
 
-([June 25, 1938, ch. 676, § 11][/us/act/1938-06-25/ch676/s11], [52 Stat. 1066][/us/stat/52/1066]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Oct. 26, 1949, ch. 736, § 9][/us/act/1949-10-26/ch736/s9], [63 Stat. 916][/us/stat/63/916]; [Pub. L. 99–150, § 3(c)(2)][/us/pl/99/150/s3/c/2], Nov. 13, 1985, [99 Stat. 789][/us/stat/99/789].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 11, [52 Stat. 1066][/us/stat/52/1066]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 9, [63 Stat. 916][/us/stat/63/916]; [Pub. L. 99–150][/us/pl/99/150], § 3(c)(2), Nov. 13, 1985, [99 Stat. 789][/us/stat/99/789].)
 
  __Amendments__ 
 
@@ -74,12 +74,12 @@
 [/us/usc/t29/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs212
 [/us/usc/t29/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs217
 [/us/usc/t29/s207/p/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fp%2F3
-[/us/act/1938-06-25/ch676/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs11
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1066
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
-[/us/act/1949-10-26/ch736/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs9
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F916
-[/us/pl/99/150/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs3%2Fc%2F2
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F789
 [/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/usc/t29/s207/p/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fp%2F3

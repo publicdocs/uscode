@@ -53,7 +53,7 @@
 
         In any action or proceeding to determine or collect withdrawal liability, if substantially all employers have withdrawn from a plan within a period of 3 plan years, an employer who has withdrawn from such plan during such period shall be presumed to have withdrawn from the plan pursuant to an agreement or arrangement, unless the employer proves otherwise by a preponderance of the evidence.
 
-([Pub. L. 93–406, title IV, § 4209][/us/pl/93/406/s4209], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1225][/us/stat/94/1225].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4209, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1225][/us/stat/94/1225].)
 
 ----------
 
@@ -65,8 +65,8 @@
 [/us/usc/t29/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1391
 [/us/usc/t29/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1391
 [/us/usc/t29/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1391
-[/us/pl/93/406/s4209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4209
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1225
 
 

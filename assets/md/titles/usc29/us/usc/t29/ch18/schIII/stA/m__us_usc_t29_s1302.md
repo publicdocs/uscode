@@ -131,7 +131,7 @@
 
         The corporation shall have a risk management officer whose duties include evaluating and mitigating the risk that the corporation might experience. The individual in such position shall coordinate the risk management efforts of the corporation, explain risks and controls to senior management and the board of directors of the corporation, and make recommendations.
 
-([Pub. L. 93–406, title IV, § 4002][/us/pl/93/406/s4002], Sept. 2, 1974, [88 Stat. 1004][/us/stat/88/1004]; [Pub. L. 94–455, title XV, § 1510(a)][/us/pl/94/455/s1510/a], Oct. 4, 1976, [90 Stat. 1741][/us/stat/90/1741]; [Pub. L. 96–364, title IV][/us/pl/96/364], §§ 403(l), 406(a), Sept. 26, 1980, [94 Stat. 1302][/us/stat/94/1302], 1303; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 107–134, title I, § 112(c)(2)][/us/pl/107/134/s112/c/2], Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 109–280, title IV, § 411(a)(1)][/us/pl/109/280/s411/a/1], Aug. 17, 2006, [120 Stat. 935][/us/stat/120/935]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141], §§ 40231(a)–(d), 40232(b), July 6, 2012, [126 Stat. 853–855][/us/stat/126/853-855], 857.)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4002, Sept. 2, 1974, [88 Stat. 1004][/us/stat/88/1004]; [Pub. L. 94–455, title XV][/us/pl/94/455/tXV], § 1510(a), Oct. 4, 1976, [90 Stat. 1741][/us/stat/90/1741]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], §§ 403(l), 406(a), Sept. 26, 1980, [94 Stat. 1302][/us/stat/94/1302], 1303; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 107–134, title I][/us/pl/107/134/tI], § 112(c)(2), Jan. 23, 2002, [115 Stat. 2434][/us/stat/115/2434]; [Pub. L. 109–280, title IV][/us/pl/109/280/tIV], § 411(a)(1), Aug. 17, 2006, [120 Stat. 935][/us/stat/120/935]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], §§ 40231(a)–(d), 40232(b), July 6, 2012, [126 Stat. 853–855][/us/stat/126/853-855], 857.)
 
  __References in Text__ 
 
@@ -151,21 +151,21 @@
 
  __Amendments__ 
 
-    2012—Subsec. (c). [Pub. L. 112–141, § 40231(d)][/us/pl/112/141/s40231/d], amended subsec. (c) generally. See Codification note above.
+    2012—Subsec. (c). [Pub. L. 112–141][/us/pl/112/141], § 40231(d), amended subsec. (c) generally. See Codification note above.
 
-    Subsec. (d). [Pub. L. 112–141, § 40231(a)(1)][/us/pl/112/141/s40231/a/1], designated existing provisions as par. (1) and added pars. (2) to (7).
+    Subsec. (d). [Pub. L. 112–141][/us/pl/112/141], § 40231(a)(1), designated existing provisions as par. (1) and added pars. (2) to (7).
 
-    Subsec. (e). [Pub. L. 112–141, § 40231(a)(2)][/us/pl/112/141/s40231/a/2], designated existing provisions as par. (1), substituted “the corporation, but in no case less than 4 times a year with not fewer than 2 members present. Not less than 1 meeting of the board of directors during each year shall be a joint meeting with the advisory committee under subsection (h).” for “the corporation.” in par. (1), and added par. (2).
+    Subsec. (e). [Pub. L. 112–141][/us/pl/112/141], § 40231(a)(2), designated existing provisions as par. (1), substituted “the corporation, but in no case less than 4 times a year with not fewer than 2 members present. Not less than 1 meeting of the board of directors during each year shall be a joint meeting with the advisory committee under subsection (h).” for “the corporation.” in par. (1), and added par. (2).
 
-    Subsec. (h)(1). [Pub. L. 112–141, § 40232(b)][/us/pl/112/141/s40232/b], inserted at end “In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under [section 1304 of this title][/us/usc/t29/s1304], the Advisory Committee shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.”
+    Subsec. (h)(1). [Pub. L. 112–141][/us/pl/112/141], § 40232(b), inserted at end “In the event of a vacancy or impending vacancy in the office of the Participant and Plan Sponsor Advocate established under [section 1304 of this title][/us/usc/t29/s1304], the Advisory Committee shall, in consultation with the Director of the corporation and participant and plan sponsor advocacy groups, nominate at least two but no more than three individuals to serve as the Participant and Plan Sponsor Advocate.”
 
-    [Pub. L. 112–141, § 40231(a)(3)(A)][/us/pl/112/141/s40231/a/3/A], substituted “, (D)” for “, and (D)” and “time to time, and (E) other issues as determined appropriate by the advisory committee.” for “time to time.”
+    [Pub. L. 112–141][/us/pl/112/141], § 40231(a)(3)(A), substituted “, (D)” for “, and (D)” and “time to time, and (E) other issues as determined appropriate by the advisory committee.” for “time to time.”
 
-    Subsec. (h)(3). [Pub. L. 112–141, § 40231(a)(3)(B)][/us/pl/112/141/s40231/a/3/B], inserted at end “Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).”
+    Subsec. (h)(3). [Pub. L. 112–141][/us/pl/112/141], § 40231(a)(3)(B), inserted at end “Not less than 1 meeting of the advisory committee during each year shall be a joint meeting with the board of directors under subsection (e).”
 
-    Subsec. (j). [Pub. L. 112–141, § 40231(b)][/us/pl/112/141/s40231/b], added subsec. (j).
+    Subsec. (j). [Pub. L. 112–141][/us/pl/112/141], § 40231(b), added subsec. (j).
 
-    Subsec. (k). [Pub. L. 112–141, § 40231(c)][/us/pl/112/141/s40231/c], added subsec. (k).
+    Subsec. (k). [Pub. L. 112–141][/us/pl/112/141], § 40231(c), added subsec. (k).
 
     2006—Subsec. (a). [Pub. L. 109–280][/us/pl/109/280] in introductory provisions substituted “In carrying out its functions under this subchapter, the corporation shall be administered by a Director, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall act in accordance with the policies established by the board” for “In carrying out its functions under this subchapter, the corporation shall be administered by the chairman of the board of directors in accordance with policies established by the board”.
 
@@ -173,9 +173,9 @@
 
     1989—Subsec. (g)(1). [Pub. L. 101–239][/us/pl/101/239] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1980—Subsec. (b)(3). [Pub. L. 96–364, § 403][/us/pl/96/364/s403](l), inserted provisions respecting bylaws, etc., to carry out this subchapter.
+    1980—Subsec. (b)(3). [Pub. L. 96–364][/us/pl/96/364], § 403(l), inserted provisions respecting bylaws, etc., to carry out this subchapter.
 
-    Subsec. (g)(2). [Pub. L. 96–364, § 406(a)][/us/pl/96/364/s406/a], substituted provisions relating to inclusion of receipts and disbursements in United States budget totals and nonliability of United States for obligation or liability of corporation, for provisions relating to noninclusion of receipts and disbursements in United States budget totals, exemption from limitations with respect to budget outlays, and restrictions on liability for obligation or liability incurred by the corporation.
+    Subsec. (g)(2). [Pub. L. 96–364][/us/pl/96/364], § 406(a), substituted provisions relating to inclusion of receipts and disbursements in United States budget totals and nonliability of United States for obligation or liability of corporation, for provisions relating to noninclusion of receipts and disbursements in United States budget totals, exemption from limitations with respect to budget outlays, and restrictions on liability for obligation or liability incurred by the corporation.
 
     1976—Subsec. (g)(1). [Pub. L. 94–455][/us/pl/94/455] exempted corporation from all taxation now or hereafter imposed by United States (other than taxes imposed under chapter 21 of title 26, relating to Federal Insurance Contributions Act, and chapter 23 of title 26, relating to Federal Unemployment Tax Act).
 
@@ -191,19 +191,19 @@
 
     Amendment by [Pub. L. 96–364][/us/pl/96/364] effective Sept. 26, 1980, except as specifically provided, see [section 1461(e) of this title][/us/usc/t29/s1461/e].
 
-[Pub. L. 96–364, title IV, § 406(b)][/us/pl/96/364/s406/b], Sept. 26, 1980, [94 Stat. 1303][/us/stat/94/1303], provided that: 
+[Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 406(b), Sept. 26, 1980, [94 Stat. 1303][/us/stat/94/1303], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to fiscal years beginning after September 30, 1980.”
 
  __Effective Date of 1976 Amendment__ 
 
-[Pub. L. 94–455, title XV, § 1510(b)][/us/pl/94/455/s1510/b], Oct. 4, 1976, [90 Stat. 1741][/us/stat/90/1741], provided that: 
+[Pub. L. 94–455, title XV][/us/pl/94/455/tXV], § 1510(b), Oct. 4, 1976, [90 Stat. 1741][/us/stat/90/1741], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect on September 2, 1974.”
 
  __Senses of Congress__ 
 
-[Pub. L. 112–141, div. D, title II, § 40231(e)][/us/pl/112/141/s40231/e], July 6, 2012, [126 Stat. 855][/us/stat/126/855], provided that:
+[Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40231(e), July 6, 2012, [126 Stat. 855][/us/stat/126/855], provided that:
 
 >     “(1)  __Formation of committees__  __.—__ 
 
@@ -215,7 +215,7 @@
 
  __Quality Control Procedures for the Pension Benefit Guaranty Corporation__ 
 
-[Pub. L. 112–141, div. D, title II, § 40233(a)][/us/pl/112/141/s40233/a], July 6, 2012, [126 Stat. 857][/us/stat/126/857], provided that:
+[Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40233(a), July 6, 2012, [126 Stat. 857][/us/stat/126/857], provided that:
 
 >     “(a)  __Annual Peer Review of Insurance Modeling Systems__  __.—__ 
 
@@ -223,7 +223,7 @@
 
  __Policies and Procedures Relating to the Policy, Research, and Analysis Department__ 
 
-[Pub. L. 112–141, div. D, title II, § 40233(b)][/us/pl/112/141/s40233/b], July 6, 2012, [126 Stat. 858][/us/stat/126/858], provided that: 
+[Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40233(b), July 6, 2012, [126 Stat. 858][/us/stat/126/858], provided that: 
 
 > “The Pension Benefit Guaranty Corporation shall—
 
@@ -233,7 +233,7 @@
 
  __Transition__ 
 
-[Pub. L. 109–280, title IV, § 411(d)][/us/pl/109/280/s411/d], Aug. 17, 2006, [120 Stat. 936][/us/stat/120/936], provided that: 
+[Pub. L. 109–280, title IV][/us/pl/109/280/tIV], § 411(d), Aug. 17, 2006, [120 Stat. 936][/us/stat/120/936], provided that: 
 
 > “The term of the individual serving as Executive Director of the Pension Benefit Guaranty Corporation on the date of enactment of this Act \[Aug. 17, 2006\] shall expire on such date of enactment. Such individual, or any other individual, may serve as interim Director of such Corporation until an individual is appointed as Director of such Corporation under section 4002 of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1302][/us/usc/t29/s1302]) (as amended by this Act).”
 
@@ -260,19 +260,19 @@
 [/us/usc/t5/s3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3109
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
 [/us/usc/t26/s1033/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1033%2Fh%2F3
-[/us/pl/93/406/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4002
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1004
-[/us/pl/94/455/s1510/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1510%2Fa
+[/us/pl/94/455/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXV
 [/us/stat/90/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1741
-[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1302
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/107/134/s112/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs112%2Fc%2F2
+[/us/pl/107/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2FtI
 [/us/stat/115/2434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2434
-[/us/pl/109/280/s411/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs411%2Fa%2F1
+[/us/pl/109/280/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIV
 [/us/stat/120/935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F935
-[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/853-855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F853-855
 [/us/pl/87/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F569
 [/us/stat/76/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F76%2F265
@@ -288,20 +288,20 @@
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/93/406/s4002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4002
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
-[/us/pl/112/141/s40231/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40231%2Fd
-[/us/pl/112/141/s40231/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40231%2Fa%2F1
-[/us/pl/112/141/s40231/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40231%2Fa%2F2
-[/us/pl/112/141/s40232/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40232%2Fb
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/usc/t29/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1304
-[/us/pl/112/141/s40231/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40231%2Fa%2F3%2FA
-[/us/pl/112/141/s40231/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40231%2Fa%2F3%2FB
-[/us/pl/112/141/s40231/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40231%2Fb
-[/us/pl/112/141/s40231/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40231%2Fc
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
+[/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/96/364/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs403
-[/us/pl/96/364/s406/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs406%2Fa
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/107/134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134
 [/us/pl/107/134/s112/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F134%2Fs112%2Ff
@@ -312,19 +312,19 @@
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
-[/us/pl/96/364/s406/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs406%2Fb
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1303
-[/us/pl/94/455/s1510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1510%2Fb
+[/us/pl/94/455/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtXV
 [/us/stat/90/1741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1741
-[/us/pl/112/141/s40231/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40231%2Fe
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F855
 [/us/usc/t29/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1302
 [/us/usc/t29/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1302
-[/us/pl/112/141/s40233/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40233%2Fa
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F857
-[/us/pl/112/141/s40233/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40233%2Fb
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F858
-[/us/pl/109/280/s411/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs411%2Fd
+[/us/pl/109/280/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIV
 [/us/stat/120/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F936
 [/us/usc/t29/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1302
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

@@ -31,7 +31,7 @@
 
         For the purposes of any investigation provided for in this section, the Secretary shall have the subpoena authority provided for under [section 209 of this title][/us/usc/t29/s209].
 
-([Pub. L. 103–3, title I, § 106][/us/pl/103/3/s106], Feb. 5, 1993, [107 Stat. 15][/us/stat/107/15].)
+([Pub. L. 103–3, title I][/us/pl/103/3/tI], § 106, Feb. 5, 1993, [107 Stat. 15][/us/stat/107/15].)
 
 ----------
 
@@ -44,7 +44,7 @@
 [/us/usc/t29/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs211%2Fc
 [/us/usc/t29/s2617/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2617%2Fb
 [/us/usc/t29/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs209
-[/us/pl/103/3/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs106
+[/us/pl/103/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtI
 [/us/stat/107/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F15
 
 

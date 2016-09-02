@@ -45,7 +45,7 @@
 
         If a pension plan allows an employee to elect to make voluntary employee contributions to accounts and annuities as provided in [section 408(q) of title 26][/us/usc/t26/s408/q], such accounts and annuities (and contributions thereto) shall not be treated as part of such plan (or as a separate pension plan) for purposes of any provision of this subchapter other than section 1103(c), 1104, or 1105 of this title (relating to exclusive benefit, and fiduciary and co-fiduciary responsibilities) and part 5 of subtitle B of this subchapter  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  (relating to administration and enforcement). Such provisions shall apply to such accounts and annuities in a manner similar to their application to a simplified employee pension under [section 408(k) of title 26][/us/usc/t26/s408/k].
 
-([Pub. L. 93–406, title I, § 4][/us/pl/93/406/s4], Sept. 2, 1974, [88 Stat. 839][/us/stat/88/839]; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 104–191, title I, § 101(d)][/us/pl/104/191/s101/d], Aug. 21, 1996, [110 Stat. 1952][/us/stat/110/1952]; [Pub. L. 104–204, title VI, § 603(b)(3)(A)][/us/pl/104/204/s603/b/3/A], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 107–16, title VI, § 602(b)][/us/pl/107/16/s602/b], June 7, 2001, [115 Stat. 96][/us/stat/115/96]; [Pub. L. 107–147, title IV, § 411(i)(2)][/us/pl/107/147/s411/i/2], Mar. 9, 2002, [116 Stat. 47][/us/stat/116/47].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 4, Sept. 2, 1974, [88 Stat. 839][/us/stat/88/839]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(d), Aug. 21, 1996, [110 Stat. 1952][/us/stat/110/1952]; [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 603(b)(3)(A), Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 602(b), June 7, 2001, [115 Stat. 96][/us/stat/115/96]; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], § 411(i)(2), Mar. 9, 2002, [116 Stat. 47][/us/stat/116/47].)
 
  __References in Text__ 
 
@@ -55,9 +55,9 @@
 
     2002—Subsec. (c). [Pub. L. 107–147][/us/pl/107/147] inserted “and part 5 of subtitle B of this subchapter (relating to administration and enforcement)” after “co-fiduciary responsibilities)” and “Such provisions shall apply to such accounts and annuities in a manner similar to their application to a simplified employee pension under [section 408(k) of title 26][/us/usc/t26/s408/k].” at end.
 
-    2001—Subsec. (a). [Pub. L. 107–16, § 602(b)(2)][/us/pl/107/16/s602/b/2], inserted “or (c)” after “subsection (b)” in introductory provisions.
+    2001—Subsec. (a). [Pub. L. 107–16][/us/pl/107/16], § 602(b)(2), inserted “or (c)” after “subsection (b)” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 107–16, § 602(b)(1)][/us/pl/107/16/s602/b/1], added subsec. (c).
+    Subsec. (c). [Pub. L. 107–16][/us/pl/107/16], § 602(b)(1), added subsec. (c).
 
     1996—Subsec. (b). [Pub. L. 104–204][/us/pl/104/204], in concluding provisions, made technical amendment to references in original act which appear in text as references to [section 1191b of this title][/us/usc/t29/s1191b].
 
@@ -75,7 +75,7 @@
 
  __Effective Date of 1996 Amendments__ 
 
-[Pub. L. 104–204, title VI, § 603(c)][/us/pl/104/204/s603/c], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938], provided that: 
+[Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 603(c), Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938], provided that: 
 
 > “The amendments made by this section \[enacting [section 1185 of this title][/us/usc/t29/s1185] and amending this section and sections 1021, 1022, 1024, 1132, 1136, 1144, 1181, 1191, and 1191a of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
 
@@ -101,23 +101,23 @@
 [/us/usc/t29/s1191b/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b%2Fa%2F1
 [/us/usc/t26/s408/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408%2Fq
 [/us/usc/t26/s408/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408%2Fk
-[/us/pl/93/406/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F839
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/104/191/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fd
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1952
-[/us/pl/104/204/s603/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fb%2F3%2FA
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2938
-[/us/pl/107/16/s602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs602%2Fb
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F96
-[/us/pl/107/147/s411/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2Fs411%2Fi%2F2
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F47
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
 [/us/usc/t26/s408/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408%2Fk
-[/us/pl/107/16/s602/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs602%2Fb%2F2
-[/us/pl/107/16/s602/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs602%2Fb%2F1
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/usc/t29/s1191b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
@@ -132,7 +132,7 @@
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
 [/us/pl/107/16/s602/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs602%2Fc
 [/us/usc/t26/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408
-[/us/pl/104/204/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fc
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2938
 [/us/usc/t29/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191

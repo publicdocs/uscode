@@ -199,7 +199,7 @@
 
                 (ii) preparation for postsecondary educational and training opportunities;
 
-                (iii) strong linkages between academic instruction (based on State academic content and student academic achievement standards established under [section 6311 of title 20][/us/usc/t20/s6311]) and occupational education that lead to the attainment of recognized postsecondary credentials;
+                (iii) strong linkages between academic instruction (based on challenging State academic standards established under [section 6311(b)(1) of title 20][/us/usc/t20/s6311/b/1]  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by a closing parenthesis. </sup></sup>  and occupational education that lead to the attainment of recognized postsecondary credentials;
 
                 (iv) preparation for unsubsidized employment opportunities, in appropriate cases; and
 
@@ -293,7 +293,7 @@
 
             The local board shall make opportunities available for individuals who have successfully participated in programs carried out under this section to volunteer assistance to participants in the form of mentoring, tutoring, and other activities.
 
-([Pub. L. 113–128, title I, § 129][/us/pl/113/128/s129], July 22, 2014, [128 Stat. 1504][/us/stat/128/1504]; [Pub. L. 114–18, § 2(e)(2)][/us/pl/114/18/s2/e/2], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 129, July 22, 2014, [128 Stat. 1504][/us/stat/128/1504]; [Pub. L. 114–18][/us/pl/114/18], § 2(e)(2), May 22, 2015, [129 Stat. 213][/us/stat/129/213]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(yyy)(3), Dec. 10, 2015, [129 Stat. 2192][/us/stat/129/2192].)
 
  __References in Text__ 
 
@@ -303,9 +303,13 @@
 
     2015—Subsec. (b)(1)(C). [Pub. L. 114–18][/us/pl/114/18] substituted “subsections (b)(7) and (c)(2) of [section 3121 of this title][/us/usc/t29/s3121]” for “subsections (b)(6) and (c)(2) of [section 3121 of this title][/us/usc/t29/s3121]”.
 
+    Subsec. (c)(1)(C)(iii). [Pub. L. 114–95][/us/pl/114/95] substituted “(based on challenging State academic standards established under [section 6311(b)(1) of title 20][/us/usc/t20/s6311/b/1]” for “(based on State academic content and student academic achievement standards established under [section 6311 of title 20][/us/usc/t20/s6311])”.
+
  __Effective Date of 2015 Amendment__ 
 
-    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see [§ 2(f) of Pub. L. 114–18][/us/pl/114/18/s2/f], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
+
+    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see § 2(f) of [Pub. L. 114–18][/us/pl/114/18], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
 
  __Effective Date__ 
 
@@ -345,22 +349,30 @@
 [/us/usc/t29/s3174/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fa
 [/us/usc/t29/s3163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3163%2Fb
 [/us/usc/t29/s3141/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fii
-[/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
 [/us/usc/t29/s3163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3163%2Fb
 [/us/usc/t29/s3153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3153
-[/us/pl/113/128/s129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs129
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1504
-[/us/pl/114/18/s2/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fe%2F2
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2192
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/usc/t29/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121
 [/us/usc/t29/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

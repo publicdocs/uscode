@@ -133,7 +133,7 @@
 
                 If the Secretary has approved a waiver of statutory or regulatory requirements for a State or local area pursuant to this subsection, the Secretary shall expedite the determination regarding the provision of that waiver, for another State or local area if such waiver is in accordance with the approved State or local plan, as appropriate.
 
-([Pub. L. 113–128, title I, § 189][/us/pl/113/128/s189], July 22, 2014, [128 Stat. 1599][/us/stat/128/1599].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 189, July 22, 2014, [128 Stat. 1599][/us/stat/128/1599].)
 
  __Effective Date__ 
 
@@ -154,7 +154,7 @@
 [/us/usc/t29/s3201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3201
 [/us/usc/t50/s3802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3802
 [/us/usc/t29/s3121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121
-[/us/pl/113/128/s189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs189
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1599
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

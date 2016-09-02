@@ -17,7 +17,7 @@
 
     For the purpose of any hearing or investigation provided for in this chapter, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents), are made applicable to the jurisdiction, powers, and duties of the Administrator, the Secretary of Labor, and the industry committees.
 
-([June 25, 1938, ch. 676, § 9][/us/act/1938-06-25/ch676/s9], [52 Stat. 1065][/us/stat/52/1065]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 9, [52 Stat. 1065][/us/stat/52/1065]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095].)
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch676/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs9
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1065
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781

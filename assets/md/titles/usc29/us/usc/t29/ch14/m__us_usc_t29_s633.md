@@ -23,7 +23,7 @@
 
         In the case of an alleged unlawful practice occurring in a State which has a law prohibiting discrimination in employment because of age and establishing or authorizing a State authority to grant or seek relief from such discriminatory practice, no suit may be brought under [section 626 of this title][/us/usc/t29/s626] before the expiration of sixty days after proceedings have been commenced under the State law, unless such proceedings have been earlier terminated: Provided, That such sixty-day period shall be extended to one hundred and twenty days during the first year after the effective date of such State law. If any requirement for the commencement of such proceedings is imposed by a State authority other than a requirement of the filing of a written and signed statement of the facts upon which the proceeding is based, the proceeding shall be deemed to have been commenced for the purposes of this subsection at the time such statement is sent by registered mail to the appropriate State authority.
 
-([Pub. L. 90–202, § 14][/us/pl/90/202/s14], Dec. 15, 1967, [81 Stat. 607][/us/stat/81/607].)
+([Pub. L. 90–202][/us/pl/90/202], § 14, Dec. 15, 1967, [81 Stat. 607][/us/stat/81/607].)
 
  __Transfer of Functions__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t29/s626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs626
-[/us/pl/90/202/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs14
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F607
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 

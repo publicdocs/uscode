@@ -25,7 +25,7 @@
 
         (2) the date on which a multiemployer plan, whether or not terminated, begins receiving financial assistance from the corporation shall be considered a date of plan termination.
 
-([Pub. L. 93–406, title IV, § 4022B][/us/pl/93/406/s4022B], as added [Pub. L. 96–364, title I, § 102][/us/pl/96/364/s102], Sept. 26, 1980, [94 Stat. 1215][/us/stat/94/1215].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4022B, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 102, Sept. 26, 1980, [94 Stat. 1215][/us/stat/94/1215].)
 
  __Effective Date__ 
 
@@ -39,8 +39,8 @@
 ----------
 
 [/us/usc/t29/s1322/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322%2Fb%2F3%2FB
-[/us/pl/93/406/s4022B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4022B
-[/us/pl/96/364/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs102
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1215]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1215
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 

@@ -17,7 +17,7 @@
 
     The Working Capital Fund of the Department of Labor shall be available on and after March 5, 1970, for expenses necessary for personnel functions in regional administrative offices.
 
-([Pub. L. 91–204, title I, § 100][/us/pl/91/204/s100], Mar. 5, 1970, [84 Stat. 26][/us/stat/84/26].)
+([Pub. L. 91–204, title I][/us/pl/91/204/tI], § 100, Mar. 5, 1970, [84 Stat. 26][/us/stat/84/26].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/204/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F204%2Fs100
+[/us/pl/91/204/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F204%2FtI
 [/us/stat/84/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F26
 
 

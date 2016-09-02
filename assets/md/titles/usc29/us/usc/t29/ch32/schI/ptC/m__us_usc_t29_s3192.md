@@ -61,7 +61,7 @@
 
         The term “service provider” means an entity selected under this part to provide services described in this part to a Job Corps center.
 
-([Pub. L. 113–128, title I, § 142][/us/pl/113/128/s142], July 22, 2014, [128 Stat. 1538][/us/stat/128/1538].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 142, July 22, 2014, [128 Stat. 1538][/us/stat/128/1538].)
 
  __Effective Date__ 
 
@@ -76,7 +76,7 @@
 
 [/us/usc/t29/s3193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3193
 [/us/usc/t29/s3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3197
-[/us/pl/113/128/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs142
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1538
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

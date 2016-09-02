@@ -23,7 +23,7 @@
 
         Nothing in this Act or any amendment made by this Act shall be construed to supersede any provision of any State or local law that provides greater family or medical leave rights than the rights established under this Act or any amendment made by this Act.
 
-([Pub. L. 103–3, title IV, § 401][/us/pl/103/3/s401], Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26].)
+([Pub. L. 103–3, title IV][/us/pl/103/3/tIV], § 401, Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs401
+[/us/pl/103/3/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIV
 [/us/stat/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F26
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6

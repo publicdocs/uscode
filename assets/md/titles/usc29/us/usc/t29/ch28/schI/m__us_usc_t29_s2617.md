@@ -105,7 +105,7 @@
 
         In the case of the Government Accountability Office and the Library of Congress, the authority of the Secretary of Labor under this subchapter shall be exercised respectively by the Comptroller General of the United States and the Librarian of Congress.
 
-([Pub. L. 103–3, title I, § 107][/us/pl/103/3/s107], Feb. 5, 1993, [107 Stat. 15][/us/stat/107/15]; [Pub. L. 104–1, title II, § 202(c)(1)(B)][/us/pl/104/1/s202/c/1/B], Jan. 23, 1995, [109 Stat. 9][/us/stat/109/9]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–181, div. A, title V, § 585(a)(3)(G)][/us/pl/110/181/s585/a/3/G], Jan. 28, 2008, [122 Stat. 131][/us/stat/122/131].)
+([Pub. L. 103–3, title I][/us/pl/103/3/tI], § 107, Feb. 5, 1993, [107 Stat. 15][/us/stat/107/15]; [Pub. L. 104–1, title II][/us/pl/104/1/tII], § 202(c)(1)(B), Jan. 23, 1995, [109 Stat. 9][/us/stat/109/9]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 585(a)(3)(G), Jan. 28, 2008, [122 Stat. 131][/us/stat/122/131].)
 
  __Amendments__ 
 
@@ -134,13 +134,13 @@
 [/us/usc/t29/s2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2615
 [/us/usc/t29/s2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2615
 [/us/usc/t29/s2615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2615
-[/us/pl/103/3/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs107
+[/us/pl/103/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtI
 [/us/stat/107/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F15
-[/us/pl/104/1/s202/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs202%2Fc%2F1%2FB
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F9
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/181/s585/a/3/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FG
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F131
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t29/s2612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2612%2Fa%2F3

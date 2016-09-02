@@ -31,7 +31,7 @@
 
         (2) may use non-Federal funds available to the local area that the chief elected official and local board determine are appropriate and available for that use.
 
-([Pub. L. 113–128, title I, § 111][/us/pl/113/128/s111], July 22, 2014, [128 Stat. 1471][/us/stat/128/1471].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 111, July 22, 2014, [128 Stat. 1471][/us/stat/128/1471].)
 
  __Effective Date__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t29/s3163/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3163%2Fb%2F4
-[/us/pl/113/128/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs111
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1471
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

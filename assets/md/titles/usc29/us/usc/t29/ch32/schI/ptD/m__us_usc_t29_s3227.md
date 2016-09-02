@@ -87,11 +87,11 @@
 
         If, as of July 22, 2014, any unobligated funds appropriated to carry out subsections (f) and (g) of [section 2918 of this title][/us/usc/t29/s2918], as in effect on the day before July 22, 2014, remain available, the Secretary of Labor shall continue to use such funds to carry out such subsections, as in effect on such day, until all of such funds are expended.
 
-([Pub. L. 113–128, title I, § 172][/us/pl/113/128/s172], July 22, 2014, [128 Stat. 1585][/us/stat/128/1585].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 172, July 22, 2014, [128 Stat. 1585][/us/stat/128/1585].)
 
  __References in Text__ 
 
-    Sections 2913 and 2918 of this title, referred to in subsecs. (e) and (f), were repealed by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705], effective July 1, 2015.
+    Sections 2913 and 2918 of this title, referred to in subsecs. (e) and (f), were repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705], effective July 1, 2015.
 
  __Effective Date__ 
 
@@ -110,9 +110,9 @@
 [/us/usc/t29/s3224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224
 [/us/usc/t29/s2913]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2913
 [/us/usc/t29/s2918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918
-[/us/pl/113/128/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs172
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1585
-[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

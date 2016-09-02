@@ -25,7 +25,7 @@
 
     It is hereby declared to be the policy of the United States to eliminate the causes of certain substantial obstructions to the free flow of commerce and to mitigate and eliminate these obstructions when they have occurred by encouraging the practice and procedure of collective bargaining and by protecting the exercise by workers of full freedom of association, self-organization, and designation of representatives of their own choosing, for the purpose of negotiating the terms and conditions of their employment or other mutual aid or protection.
 
-([July 5, 1935, ch. 372, § 1][/us/act/1935-07-05/ch372/s1], [49 Stat. 449][/us/stat/49/449]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 136][/us/stat/61/136].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 1, [49 Stat. 449][/us/stat/49/449]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 136][/us/stat/61/136].)
 
  __Amendments__ 
 
@@ -33,7 +33,7 @@
 
  __Effective Date of 1947 Amendment__ 
 
-[Act June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 104, [61 Stat. 152][/us/stat/61/152], provided that: 
+[Act June 23, 1947, ch. 120, title I][/us/act/1947-06-23/ch120/tI], § 104, [61 Stat. 152][/us/stat/61/152], provided that: 
 
 > “The amendments made by this title \[amending this subchapter\] shall take effect sixty days after the date of the enactment of this Act \[June 23, 1947\], except that the authority of the President to appoint certain officers conferred upon him by section 3 of the National Labor Relations Act as amended by this title \[[section 153 of this title][/us/usc/t29/s153]\] may be exercised forthwith.”
 
@@ -44,11 +44,11 @@
 ----------
 ----------
 
-[/us/act/1935-07-05/ch372/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs1
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F449
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F136
-[/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
+[/us/act/1947-06-23/ch120/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120%2FtI
 [/us/stat/61/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F152
 [/us/usc/t29/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs153
 

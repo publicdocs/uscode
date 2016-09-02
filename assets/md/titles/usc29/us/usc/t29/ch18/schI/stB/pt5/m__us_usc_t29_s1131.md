@@ -19,7 +19,7 @@
 
     (b) Any person that violates [section 1149 of this title][/us/usc/t29/s1149] shall upon conviction be imprisoned not more than 10 years or fined under title 18, or both.
 
-([Pub. L. 93–406, title I, § 501][/us/pl/93/406/s501], Sept. 2, 1974, [88 Stat. 891][/us/stat/88/891]; [Pub. L. 107–204, title IX, § 904][/us/pl/107/204/s904], July 30, 2002, [116 Stat. 805][/us/stat/116/805]; [Pub. L. 111–148, title VI, § 6601(b)][/us/pl/111/148/s6601/b], Mar. 23, 2010, [124 Stat. 779][/us/stat/124/779].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 501, Sept. 2, 1974, [88 Stat. 891][/us/stat/88/891]; [Pub. L. 107–204, title IX][/us/pl/107/204/tIX], § 904, July 30, 2002, [116 Stat. 805][/us/stat/116/805]; [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6601(b), Mar. 23, 2010, [124 Stat. 779][/us/stat/124/779].)
 
  __Amendments__ 
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t29/s1149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1149
-[/us/pl/93/406/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs501
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/891]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F891
-[/us/pl/107/204/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2Fs904
+[/us/pl/107/204/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204%2FtIX
 [/us/stat/116/805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F805
-[/us/pl/111/148/s6601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6601%2Fb
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/779]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F779
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/107/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F204

@@ -21,7 +21,7 @@
 
     (2) afford a reasonable opportunity to any participant whose claim for benefits has been denied for a full and fair review by the appropriate named fiduciary of the decision denying the claim.
 
-([Pub. L. 93–406, title I, § 503][/us/pl/93/406/s503], Sept. 2, 1974, [88 Stat. 893][/us/stat/88/893].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 503, Sept. 2, 1974, [88 Stat. 893][/us/stat/88/893].)
 
  __Regulations__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs503
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F893
 [/us/usc/t29/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1031
 

@@ -17,7 +17,7 @@
 
     The Secretary of Labor is authorized to appoint such employees as he may from time to time find necessary for the administration of this chapter, with regard to existing laws applicable to the appointment and compensation of employees of the United States.
 
-([Aug. 16, 1937, ch. 663, § 3][/us/act/1937-08-16/ch663/s3], [50 Stat. 665][/us/stat/50/665]; [July 12, 1943, ch. 221][/us/act/1943-07-12/ch221], title VII, [57 Stat. 518][/us/stat/57/518].)
+([Aug. 16, 1937, ch. 663][/us/act/1937-08-16/ch663], § 3, [50 Stat. 665][/us/stat/50/665]; [July 12, 1943, ch. 221][/us/act/1943-07-12/ch221], title VII, [57 Stat. 518][/us/stat/57/518].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/act/1937-08-16/ch663/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663%2Fs3
+[/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F665
 [/us/act/1943-07-12/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-12%2Fch221
 [/us/stat/57/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F518

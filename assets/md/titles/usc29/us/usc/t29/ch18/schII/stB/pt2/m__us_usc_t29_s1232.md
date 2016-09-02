@@ -83,7 +83,7 @@
 
             (B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedures of that House) at any time, in the same manner and to the same extent as in the case of any other rule of that House.
 
-([Pub. L. 93–406, title III, § 3032][/us/pl/93/406/s3032], Sept. 2, 1974, [88 Stat. 1000][/us/stat/88/1000].)
+([Pub. L. 93–406, title III][/us/pl/93/406/tIII], § 3032, Sept. 2, 1974, [88 Stat. 1000][/us/stat/88/1000].)
 
  __Change of Name__ 
 
@@ -98,7 +98,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s3032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs3032
+[/us/pl/93/406/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIII
 [/us/stat/88/1000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1000
 
 

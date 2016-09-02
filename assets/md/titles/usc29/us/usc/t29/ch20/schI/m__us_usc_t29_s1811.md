@@ -31,7 +31,7 @@
 
         The facilities and the services authorized by the Act of June 6, 1933 ([29 U.S.C. 49][/us/usc/t29/s49] et seq.), known as the Wagner-Peyser Act, shall be denied to any farm labor contractor upon refusal or failure to produce, when asked, a certificate of registration.
 
-([Pub. L. 97–470, title I, § 101][/us/pl/97/470/s101], Jan. 14, 1983, [96 Stat. 2587][/us/stat/96/2587].)
+([Pub. L. 97–470, title I][/us/pl/97/470/tI], § 101, Jan. 14, 1983, [96 Stat. 2587][/us/stat/96/2587].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 ----------
 
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
-[/us/pl/97/470/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs101
+[/us/pl/97/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtI
 [/us/stat/96/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2587
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113

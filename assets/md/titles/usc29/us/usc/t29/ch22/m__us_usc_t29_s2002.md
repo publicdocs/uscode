@@ -39,7 +39,7 @@
 
         (C) of the exercise by such employee or prospective employee, on behalf of such employee or another person, of any right afforded by this chapter.
 
-([Pub. L. 100–347, § 3][/us/pl/100/347/s3], June 27, 1988, [102 Stat. 646][/us/stat/102/646].)
+([Pub. L. 100–347][/us/pl/100/347], § 3, June 27, 1988, [102 Stat. 646][/us/stat/102/646].)
 
 ----------
 
@@ -48,7 +48,7 @@
 ----------
 ----------
 
-[/us/pl/100/347/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs3
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F646
 
 

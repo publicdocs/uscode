@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this subchapter $577,667,000 for fiscal year 2015, $622,286,000 for fiscal year 2016, $635,198,000 for fiscal year 2017, $649,287,000 for fiscal year 2018, $664,552,000 for fiscal year 2019, and $678,640,000 for fiscal year 2020.
 
-([Pub. L. 113–128, title II, § 206][/us/pl/113/128/s206], July 22, 2014, [128 Stat. 1612][/us/stat/128/1612].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 206, July 22, 2014, [128 Stat. 1612][/us/stat/128/1612].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/128/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs206
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1612
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

@@ -23,7 +23,7 @@
 
     (3) seeking the input of employers and labor unions with respect to strategies and recommendations for improving such technical assistance.
 
-([Pub. L. 102–530, § 7][/us/pl/102/530/s7], Oct. 27, 1992, [106 Stat. 3467][/us/stat/106/3467].)
+([Pub. L. 102–530][/us/pl/102/530], § 7, Oct. 27, 1992, [106 Stat. 3467][/us/stat/106/3467].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t29/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2503%2Fa
-[/us/pl/102/530/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530%2Fs7
+[/us/pl/102/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530
 [/us/stat/106/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3467
 
 

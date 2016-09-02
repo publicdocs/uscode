@@ -29,7 +29,7 @@
 
         This section does not apply to any person who, in the ordinary course of that person’s business, regularly provides housing on a commercial basis to the general public and who provides housing to migrant agricultural workers of the same character and on the same or comparable terms and conditions as is provided to the general public.
 
-([Pub. L. 97–470, title II, § 203][/us/pl/97/470/s203], Jan. 14, 1983, [96 Stat. 2591][/us/stat/96/2591].)
+([Pub. L. 97–470, title II][/us/pl/97/470/tII], § 203, Jan. 14, 1983, [96 Stat. 2591][/us/stat/96/2591].)
 
 ----------
 
@@ -39,7 +39,7 @@
 ----------
 
 [/us/usc/t29/s1862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1862
-[/us/pl/97/470/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs203
+[/us/pl/97/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtII
 [/us/stat/96/2591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2591
 
 

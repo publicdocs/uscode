@@ -17,7 +17,7 @@
 
     The Secretary may, for the purpose of identifying, preventing, or prosecuting fraud and abuse, adopt regulatory standards establishing, or issue an order relating to a specific person establishing, that a person engaged in the business of providing insurance through a multiple employer welfare arrangement described in [section 1002(40) of this title][/us/usc/t29/s1002/40] is subject to the laws of the States in which such person operates which regulate insurance in such State, notwithstanding [section 1144(b)(6) of this title][/us/usc/t29/s1144/b/6] or the Liability Risk Retention Act of 1986 \[[15 U.S.C. 3901][/us/usc/t15/s3901] et seq.\], and regardless of whether the law of the State is otherwise preempted under any of such provisions. This section shall not apply to any plan or arrangement that does not fall within the meaning of the term “multiple employer welfare arrangement” under [section 1002(40)(A) of this title][/us/usc/t29/s1002/40/A].
 
-([Pub. L. 93–406, title I, § 520][/us/pl/93/406/s520], as added [Pub. L. 111–148, title VI, § 6604(a)][/us/pl/111/148/s6604/a], Mar. 23, 2010, [124 Stat. 780][/us/stat/124/780].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 520, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6604(a), Mar. 23, 2010, [124 Stat. 780][/us/stat/124/780].)
 
  __References in Text__ 
 
@@ -34,8 +34,8 @@
 [/us/usc/t29/s1144/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144%2Fb%2F6
 [/us/usc/t15/s3901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs3901
 [/us/usc/t29/s1002/40/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F40%2FA
-[/us/pl/93/406/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs520
-[/us/pl/111/148/s6604/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6604%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F780
 [/us/pl/97/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F45
 [/us/stat/95/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F949

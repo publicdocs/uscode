@@ -17,7 +17,7 @@
 
     Every person required to file any report under this subchapter shall maintain records on the matters required to be reported which will provide in sufficient detail the necessary basic information and data from which the documents filed with the Secretary may be verified, explained, or clarified, and checked for accuracy and completeness, and shall include vouchers, worksheets, receipts, and applicable resolutions, and shall keep such records available for examination for a period of not less than five years after the filing of the documents based on the information which they contain.
 
-([Pub. L. 86–257, title II, § 206][/us/pl/86/257/s206], Sept. 14, 1959, [73 Stat. 529][/us/stat/73/529].)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 206, Sept. 14, 1959, [73 Stat. 529][/us/stat/73/529].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs206
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F529
 
 

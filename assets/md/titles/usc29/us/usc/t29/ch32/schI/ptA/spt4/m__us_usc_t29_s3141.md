@@ -347,7 +347,7 @@
 
             In carrying out the requirements of this Act, the State shall comply with [section 1232g of title 20][/us/usc/t20/s1232g].
 
-([Pub. L. 113–128, title I, § 116][/us/pl/113/128/s116], July 22, 2014, [128 Stat. 1471][/us/stat/128/1471]; [Pub. L. 114–18, § 2(c)][/us/pl/114/18/s2/c], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 116, July 22, 2014, [128 Stat. 1471][/us/stat/128/1471]; [Pub. L. 114–18][/us/pl/114/18], § 2(c), May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
 
  __References in Text__ 
 
@@ -361,13 +361,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(2)(A)(iv). [Pub. L. 114–18, § 2(c)(1)][/us/pl/114/18/s2/c/1], substituted “clause (i)(VI)” for “clause (i)(IV)”.
+    2015—Subsec. (b)(2)(A)(iv). [Pub. L. 114–18][/us/pl/114/18], § 2(c)(1), substituted “clause (i)(VI)” for “clause (i)(IV)”.
 
-    Subsec. (g)(1). [Pub. L. 114–18, § 2(c)(2)][/us/pl/114/18/s2/c/2], struck out “for a program described in subsection (d)(2)(A)” after “part B”.
+    Subsec. (g)(1). [Pub. L. 114–18][/us/pl/114/18], § 2(c)(2), struck out “for a program described in subsection (d)(2)(A)” after “part B”.
 
  __Effective Date of 2015 Amendment__ 
 
-    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see [§ 2(f) of Pub. L. 114–18][/us/pl/114/18/s2/f], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
+    Amendment by [Pub. L. 114–18][/us/pl/114/18] effective as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\], see § 2(f) of [Pub. L. 114–18][/us/pl/114/18], set out as a note under [section 3112 of this title][/us/usc/t29/s3112].
 
  __Effective Date__ 
 
@@ -402,9 +402,9 @@
 [/us/usc/t29/s3174/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fc%2F3
 [/us/usc/t29/s3164/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3164%2Fc%2F2
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/pl/113/128/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs116
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1471
-[/us/pl/114/18/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fc
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
@@ -420,11 +420,11 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/114/18/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fc%2F1
-[/us/pl/114/18/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fc%2F2
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

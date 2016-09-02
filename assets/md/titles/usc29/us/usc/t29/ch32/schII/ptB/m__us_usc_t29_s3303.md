@@ -93,7 +93,7 @@
 
         Whenever a State or outlying area implements any rule or policy relating to the administration or operation of a program authorized under this subchapter that has the effect of imposing a requirement that is not imposed under Federal law (including any rule or policy based on a State or outlying area interpretation of a Federal statute, regulation, or guideline), the State or outlying area shall identify, to eligible providers, the rule or policy as being imposed by the State or outlying area.
 
-([Pub. L. 113–128, title II, § 223][/us/pl/113/128/s223], July 22, 2014, [128 Stat. 1615][/us/stat/128/1615].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 223, July 22, 2014, [128 Stat. 1615][/us/stat/128/1615].)
 
  __Effective Date__ 
 
@@ -113,7 +113,7 @@
 [/us/usc/t29/s3302/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3302%2Fa%2F2
 [/us/usc/t29/s3141/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F3
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
-[/us/pl/113/128/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs223
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1615
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

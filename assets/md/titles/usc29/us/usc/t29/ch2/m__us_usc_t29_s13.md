@@ -17,7 +17,7 @@
 
     It shall be the duty of the Women’s Bureau to formulate standards and policies which shall promote the welfare of wage-earning women, improve their working conditions, increase their efficiency, and advance their opportunities for profitable employment. The said bureau shall have authority to investigate and report to the Department of Labor upon all matters pertaining to the welfare of women in industry. The director of said bureau may from time to time publish the results of these investigations in such a manner and to such extent as the Secretary of Labor may prescribe.
 
-([June 5, 1920, ch. 248, § 2][/us/act/1920-06-05/ch248/s2], [41 Stat. 987][/us/stat/41/987].)
+([June 5, 1920, ch. 248][/us/act/1920-06-05/ch248], § 2, [41 Stat. 987][/us/stat/41/987].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch248/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch248%2Fs2
+[/us/act/1920-06-05/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch248
 [/us/stat/41/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F987
 [/us/usc/t29/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs12
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263

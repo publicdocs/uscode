@@ -29,11 +29,11 @@
 
         (2) Nothing in this subchapter shall be deemed to prevent or bar any agency or the courts of any State or Territory (including the Commonwealth of Puerto Rico, Guam, and the Virgin Islands), from assuming and asserting jurisdiction over labor disputes over which the Board declines, pursuant to paragraph (1) of this subsection, to assert jurisdiction.
 
-([July 5, 1935, ch. 372, § 14][/us/act/1935-07-05/ch372/s14], [49 Stat. 457][/us/stat/49/457]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151]; [Pub. L. 86–257, title VII, § 701(a)][/us/pl/86/257/s701/a], Sept. 14, 1959, [73 Stat. 541][/us/stat/73/541].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 14, [49 Stat. 457][/us/stat/49/457]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151]; [Pub. L. 86–257, title VII][/us/pl/86/257/tVII], § 701(a), Sept. 14, 1959, [73 Stat. 541][/us/stat/73/541].)
 
  __Codification__ 
 
-    In subsec. (c)(1), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (c)(1), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Amendments__ 
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/act/1935-07-05/ch372/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs14
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F457
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F151
-[/us/pl/86/257/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs701%2Fa
+[/us/pl/86/257/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVII
 [/us/stat/73/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F541
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/usc/t29/s165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs165

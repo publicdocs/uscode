@@ -83,35 +83,35 @@
 
         If it is determined under a State workers’ compensation law that the workers’ compensation law is not applicable to a claim for bodily injury or death of a migrant or seasonal agricultural worker, the statute of limitations for bringing an action for actual damages for such injury or death under subsection (a) of this section shall be tolled for the period during which the claim for such injury or death under such State workers’ compensation law was pending. The statute of limitations for an action for other actual damages, statutory damages, or equitable relief arising out of the same transaction or occurrence as the injury or death of the migrant or seasonal agricultural worker shall be tolled for the period during which the claim for such injury or death was pending under the State workers’ compensation law.
 
-([Pub. L. 97–470, title V, § 504][/us/pl/97/470/s504], Jan. 14, 1983, [96 Stat. 2597][/us/stat/96/2597]; [Pub. L. 102–392, title III, § 325(a)][/us/pl/102/392/s325/a], Oct. 6, 1992, [106 Stat. 1728][/us/stat/106/1728]; [Pub. L. 104–49][/us/pl/104/49], §§ 1(a)(2), 2(a), 3, Nov. 15, 1995, [109 Stat. 432][/us/stat/109/432], 433.)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 504, Jan. 14, 1983, [96 Stat. 2597][/us/stat/96/2597]; [Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 325(a), Oct. 6, 1992, [106 Stat. 1728][/us/stat/106/1728]; [Pub. L. 104–49][/us/pl/104/49], §§ 1(a)(2), 2(a), 3, Nov. 15, 1995, [109 Stat. 432][/us/stat/109/432], 433.)
 
  __Amendments__ 
 
-    1995—Subsec. (d). [Pub. L. 104–49, § 1(a)(2)][/us/pl/104/49/s1/a/2], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
+    1995—Subsec. (d). [Pub. L. 104–49][/us/pl/104/49], § 1(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
     “(d)(1) Notwithstanding any other provision of this chapter, where a State workers’ compensation law is applicable and coverage is provided for a migrant or seasonal agricultural worker, the workers’ compensation benefits shall be the exclusive remedy for loss of such worker under this chapter in the case of bodily injury or death.
 
     “(2) The exclusive remedy prescribed by paragraph (1) precludes the recovery under subsection (c) of this section of actual damages for loss from an injury or death but does not preclude recovery under subsection (c) of this section for statutory damages or an injunction.”
 
-    Subsec. (e). [Pub. L. 104–49, § 2(a)][/us/pl/104/49/s2/a], added subsec. (e).
+    Subsec. (e). [Pub. L. 104–49][/us/pl/104/49], § 2(a), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 104–49, § 3][/us/pl/104/49/s3], added subsec. (f).
+    Subsec. (f). [Pub. L. 104–49][/us/pl/104/49], § 3, added subsec. (f).
 
     1992—Subsec. (d). [Pub. L. 102–392][/us/pl/102/392] added subsec. (d).
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–49, § 1(b)][/us/pl/104/49/s1/b], Nov. 15, 1995, [109 Stat. 432][/us/stat/109/432], provided that: 
+[Pub. L. 104–49][/us/pl/104/49], § 1(b), Nov. 15, 1995, [109 Stat. 432][/us/stat/109/432], provided that: 
 
 > “The amendment made by subsection (a)(2) \[amending this section\] shall apply to all cases in which a final judgment has not been entered.”
 
-[Pub. L. 104–49, § 2(b)][/us/pl/104/49/s2/b], Nov. 15, 1995, [109 Stat. 433][/us/stat/109/433], provided that: 
+[Pub. L. 104–49][/us/pl/104/49], § 2(b), Nov. 15, 1995, [109 Stat. 433][/us/stat/109/433], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall apply to all cases in which a final judgment has not been entered.”
 
  __Effective Date of 1992 Amendment__ 
 
-    [Pub. L. 102–392, title III, § 325(c)][/us/pl/102/392/s325/c], Oct. 6, 1992, [106 Stat. 1728][/us/stat/106/1728], provided that the amendment of this section by [section 325(a) of Pub. L. 102–392][/us/pl/102/392/s325/a] would apply to actions commenced after Oct. 6, 1992, but not after the expiration of 9 months after such date, with waiver and extension provisions for certain actions, prior to repeal by [Pub. L. 104–49, § 1(a)(1)][/us/pl/104/49/s1/a/1], Nov. 15, 1995, [109 Stat. 432][/us/stat/109/432].
+    [Pub. L. 102–392, title III][/us/pl/102/392/tIII], § 325(c), Oct. 6, 1992, [106 Stat. 1728][/us/stat/106/1728], provided that the amendment of this section by [section 325(a) of Pub. L. 102–392][/us/pl/102/392/s325/a] would apply to actions commenced after Oct. 6, 1992, but not after the expiration of 9 months after such date, with waiver and extension provisions for certain actions, prior to repeal by [Pub. L. 104–49][/us/pl/104/49], § 1(a)(1), Nov. 15, 1995, [109 Stat. 432][/us/stat/109/432].
 
 ----------
 
@@ -128,24 +128,24 @@
 [/us/usc/t29/s1841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1841%2Fb
 [/us/usc/t29/s1841/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1841%2Fb
 [/us/usc/t29/s1811/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1811%2Fa
-[/us/pl/97/470/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs504
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2597
-[/us/pl/102/392/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs325%2Fa
+[/us/pl/102/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtIII
 [/us/stat/106/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1728
 [/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F432
-[/us/pl/104/49/s1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs1%2Fa%2F2
-[/us/pl/104/49/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs2%2Fa
-[/us/pl/104/49/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs3
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/pl/102/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392
-[/us/pl/104/49/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs1%2Fb
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F432
-[/us/pl/104/49/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs2%2Fb
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/433]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F433
-[/us/pl/102/392/s325/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs325%2Fc
+[/us/pl/102/392/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2FtIII
 [/us/stat/106/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1728
 [/us/pl/102/392/s325/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392%2Fs325%2Fa
-[/us/pl/104/49/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs1%2Fa%2F1
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F432
 
 

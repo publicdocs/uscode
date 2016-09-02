@@ -39,7 +39,7 @@
 
         Nothing contained in this section shall be construed to require any officer or employee of a labor organization to file a report under subsection (a) unless he or his spouse or minor child holds or has held an interest, has received income or any other benefit with monetary value or a loan, or has engaged in a transaction described therein.
 
-([Pub. L. 86–257, title II, § 202][/us/pl/86/257/s202], Sept. 14, 1959, [73 Stat. 525][/us/stat/73/525].)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 202, Sept. 14, 1959, [73 Stat. 525][/us/stat/73/525].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
     The Investment Company Act of 1940, referred to in subsec. (b), is title I of [act Aug. 22, 1940, ch. 686][/us/act/1940-08-22/ch686], [54 Stat. 789][/us/stat/54/789], as amended, which is classified generally to subchapter I (§ 80a–1 et seq.) of chapter 2D of Title 15. For complete classification of this Act to the Code, see [section 80a–51 of Title 15][/us/usc/t15/s80a–51] and Tables.
 
-    The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII, § 1263][/us/pl/109/58/s1263], Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
+    The Public Utility Holding Company Act of 1935, referred to in subsec. (b), is title I of [act Aug. 26, 1935, ch. 687][/us/act/1935-08-26/ch687], [49 Stat. 803][/us/stat/49/803], as amended, which was classified generally to chapter 2C (§ 79 et seq.) of Title 15, Commerce and Trade, prior to repeal by [Pub. L. 109–58, title XII][/us/pl/109/58/tXII], § 1263, Aug. 8, 2005, [119 Stat. 974][/us/stat/119/974]. For complete classification of this Act to the Code, see Tables.
 
 ----------
 
@@ -59,7 +59,7 @@
 [/us/usc/t29/s186/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs186%2Fc
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/usc/t15/s80a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%931
-[/us/pl/86/257/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs202
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F525
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
@@ -69,7 +69,7 @@
 [/us/usc/t15/s80a–51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%9351
 [/us/act/1935-08-26/ch687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-26%2Fch687
 [/us/stat/49/803]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F803
-[/us/pl/109/58/s1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2Fs1263
+[/us/pl/109/58/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F58%2FtXII
 [/us/stat/119/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F974
 
 

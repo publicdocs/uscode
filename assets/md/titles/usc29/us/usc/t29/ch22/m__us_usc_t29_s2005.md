@@ -51,7 +51,7 @@
 
         The rights and procedures provided by this chapter may not be waived by contract or otherwise, unless such waiver is part of a written settlement agreed to and signed by the parties to the pending action or complaint under this chapter.
 
-([Pub. L. 100–347, § 6][/us/pl/100/347/s6], June 27, 1988, [102 Stat. 647][/us/stat/102/647].)
+([Pub. L. 100–347][/us/pl/100/347], § 6, June 27, 1988, [102 Stat. 647][/us/stat/102/647].)
 
 ----------
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t29/s1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1853
-[/us/pl/100/347/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs6
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F647
 
 

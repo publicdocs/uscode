@@ -19,11 +19,11 @@
 
     (b) Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
 
-([Pub. L. 86–257, title V, § 502][/us/pl/86/257/s502], Sept. 14, 1959, [73 Stat. 536][/us/stat/73/536]; [Pub. L. 89–216, § 1][/us/pl/89/216/s1], Sept. 29, 1965, [79 Stat. 888][/us/stat/79/888].)
+([Pub. L. 86–257, title V][/us/pl/86/257/tV], § 502, Sept. 14, 1959, [73 Stat. 536][/us/stat/73/536]; [Pub. L. 89–216][/us/pl/89/216], § 1, Sept. 29, 1965, [79 Stat. 888][/us/stat/79/888].)
 
  __Codification__ 
 
-    In subsec. (a), “sections 9304–9308 of title 31” substituted for “the Act of July 30, 1947 ([6 U.S.C. 6–13][/us/usc/t6/s6–13])” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “sections 9304–9308 of title 31” substituted for “the Act of July 30, 1947 ([6 U.S.C. 6–13][/us/usc/t6/s6–13])” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
@@ -36,12 +36,12 @@
 ----------
 ----------
 
-[/us/pl/86/257/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs502
+[/us/pl/86/257/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtV
 [/us/stat/73/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F536
-[/us/pl/89/216/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216%2Fs1
+[/us/pl/89/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216
 [/us/stat/79/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F888
 [/us/usc/t6/s6–13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs6%E2%80%9313
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/89/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216
 

@@ -245,7 +245,7 @@
 
         The Council is authorized to hold such hearings and forums as the Council may determine to be necessary to carry out the duties of the Council.
 
-([Pub. L. 93–112, title I, § 105][/us/pl/93/112/s105], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1151][/us/stat/112/1151]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 106–402, title IV, § 401(b)(3)(A)][/us/pl/106/402/s401/b/3/A], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 108–446, title III, § 305(h)(2)][/us/pl/108/446/s305/h/2], (3), Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 113–128, title IV, § 415][/us/pl/113/128/s415], July 22, 2014, [128 Stat. 1654][/us/stat/128/1654].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 105, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1151][/us/stat/112/1151]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(c)(6)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(b)(3)(A), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(h)(2), (3), Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 415, July 22, 2014, [128 Stat. 1654][/us/stat/128/1654].)
 
  __References in Text__ 
 
@@ -255,31 +255,31 @@
 
  __Prior Provisions__ 
 
-    A prior section 725, [Pub. L. 93–112, title I, § 105][/us/pl/93/112/s105], as added [Pub. L. 102–569, title I, § 126(a)][/us/pl/102/569/s126/a], Oct. 29, 1992, [106 Stat. 4381][/us/stat/106/4381]; amended [Pub. L. 103–73, title I, § 107(d)(1)][/us/pl/103/73/s107/d/1], Aug. 11, 1993, [107 Stat. 721][/us/stat/107/721], related to State Rehabilitation Advisory Council, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 725, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 105, as added [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 126(a), Oct. 29, 1992, [106 Stat. 4381][/us/stat/106/4381]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 107(d)(1), Aug. 11, 1993, [107 Stat. 721][/us/stat/107/721], related to State Rehabilitation Advisory Council, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (b)(1)(A)(ix). [Pub. L. 113–128, § 415(1)(A)][/us/pl/113/128/s415/1/A], added cl. (ix) and struck out former cl. (ix) which read as follows: “in a State in which one or more projects are carried out under [section 741 of this title][/us/usc/t29/s741], at least one representative of the directors of the projects;”.
+    2014—Subsec. (b)(1)(A)(ix). [Pub. L. 113–128][/us/pl/113/128], § 415(1)(A), added cl. (ix) and struck out former cl. (ix) which read as follows: “in a State in which one or more projects are carried out under [section 741 of this title][/us/usc/t29/s741], at least one representative of the directors of the projects;”.
 
-    Subsec. (b)(1)(A)(xi). [Pub. L. 113–128, § 415(1)(B)][/us/pl/113/128/s415/1/B], substituted “State workforce development board” for “State workforce investment board”.
+    Subsec. (b)(1)(A)(xi). [Pub. L. 113–128][/us/pl/113/128], § 415(1)(B), substituted “State workforce development board” for “State workforce investment board”.
 
-    Subsec. (c). [Pub. L. 113–128, § 415(2)(A)][/us/pl/113/128/s415/2/A], substituted “State workforce development board” for “State workforce investment board” in introductory provisions.
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 415(2)(A), substituted “State workforce development board” for “State workforce investment board” in introductory provisions.
 
-    Subsec. (c)(6). [Pub. L. 113–128, § 415(2)(B)][/us/pl/113/128/s415/2/B], substituted “[section 300x–3(a) of title 42][/us/usc/t42/s300x–3/a] and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 ([29 U.S.C. 3001][/us/usc/t29/s3001] et seq.);” for “[section 300x–3(a) of title 42][/us/usc/t42/s300x–3/a], and the State workforce investment board;”.
+    Subsec. (c)(6). [Pub. L. 113–128][/us/pl/113/128], § 415(2)(B), substituted “[section 300x–3(a) of title 42][/us/usc/t42/s300x–3/a] and the State workforce development board, and with the activities of entities carrying out programs under the Assistive Technology Act of 1998 ([29 U.S.C. 3001][/us/usc/t29/s3001] et seq.);” for “[section 300x–3(a) of title 42][/us/usc/t42/s300x–3/a], and the State workforce investment board;”.
 
-    2004—Subsec. (b)(1)(A)(ii). [Pub. L. 108–446, § 305(h)(2)][/us/pl/108/446/s305/h/2], substituted “671 of the Individuals with Disabilities Education Act” for “682(a) of the Individuals with Disabilities Education Act (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; [Public Law 105–17][/us/pl/105/17])”.
+    2004—Subsec. (b)(1)(A)(ii). [Pub. L. 108–446][/us/pl/108/446], § 305(h)(2), substituted “671 of the Individuals with Disabilities Education Act” for “682(a) of the Individuals with Disabilities Education Act (as added by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; [Public Law 105–17][/us/pl/105/17])”.
 
-    Subsec. (c)(6). [Pub. L. 108–446, § 305(h)(3)][/us/pl/108/446/s305/h/3], substituted “section 612(a)(20)” for “section 612(a)(21)” and “Individuals with” for “Individual with” and struck out “(as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; [Public Law 105–17][/us/pl/105/17])” before “, the State Council”.
+    Subsec. (c)(6). [Pub. L. 108–446][/us/pl/108/446], § 305(h)(3), substituted “section 612(a)(20)” for “section 612(a)(21)” and “Individuals with” for “Individual with” and struck out “(as amended by section 101 of the Individuals with Disabilities Education Act Amendments of 1997; [Public Law 105–17][/us/pl/105/17])” before “, the State Council”.
 
     2000—Subsec. (c)(6). [Pub. L. 106–402][/us/pl/106/402] substituted “the State Council on Developmental Disabilities established under [section 15025 of title 42][/us/usc/t42/s15025]” for “the State Developmental Disabilities Council described in [section 6024 of title 42][/us/usc/t42/s6024]”.
 
-    1998—Subsec. (b)(3). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)(A)\], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
+    1998—Subsec. (b)(3). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(c)(6)(A)\], substituted “Governor or, in the case of a State that, under State law, vests authority for the administration of the activities carried out under this chapter in an entity other than the Governor (such as one or more houses of the State legislature or an independent board), the chief officer of that entity” for “Governor” in first sentence and “appointing authority” for “Governor” in second and third sentences.
 
-    Subsec. (b)(4)(A)(i). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)(B)\], substituted “section 705(20)(B)” for “section 705(20)(A)”.
+    Subsec. (b)(4)(A)(i). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(c)(6)(B)\], substituted “section 705(20)(B)” for “section 705(20)(A)”.
 
-    Subsec. (b)(5)(B). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)(C)\], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
+    Subsec. (b)(5)(B). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(c)(6)(C)\], substituted “chief executive officer” for “Governor” in heading and “appointing authority described in paragraph (3) shall” for “Governor shall” in text.
 
-    Subsec. (b)(6)(A)(ii), (7)(B). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(6)(D)\], substituted “appointing authority described in paragraph (3)” for “Governor”.
+    Subsec. (b)(6)(A)(ii), (7)(B). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(c)(6)(D)\], substituted “appointing authority described in paragraph (3)” for “Governor”.
 
  __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
@@ -309,16 +309,16 @@
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
 [/us/usc/t29/s730/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs730%2Fc
-[/us/pl/93/112/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs105
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1151
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/106/402/s401/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F3%2FA
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
-[/us/pl/108/446/s305/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F2
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2805
-[/us/pl/113/128/s415]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1654
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
@@ -326,31 +326,31 @@
 [/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
 [/us/stat/112/3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3627
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
-[/us/pl/93/112/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs105
-[/us/pl/102/569/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs126%2Fa
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4381
-[/us/pl/103/73/s107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Fd%2F1
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F721
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s415/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415%2F1%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s741]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs741
-[/us/pl/113/128/s415/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415%2F1%2FB
-[/us/pl/113/128/s415/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415%2F2%2FA
-[/us/pl/113/128/s415/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs415%2F2%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t42/s300x–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%933%2Fa
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
 [/us/usc/t42/s300x–3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300x%E2%80%933%2Fa
-[/us/pl/108/446/s305/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F2
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
-[/us/pl/108/446/s305/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F3
+[/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/105/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/usc/t42/s15025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15025
 [/us/usc/t42/s6024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6024
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102

@@ -31,7 +31,7 @@
 
         If the Secretary arbitrarily or capriciously fails to seek relief under this section, any employee who may be injured by reason of such failure, or the representative of such employees, might bring an action against the Secretary in the United States district court for the district in which the imminent danger is alleged to exist or the employer has its principal office, or for the District of Columbia, for a writ of mandamus to compel the Secretary to seek such an order and for such further relief as may be appropriate.
 
-([Pub. L. 91–596, § 13][/us/pl/91/596/s13], Dec. 29, 1970, [84 Stat. 1605][/us/stat/84/1605].)
+([Pub. L. 91–596][/us/pl/91/596], § 13, Dec. 29, 1970, [84 Stat. 1605][/us/stat/84/1605].)
 
  __References in Text__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/91/596/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs13
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1605
 
 

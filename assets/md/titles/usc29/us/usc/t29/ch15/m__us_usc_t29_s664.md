@@ -17,7 +17,7 @@
 
     All information reported to or otherwise obtained by the Secretary or his representative in connection with any inspection or proceeding under this chapter which contains or which might reveal a trade secret referred to in [section 1905 of title 18][/us/usc/t18/s1905] shall be considered confidential for the purpose of that section, except that such information may be disclosed to other officers or employees concerned with carrying out this chapter or when relevant in any proceeding under this chapter. In any such proceeding the Secretary, the Commission, or the court shall issue such orders as may be appropriate to protect the confidentiality of trade secrets.
 
-([Pub. L. 91–596, § 15][/us/pl/91/596/s15], Dec. 29, 1970, [84 Stat. 1606][/us/stat/84/1606].)
+([Pub. L. 91–596][/us/pl/91/596], § 15, Dec. 29, 1970, [84 Stat. 1606][/us/stat/84/1606].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t18/s1905]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1905
-[/us/pl/91/596/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs15
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1606
 
 

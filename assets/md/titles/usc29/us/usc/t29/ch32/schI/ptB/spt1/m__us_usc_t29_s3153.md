@@ -23,7 +23,7 @@
 
         A local board may award grants or contracts on a sole-source basis if such board determines there is an insufficient number of eligible providers of youth workforce investment activities in the local area involved (such as a rural area) for grants and contracts to be awarded on a competitive basis under subsection (a).
 
-([Pub. L. 113–128, title I, § 123][/us/pl/113/128/s123], July 22, 2014, [128 Stat. 1498][/us/stat/128/1498].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 123, July 22, 2014, [128 Stat. 1498][/us/stat/128/1498].)
 
  __Effective Date__ 
 
@@ -39,7 +39,7 @@
 [/us/usc/t29/s3163/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3163%2Fb
 [/us/usc/t29/s3141/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fii
 [/us/usc/t29/s3112/b/2/D/i/V]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112%2Fb%2F2%2FD%2Fi%2FV
-[/us/pl/113/128/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs123
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1498]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1498
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

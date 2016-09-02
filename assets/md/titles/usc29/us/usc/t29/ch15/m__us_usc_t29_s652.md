@@ -45,7 +45,7 @@
 
     (14) The term “Workmen’s Compensation Commission” means the National Commission on State Workmen’s Compensation Laws established under this chapter.
 
-([Pub. L. 91–596, § 3][/us/pl/91/596/s3], Dec. 29, 1970, [84 Stat. 1591][/us/stat/84/1591]; [Pub. L. 105–241, § 2(a)][/us/pl/105/241/s2/a], Sept. 28, 1998, [112 Stat. 1572][/us/stat/112/1572].)
+([Pub. L. 91–596][/us/pl/91/596], § 3, Dec. 29, 1970, [84 Stat. 1591][/us/stat/84/1591]; [Pub. L. 105–241][/us/pl/105/241], § 2(a), Sept. 28, 1998, [112 Stat. 1572][/us/stat/112/1572].)
 
  __Amendments__ 
 
@@ -66,9 +66,9 @@
 ----------
 ----------
 
-[/us/pl/91/596/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs3
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1591
-[/us/pl/105/241/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241%2Fs2%2Fa
+[/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/stat/112/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1572
 [/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/usc/t48/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft48%2Fs1681

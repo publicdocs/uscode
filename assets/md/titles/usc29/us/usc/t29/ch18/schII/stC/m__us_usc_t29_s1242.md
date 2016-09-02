@@ -43,7 +43,7 @@
 
         The Joint Board may also, after notice and opportunity for hearing, suspend or terminate the temporary enrollment of an individual who fails to discharge his duties under this chapter or who does not satisfy the interim enrollment standards.
 
-([Pub. L. 93–406, title III, § 3042][/us/pl/93/406/s3042], Sept. 2, 1974, [88 Stat. 1002][/us/stat/88/1002].)
+([Pub. L. 93–406, title III][/us/pl/93/406/tIII], § 3042, Sept. 2, 1974, [88 Stat. 1002][/us/stat/88/1002].)
 
  __References in Text__ 
 
@@ -56,7 +56,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s3042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs3042
+[/us/pl/93/406/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIII
 [/us/stat/88/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1002
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001

@@ -17,7 +17,7 @@
 
     The Secretary of Labor may publish information relating to existing and proposed labor standards of apprenticeship, and may appoint national advisory committees to serve without compensation. Such committees shall include representatives of employers, representatives of labor, educators, and officers of other executive departments, with the consent of the head of any such department.
 
-([Aug. 16, 1937, ch. 663, § 2][/us/act/1937-08-16/ch663/s2], [50 Stat. 665][/us/stat/50/665].)
+([Aug. 16, 1937, ch. 663][/us/act/1937-08-16/ch663], § 2, [50 Stat. 665][/us/stat/50/665].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1937-08-16/ch663/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663%2Fs2
+[/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F665
 
 

@@ -53,11 +53,11 @@
 
         Any person against whom an order has been entered after an agency hearing under this section may obtain review by the United States district court for any district in which he is located or the United States District Court for the District of Columbia by filing a notice of appeal in such court within thirty days from the date of such order, and simultaneously sending a copy of such notice by registered mail to the Secretary. The Secretary shall promptly certify and file in such court the record upon which the order was based. The findings of the Secretary shall be set aside only if found to be unsupported by substantial evidence as provided by [section 706(2)(E) of title 5][/us/usc/t5/s706/2/E]. Any final decision, order, or judgment of such District Court concerning such review shall be subject to appeal as provided in chapter 83 of title 28.
 
-([Pub. L. 97–470, title I, § 103][/us/pl/97/470/s103], Jan. 14, 1983, [96 Stat. 2588][/us/stat/96/2588]; [Pub. L. 99–603, title I, § 101(b)(1)(B)][/us/pl/99/603/s101/b/1/B], Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372].)
+([Pub. L. 97–470, title I][/us/pl/97/470/tI], § 103, Jan. 14, 1983, [96 Stat. 2588][/us/stat/96/2588]; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 101(b)(1)(B), Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372].)
 
  __References in Text__ 
 
-    The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4), is [Pub. L. 88–582][/us/pl/88/582], Sept. 7, 1964, [78 Stat. 920][/us/stat/78/920], as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by [Pub. L. 97–470, title V, § 523][/us/pl/97/470/s523], Jan. 14, 1983, [96 Stat. 2600][/us/stat/96/2600]. See section 1801 et seq. of this title.
+    The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(4), is [Pub. L. 88–582][/us/pl/88/582], Sept. 7, 1964, [78 Stat. 920][/us/stat/78/920], as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by [Pub. L. 97–470, title V][/us/pl/97/470/tV], § 523, Jan. 14, 1983, [96 Stat. 2600][/us/stat/96/2600]. See section 1801 et seq. of this title.
 
  __Amendments__ 
 
@@ -78,13 +78,13 @@
 [/us/usc/t8/s1324a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fa
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
-[/us/pl/97/470/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs103
+[/us/pl/97/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtI
 [/us/stat/96/2588]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2588
-[/us/pl/99/603/s101/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs101%2Fb%2F1%2FB
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3372
 [/us/pl/88/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F582
 [/us/stat/78/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F920
-[/us/pl/97/470/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs523
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2600
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603

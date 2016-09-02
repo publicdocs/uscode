@@ -287,7 +287,7 @@
 
         In the case of a withdrawal following a merger of multiemployer plans, subsection (b), (c), or (d) of this section shall be applied in accordance with regulations prescribed by the corporation; except that, if a withdrawal occurs in the first plan year beginning after a merger of multiemployer plans, the determination under this section shall be made as if each of the multiemployer plans had remained separate plans.
 
-([Pub. L. 93–406, title IV, § 4211][/us/pl/93/406/s4211], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1226][/us/stat/94/1226]; amended [Pub. L. 98–369, div. A, title V, § 558(b)(1)(A)][/us/pl/98/369/s558/b/1/A], (B), July 18, 1984, [98 Stat. 899][/us/stat/98/899]; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 109–280, title II, § 204(c)(2)][/us/pl/109/280/s204/c/2], Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4211, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1226][/us/stat/94/1226]; amended [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 558(b)(1)(A), (B), July 18, 1984, [98 Stat. 899][/us/stat/98/899]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(c)(2), Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887].)
 
  __Amendments__ 
 
@@ -295,9 +295,9 @@
 
     1989—Subsec. (d)(1). [Pub. L. 101–239][/us/pl/101/239] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    1984—Subsec. (b). [Pub. L. 98–369, § 558(b)(1)(A)][/us/pl/98/369/s558/b/1/A], (B), substituted “September 25, 1980” for “April 28, 1980” in pars. (1)(A) and (2)(A), (B)(ii)(II), and “September 26, 1980” for “April 29, 1980” in pars. (1)(B) and (2)(B)(ii)(I), (D), and in par. (3) in provisions preceding subpar. (A) and in subpar. (B)(i), (ii).
+    1984—Subsec. (b). [Pub. L. 98–369][/us/pl/98/369], § 558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” in pars. (1)(A) and (2)(A), (B)(ii)(II), and “September 26, 1980” for “April 29, 1980” in pars. (1)(B) and (2)(B)(ii)(I), (D), and in par. (3) in provisions preceding subpar. (A) and in subpar. (B)(i), (ii).
 
-    Subsec. (c)(2). [Pub. L. 98–369, § 558(b)(1)(A)][/us/pl/98/369/s558/b/1/A], (B), substituted “September 25, 1980” for “April 28, 1980” in subpars. (B)(ii)(II) and (C)(i)(II) and “September 26, 1980” for “April 29, 1980” in subpar. (B)(i), (ii)(I), (II).
+    Subsec. (c)(2). [Pub. L. 98–369][/us/pl/98/369], § 558(b)(1)(A), (B), substituted “September 25, 1980” for “April 28, 1980” in subpars. (B)(ii)(II) and (C)(i)(II) and “September 26, 1980” for “April 29, 1980” in subpar. (B)(i), (ii)(I), (II).
 
  __Effective Date of 2006 Amendment__ 
 
@@ -318,19 +318,19 @@
 [/us/usc/t29/s1383/b/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1383%2Fb%2F1%2FB%2Fi
 [/us/usc/t29/s1383/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1383%2Fb%2F1%2FA
 [/us/usc/t26/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404%2Fc
-[/us/pl/93/406/s4211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4211
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1226
-[/us/pl/98/369/s558/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs558%2Fb%2F1%2FA
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F899
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/109/280/s204/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fc%2F2
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F887
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/98/369/s558/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs558%2Fb%2F1%2FA
-[/us/pl/98/369/s558/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs558%2Fb%2F1%2FA
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
+[/us/pl/98/369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fc%2F3
 [/us/usc/t29/s1390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1390

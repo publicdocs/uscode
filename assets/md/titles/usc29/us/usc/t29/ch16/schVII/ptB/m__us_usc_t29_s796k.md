@@ -203,35 +203,35 @@
 
                 The Commissioner may not make a grant under subparagraph (A) unless the State involved agrees that the grant is subject to the same conditions as grants made under subsection (a) of this section.
 
-([Pub. L. 93–112, title VII, § 752][/us/pl/93/112/s752], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1237][/us/stat/112/1237]; amended [Pub. L. 113–128, title IV, § 487][/us/pl/113/128/s487], July 22, 2014, [128 Stat. 1694][/us/stat/128/1694].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 752, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1237][/us/stat/112/1237]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 487, July 22, 2014, [128 Stat. 1694][/us/stat/128/1694].)
 
  __References in Text__ 
 
-    Part C of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§ 796f) which was included in the repeal of subchapter VII of this chapter by [Pub. L. 102–569, title VII, § 701(1)][/us/pl/102/569/s701/1], Oct. 29, 1992, [106 Stat. 4443][/us/stat/106/4443].
+    Part C of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (b)(2)(B), means former part C (§ 796f) which was included in the repeal of subchapter VII of this chapter by [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(1), Oct. 29, 1992, [106 Stat. 4443][/us/stat/106/4443].
 
  __Prior Provisions__ 
 
-    A prior section 796k, [Pub. L. 93–112, title VII, § 752][/us/pl/93/112/s752], as added [Pub. L. 102–569, title VII, § 703(a)][/us/pl/102/569/s703/a], Oct. 29, 1992, [106 Stat. 4465][/us/stat/106/4465]; amended [Pub. L. 103–73, title I, § 114(m)][/us/pl/103/73/s114/m], Aug. 11, 1993, [107 Stat. 732][/us/stat/107/732], authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796k, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 752, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 703(a), Oct. 29, 1992, [106 Stat. 4465][/us/stat/106/4465]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(m), Aug. 11, 1993, [107 Stat. 732][/us/stat/107/732], authorized grants to provide independent living services for older individuals who are blind, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2). [Pub. L. 113–128, § 487(3)][/us/pl/113/128/s487/3], substituted “subsection (i)” for “subsection (j)” and “subsection (h)” for “subsection (i)”.
+    2014—Subsec. (c)(2). [Pub. L. 113–128][/us/pl/113/128], § 487(3), substituted “subsection (i)” for “subsection (j)” and “subsection (h)” for “subsection (i)”.
 
-    Subsec. (g). [Pub. L. 113–128, § 487(4)][/us/pl/113/128/s487/4], inserted “, or contracts or cooperative agreements with,” after “grants to”.
+    Subsec. (g). [Pub. L. 113–128][/us/pl/113/128], § 487(4), inserted “, or contracts or cooperative agreements with,” after “grants to”.
 
-    Subsec. (h). [Pub. L. 113–128, § 487(1)][/us/pl/113/128/s487/1], (2), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that, in carrying out subsection (d)(1) of this section, the State will seek to incorporate into the State plan under [section 796c of this title][/us/usc/t29/s796c] any new methods and approaches relating to independent living services for older individuals who are blind.”
+    Subsec. (h). [Pub. L. 113–128][/us/pl/113/128], § 487(1), (2), redesignated subsec. (i) as (h) and struck out former subsec. (h). Prior to amendment, text read as follows: “The Commissioner may not make a grant under subsection (a) of this section unless the State involved agrees that, in carrying out subsection (d)(1) of this section, the State will seek to incorporate into the State plan under [section 796c of this title][/us/usc/t29/s796c] any new methods and approaches relating to independent living services for older individuals who are blind.”
 
-    Subsec. (h)(1). [Pub. L. 113–128, § 487(5)(A)][/us/pl/113/128/s487/5/A], substituted “subsection (i)(4)” for “subsection (j)(4)”.
+    Subsec. (h)(1). [Pub. L. 113–128][/us/pl/113/128], § 487(5)(A), substituted “subsection (i)(4)” for “subsection (j)(4)”.
 
-    Subsec. (h)(2)(A)(vi) to (C). [Pub. L. 113–128, § 487(5)(B)][/us/pl/113/128/s487/5/B], inserted “and” after semicolon at end of subpar. (A)(vi), substituted a period for “; and” at end of subpar. (B)(ii)(III), and struck out subpar. (C) which read as follows: “an assurance that the application is consistent with the State plan for providing independent living services required by [section 796c of this title][/us/usc/t29/s796c].”
+    Subsec. (h)(2)(A)(vi) to (C). [Pub. L. 113–128][/us/pl/113/128], § 487(5)(B), inserted “and” after semicolon at end of subpar. (A)(vi), substituted a period for “; and” at end of subpar. (B)(ii)(III), and struck out subpar. (C) which read as follows: “an assurance that the application is consistent with the State plan for providing independent living services required by [section 796c of this title][/us/usc/t29/s796c].”
 
-    Subsec. (i). [Pub. L. 113–128, § 487(2)][/us/pl/113/128/s487/2], redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
+    Subsec. (i). [Pub. L. 113–128][/us/pl/113/128], § 487(2), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
-    Subsec. (i)(2)(A)(ii), (3)(A). [Pub. L. 113–128, § 487(6)(A)][/us/pl/113/128/s487/6/A], (B), inserted “, and not reserved under [section 796j–1 of this title][/us/usc/t29/s796j–1],” after “section 796l of this title”.
+    Subsec. (i)(2)(A)(ii), (3)(A). [Pub. L. 113–128][/us/pl/113/128], § 487(6)(A), (B), inserted “, and not reserved under [section 796j–1 of this title][/us/usc/t29/s796j–1],” after “section 796l of this title”.
 
-    Subsec. (i)(4)(B)(i). [Pub. L. 113–128, § 487(6)(C)][/us/pl/113/128/s487/6/C], substituted “subsection (h)” for “subsection (i)”.
+    Subsec. (i)(4)(B)(i). [Pub. L. 113–128][/us/pl/113/128], § 487(6)(C), substituted “subsection (h)” for “subsection (i)”.
 
-    Subsec. (j). [Pub. L. 113–128, § 487(2)][/us/pl/113/128/s487/2], redesignated subsec. (j) as (i).
+    Subsec. (j). [Pub. L. 113–128][/us/pl/113/128], § 487(2), redesignated subsec. (j) as (i).
 
 ----------
 
@@ -243,30 +243,30 @@
 [/us/usc/t29/s721/a/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2%2FA%2Fi
 [/us/usc/t29/s796j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j%E2%80%931
 [/us/usc/t29/s796j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j%E2%80%931
-[/us/pl/93/112/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs752
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1237
-[/us/pl/113/128/s487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1694]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1694
-[/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4443
-[/us/pl/93/112/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs752
-[/us/pl/102/569/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs703%2Fa
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4465
-[/us/pl/103/73/s114/m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fm
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F732
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s487/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F3
-[/us/pl/113/128/s487/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F4
-[/us/pl/113/128/s487/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F1
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s796c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c
-[/us/pl/113/128/s487/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F5%2FA
-[/us/pl/113/128/s487/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F5%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s796c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c
-[/us/pl/113/128/s487/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F2
-[/us/pl/113/128/s487/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F6%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s796j–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796j%E2%80%931
-[/us/pl/113/128/s487/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F6%2FC
-[/us/pl/113/128/s487/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs487%2F2
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

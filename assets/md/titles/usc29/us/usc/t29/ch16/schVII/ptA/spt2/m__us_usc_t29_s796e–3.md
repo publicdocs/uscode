@@ -17,11 +17,11 @@
 
     There are authorized to be appropriated to carry out this subpart $22,878,000 for fiscal year 2015, $24,645,000 for fiscal year 2016, $25,156,000 for fiscal year 2017, $25,714,000 for fiscal year 2018, $26,319,000 for fiscal year 2019, and $26,877,000 for fiscal year 2020.
 
-([Pub. L. 93–112, title VII, § 714][/us/pl/93/112/s714], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1226][/us/stat/112/1226]; amended [Pub. L. 113–128, title IV, § 476(e)][/us/pl/113/128/s476/e], July 22, 2014, [128 Stat. 1691][/us/stat/128/1691].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 714, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1226][/us/stat/112/1226]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 476(e), July 22, 2014, [128 Stat. 1691][/us/stat/128/1691].)
 
  __Prior Provisions__ 
 
-    A prior section 796e–3, [Pub. L. 93–112, title VII, § 714][/us/pl/93/112/s714], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4452][/us/stat/106/4452], authorized appropriations, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796e–3, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 714, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4452][/us/stat/106/4452], authorized appropriations, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
@@ -34,13 +34,13 @@
 ----------
 ----------
 
-[/us/pl/93/112/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs714
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1226
-[/us/pl/113/128/s476/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fe
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1691
-[/us/pl/93/112/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs714
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4452
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

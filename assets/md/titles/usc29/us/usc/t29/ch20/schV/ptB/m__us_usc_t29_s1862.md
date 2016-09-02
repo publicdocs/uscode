@@ -27,7 +27,7 @@
 
         It shall be a violation of this chapter for any person to unlawfully resist, oppose, impede, intimidate, or interfere with any official of the Department of Labor assigned to perform an investigation, inspection, or law enforcement function pursuant to this chapter during the performance of such duties.
 
-([Pub. L. 97–470, title V, § 512][/us/pl/97/470/s512], Jan. 14, 1983, [96 Stat. 2598][/us/stat/96/2598].)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 512, Jan. 14, 1983, [96 Stat. 2598][/us/stat/96/2598].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs512
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2598
 
 

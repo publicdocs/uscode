@@ -17,7 +17,7 @@
 
     Nothing in this chapter shall be construed to impair or diminish the authority of any State to enact and enforce general criminal laws with respect to robbery, bribery, extortion, embezzlement, grand larceny, burglary, arson, violation of narcotics laws, murder, rape, assault with intent to kill, or assault which inflicts grievous bodily injury, or conspiracy to commit any of such crimes.
 
-([Pub. L. 86–257, title VI, § 604][/us/pl/86/257/s604], Sept. 14, 1959, [73 Stat. 540][/us/stat/73/540].)
+([Pub. L. 86–257, title VI][/us/pl/86/257/tVI], § 604, Sept. 14, 1959, [73 Stat. 540][/us/stat/73/540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs604
+[/us/pl/86/257/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVI
 [/us/stat/73/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F540
 
 

@@ -39,7 +39,7 @@
 
             An eligible agency’s non-Federal contribution required under paragraph (1) may be provided in cash or in kind, fairly evaluated, and shall include only non-Federal funds that are used for adult education and literacy activities in a manner that is consistent with the purpose of this subchapter.
 
-([Pub. L. 113–128, title II, § 222][/us/pl/113/128/s222], July 22, 2014, [128 Stat. 1614][/us/stat/128/1614].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 222, July 22, 2014, [128 Stat. 1614][/us/stat/128/1614].)
 
  __Effective Date__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t29/s3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3305
 [/us/usc/t29/s3303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3303
 [/us/usc/t29/s3291/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3291%2Fb
-[/us/pl/113/128/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs222
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1614
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

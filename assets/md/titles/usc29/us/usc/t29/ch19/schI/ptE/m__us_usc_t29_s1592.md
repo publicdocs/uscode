@@ -13,9 +13,9 @@
 
 [Previous](./../../../../../..//us/usc/t29/ch19/schI/ptE/m__us_usc_t29_s1591.md) | [Next](./../../../../../..//us/usc/t29/ch19/schII/m__us_usc_t29_ch19_schII.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1592)
 
-## § 1592. Repealed. [Pub. L. 105–220, title I, § 199(b)(2)][/us/pl/105/220/s199/b/2], Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059]
+## § 1592. Repealed. [Pub. L. 105–220, title I][/us/pl/105/220/tI], § 199(b)(2), Aug. 7, 1998, [112 Stat. 1059][/us/stat/112/1059]
 
-    Section, [Pub. L. 97–300, title I, § 183][/us/pl/97/300/s183], Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357], related to statutory references to Comprehensive Employment and Training Act.
+    Section, [Pub. L. 97–300, title I][/us/pl/97/300/tI], § 183, Oct. 13, 1982, [96 Stat. 1357][/us/stat/96/1357], related to statutory references to Comprehensive Employment and Training Act.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
+[/us/pl/105/220/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtI
 [/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/pl/97/300/s183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs183
+[/us/pl/97/300/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtI
 [/us/stat/96/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1357
 [/us/pl/105/220/s199/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FB
 [/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501

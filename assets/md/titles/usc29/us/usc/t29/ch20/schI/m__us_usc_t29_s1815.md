@@ -29,7 +29,7 @@
 
         (C) use, or cause to be used, another real property or facility to house any migrant agricultural worker than that covered by the certificate.
 
-([Pub. L. 97–470, title I, § 105][/us/pl/97/470/s105], Jan. 14, 1983, [96 Stat. 2589][/us/stat/96/2589].)
+([Pub. L. 97–470, title I][/us/pl/97/470/tI], § 105, Jan. 14, 1983, [96 Stat. 2589][/us/stat/96/2589].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs105
+[/us/pl/97/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtI
 [/us/stat/96/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2589
 
 

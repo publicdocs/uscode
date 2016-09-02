@@ -27,7 +27,7 @@
 
         The corporation shall disapprove an amendment referred to in subsection (a) or (b) of this section only if the corporation determines that the amendment creates an unreasonable risk of loss to plan participants and beneficiaries or to the corporation.
 
-([Pub. L. 93–406, title IV, § 4220][/us/pl/93/406/s4220], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1239][/us/stat/94/1239].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4220, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1239][/us/stat/94/1239].)
 
  __References in Text__ 
 
@@ -41,8 +41,8 @@
 ----------
 
 [/us/usc/t29/s1391/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1391%2Fc%2F5
-[/us/pl/93/406/s4220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4220
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1239
 
 

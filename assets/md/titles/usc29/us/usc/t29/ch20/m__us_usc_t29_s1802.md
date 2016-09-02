@@ -69,7 +69,7 @@
 
     (12) The term “State” means any of the States of the United States, the District of Columbia, the Virgin Islands, the Commonwealth of Puerto Rico, and Guam.
 
-([Pub. L. 97–470, § 3][/us/pl/97/470/s3], Jan. 14, 1983, [96 Stat. 2584][/us/stat/96/2584]; [Pub. L. 99–514, § 2][/us/pl/99/514/s2], Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–603, title I, § 101(b)(1)(A)][/us/pl/99/603/s101/b/1/A], Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372].)
+([Pub. L. 97–470][/us/pl/97/470], § 3, Jan. 14, 1983, [96 Stat. 2584][/us/stat/96/2584]; [Pub. L. 99–514][/us/pl/99/514], § 2, Oct. 22, 1986, [100 Stat. 2095][/us/stat/100/2095]; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 101(b)(1)(A), Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–603, title I, § 101(b)(2)][/us/pl/99/603/s101/b/2], Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372], as amended by [Pub. L. 100–525, § 2(a)(2)][/us/pl/100/525/s2/a/2], Oct. 24, 1988, [102 Stat. 2610][/us/stat/102/2610], provided that: 
+[Pub. L. 99–603, title I][/us/pl/99/603/tI], § 101(b)(2), Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372], as amended by [Pub. L. 100–525][/us/pl/100/525], § 2(a)(2), Oct. 24, 1988, [102 Stat. 2610][/us/stat/102/2610], provided that: 
 
 > “The amendments made by paragraph (1) \[amending this section and sections 1813 and 1851 of this title and repealing [section 1816 of this title][/us/usc/t29/s1816]\] shall apply to the employment, recruitment, referral, or utilization of the services of an individual occurring on or after the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\]; except that if the provisions of section 274A of the Immigration and Nationality Act \[[8 U.S.C. 1324a][/us/usc/t8/s1324a]\] are terminated as of a date under \[former\] subsection (l) of such section, then such amendments shall no longer apply as of such date.”
 
@@ -100,20 +100,20 @@
 [/us/usc/t26/s3121/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3121%2Fg
 [/us/usc/t29/s203/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fg
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/pl/97/470/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs3
+[/us/pl/97/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470
 [/us/stat/96/2584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2584
-[/us/pl/99/514/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs2
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/stat/100/2095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2095
-[/us/pl/99/603/s101/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs101%2Fb%2F1%2FA
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3372
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
-[/us/pl/99/603/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs101%2Fb%2F2
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3372
-[/us/pl/100/525/s2/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525%2Fs2%2Fa%2F2
+[/us/pl/100/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F525
 [/us/stat/102/2610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2610
 [/us/usc/t29/s1816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1816
 [/us/usc/t8/s1324a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a

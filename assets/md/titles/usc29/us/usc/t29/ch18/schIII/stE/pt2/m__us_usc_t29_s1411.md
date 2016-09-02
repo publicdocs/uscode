@@ -65,7 +65,7 @@
 
             Not later than 14 days after the provision of such financial assistance, the corporation shall provide notice of such financial assistance to the Committee on Education and the Workforce of the House of Representatives, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
-([Pub. L. 93–406, title IV, § 4231][/us/pl/93/406/s4231], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1244][/us/stat/94/1244]; amended [Pub. L. 113–235, div. O, title I, § 121(a)][/us/pl/113/235/s121/a], Dec. 16, 2014, [128 Stat. 2794][/us/stat/128/2794].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4231, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1244][/us/stat/94/1244]; amended [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 121(a), Dec. 16, 2014, [128 Stat. 2794][/us/stat/128/2794].)
 
  __Amendments__ 
 
@@ -73,7 +73,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–235, div. O, title I, § 121(b)][/us/pl/113/235/s121/b], Dec. 16, 2014, [128 Stat. 2794][/us/stat/128/2794], provided that: 
+[Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 121(b), Dec. 16, 2014, [128 Stat. 2794][/us/stat/128/2794], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to plan years beginning after December 31, 2014.”
 
@@ -95,13 +95,13 @@
 [/us/usc/t29/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1304
 [/us/usc/t29/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431
 [/us/usc/t29/s1085/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F4
-[/us/pl/93/406/s4231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4231
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1244
-[/us/pl/113/235/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs121%2Fa
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2794
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/pl/113/235/s121/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs121%2Fb
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2794
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 

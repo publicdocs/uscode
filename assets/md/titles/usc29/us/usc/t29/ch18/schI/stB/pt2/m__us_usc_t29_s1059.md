@@ -33,13 +33,13 @@
 
     (b) If any person who is required, under subsection (a) of this section, to furnish information or maintain records for any plan year fails to comply with such requirement, he shall pay to the Secretary a civil penalty of $10 for each employee with respect to whom such failure occurs, unless it is shown that such failure is due to reasonable cause.
 
-([Pub. L. 93–406, title I, § 209][/us/pl/93/406/s209], Sept. 2, 1974, [88 Stat. 865][/us/stat/88/865]; [Pub. L. 110–458, title I, § 105(f)][/us/pl/110/458/s105/f], Dec. 23, 2008, [122 Stat. 5105][/us/stat/122/5105].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 209, Sept. 2, 1974, [88 Stat. 865][/us/stat/88/865]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 105(f), Dec. 23, 2008, [122 Stat. 5105][/us/stat/122/5105].)
 
  __Amendments__ 
 
-    2008—Subsec. (a)(1). [Pub. L. 110–458, § 105(f)(1)][/us/pl/110/458/s105/f/1], in introductory provisions, substituted “such regulations as the Secretary may prescribe” for “regulations prescribed by the Secretary” and, in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “The report required under this paragraph shall be sufficient to inform the employee of his accrued benefits under the plan and the percentage of such benefits which are nonforfeitable under the plan.”
+    2008—Subsec. (a)(1). [Pub. L. 110–458][/us/pl/110/458], § 105(f)(1), in introductory provisions, substituted “such regulations as the Secretary may prescribe” for “regulations prescribed by the Secretary” and, in concluding provisions, inserted last sentence and struck out former last sentence which read as follows: “The report required under this paragraph shall be sufficient to inform the employee of his accrued benefits under the plan and the percentage of such benefits which are nonforfeitable under the plan.”
 
-    Subsec. (a)(2). [Pub. L. 110–458, § 105(f)(2)][/us/pl/110/458/s105/f/2], added par. (2) and struck out former par. (2) which read as follows: “If more than one employer adopts a plan, each such employer shall, in accordance with regulations prescribed by the Secretary, furnish to the plan administrator the information necessary for the administrator to maintain the records and make the reports required by paragraph (1). Such administrator shall maintain the records and, to the extent provided under regulations prescribed by the Secretary, make the reports, required by paragraph (1).”
+    Subsec. (a)(2). [Pub. L. 110–458][/us/pl/110/458], § 105(f)(2), added par. (2) and struck out former par. (2) which read as follows: “If more than one employer adopts a plan, each such employer shall, in accordance with regulations prescribed by the Secretary, furnish to the plan administrator the information necessary for the administrator to maintain the records and make the reports required by paragraph (1). Such administrator shall maintain the records and, to the extent provided under regulations prescribed by the Secretary, make the reports, required by paragraph (1).”
 
  __Effective Date of 2008 Amendment__ 
 
@@ -58,12 +58,12 @@
 
 [/us/usc/t29/s1053/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053%2Fb%2F3%2FA
 [/us/usc/t29/s1025/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1025%2Fa
-[/us/pl/93/406/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs209
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/865]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F865
-[/us/pl/110/458/s105/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs105%2Ff
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5105
-[/us/pl/110/458/s105/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs105%2Ff%2F1
-[/us/pl/110/458/s105/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs105%2Ff%2F2
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112

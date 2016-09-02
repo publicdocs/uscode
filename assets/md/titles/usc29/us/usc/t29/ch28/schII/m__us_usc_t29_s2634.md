@@ -23,7 +23,7 @@
 
         Members of the Commission shall be allowed reasonable travel expenses, including a per diem allowance, in accordance with [section 5703 of title 5][/us/usc/t5/s5703] when performing duties of the Commission.
 
-([Pub. L. 103–3, title III, § 304][/us/pl/103/3/s304], Feb. 5, 1993, [107 Stat. 25][/us/stat/107/25].)
+([Pub. L. 103–3, title III][/us/pl/103/3/tIII], § 304, Feb. 5, 1993, [107 Stat. 25][/us/stat/107/25].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/103/3/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs304
+[/us/pl/103/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIII
 [/us/stat/107/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F25
 
 

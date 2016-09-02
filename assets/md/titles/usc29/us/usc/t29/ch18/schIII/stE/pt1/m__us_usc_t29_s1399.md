@@ -143,7 +143,7 @@
 
         The prohibitions provided in [section 1106(a) of this title][/us/usc/t29/s1106/a] do not apply to any action required or permitted under this part or to any arrangement relating to withdrawal liability involving the plan.
 
-([Pub. L. 93–406, title IV, § 4219][/us/pl/93/406/s4219], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1236][/us/stat/94/1236]; amended [Pub. L. 98–369, div. A, title V, § 558(b)(1)(B)][/us/pl/98/369/s558/b/1/B], July 18, 1984, [98 Stat. 899][/us/stat/98/899]; [Pub. L. 113–235, div. O, title II, § 201(a)(7)(B)][/us/pl/113/235/s201/a/7/B], Dec. 16, 2014, [128 Stat. 2810][/us/stat/128/2810].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4219, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1236][/us/stat/94/1236]; amended [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 558(b)(1)(B), July 18, 1984, [98 Stat. 899][/us/stat/98/899]; [Pub. L. 113–235, div. O, title II][/us/pl/113/235/dO/tII], § 201(a)(7)(B), Dec. 16, 2014, [128 Stat. 2810][/us/stat/128/2810].)
 
  __References in Text__ 
 
@@ -170,12 +170,12 @@
 [/us/usc/t29/s1385/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1385%2Fa
 [/us/usc/t29/s1386/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1386%2Fa%2F2
 [/us/usc/t29/s1106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1106%2Fa
-[/us/pl/93/406/s4219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4219
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1236
-[/us/pl/98/369/s558/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs558%2Fb%2F1%2FB
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F899
-[/us/pl/113/235/s201/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F7%2FB
+[/us/pl/113/235/dO/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtII
 [/us/stat/128/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2810
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001

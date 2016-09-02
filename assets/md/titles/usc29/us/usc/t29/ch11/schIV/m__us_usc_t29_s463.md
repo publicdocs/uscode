@@ -19,7 +19,7 @@
 
     (b) Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned for not more than one year, or both.
 
-([Pub. L. 86–257, title III, § 303][/us/pl/86/257/s303], Sept. 14, 1959, [73 Stat. 531][/us/stat/73/531].)
+([Pub. L. 86–257, title III][/us/pl/86/257/tIII], § 303, Sept. 14, 1959, [73 Stat. 531][/us/stat/73/531].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs303
+[/us/pl/86/257/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIII
 [/us/stat/73/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F531
 
 

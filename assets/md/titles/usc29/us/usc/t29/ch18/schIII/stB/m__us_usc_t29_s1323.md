@@ -17,7 +17,7 @@
 
     Notwithstanding any other provision of this chapter, a fiduciary of a plan to which [section 1321 of this title][/us/usc/t29/s1321] applies is not in violation of the fiduciary’s duties as a result of any act or of any withholding of action required by this subchapter.
 
-([Pub. L. 93–406, title IV, § 4023][/us/pl/93/406/s4023], as added [Pub. L. 96–364, title IV, § 402(a)(5)][/us/pl/96/364/s402/a/5], Sept. 26, 1980, [94 Stat. 1298][/us/stat/94/1298].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4023, as added [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 402(a)(5), Sept. 26, 1980, [94 Stat. 1298][/us/stat/94/1298].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 1323, [Pub. L. 93–406, title IV, § 4023][/us/pl/93/406/s4023], Sept. 2, 1974, [88 Stat. 1019][/us/stat/88/1019], related to contingent liability coverage, prior to repeal by [Pub. L. 96–364, title I, § 107][/us/pl/96/364/s107], Sept. 26, 1980, [94 Stat. 1267][/us/stat/94/1267].
+    A prior section 1323, [Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4023, Sept. 2, 1974, [88 Stat. 1019][/us/stat/88/1019], related to contingent liability coverage, prior to repeal by [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 107, Sept. 26, 1980, [94 Stat. 1267][/us/stat/94/1267].
 
  __Effective Date__ 
 
@@ -39,13 +39,13 @@
 ----------
 
 [/us/usc/t29/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321
-[/us/pl/93/406/s4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4023
-[/us/pl/96/364/s402/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fa%2F5
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1298
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
-[/us/pl/93/406/s4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4023
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1019
-[/us/pl/96/364/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs107
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1267]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1267
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 

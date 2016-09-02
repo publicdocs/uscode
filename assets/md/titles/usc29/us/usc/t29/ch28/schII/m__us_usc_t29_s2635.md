@@ -39,7 +39,7 @@
 
         Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the chairperson of the Commission may accept for the Commission voluntary services provided by a member of the Commission.
 
-([Pub. L. 103–3, title III, § 305][/us/pl/103/3/s305], Feb. 5, 1993, [107 Stat. 25][/us/stat/107/25].)
+([Pub. L. 103–3, title III][/us/pl/103/3/tIII], § 305, Feb. 5, 1993, [107 Stat. 25][/us/stat/107/25].)
 
 ----------
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
-[/us/pl/103/3/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs305
+[/us/pl/103/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIII
 [/us/stat/107/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F25
 
 

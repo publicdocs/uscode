@@ -105,7 +105,17 @@
 
     (8) __Essential components of reading instruction__ 
 
-        The term “essential components of reading instruction” has the meaning given the term in [section 6368 of title 20][/us/usc/t20/s6368].
+    The term “essential components of reading instruction” means explicit and systematic instruction in—
+
+        (A) phonemic awareness;
+
+        (B) phonics;
+
+        (C) vocabulary development;
+
+        (D) reading fluency, including oral reading skills; and
+
+        (E) reading comprehension strategies.
 
     (9) __Family literacy activities__ 
 
@@ -157,7 +167,15 @@
 
         The term “workforce preparation activities” means activities, programs, or services designed to help an individual acquire a combination of basic academic skills, critical thinking skills, digital literacy skills, and self-management skills, including competencies in utilizing resources, using information, working with others, understanding systems, and obtaining skills necessary for successful transition into and completion of postsecondary education or training, or employment.
 
-([Pub. L. 113–128, title II, § 203][/us/pl/113/128/s203], July 22, 2014, [128 Stat. 1609][/us/stat/128/1609].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 203, July 22, 2014, [128 Stat. 1609][/us/stat/128/1609]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(c), Dec. 10, 2015, [129 Stat. 2166][/us/stat/129/2166].)
+
+ __Amendments__ 
+
+    2015—Par. (8). [Pub. L. 114–95][/us/pl/114/95], which directed general amendment of “Paragraph (8) of section 203 of the Adult Education and Literacy Act”, was executed by amending par. (8) of this section, which is section 203 of the Adult Education and Family Literacy Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The term ‘essential components of reading instruction’ has the meaning given the term in [section 6368 of title 20][/us/usc/t20/s6368].”
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date__ 
 
@@ -170,10 +188,16 @@
 ----------
 ----------
 
-[/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/113/128/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs203
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1609
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2166
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6368
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 

@@ -67,7 +67,7 @@
 
         this section shall apply to coverage of the child under the changed coverage for the remainder of the period of the medically necessary leave of absence of the dependent child under the plan in the same manner as it would have applied if the changed coverage had been the previous coverage.
 
-([Pub. L. 93–406, title I, § 714][/us/pl/93/406/s714], as added [Pub. L. 110–381, § 2(a)(1)][/us/pl/110/381/s2/a/1], Oct. 9, 2008, [122 Stat. 4081][/us/stat/122/4081].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 714, as added [Pub. L. 110–381][/us/pl/110/381], § 2(a)(1), Oct. 9, 2008, [122 Stat. 4081][/us/stat/122/4081].)
 
  __Effective Date__ 
 
@@ -81,8 +81,8 @@
 ----------
 
 [/us/usc/t20/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1002
-[/us/pl/93/406/s714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs714
-[/us/pl/110/381/s2/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381%2Fs2%2Fa%2F1
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/110/381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381
 [/us/stat/122/4081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4081
 [/us/pl/110/381/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F381%2Fs2%2Fd
 [/us/usc/t26/s9813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9813

@@ -71,7 +71,7 @@
 
         (2) to provide States with financial assistance that supports programs designed to maximize the ability of individuals with disabilities and their family members, guardians, advocates, and authorized representatives to obtain assistive technology devices and assistive technology services.
 
-([Pub. L. 105–394, § 2][/us/pl/105/394/s2], Nov. 13, 1998, [112 Stat. 3628][/us/stat/112/3628]; [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707].)
+([Pub. L. 105–394][/us/pl/105/394], § 2, Nov. 13, 1998, [112 Stat. 3628][/us/stat/112/3628]; [Pub. L. 108–364][/us/pl/108/364], § 2, Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707].)
 
  __References in Text__ 
 
@@ -87,13 +87,13 @@
 
  __Short Title of 2004 Amendment__ 
 
-[Pub. L. 108–364, § 1][/us/pl/108/364/s1], Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707], provided that: 
+[Pub. L. 108–364][/us/pl/108/364], § 1, Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707], provided that: 
 
 > “This Act \[enacting sections 3003 to 3007 of this title, amending this section, sections 763, 781, 792, and 3002 of this title, and sections 15024, 15025, 15043, and 15064 of Title 42, The Public Health and Welfare, omitting sections 3011 to 3015, 3031 to 3037, and 3051 to 3058 of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Assistive Technology Act of 2004’.”
 
  __Short Title__ 
 
-[Pub. L. 105–394, § 1(a)][/us/pl/105/394/s1/a], Nov. 13, 1998, [112 Stat. 3627][/us/stat/112/3627], as amended by [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707], provided that: 
+[Pub. L. 105–394][/us/pl/105/394], § 1(a), Nov. 13, 1998, [112 Stat. 3627][/us/stat/112/3627], as amended by [Pub. L. 108–364][/us/pl/108/364], § 2, Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Assistive Technology Act of 1998’.”
 
@@ -108,9 +108,9 @@
 [/us/usc/t42/s15301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15301
 [/us/usc/t52/s20901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs20901
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
-[/us/pl/105/394/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs2
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
 [/us/stat/112/3628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3628
-[/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1707
 [/us/pl/107/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F252
 [/us/stat/116/1666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1666
@@ -121,11 +121,11 @@
 [/us/stat/115/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1425
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
-[/us/pl/108/364/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs1
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1707
-[/us/pl/105/394/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs1%2Fa
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
 [/us/stat/112/3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3627
-[/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1707
 
 

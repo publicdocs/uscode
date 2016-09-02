@@ -31,7 +31,7 @@
 
         (3) Within 90 days of the receipt of a complaint filed under this subsection the Secretary shall notify the complainant of his determination under paragraph (2) of this subsection.
 
-([Pub. L. 91–596, § 11][/us/pl/91/596/s11], Dec. 29, 1970, [84 Stat. 1602][/us/stat/84/1602]; [Pub. L. 98–620, title IV, § 402(32)][/us/pl/98/620/s402/32], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
+([Pub. L. 91–596][/us/pl/91/596], § 11, Dec. 29, 1970, [84 Stat. 1602][/us/stat/84/1602]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(32), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
 
  __Amendments__ 
 
@@ -53,9 +53,9 @@
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t29/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs659
 [/us/usc/t29/s666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs666
-[/us/pl/91/596/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs11
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1602
-[/us/pl/98/620/s402/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F32
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620

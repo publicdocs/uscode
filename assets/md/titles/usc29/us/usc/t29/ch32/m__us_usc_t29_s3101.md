@@ -29,7 +29,7 @@
 
     (6) For purposes of parts A and B of subchapter I, to provide workforce investment activities, through statewide and local workforce development systems, that increase the employment, retention, and earnings of participants, and increase attainment of recognized postsecondary credentials by participants, and as a result, improve the quality of the workforce, reduce welfare dependency, increase economic self-sufficiency, meet the skill requirements of employers, and enhance the productivity and competitiveness of the Nation.
 
-([Pub. L. 113–128, § 2][/us/pl/113/128/s2], July 22, 2014, [128 Stat. 1428][/us/stat/128/1428].)
+([Pub. L. 113–128][/us/pl/113/128], § 2, July 22, 2014, [128 Stat. 1428][/us/stat/128/1428].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 113–128, title V, § 506][/us/pl/113/128/s506], July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], provided that:
+[Pub. L. 113–128, title V][/us/pl/113/128/tV], § 506, July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -95,23 +95,23 @@
 
  __Short Title of 2015 Amendment__ 
 
-[Pub. L. 114–18, § 1][/us/pl/114/18/s1], May 22, 2015, [129 Stat. 213][/us/stat/129/213], provided that: 
+[Pub. L. 114–18][/us/pl/114/18], § 1, May 22, 2015, [129 Stat. 213][/us/stat/129/213], provided that: 
 
 > “This Act \[amending sections 780, 3112, 3121, 3122, 3141, 3164, 3172, and 3174 of this title and enacting provisions set out as notes under sections 780 and 3112 of this title\] may be cited as the ‘WIOA Technical Amendments Act’.”
 
  __Short Title__ 
 
-[Pub. L. 113–128, § 1(a)][/us/pl/113/128/s1/a], July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], provided that: 
+[Pub. L. 113–128][/us/pl/113/128], § 1(a), July 22, 2014, [128 Stat. 1425][/us/stat/128/1425], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Workforce Innovation and Opportunity Act’.”
 
-[Pub. L. 113–128, title II, § 201][/us/pl/113/128/s201], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], provided that: 
+[Pub. L. 113–128, title II][/us/pl/113/128/tII], § 201, July 22, 2014, [128 Stat. 1608][/us/stat/128/1608], provided that: 
 
 > “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Adult Education and Family Literacy Act’.”
 
  __Declaration of Policy__ 
 
-[Pub. L. 102–367, title I, § 101(a)][/us/pl/102/367/s101/a], Sept. 7, 1992, [106 Stat. 1022][/us/stat/106/1022], provided that: 
+[Pub. L. 102–367, title I][/us/pl/102/367/tI], § 101(a), Sept. 7, 1992, [106 Stat. 1022][/us/stat/106/1022], provided that: 
 
 > “In recognition of the training needs of low-income adults and youth, the Congress declares it to be the policy of the United States to—
 
@@ -128,11 +128,11 @@
 ----------
 ----------
 
-[/us/pl/113/128/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs2
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1428
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
-[/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t29/s2871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2871
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
@@ -155,13 +155,13 @@
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/pl/113/128/s189/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs189%2Fg%2F1%2FA
 [/us/usc/t29/s3249/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3249%2Fg%2F1%2FA
-[/us/pl/114/18/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs1
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
-[/us/pl/113/128/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs1%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
-[/us/pl/113/128/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs201
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
-[/us/pl/102/367/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs101%2Fa
+[/us/pl/102/367/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2FtI
 [/us/stat/106/1022]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1022
 [/us/usc/t29/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1601
 

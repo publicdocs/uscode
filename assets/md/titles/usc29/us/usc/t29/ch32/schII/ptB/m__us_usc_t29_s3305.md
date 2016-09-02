@@ -71,7 +71,7 @@
 
             The term “criminal offender” means any individual who is charged with or convicted of any criminal offense.
 
-([Pub. L. 113–128, title II, § 225][/us/pl/113/128/s225], July 22, 2014, [128 Stat. 1617][/us/stat/128/1617].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 225, July 22, 2014, [128 Stat. 1617][/us/stat/128/1617].)
 
  __Effective Date__ 
 
@@ -87,7 +87,7 @@
 [/us/usc/t29/s3302/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3302%2Fa%2F1
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
-[/us/pl/113/128/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs225
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1617
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

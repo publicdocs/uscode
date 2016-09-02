@@ -33,7 +33,7 @@
 
         This part shall not apply to transfers of assets pursuant to written reciprocity agreements, except to the extent provided in regulations prescribed by the corporation.
 
-([Pub. L. 93–406, title IV, § 4234][/us/pl/93/406/s4234], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1247][/us/stat/94/1247].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4234, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1247][/us/stat/94/1247].)
 
 ----------
 
@@ -43,8 +43,8 @@
 ----------
 
 [/us/usc/t29/s1412/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1412%2Fc%2F3
-[/us/pl/93/406/s4234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4234
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1247
 
 

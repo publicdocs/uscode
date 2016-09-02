@@ -1089,7 +1089,7 @@
 
             The term “benefit commencement date” means the annuity starting date (or in the case of a retroactive annuity starting date, the date on which benefit payments begin).
 
-([Pub. L. 93–406, title I, § 305][/us/pl/93/406/s305], as added [Pub. L. 109–280, title II, § 202(a)][/us/pl/109/280/s202/a], Aug. 17, 2006, [120 Stat. 868][/us/stat/120/868]; amended [Pub. L. 110–458, title I, § 102(b)(1)(B)][/us/pl/110/458/s102/b/1/B]–(G), Dec. 23, 2008, [122 Stat. 5100][/us/stat/122/5100], 5101; [Pub. L. 113–235, div. O, title I][/us/pl/113/235], §§ 102(a), 103(a), 104(a), 105(a), 106(a), 107(a), 109(a), title II, § 201(a)(1)–(3), (5)–(7)(A), Dec. 16, 2014, [128 Stat. 2774][/us/stat/128/2774], 2777, 2779, 2781, 2783, 2789, 2798, 2799–2809.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 305, as added [Pub. L. 109–280, title II][/us/pl/109/280/tII], § 202(a), Aug. 17, 2006, [120 Stat. 868][/us/stat/120/868]; amended [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 102(b)(1)(B)–(G), Dec. 23, 2008, [122 Stat. 5100][/us/stat/122/5100], 5101; [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], §§ 102(a), 103(a), 104(a), 105(a), 106(a), 107(a), 109(a), title II, § 201(a)(1)–(3), (5)–(7)(A), Dec. 16, 2014, [128 Stat. 2774][/us/stat/128/2774], 2777, 2779, 2781, 2783, 2789, 2798, 2799–2809.)
 
  __References in Text__ 
 
@@ -1097,119 +1097,119 @@
 
  __Prior Provisions__ 
 
-    A prior section 1085, [Pub. L. 93–406, title I, § 305][/us/pl/93/406/s305], Sept. 2, 1974, [88 Stat. 873][/us/stat/88/873], related to alternative minimum funding standard, prior to repeal by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], (d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 789, applicable to plan years beginning after 2007.
+    A prior section 1085, [Pub. L. 93–406, title I][/us/pl/93/406/tI], § 305, Sept. 2, 1974, [88 Stat. 873][/us/stat/88/873], related to alternative minimum funding standard, prior to repeal by [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 101(a), (d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 789, applicable to plan years beginning after 2007.
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3). [Pub. L. 113–235, § 201(a)(1)][/us/pl/113/235/s201/a/1], added par. (3).
+    2014—Subsec. (a)(3). [Pub. L. 113–235][/us/pl/113/235], § 201(a)(1), added par. (3).
 
-    Subsec. (b)(1). [Pub. L. 113–235, § 104(a)(1)(A)][/us/pl/113/235/s104/a/1/A], substituted “the plan is not in critical status for the plan year and is not described in paragraph (5),” for “the plan is not in critical status for the plan year”.
+    Subsec. (b)(1). [Pub. L. 113–235][/us/pl/113/235], § 104(a)(1)(A), substituted “the plan is not in critical status for the plan year and is not described in paragraph (5),” for “the plan is not in critical status for the plan year”.
 
-    Subsec. (b)(3)(A)(i). [Pub. L. 113–235, § 201(a)(3)][/us/pl/113/235/s201/a/3], substituted “, whether” for “and whether” and inserted “, and whether or not the plan is or will be in critical and declining status for such plan year” before “, and” at end.
+    Subsec. (b)(3)(A)(i). [Pub. L. 113–235][/us/pl/113/235], § 201(a)(3), substituted “, whether” for “and whether” and inserted “, and whether or not the plan is or will be in critical and declining status for such plan year” before “, and” at end.
 
-    [Pub. L. 113–235, § 104(a)(3)][/us/pl/113/235/s104/a/3], which directed insertion of “, or would be in endangered status for such plan year but for paragraph (5),” after “endangered status for a plan year”, was executed by making the insertion after “endangered status for such plan year” to reflect the probable intent of Congress.
+    [Pub. L. 113–235][/us/pl/113/235], § 104(a)(3), which directed insertion of “, or would be in endangered status for such plan year but for paragraph (5),” after “endangered status for a plan year”, was executed by making the insertion after “endangered status for such plan year” to reflect the probable intent of Congress.
 
-    [Pub. L. 113–235, § 102(a)(2)(A)][/us/pl/113/235/s102/a/2/A], substituted “or for any of the succeeding 5 plan years, and” for “, and” at end.
+    [Pub. L. 113–235][/us/pl/113/235], § 102(a)(2)(A), substituted “or for any of the succeeding 5 plan years, and” for “, and” at end.
 
-    Subsec. (b)(3)(B)(i). [Pub. L. 113–235, § 102(a)(2)(B)(i)][/us/pl/113/235/s102/a/2/B/i], substituted “Except as provided in clause (iv), in making the determinations” for “In making the determinations”.
+    Subsec. (b)(3)(B)(i). [Pub. L. 113–235][/us/pl/113/235], § 102(a)(2)(B)(i), substituted “Except as provided in clause (iv), in making the determinations” for “In making the determinations”.
 
-    Subsec. (b)(3)(B)(iv). [Pub. L. 113–235, § 201(a)(5)][/us/pl/113/235/s201/a/5], added cl. (iv) relating to projections of critical and declining status.
+    Subsec. (b)(3)(B)(iv). [Pub. L. 113–235][/us/pl/113/235], § 201(a)(5), added cl. (iv) relating to projections of critical and declining status.
 
-    [Pub. L. 113–235, § 102(a)(2)(B)(ii)][/us/pl/113/235/s102/a/2/B/ii], added cl. (iv) relating to projections relating to critical status in succeeding plan years.
+    [Pub. L. 113–235][/us/pl/113/235], § 102(a)(2)(B)(ii), added cl. (iv) relating to projections relating to critical status in succeeding plan years.
 
-    Subsec. (b)(3)(D)(i). [Pub. L. 113–235, § 102(a)(3)(A)(ii)][/us/pl/113/235/s102/a/3/A/ii], inserted at end “In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of the Treasury of such election not later than 30 days after the date of such certification or such other time as the Secretary of the Treasury may prescribe by regulations or other guidance.”
+    Subsec. (b)(3)(D)(i). [Pub. L. 113–235][/us/pl/113/235], § 102(a)(3)(A)(ii), inserted at end “In any case in which a plan sponsor elects to be in critical status for a plan year under paragraph (4), the plan sponsor shall notify the Secretary of the Treasury of such election not later than 30 days after the date of such certification or such other time as the Secretary of the Treasury may prescribe by regulations or other guidance.”
 
-    [Pub. L. 113–235, § 102(a)(3)(A)(i)][/us/pl/113/235/s102/a/3/A/i], inserted “or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4)” after “endangered or critical status for a plan year”.
+    [Pub. L. 113–235][/us/pl/113/235], § 102(a)(3)(A)(i), inserted “or in which a plan sponsor elects to be in critical status for a plan year under paragraph (4)” after “endangered or critical status for a plan year”.
 
-    Subsec. (b)(3)(D)(iii). [Pub. L. 113–235, § 104(a)(2)(B)][/us/pl/113/235/s104/a/2/B], added cl. (iii). Former cl. (iii) redesignated (iv).
+    Subsec. (b)(3)(D)(iii). [Pub. L. 113–235][/us/pl/113/235], § 104(a)(2)(B), added cl. (iii). Former cl. (iii) redesignated (iv).
 
-    Subsec. (b)(3)(D)(iv). [Pub. L. 113–235, § 104(a)(2)(C)][/us/pl/113/235/s104/a/2/C], substituted “clauses (ii) and (iii)” for “clause (ii)”.
+    Subsec. (b)(3)(D)(iv). [Pub. L. 113–235][/us/pl/113/235], § 104(a)(2)(C), substituted “clauses (ii) and (iii)” for “clause (ii)”.
 
-    [Pub. L. 113–235, § 104(a)(2)(A)][/us/pl/113/235/s104/a/2/A], redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
+    [Pub. L. 113–235][/us/pl/113/235], § 104(a)(2)(A), redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
 
-    [Pub. L. 113–235, § 102(a)(3)(B)][/us/pl/113/235/s102/a/3/B], added cl. (iv).
+    [Pub. L. 113–235][/us/pl/113/235], § 102(a)(3)(B), added cl. (iv).
 
-    Subsec. (b)(3)(D)(v). [Pub. L. 113–235, § 104(a)(2)(A)][/us/pl/113/235/s104/a/2/A], redesignated cl. (iv) as (v).
+    Subsec. (b)(3)(D)(v). [Pub. L. 113–235][/us/pl/113/235], § 104(a)(2)(A), redesignated cl. (iv) as (v).
 
-    Subsec. (b)(4). [Pub. L. 113–235, § 102(a)(1)][/us/pl/113/235/s102/a/1], added par. (4).
+    Subsec. (b)(4). [Pub. L. 113–235][/us/pl/113/235], § 102(a)(1), added par. (4).
 
-    Subsec. (b)(5). [Pub. L. 113–235, § 104(a)(1)(B)][/us/pl/113/235/s104/a/1/B], added par. (5).
+    Subsec. (b)(5). [Pub. L. 113–235][/us/pl/113/235], § 104(a)(1)(B), added par. (5).
 
-    Subsec. (b)(6). [Pub. L. 113–235, § 201(a)(2)][/us/pl/113/235/s201/a/2], added par. (6).
+    Subsec. (b)(6). [Pub. L. 113–235][/us/pl/113/235], § 201(a)(2), added par. (6).
 
-    Subsec. (c)(3)(A)(i)(I). [Pub. L. 113–235, § 105(a)(1)][/us/pl/113/235/s105/a/1], substituted “of the first plan year for which the plan is certified to be in endangered status pursuant to paragraph (b)(3)” for “of such period”.
+    Subsec. (c)(3)(A)(i)(I). [Pub. L. 113–235][/us/pl/113/235], § 105(a)(1), substituted “of the first plan year for which the plan is certified to be in endangered status pursuant to paragraph (b)(3)” for “of such period”.
 
-    Subsec. (c)(3)(A)(ii). [Pub. L. 113–235, § 105(a)(2)][/us/pl/113/235/s105/a/2], substituted “the last plan year” for “any plan year”.
+    Subsec. (c)(3)(A)(ii). [Pub. L. 113–235][/us/pl/113/235], § 105(a)(2), substituted “the last plan year” for “any plan year”.
 
-    Subsec. (c)(7). [Pub. L. 113–235, § 107(a)(1)][/us/pl/113/235/s107/a/1], amended par. (7) generally. Prior to amendment, par. (7) related to imposition of default schedule where failure to adopt funding improvement plan.
+    Subsec. (c)(7). [Pub. L. 113–235][/us/pl/113/235], § 107(a)(1), amended par. (7) generally. Prior to amendment, par. (7) related to imposition of default schedule where failure to adopt funding improvement plan.
 
-    Subsec. (d). [Pub. L. 113–235, § 106(a)][/us/pl/113/235/s106/a], amended subsec. (d) generally. Prior to amendment, subsec. (d) related to rules for operation of plan during adoption and improvement periods.
+    Subsec. (d). [Pub. L. 113–235][/us/pl/113/235], § 106(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) related to rules for operation of plan during adoption and improvement periods.
 
-    Subsec. (e)(3)(C). [Pub. L. 113–235, § 107(a)(2)][/us/pl/113/235/s107/a/2], amended subpar. (C) generally. Prior to amendment, subpar. (C) related to imposition of default schedule where failure to adopt rehabilitation plan.
+    Subsec. (e)(3)(C). [Pub. L. 113–235][/us/pl/113/235], § 107(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) related to imposition of default schedule where failure to adopt rehabilitation plan.
 
-    Subsec. (e)(4)(B). [Pub. L. 113–235, § 103(a)][/us/pl/113/235/s103/a], amended subpar. (B) generally. Prior to amendment, subpar. (B) related to emergence of plan from critical status.
+    Subsec. (e)(4)(B). [Pub. L. 113–235][/us/pl/113/235], § 103(a), amended subpar. (B) generally. Prior to amendment, subpar. (B) related to emergence of plan from critical status.
 
-    Subsec. (e)(9). [Pub. L. 113–235, § 201(a)(6)][/us/pl/113/235/s201/a/6], added par. (9).
+    Subsec. (e)(9). [Pub. L. 113–235][/us/pl/113/235], § 201(a)(6), added par. (9).
 
-    [Pub. L. 113–235, § 109(a)(1)][/us/pl/113/235/s109/a/1], struck out par. (9) which related to adjustments disregarded in withdrawal liability determination.
+    [Pub. L. 113–235][/us/pl/113/235], § 109(a)(1), struck out par. (9) which related to adjustments disregarded in withdrawal liability determination.
 
-    Subsec. (f)(3), (4). [Pub. L. 113–235, § 109(a)(2)][/us/pl/113/235/s109/a/2], redesignated par. (4) as (3), substituted “During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—” for “During the rehabilitation plan adoption period—” in introductory provisions, and struck out former par. (3). Text read as follows “Any benefit reductions under this subsection shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under [section 1381 of this title][/us/usc/t29/s1381].”
+    Subsec. (f)(3), (4). [Pub. L. 113–235][/us/pl/113/235], § 109(a)(2), redesignated par. (4) as (3), substituted “During the period beginning on the date of the certification under subsection (b)(3)(A) for the initial critical year and ending on the date of the adoption of a rehabilitation plan—” for “During the rehabilitation plan adoption period—” in introductory provisions, and struck out former par. (3). Text read as follows “Any benefit reductions under this subsection shall be disregarded in determining a plan’s unfunded vested benefits for purposes of determining an employer’s withdrawal liability under [section 1381 of this title][/us/usc/t29/s1381].”
 
-    Subsec. (g). [Pub. L. 113–235, § 109(a)(4)][/us/pl/113/235/s109/a/4], added subsec. (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 113–235][/us/pl/113/235], § 109(a)(4), added subsec. (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(1). [Pub. L. 113–235, § 201(a)(7)(A)][/us/pl/113/235/s201/a/7/A], inserted “or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)), unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status,” after “benefit reductions under subsection (e)(8) or (f)”.
+    Subsec. (g)(1). [Pub. L. 113–235][/us/pl/113/235], § 201(a)(7)(A), inserted “or benefit reductions or suspensions while in critical and declining status under subsection (e)(9)), unless the withdrawal occurs more than ten years after the effective date of a benefit suspension by a plan in critical and declining status,” after “benefit reductions under subsection (e)(8) or (f)”.
 
-    Subsecs. (h) to (j). [Pub. L. 113–235, § 109(a)(3)][/us/pl/113/235/s109/a/3], redesignated subsecs. (g), (h), and (i) as (h), (i), and (j), respectively.
+    Subsecs. (h) to (j). [Pub. L. 113–235][/us/pl/113/235], § 109(a)(3), redesignated subsecs. (g), (h), and (i) as (h), (i), and (j), respectively.
 
-    2008—Subsec. (b)(3)(C). [Pub. L. 110–458, § 102(b)(1)(B)][/us/pl/110/458/s102/b/1/B], substituted “section 1021(b)(1)” for “section 1021(b)(4)”.
+    2008—Subsec. (b)(3)(C). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(B), substituted “section 1021(b)(1)” for “section 1021(b)(4)”.
 
-    Subsec. (b)(3)(D)(iii). [Pub. L. 110–458, § 102(b)(1)(C)][/us/pl/110/458/s102/b/1/C], substituted “The Secretary of the Treasury, in consultation with the Secretary” for “The Secretary”.
+    Subsec. (b)(3)(D)(iii). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(C), substituted “The Secretary of the Treasury, in consultation with the Secretary” for “The Secretary”.
 
-    Subsec. (c)(7)(A)(ii). [Pub. L. 110–458, § 102(b)(1)(D)(i)][/us/pl/110/458/s102/b/1/D/i], substituted “to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,” for “to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,”.
+    Subsec. (c)(7)(A)(ii). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(D)(i), substituted “to adopt a contribution schedule with terms consistent with the funding improvement plan and a schedule from the plan sponsor,” for “to agree on changes to contribution or benefit schedules necessary to meet the applicable benchmarks in accordance with the funding improvement plan,”.
 
-    Subsec. (c)(7)(B), (C). [Pub. L. 110–458, § 102(b)(1)(D)(ii)][/us/pl/110/458/s102/b/1/D/ii], (iii), added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text read as follows: “The date specified in this subparagraph is the earlier of the date—
+    Subsec. (c)(7)(B), (C). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(D)(ii), (iii), added subpars. (B) and (C) and struck out former subpar. (B). Prior to amendment, text read as follows: “The date specified in this subparagraph is the earlier of the date—
 
     “(i) on which the Secretary certifies that the parties are at an impasse, or
 
     “(ii) which is 180 days after the date on which the collective bargaining agreement described in subparagraph (A) expires.”
 
-    Subsec. (e)(3)(C)(i)(II). [Pub. L. 110–458, § 102(b)(1)(E)(i)(I)][/us/pl/110/458/s102/b/1/E/i/I], substituted “to adopt a contribution schedule with terms consistent with the rehabilitation plan and a schedule from the plan sponsor under paragraph (1)(B)(i),” for “contribution or benefit schedules with terms consistent with the rehabilitation plan and the schedule from the plan sponsor under paragraph (1)(B)(i),”.
+    Subsec. (e)(3)(C)(i)(II). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(E)(i)(I), substituted “to adopt a contribution schedule with terms consistent with the rehabilitation plan and a schedule from the plan sponsor under paragraph (1)(B)(i),” for “contribution or benefit schedules with terms consistent with the rehabilitation plan and the schedule from the plan sponsor under paragraph (1)(B)(i),”.
 
-    Subsec. (e)(3)(C)(ii), (iii). [Pub. L. 110–458, § 102(b)(1)(E)(i)(II)][/us/pl/110/458/s102/b/1/E/i/II], (III), added cls. (ii) and (iii) and struck out former cl. (ii). Prior to amendment, text read as follows: “The date specified in this clause is the earlier of the date—
+    Subsec. (e)(3)(C)(ii), (iii). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(E)(i)(II), (III), added cls. (ii) and (iii) and struck out former cl. (ii). Prior to amendment, text read as follows: “The date specified in this clause is the earlier of the date—
 
     “(I) on which the Secretary certifies that the parties are at an impasse, or
 
     “(II) which is 180 days after the date on which the collective bargaining agreement described in clause (i) expires.”
 
-    Subsec. (e)(4)(A)(ii). [Pub. L. 110–458, § 102(b)(1)(E)(ii)(I)][/us/pl/110/458/s102/b/1/E/ii/I], struck out “the date of” before “the due date”.
+    Subsec. (e)(4)(A)(ii). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(E)(ii)(I), struck out “the date of” before “the due date”.
 
-    Subsec. (e)(4)(B). [Pub. L. 110–458, § 102(b)(1)(E)(ii)(II)][/us/pl/110/458/s102/b/1/E/ii/II], substituted “but taking” for “and taking”.
+    Subsec. (e)(4)(B). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(E)(ii)(II), substituted “but taking” for “and taking”.
 
-    Subsec. (e)(6). [Pub. L. 110–458, § 102(b)(1)(E)(iii)][/us/pl/110/458/s102/b/1/E/iii], substituted “the last sentence of paragraph (1)” for “paragraph (1)(B)(i)” in introductory provisions and “establish” for “established” in concluding provisions.
+    Subsec. (e)(6). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(E)(iii), substituted “the last sentence of paragraph (1)” for “paragraph (1)(B)(i)” in introductory provisions and “establish” for “established” in concluding provisions.
 
-    Subsec. (e)(8)(C)(iii). [Pub. L. 110–458, § 102(b)(1)(E)(iv)][/us/pl/110/458/s102/b/1/E/iv], substituted “the Secretary of the Treasury, in consultation with the Secretary” for “the Secretary” in subcl. (I) and “Secretary of the Treasury” for “Secretary” in concluding provisions.
+    Subsec. (e)(8)(C)(iii). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(E)(iv), substituted “the Secretary of the Treasury, in consultation with the Secretary” for “the Secretary” in subcl. (I) and “Secretary of the Treasury” for “Secretary” in concluding provisions.
 
-    Subsec. (e)(9)(B). [Pub. L. 110–458, § 102(b)(1)(E)(v)][/us/pl/110/458/s102/b/1/E/v], substituted “the allocation of unfunded vested benefits to an employer” for “an employer’s withdrawal liability”.
+    Subsec. (e)(9)(B). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(E)(v), substituted “the allocation of unfunded vested benefits to an employer” for “an employer’s withdrawal liability”.
 
-    Subsec. (f)(2)(A)(i). [Pub. L. 110–458, § 102(b)(1)(F)][/us/pl/110/458/s102/b/1/F], inserted at end “to a participant or beneficiary whose annuity starting date (as defined in [section 1055(h)(2) of this title][/us/usc/t29/s1055/h/2]) occurs after the date such notice is sent,”.
+    Subsec. (f)(2)(A)(i). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(F), inserted at end “to a participant or beneficiary whose annuity starting date (as defined in [section 1055(h)(2) of this title][/us/usc/t29/s1055/h/2]) occurs after the date such notice is sent,”.
 
-    Subsec. (g). [Pub. L. 110–458, § 102(b)(1)(G)][/us/pl/110/458/s102/b/1/G], inserted “under subsection (c)” before “or a rehabilitation plan under subsection (e)”.
+    Subsec. (g). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(G), inserted “under subsection (c)” before “or a rehabilitation plan under subsection (e)”.
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [section 102(a) of Pub. L. 113–235][/us/pl/113/235/s102/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 102(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s102/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
+    Amendment by [section 102(a) of Pub. L. 113–235][/us/pl/113/235/s102/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 102(c) of div. O of Pub. L. 113–235][/us/pl/113/235/dO/s102/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
 
-    Amendment by [section 103(a) of Pub. L. 113–235][/us/pl/113/235/s103/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 103(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s103/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
+    Amendment by [section 103(a) of Pub. L. 113–235][/us/pl/113/235/s103/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 103(c) of div. O of Pub. L. 113–235][/us/pl/113/235/dO/s103/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
 
-    Amendment by [section 104(a) of Pub. L. 113–235][/us/pl/113/235/s104/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 104(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s104/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
+    Amendment by [section 104(a) of Pub. L. 113–235][/us/pl/113/235/s104/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 104(c) of div. O of Pub. L. 113–235][/us/pl/113/235/dO/s104/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
 
-    Amendment by [section 105(a) of Pub. L. 113–235][/us/pl/113/235/s105/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 105(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s105/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
+    Amendment by [section 105(a) of Pub. L. 113–235][/us/pl/113/235/s105/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 105(c) of div. O of Pub. L. 113–235][/us/pl/113/235/dO/s105/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
 
-    Amendment by [section 106(a) of Pub. L. 113–235][/us/pl/113/235/s106/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 106(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s106/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
+    Amendment by [section 106(a) of Pub. L. 113–235][/us/pl/113/235/s106/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 106(c) of div. O of Pub. L. 113–235][/us/pl/113/235/dO/s106/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
 
-    Amendment by [section 107(a) of Pub. L. 113–235][/us/pl/113/235/s107/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 107(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s107/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
+    Amendment by [section 107(a) of Pub. L. 113–235][/us/pl/113/235/s107/a] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 107(c) of div. O of Pub. L. 113–235][/us/pl/113/235/dO/s107/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
 
-    Amendment by [section 109(a) of Pub. L. 113–235][/us/pl/113/235/s109/a] applicable to benefit reductions and increases in the contribution rate or other required contribution increases that go into effect during plan years beginning after Dec. 31, 2014, and to surcharges the obligation for which accrue on or after Dec. 31, 2014, see [section 109(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s109/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
+    Amendment by [section 109(a) of Pub. L. 113–235][/us/pl/113/235/s109/a] applicable to benefit reductions and increases in the contribution rate or other required contribution increases that go into effect during plan years beginning after Dec. 31, 2014, and to surcharges the obligation for which accrue on or after Dec. 31, 2014, see [section 109(c) of div. O of Pub. L. 113–235][/us/pl/113/235/dO/s109/c], set out as a note under [section 432 of Title 26][/us/usc/t26/s432], Internal Revenue Code.
 
  __Effective Date of 2008 Amendment__ 
 
@@ -1221,7 +1221,7 @@
 
  __Guidance__ 
 
-[Pub. L. 113–235, div. O, title II, § 201(a)(8)][/us/pl/113/235/s201/a/8], Dec. 16, 2014, [128 Stat. 2810][/us/stat/128/2810], provided that: 
+[Pub. L. 113–235, div. O, title II][/us/pl/113/235/dO/tII], § 201(a)(8), Dec. 16, 2014, [128 Stat. 2810][/us/stat/128/2810], provided that: 
 
 > “Not later than 180 days after the date of the enactment of this Act \[Dec. 16, 2014\], the Secretary of the Treasury, in consultation with the Pension Benefit Guaranty Corporation and the Secretary of Labor, shall publish appropriate guidance to implement section 305(e)(9) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1085(e)(9)][/us/usc/t29/s1085/e/9]).”
 
@@ -1311,83 +1311,83 @@
 [/us/usc/t29/s1084/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fa
 [/us/usc/t29/s1392/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1392%2Fa
 [/us/usc/t26/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404%2Fc
-[/us/pl/93/406/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs305
-[/us/pl/109/280/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F868
-[/us/pl/110/458/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FB
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5100
-[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2774]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2774
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/93/406/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs305
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/873]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F873
-[/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
-[/us/pl/113/235/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F1
-[/us/pl/113/235/s104/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fa%2F1%2FA
-[/us/pl/113/235/s201/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F3
-[/us/pl/113/235/s104/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fa%2F3
-[/us/pl/113/235/s102/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa%2F2%2FA
-[/us/pl/113/235/s102/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa%2F2%2FB%2Fi
-[/us/pl/113/235/s201/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F5
-[/us/pl/113/235/s102/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa%2F2%2FB%2Fii
-[/us/pl/113/235/s102/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa%2F3%2FA%2Fii
-[/us/pl/113/235/s102/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa%2F3%2FA%2Fi
-[/us/pl/113/235/s104/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fa%2F2%2FB
-[/us/pl/113/235/s104/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fa%2F2%2FC
-[/us/pl/113/235/s104/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fa%2F2%2FA
-[/us/pl/113/235/s102/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa%2F3%2FB
-[/us/pl/113/235/s104/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fa%2F2%2FA
-[/us/pl/113/235/s102/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa%2F1
-[/us/pl/113/235/s104/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fa%2F1%2FB
-[/us/pl/113/235/s201/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F2
-[/us/pl/113/235/s105/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs105%2Fa%2F1
-[/us/pl/113/235/s105/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs105%2Fa%2F2
-[/us/pl/113/235/s107/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs107%2Fa%2F1
-[/us/pl/113/235/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs106%2Fa
-[/us/pl/113/235/s107/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs107%2Fa%2F2
-[/us/pl/113/235/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs103%2Fa
-[/us/pl/113/235/s201/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F6
-[/us/pl/113/235/s109/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fa%2F1
-[/us/pl/113/235/s109/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fa%2F2
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t29/s1381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1381
-[/us/pl/113/235/s109/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fa%2F4
-[/us/pl/113/235/s201/a/7/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F7%2FA
-[/us/pl/113/235/s109/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fa%2F3
-[/us/pl/110/458/s102/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FB
-[/us/pl/110/458/s102/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FC
-[/us/pl/110/458/s102/b/1/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FD%2Fi
-[/us/pl/110/458/s102/b/1/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FD%2Fii
-[/us/pl/110/458/s102/b/1/E/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FE%2Fi%2FI
-[/us/pl/110/458/s102/b/1/E/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FE%2Fi%2FII
-[/us/pl/110/458/s102/b/1/E/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FE%2Fii%2FI
-[/us/pl/110/458/s102/b/1/E/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FE%2Fii%2FII
-[/us/pl/110/458/s102/b/1/E/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FE%2Fiii
-[/us/pl/110/458/s102/b/1/E/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FE%2Fiv
-[/us/pl/110/458/s102/b/1/E/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FE%2Fv
-[/us/pl/110/458/s102/b/1/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FF
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/usc/t29/s1055/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1055%2Fh%2F2
-[/us/pl/110/458/s102/b/1/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FG
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/113/235/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fa
-[/us/pl/113/235/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs102%2Fc
+[/us/pl/113/235/dO/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2Fs102%2Fc
 [/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
 [/us/pl/113/235/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs103%2Fa
-[/us/pl/113/235/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs103%2Fc
+[/us/pl/113/235/dO/s103/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2Fs103%2Fc
 [/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
 [/us/pl/113/235/s104/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fa
-[/us/pl/113/235/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs104%2Fc
+[/us/pl/113/235/dO/s104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2Fs104%2Fc
 [/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
 [/us/pl/113/235/s105/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs105%2Fa
-[/us/pl/113/235/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs105%2Fc
+[/us/pl/113/235/dO/s105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2Fs105%2Fc
 [/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
 [/us/pl/113/235/s106/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs106%2Fa
-[/us/pl/113/235/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs106%2Fc
+[/us/pl/113/235/dO/s106/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2Fs106%2Fc
 [/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
 [/us/pl/113/235/s107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs107%2Fa
-[/us/pl/113/235/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs107%2Fc
+[/us/pl/113/235/dO/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2Fs107%2Fc
 [/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
 [/us/pl/113/235/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fa
-[/us/pl/113/235/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs109%2Fc
+[/us/pl/113/235/dO/s109/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2Fs109%2Fc
 [/us/usc/t26/s432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs432
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
@@ -1395,7 +1395,7 @@
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
 [/us/pl/109/280/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Ff
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
-[/us/pl/113/235/s201/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F8
+[/us/pl/113/235/dO/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtII
 [/us/stat/128/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2810
 [/us/usc/t29/s1085/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fe%2F9
 [/us/pl/110/458/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs204

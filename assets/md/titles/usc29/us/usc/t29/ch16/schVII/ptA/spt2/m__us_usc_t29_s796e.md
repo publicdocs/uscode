@@ -57,27 +57,27 @@
 
         Funds allotted or made available to a State under this section shall be administered by the designated State entity, in accordance with the approved State plan.
 
-([Pub. L. 93–112, title VII, § 711][/us/pl/93/112/s711], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1224][/us/stat/112/1224]; amended [Pub. L. 113–128, title IV, § 476(a)][/us/pl/113/128/s476/a], July 22, 2014, [128 Stat. 1690][/us/stat/128/1690].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 711, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1224][/us/stat/112/1224]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 476(a), July 22, 2014, [128 Stat. 1690][/us/stat/128/1690].)
 
  __References in Text__ 
 
-    Part A of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (a)(1)(B), means former part A (§ 796 et seq.) which was included in the repeal of subchapter VII of this chapter by [Pub. L. 102–569, title VII, § 701(1)][/us/pl/102/569/s701/1], Oct. 29, 1992, [106 Stat. 4443][/us/stat/106/4443].
+    Part A of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (a)(1)(B), means former part A (§ 796 et seq.) which was included in the repeal of subchapter VII of this chapter by [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(1), Oct. 29, 1992, [106 Stat. 4443][/us/stat/106/4443].
 
  __Prior Provisions__ 
 
-    A prior section 796e, [Pub. L. 93–112, title VII, § 711][/us/pl/93/112/s711], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4450][/us/stat/106/4450]; amended [Pub. L. 103–73, title I, § 114(e)][/us/pl/103/73/s114/e], Aug. 11, 1993, [107 Stat. 729][/us/stat/107/729], related to allotments to provide independent living services, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796e, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 711, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4450][/us/stat/106/4450]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(e), Aug. 11, 1993, [107 Stat. 729][/us/stat/107/729], related to allotments to provide independent living services, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    Another prior section 796e, [Pub. L. 93–112, title VII, § 711][/us/pl/93/112/s711], as added [Pub. L. 95–602, title III, § 301][/us/pl/95/602/s301], Nov. 6, 1978, [92 Stat. 2998][/us/stat/92/2998]; amended [Pub. L. 98–221, title I, § 171][/us/pl/98/221/s171], Feb. 22, 1984, [98 Stat. 30][/us/stat/98/30]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title VIII, §§ 804(a)(1), (b), (c), 805, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1838, 1839; [Pub. L. 100–630, title II, § 208(f)][/us/pl/100/630/s208/f], Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], related to establishment and operation of independent living centers, prior to repeal by [Pub. L. 102–569, § 701(1)][/us/pl/102/569/s701/1].
+    Another prior section 796e, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 711, as added [Pub. L. 95–602, title III][/us/pl/95/602/tIII], § 301, Nov. 6, 1978, [92 Stat. 2998][/us/stat/92/2998]; amended [Pub. L. 98–221, title I][/us/pl/98/221/tI], § 171, Feb. 22, 1984, [98 Stat. 30][/us/stat/98/30]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(C), title VIII, §§ 804(a)(1), (b), (c), 805, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1838, 1839; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 208(f), Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], related to establishment and operation of independent living centers, prior to repeal by [Pub. L. 102–569][/us/pl/102/569], § 701(1).
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(A). [Pub. L. 113–128, § 476(a)(1)(A)][/us/pl/113/128/s476/a/1/A], (2), substituted “After the reservation required by [section 796e–0 of this title][/us/usc/t29/s796e–0] is made, and except” for “Except”, inserted “the remainder of the” before “sums appropriated”, and substituted “Administrator” for “Commissioner”.
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–128][/us/pl/113/128], § 476(a)(1)(A), (2), substituted “After the reservation required by [section 796e–0 of this title][/us/usc/t29/s796e–0] is made, and except” for “Except”, inserted “the remainder of the” before “sums appropriated”, and substituted “Administrator” for “Commissioner”.
 
-    Subsec. (a)(2)(B). [Pub. L. 113–128, § 476(a)(1)(B)][/us/pl/113/128/s476/a/1/B], substituted “remainder described in paragraph (1)(A)” for “amounts made available for purposes of this subpart”.
+    Subsec. (a)(2)(B). [Pub. L. 113–128][/us/pl/113/128], § 476(a)(1)(B), substituted “remainder described in paragraph (1)(A)” for “amounts made available for purposes of this subpart”.
 
-    Subsecs. (a)(3) to (c). [Pub. L. 113–128, § 476(a)(2)][/us/pl/113/128/s476/a/2], substituted “Administrator” for “Commissioner” wherever appearing.
+    Subsecs. (a)(3) to (c). [Pub. L. 113–128][/us/pl/113/128], § 476(a)(2), substituted “Administrator” for “Commissioner” wherever appearing.
 
-    Subsec. (d). [Pub. L. 113–128, § 476(a)(3)][/us/pl/113/128/s476/a/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 113–128][/us/pl/113/128], § 476(a)(3), added subsec. (d).
 
 ----------
 
@@ -88,33 +88,33 @@
 
 [/us/usc/t29/s796e–0]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e%E2%80%930
 [/us/usc/t29/s796d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d%E2%80%931
-[/us/pl/93/112/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs711
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1224
-[/us/pl/113/128/s476/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1690
-[/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4443
-[/us/pl/93/112/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs711
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4450
-[/us/pl/103/73/s114/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fe
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F729
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs711
-[/us/pl/95/602/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs301
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/95/602/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtIII
 [/us/stat/92/2998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2998
-[/us/pl/98/221/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs171
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F30
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s208/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs208%2Ff
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3314
-[/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
-[/us/pl/113/128/s476/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa%2F1%2FA
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s796e–0]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e%E2%80%930
-[/us/pl/113/128/s476/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa%2F1%2FB
-[/us/pl/113/128/s476/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa%2F2
-[/us/pl/113/128/s476/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fa%2F3
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

@@ -51,7 +51,7 @@
 
         A disciplinary measure taken by a director under this section shall be subject to expeditious appeal in accordance with procedures established by the Secretary.
 
-([Pub. L. 113–128, title I, § 152][/us/pl/113/128/s152], July 22, 2014, [128 Stat. 1549][/us/stat/128/1549].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 152, July 22, 2014, [128 Stat. 1549][/us/stat/128/1549].)
 
  __Effective Date__ 
 
@@ -66,7 +66,7 @@
 
 [/us/usc/t29/s3195/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3195%2Fa
 [/us/usc/t21/s802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs802
-[/us/pl/113/128/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs152
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1549
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

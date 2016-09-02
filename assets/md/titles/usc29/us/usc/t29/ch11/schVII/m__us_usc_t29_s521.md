@@ -19,7 +19,7 @@
 
     (b) For the purpose of any investigation provided for in this chapter, the provisions of sections 49 and 50 of title 15 (relating to the attendance of witnesses and the production of books, papers, and documents), are made applicable to the jurisdiction, powers, and duties of the Secretary or any officers designated by him.
 
-([Pub. L. 86–257, title VI, § 601][/us/pl/86/257/s601], Sept. 14, 1959, [73 Stat. 539][/us/stat/73/539].)
+([Pub. L. 86–257, title VI][/us/pl/86/257/tVI], § 601, Sept. 14, 1959, [73 Stat. 539][/us/stat/73/539].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs601
+[/us/pl/86/257/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVI
 [/us/stat/73/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F539
 [/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/stat/73/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F519

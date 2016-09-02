@@ -73,7 +73,7 @@
 
         The workforce council for a Job Corps center that is not yet operating shall carry out the responsibilities described in subsection (c) at least 3 months prior to the date on which the center accepts the first enrollee at the center.
 
-([Pub. L. 113–128, title I, § 154][/us/pl/113/128/s154], July 22, 2014, [128 Stat. 1551][/us/stat/128/1551].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 154, July 22, 2014, [128 Stat. 1551][/us/stat/128/1551].)
 
  __Effective Date__ 
 
@@ -87,7 +87,7 @@
 ----------
 
 [/us/usc/t29/s3121/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3121%2Fd
-[/us/pl/113/128/s154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs154
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1551
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

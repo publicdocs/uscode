@@ -47,7 +47,7 @@
 
             The Secretary may waive the requirements of this subsection for not more than 1 fiscal year, if the Secretary determines that a waiver would be equitable due to exceptional or uncontrollable circumstances, such as a natural disaster or an unforeseen and precipitous decline in the financial resources of the State or outlying area of the eligible agency. If the Secretary grants a waiver under the preceding sentence for a fiscal year, the level of effort required under paragraph (1) shall not be reduced in the subsequent fiscal year because of the waiver.
 
-([Pub. L. 113–128, title II, § 241][/us/pl/113/128/s241], July 22, 2014, [128 Stat. 1620][/us/stat/128/1620].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 241, July 22, 2014, [128 Stat. 1620][/us/stat/128/1620].)
 
  __Effective Date__ 
 
@@ -60,7 +60,7 @@
 ----------
 ----------
 
-[/us/pl/113/128/s241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs241
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1620
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

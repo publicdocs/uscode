@@ -67,11 +67,11 @@
 
             The Participant and Plan Sponsor Advocate shall submit a copy of each report to the Secretary of Labor, the Director of the corporation, and any other appropriate official at the same time such report is submitted to the committees of Congress under paragraph (1).
 
-([Pub. L. 93–406, title IV, § 4004][/us/pl/93/406/s4004], as added [Pub. L. 112–141, div. D, title II, § 40232(a)][/us/pl/112/141/s40232/a], July 6, 2012, [126 Stat. 856][/us/stat/126/856].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4004, as added [Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40232(a), July 6, 2012, [126 Stat. 856][/us/stat/126/856].)
 
  __Prior Provisions__ 
 
-    A prior section 1304, [Pub. L. 93–406, title IV, § 4004][/us/pl/93/406/s4004], Sept. 2, 1974, [88 Stat. 1008][/us/stat/88/1008], related to appointment, within 270 days after Sept. 2, 1974, and powers and functions of a receiver to assume control of terminated plan and its assets, prior to repeal by [Pub. L. 99–272, title XI, § 11016(c)(6)][/us/pl/99/272/s11016/c/6], Apr. 7, 1986, [100 Stat. 274][/us/stat/100/274], effective Jan. 1, 1986, with certain exceptions. See [section 11019 of Pub. L. 99–272][/us/pl/99/272/s11019], set out as an Effective Date of 1986 Amendment note under [section 1341 of this title][/us/usc/t29/s1341].
+    A prior section 1304, [Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4004, Sept. 2, 1974, [88 Stat. 1008][/us/stat/88/1008], related to appointment, within 270 days after Sept. 2, 1974, and powers and functions of a receiver to assume control of terminated plan and its assets, prior to repeal by [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11016(c)(6), Apr. 7, 1986, [100 Stat. 274][/us/stat/100/274], effective Jan. 1, 1986, with certain exceptions. See [section 11019 of Pub. L. 99–272][/us/pl/99/272/s11019], set out as an Effective Date of 1986 Amendment note under [section 1341 of this title][/us/usc/t29/s1341].
 
 ----------
 
@@ -82,12 +82,12 @@
 
 [/us/usc/t29/s1302/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1302%2Fh%2F1
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/93/406/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4004
-[/us/pl/112/141/s40232/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40232%2Fa
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F856
-[/us/pl/93/406/s4004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4004
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1008
-[/us/pl/99/272/s11016/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fc%2F6
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/274]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F274
 [/us/pl/99/272/s11019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11019
 [/us/usc/t29/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341

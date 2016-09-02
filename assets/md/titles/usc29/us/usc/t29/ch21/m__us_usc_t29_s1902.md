@@ -31,7 +31,7 @@
 
         (4) conduct applied research, development programs, and demonstrations with respect to communication techniques, teaching methods, aids and devices, and delivery of services.
 
-([Pub. L. 98–221, title II, § 203][/us/pl/98/221/s203], Feb. 22, 1984, [98 Stat. 33][/us/stat/98/33]; [Pub. L. 102–569, title IX][/us/pl/102/569], §§ 902, 908, Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482], 4485.)
+([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 203, Feb. 22, 1984, [98 Stat. 33][/us/stat/98/33]; [Pub. L. 102–569, title IX][/us/pl/102/569/tIX], §§ 902, 908, Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482], 4485.)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Amendments__ 
 
-    1992—[Pub. L. 102–569, § 908(c)(2)][/us/pl/102/569/s908/c/2], amended section catchline.
+    1992—[Pub. L. 102–569][/us/pl/102/569], § 908(c)(2), amended section catchline.
 
     Subsec. (a). [Pub. L. 102–569][/us/pl/102/569], §§ 902(1)–(3), 908(c)(1), redesignated subsec. (b) as (a), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults”, “prior to February 22, 1984” for “pursuant to section 313 of the Rehabilitation Act of 1973”, and “subsection (b)” for “subsection (c)”, and struck out former subsec. (a) which repealed [section 777c of this title][/us/usc/t29/s777c].
 
@@ -52,15 +52,15 @@
 ----------
 ----------
 
-[/us/pl/98/221/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs203
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
 [/us/stat/98/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F33
-[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIX
 [/us/stat/106/4482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4482
 [/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
 [/us/stat/98/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F32
 [/us/usc/t29/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1901
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/102/569/s908/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs908%2Fc%2F2
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/usc/t29/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs777c
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569

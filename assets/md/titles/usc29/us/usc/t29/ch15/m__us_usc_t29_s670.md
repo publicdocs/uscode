@@ -57,7 +57,7 @@
 
         (5) A State shall provide worksite consultations under paragraph (2) at the request of an employer. Priority in scheduling such consultations shall be assigned to requests from small businesses which are in higher hazard industries or have the most hazardous conditions at issue in the request.
 
-([Pub. L. 91–596, § 21][/us/pl/91/596/s21], Dec. 29, 1970, [84 Stat. 1612][/us/stat/84/1612]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 105–197, § 2][/us/pl/105/197/s2], July 16, 1998, [112 Stat. 638][/us/stat/112/638].)
+([Pub. L. 91–596][/us/pl/91/596], § 21, Dec. 29, 1970, [84 Stat. 1612][/us/stat/84/1612]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 105–197][/us/pl/105/197], § 2, July 16, 1998, [112 Stat. 638][/us/stat/112/638].)
 
  __Amendments__ 
 
@@ -69,29 +69,29 @@
 
  __Retention of Training Institute Course Tuition Fees by OSHA__ 
 
-Provisions stating that notwithstanding [31 U.S.C. 3302][/us/usc/t31/s3302], the Occupational Safety and Health Administration could retain up to $750,000 per fiscal year of training institute course tuition fees, otherwise authorized by law to be collected, and could utilize such sums for occupational safety and health training and education grants, were contained in Department of Labor Appropriations Act, 2006, [Pub. L. 109–149, title I][/us/pl/109/149], Dec. 30, 2005, [119 Stat. 2839][/us/stat/119/2839], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
+Provisions stating that notwithstanding [31 U.S.C. 3302][/us/usc/t31/s3302], the Occupational Safety and Health Administration could retain up to $750,000 per fiscal year of training institute course tuition fees, otherwise authorized by law to be collected, and could utilize such sums for occupational safety and health training and education grants, were contained in Department of Labor Appropriations Act, 2006, [Pub. L. 109–149, title I][/us/pl/109/149/tI], Dec. 30, 2005, [119 Stat. 2839][/us/stat/119/2839], and were repeated in provisions of subsequent appropriations acts which are not set out in the Code. Similar provisions were also contained in the following prior appropriations acts:
 
-    [Pub. L. 108–447, div. F, title I][/us/pl/108/447], Dec. 8, 2004, [118 Stat. 3118][/us/stat/118/3118].
+    [Pub. L. 108–447, div. F, title I][/us/pl/108/447/dF/tI], Dec. 8, 2004, [118 Stat. 3118][/us/stat/118/3118].
 
-    [Pub. L. 108–199, div. E, title I][/us/pl/108/199], Jan. 23, 2004, [118 Stat. 232][/us/stat/118/232].
+    [Pub. L. 108–199, div. E, title I][/us/pl/108/199/dE/tI], Jan. 23, 2004, [118 Stat. 232][/us/stat/118/232].
 
-    [Pub. L. 108–7, div. G, title I][/us/pl/108/7], Feb. 20, 2003, [117 Stat. 303][/us/stat/117/303].
+    [Pub. L. 108–7, div. G, title I][/us/pl/108/7/dG/tI], Feb. 20, 2003, [117 Stat. 303][/us/stat/117/303].
 
-    [Pub. L. 107–116, title I][/us/pl/107/116], Jan. 10, 2002, [115 Stat. 2182][/us/stat/115/2182].
+    [Pub. L. 107–116, title I][/us/pl/107/116/tI], Jan. 10, 2002, [115 Stat. 2182][/us/stat/115/2182].
 
-    [Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title I\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–8.
+    [Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title I\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–8.
 
-    [Pub. L. 106–113, div. B, § 1000(a)(4)][/us/pl/106/113/s1000/a/4] \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–222.
+    [Pub. L. 106–113, div. B][/us/pl/106/113/dB], § 1000(a)(4) \[title I\], Nov. 29, 1999, [113 Stat. 1535][/us/stat/113/1535], 1501A–222.
 
-    [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title I\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–343.
+    [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title I\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–343.
 
-    [Pub. L. 105–78, title I][/us/pl/105/78], Nov. 13, 1997, [111 Stat. 1474][/us/stat/111/1474].
+    [Pub. L. 105–78, title I][/us/pl/105/78/tI], Nov. 13, 1997, [111 Stat. 1474][/us/stat/111/1474].
 
-    [Pub. L. 104–208, div. A, title I, § 101(e)][/us/pl/104/208/s101/e] \[title I\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–239.
+    [Pub. L. 104–208, div. A, title I][/us/pl/104/208/dA/tI], § 101(e) \[title I\], Sept. 30, 1996, [110 Stat. 3009–233][/us/stat/110/3009-233], 3009–239.
 
-    [Pub. L. 104–134, title I, § 101(d)][/us/pl/104/134/s101/d] \[title I\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–217; renumbered title I, [Pub. L. 104–140, § 1(a)][/us/pl/104/140/s1/a], May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
+    [Pub. L. 104–134, title I][/us/pl/104/134/tI], § 101(d) \[title I\], Apr. 26, 1996, [110 Stat. 1321–211][/us/stat/110/1321-211], 1321–217; renumbered title I, [Pub. L. 104–140][/us/pl/104/140], § 1(a), May 2, 1996, [110 Stat. 1327][/us/stat/110/1327].
 
-    [Pub. L. 103–333, title I][/us/pl/103/333], Sept. 30, 1994, [108 Stat. 2544][/us/stat/108/2544].
+    [Pub. L. 103–333, title I][/us/pl/103/333/tI], Sept. 30, 1994, [108 Stat. 2544][/us/stat/108/2544].
 
 ----------
 
@@ -102,41 +102,41 @@ Provisions stating that notwithstanding [31 U.S.C. 3302][/us/usc/t31/s3302], the
 
 [/us/usc/t29/s667]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs667
 [/us/usc/t29/s657/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs657%2Ff
-[/us/pl/91/596/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs21
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1612
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/105/197/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F197%2Fs2
+[/us/pl/105/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F197
 [/us/stat/112/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F638
 [/us/pl/105/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F197
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/usc/t31/s3302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3302
-[/us/pl/109/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149
+[/us/pl/109/149/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F149%2FtI
 [/us/stat/119/2839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2839
-[/us/pl/108/447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447
+[/us/pl/108/447/dF/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdF%2FtI
 [/us/stat/118/3118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3118
-[/us/pl/108/199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199
+[/us/pl/108/199/dE/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F199%2FdE%2FtI
 [/us/stat/118/232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F232
-[/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
+[/us/pl/108/7/dG/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2FdG%2FtI
 [/us/stat/117/303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F303
-[/us/pl/107/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116
+[/us/pl/107/116/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F116%2FtI
 [/us/stat/115/2182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2182
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/106/113/s1000/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2Fs1000%2Fa%2F4
+[/us/pl/106/113/dB]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F113%2FdB
 [/us/stat/113/1535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1535
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/105/78]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78
+[/us/pl/105/78/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F78%2FtI
 [/us/stat/111/1474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1474
-[/us/pl/104/208/s101/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2Fs101%2Fe
+[/us/pl/104/208/dA/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F208%2FdA%2FtI
 [/us/stat/110/3009-233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-233
-[/us/pl/104/134/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2Fs101%2Fd
+[/us/pl/104/134/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F134%2FtI
 [/us/stat/110/1321-211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1321-211
-[/us/pl/104/140/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140%2Fs1%2Fa
+[/us/pl/104/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F140
 [/us/stat/110/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1327
-[/us/pl/103/333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333
+[/us/pl/103/333/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F333%2FtI
 [/us/stat/108/2544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2544
 
 

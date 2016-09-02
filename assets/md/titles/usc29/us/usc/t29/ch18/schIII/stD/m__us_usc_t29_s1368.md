@@ -69,37 +69,37 @@
 
         (2) The term “pre-tax profits” has the meaning provided in [section 1362(d)(2) of this title][/us/usc/t29/s1362/d/2].
 
-([Pub. L. 93–406, title IV, § 4068][/us/pl/93/406/s4068], Sept. 2, 1974, [88 Stat. 1032][/us/stat/88/1032]; [Pub. L. 95–598, title III, § 321(c)][/us/pl/95/598/s321/c], Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678]; [Pub. L. 99–272, title XI, § 11016(a)(6)(B)][/us/pl/99/272/s11016/a/6/B], (c)(14), Apr. 7, 1986, [100 Stat. 271][/us/stat/100/271], 275; [Pub. L. 100–203, title IX, § 9312(b)(2)(B)(i)][/us/pl/100/203/s9312/b/2/B/i], (C)(ii), Dec. 22, 1987, [101 Stat. 1330–361][/us/stat/101/1330-361], 1330–362; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, [103 Stat. 2440][/us/stat/103/2440], 2441, 2445, 2451.)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4068, Sept. 2, 1974, [88 Stat. 1032][/us/stat/88/1032]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 321(c), Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678]; [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11016(a)(6)(B), (c)(14), Apr. 7, 1986, [100 Stat. 271][/us/stat/100/271], 275; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9312(b)(2)(B)(i), (C)(ii), Dec. 22, 1987, [101 Stat. 1330–361][/us/stat/101/1330-361], 1330–362; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7881(f)(3)(B), (10)(C), (12), 7891(a)(1), 7894(g)(4)(A), Dec. 19, 1989, [103 Stat. 2440][/us/stat/103/2440], 2441, 2445, 2451.)
 
  __Codification__ 
 
-    A former subsec. (f) of this section was originally subsec. (e) of [section 1362 of this title][/us/usc/t29/s1362] and was redesignated as subsec. (f) of this section by [Pub. L. 100–203, § 9312(b)(2)(B)(ii)][/us/pl/100/203/s9312/b/2/B/ii]. Subsequently, [Pub. L. 100–203, § 9312(b)(2)(B)(ii)][/us/pl/100/203/s9312/b/2/B/ii], was amended generally by [Pub. L. 101–239, § 7881(f)(10)(B)][/us/pl/101/239/s7881/f/10/B], and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
+    A former subsec. (f) of this section was originally subsec. (e) of [section 1362 of this title][/us/usc/t29/s1362] and was redesignated as subsec. (f) of this section by [Pub. L. 100–203][/us/pl/100/203], § 9312(b)(2)(B)(ii). Subsequently, [Pub. L. 100–203][/us/pl/100/203], § 9312(b)(2)(B)(ii), was amended generally by [Pub. L. 101–239][/us/pl/101/239], § 7881(f)(10)(B), and, as so amended, no longer contains language redesignating subsec. (e) of section 1362 as subsec. (f) of this section. As a result of that amendment, the transfer of subsec. (e) of section 1362 to subsec. (f) of this section was rescinded.
 
  __Amendments__ 
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 7881(f)(12)][/us/pl/101/239/s7881/f/12], struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in [section 1362(a) of this title][/us/usc/t29/s1362/a]” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in [section 1362(a) of this title][/us/usc/t29/s1362/a]” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in [section 1362(a) of this title][/us/usc/t29/s1362/a] upon all property and rights to property, whether real or personal, belonging to such person.”
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7881(f)(12), struck out “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in [section 1362(a) of this title][/us/usc/t29/s1362/a]” after “the amount of such liability” and substituted “in the amount of such liability (including interest) upon all property and rights to property, whether real or personal, belonging to such person, except that such lien may not be in an amount in excess of 30 percent of the collective net worth of all persons described in [section 1362(a) of this title][/us/usc/t29/s1362/a]” for “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in [section 1362(a) of this title][/us/usc/t29/s1362/a] upon all property and rights to property, whether real or personal, belonging to such person.”
 
-    [Pub. L. 101–239, § 7881(f)(3)(B)][/us/pl/101/239/s7881/f/3/B], struck out at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of [section 1364(d) of this title][/us/usc/t29/s1364/d] relating to treatment of multiple controlled groups.”
+    [Pub. L. 101–239][/us/pl/101/239], § 7881(f)(3)(B), struck out at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of [section 1364(d) of this title][/us/usc/t29/s1364/d] relating to treatment of multiple controlled groups.”
 
-    Subsec. (c). [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], in pars. (1), (3), and (4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), in pars. (1), (3), and (4), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    Subsec. (c)(2). [Pub. L. 101–239, § 7894(g)(4)(A)][/us/pl/101/239/s7894/g/4/A], substituted “[section 3713 of title 31][/us/usc/t31/s3713]” for “section 3466 of the Revised Statutes ([31 U.S.C. 191][/us/usc/t31/s191])”.
+    Subsec. (c)(2). [Pub. L. 101–239][/us/pl/101/239], § 7894(g)(4)(A), substituted “[section 3713 of title 31][/us/usc/t31/s3713]” for “section 3466 of the Revised Statutes ([31 U.S.C. 191][/us/usc/t31/s191])”.
 
-    Subsec. (f). [Pub. L. 101–239, § 7881(f)(10)(C)][/us/pl/101/239/s7881/f/10/C], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–239][/us/pl/101/239], § 7881(f)(10)(C), added subsec. (f).
 
-    1987—Subsec. (a). [Pub. L. 100–203, § 9312(b)(2)(B)(i)][/us/pl/100/203/s9312/b/2/B/i], substituted “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in [section 1362(a) of this title][/us/usc/t29/s1362/a]” for “to the extent of an amount equal to the unpaid amount described in [section 1362(b)(1)(A)(i) of this title][/us/usc/t29/s1362/b/1/A/i]” in two places.
+    1987—Subsec. (a). [Pub. L. 100–203][/us/pl/100/203], § 9312(b)(2)(B)(i), substituted “to the extent such amount does not exceed 30 percent of the collective net worth of all persons described in [section 1362(a) of this title][/us/usc/t29/s1362/a]” for “to the extent of an amount equal to the unpaid amount described in [section 1362(b)(1)(A)(i) of this title][/us/usc/t29/s1362/b/1/A/i]” in two places.
 
-    [Pub. L. 100–203, § 9312(b)(2)(C)(ii)][/us/pl/100/203/s9312/b/2/C/ii], inserted at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of [section 1364(d) of this title][/us/usc/t29/s1364/d] relating to treatment of multiple controlled groups.”
+    [Pub. L. 100–203][/us/pl/100/203], § 9312(b)(2)(C)(ii), inserted at end “The preceding provisions of this subsection shall be applied in a manner consistent with the provisions of [section 1364(d) of this title][/us/usc/t29/s1364/d] relating to treatment of multiple controlled groups.”
 
-    1986—[Pub. L. 99–272, § 11016(a)(6)(B)(i)][/us/pl/99/272/s11016/a/6/B/i], struck out “of employer” after “liability” in section catchline.
+    1986—[Pub. L. 99–272][/us/pl/99/272], § 11016(a)(6)(B)(i), struck out “of employer” after “liability” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–272, § 11016(a)(6)(B)(ii)][/us/pl/99/272/s11016/a/6/B/ii], substituted “person liable” for “employer or employers liable”, “neglects or refuses” for “neglect or refuse”, and “such person” for “such employer or employers” and inserted “to the extent of an amount equal to the unpaid amount described in [section 1362(b)(1)(A)(i) of this title][/us/usc/t29/s1362/b/1/A/i]” in two places.
+    Subsec. (a). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(6)(B)(ii), substituted “person liable” for “employer or employers liable”, “neglects or refuses” for “neglect or refuse”, and “such person” for “such employer or employers” and inserted “to the extent of an amount equal to the unpaid amount described in [section 1362(b)(1)(A)(i) of this title][/us/usc/t29/s1362/b/1/A/i]” in two places.
 
-    Subsec. (c)(1). [Pub. L. 99–272, § 11016(a)(6)(B)(vi)][/us/pl/99/272/s11016/a/6/B/vi], substituted par. (1) for former par. (1) which read as follows: “Except as otherwise provided under this section, the priority of the lien imposed under subsection (a) of this section shall be determined in the same manner as under [section 6323 of title 26][/us/usc/t26/s6323]. Such section 6323 shall be applied by substituting ‘lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974’ for ‘lien imposed by section 6321’; ‘corporation’ for ‘Secretary or his delegate’; ‘employer liability lien’ for ‘tax lien’; ‘employer’ for ‘taxpayer’; ‘lien arising under section 4068(a) of the Employee Retirement Income Security Act of 1974’ for ‘assessment of the tax’; and ‘payment of the loan value is made to the corporation’ for ‘satisfaction of a levy pursuant to section 6332(b)’; each place such terms appear.”
+    Subsec. (c)(1). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(6)(B)(vi), substituted par. (1) for former par. (1) which read as follows: “Except as otherwise provided under this section, the priority of the lien imposed under subsection (a) of this section shall be determined in the same manner as under [section 6323 of title 26][/us/usc/t26/s6323]. Such section 6323 shall be applied by substituting ‘lien imposed by section 4068 of the Employee Retirement Income Security Act of 1974’ for ‘lien imposed by section 6321’; ‘corporation’ for ‘Secretary or his delegate’; ‘employer liability lien’ for ‘tax lien’; ‘employer’ for ‘taxpayer’; ‘lien arising under section 4068(a) of the Employee Retirement Income Security Act of 1974’ for ‘assessment of the tax’; and ‘payment of the loan value is made to the corporation’ for ‘satisfaction of a levy pursuant to section 6332(b)’; each place such terms appear.”
 
-    Subsec. (d)(1), (2). [Pub. L. 99–272, § 11016(a)(6)(B)(iii)][/us/pl/99/272/s11016/a/6/B/iii], (iv), substituted “liable person” for “employer” wherever appearing.
+    Subsec. (d)(1), (2). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(6)(B)(iii), (iv), substituted “liable person” for “employer” wherever appearing.
 
-    Subsec. (e). [Pub. L. 99–272, § 11016(a)(6)(B)(v)][/us/pl/99/272/s11016/a/6/B/v], (c)(14), struck out “, with the consent of the board of directors,” after “corporation determines” and substituted “liable person” for “employer or employers”.
+    Subsec. (e). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(6)(B)(v), (c)(14), struck out “, with the consent of the board of directors,” after “corporation determines” and substituted “liable person” for “employer or employers”.
 
     1978—Subsec. (c)(2). [Pub. L. 95–598][/us/pl/95/598] substituted “a case under title 11 or in” and “title 11” for “the case of bankruptcy or” and “the Bankruptcy Act”.
 
@@ -109,7 +109,7 @@
 
     Amendment by [section 7891(a)(1) of Pub. L. 101–239][/us/pl/101/239/s7891/a/1] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 7891(f) of Pub. L. 101–239][/us/pl/101/239/s7891/f], set out as a note under [section 1002 of this title][/us/usc/t29/s1002].
 
-[Pub. L. 101–239, title VII, § 7894(g)(4)(B)][/us/pl/101/239/s7894/g/4/B], Dec. 19, 1989, [103 Stat. 2451][/us/stat/103/2451], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7894(g)(4)(B), Dec. 19, 1989, [103 Stat. 2451][/us/stat/103/2451], provided that: 
 
 > “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if originally included in [section 3 of Public Law 97–258][/us/pl/97/258/s3].”
 
@@ -139,43 +139,43 @@
 [/us/usc/t26/s6323/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323%2Fa
 [/us/usc/t29/s1362/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fd%2F1
 [/us/usc/t29/s1362/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fd%2F2
-[/us/pl/93/406/s4068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4068
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1032
-[/us/pl/95/598/s321/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs321%2Fc
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
-[/us/pl/99/272/s11016/a/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F6%2FB
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F271
-[/us/pl/100/203/s9312/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fb%2F2%2FB%2Fi
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-361
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2440
 [/us/usc/t29/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362
-[/us/pl/100/203/s9312/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fb%2F2%2FB%2Fii
-[/us/pl/100/203/s9312/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fb%2F2%2FB%2Fii
-[/us/pl/101/239/s7881/f/10/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Ff%2F10%2FB
-[/us/pl/101/239/s7881/f/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Ff%2F12
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t29/s1362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fa
 [/us/usc/t29/s1362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fa
 [/us/usc/t29/s1362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fa
-[/us/pl/101/239/s7881/f/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Ff%2F3%2FB
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t29/s1364/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1364%2Fd
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
-[/us/pl/101/239/s7894/g/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fg%2F4%2FA
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t31/s3713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3713
 [/us/usc/t31/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs191
-[/us/pl/101/239/s7881/f/10/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Ff%2F10%2FC
-[/us/pl/100/203/s9312/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fb%2F2%2FB%2Fi
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t29/s1362/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fa
 [/us/usc/t29/s1362/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fb%2F1%2FA%2Fi
-[/us/pl/100/203/s9312/b/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fb%2F2%2FC%2Fii
+[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/usc/t29/s1364/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1364%2Fd
-[/us/pl/99/272/s11016/a/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F6%2FB%2Fi
-[/us/pl/99/272/s11016/a/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F6%2FB%2Fii
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t29/s1362/b/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fb%2F1%2FA%2Fi
-[/us/pl/99/272/s11016/a/6/B/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F6%2FB%2Fvi
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t26/s6323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6323
-[/us/pl/99/272/s11016/a/6/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F6%2FB%2Fiii
-[/us/pl/99/272/s11016/a/6/B/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F6%2FB%2Fv
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -185,7 +185,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/101/239/s7891/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Ff
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
-[/us/pl/101/239/s7894/g/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fg%2F4%2FB
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2451
 [/us/pl/97/258/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs3
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

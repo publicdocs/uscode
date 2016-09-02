@@ -17,7 +17,7 @@
 
     There are authorized to be appropriated to carry out this chapter for each fiscal year such sums as the Congress shall deem necessary.
 
-([Pub. L. 91–596, § 33][/us/pl/91/596/s33], Dec. 29, 1970, [84 Stat. 1620][/us/stat/84/1620].)
+([Pub. L. 91–596][/us/pl/91/596], § 33, Dec. 29, 1970, [84 Stat. 1620][/us/stat/84/1620].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/596/s33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs33
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620
 
 

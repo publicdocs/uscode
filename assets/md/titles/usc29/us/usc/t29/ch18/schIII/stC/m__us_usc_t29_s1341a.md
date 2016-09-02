@@ -65,7 +65,7 @@
 
         (2) The corporation may prescribe reporting requirements for terminated plans, and rules and standards for the administration of such plans, which the corporation considers appropriate to protect the interests of plan participants and beneficiaries or to prevent unreasonable loss to the corporation.
 
-([Pub. L. 93–406, title IV, § 4041A][/us/pl/93/406/s4041A], as added [Pub. L. 96–364, title I, § 103][/us/pl/96/364/s103], Sept. 26, 1980, [94 Stat. 1216][/us/stat/94/1216].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4041A, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 103, Sept. 26, 1980, [94 Stat. 1216][/us/stat/94/1216].)
 
  __Effective Date__ 
 
@@ -81,8 +81,8 @@
 [/us/usc/t29/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1383
 [/us/usc/t29/s1321/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321%2Fb%2F1
 [/us/usc/t29/s1441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1441
-[/us/pl/93/406/s4041A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4041A
-[/us/pl/96/364/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs103
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1216
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 

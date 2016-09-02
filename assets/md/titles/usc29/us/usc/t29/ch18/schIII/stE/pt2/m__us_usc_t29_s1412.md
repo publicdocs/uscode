@@ -65,11 +65,11 @@
 
         (3) No transfer to which this section applies, in connection with a termination described in [section 1341a(a)(2) of this title][/us/usc/t29/s1341a/a/2] shall be effective unless the transfer meets such requirements as may be established by the corporation to prevent an increase in the risk of loss to the corporation.
 
-([Pub. L. 93–406, title IV, § 4232][/us/pl/93/406/s4232], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1245][/us/stat/94/1245].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4232, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1245][/us/stat/94/1245].)
 
  __References in Text__ 
 
-    [Section 1421 of this title][/us/usc/t29/s1421], referred to in subsec. (f)(2), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+    [Section 1421 of this title][/us/usc/t29/s1421], referred to in subsec. (f)(2), was repealed by [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 108(a)(1), Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
 ----------
 
@@ -81,11 +81,11 @@
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
 [/us/usc/t29/s1341a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341a%2Fa%2F2
-[/us/pl/93/406/s4232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4232
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1245
 [/us/usc/t29/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1421
-[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 
 

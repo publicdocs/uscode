@@ -31,7 +31,7 @@
 
         (4) as the Secretary may authorize in a special case.
 
-([Pub. L. 113–128, title I, § 146][/us/pl/113/128/s146], July 22, 2014, [128 Stat. 1542][/us/stat/128/1542].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 146, July 22, 2014, [128 Stat. 1542][/us/stat/128/1542].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t50/s3801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3801
 [/us/usc/t29/s3198/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3198%2Fc
 [/us/usc/t29/s3192/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3192%2F5
-[/us/pl/113/128/s146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs146
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1542
 [/us/act/1948-06-24/ch625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-24%2Fch625
 [/us/stat/62/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F604

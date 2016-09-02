@@ -29,7 +29,7 @@
 
         For the purpose of any hearing or investigation under this chapter, the Secretary shall have the authority contained in sections 49 and 50 of title 15.
 
-([Pub. L. 100–347, § 5][/us/pl/100/347/s5], June 27, 1988, [102 Stat. 647][/us/stat/102/647].)
+([Pub. L. 100–347][/us/pl/100/347], § 5, June 27, 1988, [102 Stat. 647][/us/stat/102/647].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/100/347/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs5
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F647
 
 

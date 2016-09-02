@@ -37,7 +37,7 @@
 
         (4) recommendations to improve the coordination of services under the Rehabilitation Act of 1973 with programs under sections 222 and 1615 of the Social Security Act, including recommendations for increasing savings in disability benefits payments and the rate of return to the active labor force by recipients of services under sections 222 and 1615 of the Social Security Act.
 
-([Pub. L. 95–602, title IV, § 401][/us/pl/95/602/s401], Nov. 6, 1978, [92 Stat. 3002][/us/stat/92/3002]; [Pub. L. 98–221, title I, § 104(c)(1)][/us/pl/98/221/s104/c/1], Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810].)
+([Pub. L. 95–602, title IV][/us/pl/95/602/tIV], § 401, Nov. 6, 1978, [92 Stat. 3002][/us/stat/92/3002]; [Pub. L. 98–221, title I][/us/pl/98/221/tI], § 104(c)(1), Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(C), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810].)
 
  __References in Text__ 
 
@@ -47,7 +47,7 @@
 
  __Codification__ 
 
-    In subsec. (c)(3), “[section 1105 of title 31][/us/usc/t31/s1105]” was substituted for “section 201 of the Budget and Accounting Act, 1921 \[[31 U.S.C. 11][/us/usc/t31/s11]\]” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c)(3), “[section 1105 of title 31][/us/usc/t31/s1105]” was substituted for “section 201 of the Budget and Accounting Act, 1921 \[[31 U.S.C. 11][/us/usc/t31/s11]\]” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
     Section was enacted as part of the Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978, and not as part of Rehabilitation Act of 1973 which comprises this chapter.
 
@@ -68,11 +68,11 @@
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t42/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs422
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
-[/us/pl/95/602/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs401
+[/us/pl/95/602/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtIV
 [/us/stat/92/3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3002
-[/us/pl/98/221/s104/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs104%2Fc%2F1
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F18
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
@@ -82,7 +82,7 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t31/s1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1105
 [/us/usc/t31/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs11
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
 [/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
 [/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221

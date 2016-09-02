@@ -105,23 +105,23 @@
 
         A labor organization before engaging in any strike, picketing, or other concerted refusal to work at any health care institution shall, not less than ten days prior to such action, notify the institution in writing and the Federal Mediation and Conciliation Service of that intention, except that in the case of bargaining for an initial agreement following certification or recognition the notice required by this subsection shall not be given until the expiration of the period specified in clause (B) of the last sentence of subsection (d). The notice shall state the date and time that such action will commence. The notice, once given, may be extended by the written agreement of both parties.
 
-([July 5, 1935, ch. 372, § 8][/us/act/1935-07-05/ch372/s8], [49 Stat. 452][/us/stat/49/452]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 140][/us/stat/61/140]; [Oct. 22, 1951, ch. 534, § 1(b)][/us/act/1951-10-22/ch534/s1/b], [65 Stat. 601][/us/stat/65/601]; [Pub. L. 86–257, title II, § 201(e)][/us/pl/86/257/s201/e], title VII, §§ 704(a)–(c), 705(a), Sept. 14, 1959, [73 Stat. 525][/us/stat/73/525], 542–545; [Pub. L. 93–360, § 1(c)][/us/pl/93/360/s1/c]–(e), July 26, 1974, [88 Stat. 395][/us/stat/88/395], 396.)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 8, [49 Stat. 452][/us/stat/49/452]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 140][/us/stat/61/140]; [Oct. 22, 1951, ch. 534][/us/act/1951-10-22/ch534], § 1(b), [65 Stat. 601][/us/stat/65/601]; [Pub. L. 86–257, title II][/us/pl/86/257/tII], § 201(e), title VII, §§ 704(a)–(c), 705(a), Sept. 14, 1959, [73 Stat. 525][/us/stat/73/525], 542–545; [Pub. L. 93–360][/us/pl/93/360], § 1(c)–(e), July 26, 1974, [88 Stat. 395][/us/stat/88/395], 396.)
 
  __Amendments__ 
 
-    1974—Subsec. (d). [Pub. L. 93–360, § 1(c)][/us/pl/93/360/s1/c], (d), substituted “any notice” for “the sixty-day” and inserted “, or who engages in any strike within the appropriate period specified in subsection (g) of this section,” in loss-of-employee-status provision and inserted enumeration of modifications to this subsection which are to be applied whenever the collective bargaining involves employees of a health care institution.
+    1974—Subsec. (d). [Pub. L. 93–360][/us/pl/93/360], § 1(c), (d), substituted “any notice” for “the sixty-day” and inserted “, or who engages in any strike within the appropriate period specified in subsection (g) of this section,” in loss-of-employee-status provision and inserted enumeration of modifications to this subsection which are to be applied whenever the collective bargaining involves employees of a health care institution.
 
-    Subsec. (g). [Pub. L. 93–360, § 1(e)][/us/pl/93/360/s1/e], added subsec. (g).
+    Subsec. (g). [Pub. L. 93–360][/us/pl/93/360], § 1(e), added subsec. (g).
 
-    1959—Subsec. (a)(3). [Pub. L. 86–257, § 201(e)][/us/pl/86/257/s201/e], struck out “and has at the time the agreement was made or within the preceding twelve months received from the Board a notice of compliance with sections 159(f), (g), (h) of this title” after “such agreement when made” in cl. (i).
+    1959—Subsec. (a)(3). [Pub. L. 86–257][/us/pl/86/257], § 201(e), struck out “and has at the time the agreement was made or within the preceding twelve months received from the Board a notice of compliance with sections 159(f), (g), (h) of this title” after “such agreement when made” in cl. (i).
 
-    Subsec. (b)(4). [Pub. L. 86–257, § 704(a)][/us/pl/86/257/s704/a], among other changes, substituted “induce or encourage any individual employed by any person engaged in commerce or in an industry affecting commerce to engage in, a strike or a refusal in the course of his employment” for “induce or encourage the employees of any employer to engage in, a strike or a concerted refusal in the course of their employment” in cl. (i), added cl. (ii), and inserted provisions relating to agreements prohibited by subsection (e) of this section in cl. (A), the proviso relating to primary strikes and primary picketing in cl. (B), and the last proviso relating to publicity.
+    Subsec. (b)(4). [Pub. L. 86–257][/us/pl/86/257], § 704(a), among other changes, substituted “induce or encourage any individual employed by any person engaged in commerce or in an industry affecting commerce to engage in, a strike or a refusal in the course of his employment” for “induce or encourage the employees of any employer to engage in, a strike or a concerted refusal in the course of their employment” in cl. (i), added cl. (ii), and inserted provisions relating to agreements prohibited by subsection (e) of this section in cl. (A), the proviso relating to primary strikes and primary picketing in cl. (B), and the last proviso relating to publicity.
 
-    Subsec. (b)(7). [Pub. L. 86–257, § 704(c)][/us/pl/86/257/s704/c], added par. (7).
+    Subsec. (b)(7). [Pub. L. 86–257][/us/pl/86/257], § 704(c), added par. (7).
 
-    Subsec. (e). [Pub. L. 86–257, § 704(b)][/us/pl/86/257/s704/b], added subsec. (e).
+    Subsec. (e). [Pub. L. 86–257][/us/pl/86/257], § 704(b), added subsec. (e).
 
-    Subsec. (f). [Pub. L. 86–257, § 705(a)][/us/pl/86/257/s705/a], added subsec. (f).
+    Subsec. (f). [Pub. L. 86–257][/us/pl/86/257], § 705(a), added subsec. (f).
 
     1951—Subsec. (a)(3). Act Oct. 22, 1951, substituted “and has at the time the agreement was made or within the preceding twelve months received from the Board a notice of compliance with section 159(f), (g), (h) of this title, and (ii) unless following an election held as provided in [section 159(e) of this title][/us/usc/t29/s159/e] within one year preceding the effective date of such agreement, the Board shall have certified that at least a majority of the employees eligible to vote in such election have voted to rescind the authority of such labor organization to make such an agreement:” for “; and (ii) if, following the most recent election held as provided in [section 159(e) of this title][/us/usc/t29/s159/e] the Board shall have certified that at least a majority of the employees eligible to vote in such election have voted to authorize such labor organization to make such an agreement:”.
 
@@ -147,7 +147,7 @@
 
  __Unfair Labor Practices Prior to__  __June 23, 1947__ 
 
-[Act June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 102, [61 Stat. 152][/us/stat/61/152], provided that: 
+[Act June 23, 1947, ch. 120, title I][/us/act/1947-06-23/ch120/tI], § 102, [61 Stat. 152][/us/stat/61/152], provided that: 
 
 > “No provision of this title \[amending this subchapter\] shall be deemed to make an unfair labor practice any act which was performed prior to the date of the enactment of this act \[June 23, 1947\] which did not constitute an unfair labor practice prior thereto, and the provisions of section 8(a)(3) and section 8(b)(2) of the National Labor Relations Act as amended by this title \[subsecs. (a)(3) and (b)(2) of this section\] shall not make an unfair labor practice the performance of any obligation under a collective-bargaining agreement entered into prior to the date of the enactment of this Act \[June 23, 1947\], or (in the case of an agreement for a period of not more than one year) entered into on or after such date of enactment, but prior to the effective date of this title, if the performance of such obligation would not have constituted an unfair labor practice under section 8(3) \[see subsec. (a)(3) of this section\] of the National Labor Relations Act prior to the effective date of this title \[sixty days after June 23, 1947\] unless such agreement was renewed or extended subsequent thereto.”
 
@@ -173,23 +173,23 @@
 [/us/usc/t29/s159/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159%2Fc%2F1
 [/us/usc/t29/s159/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159%2Fa
 [/us/usc/t29/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159
-[/us/act/1935-07-05/ch372/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs8
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F452
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F140
-[/us/act/1951-10-22/ch534/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-22%2Fch534%2Fs1%2Fb
+[/us/act/1951-10-22/ch534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-22%2Fch534
 [/us/stat/65/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F601
-[/us/pl/86/257/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs201%2Fe
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F525
-[/us/pl/93/360/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360%2Fs1%2Fc
+[/us/pl/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360
 [/us/stat/88/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F395
-[/us/pl/93/360/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360%2Fs1%2Fc
-[/us/pl/93/360/s1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360%2Fs1%2Fe
-[/us/pl/86/257/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs201%2Fe
-[/us/pl/86/257/s704/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs704%2Fa
-[/us/pl/86/257/s704/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs704%2Fc
-[/us/pl/86/257/s704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs704%2Fb
-[/us/pl/86/257/s705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs705%2Fa
+[/us/pl/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360
+[/us/pl/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/usc/t29/s159/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159%2Fe
 [/us/usc/t29/s159/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159%2Fe
 [/us/pl/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360
@@ -200,7 +200,7 @@
 [/us/usc/t29/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs153
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
 [/us/pl/86/257/s705/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs705%2Fb
-[/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
+[/us/act/1947-06-23/ch120/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120%2FtI
 [/us/stat/61/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F152
 
 

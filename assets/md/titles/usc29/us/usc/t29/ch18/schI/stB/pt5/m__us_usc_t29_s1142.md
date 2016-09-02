@@ -43,7 +43,7 @@
 
         Section 14(a) of the Federal Advisory Committee Act (relating to termination) shall not apply to the Council.
 
-([Pub. L. 93–406, title I, § 512][/us/pl/93/406/s512], Sept. 2, 1974, [88 Stat. 895][/us/stat/88/895].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 512, Sept. 2, 1974, [88 Stat. 895][/us/stat/88/895].)
 
  __References in Text__ 
 
@@ -51,7 +51,7 @@
 
     [Section 1143(b) of this title][/us/usc/t29/s1143/b], referred to in subsec. (b), was omitted from the Code.
 
-    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (d)(2), was amended generally by [Pub. L. 94–22, § 4][/us/pl/94/22/s4], May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
+    [Section 5703 of title 5][/us/usc/t5/s5703], referred to in subsec. (d)(2), was amended generally by [Pub. L. 94–22][/us/pl/94/22], § 4, May 19, 1975, [89 Stat. 85][/us/stat/89/85], and, as so amended, does not contain a subsec. (b).
 
     Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (e), is [section 14(a) of Pub. L. 92–463][/us/pl/92/463/s14/a], which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -71,13 +71,13 @@
 ----------
 
 [/us/usc/t5/s5703/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703%2Fb
-[/us/pl/93/406/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs512
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F895
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t29/s1143/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1143%2Fb
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/94/22/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22%2Fs4
+[/us/pl/94/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F22
 [/us/stat/89/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F85
 [/us/pl/92/463/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14%2Fa
 [/us/usc/t29/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1031

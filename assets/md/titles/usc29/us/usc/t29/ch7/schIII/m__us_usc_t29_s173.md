@@ -39,7 +39,7 @@
 
         The Service may make its services available to Federal agencies to aid in the resolution of disputes under the provisions of subchapter IV of chapter 5 of title 5. Functions performed by the Service may include assisting parties to disputes related to administrative programs, training persons in skills and procedures employed in alternative means of dispute resolution, and furnishing officers and employees of the Service to act as neutrals. Only officers and employees who are qualified in accordance with [section 573 of title 5][/us/usc/t5/s573] may be assigned to act as neutrals. The Service shall consult with the agency designated by, or the interagency committee designated or established by, the President under [section 573 of title 5][/us/usc/t5/s573] in maintaining rosters of neutrals and arbitrators, and to adopt such procedures and rules as are necessary to carry out the services authorized in this subsection.
 
-([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title II, § 203, [61 Stat. 153][/us/stat/61/153]; [Pub. L. 95–524, § 6(c)(1)][/us/pl/95/524/s6/c/1], Oct. 27, 1978, [92 Stat. 2020][/us/stat/92/2020]; [Pub. L. 101–552, § 7][/us/pl/101/552/s7], Nov. 15, 1990, [104 Stat. 2746][/us/stat/104/2746]; [Pub. L. 102–354, § 5(b)(5)][/us/pl/102/354/s5/b/5], Aug. 26, 1992, [106 Stat. 946][/us/stat/106/946]; [Pub. L. 104–320, § 4(c)][/us/pl/104/320/s4/c], Oct. 19, 1996, [110 Stat. 3871][/us/stat/110/3871].)
+([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title II, § 203, [61 Stat. 153][/us/stat/61/153]; [Pub. L. 95–524][/us/pl/95/524], § 6(c)(1), Oct. 27, 1978, [92 Stat. 2020][/us/stat/92/2020]; [Pub. L. 101–552][/us/pl/101/552], § 7, Nov. 15, 1990, [104 Stat. 2746][/us/stat/104/2746]; [Pub. L. 102–354][/us/pl/102/354], § 5(b)(5), Aug. 26, 1992, [106 Stat. 946][/us/stat/106/946]; [Pub. L. 104–320][/us/pl/104/320], § 4(c), Oct. 19, 1996, [110 Stat. 3871][/us/stat/110/3871].)
 
  __References in Text__ 
 
@@ -71,13 +71,13 @@
 [/us/usc/t5/s573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs573
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F153
-[/us/pl/95/524/s6/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs6%2Fc%2F1
+[/us/pl/95/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524
 [/us/stat/92/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2020
-[/us/pl/101/552/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552%2Fs7
+[/us/pl/101/552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F552
 [/us/stat/104/2746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2746
-[/us/pl/102/354/s5/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354%2Fs5%2Fb%2F5
+[/us/pl/102/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F354
 [/us/stat/106/946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F946
-[/us/pl/104/320/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320%2Fs4%2Fc
+[/us/pl/104/320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F320
 [/us/stat/110/3871]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3871
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F136

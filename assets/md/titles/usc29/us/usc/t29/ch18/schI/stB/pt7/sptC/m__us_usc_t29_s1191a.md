@@ -69,13 +69,13 @@
 
             if such individual is, or may become, eligible to receive a benefit under the plan or such individual’s beneficiaries may be eligible to receive any such benefit.
 
-([Pub. L. 93–406, title I, § 732][/us/pl/93/406/s732], formerly § 705, as added [Pub. L. 104–191, title I, § 101(a)][/us/pl/104/191/s101/a], Aug. 21, 1996, [110 Stat. 1948][/us/stat/110/1948]; renumbered § 732 and amended [Pub. L. 104–204, title VI, § 603(a)(3)][/us/pl/104/204/s603/a/3], (b)(2), (3)(I)–(L), Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935], 2937, 2938.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 732, formerly § 705, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(a), Aug. 21, 1996, [110 Stat. 1948][/us/stat/110/1948]; renumbered § 732 and amended [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 603(a)(3), (b)(2), (3)(I)–(L), Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935], 2937, 2938.)
 
  __Amendments__ 
 
-    1996—Subsec. (a). [Pub. L. 104–204, § 603(b)(2)][/us/pl/104/204/s603/b/2], inserted “(other than [section 1185 of this title][/us/usc/t29/s1185])” after “part”.
+    1996—Subsec. (a). [Pub. L. 104–204][/us/pl/104/204], § 603(b)(2), inserted “(other than [section 1185 of this title][/us/usc/t29/s1185])” after “part”.
 
-    Subsecs. (b), (c)(1) to (3). [Pub. L. 104–204, § 603(b)(3)(I)][/us/pl/104/204/s603/b/3/I]–(L), made technical amendment to references in original act which appear in text as references to [section 1191b of this title][/us/usc/t29/s1191b].
+    Subsecs. (b), (c)(1) to (3). [Pub. L. 104–204][/us/pl/104/204], § 603(b)(3)(I)–(L), made technical amendment to references in original act which appear in text as references to [section 1191b of this title][/us/usc/t29/s1191b].
 
  __Effective Date of 1996 Amendment__ 
 
@@ -97,14 +97,14 @@
 [/us/usc/t29/s1191b/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b%2Fc%2F2
 [/us/usc/t29/s1191b/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b%2Fc%2F3
 [/us/usc/t29/s1191b/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b%2Fc%2F4
-[/us/pl/93/406/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs732
-[/us/pl/104/191/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1948
-[/us/pl/104/204/s603/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fa%2F3
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2935
-[/us/pl/104/204/s603/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fb%2F2
+[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/usc/t29/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185
-[/us/pl/104/204/s603/b/3/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fb%2F3%2FI
+[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/usc/t29/s1191b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/pl/104/204/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fc

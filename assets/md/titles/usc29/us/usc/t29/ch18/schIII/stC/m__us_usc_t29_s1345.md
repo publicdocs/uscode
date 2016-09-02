@@ -51,11 +51,11 @@
 
         (3) The corporation is authorized to waive, in whole or in part, the recovery of any amount which the trustee is authorized to recover for the benefit of a plan under this section in any case in which it determines that substantial economic hardship would result to the participant or his beneficiaries from whom such amount is recoverable.
 
-([Pub. L. 93–406, title IV, § 4045][/us/pl/93/406/s4045], Sept. 2, 1974, [88 Stat. 1027][/us/stat/88/1027]; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4045, Sept. 2, 1974, [88 Stat. 1027][/us/stat/88/1027]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
 
  __References in Text__ 
 
-    [Section 1343(b)(7) of this title][/us/usc/t29/s1343/b/7], referred to in subsec. (c)(1), was redesignated [section 1343(c)(7) of this title][/us/usc/t29/s1343/c/7] by [Pub. L. 103–465, title VII, § 771(b)][/us/pl/103/465/s771/b], Dec. 8, 1994, [108 Stat. 5042][/us/stat/108/5042].
+    [Section 1343(b)(7) of this title][/us/usc/t29/s1343/b/7], referred to in subsec. (c)(1), was redesignated [section 1343(c)(7) of this title][/us/usc/t29/s1343/c/7] by [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 771(b), Dec. 8, 1994, [108 Stat. 5042][/us/stat/108/5042].
 
  __Amendments__ 
 
@@ -73,13 +73,13 @@
 ----------
 
 [/us/usc/t26/s72/m/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72%2Fm%2F7
-[/us/pl/93/406/s4045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4045
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1027
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/usc/t29/s1343/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1343%2Fb%2F7
 [/us/usc/t29/s1343/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1343%2Fc%2F7
-[/us/pl/103/465/s771/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fb
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5042
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

@@ -17,7 +17,7 @@
 
     Except as provided in subsections (a), (b), and (c) of [section 2006 of this title][/us/usc/t29/s2006], this chapter shall not preempt any provision of any State or local law or of any negotiated collective bargaining agreement that prohibits lie detector tests or is more restrictive with respect to lie detector tests than any provision of this chapter.
 
-([Pub. L. 100–347, § 10][/us/pl/100/347/s10], June 27, 1988, [102 Stat. 653][/us/stat/102/653].)
+([Pub. L. 100–347][/us/pl/100/347], § 10, June 27, 1988, [102 Stat. 653][/us/stat/102/653].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t29/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2006
-[/us/pl/100/347/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs10
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F653
 
 

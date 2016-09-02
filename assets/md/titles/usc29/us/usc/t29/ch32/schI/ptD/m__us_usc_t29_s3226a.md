@@ -17,7 +17,7 @@
 
     For program year 2010 and each program year thereafter, the YouthBuild program may serve an individual who has dropped out of high school and re-enrolled in an alternative school, if that re-enrollment is part of a sequential service strategy.
 
-([Pub. L. 111–117, div. D, title I][/us/pl/111/117], (2)(E), Dec. 16, 2009, [123 Stat. 3227][/us/stat/123/3227].)
+([Pub. L. 111–117, div. D, title I][/us/pl/111/117/dD/tI], (2)(E), Dec. 16, 2009, [123 Stat. 3227][/us/stat/123/3227].)
 
  __Codification__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtI
 [/us/stat/123/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3227
 [/us/usc/t29/s2918b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b
 

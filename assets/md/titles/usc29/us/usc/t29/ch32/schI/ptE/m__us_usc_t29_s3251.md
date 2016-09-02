@@ -23,7 +23,7 @@
 
         In the event that compliance with provisions of this subchapter would be enhanced by compacts and cooperative agreements between States, the consent of Congress is given to States to enter into such compacts and agreements to facilitate such compliance, subject to the approval of the Secretary.
 
-([Pub. L. 113–128, title I, § 191][/us/pl/113/128/s191], July 22, 2014, [128 Stat. 1603][/us/stat/128/1603].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 191, July 22, 2014, [128 Stat. 1603][/us/stat/128/1603].)
 
  __Effective Date__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/113/128/s191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs191
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1603
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

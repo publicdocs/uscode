@@ -189,7 +189,7 @@
 
             (D) other activities related to the creation, renewal, or replacement of a contract of health insurance or health benefits.
 
-([Pub. L. 93–406, title I, § 733][/us/pl/93/406/s733], formerly § 706, as added [Pub. L. 104–191, title I, § 101(a)][/us/pl/104/191/s101/a], Aug. 21, 1996, [110 Stat. 1949][/us/stat/110/1949]; renumbered § 733, [Pub. L. 104–204, title VI, § 603(a)(3)][/us/pl/104/204/s603/a/3], Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935]; amended [Pub. L. 110–233, title I, § 101(d)][/us/pl/110/233/s101/d], May 21, 2008, [122 Stat. 885][/us/stat/122/885].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 733, formerly § 706, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(a), Aug. 21, 1996, [110 Stat. 1949][/us/stat/110/1949]; renumbered § 733, [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 603(a)(3), Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935]; amended [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 101(d), May 21, 2008, [122 Stat. 885][/us/stat/122/885].)
 
  __References in Text__ 
 
@@ -222,12 +222,12 @@
 [/us/usc/t29/s1182/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1182%2Fa%2F1
 [/us/usc/t29/s1169/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1169%2Fc%2F3%2FB
 [/us/usc/t29/s1181/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Ff%2F2
-[/us/pl/93/406/s733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs733
-[/us/pl/104/191/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1949
-[/us/pl/104/204/s603/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fa%2F3
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2935
-[/us/pl/110/233/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fd
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F885
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/stat/58/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F682

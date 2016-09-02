@@ -65,11 +65,11 @@
 
             The term “State” includes a State, the Northern Mariana Islands, any political subdivisions of a State or such Islands, or any agency or instrumentality of either.
 
-([Pub. L. 93–406, title I, § 731][/us/pl/93/406/s731], formerly § 704, as added [Pub. L. 104–191, title I, § 101(a)][/us/pl/104/191/s101/a], Aug. 21, 1996, [110 Stat. 1946][/us/stat/110/1946]; renumbered § 731 and amended [Pub. L. 104–204, title VI, § 603(a)(3)][/us/pl/104/204/s603/a/3], (b)(1), Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935], 2937.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 731, formerly § 704, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(a), Aug. 21, 1996, [110 Stat. 1946][/us/stat/110/1946]; renumbered § 731 and amended [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 603(a)(3), (b)(1), Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935], 2937.)
 
  __Amendments__ 
 
-    1996—Subsec. (c). [Pub. L. 104–204, § 603(b)(1)][/us/pl/104/204/s603/b/1], substituted “Except as provided in [section 1185 of this title][/us/usc/t29/s1185], nothing” for “Nothing”.
+    1996—Subsec. (c). [Pub. L. 104–204][/us/pl/104/204], § 603(b)(1), substituted “Except as provided in [section 1185 of this title][/us/usc/t29/s1185], nothing” for “Nothing”.
 
  __Effective Date of 1996 Amendment__ 
 
@@ -94,12 +94,12 @@
 [/us/usc/t29/s1181/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Ff
 [/us/usc/t29/s1181/g/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Fg%2F1%2FB
 [/us/usc/t29/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185
-[/us/pl/93/406/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs731
-[/us/pl/104/191/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1946
-[/us/pl/104/204/s603/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fa%2F3
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2935
-[/us/pl/104/204/s603/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fb%2F1
+[/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/usc/t29/s1185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1185
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/pl/104/204/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fc

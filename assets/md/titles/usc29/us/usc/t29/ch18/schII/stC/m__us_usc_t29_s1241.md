@@ -17,7 +17,7 @@
 
     The Secretary of Labor and the Secretary of the Treasury shall, not later than the last day of the first calendar month beginning after September 2, 1974, establish a Joint Board for the Enrollment of Actuaries (hereinafter in this part referred to as the “Joint Board”).
 
-([Pub. L. 93–406, title III, § 3041][/us/pl/93/406/s3041], Sept. 2, 1974, [88 Stat. 1002][/us/stat/88/1002].)
+([Pub. L. 93–406, title III][/us/pl/93/406/tIII], § 3041, Sept. 2, 1974, [88 Stat. 1002][/us/stat/88/1002].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s3041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs3041
+[/us/pl/93/406/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIII
 [/us/stat/88/1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1002
 
 

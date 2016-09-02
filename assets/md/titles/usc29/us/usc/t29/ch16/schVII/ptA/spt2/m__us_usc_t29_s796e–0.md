@@ -27,7 +27,7 @@
 
         To be eligible to receive a grant or enter into a contract or cooperative agreement under this section, an entity shall submit an application to the Administrator at such time, in such manner, containing a proposal to provide such training and technical assistance, and containing such additional information, as the Administrator may require. The Administrator shall provide for peer review of applications by panels that include persons who are not government employees and who have experience in the operation of such Statewide Independent Living Councils.
 
-([Pub. L. 93–112, title VII, § 711A][/us/pl/93/112/s711A], as added [Pub. L. 113–128, title IV, § 476(b)][/us/pl/113/128/s476/b], July 22, 2014, [128 Stat. 1690][/us/stat/128/1690].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 711A, as added [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 476(b), July 22, 2014, [128 Stat. 1690][/us/stat/128/1690].)
 
 ----------
 
@@ -37,8 +37,8 @@
 ----------
 
 [/us/usc/t29/s796d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d
-[/us/pl/93/112/s711A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs711A
-[/us/pl/113/128/s476/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fb
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1690]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1690
 
 

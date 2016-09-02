@@ -25,7 +25,7 @@
 
     (b) Each employee shall comply with occupational safety and health standards and all rules, regulations, and orders issued pursuant to this chapter which are applicable to his own actions and conduct.
 
-([Pub. L. 91–596, § 5][/us/pl/91/596/s5], Dec. 29, 1970, [84 Stat. 1593][/us/stat/84/1593].)
+([Pub. L. 91–596][/us/pl/91/596], § 5, Dec. 29, 1970, [84 Stat. 1593][/us/stat/84/1593].)
 
 ----------
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/91/596/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs5
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1593
 
 

@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of such provision to any person or circumstance, shall be held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-([Pub. L. 91–596, § 32][/us/pl/91/596/s32], Dec. 29, 1970, [84 Stat. 1619][/us/stat/84/1619].)
+([Pub. L. 91–596][/us/pl/91/596], § 32, Dec. 29, 1970, [84 Stat. 1619][/us/stat/84/1619].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/596/s32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs32
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1619
 
 

@@ -11,62 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch24/m__us_usc_t29_ch24.md) | [Next](./../../../../..//us/usc/t29/ch24/schI/m__us_usc_t29_s2217.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch24%2FschI)
+[Previous](./../../../../..//us/usc/t29/ch24/m__us_usc_t29_s2201 _us_usc_t29_s2202.md) | [Next](./../../../../..//us/usc/t29/ch24/schI/m__us_usc_t29_s2211...2216.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch24%2FschI)
 
 ### SUBCHAPTER I—GRANTS TO STATES
 
-§§ 2211 to 2216. __Repealed.__  __[__  __Pub. L. 105–394, title IV, § 401__  __][/us/pl/105/394/s401]__  __,__  __Nov. 13, 1998__  __,__  __[__  __112 Stat. 3661__  __][/us/stat/112/3661]__ 
-
-    Section 2211, [Pub. L. 100–407, title I, § 101][/us/pl/100/407/s101], Aug. 19, 1988, [102 Stat. 1047][/us/stat/102/1047]; [Pub. L. 103–218, title I, § 101][/us/pl/103/218/s101], Mar. 9, 1994, [108 Stat. 57][/us/stat/108/57]; [Pub. L. 105–220, title IV, § 414(b)(1)][/us/pl/105/220/s414/b/1], Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242], authorized program.
-
-    Section 2212, [Pub. L. 100–407, title I, § 102][/us/pl/100/407/s102], Aug. 19, 1988, [102 Stat. 1052][/us/stat/102/1052]; [Pub. L. 103–218, title I, § 102][/us/pl/103/218/s102], Mar. 9, 1994, [108 Stat. 63][/us/stat/108/63]; [Pub. L. 105–220, title IV, § 414(b)(2)][/us/pl/105/220/s414/b/2], Aug. 7, 1998, [112 Stat. 1242][/us/stat/112/1242], related to development grants.
-
-    Section 2213, [Pub. L. 100–407, title I, § 103][/us/pl/100/407/s103], Aug. 19, 1988, [102 Stat. 1055][/us/stat/102/1055]; [Pub. L. 103–218, title I, § 103][/us/pl/103/218/s103], Mar. 9, 1994, [108 Stat. 70][/us/stat/108/70], related to extension grants.
-
-    Section 2214, [Pub. L. 100–407, title I, § 104][/us/pl/100/407/s104], Aug. 19, 1988, [102 Stat. 1056][/us/stat/102/1056]; [Pub. L. 103–218, title I, § 104][/us/pl/103/218/s104], Mar. 9, 1994, [108 Stat. 75][/us/stat/108/75], related to progress criteria and reports.
-
-    Section 2215, [Pub. L. 100–407, title I, § 105][/us/pl/100/407/s105], Aug. 19, 1988, [102 Stat. 1057][/us/stat/102/1057]; [Pub. L. 101–476, title IX, § 901(a)(2)][/us/pl/101/476/s901/a/2], Oct. 30, 1990, [104 Stat. 1142][/us/stat/104/1142]; [Pub. L. 103–218, title I, § 105][/us/pl/103/218/s105], Mar. 9, 1994, [108 Stat. 76][/us/stat/108/76], related to administrative provisions.
-
-    Section 2216, [Pub. L. 100–407, title I, § 106][/us/pl/100/407/s106], Aug. 19, 1988, [102 Stat. 1058][/us/stat/102/1058]; [Pub. L. 103–218, title I, § 106][/us/pl/103/218/s106], Mar. 9, 1994, [108 Stat. 82][/us/stat/108/82], related to authorization of appropriations.
-
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch24/m__us_usc_t29_ch24.md) | [Next](./../../../../..//us/usc/t29/ch24/schI/m__us_usc_t29_s2217.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch24%2FschI)
+[Previous](./../../../../..//us/usc/t29/ch24/m__us_usc_t29_s2201 _us_usc_t29_s2202.md) | [Next](./../../../../..//us/usc/t29/ch24/schI/m__us_usc_t29_s2211...2216.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch24%2FschI)
 
 ----------
 ----------
 
-[/us/pl/105/394/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs401
-[/us/stat/112/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3661
-[/us/pl/100/407/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F407%2Fs101
-[/us/stat/102/1047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1047
-[/us/pl/103/218/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs101
-[/us/stat/108/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F57
-[/us/pl/105/220/s414/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs414%2Fb%2F1
-[/us/stat/112/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1242
-[/us/pl/100/407/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F407%2Fs102
-[/us/stat/102/1052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1052
-[/us/pl/103/218/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs102
-[/us/stat/108/63]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F63
-[/us/pl/105/220/s414/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs414%2Fb%2F2
-[/us/stat/112/1242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1242
-[/us/pl/100/407/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F407%2Fs103
-[/us/stat/102/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1055
-[/us/pl/103/218/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs103
-[/us/stat/108/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F70
-[/us/pl/100/407/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F407%2Fs104
-[/us/stat/102/1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1056
-[/us/pl/103/218/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs104
-[/us/stat/108/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F75
-[/us/pl/100/407/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F407%2Fs105
-[/us/stat/102/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1057
-[/us/pl/101/476/s901/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F476%2Fs901%2Fa%2F2
-[/us/stat/104/1142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1142
-[/us/pl/103/218/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs105
-[/us/stat/108/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F76
-[/us/pl/100/407/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F407%2Fs106
-[/us/stat/102/1058]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1058
-[/us/pl/103/218/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F218%2Fs106
-[/us/stat/108/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F82
 
 

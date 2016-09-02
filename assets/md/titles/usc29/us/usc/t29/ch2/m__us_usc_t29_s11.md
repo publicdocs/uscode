@@ -17,7 +17,7 @@
 
     There shall be established in the Department of Labor a bureau to be known as the Women’s Bureau.
 
-([June 5, 1920, ch. 248, § 1][/us/act/1920-06-05/ch248/s1], [41 Stat. 987][/us/stat/41/987].)
+([June 5, 1920, ch. 248][/us/act/1920-06-05/ch248], § 1, [41 Stat. 987][/us/stat/41/987].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch248/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch248%2Fs1
+[/us/act/1920-06-05/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch248
 [/us/stat/41/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F987
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 

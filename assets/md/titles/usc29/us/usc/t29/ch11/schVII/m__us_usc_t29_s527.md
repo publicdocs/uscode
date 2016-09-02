@@ -17,7 +17,7 @@
 
     In order to avoid unnecessary expense and duplication of functions among Government agencies, the Secretary may make such arrangements or agreements for cooperation or mutual assistance in the performance of his functions under this chapter and the functions of any such agency as he may find to be practicable and consistent with law. The Secretary may utilize the facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment; and each department, agency, or establishment of the United States is authorized and directed to cooperate with the Secretary and, to the extent permitted by law, to provide such information and facilities as he may request for his assistance in the performance of his functions under this chapter. The Attorney General or his representative shall receive from the Secretary for appropriate action such evidence developed in the performance of his functions under this chapter as may be found to warrant consideration for criminal prosecution under the provisions of this chapter or other Federal law.
 
-([Pub. L. 86–257, title VI, § 607][/us/pl/86/257/s607], Sept. 14, 1959, [73 Stat. 540][/us/stat/73/540].)
+([Pub. L. 86–257, title VI][/us/pl/86/257/tVI], § 607, Sept. 14, 1959, [73 Stat. 540][/us/stat/73/540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs607
+[/us/pl/86/257/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVI
 [/us/stat/73/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F540
 
 

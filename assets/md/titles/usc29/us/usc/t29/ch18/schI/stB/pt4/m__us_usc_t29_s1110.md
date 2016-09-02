@@ -27,7 +27,7 @@
 
         (3) an employer or an employee organization from purchasing insurance to cover potential liability of one or more persons who serve in a fiduciary capacity with regard to an employee benefit plan.
 
-([Pub. L. 93–406, title I, § 410][/us/pl/93/406/s410], Sept. 2, 1974, [88 Stat. 886][/us/stat/88/886].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 410, Sept. 2, 1974, [88 Stat. 886][/us/stat/88/886].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs410
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F886
 
 

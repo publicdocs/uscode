@@ -99,13 +99,13 @@
 
         On making a grant under this section to an entity in a State, the Secretary shall solicit and consider the opinions of the lead agency of the State with respect to efforts at coordination of activities, collaboration, and promoting outcomes between the lead agency and the entity that receives the grant under this section.
 
-([Pub. L. 105–394, § 5][/us/pl/105/394/s5], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1725][/us/stat/118/1725].)
+([Pub. L. 105–394][/us/pl/105/394], § 5, as added [Pub. L. 108–364][/us/pl/108/364], § 2, Oct. 25, 2004, [118 Stat. 1725][/us/stat/118/1725].)
 
  __References in Text__ 
 
     The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referred to in subsec. (a)(2), is [Pub. L. 106–402][/us/pl/106/402], Oct. 30, 2000, [114 Stat. 1677][/us/stat/114/1677], as amended. Subtitle C of title I of the Act is classified generally to part C (§ 15041 et seq.) of subchapter I of chapter 144 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 15001 of Title 42][/us/usc/t42/s15001] and Tables.
 
-    [Section 2212 of this title][/us/usc/t29/s2212], referred to in subsec. (d)(1), was repealed by [Pub. L. 105–394, title IV, § 401][/us/pl/105/394/s401], Nov. 13, 1998, [112 Stat. 3661][/us/stat/112/3661].
+    [Section 2212 of this title][/us/usc/t29/s2212], referred to in subsec. (d)(1), was repealed by [Pub. L. 105–394, title IV][/us/pl/105/394/tIV], § 401, Nov. 13, 1998, [112 Stat. 3661][/us/stat/112/3661].
 
 ----------
 
@@ -118,14 +118,14 @@
 [/us/usc/t29/s3007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3007%2Fb
 [/us/usc/t29/s3003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003%2Fc%2F1
 [/us/usc/t29/s3003/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003%2Fc%2F1
-[/us/pl/105/394/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs5
-[/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1725
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
 [/us/usc/t42/s15001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs15001
 [/us/usc/t29/s2212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2212
-[/us/pl/105/394/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs401
+[/us/pl/105/394/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2FtIV
 [/us/stat/112/3661]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3661
 
 

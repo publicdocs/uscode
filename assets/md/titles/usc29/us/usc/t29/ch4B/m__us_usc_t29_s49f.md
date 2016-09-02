@@ -75,7 +75,7 @@
 
         All job search, placement, recruitment, workforce and labor market information, and other labor exchange services authorized under subsection (a) shall be provided, consistent with the other requirements of this chapter, as part of the one-stop delivery system established by the State.
 
-([June 6, 1933, ch. 49, § 7][/us/act/1933-06-06/ch49/s7], as added [Pub. L. 97–300, title VI, § 601(c)][/us/pl/97/300/s601/c], formerly title V, § 501(c), Oct. 13, 1982, [96 Stat. 1394][/us/stat/96/1394]; renumbered title VI, § 601(c), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; amended [Pub. L. 101–392, § 5(b)][/us/pl/101/392/s5/b], Sept. 25, 1990, [104 Stat. 759][/us/stat/104/759]; [Pub. L. 105–220, title III][/us/pl/105/220], §§ 305, 310, Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081], 1086; [Pub. L. 113–128, title III, § 305][/us/pl/113/128/s305], July 22, 2014, [128 Stat. 1626][/us/stat/128/1626].)
+([June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 7, as added [Pub. L. 97–300, title VI][/us/pl/97/300/tVI], § 601(c), formerly title V, § 501(c), Oct. 13, 1982, [96 Stat. 1394][/us/stat/96/1394]; renumbered title VI, § 601(c), [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 712(a)(1), (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; amended [Pub. L. 101–392][/us/pl/101/392], § 5(b), Sept. 25, 1990, [104 Stat. 759][/us/stat/104/759]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], §§ 305, 310, Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081], 1086; [Pub. L. 113–128, title III][/us/pl/113/128/tIII], § 305, July 22, 2014, [128 Stat. 1626][/us/stat/128/1626].)
 
  __References in Text__ 
 
@@ -87,39 +87,39 @@
 
  __Prior Provisions__ 
 
-    A prior section 49f, [act June 6, 1933, ch. 49, § 7][/us/act/1933-06-06/ch49/s7], [48 Stat. 115][/us/stat/48/115], related to ascertainment of amounts due to States, and certification to the Secretary of the Treasury, prior to repeal by [act Sept. 8, 1950, ch. 933, § 3][/us/act/1950-09-08/ch933/s3], [64 Stat. 823][/us/stat/64/823].
+    A prior section 49f, [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 7, [48 Stat. 115][/us/stat/48/115], related to ascertainment of amounts due to States, and certification to the Secretary of the Treasury, prior to repeal by [act Sept. 8, 1950, ch. 933][/us/act/1950-09-08/ch933], § 3, [64 Stat. 823][/us/stat/64/823].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–128, § 305(a)][/us/pl/113/128/s305/a], inserted “, including unemployment insurance claimants,” after “seekers”.
+    2014—Subsec. (a)(1). [Pub. L. 113–128][/us/pl/113/128], § 305(a), inserted “, including unemployment insurance claimants,” after “seekers”.
 
-    Subsec. (a)(3)(F). [Pub. L. 113–128, § 305(b)(2)(A)][/us/pl/113/128/s305/b/2/A], inserted “, including making eligibility assessments,” after “system”.
+    Subsec. (a)(3)(F). [Pub. L. 113–128][/us/pl/113/128], § 305(b)(2)(A), inserted “, including making eligibility assessments,” after “system”.
 
-    Subsec. (a)(3)(G). [Pub. L. 113–128, § 305(b)(1)][/us/pl/113/128/s305/b/1], (2)(B), (3), added subpar. (G).
+    Subsec. (a)(3)(G). [Pub. L. 113–128][/us/pl/113/128], § 305(b)(1), (2)(B), (3), added subpar. (G).
 
-    Subsec. (b)(1). [Pub. L. 113–128, § 305(c)(1)][/us/pl/113/128/s305/c/1], substituted “the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act” for “performance standards established by the Secretary”.
+    Subsec. (b)(1). [Pub. L. 113–128][/us/pl/113/128], § 305(c)(1), substituted “the performance accountability measures that are based on indicators described in section 116(b)(2)(A)(i) of the Workforce Innovation and Opportunity Act” for “performance standards established by the Secretary”.
 
-    Subsec. (b)(2). [Pub. L. 113–128, § 305(c)(2)][/us/pl/113/128/s305/c/2], inserted “offices” after “employment service”.
+    Subsec. (b)(2). [Pub. L. 113–128][/us/pl/113/128], § 305(c)(2), inserted “offices” after “employment service”.
 
-    Subsec. (b)(3). [Pub. L. 113–128, § 305(c)(3)][/us/pl/113/128/s305/c/3], inserted “, and models for enhancing professional development and career advancement opportunities of State agency staff, as described in [section 49b(c)(4) of this title][/us/usc/t29/s49b/c/4]” after “subsection (a)”.
+    Subsec. (b)(3). [Pub. L. 113–128][/us/pl/113/128], § 305(c)(3), inserted “, and models for enhancing professional development and career advancement opportunities of State agency staff, as described in [section 49b(c)(4) of this title][/us/usc/t29/s49b/c/4]” after “subsection (a)”.
 
-    Subsecs. (c)(2), (d). [Pub. L. 113–128, § 305(d)][/us/pl/113/128/s305/d], substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998”.
+    Subsecs. (c)(2), (d). [Pub. L. 113–128][/us/pl/113/128], § 305(d), substituted “the Workforce Innovation and Opportunity Act” for “the Workforce Investment Act of 1998”.
 
-    Subsec. (e). [Pub. L. 113–128, § 305(e)][/us/pl/113/128/s305/e], substituted “workforce and labor market information” for “labor employment statistics”.
+    Subsec. (e). [Pub. L. 113–128][/us/pl/113/128], § 305(e), substituted “workforce and labor market information” for “labor employment statistics”.
 
-    1998—Subsec. (b)(2). [Pub. L. 105–220, § 305(1)][/us/pl/105/220/s305/1], substituted “local workforce investment board” for “private industry council”.
+    1998—Subsec. (b)(2). [Pub. L. 105–220][/us/pl/105/220], § 305(1), substituted “local workforce investment board” for “private industry council”.
 
-    Subsec. (c)(2). [Pub. L. 105–220, § 305(2)][/us/pl/105/220/s305/2], substituted “any workforce investment activity carried out under the Workforce Investment Act of 1998.” for “any program under any of the following provisions of law:
+    Subsec. (c)(2). [Pub. L. 105–220][/us/pl/105/220], § 305(2), substituted “any workforce investment activity carried out under the Workforce Investment Act of 1998.” for “any program under any of the following provisions of law:
 
     “(A) The Carl D. Perkins Vocational and Applied Technology Education Act.
 
     “(B) Section 123, title II, and title III of the Job Training Partnership Act.”
 
-    Subsec. (d). [Pub. L. 105–220, § 310][/us/pl/105/220/s310], substituted “Secretary or with” for “Secretary of Labor or with”.
+    Subsec. (d). [Pub. L. 105–220][/us/pl/105/220], § 310, substituted “Secretary or with” for “Secretary of Labor or with”.
 
-    [Pub. L. 105–220, § 305(3)][/us/pl/105/220/s305/3], substituted “Secretary or any State” for “United States Employment Service or any State” and “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
+    [Pub. L. 105–220][/us/pl/105/220], § 305(3), substituted “Secretary or any State” for “United States Employment Service or any State” and “Workforce Investment Act of 1998” for “Job Training Partnership Act”.
 
-    Subsec. (e). [Pub. L. 105–220, § 305(4)][/us/pl/105/220/s305/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 105–220][/us/pl/105/220], § 305(4), added subsec. (e).
 
     1990—Subsecs. (c), (d). [Pub. L. 101–392][/us/pl/101/392] added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -159,16 +159,16 @@
 [/us/usc/t29/s49e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49e
 [/us/usc/t29/s3141/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fi
 [/us/usc/t29/s49b/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49b%2Fc%2F4
-[/us/act/1933-06-06/ch49/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs7
-[/us/pl/97/300/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fc
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
+[/us/pl/97/300/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtVI
 [/us/stat/96/1394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1394
-[/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
-[/us/pl/101/392/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392%2Fs5%2Fb
+[/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
 [/us/stat/104/759]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F759
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1081
-[/us/pl/113/128/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305
+[/us/pl/113/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIII
 [/us/stat/128/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1626
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
@@ -179,24 +179,24 @@
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/act/1933-06-06/ch49/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs7
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F115
-[/us/act/1950-09-08/ch933/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch933%2Fs3
+[/us/act/1950-09-08/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch933
 [/us/stat/64/823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F823
-[/us/pl/113/128/s305/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305%2Fa
-[/us/pl/113/128/s305/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305%2Fb%2F2%2FA
-[/us/pl/113/128/s305/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305%2Fb%2F1
-[/us/pl/113/128/s305/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305%2Fc%2F1
-[/us/pl/113/128/s305/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305%2Fc%2F2
-[/us/pl/113/128/s305/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305%2Fc%2F3
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s49b/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49b%2Fc%2F4
-[/us/pl/113/128/s305/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305%2Fd
-[/us/pl/113/128/s305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs305%2Fe
-[/us/pl/105/220/s305/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs305%2F1
-[/us/pl/105/220/s305/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs305%2F2
-[/us/pl/105/220/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs310
-[/us/pl/105/220/s305/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs305%2F3
-[/us/pl/105/220/s305/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs305%2F4
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/101/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F392
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506

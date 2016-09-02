@@ -27,7 +27,7 @@
 
         References in any statute, reorganization plan, Executive order, regulation, or other official document or proceeding to the Department of Education or the Secretary of Education with respect to functions or activities relating to the National Council on the Handicapped shall be deemed to refer to the National Council on the Handicapped or the Chairman of the National Council on the Handicapped, respectively.
 
-([Pub. L. 98–221, title I, § 141(b)][/us/pl/98/221/s141/b], Feb. 22, 1984, [98 Stat. 26][/us/stat/98/26].)
+([Pub. L. 98–221, title I][/us/pl/98/221/tI], § 141(b), Feb. 22, 1984, [98 Stat. 26][/us/stat/98/26].)
 
  __References in Text__ 
 
@@ -39,7 +39,7 @@
 
  __Change of Name__ 
 
-    The National Council on the Handicapped was established by former [section 780 of this title][/us/usc/t29/s780] and was redesignated the National Council on Disability by an amendment to that section by [Pub. L. 100–630, title II, § 205(b)][/us/pl/100/630/s205/b], Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310].
+    The National Council on the Handicapped was established by former [section 780 of this title][/us/usc/t29/s780] and was redesignated the National Council on Disability by an amendment to that section by [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 205(b), Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310].
 
 ----------
 
@@ -49,13 +49,13 @@
 ----------
 
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/98/221/s141/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs141%2Fb
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F26
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/usc/t29/s780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs780
-[/us/pl/100/630/s205/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs205%2Fb
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3310
 
 

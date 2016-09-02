@@ -17,7 +17,7 @@
 
     The Secretary shall submit to the Congress at the expiration of three years from September 14, 1959, a report upon the operation of this subchapter.
 
-([Pub. L. 86–257, title III, § 305][/us/pl/86/257/s305], Sept. 14, 1959, [73 Stat. 532][/us/stat/73/532].)
+([Pub. L. 86–257, title III][/us/pl/86/257/tIII], § 305, Sept. 14, 1959, [73 Stat. 532][/us/stat/73/532].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs305
+[/us/pl/86/257/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIII
 [/us/stat/73/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F532
 
 

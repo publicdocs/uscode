@@ -23,7 +23,7 @@
 
         Amounts appropriated under subsection (a) of this section shall remain available until expended.
 
-([Pub. L. 103–382, title V, § 547][/us/pl/103/382/s547], Oct. 20, 1994, [108 Stat. 4055][/us/stat/108/4055].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 547, Oct. 20, 1994, [108 Stat. 4055][/us/stat/108/4055].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/382/s547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs547
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4055
 
 

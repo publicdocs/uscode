@@ -37,13 +37,13 @@
 
     (3) the term “Secretary” means the Secretary of Education.
 
-([Pub. L. 98–221, title II, § 206][/us/pl/98/221/s206], Feb. 22, 1984, [98 Stat. 34][/us/stat/98/34]; [Pub. L. 102–569, title IX][/us/pl/102/569], §§ 905, 908(c)(1), Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482], 4486.)
+([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 206, Feb. 22, 1984, [98 Stat. 34][/us/stat/98/34]; [Pub. L. 102–569, title IX][/us/pl/102/569/tIX], §§ 905, 908(c)(1), Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482], 4486.)
 
  __Amendments__ 
 
     1992—Par. (1). [Pub. L. 102–569][/us/pl/102/569], §§ 905(1), 908(c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” in two places and struck out “section 313 of the Rehabilitation Act of 1973 and continued under” after “operated pursuant to”.
 
-    Par. (2). [Pub. L. 102–569, § 905(2)][/us/pl/102/569/s905/2], amended par. (2) generally, substituting present provisions for provisions defining “deaf-blind individual”.
+    Par. (2). [Pub. L. 102–569][/us/pl/102/569], § 905(2), amended par. (2) generally, substituting present provisions for provisions defining “deaf-blind individual”.
 
 ----------
 
@@ -52,11 +52,11 @@
 ----------
 ----------
 
-[/us/pl/98/221/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs206
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
 [/us/stat/98/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F34
-[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIX
 [/us/stat/106/4482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4482
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
-[/us/pl/102/569/s905/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs905%2F2
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 
 

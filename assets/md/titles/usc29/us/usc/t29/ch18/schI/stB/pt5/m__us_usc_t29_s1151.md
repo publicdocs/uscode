@@ -43,7 +43,7 @@
 
         This section shall not apply to any plan or arrangement that does not fall within the meaning of the term “multiple employer welfare arrangement” under [section 1002(40)(A) of this title][/us/usc/t29/s1002/40/A].
 
-([Pub. L. 93–406, title I, § 521][/us/pl/93/406/s521], as added [Pub. L. 111–148, title VI, § 6605(a)][/us/pl/111/148/s6605/a], Mar. 23, 2010, [124 Stat. 780][/us/stat/124/780].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 521, as added [Pub. L. 111–148, title VI][/us/pl/111/148/tVI], § 6605(a), Mar. 23, 2010, [124 Stat. 780][/us/stat/124/780].)
 
 ----------
 
@@ -54,8 +54,8 @@
 
 [/us/usc/t29/s1002/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F40
 [/us/usc/t29/s1002/40/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F40%2FA
-[/us/pl/93/406/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs521
-[/us/pl/111/148/s6605/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs6605%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/111/148/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtVI
 [/us/stat/124/780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F780
 
 

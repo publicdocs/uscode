@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt3/m__us_usc_t29_ch18_schIII_stE_pt3.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt4/m__us_usc_t29_ch18_schIII_stE_pt4.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426)
+[Previous](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt3/m__us_usc_t29_s1421...1425.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt4/m__us_usc_t29_ch18_schIII_stE_pt4.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426)
 
 ## § 1426. Insolvent plans
 
@@ -119,43 +119,43 @@
 
         Subsections (a) and (c) shall not apply to a plan that, for the plan year, is operating under [section 1085(e)(9) of this title][/us/usc/t29/s1085/e/9], regarding benefit suspensions by certain multiemployer plans in critical and declining status.
 
-([Pub. L. 93–406, title IV, § 4245][/us/pl/93/406/s4245], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1259][/us/stat/94/1259]; amended [Pub. L. 109–280, title II, § 203(a)][/us/pl/109/280/s203/a], Aug. 17, 2006, [120 Stat. 886][/us/stat/120/886]; [Pub. L. 113–235, div. O, title I, § 108(a)(2)][/us/pl/113/235/s108/a/2], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4245, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1259][/us/stat/94/1259]; amended [Pub. L. 109–280, title II][/us/pl/109/280/tII], § 203(a), Aug. 17, 2006, [120 Stat. 886][/us/stat/120/886]; [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 108(a)(2), Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].)
 
  __Amendments__ 
 
-    2014—Subsec. (c)(1). [Pub. L. 113–235, § 108(a)(2)(A)][/us/pl/113/235/s108/a/2/A], substituted “critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2],” for “reorganization”.
+    2014—Subsec. (c)(1). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(A), substituted “critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2],” for “reorganization”.
 
-    Subsec. (c)(2). [Pub. L. 113–235, § 108(a)(2)(B)][/us/pl/113/235/s108/a/2/B], designated existing provisions as subpar. (A), struck out “(within the meaning of [section 1421(b)(6) of this title][/us/usc/t29/s1421/b/6])” after “pay status”, and added subpar. (B).
+    Subsec. (c)(2). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(B), designated existing provisions as subpar. (A), struck out “(within the meaning of [section 1421(b)(6) of this title][/us/usc/t29/s1421/b/6])” after “pay status”, and added subpar. (B).
 
-    Subsec. (d). [Pub. L. 113–235, § 108(a)(2)(A)][/us/pl/113/235/s108/a/2/A], substituted “critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2],” for “reorganization” wherever appearing.
+    Subsec. (d). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(A), substituted “critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2],” for “reorganization” wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 113–235, § 108(a)(2)(C)(i)][/us/pl/113/235/s108/a/2/C/i], struck out “(determined in accordance with [section 1423(b)(3)(B)(ii) of this title][/us/usc/t29/s1423/b/3/B/ii])” after “compare the value of plan assets”.
+    Subsec. (d)(1). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(C)(i), struck out “(determined in accordance with [section 1423(b)(3)(B)(ii) of this title][/us/usc/t29/s1423/b/3/B/ii])” after “compare the value of plan assets”.
 
-    Subsec. (d)(4). [Pub. L. 113–235, § 108(a)(2)(C)(ii)][/us/pl/113/235/s108/a/2/C/ii], added par. (4).
+    Subsec. (d)(4). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(C)(ii), added par. (4).
 
-    Subsec. (e). [Pub. L. 113–235, § 108(a)(2)(A)][/us/pl/113/235/s108/a/2/A], substituted “critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2],” for “reorganization” in pars. (1) and (2).
+    Subsec. (e). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(A), substituted “critical status, as described in sub[section 1085(b)(2) of this title][/us/usc/t29/s1085/b/2],” for “reorganization” in pars. (1) and (2).
 
-    Subsec. (e)(1)(A). [Pub. L. 113–235, § 108(a)(2)(D)(i)][/us/pl/113/235/s108/a/2/D/i], substituted “the parties described in [section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1]” for “the corporation, the parties described in [section 1422(a)(2) of this title][/us/usc/t29/s1422/a/2], and the plan participants and beneficiaries”.
+    Subsec. (e)(1)(A). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(D)(i), substituted “the parties described in [section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1]” for “the corporation, the parties described in [section 1422(a)(2) of this title][/us/usc/t29/s1422/a/2], and the plan participants and beneficiaries”.
 
-    Subsec. (e)(1)(B). [Pub. L. 113–235, § 108(a)(2)(D)(ii)][/us/pl/113/235/s108/a/2/D/ii], substituted “[section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1]” for “[section 1422(a)(2) of this title][/us/usc/t29/s1422/a/2] and the plan participants and beneficiaries”.
+    Subsec. (e)(1)(B). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(D)(ii), substituted “[section 1021(f)(1) of this title][/us/usc/t29/s1021/f/1]” for “[section 1422(a)(2) of this title][/us/usc/t29/s1422/a/2] and the plan participants and beneficiaries”.
 
-    Subsec. (g). [Pub. L. 113–235, § 108(a)(2)(E)][/us/pl/113/235/s108/a/2/E], added subsec. (g).
+    Subsec. (g). [Pub. L. 113–235][/us/pl/113/235], § 108(a)(2)(E), added subsec. (g).
 
     2006—Subsec. (d)(1). [Pub. L. 109–280][/us/pl/109/280] substituted “5 plan years” for “3 plan years” the second place it appeared and inserted at end “If the plan sponsor makes such a determination that the plan will be insolvent in any of the next 5 plan years, the plan sponsor shall make the comparison under this paragraph at least annually until the plan sponsor makes a determination that the plan will not be insolvent in any of the next 5 plan years.”
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–235][/us/pl/113/235] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 108(c) of div. O of Pub. L. 113–235][/us/pl/113/235/s108/c], set out as an Effective Date of Repeal note under [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code.
+    Amendment by [Pub. L. 113–235][/us/pl/113/235] applicable with respect to plan years beginning after Dec. 31, 2014, see [section 108(c) of div. O of Pub. L. 113–235][/us/pl/113/235/dO/s108/c], set out as an Effective Date of Repeal note under [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title II, § 203(b)][/us/pl/109/280/s203/b], Aug. 17, 2006, [120 Stat. 886][/us/stat/120/886], provided that: 
+[Pub. L. 109–280, title II][/us/pl/109/280/tII], § 203(b), Aug. 17, 2006, [120 Stat. 886][/us/stat/120/886], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply with respect to determinations made in plan years beginning after 2007.”
 
  __Withdrawal Liability of Employer From Plan Terminating While Plan Insolvent Within This Section: Determinations, Factors, Etc.__ 
 
-[Pub. L. 96–364, title I, § 108(c)(3)][/us/pl/96/364/s108/c/3], Sept. 26, 1980, [94 Stat. 1268][/us/stat/94/1268], provided that:
+[Pub. L. 96–364, title I][/us/pl/96/364/tI], § 108(c)(3), Sept. 26, 1980, [94 Stat. 1268][/us/stat/94/1268], provided that:
 
 >     “(A) For the purpose of determining the withdrawal liability of an employer under title IV of the Employee Retirement Income Security Act of 1974 \[this subchapter\] from a plan that terminates while the plan is insolvent (within the meaning of section 4245 of such Act \[this section\]), the plan’s unfunded vested benefits shall be reduced by an amount equal to the sum of all overburden credits that were applied in determining the plan’s accumulated funding deficiency for all plan years preceding the first plan year in which the plan is insolvent, plus interest thereon.
 
@@ -169,7 +169,7 @@
 
 ----------
 
-[Previous](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt3/m__us_usc_t29_ch18_schIII_stE_pt3.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt4/m__us_usc_t29_ch18_schIII_stE_pt4.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426)
+[Previous](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt3/m__us_usc_t29_s1421...1425.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schIII/stE/pt4/m__us_usc_t29_ch18_schIII_stE_pt4.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426)
 
 ----------
 ----------
@@ -181,38 +181,38 @@
 [/us/usc/t29/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431
 [/us/usc/t29/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431
 [/us/usc/t29/s1085/e/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fe%2F9
-[/us/pl/93/406/s4245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4245
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1259
-[/us/pl/109/280/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs203%2Fa
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F886
-[/us/pl/113/235/s108/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
-[/us/pl/113/235/s108/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FA
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
-[/us/pl/113/235/s108/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FB
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t29/s1421/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1421%2Fb%2F6
-[/us/pl/113/235/s108/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FA
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
-[/us/pl/113/235/s108/a/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FC%2Fi
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t29/s1423/b/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423%2Fb%2F3%2FB%2Fii
-[/us/pl/113/235/s108/a/2/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FC%2Fii
-[/us/pl/113/235/s108/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FA
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t29/s1085/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F2
-[/us/pl/113/235/s108/a/2/D/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FD%2Fi
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t29/s1021/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F1
 [/us/usc/t29/s1422/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1422%2Fa%2F2
-[/us/pl/113/235/s108/a/2/D/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FD%2Fii
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t29/s1021/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021%2Ff%2F1
 [/us/usc/t29/s1422/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1422%2Fa%2F2
-[/us/pl/113/235/s108/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F2%2FE
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/pl/113/235/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fc
+[/us/pl/113/235/dO/s108/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2Fs108%2Fc
 [/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
-[/us/pl/109/280/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs203%2Fb
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F886
-[/us/pl/96/364/s108/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs108%2Fc%2F3
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1268
 [/us/usc/t29/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1423
 

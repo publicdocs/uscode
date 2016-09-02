@@ -49,7 +49,7 @@
 
         Notwithstanding any other provision of law, if the Administrator of General Services sells a Job Corps center facility, the Administrator shall transfer the proceeds from the sale to the Secretary, who shall use the proceeds to carry out the Job Corps program.
 
-([Pub. L. 113–128, title I, § 158][/us/pl/113/128/s158], July 22, 2014, [128 Stat. 1553][/us/stat/128/1553].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 158, July 22, 2014, [128 Stat. 1553][/us/stat/128/1553].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t29/s3195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3195
 [/us/usc/t29/s3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3197
-[/us/pl/113/128/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs158
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1553
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425

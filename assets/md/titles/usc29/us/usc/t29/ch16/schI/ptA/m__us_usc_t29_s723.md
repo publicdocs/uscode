@@ -113,7 +113,7 @@
 
             except that the limitations of subsection (a)(5) that apply to training services shall apply to support described in this paragraph, and nothing in this paragraph shall prevent any designated State unit from providing similar support to individuals with disabilities within the State who are eligible to receive support under this subchapter and who are not served under this paragraph.
 
-([Pub. L. 93–112, title I, § 103][/us/pl/93/112/s103], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1148][/us/stat/112/1148]; amended [Pub. L. 113–128, title IV, § 414][/us/pl/113/128/s414], July 22, 2014, [128 Stat. 1652][/us/stat/128/1652].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 103, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1148][/us/stat/112/1148]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 414, July 22, 2014, [128 Stat. 1652][/us/stat/128/1652].)
 
  __References in Text__ 
 
@@ -123,21 +123,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 723, [Pub. L. 93–112, title I, § 103][/us/pl/93/112/s103], Sept. 26, 1973, [87 Stat. 368][/us/stat/87/368]; [Pub. L. 95–602, title I, § 104][/us/pl/95/602/s104], Nov. 6, 1978, [92 Stat. 2960][/us/stat/92/2960]; [Pub. L. 99–506, title I, § 103(d)(2)][/us/pl/99/506/s103/d/2], title II, § 204, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1817; [Pub. L. 100–630, title II, § 202(d)][/us/pl/100/630/s202/d], Nov. 7, 1988, [102 Stat. 3305][/us/stat/102/3305]; [Pub. L. 102–569, title I][/us/pl/102/569], §§ 102(p)(9), 124, Oct. 29, 1992, [106 Stat. 4357][/us/stat/106/4357], 4379; [Pub. L. 103–73, title I, § 107(c)][/us/pl/103/73/s107/c], Aug. 11, 1993, [107 Stat. 721][/us/stat/107/721], related to scope of vocational rehabilitation services, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 723, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 103, Sept. 26, 1973, [87 Stat. 368][/us/stat/87/368]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 104, Nov. 6, 1978, [92 Stat. 2960][/us/stat/92/2960]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2), title II, § 204, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1817; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 202(d), Nov. 7, 1988, [102 Stat. 3305][/us/stat/102/3305]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], §§ 102(p)(9), 124, Oct. 29, 1992, [106 Stat. 4357][/us/stat/106/4357], 4379; [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 107(c), Aug. 11, 1993, [107 Stat. 721][/us/stat/107/721], related to scope of vocational rehabilitation services, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(13). [Pub. L. 113–128, § 414(1)(A)][/us/pl/113/128/s414/1/A], substituted “workforce development system” for “workforce investment system”.
+    2014—Subsec. (a)(13). [Pub. L. 113–128][/us/pl/113/128], § 414(1)(A), substituted “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(15). [Pub. L. 113–128, § 414(1)(B)][/us/pl/113/128/s414/1/B], added par. (15) and struck out former par. (15) which read as follows: “transition services for students with disabilities, that facilitate the achievement of the employment outcome identified in the individualized plan for employment;”.
+    Subsec. (a)(15). [Pub. L. 113–128][/us/pl/113/128], § 414(1)(B), added par. (15) and struck out former par. (15) which read as follows: “transition services for students with disabilities, that facilitate the achievement of the employment outcome identified in the individualized plan for employment;”.
 
-    Subsec. (a)(17) to (20). [Pub. L. 113–128, § 414(1)(C)][/us/pl/113/128/s414/1/C], (D), added pars. (17) and (18) and redesignated former pars. (17) and (18) as (19) and (20), respectively.
+    Subsec. (a)(17) to (20). [Pub. L. 113–128][/us/pl/113/128], § 414(1)(C), (D), added pars. (17) and (18) and redesignated former pars. (17) and (18) as (19) and (20), respectively.
 
-    Subsec. (b)(2). [Pub. L. 113–128, § 414(2)(A)][/us/pl/113/128/s414/2/A], struck out subpar. (A) designation, substituted “Such programs shall be used to provide services described in this section that promote integration into the community and that prepare individuals with disabilities for competitive integrated employment, including supported employment and customized employment.” for “Such programs shall be used to provide services that promote integration and competitive employment.”, and struck out subpar. (B) which read as follows: “The provision of other services, that promise to contribute substantially to the rehabilitation of a group of individuals but that are not related directly to the individualized plan for employment of any 1 individual with a disability.”
+    Subsec. (b)(2). [Pub. L. 113–128][/us/pl/113/128], § 414(2)(A), struck out subpar. (A) designation, substituted “Such programs shall be used to provide services described in this section that promote integration into the community and that prepare individuals with disabilities for competitive integrated employment, including supported employment and customized employment.” for “Such programs shall be used to provide services that promote integration and competitive employment.”, and struck out subpar. (B) which read as follows: “The provision of other services, that promise to contribute substantially to the rehabilitation of a group of individuals but that are not related directly to the individualized plan for employment of any 1 individual with a disability.”
 
-    Subsec. (b)(5). [Pub. L. 113–128, § 414(2)(B)][/us/pl/113/128/s414/2/B], added par. (5) and struck out former par. (5) which read as follows: “Technical assistance and support services to businesses that are not subject to title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq.) and that are seeking to employ individuals with disabilities.”
+    Subsec. (b)(5). [Pub. L. 113–128][/us/pl/113/128], § 414(2)(B), added par. (5) and struck out former par. (5) which read as follows: “Technical assistance and support services to businesses that are not subject to title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq.) and that are seeking to employ individuals with disabilities.”
 
-    Subsec. (b)(6) to (9). [Pub. L. 113–128, § 414(2)(C)][/us/pl/113/128/s414/2/C], added pars. (6) to (9) and struck out former par. (6) which read as follows: “Consultative and technical assistance services to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including employment.”
+    Subsec. (b)(6) to (9). [Pub. L. 113–128][/us/pl/113/128], § 414(2)(C), added pars. (6) to (9) and struck out former par. (6) which read as follows: “Consultative and technical assistance services to assist educational agencies in planning for the transition of students with disabilities from school to post-school activities, including employment.”
 
  __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
@@ -156,10 +156,10 @@
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t29/s796a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796a
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
-[/us/pl/93/112/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs103
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1148
-[/us/pl/113/128/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs414
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1652
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -167,26 +167,26 @@
 [/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
 [/us/stat/112/3627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3627
 [/us/usc/t29/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3001
-[/us/pl/93/112/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs103
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
 [/us/stat/87/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F368
-[/us/pl/95/602/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs104
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2960
-[/us/pl/99/506/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs202%2Fd
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3305
-[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4357
-[/us/pl/103/73/s107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Fc
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F721
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s414/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs414%2F1%2FA
-[/us/pl/113/128/s414/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs414%2F1%2FB
-[/us/pl/113/128/s414/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs414%2F1%2FC
-[/us/pl/113/128/s414/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs414%2F2%2FA
-[/us/pl/113/128/s414/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs414%2F2%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
-[/us/pl/113/128/s414/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs414%2F2%2FC
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102

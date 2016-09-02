@@ -81,33 +81,33 @@
 
         In awarding grants, or entering into contracts or cooperative agreements under subchapters I, II, III, VI, and VII of this chapter, and [section 794e of this title][/us/usc/t29/s794e], the Commissioner and the Director of the National Institute on Disability, Independent Living, and Rehabilitation Research, in appropriate cases, shall require applicants to demonstrate how the applicants will address, in whole or in part, the needs of individuals with disabilities from minority backgrounds.
 
-([Pub. L. 93–112, § 21][/us/pl/93/112/s21], formerly § 19, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1115][/us/stat/112/1115]; renumbered § 21 and amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1), (b)(6), (c)(3)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–413, 2681–415; [Pub. L. 113–128, title IV, § 409][/us/pl/113/128/s409], July 22, 2014, [128 Stat. 1639][/us/stat/128/1639].)
+([Pub. L. 93–112][/us/pl/93/112], § 21, formerly § 19, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1115][/us/stat/112/1115]; renumbered § 21 and amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(a)(1), (b)(6), (c)(3)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–413, 2681–415; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 409, July 22, 2014, [128 Stat. 1639][/us/stat/128/1639].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 718b of this title][/us/usc/t29/s718b] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
-    Prior sections 718 to 718b were repealed by [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
+    Prior sections 718 to 718b were repealed by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
 
-    Section 718, [Pub. L. 93–112, § 19][/us/pl/93/112/s19], as added [Pub. L. 102–569, title I, § 109(a)][/us/pl/102/569/s109/a], Oct. 29, 1992, [106 Stat. 4363][/us/stat/106/4363]; amended [Pub. L. 103–73, title I, § 104][/us/pl/103/73/s104], Aug. 11, 1993, [107 Stat. 719][/us/stat/107/719], related to carryover of funds. See [section 716 of this title][/us/usc/t29/s716].
+    Section 718, [Pub. L. 93–112][/us/pl/93/112], § 19, as added [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 109(a), Oct. 29, 1992, [106 Stat. 4363][/us/stat/106/4363]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 104, Aug. 11, 1993, [107 Stat. 719][/us/stat/107/719], related to carryover of funds. See [section 716 of this title][/us/usc/t29/s716].
 
-    Section 718a, [Pub. L. 93–112, § 20][/us/pl/93/112/s20], as added [Pub. L. 102–569, title I, § 110(a)][/us/pl/102/569/s110/a], Oct. 29, 1992, [106 Stat. 4363][/us/stat/106/4363]; amended [Pub. L. 103–73, title I, § 105][/us/pl/103/73/s105], Aug. 11, 1993, [107 Stat. 719][/us/stat/107/719], related to client assistance information. See [section 717 of this title][/us/usc/t29/s717].
+    Section 718a, [Pub. L. 93–112][/us/pl/93/112], § 20, as added [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 110(a), Oct. 29, 1992, [106 Stat. 4363][/us/stat/106/4363]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 105, Aug. 11, 1993, [107 Stat. 719][/us/stat/107/719], related to client assistance information. See [section 717 of this title][/us/usc/t29/s717].
 
-    Section 718b, [Pub. L. 93–112, § 21][/us/pl/93/112/s21], as added [Pub. L. 102–569, title I, § 111(a)][/us/pl/102/569/s111/a], Oct. 29, 1992, [106 Stat. 4363][/us/stat/106/4363]; amended [Pub. L. 103–73, title I, § 106][/us/pl/103/73/s106], Aug. 11, 1993, [107 Stat. 719][/us/stat/107/719], related to traditionally underserved populations.
+    Section 718b, [Pub. L. 93–112][/us/pl/93/112], § 21, as added [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 111(a), Oct. 29, 1992, [106 Stat. 4363][/us/stat/106/4363]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 106, Aug. 11, 1993, [107 Stat. 719][/us/stat/107/719], related to traditionally underserved populations.
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–128, § 409(1)(A)][/us/pl/113/128/s409/1/A], in first sentence, substituted “demographic” for “racial”; in second sentence, substituted “While the percentage increase from 2000 to 2010” for “While the rate of increase”, “was 9.7” for “is 3.2”, “percentage increase for racial” for “rate of increase for racial”, “was much” for “is much”, “43.0” for “38.6”, “12.3” for “14.6”, and “43.2” for “40.1” and struck out “and other ethnic groups” before period at end; and struck out last sentence which read as follows: “By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American.”
+    2014—Subsec. (a)(1). [Pub. L. 113–128][/us/pl/113/128], § 409(1)(A), in first sentence, substituted “demographic” for “racial”; in second sentence, substituted “While the percentage increase from 2000 to 2010” for “While the rate of increase”, “was 9.7” for “is 3.2”, “percentage increase for racial” for “rate of increase for racial”, “was much” for “is much”, “43.0” for “38.6”, “12.3” for “14.6”, and “43.2” for “40.1” and struck out “and other ethnic groups” before period at end; and struck out last sentence which read as follows: “By the year 2000, the Nation will have 260,000,000 people, one of every three of whom will be either African-American, Latino, or Asian-American.”
 
-    Subsec. (a)(2). [Pub. L. 113–128, § 409(1)(B)][/us/pl/113/128/s409/1/B], substituted “In 2011—” and subpars. (A) to (C) for second and third sentences which read as follows: “The rate of work-related disability for American Indians is about one and one-half times that of the general population. African-Americans are also one and one-half times more likely to be disabled than whites and twice as likely to be significantly disabled.”
+    Subsec. (a)(2). [Pub. L. 113–128][/us/pl/113/128], § 409(1)(B), substituted “In 2011—” and subpars. (A) to (C) for second and third sentences which read as follows: “The rate of work-related disability for American Indians is about one and one-half times that of the general population. African-Americans are also one and one-half times more likely to be disabled than whites and twice as likely to be significantly disabled.”
 
-    Subsec. (b)(1). [Pub. L. 113–128, § 409(2)][/us/pl/113/128/s409/2], substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
+    Subsec. (b)(1). [Pub. L. 113–128][/us/pl/113/128], § 409(2), substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
 
-    Subsec. (c). [Pub. L. 113–128, § 409(3)][/us/pl/113/128/s409/3], substituted “Director of the National Institute on Disability, Independent Living, and Rehabilitation Research” for “Director”.
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 409(3), substituted “Director of the National Institute on Disability, Independent Living, and Rehabilitation Research” for “Director”.
 
-    1998—[Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(6)\], made technical amendment in original to section designation and catchline.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(b)(6)\], made technical amendment in original to section designation and catchline.
 
-    Subsec. (a)(3). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(3)\], substituted “is denied” for “are denied” and “is closed” for “are closed”.
+    Subsec. (a)(3). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(c)(3)\], substituted “is denied” for “are denied” and “is closed” for “are closed”.
 
 ----------
 
@@ -118,39 +118,39 @@
 
 [/us/usc/t20/s1061/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1061%2F2
 [/us/usc/t29/s794e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794e
-[/us/pl/93/112/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs21
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1115
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1639
 [/us/usc/t29/s718b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs718b
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1093
-[/us/pl/93/112/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs19
-[/us/pl/102/569/s109/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs109%2Fa
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4363
-[/us/pl/103/73/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs104
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F719
 [/us/usc/t29/s716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs716
-[/us/pl/93/112/s20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs20
-[/us/pl/102/569/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs110%2Fa
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4363
-[/us/pl/103/73/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs105
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F719
 [/us/usc/t29/s717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs717
-[/us/pl/93/112/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs21
-[/us/pl/102/569/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs111%2Fa
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4363
-[/us/pl/103/73/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs106
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F719
-[/us/pl/113/128/s409/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409%2F1%2FA
-[/us/pl/113/128/s409/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409%2F1%2FB
-[/us/pl/113/128/s409/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409%2F2
-[/us/pl/113/128/s409/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs409%2F3
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

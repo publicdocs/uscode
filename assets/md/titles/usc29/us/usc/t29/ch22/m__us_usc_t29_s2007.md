@@ -137,7 +137,7 @@
 
             (B) maintains all opinions, reports, charts, written questions, lists, and other records relating to the test for a minimum period of 3 years after administration of the test.
 
-([Pub. L. 100–347, § 8][/us/pl/100/347/s8], June 27, 1988, [102 Stat. 650][/us/stat/102/650].)
+([Pub. L. 100–347][/us/pl/100/347], § 8, June 27, 1988, [102 Stat. 650][/us/stat/102/650].)
 
 ----------
 
@@ -150,7 +150,7 @@
 [/us/usc/t29/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2006
 [/us/usc/t29/s2008/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2008%2Fc%2F2
 [/us/usc/t29/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2006
-[/us/pl/100/347/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs8
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F650
 
 

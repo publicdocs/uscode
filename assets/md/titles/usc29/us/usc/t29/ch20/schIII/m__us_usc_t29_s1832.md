@@ -27,7 +27,7 @@
 
         No farm labor contractor, agricultural employer, or agricultural association shall, without justification, violate the terms of any working arrangement made by that contractor, employer, or association with any seasonal agricultural worker.
 
-([Pub. L. 97–470, title III, § 302][/us/pl/97/470/s302], Jan. 14, 1983, [96 Stat. 2593][/us/stat/96/2593].)
+([Pub. L. 97–470, title III][/us/pl/97/470/tIII], § 302, Jan. 14, 1983, [96 Stat. 2593][/us/stat/96/2593].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs302
+[/us/pl/97/470/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtIII
 [/us/stat/96/2593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2593
 
 

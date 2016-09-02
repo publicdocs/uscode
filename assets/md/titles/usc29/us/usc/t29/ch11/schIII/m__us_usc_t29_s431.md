@@ -51,7 +51,7 @@
 
         Every labor organization required to submit a report under this subchapter shall make available the information required to be contained in such report to all of its members, and every such labor organization and its officers shall be under a duty enforceable at the suit of any member of such organization in any State court of competent jurisdiction or in the district court of the United States for the district in which such labor organization maintains its principal office, to permit such member for just cause to examine any books, records, and accounts necessary to verify such report. The court in such action may, in its discretion, in addition to any judgment awarded to the plaintiff or plaintiffs, allow a reasonable attorney’s fee to be paid by the defendant, and costs of the action.
 
-([Pub. L. 86–257, title II, § 201(a)][/us/pl/86/257/s201/a]–(c), Sept. 14, 1959, [73 Stat. 524][/us/stat/73/524], 525.)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 201(a)–(c), Sept. 14, 1959, [73 Stat. 524][/us/stat/73/524], 525.)
 
  __Codification__ 
 
@@ -64,7 +64,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s201/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs201%2Fa
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F524
 [/us/pl/86/257/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs201
 [/us/usc/t29/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159

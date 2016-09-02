@@ -17,7 +17,7 @@
 
     The Secretary, on the record, after notice and opportunity for a hearing may provide such reasonable limitations and may make such rules and regulations allowing reasonable variations, tolerances, and exemptions to and from any or all provisions of this chapter as he may find necessary and proper to avoid serious impairment of the national defense. Such action shall not be in effect for more than six months without notification to affected employees and an opportunity being afforded for a hearing.
 
-([Pub. L. 91–596, § 16][/us/pl/91/596/s16], Dec. 29, 1970, [84 Stat. 1606][/us/stat/84/1606].)
+([Pub. L. 91–596][/us/pl/91/596], § 16, Dec. 29, 1970, [84 Stat. 1606][/us/stat/84/1606].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/596/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs16
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1606
 
 

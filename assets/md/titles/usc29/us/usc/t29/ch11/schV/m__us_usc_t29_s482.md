@@ -43,7 +43,7 @@
 
         An order directing an election, dismissing a complaint, or designating elected officers of a labor organization shall be appealable in the same manner as the final judgment in a civil action, but an order directing an election shall not be stayed pending appeal.
 
-([Pub. L. 86–257, title IV, § 402][/us/pl/86/257/s402], Sept. 14, 1959, [73 Stat. 534][/us/stat/73/534].)
+([Pub. L. 86–257, title IV][/us/pl/86/257/tIV], § 402, Sept. 14, 1959, [73 Stat. 534][/us/stat/73/534].)
 
 ----------
 
@@ -56,7 +56,7 @@
 [/us/usc/t29/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs481
 [/us/usc/t29/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs481
 [/us/usc/t29/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs481
-[/us/pl/86/257/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs402
+[/us/pl/86/257/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIV
 [/us/stat/73/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F534
 
 

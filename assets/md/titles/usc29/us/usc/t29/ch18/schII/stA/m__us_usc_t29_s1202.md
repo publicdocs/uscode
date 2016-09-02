@@ -35,15 +35,15 @@
 
         The Secretary of the Treasury shall consult with the Pension Benefit Guaranty Corporation with respect to any proposed or final regulation authorized by subpart C of part I of subchapter D of chapter 1 of title 26, or by sections 1421 through 1426  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of this title, before publishing any such proposed or final regulation.
 
-([Pub. L. 93–406, title III, § 3002][/us/pl/93/406/s3002], Sept. 2, 1974, [88 Stat. 996][/us/stat/88/996]; [Pub. L. 96–364, title IV, § 402(b)(3)][/us/pl/96/364/s402/b/3], Sept. 26, 1980, [94 Stat. 1299][/us/stat/94/1299]; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
+([Pub. L. 93–406, title III][/us/pl/93/406/tIII], § 3002, Sept. 2, 1974, [88 Stat. 996][/us/stat/88/996]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 402(b)(3), Sept. 26, 1980, [94 Stat. 1299][/us/stat/94/1299]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
 
  __References in Text__ 
 
     This chapter, referred to in subsecs. (a), (c), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
-    Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with former [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code. Section 418 was repealed by [Pub. L. 113–235, div. O, title I, § 108(b)(1)][/us/pl/113/235/s108/b/1], Dec. 16, 2014, [128 Stat. 2787][/us/stat/128/2787].
+    Subpart C of part I of subchapter D of chapter 1 of title 26, referred to in subsec. (e), commences with former [section 418 of Title 26][/us/usc/t26/s418], Internal Revenue Code. Section 418 was repealed by [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 108(b)(1), Dec. 16, 2014, [128 Stat. 2787][/us/stat/128/2787].
 
-    Sections 1421 through 1425 of this title, referred to in subsec. (e), were repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+    Sections 1421 through 1425 of this title, referred to in subsec. (e), were repealed by [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 108(a)(1), Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
  __Amendments__ 
 
@@ -71,18 +71,18 @@
 [/us/usc/t26/s4971/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4971%2Fb
 [/us/usc/t26/s4971]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4971
 [/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
-[/us/pl/93/406/s3002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs3002
+[/us/pl/93/406/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIII
 [/us/stat/88/996]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F996
-[/us/pl/96/364/s402/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fb%2F3
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1299]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1299
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t26/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418
-[/us/pl/113/235/s108/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fb%2F1
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2787
-[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364

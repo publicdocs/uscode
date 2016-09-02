@@ -19,7 +19,7 @@
 
     (b) Information described in sections 1025(a) and 1025(c) of this title with respect to a participant may be disclosed only to the extent that information respecting that participant’s benefits under title II of the Social Security Act \[[42 U.S.C. 401][/us/usc/t42/s401] et seq.\] may be disclosed under such Act.
 
-([Pub. L. 93–406, title I, § 106][/us/pl/93/406/s106], Sept. 2, 1974, [88 Stat. 850][/us/stat/88/850]; [Pub. L. 101–239, title VII, § 7894(b)(6)][/us/pl/101/239/s7894/b/6], Dec. 19, 1989, [103 Stat. 2448][/us/stat/103/2448]; [Pub. L. 105–34, title XV, § 1503(d)(4)][/us/pl/105/34/s1503/d/4], Aug. 5, 1997, [111 Stat. 1062][/us/stat/111/1062].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 106, Sept. 2, 1974, [88 Stat. 850][/us/stat/88/850]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7894(b)(6), Dec. 19, 1989, [103 Stat. 2448][/us/stat/103/2448]; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1503(d)(4), Aug. 5, 1997, [111 Stat. 1062][/us/stat/111/1062].)
 
  __References in Text__ 
 
@@ -43,11 +43,11 @@
 ----------
 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/93/406/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs106
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F850
-[/us/pl/101/239/s7894/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fb%2F6
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2448
-[/us/pl/105/34/s1503/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1503%2Fd%2F4
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1062
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

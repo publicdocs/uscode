@@ -17,7 +17,7 @@
 
     It is the sense of Congress that an employer who is not required to comply with the notice requirements of [section 2102 of this title][/us/usc/t29/s2102] should, to the extent possible, provide notice to its employees about a proposal to close a plant or permanently reduce its workforce.
 
-([Pub. L. 100–379, § 7][/us/pl/100/379/s7], Aug. 4, 1988, [102 Stat. 894][/us/stat/102/894].)
+([Pub. L. 100–379][/us/pl/100/379], § 7, Aug. 4, 1988, [102 Stat. 894][/us/stat/102/894].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t29/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2102
-[/us/pl/100/379/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379%2Fs7
+[/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F894
 
 

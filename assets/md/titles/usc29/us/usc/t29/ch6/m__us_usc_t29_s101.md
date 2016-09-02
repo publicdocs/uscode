@@ -17,7 +17,7 @@
 
     No court of the United States, as defined in this chapter, shall have jurisdiction to issue any restraining order or temporary or permanent injunction in a case involving or growing out of a labor dispute, except in a strict conformity with the provisions of this chapter; nor shall any such restraining order or temporary or permanent injunction be issued contrary to the public policy declared in this chapter.
 
-([Mar. 23, 1932, ch. 90, § 1][/us/act/1932-03-23/ch90/s1], [47 Stat. 70][/us/stat/47/70].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 1, [47 Stat. 70][/us/stat/47/70].)
 
  __Short Title__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1932-03-23/ch90/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs1
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70
 [/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70

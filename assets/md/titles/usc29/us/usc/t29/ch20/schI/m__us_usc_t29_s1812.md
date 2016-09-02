@@ -27,7 +27,7 @@
 
     (5) a declaration, subscribed and sworn to by the applicant, consenting to the designation by a court of the Secretary as an agent available to accept service of summons in any action against the applicant, if the applicant has left the jurisdiction in which the action is commenced or otherwise has become unavailable to accept service.
 
-([Pub. L. 97–470, title I, § 102][/us/pl/97/470/s102], Jan. 14, 1983, [96 Stat. 2587][/us/stat/96/2587].)
+([Pub. L. 97–470, title I][/us/pl/97/470/tI], § 102, Jan. 14, 1983, [96 Stat. 2587][/us/stat/96/2587].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t29/s1841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1841
 [/us/usc/t29/s1823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1823
-[/us/pl/97/470/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs102
+[/us/pl/97/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtI
 [/us/stat/96/2587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2587
 
 

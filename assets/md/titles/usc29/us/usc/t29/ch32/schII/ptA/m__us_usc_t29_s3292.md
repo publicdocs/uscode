@@ -17,7 +17,7 @@
 
     Programs and activities authorized in this subchapter are subject to the performance accountability provisions described in [section 3141 of this title][/us/usc/t29/s3141].
 
-([Pub. L. 113–128, title II, § 212][/us/pl/113/128/s212], July 22, 2014, [128 Stat. 1614][/us/stat/128/1614].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 212, July 22, 2014, [128 Stat. 1614][/us/stat/128/1614].)
 
  __Effective Date__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
-[/us/pl/113/128/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs212
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1614
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

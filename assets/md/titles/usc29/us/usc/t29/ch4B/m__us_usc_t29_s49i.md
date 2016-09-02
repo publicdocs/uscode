@@ -39,7 +39,7 @@
 
         (2) establish and maintain a management information system in accordance with guidelines established by the Secretary designed to facilitate the compilation and analysis of programmatic and financial data necessary for reporting, monitoring, and evaluating purposes.
 
-([June 6, 1933, ch. 49, § 10][/us/act/1933-06-06/ch49/s10], [48 Stat. 116][/us/stat/48/116]; [Pub. L. 97–300, title VI, § 601(f)][/us/pl/97/300/s601/f], formerly title V, § 501(f), Oct. 13, 1982, [96 Stat. 1396][/us/stat/96/1396]; renumbered title VI, § 601(f), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248].)
+([June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 10, [48 Stat. 116][/us/stat/48/116]; [Pub. L. 97–300, title VI][/us/pl/97/300/tVI], § 601(f), formerly title V, § 501(f), Oct. 13, 1982, [96 Stat. 1396][/us/stat/96/1396]; renumbered title VI, § 601(f), [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 712(a)(1), (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248].)
 
  __Amendments__ 
 
@@ -56,11 +56,11 @@
 ----------
 ----------
 
-[/us/act/1933-06-06/ch49/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs10
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F116
-[/us/pl/97/300/s601/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Ff
+[/us/pl/97/300/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtVI
 [/us/stat/96/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1396
-[/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300

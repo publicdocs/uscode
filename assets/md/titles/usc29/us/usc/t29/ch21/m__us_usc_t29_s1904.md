@@ -19,7 +19,7 @@
 
     (b) Any appropriation Act containing any appropriation authorized by subsection (a) of this section shall contain a statement of the specific amount being made available to the Center.
 
-([Pub. L. 98–221, title II, § 205][/us/pl/98/221/s205], Feb. 22, 1984, [98 Stat. 33][/us/stat/98/33]; [Pub. L. 99–506, title IX, § 901][/us/pl/99/506/s901], Oct. 21, 1986, [100 Stat. 1840][/us/stat/100/1840]; [Pub. L. 100–630, title V, § 501][/us/pl/100/630/s501], Nov. 7, 1988, [102 Stat. 3317][/us/stat/102/3317]; [Pub. L. 102–52, § 9(a)][/us/pl/102/52/s9/a], June 6, 1991, [105 Stat. 263][/us/stat/105/263]; [Pub. L. 102–569, title IX, § 904][/us/pl/102/569/s904], Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482]; [Pub. L. 105–220, title IV, § 412(a)][/us/pl/105/220/s412/a], Aug. 7, 1998, [112 Stat. 1241][/us/stat/112/1241].)
+([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 205, Feb. 22, 1984, [98 Stat. 33][/us/stat/98/33]; [Pub. L. 99–506, title IX][/us/pl/99/506/tIX], § 901, Oct. 21, 1986, [100 Stat. 1840][/us/stat/100/1840]; [Pub. L. 100–630, title V][/us/pl/100/630/tV], § 501, Nov. 7, 1988, [102 Stat. 3317][/us/stat/102/3317]; [Pub. L. 102–52][/us/pl/102/52], § 9(a), June 6, 1991, [105 Stat. 263][/us/stat/105/263]; [Pub. L. 102–569, title IX][/us/pl/102/569/tIX], § 904, Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482]; [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 412(a), Aug. 7, 1998, [112 Stat. 1241][/us/stat/112/1241].)
 
  __Amendments__ 
 
@@ -40,17 +40,17 @@
 ----------
 ----------
 
-[/us/pl/98/221/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs205
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
 [/us/stat/98/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F33
-[/us/pl/99/506/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs901
+[/us/pl/99/506/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtIX
 [/us/stat/100/1840]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1840
-[/us/pl/100/630/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs501
+[/us/pl/100/630/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtV
 [/us/stat/102/3317]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3317
-[/us/pl/102/52/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52%2Fs9%2Fa
+[/us/pl/102/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52
 [/us/stat/105/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F263
-[/us/pl/102/569/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs904
+[/us/pl/102/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIX
 [/us/stat/106/4482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4482
-[/us/pl/105/220/s412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs412%2Fa
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1241
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569

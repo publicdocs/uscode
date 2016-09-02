@@ -17,7 +17,7 @@
 
     Employees shall have the right to self-organization, to form, join, or assist labor organizations, to bargain collectively through representatives of their own choosing, and to engage in other concerted activities for the purpose of collective bargaining or other mutual aid or protection, and shall also have the right to refrain from any or all of such activities except to the extent that such right may be affected by an agreement requiring membership in a labor organization as a condition of employment as authorized in [section 158(a)(3) of this title][/us/usc/t29/s158/a/3].
 
-([July 5, 1935, ch. 372, § 7][/us/act/1935-07-05/ch372/s7], [49 Stat. 452][/us/stat/49/452]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 140][/us/stat/61/140].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 7, [49 Stat. 452][/us/stat/49/452]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 140][/us/stat/61/140].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 ----------
 
 [/us/usc/t29/s158/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fa%2F3
-[/us/act/1935-07-05/ch372/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs7
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F452
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/140]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F140

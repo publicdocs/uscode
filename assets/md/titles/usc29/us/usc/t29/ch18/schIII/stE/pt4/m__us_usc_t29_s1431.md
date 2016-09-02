@@ -29,7 +29,7 @@
 
         Pending determination of the amount described in subsection (a) of this section, the corporation may provide financial assistance in such amounts as it considers appropriate in order to avoid undue hardship to plan participants and beneficiaries.
 
-([Pub. L. 93–406, title IV, § 4261][/us/pl/93/406/s4261], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1261][/us/stat/94/1261].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4261, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1261][/us/stat/94/1261].)
 
  __Effective Date__ 
 
@@ -44,8 +44,8 @@
 
 [/us/usc/t29/s1426/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426%2Ff
 [/us/usc/t29/s1441/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1441%2Fd
-[/us/pl/93/406/s4261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4261
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1261
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 

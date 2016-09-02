@@ -23,7 +23,7 @@
 
         The Participant and Plan Sponsor Advocate established under [section 1304 of this title][/us/usc/t29/s1304] shall make itself available to assist CSEC plan sponsors and participants as part of the duties it performs under the general supervision of the Board of Directors under [section 1304(b) of this title][/us/usc/t29/s1304/b].
 
-([Pub. L. 113–97, title I, § 105][/us/pl/113/97/s105], Apr. 7, 2014, [128 Stat. 1121][/us/stat/128/1121].)
+([Pub. L. 113–97, title I][/us/pl/113/97/tI], § 105, Apr. 7, 2014, [128 Stat. 1121][/us/stat/128/1121].)
 
  __Codification__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t29/s1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1060
 [/us/usc/t29/s1304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1304
 [/us/usc/t29/s1304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1304%2Fb
-[/us/pl/113/97/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs105
+[/us/pl/113/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtI
 [/us/stat/128/1121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1121
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401

@@ -17,11 +17,11 @@
 
     Pursuant to regulations prescribed by the President, and to the extent consistent with the other provisions of this chapter, where funds are provided for a single project by more than one Federal agency to an agency or organization assisted under this chapter, the Federal agency principally involved may be designated to act for all in administering the funds provided, and, in such cases, a single non-Federal share requirement may be established according to the proportion of funds advanced by each agency. When the principal agency involved is the Rehabilitation Services Administration, it may waive any grant or contract requirement (as defined by such regulations) under or pursuant to any law other than this chapter, which requirement is inconsistent with the similar requirements of the administering agency under or pursuant to this chapter.
 
-([Pub. L. 93–112, § 5][/us/pl/93/112/s5], as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1097][/us/stat/112/1097].)
+([Pub. L. 93–112][/us/pl/93/112], § 5, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1097][/us/stat/112/1097].)
 
  __Prior Provisions__ 
 
-    A prior section 704, [Pub. L. 93–112, § 5][/us/pl/93/112/s5], Sept. 26, 1973, [87 Stat. 359][/us/stat/87/359], related to joint funding, prior to repeal by [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
+    A prior section 704, [Pub. L. 93–112][/us/pl/93/112], § 5, Sept. 26, 1973, [87 Stat. 359][/us/stat/87/359], related to joint funding, prior to repeal by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
 
  __Delegation of Functions__ 
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/pl/93/112/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs5
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1097]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1097
-[/us/pl/93/112/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs5
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F359
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1093
 [/us/usc/t31/s7103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs7103
 

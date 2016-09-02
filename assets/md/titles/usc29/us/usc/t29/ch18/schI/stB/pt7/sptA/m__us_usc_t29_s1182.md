@@ -139,7 +139,7 @@
 
         (2) with respect to an individual or family member utilizing an assisted reproductive technology, include genetic information of any embryo legally held by the individual or family member.
 
-([Pub. L. 93–406, title I, § 702][/us/pl/93/406/s702], as added [Pub. L. 104–191, title I, § 101(a)][/us/pl/104/191/s101/a], Aug. 21, 1996, [110 Stat. 1945][/us/stat/110/1945]; amended [Pub. L. 110–233, title I, § 101(a)][/us/pl/110/233/s101/a]–(c), May 21, 2008, [122 Stat. 883][/us/stat/122/883], 885.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 702, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(a), Aug. 21, 1996, [110 Stat. 1945][/us/stat/110/1945]; amended [Pub. L. 110–233, title I][/us/pl/110/233/tI], § 101(a)–(c), May 21, 2008, [122 Stat. 883][/us/stat/122/883], 885.)
 
  __References in Text__ 
 
@@ -149,13 +149,13 @@
 
  __Amendments__ 
 
-    2008—Subsec. (b)(2)(A). [Pub. L. 110–233, § 101(a)(1)][/us/pl/110/233/s101/a/1], inserted “except as provided in paragraph (3)” before semicolon.
+    2008—Subsec. (b)(2)(A). [Pub. L. 110–233][/us/pl/110/233], § 101(a)(1), inserted “except as provided in paragraph (3)” before semicolon.
 
-    Subsec. (b)(3). [Pub. L. 110–233, § 101(a)(2)][/us/pl/110/233/s101/a/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 110–233][/us/pl/110/233], § 101(a)(2), added par. (3).
 
-    Subsecs. (c) to (e). [Pub. L. 110–233, § 101(b)][/us/pl/110/233/s101/b], added subsecs. (c) to (e).
+    Subsecs. (c) to (e). [Pub. L. 110–233][/us/pl/110/233], § 101(b), added subsecs. (c) to (e).
 
-    Subsec. (f). [Pub. L. 110–233, § 101(c)][/us/pl/110/233/s101/c], added subsec. (f).
+    Subsec. (f). [Pub. L. 110–233][/us/pl/110/233], § 101(c), added subsec. (f).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -173,20 +173,20 @@
 [/us/usc/t29/s1191b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t29/s1191a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191a%2Fa
-[/us/pl/93/406/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs702
-[/us/pl/104/191/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1945
-[/us/pl/110/233/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fa
+[/us/pl/110/233/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtI
 [/us/stat/122/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F883
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/104/191/s264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs264
 [/us/usc/t42/s1320d–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1320d%E2%80%932
-[/us/pl/110/233/s101/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fa%2F1
-[/us/pl/110/233/s101/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fa%2F2
-[/us/pl/110/233/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fb
-[/us/pl/110/233/s101/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Fc
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
+[/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
 [/us/pl/110/233/s101/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs101%2Ff%2F2
 [/us/usc/t29/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1132

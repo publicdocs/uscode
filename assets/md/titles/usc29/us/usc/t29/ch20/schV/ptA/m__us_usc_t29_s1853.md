@@ -39,11 +39,11 @@
 
         All penalties collected under authority of this section shall be paid into the Treasury of the United States.
 
-([Pub. L. 97–470, title V, § 503][/us/pl/97/470/s503], Jan. 14, 1983, [96 Stat. 2596][/us/stat/96/2596].)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 503, Jan. 14, 1983, [96 Stat. 2596][/us/stat/96/2596].)
 
  __References in Text__ 
 
-    The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is [Pub. L. 88–582][/us/pl/88/582], Sept. 7, 1964, [78 Stat. 920][/us/stat/78/920], as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by [Pub. L. 97–470, title V, § 523][/us/pl/97/470/s523], Jan. 14, 1983, [96 Stat. 2600][/us/stat/96/2600]. See section 1801 et seq. of this title.
+    The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (a)(2), is [Pub. L. 88–582][/us/pl/88/582], Sept. 7, 1964, [78 Stat. 920][/us/stat/78/920], as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by [Pub. L. 97–470, title V][/us/pl/97/470/tV], § 523, Jan. 14, 1983, [96 Stat. 2600][/us/stat/96/2600]. See section 1801 et seq. of this title.
 
 ----------
 
@@ -55,11 +55,11 @@
 [/us/usc/t7/s2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2041
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
 [/us/usc/t5/s706/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706%2F2%2FE
-[/us/pl/97/470/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs503
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2596
 [/us/pl/88/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F582
 [/us/stat/78/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F920
-[/us/pl/97/470/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs523
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2600
 
 

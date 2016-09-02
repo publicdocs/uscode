@@ -31,7 +31,7 @@
 
         In order to carry out the objectives of this section, the Secretary may by regulation require employers to obtain from any employee proof of age.
 
-([June 25, 1938, ch. 676, § 12][/us/act/1938-06-25/ch676/s12], [52 Stat. 1067][/us/stat/52/1067]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Oct. 26, 1949, ch. 736, § 10][/us/act/1949-10-26/ch736/s10], [63 Stat. 917][/us/stat/63/917]; [Pub. L. 87–30, § 8][/us/pl/87/30/s8], May 5, 1961, [75 Stat. 70][/us/stat/75/70]; [Pub. L. 93–259, § 25(a)][/us/pl/93/259/s25/a], Apr. 8, 1974, [88 Stat. 72][/us/stat/88/72].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 12, [52 Stat. 1067][/us/stat/52/1067]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 10, [63 Stat. 917][/us/stat/63/917]; [Pub. L. 87–30][/us/pl/87/30], § 8, May 5, 1961, [75 Stat. 70][/us/stat/75/70]; [Pub. L. 93–259][/us/pl/93/259], § 25(a), Apr. 8, 1974, [88 Stat. 72][/us/stat/88/72].)
 
  __Amendments__ 
 
@@ -70,14 +70,14 @@
 
 [/us/usc/t29/s211/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs211%2Fa
 [/us/usc/t29/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs217
-[/us/act/1938-06-25/ch676/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs12
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1067
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
-[/us/act/1949-10-26/ch736/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs10
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/917]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F917
-[/us/pl/87/30/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs8
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/stat/75/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F70
-[/us/pl/93/259/s25/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs25%2Fa
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F72
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30

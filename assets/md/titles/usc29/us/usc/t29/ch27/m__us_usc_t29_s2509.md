@@ -17,7 +17,7 @@
 
     There is authorized to be appropriated $1,000,000 to carry out [section 2503 of this title][/us/usc/t29/s2503].
 
-([Pub. L. 102–530, § 10][/us/pl/102/530/s10], Oct. 27, 1992, [106 Stat. 3468][/us/stat/106/3468].)
+([Pub. L. 102–530][/us/pl/102/530], § 10, Oct. 27, 1992, [106 Stat. 3468][/us/stat/106/3468].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t29/s2503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2503
-[/us/pl/102/530/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530%2Fs10
+[/us/pl/102/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530
 [/us/stat/106/3468]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3468
 
 

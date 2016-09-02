@@ -17,7 +17,7 @@
 
     No restraining order or injunctive relief shall be granted to any complainant who has failed to comply with any obligation imposed by law which is involved in the labor dispute in question, or who has failed to make every reasonable effort to settle such dispute either by negotiation or with the aid of any available governmental machinery of mediation or voluntary arbitration.
 
-([Mar. 23, 1932, ch. 90, § 8][/us/act/1932-03-23/ch90/s8], [47 Stat. 72][/us/stat/47/72].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 8, [47 Stat. 72][/us/stat/47/72].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1932-03-23/ch90/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs8
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F72
 
 

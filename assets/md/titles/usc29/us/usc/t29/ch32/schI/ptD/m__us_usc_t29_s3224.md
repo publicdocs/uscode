@@ -189,7 +189,7 @@
 
         Of the amount made available pursuant to [section 3172(a)(2)(A) of this title][/us/usc/t29/s3172/a/2/A] for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (b)(6)(C). Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered by the Secretary, acting through the Assistant Secretary for Employment and Training.
 
-([Pub. L. 113–128, title I, § 169][/us/pl/113/128/s169], July 22, 2014, [128 Stat. 1568][/us/stat/128/1568].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 169, July 22, 2014, [128 Stat. 1568][/us/stat/128/1568].)
 
  __References in Text__ 
 
@@ -209,7 +209,7 @@
 [/us/usc/t29/s3141/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fe
 [/us/usc/t29/s3152/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3152%2Fd
 [/us/usc/t29/s3172/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3172%2Fa%2F2%2FA
-[/us/pl/113/128/s169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs169
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1568]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1568
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425

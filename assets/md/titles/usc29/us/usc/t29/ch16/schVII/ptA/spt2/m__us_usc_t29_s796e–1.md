@@ -29,11 +29,11 @@
 
             The non-Federal share of the cost of any project that receives assistance through an allotment under this subpart may be provided in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
-([Pub. L. 93–112, title VII, § 712][/us/pl/93/112/s712], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1225][/us/stat/112/1225]; amended [Pub. L. 113–128, title IV, § 476(c)][/us/pl/113/128/s476/c], July 22, 2014, [128 Stat. 1691][/us/stat/128/1691].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 712, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1225][/us/stat/112/1225]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 476(c), July 22, 2014, [128 Stat. 1691][/us/stat/128/1691].)
 
  __Prior Provisions__ 
 
-    A prior section 796e–1, [Pub. L. 93–112, title VII, § 712][/us/pl/93/112/s712], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4451][/us/stat/106/4451]; amended [Pub. L. 103–73, title I, § 114(f)][/us/pl/103/73/s114/f], Aug. 11, 1993, [107 Stat. 730][/us/stat/107/730], related to payments to States from allotments, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796e–1, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 712, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4451][/us/stat/106/4451]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(f), Aug. 11, 1993, [107 Stat. 730][/us/stat/107/730], related to payments to States from allotments, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
@@ -49,15 +49,15 @@
 [/us/usc/t29/s796e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796e
 [/us/usc/t29/s796d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d%E2%80%931
 [/us/usc/t29/s796d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d%E2%80%931
-[/us/pl/93/112/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs712
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1225
-[/us/pl/113/128/s476/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fc
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1691
-[/us/pl/93/112/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs712
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4451
-[/us/pl/103/73/s114/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Ff
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F730
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

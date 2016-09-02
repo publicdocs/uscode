@@ -65,7 +65,7 @@
 
         The Secretary shall coordinate the outreach program under this section with similar efforts undertaken by other public and private entities.
 
-([Pub. L. 93–406, title I, § 516][/us/pl/93/406/s516], as added [Pub. L. 105–92, § 3(a)][/us/pl/105/92/s3/a], Nov. 19, 1997, [111 Stat. 2139][/us/stat/111/2139].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 516, as added [Pub. L. 105–92][/us/pl/105/92], § 3(a), Nov. 19, 1997, [111 Stat. 2139][/us/stat/111/2139].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Findings and Purpose__ 
 
-[Pub. L. 105–92, § 2][/us/pl/105/92/s2], Nov. 19, 1997, [111 Stat. 2139][/us/stat/111/2139], provided that:
+[Pub. L. 105–92][/us/pl/105/92], § 2, Nov. 19, 1997, [111 Stat. 2139][/us/stat/111/2139], provided that:
 
 >     “(a)  __Findings__  __.—__ 
 
@@ -102,12 +102,12 @@
 ----------
 ----------
 
-[/us/pl/93/406/s516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs516
-[/us/pl/105/92/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F92%2Fs3%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/105/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F92
 [/us/stat/111/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2139
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/105/92/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F92%2Fs2
+[/us/pl/105/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F92
 [/us/stat/111/2139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2139
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 

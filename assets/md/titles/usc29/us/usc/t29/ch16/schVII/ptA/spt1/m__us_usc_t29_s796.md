@@ -23,13 +23,13 @@
 
     (3) providing financial assistance to States for improving working relationships among State independent living rehabilitation service programs, centers for independent living, Statewide Independent Living Councils established under [section 796d of this title][/us/usc/t29/s796d], State vocational rehabilitation programs receiving assistance under subchapter I, State programs of supported employment services receiving assistance under subchapter VI, client assistance programs receiving assistance under [section 732 of this title][/us/usc/t29/s732], programs funded under other subchapters of this chapter, programs funded under other Federal law, and programs funded through non-Federal sources, with the goal of improving the independence of individuals with disabilities.
 
-([Pub. L. 93–112, title VII, § 701][/us/pl/93/112/s701], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1217][/us/stat/112/1217]; amended [Pub. L. 113–128, title IV, § 471][/us/pl/113/128/s471], July 22, 2014, [128 Stat. 1685][/us/stat/128/1685].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 701, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1217][/us/stat/112/1217]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 471, July 22, 2014, [128 Stat. 1685][/us/stat/128/1685].)
 
  __Prior Provisions__ 
 
-    A prior section 796, [Pub. L. 93–112, title VII, § 701][/us/pl/93/112/s701], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4443][/us/stat/106/4443]; amended [Pub. L. 103–73, title I, § 114(a)][/us/pl/103/73/s114/a], Aug. 11, 1993, [107 Stat. 728][/us/stat/107/728], related to purpose of program to provide assistance for independent living for individuals with severe disabilities, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 701, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4443][/us/stat/106/4443]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(a), Aug. 11, 1993, [107 Stat. 728][/us/stat/107/728], related to purpose of program to provide assistance for independent living for individuals with severe disabilities, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    Another prior section 796, [Pub. L. 93–112, title VII, § 701][/us/pl/93/112/s701], as added [Pub. L. 95–602, title III, § 301][/us/pl/95/602/s301], Nov. 6, 1978, [92 Stat. 2995][/us/stat/92/2995], provided Congressional statement of purpose of former subchapter VII, prior to repeal by [Pub. L. 102–569, § 701(1)][/us/pl/102/569/s701/1].
+    Another prior section 796, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 701, as added [Pub. L. 95–602, title III][/us/pl/95/602/tIII], § 301, Nov. 6, 1978, [92 Stat. 2995][/us/stat/92/2995], provided Congressional statement of purpose of former subchapter VII, prior to repeal by [Pub. L. 102–569][/us/pl/102/569], § 701(1).
 
  __Amendments__ 
 
@@ -44,21 +44,21 @@
 
 [/us/usc/t29/s796d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
-[/us/pl/93/112/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs701
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1217
-[/us/pl/113/128/s471]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs471
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1685]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1685
-[/us/pl/93/112/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs701
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4443
-[/us/pl/103/73/s114/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fa
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F728
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs701
-[/us/pl/95/602/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs301
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/95/602/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtIII
 [/us/stat/92/2995]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2995
-[/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

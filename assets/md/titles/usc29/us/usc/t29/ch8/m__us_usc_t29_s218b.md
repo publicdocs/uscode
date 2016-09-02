@@ -29,13 +29,13 @@
 
         Subsection (a) shall take effect with respect to employers in a State beginning on March 1, 2013.
 
-([June 25, 1938, ch. 676, § 18B][/us/act/1938-06-25/ch676/s18B], as added and amended [Pub. L. 111–148, title I, § 1512][/us/pl/111/148/s1512], title X, § 10108(i)(2), Mar. 23, 2010, [124 Stat. 252][/us/stat/124/252], 914; [Pub. L. 112–10, div. B, title VIII, § 1858(c)][/us/pl/112/10/s1858/c], Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 18B, as added and amended [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1512, title X, § 10108(i)(2), Mar. 23, 2010, [124 Stat. 252][/us/stat/124/252], 914; [Pub. L. 112–10, div. B, title VIII][/us/pl/112/10/dB/tVIII], § 1858(c), Apr. 15, 2011, [125 Stat. 169][/us/stat/125/169].)
 
  __Amendments__ 
 
     2011—Subsec. (a)(3). [Pub. L. 112–10][/us/pl/112/10] struck out “and the employer does not offer a free choice voucher” after “Exchange”.
 
-    2010—Subsec. (a)(3). [Pub. L. 111–148, § 10108(i)(2)][/us/pl/111/148/s10108/i/2], inserted “and the employer does not offer a free choice voucher” after “Exchange” and substituted “may lose” for “will lose”.
+    2010—Subsec. (a)(3). [Pub. L. 111–148][/us/pl/111/148], § 10108(i)(2), inserted “and the employer does not offer a free choice voucher” after “Exchange” and substituted “may lose” for “will lose”.
 
  __Effective Date of 2011 Amendment__ 
 
@@ -50,13 +50,13 @@
 
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
-[/us/act/1938-06-25/ch676/s18B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs18B
-[/us/pl/111/148/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1512
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F252
-[/us/pl/112/10/s1858/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fc
+[/us/pl/112/10/dB/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2FdB%2FtVIII
 [/us/stat/125/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F169
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
-[/us/pl/111/148/s10108/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10108%2Fi%2F2
+[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/112/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/pl/112/10/s1858/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F10%2Fs1858%2Fd

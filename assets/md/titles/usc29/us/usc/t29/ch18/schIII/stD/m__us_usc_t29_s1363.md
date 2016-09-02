@@ -65,29 +65,29 @@
 
         The corporation is authorized to waive the application of the provisions of subsections (b), (c), and (d) of this section whenever it determines that there is an indemnity agreement in effect among contributing sponsors under the plan which is adequate to satisfy the purposes of this section and of [section 1364 of this title][/us/usc/t29/s1364].
 
-([Pub. L. 93–406, title IV, § 4063][/us/pl/93/406/s4063], Sept. 2, 1974, [88 Stat. 1030][/us/stat/88/1030]; [Pub. L. 96–364, title IV, § 403(h)][/us/pl/96/364/s403/h], Sept. 26, 1980, [94 Stat. 1301][/us/stat/94/1301]; [Pub. L. 99–272, title XI, § 11016(a)(5)(A)][/us/pl/99/272/s11016/a/5/A], Apr. 7, 1986, [100 Stat. 268][/us/stat/100/268].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4063, Sept. 2, 1974, [88 Stat. 1030][/us/stat/88/1030]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 403(h), Sept. 26, 1980, [94 Stat. 1301][/us/stat/94/1301]; [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11016(a)(5)(A), Apr. 7, 1986, [100 Stat. 268][/us/stat/100/268].)
 
  __Codification__ 
 
-    In subsec. (c)(1), “sections 9304–9308 of title 31” substituted for “sections 6 through 13 of title 6, United States Code” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (c)(1), “sections 9304–9308 of title 31” substituted for “sections 6 through 13 of title 6, United States Code” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    1986—[Pub. L. 99–272, § 11016(a)(5)(A)(vi)][/us/pl/99/272/s11016/a/5/A/vi], inserted “from single-employer plans under multiple controlled groups” in section catchline.
+    1986—[Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(A)(vi), inserted “from single-employer plans under multiple controlled groups” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–272, § 11016(a)(5)(A)(i)][/us/pl/99/272/s11016/a/5/A/i], in introductory par., substituted “single-employer plan which has two or more contributing sponsors at least two of whom are not under common control” for “plan under which more than one employer makes contributions (other than a multiemployer plan)”, in par. (1), substituted “withdrawal during a plan year of a substantial employer for such plan year” for “withdrawal of a substantial employer”, in par. (2), substituted “of all persons with respect to the withdrawal of the substantial employer” for “of such employer under this subtitle with respect to such withdrawal”, and in concluding provision substituted “whether there is liability resulting from the withdrawal of the substantial employer” for “whether such employer is liable for any amount under this subtitle with respect to the withdrawal” and “notify the liable persons” for “notify such employer”.
+    Subsec. (a). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(A)(i), in introductory par., substituted “single-employer plan which has two or more contributing sponsors at least two of whom are not under common control” for “plan under which more than one employer makes contributions (other than a multiemployer plan)”, in par. (1), substituted “withdrawal during a plan year of a substantial employer for such plan year” for “withdrawal of a substantial employer”, in par. (2), substituted “of all persons with respect to the withdrawal of the substantial employer” for “of such employer under this subtitle with respect to such withdrawal”, and in concluding provision substituted “whether there is liability resulting from the withdrawal of the substantial employer” for “whether such employer is liable for any amount under this subtitle with respect to the withdrawal” and “notify the liable persons” for “notify such employer”.
 
-    Subsec. (b). [Pub. L. 99–272, § 11016(a)(5)(A)(ii)][/us/pl/99/272/s11016/a/5/A/ii], in introductory par., substituted “any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a) of this section, be liable, together with the members of their controlled groups,” for “an employer who withdraws from a plan to which [section 1321 of this title][/us/usc/t29/s1321] applies, during a plan year for which he was a substantial employer, and who is notified by the corporation as provided by subsection (a) of this section, shall be liable”, “amount of liability” for “amount of such employer’s liability”, and “the withdrawal referred to in subsection (a)(1) of this section” for “the employer’s withdrawal”, in par. (1), substituted “such contributing sponsors” for “such employer”, in par. (2), substituted “all contributing sponsors” for “all employers”, and in concluding provision substituted “such liability” for “the liability of each such employer”.
+    Subsec. (b). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(A)(ii), in introductory par., substituted “any one or more contributing sponsors who withdraw, during a plan year for which they constitute a substantial employer, from a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control, shall, upon notification of such contributing sponsors by the corporation as provided by subsection (a) of this section, be liable, together with the members of their controlled groups,” for “an employer who withdraws from a plan to which [section 1321 of this title][/us/usc/t29/s1321] applies, during a plan year for which he was a substantial employer, and who is notified by the corporation as provided by subsection (a) of this section, shall be liable”, “amount of liability” for “amount of such employer’s liability”, and “the withdrawal referred to in subsection (a)(1) of this section” for “the employer’s withdrawal”, in par. (1), substituted “such contributing sponsors” for “such employer”, in par. (2), substituted “all contributing sponsors” for “all employers”, and in concluding provision substituted “such liability” for “the liability of each such employer”.
 
-    Subsec. (c)(1). [Pub. L. 99–272, § 11016(a)(5)(A)(iii)(I)][/us/pl/99/272/s11016/a/5/A/iii/I], substituted “of a contributing sponsor’s liability under this section, the contributing sponsor” for “of his liability under this section the employer”.
+    Subsec. (c)(1). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(A)(iii)(I), substituted “of a contributing sponsor’s liability under this section, the contributing sponsor” for “of his liability under this section the employer”.
 
-    Subsec. (c)(2). [Pub. L. 99–272, § 11016(a)(5)(A)(iii)(II)][/us/pl/99/272/s11016/a/5/A/iii/II], inserted “under section 1341(c) or 1342 of this title” and substituted “liability is” for “liability of such employer is” and “(or the bond cancelled)” for “to the employer (or his bond cancelled)”.
+    Subsec. (c)(2). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(A)(iii)(II), inserted “under section 1341(c) or 1342 of this title” and substituted “liability is” for “liability of such employer is” and “(or the bond cancelled)” for “to the employer (or his bond cancelled)”.
 
-    Subsec. (c)(3). [Pub. L. 99–272, § 11016(a)(5)(A)(iii)(III)][/us/pl/99/272/s11016/a/5/A/iii/III], in introductory par., inserted “under section 1341(c) or 1342 of this title” and, in subpar. (C), substituted “contributing sponsor” for “employer”.
+    Subsec. (c)(3). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(A)(iii)(III), in introductory par., inserted “under section 1341(c) or 1342 of this title” and, in subpar. (C), substituted “contributing sponsor” for “employer”.
 
-    Subsec. (d). [Pub. L. 99–272, § 11016(a)(5)(A)(iv)][/us/pl/99/272/s11016/a/5/A/iv], in introductory par., substituted “of the plan that the withdrawal from the plan by one or more contributing sponsors” for “of a plan (other than a multiemployer plan) that the withdrawal from the plan by any employer or employers” and struck out “by employers” after “contributions to or under the plan”, in par. (1), substituted “the withdrawal” for “their employer’s withdrawal”, and in par. (2), substituted “plan terminated under [section 1342 of this title][/us/usc/t29/s1342]” for “termination”.
+    Subsec. (d). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(A)(iv), in introductory par., substituted “of the plan that the withdrawal from the plan by one or more contributing sponsors” for “of a plan (other than a multiemployer plan) that the withdrawal from the plan by any employer or employers” and struck out “by employers” after “contributions to or under the plan”, in par. (1), substituted “the withdrawal” for “their employer’s withdrawal”, and in par. (2), substituted “plan terminated under [section 1342 of this title][/us/usc/t29/s1342]” for “termination”.
 
-    Subsec. (e). [Pub. L. 99–272, § 11016(a)(5)(A)(v)][/us/pl/99/272/s11016/a/5/A/v], struck out “to any employer or plan administrator” before “whenever it determines” and substituted “contributing sponsors” for “all other employers”.
+    Subsec. (e). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(A)(v), struck out “to any employer or plan administrator” before “whenever it determines” and substituted “contributing sponsors” for “all other employers”.
 
     1980—Subsecs. (a), (d). [Pub. L. 96–364][/us/pl/96/364] inserted provisions excepting a multiemployer plan.
 
@@ -111,24 +111,24 @@
 [/us/usc/t29/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1364
 [/us/usc/t29/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1342
 [/us/usc/t29/s1364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1364
-[/us/pl/93/406/s4063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4063
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1030
-[/us/pl/96/364/s403/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs403%2Fh
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1301
-[/us/pl/99/272/s11016/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F268
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/99/272/s11016/a/5/A/vi]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA%2Fvi
-[/us/pl/99/272/s11016/a/5/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA%2Fi
-[/us/pl/99/272/s11016/a/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA%2Fii
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t29/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321
-[/us/pl/99/272/s11016/a/5/A/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA%2Fiii%2FI
-[/us/pl/99/272/s11016/a/5/A/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA%2Fiii%2FII
-[/us/pl/99/272/s11016/a/5/A/iii/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA%2Fiii%2FIII
-[/us/pl/99/272/s11016/a/5/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA%2Fiv
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t29/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1342
-[/us/pl/99/272/s11016/a/5/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FA%2Fv
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/pl/99/272/s11019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11019

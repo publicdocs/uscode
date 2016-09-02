@@ -29,7 +29,7 @@
 
     (b) Not later than six months after the effective date of this chapter, the Secretary shall recommend to the Congress any measures he may deem desirable to change the lower or upper age limits set forth in [section 631 of this title][/us/usc/t29/s631].
 
-([Pub. L. 90–202, § 3][/us/pl/90/202/s3], Dec. 15, 1967, [81 Stat. 602][/us/stat/81/602].)
+([Pub. L. 90–202][/us/pl/90/202], § 3, Dec. 15, 1967, [81 Stat. 602][/us/stat/81/602].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 
  __Study and Proposed Guidelines Relating to Police Officers and Firefighters__ 
 
-[Pub. L. 99–592, § 5][/us/pl/99/592/s5], Oct. 31, 1986, [100 Stat. 3343][/us/stat/100/3343], provided that:
+[Pub. L. 99–592][/us/pl/99/592], § 5, Oct. 31, 1986, [100 Stat. 3343][/us/stat/100/3343], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -77,12 +77,12 @@
 ----------
 
 [/us/usc/t29/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs631
-[/us/pl/90/202/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs3
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F602
 [/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/pl/90/202/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs16
 [/us/usc/t29/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs621
-[/us/pl/99/592/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F592%2Fs5
+[/us/pl/99/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F592
 [/us/stat/100/3343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3343
 
 

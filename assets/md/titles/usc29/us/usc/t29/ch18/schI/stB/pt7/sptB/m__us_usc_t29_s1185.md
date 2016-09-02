@@ -87,11 +87,11 @@
 
             [Section 1191(a)(1) of this title][/us/usc/t29/s1191/a/1] shall not be construed as superseding a State law described in paragraph (1).
 
-([Pub. L. 93–406, title I, § 711][/us/pl/93/406/s711], as added [Pub. L. 104–204, title VI, § 603(a)(5)][/us/pl/104/204/s603/a/5], Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 711, as added [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 603(a)(5), Sept. 26, 1996, [110 Stat. 2935][/us/stat/110/2935].)
 
  __References in Text__ 
 
-    [Section 1022(a)(1) of this title][/us/usc/t29/s1022/a/1], referred to in subsec. (d), was redesignated [section 1022(a) of this title][/us/usc/t29/s1022/a] by [Pub. L. 105–34, title XV, § 1503(b)(1)(B)][/us/pl/105/34/s1503/b/1/B], Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061].
+    [Section 1022(a)(1) of this title][/us/usc/t29/s1022/a/1], referred to in subsec. (d), was redesignated [section 1022(a) of this title][/us/usc/t29/s1022/a] by [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1503(b)(1)(B), Aug. 5, 1997, [111 Stat. 1061][/us/stat/111/1061].
 
  __Effective Date__ 
 
@@ -107,12 +107,12 @@
 [/us/usc/t29/s1024/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1024%2Fb%2F1
 [/us/usc/t29/s1191/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191%2Fd%2F1
 [/us/usc/t29/s1191/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191%2Fa%2F1
-[/us/pl/93/406/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs711
-[/us/pl/104/204/s603/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fa%2F5
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2935]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2935
 [/us/usc/t29/s1022/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa%2F1
 [/us/usc/t29/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa
-[/us/pl/105/34/s1503/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1503%2Fb%2F1%2FB
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1061
 [/us/pl/104/204/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fc
 [/us/usc/t29/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1003

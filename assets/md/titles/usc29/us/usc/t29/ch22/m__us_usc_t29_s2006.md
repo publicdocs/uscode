@@ -125,7 +125,7 @@
 
                 (ii) the employee had access to the person or property that is the subject of the investigation.
 
-([Pub. L. 100–347, § 7][/us/pl/100/347/s7], June 27, 1988, [102 Stat. 648][/us/stat/102/648]; [Pub. L. 103–359, title V, § 501(n)][/us/pl/103/359/s501/n], Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XI, § 1122(b)(3)][/us/pl/104/201/s1122/b/3], Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(3), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
+([Pub. L. 100–347][/us/pl/100/347], § 7, June 27, 1988, [102 Stat. 648][/us/stat/102/648]; [Pub. L. 103–359, title V][/us/pl/103/359/tV], § 501(n), Oct. 14, 1994, [108 Stat. 3430][/us/stat/108/3430]; [Pub. L. 104–201, div. A, title XI][/us/pl/104/201/dA/tXI], § 1122(b)(3), Sept. 23, 1996, [110 Stat. 2687][/us/stat/110/2687]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title IX, § 931(b)(3), Oct. 14, 2008, [122 Stat. 4575][/us/stat/122/4575].)
 
  __References in Text__ 
 
@@ -151,11 +151,11 @@
 ----------
 
 [/us/usc/t21/s812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs812
-[/us/pl/100/347/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs7
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/648]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F648
-[/us/pl/103/359/s501/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2Fs501%2Fn
+[/us/pl/103/359/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F359%2FtV
 [/us/stat/108/3430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3430
-[/us/pl/104/201/s1122/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1122%2Fb%2F3
+[/us/pl/104/201/dA/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtXI
 [/us/stat/110/2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2687
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4575

@@ -17,7 +17,7 @@
 
     No officer or member of any association or organization, and no association or organization participating or interested in a labor dispute, shall be held responsible or liable in any court of the United States for the unlawful acts of individual officers, members, or agents, except upon clear proof of actual participation in, or actual authorization of, such acts, or of ratification of such acts after actual knowledge thereof.
 
-([Mar. 23, 1932, ch. 90, § 6][/us/act/1932-03-23/ch90/s6], [47 Stat. 71][/us/stat/47/71].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 6, [47 Stat. 71][/us/stat/47/71].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1932-03-23/ch90/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs6
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F71
 
 

@@ -19,7 +19,7 @@
 
     (b) In order to avoid unnecessary expense and duplication of functions among Government agencies, the Secretary of the Treasury and the Secretary of Labor may make such arrangements or agreements for cooperation or mutual assistance in the performance of their functions under this chapter, and the functions of any such agencies as they find to be practicable and consistent with law. The Secretary of the Treasury and the Secretary of Labor may utilize, on a reimbursable or other basis, the facilities or services, of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services, of any of its employees, with the lawful consent of such department, agency, or establishment; and each department, agency, or establishment of the United States is authorized and directed to cooperate with the Secretary of the Treasury and the Secretary of Labor and, to the extent permitted by law, to provide such information and facilities as they may request for their assistance in the performance of their functions under this chapter. The Attorney General or his representative shall receive from the Secretary of the Treasury and the Secretary of Labor for appropriate action such evidence developed in the performance of their functions under this chapter as may be found to warrant consideration for criminal prosecution under the provisions of this subchapter or other Federal law.
 
-([Pub. L. 93–406, title III, § 3004][/us/pl/93/406/s3004], Sept. 2, 1974, [88 Stat. 998][/us/stat/88/998].)
+([Pub. L. 93–406, title III][/us/pl/93/406/tIII], § 3004, Sept. 2, 1974, [88 Stat. 998][/us/stat/88/998].)
 
  __References in Text__ 
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs3004
+[/us/pl/93/406/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIII
 [/us/stat/88/998]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F998
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001

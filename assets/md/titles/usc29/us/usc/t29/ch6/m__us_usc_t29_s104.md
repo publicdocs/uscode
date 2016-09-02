@@ -35,7 +35,7 @@
 
     (i) Advising, urging, or otherwise causing or inducing without fraud or violence the acts heretofore specified, regardless of any such undertaking or promise as is described in [section 103 of this title][/us/usc/t29/s103].
 
-([Mar. 23, 1932, ch. 90, § 4][/us/act/1932-03-23/ch90/s4], [47 Stat. 70][/us/stat/47/70].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 4, [47 Stat. 70][/us/stat/47/70].)
 
 ----------
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t29/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs103
 [/us/usc/t29/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs103
-[/us/act/1932-03-23/ch90/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs4
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70
 
 

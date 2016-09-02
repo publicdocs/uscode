@@ -51,7 +51,7 @@
 
         (4) to provide a financially self-sufficient program for the guarantee of employee benefits under multiemployer plans.
 
-([Pub. L. 96–364, § 3][/us/pl/96/364/s3], Sept. 26, 1980, [94 Stat. 1209][/us/stat/94/1209].)
+([Pub. L. 96–364][/us/pl/96/364], § 3, Sept. 26, 1980, [94 Stat. 1209][/us/stat/94/1209].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 
  __Study and Report Respecting Collective Bargaining for Contributions to, and Benefits From, Multiemployer Plans__ 
 
-    [Pub. L. 96–364, title IV, § 412(b)][/us/pl/96/364/s412/b], Sept. 26, 1980, [94 Stat. 1309][/us/stat/94/1309], directed Secretary of Labor to study feasibility of requiring collective bargaining on both issues of contributions to, and benefits from, multiemployer plans, and submit a report on the study to Congress within 3 years of Sept. 26, 1980.
+    [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 412(b), Sept. 26, 1980, [94 Stat. 1309][/us/stat/94/1309], directed Secretary of Labor to study feasibility of requiring collective bargaining on both issues of contributions to, and benefits from, multiemployer plans, and submit a report on the study to Congress within 3 years of Sept. 26, 1980.
 
 ----------
 
@@ -76,13 +76,13 @@
 ----------
 ----------
 
-[/us/pl/96/364/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs3
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/stat/94/1209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1209
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/stat/94/1208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1208
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t29/s1461/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe%2F1
-[/us/pl/96/364/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs412%2Fb
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1309
 
 

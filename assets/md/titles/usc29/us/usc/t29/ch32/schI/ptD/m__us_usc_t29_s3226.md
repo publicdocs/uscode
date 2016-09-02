@@ -387,7 +387,7 @@
 
         (6) $91,087,000 for fiscal year 2020.
 
-([Pub. L. 113–128, title I, § 171][/us/pl/113/128/s171], July 22, 2014, [128 Stat. 1576][/us/stat/128/1576].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 171, July 22, 2014, [128 Stat. 1576][/us/stat/128/1576].)
 
  __References in Text__ 
 
@@ -401,7 +401,7 @@
 
  __Transfer of Functions and Savings Provisions__ 
 
-[Pub. L. 109–281, § 3][/us/pl/109/281/s3], Sept. 22, 2006, [120 Stat. 1182][/us/stat/120/1182], provided that:
+[Pub. L. 109–281][/us/pl/109/281], § 3, Sept. 22, 2006, [120 Stat. 1182][/us/stat/120/1182], provided that:
 
 >     “(a)  __Definitions__  __.—__ 
 
@@ -536,7 +536,7 @@
 [/us/usc/t29/s3141/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fii
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/usc/t29/s3141/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fii
-[/us/pl/113/128/s171]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs171
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1576
 [/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
@@ -546,7 +546,7 @@
 [/us/usc/t42/s3601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3601
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/109/281/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281%2Fs3
+[/us/pl/109/281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F281
 [/us/stat/120/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1182
 [/us/usc/t5/s551/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551%2F1
 [/us/usc/t42/s12899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12899

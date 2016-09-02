@@ -43,7 +43,7 @@
 
         The Secretary is authorized to enter into an agreement with the Librarian of Congress with respect to individuals employed in the Library of Congress to provide for the carrying out of the Secretary’s functions under this chapter with respect to such individuals. Notwithstanding any other provision of this chapter, or any other law, the Director of the Office of Personnel Management is authorized to administer the provisions of this chapter with respect to any individual employed by the United States (other than an individual employed in the Library of Congress, United States Postal Service, Postal Regulatory Commission, or the Tennessee Valley Authority). Nothing in this subsection shall be construed to affect the right of an employee to bring an action for unpaid minimum wages, or unpaid overtime compensation, and liquidated damages under [section 216(b) of this title][/us/usc/t29/s216/b].
 
-([June 25, 1938, ch. 676, § 4][/us/act/1938-06-25/ch676/s4], [52 Stat. 1061][/us/stat/52/1061]; [Oct. 26, 1949, ch. 736, § 4][/us/act/1949-10-26/ch736/s4], [63 Stat. 911][/us/stat/63/911]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Aug. 12, 1955, ch. 867, § 2][/us/act/1955-08-12/ch867/s2], [69 Stat. 711][/us/stat/69/711]; [Pub. L. 87–30, § 3][/us/pl/87/30/s3], May 5, 1961, [75 Stat. 66][/us/stat/75/66]; [Pub. L. 93–259][/us/pl/93/259], §§ 6(b), 24(c), 27, Apr. 8, 1974, [88 Stat. 60][/us/stat/88/60], 72, 73; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 104–66, title I, § 1102(a)][/us/pl/104/66/s1102/a], Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 4, [52 Stat. 1061][/us/stat/52/1061]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 4, [63 Stat. 911][/us/stat/63/911]; [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], title XI, § 1106(a), [63 Stat. 972][/us/stat/63/972]; [Aug. 12, 1955, ch. 867][/us/act/1955-08-12/ch867], § 2, [69 Stat. 711][/us/stat/69/711]; [Pub. L. 87–30][/us/pl/87/30], § 3, May 5, 1961, [75 Stat. 66][/us/stat/75/66]; [Pub. L. 93–259][/us/pl/93/259], §§ 6(b), 24(c), 27, Apr. 8, 1974, [88 Stat. 60][/us/stat/88/60], 72, 73; 1978 Reorg. Plan No. 2, § 102, eff. Jan. 1, 1979, 43 F.R. 36037, [92 Stat. 3783][/us/stat/92/3783]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1102(a), Dec. 21, 1995, [109 Stat. 722][/us/stat/109/722]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
     In subsec. (a), provisions that prescribed the compensation of the Administrator were omitted to conform to the provisions of the Executive Schedule. See [section 5316 of Title 5][/us/usc/t5/s5316], Government Organization and Employees.
 
-    In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5.
+    In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5.
 
  __Amendments__ 
 
@@ -63,9 +63,9 @@
 
     1974—Subsec. (d)(1). [Pub. L. 93–259][/us/pl/93/259], §§ 24(c), 27(1), (2), inserted provision at end of subsec. (d) requiring the report to Congress to include a summary of the special certificates issued under [section 214(b) of this title][/us/usc/t29/s214/b], designated subsec. (d) provisions as subsec. (d)(1), and required the report to contain an evaluation and appraisal of overtime coverage established by this chapter, respectively.
 
-    Subsec. (d)(2), (3). [Pub. L. 93–259, § 27(3)][/us/pl/93/259/s27/3], added pars. (2) and (3).
+    Subsec. (d)(2), (3). [Pub. L. 93–259][/us/pl/93/259], § 27(3), added pars. (2) and (3).
 
-    Subsec. (f). [Pub. L. 93–259, § 6(b)][/us/pl/93/259/s6/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 93–259][/us/pl/93/259], § 6(b), added subsec. (f).
 
     1961—Subsec. (e). [Pub. L. 87–30][/us/pl/87/30] added subsec. (e).
 
@@ -89,7 +89,7 @@
 
  __Repeals__ 
 
-    Acts [Oct. 26, 1949, ch. 736, § 4][/us/act/1949-10-26/ch736/s4], [63 Stat. 911][/us/stat/63/911], and [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], cited as a credit to this section, were repealed (subject to a savings clause) by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, § 8, [80 Stat. 632][/us/stat/80/632], 655.
+    Acts [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 4, [63 Stat. 911][/us/stat/63/911], and [Oct. 28, 1949, ch. 782][/us/act/1949-10-28/ch782], cited as a credit to this section, were repealed (subject to a savings clause) by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, § 8, [80 Stat. 632][/us/stat/80/632], 655.
 
  __Termination of Reporting Requirements__ 
 
@@ -105,11 +105,11 @@
 
  __Minimum Wage Study Commission; Establishment, Purposes, Composition, Etc.__ 
 
-    [Pub. L. 95–151, § 2(e)][/us/pl/95/151/s2/e], Nov. 1, 1977, [91 Stat. 1246][/us/stat/91/1246], provided for the establishment, purposes, composition, etc., of the Minimum Wage Study Commission, the submission of reports, with the latest report being submitted to the President and Congress thirty six months after the date of the appointment of the members of the Commission and such appointments being made within 180 days after Nov. 1, 1977, and the Commission to cease to exist thirty days after submission of the report.
+    [Pub. L. 95–151][/us/pl/95/151], § 2(e), Nov. 1, 1977, [91 Stat. 1246][/us/stat/91/1246], provided for the establishment, purposes, composition, etc., of the Minimum Wage Study Commission, the submission of reports, with the latest report being submitted to the President and Congress thirty six months after the date of the appointment of the members of the Commission and such appointments being made within 180 days after Nov. 1, 1977, and the Commission to cease to exist thirty days after submission of the report.
 
  __Definition of “Secretary”__ 
 
-[Act Aug. 12, 1955, ch. 867, § 6][/us/act/1955-08-12/ch867/s6], [69 Stat. 712][/us/stat/69/712], provided that: 
+[Act Aug. 12, 1955, ch. 867][/us/act/1955-08-12/ch867], § 6, [69 Stat. 712][/us/stat/69/712], provided that: 
 
 > “The term ‘Secretary’ as used in this Act and in amendments made by this Act \[amending this section and sections 205, 206, 208, and 210 of this title\] means the Secretary of Labor.”
 
@@ -124,35 +124,35 @@
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
 [/us/usc/t29/s214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs214
 [/us/usc/t29/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs216%2Fb
-[/us/act/1938-06-25/ch676/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs4
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1061
-[/us/act/1949-10-26/ch736/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs4
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F911
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
-[/us/act/1955-08-12/ch867/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867%2Fs2
+[/us/act/1955-08-12/ch867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867
 [/us/stat/69/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F711
-[/us/pl/87/30/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs3
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/stat/75/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F66
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F60
 [/us/stat/92/3783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3783
-[/us/pl/104/66/s1102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1102%2Fa
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F722
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/93/259/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs29%2Fa
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/usc/t29/s214/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs214%2Fb
-[/us/pl/93/259/s27/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs27%2F3
-[/us/pl/93/259/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fb
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/93/259/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs29%2Fa
@@ -161,7 +161,7 @@
 [/us/pl/87/30/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs14
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
-[/us/act/1949-10-26/ch736/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs4
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F911
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
@@ -173,9 +173,9 @@
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/usc/t5/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs1101
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/pl/95/151/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fe
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/stat/91/1246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1246
-[/us/act/1955-08-12/ch867/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867%2Fs6
+[/us/act/1955-08-12/ch867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867
 [/us/stat/69/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F712
 
 

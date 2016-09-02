@@ -37,7 +37,7 @@
 
         (2) a governmental agency, but only insofar as the disclosed information is an admission of criminal conduct.
 
-([Pub. L. 100–347, § 9][/us/pl/100/347/s9], June 27, 1988, [102 Stat. 652][/us/stat/102/652].)
+([Pub. L. 100–347][/us/pl/100/347], § 9, June 27, 1988, [102 Stat. 652][/us/stat/102/652].)
 
 ----------
 
@@ -47,7 +47,7 @@
 ----------
 
 [/us/usc/t29/s2006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2006
-[/us/pl/100/347/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs9
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F652
 
 

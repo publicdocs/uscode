@@ -69,7 +69,7 @@
 
         In the case of a plan described in [section 404(c) of title 26][/us/usc/t26/s404/c], or a continuation thereof, the plan may be amended to provide rules setting forth other conditions consistent with the purposes of this chapter under which an employer has liability for partial withdrawal.
 
-([Pub. L. 93–406, title IV, § 4205][/us/pl/93/406/s4205], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1221][/us/stat/94/1221]; amended [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 109–280, title II, § 204(b)(1)][/us/pl/109/280/s204/b/1], Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4205, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1221][/us/stat/94/1221]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(b)(1), Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title II, § 204(b)(2)][/us/pl/109/280/s204/b/2], Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887], provided that: 
+[Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(b)(2), Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887], provided that: 
 
 > “The amendment made by this subsection \[amending this section\] shall apply with respect to work transferred on or after the date of the enactment of this Act \[Aug. 17, 2006\].”
 
@@ -93,7 +93,7 @@
 
  __Applicability to Certain Employers Engaged in Trade or Business of Shipping Bulk Cargoes in Great Lakes Maritime Industry__ 
 
-[Pub. L. 96–364, title I, § 108(c)(2)][/us/pl/96/364/s108/c/2], Sept. 26, 1980, [94 Stat. 1268][/us/stat/94/1268], provided that:
+[Pub. L. 96–364, title I][/us/pl/96/364/tI], § 108(c)(2), Sept. 26, 1980, [94 Stat. 1268][/us/stat/94/1268], provided that:
 
 >     “(A)
 
@@ -115,7 +115,7 @@
 
  __Applicability to Specified Plan Year, Cessation of Contribution Obligations, and Contribution Base Units of Employer__ 
 
-[Pub. L. 96–364, title I, § 108(d)][/us/pl/96/364/s108/d], Sept. 26, 1980, [94 Stat. 1269][/us/stat/94/1269], as amended by [Pub. L. 98–369, div. A, title V, § 558(b)(2)][/us/pl/98/369/s558/b/2], July 18, 1984, [98 Stat. 899][/us/stat/98/899], provided that: 
+[Pub. L. 96–364, title I][/us/pl/96/364/tI], § 108(d), Sept. 26, 1980, [94 Stat. 1269][/us/stat/94/1269], as amended by [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 558(b)(2), July 18, 1984, [98 Stat. 899][/us/stat/98/899], provided that: 
 
 > “For purposes of section 4205 of the Employee Retirement Income Security Act of 1974 \[this section\]—
 
@@ -127,7 +127,7 @@
 
  __Liability of Certain Employers Announcing Publicly Before__  __December 13, 1979__  __, Total Cessation of Covered Operations at a Facility in a State; Amount, Coverage, Determinative Factors, Etc.__ 
 
-[Pub. L. 96–364, title I, § 108(e)][/us/pl/96/364/s108/e], Sept. 26, 1980, [94 Stat. 1269][/us/stat/94/1269], provided that:
+[Pub. L. 96–364, title I][/us/pl/96/364/tI], § 108(e), Sept. 26, 1980, [94 Stat. 1269][/us/stat/94/1269], provided that:
 
 >     “(1)
 
@@ -194,30 +194,30 @@
 
 [/us/usc/t29/s1388]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1388
 [/us/usc/t26/s404/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs404%2Fc
-[/us/pl/93/406/s4205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4205
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1221
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/109/280/s204/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fb%2F1
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F887
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/109/280/s204/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fb%2F2
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F887
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/101/239/s7891/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Ff
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
-[/us/pl/96/364/s108/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs108%2Fc%2F2
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1268
-[/us/pl/96/364/s108/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs108%2Fd
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1269
-[/us/pl/98/369/s558/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs558%2Fb%2F2
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F899
-[/us/pl/96/364/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs108%2Fe
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1269
 
 

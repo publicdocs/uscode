@@ -129,7 +129,7 @@
 
         In this section, the term “Federal minimum wage” means the rate applicable under section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]).
 
-([Pub. L. 93–112, title V, § 511][/us/pl/93/112/s511], as added [Pub. L. 113–128, title IV, § 458(a)][/us/pl/113/128/s458/a], July 22, 2014, [128 Stat. 1676][/us/stat/128/1676].)
+([Pub. L. 93–112, title V][/us/pl/93/112/tV], § 511, as added [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 458(a), July 22, 2014, [128 Stat. 1676][/us/stat/128/1676]; amended [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(mmm)(4)(A), Dec. 10, 2015, [129 Stat. 2188][/us/stat/129/2188].)
 
  __References in Text__ 
 
@@ -141,9 +141,19 @@
 
     The effective date of this Act, referred to in subsec. (b)(3), may mean the effective date of [Pub. L. 93–112][/us/pl/93/112] (Sept. 26, 1973), the effective date of [Pub. L. 113–128][/us/pl/113/128], which added this section (see Effective Date note set out under [section 3101 of this title][/us/usc/t29/s3101]), or the effective date of this section (see Effective Date note below).
 
+ __Amendments__ 
+
+    2015—Subsec. (b)(2). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
+
+ __Effective Date of 2015 Amendment__ 
+
+[Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(mmm)(4)(B), Dec. 10, 2015, [129 Stat. 2188][/us/stat/129/2188], provided that: 
+
+> “The amendment made by subparagraph (A) \[amending this section\] shall take effect on the same date as section 458(a) of the Workforce Innovation and Opportunity Act ([Public Law 113–128][/us/pl/113/128]; [128 Stat. 1676][/us/stat/128/1676]) \[enacting this section\] takes effect, and as if enacted as part of such section.”
+
  __Effective Date__ 
 
-[Pub. L. 113–128, title IV, § 458(b)][/us/pl/113/128/s458/b], July 22, 2014, [128 Stat. 1679][/us/stat/128/1679], provided that: 
+[Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 458(b), July 22, 2014, [128 Stat. 1679][/us/stat/128/1679], provided that: 
 
 > “This section \[enacting this section\] takes effect 2 years after the date of enactment of the Workforce Innovation and Opportunity Act \[July 22, 2014\].”
 
@@ -168,9 +178,11 @@
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1414/d/1/A/i/VIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd%2F1%2FA%2Fi%2FVIII
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/93/112/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs511
-[/us/pl/113/128/s458/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs458%2Fa
+[/us/pl/93/112/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtV
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1676
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2188
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
@@ -180,7 +192,13 @@
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/113/128/s458/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs458%2Fb
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2188
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/stat/128/1676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1676
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1679
 
 

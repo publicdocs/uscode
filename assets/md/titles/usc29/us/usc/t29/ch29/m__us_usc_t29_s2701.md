@@ -35,7 +35,7 @@
 
     (5) In working with the private sector to promote the technological leadership and economic growth of the United States, the Federal Government has a responsibility to ensure that Federal technology programs help the United States to remain competitive and to maintain and improve living standards and to create and retain secure jobs in economically stable communities.
 
-([Pub. L. 103–382, title V, § 542][/us/pl/103/382/s542], Oct. 20, 1994, [108 Stat. 4051][/us/stat/108/4051].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 542, Oct. 20, 1994, [108 Stat. 4051][/us/stat/108/4051].)
 
  __Short Title__ 
 
@@ -45,7 +45,7 @@
 
  __Study and Report on the “Digital Divide”__ 
 
-[Pub. L. 106–313, title I, § 115][/us/pl/106/313/s115], Oct. 17, 2000, [114 Stat. 1262][/us/stat/114/1262], provided that:
+[Pub. L. 106–313, title I][/us/pl/106/313/tI], § 115, Oct. 17, 2000, [114 Stat. 1262][/us/stat/114/1262], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -57,7 +57,7 @@
 
  __Report on Older Workers in Information Technology Field__ 
 
-[Pub. L. 105–277, div. C, title IV, § 417][/us/pl/105/277/s417], Oct. 21, 1998, [112 Stat. 2681–656][/us/stat/112/2681-656], provided that:
+[Pub. L. 105–277, div. C, title IV][/us/pl/105/277/dC/tIV], § 417, Oct. 21, 1998, [112 Stat. 2681–656][/us/stat/112/2681-656], provided that:
 
 >     “(a)  __Study__  __.—__ 
 
@@ -89,7 +89,7 @@
 
  __Report on High Technology Labor Market Needs__ 
 
-[Pub. L. 105–277, div. C, title IV, § 418(a)][/us/pl/105/277/s418/a], Oct. 21, 1998, [112 Stat. 2681–656][/us/stat/112/2681-656], provided that:
+[Pub. L. 105–277, div. C, title IV][/us/pl/105/277/dC/tIV], § 418(a), Oct. 21, 1998, [112 Stat. 2681–656][/us/stat/112/2681-656], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -121,7 +121,7 @@
 
  __Twenty-First Century Workforce Commission__ 
 
-    [Pub. L. 105–220, title III][/us/pl/105/220], subtitle C, Aug. 7, 1998, [112 Stat. 1087][/us/stat/112/1087], as amended by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(15)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, known as the “Twenty-First Century Workforce Commission Act”, which established the Commission to study all matters relating to the information technology workforce in the United States, including skills necessary to enter the information technology workforce, ways to expand the number of skilled information technology workers, and the relative efficacy of programs in the United States and foreign countries to train information technology workers, and to submit a report to the President and Congress of its findings, conclusions, and recommendations for legislative and administrative actions, and provided for powers of the Commission, compensation of members, employment of staff, authorization of appropriations, and termination of the Commission 90 days after submission of its final report, which was released June 27, 2000, was repealed by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
+    [Pub. L. 105–220, title III][/us/pl/105/220/tIII], subtitle C, Aug. 7, 1998, [112 Stat. 1087][/us/stat/112/1087], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 401(15)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, known as the “Twenty-First Century Workforce Commission Act”, which established the Commission to study all matters relating to the information technology workforce in the United States, including skills necessary to enter the information technology workforce, ways to expand the number of skilled information technology workers, and the relative efficacy of programs in the United States and foreign countries to train information technology workers, and to submit a report to the President and Congress of its findings, conclusions, and recommendations for legislative and administrative actions, and provided for powers of the Commission, compensation of members, employment of staff, authorization of appropriations, and termination of the Commission 90 days after submission of its final report, which was released June 27, 2000, was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
 ----------
 
@@ -130,21 +130,21 @@
 ----------
 ----------
 
-[/us/pl/103/382/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs542
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4051]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4051
 [/us/pl/103/382/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs541
 [/us/pl/103/382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382
-[/us/pl/106/313/s115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs115
+[/us/pl/106/313/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtI
 [/us/stat/114/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1262
-[/us/pl/105/277/s417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs417
+[/us/pl/105/277/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIV
 [/us/stat/112/2681-656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-656
-[/us/pl/105/277/s418/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs418%2Fa
+[/us/pl/105/277/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIV
 [/us/stat/112/2681-656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-656
-[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1087
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
 
 

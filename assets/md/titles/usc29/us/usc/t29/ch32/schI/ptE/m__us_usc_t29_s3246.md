@@ -31,7 +31,7 @@
 
         The provisions of [section 3247 of this title][/us/usc/t29/s3247] shall apply to any final action of the Secretary under this section.
 
-([Pub. L. 113–128, title I, § 186][/us/pl/113/128/s186], July 22, 2014, [128 Stat. 1596][/us/stat/128/1596].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 186, July 22, 2014, [128 Stat. 1596][/us/stat/128/1596].)
 
  __Effective Date__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t29/s3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3244
 [/us/usc/t29/s3247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3247
-[/us/pl/113/128/s186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs186
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1596
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

@@ -115,7 +115,7 @@
 
                  with respect to activities carried out under subchapter II, a description of—
 
-                    (I) how the eligible agency will, if applicable, align content standards for adult education with State-adopted challenging academic content standards, as adopted under [section 6311(b)(1) of title 20][/us/usc/t20/s6311/b/1];
+                    (I) how the eligible agency will, if applicable, align content standards for adult education with challenging State academic standards, as adopted under [section 6311(b)(1) of title 20][/us/usc/t20/s6311/b/1];
 
                     (II)
 
@@ -213,7 +213,7 @@
 
             The Secretary of Labor, in conjunction with the Secretary of Education, shall establish a process for approving and may approve unified State plans that meet the requirements of this section and are submitted to cover periods commencing prior to the second full program year described in paragraph (1)(A).
 
-([Pub. L. 113–128, title I, § 102][/us/pl/113/128/s102], July 22, 2014, [128 Stat. 1444][/us/stat/128/1444]; [Pub. L. 114–18, § 2(e)(1)][/us/pl/114/18/s2/e/1], May 22, 2015, [129 Stat. 213][/us/stat/129/213].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 102, July 22, 2014, [128 Stat. 1444][/us/stat/128/1444]; [Pub. L. 114–18][/us/pl/114/18], § 2(e)(1), May 22, 2015, [129 Stat. 213][/us/stat/129/213]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(yyy)(2), Dec. 10, 2015, [129 Stat. 2191][/us/stat/129/2191].)
 
  __References in Text__ 
 
@@ -229,9 +229,13 @@
 
     2015—Subsec. (b)(2)(D)(i)(III). [Pub. L. 114–18][/us/pl/114/18] substituted “section 3121(b)(6)” for “section 3121(b)(5)”.
 
+    Subsec. (b)(2)(D)(ii)(I). [Pub. L. 114–95][/us/pl/114/95] substituted “with challenging State academic standards, as adopted under [section 6311(b)(1) of title 20][/us/usc/t20/s6311/b/1]” for “with State-adopted challenging academic content standards, as adopted under [section 6311(b)(1) of title 20][/us/usc/t20/s6311/b/1]”.
+
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–18, § 2(f)][/us/pl/114/18/s2/f], May 22, 2015, [129 Stat. 214][/us/stat/129/214], provided that: 
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
+
+[Pub. L. 114–18][/us/pl/114/18], § 2(f), May 22, 2015, [129 Stat. 214][/us/stat/129/214], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 3121, 3122, 3141, 3164, 3172, and 3174\] shall take effect as if included in the Workforce Innovation and Opportunity Act \[[Pub. L. 113–128][/us/pl/113/128]\].”
 
@@ -275,10 +279,12 @@
 [/us/usc/t29/s3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3248
 [/us/usc/t29/s3331/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3331%2Fa
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
-[/us/pl/113/128/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs102
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1444
-[/us/pl/114/18/s2/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Fe%2F1
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/stat/129/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F213
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2191
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
@@ -292,7 +298,13 @@
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
-[/us/pl/114/18/s2/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18%2Fs2%2Ff
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/usc/t20/s6311/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6311%2Fb%2F1
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/114/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F18
 [/us/stat/129/214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F214
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506

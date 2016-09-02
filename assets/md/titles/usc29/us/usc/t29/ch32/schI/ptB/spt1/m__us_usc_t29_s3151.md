@@ -409,7 +409,7 @@
 
             The method for determining the appropriate portion of funds and noncash resources to be provided by the one-stop partner for each program under paragraph (1) for a one-stop center shall be determined as part of the development of the memorandum of understanding under subsection (c) for the one-stop center and shall be stated in the memorandum. The State board shall provide guidance to facilitate the determination, for purposes of the memorandum of understanding, of an appropriate allocation of the funds and noncash resources in local areas, consistent with the requirements of [section 3111(d)(6)(C) of this title][/us/usc/t29/s3111/d/6/C].
 
-([Pub. L. 113–128, title I, § 121][/us/pl/113/128/s121], July 22, 2014, [128 Stat. 1481][/us/stat/128/1481].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 121, July 22, 2014, [128 Stat. 1481][/us/stat/128/1481].)
 
  __References in Text__ 
 
@@ -419,7 +419,7 @@
 
     The Older Americans Act of 1965, referred to in subsecs. (b)(1)(B)(v) and (h)(2)(D)(i)(II), is [Pub. L. 89–73][/us/pl/89/73], July 14, 1965, [79 Stat. 218][/us/stat/79/218], which is classified generally to chapter 35 (§ 3001 et seq.) of Title 42, The Public Health and Welfare. Title V of the Act, known as the Community Service Senior Opportunities Act, is classified generally to subchapter IX (§ 3056 et seq.) of chapter 35 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under [section 3001 of Title 42][/us/usc/t42/s3001] and Tables.
 
-    The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270, § 1(b)][/us/pl/109/270/s1/b], Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
+    The Carl D. Perkins Career and Technical Education Act of 2006, referred to in subsecs. (b)(1)(B)(vi) and (h)(2)(C)(ii), is [Pub. L. 88–210][/us/pl/88/210], Dec. 18, 1963, [77 Stat. 403][/us/stat/77/403], as amended generally by [Pub. L. 109–270][/us/pl/109/270], § 1(b), Aug. 12, 2006, [120 Stat. 683][/us/stat/120/683], which is classified generally to chapter 44 (§ 2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under [section 2301 of Title 20][/us/usc/t20/s2301] and Tables.
 
     The Trade Act of 1974, referred to in subsec. (b)(1)(B)(vii), is [Pub. L. 93–618][/us/pl/93/618], Jan. 3, 1975, [88 Stat. 1978][/us/stat/88/1978]. Chapter 2 of title II of the Act is classified generally to part 2 (§ 2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. For complete classification of this Act to the Code, see [section 2101 of Title 19][/us/usc/t19/s2101] and Tables.
 
@@ -486,7 +486,7 @@
 [/us/usc/t29/s3242/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3242%2Fe
 [/us/usc/t29/s3174/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fc%2F2
 [/us/usc/t29/s3111/d/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3111%2Fd%2F6%2FC
-[/us/pl/113/128/s121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs121
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1481
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
@@ -499,7 +499,7 @@
 [/us/usc/t42/s3001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3001
 [/us/pl/88/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F210
 [/us/stat/77/403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F403
-[/us/pl/109/270/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270%2Fs1%2Fb
+[/us/pl/109/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F270
 [/us/stat/120/683]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F683
 [/us/usc/t20/s2301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs2301
 [/us/pl/93/618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F618

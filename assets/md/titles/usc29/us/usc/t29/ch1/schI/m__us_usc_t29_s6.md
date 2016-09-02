@@ -17,7 +17,7 @@
 
     The Commissioner of Labor Statistics shall annually make a report in writing to the President and Congress, of the information collected and collated by him, and containing such recommendations as he may deem calculated to promote the efficiency of the department. He is also authorized to make special reports on particular subjects whenever required to do so by the President or either House of Congress, or when he shall think the subjects in his charge require it. He shall, on or before the 15th day of March in each year, make a report in detail to Congress of all moneys expended under his direction during the preceding fiscal year.
 
-([June 13, 1888, ch. 389, § 8][/us/act/1888-06-13/ch389/s8], [25 Stat. 183][/us/stat/25/183]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737]; [Pub. L. 94–273, § 5(3)][/us/pl/94/273/s5/3], Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377].)
+([June 13, 1888, ch. 389][/us/act/1888-06-13/ch389], § 8, [25 Stat. 183][/us/stat/25/183]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737]; [Pub. L. 94–273][/us/pl/94/273], § 5(3), Apr. 21, 1976, [90 Stat. 377][/us/stat/90/377].)
 
  __Codification__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/act/1888-06-13/ch389/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389%2Fs8
+[/us/act/1888-06-13/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389
 [/us/stat/25/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F183
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
-[/us/pl/94/273/s5/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273%2Fs5%2F3
+[/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/stat/90/377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F377
 [/us/pl/94/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F273
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

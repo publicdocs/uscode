@@ -21,7 +21,7 @@
 
     (2) assist workers and worker organizations in developing the expertise necessary for effective participation with employers in the development of strategies and programs for the successful evaluation, selection, and implementation of advanced workplace technologies and advanced workplace practices through the provision of a range of education, training, and related services.
 
-([Pub. L. 103–382, title V, § 543][/us/pl/103/382/s543], Oct. 20, 1994, [108 Stat. 4052][/us/stat/108/4052].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 543, Oct. 20, 1994, [108 Stat. 4052][/us/stat/108/4052].)
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/382/s543]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs543
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4052]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4052
 
 

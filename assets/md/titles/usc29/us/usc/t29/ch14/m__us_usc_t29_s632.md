@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 90–202, § 13][/us/pl/90/202/s13], Dec. 15, 1967, [81 Stat. 607][/us/stat/81/607]; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781], which required the Equal Employment Opportunity Commission to submit to Congress an annual report on the Commission’s activities including an evaluation and appraisal of the effect of the minimum and maximum ages established by this chapter, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 123 of House Document No. 103–7.
+    Section, [Pub. L. 90–202][/us/pl/90/202], § 13, Dec. 15, 1967, [81 Stat. 607][/us/stat/81/607]; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781], which required the Equal Employment Opportunity Commission to submit to Congress an annual report on the Commission’s activities including an evaluation and appraisal of the effect of the minimum and maximum ages established by this chapter, terminated, effective May 15, 2000, pursuant to [section 3003 of Pub. L. 104–66][/us/pl/104/66/s3003], as amended, set out as a note under [section 1113 of Title 31][/us/usc/t31/s1113], Money and Finance. See, also, page 123 of House Document No. 103–7.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/90/202/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs13
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F607
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

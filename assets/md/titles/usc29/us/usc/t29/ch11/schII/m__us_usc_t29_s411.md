@@ -45,7 +45,7 @@
 
          Any provision of the constitution and bylaws of any labor organization which is inconsistent with the provisions of this section shall be of no force or effect.
 
-([Pub. L. 86–257, title I, § 101][/us/pl/86/257/s101], Sept. 14, 1959, [73 Stat. 522][/us/stat/73/522].)
+([Pub. L. 86–257, title I][/us/pl/86/257/tI], § 101, Sept. 14, 1959, [73 Stat. 522][/us/stat/73/522].)
 
 ----------
 
@@ -54,7 +54,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs101
+[/us/pl/86/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtI
 [/us/stat/73/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F522
 
 

@@ -51,15 +51,15 @@
 
         The Secretary shall promulgate rules and regulations prescribing minimum standards and procedures for determining the adequacy of the removal procedures to which reference is made in subsection (h).
 
-([Pub. L. 86–257, title IV, § 401][/us/pl/86/257/s401], Sept. 14, 1959, [73 Stat. 532][/us/stat/73/532].)
+([Pub. L. 86–257, title IV][/us/pl/86/257/tIV], § 401, Sept. 14, 1959, [73 Stat. 532][/us/stat/73/532].)
 
  __Codification__ 
 
-    In subsec. (h), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
+    In subsec. (h), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5, Government Organization and Employees.
 
  __Effective Date__ 
 
-[Pub. L. 86–257, title IV, § 404][/us/pl/86/257/s404], Sept. 14, 1959, [73 Stat. 535][/us/stat/73/535], provided that: 
+[Pub. L. 86–257, title IV][/us/pl/86/257/tIV], § 404, Sept. 14, 1959, [73 Stat. 535][/us/stat/73/535], provided that: 
 
 > “The provisions of this title \[enacting this subchapter\] shall become applicable—
 
@@ -75,11 +75,11 @@
 ----------
 
 [/us/usc/t29/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs504
-[/us/pl/86/257/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs401
+[/us/pl/86/257/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIV
 [/us/stat/73/532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F532
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
-[/us/pl/86/257/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs404
+[/us/pl/86/257/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIV
 [/us/stat/73/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F535
 
 

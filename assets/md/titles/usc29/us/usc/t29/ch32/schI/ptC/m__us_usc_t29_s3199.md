@@ -31,7 +31,7 @@
 
         The Secretary may provide such services as the Secretary determines to be appropriate under this part to former enrollees.
 
-([Pub. L. 113–128, title I, § 149][/us/pl/113/128/s149], July 22, 2014, [128 Stat. 1548][/us/stat/128/1548].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 149, July 22, 2014, [128 Stat. 1548][/us/stat/128/1548].)
 
  __Effective Date__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/113/128/s149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs149
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1548]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1548
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

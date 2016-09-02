@@ -37,11 +37,11 @@
 
         (7) to provide outreach to populations that are unserved or underserved by programs under this subchapter, including minority groups and urban and rural populations.
 
-([Pub. L. 93–112, title VII, § 713][/us/pl/93/112/s713], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1226][/us/stat/112/1226]; amended [Pub. L. 113–128, title IV, § 476(d)][/us/pl/113/128/s476/d], July 22, 2014, [128 Stat. 1691][/us/stat/128/1691].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 713, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1226][/us/stat/112/1226]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 476(d), July 22, 2014, [128 Stat. 1691][/us/stat/128/1691].)
 
  __Prior Provisions__ 
 
-    A prior section 796e–2, [Pub. L. 93–112, title VII, § 713][/us/pl/93/112/s713], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4451][/us/stat/106/4451]; amended [Pub. L. 103–73, title I, § 114(g)][/us/pl/103/73/s114/g], Aug. 11, 1993, [107 Stat. 730][/us/stat/107/730], related to authorized uses of funds, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796e–2, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 713, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4451][/us/stat/106/4451]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(g), Aug. 11, 1993, [107 Stat. 730][/us/stat/107/730], related to authorized uses of funds, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
@@ -59,15 +59,15 @@
 [/us/usc/t29/s796d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d%E2%80%931
 [/us/usc/t29/s796c/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796c%2Fc%2F5
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
-[/us/pl/93/112/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs713
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1226
-[/us/pl/113/128/s476/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs476%2Fd
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1691
-[/us/pl/93/112/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs713
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4451
-[/us/pl/103/73/s114/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fg
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F730
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

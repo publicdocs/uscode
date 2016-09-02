@@ -23,7 +23,7 @@
 
     (b) In any action or proceeding to enforce or charge a violation of a provision of this subchapter, the court, in its discretion, may allow the prevailing party, other than the United States, a reasonable attorney’s fee as part of the costs.
 
-([Pub. L. 93–112, title V, § 505][/us/pl/93/112/s505], as added [Pub. L. 95–602, title I, § 120(a)][/us/pl/95/602/s120/a], Nov. 6, 1978, [92 Stat. 2982][/us/stat/92/2982]; amended [Pub. L. 111–2, § 5(c)(1)][/us/pl/111/2/s5/c/1], Jan. 29, 2009, [123 Stat. 6][/us/stat/123/6].)
+([Pub. L. 93–112, title V][/us/pl/93/112/tV], § 505, as added [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 120(a), Nov. 6, 1978, [92 Stat. 2982][/us/stat/92/2982]; amended [Pub. L. 111–2][/us/pl/111/2], § 5(c)(1), Jan. 29, 2009, [123 Stat. 6][/us/stat/123/6].)
 
  __References in Text__ 
 
@@ -31,9 +31,9 @@
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1). [Pub. L. 111–2, § 5(c)(1)(A)][/us/pl/111/2/s5/c/1/A], inserted “(and the application of section 706(e)(3) ([42 U.S.C. 2000e–5(e)(3)][/us/usc/t42/s2000e–5/e/3]) to claims of discrimination in compensation)” after “([42 U.S.C. 2000e–5(f)][/us/usc/t42/s2000e–5/f] through (k))”.
+    2009—Subsec. (a)(1). [Pub. L. 111–2][/us/pl/111/2], § 5(c)(1)(A), inserted “(and the application of section 706(e)(3) ([42 U.S.C. 2000e–5(e)(3)][/us/usc/t42/s2000e–5/e/3]) to claims of discrimination in compensation)” after “([42 U.S.C. 2000e–5(f)][/us/usc/t42/s2000e–5/f] through (k))”.
 
-    Subsec. (a)(2). [Pub. L. 111–2, § 5(c)(1)(B)][/us/pl/111/2/s5/c/1/B], inserted “([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.) (and in subsection (e)(3) of section 706 of such Act ([42 U.S.C. 2000e–5][/us/usc/t42/s2000e–5]), applied to claims of discrimination in compensation)” after “1964”.
+    Subsec. (a)(2). [Pub. L. 111–2][/us/pl/111/2], § 5(c)(1)(B), inserted “([42 U.S.C. 2000d][/us/usc/t42/s2000d] et seq.) (and in subsection (e)(3) of section 706 of such Act ([42 U.S.C. 2000e–5][/us/usc/t42/s2000e–5]), applied to claims of discrimination in compensation)” after “1964”.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -53,18 +53,18 @@
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/93/112/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs505
-[/us/pl/95/602/s120/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs120%2Fa
+[/us/pl/93/112/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtV
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2982]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2982
-[/us/pl/111/2/s5/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs5%2Fc%2F1
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/stat/123/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F6
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
-[/us/pl/111/2/s5/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs5%2Fc%2F1%2FA
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/usc/t42/s2000e–5/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935%2Fe%2F3
 [/us/usc/t42/s2000e–5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935%2Ff
-[/us/pl/111/2/s5/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs5%2Fc%2F1%2FB
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
 [/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2

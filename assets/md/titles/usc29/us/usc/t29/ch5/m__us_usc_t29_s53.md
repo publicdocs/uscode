@@ -17,7 +17,7 @@
 
     The word “person” or “persons” wherever used in [section 52 of this title][/us/usc/t29/s52] shall be deemed to include corporations and associations existing under or authorized by the laws of either the United States, the laws of any of the Territories, the laws of any State, or the laws of any foreign country.
 
-([Oct. 15, 1914, ch. 323, § 1][/us/act/1914-10-15/ch323/s1], [38 Stat. 730][/us/stat/38/730].)
+([Oct. 15, 1914, ch. 323][/us/act/1914-10-15/ch323], § 1, [38 Stat. 730][/us/stat/38/730].)
 
  __Codification__ 
 
@@ -31,7 +31,7 @@
 ----------
 
 [/us/usc/t29/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs52
-[/us/act/1914-10-15/ch323/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323%2Fs1
+[/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/stat/38/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F730
 [/us/act/1914-10-15/ch323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-10-15%2Fch323
 [/us/pl/94/435/s305/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F435%2Fs305%2Fb

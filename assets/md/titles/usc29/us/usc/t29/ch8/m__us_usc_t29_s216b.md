@@ -17,7 +17,7 @@
 
     No employer shall be subject to any liability or punishment under this chapter (in any action or proceeding commenced prior to or on or after January 24, 1950), on account of the failure of said employer to pay an employee compensation for any period of overtime work performed prior to July 20, 1949, if the compensation paid prior to July 20, 1949, for such work was at least equal to the compensation which would have been payable for such work had subsections (d)(6), (7) and (g) of [section 207 of this title][/us/usc/t29/s207] been in effect at the time of such payment.
 
-([Oct. 26, 1949, ch. 736, § 16(e)][/us/act/1949-10-26/ch736/s16/e], [63 Stat. 920][/us/stat/63/920].)
+([Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 16(e), [63 Stat. 920][/us/stat/63/920].)
 
  __Codification__ 
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
-[/us/act/1949-10-26/ch736/s16/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs16%2Fe
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F920
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
 

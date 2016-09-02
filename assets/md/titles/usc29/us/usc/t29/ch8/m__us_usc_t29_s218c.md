@@ -39,7 +39,7 @@
 
             Nothing in this section shall be deemed to diminish the rights, privileges, or remedies of any employee under any Federal or State law or under any collective bargaining agreement. The rights and remedies in this section may not be waived by any agreement, policy, form, or condition of employment.
 
-([June 25, 1938, ch. 676, § 18C][/us/act/1938-06-25/ch676/s18C], as added [Pub. L. 111–148, title I, § 1558][/us/pl/111/148/s1558], Mar. 23, 2010, [124 Stat. 261][/us/stat/124/261].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 18C, as added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1558, Mar. 23, 2010, [124 Stat. 261][/us/stat/124/261].)
 
  __References in Text__ 
 
@@ -59,8 +59,8 @@
 [/us/usc/t26/s36B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs36B
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
 [/us/usc/t15/s2087/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs2087%2Fb
-[/us/act/1938-06-25/ch676/s18C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs18C
-[/us/pl/111/148/s1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1558
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F261
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071
 [/us/usc/t42/s18071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18071

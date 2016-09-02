@@ -223,59 +223,59 @@
 
             For purposes of this section, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o) of [section 414 of title 26][/us/usc/t26/s414].
 
-([Pub. L. 93–406, title I, § 302][/us/pl/93/406/s302], as added and amended [Pub. L. 109–280, title I, § 101(b)][/us/pl/109/280/s101/b], title II, § 202(d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 885; [Pub. L. 110–458, title I][/us/pl/110/458], §§ 101(a)(1), 102(b)(1)(A), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5100; [Pub. L. 113–97, title I, § 102(b)(1)][/us/pl/113/97/s102/b/1], (2), Apr. 7, 2014, [128 Stat. 1115][/us/stat/128/1115].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 302, as added and amended [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 101(b), title II, § 202(d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 885; [Pub. L. 110–458, title I][/us/pl/110/458/tI], §§ 101(a)(1), 102(b)(1)(A), Dec. 23, 2008, [122 Stat. 5093][/us/stat/122/5093], 5100; [Pub. L. 113–97, title I][/us/pl/113/97/tI], § 102(b)(1), (2), Apr. 7, 2014, [128 Stat. 1115][/us/stat/128/1115].)
 
  __Prior Provisions__ 
 
-    A prior section 1082, [Pub. L. 93–406, title I, § 302][/us/pl/93/406/s302], Sept. 2, 1974, [88 Stat. 869][/us/stat/88/869]; [Pub. L. 96–364, title III, § 304(b)][/us/pl/96/364/s304/b], Sept. 26, 1980, [94 Stat. 1293][/us/stat/94/1293]; [Pub. L. 100–203, title IX][/us/pl/100/203], §§ 9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, [101 Stat. 1330–332][/us/stat/101/1330-332], 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; [Pub. L. 100–647, title II, § 2005(a)(2)(B)][/us/pl/100/647/s2005/a/2/B], (d)(2), Nov. 10, 1988, [102 Stat. 3610][/us/stat/102/3610], 3612; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, [103 Stat. 2435–2439][/us/stat/103/2435-2439], 2445, 2447, 2449, 2450; [Pub. L. 101–508, title XII, § 12012(c)][/us/pl/101/508/s12012/c], Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, [108 Stat. 5024–5031][/us/stat/108/5024-5031], 5033–5036, 5041; [Pub. L. 105–34, title XV, § 1521(b)][/us/pl/105/34/s1521/b], (c)(2), (3)(B), title XVI, § 1604(b)(2)(B), Aug. 5, 1997, [111 Stat. 1069][/us/stat/111/1069], 1070, 1097; [Pub. L. 107–16, title VI][/us/pl/107/16], §§ 651(b), 661(b), June 7, 2001, [115 Stat. 129][/us/stat/115/129], 142; [Pub. L. 107–147, title IV][/us/pl/107/147], §§ 405(b), 411(v)(2), Mar. 9, 2002, [116 Stat. 42][/us/stat/116/42], 52; [Pub. L. 108–218, title I][/us/pl/108/218], §§ 101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, [118 Stat. 596][/us/stat/118/596], 597, 599, 604; [Pub. L. 109–135, title IV, § 412(x)(2)][/us/pl/109/135/s412/x/2], Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 109–280, title III, § 301(a)(1)][/us/pl/109/280/s301/a/1], (2), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], related to minimum funding standards, prior to repeal by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], (d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 789, applicable to plan years beginning after 2007.
+    A prior section 1082, [Pub. L. 93–406, title I][/us/pl/93/406/tI], § 302, Sept. 2, 1974, [88 Stat. 869][/us/stat/88/869]; [Pub. L. 96–364, title III][/us/pl/96/364/tIII], § 304(b), Sept. 26, 1980, [94 Stat. 1293][/us/stat/94/1293]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], §§ 9301(b), 9303(b), (d)(2), 9304(a)(2), (b)(2), (e)(2), 9305(b)(2), 9307(a)(2), (b)(2), (e)(2), Dec. 22, 1987, [101 Stat. 1330–332][/us/stat/101/1330-332], 1330–337, 1330–342, 1330–344, 1330–346, 1330–349, 1330–352, 1330–356 to 1330–358; [Pub. L. 100–647, title II][/us/pl/100/647/tII], § 2005(a)(2)(B), (d)(2), Nov. 10, 1988, [102 Stat. 3610][/us/stat/102/3610], 3612; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7881(a)(1)(B), (2)(B), (3)(B), (4)(B), (5)(B), (6)(B), (b)(1)(B), (2)(B), (3)(B), (4)(B), (6)(B)(i), (d)(1)(B), (2), (4), 7891(a)(1), 7892(b), 7894(d)(2), (5), Dec. 19, 1989, [103 Stat. 2435–2439][/us/stat/103/2435-2439], 2445, 2447, 2449, 2450; [Pub. L. 101–508, title XII][/us/pl/101/508/tXII], § 12012(c), Nov. 5, 1990, [104 Stat. 1388–572][/us/stat/104/1388-572]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], §§ 761(a)(1)–(9)(A), (10), 762(a), 763(a), 764(a), 768(b), Dec. 8, 1994, [108 Stat. 5024–5031][/us/stat/108/5024-5031], 5033–5036, 5041; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1521(b), (c)(2), (3)(B), title XVI, § 1604(b)(2)(B), Aug. 5, 1997, [111 Stat. 1069][/us/stat/111/1069], 1070, 1097; [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], §§ 651(b), 661(b), June 7, 2001, [115 Stat. 129][/us/stat/115/129], 142; [Pub. L. 107–147, title IV][/us/pl/107/147/tIV], §§ 405(b), 411(v)(2), Mar. 9, 2002, [116 Stat. 42][/us/stat/116/42], 52; [Pub. L. 108–218, title I][/us/pl/108/218/tI], §§ 101(a)(1)–(3), 102(a), 104(a)(1), Apr. 10, 2004, [118 Stat. 596][/us/stat/118/596], 597, 599, 604; [Pub. L. 109–135, title IV][/us/pl/109/135/tIV], § 412(x)(2), Dec. 21, 2005, [119 Stat. 2638][/us/stat/119/2638]; [Pub. L. 109–280, title III][/us/pl/109/280/tIII], § 301(a)(1), (2), Aug. 17, 2006, [120 Stat. 919][/us/stat/120/919], related to minimum funding standards, prior to repeal by [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 101(a), (d), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784], 789, applicable to plan years beginning after 2007.
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2)(A). [Pub. L. 113–97, § 102(b)(2)(M)][/us/pl/113/97/s102/b/2/M], substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
+    2014—Subsec. (a)(2)(A). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(M), substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
 
-    Subsec. (a)(2)(D). [Pub. L. 113–97, § 102(b)(1)][/us/pl/113/97/s102/b/1], added subpar. (D).
+    Subsec. (a)(2)(D). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(1), added subpar. (D).
 
-    Subsec. (b)(1). [Pub. L. 113–97, § 102(b)(2)(B)][/us/pl/113/97/s102/b/2/B], substituted “[section 1083(j) of this title][/us/usc/t29/s1083/j] or under [section 1085a(f) of this title][/us/usc/t29/s1085a/f]” for “[section 1083(j) of this title][/us/usc/t29/s1083/j]”.
+    Subsec. (b)(1). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(B), substituted “[section 1083(j) of this title][/us/usc/t29/s1083/j] or under [section 1085a(f) of this title][/us/usc/t29/s1085a/f]” for “[section 1083(j) of this title][/us/usc/t29/s1083/j]”.
 
-    Subsec. (c)(1)(A)(i). [Pub. L. 113–97, § 102(b)(2)(A)][/us/pl/113/97/s102/b/2/A], substituted “multiemployer plan or a CSEC plan, 10 percent” for “multiemployer plan, 10 percent”.
+    Subsec. (c)(1)(A)(i). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(A), substituted “multiemployer plan or a CSEC plan, 10 percent” for “multiemployer plan, 10 percent”.
 
-    Subsec. (c)(1)(B)(i). [Pub. L. 113–97, § 102(b)(2)(M)][/us/pl/113/97/s102/b/2/M], substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
+    Subsec. (c)(1)(B)(i). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(M), substituted “single-employer plan (other than a CSEC plan)” for “single-employer plan”.
 
-    Subsec. (c)(1)(B)(iii). [Pub. L. 113–97, § 102(b)(2)(C)][/us/pl/113/97/s102/b/2/C], added cl. (iii).
+    Subsec. (c)(1)(B)(iii). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(C), added cl. (iii).
 
-    Subsec. (c)(4)(A)(i). [Pub. L. 113–97, § 102(b)(2)(D)][/us/pl/113/97/s102/b/2/D], substituted “under paragraph (1) or for granting an extension under [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “under paragraph (1)”.
+    Subsec. (c)(4)(A)(i). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(D), substituted “under paragraph (1) or for granting an extension under [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “under paragraph (1)”.
 
-    Subsec. (c)(4)(B). [Pub. L. 113–97, § 102(b)(2)(E)][/us/pl/113/97/s102/b/2/E], substituted “waiver under this subsection or an extension under 1085a(d) of this title” for “waiver under this subsection” in introductory provisions.
+    Subsec. (c)(4)(B). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(E), substituted “waiver under this subsection or an extension under 1085a(d) of this title” for “waiver under this subsection” in introductory provisions.
 
-    Subsec. (c)(4)(B)(i)(I). [Pub. L. 113–97, § 102(b)(2)(F)][/us/pl/113/97/s102/b/2/F], substituted “waiver, modification, or extension” for “waiver or modification”.
+    Subsec. (c)(4)(B)(i)(I). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(F), substituted “waiver, modification, or extension” for “waiver or modification”.
 
-    Subsec. (c)(4)(C). [Pub. L. 113–97, § 102(b)(2)(G)][/us/pl/113/97/s102/b/2/G], substituted “waivers or extensions” for “waivers” in heading.
+    Subsec. (c)(4)(C). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(G), substituted “waivers or extensions” for “waivers” in heading.
 
-    Subsec. (c)(4)(C)(i)(I). [Pub. L. 113–97, § 102(b)(2)(I)][/us/pl/113/97/s102/b/2/I], substituted “or the accumulated funding deficiency under [section 1085a of this title][/us/usc/t29/s1085a], whichever is applicable,” for “and” at end.
+    Subsec. (c)(4)(C)(i)(I). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(I), substituted “or the accumulated funding deficiency under [section 1085a of this title][/us/usc/t29/s1085a], whichever is applicable,” for “and” at end.
 
-    Subsec. (c)(4)(C)(i)(II). [Pub. L. 113–97, § 102(b)(2)(J)][/us/pl/113/97/s102/b/2/J], substituted “section 1083(e)(2) or 1085a(b)(2)(C) of this title, whichever is applicable, and” for “[section 1083(e)(2) of this title][/us/usc/t29/s1083/e/2],”.
+    Subsec. (c)(4)(C)(i)(II). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(J), substituted “section 1083(e)(2) or 1085a(b)(2)(C) of this title, whichever is applicable, and” for “[section 1083(e)(2) of this title][/us/usc/t29/s1083/e/2],”.
 
-    Subsec. (c)(4)(C)(i)(III). [Pub. L. 113–97, § 102(b)(2)(K)][/us/pl/113/97/s102/b/2/K], added subcl. (III).
+    Subsec. (c)(4)(C)(i)(III). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(K), added subcl. (III).
 
-    Subsec. (c)(4)(C)(ii). [Pub. L. 113–97, § 102(b)(2)(L)][/us/pl/113/97/s102/b/2/L], substituted “for waivers or extensions with respect to” for “for waivers of”.
+    Subsec. (c)(4)(C)(ii). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(L), substituted “for waivers or extensions with respect to” for “for waivers of”.
 
-    [Pub. L. 113–97, § 102(b)(2)(G)][/us/pl/113/97/s102/b/2/G], substituted “waivers or extensions” for “waivers” in heading.
+    [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(G), substituted “waivers or extensions” for “waivers” in heading.
 
-    Subsec. (c)(7)(A). [Pub. L. 113–97, § 102(b)(2)(H)][/us/pl/113/97/s102/b/2/H], substituted “[section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “[section 1084(d) of this title][/us/usc/t29/s1084/d]”.
+    Subsec. (c)(7)(A). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(H), substituted “[section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “[section 1084(d) of this title][/us/usc/t29/s1084/d]”.
 
-    Subsec. (d)(2). [Pub. L. 113–97, § 102(b)(2)(H)][/us/pl/113/97/s102/b/2/H], substituted “[section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “[section 1084(d) of this title][/us/usc/t29/s1084/d]” in concluding provisions.
+    Subsec. (d)(2). [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(H), substituted “[section 1084(d) of this title][/us/usc/t29/s1084/d] or [section 1085a(d) of this title][/us/usc/t29/s1085a/d]” for “[section 1084(d) of this title][/us/usc/t29/s1084/d]” in concluding provisions.
 
-    [Pub. L. 113–97, § 102(b)(2)(A)][/us/pl/113/97/s102/b/2/A], substituted “multiemployer plan or a CSEC plan” for “multiemployer plan” in concluding provisions.
+    [Pub. L. 113–97][/us/pl/113/97], § 102(b)(2)(A), substituted “multiemployer plan or a CSEC plan” for “multiemployer plan” in concluding provisions.
 
-    2008—Subsec. (b)(3). [Pub. L. 110–458, § 102(b)(1)(A)][/us/pl/110/458/s102/b/1/A], substituted “the plan sponsor adopts” for “the plan adopts”.
+    2008—Subsec. (b)(3). [Pub. L. 110–458][/us/pl/110/458], § 102(b)(1)(A), substituted “the plan sponsor adopts” for “the plan adopts”.
 
-    Subsec. (c)(1)(A)(i). [Pub. L. 110–458, § 101(a)(1)(A)][/us/pl/110/458/s101/a/1/A], substituted “the plan are” for “the plan is”.
+    Subsec. (c)(1)(A)(i). [Pub. L. 110–458][/us/pl/110/458], § 101(a)(1)(A), substituted “the plan are” for “the plan is”.
 
-    Subsec. (c)(7)(A). [Pub. L. 110–458, § 101(a)(1)(B)][/us/pl/110/458/s101/a/1/B], inserted “which reduces the accrued benefit of any participant” after “subsection (d)(2)”.
+    Subsec. (c)(7)(A). [Pub. L. 110–458][/us/pl/110/458], § 101(a)(1)(B), inserted “which reduces the accrued benefit of any participant” after “subsection (d)(2)”.
 
-    Subsec. (d)(1). [Pub. L. 110–458, § 101(a)(1)(C)][/us/pl/110/458/s101/a/1/C], struck out “, the valuation date,” after “funding method”.
+    Subsec. (d)(1). [Pub. L. 110–458][/us/pl/110/458], § 101(a)(1)(C), struck out “, the valuation date,” after “funding method”.
 
-    2006—Subsec. (b)(3). [Pub. L. 109–280, § 202(d)][/us/pl/109/280/s202/d], added par. (3).
+    2006—Subsec. (b)(3). [Pub. L. 109–280][/us/pl/109/280], § 202(d), added par. (3).
 
  __Effective Date of 2014 Amendment__ 
 
@@ -287,7 +287,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title II, § 202(f)][/us/pl/109/280/s202/f], Aug. 17, 2006, [120 Stat. 885][/us/stat/120/885], provided that:
+[Pub. L. 109–280, title II][/us/pl/109/280/tII], § 202(f), Aug. 17, 2006, [120 Stat. 885][/us/stat/120/885], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -309,7 +309,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 109–280, title I, § 101(d)][/us/pl/109/280/s101/d], Aug. 17, 2006, [120 Stat. 789][/us/stat/120/789], provided that: 
+[Pub. L. 109–280, title I][/us/pl/109/280/tI], § 101(d), Aug. 17, 2006, [120 Stat. 789][/us/stat/120/789], provided that: 
 
 > “The amendments made by this section \[enacting this section and repealing former [section 1082 of this title][/us/usc/t29/s1082] and sections 1083 to 1085, 1085a, 1085b, and 1086 of this title\] shall apply to plan years beginning after 2007.”
 
@@ -363,76 +363,76 @@
 [/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
 [/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
 [/us/usc/t26/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414
-[/us/pl/93/406/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs302
-[/us/pl/109/280/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fb
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
-[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5093
-[/us/pl/113/97/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F1
+[/us/pl/113/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtI
 [/us/stat/128/1115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1115
-[/us/pl/93/406/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs302
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F869
-[/us/pl/96/364/s304/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs304%2Fb
+[/us/pl/96/364/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIII
 [/us/stat/94/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1293
-[/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-332
-[/us/pl/100/647/s2005/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2Fs2005%2Fa%2F2%2FB
+[/us/pl/100/647/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F647%2FtII
 [/us/stat/102/3610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3610
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2435-2439]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2435-2439
-[/us/pl/101/508/s12012/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12012%2Fc
+[/us/pl/101/508/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXII
 [/us/stat/104/1388-572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-572
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5024-5031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5024-5031
-[/us/pl/105/34/s1521/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1521%2Fb
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1069
-[/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F129
-[/us/pl/107/147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147
+[/us/pl/107/147/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F147%2FtIV
 [/us/stat/116/42]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F42
-[/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
+[/us/pl/108/218/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtI
 [/us/stat/118/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F596
-[/us/pl/109/135/s412/x/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2Fs412%2Fx%2F2
+[/us/pl/109/135/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F135%2FtIV
 [/us/stat/119/2638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2638
-[/us/pl/109/280/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs301%2Fa%2F1
+[/us/pl/109/280/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIII
 [/us/stat/120/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F919
-[/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
-[/us/pl/113/97/s102/b/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FM
-[/us/pl/113/97/s102/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F1
-[/us/pl/113/97/s102/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FB
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/usc/t29/s1083/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj
 [/us/usc/t29/s1085a/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Ff
 [/us/usc/t29/s1083/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fj
-[/us/pl/113/97/s102/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FA
-[/us/pl/113/97/s102/b/2/M]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FM
-[/us/pl/113/97/s102/b/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FC
-[/us/pl/113/97/s102/b/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FD
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
-[/us/pl/113/97/s102/b/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FE
-[/us/pl/113/97/s102/b/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FF
-[/us/pl/113/97/s102/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FG
-[/us/pl/113/97/s102/b/2/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FI
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/usc/t29/s1085a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a
-[/us/pl/113/97/s102/b/2/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FJ
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/usc/t29/s1083/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fe%2F2
-[/us/pl/113/97/s102/b/2/K]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FK
-[/us/pl/113/97/s102/b/2/L]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FL
-[/us/pl/113/97/s102/b/2/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FG
-[/us/pl/113/97/s102/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FH
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
 [/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
 [/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
-[/us/pl/113/97/s102/b/2/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FH
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
 [/us/usc/t29/s1085a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a%2Fd
 [/us/usc/t29/s1084/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084%2Fd
-[/us/pl/113/97/s102/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F2%2FA
-[/us/pl/110/458/s102/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs102%2Fb%2F1%2FA
-[/us/pl/110/458/s101/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FA
-[/us/pl/110/458/s101/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FB
-[/us/pl/110/458/s101/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs101%2Fa%2F1%2FC
-[/us/pl/109/280/s202/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Fd
+[/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
@@ -440,12 +440,12 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/109/280/s202/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs202%2Ff
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/885]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F885
 [/us/usc/t29/s1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085
 [/us/usc/t29/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1132
 [/us/usc/t29/s1085/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085%2Fb%2F3
-[/us/pl/109/280/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fd
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F789
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
 [/us/usc/t29/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1031

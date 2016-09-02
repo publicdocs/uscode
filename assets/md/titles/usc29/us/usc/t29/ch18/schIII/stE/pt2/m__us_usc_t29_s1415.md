@@ -117,11 +117,11 @@
 
         (2) “certified change of collective bargaining representative” means a change of collective bargaining representative certified under the Labor-Management Relations Act, 1947 \[[29 U.S.C. 141][/us/usc/t29/s141] et seq.\], or the Railway Labor Act \[[45 U.S.C. 151][/us/usc/t45/s151] et seq.\].
 
-([Pub. L. 93–406, title IV, § 4235][/us/pl/93/406/s4235], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1247][/us/stat/94/1247]; amended [Pub. L. 98–369, div. A, title V, § 558(b)(1)(A)][/us/pl/98/369/s558/b/1/A], July 18, 1984, [98 Stat. 899][/us/stat/98/899].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4235, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1247][/us/stat/94/1247]; amended [Pub. L. 98–369, div. A, title V][/us/pl/98/369/dA/tV], § 558(b)(1)(A), July 18, 1984, [98 Stat. 899][/us/stat/98/899].)
 
  __References in Text__ 
 
-    [Section 1421 of this title][/us/usc/t29/s1421], referred to in subsec. (e)(1), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+    [Section 1421 of this title][/us/usc/t29/s1421], referred to in subsec. (e)(1), was repealed by [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 108(a)(1), Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
     The Labor-Management Relations Act, 1947, referred to in subsec. (g)(2), is [act June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], [61 Stat. 136][/us/stat/61/136], as amended, which is classified principally to chapter 7 (§ 141 et seq.) of this title. For complete classification of this Act to the Code, see [section 141 of this title][/us/usc/t29/s141] and Tables.
 
@@ -147,13 +147,13 @@
 [/us/usc/t29/s1391/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1391%2Fe
 [/us/usc/t29/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs141
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/93/406/s4235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4235
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1247]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1247
-[/us/pl/98/369/s558/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs558%2Fb%2F1%2FA
+[/us/pl/98/369/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtV
 [/us/stat/98/899]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F899
 [/us/usc/t29/s1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1421
-[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F136

@@ -53,7 +53,7 @@
 
         any salary which would be otherwise due such person by virtue of such office or position, shall be placed in escrow by the individual employer or organization responsible for payment of such salary. Payment of such salary into escrow shall continue for the duration of the appeal or for the period of time during which such salary would be otherwise due, whichever period is shorter. Upon the final reversal of such person’s conviction on appeal, the amounts in escrow shall be paid to such person. Upon the final sustaining of such person’s conviction on appeal, the amounts in escrow shall be returned to the individual employer or organization responsible for payments of those amounts. Upon final reversal of such person’s conviction, such person shall no longer be barred by this statute  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be “section”. </sup></sup>  from assuming any position from which such person was previously barred.
 
-([Pub. L. 86–257, title V, § 504][/us/pl/86/257/s504], Sept. 14, 1959, [73 Stat. 536][/us/stat/73/536]; [Pub. L. 98–473, title II][/us/pl/98/473], §§ 229, 803, Oct. 12, 1984, [98 Stat. 2031][/us/stat/98/2031], 2133; [Pub. L. 100–182, § 15(a)][/us/pl/100/182/s15/a], Dec. 7, 1987, [101 Stat. 1269][/us/stat/101/1269].)
+([Pub. L. 86–257, title V][/us/pl/86/257/tV], § 504, Sept. 14, 1959, [73 Stat. 536][/us/stat/73/536]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], §§ 229, 803, Oct. 12, 1984, [98 Stat. 2031][/us/stat/98/2031], 2133; [Pub. L. 100–182][/us/pl/100/182], § 15(a), Dec. 7, 1987, [101 Stat. 1269][/us/stat/101/1269].)
 
  __Constitutionality__ 
 
@@ -63,15 +63,15 @@ For information regarding constitutionality of certain provisions of [section 50
 
     1987—Subsec. (a). [Pub. L. 100–182][/us/pl/100/182], in concluding provisions, substituted “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, the United States district court for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements under [section 994(a) of title 28][/us/usc/t28/s994/a],” for “the United States Parole Commission”, “court” and “court’s” for “Commission” and “Commission’s”, respectively, and “a hearing” for “an administrative hearing”.
 
-    1984—Subsec. (a). [Pub. L. 98–473, § 229][/us/pl/98/473/s229], which directed substitution of “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, on motion of the United States Department of Justice, the district court of the United States for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements issued pursuant to [section 994(a) of title 28][/us/usc/t28/s994/a],” for “the Board of Parole of the United States Justice Department”, “court” and “court’s” for “Board” and “Board’s”, respectively, and “a” for “an administrative”, was (except for the last substitution) incapable of execution in view of the previous amendment by [section 803(a) of Pub. L. 98–473][/us/pl/98/473/s803/a] which became effective prior to the effective date of the amendment by section 229. See note below.
+    1984—Subsec. (a). [Pub. L. 98–473][/us/pl/98/473], § 229, which directed substitution of “if the offense is a Federal offense, the sentencing judge or, if the offense is a State or local offense, on motion of the United States Department of Justice, the district court of the United States for the district in which the offense was committed, pursuant to sentencing guidelines and policy statements issued pursuant to [section 994(a) of title 28][/us/usc/t28/s994/a],” for “the Board of Parole of the United States Justice Department”, “court” and “court’s” for “Board” and “Board’s”, respectively, and “a” for “an administrative”, was (except for the last substitution) incapable of execution in view of the previous amendment by [section 803(a) of Pub. L. 98–473][/us/pl/98/473/s803/a] which became effective prior to the effective date of the amendment by section 229. See note below.
 
-    [Pub. L. 98–473, § 803(a)][/us/pl/98/473/s803/a], in amending provisions after “or a violation of subchapter III or IV of the chapter” generally, inserted provisions relating to abuse or misuse of employment in a labor organization or employee benefit plan, substituted “conspiracy to commit any such crimes or attempt to commit any such crimes, or a crime in which any of the foregoing crimes is an element” for “conspiracy to commit any such crimes”, added par. (1), redesignated former par. (1) as (2) and in par. (2) as so redesignated substituted “employee, or representative in any capacity of any labor organization” for “or other employee (other than as an employee performing exclusively clerical or custodial duties) of any labor organization, or”, redesignated former par. (2) as (3) and in par. (3) as so redesignated inserted “or advisor” after “consultant”, struck out “(other than as an employee performing exclusively clerical or custodial duties)” after “employee”, and inserted “or in a position having specific collective bargaining authority or direct responsibility in the area of labor-management relations in any corporation or association engaged in an industry or activity affecting commerce, or”, added pars. (4) and (5), struck out “or for five years after the termination of his membership in the Communist Party,” substituted “the period of thirteen years” for “five years”, inserted “whichever is later, unless the sentencing court on the motion of the person convicted sets a lesser period of at least three years after such conviction or after the end of such imprisonment, whichever is later, or”, substituted in cl. (B) “United States Parole Commission” for “Board of Parole of the United States Department of Justice”, and in the provisions following cl. (B) substituted “Commission” and “Commission’s” for “Board” and “Board’s”, respectively, inserted provision of notice to the Secretary of Labor, and substituted “No person shall knowingly hire, retain, employ, or otherwise place any other person to serve in any capacity in violation of this subsection” for “No labor organization or officer thereof shall knowingly permit any person to assume or hold any office or paid position in violation of this subsection”.
+    [Pub. L. 98–473][/us/pl/98/473], § 803(a), in amending provisions after “or a violation of subchapter III or IV of the chapter” generally, inserted provisions relating to abuse or misuse of employment in a labor organization or employee benefit plan, substituted “conspiracy to commit any such crimes or attempt to commit any such crimes, or a crime in which any of the foregoing crimes is an element” for “conspiracy to commit any such crimes”, added par. (1), redesignated former par. (1) as (2) and in par. (2) as so redesignated substituted “employee, or representative in any capacity of any labor organization” for “or other employee (other than as an employee performing exclusively clerical or custodial duties) of any labor organization, or”, redesignated former par. (2) as (3) and in par. (3) as so redesignated inserted “or advisor” after “consultant”, struck out “(other than as an employee performing exclusively clerical or custodial duties)” after “employee”, and inserted “or in a position having specific collective bargaining authority or direct responsibility in the area of labor-management relations in any corporation or association engaged in an industry or activity affecting commerce, or”, added pars. (4) and (5), struck out “or for five years after the termination of his membership in the Communist Party,” substituted “the period of thirteen years” for “five years”, inserted “whichever is later, unless the sentencing court on the motion of the person convicted sets a lesser period of at least three years after such conviction or after the end of such imprisonment, whichever is later, or”, substituted in cl. (B) “United States Parole Commission” for “Board of Parole of the United States Department of Justice”, and in the provisions following cl. (B) substituted “Commission” and “Commission’s” for “Board” and “Board’s”, respectively, inserted provision of notice to the Secretary of Labor, and substituted “No person shall knowingly hire, retain, employ, or otherwise place any other person to serve in any capacity in violation of this subsection” for “No labor organization or officer thereof shall knowingly permit any person to assume or hold any office or paid position in violation of this subsection”.
 
-    Subsec. (b). [Pub. L. 98–473, § 803(b)][/us/pl/98/473/s803/b], amended subsec. (b) generally, substituting “five years” for “one year”.
+    Subsec. (b). [Pub. L. 98–473][/us/pl/98/473], § 803(b), amended subsec. (b) generally, substituting “five years” for “one year”.
 
-    Subsec. (c). [Pub. L. 98–473, § 803(c)][/us/pl/98/473/s803/c], designated existing provisions as par. (1), substituted provisions defining conviction as from date of judgment of trial court, regardless of appeal, for former provisions defining it as from date of judgment of trial court or date of final sustaining of judgment on appeal, whichever is later, regardless of whether such conviction occurred before or after Sept. 14, 1959, and added par. (2).
+    Subsec. (c). [Pub. L. 98–473][/us/pl/98/473], § 803(c), designated existing provisions as par. (1), substituted provisions defining conviction as from date of judgment of trial court, regardless of appeal, for former provisions defining it as from date of judgment of trial court or date of final sustaining of judgment on appeal, whichever is later, regardless of whether such conviction occurred before or after Sept. 14, 1959, and added par. (2).
 
-    Subsec. (d). [Pub. L. 98–473, § 803(d)][/us/pl/98/473/s803/d], added subsec. (d).
+    Subsec. (d). [Pub. L. 98–473][/us/pl/98/473], § 803(d), added subsec. (d).
 
  __Effective Date of 1987 Amendment__ 
 
@@ -81,7 +81,7 @@ For information regarding constitutionality of certain provisions of [section 50
 
     Amendment by [section 229 of Pub. L. 98–473][/us/pl/98/473/s229] effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such amendment, see [section 235(a)(1) of Pub. L. 98–473][/us/pl/98/473/s235/a/1], set out as an Effective Date note under [section 3551 of Title 18][/us/usc/t18/s3551], Crimes and Criminal Procedure.
 
-[Pub. L. 98–473, title II, § 804][/us/pl/98/473/s804], Oct. 12, 1984, [98 Stat. 2134][/us/stat/98/2134], provided that:
+[Pub. L. 98–473, title II][/us/pl/98/473/tII], § 804, Oct. 12, 1984, [98 Stat. 2134][/us/stat/98/2134], provided that:
 
 >     “(a) The amendments made by section 802 \[amending [section 1111 of this title][/us/usc/t29/s1111]\] and section 803 \[amending this section\] of this title shall take effect with respect to any judgment of conviction entered by the trial court after the date of enactment of this title \[Oct. 12, 1984\], except that that portion of such amendments relating to the commencement of the period of disability shall apply to any judgment of conviction entered prior to the date of enactment of this title if a right of appeal or an appeal from such judgment is pending on the date of enactment of this title.
 
@@ -95,29 +95,29 @@ For information regarding constitutionality of certain provisions of [section 50
 ----------
 
 [/us/usc/t28/s994/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa
-[/us/pl/86/257/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs504
+[/us/pl/86/257/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtV
 [/us/stat/73/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F536
-[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2031
-[/us/pl/100/182/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs15%2Fa
+[/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/stat/101/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1269
 [/us/pl/86/257/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs504
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/usc/t28/s994/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa
-[/us/pl/98/473/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs229
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t28/s994/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs994%2Fa
 [/us/pl/98/473/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs803%2Fa
-[/us/pl/98/473/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs803%2Fa
-[/us/pl/98/473/s803/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs803%2Fb
-[/us/pl/98/473/s803/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs803%2Fc
-[/us/pl/98/473/s803/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs803%2Fd
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
+[/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/pl/100/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182
 [/us/pl/100/182/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F182%2Fs26
 [/us/usc/t18/s3006A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3006A
 [/us/pl/98/473/s229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs229
 [/us/pl/98/473/s235/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs235%2Fa%2F1
 [/us/usc/t18/s3551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs3551
-[/us/pl/98/473/s804]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs804
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2134
 [/us/usc/t29/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1111
 [/us/usc/t29/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1111

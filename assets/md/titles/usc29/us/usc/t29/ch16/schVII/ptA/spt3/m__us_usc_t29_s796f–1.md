@@ -105,29 +105,29 @@
 
             The Administrator shall terminate all funds under this section to such center 90 days after the date of such notification unless the center submits a plan to achieve compliance within 90 days of such notification and such plan is approved by the Administrator.
 
-([Pub. L. 93–112, title VII, § 722][/us/pl/93/112/s722], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1229][/us/stat/112/1229]; amended [Pub. L. 113–128, title IV, § 482(a)][/us/pl/113/128/s482/a], July 22, 2014, [128 Stat. 1692][/us/stat/128/1692].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 722, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1229][/us/stat/112/1229]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 482(a), July 22, 2014, [128 Stat. 1692][/us/stat/128/1692].)
 
  __Prior Provisions__ 
 
-    A prior section 796f–1, [Pub. L. 93–112, title VII, § 722][/us/pl/93/112/s722], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4456][/us/stat/106/4456]; amended [Pub. L. 103–73, title I, § 114(i)][/us/pl/103/73/s114/i], Aug. 11, 1993, [107 Stat. 731][/us/stat/107/731], related to grants to centers for independent living in States in which Federal funding exceeds State funding, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796f–1, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 722, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4456][/us/stat/106/4456]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(i), Aug. 11, 1993, [107 Stat. 731][/us/stat/107/731], related to grants to centers for independent living in States in which Federal funding exceeds State funding, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsecs. (a), (b). [Pub. L. 113–128, § 482(a)(1)][/us/pl/113/128/s482/a/1], substituted “Administrator” for “Commissioner” wherever appearing.
+    2014—Subsecs. (a), (b). [Pub. L. 113–128][/us/pl/113/128], § 482(a)(1), substituted “Administrator” for “Commissioner” wherever appearing.
 
-    Subsec. (c). [Pub. L. 113–128, § 482(a)(1)][/us/pl/113/128/s482/a/1], (2), substituted “Administrator” for “Commissioner” in two places, “grants for a fiscal year” for “grants”, and “for the preceding fiscal year” for “by September 30, 1997”.
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 482(a)(1), (2), substituted “Administrator” for “Commissioner” in two places, “grants for a fiscal year” for “grants”, and “for the preceding fiscal year” for “by September 30, 1997”.
 
-    Subsec. (d)(1). [Pub. L. 113–128, § 482(a)(3)(A)][/us/pl/113/128/s482/a/3/A], substituted “Administrator” for “Commissioner” and “region. The Administrator’s determination of the most qualified applicant shall be consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.” for “region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.”
+    Subsec. (d)(1). [Pub. L. 113–128][/us/pl/113/128], § 482(a)(3)(A), substituted “Administrator” for “Commissioner” and “region. The Administrator’s determination of the most qualified applicant shall be consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.” for “region, consistent with the provisions in the State plan setting forth the design of the State for establishing a statewide network of centers for independent living.”
 
-    Subsec. (d)(2). [Pub. L. 113–128, § 482(a)(3)(B)(i)][/us/pl/113/128/s482/a/3/B/i], substituted “Administrator” for “Commissioner” in introductory provisions.
+    Subsec. (d)(2). [Pub. L. 113–128][/us/pl/113/128], § 482(a)(3)(B)(i), substituted “Administrator” for “Commissioner” in introductory provisions.
 
-    Subsec. (d)(2)(A). [Pub. L. 113–128, § 482(a)(3)(B)(ii)][/us/pl/113/128/s482/a/3/B/ii], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “shall consider comments regarding the application, if any, by the Statewide Independent Living Council in the State in which the applicant is located;”.
+    Subsec. (d)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 482(a)(3)(B)(ii), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “shall consider comments regarding the application, if any, by the Statewide Independent Living Council in the State in which the applicant is located;”.
 
-    Subsecs. (e), (g). [Pub. L. 113–128, § 482(a)(4)][/us/pl/113/128/s482/a/4], which directed substitution of “Administrator.” for “Commissioner” wherever appearing, was executed by substituting “Administrator” for “Commissioner” wherever appearing, to reflect the probable intent of Congress.
+    Subsecs. (e), (g). [Pub. L. 113–128][/us/pl/113/128], § 482(a)(4), which directed substitution of “Administrator.” for “Commissioner” wherever appearing, was executed by substituting “Administrator” for “Commissioner” wherever appearing, to reflect the probable intent of Congress.
 
  __Grants to Centers for Independent Living in States in Which Federal Funding Exceeds State Funding__ 
 
-[Pub. L. 111–213, § 2(a)][/us/pl/111/213/s2/a], July 29, 2010, [124 Stat. 2343][/us/stat/124/2343], provided that:
+[Pub. L. 111–213][/us/pl/111/213], § 2(a), July 29, 2010, [124 Stat. 2343][/us/stat/124/2343], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -171,24 +171,24 @@
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
-[/us/pl/93/112/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs722
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1229
-[/us/pl/113/128/s482/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fa
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1692
-[/us/pl/93/112/s722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs722
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4456
-[/us/pl/103/73/s114/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fi
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F731
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s482/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fa%2F1
-[/us/pl/113/128/s482/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fa%2F1
-[/us/pl/113/128/s482/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fa%2F3%2FA
-[/us/pl/113/128/s482/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fa%2F3%2FB%2Fi
-[/us/pl/113/128/s482/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fa%2F3%2FB%2Fii
-[/us/pl/113/128/s482/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fa%2F4
-[/us/pl/111/213/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F213%2Fs2%2Fa
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/111/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F213
 [/us/stat/124/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2343
 [/us/usc/t29/s796f–1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%931%2Fc
 [/us/usc/t29/s796f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f

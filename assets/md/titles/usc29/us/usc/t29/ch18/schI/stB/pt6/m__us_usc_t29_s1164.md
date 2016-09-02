@@ -49,7 +49,7 @@
 
         The determination of any applicable premium shall be made for a period of 12 months and shall be made before the beginning of such period.
 
-([Pub. L. 93–406, title I, § 604][/us/pl/93/406/s604], as added [Pub. L. 99–272, title X, § 10002(a)][/us/pl/99/272/s10002/a], Apr. 7, 1986, [100 Stat. 229][/us/stat/100/229].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 604, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10002(a), Apr. 7, 1986, [100 Stat. 229][/us/stat/100/229].)
 
 ----------
 
@@ -58,8 +58,8 @@
 ----------
 ----------
 
-[/us/pl/93/406/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs604
-[/us/pl/99/272/s10002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10002%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F229
 
 

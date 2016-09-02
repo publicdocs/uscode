@@ -17,7 +17,7 @@
 
     Every labor organization shall inform its members concerning the provisions of this chapter.
 
-([Pub. L. 86–257, title I, § 105][/us/pl/86/257/s105], Sept. 14, 1959, [73 Stat. 523][/us/stat/73/523].)
+([Pub. L. 86–257, title I][/us/pl/86/257/tI], § 105, Sept. 14, 1959, [73 Stat. 523][/us/stat/73/523].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs105
+[/us/pl/86/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtI
 [/us/stat/73/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F523
 
 

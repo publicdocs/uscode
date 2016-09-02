@@ -37,7 +37,7 @@
 
         (2) Funds obligated for any program year may be expended by the State during that program year and the two succeeding program years and no amount shall be deobligated on account of a rate of expenditure which is consistent with the program plan.
 
-([June 6, 1933, ch. 49, § 5][/us/act/1933-06-06/ch49/s5], [48 Stat. 114][/us/stat/48/114]; [May 10, 1935, ch. 102][/us/act/1935-05-10/ch102], [49 Stat. 216][/us/stat/49/216]; [June 29, 1938, ch. 816][/us/act/1938-06-29/ch816], [52 Stat. 1244][/us/stat/52/1244]; [Sept. 8, 1950, ch. 933, § 2][/us/act/1950-09-08/ch933/s2], [64 Stat. 822][/us/stat/64/822]; [Aug. 1, 1956, ch. 852, § 17(b)][/us/act/1956-08-01/ch852/s17/b], [70 Stat. 910][/us/stat/70/910]; [Pub. L. 86–778, title V, § 543(c)][/us/pl/86/778/s543/c], Sept. 13, 1960, [74 Stat. 987][/us/stat/74/987]; [Pub. L. 94–566, title I, § 116(c)][/us/pl/94/566/s116/c], Oct. 20, 1976, [90 Stat. 2672][/us/stat/90/2672]; [Pub. L. 97–35, title VII, § 702][/us/pl/97/35/s702], Aug. 13, 1981, [95 Stat. 521][/us/stat/95/521]; [Pub. L. 97–300, title VI, § 601(b)][/us/pl/97/300/s601/b], formerly title V, § 501(b), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(b), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 105–220, title III, § 304][/us/pl/105/220/s304], Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081].)
+([June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 5, [48 Stat. 114][/us/stat/48/114]; [May 10, 1935, ch. 102][/us/act/1935-05-10/ch102], [49 Stat. 216][/us/stat/49/216]; [June 29, 1938, ch. 816][/us/act/1938-06-29/ch816], [52 Stat. 1244][/us/stat/52/1244]; [Sept. 8, 1950, ch. 933][/us/act/1950-09-08/ch933], § 2, [64 Stat. 822][/us/stat/64/822]; [Aug. 1, 1956, ch. 852][/us/act/1956-08-01/ch852], § 17(b), [70 Stat. 910][/us/stat/70/910]; [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 543(c), Sept. 13, 1960, [74 Stat. 987][/us/stat/74/987]; [Pub. L. 94–566, title I][/us/pl/94/566/tI], § 116(c), Oct. 20, 1976, [90 Stat. 2672][/us/stat/90/2672]; [Pub. L. 97–35, title VII][/us/pl/97/35/tVII], § 702, Aug. 13, 1981, [95 Stat. 521][/us/stat/95/521]; [Pub. L. 97–300, title VI][/us/pl/97/300/tVI], § 601(b), formerly title V, § 501(b), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(b), [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 712(a)(1), (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 304, Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081].)
 
  __References in Text__ 
 
@@ -83,7 +83,7 @@
 
  __Effective Date of 1960 Amendment__ 
 
-    [Pub. L. 86–778, title V, § 543(c)][/us/pl/86/778/s543/c], Sept. 13, 1960, [74 Stat. 987][/us/stat/74/987], provided that the amendment made by that section is effective on and after Jan. 1, 1961.
+    [Pub. L. 86–778, title V][/us/pl/86/778/tV], § 543(c), Sept. 13, 1960, [74 Stat. 987][/us/stat/74/987], provided that the amendment made by that section is effective on and after Jan. 1, 1961.
 
  __Suspension of State Appropriation Requirements Until__  __July 1, 1952__ 
 
@@ -103,27 +103,27 @@
 [/us/usc/t26/s3301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3301
 [/us/usc/t42/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs503
 [/us/usc/t29/s49e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49e
-[/us/act/1933-06-06/ch49/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs5
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F114
 [/us/act/1935-05-10/ch102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-05-10%2Fch102
 [/us/stat/49/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F216
 [/us/act/1938-06-29/ch816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-29%2Fch816
 [/us/stat/52/1244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1244
-[/us/act/1950-09-08/ch933/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch933%2Fs2
+[/us/act/1950-09-08/ch933]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-08%2Fch933
 [/us/stat/64/822]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F822
-[/us/act/1956-08-01/ch852/s17/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852%2Fs17%2Fb
+[/us/act/1956-08-01/ch852]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-01%2Fch852
 [/us/stat/70/910]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F910
-[/us/pl/86/778/s543/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs543%2Fc
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F987
-[/us/pl/94/566/s116/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Fc
+[/us/pl/94/566/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2FtI
 [/us/stat/90/2672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F2672
-[/us/pl/97/35/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs702
+[/us/pl/97/35/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2FtVII
 [/us/stat/95/521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F521
-[/us/pl/97/300/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fb
+[/us/pl/97/300/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtVI
 [/us/stat/96/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1392
-[/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
-[/us/pl/105/220/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs304
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1081
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F454
@@ -144,7 +144,7 @@
 [/us/usc/t26/s3304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304%2Fa
 [/us/pl/94/566/s116/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F566%2Fs116%2Ff%2F1
 [/us/usc/t26/s3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs3304
-[/us/pl/86/778/s543/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2Fs543%2Fc
+[/us/pl/86/778/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F778%2FtV
 [/us/stat/74/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F987
 [/us/act/1950-09-06/ch896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-06%2Fch896
 [/us/stat/64/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F643

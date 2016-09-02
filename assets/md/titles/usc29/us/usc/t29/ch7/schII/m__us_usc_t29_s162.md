@@ -17,7 +17,7 @@
 
     Any person who shall willfully resist, prevent, impede, or interfere with any member of the Board or any of its agents or agencies in the performance of duties pursuant to this subchapter shall be punished by a fine of not more than $5,000 or by imprisonment for not more than one year, or both.
 
-([July 5, 1935, ch. 372, § 12][/us/act/1935-07-05/ch372/s12], [49 Stat. 456][/us/stat/49/456]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 12, [49 Stat. 456][/us/stat/49/456]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1935-07-05/ch372/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs12
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F456
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F151

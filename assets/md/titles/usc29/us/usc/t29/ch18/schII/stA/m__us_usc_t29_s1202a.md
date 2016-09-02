@@ -33,7 +33,7 @@
 
         (5) assuring that any tax, penalty, or sanction that is imposed by reason of a compliance failure is not excessive and bears a reasonable relationship to the nature, extent, and severity of the failure.
 
-([Pub. L. 109–280, title XI, § 1101][/us/pl/109/280/s1101], Aug. 17, 2006, [120 Stat. 1055][/us/stat/120/1055].)
+([Pub. L. 109–280, title XI][/us/pl/109/280/tXI], § 1101, Aug. 17, 2006, [120 Stat. 1055][/us/stat/120/1055].)
 
  __Codification__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/109/280/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs1101
+[/us/pl/109/280/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtXI
 [/us/stat/120/1055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1055
 
 

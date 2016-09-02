@@ -11,11 +11,11 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_ch19_schIV_ptD.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1737.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1736)
+[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1731...1735.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1737.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1736)
 
-## § 1736. Repealed. [Pub. L. 102–367, title IV, § 403(a)(4)][/us/pl/102/367/s403/a/4], Sept. 7, 1992, [106 Stat. 1084][/us/stat/106/1084]
+## § 1736. Repealed. [Pub. L. 102–367, title IV][/us/pl/102/367/tIV], § 403(a)(4), Sept. 7, 1992, [106 Stat. 1084][/us/stat/106/1084]
 
-    Section, [Pub. L. 97–300, title IV, § 456][/us/pl/97/300/s456], as added [Pub. L. 99–496, § 14(a)][/us/pl/99/496/s14/a], Oct. 16, 1986, [100 Stat. 1265][/us/stat/100/1265], related to projects designed to serve populations with multiple barriers to employment.
+    Section, [Pub. L. 97–300, title IV][/us/pl/97/300/tIV], § 456, as added [Pub. L. 99–496][/us/pl/99/496], § 14(a), Oct. 16, 1986, [100 Stat. 1265][/us/stat/100/1265], related to projects designed to serve populations with multiple barriers to employment.
 
  __Effective Date of Repeal__ 
 
@@ -23,15 +23,15 @@
 
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_ch19_schIV_ptD.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1737.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1736)
+[Previous](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1731...1735.md) | [Next](./../../../../../..//us/usc/t29/ch19/schIV/ptD/m__us_usc_t29_s1737.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1736)
 
 ----------
 ----------
 
-[/us/pl/102/367/s403/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs403%2Fa%2F4
+[/us/pl/102/367/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2FtIV
 [/us/stat/106/1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1084
-[/us/pl/97/300/s456]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs456
-[/us/pl/99/496/s14/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F496%2Fs14%2Fa
+[/us/pl/97/300/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtIV
+[/us/pl/99/496]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F496
 [/us/stat/100/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1265
 [/us/pl/102/367/s701/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs701%2Fa
 [/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501

@@ -17,11 +17,11 @@
 
     For purposes of this part, the term “older individual who is blind” means an individual age 55 or older whose significant visual impairment makes competitive employment extremely difficult to attain but for whom independent living goals are feasible.
 
-([Pub. L. 93–112, title VII, § 751][/us/pl/93/112/s751], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1237][/us/stat/112/1237].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 751, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1237][/us/stat/112/1237].)
 
  __Prior Provisions__ 
 
-    A prior section 796j, [Pub. L. 93–112, title VII, § 751][/us/pl/93/112/s751], as added [Pub. L. 102–569, title VII, § 703(a)][/us/pl/102/569/s703/a], Oct. 29, 1992, [106 Stat. 4464][/us/stat/106/4464], defined “older individual who is blind”, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796j, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 751, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 703(a), Oct. 29, 1992, [106 Stat. 4464][/us/stat/106/4464], defined “older individual who is blind”, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/pl/93/112/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs751
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1237
-[/us/pl/93/112/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs751
-[/us/pl/102/569/s703/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs703%2Fa
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4464]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4464
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 

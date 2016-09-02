@@ -33,7 +33,7 @@
 
         The court shall have jurisdiction to make and enter a decree affirming, modifying, or setting aside the order of the Secretary in whole or in part. The judgment of the court regarding the order shall be final, subject to certiorari review by the Supreme Court as provided in [section 1254(1) of title 28][/us/usc/t28/s1254/1].
 
-([Pub. L. 113–128, title I, § 187][/us/pl/113/128/s187], July 22, 2014, [128 Stat. 1597][/us/stat/128/1597].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 187, July 22, 2014, [128 Stat. 1597][/us/stat/128/1597].)
 
  __Effective Date__ 
 
@@ -51,7 +51,7 @@
 [/us/usc/t29/s3244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3244
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254%2F1
-[/us/pl/113/128/s187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs187
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1597
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

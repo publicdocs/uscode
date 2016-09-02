@@ -443,13 +443,13 @@
 
                 (xi) the level of customer satisfaction with the services provided.
 
-([Pub. L. 105–394, § 4][/us/pl/105/394/s4], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1714][/us/stat/118/1714]; amended [Pub. L. 113–128, title V, § 512(b)(2)][/us/pl/113/128/s512/b/2], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].)
+([Pub. L. 105–394][/us/pl/105/394], § 4, as added [Pub. L. 108–364][/us/pl/108/364], § 2, Oct. 25, 2004, [118 Stat. 1714][/us/stat/118/1714]; amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(b)(2), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705]; [Pub. L. 114–95, title IX][/us/pl/114/95/tIX], § 9215(m), Dec. 10, 2015, [129 Stat. 2168][/us/stat/129/2168].)
 
  __References in Text__ 
 
-    [Section 3011 of this title][/us/usc/t29/s3011], referred to in subsec. (b)(2)(A), was omitted in the general amendment of this chapter by [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707].
+    [Section 3011 of this title][/us/usc/t29/s3011], referred to in subsec. (b)(2)(A), was omitted in the general amendment of this chapter by [Pub. L. 108–364][/us/pl/108/364], § 2, Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707].
 
-    Subchapter III of this chapter, referred to in subsec. (b)(2)(D), which consisted of sections 3051 to 3058 of this title, was omitted in the general amendment of this chapter by [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707].
+    Subchapter III of this chapter, referred to in subsec. (b)(2)(D), which consisted of sections 3051 to 3058 of this title, was omitted in the general amendment of this chapter by [Pub. L. 108–364][/us/pl/108/364], § 2, Oct. 25, 2004, [118 Stat. 1707][/us/stat/118/1707].
 
     The Rehabilitation Act of 1973, referred to in subsecs. (c)(2)(B)(i)(III) and (d)(3)(A)(ii), is [Pub. L. 93–112][/us/pl/93/112], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], as amended. Title I of the Act is classified generally to subchapter I (§ 720 et seq.) of chapter 16 of this title. Part C of title VII of the Act is classified generally to subpart 3 (§ 796f et seq.) of part A of subchapter VII of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 701 of this title][/us/usc/t29/s701] and Tables.
 
@@ -461,11 +461,17 @@
 
  __Amendments__ 
 
-    2014—Subsec. (c)(2)(B)(i)(IV). [Pub. L. 113–128, § 512(b)(2)(A)][/us/pl/113/128/s512/b/2/A], substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821][/us/usc/t29/s2821])”.
+    2015—Subsec. (c)(2)(B)(i)(V). [Pub. L. 114–95][/us/pl/114/95] made technical amendment to reference in original act which appears in text as reference to [section 7801 of title 20][/us/usc/t20/s7801].
 
-    Subsec. (e)(2)(D)(i). [Pub. L. 113–128, § 512(b)(2)(B)(i)][/us/pl/113/128/s512/b/2/B/i], substituted “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,” for “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]),”.
+    2014—Subsec. (c)(2)(B)(i)(IV). [Pub. L. 113–128][/us/pl/113/128], § 512(b)(2)(A), substituted “a representative of the State workforce development board established under section 101 of the Workforce Innovation and Opportunity Act” for “a representative of the State workforce investment board established under section 111 of the Workforce Investment Act of 1998 ([29 U.S.C. 2821][/us/usc/t29/s2821])”.
 
-    Subsec. (e)(3)(B)(ii)(I)(aa). [Pub. L. 113–128, § 512(b)(2)(B)(ii)][/us/pl/113/128/s512/b/2/B/ii], substituted “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,” for “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.),”.
+    Subsec. (e)(2)(D)(i). [Pub. L. 113–128][/us/pl/113/128], § 512(b)(2)(B)(i), substituted “such as one-stop partners, as defined in section 3 of the Workforce Innovation and Opportunity Act,” for “such as one-stop partners, as defined in section 101 of the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801]),”.
+
+    Subsec. (e)(3)(B)(ii)(I)(aa). [Pub. L. 113–128][/us/pl/113/128], § 512(b)(2)(B)(ii), substituted “with entities in the statewide and local workforce development systems established under the Workforce Innovation and Opportunity Act,” for “with entities in the statewide and local workforce investment systems established under the Workforce Investment Act of 1998 ([29 U.S.C. 2801][/us/usc/t29/s2801] et seq.),”.
+
+ __Effective Date of 2015 Amendment__ 
+
+    Amendment by [Pub. L. 114–95][/us/pl/114/95] effective Dec. 10, 2015, except with respect to certain noncompetitive programs and competitive programs, see [section 5 of Pub. L. 114–95][/us/pl/114/95/s5], set out as a note under [section 6301 of Title 20][/us/usc/t20/s6301], Education.
 
  __Effective Date of 2014 Amendment__ 
 
@@ -494,15 +500,17 @@
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t29/s3005/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3005%2Fb
-[/us/pl/105/394/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs4
-[/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1714
-[/us/pl/113/128/s512/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F2
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
+[/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
+[/us/stat/129/2168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2168
 [/us/usc/t29/s3011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3011
-[/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1707
-[/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1707
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
@@ -516,12 +524,17 @@
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/113/128/s512/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F2%2FA
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2821
-[/us/pl/113/128/s512/b/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F2%2FB%2Fi
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
-[/us/pl/113/128/s512/b/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fb%2F2%2FB%2Fii
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
+[/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
+[/us/pl/114/95/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2Fs5
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

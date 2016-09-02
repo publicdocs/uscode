@@ -31,7 +31,7 @@
 
         The Secretary is authorized and directed to cooperate with the Congress and its appropriate committees, subcommittees, and staff in supplying data and any other information, and personnel and services, required by the Congress in any study, examination, or report by the Congress relating to pension benefit plans established or maintained by States or their political subdivisions.
 
-([Pub. L. 93–406, title I, § 513][/us/pl/93/406/s513], Sept. 2, 1974, [88 Stat. 896][/us/stat/88/896].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 513, Sept. 2, 1974, [88 Stat. 896][/us/stat/88/896].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs513
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F896
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001

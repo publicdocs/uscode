@@ -17,7 +17,7 @@
 
     In order to promote the establishment and maintenance of a national system of public employment service offices, the United States Employment Service shall be established and maintained within the Department of Labor.
 
-([June 6, 1933, ch. 49, § 1][/us/act/1933-06-06/ch49/s1], [48 Stat. 113][/us/stat/48/113]; [Pub. L. 97–300, title VI, § 601(a)][/us/pl/97/300/s601/a], formerly title V, § 501(a), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(a), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 113–128, title III, § 301][/us/pl/113/128/s301], July 22, 2014, [128 Stat. 1624][/us/stat/128/1624].)
+([June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 1, [48 Stat. 113][/us/stat/48/113]; [Pub. L. 97–300, title VI][/us/pl/97/300/tVI], § 601(a), formerly title V, § 501(a), Oct. 13, 1982, [96 Stat. 1392][/us/stat/96/1392]; renumbered title VI, § 601(a), [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 712(a)(1), (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 113–128, title III][/us/pl/113/128/tIII], § 301, July 22, 2014, [128 Stat. 1624][/us/stat/128/1624].)
 
  __Amendments__ 
 
@@ -35,7 +35,7 @@
 
  __Short Title__ 
 
-[Act June 6, 1933, ch. 49, § 16][/us/act/1933-06-06/ch49/s16], formerly § 15, as added by [Pub. L. 97–300, title VI, § 601(h)][/us/pl/97/300/s601/h], formerly title V, § 501(h), Oct. 13, 1982, [96 Stat. 1397][/us/stat/96/1397]; renumbered title VI, § 601(h), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; renumbered § 16, [Pub. L. 105–220, title III, § 309(1)][/us/pl/105/220/s309/1], Aug. 7, 1998, [112 Stat. 1082][/us/stat/112/1082], provided that: 
+[Act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 16, formerly § 15, as added by [Pub. L. 97–300, title VI][/us/pl/97/300/tVI], § 601(h), formerly title V, § 501(h), Oct. 13, 1982, [96 Stat. 1397][/us/stat/96/1397]; renumbered title VI, § 601(h), [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 712(a)(1), (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; renumbered § 16, [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 309(1), Aug. 7, 1998, [112 Stat. 1082][/us/stat/112/1082], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Wagner-Peyser Act’.”
 
@@ -49,7 +49,7 @@
 
     Section 1 of Reorg. Plan No. 2 of 1949, also provided that functions transferred by this section shall be performed by Secretary of Labor or, subject to his direction and control, by such officers, agencies, and employees of Department of Labor as he shall designate.
 
-[Act June 16, 1948, ch. 472][/us/act/1948-06-16/ch472], title I, [62 Stat. 446][/us/stat/62/446], provided in part that: 
+[Act June 16, 1948, ch. 472, title I][/us/act/1948-06-16/ch472/tI], [62 Stat. 446][/us/stat/62/446], provided in part that: 
 
 > “Effective July 1, 1948, the United States Employment Service, including its functions under title IV of the Servicemen’s Readjustment Act of 1944, is transferred to the Federal Security Agency, and on and after such date the functions of the Secretary of Labor with respect to the United States Employment Service are transferred to the Federal Security Administrator and shall be performed by him or, under his direction and control, by such officers and employees of the Federal Security Agency as he may designate. There are transferred to the Federal Security Agency, for use in connection with the functions transferred by the provisions of this paragraph, the personnel, property, and records of the Department of Labor related to the United States Employment Service, and the balances of such prior appropriations, allocations, and other funds available to the United States Employment Service as the Director of the Bureau of the Budget may determine. The provisions of section 9 of the Reorganization Act of 1945 (Public Law 263, Seventy-ninth Congress) shall apply to the transfer effected by this paragraph in like manner as if such transfer were a reorganization of the agencies and functions concerned under the provisions of that Act.”
 
@@ -63,19 +63,19 @@
 
  __Administration of Manpower in District of Columbia__ 
 
-[Pub. L. 93–198, title II, § 204(a)][/us/pl/93/198/s204/a], Dec. 24, 1973, [87 Stat. 783][/us/stat/87/783], provided that: 
+[Pub. L. 93–198, title II][/us/pl/93/198/tII], § 204(a), Dec. 24, 1973, [87 Stat. 783][/us/stat/87/783], provided that: 
 
 > “All functions of the Secretary of Labor (hereafter in this section referred to as the Secretary) under section 3 of the Act \[[section 49b of this title][/us/usc/t29/s49b]\] entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 ([29 U.S.C. 49–49k][/us/usc/t29/s49–49k]), with respect to the maintenance of a public employment service for the District \[of Columbia\], are transferred \[effective July 1, 1974\] to the Commissioner \[of the District of Columbia established under Reorg. Plan No. 3 of 1967 (now the Mayor)\]. After the effective date of this transfer \[July 1, 1974\], the Secretary shall maintain with the District the same relationship with respect to a public employment service in the District, including the financing of such service, as he has with the States (with respect to a public employment service in the States) generally.”
 
  __Recruitment and Distribution of Farm Labor__ 
 
-    [Act July 3, 1948, ch. 823, § 1][/us/act/1948-07-03/ch823/s1], [62 Stat. 1238][/us/stat/62/1238], authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
+    [Act July 3, 1948, ch. 823][/us/act/1948-07-03/ch823], § 1, [62 Stat. 1238][/us/stat/62/1238], authorized the Federal Security Administrator to recruit foreign workers within the Western Hemisphere and workers in Puerto Rico for temporary agricultural employment in the continental United States and to direct, supervise, coordinate, and provide for the transportation of those workers from such places of recruitment to and between places of employment within the continental United States and return to the places of recruitment not later than June 30, 1949.
 
-    [Act July 3, 1948, ch. 823, § 2][/us/act/1948-07-03/ch823/s2], [62 Stat. 1239][/us/stat/62/1239], appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
+    [Act July 3, 1948, ch. 823][/us/act/1948-07-03/ch823], § 2, [62 Stat. 1239][/us/stat/62/1239], appropriated $2,500,000, for fiscal year ending June 30, 1949, to carry out the purposes of section 1 of act July 3, 1948.
 
  __Farm Placement Service__ 
 
-[Act Apr. 28, 1947, ch. 43, § 2][/us/act/1947-04-28/ch43/s2], [61 Stat. 55][/us/stat/61/55], provided:
+[Act Apr. 28, 1947, ch. 43][/us/act/1947-04-28/ch43], § 2, [61 Stat. 55][/us/stat/61/55], provided:
 
 >     “(a) The provisions of the Farm Labor Supply Appropriation Act, 1944 (Public Law 229, Seventy-eighth Congress, second session, title I \[former sections 1351 to 1355 of the former Appendix to Title 50, War and National Defense\]), as amended and supplemented, and as extended by this Act, shall not be construed to limit or interfere with any of the functions of the United States Employment Service or State public employment services with respect to maintaining a farm placement service as authorized under the Act of June 6, 1933 ([48 Stat. 113][/us/stat/48/113]) \[this chapter\].
 
@@ -92,13 +92,13 @@
 ----------
 ----------
 
-[/us/act/1933-06-06/ch49/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs1
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
-[/us/pl/97/300/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fa
+[/us/pl/97/300/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtVI
 [/us/stat/96/1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1392
-[/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
-[/us/pl/113/128/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs301
+[/us/pl/113/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIII
 [/us/stat/128/1624]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1624
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
@@ -108,28 +108,28 @@
 [/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
 [/us/pl/97/300/s181/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs181%2Fi
 [/us/usc/t29/s1591/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1591%2Fi
-[/us/act/1933-06-06/ch49/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs16
-[/us/pl/97/300/s601/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fh
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
+[/us/pl/97/300/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtVI
 [/us/stat/96/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1397
-[/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
-[/us/pl/105/220/s309/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs309%2F1
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1082
 [/us/usc/t42/s4728/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4728%2Fa%2F2%2FA
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 [/us/stat/63/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F1065
-[/us/act/1948-06-16/ch472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch472
+[/us/act/1948-06-16/ch472/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-16%2Fch472%2FtI
 [/us/stat/62/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F446
 [/us/stat/53/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1424
-[/us/pl/93/198/s204/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs204%2Fa
+[/us/pl/93/198/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtII
 [/us/stat/87/783]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F783
 [/us/usc/t29/s49b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49b
 [/us/usc/t29/s49–49k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49%E2%80%9349k
-[/us/act/1948-07-03/ch823/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch823%2Fs1
+[/us/act/1948-07-03/ch823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch823
 [/us/stat/62/1238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1238
-[/us/act/1948-07-03/ch823/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch823%2Fs2
+[/us/act/1948-07-03/ch823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-07-03%2Fch823
 [/us/stat/62/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F1239
-[/us/act/1947-04-28/ch43/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-28%2Fch43%2Fs2
+[/us/act/1947-04-28/ch43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-04-28%2Fch43
 [/us/stat/61/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F55
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113
 [/us/stat/58/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F295

@@ -37,7 +37,7 @@
 
         The preceding provisions of this section shall be effective on April 7, 1986.
 
-([Pub. L. 99–272, title XI, § 11016(d)][/us/pl/99/272/s11016/d], Apr. 7, 1986, [100 Stat. 275][/us/stat/100/275].)
+([Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11016(d), Apr. 7, 1986, [100 Stat. 275][/us/stat/100/275].)
 
  __Codification__ 
 
@@ -51,7 +51,7 @@
 ----------
 
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
-[/us/pl/99/272/s11016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fd
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F275
 
 

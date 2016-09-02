@@ -29,29 +29,29 @@
 
     (6) it is in the national interest to continue to provide support for the Center, and it is a proper function of the Federal Government to be the primary source of such support.
 
-([Pub. L. 98–221, title II, § 202][/us/pl/98/221/s202], Feb. 22, 1984, [98 Stat. 32][/us/stat/98/32]; [Pub. L. 102–569, title IX][/us/pl/102/569], §§ 901, 908(a), (c)(1), Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482], 4485, 4486.)
+([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 202, Feb. 22, 1984, [98 Stat. 32][/us/stat/98/32]; [Pub. L. 102–569, title IX][/us/pl/102/569/tIX], §§ 901, 908(a), (c)(1), Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482], 4485, 4486.)
 
  __Prior Provisions__ 
 
-    Provisions for the establishment, operation, and funding of the Helen Keller National Center for Deaf-Blind Youths and Adults, similar to those comprising this chapter, were contained in [section 777c of this title][/us/usc/t29/s777c] prior to the repeal of that section and the enactment of this chapter by [Pub. L. 98–221][/us/pl/98/221]. Prior thereto provisions similar to those comprising this chapter and authorizing appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for the establishment of the Helen Keller National Center for Deaf-Blind Youths and Adults were contained in former [section 305 of Pub. L. 93–112][/us/pl/93/112/s305], title III, Sept. 26, 1973, [87 Stat. 383][/us/stat/87/383], as amended by [Pub. L. 93–516, title I, § 107][/us/pl/93/516/s107], Dec. 7, 1974, [88 Stat. 1619][/us/stat/88/1619]; [Pub. L. 93–651, title I, § 107][/us/pl/93/651/s107], Nov. 21, 1974, [89 Stat. 2–4][/us/stat/89/2-4]; [Pub. L. 94–230][/us/pl/94/230], §§ 7, 11(b)(10), Mar. 15, 1976, [90 Stat. 212][/us/stat/90/212], 213; [Pub. L. 94–288][/us/pl/94/288], §§ 1, 2, May 21, 1976, [90 Stat. 520][/us/stat/90/520], which was classified to [section 775 of this title][/us/usc/t29/s775]. [Section 109(1) of Pub. L. 95–602][/us/pl/95/602/s109/1] redesignated former section 305 as [section 313 of Pub. L. 93–112][/us/pl/93/112/s313]. [Section 313 of Pub. L. 93–112][/us/pl/93/112/s313], as amended generally by [section 116(2) of Pub. L. 95–602][/us/pl/95/602/s116/2], was classified to [section 777c of this title][/us/usc/t29/s777c].
+    Provisions for the establishment, operation, and funding of the Helen Keller National Center for Deaf-Blind Youths and Adults, similar to those comprising this chapter, were contained in [section 777c of this title][/us/usc/t29/s777c] prior to the repeal of that section and the enactment of this chapter by [Pub. L. 98–221][/us/pl/98/221]. Prior thereto provisions similar to those comprising this chapter and authorizing appropriations for fiscal years ending June 30, 1974, June 30, 1975, June 30, 1976, Sept. 30, 1977, and Sept. 30, 1978, for the establishment of the Helen Keller National Center for Deaf-Blind Youths and Adults were contained in former [section 305 of Pub. L. 93–112][/us/pl/93/112/s305], title III, Sept. 26, 1973, [87 Stat. 383][/us/stat/87/383], as amended by [Pub. L. 93–516, title I][/us/pl/93/516/tI], § 107, Dec. 7, 1974, [88 Stat. 1619][/us/stat/88/1619]; [Pub. L. 93–651, title I][/us/pl/93/651/tI], § 107, Nov. 21, 1974, [89 Stat. 2–4][/us/stat/89/2-4]; [Pub. L. 94–230][/us/pl/94/230], §§ 7, 11(b)(10), Mar. 15, 1976, [90 Stat. 212][/us/stat/90/212], 213; [Pub. L. 94–288][/us/pl/94/288], §§ 1, 2, May 21, 1976, [90 Stat. 520][/us/stat/90/520], which was classified to [section 775 of this title][/us/usc/t29/s775]. [Section 109(1) of Pub. L. 95–602][/us/pl/95/602/s109/1] redesignated former section 305 as [section 313 of Pub. L. 93–112][/us/pl/93/112/s313]. [Section 313 of Pub. L. 93–112][/us/pl/93/112/s313], as amended generally by [section 116(2) of Pub. L. 95–602][/us/pl/95/602/s116/2], was classified to [section 777c of this title][/us/usc/t29/s777c].
 
     Prior similar provisions were also contained in former [section 42a of this title][/us/usc/t29/s42a].
 
  __Amendments__ 
 
-    1992—Par. (1). [Pub. L. 102–569, § 908(a)][/us/pl/102/569/s908/a], substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
+    1992—Par. (1). [Pub. L. 102–569][/us/pl/102/569], § 908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
 
     Par. (2). [Pub. L. 102–569][/us/pl/102/569], §§ 901(1), 908(a), inserted “, the rapidly increasing number of older persons many of whom are experiencing significant losses of both vision and hearing,” after “1960’s” and substituted “individuals who are deaf-blind” for “deaf-blind individuals” in two places.
 
-    Par. (3). [Pub. L. 102–569, § 908(a)][/us/pl/102/569/s908/a], substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
+    Par. (3). [Pub. L. 102–569][/us/pl/102/569], § 908(a), substituted “individuals who are deaf-blind” for “deaf-blind individuals”.
 
-    Par. (4). [Pub. L. 102–569, § 908(a)][/us/pl/102/569/s908/a], (c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” and “individuals who are deaf-blind” for “deaf-blind individuals”.
+    Par. (4). [Pub. L. 102–569][/us/pl/102/569], § 908(a), (c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” and “individuals who are deaf-blind” for “deaf-blind individuals”.
 
-    Par. (5). [Pub. L. 102–569, § 901(2)][/us/pl/102/569/s901/2], substituted “made a substantial investment” for “invested approximately $10,000,000”.
+    Par. (5). [Pub. L. 102–569][/us/pl/102/569], § 901(2), substituted “made a substantial investment” for “invested approximately $10,000,000”.
 
  __Short Title__ 
 
-[Pub. L. 98–221, title II, § 201][/us/pl/98/221/s201], Feb. 22, 1984, [98 Stat. 32][/us/stat/98/32], provided that: 
+[Pub. L. 98–221, title II][/us/pl/98/221/tII], § 201, Feb. 22, 1984, [98 Stat. 32][/us/stat/98/32], provided that: 
 
 > “This title \[enacting this chapter, amending [section 777 of this title][/us/usc/t29/s777], and repealing [section 777c of this title][/us/usc/t29/s777c]\] may be cited as the ‘Helen Keller National Center Act’.”
 
@@ -62,17 +62,17 @@
 ----------
 ----------
 
-[/us/pl/98/221/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs202
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
 [/us/stat/98/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F32
-[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIX
 [/us/stat/106/4482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4482
 [/us/usc/t29/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs777c
 [/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
 [/us/pl/93/112/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs305
 [/us/stat/87/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F383
-[/us/pl/93/516/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs107
+[/us/pl/93/516/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtI
 [/us/stat/88/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1619
-[/us/pl/93/651/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs107
+[/us/pl/93/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtI
 [/us/stat/89/2-4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-4
 [/us/pl/94/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230
 [/us/stat/90/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F212
@@ -85,12 +85,12 @@
 [/us/pl/95/602/s116/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs116%2F2
 [/us/usc/t29/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs777c
 [/us/usc/t29/s42a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs42a
-[/us/pl/102/569/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs908%2Fa
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
-[/us/pl/102/569/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs908%2Fa
-[/us/pl/102/569/s908/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs908%2Fa
-[/us/pl/102/569/s901/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs901%2F2
-[/us/pl/98/221/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs201
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
 [/us/stat/98/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F32
 [/us/usc/t29/s777]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs777
 [/us/usc/t29/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs777c

@@ -17,7 +17,7 @@
 
     Nothing in this subchapter shall be construed to prohibit or discourage the use of funds provided under this subchapter for adult education and literacy activities that help eligible individuals transition to postsecondary education and training or employment, or for concurrent enrollment activities.
 
-([Pub. L. 113–128, title II, § 205][/us/pl/113/128/s205], July 22, 2014, [128 Stat. 1612][/us/stat/128/1612].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 205, July 22, 2014, [128 Stat. 1612][/us/stat/128/1612].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/128/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs205
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1612
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

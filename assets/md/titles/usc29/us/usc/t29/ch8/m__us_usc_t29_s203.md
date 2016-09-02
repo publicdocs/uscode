@@ -173,11 +173,11 @@
 
         (2) is engaged in the prevention, control, and extinguishment of fires or response to emergency situations where life, property, or the environment is at risk.
 
-([June 25, 1938, ch. 676, § 3][/us/act/1938-06-25/ch676/s3], [52 Stat. 1060][/us/stat/52/1060]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Oct. 26, 1949, ch. 736, § 3][/us/act/1949-10-26/ch736/s3], [63 Stat. 911][/us/stat/63/911]; [Pub. L. 87–30, § 2][/us/pl/87/30/s2], May 5, 1961, [75 Stat. 65][/us/stat/75/65]; [Pub. L. 89–601, title I][/us/pl/89/601], §§ 101–103, title II, § 215(a), Sept. 23, 1966, [80 Stat. 830–832][/us/stat/80/830-832], 837; [Pub. L. 92–318, title IX, § 906(b)(2)][/us/pl/92/318/s906/b/2], (3), June 23, 1972, [86 Stat. 375][/us/stat/86/375]; [Pub. L. 93–259][/us/pl/93/259], §§ 6(a), 13(e), Apr. 8, 1974, [88 Stat. 58][/us/stat/88/58], 64; [Pub. L. 95–151][/us/pl/95/151], §§ 3(a), (b), 9(a)–(c), Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], 1251; [Pub. L. 99–150][/us/pl/99/150], §§ 4(a), 5, Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790]; [Pub. L. 101–157][/us/pl/101/157], §§ 3(a), (d), 5, Nov. 17, 1989, [103 Stat. 938][/us/stat/103/938], 939, 941; [Pub. L. 104–1, title II, § 203(d)][/us/pl/104/1/s203/d], Jan. 23, 1995, [109 Stat. 10][/us/stat/109/10]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], § 2105(b), Aug. 20, 1996, [110 Stat. 1929][/us/stat/110/1929]; [Pub. L. 105–221, § 2][/us/pl/105/221/s2], Aug. 7, 1998, [112 Stat. 1248][/us/stat/112/1248]; [Pub. L. 106–151, § 1][/us/pl/106/151/s1], Dec. 9, 1999, [113 Stat. 1731][/us/stat/113/1731]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 3, [52 Stat. 1060][/us/stat/52/1060]; 1946 Reorg. Plan No. 2, § 1(b), eff. July 16, 1946, 11 F.R. 7873, [60 Stat. 1095][/us/stat/60/1095]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 3, [63 Stat. 911][/us/stat/63/911]; [Pub. L. 87–30][/us/pl/87/30], § 2, May 5, 1961, [75 Stat. 65][/us/stat/75/65]; [Pub. L. 89–601, title I][/us/pl/89/601/tI], §§ 101–103, title II, § 215(a), Sept. 23, 1966, [80 Stat. 830–832][/us/stat/80/830-832], 837; [Pub. L. 92–318, title IX][/us/pl/92/318/tIX], § 906(b)(2), (3), June 23, 1972, [86 Stat. 375][/us/stat/86/375]; [Pub. L. 93–259][/us/pl/93/259], §§ 6(a), 13(e), Apr. 8, 1974, [88 Stat. 58][/us/stat/88/58], 64; [Pub. L. 95–151][/us/pl/95/151], §§ 3(a), (b), 9(a)–(c), Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], 1251; [Pub. L. 99–150][/us/pl/99/150], §§ 4(a), 5, Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790]; [Pub. L. 101–157][/us/pl/101/157], §§ 3(a), (d), 5, Nov. 17, 1989, [103 Stat. 938][/us/stat/103/938], 939, 941; [Pub. L. 104–1, title II][/us/pl/104/1/tII], § 203(d), Jan. 23, 1995, [109 Stat. 10][/us/stat/109/10]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], § 2105(b), Aug. 20, 1996, [110 Stat. 1929][/us/stat/110/1929]; [Pub. L. 105–221][/us/pl/105/221], § 2, Aug. 7, 1998, [112 Stat. 1248][/us/stat/112/1248]; [Pub. L. 106–151][/us/pl/106/151], § 1, Dec. 9, 1999, [113 Stat. 1731][/us/stat/113/1731]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
-    [Section 1141j(g) of title 12][/us/usc/t12/s1141j/g], referred to in subsec. (f), was redesignated section 1141j(f) by [Pub. L. 110–246, title I, § 1610][/us/pl/110/246/s1610], June 18, 2008, [122 Stat. 1746][/us/stat/122/1746].
+    [Section 1141j(g) of title 12][/us/usc/t12/s1141j/g], referred to in subsec. (f), was redesignated section 1141j(f) by [Pub. L. 110–246, title I][/us/pl/110/246/tI], § 1610, June 18, 2008, [122 Stat. 1746][/us/stat/122/1746].
 
  __Amendments__ 
 
@@ -199,63 +199,63 @@
 
     1995—Subsec. (e)(2)(A). [Pub. L. 104–1][/us/pl/104/1] struck out “legislative or” before “judicial branch” in cl. (iii) and added cl. (vi).
 
-    1989—Subsec. (m). [Pub. L. 101–157, § 5][/us/pl/101/157/s5], substituted “in excess of (1) 45 percent of the applicable minimum wage rate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991,” for “in excess of 40 per centum of the applicable minimum wage rate,”.
+    1989—Subsec. (m). [Pub. L. 101–157][/us/pl/101/157], § 5, substituted “in excess of (1) 45 percent of the applicable minimum wage rate during the year beginning April 1, 1990, and (2) 50 percent of the applicable minimum wage rate after March 31, 1991,” for “in excess of 40 per centum of the applicable minimum wage rate,”.
 
-    Subsec. (r). [Pub. L. 101–157, § 3(d)][/us/pl/101/157/s3/d], designated first sentence as par. (1), made a separate sentence out of the existing proviso and redesignated cls. (1), (2), and (3) as (A), (B), and (C), respectively, designated second sentence as par. (2), in par. (2) as so designated, redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and, in subpar. (A) as so redesignated, substituted “school is operated” for “school is public or private or operated”.
+    Subsec. (r). [Pub. L. 101–157][/us/pl/101/157], § 3(d), designated first sentence as par. (1), made a separate sentence out of the existing proviso and redesignated cls. (1), (2), and (3) as (A), (B), and (C), respectively, designated second sentence as par. (2), in par. (2) as so designated, redesignated existing pars. (1), (2), and (3) as subpars. (A), (B), and (C), respectively, and, in subpar. (A) as so redesignated, substituted “school is operated” for “school is public or private or operated”.
 
-    Subsec. (s). [Pub. L. 101–157, § 3(a)][/us/pl/101/157/s3/a], amended subsec. (s) generally, completely revising definition of “enterprise engaged in commerce or in the production of goods for commerce”.
+    Subsec. (s). [Pub. L. 101–157][/us/pl/101/157], § 3(a), amended subsec. (s) generally, completely revising definition of “enterprise engaged in commerce or in the production of goods for commerce”.
 
-    1985—Subsec. (e)(1). [Pub. L. 99–150, § 4(a)(1)][/us/pl/99/150/s4/a/1], substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
+    1985—Subsec. (e)(1). [Pub. L. 99–150][/us/pl/99/150], § 4(a)(1), substituted “paragraphs (2), (3), and (4)” for “paragraphs (2) and (3)”.
 
-    Subsec. (e)(2)(C)(ii). [Pub. L. 99–150, § 5][/us/pl/99/150/s5], struck out “or” at end of subcl. (III), struck out “who” in subcl. (IV) before “is an”, substituted “, or” for period at end of subcl. (IV), and added subcl. (V).
+    Subsec. (e)(2)(C)(ii). [Pub. L. 99–150][/us/pl/99/150], § 5, struck out “or” at end of subcl. (III), struck out “who” in subcl. (IV) before “is an”, substituted “, or” for period at end of subcl. (IV), and added subcl. (V).
 
-    Subsec. (e)(4). [Pub. L. 99–150, § 4(a)(2)][/us/pl/99/150/s4/a/2], added par. (4).
+    Subsec. (e)(4). [Pub. L. 99–150][/us/pl/99/150], § 4(a)(2), added par. (4).
 
-    1977—Subsec. (m). [Pub. L. 95–151, § 3(b)][/us/pl/95/151/s3/b], substituted “45 per centum” for “50 per centum”, effective Jan. 1, 1979, and “40 per centum” for “45 per centum”, effective Jan. 1, 1980.
+    1977—Subsec. (m). [Pub. L. 95–151][/us/pl/95/151], § 3(b), substituted “45 per centum” for “50 per centum”, effective Jan. 1, 1979, and “40 per centum” for “45 per centum”, effective Jan. 1, 1980.
 
-    Subsec. (s). [Pub. L. 95–151, § 9(a)][/us/pl/95/151/s9/a]–(c), in par. (1) inserted exception for enterprises comprised exclusively of retail or service establishments and described in par. (2), added par. (2), redesignated former pars. (2) to (5) as (3) to (6), respectively, and in text following par. (6), as so redesignated, inserted provisions relating to coverage of retail or service establishments subject to [section 206(a)(1) of this title][/us/usc/t29/s206/a/1] on June 30, 1978, and provisions relating to violations of such coverage requirements.
+    Subsec. (s). [Pub. L. 95–151][/us/pl/95/151], § 9(a)–(c), in par. (1) inserted exception for enterprises comprised exclusively of retail or service establishments and described in par. (2), added par. (2), redesignated former pars. (2) to (5) as (3) to (6), respectively, and in text following par. (6), as so redesignated, inserted provisions relating to coverage of retail or service establishments subject to [section 206(a)(1) of this title][/us/usc/t29/s206/a/1] on June 30, 1978, and provisions relating to violations of such coverage requirements.
 
-    Subsec. (t). [Pub. L. 95–151, § 3(a)][/us/pl/95/151/s3/a], substituted “$30” for “$20”.
+    Subsec. (t). [Pub. L. 95–151][/us/pl/95/151], § 3(a), substituted “$30” for “$20”.
 
-    1974—Subsec. (d). [Pub. L. 93–259, § 6(a)(1)][/us/pl/93/259/s6/a/1], redefined “employer” to include a public agency and struck out text which excluded from such term the United States or any State or political subdivision of a State (except with respect to employees of a State, or a political subdivision thereof, employed (1) in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or (2) in the operation of a railway or carrier referred to in such sentence).
+    1974—Subsec. (d). [Pub. L. 93–259][/us/pl/93/259], § 6(a)(1), redefined “employer” to include a public agency and struck out text which excluded from such term the United States or any State or political subdivision of a State (except with respect to employees of a State, or a political subdivision thereof, employed (1) in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or (2) in the operation of a railway or carrier referred to in such sentence).
 
-    Subsec. (e). [Pub. L. 93–259, § 6(a)(2)][/us/pl/93/259/s6/a/2], in revising definition of “employee”, incorporated existing introductory text in provisions designated as par. (1), inserting exception provision; added par. (2); incorporated existing cl. (1) in provisions designated as par. (3); and struck out former cl. (2) excepting from “employee”, “any individual who is employed by an employer engaged in agriculture if such individual (A) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (B) commutes daily from his permanent residence to the farm on which he is so employed, and (C) has been engaged in agriculture less than thirteen weeks during the preceding calendar year”.
+    Subsec. (e). [Pub. L. 93–259][/us/pl/93/259], § 6(a)(2), in revising definition of “employee”, incorporated existing introductory text in provisions designated as par. (1), inserting exception provision; added par. (2); incorporated existing cl. (1) in provisions designated as par. (3); and struck out former cl. (2) excepting from “employee”, “any individual who is employed by an employer engaged in agriculture if such individual (A) is employed as a hand harvest laborer and is paid on a piece rate basis in an operation which has been, and is customarily and generally recognized as having been, paid on a piece rate basis in the region of employment, (B) commutes daily from his permanent residence to the farm on which he is so employed, and (C) has been engaged in agriculture less than thirteen weeks during the preceding calendar year”.
 
-    Subsec. (h). [Pub. L. 93–259, § 6(a)(3)][/us/pl/93/259/s6/a/3], substituted “other activity, or branch or group thereof” for “branch thereof, or group of industries”.
+    Subsec. (h). [Pub. L. 93–259][/us/pl/93/259], § 6(a)(3), substituted “other activity, or branch or group thereof” for “branch thereof, or group of industries”.
 
-    Subsec. (m). [Pub. L. 93–259, § 13(e)][/us/pl/93/259/s13/e], substituted in provision respecting wage of tipped employee “the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee” for “in the case of an employee who (either himself or acting through his representative) shows to the satisfaction of the Secretary that the actual amount of tips received by him was less than the amount determined by the employer as the amount by which the wage paid him was deemed to be increased under this sentence, the amount paid such employee by his employer shall be deemed to have been increased by such lesser amount” and inserted “The previous sentence shall not apply with respect to any tipped employee unless (1) such employee has been informed by the employer of the provisions of this subsection, and (2) all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.”
+    Subsec. (m). [Pub. L. 93–259][/us/pl/93/259], § 13(e), substituted in provision respecting wage of tipped employee “the amount of the increase on account of tips determined by the employer may not exceed the value of tips actually received by the employee” for “in the case of an employee who (either himself or acting through his representative) shows to the satisfaction of the Secretary that the actual amount of tips received by him was less than the amount determined by the employer as the amount by which the wage paid him was deemed to be increased under this sentence, the amount paid such employee by his employer shall be deemed to have been increased by such lesser amount” and inserted “The previous sentence shall not apply with respect to any tipped employee unless (1) such employee has been informed by the employer of the provisions of this subsection, and (2) all tips received by such employee have been retained by the employee, except that this subsection shall not be construed to prohibit the pooling of tips among employees who customarily and regularly receive tips.”
 
-    Subsec. (r)(3). [Pub. L. 93–259, § 6(a)(4)][/us/pl/93/259/s6/a/4], added par. (3).
+    Subsec. (r)(3). [Pub. L. 93–259][/us/pl/93/259], § 6(a)(4), added par. (3).
 
-    Subsec. (s). [Pub. L. 93–259, § 6(a)(5)][/us/pl/93/259/s6/a/5], in first sentence substituted preceding par. (1) “or employees handling, selling, or otherwise working on goods or materials” for “including employees handling, selling, or otherwise working on goods” and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
+    Subsec. (s). [Pub. L. 93–259][/us/pl/93/259], § 6(a)(5), in first sentence substituted preceding par. (1) “or employees handling, selling, or otherwise working on goods or materials” for “including employees handling, selling, or otherwise working on goods” and added par. (5), and inserted third sentence deeming employees of an enterprise which is a public agency to be employees engaged in commerce, or in production of goods for commerce, or employees handling, selling, or otherwise working on goods or materials that have been moved in or produced for commerce.
 
-    Subsec. (x). [Pub. L. 93–259, § 6(a)(6)][/us/pl/93/259/s6/a/6], added subsec. (x).
+    Subsec. (x). [Pub. L. 93–259][/us/pl/93/259], § 6(a)(6), added subsec. (x).
 
-    1972—Subsecs. (r)(1), (s)(4). [Pub. L. 92–318, § 906(b)(2)][/us/pl/92/318/s906/b/2], (3), inserted reference to a preschool.
+    1972—Subsecs. (r)(1), (s)(4). [Pub. L. 92–318][/us/pl/92/318], § 906(b)(2), (3), inserted reference to a preschool.
 
-    1966—Subsec. (d). [Pub. L. 89–601, § 102(b)][/us/pl/89/601/s102/b], expanded definition of employer to include a State or a political subdivision thereof with respect to employees in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or in the operation of a railway or carrier referred to in such sentence.
+    1966—Subsec. (d). [Pub. L. 89–601][/us/pl/89/601], § 102(b), expanded definition of employer to include a State or a political subdivision thereof with respect to employees in a hospital, institution, or school referred to in last sentence of subsec. (r) of this section, or in the operation of a railway or carrier referred to in such sentence.
 
-    Subsec. (e). [Pub. L. 89–601, § 103(a)][/us/pl/89/601/s103/a], excluded from definition of “employee,” when that term is used in definition of “man-day,” any agricultural employee who is the parent, spouse, child, or other member of his employer’s immediate family and any agricultural hand harvest laborer, paid on a piece rate basis, who commutes daily from his permanent residence to the farm on which he is so employed, and who has been employed in agriculture less than 13 weeks during the preceding calendar year.
+    Subsec. (e). [Pub. L. 89–601][/us/pl/89/601], § 103(a), excluded from definition of “employee,” when that term is used in definition of “man-day,” any agricultural employee who is the parent, spouse, child, or other member of his employer’s immediate family and any agricultural hand harvest laborer, paid on a piece rate basis, who commutes daily from his permanent residence to the farm on which he is so employed, and who has been employed in agriculture less than 13 weeks during the preceding calendar year.
 
-    Subsec. (m). [Pub. L. 89–601, § 101(a)][/us/pl/89/601/s101/a], inserted provisions for determining the wage of a tipped employee.
+    Subsec. (m). [Pub. L. 89–601][/us/pl/89/601], § 101(a), inserted provisions for determining the wage of a tipped employee.
 
-    Subsec. (n). [Pub. L. 89–601, § 215(a)][/us/pl/89/601/s215/a], struck out “, except as used in subsection (s)(1),” before “shall not”.
+    Subsec. (n). [Pub. L. 89–601][/us/pl/89/601], § 215(a), struck out “, except as used in subsection (s)(1),” before “shall not”.
 
-    Subsec. (r). [Pub. L. 89–601, § 102(a)][/us/pl/89/601/s102/a], extended activities performed for a business purpose to include activities in the operation of hospitals, institutions for the sick, aged, or mentally ill or defective, schools for the handicapped, elementary and secondary schools, institutions of higher learning, or street, suburban, or interurban electric railway or local trolley or motorbus carriers if subject to regulation by a State or local agency regardless of whether public or private or whether operated for profit or not for profit.
+    Subsec. (r). [Pub. L. 89–601][/us/pl/89/601], § 102(a), extended activities performed for a business purpose to include activities in the operation of hospitals, institutions for the sick, aged, or mentally ill or defective, schools for the handicapped, elementary and secondary schools, institutions of higher learning, or street, suburban, or interurban electric railway or local trolley or motorbus carriers if subject to regulation by a State or local agency regardless of whether public or private or whether operated for profit or not for profit.
 
-    Subsec. (s). [Pub. L. 89–601, § 102(c)][/us/pl/89/601/s102/c], removed gross annual business level tests of $1,000,000 for retail and service enterprises, street, suburban, or interurban electric railways or local trolley or motorbus carriers, and brought within the coverage of the gross annual business test all enterprises having employees engaged in commerce in the production of goods for commerce, including employees handling, selling, or otherwise working on goods that have been moved in or produced for commerce, lowered the minimum gross annual volume test for covered enterprises from $1,000,000 to $500,000 for the period from Feb. 1, 1967, through Jan. 31, 1969, and to $250,000 for the period after Jan. 31, 1969, retained the $250,000 annual gross volume test for coverage of gasoline service establishments, and expanded coverage to include laundering or cleaning services, construction or reconstruction activities, or operation of hospitals, certain institutions for the care of the sick, aged, or mentally ill, certain special schools, and institutions of higher learning regardless of annual gross volume.
+    Subsec. (s). [Pub. L. 89–601][/us/pl/89/601], § 102(c), removed gross annual business level tests of $1,000,000 for retail and service enterprises, street, suburban, or interurban electric railways or local trolley or motorbus carriers, and brought within the coverage of the gross annual business test all enterprises having employees engaged in commerce in the production of goods for commerce, including employees handling, selling, or otherwise working on goods that have been moved in or produced for commerce, lowered the minimum gross annual volume test for covered enterprises from $1,000,000 to $500,000 for the period from Feb. 1, 1967, through Jan. 31, 1969, and to $250,000 for the period after Jan. 31, 1969, retained the $250,000 annual gross volume test for coverage of gasoline service establishments, and expanded coverage to include laundering or cleaning services, construction or reconstruction activities, or operation of hospitals, certain institutions for the care of the sick, aged, or mentally ill, certain special schools, and institutions of higher learning regardless of annual gross volume.
 
-    Subsec. (t). [Pub. L. 89–601, § 101(b)][/us/pl/89/601/s101/b], added subsec. (t).
+    Subsec. (t). [Pub. L. 89–601][/us/pl/89/601], § 101(b), added subsec. (t).
 
-    Subsec. (u). [Pub. L. 89–601, § 103(b)][/us/pl/89/601/s103/b], added subsec. (u).
+    Subsec. (u). [Pub. L. 89–601][/us/pl/89/601], § 103(b), added subsec. (u).
 
-    Subsecs. (v), (w). [Pub. L. 89–601, § 102(d)][/us/pl/89/601/s102/d], added subsecs. (v) and (w).
+    Subsecs. (v), (w). [Pub. L. 89–601][/us/pl/89/601], § 102(d), added subsecs. (v) and (w).
 
-    1961—Subsec. (m). [Pub. L. 87–30, § 2(a)][/us/pl/87/30/s2/a], provided for exclusion from wages under a collective-bargaining agreement the cost of board, lodging, or other facilities and authorized the Secretary to determine the fair value of board, lodging, or other facilities for defined classes of employees in defined areas to be used in lieu of actual cost.
+    1961—Subsec. (m). [Pub. L. 87–30][/us/pl/87/30], § 2(a), provided for exclusion from wages under a collective-bargaining agreement the cost of board, lodging, or other facilities and authorized the Secretary to determine the fair value of board, lodging, or other facilities for defined classes of employees in defined areas to be used in lieu of actual cost.
 
-    Subsec. (n). [Pub. L. 87–30, § 2(b)][/us/pl/87/30/s2/b], inserted “, except as used in subsection (s)(1),” before “shall not”.
+    Subsec. (n). [Pub. L. 87–30][/us/pl/87/30], § 2(b), inserted “, except as used in subsection (s)(1),” before “shall not”.
 
-    Subsecs. (p) to (s). [Pub. L. 87–30, § 2(c)][/us/pl/87/30/s2/c], added subsecs. (p) to (s).
+    Subsecs. (p) to (s). [Pub. L. 87–30][/us/pl/87/30], § 2(c), added subsecs. (p) to (s).
 
     1949—Subsec. (b). Act Oct. 26, 1949, § 3(a), substituted “between” for “from” after “States or”, and “and” for “to” before “any place”.
 
@@ -271,33 +271,33 @@
 
  __Construction of 1999 Amendment__ 
 
-[Pub. L. 106–151, § 2][/us/pl/106/151/s2], Dec. 9, 1999, [113 Stat. 1731][/us/stat/113/1731], provided that: 
+[Pub. L. 106–151][/us/pl/106/151], § 2, Dec. 9, 1999, [113 Stat. 1731][/us/stat/113/1731], provided that: 
 
 > “The amendment made by section 1 \[amending this section\] shall not be construed to reduce or substitute for compensation standards: (1) contained in any existing or future agreement or memorandum of understanding reached through collective bargaining by a bona fide representative of employees in accordance with the laws of a State or political subdivision of a State; and (2) which result in compensation greater than the compensation available to employees under the overtime exemption under section 7(k) of the Fair Labor Standards Act of 1938 \[[29 U.S.C. 207(k)][/us/usc/t29/s207/k]\].”
 
  __Effective Date of 1989 Amendment__ 
 
-[Pub. L. 101–157, § 3(e)][/us/pl/101/157/s3/e], Nov. 17, 1989, [103 Stat. 939][/us/stat/103/939], provided that: 
+[Pub. L. 101–157][/us/pl/101/157], § 3(e), Nov. 17, 1989, [103 Stat. 939][/us/stat/103/939], provided that: 
 
 > “The amendments made by this section \[amending this section and [section 213 of this title][/us/usc/t29/s213]\] shall become effective on April 1, 1990.”
 
-    [Pub. L. 101–157, § 5][/us/pl/101/157/s5], Nov. 17, 1989, [103 Stat. 941][/us/stat/103/941], provided that the amendment made by that section is effective Apr. 1, 1990.
+    [Pub. L. 101–157][/us/pl/101/157], § 5, Nov. 17, 1989, [103 Stat. 941][/us/stat/103/941], provided that the amendment made by that section is effective Apr. 1, 1990.
 
  __Effective Date of 1985 Amendment; Promulgation of Regulations__ 
 
-[Pub. L. 99–150, § 6][/us/pl/99/150/s6], Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790], provided that: 
+[Pub. L. 99–150][/us/pl/99/150], § 6, Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 207 and 211 of this title and enacting provisions set out as notes under this section and sections 201, 207, 215, and 216 of this title\] shall take effect April 15, 1986. The Secretary of Labor shall before such date promulgate such regulations as may be required to implement such amendments.”
 
  __Effective Date of 1977 Amendment__ 
 
-    [Pub. L. 95–151, § 3(a)][/us/pl/95/151/s3/a], Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], provided that the amendment made by that section is effective Jan. 1, 1978.
+    [Pub. L. 95–151][/us/pl/95/151], § 3(a), Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], provided that the amendment made by that section is effective Jan. 1, 1978.
 
-    [Pub. L. 95–151, § 3(b)(1)][/us/pl/95/151/s3/b/1], Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], provided that the amendment made by that section, reducing the maximum percentage of the minimum wage used in determining tips as wages from 50 to 45 per centum, is effective Jan. 1, 1979.
+    [Pub. L. 95–151][/us/pl/95/151], § 3(b)(1), Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], provided that the amendment made by that section, reducing the maximum percentage of the minimum wage used in determining tips as wages from 50 to 45 per centum, is effective Jan. 1, 1979.
 
-    [Pub. L. 95–151, § 3(b)(2)][/us/pl/95/151/s3/b/2], Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], provided that the amendment made by that section, reducing the maximum percentage of the minimum wage used in determining tips as wages from 45 to 40 per centum, is effective Jan. 1, 1980.
+    [Pub. L. 95–151][/us/pl/95/151], § 3(b)(2), Nov. 1, 1977, [91 Stat. 1249][/us/stat/91/1249], provided that the amendment made by that section, reducing the maximum percentage of the minimum wage used in determining tips as wages from 45 to 40 per centum, is effective Jan. 1, 1980.
 
-[Pub. L. 95–151, § 15(a)][/us/pl/95/151/s15/a], (b), Nov. 1, 1977, [91 Stat. 1253][/us/stat/91/1253], provided that:
+[Pub. L. 95–151][/us/pl/95/151], § 15(a), (b), Nov. 1, 1977, [91 Stat. 1253][/us/stat/91/1253], provided that:
 
 >     “(a) Except as provided in sections 3, 14, and subsection (b) of this section, the amendments made by this Act \[amending sections 206, 208, 213, and 216 of this title and enacting provisions set out as a note under [section 204 of this title][/us/usc/t29/s204]\] shall take effect January 1, 1978.
 
@@ -309,13 +309,13 @@
 
  __Effective Date of 1966 Amendment__ 
 
-[Pub. L. 89–601, title VI, § 602][/us/pl/89/601/s602], Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844], provided in part that: 
+[Pub. L. 89–601, title VI][/us/pl/89/601/tVI], § 602, Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844], provided in part that: 
 
 > “Except as otherwise provided in this Act, the amendments made by this Act \[amending this section and sections 206, 207, 213, 214, 216, 218, and 255 of this title\] shall take effect on February 1, 1967.”
 
  __Effective Date of 1961 Amendment__ 
 
-[Pub. L. 87–30, § 14][/us/pl/87/30/s14], May 5, 1961, [75 Stat. 75][/us/stat/75/75], provided that: 
+[Pub. L. 87–30][/us/pl/87/30], § 14, May 5, 1961, [75 Stat. 75][/us/stat/75/75], provided that: 
 
 > “The amendments made by this Act \[amending this section and sections 204 to 208, 212 to 214, 216, and 217 of this title\] shall take effect upon the expiration of one hundred and twenty days after the date of its enactment \[May 5, 1961\], except as otherwise provided in such amendments and except that the authority to promulgate necessary rules, regulations, or orders with regard to amendments made by this Act, under the Fair Labor Standards Act of 1938 and amendments thereto \[this chapter\], including amendments made by this Act, may be exercised by the Secretary on and after the date of enactment of this Act \[May 5, 1961\].”
 
@@ -329,7 +329,7 @@
 
  __Preservation of Coverage__ 
 
-[Pub. L. 101–157, § 3(b)][/us/pl/101/157/s3/b], Nov. 17, 1989, [103 Stat. 939][/us/stat/103/939], provided that:
+[Pub. L. 101–157][/us/pl/101/157], § 3(b), Nov. 17, 1989, [103 Stat. 939][/us/stat/103/939], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -347,31 +347,31 @@
 
  __Volunteers; Promulgation of Regulations__ 
 
-[Pub. L. 99–150, § 4(b)][/us/pl/99/150/s4/b], Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790], provided that: 
+[Pub. L. 99–150][/us/pl/99/150], § 4(b), Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790], provided that: 
 
 > “Not later than March 15, 1986, the Secretary of Labor shall issue regulations to carry out paragraph (4) of section 3(e) (as amended by subsection (a) of this section) \[[29 U.S.C. 203(e)(4)][/us/usc/t29/s203/e/4]\].”
 
  __Practice of Public Agency in Treating Certain Individuals as Volunteers Prior to__  __April 15, 1986__  __; Liability__ 
 
-[Pub. L. 99–150, § 4(c)][/us/pl/99/150/s4/c], Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790], provided that: 
+[Pub. L. 99–150][/us/pl/99/150], § 4(c), Nov. 13, 1985, [99 Stat. 790][/us/stat/99/790], provided that: 
 
 > “If, before April 15, 1986, the practice of a public agency was to treat certain individuals as volunteers, such individuals shall until April 15, 1986, be considered, for purposes of the Fair Labor Standards Act of 1938 \[this chapter\], as volunteers and not as employees. No public agency which is a State, a political subdivision of a State, or an interstate governmental agency shall be liable for a violation of section 6 \[[29 U.S.C. 206][/us/usc/t29/s206]\] occurring before April 15, 1986, with respect to services deemed by that agency to have been performed for it by an individual on a voluntary basis.”
 
  __Status of Baggers at Commissary of Military Department__ 
 
-[Pub. L. 95–485, title VIII, § 819][/us/pl/95/485/s819], Oct. 20, 1978, [92 Stat. 1626][/us/stat/92/1626], provided that: 
+[Pub. L. 95–485, title VIII][/us/pl/95/485/tVIII], § 819, Oct. 20, 1978, [92 Stat. 1626][/us/stat/92/1626], provided that: 
 
 > “Notwithstanding any other provision of law, an individual who performs bagger or carryout service for patrons of a commissary of a military department may not be considered to be an employee for purposes of the Fair Labor Standards Act of 1938 \[this chapter\] by virtue of such service if the sole compensation of such individual for such service is derived from tips.”
 
  __Administrative Action by Secretary of Labor With Regard to Implementation of Fair Labor Standards Amendments of 1977__ 
 
-[Pub. L. 95–151, § 15(c)][/us/pl/95/151/s15/c], Nov. 1, 1977, [91 Stat. 1253][/us/stat/91/1253], provided that: 
+[Pub. L. 95–151][/us/pl/95/151], § 15(c), Nov. 1, 1977, [91 Stat. 1253][/us/stat/91/1253], provided that: 
 
 > “On and after the date of the enactment of this Act \[Nov. 1, 1977\], the Secretary of Labor shall take such administrative action as may be necessary for the implementation of the amendments made by this Act \[See Short Title of 1977 Amendment note set out under [section 201 of this title][/us/usc/t29/s201]\].”
 
  __Rules, Regulations, and Orders Promulgated With Regard to 1966 Amendments__ 
 
-[Pub. L. 89–601, title VI, § 602][/us/pl/89/601/s602], Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844], provided in part that: 
+[Pub. L. 89–601, title VI][/us/pl/89/601/tVI], § 602, Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844], provided in part that: 
 
 > “On and after the date of the enactment of this Act \[Sept. 23, 1966\] the Secretary is authorized to promulgate necessary rules, regulations, or orders with regard to the amendments made by this Act \[see Short Title of 1966 Amendment note set out under [section 201 of this title][/us/usc/t29/s201]\].”
 
@@ -384,16 +384,16 @@
 
 [/us/usc/t5/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs102
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/act/1938-06-25/ch676/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs3
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
-[/us/act/1949-10-26/ch736/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs3
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/911]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F911
-[/us/pl/87/30/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs2
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/stat/75/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F65
-[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtI
 [/us/stat/80/830-832]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F830-832
-[/us/pl/92/318/s906/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs906%2Fb%2F2
+[/us/pl/92/318/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2FtIX
 [/us/stat/86/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F375
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F58
@@ -403,20 +403,20 @@
 [/us/stat/99/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F790
 [/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F938
-[/us/pl/104/1/s203/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs203%2Fd
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F10
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/stat/110/1929]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1929
-[/us/pl/105/221/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F221%2Fs2
+[/us/pl/105/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F221
 [/us/stat/112/1248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1248
-[/us/pl/106/151/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F151%2Fs1
+[/us/pl/106/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F151
 [/us/stat/113/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1731
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t12/s1141j/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1141j%2Fg
-[/us/pl/110/246/s1610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs1610
+[/us/pl/110/246/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2FtI
 [/us/stat/122/1746]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1746
 [/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
 [/us/pl/106/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F151
@@ -425,84 +425,84 @@
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
-[/us/pl/101/157/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs5
-[/us/pl/101/157/s3/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs3%2Fd
-[/us/pl/101/157/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs3%2Fa
-[/us/pl/99/150/s4/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs4%2Fa%2F1
-[/us/pl/99/150/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs5
-[/us/pl/99/150/s4/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs4%2Fa%2F2
-[/us/pl/95/151/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs3%2Fb
-[/us/pl/95/151/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs9%2Fa
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/95/151/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs3%2Fa
-[/us/pl/93/259/s6/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fa%2F1
-[/us/pl/93/259/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fa%2F2
-[/us/pl/93/259/s6/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fa%2F3
-[/us/pl/93/259/s13/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs13%2Fe
-[/us/pl/93/259/s6/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fa%2F4
-[/us/pl/93/259/s6/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fa%2F5
-[/us/pl/93/259/s6/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fa%2F6
-[/us/pl/92/318/s906/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318%2Fs906%2Fb%2F2
-[/us/pl/89/601/s102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs102%2Fb
-[/us/pl/89/601/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs103%2Fa
-[/us/pl/89/601/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs101%2Fa
-[/us/pl/89/601/s215/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs215%2Fa
-[/us/pl/89/601/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs102%2Fa
-[/us/pl/89/601/s102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs102%2Fc
-[/us/pl/89/601/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs101%2Fb
-[/us/pl/89/601/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs103%2Fb
-[/us/pl/89/601/s102/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs102%2Fd
-[/us/pl/87/30/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs2%2Fa
-[/us/pl/87/30/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs2%2Fb
-[/us/pl/87/30/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs2%2Fc
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/92/318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F318
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
-[/us/pl/106/151/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F151%2Fs2
+[/us/pl/106/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F151
 [/us/stat/113/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1731
 [/us/usc/t29/s207/k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fk
-[/us/pl/101/157/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs3%2Fe
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F939
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
-[/us/pl/101/157/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs5
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F941
-[/us/pl/99/150/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs6
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F790
-[/us/pl/95/151/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs3%2Fa
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/stat/91/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1249
-[/us/pl/95/151/s3/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs3%2Fb%2F1
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/stat/91/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1249
-[/us/pl/95/151/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs3%2Fb%2F2
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/stat/91/1249]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1249
-[/us/pl/95/151/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs15%2Fa
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/stat/91/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1253
 [/us/usc/t29/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs204
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/93/259/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs29%2Fa
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
-[/us/pl/89/601/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs602
+[/us/pl/89/601/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtVI
 [/us/stat/80/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F844
-[/us/pl/87/30/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs14
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/stat/75/75]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F75
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
 [/us/stat/60/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F1095
-[/us/pl/101/157/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs3%2Fb
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F939
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
 [/us/usc/t29/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs212
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
-[/us/pl/99/150/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs4%2Fb
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F790
 [/us/usc/t29/s203/e/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fe%2F4
-[/us/pl/99/150/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs4%2Fc
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F790
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
-[/us/pl/95/485/s819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2Fs819
+[/us/pl/95/485/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F485%2FtVIII
 [/us/stat/92/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1626
-[/us/pl/95/151/s15/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs15%2Fc
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/stat/91/1253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1253
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/pl/89/601/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs602
+[/us/pl/89/601/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtVI
 [/us/stat/80/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F844
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 

@@ -61,25 +61,25 @@
 
         (2) Such reserved funds shall not be used to pay for the administrative costs of providing pre-employment transition services.
 
-([Pub. L. 93–112, title I, § 110][/us/pl/93/112/s110], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1160][/us/stat/112/1160]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 113–128, title IV, § 419][/us/pl/113/128/s419], July 22, 2014, [128 Stat. 1656][/us/stat/128/1656].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 110, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1160][/us/stat/112/1160]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(b)(7)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 419, July 22, 2014, [128 Stat. 1656][/us/stat/128/1656].)
 
  __References in Text__ 
 
-    [Section 720(b)(1)(A) of this title][/us/usc/t29/s720/b/1/A], referred to in subsec. (a)(2)(B), means section 720(b)(1)(A) prior to the general amendment of section 720(b) by [Pub. L. 102–569, title I, § 121(b)(1)][/us/pl/102/569/s121/b/1], Oct. 29, 1992, [106 Stat. 4367][/us/stat/106/4367], which restated subsec. (b)(1) without a subpar. (A). Section 720 was subsequently omitted, and a new section 720 added, in the general amendment of this subchapter by [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1116][/us/stat/112/1116].
+    [Section 720(b)(1)(A) of this title][/us/usc/t29/s720/b/1/A], referred to in subsec. (a)(2)(B), means section 720(b)(1)(A) prior to the general amendment of section 720(b) by [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 121(b)(1), Oct. 29, 1992, [106 Stat. 4367][/us/stat/106/4367], which restated subsec. (b)(1) without a subpar. (A). Section 720 was subsequently omitted, and a new section 720 added, in the general amendment of this subchapter by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1116][/us/stat/112/1116].
 
  __Prior Provisions__ 
 
-    A prior section 730, [Pub. L. 93–112, title I, § 110][/us/pl/93/112/s110], Sept. 26, 1973, [87 Stat. 370][/us/stat/87/370]; [Pub. L. 95–602, title I][/us/pl/95/602], §§ 101(c), (d), 122(b)(1), Nov. 6, 1978, [92 Stat. 2956][/us/stat/92/2956], 2957, 2987; [Pub. L. 98–221, title I, § 111(e)][/us/pl/98/221/s111/e], Feb. 22, 1984, [98 Stat. 20][/us/stat/98/20]; [Pub. L. 99–506, title I, § 103(c)(2)][/us/pl/99/506/s103/c/2], title II, §§ 206, 207, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1817, 1818; [Pub. L. 102–569, title I, § 131][/us/pl/102/569/s131], Oct. 29, 1992, [106 Stat. 4389][/us/stat/106/4389]; [Pub. L. 103–73, title I, § 107(e)][/us/pl/103/73/s107/e], Aug. 11, 1993, [107 Stat. 723][/us/stat/107/723], related to State allotments, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 730, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 110, Sept. 26, 1973, [87 Stat. 370][/us/stat/87/370]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], §§ 101(c), (d), 122(b)(1), Nov. 6, 1978, [92 Stat. 2956][/us/stat/92/2956], 2957, 2987; [Pub. L. 98–221, title I][/us/pl/98/221/tI], § 111(e), Feb. 22, 1984, [98 Stat. 20][/us/stat/98/20]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(c)(2), title II, §§ 206, 207, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1817, 1818; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 131, Oct. 29, 1992, [106 Stat. 4389][/us/stat/106/4389]; [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 107(e), Aug. 11, 1993, [107 Stat. 723][/us/stat/107/723], related to State allotments, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–128, § 419(1)][/us/pl/113/128/s419/1], substituted “Subject to the provisions of subsections (c) and (d),” for “Subject to the provisions of subsection (c)” in introductory provisions.
+    2014—Subsec. (a)(1). [Pub. L. 113–128][/us/pl/113/128], § 419(1), substituted “Subject to the provisions of subsections (c) and (d),” for “Subject to the provisions of subsection (c)” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 113–128, § 419(2)(A)][/us/pl/113/128/s419/2/A], substituted “2015” for “1987”.
+    Subsec. (c)(1). [Pub. L. 113–128][/us/pl/113/128], § 419(2)(A), substituted “2015” for “1987”.
 
-    Subsec. (c)(2). [Pub. L. 113–128, § 419(2)(B)][/us/pl/113/128/s419/2/B], substituted “Secretary,” for “Secretary—” and “2015 through 2020” for “2000 through 2003”, struck out subpar. (B) designation before “not less than 1 percent”, and struck out subpar. (A) which read as follows: “not less than three-quarters of 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for fiscal year 1999; and”.
+    Subsec. (c)(2). [Pub. L. 113–128][/us/pl/113/128], § 419(2)(B), substituted “Secretary,” for “Secretary—” and “2015 through 2020” for “2000 through 2003”, struck out subpar. (B) designation before “not less than 1 percent”, and struck out subpar. (A) which read as follows: “not less than three-quarters of 1 percent and not more than 1.5 percent of the amount referred to in paragraph (1), for fiscal year 1999; and”.
 
-    Subsec. (d). [Pub. L. 113–128, § 419(3)][/us/pl/113/128/s419/3], added subsec. (d).
+    Subsec. (d). [Pub. L. 113–128][/us/pl/113/128], § 419(3), added subsec. (d).
 
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to section designation and catchline in original.
 
@@ -99,35 +99,35 @@
 [/us/usc/t29/s720/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720%2Fb%2F1
 [/us/usc/t29/s731/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs731%2Fa
 [/us/usc/t29/s720/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720%2Fb%2F1
-[/us/pl/93/112/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs110
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1160
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1656
 [/us/usc/t29/s720/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720%2Fb%2F1%2FA
-[/us/pl/102/569/s121/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs121%2Fb%2F1
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4367]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4367
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1116
-[/us/pl/93/112/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs110
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
 [/us/stat/87/370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F370
-[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2956
-[/us/pl/98/221/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs111%2Fe
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/20]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F20
-[/us/pl/99/506/s103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fc%2F2
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/102/569/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs131
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4389
-[/us/pl/103/73/s107/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Fe
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F723
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s419/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419%2F1
-[/us/pl/113/128/s419/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419%2F2%2FA
-[/us/pl/113/128/s419/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419%2F2%2FB
-[/us/pl/113/128/s419/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs419%2F3
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3

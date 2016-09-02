@@ -43,7 +43,7 @@
 
         There are authorized to be appropriated to carry out the provisions of this section $10,000,000 for the fiscal year 1979, and such sums as may be necessary thereafter.
 
-([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title II, § 205A, as added [Pub. L. 95–524, § 6(c)(2)][/us/pl/95/524/s6/c/2], Oct. 27, 1978, [92 Stat. 2020][/us/stat/92/2020].)
+([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title II, § 205A, as added [Pub. L. 95–524][/us/pl/95/524], § 6(c)(2), Oct. 27, 1978, [92 Stat. 2020][/us/stat/92/2020].)
 
  __Short Title__ 
 
@@ -51,7 +51,7 @@
 
  __Congressional Statement of Purpose__ 
 
-[Pub. L. 95–524, § 6(b)][/us/pl/95/524/s6/b], Oct. 27, 1978, [92 Stat. 2020][/us/stat/92/2020], provided that: 
+[Pub. L. 95–524][/us/pl/95/524], § 6(b), Oct. 27, 1978, [92 Stat. 2020][/us/stat/92/2020], provided that: 
 
 > “It is the purpose of this section \[enacting this section and amending sections 173 and 186 of this title\]—
 
@@ -71,7 +71,7 @@
 
  __Applicability to Collective Bargaining Agreements__ 
 
-[Pub. L. 95–524, § 6(e)][/us/pl/95/524/s6/e], Oct. 27, 1978, [92 Stat. 2021][/us/stat/92/2021], provided that: 
+[Pub. L. 95–524][/us/pl/95/524], § 6(e), Oct. 27, 1978, [92 Stat. 2021][/us/stat/92/2021], provided that: 
 
 > “Nothing in this section or the amendments made by this section \[enacting this section, amending sections 173 and 186 of this title, and enacting provisions set out as notes under this section\] shall affect the terms and conditions of any collective bargaining agreement whether in effect prior to or entered into after the date of enactment of this section \[Oct. 27, 1978\].”
 
@@ -84,13 +84,13 @@
 
 [/us/usc/t29/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs157
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
-[/us/pl/95/524/s6/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs6%2Fc%2F2
+[/us/pl/95/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524
 [/us/stat/92/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2020
 [/us/pl/95/524/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs6
 [/us/usc/t29/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs141
-[/us/pl/95/524/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs6%2Fb
+[/us/pl/95/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524
 [/us/stat/92/2020]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2020
-[/us/pl/95/524/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs6%2Fe
+[/us/pl/95/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524
 [/us/stat/92/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2021
 
 

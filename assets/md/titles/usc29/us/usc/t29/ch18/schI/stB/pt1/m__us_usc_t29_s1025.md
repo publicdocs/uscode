@@ -101,29 +101,29 @@
 
         Each administrator required to register under [section 6057 of title 26][/us/usc/t26/s6057] shall, before the expiration of the time prescribed for such registration, furnish to each participant described in subsection (a)(2)(C) of such section, an individual statement setting forth the information with respect to such participant required to be contained in the registration statement required by [section 6057(a)(2) of title 26][/us/usc/t26/s6057/a/2]. Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.
 
-([Pub. L. 93–406, title I, § 105][/us/pl/93/406/s105], Sept. 2, 1974, [88 Stat. 849][/us/stat/88/849]; [Pub. L. 98–397, title I, § 106][/us/pl/98/397/s106], Aug. 23, 1984, [98 Stat. 1436][/us/stat/98/1436]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(b)(5), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2448; [Pub. L. 109–280, title V, § 508(a)(1)][/us/pl/109/280/s508/a/1]–(2)(B), Aug. 17, 2006, [120 Stat. 949][/us/stat/120/949], 951.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 105, Sept. 2, 1974, [88 Stat. 849][/us/stat/88/849]; [Pub. L. 98–397, title I][/us/pl/98/397/tI], § 106, Aug. 23, 1984, [98 Stat. 1436][/us/stat/98/1436]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7891(a)(1), 7894(b)(5), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2448; [Pub. L. 109–280, title V][/us/pl/109/280/tV], § 508(a)(1)–(2)(B), Aug. 17, 2006, [120 Stat. 949][/us/stat/120/949], 951.)
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–280, § 508(a)(1)][/us/pl/109/280/s508/a/1], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
+    2006—Subsec. (a). [Pub. L. 109–280][/us/pl/109/280], § 508(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
 
     “(1) the total benefits accrued, and
 
     “(2) the nonforfeitable pension benefits, if any, which have accrued, or the earliest date on which benefits will become nonforfeitable.”
 
-    Subsec. (b). [Pub. L. 109–280, § 508(a)(2)(B)][/us/pl/109/280/s508/a/2/B], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In no case shall a participant or beneficiary be entitled under this section to receive more than one report described in subsection (a) of this section during any one 12-month period.”
+    Subsec. (b). [Pub. L. 109–280][/us/pl/109/280], § 508(a)(2)(B), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In no case shall a participant or beneficiary be entitled under this section to receive more than one report described in subsection (a) of this section during any one 12-month period.”
 
-    Subsec. (d). [Pub. L. 109–280, § 508(a)(2)(A)][/us/pl/109/280/s508/a/2/A], struck out heading and text of subsec. (d). Text read as follows: “Subsection (a) of this section shall apply to a plan to which more than one unaffiliated employer is required to contribute only to the extent provided in regulations prescribed by the Secretary in coordination with the Secretary of the Treasury.”
+    Subsec. (d). [Pub. L. 109–280][/us/pl/109/280], § 508(a)(2)(A), struck out heading and text of subsec. (d). Text read as follows: “Subsection (a) of this section shall apply to a plan to which more than one unaffiliated employer is required to contribute only to the extent provided in regulations prescribed by the Secretary in coordination with the Secretary of the Treasury.”
 
-    1989—Subsec. (b). [Pub. L. 101–239, § 7894(b)(5)][/us/pl/101/239/s7894/b/5], substituted “12-month” for “12 month”.
+    1989—Subsec. (b). [Pub. L. 101–239][/us/pl/101/239], § 7894(b)(5), substituted “12-month” for “12 month”.
 
-    Subsec. (c). [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    Subsec. (c). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
     1984—Subsec. (c). [Pub. L. 98–397][/us/pl/98/397] inserted at end “Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.”
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title V, § 508(c)][/us/pl/109/280/s508/c], Aug. 17, 2006, [120 Stat. 952][/us/stat/120/952], provided that:
+[Pub. L. 109–280, title V][/us/pl/109/280/tV], § 508(c), Aug. 17, 2006, [120 Stat. 952][/us/stat/120/952], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -159,7 +159,7 @@
 
  __Model Statements__ 
 
-[Pub. L. 109–280, title V, § 508(b)][/us/pl/109/280/s508/b], Aug. 17, 2006, [120 Stat. 951][/us/stat/120/951], provided that:
+[Pub. L. 109–280, title V][/us/pl/109/280/tV], § 508(b), Aug. 17, 2006, [120 Stat. 951][/us/stat/120/951], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -181,21 +181,21 @@
 [/us/usc/t26/s410/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410%2Fb
 [/us/usc/t26/s6057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6057
 [/us/usc/t26/s6057/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs6057%2Fa%2F2
-[/us/pl/93/406/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs105
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/849]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F849
-[/us/pl/98/397/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs106
+[/us/pl/98/397/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2FtI
 [/us/stat/98/1436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1436
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/109/280/s508/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs508%2Fa%2F1
+[/us/pl/109/280/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtV
 [/us/stat/120/949]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F949
-[/us/pl/109/280/s508/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs508%2Fa%2F1
-[/us/pl/109/280/s508/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs508%2Fa%2F2%2FB
-[/us/pl/109/280/s508/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs508%2Fa%2F2%2FA
-[/us/pl/101/239/s7894/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fb%2F5
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
-[/us/pl/109/280/s508/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs508%2Fc
+[/us/pl/109/280/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtV
 [/us/stat/120/952]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F952
 [/us/usc/t29/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1132
 [/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
@@ -210,7 +210,7 @@
 [/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t29/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1031
-[/us/pl/109/280/s508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs508%2Fb
+[/us/pl/109/280/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtV
 [/us/stat/120/951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F951
 [/us/usc/t29/s1025]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1025
 

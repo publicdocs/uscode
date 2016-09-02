@@ -57,7 +57,7 @@
 
         Except as otherwise provided in this chapter, the administrative law judges shall be subject to the laws governing employees in the classified civil service, except that appointments shall be made without regard to [section 5108 of title 5][/us/usc/t5/s5108]. Each administrative law judge shall receive compensation at a rate not less than that prescribed for GS–16 under [section 5332 of title 5][/us/usc/t5/s5332].
 
-([Pub. L. 91–596, § 12][/us/pl/91/596/s12], Dec. 29, 1970, [84 Stat. 1603][/us/stat/84/1603]; [Pub. L. 95–251, § 2(a)(7)][/us/pl/95/251/s2/a/7], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183].)
+([Pub. L. 91–596][/us/pl/91/596], § 12, Dec. 29, 1970, [84 Stat. 1603][/us/stat/84/1603]; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(7), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183].)
 
  __References in Text__ 
 
@@ -69,7 +69,7 @@
 
     Subsec. (c) of this section amended sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
-    In subsec. (e), reference to [section 5372 of title 5][/us/usc/t5/s5372] was substituted for section 5362 on authority of [Pub. L. 95–454, § 801(a)(3)(A)(ii)][/us/pl/95/454/s801/a/3/A/ii], Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375.
+    In subsec. (e), reference to [section 5372 of title 5][/us/usc/t5/s5372] was substituted for section 5362 on authority of [Pub. L. 95–454][/us/pl/95/454], § 801(a)(3)(A)(ii), Oct. 13, 1978, [92 Stat. 1221][/us/stat/92/1221], which redesignated sections 5361 through 5365 of title 5 as sections 5371 through 5375.
 
  __Amendments__ 
 
@@ -89,13 +89,13 @@
 [/us/usc/t29/s161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs161
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
-[/us/pl/91/596/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs12
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1603
-[/us/pl/95/251/s2/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F7
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t5/s5372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5372
-[/us/pl/95/454/s801/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454%2Fs801%2Fa%2F3%2FA%2Fii
+[/us/pl/95/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F454
 [/us/stat/92/1221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1221
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/pl/101/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F509

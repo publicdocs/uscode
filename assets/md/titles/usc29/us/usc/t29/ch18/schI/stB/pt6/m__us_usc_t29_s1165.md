@@ -87,13 +87,13 @@
 
                 The term “TAA-related loss of coverage” means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss of health benefits coverage associated with such separation.
 
-([Pub. L. 93–406, title I, § 605][/us/pl/93/406/s605], as added [Pub. L. 99–272, title X, § 10002(a)][/us/pl/99/272/s10002/a], Apr. 7, 1986, [100 Stat. 230][/us/stat/100/230]; amended [Pub. L. 99–514, title XVIII, § 1895(d)(5)(B)][/us/pl/99/514/s1895/d/5/B], Oct. 22, 1986, [100 Stat. 2939][/us/stat/100/2939]; [Pub. L. 107–210, div. A, title II, § 203(e)(1)][/us/pl/107/210/s203/e/1], Aug. 6, 2002, [116 Stat. 969][/us/stat/116/969].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 605, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10002(a), Apr. 7, 1986, [100 Stat. 230][/us/stat/100/230]; amended [Pub. L. 99–514, title XVIII][/us/pl/99/514/tXVIII], § 1895(d)(5)(B), Oct. 22, 1986, [100 Stat. 2939][/us/stat/100/2939]; [Pub. L. 107–210, div. A, title II][/us/pl/107/210/dA/tII], § 203(e)(1), Aug. 6, 2002, [116 Stat. 969][/us/stat/116/969].)
 
  __References in Text__ 
 
-    [Section 1166(4) of this title][/us/usc/t29/s1166/4], referred to in subsec. (a)(1)(C)(ii), was redesignated as [section 1166(a)(4) of this title][/us/usc/t29/s1166/a/4] by [Pub. L. 101–239, title VII, § 7891(d)(1)(A)(ii)(I)][/us/pl/101/239/s7891/d/1/A/ii/I], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].
+    [Section 1166(4) of this title][/us/usc/t29/s1166/4], referred to in subsec. (a)(1)(C)(ii), was redesignated as [section 1166(a)(4) of this title][/us/usc/t29/s1166/a/4] by [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(d)(1)(A)(ii)(I), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].
 
-    Section 2701 of the Public Health Service Act, referred to in subsec. (b)(3), was classified to [section 300gg of Title 42][/us/usc/t42/s300gg], The Public Health and Welfare, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of Title 42][/us/usc/t42/s300gg–3]. A new section 2701, related to fair health insurance premiums, was added and amended by [Pub. L. 111–148, title I, § 1201(4)][/us/pl/111/148/s1201/4], title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of Title 42][/us/usc/t42/s300gg].
+    Section 2701 of the Public Health Service Act, referred to in subsec. (b)(3), was classified to [section 300gg of Title 42][/us/usc/t42/s300gg], The Public Health and Welfare, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended, by [Pub. L. 111–148, title I][/us/pl/111/148/tI], §§ 1201(2), 1563(c)(1), formerly § 1562(c)(1), title X, § 10107(b)(1), Mar. 23, 2010, [124 Stat. 154][/us/stat/124/154], 264, 911, and was transferred to [section 300gg–3 of Title 42][/us/usc/t42/s300gg–3]. A new section 2701, related to fair health insurance premiums, was added and amended by [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1201(4), title X, § 10103(a), Mar. 23, 2010, [124 Stat. 155][/us/stat/124/155], 892, and is classified to [section 300gg of Title 42][/us/usc/t42/s300gg].
 
  __Amendments__ 
 
@@ -128,22 +128,22 @@
 [/us/usc/t29/s1181/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Fc%2F2
 [/us/usc/t26/s9801/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs9801%2Fc%2F2
 [/us/usc/t26/s35/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs35%2Fc
-[/us/pl/93/406/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs605
-[/us/pl/99/272/s10002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10002%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F230
-[/us/pl/99/514/s1895/d/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1895%2Fd%2F5%2FB
+[/us/pl/99/514/tXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXVIII
 [/us/stat/100/2939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2939
-[/us/pl/107/210/s203/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2Fs203%2Fe%2F1
+[/us/pl/107/210/dA/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210%2FdA%2FtII
 [/us/stat/116/969]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F969
 [/us/usc/t29/s1166/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1166%2F4
 [/us/usc/t29/s1166/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1166%2Fa%2F4
-[/us/pl/101/239/s7891/d/1/A/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fd%2F1%2FA%2Fii%2FI
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
-[/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F154
 [/us/usc/t42/s300gg–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%933
-[/us/pl/111/148/s1201/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1201%2F4
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F155
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/107/210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F210

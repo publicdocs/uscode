@@ -45,7 +45,7 @@
 
         (5) to promote the goal of equal employment opportunity for women and men, pursuant to such clause.
 
-([Pub. L. 103–3, § 2][/us/pl/103/3/s2], Feb. 5, 1993, [107 Stat. 6][/us/stat/107/6].)
+([Pub. L. 103–3][/us/pl/103/3], § 2, Feb. 5, 1993, [107 Stat. 6][/us/stat/107/6].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 103–3, title IV, § 405][/us/pl/103/3/s405], Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26], provided that:
+[Pub. L. 103–3, title IV][/us/pl/103/3/tIV], § 405, Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26], provided that:
 
 >     “(a)  __Title III__  __.—__ 
 
@@ -75,13 +75,13 @@
 
  __Short Title of 2009 Amendment__ 
 
-[Pub. L. 111–119, § 1][/us/pl/111/119/s1], Dec. 21, 2009, [123 Stat. 3476][/us/stat/123/3476], provided that: 
+[Pub. L. 111–119][/us/pl/111/119], § 1, Dec. 21, 2009, [123 Stat. 3476][/us/stat/123/3476], provided that: 
 
 > “This Act \[amending sections 2611 and 2612 of this title\] may be cited as the ‘Airline Flight Crew Technical Corrections Act’.”
 
  __Short Title__ 
 
-[Pub. L. 103–3, § 1(a)][/us/pl/103/3/s1/a], Feb. 5, 1993, [107 Stat. 6][/us/stat/107/6], provided that: 
+[Pub. L. 103–3][/us/pl/103/3], § 1(a), Feb. 5, 1993, [107 Stat. 6][/us/stat/107/6], provided that: 
 
 > “This Act \[enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending [section 2105 of Title 5][/us/usc/t5/s2105], and enacting provisions set out above\] may be cited as the ‘Family and Medical Leave Act of 1993’.”
 
@@ -92,17 +92,17 @@
 ----------
 ----------
 
-[/us/pl/103/3/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs2
+[/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/103/3/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs405
+[/us/pl/103/3/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIV
 [/us/stat/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F26
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
-[/us/pl/111/119/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F119%2Fs1
+[/us/pl/111/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F119
 [/us/stat/123/3476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3476
-[/us/pl/103/3/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs1%2Fa
+[/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6
 [/us/usc/t5/s2105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs2105
 

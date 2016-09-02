@@ -123,7 +123,7 @@
 
                 If the leave taken by the husband and wife includes leave described in paragraph (1), the limitation in paragraph (1) shall apply to the leave described in paragraph (1).
 
-([Pub. L. 103–3, title I, § 102][/us/pl/103/3/s102], Feb. 5, 1993, [107 Stat. 9][/us/stat/107/9]; [Pub. L. 110–181, div. A, title V, § 585(a)(2)][/us/pl/110/181/s585/a/2], (3)(A)–(D), Jan. 28, 2008, [122 Stat. 129][/us/stat/122/129], 130; [Pub. L. 111–84, div. A, title V, § 565(a)(1)(B)][/us/pl/111/84/s565/a/1/B], (4), Oct. 28, 2009, [123 Stat. 2309][/us/stat/123/2309], 2311; [Pub. L. 111–119, § 2(b)][/us/pl/111/119/s2/b], Dec. 21, 2009, [123 Stat. 3477][/us/stat/123/3477].)
+([Pub. L. 103–3, title I][/us/pl/103/3/tI], § 102, Feb. 5, 1993, [107 Stat. 9][/us/stat/107/9]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 585(a)(2), (3)(A)–(D), Jan. 28, 2008, [122 Stat. 129][/us/stat/122/129], 130; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 565(a)(1)(B), (4), Oct. 28, 2009, [123 Stat. 2309][/us/stat/123/2309], 2311; [Pub. L. 111–119][/us/pl/111/119], § 2(b), Dec. 21, 2009, [123 Stat. 3477][/us/stat/123/3477].)
 
  __Constitutionality__ 
 
@@ -131,33 +131,33 @@ For information regarding constitutionality of certain provisions of [section 10
 
  __Amendments__ 
 
-    2009—Subsec. (a)(1)(E). [Pub. L. 111–84, § 565(a)(1)(B)(i)][/us/pl/111/84/s565/a/1/B/i], substituted “covered active duty” for “active duty” in two places and struck out “in support of a contingency operation” before period.
+    2009—Subsec. (a)(1)(E). [Pub. L. 111–84][/us/pl/111/84], § 565(a)(1)(B)(i), substituted “covered active duty” for “active duty” in two places and struck out “in support of a contingency operation” before period.
 
     Subsec. (a)(5). [Pub. L. 111–119][/us/pl/111/119] added par. (5).
 
-    Subsec. (e)(2)(A). [Pub. L. 111–84, § 565(a)(4)][/us/pl/111/84/s565/a/4], substituted “parent, or covered servicemember” for “or parent”.
+    Subsec. (e)(2)(A). [Pub. L. 111–84][/us/pl/111/84], § 565(a)(4), substituted “parent, or covered servicemember” for “or parent”.
 
-    Subsec. (e)(3). [Pub. L. 111–84, § 565(a)(1)(B)(ii)][/us/pl/111/84/s565/a/1/B/ii], substituted “covered active duty” for “active duty” in heading and in two places in text and struck out “in support of a contingency operation” before “, the employee shall provide”.
+    Subsec. (e)(3). [Pub. L. 111–84][/us/pl/111/84], § 565(a)(1)(B)(ii), substituted “covered active duty” for “active duty” in heading and in two places in text and struck out “in support of a contingency operation” before “, the employee shall provide”.
 
-    2008—Subsec. (a)(1)(E). [Pub. L. 110–181, § 585(a)(2)(A)][/us/pl/110/181/s585/a/2/A], added subpar. (E).
+    2008—Subsec. (a)(1)(E). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(2)(A), added subpar. (E).
 
-    Subsec. (a)(3), (4). [Pub. L. 110–181, § 585(a)(2)(B)][/us/pl/110/181/s585/a/2/B], added pars. (3) and (4).
+    Subsec. (a)(3), (4). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(2)(B), added pars. (3) and (4).
 
-    Subsec. (b)(1). [Pub. L. 110–181, § 585(a)(3)(A)(i)][/us/pl/110/181/s585/a/3/A/i], (ii), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 2613” for “section 2613(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)” and, after second sentence, inserted “Subject to subsection (e)(3) and [section 2613(f) of this title][/us/usc/t29/s2613/f], leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
+    Subsec. (b)(1). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(A)(i), (ii), in second sentence, substituted “subsection (b)(5) or (f) (as appropriate) of section 2613” for “section 2613(b)(5)” and inserted “or under subsection (a)(3)” after “subsection (a)(1)” and, after second sentence, inserted “Subject to subsection (e)(3) and [section 2613(f) of this title][/us/usc/t29/s2613/f], leave under subsection (a)(1)(E) may be taken intermittently or on a reduced leave schedule.”
 
-    Subsec. (b)(2). [Pub. L. 110–181, § 585(a)(3)(A)(iii)][/us/pl/110/181/s585/a/3/A/iii], inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
+    Subsec. (b)(2). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(A)(iii), inserted “or under subsection (a)(3)” after “subsection (a)(1)”.
 
-    Subsec. (d)(1). [Pub. L. 110–181, § 585(a)(3)(B)(i)][/us/pl/110/181/s585/a/3/B/i], inserted “(or 26 workweeks in the case of leave provided under subsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
+    Subsec. (d)(1). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(B)(i), inserted “(or 26 workweeks in the case of leave provided under subsection (a)(3))” after “fewer than 12 workweeks” and “(or 26 workweeks, as appropriate)” after “attain the 12 workweeks”.
 
-    Subsec. (d)(2)(A). [Pub. L. 110–181, § 585(a)(3)(B)(ii)][/us/pl/110/181/s585/a/3/B/ii], substituted “(C), or (E)” for “or (C)”.
+    Subsec. (d)(2)(A). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(B)(ii), substituted “(C), or (E)” for “or (C)”.
 
-    Subsec. (d)(2)(B). [Pub. L. 110–181, § 585(a)(3)(B)(iii)][/us/pl/110/181/s585/a/3/B/iii], inserted at end “An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.”
+    Subsec. (d)(2)(B). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(B)(iii), inserted at end “An eligible employee may elect, or an employer may require the employee, to substitute any of the accrued paid vacation leave, personal leave, family leave, or medical or sick leave of the employee for leave provided under subsection (a)(3) for any part of the 26-week period of such leave under such subsection, except that nothing in this subchapter requires an employer to provide paid sick leave or paid medical leave in any situation in which the employer would not normally provide any such paid leave.”
 
-    Subsec. (e)(2). [Pub. L. 110–181, § 585(a)(3)(C)(i)][/us/pl/110/181/s585/a/3/C/i], inserted “or under subsection (a)(3)” after “subsection (a)(1)” in introductory provisions.
+    Subsec. (e)(2). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(C)(i), inserted “or under subsection (a)(3)” after “subsection (a)(1)” in introductory provisions.
 
-    Subsec. (e)(3). [Pub. L. 110–181, § 585(a)(3)(C)(ii)][/us/pl/110/181/s585/a/3/C/ii], added par. (3).
+    Subsec. (e)(3). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(C)(ii), added par. (3).
 
-    Subsec. (f). [Pub. L. 110–181, § 585(a)(3)(D)][/us/pl/110/181/s585/a/3/D], designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
+    Subsec. (f). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(D), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), realigned margins, and added par. (2).
 
 ----------
 
@@ -172,29 +172,29 @@ For information regarding constitutionality of certain provisions of [section 10
 [/us/usc/t29/s2613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2613
 [/us/usc/t29/s2613/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2613%2Ff
 [/us/usc/t29/s213/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213%2Fa%2F1
-[/us/pl/103/3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs102
+[/us/pl/103/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtI
 [/us/stat/107/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F9
-[/us/pl/110/181/s585/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F2
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F129
-[/us/pl/111/84/s565/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FB
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2309
-[/us/pl/111/119/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F119%2Fs2%2Fb
+[/us/pl/111/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F119
 [/us/stat/123/3477]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3477
 [/us/pl/103/3/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs102
-[/us/pl/111/84/s565/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FB%2Fi
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/111/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F119
-[/us/pl/111/84/s565/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F4
-[/us/pl/111/84/s565/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FB%2Fii
-[/us/pl/110/181/s585/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F2%2FA
-[/us/pl/110/181/s585/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F2%2FB
-[/us/pl/110/181/s585/a/3/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FA%2Fi
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t29/s2613/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2613%2Ff
-[/us/pl/110/181/s585/a/3/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FA%2Fiii
-[/us/pl/110/181/s585/a/3/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FB%2Fi
-[/us/pl/110/181/s585/a/3/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FB%2Fii
-[/us/pl/110/181/s585/a/3/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FB%2Fiii
-[/us/pl/110/181/s585/a/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FC%2Fi
-[/us/pl/110/181/s585/a/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FC%2Fii
-[/us/pl/110/181/s585/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FD
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

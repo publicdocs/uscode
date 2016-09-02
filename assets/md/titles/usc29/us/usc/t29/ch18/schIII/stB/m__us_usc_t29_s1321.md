@@ -95,11 +95,11 @@
 
         For purposes of paragraph (3), the constructive ownership rules of [section 1563(e) of title 26][/us/usc/t26/s1563/e] (other than paragraph (3)(C) thereof) shall apply, including the application of such rules under [section 414(c) of title 26][/us/usc/t26/s414/c].
 
-([Pub. L. 93–406, title IV, § 4021][/us/pl/93/406/s4021], Sept. 2, 1974, [88 Stat. 1014][/us/stat/88/1014]; [Pub. L. 96–364, title IV, § 402(a)(4)][/us/pl/96/364/s402/a/4], Sept. 26, 1980, [94 Stat. 1298][/us/stat/94/1298]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2451; [Pub. L. 109–280, title IV, § 407(c)(1)][/us/pl/109/280/s407/c/1], title IX, § 906(a)(2)(B), (b)(2), Aug. 17, 2006, [120 Stat. 930][/us/stat/120/930], 1051, 1052; [Pub. L. 110–458, title I, § 109(d)(2)][/us/pl/110/458/s109/d/2], Dec. 23, 2008, [122 Stat. 5112][/us/stat/122/5112].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4021, Sept. 2, 1974, [88 Stat. 1014][/us/stat/88/1014]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 402(a)(4), Sept. 26, 1980, [94 Stat. 1298][/us/stat/94/1298]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2451; [Pub. L. 109–280, title IV][/us/pl/109/280/tIV], § 407(c)(1), title IX, § 906(a)(2)(B), (b)(2), Aug. 17, 2006, [120 Stat. 930][/us/stat/120/930], 1051, 1052; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 109(d)(2), Dec. 23, 2008, [122 Stat. 5112][/us/stat/122/5112].)
 
  __References in Text__ 
 
-    The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], [49 Stat. 967][/us/stat/49/967], known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by [act June 24, 1937, ch. 382][/us/act/1937-06-24/ch382], part I, [50 Stat. 307][/us/stat/50/307], and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by [Pub. L. 93–445, title I][/us/pl/93/445], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
+    The Railroad Retirement Act of 1935 or 1937, referred to in subsec. (b)(2), means [act Aug. 29, 1935, ch. 812][/us/act/1935-08-29/ch812], [49 Stat. 967][/us/stat/49/967], known as the Railroad Retirement Act of 1935. The Railroad Retirement Act of 1935 was amended generally by [act June 24, 1937, ch. 382, part I][/us/act/1937-06-24/ch382/ptI], [50 Stat. 307][/us/stat/50/307], and was known as the Railroad Retirement Act of 1937. The Railroad Retirement Act of 1937 was amended generally and redesignated the Railroad Retirement Act of 1974 by [Pub. L. 93–445, title I][/us/pl/93/445/tI], Oct. 16, 1974, [88 Stat. 1305][/us/stat/88/1305], and is classified generally to subchapter IV (§ 231 et seq.) of chapter 9 of Title 45, Railroads. For complete classification of this Act to the Code, see Tables.
 
     The International Organizations Immunities Act, referred to in subsec. (b)(10), is title I of [act Dec. 29, 1945, ch. 652][/us/act/1945-12-29/ch652], [59 Stat. 669][/us/stat/59/669], as amended, which is classified principally to subchapter XVIII (§ 288 et seq.) of chapter 7 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under [section 288 of Title 22][/us/usc/t22/s288] and Tables.
 
@@ -107,17 +107,17 @@
 
     2008—Subsec. (b)(14). [Pub. L. 110–458][/us/pl/110/458] struck out par. (14) which read as follows: “established and maintained by an Indian tribal government (as defined in [section 7701(a)(40) of title 26][/us/usc/t26/s7701/a/40]), a subdivision of an Indian tribal government (determined in accordance with [section 7871(d) of title 26][/us/usc/t26/s7871/d]), or an agency or instrumentality of either, and all of the participants of which are employees of such entity substantially all of whose services as such an employee are in the performance of essential governmental functions but not in the performance of commercial activities (whether or not an essential government function).”
 
-    2006—Subsec. (b)(2). [Pub. L. 109–280, § 906(a)(2)(B)][/us/pl/109/280/s906/a/2/B], inserted “or which is described in the last sentence of [section 1002(32) of this title][/us/usc/t29/s1002/32]” at end.
+    2006—Subsec. (b)(2). [Pub. L. 109–280][/us/pl/109/280], § 906(a)(2)(B), inserted “or which is described in the last sentence of [section 1002(32) of this title][/us/usc/t29/s1002/32]” at end.
 
-    Subsec. (b)(9). [Pub. L. 109–280, § 407(c)(1)(A)][/us/pl/109/280/s407/c/1/A], struck out “as defined in [section 1322(b)(6) of this title][/us/usc/t29/s1322/b/6]” before semicolon at end.
+    Subsec. (b)(9). [Pub. L. 109–280][/us/pl/109/280], § 407(c)(1)(A), struck out “as defined in [section 1322(b)(6) of this title][/us/usc/t29/s1322/b/6]” before semicolon at end.
 
-    Subsec. (b)(14). [Pub. L. 109–280, § 906(b)(2)][/us/pl/109/280/s906/b/2], added par. (14).
+    Subsec. (b)(14). [Pub. L. 109–280][/us/pl/109/280], § 906(b)(2), added par. (14).
 
-    Subsec. (d). [Pub. L. 109–280, § 407(c)(1)(B)][/us/pl/109/280/s407/c/1/B], added subsec. (d).
+    Subsec. (d). [Pub. L. 109–280][/us/pl/109/280], § 407(c)(1)(B), added subsec. (d).
 
-    1989—Subsec. (a). [Pub. L. 101–239, § 7894(g)(3)(A)][/us/pl/101/239/s7894/g/3/A], substituted “this subchapter applies” for “this section applies” in introductory provisions.
+    1989—Subsec. (a). [Pub. L. 101–239][/us/pl/101/239], § 7894(g)(3)(A), substituted “this subchapter applies” for “this section applies” in introductory provisions.
 
-    Subsecs. (a)(1), (2), (b)(3), (4)(A), (8). [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    Subsecs. (a)(1), (2), (b)(3), (4)(A), (8). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
     1980—Subsec. (a). [Pub. L. 96–364][/us/pl/96/364] inserted “unless otherwise specifically indicated in this subchapter,” after “For this purpose,”.
 
@@ -127,7 +127,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title IV, § 407(d)][/us/pl/109/280/s407/d], Aug. 17, 2006, [120 Stat. 931][/us/stat/120/931], provided that:
+[Pub. L. 109–280, title IV][/us/pl/109/280/tIV], § 407(d), Aug. 17, 2006, [120 Stat. 931][/us/stat/120/931], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -174,21 +174,21 @@
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/usc/t26/s1563/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1563%2Fe
 [/us/usc/t26/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414%2Fc
-[/us/pl/93/406/s4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4021
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1014
-[/us/pl/96/364/s402/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fa%2F4
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1298]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1298
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/109/280/s407/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs407%2Fc%2F1
+[/us/pl/109/280/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIV
 [/us/stat/120/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F930
-[/us/pl/110/458/s109/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs109%2Fd%2F2
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5112
 [/us/act/1935-08-29/ch812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-29%2Fch812
 [/us/stat/49/967]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F967
-[/us/act/1937-06-24/ch382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-24%2Fch382
+[/us/act/1937-06-24/ch382/ptI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-24%2Fch382%2FptI
 [/us/stat/50/307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F307
-[/us/pl/93/445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445
+[/us/pl/93/445/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F445%2FtI
 [/us/stat/88/1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1305
 [/us/act/1945-12-29/ch652]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-12-29%2Fch652
 [/us/stat/59/669]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F669
@@ -196,20 +196,20 @@
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/usc/t26/s7701/a/40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7701%2Fa%2F40
 [/us/usc/t26/s7871/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs7871%2Fd
-[/us/pl/109/280/s906/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs906%2Fa%2F2%2FB
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t29/s1002/32]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F32
-[/us/pl/109/280/s407/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs407%2Fc%2F1%2FA
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t29/s1322/b/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322%2Fb%2F6
-[/us/pl/109/280/s906/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs906%2Fb%2F2
-[/us/pl/109/280/s407/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs407%2Fc%2F1%2FB
-[/us/pl/101/239/s7894/g/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fg%2F3%2FA
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/109/280/s407/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs407%2Fd
+[/us/pl/109/280/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIV
 [/us/stat/120/931]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F931
 [/us/usc/t29/s1341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341%2Fc
 [/us/usc/t29/s1341/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341%2Fa%2F2

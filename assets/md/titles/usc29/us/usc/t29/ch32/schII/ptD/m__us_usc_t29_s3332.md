@@ -101,7 +101,7 @@
 
             (G) other activities designed to enhance the quality of adult education and literacy activities nationwide.
 
-([Pub. L. 113–128, title II, § 242][/us/pl/113/128/s242], July 22, 2014, [128 Stat. 1621][/us/stat/128/1621].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 242, July 22, 2014, [128 Stat. 1621][/us/stat/128/1621].)
 
  __Effective Date__ 
 
@@ -118,7 +118,7 @@
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
 [/us/usc/t29/s3224/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224%2Fa%2F2
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
-[/us/pl/113/128/s242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs242
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1621
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

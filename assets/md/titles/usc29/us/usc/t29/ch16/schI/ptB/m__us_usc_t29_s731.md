@@ -41,11 +41,11 @@
 
         (2) The Commissioner shall pay, from the allotment available therefor, the amount so estimated by the Commissioner for such period, reduced or increased, as the case may be, by any sum (not previously adjusted under this paragraph) by which the Commissioner finds that the estimate of the amount to be paid the State for any prior period under such subsection was greater or less than the amount which should have been paid to the State for such prior period under such subsection. Such payment shall be made prior to audit or settlement by the Government Accountability Office, shall be made through the disbursing facilities of the Treasury Department, and shall be made in such installments as the Commissioner may determine.
 
-([Pub. L. 93–112, title I, § 111][/us/pl/93/112/s111], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1162][/us/stat/112/1162]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(8)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–128, title IV, § 420][/us/pl/113/128/s420], July 22, 2014, [128 Stat. 1656][/us/stat/128/1656].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 111, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1162][/us/stat/112/1162]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(b)(8)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 420, July 22, 2014, [128 Stat. 1656][/us/stat/128/1656].)
 
  __Prior Provisions__ 
 
-    A prior section 731, [Pub. L. 93–112, title I, § 111][/us/pl/93/112/s111], Sept. 26, 1973, [87 Stat. 371][/us/stat/87/371]; [Pub. L. 95–602, title I, § 122(b)(1)][/us/pl/95/602/s122/b/1], Nov. 6, 1978, [92 Stat. 2987][/us/stat/92/2987]; [Pub. L. 99–506, title II, § 208][/us/pl/99/506/s208], title X, § 1001(b)(6), Oct. 21, 1986, [100 Stat. 1818][/us/stat/100/1818], 1842; [Pub. L. 100–630, title II, § 202(e)(1)][/us/pl/100/630/s202/e/1], (2)(A), (3), Nov. 7, 1988, [102 Stat. 3306][/us/stat/102/3306]; [Pub. L. 102–569, title I, § 132][/us/pl/102/569/s132], Oct. 29, 1992, [106 Stat. 4390][/us/stat/106/4390]; [Pub. L. 103–73, title I, § 107(f)][/us/pl/103/73/s107/f], Aug. 11, 1993, [107 Stat. 723][/us/stat/107/723], related to payments to States, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 731, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 111, Sept. 26, 1973, [87 Stat. 371][/us/stat/87/371]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 122(b)(1), Nov. 6, 1978, [92 Stat. 2987][/us/stat/92/2987]; [Pub. L. 99–506, title II][/us/pl/99/506/tII], § 208, title X, § 1001(b)(6), Oct. 21, 1986, [100 Stat. 1818][/us/stat/100/1818], 1842; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 202(e)(1), (2)(A), (3), Nov. 7, 1988, [102 Stat. 3306][/us/stat/102/3306]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 132, Oct. 29, 1992, [106 Stat. 4390][/us/stat/106/4390]; [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 107(f), Aug. 11, 1993, [107 Stat. 723][/us/stat/107/723], related to payments to States, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
@@ -69,26 +69,26 @@
 [/us/usc/t29/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721
 [/us/usc/t29/s730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs730
 [/us/usc/t29/s721/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F17
-[/us/pl/93/112/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs111
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1162
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/113/128/s420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs420
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1656
-[/us/pl/93/112/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs111
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
 [/us/stat/87/371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F371
-[/us/pl/95/602/s122/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs122%2Fb%2F1
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2987
-[/us/pl/99/506/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs208
+[/us/pl/99/506/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtII
 [/us/stat/100/1818]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1818
-[/us/pl/100/630/s202/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs202%2Fe%2F1
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3306
-[/us/pl/102/569/s132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs132
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4390
-[/us/pl/103/73/s107/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Ff
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F723
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

@@ -47,7 +47,7 @@
 
         (13) by encouraging joint labor-management efforts to reduce injuries and disease arising out of employment.
 
-([Pub. L. 91–596, § 2][/us/pl/91/596/s2], Dec. 29, 1970, [84 Stat. 1590][/us/stat/84/1590].)
+([Pub. L. 91–596][/us/pl/91/596], § 2, Dec. 29, 1970, [84 Stat. 1590][/us/stat/84/1590].)
 
  __References in Text__ 
 
@@ -55,19 +55,19 @@
 
  __Effective Date__ 
 
-[Pub. L. 91–596, § 34][/us/pl/91/596/s34], Dec. 29, 1970, [84 Stat. 1620][/us/stat/84/1620], provided that: 
+[Pub. L. 91–596][/us/pl/91/596], § 34, Dec. 29, 1970, [84 Stat. 1620][/us/stat/84/1620], provided that: 
 
 > “This Act \[enacting this chapter and [section 3142–1 of Title 42][/us/usc/t42/s3142–1], The Public Health and Welfare, amending [section 553 of this title][/us/usc/t29/s553], sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, [section 1114 of Title 18][/us/usc/t18/s1114], Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and [section 1114 of Title 18][/us/usc/t18/s1114]\] shall take effect one hundred and twenty days after the date of its enactment \[Dec. 29, 1970\].”
 
  __Short Title of 1998 Amendment__ 
 
-[Pub. L. 105–197, § 1][/us/pl/105/197/s1], July 16, 1998, [112 Stat. 638][/us/stat/112/638], provided that: 
+[Pub. L. 105–197][/us/pl/105/197], § 1, July 16, 1998, [112 Stat. 638][/us/stat/112/638], provided that: 
 
 > “This Act \[amending [section 670 of this title][/us/usc/t29/s670]\] may be cited as the ‘Occupational Safety and Health Administration Compliance Assistance Authorization Act of 1998’.”
 
  __Short Title__ 
 
-[Pub. L. 91–596, § 1][/us/pl/91/596/s1], Dec. 29, 1970, [84 Stat. 1590][/us/stat/84/1590], provided: 
+[Pub. L. 91–596][/us/pl/91/596], § 1, Dec. 29, 1970, [84 Stat. 1590][/us/stat/84/1590], provided: 
 
 > “That this Act \[enacting this chapter and [section 3142–1 of Title 42][/us/usc/t42/s3142–1], The Public Health and Welfare, amending [section 553 of this title][/us/usc/t29/s553], sections 5108, 5314, 5315, and 7902 of Title 5, Government Organization and Employees, sections 633 and 636 of Title 15, Commerce and Trade, [section 1114 of Title 18][/us/usc/t18/s1114], Crimes and Criminal Procedure, and section 1421 of former Title 49, Transportation, and enacting provisions set out as notes under this section and [section 1114 of Title 18][/us/usc/t18/s1114]\] may be cited as the ‘Occupational Safety and Health Act of 1970’.”
 
@@ -78,20 +78,20 @@
 ----------
 ----------
 
-[/us/pl/91/596/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs2
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590
-[/us/pl/91/596/s34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs34
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1620
 [/us/usc/t42/s3142–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3142%E2%80%931
 [/us/usc/t29/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs553
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114
-[/us/pl/105/197/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F197%2Fs1
+[/us/pl/105/197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F197
 [/us/stat/112/638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F638
 [/us/usc/t29/s670]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs670
-[/us/pl/91/596/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs1
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590
 [/us/usc/t42/s3142–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs3142%E2%80%931
 [/us/usc/t29/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs553

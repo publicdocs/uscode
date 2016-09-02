@@ -17,7 +17,7 @@
 
     There shall be in the Women’s Bureau an assistant director, to be appointed by the Secretary of Labor, who shall perform such duties as shall be prescribed by the director and approved by the Secretary of Labor.
 
-([June 5, 1920, ch. 248, § 3][/us/act/1920-06-05/ch248/s3], [41 Stat. 987][/us/stat/41/987].)
+([June 5, 1920, ch. 248][/us/act/1920-06-05/ch248], § 3, [41 Stat. 987][/us/stat/41/987].)
 
  __Codification__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch248/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch248%2Fs3
+[/us/act/1920-06-05/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch248
 [/us/stat/41/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F987
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 

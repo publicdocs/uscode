@@ -47,7 +47,7 @@
 
         A State that receives an allotment under this subchapter shall reserve and expend half of such allotment for the provision of supported employment services, including extended services, to youth with the most significant disabilities in order to assist those youth in achieving an employment outcome in supported employment.
 
-([Pub. L. 93–112, title VI, § 603][/us/pl/93/112/s603], formerly § 622, as added [Pub. L. 105–220, title IV, § 409][/us/pl/105/220/s409], Aug. 7, 1998, [112 Stat. 1214][/us/stat/112/1214]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(13)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–414; renumbered § 603 and amended [Pub. L. 113–128, title IV, § 461(3)][/us/pl/113/128/s461/3], (5), July 22, 2014, [128 Stat. 1679][/us/stat/128/1679].)
+([Pub. L. 93–112, title VI][/us/pl/93/112/tVI], § 603, formerly § 622, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 409, Aug. 7, 1998, [112 Stat. 1214][/us/stat/112/1214]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(b)(13)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–414; renumbered § 603 and amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 461(3), (5), July 22, 2014, [128 Stat. 1679][/us/stat/128/1679].)
 
  __References in Text__ 
 
@@ -57,21 +57,21 @@
 
     Provisions similar to this section were contained in [section 795k of this title][/us/usc/t29/s795k] prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    A prior section 795h, [Pub. L. 93–112, title VI, § 622][/us/pl/93/112/s622], as added [Pub. L. 95–602, title II, § 201][/us/pl/95/602/s201], Nov. 6, 1978, [92 Stat. 2994][/us/stat/92/2994], and amended, which related to business opportunities for individuals with disabilities and promulgation of regulations, was renumbered [section 641 of Pub. L. 93–112][/us/pl/93/112/s641], by [Pub. L. 102–569, title VI, § 612(a)(2)][/us/pl/102/569/s612/a/2], (3), Oct. 29, 1992, [106 Stat. 4438][/us/stat/106/4438], and transferred to [section 795r of this title][/us/usc/t29/s795r], prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 795h, [Pub. L. 93–112, title VI][/us/pl/93/112/tVI], § 622, as added [Pub. L. 95–602, title II][/us/pl/95/602/tII], § 201, Nov. 6, 1978, [92 Stat. 2994][/us/stat/92/2994], and amended, which related to business opportunities for individuals with disabilities and promulgation of regulations, was renumbered [section 641 of Pub. L. 93–112][/us/pl/93/112/s641], by [Pub. L. 102–569, title VI][/us/pl/102/569/tVI], § 612(a)(2), (3), Oct. 29, 1992, [106 Stat. 4438][/us/stat/106/4438], and transferred to [section 795r of this title][/us/usc/t29/s795r], prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–128, § 461(5)(A)(i)(I)][/us/pl/113/128/s461/5/A/i/I], substituted “subchapter” for “part” in introductory provisions.
+    2014—Subsec. (a)(1). [Pub. L. 113–128][/us/pl/113/128], § 461(5)(A)(i)(I), substituted “subchapter” for “part” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 113–128, § 461(5)(A)(i)(II)][/us/pl/113/128/s461/5/A/i/II], inserted “amount” after “whichever”.
+    Subsec. (a)(1)(A). [Pub. L. 113–128][/us/pl/113/128], § 461(5)(A)(i)(II), inserted “amount” after “whichever”.
 
-    Subsec. (a)(1)(B). [Pub. L. 113–128, § 461(5)(A)(i)(III)][/us/pl/113/128/s461/5/A/i/III], substituted “subchapter for the fiscal year” for “part for the fiscal year” and “part B of this subchapter (as in effect on September 30, 1992) in fiscal year 1992” for “this part in fiscal year 1992” and inserted “amount” after “whichever”.
+    Subsec. (a)(1)(B). [Pub. L. 113–128][/us/pl/113/128], § 461(5)(A)(i)(III), substituted “subchapter for the fiscal year” for “part for the fiscal year” and “part B of this subchapter (as in effect on September 30, 1992) in fiscal year 1992” for “this part in fiscal year 1992” and inserted “amount” after “whichever”.
 
-    Subsec. (a)(2)(B). [Pub. L. 113–128, § 461(5)(A)(ii)][/us/pl/113/128/s461/5/A/ii], substituted “⅛ of 1 percent” for “one-eighth of one percent”.
+    Subsec. (a)(2)(B). [Pub. L. 113–128][/us/pl/113/128], § 461(5)(A)(ii), substituted “⅛ of 1 percent” for “one-eighth of one percent”.
 
-    Subsec. (b). [Pub. L. 113–128, § 461(5)(B)][/us/pl/113/128/s461/5/B], inserted “under subsection (a)” after “allotment to a State”, substituted “subchapter” for “part” in two places, and substituted “1 or more” for “one or more”.
+    Subsec. (b). [Pub. L. 113–128][/us/pl/113/128], § 461(5)(B), inserted “under subsection (a)” after “allotment to a State”, substituted “subchapter” for “part” in two places, and substituted “1 or more” for “one or more”.
 
-    Subsecs. (c), (d). [Pub. L. 113–128, § 461(5)(C)][/us/pl/113/128/s461/5/C], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 113–128][/us/pl/113/128], § 461(5)(C), added subsecs. (c) and (d).
 
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment in original to section designation and catchline.
 
@@ -82,29 +82,29 @@
 ----------
 ----------
 
-[/us/pl/93/112/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs603
-[/us/pl/105/220/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs409
+[/us/pl/93/112/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1214
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s461/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F3
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1679]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1679
 [/us/usc/t29/s795k]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs795k
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s622]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs622
-[/us/pl/95/602/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs201
+[/us/pl/93/112/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVI
+[/us/pl/95/602/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtII
 [/us/stat/92/2994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2994
 [/us/pl/93/112/s641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs641
-[/us/pl/102/569/s612/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs612%2Fa%2F2
+[/us/pl/102/569/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVI
 [/us/stat/106/4438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4438
 [/us/usc/t29/s795r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs795r
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s461/5/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F5%2FA%2Fi%2FI
-[/us/pl/113/128/s461/5/A/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F5%2FA%2Fi%2FII
-[/us/pl/113/128/s461/5/A/i/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F5%2FA%2Fi%2FIII
-[/us/pl/113/128/s461/5/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F5%2FA%2Fii
-[/us/pl/113/128/s461/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F5%2FB
-[/us/pl/113/128/s461/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs461%2F5%2FC
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 
 

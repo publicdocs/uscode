@@ -59,7 +59,7 @@
 
         The remedies provided for in this section shall be the exclusive remedies for any violation of this chapter. Under this chapter, a Federal court shall not have authority to enjoin a plant closing or mass layoff.
 
-([Pub. L. 100–379, § 5][/us/pl/100/379/s5], Aug. 4, 1988, [102 Stat. 893][/us/stat/102/893].)
+([Pub. L. 100–379][/us/pl/100/379], § 5, Aug. 4, 1988, [102 Stat. 893][/us/stat/102/893].)
 
 ----------
 
@@ -73,7 +73,7 @@
 [/us/usc/t29/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2102
 [/us/usc/t29/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2102
 [/us/usc/t29/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2102
-[/us/pl/100/379/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379%2Fs5
+[/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/893]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F893
 
 

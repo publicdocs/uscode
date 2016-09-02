@@ -51,29 +51,29 @@
 
     (8) identify effective strategies for supporting the employment of individuals with disabilities in competitive integrated employment.
 
-([Pub. L. 93–112, title II, § 200][/us/pl/93/112/s200], as added [Pub. L. 105–220, title IV, § 405][/us/pl/105/220/s405], Aug. 7, 1998, [112 Stat. 1167][/us/stat/112/1167]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; [Pub. L. 113–128, title IV, § 431][/us/pl/113/128/s431], July 22, 2014, [128 Stat. 1660][/us/stat/128/1660].)
+([Pub. L. 93–112, title II][/us/pl/93/112/tII], § 200, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 405, Aug. 7, 1998, [112 Stat. 1167][/us/stat/112/1167]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 401(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 431, July 22, 2014, [128 Stat. 1660][/us/stat/128/1660].)
 
  __Prior Provisions__ 
 
-    A prior section 760, [Pub. L. 93–112, title II, § 200][/us/pl/93/112/s200], Sept. 26, 1973, [87 Stat. 374][/us/stat/87/374]; [Pub. L. 95–602, title I, § 107][/us/pl/95/602/s107], Nov. 6, 1978, [92 Stat. 2962][/us/stat/92/2962]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810]; [Pub. L. 102–569, title II, § 201][/us/pl/102/569/s201], Oct. 29, 1992, [106 Stat. 4398][/us/stat/106/4398], contained congressional declaration of purpose, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 760, [Pub. L. 93–112, title II][/us/pl/93/112/tII], § 200, Sept. 26, 1973, [87 Stat. 374][/us/stat/87/374]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 107, Nov. 6, 1978, [92 Stat. 2962][/us/stat/92/2962]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(C), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810]; [Pub. L. 102–569, title II][/us/pl/102/569/tII], § 201, Oct. 29, 1992, [106 Stat. 4398][/us/stat/106/4398], contained congressional declaration of purpose, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Pars. (1), (2). [Pub. L. 113–128, § 431(1)][/us/pl/113/128/s431/1], (2), inserted “technical assistance,” after “training,”.
+    2014—Pars. (1), (2). [Pub. L. 113–128][/us/pl/113/128], § 431(1), (2), inserted “technical assistance,” after “training,”.
 
-    Par. (3). [Pub. L. 113–128, § 431(3)][/us/pl/113/128/s431/3], in introductory provisions, inserted “and use” after “transfer” and “, in a timely and efficient manner,” after “disabilities”.
+    Par. (3). [Pub. L. 113–128][/us/pl/113/128], § 431(3), in introductory provisions, inserted “and use” after “transfer” and “, in a timely and efficient manner,” after “disabilities”.
 
-    Par. (4). [Pub. L. 113–128, § 431(4)][/us/pl/113/128/s431/4], substituted “dissemination” for “distribution” in introductory provisions.
+    Par. (4). [Pub. L. 113–128][/us/pl/113/128], § 431(4), substituted “dissemination” for “distribution” in introductory provisions.
 
-    Par. (5). [Pub. L. 113–128, § 431(5)][/us/pl/113/128/s431/5], inserted “, including individuals with intellectual and psychiatric disabilities,” after “disabilities” and struck out “and” after semicolon at end.
+    Par. (5). [Pub. L. 113–128][/us/pl/113/128], § 431(5), inserted “, including individuals with intellectual and psychiatric disabilities,” after “disabilities” and struck out “and” after semicolon at end.
 
-    Par. (6). [Pub. L. 113–128, § 431(7)][/us/pl/113/128/s431/7], added par. (6). Former par. (6) redesignated (7).
+    Par. (6). [Pub. L. 113–128][/us/pl/113/128], § 431(7), added par. (6). Former par. (6) redesignated (7).
 
-    Par. (7). [Pub. L. 113–128, § 431(6)][/us/pl/113/128/s431/6], redesignated par. (6) as (7).
+    Par. (7). [Pub. L. 113–128][/us/pl/113/128], § 431(6), redesignated par. (6) as (7).
 
-    Par. (8). [Pub. L. 113–128, § 431(8)][/us/pl/113/128/s431/8], (9), added par. (8).
+    Par. (8). [Pub. L. 113–128][/us/pl/113/128], § 431(8), (9), added par. (8).
 
-    1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to directory language of [Pub. L. 105–220, § 405][/us/pl/105/220/s405], which enacted this section.
+    1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment to directory language of [Pub. L. 105–220][/us/pl/105/220], § 405, which enacted this section.
 
 ----------
 
@@ -84,30 +84,30 @@
 
 [/us/usc/t29/s762/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs762%2Fh
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
-[/us/pl/93/112/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs200
-[/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405
+[/us/pl/93/112/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1167
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1660]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1660
-[/us/pl/93/112/s200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs200
+[/us/pl/93/112/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtII
 [/us/stat/87/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F374
-[/us/pl/95/602/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs107
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2962
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/102/569/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs201
+[/us/pl/102/569/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtII
 [/us/stat/106/4398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4398
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s431/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F1
-[/us/pl/113/128/s431/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F3
-[/us/pl/113/128/s431/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F4
-[/us/pl/113/128/s431/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F5
-[/us/pl/113/128/s431/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F7
-[/us/pl/113/128/s431/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F6
-[/us/pl/113/128/s431/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs431%2F8
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 
 

@@ -83,7 +83,7 @@
 
         (13) whether the local areas in which the eligible provider is located have a demonstrated need for additional English language acquisition programs and civics education programs.
 
-([Pub. L. 113–128, title II, § 231][/us/pl/113/128/s231], July 22, 2014, [128 Stat. 1618][/us/stat/128/1618].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 231, July 22, 2014, [128 Stat. 1618][/us/stat/128/1618].)
 
  __Effective Date__ 
 
@@ -102,7 +102,7 @@
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
 [/us/usc/t29/s3123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3123
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
-[/us/pl/113/128/s231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs231
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1618
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

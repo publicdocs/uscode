@@ -17,7 +17,7 @@
 
     The giving of notice pursuant to this chapter, if done in good faith compliance with this chapter, shall not constitute a violation of the National Labor Relations Act \[[29 U.S.C. 151][/us/usc/t29/s151] et seq.\] or the Railway Labor Act \[[45 U.S.C. 151][/us/usc/t45/s151] et seq.\].
 
-([Pub. L. 100–379, § 9][/us/pl/100/379/s9], Aug. 4, 1988, [102 Stat. 894][/us/stat/102/894].)
+([Pub. L. 100–379][/us/pl/100/379], § 9, Aug. 4, 1988, [102 Stat. 894][/us/stat/102/894].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/100/379/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379%2Fs9
+[/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F894
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F452

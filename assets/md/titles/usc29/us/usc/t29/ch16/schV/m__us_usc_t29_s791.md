@@ -39,13 +39,13 @@
 
         The standards used to determine whether this section has been violated in a complaint alleging nonaffirmative action employment discrimination under this section shall be the standards applied under title I of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12111][/us/usc/t42/s12111] et seq.) and the provisions of sections 501 through 504, and 510, <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Americans with Disabilities Act of 1990 ([42 U.S.C. 12201–122][/us/usc/t42/s12201–122]04 and 12210), as such sections relate to employment.
 
-([Pub. L. 93–112, title V, § 501][/us/pl/93/112/s501], Sept. 26, 1973, [87 Stat. 390][/us/stat/87/390]; [Pub. L. 98–221, title I, § 104(b)(3)][/us/pl/98/221/s104/b/3], Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title X, §§ 1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1843, 1844; [Pub. L. 100–630, title II, § 206(a)][/us/pl/100/630/s206/a], Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–54, § 13(k)(1)(B)][/us/pl/102/54/s13/k/1/B], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–569, title I, § 102(p)(29)][/us/pl/102/569/s102/p/29], title V, § 503, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4424; [Pub. L. 103–73, title I, § 112(a)][/us/pl/103/73/s112/a], Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–220, title III, § 341(c)][/us/pl/105/220/s341/c], title IV, § 408(a)(1), Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], 1202; [Pub. L. 109–435, title VI, § 604(d)][/us/pl/109/435/s604/d], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–256, § 2(d)(3)][/us/pl/111/256/s2/d/3], Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title IV, § 456(a)][/us/pl/113/128/s456/a], July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
+([Pub. L. 93–112, title V][/us/pl/93/112/tV], § 501, Sept. 26, 1973, [87 Stat. 390][/us/stat/87/390]; [Pub. L. 98–221, title I][/us/pl/98/221/tI], § 104(b)(3), Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(C), title X, §§ 1001(f)(1), 1002(e)(1), (2)(A), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1843, 1844; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 206(a), Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–54][/us/pl/102/54], § 13(k)(1)(B), June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 102(p)(29), title V, § 503, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4424; [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 112(a), Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 341(c), title IV, § 408(a)(1), Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], 1202; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(d), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–256][/us/pl/111/256], § 2(d)(3), Oct. 5, 2010, [124 Stat. 2643][/us/stat/124/2643]; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 456(a), July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
 
  __References in Text__ 
 
     Level IV of the Executive Schedule, referred to in subsec. (a), is set out in [section 5315 of Title 5][/us/usc/t5/s5315], Government Organization and Employees.
 
-    The Americans with Disabilities Act of 1990, referred to in subsec. (f), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327]. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
+    The Americans with Disabilities Act of 1990, referred to in subsec. (f), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327]. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42, The Public Health and Welfare. Section 510 of the Act was renumbered section 511 by [Pub. L. 110–325][/us/pl/110/325], § 6(a)(2), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
  __Prior Provisions__ 
 
@@ -61,65 +61,65 @@
 
     2010—Subsec. (a). [Pub. L. 111–256][/us/pl/111/256] substituted “President’s Disability Employment Partnership Board and the President’s Committee for People with Intellectual Disabilities” for “President’s Committees on Employment of People With Disabilities and on Mental Retardation”.
 
-    2006—Subsec. (b). [Pub. L. 109–435, § 604(d)][/us/pl/109/435/s604/d], substituted “Postal Regulatory Commission” for “Postal Rate Office”.
+    2006—Subsec. (b). [Pub. L. 109–435][/us/pl/109/435], § 604(d), substituted “Postal Regulatory Commission” for “Postal Rate Office”.
 
-    1998—Subsec. (a). [Pub. L. 105–220, § 408(a)(1)(A)][/us/pl/105/220/s408/a/1/A], substituted “President’s Committees on Employment of People With Disabilities” for “President’s Committees on Employment of the Handicapped” in third sentence.
+    1998—Subsec. (a). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(1)(A), substituted “President’s Committees on Employment of People With Disabilities” for “President’s Committees on Employment of the Handicapped” in third sentence.
 
-    [Pub. L. 105–220, § 341(c)(1)][/us/pl/105/220/s341/c/1], inserted “and the Smithsonian Institution” after “Government” in fourth sentence.
+    [Pub. L. 105–220][/us/pl/105/220], § 341(c)(1), inserted “and the Smithsonian Institution” after “Government” in fourth sentence.
 
-    Subsec. (b). [Pub. L. 105–220, § 341(c)(2)][/us/pl/105/220/s341/c/2], in first sentence, inserted “and the Smithsonian Institution” after “in the executive branch” and substituted “such department, agency, instrumentality, or Institution” for “such department, agency, or instrumentality”.
+    Subsec. (b). [Pub. L. 105–220][/us/pl/105/220], § 341(c)(2), in first sentence, inserted “and the Smithsonian Institution” after “in the executive branch” and substituted “such department, agency, instrumentality, or Institution” for “such department, agency, or instrumentality”.
 
-    Subsec. (d). [Pub. L. 105–220, § 341(c)(3)][/us/pl/105/220/s341/c/3], inserted “and the Smithsonian Institution” after “instrumentality”.
+    Subsec. (d). [Pub. L. 105–220][/us/pl/105/220], § 341(c)(3), inserted “and the Smithsonian Institution” after “instrumentality”.
 
-    Subsec. (e). [Pub. L. 105–220, § 408(a)(1)(B)][/us/pl/105/220/s408/a/1/B], substituted “individualized plan for employment” for “individualized written rehabilitation program”.
+    Subsec. (e). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(1)(B), substituted “individualized plan for employment” for “individualized written rehabilitation program”.
 
     1993—Subsec. (a). [Pub. L. 103–73][/us/pl/103/73] in first sentence inserted comma after “Veterans Affairs”.
 
-    1992—[Pub. L. 102–569, § 102(p)(29)(A)][/us/pl/102/569/s102/p/29/A], substituted “disabilities” for “handicaps” in section catchline.
+    1992—[Pub. L. 102–569][/us/pl/102/569], § 102(p)(29)(A), substituted “disabilities” for “handicaps” in section catchline.
 
-    Subsec. (a). [Pub. L. 102–569, § 503(a)][/us/pl/102/569/s503/a], substituted “the Director of the Office of Personnel Management, the Secretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
+    Subsec. (a). [Pub. L. 102–569][/us/pl/102/569], § 503(a), substituted “the Director of the Office of Personnel Management, the Secretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
 
-    [Pub. L. 102–569, § 102(p)(29)(B)][/us/pl/102/569/s102/p/29/B], (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee on Handicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
+    [Pub. L. 102–569][/us/pl/102/569], § 102(p)(29)(B), (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee on Handicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
 
-    Subsec. (b). [Pub. L. 102–569, § 102(p)(29)(C)][/us/pl/102/569/s102/p/29/C], (D), substituted “individuals with disabilities” for “individuals with handicaps” after “advancement of” and after “opportunities for” and “employees who are individuals with disabilities” for “employees with handicaps”.
+    Subsec. (b). [Pub. L. 102–569][/us/pl/102/569], § 102(p)(29)(C), (D), substituted “individuals with disabilities” for “individuals with handicaps” after “advancement of” and after “opportunities for” and “employees who are individuals with disabilities” for “employees with handicaps”.
 
-    Subsecs. (c), (d), (f)(2). [Pub. L. 102–569, § 102(p)(29)(C)][/us/pl/102/569/s102/p/29/C], substituted “individuals with disabilities” for “individuals with handicaps”.
+    Subsecs. (c), (d), (f)(2). [Pub. L. 102–569][/us/pl/102/569], § 102(p)(29)(C), substituted “individuals with disabilities” for “individuals with handicaps”.
 
-    Subsec. (g). [Pub. L. 102–569, § 503(b)][/us/pl/102/569/s503/b], added subsec. (g).
+    Subsec. (g). [Pub. L. 102–569][/us/pl/102/569], § 503(b), added subsec. (g).
 
     1991—Subsec. (a). [Pub. L. 102–54][/us/pl/102/54] substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
 
-    1988—Subsec. (a). [Pub. L. 100–630, § 206(a)(3)(C)][/us/pl/100/630/s206/a/3/C], which directed substitution of “Employment of People With Disabilities” for “Employment of the Handicapped” in second sentence, could not be executed because the words did not appear in second sentence.
+    1988—Subsec. (a). [Pub. L. 100–630][/us/pl/100/630], § 206(a)(3)(C), which directed substitution of “Employment of People With Disabilities” for “Employment of the Handicapped” in second sentence, could not be executed because the words did not appear in second sentence.
 
-    [Pub. L. 100–630, § 206(a)(1)][/us/pl/100/630/s206/a/1]–(3)(B), (4), inserted “(hereafter in this section referred to as the ‘Commission’)” after first reference to “Equal Employment Opportunity Commission” and substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing, “Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services” for “Secretaries of Labor and Education and Health and Human Services” in first sentence, “co-chairpersons” for “co-chairmen” in second sentence, and “Commission” for “Office” in cl. (2).
+    [Pub. L. 100–630][/us/pl/100/630], § 206(a)(1)–(3)(B), (4), inserted “(hereafter in this section referred to as the ‘Commission’)” after first reference to “Equal Employment Opportunity Commission” and substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing, “Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services” for “Secretaries of Labor and Education and Health and Human Services” in first sentence, “co-chairpersons” for “co-chairmen” in second sentence, and “Commission” for “Office” in cl. (2).
 
-    Subsec. (b). [Pub. L. 100–630, § 206(a)(2)][/us/pl/100/630/s206/a/2], (5), substituted “submit to the Commission” for “submit to the Equal Employment Opportunity Commission”, “employees with handicaps” for “handicapped employees”, and “Commission, if the Commission determines” for “Office, if the Office determines”.
+    Subsec. (b). [Pub. L. 100–630][/us/pl/100/630], § 206(a)(2), (5), substituted “submit to the Commission” for “submit to the Equal Employment Opportunity Commission”, “employees with handicaps” for “handicapped employees”, and “Commission, if the Commission determines” for “Office, if the Office determines”.
 
-    Subsecs. (c), (d). [Pub. L. 100–630, § 206(a)(2)][/us/pl/100/630/s206/a/2], substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing.
+    Subsecs. (c), (d). [Pub. L. 100–630][/us/pl/100/630], § 206(a)(2), substituted “Commission” for “Equal Opportunity Employment Commission” wherever appearing.
 
-    Subsec. (e). [Pub. L. 100–630, § 206(a)(6)][/us/pl/100/630/s206/a/6], substituted “an individualized” for “a individualized”.
+    Subsec. (e). [Pub. L. 100–630][/us/pl/100/630], § 206(a)(6), substituted “an individualized” for “a individualized”.
 
-    Subsec. (f)(1), (2). [Pub. L. 100–630, § 206(a)(7)][/us/pl/100/630/s206/a/7], substituted “Employment of People With Disabilities” for “Employment of the Handicapped”.
+    Subsec. (f)(1), (2). [Pub. L. 100–630][/us/pl/100/630], § 206(a)(7), substituted “Employment of People With Disabilities” for “Employment of the Handicapped”.
 
-    1986—[Pub. L. 99–506, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], substituted “individuals with handicaps” for “handicapped individuals” in section catchline.
+    1986—[Pub. L. 99–506][/us/pl/99/506], § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” in section catchline.
 
     Subsecs. (a) to (c). [Pub. L. 99–506][/us/pl/99/506], §§ 103(d)(2)(C), 1002(e)(1), substituted “Equal Employment Opportunity Commission” for “Office of Personnel Management” and “individuals with handicaps” for “handicapped individuals” wherever appearing.
 
     Subsec. (d). [Pub. L. 99–506][/us/pl/99/506], §§ 103(d)(2)(C), 1002(e)(1), (2)(A), substituted “Equal Employment Opportunity Commission” for “Office of Personnel Management” wherever appearing, “individuals with handicaps” for “handicapped individuals”, and “of the activities” for “of the the activities”.
 
-    Subsec. (e). [Pub. L. 99–506, § 1001(f)(1)][/us/pl/99/506/s1001/f/1], substituted “a individualized” for “his individualized”.
+    Subsec. (e). [Pub. L. 99–506][/us/pl/99/506], § 1001(f)(1), substituted “a individualized” for “his individualized”.
 
-    Subsec. (f)(2). [Pub. L. 99–506, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], substituted “individuals with handicaps” for “handicapped individuals”.
+    Subsec. (f)(2). [Pub. L. 99–506][/us/pl/99/506], § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals”.
 
-    1984—Subsec. (a). [Pub. L. 98–221, § 104(b)(3)(A)][/us/pl/98/221/s104/b/3/A]–(D), substituted “the Chairman of the Office of Personnel Management” and “Education and Health and Human Services” for “the Chairman of the Civil Service Commission” and “Health, Education, and Welfare”, respectively, in first sentence, “Secretary of Education and the Chairman of the Office of Personnel Management” for “Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission” in second sentence, “Office of Personnel Management” for “Civil Service Commission” in four places, and “Office” for “Commission”.
+    1984—Subsec. (a). [Pub. L. 98–221][/us/pl/98/221], § 104(b)(3)(A)–(D), substituted “the Chairman of the Office of Personnel Management” and “Education and Health and Human Services” for “the Chairman of the Civil Service Commission” and “Health, Education, and Welfare”, respectively, in first sentence, “Secretary of Education and the Chairman of the Office of Personnel Management” for “Secretary of Health, Education, and Welfare and the Chairman of the Civil Service Commission” in second sentence, “Office of Personnel Management” for “Civil Service Commission” in four places, and “Office” for “Commission”.
 
-    Subsec. (b). [Pub. L. 98–221, § 104(b)(3)(C)][/us/pl/98/221/s104/b/3/C], (D), substituted “Office of Personnel Management” for “Civil Service Commission” and substituted “Office” for “Commission” in three places.
+    Subsec. (b). [Pub. L. 98–221][/us/pl/98/221], § 104(b)(3)(C), (D), substituted “Office of Personnel Management” for “Civil Service Commission” and substituted “Office” for “Commission” in three places.
 
-    Subsec. (c). [Pub. L. 98–221, § 104(b)(3)(C)][/us/pl/98/221/s104/b/3/C], substituted “Office of Personnel Management” for “Civil Service Commission”.
+    Subsec. (c). [Pub. L. 98–221][/us/pl/98/221], § 104(b)(3)(C), substituted “Office of Personnel Management” for “Civil Service Commission”.
 
-    Subsec. (d). [Pub. L. 98–221, § 104(b)(3)(C)][/us/pl/98/221/s104/b/3/C], (E), substituted “Office of Personnel Management” for “Civil Service Commission” in two places and “the activities of the Office of Personnel Management” for “Civil Service Commission’s activities”.
+    Subsec. (d). [Pub. L. 98–221][/us/pl/98/221], § 104(b)(3)(C), (E), substituted “Office of Personnel Management” for “Civil Service Commission” in two places and “the activities of the Office of Personnel Management” for “Civil Service Commission’s activities”.
 
-    Subsec. (f)(1). [Pub. L. 98–221, § 104(b)(3)(F)][/us/pl/98/221/s104/b/3/F], substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
+    Subsec. (f)(1). [Pub. L. 98–221][/us/pl/98/221], § 104(b)(3)(F), substituted “Secretary of Education” for “Secretary of Health, Education, and Welfare”.
 
  __Effective Date of 1998 Amendment__ 
 
@@ -127,7 +127,7 @@
 
  __Effective Date of 1992 Amendment__ 
 
-[Pub. L. 102–569, title I, § 138][/us/pl/102/569/s138], Oct. 29, 1992, [106 Stat. 4397][/us/stat/106/4397], as amended by [Pub. L. 103–73, title I, § 102(3)][/us/pl/103/73/s102/3], Aug. 11, 1993, [107 Stat. 718][/us/stat/107/718], provided that:
+[Pub. L. 102–569, title I][/us/pl/102/569/tI], § 138, Oct. 29, 1992, [106 Stat. 4397][/us/stat/106/4397], as amended by [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 102(3), Aug. 11, 1993, [107 Stat. 718][/us/stat/107/718], provided that:
 
 >     “(a)  __Effective Date__  __.—__ 
 
@@ -139,7 +139,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–506, title X, § 1006][/us/pl/99/506/s1006], Oct. 21, 1986, [100 Stat. 1846][/us/stat/100/1846], provided that: 
+[Pub. L. 99–506, title X][/us/pl/99/506/tX], § 1006, Oct. 21, 1986, [100 Stat. 1846][/us/stat/100/1846], provided that: 
 
 > “Except as otherwise provided in this Act \[see Short Title of 1986 Amendment note set out under [section 701 of this title][/us/usc/t29/s701]\], this Act shall take effect on the date of its enactment \[Oct. 21, 1986\].”
 
@@ -320,73 +320,73 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
 [/us/usc/t42/s12201–122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12201%E2%80%93122
-[/us/pl/93/112/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs501
+[/us/pl/93/112/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtV
 [/us/stat/87/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F390
-[/us/pl/98/221/s104/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs104%2Fb%2F3
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F18
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fa
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3310
-[/us/pl/102/54/s13/k/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fk%2F1%2FB
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F276
-[/us/pl/102/569/s102/p/29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F29
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4360
-[/us/pl/103/73/s112/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs112%2Fa
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F727
-[/us/pl/105/220/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fc
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
-[/us/pl/109/435/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fd
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/111/256/s2/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256%2Fs2%2Fd%2F3
+[/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
 [/us/stat/124/2643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2643
-[/us/pl/113/128/s456/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs456%2Fa
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1675
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
-[/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs38
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/111/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F256
-[/us/pl/109/435/s604/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Fd
-[/us/pl/105/220/s408/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F1%2FA
-[/us/pl/105/220/s341/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fc%2F1
-[/us/pl/105/220/s341/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fc%2F2
-[/us/pl/105/220/s341/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fc%2F3
-[/us/pl/105/220/s408/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F1%2FB
+[/us/pl/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
-[/us/pl/102/569/s102/p/29/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F29%2FA
-[/us/pl/102/569/s503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs503%2Fa
-[/us/pl/102/569/s102/p/29/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F29%2FB
-[/us/pl/102/569/s102/p/29/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F29%2FC
-[/us/pl/102/569/s102/p/29/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F29%2FC
-[/us/pl/102/569/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs503%2Fb
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/pl/100/630/s206/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fa%2F3%2FC
-[/us/pl/100/630/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fa%2F1
-[/us/pl/100/630/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fa%2F2
-[/us/pl/100/630/s206/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fa%2F2
-[/us/pl/100/630/s206/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fa%2F6
-[/us/pl/100/630/s206/a/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fa%2F7
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
 [/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
 [/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
-[/us/pl/99/506/s1001/f/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1001%2Ff%2F1
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
-[/us/pl/98/221/s104/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs104%2Fb%2F3%2FA
-[/us/pl/98/221/s104/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs104%2Fb%2F3%2FC
-[/us/pl/98/221/s104/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs104%2Fb%2F3%2FC
-[/us/pl/98/221/s104/b/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs104%2Fb%2F3%2FC
-[/us/pl/98/221/s104/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs104%2Fb%2F3%2FF
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
+[/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
+[/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
+[/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
+[/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
 [/us/pl/105/220/s341/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fc
 [/us/pl/105/220/s341/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fd
 [/us/usc/t29/s633a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs633a
-[/us/pl/102/569/s138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs138
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4397
-[/us/pl/103/73/s102/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs102%2F3
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F718
 [/us/usc/t29/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs752
 [/us/usc/t29/s712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs712
@@ -395,7 +395,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/usc/t29/s752]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs752
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
-[/us/pl/99/506/s1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1006
+[/us/pl/99/506/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtX
 [/us/stat/100/1846]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1846
 [/us/usc/t29/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs701
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

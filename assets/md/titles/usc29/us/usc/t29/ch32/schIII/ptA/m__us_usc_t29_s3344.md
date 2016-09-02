@@ -17,7 +17,7 @@
 
     In order to simplify reporting requirements and reduce reporting burdens, the Secretary of Labor, the Secretary of Education, and the Secretary of Health and Human Services shall establish procedures and criteria under which a State board and local board may reduce reporting burdens and requirements under this Act (including the amendments made by this Act).
 
-([Pub. L. 113–128, title V, § 504][/us/pl/113/128/s504], July 22, 2014, [128 Stat. 1702][/us/stat/128/1702].)
+([Pub. L. 113–128, title V][/us/pl/113/128/tV], § 504, July 22, 2014, [128 Stat. 1702][/us/stat/128/1702].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/113/128/s504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs504
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1702
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425

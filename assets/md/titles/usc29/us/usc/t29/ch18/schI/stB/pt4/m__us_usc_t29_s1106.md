@@ -49,7 +49,7 @@
 
         A transfer of real or personal property by a party in interest to a plan shall be treated as a sale or exchange if the property is subject to a mortgage or similar lien which the plan assumes or if it is subject to a mortgage or similar lien which a party-in-interest placed on the property within the 10-year period ending on the date of the transfer.
 
-([Pub. L. 93–406, title I, § 406][/us/pl/93/406/s406], Sept. 2, 1974, [88 Stat. 879][/us/stat/88/879].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 406, Sept. 2, 1974, [88 Stat. 879][/us/stat/88/879].)
 
 ----------
 
@@ -61,7 +61,7 @@
 [/us/usc/t29/s1108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1108
 [/us/usc/t29/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1107%2Fa
 [/us/usc/t29/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1107%2Fa
-[/us/pl/93/406/s406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs406
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/879]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F879
 
 

@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t29/ch20/schI/m__us_usc_t29_s1815.md) | [Next](./../../../../..//us/usc/t29/ch20/schII/m__us_usc_t29_ch20_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1816)
 
-## § 1816. Repealed. [Pub. L. 99–603, title I, § 101(b)(1)(C)][/us/pl/99/603/s101/b/1/C], Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372]
+## § 1816. Repealed. [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 101(b)(1)(C), Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372]
 
-    Section, [Pub. L. 97–470, title I, § 106][/us/pl/97/470/s106], Jan. 14, 1983, [96 Stat. 2589][/us/stat/96/2589], prohibited employment of illegal aliens.
+    Section, [Pub. L. 97–470, title I][/us/pl/97/470/tI], § 106, Jan. 14, 1983, [96 Stat. 2589][/us/stat/96/2589], prohibited employment of illegal aliens.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/99/603/s101/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs101%2Fb%2F1%2FC
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3372
-[/us/pl/97/470/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs106
+[/us/pl/97/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtI
 [/us/stat/96/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2589
 [/us/pl/99/603/s101/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs101%2Fb%2F2
 [/us/usc/t29/s1802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1802

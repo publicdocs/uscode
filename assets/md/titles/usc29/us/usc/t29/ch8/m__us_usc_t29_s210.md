@@ -19,11 +19,11 @@
 
     (b) The commencement of proceedings under subsection (a) shall not, unless specifically ordered by the court, operate as a stay of the Administrator’s order. The court shall not grant any stay of the order unless the person complaining of such order shall file in court an undertaking with a surety or sureties satisfactory to the court for the payment to the employees affected by the order, in the event such order is affirmed, of the amount by which the compensation such employees are entitled to receive under the order exceeds the compensation they actually receive while such stay is in effect.
 
-([June 25, 1938, ch. 676, § 10][/us/act/1938-06-25/ch676/s10], [52 Stat. 1065][/us/stat/52/1065]; [Aug. 12, 1955, ch. 867, § 5(f)][/us/act/1955-08-12/ch867/s5/f], [69 Stat. 712][/us/stat/69/712]; [Pub. L. 85–791, § 22][/us/pl/85/791/s22], Aug. 28, 1958, [72 Stat. 948][/us/stat/72/948]; [Pub. L. 93–259, § 5(c)(2)][/us/pl/93/259/s5/c/2], Apr. 8, 1974, [88 Stat. 58][/us/stat/88/58].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 10, [52 Stat. 1065][/us/stat/52/1065]; [Aug. 12, 1955, ch. 867][/us/act/1955-08-12/ch867], § 5(f), [69 Stat. 712][/us/stat/69/712]; [Pub. L. 85–791][/us/pl/85/791], § 22, Aug. 28, 1958, [72 Stat. 948][/us/stat/72/948]; [Pub. L. 93–259][/us/pl/93/259], § 5(c)(2), Apr. 8, 1974, [88 Stat. 58][/us/stat/88/58].)
 
  __References in Text__ 
 
-    [Section 208 of this title][/us/usc/t29/s208], referred to in subsec. (a), was repealed by [Pub. L. 110–28, title VIII, § 8103(c)(1)(A)][/us/pl/110/28/s8103/c/1/A], May 25, 2007, [121 Stat. 189][/us/stat/121/189].
+    [Section 208 of this title][/us/usc/t29/s208], referred to in subsec. (a), was repealed by [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8103(c)(1)(A), May 25, 2007, [121 Stat. 189][/us/stat/121/189].
 
  __Amendments__ 
 
@@ -58,16 +58,16 @@
 
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/act/1938-06-25/ch676/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs10
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1065
-[/us/act/1955-08-12/ch867/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867%2Fs5%2Ff
+[/us/act/1955-08-12/ch867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867
 [/us/stat/69/712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F712
-[/us/pl/85/791/s22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs22
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F948
-[/us/pl/93/259/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs5%2Fc%2F2
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/58]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F58
 [/us/usc/t29/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs208
-[/us/pl/110/28/s8103/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8103%2Fc%2F1%2FA
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F189
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791

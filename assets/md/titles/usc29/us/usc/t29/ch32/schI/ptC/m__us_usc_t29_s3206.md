@@ -35,7 +35,7 @@
 
         (2) assisting entities, including entities not currently operating a Job Corps center, in developing the additional selection factors information described in [section 3197(a)(3) of this title][/us/usc/t29/s3197/a/3].
 
-([Pub. L. 113–128, title I, § 156][/us/pl/113/128/s156], July 22, 2014, [128 Stat. 1552][/us/stat/128/1552].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 156, July 22, 2014, [128 Stat. 1552][/us/stat/128/1552].)
 
  __Effective Date__ 
 
@@ -52,7 +52,7 @@
 [/us/usc/t29/s3209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3209%2Fc%2F1
 [/us/usc/t29/s3141/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA
 [/us/usc/t29/s3197/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3197%2Fa%2F3
-[/us/pl/113/128/s156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs156
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1552
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

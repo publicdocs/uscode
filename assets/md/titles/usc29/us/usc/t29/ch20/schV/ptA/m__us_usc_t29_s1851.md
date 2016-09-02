@@ -23,7 +23,7 @@
 
         If a farm labor contractor who commits a violation of paragraph (1) or (2) of [section 1324a(a) of title 8][/us/usc/t8/s1324a/a] has been refused issuance or renewal of, or has failed to obtain, a certificate of registration or is a farm labor contractor whose certificate has been suspended or revoked, the contractor shall, upon conviction, be fined not more than $10,000 or sentenced to prison for a term not to exceed three years, or both.
 
-([Pub. L. 97–470, title V, § 501][/us/pl/97/470/s501], Jan. 14, 1983, [96 Stat. 2596][/us/stat/96/2596]; [Pub. L. 99–603, title I, § 101(b)(1)(D)][/us/pl/99/603/s101/b/1/D], Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372].)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 501, Jan. 14, 1983, [96 Stat. 2596][/us/stat/96/2596]; [Pub. L. 99–603, title I][/us/pl/99/603/tI], § 101(b)(1)(D), Nov. 6, 1986, [100 Stat. 3372][/us/stat/100/3372].)
 
  __Amendments__ 
 
@@ -42,9 +42,9 @@
 
 [/us/usc/t8/s1324a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fa
 [/us/usc/t8/s1324a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fa
-[/us/pl/97/470/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs501
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2596
-[/us/pl/99/603/s101/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2Fs101%2Fb%2F1%2FD
+[/us/pl/99/603/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603%2FtI
 [/us/stat/100/3372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3372
 [/us/pl/99/603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F603
 [/us/usc/t8/s1324a/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1324a%2Fa

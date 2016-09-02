@@ -15,7 +15,7 @@
 
 ## § 2920. Transferred
 
-    Section, [Pub. L. 101–649, title VIII, § 801][/us/pl/101/649/s801], Nov. 29, 1990, [104 Stat. 5087][/us/stat/104/5087], which related to educational assistance and training, was transferred to [section 3293 of this title][/us/usc/t29/s3293].
+    Section, [Pub. L. 101–649, title VIII][/us/pl/101/649/tVIII], § 801, Nov. 29, 1990, [104 Stat. 5087][/us/stat/104/5087], which related to educational assistance and training, was transferred to [section 3293 of this title][/us/usc/t29/s3293].
 
 ----------
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/pl/101/649/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2Fs801
+[/us/pl/101/649/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F649%2FtVIII
 [/us/stat/104/5087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F5087
 [/us/usc/t29/s3293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3293
 

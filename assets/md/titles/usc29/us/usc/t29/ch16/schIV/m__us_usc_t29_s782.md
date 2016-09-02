@@ -27,13 +27,13 @@
 
         While away from their homes or regular places of business in the performance of services for the National Council, members of the National Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under [section 5703 of title 5][/us/usc/t5/s5703].
 
-([Pub. L. 93–112, title IV, § 402][/us/pl/93/112/s402], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1200][/us/stat/112/1200].)
+([Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 402, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 407, Aug. 7, 1998, [112 Stat. 1200][/us/stat/112/1200].)
 
  __Prior Provisions__ 
 
-    A prior section 782, [Pub. L. 93–112, title IV, § 402][/us/pl/93/112/s402], as added [Pub. L. 95–602, title I, § 117][/us/pl/95/602/s117], Nov. 6, 1978, [92 Stat. 2978][/us/stat/92/2978]; amended [Pub. L. 100–630, title II, § 205(d)][/us/pl/100/630/s205/d], Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–569, title IV, § 403][/us/pl/102/569/s403], Oct. 29, 1992, [106 Stat. 4423][/us/stat/106/4423], related to compensation of National Council members, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 782, [Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 402, as added [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 117, Nov. 6, 1978, [92 Stat. 2978][/us/stat/92/2978]; amended [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 205(d), Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–569, title IV][/us/pl/102/569/tIV], § 403, Oct. 29, 1992, [106 Stat. 4423][/us/stat/106/4423], related to compensation of National Council members, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    Another prior section 782, [Pub. L. 93–112, title IV, § 402][/us/pl/93/112/s402], Sept. 26, 1973, [87 Stat. 387][/us/stat/87/387], authorized the Secretary to obtain information from Federal agencies, prior to repeal by [Pub. L. 95–602, § 117][/us/pl/95/602/s117].
+    Another prior section 782, [Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 402, Sept. 26, 1973, [87 Stat. 387][/us/stat/87/387], authorized the Secretary to obtain information from Federal agencies, prior to repeal by [Pub. L. 95–602][/us/pl/95/602], § 117.
 
 ----------
 
@@ -44,19 +44,19 @@
 
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/93/112/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs402
-[/us/pl/105/220/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs407
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1200]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1200
-[/us/pl/93/112/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs402
-[/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2978]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2978
-[/us/pl/100/630/s205/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs205%2Fd
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3310
-[/us/pl/102/569/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs403
+[/us/pl/102/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIV
 [/us/stat/106/4423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4423
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs402
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
 [/us/stat/87/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F387
-[/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
 
 

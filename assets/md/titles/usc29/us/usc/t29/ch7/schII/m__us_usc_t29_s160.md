@@ -47,7 +47,7 @@
 
         When granting appropriate temporary relief or a restraining order, or making and entering a decree enforcing, modifying, and enforcing as so modified or setting aside in whole or in part an order of the Board, as provided in this section, the jurisdiction of courts sitting in equity shall not be limited by chapter 6 of this title.
 
-    (i) __Repealed.__  __[__  __Pub. L. 98–620, title IV, § 402(31)__  __][/us/pl/98/620/s402/31]__  __,__  __Nov. 8, 1984__  __,__  __[__  __98 Stat. 3360__  __][/us/stat/98/3360]__ 
+    (i) __Repealed.__  __[__  __Pub. L. 98–620, title IV__  __][/us/pl/98/620/tIV]__  __, § 402(31),__  __Nov. 8, 1984__  __,__  __[__  __98 Stat. 3360__  __][/us/stat/98/3360]__ 
 
     (j) __Injunctions__ 
 
@@ -65,7 +65,7 @@
 
         Whenever it is charged that any person has engaged in an unfair labor practice within the meaning of subsection (a)(3) or (b)(2) of [section 158 of this title][/us/usc/t29/s158], such charge shall be given priority over all other cases except cases of like character in the office where it is filed or to which it is referred and cases given priority under subsection (l).
 
-([July 5, 1935, ch. 372, § 10][/us/act/1935-07-05/ch372/s10], [49 Stat. 453][/us/stat/49/453]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 146][/us/stat/61/146]; [June 25, 1948, ch. 646, § 32(a)][/us/act/1948-06-25/ch646/s32/a], (b), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791, § 13][/us/pl/85/791/s13], Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 86–257, title VII][/us/pl/86/257], §§ 704(d), 706, Sept. 14, 1959, [73 Stat. 544][/us/stat/73/544]; [Pub. L. 95–251, § 3][/us/pl/95/251/s3], Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184]; [Pub. L. 98–620, title IV, § 402(31)][/us/pl/98/620/s402/31], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 10, [49 Stat. 453][/us/stat/49/453]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 146][/us/stat/61/146]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(a), (b), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 85–791][/us/pl/85/791], § 13, Aug. 28, 1958, [72 Stat. 945][/us/stat/72/945]; [Pub. L. 86–257, title VII][/us/pl/86/257/tVII], §§ 704(d), 706, Sept. 14, 1959, [73 Stat. 544][/us/stat/73/544]; [Pub. L. 95–251][/us/pl/95/251], § 3, Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184]; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(31), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].)
 
  __References in Text__ 
 
@@ -89,15 +89,15 @@
 
     1984—Subsec. (i). [Pub. L. 98–620][/us/pl/98/620] struck out subsec. (i) which provided for expeditious hearings on petitions.
 
-    1959—Subsec. (l). [Pub. L. 86–257, § 704(d)][/us/pl/86/257/s704/d], included unfair labor practices within the meaning of sections 158(e) and 158(b)(7) of this title, and inserted proviso prohibiting the officer or regional attorney from applying for any restraining order under [section 158(b)(7) of this title][/us/usc/t29/s158/b/7] if a charge against the employer under [section 158(a)(2) of this title][/us/usc/t29/s158/a/2] has been filed and after the preliminary investigation, he has reasonable cause to believe that such charge is true and that a complaint should issue.
+    1959—Subsec. (l). [Pub. L. 86–257][/us/pl/86/257], § 704(d), included unfair labor practices within the meaning of sections 158(e) and 158(b)(7) of this title, and inserted proviso prohibiting the officer or regional attorney from applying for any restraining order under [section 158(b)(7) of this title][/us/usc/t29/s158/b/7] if a charge against the employer under [section 158(a)(2) of this title][/us/usc/t29/s158/a/2] has been filed and after the preliminary investigation, he has reasonable cause to believe that such charge is true and that a complaint should issue.
 
-    Subsec. (m). [Pub. L. 86–257, § 706][/us/pl/86/257/s706], added subsec. (m).
+    Subsec. (m). [Pub. L. 86–257][/us/pl/86/257], § 706, added subsec. (m).
 
-    1958—Subsec. (d). [Pub. L. 85–791, § 13(a)][/us/pl/85/791/s13/a], struck out “a transcript of” after “until”.
+    1958—Subsec. (d). [Pub. L. 85–791][/us/pl/85/791], § 13(a), struck out “a transcript of” after “until”.
 
-    Subsec. (e). [Pub. L. 85–791, § 13(b)][/us/pl/85/791/s13/b], struck out “(including the United States Court of Appeals for the District of Columbia)” before “, or if all the courts”, and substituted “file in the court the record in the proceedings, as provided in [section 2112 of title 28][/us/usc/t28/s2112]” for “certify and file in the court a transcript of the entire record in the proceedings including the pleadings and testimony upon which such order was entered and the findings and order of the Board” in first sentence, in second sentence substituted “the filing of such petition” for “such filing of” and struck out “upon the pleadings, testimony and proceedings set forth in such transcript” after “make and enter”, in fifth sentence substituted “member” for “members” after “before the Board, its”, and substituted “record” for “transcript”, and in seventh sentence, substituted “Upon the filing of the record with it the” for “The”, and “[section 1254 of title 28][/us/usc/t28/s1254]” for “sections 346 and 347 of title 28”.
+    Subsec. (e). [Pub. L. 85–791][/us/pl/85/791], § 13(b), struck out “(including the United States Court of Appeals for the District of Columbia)” before “, or if all the courts”, and substituted “file in the court the record in the proceedings, as provided in [section 2112 of title 28][/us/usc/t28/s2112]” for “certify and file in the court a transcript of the entire record in the proceedings including the pleadings and testimony upon which such order was entered and the findings and order of the Board” in first sentence, in second sentence substituted “the filing of such petition” for “such filing of” and struck out “upon the pleadings, testimony and proceedings set forth in such transcript” after “make and enter”, in fifth sentence substituted “member” for “members” after “before the Board, its”, and substituted “record” for “transcript”, and in seventh sentence, substituted “Upon the filing of the record with it the” for “The”, and “[section 1254 of title 28][/us/usc/t28/s1254]” for “sections 346 and 347 of title 28”.
 
-    Subsec. (f). [Pub. L. 85–791, § 13(c)][/us/pl/85/791/s13/c], substituted “transmitted by the clerk of the court to” for “served upon” and “the record in the proceeding, certified by the Board, as provided in [section 2112 of title 28][/us/usc/t28/s2112]” for “a transcript of the entire record in the proceeding, certified by the Board including the pleading and testimony upon which the order complained of was entered, and the findings and order of the Board” in second sentence, and in third sentence substituted “the filing of such petition,” for “such filing”, and struck out “exclusive” before “jurisdiction”.
+    Subsec. (f). [Pub. L. 85–791][/us/pl/85/791], § 13(c), substituted “transmitted by the clerk of the court to” for “served upon” and “the record in the proceeding, certified by the Board, as provided in [section 2112 of title 28][/us/usc/t28/s2112]” for “a transcript of the entire record in the proceeding, certified by the Board including the pleading and testimony upon which the order complained of was entered, and the findings and order of the Board” in second sentence, and in third sentence substituted “the filing of such petition,” for “such filing”, and struck out “exclusive” before “jurisdiction”.
 
     1947—Act June 23, 1947, amended section generally and added subsecs. (j) to (l) which gives the Board general power to petition district court for temporary relief or restraining order, directs Board to hear and determine jurisdictional strikes, and to investigate boycotts and strikes to force recognition of an uncertified labor union and to petition district court for injunctive relief.
 
@@ -126,7 +126,7 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
-[/us/pl/98/620/s402/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F31
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
 [/us/usc/t29/s158/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fb
 [/us/usc/t29/s158/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fb
@@ -136,21 +136,21 @@
 [/us/usc/t29/s158/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fa%2F2
 [/us/usc/t29/s158/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fb%2F4%2FD
 [/us/usc/t29/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158
-[/us/act/1935-07-05/ch372/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs10
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F453
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/146]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F146
-[/us/act/1948-06-25/ch646/s32/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fa
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/85/791/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs13
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/stat/72/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F945
-[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/86/257/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVII
 [/us/stat/73/544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F544
-[/us/pl/95/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs3
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F184
-[/us/pl/98/620/s402/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F31
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
 [/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70
@@ -164,15 +164,15 @@
 [/us/usc/t28/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs132%2Fa
 [/us/usc/t28/s88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs88
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
-[/us/pl/86/257/s704/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs704%2Fd
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/usc/t29/s158/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fb%2F7
 [/us/usc/t29/s158/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fa%2F2
-[/us/pl/86/257/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs706
-[/us/pl/85/791/s13/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs13%2Fa
-[/us/pl/85/791/s13/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs13%2Fb
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/85/791/s13/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791%2Fs13%2Fc
+[/us/pl/85/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F791
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
 [/us/pl/98/620/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs403

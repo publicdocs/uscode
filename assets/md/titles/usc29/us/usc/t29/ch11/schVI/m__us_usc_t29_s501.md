@@ -27,7 +27,7 @@
 
         Any person who embezzles, steals, or unlawfully and willfully abstracts or converts to his own use, or the use of another, any of the moneys, funds, securities, property, or other assets of a labor organization of which he is an officer, or by which he is employed, directly or indirectly, shall be fined not more than $10,000 or imprisoned for not more than five years, or both.
 
-([Pub. L. 86–257, title V, § 501][/us/pl/86/257/s501], Sept. 14, 1959, [73 Stat. 535][/us/stat/73/535].)
+([Pub. L. 86–257, title V][/us/pl/86/257/tV], § 501, Sept. 14, 1959, [73 Stat. 535][/us/stat/73/535].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs501
+[/us/pl/86/257/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtV
 [/us/stat/73/535]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F535
 
 

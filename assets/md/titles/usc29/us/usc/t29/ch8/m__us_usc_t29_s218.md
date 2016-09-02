@@ -27,7 +27,7 @@
 
         shall have his basic compensation fixed or adjusted at a wage rate that is not less than the appropriate wage rate provided for in [section 206(a)(1) of this title][/us/usc/t29/s206/a/1] (except that the wage rate provided for in [section 206(b) of this title][/us/usc/t29/s206/b] shall apply to any employee who performed services during the workweek in a work place within the Canal Zone), and shall have his overtime compensation set at an hourly rate not less than the overtime rate provided for in [section 207(a)(1) of this title][/us/usc/t29/s207/a/1].
 
-([June 25, 1938, ch. 676, § 18][/us/act/1938-06-25/ch676/s18], [52 Stat. 1069][/us/stat/52/1069]; [Pub. L. 89–601, title III, § 306][/us/pl/89/601/s306], Sept. 23, 1966, [80 Stat. 841][/us/stat/80/841]; [Pub. L. 90–83, § 8][/us/pl/90/83/s8], Sept. 11, 1967, [81 Stat. 222][/us/stat/81/222].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 18, [52 Stat. 1069][/us/stat/52/1069]; [Pub. L. 89–601, title III][/us/pl/89/601/tIII], § 306, Sept. 23, 1966, [80 Stat. 841][/us/stat/80/841]; [Pub. L. 90–83][/us/pl/90/83], § 8, Sept. 11, 1967, [81 Stat. 222][/us/stat/81/222].)
 
  __References in Text__ 
 
@@ -59,11 +59,11 @@
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fb
 [/us/usc/t29/s207/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fa%2F1
-[/us/act/1938-06-25/ch676/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs18
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1069
-[/us/pl/89/601/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs306
+[/us/pl/89/601/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtIII
 [/us/stat/80/841]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F841
-[/us/pl/90/83/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83%2Fs8
+[/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83
 [/us/stat/81/222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F222
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/pl/90/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F83

@@ -155,7 +155,7 @@
 
             Nothing in this Act shall be construed to relieve liability, by a responsible party that is liable under Federal law, for any costs incurred by the United States under subsection (b)(1)(B) or this subsection, including the responsibility to provide reimbursement for such costs to the United States.
 
-([Pub. L. 113–128, title I, § 170][/us/pl/113/128/s170], July 22, 2014, [128 Stat. 1573][/us/stat/128/1573].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 170, July 22, 2014, [128 Stat. 1573][/us/stat/128/1573].)
 
  __References in Text__ 
 
@@ -179,7 +179,7 @@
 [/us/usc/t10/s1174a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1174a
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/usc/t10/s2687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2687
-[/us/pl/113/128/s170]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs170
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1573
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425

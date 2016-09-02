@@ -29,7 +29,7 @@
 
     (6) for failure to meet the terms of an applicable collective bargaining agreement, to renew a collective bargaining or other agreement requiring or authorizing contributions to the plan, or to employ employees covered by such an agreement.
 
-([Pub. L. 93–406, title I, § 703][/us/pl/93/406/s703], as added [Pub. L. 104–191, title I, § 101(a)][/us/pl/104/191/s101/a], Aug. 21, 1996, [110 Stat. 1946][/us/stat/110/1946].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 703, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(a), Aug. 21, 1996, [110 Stat. 1946][/us/stat/110/1946].)
 
 ----------
 
@@ -38,8 +38,8 @@
 ----------
 ----------
 
-[/us/pl/93/406/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs703
-[/us/pl/104/191/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1946
 
 

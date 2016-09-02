@@ -111,7 +111,7 @@
 
             (B) a dependent of the person described in subparagraph (A).
 
-([Pub. L. 113–128, title I, § 167][/us/pl/113/128/s167], July 22, 2014, [128 Stat. 1564][/us/stat/128/1564].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 167, July 22, 2014, [128 Stat. 1564][/us/stat/128/1564].)
 
  __Effective Date__ 
 
@@ -128,7 +128,7 @@
 [/us/usc/t29/s3141/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA
 [/us/usc/t29/s3141/b/3/A/viii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F3%2FA%2Fviii
 [/us/usc/t29/s3162/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3162%2Fa%2F1
-[/us/pl/113/128/s167]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs167
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1564]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1564
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

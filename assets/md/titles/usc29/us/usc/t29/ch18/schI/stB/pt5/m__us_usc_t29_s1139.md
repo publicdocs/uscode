@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this chapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-([Pub. L. 93–406, title I, § 509][/us/pl/93/406/s509], Sept. 2, 1974, [88 Stat. 895][/us/stat/88/895].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 509, Sept. 2, 1974, [88 Stat. 895][/us/stat/88/895].)
 
  __References in Text__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs509
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F895
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001

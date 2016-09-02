@@ -177,7 +177,7 @@
 
         The Secretary may enter into contracts to carry out the Secretary’s responsibilities under this section. The Secretary shall enter into a contract on a sole-source basis to ensure the timely completion of the National Summit in fiscal year 1998.
 
-([Pub. L. 93–406, title I, § 517][/us/pl/93/406/s517], as added [Pub. L. 105–92, § 4(a)][/us/pl/105/92/s4/a], Nov. 19, 1997, [111 Stat. 2141][/us/stat/111/2141].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 517, as added [Pub. L. 105–92][/us/pl/105/92], § 4(a), Nov. 19, 1997, [111 Stat. 2141][/us/stat/111/2141].)
 
  __References in Text__ 
 
@@ -197,8 +197,8 @@
 ----------
 
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
-[/us/pl/93/406/s517]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs517
-[/us/pl/105/92/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F92%2Fs4%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/105/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F92
 [/us/stat/111/2141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2141
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

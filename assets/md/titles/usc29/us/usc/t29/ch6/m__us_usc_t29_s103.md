@@ -23,7 +23,7 @@
 
     (b) Either party to such contract or agreement undertakes or promises that he will withdraw from an employment relation in the event that he joins, becomes, or remains a member of any labor organization or of any employer organization.
 
-([Mar. 23, 1932, ch. 90, § 3][/us/act/1932-03-23/ch90/s3], [47 Stat. 70][/us/stat/47/70].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 3, [47 Stat. 70][/us/stat/47/70].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t29/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs102
-[/us/act/1932-03-23/ch90/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs3
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70
 
 

@@ -17,7 +17,7 @@
 
     The Secretary of Labor shall prescribe such regulations as are necessary to carry out subchapter I and this subchapter not later than 120 days after February 5, 1993.
 
-([Pub. L. 103–3, title IV, § 404][/us/pl/103/3/s404], Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26].)
+([Pub. L. 103–3, title IV][/us/pl/103/3/tIV], § 404, Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs404
+[/us/pl/103/3/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIV
 [/us/stat/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F26
 
 

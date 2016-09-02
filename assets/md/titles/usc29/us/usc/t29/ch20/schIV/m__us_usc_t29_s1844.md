@@ -23,7 +23,7 @@
 
         Written agreements under this section do not relieve a person of any responsibility that such person would otherwise have under this chapter.
 
-([Pub. L. 97–470, title IV, § 404][/us/pl/97/470/s404], Jan. 14, 1983, [96 Stat. 2596][/us/stat/96/2596].)
+([Pub. L. 97–470, title IV][/us/pl/97/470/tIV], § 404, Jan. 14, 1983, [96 Stat. 2596][/us/stat/96/2596].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs404
+[/us/pl/97/470/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtIV
 [/us/stat/96/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2596
 
 

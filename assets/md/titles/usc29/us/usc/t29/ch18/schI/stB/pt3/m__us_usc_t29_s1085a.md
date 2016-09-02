@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../../../..//us/usc/t29/ch18/schI/stB/pt3/m__us_usc_t29_s1085.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schI/stB/pt4/m__us_usc_t29_ch18_schI_stB_pt4.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a)
+[Previous](./../../../../../../..//us/usc/t29/ch18/schI/stB/pt3/m__us_usc_t29_s1085.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schI/stB/pt3/m__us_usc_t29_s1085b _us_usc_t29_s1086.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a)
 
 ## § 1085a. Minimum funding standards
 
@@ -753,7 +753,7 @@
 
                 The term “spread gain funding method” has the meaning given such term under rules and forms issued by the Secretary of the Treasury.
 
-([Pub. L. 93–406, title I, § 306][/us/pl/93/406/s306], as added [Pub. L. 113–97, title I, § 102(a)][/us/pl/113/97/s102/a], Apr. 7, 2014, [128 Stat. 1102][/us/stat/128/1102].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 306, as added [Pub. L. 113–97, title I][/us/pl/113/97/tI], § 102(a), Apr. 7, 2014, [128 Stat. 1102][/us/stat/128/1102].)
 
  __References in Text__ 
 
@@ -765,29 +765,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 1085a, [Pub. L. 93–406, title I, § 306][/us/pl/93/406/s306], as added [Pub. L. 99–272, title XI, § 11015(a)(1)(A)(ii)][/us/pl/99/272/s11015/a/1/A/ii], Apr. 7, 1986, [100 Stat. 264][/us/stat/100/264]; amended [Pub. L. 100–203, title IX, § 9306(e)(2)][/us/pl/100/203/s9306/e/2], Dec. 22, 1987, [101 Stat. 1330–355][/us/stat/101/1330-355]; [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], related to security for waivers of minimum funding standard and extensions of amortization period, prior to repeal by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784].
+    A prior section 1085a, [Pub. L. 93–406, title I][/us/pl/93/406/tI], § 306, as added [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11015(a)(1)(A)(ii), Apr. 7, 1986, [100 Stat. 264][/us/stat/100/264]; amended [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9306(e)(2), Dec. 22, 1987, [101 Stat. 1330–355][/us/stat/101/1330-355]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], related to security for waivers of minimum funding standard and extensions of amortization period, prior to repeal by [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 101(a), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784].
 
  __Effective Date__ 
 
     Section applicable to years beginning after Dec. 31, 2013, see [section 3 of Pub. L. 113–97][/us/pl/113/97/s3], set out as an Effective Date of 2014 Amendment note under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
 
-§§ 1085b, 1086. __Repealed.__  __[__  __Pub. L. 109–280, title I, § 101(a)__  __][/us/pl/109/280/s101/a]__  __,__  __Aug. 17, 2006__  __,__  __[__  __120 Stat. 784__  __][/us/stat/120/784]__ 
-
-    Section 1085b, [Pub. L. 93–406, title I, § 307][/us/pl/93/406/s307], as added [Pub. L. 100–203, title IX, § 9341(b)(2)][/us/pl/100/203/s9341/b/2], Dec. 22, 1987, [101 Stat. 1330–370][/us/stat/101/1330-370]; amended [Pub. L. 101–239, title VII, § 7881(i)(1)(B)][/us/pl/101/239/s7881/i/1/B]–(3)(A), (4)(B), Dec. 19, 1989, [103 Stat. 2442][/us/stat/103/2442], related to security required upon adoption of plan amendment resulting in significant underfunding.
-
-    Section 1086, [Pub. L. 93–406, title I, § 308][/us/pl/93/406/s308], formerly § 306, Sept. 2, 1974, [88 Stat. 874][/us/stat/88/874], renumbered § 307, [Pub. L. 99–272, title XI, § 11015(a)(1)(A)(i)][/us/pl/99/272/s11015/a/1/A/i], Apr. 7, 1986, [100 Stat. 264][/us/stat/100/264]; renumbered § 308, [Pub. L. 100–203, title IX, § 9341(b)(1)][/us/pl/100/203/s9341/b/1], Dec. 22, 1987, [101 Stat. 1330–370][/us/stat/101/1330-370]; amended [Pub. L. 101–239, title VII, § 7894(h)(3)][/us/pl/101/239/s7894/h/3], Dec. 19, 1989, [103 Stat. 2451][/us/stat/103/2451], related to effective dates of part.
-
- __Effective Date of Repeal__ 
-
-    Repeal applicable to plan years beginning after 2007, see [section 101(d) of Pub. L. 109–280][/us/pl/109/280/s101/d], set out as an Effective Date note under [section 1082 of this title][/us/usc/t29/s1082].
-
- __Applicability of Amendments by Subtitles A and B of Title I of__  __[__  __Pub. L. 109–280__  __][/us/pl/109/280]__ 
-
-    For special rules on applicability of amendments by subtitles A (§§ 101–108) and B (§§ 111–116) of title I of [Pub. L. 109–280][/us/pl/109/280] to certain eligible cooperative plans, PBGC settlement plans, and eligible government contractor plans, see sections 104, 105, and 106 of [Pub. L. 109–280][/us/pl/109/280], set out as notes under [section 401 of Title 26][/us/usc/t26/s401], Internal Revenue Code.
-
 ----------
 
-[Previous](./../../../../../../..//us/usc/t29/ch18/schI/stB/pt3/m__us_usc_t29_s1085.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schI/stB/pt4/m__us_usc_t29_ch18_schI_stB_pt4.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a)
+[Previous](./../../../../../../..//us/usc/t29/ch18/schI/stB/pt3/m__us_usc_t29_s1085.md) | [Next](./../../../../../../..//us/usc/t29/ch18/schI/stB/pt3/m__us_usc_t29_s1085b _us_usc_t29_s1086.md) | [Root of Title](./../../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1085a)
 
 ----------
 ----------
@@ -817,8 +803,8 @@
 [/us/usc/t29/s1083/h/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1083%2Fh%2F2%2FC
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
-[/us/pl/93/406/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs306
-[/us/pl/113/97/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/113/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtI
 [/us/stat/128/1102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1102
 [/us/pl/109/280/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs104
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
@@ -827,37 +813,16 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
-[/us/pl/93/406/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs306
-[/us/pl/99/272/s11015/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11015%2Fa%2F1%2FA%2Fii
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F264
-[/us/pl/100/203/s9306/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9306%2Fe%2F2
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-355
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
-[/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
-[/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
-[/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
-[/us/pl/93/406/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs307
-[/us/pl/100/203/s9341/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9341%2Fb%2F2
-[/us/stat/101/1330-370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-370
-[/us/pl/101/239/s7881/i/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fi%2F1%2FB
-[/us/stat/103/2442]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2442
-[/us/pl/93/406/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs308
-[/us/stat/88/874]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F874
-[/us/pl/99/272/s11015/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11015%2Fa%2F1%2FA%2Fi
-[/us/stat/100/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F264
-[/us/pl/100/203/s9341/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9341%2Fb%2F1
-[/us/stat/101/1330-370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-370
-[/us/pl/101/239/s7894/h/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fh%2F3
-[/us/stat/103/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2451
-[/us/pl/109/280/s101/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fd
-[/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 
 

@@ -25,7 +25,7 @@
 
     (4) commitments that reasonable efforts shall be made to place qualified women in apprenticeable occupations or nontraditional occupations.
 
-([Pub. L. 102–530, § 6][/us/pl/102/530/s6], Oct. 27, 1992, [106 Stat. 3467][/us/stat/106/3467].)
+([Pub. L. 102–530][/us/pl/102/530], § 6, Oct. 27, 1992, [106 Stat. 3467][/us/stat/106/3467].)
 
 ----------
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t29/s2503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2503%2Fb
 [/us/usc/t29/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2503%2Fa
-[/us/pl/102/530/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530%2Fs6
+[/us/pl/102/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530
 [/us/stat/106/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3467
 
 

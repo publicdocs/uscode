@@ -57,13 +57,13 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-([Pub. L. 93–112, § 14][/us/pl/93/112/s14], formerly § 12, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1110][/us/stat/112/1110]; renumbered § 14, [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; amended [Pub. L. 113–128, title IV, § 407(a)][/us/pl/113/128/s407/a], July 22, 2014, [128 Stat. 1638][/us/stat/128/1638].)
+([Pub. L. 93–112][/us/pl/93/112], § 14, formerly § 12, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1110][/us/stat/112/1110]; renumbered § 14, [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(a)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 407(a), July 22, 2014, [128 Stat. 1638][/us/stat/128/1638].)
 
  __Prior Provisions__ 
 
     Provisions similar to this section were contained in [section 713 of this title][/us/usc/t29/s713] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
-    A prior section 711, [Pub. L. 93–112, § 12][/us/pl/93/112/s12], as added [Pub. L. 95–602, title I, § 122(a)(10)][/us/pl/95/602/s122/a/10], Nov. 6, 1978, [92 Stat. 2985][/us/stat/92/2985]; amended [Pub. L. 99–506, title I, § 104][/us/pl/99/506/s104], title X, § 1001(a)(4), Oct. 21, 1986, [100 Stat. 1811][/us/stat/100/1811], 1841; [Pub. L. 100–630, title II, § 201(e)][/us/pl/100/630/s201/e], Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–569, title I, § 105][/us/pl/102/569/s105], Oct. 29, 1992, [106 Stat. 4361][/us/stat/106/4361], related to administration of this chapter, prior to repeal by [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093]. See [section 709 of this title][/us/usc/t29/s709].
+    A prior section 711, [Pub. L. 93–112][/us/pl/93/112], § 12, as added [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 122(a)(10), Nov. 6, 1978, [92 Stat. 2985][/us/stat/92/2985]; amended [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 104, title X, § 1001(a)(4), Oct. 21, 1986, [100 Stat. 1811][/us/stat/100/1811], 1841; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 201(e), Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 105, Oct. 29, 1992, [106 Stat. 4361][/us/stat/106/4361], related to administration of this chapter, prior to repeal by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093]. See [section 709 of this title][/us/usc/t29/s709].
 
     A prior [section 14 of Pub. L. 93–112][/us/pl/93/112/s14] was renumbered section 16 and is classified to [section 713 of this title][/us/usc/t29/s713].
 
@@ -71,15 +71,15 @@
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–128, § 407(a)(1)][/us/pl/113/128/s407/a/1], inserted “of Education” after “Secretary” wherever appearing.
+    2014—[Pub. L. 113–128][/us/pl/113/128], § 407(a)(1), inserted “of Education” after “Secretary” wherever appearing.
 
-    Subsec. (b). [Pub. L. 113–128, § 407(a)(3)(A)][/us/pl/113/128/s407/a/3/A]–(C), designated existing provisions as par. (1), redesignated subsec. (c) as par. (2), and redesignated subsec. (d) as par. (3).
+    Subsec. (b). [Pub. L. 113–128][/us/pl/113/128], § 407(a)(3)(A)–(C), designated existing provisions as par. (1), redesignated subsec. (c) as par. (2), and redesignated subsec. (d) as par. (3).
 
-    Subsecs. (c), (d). [Pub. L. 113–128, § 407(a)(3)(D)][/us/pl/113/128/s407/a/3/D], redesignated subsecs. (e) and (f) as (c) and (d), respectively. Former subsecs. (c) and (d) redesignated pars. (2) and (3), respectively, of subsec. (b).
+    Subsecs. (c), (d). [Pub. L. 113–128][/us/pl/113/128], § 407(a)(3)(D), redesignated subsecs. (e) and (f) as (c) and (d), respectively. Former subsecs. (c) and (d) redesignated pars. (2) and (3), respectively, of subsec. (b).
 
-    Subsecs. (e), (f). [Pub. L. 113–128, § 407(a)(4)][/us/pl/113/128/s407/a/4], added subsecs. (e) and (f). Former subsecs. (e) and (f) redesignated (c) and (d), respectively.
+    Subsecs. (e), (f). [Pub. L. 113–128][/us/pl/113/128], § 407(a)(4), added subsecs. (e) and (f). Former subsecs. (e) and (f) redesignated (c) and (d), respectively.
 
-    Subsec. (f)(2). [Pub. L. 113–128, § 407(a)(2)][/us/pl/113/128/s407/a/2], inserted “competitive” after “nonintegrated to”.
+    Subsec. (f)(2). [Pub. L. 113–128][/us/pl/113/128], § 407(a)(2), inserted “competitive” after “nonintegrated to”.
 
 ----------
 
@@ -88,25 +88,25 @@
 ----------
 ----------
 
-[/us/pl/93/112/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs14
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1110
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs407%2Fa
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1638]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1638
 [/us/usc/t29/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs713
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs12
-[/us/pl/95/602/s122/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs122%2Fa%2F10
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2985
-[/us/pl/99/506/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs104
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1811]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1811
-[/us/pl/100/630/s201/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs201%2Fe
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3304
-[/us/pl/102/569/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs105
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4361
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1093
 [/us/usc/t29/s709]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs709
 [/us/pl/93/112/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs14
@@ -114,10 +114,10 @@
 [/us/pl/93/112/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs14
 [/us/usc/t29/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs713
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s407/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs407%2Fa%2F1
-[/us/pl/113/128/s407/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs407%2Fa%2F3%2FA
-[/us/pl/113/128/s407/a/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs407%2Fa%2F3%2FD
-[/us/pl/113/128/s407/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs407%2Fa%2F4
-[/us/pl/113/128/s407/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs407%2Fa%2F2
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

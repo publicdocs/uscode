@@ -35,13 +35,13 @@
 
  __References in Text__ 
 
-    [Section 51 of this title][/us/usc/t29/s51], referred to in subsec. (d), was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 642][/us/stat/80/642].
+    [Section 51 of this title][/us/usc/t29/s51], referred to in subsec. (d), was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 642][/us/stat/80/642].
 
  __Codification__ 
 
     Provisions of subsec. (a) which prescribed the basic annual compensation of the Director were omitted to conform to the provisions of the Executive Schedule. See [section 5314 of Title 5][/us/usc/t5/s5314], Government Organization and Employees.
 
-    In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554, § 7(b)][/us/pl/89/554/s7/b], Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5.
+    In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1949, as amended” on authority of [Pub. L. 89–554][/us/pl/89/554], § 7(b), Sept. 6, 1966, [80 Stat. 631][/us/stat/80/631], the first section of which enacted Title 5.
 
     Provisions of subsec. (b) that authorized the Director to fix the compensation of conciliators and mediators without regard to the Classification Act of 1923, as amended, have been omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, [63 Stat. 972][/us/stat/63/972], 973, repealed the Classification Act of 1923 and all other laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by [Pub. L. 89–554][/us/pl/89/554], Sept. 6, 1966, § 8(a), [80 Stat. 632][/us/stat/80/632] (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). [Section 5102 of Title 5][/us/usc/t5/s5102] contains the applicability provisions of the 1949 Act, and [section 5103 of Title 5][/us/usc/t5/s5103] authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
@@ -70,10 +70,10 @@
 [/us/act/1949-10-28/ch782]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-28%2Fch782
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/usc/t29/s51]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs51
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F642
 [/us/usc/t5/s5314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5314
-[/us/pl/89/554/s7/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs7%2Fb
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F631
 [/us/stat/63/972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F972
 [/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554

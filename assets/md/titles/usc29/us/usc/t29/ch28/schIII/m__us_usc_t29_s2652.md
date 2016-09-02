@@ -23,7 +23,7 @@
 
         The rights established for employees under this Act or any amendment made by this Act shall not be diminished by any collective bargaining agreement or any employment benefit program or plan.
 
-([Pub. L. 103–3, title IV, § 402][/us/pl/103/3/s402], Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26].)
+([Pub. L. 103–3, title IV][/us/pl/103/3/tIV], § 402, Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs402
+[/us/pl/103/3/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIV
 [/us/stat/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F26
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6

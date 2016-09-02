@@ -75,7 +75,7 @@
 
         In carrying out this section, States shall address the transition needs of all students with disabilities, including such students with physical, sensory, intellectual, and mental health disabilities.
 
-([Pub. L. 93–112, title I, § 113][/us/pl/93/112/s113], as added [Pub. L. 113–128, title IV, § 422][/us/pl/113/128/s422], July 22, 2014, [128 Stat. 1657][/us/stat/128/1657].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 113, as added [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 422, July 22, 2014, [128 Stat. 1657][/us/stat/128/1657].)
 
  __References in Text__ 
 
@@ -98,8 +98,8 @@
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t20/s1414/d/1/A/i/VIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414%2Fd%2F1%2FA%2Fi%2FVIII
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/93/112/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs113
-[/us/pl/113/128/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs422
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1657
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175

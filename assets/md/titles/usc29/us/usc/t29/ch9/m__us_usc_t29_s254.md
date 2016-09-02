@@ -41,7 +41,7 @@
 
         In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], of the Walsh-Healey Act, or of the Bacon-Davis Act,1 in determining the time for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or postliminary activities described in subsection (a) of this section, there shall be counted all that time, but only that time, during which the employee engages in any such activity which is compensable within the meaning of subsections (b) and (c) of this section.
 
-([May 14, 1947, ch. 52, § 4][/us/act/1947-05-14/ch52/s4], [61 Stat. 86][/us/stat/61/86]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], § 2102, Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928].)
+([May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 4, [61 Stat. 86][/us/stat/61/86]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], § 2102, Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928].)
 
  __References in Text__ 
 
@@ -68,7 +68,7 @@
 
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/act/1947-05-14/ch52/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs4
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F86
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/stat/110/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1928

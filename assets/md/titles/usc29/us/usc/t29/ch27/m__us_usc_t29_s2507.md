@@ -35,7 +35,7 @@
 
         Not later than 2 years after October 27, 1992, the Secretary shall submit to the Congress a report containing a summary of the results of the study described in subsection (a) of this section and such recommendations as the Secretary determines to be appropriate.
 
-([Pub. L. 102–530, § 8][/us/pl/102/530/s8], Oct. 27, 1992, [106 Stat. 3467][/us/stat/106/3467].)
+([Pub. L. 102–530][/us/pl/102/530], § 8, Oct. 27, 1992, [106 Stat. 3467][/us/stat/106/3467].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/102/530/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530%2Fs8
+[/us/pl/102/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530
 [/us/stat/106/3467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3467
 
 

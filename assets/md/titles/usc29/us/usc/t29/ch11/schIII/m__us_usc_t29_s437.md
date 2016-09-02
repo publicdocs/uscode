@@ -19,7 +19,7 @@
 
     (b) Each person required to file a report under section 431(b), 432, 433(a), the second sentence of 433(b), or [section 441 of this title][/us/usc/t29/s441] shall file such report within ninety days after the end of each of its fiscal years; except that where such person is subject to section 431(b), 432, 433(a), the second sentence of 433(b), or [section 441 of this title][/us/usc/t29/s441], as the case may be, for only a portion of such a fiscal year (because September 14, 1959, occurs during such person’s fiscal year) such person becomes subject to this chapter during its fiscal year or such person may consider that portion as the entire fiscal year in making such report.
 
-([Pub. L. 86–257, title II, § 207][/us/pl/86/257/s207], Sept. 14, 1959, [73 Stat. 529][/us/stat/73/529]; [Pub. L. 89–216, § 2(d)][/us/pl/89/216/s2/d], Sept. 29, 1965, [79 Stat. 888][/us/stat/79/888].)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 207, Sept. 14, 1959, [73 Stat. 529][/us/stat/73/529]; [Pub. L. 89–216][/us/pl/89/216], § 2(d), Sept. 29, 1965, [79 Stat. 888][/us/stat/79/888].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 [/us/usc/t29/s431/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs431%2Fa
 [/us/usc/t29/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs441
 [/us/usc/t29/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs441
-[/us/pl/86/257/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs207
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F529
-[/us/pl/89/216/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216%2Fs2%2Fd
+[/us/pl/89/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216
 [/us/stat/79/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F888
 [/us/pl/89/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216
 [/us/usc/t29/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs441

@@ -23,13 +23,13 @@
 
     except that in the case of fraud or concealment, such action may be commenced not later than six years after the date of discovery of such breach or violation.
 
-([Pub. L. 93–406, title I, § 413][/us/pl/93/406/s413], Sept. 2, 1974, [88 Stat. 889][/us/stat/88/889]; [Pub. L. 100–203, title IX, § 9342(b)][/us/pl/100/203/s9342/b], Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(j)(4), 7894(e)(5), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2450.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 413, Sept. 2, 1974, [88 Stat. 889][/us/stat/88/889]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9342(b), Dec. 22, 1987, [101 Stat. 1330–371][/us/stat/101/1330-371]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7881(j)(4), 7894(e)(5), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2450.)
 
  __Amendments__ 
 
-    1989—[Pub. L. 101–239, § 7894(e)(5)][/us/pl/101/239/s7894/e/5], struck out “(a)” before “No action”.
+    1989—[Pub. L. 101–239][/us/pl/101/239], § 7894(e)(5), struck out “(a)” before “No action”.
 
-    Par. (2). [Pub. L. 101–239, § 7881(j)(4)][/us/pl/101/239/s7881/j/4], struck out comma after “violation”.
+    Par. (2). [Pub. L. 101–239][/us/pl/101/239], § 7881(j)(4), struck out comma after “violation”.
 
     1987—Subsec. (a)(2). [Pub. L. 100–203][/us/pl/100/203] struck out “(A)” after “date” and struck out “or (B) on which a report from which he could reasonably be expected to have obtained knowledge of such breach or violation was filed with the Secretary under this subchapter”.
 
@@ -50,14 +50,14 @@
 ----------
 ----------
 
-[/us/pl/93/406/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs413
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F889
-[/us/pl/100/203/s9342/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9342%2Fb
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-371
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2443
-[/us/pl/101/239/s7894/e/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fe%2F5
-[/us/pl/101/239/s7881/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fj%2F4
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
 [/us/pl/101/239/s7881/j/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Fj%2F4
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

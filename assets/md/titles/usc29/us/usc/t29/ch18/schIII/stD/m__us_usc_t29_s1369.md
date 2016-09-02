@@ -35,11 +35,11 @@
 
             If a person ceases to exist by reason of a merger, consolidation, or division, the successor corporation or corporations shall be treated as the person to whom this subtitle applies.
 
-([Pub. L. 93–406, title IV, § 4069][/us/pl/93/406/s4069], as added [Pub. L. 99–272, title XI, § 11013(a)][/us/pl/99/272/s11013/a], Apr. 7, 1986, [100 Stat. 260][/us/stat/100/260].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4069, as added [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11013(a), Apr. 7, 1986, [100 Stat. 260][/us/stat/100/260].)
 
  __Effective Date__ 
 
-[Pub. L. 99–272, title XI, § 11013(b)][/us/pl/99/272/s11013/b], Apr. 7, 1986, [100 Stat. 261][/us/stat/100/261], provided that: 
+[Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11013(b), Apr. 7, 1986, [100 Stat. 261][/us/stat/100/261], provided that: 
 
 > “Section 4069(a) of the Employee Retirement Income Security Act of 1974 (as added by subsection (a)) \[subsec. (a) of this section\] shall apply with respect to transactions becoming effective on or after January 1, 1986.”
 
@@ -52,10 +52,10 @@
 ----------
 ----------
 
-[/us/pl/93/406/s4069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4069
-[/us/pl/99/272/s11013/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11013%2Fa
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F260
-[/us/pl/99/272/s11013/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11013%2Fb
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F261
 [/us/pl/99/272/s11019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11019
 [/us/usc/t29/s1341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341

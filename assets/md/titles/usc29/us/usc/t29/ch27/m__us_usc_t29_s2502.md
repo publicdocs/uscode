@@ -27,7 +27,7 @@
 
         The Secretary shall give priority to providing outreach to employers located in areas that have nontraditional employment and training programs specifically targeted to women.
 
-([Pub. L. 102–530, § 3][/us/pl/102/530/s3], Oct. 27, 1992, [106 Stat. 3466][/us/stat/106/3466].)
+([Pub. L. 102–530][/us/pl/102/530], § 3, Oct. 27, 1992, [106 Stat. 3466][/us/stat/106/3466].)
 
 ----------
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t29/s2503/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2503%2Fa
-[/us/pl/102/530/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530%2Fs3
+[/us/pl/102/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530
 [/us/stat/106/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3466
 
 

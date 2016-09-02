@@ -53,23 +53,23 @@
 
         The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section including exempting a plan from the requirements of this section where he finds that (1) other bonding arrangements or (2) the overall financial condition of the plan would be adequate to protect the interests of the beneficiaries and participants. When, in the opinion of the Secretary, the administrator of a plan offers adequate evidence of the financial responsibility of the plan, or that other bonding arrangements would provide adequate protection of the beneficiaries and participants, he may exempt such plan from the requirements of this section.
 
-([Pub. L. 93–406, title I, § 412][/us/pl/93/406/s412], Sept. 2, 1974, [88 Stat. 888][/us/stat/88/888]; [Pub. L. 109–280, title VI][/us/pl/109/280], §§ 611(b), 622(a), Aug. 17, 2006, [120 Stat. 968][/us/stat/120/968], 979.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 412, Sept. 2, 1974, [88 Stat. 888][/us/stat/88/888]; [Pub. L. 109–280, title VI][/us/pl/109/280/tVI], §§ 611(b), 622(a), Aug. 17, 2006, [120 Stat. 968][/us/stat/120/968], 979.)
 
  __Codification__ 
 
-    In subsec. (a), “sections 9304–9308 of title 31” substituted for “sections 6 through 13 of title 6, United States Code” on authority of [Pub. L. 97–258, § 4(b)][/us/pl/97/258/s4/b], Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
+    In subsec. (a), “sections 9304–9308 of title 31” substituted for “sections 6 through 13 of title 6, United States Code” on authority of [Pub. L. 97–258][/us/pl/97/258], § 4(b), Sept. 13, 1982, [96 Stat. 1067][/us/stat/96/1067], the first section of which enacted Title 31, Money and Finance.
 
  __Amendments__ 
 
-    2006—Subsec. (a). [Pub. L. 109–280, § 622(a)][/us/pl/109/280/s622/a], inserted at end of concluding provisions “In the case of a plan that holds employer securities (within the meaning of [section 1107(d)(1) of this title][/us/usc/t29/s1107/d/1]), this subsection shall be applied by substituting ‘$1,000,000’ for ‘$500,000’ each place it appears.”
+    2006—Subsec. (a). [Pub. L. 109–280][/us/pl/109/280], § 622(a), inserted at end of concluding provisions “In the case of a plan that holds employer securities (within the meaning of [section 1107(d)(1) of this title][/us/usc/t29/s1107/d/1]), this subsection shall be applied by substituting ‘$1,000,000’ for ‘$500,000’ each place it appears.”
 
-    Subsec. (a)(2), (3). [Pub. L. 109–280, § 611(b)][/us/pl/109/280/s611/b], added par. (2) and redesignated former par. (2) as (3).
+    Subsec. (a)(2), (3). [Pub. L. 109–280][/us/pl/109/280], § 611(b), added par. (2) and redesignated former par. (2) as (3).
 
  __Effective Date of 2006 Amendment__ 
 
     Amendment by [section 611(b) of Pub. L. 109–280][/us/pl/109/280/s611/b] applicable to plan years beginning after Aug. 17, 2006, see [section 611(h)(2) of Pub. L. 109–280][/us/pl/109/280/s611/h/2], set out as a note under [section 4975 of Title 26][/us/usc/t26/s4975], Internal Revenue Code.
 
-[Pub. L. 109–280, title VI, § 622(b)][/us/pl/109/280/s622/b], Aug. 17, 2006, [120 Stat. 979][/us/stat/120/979], provided that: 
+[Pub. L. 109–280, title VI][/us/pl/109/280/tVI], § 622(b), Aug. 17, 2006, [120 Stat. 979][/us/stat/120/979], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply to plan years beginning after December 31, 2007.”
 
@@ -86,19 +86,19 @@
 
 [/us/usc/t15/s78c/a/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F26
 [/us/usc/t29/s1107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1107%2Fd%2F1
-[/us/pl/93/406/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs412
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F888
-[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVI
 [/us/stat/120/968]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F968
-[/us/pl/97/258/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258%2Fs4%2Fb
+[/us/pl/97/258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F258
 [/us/stat/96/1067]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1067
-[/us/pl/109/280/s622/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs622%2Fa
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/usc/t29/s1107/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1107%2Fd%2F1
-[/us/pl/109/280/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs611%2Fb
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s611/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs611%2Fb
 [/us/pl/109/280/s611/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs611%2Fh%2F2
 [/us/usc/t26/s4975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4975
-[/us/pl/109/280/s622/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs622%2Fb
+[/us/pl/109/280/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVI
 [/us/stat/120/979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F979
 
 

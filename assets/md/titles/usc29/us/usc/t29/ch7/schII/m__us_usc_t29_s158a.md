@@ -17,7 +17,7 @@
 
     Provision by an employer of facilities for the operations of a Federal Credit Union on the premises of such employer shall not be deemed to be intimidation, coercion, interference, restraint or discrimination within the provisions of sections 157 and 158 of this title, or acts amendatory thereof.
 
-([Dec. 6, 1937, ch. 3, § 5][/us/act/1937-12-06/ch3/s5], [51 Stat. 5][/us/stat/51/5].)
+([Dec. 6, 1937, ch. 3][/us/act/1937-12-06/ch3], § 5, [51 Stat. 5][/us/stat/51/5].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1937-12-06/ch3/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-12-06%2Fch3%2Fs5
+[/us/act/1937-12-06/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-12-06%2Fch3
 [/us/stat/51/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F51%2F5
 
 

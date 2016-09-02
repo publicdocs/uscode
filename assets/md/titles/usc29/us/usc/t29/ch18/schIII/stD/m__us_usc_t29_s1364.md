@@ -27,7 +27,7 @@
 
         and [section 1368(a) of this title][/us/usc/t29/s1368/a] shall be applied separately with respect to each controlled group. The corporation may also determine the liability of each such contributing sponsor and member of its controlled group on any other equitable basis prescribed by the corporation in regulations.
 
-([Pub. L. 93–406, title IV, § 4064][/us/pl/93/406/s4064], Sept. 2, 1974, [88 Stat. 1031][/us/stat/88/1031]; [Pub. L. 96–364, title IV, § 403(i)][/us/pl/96/364/s403/i], Sept. 26, 1980, [94 Stat. 1301][/us/stat/94/1301]; [Pub. L. 99–272, title XI, § 11016(a)(5)(B)][/us/pl/99/272/s11016/a/5/B], Apr. 7, 1986, [100 Stat. 270][/us/stat/100/270]; [Pub. L. 100–203, title IX, § 9312(b)(2)(C)(i)][/us/pl/100/203/s9312/b/2/C/i], Dec. 22, 1987, [101 Stat. 1330–361][/us/stat/101/1330-361]; [Pub. L. 101–239, title VII, § 7881(f)(3)(A)][/us/pl/101/239/s7881/f/3/A], Dec. 19, 1989, [103 Stat. 2440][/us/stat/103/2440].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4064, Sept. 2, 1974, [88 Stat. 1031][/us/stat/88/1031]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 403(i), Sept. 26, 1980, [94 Stat. 1301][/us/stat/94/1301]; [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11016(a)(5)(B), Apr. 7, 1986, [100 Stat. 270][/us/stat/100/270]; [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9312(b)(2)(C)(i), Dec. 22, 1987, [101 Stat. 1330–361][/us/stat/101/1330-361]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7881(f)(3)(A), Dec. 19, 1989, [103 Stat. 2440][/us/stat/103/2440].)
 
  __Amendments__ 
 
@@ -49,11 +49,11 @@
 
     “(2) the amount of the liability determined under [section 1362(c)(1) of this title][/us/usc/t29/s1362/c/1] with respect to the entire plan shall be allocated to each controlled group by multiplying such amount by the fraction described in paragraph (1)(B) in connection with such controlled group.”
 
-    1986—[Pub. L. 99–272, § 11016(a)(5)(B)(iii)][/us/pl/99/272/s11016/a/5/B/iii], substituted “on termination of single-employer plans under multiple controlled groups” for “of employers on termination of plan maintained by more than one employer” in section catchline.
+    1986—[Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(B)(iii), substituted “on termination of single-employer plans under multiple controlled groups” for “of employers on termination of plan maintained by more than one employer” in section catchline.
 
-    Subsec. (a). [Pub. L. 99–272, § 11016(a)(5)(B)(i)][/us/pl/99/272/s11016/a/5/B/i], substituted “all contributing sponsors of a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control” for “all employers who maintain a plan under which more than one employer makes contributions (other than a multiemployer plan)” and inserted “under section 1341(c) or 1342 of this title” after “terminated”.
+    Subsec. (a). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(B)(i), substituted “all contributing sponsors of a single-employer plan which has two or more contributing sponsors at least two of whom are not under common control” for “all employers who maintain a plan under which more than one employer makes contributions (other than a multiemployer plan)” and inserted “under section 1341(c) or 1342 of this title” after “terminated”.
 
-    Subsec. (b). [Pub. L. 99–272, § 11016(a)(5)(B)(ii)][/us/pl/99/272/s11016/a/5/B/ii], amended subsec. (b) generally, substituting reference to each contributing sponsor and each member of its controlled group for reference to each employer of a plan maintained by more than one employer and inserted provisions that liability determined under [section 1362(b)(1) of this title][/us/usc/t29/s1362/b/1] with respect to the entire plan be determined without regard to cls. (i)(II) and (ii) of [section 1362(b)(1)(A) of this title][/us/usc/t29/s1362/b/1/A] and that the amount of liability determined under [section 1362(c)(1) of this title][/us/usc/t29/s1362/c/1] with respect to the entire plan be allocated to each controlled group by multiplying such amount by the fraction described in par. (1)(B) in connection with such controlled group.
+    Subsec. (b). [Pub. L. 99–272][/us/pl/99/272], § 11016(a)(5)(B)(ii), amended subsec. (b) generally, substituting reference to each contributing sponsor and each member of its controlled group for reference to each employer of a plan maintained by more than one employer and inserted provisions that liability determined under [section 1362(b)(1) of this title][/us/usc/t29/s1362/b/1] with respect to the entire plan be determined without regard to cls. (i)(II) and (ii) of [section 1362(b)(1)(A) of this title][/us/usc/t29/s1362/b/1/A] and that the amount of liability determined under [section 1362(c)(1) of this title][/us/usc/t29/s1362/c/1] with respect to the entire plan be allocated to each controlled group by multiplying such amount by the fraction described in par. (1)(B) in connection with such controlled group.
 
     1980—Subsec. (a). [Pub. L. 96–364][/us/pl/96/364] inserted provisions excepting a multiemployer plan.
 
@@ -83,15 +83,15 @@
 [/us/usc/t29/s1362]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362
 [/us/usc/t29/s1362/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fb%2F1
 [/us/usc/t29/s1368/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1368%2Fa
-[/us/pl/93/406/s4064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4064
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1031
-[/us/pl/96/364/s403/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs403%2Fi
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1301
-[/us/pl/99/272/s11016/a/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FB
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/270]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F270
-[/us/pl/100/203/s9312/b/2/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fb%2F2%2FC%2Fi
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-361
-[/us/pl/101/239/s7881/f/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Ff%2F3%2FA
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2440
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203
@@ -100,9 +100,9 @@
 [/us/usc/t29/s1362/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fb%2F1%2FA
 [/us/usc/t29/s1362/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fb%2F1%2FA
 [/us/usc/t29/s1362/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fc%2F1
-[/us/pl/99/272/s11016/a/5/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FB%2Fiii
-[/us/pl/99/272/s11016/a/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FB%2Fi
-[/us/pl/99/272/s11016/a/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fa%2F5%2FB%2Fii
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t29/s1362/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fb%2F1
 [/us/usc/t29/s1362/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fb%2F1%2FA
 [/us/usc/t29/s1362/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1362%2Fc%2F1

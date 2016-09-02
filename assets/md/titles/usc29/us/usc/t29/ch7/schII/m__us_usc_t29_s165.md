@@ -17,7 +17,7 @@
 
     Wherever the application of the provisions of section 272 of chapter 10 of the Act entitled “An Act to establish a uniform system of bankruptcy throughout the United States”, approved July 1, 1898, and Acts amendatory thereof and supplementary thereto (U.S.C., title 11, sec. 672), conflicts with the application of the provisions of this subchapter, this subchapter shall prevail: Provided, That in any situation where the provisions of this subchapter cannot be validly enforced, the provisions of such other Acts shall remain in full force and effect.
 
-([July 5, 1935, ch. 372, § 15][/us/act/1935-07-05/ch372/s15], [49 Stat. 457][/us/stat/49/457]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 15, [49 Stat. 457][/us/stat/49/457]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151].)
 
  __References in Text__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1935-07-05/ch372/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs15
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F457
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F151

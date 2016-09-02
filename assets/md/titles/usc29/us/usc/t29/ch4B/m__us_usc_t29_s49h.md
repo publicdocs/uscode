@@ -35,7 +35,7 @@
 
         Each State shall repay to the United States amounts found not to have been expended in accordance with this chapter. No such finding shall be made except after notice and opportunity for a fair hearing. The Secretary may offset such amounts against any other amount to which the recipient is or may be entitled under this chapter.
 
-([June 6, 1933, ch. 49, § 9][/us/act/1933-06-06/ch49/s9], [48 Stat. 116][/us/stat/48/116]; [Pub. L. 97–300, title VI, § 601(e)][/us/pl/97/300/s601/e], formerly title V, § 501(e), Oct. 18, 1982, [96 Stat. 1396][/us/stat/96/1396]; renumbered title VI, § 601(e), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248].)
+([June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 9, [48 Stat. 116][/us/stat/48/116]; [Pub. L. 97–300, title VI][/us/pl/97/300/tVI], § 601(e), formerly title V, § 501(e), Oct. 18, 1982, [96 Stat. 1396][/us/stat/96/1396]; renumbered title VI, § 601(e), [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 712(a)(1), (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248].)
 
  __References in Text__ 
 
@@ -60,11 +60,11 @@
 ----------
 ----------
 
-[/us/act/1933-06-06/ch49/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs9
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F116
-[/us/pl/97/300/s601/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fe
+[/us/pl/97/300/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtVI
 [/us/stat/96/1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1396
-[/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101

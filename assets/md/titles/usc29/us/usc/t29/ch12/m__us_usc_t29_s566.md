@@ -31,7 +31,7 @@
 
         There are authorized to be appropriated to carry out this section, $4,000,000 for fiscal year 1989, and $5,000,000 for each of the fiscal years 1990 and 1991.
 
-([Pub. L. 100–690, title II, § 2101][/us/pl/100/690/s2101], Nov. 18, 1988, [102 Stat. 4216][/us/stat/102/4216].)
+([Pub. L. 100–690, title II][/us/pl/100/690/tII], § 2101, Nov. 18, 1988, [102 Stat. 4216][/us/stat/102/4216].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/100/690/s2101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2Fs2101
+[/us/pl/100/690/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F690%2FtII
 [/us/stat/102/4216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F4216
 
 

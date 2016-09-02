@@ -77,7 +77,7 @@
 
         There are authorized to be appropriated to carry out this section such sums as may be necessary.
 
-([Pub. L. 93–112, § 12][/us/pl/93/112/s12], formerly § 10, as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1111][/us/stat/112/1111]; renumbered § 12, [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(a)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; amended [Pub. L. 113–128, title IV, § 405(c)][/us/pl/113/128/s405/c], July 22, 2014, [128 Stat. 1637][/us/stat/128/1637].)
+([Pub. L. 93–112][/us/pl/93/112], § 12, formerly § 10, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1111][/us/stat/112/1111]; renumbered § 12, [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(a)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 405(c), July 22, 2014, [128 Stat. 1637][/us/stat/128/1637].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 
     Provisions similar to this section were contained in [section 711 of this title][/us/usc/t29/s711] prior to repeal by [Pub. L. 105–220][/us/pl/105/220].
 
-    A prior section 709, [Pub. L. 93–112, § 10][/us/pl/93/112/s10], Sept. 26, 1973, [87 Stat. 363][/us/stat/87/363]; [Pub. L. 95–602, title I, § 122(a)(9)][/us/pl/95/602/s122/a/9], Nov. 6, 1978, [92 Stat. 2985][/us/stat/92/2985]; [Pub. L. 100–630, title II, § 201(d)][/us/pl/100/630/s201/d], Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–569, title I, § 104][/us/pl/102/569/s104], Oct. 29, 1992, [106 Stat. 4361][/us/stat/106/4361], related to nonduplication prohibition, prior to repeal by [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093]. See [section 707 of this title][/us/usc/t29/s707].
+    A prior section 709, [Pub. L. 93–112][/us/pl/93/112], § 10, Sept. 26, 1973, [87 Stat. 363][/us/stat/87/363]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 122(a)(9), Nov. 6, 1978, [92 Stat. 2985][/us/stat/92/2985]; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 201(d), Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 104, Oct. 29, 1992, [106 Stat. 4361][/us/stat/106/4361], related to nonduplication prohibition, prior to repeal by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093]. See [section 707 of this title][/us/usc/t29/s707].
 
     A prior [section 12 of Pub. L. 93–112][/us/pl/93/112/s12] was renumbered section 14 and is classified to [section 711 of this title][/us/usc/t29/s711].
 
@@ -95,25 +95,25 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–128, § 405(c)(1)(A)][/us/pl/113/128/s405/c/1/A], designated existing provisions as subpar. (A) and added subpars. (B) to (D).
+    2014—Subsec. (a)(1). [Pub. L. 113–128][/us/pl/113/128], § 405(c)(1)(A), designated existing provisions as subpar. (A) and added subpars. (B) to (D).
 
-    Subsec. (a)(2). [Pub. L. 113–128, § 405(c)(1)(B)][/us/pl/113/128/s405/c/1/B], struck out “, centers for independent living,” after “community rehabilitation programs”.
+    Subsec. (a)(2). [Pub. L. 113–128][/us/pl/113/128], § 405(c)(1)(B), struck out “, centers for independent living,” after “community rehabilitation programs”.
 
-    Subsec. (c). [Pub. L. 113–128, § 405(c)(6)(A)][/us/pl/113/128/s405/c/6/A], (D), (E), designated existing provisions as par. (1) and redesignated subsec. (f) as par. (2).
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 405(c)(6)(A), (D), (E), designated existing provisions as par. (1) and redesignated subsec. (f) as par. (2).
 
-    [Pub. L. 113–128, § 405(c)(2)][/us/pl/113/128/s405/c/2], substituted “Secretary of Education” for “Commissioner”.
+    [Pub. L. 113–128][/us/pl/113/128], § 405(c)(2), substituted “Secretary of Education” for “Commissioner”.
 
-    Subsec. (d). [Pub. L. 113–128, § 405(c)(6)(B)][/us/pl/113/128/s405/c/6/B], (C), designated existing provisions as par. (1) and redesignated subsec. (e) as par. (2).
+    Subsec. (d). [Pub. L. 113–128][/us/pl/113/128], § 405(c)(6)(B), (C), designated existing provisions as par. (1) and redesignated subsec. (e) as par. (2).
 
-    [Pub. L. 113–128, § 405(c)(3)][/us/pl/113/128/s405/c/3], inserted “of Education” after “Secretary”.
+    [Pub. L. 113–128][/us/pl/113/128], § 405(c)(3), inserted “of Education” after “Secretary”.
 
-    Subsec. (e). [Pub. L. 113–128, § 405(c)(7)][/us/pl/113/128/s405/c/7], added subsec. (e). Former subsec. (e) redesignated par. (2) of subsec. (d).
+    Subsec. (e). [Pub. L. 113–128][/us/pl/113/128], § 405(c)(7), added subsec. (e). Former subsec. (e) redesignated par. (2) of subsec. (d).
 
-    [Pub. L. 113–128, § 405(c)(4)][/us/pl/113/128/s405/c/4], amended reference in original act which resulted in substitution of “July 22, 2014” for “August 7, 1998” in text, inserted “of Education” after “Secretary”, and substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
+    [Pub. L. 113–128][/us/pl/113/128], § 405(c)(4), amended reference in original act which resulted in substitution of “July 22, 2014” for “August 7, 1998” in text, inserted “of Education” after “Secretary”, and substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
 
-    Subsec. (f). [Pub. L. 113–128, § 405(c)(7)][/us/pl/113/128/s405/c/7], added subsec. (f). Former subsec. (f) redesignated par. (2) of subsec. (c).
+    Subsec. (f). [Pub. L. 113–128][/us/pl/113/128], § 405(c)(7), added subsec. (f). Former subsec. (f) redesignated par. (2) of subsec. (c).
 
-    [Pub. L. 113–128, § 405(c)(5)][/us/pl/113/128/s405/c/5], inserted “of Education” after “Secretary”.
+    [Pub. L. 113–128][/us/pl/113/128], § 405(c)(5), inserted “of Education” after “Secretary”.
 
 ----------
 
@@ -123,27 +123,27 @@
 ----------
 
 [/us/usc/t29/s721/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F5%2FA
-[/us/pl/93/112/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs12
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1111
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s405/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1637
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
 [/us/usc/t29/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs711
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs10
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F363
-[/us/pl/95/602/s122/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs122%2Fa%2F9
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2985]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2985
-[/us/pl/100/630/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs201%2Fd
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3304
-[/us/pl/102/569/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs104
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4361
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1093
 [/us/usc/t29/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs707
 [/us/pl/93/112/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs12
@@ -151,15 +151,15 @@
 [/us/pl/93/112/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs12
 [/us/usc/t29/s711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs711
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s405/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F1%2FA
-[/us/pl/113/128/s405/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F1%2FB
-[/us/pl/113/128/s405/c/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F6%2FA
-[/us/pl/113/128/s405/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F2
-[/us/pl/113/128/s405/c/6/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F6%2FB
-[/us/pl/113/128/s405/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F3
-[/us/pl/113/128/s405/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F7
-[/us/pl/113/128/s405/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F4
-[/us/pl/113/128/s405/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F7
-[/us/pl/113/128/s405/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs405%2Fc%2F5
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

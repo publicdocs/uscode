@@ -73,37 +73,37 @@
 
             The Director shall ensure that the report described in this subsection is made publicly available in a timely manner, including through electronic means, in order to inform the public about the administration and performance of programs under this chapter.
 
-([Pub. L. 93–112, title VII, § 706][/us/pl/93/112/s706], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1223][/us/stat/112/1223]; amended [Pub. L. 113–128, title IV, § 475A][/us/pl/113/128/s475A], July 22, 2014, [128 Stat. 1689][/us/stat/128/1689].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 706, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1223][/us/stat/112/1223]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 475A, July 22, 2014, [128 Stat. 1689][/us/stat/128/1689].)
 
  __Prior Provisions__ 
 
-    A prior section 796d–1, [Pub. L. 93–112, title VII, § 706][/us/pl/93/112/s706], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4448][/us/stat/106/4448]; amended [Pub. L. 103–73, title I, § 114(d)][/us/pl/103/73/s114/d], Aug. 11, 1993, [107 Stat. 729][/us/stat/107/729], related to responsibilities of Commissioner, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796d–1, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 706, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4448][/us/stat/106/4448]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(d), Aug. 11, 1993, [107 Stat. 729][/us/stat/107/729], related to responsibilities of Commissioner, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    Another prior section 796d–1, [Pub. L. 93–112, title VII, § 706][/us/pl/93/112/s706], as added [Pub. L. 99–506, title VIII, § 803(a)][/us/pl/99/506/s803/a], Oct. 21, 1986, [100 Stat. 1837][/us/stat/100/1837]; amended [Pub. L. 100–630, title II, § 208(e)][/us/pl/100/630/s208/e], Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], provided for a State Independent Living Council, prior to repeal by [Pub. L. 102–569, § 701(1)][/us/pl/102/569/s701/1].
+    Another prior section 796d–1, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 706, as added [Pub. L. 99–506, title VIII][/us/pl/99/506/tVIII], § 803(a), Oct. 21, 1986, [100 Stat. 1837][/us/stat/100/1837]; amended [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 208(e), Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], provided for a State Independent Living Council, prior to repeal by [Pub. L. 102–569][/us/pl/102/569], § 701(1).
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–128, § 475A(1)][/us/pl/113/128/s475A/1], substituted “the Administrator” for “Commissioner” in section catchline.
+    2014—[Pub. L. 113–128][/us/pl/113/128], § 475A(1), substituted “the Administrator” for “Commissioner” in section catchline.
 
-    Subsec. (a)(1). [Pub. L. 113–128, § 475A(2)(A)][/us/pl/113/128/s475A/2/A], substituted “Administrator” for “Commissioner” wherever appearing.
+    Subsec. (a)(1). [Pub. L. 113–128][/us/pl/113/128], § 475A(2)(A), substituted “Administrator” for “Commissioner” wherever appearing.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–128, § 475A(2)(B)(i)][/us/pl/113/128/s475A/2/B/i], substituted “Administrator” for “Commissioner”.
+    Subsec. (a)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 475A(2)(B)(i), substituted “Administrator” for “Commissioner”.
 
-    Subsec. (a)(2)(B)(i). [Pub. L. 113–128, § 475A(2)(B)(ii)(I)][/us/pl/113/128/s475A/2/B/ii/I], inserted “or the Commissioner” after “to the Secretary” and substituted “to the Administrator;” for “to the Commissioner; and”.
+    Subsec. (a)(2)(B)(i). [Pub. L. 113–128][/us/pl/113/128], § 475A(2)(B)(ii)(I), inserted “or the Commissioner” after “to the Secretary” and substituted “to the Administrator;” for “to the Commissioner; and”.
 
-    Subsec. (a)(2)(B)(ii), (iii). [Pub. L. 113–128, § 475A(2)(B)(ii)(II)][/us/pl/113/128/s475A/2/B/ii/II], (III), added cl. (ii) and redesignated former cl. (ii) as (iii).
+    Subsec. (a)(2)(B)(ii), (iii). [Pub. L. 113–128][/us/pl/113/128], § 475A(2)(B)(ii)(II), (III), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-    Subsec. (b). [Pub. L. 113–128, § 475A(3)][/us/pl/113/128/s475A/3], added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4].”
+    Subsec. (b). [Pub. L. 113–128][/us/pl/113/128], § 475A(3), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than October 1, 1993, the Commissioner shall develop and publish in the Federal Register indicators of minimum compliance consistent with the standards set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4].”
 
-    Subsec. (c)(1). [Pub. L. 113–128, § 475A(4)(A)][/us/pl/113/128/s475A/4/A], substituted “Administrator” for “Commissioner” wherever appearing and struck out last sentence which read as follows: “The Administrator shall select the centers and State units described in this paragraph for review on a random basis.”
+    Subsec. (c)(1). [Pub. L. 113–128][/us/pl/113/128], § 475A(4)(A), substituted “Administrator” for “Commissioner” wherever appearing and struck out last sentence which read as follows: “The Administrator shall select the centers and State units described in this paragraph for review on a random basis.”
 
-    Subsec. (c)(2). [Pub. L. 113–128, § 475A(4)(B)(i)][/us/pl/113/128/s475A/4/B/i], substituted “Administrator” for “Commissioner” in introductory provisions.
+    Subsec. (c)(2). [Pub. L. 113–128][/us/pl/113/128], § 475A(4)(B)(i), substituted “Administrator” for “Commissioner” in introductory provisions.
 
-    Subsec. (c)(2)(A). [Pub. L. 113–128, § 475A(4)(B)(ii)][/us/pl/113/128/s475A/4/B/ii], (iii), substituted “a review described in paragraph (1)” for “such a review” and “Department of Health and Human Services” for “Department”.
+    Subsec. (c)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 475A(4)(B)(ii), (iii), substituted “a review described in paragraph (1)” for “such a review” and “Department of Health and Human Services” for “Department”.
 
-    Subsec. (c)(2)(B). [Pub. L. 113–128, § 475A(4)(B)(iii)][/us/pl/113/128/s475A/4/B/iii], substituted “Department of Health and Human Services” for “Department”.
+    Subsec. (c)(2)(B). [Pub. L. 113–128][/us/pl/113/128], § 475A(4)(B)(iii), substituted “Department of Health and Human Services” for “Department”.
 
-    Subsec. (d). [Pub. L. 113–128, § 475A(5)][/us/pl/113/128/s475A/5], added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Commissioner shall include, in the annual report required under [section 710 of this title][/us/usc/t29/s710], information on the extent to which centers for independent living receiving funds under subpart 3 have complied with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4]. The Commissioner may identify individual centers for independent living in the analysis. The Commissioner shall report the results of onsite compliance reviews, identifying individual centers for independent living and other recipients of assistance under this part.”
+    Subsec. (d). [Pub. L. 113–128][/us/pl/113/128], § 475A(5), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “The Commissioner shall include, in the annual report required under [section 710 of this title][/us/usc/t29/s710], information on the extent to which centers for independent living receiving funds under subpart 3 have complied with the standards and assurances set forth in [section 796f–4 of this title][/us/usc/t29/s796f–4]. The Commissioner may identify individual centers for independent living in the analysis. The Commissioner shall report the results of onsite compliance reviews, identifying individual centers for independent living and other recipients of assistance under this part.”
 
 ----------
 
@@ -125,35 +125,35 @@
 [/us/usc/t29/s796f–2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%932
 [/us/usc/t29/s796–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796%E2%80%931
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
-[/us/pl/93/112/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs706
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1223
-[/us/pl/113/128/s475A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1689]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1689
-[/us/pl/93/112/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs706
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4448
-[/us/pl/103/73/s114/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fd
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/729]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F729
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs706
-[/us/pl/99/506/s803/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs803%2Fa
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/99/506/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtVIII
 [/us/stat/100/1837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1837
-[/us/pl/100/630/s208/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs208%2Fe
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3314
-[/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
-[/us/pl/113/128/s475A/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F1
-[/us/pl/113/128/s475A/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F2%2FA
-[/us/pl/113/128/s475A/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F2%2FB%2Fi
-[/us/pl/113/128/s475A/2/B/ii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F2%2FB%2Fii%2FI
-[/us/pl/113/128/s475A/2/B/ii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F2%2FB%2Fii%2FII
-[/us/pl/113/128/s475A/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F3
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
-[/us/pl/113/128/s475A/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F4%2FA
-[/us/pl/113/128/s475A/4/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F4%2FB%2Fi
-[/us/pl/113/128/s475A/4/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F4%2FB%2Fii
-[/us/pl/113/128/s475A/4/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F4%2FB%2Fiii
-[/us/pl/113/128/s475A/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs475A%2F5
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs710
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
 

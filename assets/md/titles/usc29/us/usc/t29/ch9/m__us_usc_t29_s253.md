@@ -35,7 +35,7 @@
 
         As used in this section, the term “compromise” includes “adjustment”, “settlement”, and “release”.
 
-([May 14, 1947, ch. 52, § 3][/us/act/1947-05-14/ch52/s3], [61 Stat. 86][/us/stat/61/86].)
+([May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 3, [61 Stat. 86][/us/stat/61/86].)
 
  __References in Text__ 
 
@@ -52,7 +52,7 @@
 
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/act/1947-05-14/ch52/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs3
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F86
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

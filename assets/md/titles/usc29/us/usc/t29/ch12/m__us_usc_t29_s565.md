@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t29/ch12/m__us_usc_t29_s564.md) | [Next](./../../../..//us/usc/t29/ch12/m__us_usc_t29_s566.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs565)
 
-## § 565. Repealed. [Pub. L. 103–382, title III, § 391(i)][/us/pl/103/382/s391/i], Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]
+## § 565. Repealed. [Pub. L. 103–382, title III][/us/pl/103/382/tIII], § 391(i), Oct. 20, 1994, [108 Stat. 4023][/us/stat/108/4023]
 
-    Section, [Pub. L. 100–418, title VI, § 6306(b)][/us/pl/100/418/s6306/b], Aug. 23, 1988, [102 Stat. 1541][/us/stat/102/1541], related to study and report respecting failure to provide internationally recognized worker rights.
+    Section, [Pub. L. 100–418, title VI][/us/pl/100/418/tVI], § 6306(b), Aug. 23, 1988, [102 Stat. 1541][/us/stat/102/1541], related to study and report respecting failure to provide internationally recognized worker rights.
 
 ----------
 
@@ -24,9 +24,9 @@
 ----------
 ----------
 
-[/us/pl/103/382/s391/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs391%2Fi
+[/us/pl/103/382/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtIII
 [/us/stat/108/4023]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4023
-[/us/pl/100/418/s6306/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6306%2Fb
+[/us/pl/100/418/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2FtVI
 [/us/stat/102/1541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1541
 
 

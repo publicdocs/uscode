@@ -27,7 +27,7 @@
 
         In cases where the cost limits described in subsection (a) are too restrictive to allow for the activities described in subsection (a)(2), the eligible provider shall negotiate with the eligible agency in order to determine an adequate level of funds to be used for noninstructional purposes.
 
-([Pub. L. 113–128, title II, § 233][/us/pl/113/128/s233], July 22, 2014, [128 Stat. 1620][/us/stat/128/1620].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 233, July 22, 2014, [128 Stat. 1620][/us/stat/128/1620].)
 
  __Effective Date__ 
 
@@ -42,7 +42,7 @@
 
 [/us/usc/t29/s3141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141
 [/us/usc/t29/s3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3322
-[/us/pl/113/128/s233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs233
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1620
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

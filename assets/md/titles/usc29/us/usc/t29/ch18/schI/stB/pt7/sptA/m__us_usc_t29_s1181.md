@@ -301,7 +301,7 @@
 
             A health maintenance organization described in paragraph (1) may use alternative methods, from those described in such paragraph, to address adverse selection as approved by the State insurance commissioner or official or officials designated by the State to enforce the requirements of part A of title XXVII of the Public Health Service Act \[[42 U.S.C. 300gg][/us/usc/t42/s300gg] et seq.\] for the State involved with respect to such issuer.
 
-([Pub. L. 93–406, title I, § 701][/us/pl/93/406/s701], as added [Pub. L. 104–191, title I, § 101(a)][/us/pl/104/191/s101/a], Aug. 21, 1996, [110 Stat. 1939][/us/stat/110/1939]; amended [Pub. L. 104–204, title VI, § 603(b)(3)(H)][/us/pl/104/204/s603/b/3/H], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 111–3, title III, § 311(b)(1)(A)][/us/pl/111/3/s311/b/1/A], Feb. 4, 2009, [123 Stat. 65][/us/stat/123/65]; [Pub. L. 111–5, div. B, title I, § 1899D(b)][/us/pl/111/5/s1899D/b], Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426]; [Pub. L. 111–344, title I, § 114(b)][/us/pl/111/344/s114/b], Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II, § 242(a)(2)][/us/pl/112/40/s242/a/2], Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 701, as added [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(a), Aug. 21, 1996, [110 Stat. 1939][/us/stat/110/1939]; amended [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 603(b)(3)(H), Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938]; [Pub. L. 111–3, title III][/us/pl/111/3/tIII], § 311(b)(1)(A), Feb. 4, 2009, [123 Stat. 65][/us/stat/123/65]; [Pub. L. 111–5, div. B, title I][/us/pl/111/5/dB/tI], § 1899D(b), Feb. 17, 2009, [123 Stat. 426][/us/stat/123/426]; [Pub. L. 111–344, title I][/us/pl/111/344/tI], § 114(b), Dec. 29, 2010, [124 Stat. 3615][/us/stat/124/3615]; [Pub. L. 112–40, title II][/us/pl/112/40/tII], § 242(a)(2), Oct. 21, 2011, [125 Stat. 419][/us/stat/125/419].)
 
  __References in Text__ 
 
@@ -345,7 +345,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 104–191, title I, § 101(g)][/us/pl/104/191/s101/g], Aug. 21, 1996, [110 Stat. 1953][/us/stat/110/1953], provided that:
+[Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(g), Aug. 21, 1996, [110 Stat. 1953][/us/stat/110/1953], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -405,7 +405,7 @@
 
  __Working Group to Develop Model Coverage Coordination Disclosure Form__ 
 
-[Pub. L. 111–3, title III, § 311(b)(1)(C)][/us/pl/111/3/s311/b/1/C], Feb. 4, 2009, [123 Stat. 68][/us/stat/123/68], provided that:
+[Pub. L. 111–3, title III][/us/pl/111/3/tIII], § 311(b)(1)(C), Feb. 4, 2009, [123 Stat. 68][/us/stat/123/68], provided that:
 
 >     “(i) __Medicaid, chip, and employer-sponsored coverage coordination working group.—__ 
 
@@ -473,7 +473,7 @@
 
  __Implementation of 2009 Amendment__ 
 
-[Pub. L. 111–3, title III, § 311(b)(1)(D)][/us/pl/111/3/s311/b/1/D], Feb. 4, 2009, [123 Stat. 69][/us/stat/123/69], provided that: 
+[Pub. L. 111–3, title III][/us/pl/111/3/tIII], § 311(b)(1)(D), Feb. 4, 2009, [123 Stat. 69][/us/stat/123/69], provided that: 
 
 > “The Secretary of Labor and the Secretary of Health and Human Services shall develop the initial model notices under section 701(f)(3)(B)(i)(II) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1181(f)(3)(B)(i)(II)][/us/usc/t29/s1181/f/3/B/i/II]\], and the Secretary of Labor shall provide such notices to employers, not later than the date that is 1 year after the date of enactment of this Act \[Feb. 4, 2009\], and each employer shall provide the initial annual notices to such employer’s employees beginning with the first plan year that begins after the date on which such initial model notices are first issued. The model coverage coordination disclosure form developed under subparagraph (C) \[set out above\] shall apply with respect to requests made by States beginning with the first plan year that begins after the date on which such model coverage coordination disclosure form is first issued.”
 
@@ -496,18 +496,18 @@
 [/us/usc/t29/s1024/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1024%2Fb
 [/us/usc/t42/s1397ee/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397ee%2Fc%2F2%2FB
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
-[/us/pl/93/406/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs701
-[/us/pl/104/191/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1939]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1939
-[/us/pl/104/204/s603/b/3/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fb%2F3%2FH
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2938
-[/us/pl/111/3/s311/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F1%2FA
+[/us/pl/111/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtIII
 [/us/stat/123/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F65
-[/us/pl/111/5/s1899D/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs1899D%2Fb
+[/us/pl/111/5/dB/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdB%2FtI
 [/us/stat/123/426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F426
-[/us/pl/111/344/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2Fs114%2Fb
+[/us/pl/111/344/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F344%2FtI
 [/us/stat/124/3615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3615
-[/us/pl/112/40/s242/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2Fs242%2Fa%2F2
+[/us/pl/112/40/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F40%2FtII
 [/us/stat/125/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F419
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -540,13 +540,13 @@
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/pl/104/204/s603/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fc
 [/us/usc/t29/s1003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1003
-[/us/pl/104/191/s101/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fg
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1953
 [/us/usc/t42/s300gg–92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9392
 [/us/usc/t29/s1181/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Fe
 [/us/usc/t29/s1181/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Fe
 [/us/usc/t42/s300gg–92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg%E2%80%9392
-[/us/pl/111/3/s311/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F1%2FC
+[/us/pl/111/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtIII
 [/us/stat/123/68]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F68
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
 [/us/usc/t42/s1397aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1397aa
@@ -554,7 +554,7 @@
 [/us/pl/111/3/s311/b/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F1%2FC
 [/us/pl/111/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3
 [/us/usc/t42/s1396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1396
-[/us/pl/111/3/s311/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2Fs311%2Fb%2F1%2FD
+[/us/pl/111/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F3%2FtIII
 [/us/stat/123/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F69
 [/us/usc/t29/s1181/f/3/B/i/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181%2Ff%2F3%2FB%2Fi%2FII
 

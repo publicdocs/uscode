@@ -35,7 +35,7 @@
 
         The corporation may enter into arrangements with private insurers to carry out in whole or in part the program authorized by this section and may require plans which elect coverage under the program to elect coverage by those private insurers.
 
-([Pub. L. 93–406, title IV, § 4222][/us/pl/93/406/s4222], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1240][/us/stat/94/1240].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4222, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1240][/us/stat/94/1240].)
 
 ----------
 
@@ -44,8 +44,8 @@
 ----------
 ----------
 
-[/us/pl/93/406/s4222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4222
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1240
 
 

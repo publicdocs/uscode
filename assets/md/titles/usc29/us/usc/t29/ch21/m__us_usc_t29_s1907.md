@@ -135,7 +135,7 @@
 
         There are authorized to be appropriated to carry out this section, such sums as may be necessary for each of the fiscal years 1999 through 2003. Such sums shall remain available until expended.
 
-([Pub. L. 98–221, title II, § 208][/us/pl/98/221/s208], as added [Pub. L. 102–569, title IX, § 907][/us/pl/102/569/s907], Oct. 29, 1992, [106 Stat. 4483][/us/stat/106/4483]; amended [Pub. L. 105–220, title IV, § 412(b)][/us/pl/105/220/s412/b], Aug. 7, 1998, [112 Stat. 1241][/us/stat/112/1241].)
+([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 208, as added [Pub. L. 102–569, title IX][/us/pl/102/569/tIX], § 907, Oct. 29, 1992, [106 Stat. 4483][/us/stat/106/4483]; amended [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 412(b), Aug. 7, 1998, [112 Stat. 1241][/us/stat/112/1241].)
 
  __Amendments__ 
 
@@ -149,10 +149,10 @@
 ----------
 
 [/us/usc/t29/s1903/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1903%2Fa
-[/us/pl/98/221/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs208
-[/us/pl/102/569/s907]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs907
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
+[/us/pl/102/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIX
 [/us/stat/106/4483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4483
-[/us/pl/105/220/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs412%2Fb
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1241
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 

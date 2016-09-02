@@ -65,7 +65,7 @@
 
         The Secretary shall, to the extent practicable, provide child care at or near Job Corps centers, for individuals who require child care for their children in order to participate in the Job Corps.
 
-([Pub. L. 113–128, title I, § 148][/us/pl/113/128/s148], July 22, 2014, [128 Stat. 1547][/us/stat/128/1547].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 148, July 22, 2014, [128 Stat. 1547][/us/stat/128/1547].)
 
  __Effective Date__ 
 
@@ -82,7 +82,7 @@
 [/us/usc/t29/s3152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3152
 [/us/usc/t29/s3209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3209%2Fc%2F1
 [/us/usc/t29/s3141/b/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fii
-[/us/pl/113/128/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs148
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1547]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1547
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

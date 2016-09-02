@@ -79,7 +79,7 @@
 
         The information required to be disclosed by subsections (a) and (b) of this section to seasonal agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to seasonal agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
 
-([Pub. L. 97–470, title III, § 301][/us/pl/97/470/s301], Jan. 14, 1983, [96 Stat. 2592][/us/stat/96/2592]; [Pub. L. 104–49, § 4(b)][/us/pl/104/49/s4/b], Nov. 15, 1995, [109 Stat. 434][/us/stat/109/434].)
+([Pub. L. 97–470, title III][/us/pl/97/470/tIII], § 301, Jan. 14, 1983, [96 Stat. 2592][/us/stat/96/2592]; [Pub. L. 104–49][/us/pl/104/49], § 4(b), Nov. 15, 1995, [109 Stat. 434][/us/stat/109/434].)
 
  __Amendments__ 
 
@@ -98,9 +98,9 @@
 
 [/us/usc/t29/s1802/10/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1802%2F10%2FA%2Fii
 [/us/usc/t29/s1802/10/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1802%2F10%2FA%2Fii
-[/us/pl/97/470/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs301
+[/us/pl/97/470/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtIII
 [/us/stat/96/2592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2592
-[/us/pl/104/49/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs4%2Fb
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F434
 [/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49

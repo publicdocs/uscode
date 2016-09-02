@@ -17,7 +17,7 @@
 
     This chapter is intended to supplement State law, and compliance with this chapter shall not excuse any person from compliance with appropriate State law and regulation.
 
-([Pub. L. 97–470, title V, § 521][/us/pl/97/470/s521], Jan. 14, 1983, [96 Stat. 2599][/us/stat/96/2599].)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 521, Jan. 14, 1983, [96 Stat. 2599][/us/stat/96/2599].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs521
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2599
 
 

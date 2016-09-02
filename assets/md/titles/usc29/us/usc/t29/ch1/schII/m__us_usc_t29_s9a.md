@@ -17,7 +17,7 @@
 
     All moneys hereinafter  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “hereafter”. </sup></sup>  received by the Department of Labor in payment of the cost of such work shall be deposited to the credit of the appropriation of that bureau, service, office, division, or other agency of the Department of Labor which supervised such work, and may be used, in the discretion of the Secretary of Labor, and notwithstanding any other provision of law, for the ordinary expenses of such agency and/or to secure the special services of persons who are neither officers nor employees of the United States.
 
-([Apr. 13, 1934, ch. 118, § 2][/us/act/1934-04-13/ch118/s2], [48 Stat. 582][/us/stat/48/582]; [Apr. 11, 1935, ch. 59][/us/act/1935-04-11/ch59], [49 Stat. 154][/us/stat/49/154]; [June 15, 1937, ch. 349][/us/act/1937-06-15/ch349], [50 Stat. 259][/us/stat/50/259]; [Apr. 15, 1939, ch. 71][/us/act/1939-04-15/ch71], [53 Stat. 581][/us/stat/53/581].)
+([Apr. 13, 1934, ch. 118][/us/act/1934-04-13/ch118], § 2, [48 Stat. 582][/us/stat/48/582]; [Apr. 11, 1935, ch. 59][/us/act/1935-04-11/ch59], [49 Stat. 154][/us/stat/49/154]; [June 15, 1937, ch. 349][/us/act/1937-06-15/ch349], [50 Stat. 259][/us/stat/50/259]; [Apr. 15, 1939, ch. 71][/us/act/1939-04-15/ch71], [53 Stat. 581][/us/stat/53/581].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1934-04-13/ch118/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch118%2Fs2
+[/us/act/1934-04-13/ch118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-04-13%2Fch118
 [/us/stat/48/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F582
 [/us/act/1935-04-11/ch59]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-04-11%2Fch59
 [/us/stat/49/154]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F154

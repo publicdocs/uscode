@@ -19,7 +19,7 @@
 
     (b) Nothing contained in this chapter and section 186(a)–(c) of this title shall be construed to supersede or impair or otherwise affect the provisions of the Railway Labor Act, as amended \[[45 U.S.C. 151][/us/usc/t45/s151] et seq.\], or any of the obligations, rights, benefits, privileges, or immunities of any carrier, employee, organization, representative, or person subject thereto; nor shall anything contained in this chapter be construed to confer any rights, privileges, immunities, or defenses upon employers, or to impair or otherwise affect the rights of any person under the National Labor Relations Act, as amended \[[29 U.S.C. 151][/us/usc/t29/s151] et seq.\].
 
-([Pub. L. 86–257, title VI, § 603][/us/pl/86/257/s603], Sept. 14, 1959, [73 Stat. 540][/us/stat/73/540].)
+([Pub. L. 86–257, title VI][/us/pl/86/257/tVI], § 603, Sept. 14, 1959, [73 Stat. 540][/us/stat/73/540].)
 
  __References in Text__ 
 
@@ -40,7 +40,7 @@
 
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
-[/us/pl/86/257/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs603
+[/us/pl/86/257/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVI
 [/us/stat/73/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F540
 [/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/stat/73/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F519

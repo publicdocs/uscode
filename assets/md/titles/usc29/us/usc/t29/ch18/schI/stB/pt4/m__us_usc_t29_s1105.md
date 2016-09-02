@@ -71,7 +71,7 @@
 
         (2) Nothing in this subsection shall relieve any trustee of any liability under this part for any act of such trustee.
 
-([Pub. L. 93–406, title I, § 405][/us/pl/93/406/s405], Sept. 2, 1974, [88 Stat. 878][/us/stat/88/878].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 405, Sept. 2, 1974, [88 Stat. 878][/us/stat/88/878].)
 
 ----------
 
@@ -85,7 +85,7 @@
 [/us/usc/t29/s1104/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1104%2Fa%2F1
 [/us/usc/t29/s1102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1102%2Fc%2F3
 [/us/usc/t29/s1102/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1102%2Fc%2F3
-[/us/pl/93/406/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs405
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/878]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F878
 
 

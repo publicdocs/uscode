@@ -43,7 +43,7 @@
 
         (3) that a person who is a named fiduciary with respect to control or management of the assets of the plan may appoint an investment manager or managers to manage (including the power to acquire and dispose of) any assets of a plan.
 
-([Pub. L. 93–406, title I, § 402][/us/pl/93/406/s402], Sept. 2, 1974, [88 Stat. 875][/us/stat/88/875].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 402, Sept. 2, 1974, [88 Stat. 875][/us/stat/88/875].)
 
 ----------
 
@@ -54,7 +54,7 @@
 
 [/us/usc/t29/s1105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1105%2Fc%2F1
 [/us/usc/t29/s1105/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1105%2Fc%2F1
-[/us/pl/93/406/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs402
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/875]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F875
 
 

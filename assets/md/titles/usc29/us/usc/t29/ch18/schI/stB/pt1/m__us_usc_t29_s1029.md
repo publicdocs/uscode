@@ -27,7 +27,7 @@
 
         The Secretary may prescribe the format and content of the summary plan description, the summary of the annual report described in [section 1024(b)(3) of this title][/us/usc/t29/s1024/b/3] and any other report, statements or documents (other than the bargaining agreement, trust agreement, contract, or other instrument under which the plan is established or operated), which are required to be furnished or made available to plan participants and beneficiaries receiving benefits under the plan.
 
-([Pub. L. 93–406, title I, § 109][/us/pl/93/406/s109], Sept. 2, 1974, [88 Stat. 850][/us/stat/88/850].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 109, Sept. 2, 1974, [88 Stat. 850][/us/stat/88/850].)
 
  __Regulations__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t29/s1023/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1023%2Fa%2F4%2FA
 [/us/usc/t29/s1022/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1022%2Fa
 [/us/usc/t29/s1024/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1024%2Fb%2F3
-[/us/pl/93/406/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs109
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/850]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F850
 [/us/usc/t29/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1031
 

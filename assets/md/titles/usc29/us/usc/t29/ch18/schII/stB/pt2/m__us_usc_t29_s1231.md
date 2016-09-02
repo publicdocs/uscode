@@ -29,7 +29,7 @@
 
     (b) Not later than December 31, 1976, the Committee on Education and Labor and the Committee on Ways and Means shall each submit to the House of Representatives the results of the studies conducted under this section, together with such recommendations as they deem appropriate. The Committee on Finance and the Committee on Labor and Public Welfare shall each submit to the Senate the results of the studies conducted under this section together with such recommendations as they deem appropriate not later than such date.
 
-([Pub. L. 93–406, title III, § 3031][/us/pl/93/406/s3031], Sept. 2, 1974, [88 Stat. 999][/us/stat/88/999].)
+([Pub. L. 93–406, title III][/us/pl/93/406/tIII], § 3031, Sept. 2, 1974, [88 Stat. 999][/us/stat/88/999].)
 
  __Change of Name__ 
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s3031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs3031
+[/us/pl/93/406/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIII
 [/us/stat/88/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F999
 
 

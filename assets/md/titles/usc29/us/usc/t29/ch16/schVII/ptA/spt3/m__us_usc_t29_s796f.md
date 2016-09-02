@@ -85,37 +85,37 @@
 
         Whenever the Administrator determines that any amount of an allotment to a State for any fiscal year will not be expended by such State for carrying out the provisions of this subpart, the Administrator shall make such amount available for carrying out the provisions of this subpart to one or more of the States that the Administrator determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a State for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the State (as determined under the preceding provisions of this section) for such year.
 
-([Pub. L. 93–112, title VII, § 721][/us/pl/93/112/s721], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1226][/us/stat/112/1226]; amended [Pub. L. 113–128, title IV, § 481][/us/pl/113/128/s481], July 22, 2014, [128 Stat. 1691][/us/stat/128/1691].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 721, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1226][/us/stat/112/1226]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 481, July 22, 2014, [128 Stat. 1691][/us/stat/128/1691].)
 
  __References in Text__ 
 
-    Part B of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (c)(1)(B), (C), means former part B (§ 796e) which was included in the repeal of subchapter VII of this chapter by [Pub. L. 102–569, title VII, § 701(1)][/us/pl/102/569/s701/1], Oct. 29, 1992, [106 Stat. 4443][/us/stat/106/4443].
+    Part B of this subchapter, as in effect on the day before October 29, 1992, referred to in subsec. (c)(1)(B), (C), means former part B (§ 796e) which was included in the repeal of subchapter VII of this chapter by [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(1), Oct. 29, 1992, [106 Stat. 4443][/us/stat/106/4443].
 
  __Prior Provisions__ 
 
-    A prior section 796f, [Pub. L. 93–112, title VII, § 721][/us/pl/93/112/s721], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4452][/us/stat/106/4452]; amended [Pub. L. 103–73, title I, § 114(h)][/us/pl/103/73/s114/h], Aug. 11, 1993, [107 Stat. 730][/us/stat/107/730], authorized program to assist centers for independent living, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796f, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 721, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4452][/us/stat/106/4452]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(h), Aug. 11, 1993, [107 Stat. 730][/us/stat/107/730], authorized program to assist centers for independent living, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    Another prior section 796f, [Pub. L. 93–112, title VII, § 721][/us/pl/93/112/s721], as added [Pub. L. 95–602, title III, § 301][/us/pl/95/602/s301], Nov. 6, 1978, [92 Stat. 2999][/us/stat/92/2999]; amended [Pub. L. 99–506, title X, § 1001(g)(4)][/us/pl/99/506/s1001/g/4], Oct. 21, 1986, [100 Stat. 1843][/us/stat/100/1843]; [Pub. L. 100–630, title II, § 208(g)][/us/pl/100/630/s208/g], Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], related to establishment of independent living service programs for older blind individuals, prior to repeal by [Pub. L. 102–569, § 701(1)][/us/pl/102/569/s701/1].
+    Another prior section 796f, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 721, as added [Pub. L. 95–602, title III][/us/pl/95/602/tIII], § 301, Nov. 6, 1978, [92 Stat. 2999][/us/stat/92/2999]; amended [Pub. L. 99–506, title X][/us/pl/99/506/tX], § 1001(g)(4), Oct. 21, 1986, [100 Stat. 1843][/us/stat/100/1843]; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 208(g), Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], related to establishment of independent living service programs for older blind individuals, prior to repeal by [Pub. L. 102–569][/us/pl/102/569], § 701(1).
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–128, § 481(1)][/us/pl/113/128/s481/1], substituted “2015” for “1999” and “Administrator shall make available” for “Commissioner shall allot” and inserted “, centers for independent living,” after “States”.
+    2014—Subsec. (a). [Pub. L. 113–128][/us/pl/113/128], § 481(1), substituted “2015” for “1999” and “Administrator shall make available” for “Commissioner shall allot” and inserted “, centers for independent living,” after “States”.
 
-    Subsec. (b)(1). [Pub. L. 113–128, § 481(2)(A)][/us/pl/113/128/s481/2/A], in heading, substituted “cooperative agreements” for “other arrangements”, and in text, substituted “From the funds appropriated to carry out this subpart for any fiscal year, beginning with fiscal year 2015, the Administrator” for “For any fiscal year in which the funds appropriated to carry out this subpart exceed the funds appropriated to carry out this subpart for fiscal year 1993, the Commissioner”, “reserve not less than 1.8 percent and not more than 2 percent of the funds” for “reserve from such excess”, and “centers for independent living and eligible agencies for such fiscal year.” for “eligible agencies, centers for independent living, and Statewide Independent Living Councils for such fiscal year, not less than 1.8 percent, and not more than 2 percent, of the funds appropriated to carry out this subpart for the fiscal year involved.”
+    Subsec. (b)(1). [Pub. L. 113–128][/us/pl/113/128], § 481(2)(A), in heading, substituted “cooperative agreements” for “other arrangements”, and in text, substituted “From the funds appropriated to carry out this subpart for any fiscal year, beginning with fiscal year 2015, the Administrator” for “For any fiscal year in which the funds appropriated to carry out this subpart exceed the funds appropriated to carry out this subpart for fiscal year 1993, the Commissioner”, “reserve not less than 1.8 percent and not more than 2 percent of the funds” for “reserve from such excess”, and “centers for independent living and eligible agencies for such fiscal year.” for “eligible agencies, centers for independent living, and Statewide Independent Living Councils for such fiscal year, not less than 1.8 percent, and not more than 2 percent, of the funds appropriated to carry out this subpart for the fiscal year involved.”
 
-    Subsec. (b)(2). [Pub. L. 113–128, § 481(2)(B)][/us/pl/113/128/s481/2/B], substituted “Administrator shall make grants to, or enter into contracts or cooperative agreements with,” for “Commissioner shall make grants to, and enter into contracts and other arrangements with,” and inserted “fiscal management of,” before “planning,”.
+    Subsec. (b)(2). [Pub. L. 113–128][/us/pl/113/128], § 481(2)(B), substituted “Administrator shall make grants to, or enter into contracts or cooperative agreements with,” for “Commissioner shall make grants to, and enter into contracts and other arrangements with,” and inserted “fiscal management of,” before “planning,”.
 
-    Subsec. (b)(3). [Pub. L. 113–128, § 481(2)(C)][/us/pl/113/128/s481/2/C], (D), substituted “Administrator” for “Commissioner” and struck out “Statewide Independent Living Councils and” before “centers”.
+    Subsec. (b)(3). [Pub. L. 113–128][/us/pl/113/128], § 481(2)(C), (D), substituted “Administrator” for “Commissioner” and struck out “Statewide Independent Living Councils and” before “centers”.
 
-    Subsec. (b)(4). [Pub. L. 113–128, § 481(3)][/us/pl/113/128/s481/3], which directed substitution of “cooperative agreement” for “other arrangement” in par. (4), was executed by making the substitution in par. (4) of subsec. (b) to reflect the probable intent of Congress.
+    Subsec. (b)(4). [Pub. L. 113–128][/us/pl/113/128], § 481(3), which directed substitution of “cooperative agreement” for “other arrangement” in par. (4), was executed by making the substitution in par. (4) of subsec. (b) to reflect the probable intent of Congress.
 
-    [Pub. L. 113–128, § 481(2)(C)][/us/pl/113/128/s481/2/C], substituted “Administrator” for “Commissioner” wherever appearing.
+    [Pub. L. 113–128][/us/pl/113/128], § 481(2)(C), substituted “Administrator” for “Commissioner” wherever appearing.
 
-    Subsec. (b)(5). [Pub. L. 113–128, § 481(2)(C)][/us/pl/113/128/s481/2/C], substituted “Administrator” for “Commissioner”.
+    Subsec. (b)(5). [Pub. L. 113–128][/us/pl/113/128], § 481(2)(C), substituted “Administrator” for “Commissioner”.
 
-    Subsec. (c). [Pub. L. 113–128, § 481(4)][/us/pl/113/128/s481/4], substituted “Administrator” for “Commissioner” wherever appearing.
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 481(4), substituted “Administrator” for “Commissioner” wherever appearing.
 
-    Subsec. (d). [Pub. L. 113–128, § 481(5)][/us/pl/113/128/s481/5], substituted “Administrator” for “Commissioner” wherever appearing.
+    Subsec. (d). [Pub. L. 113–128][/us/pl/113/128], § 481(5), substituted “Administrator” for “Commissioner” wherever appearing.
 
 ----------
 
@@ -125,35 +125,35 @@
 ----------
 
 [/us/usc/t29/s796d–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796d%E2%80%931
-[/us/pl/93/112/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs721
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1226
-[/us/pl/113/128/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1691]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1691
-[/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4443
-[/us/pl/93/112/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs721
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4452
-[/us/pl/103/73/s114/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fh
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F730
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs721
-[/us/pl/95/602/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs301
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/95/602/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtIII
 [/us/stat/92/2999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2999
-[/us/pl/99/506/s1001/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1001%2Fg%2F4
+[/us/pl/99/506/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtX
 [/us/stat/100/1843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1843
-[/us/pl/100/630/s208/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs208%2Fg
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3314
-[/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
-[/us/pl/113/128/s481/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F1
-[/us/pl/113/128/s481/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F2%2FA
-[/us/pl/113/128/s481/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F2%2FB
-[/us/pl/113/128/s481/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F2%2FC
-[/us/pl/113/128/s481/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F3
-[/us/pl/113/128/s481/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F2%2FC
-[/us/pl/113/128/s481/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F2%2FC
-[/us/pl/113/128/s481/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F4
-[/us/pl/113/128/s481/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs481%2F5
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

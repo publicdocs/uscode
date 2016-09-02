@@ -17,7 +17,7 @@
 
     Nothing in this Act or any amendment made by this Act shall be construed to discourage employers from adopting or retaining leave policies more generous than any policies that comply with the requirements under this Act or any amendment made by this Act.
 
-([Pub. L. 103–3, title IV, § 403][/us/pl/103/3/s403], Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26].)
+([Pub. L. 103–3, title IV][/us/pl/103/3/tIV], § 403, Feb. 5, 1993, [107 Stat. 26][/us/stat/107/26].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs403
+[/us/pl/103/3/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIV
 [/us/stat/107/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F26
 [/us/pl/103/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3
 [/us/stat/107/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F6

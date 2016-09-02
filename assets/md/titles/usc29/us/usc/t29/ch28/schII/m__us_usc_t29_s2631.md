@@ -17,7 +17,7 @@
 
     There is established a commission to be known as the Commission on Leave (referred to in this subchapter as the “Commission”).
 
-([Pub. L. 103–3, title III, § 301][/us/pl/103/3/s301], Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23].)
+([Pub. L. 103–3, title III][/us/pl/103/3/tIII], § 301, Feb. 5, 1993, [107 Stat. 23][/us/stat/107/23].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs301
+[/us/pl/103/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIII
 [/us/stat/107/23]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F23
 
 

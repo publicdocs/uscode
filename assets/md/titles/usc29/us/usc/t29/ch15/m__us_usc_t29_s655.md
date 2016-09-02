@@ -83,7 +83,7 @@
 
         In determining the priority for establishing standards under this section, the Secretary shall give due regard to the urgency of the need for mandatory safety and health standards for particular industries, trades, crafts, occupations, businesses, workplaces or work environments. The Secretary shall also give due regard to the recommendations of the Secretary of Health and Human Services regarding the need for mandatory standards in determining the priority for establishing such standards.
 
-([Pub. L. 91–596, § 6][/us/pl/91/596/s6], Dec. 29, 1970, [84 Stat. 1593][/us/stat/84/1593]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 91–596][/us/pl/91/596], § 6, Dec. 29, 1970, [84 Stat. 1593][/us/stat/84/1593]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __References in Text__ 
 
@@ -99,29 +99,29 @@
 
  __Prohibition on Exposure of Workers to Chemical or Other Hazards for Purpose of Conducting Experiments__ 
 
-[Pub. L. 102–394, title I, § 102][/us/pl/102/394/s102], Oct. 6, 1992, [106 Stat. 1799][/us/stat/106/1799], provided that: 
+[Pub. L. 102–394, title I][/us/pl/102/394/tI], § 102, Oct. 6, 1992, [106 Stat. 1799][/us/stat/106/1799], provided that: 
 
 > “None of the funds appropriated under this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be used to grant variances, interim orders or letters of clarification to employers which will allow exposure of workers to chemicals or other workplace hazards in excess of existing Occupational Safety and Health Administration standards for the purpose of conducting experiments on workers’ health or safety.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 102–170, title I, § 102][/us/pl/102/170/s102], Nov. 26, 1991, [105 Stat. 1114][/us/stat/105/1114].
+    [Pub. L. 102–170, title I][/us/pl/102/170/tI], § 102, Nov. 26, 1991, [105 Stat. 1114][/us/stat/105/1114].
 
-    [Pub. L. 101–517, title I, § 102][/us/pl/101/517/s102], Nov. 5, 1990, [104 Stat. 2196][/us/stat/104/2196].
+    [Pub. L. 101–517, title I][/us/pl/101/517/tI], § 102, Nov. 5, 1990, [104 Stat. 2196][/us/stat/104/2196].
 
-    [Pub. L. 101–166, title I, § 102][/us/pl/101/166/s102], Nov. 21, 1989, [103 Stat. 1165][/us/stat/103/1165].
+    [Pub. L. 101–166, title I][/us/pl/101/166/tI], § 102, Nov. 21, 1989, [103 Stat. 1165][/us/stat/103/1165].
 
-    [Pub. L. 100–202, § 101(h)][/us/pl/100/202/s101/h] \[title I, § 102\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–263.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(h) \[title I, § 102\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–263.
 
-    [Pub. L. 99–500, § 101(i)][/us/pl/99/500/s101/i] \[H.R. 5233, title I, § 102\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591, § 101(i)][/us/pl/99/591/s101/i] \[H.R. 5233, title I, § 102\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
+    [Pub. L. 99–500][/us/pl/99/500], § 101(i) \[H.R. 5233, title I, § 102\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591][/us/pl/99/591], § 101(i) \[H.R. 5233, title I, § 102\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
 
-    [Pub. L. 99–178, title I, § 102][/us/pl/99/178/s102], Dec. 12, 1985, [99 Stat. 1109][/us/stat/99/1109].
+    [Pub. L. 99–178, title I][/us/pl/99/178/tI], § 102, Dec. 12, 1985, [99 Stat. 1109][/us/stat/99/1109].
 
-    [Pub. L. 98–619, title I, § 102][/us/pl/98/619/s102], Nov. 8, 1984, [98 Stat. 3311][/us/stat/98/3311].
+    [Pub. L. 98–619, title I][/us/pl/98/619/tI], § 102, Nov. 8, 1984, [98 Stat. 3311][/us/stat/98/3311].
 
  __Occupational Health Standard Concerning Exposure to Bloodborne Pathogens__ 
 
-[Pub. L. 102–170, title I, § 100][/us/pl/102/170/s100], Nov. 26, 1991, [105 Stat. 1113][/us/stat/105/1113], provided that:
+[Pub. L. 102–170, title I][/us/pl/102/170/tI], § 100, Nov. 26, 1991, [105 Stat. 1113][/us/stat/105/1113], provided that:
 
 >     “(a) Notwithstanding any other provision of law, on or before December 1, 1991, the Secretary of Labor, acting under the Occupational Safety and Health Act of 1970 \[[29 U.S.C. 651][/us/usc/t29/s651] et seq.\], shall promulgate a final occupational health standard concerning occupational exposure to bloodborne pathogens. The final standard shall be based on the proposed standard as published in the Federal Register on May 30, 1989 (54 FR 23042), concerning occupational exposures to the hepatitis B virus, the human immunodeficiency virus and other bloodborne pathogens.
 
@@ -131,13 +131,13 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Retention of Markings and Placards__ 
 
-[Pub. L. 101–615, § 29][/us/pl/101/615/s29], Nov. 16, 1990, [104 Stat. 3277][/us/stat/104/3277], provided that: 
+[Pub. L. 101–615][/us/pl/101/615], § 29, Nov. 16, 1990, [104 Stat. 3277][/us/stat/104/3277], provided that: 
 
 > “Not later than 18 months after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Labor, in consultation with the Secretary of Transportation and the Secretary of the Treasury, shall issue under section 6(b) of the Occupational Safety and Health Act of 1970 ([29 U.S.C. 655(b)][/us/usc/t29/s655/b]) standards requiring any employer who receives a package, container, motor vehicle, rail freight car, aircraft, or vessel which contains a hazardous material and which is required to be marked, placarded, or labeled in accordance with regulations issued under the Hazardous Materials Transportation Act \[former [49 U.S.C. 1801][/us/usc/t49/s1801] et seq.\] to retain the markings, placards, and labels, and any other information as may be required by such regulations on the package, container, motor vehicle, rail freight car, aircraft, or vessel, until the hazardous materials have been removed therefrom.”
 
  __Chemical Process Safety Management__ 
 
-[Pub. L. 101–549, title III, § 304][/us/pl/101/549/s304], Nov. 15, 1990, [104 Stat. 2576][/us/stat/104/2576], provided that:
+[Pub. L. 101–549, title III][/us/pl/101/549/tIII], § 304, Nov. 15, 1990, [104 Stat. 2576][/us/stat/104/2576], provided that:
 
 >     “(a)  __Chemical Process Safety Standard__  __.—__ 
 
@@ -185,7 +185,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
  __Worker Protection Standards__ 
 
-[Pub. L. 99–499, title I, § 126(a)][/us/pl/99/499/s126/a]–(f), Oct. 17, 1986, [100 Stat. 1690–1692][/us/stat/100/1690-1692], as amended by [Pub. L. 100–202, § 101(f)][/us/pl/100/202/s101/f] \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–198, provided:
+[Pub. L. 99–499, title I][/us/pl/99/499/tI], § 126(a)–(f), Oct. 17, 1986, [100 Stat. 1690–1692][/us/stat/100/1690-1692], as amended by [Pub. L. 100–202][/us/pl/100/202], § 101(f) \[title II, § 201\], Dec. 22, 1987, [101 Stat. 1329–187][/us/stat/101/1329-187], 1329–198, provided:
 
 >     “(a)  __Promulgation__  __.—__ 
 
@@ -278,9 +278,9 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/usc/t29/s656]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs656
 [/us/usc/t5/s553]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs553
-[/us/pl/91/596/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs6
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1593]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1593
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590
@@ -290,25 +290,25 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
-[/us/pl/102/394/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2Fs102
+[/us/pl/102/394/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F394%2FtI
 [/us/stat/106/1799]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1799
-[/us/pl/102/170/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs102
+[/us/pl/102/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2FtI
 [/us/stat/105/1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1114
-[/us/pl/101/517/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2Fs102
+[/us/pl/101/517/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F517%2FtI
 [/us/stat/104/2196]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2196
-[/us/pl/101/166/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2Fs102
+[/us/pl/101/166/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F166%2FtI
 [/us/stat/103/1165]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1165
-[/us/pl/100/202/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fh
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-256
-[/us/pl/99/500/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fi
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-287
-[/us/pl/99/591/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fi
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-287
-[/us/pl/99/178/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2Fs102
+[/us/pl/99/178/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2FtI
 [/us/stat/99/1109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1109
-[/us/pl/98/619/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2Fs102
+[/us/pl/98/619/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F619%2FtI
 [/us/stat/98/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3311
-[/us/pl/102/170/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2Fs100
+[/us/pl/102/170/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F170%2FtI
 [/us/stat/105/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1113
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/usc/t30/s962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs962
@@ -317,20 +317,20 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s1383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1383
 [/us/usc/t8/s1255a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1255a
 [/us/usc/t20/s1221–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1221%E2%80%931
-[/us/pl/101/615/s29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615%2Fs29
+[/us/pl/101/615]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F615
 [/us/stat/104/3277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F3277
 [/us/usc/t29/s655/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655%2Fb
 [/us/usc/t49/s1801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1801
-[/us/pl/101/549/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2Fs304
+[/us/pl/101/549/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F549%2FtIII
 [/us/stat/104/2576]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2576
 [/us/usc/t29/s653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs653
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
 [/us/usc/t42/s11002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs11002
 [/us/pl/99/499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499
 [/us/usc/t42/s7412/r/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs7412%2Fr%2F11
-[/us/pl/99/499/s126/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2Fs126%2Fa
+[/us/pl/99/499/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F499%2FtI
 [/us/stat/100/1690-1692]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1690-1692
-[/us/pl/100/202/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Ff
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-187
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
 [/us/pl/99/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F519

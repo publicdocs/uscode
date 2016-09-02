@@ -31,7 +31,7 @@
 
     (7) information that addresses the considerations described under [section 3321(e) of this title][/us/usc/t29/s3321/e], as applicable.
 
-([Pub. L. 113–128, title II, § 232][/us/pl/113/128/s232], July 22, 2014, [128 Stat. 1620][/us/stat/128/1620].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 232, July 22, 2014, [128 Stat. 1620][/us/stat/128/1620].)
 
  __Effective Date__ 
 
@@ -48,7 +48,7 @@
 [/us/usc/t29/s3141/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F3
 [/us/usc/t29/s3151/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3151%2Fb%2F1%2FA
 [/us/usc/t29/s3321/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3321%2Fe
-[/us/pl/113/128/s232]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs232
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1620
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

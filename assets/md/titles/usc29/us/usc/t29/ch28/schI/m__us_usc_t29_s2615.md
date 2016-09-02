@@ -35,7 +35,7 @@
 
         (3) has testified, or is about to testify, in any inquiry or proceeding relating to any right provided under this subchapter.
 
-([Pub. L. 103–3, title I, § 105][/us/pl/103/3/s105], Feb. 5, 1993, [107 Stat. 14][/us/stat/107/14].)
+([Pub. L. 103–3, title I][/us/pl/103/3/tI], § 105, Feb. 5, 1993, [107 Stat. 14][/us/stat/107/14].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs105
+[/us/pl/103/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtI
 [/us/stat/107/14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F14
 
 

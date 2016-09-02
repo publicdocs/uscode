@@ -689,7 +689,7 @@ SUBCHAPTER VI—EMPLOYMENT OPPORTUNITIES FOR INDIVIDUALS WITH DISABILITIES  </td
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795" data-uslm-ref="/us/usc/t29/s795">795</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795l" data-uslm-ref="/us/usc/t29/s795l">795l.</a>  </td>
 
     <td> Restriction.  </td>
 
@@ -713,7 +713,7 @@ SUBCHAPTER VI—EMPLOYMENT OPPORTUNITIES FOR INDIVIDUALS WITH DISABILITIES  </td
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795" data-uslm-ref="/us/usc/t29/s795">795</a>o.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs795o" data-uslm-ref="/us/usc/t29/s795o">795o.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -753,9 +753,9 @@ subpart 1—general provisions  </td>
 
   <tr>
 
-    <td> 796–1.Administration of the independent living program.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796%E2%80%931" data-uslm-ref="/us/usc/t29/s796–1">796–1.</a>  </td>
 
-    <td>   </td>
+    <td> Administration of the independent living program.  </td>
 
   </tr>
 
@@ -945,7 +945,7 @@ Part B—Independent Living Services for Older Individuals Who Are Blind  </td>
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796" data-uslm-ref="/us/usc/t29/s796">796</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs796l" data-uslm-ref="/us/usc/t29/s796l">796l.</a>  </td>
 
     <td> Authorization of appropriations.  </td>
 

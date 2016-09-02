@@ -19,7 +19,7 @@
 
     (b) Any person who willfully violates this section shall be fined not more than $10,000 or imprisoned not more than twenty years, or both.
 
-([Pub. L. 86–257, title VI, § 602][/us/pl/86/257/s602], Sept. 14, 1959, [73 Stat. 539][/us/stat/73/539].)
+([Pub. L. 86–257, title VI][/us/pl/86/257/tVI], § 602, Sept. 14, 1959, [73 Stat. 539][/us/stat/73/539].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs602
+[/us/pl/86/257/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVI
 [/us/stat/73/539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F539
 
 

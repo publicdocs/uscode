@@ -17,7 +17,7 @@
 
     Any person who fails, without reasonable cause, to provide a notice required under this subtitle or any implementing regulations shall be liable to the corporation in an amount up to $100 for each day for which such failure continues. The corporation may bring a civil action against any such person in the United States District Court for the District of Columbia or in any district court of the United States within the jurisdiction of which the plan assets are located, the plan is administered, or a defendant resides or does business, and process may be served in any district where a defendant resides, does business, or may be found.
 
-([Pub. L. 93–406, title IV, § 4302][/us/pl/93/406/s4302], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1263][/us/stat/94/1263].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4302, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1263][/us/stat/94/1263].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/406/s4302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4302
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1263
 
 

@@ -17,7 +17,7 @@
 
     The Women’s Bureau shall be in charge of a director, a woman, to be appointed by the President.
 
-([June 5, 1920, ch. 248, § 2][/us/act/1920-06-05/ch248/s2], [41 Stat. 987][/us/stat/41/987]; [Pub. L. 112–166, § 2(i)(2)][/us/pl/112/166/s2/i/2], Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286].)
+([June 5, 1920, ch. 248][/us/act/1920-06-05/ch248], § 2, [41 Stat. 987][/us/stat/41/987]; [Pub. L. 112–166][/us/pl/112/166], § 2(i)(2), Aug. 10, 2012, [126 Stat. 1286][/us/stat/126/1286].)
 
  __Codification__ 
 
@@ -44,9 +44,9 @@
 ----------
 ----------
 
-[/us/act/1920-06-05/ch248/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch248%2Fs2
+[/us/act/1920-06-05/ch248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-06-05%2Fch248
 [/us/stat/41/987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F987
-[/us/pl/112/166/s2/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fi%2F2
+[/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/stat/126/1286]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1286
 [/us/usc/t29/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs13
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166

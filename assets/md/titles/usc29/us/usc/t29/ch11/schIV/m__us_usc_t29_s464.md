@@ -27,7 +27,7 @@
 
         In any proceeding pursuant to this section a trusteeship established by a labor organization in conformity with the procedural requirements of its constitution and bylaws and authorized or ratified after a fair hearing either before the executive board or before such other body as may be provided in accordance with its constitution or bylaws shall be presumed valid for a period of eighteen months from the date of its establishment and shall not be subject to attack during such period except upon clear and convincing proof that the trusteeship was not established or maintained in good faith for a purpose allowable under [section 462 of this title][/us/usc/t29/s462]. After the expiration of eighteen months the trusteeship shall be presumed invalid in any such proceeding and its discontinuance shall be decreed unless the labor organization shall show by clear and convincing proof that the continuation of the trusteeship is necessary for a purpose allowable under [section 462 of this title][/us/usc/t29/s462]. In the latter event the court may dismiss the complaint or retain jurisdiction of the cause on such conditions and for such period as it deems appropriate.
 
-([Pub. L. 86–257, title III, § 304][/us/pl/86/257/s304], Sept. 14, 1959, [73 Stat. 531][/us/stat/73/531].)
+([Pub. L. 86–257, title III][/us/pl/86/257/tIII], § 304, Sept. 14, 1959, [73 Stat. 531][/us/stat/73/531].)
 
 ----------
 
@@ -40,7 +40,7 @@
 [/us/usc/t29/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs461
 [/us/usc/t29/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs462
 [/us/usc/t29/s462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs462
-[/us/pl/86/257/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs304
+[/us/pl/86/257/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIII
 [/us/stat/73/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F531
 
 

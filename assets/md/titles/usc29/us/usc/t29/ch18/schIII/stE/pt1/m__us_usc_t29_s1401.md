@@ -141,7 +141,7 @@
 
         (5) The liability of the party furnishing a bond or escrow under this subsection shall be reduced, upon the payment of the bond or escrow to the plan, by the amount thereof.
 
-([Pub. L. 93–406, title IV, § 4221][/us/pl/93/406/s4221], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1239][/us/stat/94/1239]; amended [Pub. L. 108–218, title II, § 202(a)][/us/pl/108/218/s202/a], Apr. 10, 2004, [118 Stat. 608][/us/stat/118/608]; [Pub. L. 109–280, title II, § 204(d)(1)][/us/pl/109/280/s204/d/1], Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887]; [Pub. L. 110–458, title I, § 105(b)(2)][/us/pl/110/458/s105/b/2], Dec. 23, 2008, [122 Stat. 5105][/us/stat/122/5105].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4221, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1239][/us/stat/94/1239]; amended [Pub. L. 108–218, title II][/us/pl/108/218/tII], § 202(a), Apr. 10, 2004, [118 Stat. 608][/us/stat/118/608]; [Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(d)(1), Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 105(b)(2), Dec. 23, 2008, [122 Stat. 5105][/us/stat/122/5105].)
 
  __Amendments__ 
 
@@ -157,13 +157,13 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title II, § 204(d)(2)][/us/pl/109/280/s204/d/2], Aug. 17, 2006, [120 Stat. 889][/us/stat/120/889], provided that: 
+[Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(d)(2), Aug. 17, 2006, [120 Stat. 889][/us/stat/120/889], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to any person that receives a notification under section 4219(b)(1) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1399(b)(1)][/us/usc/t29/s1399/b/1]\] on or after the date of enactment of this Act \[Aug. 17, 2006\] with respect to a transaction that occurred after December 31, 1998.”
 
  __Effective Date of 2004 Amendment__ 
 
-[Pub. L. 108–218, title II, § 202(b)][/us/pl/108/218/s202/b], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609], provided that: 
+[Pub. L. 108–218, title II][/us/pl/108/218/tII], § 202(b), Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any employer that receives a notification under section 4219(b)(1) of the Employee Retirement Income Security Act of 1974 ([29 U.S.C. 1399(b)(1)][/us/usc/t29/s1399/b/1]) after October 31, 2003.”
 
@@ -194,14 +194,14 @@
 [/us/usc/t29/s1399/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1399%2Fc
 [/us/usc/t29/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301
 [/us/usc/t29/s1392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1392
-[/us/pl/93/406/s4221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4221
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1239
-[/us/pl/108/218/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs202%2Fa
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F608
-[/us/pl/109/280/s204/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fd%2F1
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F887
-[/us/pl/110/458/s105/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs105%2Fb%2F2
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5105
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
@@ -210,10 +210,10 @@
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
 [/us/usc/t26/s72]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs72
-[/us/pl/109/280/s204/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fd%2F2
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F889
 [/us/usc/t29/s1399/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1399%2Fb%2F1
-[/us/pl/108/218/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs202%2Fb
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F609
 [/us/usc/t29/s1399/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1399%2Fb%2F1
 

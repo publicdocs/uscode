@@ -27,7 +27,7 @@
 
         No citation may be issued under this section after the expiration of six months following the occurrence of any violation.
 
-([Pub. L. 91–596, § 9][/us/pl/91/596/s9], Dec. 29, 1970, [84 Stat. 1601][/us/stat/84/1601].)
+([Pub. L. 91–596][/us/pl/91/596], § 9, Dec. 29, 1970, [84 Stat. 1601][/us/stat/84/1601].)
 
 ----------
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t29/s654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs654
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
-[/us/pl/91/596/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs9
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1601
 
 

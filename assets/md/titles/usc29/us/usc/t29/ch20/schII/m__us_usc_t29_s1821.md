@@ -79,7 +79,7 @@
 
         The information required to be disclosed by subsections (a) through (c) of this section to migrant agricultural workers shall be provided in written form. Such information shall be provided in English or, as necessary and reasonable, in Spanish or other language common to migrant agricultural workers who are not fluent or literate in English. The Department of Labor shall make forms available in English, Spanish, and other languages, as necessary, which may be used in providing workers with information required under this section.
 
-([Pub. L. 97–470, title II, § 201][/us/pl/97/470/s201], Jan. 14, 1983, [96 Stat. 2590][/us/stat/96/2590]; [Pub. L. 104–49, § 4(a)][/us/pl/104/49/s4/a], Nov. 15, 1995, [109 Stat. 434][/us/stat/109/434].)
+([Pub. L. 97–470, title II][/us/pl/97/470/tII], § 201, Jan. 14, 1983, [96 Stat. 2590][/us/stat/96/2590]; [Pub. L. 104–49][/us/pl/104/49], § 4(a), Nov. 15, 1995, [109 Stat. 434][/us/stat/109/434].)
 
  __Amendments__ 
 
@@ -87,7 +87,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–49, § 4(c)][/us/pl/104/49/s4/c], Nov. 15, 1995, [109 Stat. 434][/us/stat/109/434], provided that: 
+[Pub. L. 104–49][/us/pl/104/49], § 4(c), Nov. 15, 1995, [109 Stat. 434][/us/stat/109/434], provided that: 
 
 > “The amendments made by subsections (a) and (b) \[amending this section and [section 1831 of this title][/us/usc/t29/s1831]\] shall take effect upon the expiration of 90 days after the date final regulations are issued by the Secretary of Labor to implement such amendments.”
 
@@ -100,12 +100,12 @@
 ----------
 ----------
 
-[/us/pl/97/470/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs201
+[/us/pl/97/470/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtII
 [/us/stat/96/2590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2590
-[/us/pl/104/49/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs4%2Fa
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F434
 [/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
-[/us/pl/104/49/s4/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs4%2Fc
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F434
 [/us/usc/t29/s1831]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1831
 [/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49

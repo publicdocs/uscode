@@ -19,7 +19,7 @@
 
     Whereas under prevailing economic conditions, developed with the aid of governmental authority for owners of property to organize in the corporate and other forms of ownership association, the individual unorganized worker is commonly helpless to exercise actual liberty of contract and to protect his freedom of labor, and thereby to obtain acceptable terms and conditions of employment, wherefore, though he should be free to decline to associate with his fellows, it is necessary that he have full freedom of association, self-organization, and designation of representatives of his own choosing, to negotiate the terms and conditions of his employment, and that he shall be free from the interference, restraint, or coercion of employers of labor, or their agents, in the designation of such representatives or in self-organization or in other concerted activities for the purpose of collective bargaining or other mutual aid or protection; therefore, the following definitions of, and limitations upon, the jurisdiction and authority of the courts of the United States are enacted.
 
-([Mar. 23, 1932, ch. 90, § 2][/us/act/1932-03-23/ch90/s2], [47 Stat. 70][/us/stat/47/70].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 2, [47 Stat. 70][/us/stat/47/70].)
 
 ----------
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/act/1932-03-23/ch90/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs2
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F70
 
 

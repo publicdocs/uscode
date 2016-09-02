@@ -17,7 +17,7 @@
 
     The Secretary may prescribe regulations to carry out the provisions of this part.
 
-([Pub. L. 93–406, title I, § 608][/us/pl/93/406/s608], as added [Pub. L. 99–272, title X, § 10002(a)][/us/pl/99/272/s10002/a], Apr. 7, 1986, [100 Stat. 231][/us/stat/100/231].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 608, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10002(a), Apr. 7, 1986, [100 Stat. 231][/us/stat/100/231].)
 
 ----------
 
@@ -26,8 +26,8 @@
 ----------
 ----------
 
-[/us/pl/93/406/s608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs608
-[/us/pl/99/272/s10002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10002%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F231
 
 

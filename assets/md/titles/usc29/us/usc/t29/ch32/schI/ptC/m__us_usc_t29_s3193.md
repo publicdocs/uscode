@@ -17,7 +17,7 @@
 
     There shall be within the Department of Labor a “Job Corps”.
 
-([Pub. L. 113–128, title I, § 143][/us/pl/113/128/s143], July 22, 2014, [128 Stat. 1539][/us/stat/128/1539].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 143, July 22, 2014, [128 Stat. 1539][/us/stat/128/1539].)
 
  __Effective Date__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/113/128/s143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs143
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1539
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

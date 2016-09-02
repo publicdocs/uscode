@@ -11,20 +11,20 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2916a.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2919.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b)
+[Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2917...2918a.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2919.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b)
 
 ## § 2918b. Transferred
 
-    Section, [Pub. L. 111–117, div. D, title I][/us/pl/111/117], (2)(E), Dec. 16, 2009, [123 Stat. 3227][/us/stat/123/3227], which related to re-enrollment in alternative school by high-school dropout, was transferred to [section 3226a of this title][/us/usc/t29/s3226a].
+    Section, [Pub. L. 111–117, div. D, title I][/us/pl/111/117/dD/tI], (2)(E), Dec. 16, 2009, [123 Stat. 3227][/us/stat/123/3227], which related to re-enrollment in alternative school by high-school dropout, was transferred to [section 3226a of this title][/us/usc/t29/s3226a].
 
 ----------
 
-[Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2916a.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2919.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b)
+[Previous](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2917...2918a.md) | [Next](./../../../../..//us/usc/t29/ch30/schIV/m__us_usc_t29_s2919.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2918b)
 
 ----------
 ----------
 
-[/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117
+[/us/pl/111/117/dD/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtI
 [/us/stat/123/3227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3227
 [/us/usc/t29/s3226a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3226a
 

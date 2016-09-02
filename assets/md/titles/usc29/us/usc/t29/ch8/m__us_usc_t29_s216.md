@@ -69,7 +69,7 @@
 
         (5) Except for civil penalties collected for violations of [section 212 of this title][/us/usc/t29/s212], sums collected as penalties pursuant to this section shall be applied toward reimbursement of the costs of determining the violations and assessing and collecting such penalties, in accordance with the provision of [section 9a of this title][/us/usc/t29/s9a]. Civil penalties collected for violations of [section 212 of this title][/us/usc/t29/s212] shall be deposited in the general fund of the Treasury.
 
-([June 25, 1938, ch. 676, § 16][/us/act/1938-06-25/ch676/s16], [52 Stat. 1069][/us/stat/52/1069]; [May 14, 1947, ch. 52, § 5(a)][/us/act/1947-05-14/ch52/s5/a], [61 Stat. 87][/us/stat/61/87]; [Oct. 26, 1949, ch. 736, § 14][/us/act/1949-10-26/ch736/s14], [63 Stat. 919][/us/stat/63/919]; 1950 Reorg. Plan No. 6, §§ 1, 2, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263]; [Aug. 8, 1956, ch. 1035, § 4][/us/act/1956-08-08/ch1035/s4], [70 Stat. 1118][/us/stat/70/1118]; [Pub. L. 85–231, § 1(2)][/us/pl/85/231/s1/2], Aug. 30, 1957, [71 Stat. 514][/us/stat/71/514]; [Pub. L. 87–30, § 12(a)][/us/pl/87/30/s12/a], May 5, 1961, [75 Stat. 74][/us/stat/75/74]; [Pub. L. 89–601, title VI, § 601(a)][/us/pl/89/601/s601/a], Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844]; [Pub. L. 93–259][/us/pl/93/259], §§ 6(d)(1), 25(c), 26, Apr. 8, 1974, [88 Stat. 61][/us/stat/88/61], 72, 73; [Pub. L. 95–151, § 10][/us/pl/95/151/s10], Nov. 1, 1977, [91 Stat. 1252][/us/stat/91/1252]; [Pub. L. 101–157, § 9][/us/pl/101/157/s9], Nov. 17, 1989, [103 Stat. 945][/us/stat/103/945]; [Pub. L. 101–508, title III, § 3103][/us/pl/101/508/s3103], Nov. 5, 1990, [104 Stat. 1388–29][/us/stat/104/1388-29]; [Pub. L. 104–174, § 2][/us/pl/104/174/s2], Aug. 6, 1996, [110 Stat. 1554][/us/stat/110/1554]; [Pub. L. 110–233, title III, § 302(a)][/us/pl/110/233/s302/a], May 21, 2008, [122 Stat. 920][/us/stat/122/920].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 16, [52 Stat. 1069][/us/stat/52/1069]; [May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 5(a), [61 Stat. 87][/us/stat/61/87]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 14, [63 Stat. 919][/us/stat/63/919]; 1950 Reorg. Plan No. 6, §§ 1, 2, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263]; [Aug. 8, 1956, ch. 1035][/us/act/1956-08-08/ch1035], § 4, [70 Stat. 1118][/us/stat/70/1118]; [Pub. L. 85–231][/us/pl/85/231], § 1(2), Aug. 30, 1957, [71 Stat. 514][/us/stat/71/514]; [Pub. L. 87–30][/us/pl/87/30], § 12(a), May 5, 1961, [75 Stat. 74][/us/stat/75/74]; [Pub. L. 89–601, title VI][/us/pl/89/601/tVI], § 601(a), Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844]; [Pub. L. 93–259][/us/pl/93/259], §§ 6(d)(1), 25(c), 26, Apr. 8, 1974, [88 Stat. 61][/us/stat/88/61], 72, 73; [Pub. L. 95–151][/us/pl/95/151], § 10, Nov. 1, 1977, [91 Stat. 1252][/us/stat/91/1252]; [Pub. L. 101–157][/us/pl/101/157], § 9, Nov. 17, 1989, [103 Stat. 945][/us/stat/103/945]; [Pub. L. 101–508, title III][/us/pl/101/508/tIII], § 3103, Nov. 5, 1990, [104 Stat. 1388–29][/us/stat/104/1388-29]; [Pub. L. 104–174][/us/pl/104/174], § 2, Aug. 6, 1996, [110 Stat. 1554][/us/stat/110/1554]; [Pub. L. 110–233, title III][/us/pl/110/233/tIII], § 302(a), May 21, 2008, [122 Stat. 920][/us/stat/122/920].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
     The effective date of this amendment of subsection (d), referred to in subsec. (d), occurred upon the expiration of 90 days after Aug. 30, 1957. See [section 2 of Pub. L. 85–231][/us/pl/85/231/s2], set out as an Effective Date of 1957 Amendment note under [section 213 of this title][/us/usc/t29/s213].
 
-    [Section 206(a)(3) of this title][/us/usc/t29/s206/a/3], referred to in subsec. (d)(3), was repealed and [section 206(a)(4) of this title][/us/usc/t29/s206/a/4] was redesignated section 206(a)(3) by [Pub. L. 110–28, title VIII, § 8103(c)(1)(B)][/us/pl/110/28/s8103/c/1/B], May 25, 2007, [121 Stat. 189][/us/stat/121/189].
+    [Section 206(a)(3) of this title][/us/usc/t29/s206/a/3], referred to in subsec. (d)(3), was repealed and [section 206(a)(4) of this title][/us/usc/t29/s206/a/4] was redesignated section 206(a)(3) by [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8103(c)(1)(B), May 25, 2007, [121 Stat. 189][/us/stat/121/189].
 
  __Constitutionality__ 
 
@@ -93,15 +93,15 @@ For information regarding constitutionality of certain provisions of section 16 
 
     1989—Subsec. (e). [Pub. L. 101–157][/us/pl/101/157] inserted “or any person who repeatedly or willfully violates section 206 or 207 of this title” in introductory provisions and inserted “or a repeated or willful violation of [section 215(a)(2) of this title][/us/usc/t29/s215/a/2]” in par. (3).
 
-    1977—Subsec. (b). [Pub. L. 95–151, § 10(a)][/us/pl/95/151/s10/a], (b), inserted provisions relating to violations of [section 215(a)(3) of this title][/us/usc/t29/s215/a/3] by employers, “(1)” after “[section 217 of this title][/us/usc/t29/s217] in which”, and cl. (2), and substituted “An action to recover the liability prescribed in either of the preceding sentences” for “Action to recover such liability”.
+    1977—Subsec. (b). [Pub. L. 95–151][/us/pl/95/151], § 10(a), (b), inserted provisions relating to violations of [section 215(a)(3) of this title][/us/usc/t29/s215/a/3] by employers, “(1)” after “[section 217 of this title][/us/usc/t29/s217] in which”, and cl. (2), and substituted “An action to recover the liability prescribed in either of the preceding sentences” for “Action to recover such liability”.
 
-    Subsec. (c). [Pub. L. 95–151, § 10(c)][/us/pl/95/151/s10/c], inserted “to recover the liability specified in the first sentence of such subsection” after “an action by or on behalf of any employee”.
+    Subsec. (c). [Pub. L. 95–151][/us/pl/95/151], § 10(c), inserted “to recover the liability specified in the first sentence of such subsection” after “an action by or on behalf of any employee”.
 
-    1974—Subsec. (b). [Pub. L. 93–259, § 6(d)(1)][/us/pl/93/259/s6/d/1], substituted in second sentence “maintained against any employer (including a public agency) in any Federal or State court” for “maintained in any court”.
+    1974—Subsec. (b). [Pub. L. 93–259][/us/pl/93/259], § 6(d)(1), substituted in second sentence “maintained against any employer (including a public agency) in any Federal or State court” for “maintained in any court”.
 
-    Subsec. (c). [Pub. L. 93–259, § 26][/us/pl/93/259/s26], in revising first three sentences, reenacted first sentence, substituting “Secretary” for “Secretary of Labor”; included in second sentence provision for an action by the Secretary for liquidated damaged and deleted requirement of a written request by an employee claiming unpaid minimum wages or unpaid overtime compensation with the Secretary of Labor prior to an action by the Secretary and proviso prohibiting any action in any case involving an issue of law not settled finally by the courts and depriving courts of jurisdiction of any action or proceeding involving the issue of law not settled finally; and substituted third sentence “The right provided by subsection (b) to bring by or on behalf of any employee and of any employees to become a party plaintiff to any such action shall terminate upon the filing of a complaint by the Secretary in an action under this subsection in which a recovery is sought of unpaid minimum wages or unpaid overtime compensation under sections 206 and 207 of this title or liquidated or other damages provided by this subsection owing to such employee by an employer liable under the provisions of subsection (b), unless such action is dismissed without prejudice on motion of the Secretary.” for “The consent of any employee to the bringing of any such action by the Secretary of Labor, unless such action is dismissed without prejudice on motion of the Secretary of Labor, shall constitute a waiver by such employee of any right of action he may have under subsection (b) of this section for such unpaid wages or unpaid overtime compensation and an additional equal amount as liquidated damages.”
+    Subsec. (c). [Pub. L. 93–259][/us/pl/93/259], § 26, in revising first three sentences, reenacted first sentence, substituting “Secretary” for “Secretary of Labor”; included in second sentence provision for an action by the Secretary for liquidated damaged and deleted requirement of a written request by an employee claiming unpaid minimum wages or unpaid overtime compensation with the Secretary of Labor prior to an action by the Secretary and proviso prohibiting any action in any case involving an issue of law not settled finally by the courts and depriving courts of jurisdiction of any action or proceeding involving the issue of law not settled finally; and substituted third sentence “The right provided by subsection (b) to bring by or on behalf of any employee and of any employees to become a party plaintiff to any such action shall terminate upon the filing of a complaint by the Secretary in an action under this subsection in which a recovery is sought of unpaid minimum wages or unpaid overtime compensation under sections 206 and 207 of this title or liquidated or other damages provided by this subsection owing to such employee by an employer liable under the provisions of subsection (b), unless such action is dismissed without prejudice on motion of the Secretary.” for “The consent of any employee to the bringing of any such action by the Secretary of Labor, unless such action is dismissed without prejudice on motion of the Secretary of Labor, shall constitute a waiver by such employee of any right of action he may have under subsection (b) of this section for such unpaid wages or unpaid overtime compensation and an additional equal amount as liquidated damages.”
 
-    Subsec. (e). [Pub. L. 93–259, § 25(c)][/us/pl/93/259/s25/c], added subsec. (e).
+    Subsec. (e). [Pub. L. 93–259][/us/pl/93/259], § 25(c), added subsec. (e).
 
     1966—Subsec. (c). [Pub. L. 89–601][/us/pl/89/601] substituted “statutes of limitations” for “two-year statute of limitations”.
 
@@ -117,7 +117,7 @@ For information regarding constitutionality of certain provisions of section 16 
 
  __Effective Date of 2008 Amendment__ 
 
-[Pub. L. 110–233, title III, § 302(b)][/us/pl/110/233/s302/b], May 21, 2008, [122 Stat. 922][/us/stat/122/922], provided that: 
+[Pub. L. 110–233, title III][/us/pl/110/233/tIII], § 302(b), May 21, 2008, [122 Stat. 922][/us/stat/122/922], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[May 21, 2008\].”
 
@@ -147,7 +147,7 @@ For information regarding constitutionality of certain provisions of section 16 
 
  __Effective Date of 1947 Amendment__ 
 
-[Act May 14, 1947, ch. 52, § 5(b)][/us/act/1947-05-14/ch52/s5/b], [61 Stat. 87][/us/stat/61/87], provided that: 
+[Act May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 5(b), [61 Stat. 87][/us/stat/61/87], provided that: 
 
 > “The amendment made by subsection (a) of this section \[amending this section\] shall be applicable only with respect to actions commenced under the Fair Labor Standards Act of 1938, as amended \[this chapter\], on or after the date of the enactment of this Act \[May 14, 1947\].”
 
@@ -159,13 +159,13 @@ For information regarding constitutionality of certain provisions of section 16 
 
  __Liability of State, Political Subdivision, or Interstate Governmental Agency for Violations Before__  __April 15, 1986__  __, Respecting any Employee Not Covered Under Special Enforcement Policy__ 
 
-[Pub. L. 99–150, § 2(c)(1)][/us/pl/99/150/s2/c/1], Nov. 13, 1985, [99 Stat. 788][/us/stat/99/788], provided that: 
+[Pub. L. 99–150][/us/pl/99/150], § 2(c)(1), Nov. 13, 1985, [99 Stat. 788][/us/stat/99/788], provided that: 
 
 > “No State, political subdivision of a State, or interstate governmental agency shall be liable under section 16 of the Fair Labor Standards Act of 1938 \[[29 U.S.C. 216][/us/usc/t29/s216]\] for a violation of section 6 \[[29 U.S.C. 206][/us/usc/t29/s206]\] (in the case of a territory or possession of the United States), 7 \[[29 U.S.C. 207][/us/usc/t29/s207]\], or 11(c) \[[29 U.S.C. 211(c)][/us/usc/t29/s211/c]\] (as it relates to section 7) of such Act occurring before April 15, 1986, with respect to any employee of the State, political subdivision, or agency who would not have been covered by such Act \[this chapter\] under the Secretary of Labor’s special enforcement policy on January 1, 1985, and published in sections 775.2 and 775.4 of title 29 of the Code of Federal Regulations.”
 
  __Effect of Amendments by__  __[__  __Public Law 99–150__  __][/us/pl/99/150]__  __on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy__ 
 
-[Pub. L. 99–150, § 7][/us/pl/99/150/s7], Nov. 13, 1985, [99 Stat. 791][/us/stat/99/791], provided that: 
+[Pub. L. 99–150][/us/pl/99/150], § 7, Nov. 13, 1985, [99 Stat. 791][/us/stat/99/791], provided that: 
 
 > “The amendments made by this Act \[see Short Title of 1985 Amendment note set out under [section 201 of this title][/us/usc/t29/s201]\] shall not affect whether a public agency which is a State, political subdivision of a State, or an interstate governmental agency is liable under section 16 of the Fair Labor Standards Act of 1938 \[[29 U.S.C. 216][/us/usc/t29/s216]\] for a violation of section 6, 7, or 11 of such Act \[[29 U.S.C. 206][/us/usc/t29/s206], 207, 211\] occurring before April 15, 1986, with respect to any employee of such public agency who would have been covered by such Act \[this chapter\] under the Secretary of Labor’s special enforcement policy on January 1, 1985, and published in section 775.3 of title 29 of the Code of Federal Regulations.”
 
@@ -175,13 +175,13 @@ For information regarding constitutionality of certain provisions of section 16 
 
  __Construction of 1949 Amendments With Portal-to-Portal Act of 1947__ 
 
-[Act Oct. 26, 1949, ch. 736, § 16(b)][/us/act/1949-10-26/ch736/s16/b], [63 Stat. 920][/us/stat/63/920], provided that: 
+[Act Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 16(b), [63 Stat. 920][/us/stat/63/920], provided that: 
 
 > “Except as provided in section 3(o) \[[29 U.S.C. 203][/us/usc/t29/s203](o)\] and in the last sentence of section 16(c) of the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 216(c)][/us/usc/t29/s216/c]\], no amendment made by this Act \[amending sections 202, 208, 211 to 217 of this title\] shall be construed as amending, modifying, or repealing any provisions of the Portal-to-Portal Act of 1947.”
 
  __Retroactive Effect of 1949 Amendments; Limitation of Actions__ 
 
-    [Act Oct. 26, 1949, ch. 736, § 16(d)][/us/act/1949-10-26/ch736/s16/d], [63 Stat. 920][/us/stat/63/920], provided that actions based upon acts or omissions occurring prior to the effective date of act Oct. 26, 1949, which was to be effective ninety days after Oct. 26, 1949, were not prevented by the amendments made to sections 202 to 208, and 211 to 217 of this title by such act, so long as such actions were instituted within two years from such effective date.
+    [Act Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 16(d), [63 Stat. 920][/us/stat/63/920], provided that actions based upon acts or omissions occurring prior to the effective date of act Oct. 26, 1949, which was to be effective ninety days after Oct. 26, 1949, were not prevented by the amendments made to sections 202 to 208, and 211 to 217 of this title by such act, so long as such actions were instituted within two years from such effective date.
 
 ----------
 
@@ -207,32 +207,32 @@ For information regarding constitutionality of certain provisions of section 16 
 [/us/usc/t29/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs212
 [/us/usc/t29/s9a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs9a
 [/us/usc/t29/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs212
-[/us/act/1938-06-25/ch676/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs16
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1069
-[/us/act/1947-05-14/ch52/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs5%2Fa
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F87
-[/us/act/1949-10-26/ch736/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs14
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F919
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/act/1956-08-08/ch1035/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1035%2Fs4
+[/us/act/1956-08-08/ch1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1035
 [/us/stat/70/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1118
-[/us/pl/85/231/s1/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F231%2Fs1%2F2
+[/us/pl/85/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F231
 [/us/stat/71/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F514
-[/us/pl/87/30/s12/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs12%2Fa
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/stat/75/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F74
-[/us/pl/89/601/s601/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs601%2Fa
+[/us/pl/89/601/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtVI
 [/us/stat/80/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F844
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F61
-[/us/pl/95/151/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs10
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/stat/91/1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1252
-[/us/pl/101/157/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs9
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/945]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F945
-[/us/pl/101/508/s3103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs3103
+[/us/pl/101/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIII
 [/us/stat/104/1388-29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-29
-[/us/pl/104/174/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F174%2Fs2
+[/us/pl/104/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F174
 [/us/stat/110/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1554
-[/us/pl/110/233/s302/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs302%2Fa
+[/us/pl/110/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtIII
 [/us/stat/122/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F920
 [/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F84
@@ -241,7 +241,7 @@ For information regarding constitutionality of certain provisions of section 16 
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
 [/us/usc/t29/s206/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F3
 [/us/usc/t29/s206/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F4
-[/us/pl/110/28/s8103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8103%2Fc%2F1%2FB
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F189
 [/us/pl/93/259/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fd%2F1
 [/us/pl/110/233]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233
@@ -256,17 +256,17 @@ For information regarding constitutionality of certain provisions of section 16 
 [/us/usc/t29/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs212
 [/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/usc/t29/s215/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs215%2Fa%2F2
-[/us/pl/95/151/s10/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs10%2Fa
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/usc/t29/s215/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs215%2Fa%2F3
 [/us/usc/t29/s217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs217
-[/us/pl/95/151/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs10%2Fc
-[/us/pl/93/259/s6/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fd%2F1
-[/us/pl/93/259/s26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs26
-[/us/pl/93/259/s25/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs25%2Fc
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/pl/85/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F231
-[/us/pl/110/233/s302/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2Fs302%2Fb
+[/us/pl/110/233/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F233%2FtIII
 [/us/stat/122/922]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F922
 [/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/pl/95/151/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs15%2Fa
@@ -284,18 +284,18 @@ For information regarding constitutionality of certain provisions of section 16 
 [/us/pl/85/231/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F231%2Fs2
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
-[/us/act/1947-05-14/ch52/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs5%2Fb
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F87
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/pl/99/150/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs2%2Fc%2F1
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F788
 [/us/usc/t29/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs216
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
 [/us/usc/t29/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs211%2Fc
 [/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
-[/us/pl/99/150/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs7
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F791
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs216
@@ -304,11 +304,11 @@ For information regarding constitutionality of certain provisions of section 16 
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/pl/89/601/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs602
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
-[/us/act/1949-10-26/ch736/s16/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs16%2Fb
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F920
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
 [/us/usc/t29/s216/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs216%2Fc
-[/us/act/1949-10-26/ch736/s16/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs16%2Fd
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F920
 
 

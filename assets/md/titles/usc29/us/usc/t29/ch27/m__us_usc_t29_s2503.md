@@ -37,7 +37,7 @@
 
         The Secretary shall select a total of 50 employers or labor unions to receive technical assistance provided with grants made under subsection (a) of this section.
 
-([Pub. L. 102–530, § 4][/us/pl/102/530/s4], Oct. 27, 1992, [106 Stat. 3466][/us/stat/106/3466].)
+([Pub. L. 102–530][/us/pl/102/530], § 4, Oct. 27, 1992, [106 Stat. 3466][/us/stat/106/3466].)
 
 ----------
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/102/530/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530%2Fs4
+[/us/pl/102/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530
 [/us/stat/106/3466]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3466
 
 

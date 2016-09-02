@@ -187,7 +187,7 @@
 
         There are authorized to be appropriated for the purpose of carrying out the duties and functions of the Access Board under this section $7,448,000 for fiscal year 2015, $8,023,000 for fiscal year 2016, $8,190,000 for fiscal year 2017, $8,371,000 for fiscal year 2018, $8,568,000 for fiscal year 2019, and $8,750,000 for fiscal year 2020.
 
-([Pub. L. 93–112, title V, § 502][/us/pl/93/112/s502], Sept. 26, 1973, [87 Stat. 391][/us/stat/87/391]; [Pub. L. 93–516, title I][/us/pl/93/516], §§ 110, 111(n)–(q), Dec. 7, 1974, [88 Stat. 1619][/us/stat/88/1619], 1621, 1622; [Pub. L. 93–651, title I][/us/pl/93/651], §§ 110, 111(n)–(q), Nov. 21, 1974, [89 Stat. 2–4][/us/stat/89/2-4], 2–6, 2–7; [Pub. L. 94–230][/us/pl/94/230], §§ 10, 11(b)(13), Mar. 15, 1976, [90 Stat. 212][/us/stat/90/212], 214; [Pub. L. 95–251, § 2(a)(8)][/us/pl/95/251/s2/a/8], Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–602, title I, § 118][/us/pl/95/602/s118], Nov. 6, 1978, [92 Stat. 2979][/us/stat/92/2979]; [Pub. L. 96–374, title XIII, § 1321][/us/pl/96/374/s1321], Oct. 3, 1980, [94 Stat. 1499][/us/stat/94/1499]; [Pub. L. 98–221, title I, § 151][/us/pl/98/221/s151], Feb. 22, 1984, [98 Stat. 28][/us/stat/98/28]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title VI, § 601, title X, § 1002(e)(2)(B)–(D), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1829, 1844; [Pub. L. 100–630, title II, § 206(b)][/us/pl/100/630/s206/b], Nov. 7, 1988, [102 Stat. 3311][/us/stat/102/3311]; [Pub. L. 102–52, § 6][/us/pl/102/52/s6], June 6, 1991, [105 Stat. 262][/us/stat/105/262]; [Pub. L. 102–54, § 13(k)(1)(A)][/us/pl/102/54/s13/k/1/A], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–569, title I, § 102(p)(30)][/us/pl/102/569/s102/p/30], title V, § 504, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4424; [Pub. L. 103–73, title I, § 112(b)][/us/pl/103/73/s112/b], Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–220, title IV, § 408(a)(2)][/us/pl/105/220/s408/a/2], Aug. 7, 1998, [112 Stat. 1202][/us/stat/112/1202]; [Pub. L. 105–394, title II, § 203(a)][/us/pl/105/394/s203/a], Nov. 13, 1998, [112 Stat. 3653][/us/stat/112/3653]; [Pub. L. 108–364, § 3(b)(3)][/us/pl/108/364/s3/b/3], Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737]; [Pub. L. 113–128, title IV, § 456(b)][/us/pl/113/128/s456/b], July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
+([Pub. L. 93–112, title V][/us/pl/93/112/tV], § 502, Sept. 26, 1973, [87 Stat. 391][/us/stat/87/391]; [Pub. L. 93–516, title I][/us/pl/93/516/tI], §§ 110, 111(n)–(q), Dec. 7, 1974, [88 Stat. 1619][/us/stat/88/1619], 1621, 1622; [Pub. L. 93–651, title I][/us/pl/93/651/tI], §§ 110, 111(n)–(q), Nov. 21, 1974, [89 Stat. 2–4][/us/stat/89/2-4], 2–6, 2–7; [Pub. L. 94–230][/us/pl/94/230], §§ 10, 11(b)(13), Mar. 15, 1976, [90 Stat. 212][/us/stat/90/212], 214; [Pub. L. 95–251][/us/pl/95/251], § 2(a)(8), Mar. 27, 1978, [92 Stat. 183][/us/stat/92/183]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 118, Nov. 6, 1978, [92 Stat. 2979][/us/stat/92/2979]; [Pub. L. 96–374, title XIII][/us/pl/96/374/tXIII], § 1321, Oct. 3, 1980, [94 Stat. 1499][/us/stat/94/1499]; [Pub. L. 98–221, title I][/us/pl/98/221/tI], § 151, Feb. 22, 1984, [98 Stat. 28][/us/stat/98/28]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(C), title VI, § 601, title X, § 1002(e)(2)(B)–(D), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1829, 1844; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 206(b), Nov. 7, 1988, [102 Stat. 3311][/us/stat/102/3311]; [Pub. L. 102–52][/us/pl/102/52], § 6, June 6, 1991, [105 Stat. 262][/us/stat/105/262]; [Pub. L. 102–54][/us/pl/102/54], § 13(k)(1)(A), June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 102(p)(30), title V, § 504, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4424; [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 112(b), Aug. 11, 1993, [107 Stat. 727][/us/stat/107/727]; [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 408(a)(2), Aug. 7, 1998, [112 Stat. 1202][/us/stat/112/1202]; [Pub. L. 105–394, title II][/us/pl/105/394/tII], § 203(a), Nov. 13, 1998, [112 Stat. 3653][/us/stat/112/3653]; [Pub. L. 108–364][/us/pl/108/364], § 3(b)(3), Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737]; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 456(b), July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
 
  __References in Text__ 
 
@@ -207,169 +207,169 @@
 
     2004—Subsec. (d). [Pub. L. 108–364][/us/pl/108/364] substituted “targeted individuals and entities” for “targeted individuals”.
 
-    1998—Subsec. (a)(1). [Pub. L. 105–220, § 408(a)(2)(A)][/us/pl/105/220/s408/a/2/A], substituted “chairperson and” for “Chairperson and” in concluding provisions.
+    1998—Subsec. (a)(1). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(2)(A), substituted “chairperson and” for “Chairperson and” in concluding provisions.
 
-    Subsec. (b)(2). [Pub. L. 105–220, § 408(a)(2)(B)(i)][/us/pl/105/220/s408/a/2/B/i], substituted “information” for “guidelines”.
+    Subsec. (b)(2). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(2)(B)(i), substituted “information” for “guidelines”.
 
-    Subsec. (b)(3). [Pub. L. 105–220, § 408(a)(2)(B)(ii)][/us/pl/105/220/s408/a/2/B/ii], added par. (3) and struck out former par. (3) which read as follows: “establish and maintain minimum guidelines and requirements for the standards issued pursuant to the Act commonly known as the Architectural Barriers Act of 1968 and titles II and III of the Americans with Disabilities Act of 1990;”.
+    Subsec. (b)(3). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(2)(B)(ii), added par. (3) and struck out former par. (3) which read as follows: “establish and maintain minimum guidelines and requirements for the standards issued pursuant to the Act commonly known as the Architectural Barriers Act of 1968 and titles II and III of the Americans with Disabilities Act of 1990;”.
 
-    Subsec. (b)(11). [Pub. L. 105–220, § 408(a)(2)(B)(iii)][/us/pl/105/220/s408/a/2/B/iii]–(v), added par. (11).
+    Subsec. (b)(11). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(2)(B)(iii)–(v), added par. (11).
 
-    Subsec. (d). [Pub. L. 105–394, § 203(a)(2)][/us/pl/105/394/s203/a/2], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 105–394][/us/pl/105/394], § 203(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsec. (d)(1). [Pub. L. 105–220, § 408(a)(2)(C)][/us/pl/105/220/s408/a/2/C], substituted “procedures under this subsection” for “procedures under this section”.
+    Subsec. (d)(1). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(2)(C), substituted “procedures under this subsection” for “procedures under this section”.
 
-    Subsec. (e). [Pub. L. 105–394, § 203(a)(1)][/us/pl/105/394/s203/a/1], (3), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (e)” in second sentence of par. (1). Former subsec. (e) redesignated (f).
+    Subsec. (e). [Pub. L. 105–394][/us/pl/105/394], § 203(a)(1), (3), redesignated subsec. (d) as (e) and substituted “subsection (f)” for “subsection (e)” in second sentence of par. (1). Former subsec. (e) redesignated (f).
 
-    Subsec. (f). [Pub. L. 105–394, § 203(a)(1)][/us/pl/105/394/s203/a/1], redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
+    Subsec. (f). [Pub. L. 105–394][/us/pl/105/394], § 203(a)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-    Subsec. (g). [Pub. L. 105–394, § 203(a)(1)][/us/pl/105/394/s203/a/1], redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
+    Subsec. (g). [Pub. L. 105–394][/us/pl/105/394], § 203(a)(1), redesignated subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-    Subsec. (g)(2). [Pub. L. 105–220, § 408(a)(2)(D)][/us/pl/105/220/s408/a/2/D], substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
+    Subsec. (g)(2). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(2)(D), substituted “Committee on Education and the Workforce” for “Committee on Education and Labor”.
 
-    Subsec. (h). [Pub. L. 105–394, § 203(a)(1)][/us/pl/105/394/s203/a/1], redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
+    Subsec. (h). [Pub. L. 105–394][/us/pl/105/394], § 203(a)(1), redesignated subsec. (g) as (h). Former subsec. (h) redesignated (i).
 
-    Subsec. (h)(2)(A). [Pub. L. 105–220, § 408(a)(2)(E)][/us/pl/105/220/s408/a/2/E], substituted “paragraphs (2) and (4)” for “paragraphs (5) and (7)”.
+    Subsec. (h)(2)(A). [Pub. L. 105–220][/us/pl/105/220], § 408(a)(2)(E), substituted “paragraphs (2) and (4)” for “paragraphs (5) and (7)”.
 
-    Subsec. (i). [Pub. L. 105–394, § 203(a)(1)][/us/pl/105/394/s203/a/1], redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
+    Subsec. (i). [Pub. L. 105–394][/us/pl/105/394], § 203(a)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-    [Pub. L. 105–220, § 408(a)(2)(F)][/us/pl/105/220/s408/a/2/F], substituted “fiscal years 1999 through 2003” for “fiscal years 1993 through 1997”.
+    [Pub. L. 105–220][/us/pl/105/220], § 408(a)(2)(F), substituted “fiscal years 1999 through 2003” for “fiscal years 1993 through 1997”.
 
-    Subsec. (j). [Pub. L. 105–394, § 203(a)(1)][/us/pl/105/394/s203/a/1], redesignated subsec. (i) as (j).
+    Subsec. (j). [Pub. L. 105–394][/us/pl/105/394], § 203(a)(1), redesignated subsec. (i) as (j).
 
     1993—Subsec. (a)(5)(A). [Pub. L. 103–73][/us/pl/103/73] substituted “level IV of the Executive Schedule under section 5315” for “level 4 of the Senior Executive Service Schedule under section 5382”.
 
-    1992—[Pub. L. 102–569, § 504(a)(2)][/us/pl/102/569/s504/a/2], (3), substituted “the Access Board” and “The Access Board” for “the Board” and “The Board”, respectively, wherever appearing.
+    1992—[Pub. L. 102–569][/us/pl/102/569], § 504(a)(2), (3), substituted “the Access Board” and “The Access Board” for “the Board” and “The Board”, respectively, wherever appearing.
 
-    Subsec. (a)(1). [Pub. L. 102–569, § 504(a)(1)][/us/pl/102/569/s504/a/1], substituted “the ‘Access Board’ ” for “the ‘Board’ ” in introductory provisions.
+    Subsec. (a)(1). [Pub. L. 102–569][/us/pl/102/569], § 504(a)(1), substituted “the ‘Access Board’ ” for “the ‘Board’ ” in introductory provisions.
 
-    Subsec. (a)(1)(A). [Pub. L. 102–569, § 504(b)(1)(A)][/us/pl/102/569/s504/b/1/A], substituted “Thirteen” for “Twelve” and “at least a majority” for “six”.
+    Subsec. (a)(1)(A). [Pub. L. 102–569][/us/pl/102/569], § 504(b)(1)(A), substituted “Thirteen” for “Twelve” and “at least a majority” for “six”.
 
-    [Pub. L. 102–569, § 102(p)(30)][/us/pl/102/569/s102/p/30], substituted “individuals with disabilities” for “individuals with handicaps”.
+    [Pub. L. 102–569][/us/pl/102/569], § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps”.
 
-    Subsec. (a)(1)(B)(xii). [Pub. L. 102–569, § 504(b)(1)(B)][/us/pl/102/569/s504/b/1/B], added cl. (xii).
+    Subsec. (a)(1)(B)(xii). [Pub. L. 102–569][/us/pl/102/569], § 504(b)(1)(B), added cl. (xii).
 
-    Subsec. (a)(2)(A). [Pub. L. 102–569, § 504(b)(2)][/us/pl/102/569/s504/b/2], designated existing provisions as cl. (i), substituted “4 years, except as provided in clause (ii)” for “three years” and “at least three” for “four”, and added cl. (ii).
+    Subsec. (a)(2)(A). [Pub. L. 102–569][/us/pl/102/569], § 504(b)(2), designated existing provisions as cl. (i), substituted “4 years, except as provided in clause (ii)” for “three years” and “at least three” for “four”, and added cl. (ii).
 
-    Subsec. (a)(3). [Pub. L. 102–569, § 504(b)(3)][/us/pl/102/569/s504/b/3], substituted “a Federal” for “such an” after “member becomes”.
+    Subsec. (a)(3). [Pub. L. 102–569][/us/pl/102/569], § 504(b)(3), substituted “a Federal” for “such an” after “member becomes”.
 
-    Subsec. (a)(5)(A). [Pub. L. 102–569, § 504(b)(4)][/us/pl/102/569/s504/b/4], substituted “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily rate prescribed for GS–18 under section 5332”.
+    Subsec. (a)(5)(A). [Pub. L. 102–569][/us/pl/102/569], § 504(b)(4), substituted “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily rate prescribed for GS–18 under section 5332”.
 
-    Subsec. (b). [Pub. L. 102–569, § 504(c)][/us/pl/102/569/s504/c], amended subsec. (b) generally, substituting present provisions for provisions which outlined eight specific functions of the Access Board.
+    Subsec. (b). [Pub. L. 102–569][/us/pl/102/569], § 504(c), amended subsec. (b) generally, substituting present provisions for provisions which outlined eight specific functions of the Access Board.
 
-    Subsec. (c). [Pub. L. 102–569, § 102(p)(30)][/us/pl/102/569/s102/p/30], substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
+    Subsec. (c). [Pub. L. 102–569][/us/pl/102/569], § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
 
-    Subsec. (d)(1). [Pub. L. 102–569, § 504(d)(1)][/us/pl/102/569/s504/d/1], in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
+    Subsec. (d)(1). [Pub. L. 102–569][/us/pl/102/569], § 504(d)(1), in first sentence, substituted “The Access Board shall conduct” for “In carrying out its functions under this chapter, the Access Board shall, directly or through grants to public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations, carry out its functions under subsections (b) and (c) of this section, and shall conduct” and “to ensure compliance” for “to insure compliance”.
 
-    Subsec. (d)(3). [Pub. L. 102–569, § 504(d)(2)][/us/pl/102/569/s504/d/2], struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
+    Subsec. (d)(3). [Pub. L. 102–569][/us/pl/102/569], § 504(d)(2), struck out par. (3) which read as follows: “The Access Board, in consultation and coordination with other concerned Federal departments and agencies and agencies within the Department of Education, shall develop standards and provide appropriate technical assistance to any public or private activity, person, or entity affected by regulations prescribed pursuant to this subchapter with respect to overcoming architectural, transportation, and communication barriers. Any funds appropriated to any such department or agency for the purpose of providing such assistance may be transferred to the Access Board for the purpose of carrying out this paragraph. The Access Board may arrange to carry out its responsibilities under this paragraph through such other departments and agencies for such periods as the Access Board determines is appropriate. In carrying out its technical assistance responsibilities under this paragraph, the Access Board shall establish a procedure to insure separation of its compliance and technical assistance responsibilities under this section.”
 
-    Subsec. (f). [Pub. L. 102–569, § 504(e)][/us/pl/102/569/s504/e], added par. (1), designated existing provisions as par. (2) and substituted “paragraph” for “subsection”, “Chairperson” for “Secretary”, and “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily pay rate for a person employed as a GS–18 under section 5332”.
+    Subsec. (f). [Pub. L. 102–569][/us/pl/102/569], § 504(e), added par. (1), designated existing provisions as par. (2) and substituted “paragraph” for “subsection”, “Chairperson” for “Secretary”, and “the daily equivalent of the rate of pay for level 4 of the Senior Executive Service Schedule under section 5382” for “the daily pay rate for a person employed as a GS–18 under section 5332”.
 
-    Subsec. (g). [Pub. L. 102–569, § 504(f)][/us/pl/102/569/s504/f], designated existing provisions as par. (1), substituted “paragraphs (8) and (9) of such subsection” for “clauses (5) and (6) of subsection (b) of this section”, struck out at end “The Access Board shall prepare two final reports of its activities under subsection (c) of this section. One such report shall be on its activities in the field of transportation barriers facing individuals with disabilities, and the other such report shall be on its activities in the field of the housing needs of individuals with disabilities. The Access Board shall, not later than September 30, 1975, submit each such report, together with its recommendations, to the President and the Congress. The Access Board shall also prepare for such submission an interim report of its activities in each such field within 18 months after September 26, 1973. The Access Board shall prepare and submit two additional reports of its activities under subsection (c) of this section, one report on its activities in the field of transportation barriers facing individuals with disabilities and the other report on its activities in the field of the housing needs of individuals with disabilities. The two additional reports required by the previous sentence shall be submitted not later than February 1, 1988.”, and added par. (2).
+    Subsec. (g). [Pub. L. 102–569][/us/pl/102/569], § 504(f), designated existing provisions as par. (1), substituted “paragraphs (8) and (9) of such subsection” for “clauses (5) and (6) of subsection (b) of this section”, struck out at end “The Access Board shall prepare two final reports of its activities under subsection (c) of this section. One such report shall be on its activities in the field of transportation barriers facing individuals with disabilities, and the other such report shall be on its activities in the field of the housing needs of individuals with disabilities. The Access Board shall, not later than September 30, 1975, submit each such report, together with its recommendations, to the President and the Congress. The Access Board shall also prepare for such submission an interim report of its activities in each such field within 18 months after September 26, 1973. The Access Board shall prepare and submit two additional reports of its activities under subsection (c) of this section, one report on its activities in the field of transportation barriers facing individuals with disabilities and the other report on its activities in the field of the housing needs of individuals with disabilities. The two additional reports required by the previous sentence shall be submitted not later than February 1, 1988.”, and added par. (2).
 
-    [Pub. L. 102–569, § 102(p)(30)][/us/pl/102/569/s102/p/30], substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
+    [Pub. L. 102–569][/us/pl/102/569], § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” wherever appearing.
 
-    Subsec. (h)(1). [Pub. L. 102–569, § 504(g)(1)][/us/pl/102/569/s504/g/1]–(3), redesignated par. (2) as (1), struck out at end “The Access Board may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.”, and struck out former par. (1) which read as follows: “Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance.”
+    Subsec. (h)(1). [Pub. L. 102–569][/us/pl/102/569], § 504(g)(1)–(3), redesignated par. (2) as (1), struck out at end “The Access Board may also make grants to any designated State unit for the purpose of conducting studies to provide the cost assessments required by paragraph (1). Before including in such report the findings of any study conducted for the Access Board under a grant or contract to provide the Access Board with such cost assessments, the Access Board shall take all necessary steps to validate the accuracy of any such findings.”, and struck out former par. (1) which read as follows: “Within one year following November 6, 1978, the Access Board shall submit to the President and the Congress a report containing an assessment of the amounts required to be expended by States and by political subdivisions thereof to provide individuals with disabilities with full access to all programs and activities receiving Federal assistance.”
 
-    [Pub. L. 102–569, § 102(p)(30)][/us/pl/102/569/s102/p/30], substituted “individuals with disabilities” for “individuals with handicaps” before “with full access”.
+    [Pub. L. 102–569][/us/pl/102/569], § 102(p)(30), substituted “individuals with disabilities” for “individuals with handicaps” before “with full access”.
 
-    Subsec. (h)(2). [Pub. L. 102–569, § 504(g)(4)][/us/pl/102/569/s504/g/4], which directed the addition of par. (2) “at the end” of subsec. (h), was executed by adding par. (2) before par. (3) to reflect the probable intent of Congress. Former par. (2) redesignated (1).
+    Subsec. (h)(2). [Pub. L. 102–569][/us/pl/102/569], § 504(g)(4), which directed the addition of par. (2) “at the end” of subsec. (h), was executed by adding par. (2) before par. (3) to reflect the probable intent of Congress. Former par. (2) redesignated (1).
 
-    Subsec. (i). [Pub. L. 102–569, § 504(h)][/us/pl/102/569/s504/h], substituted “fiscal years 1993 through 1997.” for “fiscal years 1987 through 1992, but in no event shall the amount appropriated for any one fiscal year exceed $3,000,000.”
+    Subsec. (i). [Pub. L. 102–569][/us/pl/102/569], § 504(h), substituted “fiscal years 1993 through 1997.” for “fiscal years 1987 through 1992, but in no event shall the amount appropriated for any one fiscal year exceed $3,000,000.”
 
     1991—Subsec. (a)(1)(B)(ix). [Pub. L. 102–54][/us/pl/102/54] substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
 
     Subsec. (i). [Pub. L. 102–52][/us/pl/102/52] substituted “1987 through 1992” for “1987, 1988, 1989, 1990, and 1991”.
 
-    1988—Subsec. (a)(2). [Pub. L. 100–630, § 206(b)(1)][/us/pl/100/630/s206/b/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member’s predecessor was appointed.”
+    1988—Subsec. (a)(2). [Pub. L. 100–630][/us/pl/100/630], § 206(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The term of office of each appointed member of the Board shall be three years; except that (i) the members first taking office shall serve, as designated by the President at the time of appointment, four for a term of one year, four for a term of two years, and three for a term of three years, (ii) a member whose term has expired may continue to serve until a successor has been appointed, and (iii) a member appointed to fill a vacancy shall serve for the remainder of the term to which that member’s predecessor was appointed.”
 
-    Subsec. (a)(3). [Pub. L. 100–630, § 206(b)(2)][/us/pl/100/630/s206/b/2], substituted “the member” for “he”.
+    Subsec. (a)(3). [Pub. L. 100–630][/us/pl/100/630], § 206(b)(2), substituted “the member” for “he”.
 
-    Subsec. (a)(5)(A). [Pub. L. 100–630, § 206(b)(3)][/us/pl/100/630/s206/b/3], substituted “travel time” for “traveltime”.
+    Subsec. (a)(5)(A). [Pub. L. 100–630][/us/pl/100/630], § 206(b)(3), substituted “travel time” for “traveltime”.
 
-    Subsec. (b). [Pub. L. 100–630, § 206(b)(4)][/us/pl/100/630/s206/b/4]–(7), inserted a comma after “surface transportation” in cl. (2), and substituted “Administrator of General Services” for “Administrator of the General Services Administration” in cl. (4), “results of” for “results to” in cl. (5), and “individuals with physical handicaps” for “physically handicapped persons” in cl. (8).
+    Subsec. (b). [Pub. L. 100–630][/us/pl/100/630], § 206(b)(4)–(7), inserted a comma after “surface transportation” in cl. (2), and substituted “Administrator of General Services” for “Administrator of the General Services Administration” in cl. (4), “results of” for “results to” in cl. (5), and “individuals with physical handicaps” for “physically handicapped persons” in cl. (8).
 
-    Subsec. (c)(2)(A). [Pub. L. 100–630, § 206(b)(8)][/us/pl/100/630/s206/b/8], inserted a comma after “expanded transportation systems”.
+    Subsec. (c)(2)(A). [Pub. L. 100–630][/us/pl/100/630], § 206(b)(8), inserted a comma after “expanded transportation systems”.
 
-    Subsec. (d)(2)((B). [Pub. L. 100–630, § 206(b)(9)][/us/pl/100/630/s206/b/9], substituted “that relate to” for “which related to”.
+    Subsec. (d)(2)((B). [Pub. L. 100–630][/us/pl/100/630], § 206(b)(9), substituted “that relate to” for “which related to”.
 
-    Subsec. (f). [Pub. L. 100–630, § 206(b)(10)][/us/pl/100/630/s206/b/10], substituted “daily pay rate for” for “daily pay rate, for”, “[section 5332 of title 5][/us/usc/t5/s5332]” for “[section 5332 of title 45][/us/usc/t45/s5332]”, and “travel time” for “traveltime”.
+    Subsec. (f). [Pub. L. 100–630][/us/pl/100/630], § 206(b)(10), substituted “daily pay rate for” for “daily pay rate, for”, “[section 5332 of title 5][/us/usc/t5/s5332]” for “[section 5332 of title 45][/us/usc/t45/s5332]”, and “travel time” for “traveltime”.
 
-    Subsec. (g). [Pub. L. 100–630, § 206(b)(11)][/us/pl/100/630/s206/b/11], substituted “transportation barriers facing individuals with handicaps” for “transportation barriers to individuals with handicaps” and for “transportation barriers of handicapped individuals” in fourth and seventh sentences, respectively, and “housing needs of individuals with handicaps” for “housing needs of handicapped individuals” in seventh sentence.
+    Subsec. (g). [Pub. L. 100–630][/us/pl/100/630], § 206(b)(11), substituted “transportation barriers facing individuals with handicaps” for “transportation barriers to individuals with handicaps” and for “transportation barriers of handicapped individuals” in fourth and seventh sentences, respectively, and “housing needs of individuals with handicaps” for “housing needs of handicapped individuals” in seventh sentence.
 
     1986—Subsec. (a)(1)(A). [Pub. L. 99–506][/us/pl/99/506], §§ 103(d)(2)(C), 601(a)(2), substituted “Twelve” for “Eleven”, “six” for “five”, and “individuals with handicaps” for “handicapped individuals”.
 
-    Subsec. (a)(1)(B). [Pub. L. 99–506, § 601(a)(1)][/us/pl/99/506/s601/a/1], substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
+    Subsec. (a)(1)(B). [Pub. L. 99–506][/us/pl/99/506], § 601(a)(1), substituted provision that Chairperson and vice-chairperson of Board shall be elected by majority vote of members of Board to serve for terms of one year, for provision that President had to appoint first Chairman of such Board who was to serve for term of not more than two years, with subsequent Chairmen to be elected by majority vote of Board for term of one year, and inserted provisions that positions of Chairperson and vice-chairperson each be held alternately in succession by Federal official and by member of general public, and that when either office is held by member of general public, the other will be held by Federal official.
 
-    Subsec. (a)(2)(ii), (iii). [Pub. L. 99–506, § 601(a)(3)][/us/pl/99/506/s601/a/3], added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: “any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed”.
+    Subsec. (a)(2)(ii), (iii). [Pub. L. 99–506][/us/pl/99/506], § 601(a)(3), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: “any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed”.
 
-    Subsec. (a)(6). [Pub. L. 99–506, § 601(a)(4)][/us/pl/99/506/s601/a/4], added par. (6).
+    Subsec. (a)(6). [Pub. L. 99–506][/us/pl/99/506], § 601(a)(4), added par. (6).
 
-    Subsecs. (b)(2), (c). [Pub. L. 99–506, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
+    Subsecs. (b)(2), (c). [Pub. L. 99–506][/us/pl/99/506], § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
 
-    Subsec. (d)(2)(A). [Pub. L. 99–506, § 1002(e)(2)(B)][/us/pl/99/506/s1002/e/2/B], substituted “any final order” for “any, final order”.
+    Subsec. (d)(2)(A). [Pub. L. 99–506][/us/pl/99/506], § 1002(e)(2)(B), substituted “any final order” for “any, final order”.
 
-    Subsec. (d)(3). [Pub. L. 99–506, § 1002(e)(2)(C)][/us/pl/99/506/s1002/e/2/C], substituted “Department of Education” for “Department of Health, Education, and Welfare” and “with respect to overcoming” for “with respect overcoming to”.
+    Subsec. (d)(3). [Pub. L. 99–506][/us/pl/99/506], § 1002(e)(2)(C), substituted “Department of Education” for “Department of Health, Education, and Welfare” and “with respect to overcoming” for “with respect overcoming to”.
 
-    Subsec. (e)(2). [Pub. L. 99–506, § 1002(e)(2)(D)][/us/pl/99/506/s1002/e/2/D], substituted “alleged noncompliance and in” for “alleged noncompliance in”.
+    Subsec. (e)(2). [Pub. L. 99–506][/us/pl/99/506], § 1002(e)(2)(D), substituted “alleged noncompliance and in” for “alleged noncompliance in”.
 
-    Subsec. (g). [Pub. L. 99–506, § 601(b)][/us/pl/99/506/s601/b], inserted provisions requiring the Board to submit, not later than Feb. 1, 1988, two additional reports on its activities under subsec. (c), one report to deal with its activities relating to transportation barriers to handicapped individuals, the other to deal with activities relating to the housing needs of handicapped individuals.
+    Subsec. (g). [Pub. L. 99–506][/us/pl/99/506], § 601(b), inserted provisions requiring the Board to submit, not later than Feb. 1, 1988, two additional reports on its activities under subsec. (c), one report to deal with its activities relating to transportation barriers to handicapped individuals, the other to deal with activities relating to the housing needs of handicapped individuals.
 
-    [Pub. L. 99–506, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
+    [Pub. L. 99–506][/us/pl/99/506], § 103(d)(2)(C), substituted “individuals with handicaps” for “handicapped individuals” wherever appearing.
 
-    Subsec. (h)(1). [Pub. L. 99–506, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], substituted reference to individuals with handicaps for reference to handicapped individuals.
+    Subsec. (h)(1). [Pub. L. 99–506][/us/pl/99/506], § 103(d)(2)(C), substituted reference to individuals with handicaps for reference to handicapped individuals.
 
-    Subsec. (i). [Pub. L. 99–506, § 601(c)][/us/pl/99/506/s601/c], which directed the substitution of “of the fiscal years 1987, 1988, 1989, 1990, and 1991,” for “fiscal year ending before October 1, 1986,” was executed by making the substitution for “fiscal year ending before October 1, 1986.,” as the probable intent of Congress. See 1984 Amendment note below.
+    Subsec. (i). [Pub. L. 99–506][/us/pl/99/506], § 601(c), which directed the substitution of “of the fiscal years 1987, 1988, 1989, 1990, and 1991,” for “fiscal year ending before October 1, 1986,” was executed by making the substitution for “fiscal year ending before October 1, 1986.,” as the probable intent of Congress. See 1984 Amendment note below.
 
     1984—Subsec. (i). [Pub. L. 98–221][/us/pl/98/221] substituted “October 1, 1986.” for “October 1, 1982”.
 
-    1980—Subsec. (a)(1)(B)(i). [Pub. L. 96–374, § 1321(a)(1)][/us/pl/96/374/s1321/a/1], substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
+    1980—Subsec. (a)(1)(B)(i). [Pub. L. 96–374][/us/pl/96/374], § 1321(a)(1), substituted “Department of Health and Human Services” for “Department of Health, Education, and Welfare”.
 
-    Subsec. (a)(1)(B)(xi). [Pub. L. 96–374, § 1321(a)(2)][/us/pl/96/374/s1321/a/2], added cl. (xi).
+    Subsec. (a)(1)(B)(xi). [Pub. L. 96–374][/us/pl/96/374], § 1321(a)(2), added cl. (xi).
 
-    Subsec. (h)(3). [Pub. L. 96–374, § 1321(b)][/us/pl/96/374/s1321/b], added par. (3).
+    Subsec. (h)(3). [Pub. L. 96–374][/us/pl/96/374], § 1321(b), added par. (3).
 
-    1978—Subsec. (a). [Pub. L. 95–602, § 118(a)][/us/pl/95/602/s118/a], substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans’ Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
+    1978—Subsec. (a). [Pub. L. 95–602][/us/pl/95/602], § 118(a), substituted provision permitting President to appoint eleven members of Board from general public of whom five are to be handicapped, adding head of the Department of Justice as a Board member, authorizing President to appoint the first chairman, and providing for the term of office, reappointment, and compensation of Board members for provision restricting Board membership to head of Department of Health, Education, and Welfare, Department of Transportation, Department of Housing and Urban Development, Department of Labor, Department of the Interior, Department of Defense, General Services Administration, United States Postal Service, and Veterans’ Administration, appointing Secretary of Health, Education, and Welfare as chairman, and authorizing appointment of a Consumer Advisory Panel, a majority of members of which were to be handicapped, to provide guidance, advice, and recommendations to Board.
 
-    Subsec. (b)(1). [Pub. L. 95–602, § 118(b)(1)][/us/pl/95/602/s118/b/1], substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
+    Subsec. (b)(1). [Pub. L. 95–602][/us/pl/95/602], § 118(b)(1), substituted provision requiring Board to insure compliance with standards of Architectural Barriers Act of 1968, including application to United States Postal Service, and to insure all waivers and modifications of standards are based on findings of fact and are not inconsistent with that Act or this section for provision requiring Board to insure compliance with the standards prescribed by General Services Administration, Department of Defense, and Department of Housing and Urban Development pursuant to Architectural Barriers Act of 1968.
 
-    Subsec. (b)(2). [Pub. L. 95–602, § 118(b)(2)][/us/pl/95/602/s118/b/2], inserted “communication,” before “and attitudinal” and “telecommunication devices,” before “public buildings”.
+    Subsec. (b)(2). [Pub. L. 95–602][/us/pl/95/602], § 118(b)(2), inserted “communication,” before “and attitudinal” and “telecommunication devices,” before “public buildings”.
 
-    Subsec. (b)(7), (8). [Pub. L. 95–602, § 118(b)(3)][/us/pl/95/602/s118/b/3], added pars. (7) and (8).
+    Subsec. (b)(7), (8). [Pub. L. 95–602][/us/pl/95/602], § 118(b)(3), added pars. (7) and (8).
 
-    Subsec. (d). [Pub. L. 95–602, § 118(c)][/us/pl/95/602/s118/c], designated existing provision as par. (1), substituted “public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations” for “or contracts with public or private nonprofit organizations”, “Except as provided in paragraph (3) of subsection (e) of this section, provisions” for “The provisions”, “building or public conveyance or rolling stock found” for “building found”, and “enforced under this section” for “prescribed pursuant to the Acts cited in subsection (b) of this section”, inserted provision permitting a complainant or participant in a proceeding under this subsection to obtain review of a final order pursuant to chapter 7 of title 5, and added pars. (2) and (3).
+    Subsec. (d). [Pub. L. 95–602][/us/pl/95/602], § 118(c), designated existing provision as par. (1), substituted “public or private nonprofit organizations or contracts with private nonprofit or forprofit organizations” for “or contracts with public or private nonprofit organizations”, “Except as provided in paragraph (3) of subsection (e) of this section, provisions” for “The provisions”, “building or public conveyance or rolling stock found” for “building found”, and “enforced under this section” for “prescribed pursuant to the Acts cited in subsection (b) of this section”, inserted provision permitting a complainant or participant in a proceeding under this subsection to obtain review of a final order pursuant to chapter 7 of title 5, and added pars. (2) and (3).
 
-    Subsec. (e). [Pub. L. 95–602, § 118(d)][/us/pl/95/602/s118/d], designated existing provisions as par. (1) and added pars. (2) and (3).
+    Subsec. (e). [Pub. L. 95–602][/us/pl/95/602], § 118(d), designated existing provisions as par. (1) and added pars. (2) and (3).
 
     [Pub. L. 95–251][/us/pl/95/251] substituted “administrative law judges” for “hearing examiners” wherever appearing. Such substitution was made in pars. (2) and (3) as the probable intent of Congress in view of the amendment to subsec. (e) by [section 2(a)(8) of Pub. L. 95–251][/us/pl/95/251/s2/a/8] (although prior in time to the amendment by [Pub. L. 95–602][/us/pl/95/602]) requiring such substitution wherever appearing in text.
 
-    Subsec. (h). [Pub. L. 95–602, § 118(e)][/us/pl/95/602/s118/e], added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
+    Subsec. (h). [Pub. L. 95–602][/us/pl/95/602], § 118(e), added subsec. (h). Former subsec. (h), which authorized appropriations for carrying out duties and functions of the Board of $1,000,000 for each of fiscal years ending June 30, 1974, and June 30, 1975, $1,500,000 for fiscal year ending June 30, 1976, and $1,500,000 for each of fiscal years ending Sept. 30, 1977 and Sept. 30, 1978, was struck out.
 
-    Subsec. (i). [Pub. L. 95–602, § 118(e)][/us/pl/95/602/s118/e], added subsec. (i).
+    Subsec. (i). [Pub. L. 95–602][/us/pl/95/602], § 118(e), added subsec. (i).
 
-    1976—Subsec. (h). [Pub. L. 94–230, § 10][/us/pl/94/230/s10], authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1977.
+    1976—Subsec. (h). [Pub. L. 94–230][/us/pl/94/230], § 10, authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1977.
 
-    [Pub. L. 94–230, § 11(b)(13)][/us/pl/94/230/s11/b/13], authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1978.
+    [Pub. L. 94–230][/us/pl/94/230], § 11(b)(13), authorized appropriation of $1,500,000 for fiscal year ending Sept. 30, 1978.
 
-    1974—Subsec. (a). [Pub. L. 93–516, § 111(n)][/us/pl/93/516/s111/n], redesignated cls. (6), (7), and (8), as cls. (7), (8), and (9), added cl. (6), and following designated clauses, inserted provisions that Secretary of Health, Education, and Welfare shall be Chairman of Board, and that Board shall appoint, upon recommendation of Secretary, a Consumer Advisory Panel, a majority of members of which shall be handicapped individuals, to provide guidance, advice, and recommendations to Board in carrying out its functions.
+    1974—Subsec. (a). [Pub. L. 93–516][/us/pl/93/516], § 111(n), redesignated cls. (6), (7), and (8), as cls. (7), (8), and (9), added cl. (6), and following designated clauses, inserted provisions that Secretary of Health, Education, and Welfare shall be Chairman of Board, and that Board shall appoint, upon recommendation of Secretary, a Consumer Advisory Panel, a majority of members of which shall be handicapped individuals, to provide guidance, advice, and recommendations to Board in carrying out its functions.
 
-    [Pub. L. 93–651, § 111(n)][/us/pl/93/651/s111/n], amended subsec. (a) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
+    [Pub. L. 93–651][/us/pl/93/651], § 111(n), amended subsec. (a) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
 
-    Subsec. (d). [Pub. L. 93–516, § 111][/us/pl/93/516/s111](o), substituted “this chapter, the Board shall, directly or through grants to or contracts with public or private nonprofit organizations, carrying out its functions under subsections (b) and (c) of this section, and shall conduct” for “this section, the Board shall conduct”, and inserted provisions that any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality, and that an order of compliance may include the withholding or suspension of Federal funds with respect to any building found not to be in compliance with standards prescribed pursuant to the Acts referred to in subsec. (b) of this section.
+    Subsec. (d). [Pub. L. 93–516][/us/pl/93/516], § 111(o), substituted “this chapter, the Board shall, directly or through grants to or contracts with public or private nonprofit organizations, carrying out its functions under subsections (b) and (c) of this section, and shall conduct” for “this section, the Board shall conduct”, and inserted provisions that any such order affecting any Federal department, agency, or instrumentality of the United States shall be final and binding on such department, agency, or instrumentality, and that an order of compliance may include the withholding or suspension of Federal funds with respect to any building found not to be in compliance with standards prescribed pursuant to the Acts referred to in subsec. (b) of this section.
 
     [Pub. L. 93–651][/us/pl/93/651], 111(o), amended subsec. (d) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
 
-    Subsec. (e). [Pub. L. 93–516, § 111(p)][/us/pl/93/516/s111/p], inserted provisions relating to appointment of an executive director and other professional and clerical personnel.
+    Subsec. (e). [Pub. L. 93–516][/us/pl/93/516], § 111(p), inserted provisions relating to appointment of an executive director and other professional and clerical personnel.
 
-    [Pub. L. 93–651, § 111(p)][/us/pl/93/651/s111/p], amended subsec. (e) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
+    [Pub. L. 93–651][/us/pl/93/651], § 111(p), amended subsec. (e) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
 
-    Subsec. (g). [Pub. L. 93–516, § 111(q)][/us/pl/93/516/s111/q], substituted “not later than September 30, 1975” for “prior to January 1, 1975”.
+    Subsec. (g). [Pub. L. 93–516][/us/pl/93/516], § 111(q), substituted “not later than September 30, 1975” for “prior to January 1, 1975”.
 
-    [Pub. L. 93–651, § 111(q)][/us/pl/93/651/s111/q], amended subsec. (g) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
+    [Pub. L. 93–651][/us/pl/93/651], § 111(q), amended subsec. (g) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
 
-    Subsec. (h). [Pub. L. 93–516, § 110][/us/pl/93/516/s110], authorized appropriation of $1,500,000 for fiscal year ending June 30, 1976.
+    Subsec. (h). [Pub. L. 93–516][/us/pl/93/516], § 110, authorized appropriation of $1,500,000 for fiscal year ending June 30, 1976.
 
-    [Pub. L. 93–651, § 110][/us/pl/93/651/s110], amended subsec. (h) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
+    [Pub. L. 93–651][/us/pl/93/651], § 110, amended subsec. (h) in exactly the same manner as it was amended by [Pub. L. 93–516][/us/pl/93/516].
 
  __Effective Date of 1980 Amendment__ 
 
@@ -377,7 +377,7 @@
 
  __Extension of Vocational Rehabilitation Programs Through Fiscal Year Ending__  __September 30, 1978__  __; Effective Date of 1976 Amendment__ 
 
-    [Pub. L. 94–230, § 11(a)][/us/pl/94/230/s11/a], (b)(1), (c), Mar. 15, 1976, [90 Stat. 213][/us/stat/90/213], 214, extended certain program authorizations in the absence of congressional action, provided that the amendments made by [section 11(b) of Pub. L. 94–230][/us/pl/94/230/s11/b] would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
+    [Pub. L. 94–230][/us/pl/94/230], § 11(a), (b)(1), (c), Mar. 15, 1976, [90 Stat. 213][/us/stat/90/213], 214, extended certain program authorizations in the absence of congressional action, provided that the amendments made by [section 11(b) of Pub. L. 94–230][/us/pl/94/230/s11/b] would take effect at the close of Apr. 15, 1977, unless Congress passed legislation preempting those amendments, and provided that Congress would not be deemed to have passed such legislation unless it became law.
 
  __Termination of Advisory Panels__ 
 
@@ -385,7 +385,7 @@
 
  __Accessibility of Information on Prescription Drug Container Labels by Visually Impaired and Blind Consumers__ 
 
-[Pub. L. 112–144, title IX, § 904][/us/pl/112/144/s904], July 9, 2012, [126 Stat. 1090][/us/stat/126/1090], provided that:
+[Pub. L. 112–144, title IX][/us/pl/112/144/tIX], § 904, July 9, 2012, [126 Stat. 1090][/us/stat/126/1090], provided that:
 
 >     “(a) __Establishment of Working Group.—__ 
 
@@ -494,41 +494,41 @@
 [/us/usc/t28/s518/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs518%2Fa
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/usc/t5/s5382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5382
-[/us/pl/93/112/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs502
+[/us/pl/93/112/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtV
 [/us/stat/87/391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F391
-[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
+[/us/pl/93/516/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtI
 [/us/stat/88/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1619
-[/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
+[/us/pl/93/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtI
 [/us/stat/89/2-4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-4
 [/us/pl/94/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230
 [/us/stat/90/212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F212
-[/us/pl/95/251/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F8
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F183
-[/us/pl/95/602/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2979
-[/us/pl/96/374/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1321
+[/us/pl/96/374/tXIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2FtXIII
 [/us/stat/94/1499]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1499
-[/us/pl/98/221/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs151
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F28
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s206/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3311
-[/us/pl/102/52/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52%2Fs6
+[/us/pl/102/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52
 [/us/stat/105/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F262
-[/us/pl/102/54/s13/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fk%2F1%2FA
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F276
-[/us/pl/102/569/s102/p/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F30
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4360
-[/us/pl/103/73/s112/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs112%2Fb
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F727
-[/us/pl/105/220/s408/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1202
-[/us/pl/105/394/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs203%2Fa
+[/us/pl/105/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2FtII
 [/us/stat/112/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3653
-[/us/pl/108/364/s3/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs3%2Fb%2F3
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1737
-[/us/pl/113/128/s456/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs456%2Fb
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1675
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/pl/90/480]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F480
@@ -542,106 +542,106 @@
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
-[/us/pl/105/220/s408/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FA
-[/us/pl/105/220/s408/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FB%2Fi
-[/us/pl/105/220/s408/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FB%2Fii
-[/us/pl/105/220/s408/a/2/B/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FB%2Fiii
-[/us/pl/105/394/s203/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs203%2Fa%2F2
-[/us/pl/105/220/s408/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FC
-[/us/pl/105/394/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs203%2Fa%2F1
-[/us/pl/105/394/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs203%2Fa%2F1
-[/us/pl/105/394/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs203%2Fa%2F1
-[/us/pl/105/220/s408/a/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FD
-[/us/pl/105/394/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs203%2Fa%2F1
-[/us/pl/105/220/s408/a/2/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FE
-[/us/pl/105/394/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs203%2Fa%2F1
-[/us/pl/105/220/s408/a/2/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs408%2Fa%2F2%2FF
-[/us/pl/105/394/s203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs203%2Fa%2F1
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
 [/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
-[/us/pl/102/569/s504/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fa%2F2
-[/us/pl/102/569/s504/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fa%2F1
-[/us/pl/102/569/s504/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fb%2F1%2FA
-[/us/pl/102/569/s102/p/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F30
-[/us/pl/102/569/s504/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fb%2F1%2FB
-[/us/pl/102/569/s504/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fb%2F2
-[/us/pl/102/569/s504/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fb%2F3
-[/us/pl/102/569/s504/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fb%2F4
-[/us/pl/102/569/s504/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fc
-[/us/pl/102/569/s102/p/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F30
-[/us/pl/102/569/s504/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fd%2F1
-[/us/pl/102/569/s504/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fd%2F2
-[/us/pl/102/569/s504/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fe
-[/us/pl/102/569/s504/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Ff
-[/us/pl/102/569/s102/p/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F30
-[/us/pl/102/569/s504/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fg%2F1
-[/us/pl/102/569/s102/p/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F30
-[/us/pl/102/569/s504/g/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fg%2F4
-[/us/pl/102/569/s504/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs504%2Fh
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/pl/102/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52
-[/us/pl/100/630/s206/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb%2F1
-[/us/pl/100/630/s206/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb%2F2
-[/us/pl/100/630/s206/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb%2F3
-[/us/pl/100/630/s206/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb%2F4
-[/us/pl/100/630/s206/b/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb%2F8
-[/us/pl/100/630/s206/b/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb%2F9
-[/us/pl/100/630/s206/b/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb%2F10
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/usc/t45/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs5332
-[/us/pl/100/630/s206/b/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fb%2F11
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
 [/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
-[/us/pl/99/506/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs601%2Fa%2F1
-[/us/pl/99/506/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs601%2Fa%2F3
-[/us/pl/99/506/s601/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs601%2Fa%2F4
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
-[/us/pl/99/506/s1002/e/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1002%2Fe%2F2%2FB
-[/us/pl/99/506/s1002/e/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1002%2Fe%2F2%2FC
-[/us/pl/99/506/s1002/e/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1002%2Fe%2F2%2FD
-[/us/pl/99/506/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs601%2Fb
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
-[/us/pl/99/506/s601/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs601%2Fc
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
 [/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
-[/us/pl/96/374/s1321/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1321%2Fa%2F1
-[/us/pl/96/374/s1321/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1321%2Fa%2F2
-[/us/pl/96/374/s1321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1321%2Fb
-[/us/pl/95/602/s118/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118%2Fa
-[/us/pl/95/602/s118/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118%2Fb%2F1
-[/us/pl/95/602/s118/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118%2Fb%2F2
-[/us/pl/95/602/s118/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118%2Fb%2F3
-[/us/pl/95/602/s118/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118%2Fc
-[/us/pl/95/602/s118/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118%2Fd
+[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
 [/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/pl/95/251/s2/a/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs2%2Fa%2F8
 [/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
-[/us/pl/95/602/s118/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118%2Fe
-[/us/pl/95/602/s118/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs118%2Fe
-[/us/pl/94/230/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230%2Fs10
-[/us/pl/94/230/s11/b/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230%2Fs11%2Fb%2F13
-[/us/pl/93/516/s111/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs111%2Fn
-[/us/pl/93/651/s111/n]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs111%2Fn
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/94/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230
+[/us/pl/94/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
-[/us/pl/93/516/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs111
 [/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
-[/us/pl/93/516/s111/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs111%2Fp
-[/us/pl/93/651/s111/p]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs111%2Fp
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
-[/us/pl/93/516/s111/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs111%2Fq
-[/us/pl/93/651/s111/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs111%2Fq
+[/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
-[/us/pl/93/516/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs110
-[/us/pl/93/651/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs110
+[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
+[/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
+[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
+[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
+[/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
+[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
+[/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
+[/us/pl/93/651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651
 [/us/pl/93/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516
 [/us/pl/96/374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374
 [/us/pl/96/374/s1393/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F374%2Fs1393%2Fa
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
-[/us/pl/94/230/s11/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230%2Fs11%2Fa
+[/us/pl/94/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230
 [/us/stat/90/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F213
 [/us/pl/94/230/s11/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230%2Fs11%2Fb
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
-[/us/pl/112/144/s904]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs904
+[/us/pl/112/144/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2FtIX
 [/us/stat/126/1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1090
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t21/s353/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs353%2Fb%2F1

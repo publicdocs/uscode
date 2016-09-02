@@ -495,7 +495,7 @@
 
                 The term “registered representative” of another entity means a person described in section 3(a)(18) of the Securities Exchange Act of 1934 ([15 U.S.C. 78c(a)(18)][/us/usc/t15/s78c/a/18]) (substituting the entity for the broker or dealer referred to in such section) or a person described in section 202(a)(17) of the Investment Advisers Act of 1940 ([15 U.S.C. 80b–2(a)(17)][/us/usc/t15/s80b–2/a/17]) (substituting the entity for the investment adviser referred to in such section).
 
-([Pub. L. 93–406, title I, § 408][/us/pl/93/406/s408], Sept. 2, 1974, [88 Stat. 883][/us/stat/88/883]; [Pub. L. 96–364, title III, § 308][/us/pl/96/364/s308], Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 97–354, § 5(a)(43)][/us/pl/97/354/s5/a/43], Oct. 19, 1982, [96 Stat. 1697][/us/stat/96/1697]; [Pub. L. 99–514, title XI, § 1114(b)(15)(B)][/us/pl/99/514/s1114/b/15/B], title XVIII, § 1898(i)(1), Oct. 22, 1986, [100 Stat. 2452][/us/stat/100/2452], 2957; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2445, 2450; [Pub. L. 101–508, title XII, § 12012(b)][/us/pl/101/508/s12012/b], Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 103–465, title VII, § 731(c)(4)(C)][/us/pl/103/465/s731/c/4/C], Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I, § 1704(n)(2)][/us/pl/104/188/s1704/n/2], Aug. 20, 1996, [110 Stat. 1886][/us/stat/110/1886]; [Pub. L. 105–34, title XV, § 1506(b)(2)][/us/pl/105/34/s1506/b/2], Aug. 5, 1997, [111 Stat. 1066][/us/stat/111/1066]; [Pub. L. 106–170, title V, § 535(a)(2)(C)][/us/pl/106/170/s535/a/2/C], Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–16, title VI, § 612(b)][/us/pl/107/16/s612/b], June 7, 2001, [115 Stat. 100][/us/stat/115/100]; [Pub. L. 108–218, title II, § 204(b)(3)][/us/pl/108/218/s204/b/3], Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII, § 709(a)(3)][/us/pl/108/357/s709/a/3], Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I, § 108(a)(11)][/us/pl/109/280/s108/a/11], formerly § 107(a)(11), title VI, §§ 601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 952, 953, 967–969, 971, 972, 975, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I, § 106(a)(1)][/us/pl/110/458/s106/a/1], (b)(1), Dec. 23, 2008, [122 Stat. 5106][/us/stat/122/5106]; [Pub. L. 112–141, div. D, title II, § 40241(b)][/us/pl/112/141/s40241/b], July 6, 2012, [126 Stat. 859][/us/stat/126/859]; [Pub. L. 114–41, title II, § 2007(b)][/us/pl/114/41/s2007/b], July 31, 2015, [129 Stat. 459][/us/stat/129/459].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 408, Sept. 2, 1974, [88 Stat. 883][/us/stat/88/883]; [Pub. L. 96–364, title III][/us/pl/96/364/tIII], § 308, Sept. 26, 1980, [94 Stat. 1295][/us/stat/94/1295]; [Pub. L. 97–354][/us/pl/97/354], § 5(a)(43), Oct. 19, 1982, [96 Stat. 1697][/us/stat/96/1697]; [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1114(b)(15)(B), title XVIII, § 1898(i)(1), Oct. 22, 1986, [100 Stat. 2452][/us/stat/100/2452], 2957; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7881(l)(5), 7891, 7894(e)(4)(A), Dec. 19, 1989, [103 Stat. 2443][/us/stat/103/2443], 2445, 2450; [Pub. L. 101–508, title XII][/us/pl/101/508/tXII], § 12012(b), Nov. 5, 1990, [104 Stat. 1388–571][/us/stat/104/1388-571]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 731(c)(4)(C), Dec. 8, 1994, [108 Stat. 5004][/us/stat/108/5004]; [Pub. L. 104–188, title I][/us/pl/104/188/tI], § 1704(n)(2), Aug. 20, 1996, [110 Stat. 1886][/us/stat/110/1886]; [Pub. L. 105–34, title XV][/us/pl/105/34/tXV], § 1506(b)(2), Aug. 5, 1997, [111 Stat. 1066][/us/stat/111/1066]; [Pub. L. 106–170, title V][/us/pl/106/170/tV], § 535(a)(2)(C), Dec. 17, 1999, [113 Stat. 1934][/us/stat/113/1934]; [Pub. L. 107–16, title VI][/us/pl/107/16/tVI], § 612(b), June 7, 2001, [115 Stat. 100][/us/stat/115/100]; [Pub. L. 108–218, title II][/us/pl/108/218/tII], § 204(b)(3), Apr. 10, 2004, [118 Stat. 609][/us/stat/118/609]; [Pub. L. 108–357, title VII][/us/pl/108/357/tVII], § 709(a)(3), Oct. 22, 2004, [118 Stat. 1551][/us/stat/118/1551]; [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 108(a)(11), formerly § 107(a)(11), title VI, §§ 601(a)(1), (2), 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), 612(a), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 952, 953, 967–969, 971, 972, 975, renumbered [Pub. L. 111–192, title II][/us/pl/111/192/tII], § 202(a), June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 106(a)(1), (b)(1), Dec. 23, 2008, [122 Stat. 5106][/us/stat/122/5106]; [Pub. L. 112–141, div. D, title II][/us/pl/112/141/dD/tII], § 40241(b), July 6, 2012, [126 Stat. 859][/us/stat/126/859]; [Pub. L. 114–41, title II][/us/pl/114/41/tII], § 2007(b), July 31, 2015, [129 Stat. 459][/us/stat/129/459].)
 
  __References in Text__ 
 
@@ -511,23 +511,23 @@
 
     2012—Subsec. (b)(13). [Pub. L. 112–141][/us/pl/112/141] substituted “January 1, 2022” for “January 1, 2014” and “July 6, 2012” for “August 17, 2006”.
 
-    2008—Subsec. (b)(18)(C). [Pub. L. 110–458, § 106(b)(1)][/us/pl/110/458/s106/b/1], struck out “or less” after “deviate by more”.
+    2008—Subsec. (b)(18)(C). [Pub. L. 110–458][/us/pl/110/458], § 106(b)(1), struck out “or less” after “deviate by more”.
 
-    Subsec. (g)(3)(D)(ii). [Pub. L. 110–458, § 106(a)(1)(A)][/us/pl/110/458/s106/a/1/A], substituted “subsection (b)(14)(A)(ii)” for “subsection (b)(14)(B)(ii)”.
+    Subsec. (g)(3)(D)(ii). [Pub. L. 110–458][/us/pl/110/458], § 106(a)(1)(A), substituted “subsection (b)(14)(A)(ii)” for “subsection (b)(14)(B)(ii)”.
 
-    Subsec. (g)(6)(A)(i). [Pub. L. 110–458, § 106(a)(1)(B)][/us/pl/110/458/s106/a/1/B], substituted “fiduciary adviser” for “financial adviser”.
+    Subsec. (g)(6)(A)(i). [Pub. L. 110–458][/us/pl/110/458], § 106(a)(1)(B), substituted “fiduciary adviser” for “financial adviser”.
 
-    Subsec. (g)(11)(A). [Pub. L. 110–458, § 106(a)(1)(C)][/us/pl/110/458/s106/a/1/C], substituted “a participant” for “the participant” in introductory and concluding provisions and “subsection (b)(4)” for “[section 1108(b)(4) of this title][/us/usc/t29/s1108/b/4]” in cl. (ii).
+    Subsec. (g)(11)(A). [Pub. L. 110–458][/us/pl/110/458], § 106(a)(1)(C), substituted “a participant” for “the participant” in introductory and concluding provisions and “subsection (b)(4)” for “[section 1108(b)(4) of this title][/us/usc/t29/s1108/b/4]” in cl. (ii).
 
-    2006—Subsec. (b)(13). [Pub. L. 109–280, § 108(a)(11)][/us/pl/109/280/s108/a/11], formerly § 107(a)(11), as renumbered by [Pub. L. 111–192][/us/pl/111/192], substituted “August 17, 2006” for “October 22, 2004”.
+    2006—Subsec. (b)(13). [Pub. L. 109–280][/us/pl/109/280], § 108(a)(11), formerly § 107(a)(11), as renumbered by [Pub. L. 111–192][/us/pl/111/192], substituted “August 17, 2006” for “October 22, 2004”.
 
-    Subsec. (b)(14). [Pub. L. 109–280, § 601(a)(1)][/us/pl/109/280/s601/a/1], added par. (14).
+    Subsec. (b)(14). [Pub. L. 109–280][/us/pl/109/280], § 601(a)(1), added par. (14).
 
-    Subsec. (b)(15) to (19). [Pub. L. 109–280, § 611(a)(1)][/us/pl/109/280/s611/a/1], (c)(1), (d)(1), (e)(1), (g)(1), added pars. (15) to (19).
+    Subsec. (b)(15) to (19). [Pub. L. 109–280][/us/pl/109/280], § 611(a)(1), (c)(1), (d)(1), (e)(1), (g)(1), added pars. (15) to (19).
 
-    Subsec. (b)(20). [Pub. L. 109–280, § 612(a)][/us/pl/109/280/s612/a], added par. (20).
+    Subsec. (b)(20). [Pub. L. 109–280][/us/pl/109/280], § 612(a), added par. (20).
 
-    Subsec. (g). [Pub. L. 109–280, § 601(a)(2)][/us/pl/109/280/s601/a/2], added subsec. (g).
+    Subsec. (g). [Pub. L. 109–280][/us/pl/109/280], § 601(a)(2), added subsec. (g).
 
     2004—Subsec. (b)(13). [Pub. L. 108–357][/us/pl/108/357] substituted “October 22, 2004” for “April 10, 2004”.
 
@@ -545,23 +545,23 @@
 
     1990—Subsec. (b)(13). [Pub. L. 101–508][/us/pl/101/508] added par. (13).
 
-    1989—Subsec. (b)(12). [Pub. L. 101–239, § 7881][/us/pl/101/239/s7881](l)(5), added par. (12).
+    1989—Subsec. (b)(12). [Pub. L. 101–239][/us/pl/101/239], § 7881(l)(5), added par. (12).
 
-    Subsec. (d). [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], in last sentence, substituted “section 401(c)(3) of the Internal Revenue Code of 1986” for “section 401(c)(3) of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “[section 401(c)(3) of title 26][/us/usc/t26/s401/c/3]” thus requiring no change in text.
+    Subsec. (d). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), in last sentence, substituted “section 401(c)(3) of the Internal Revenue Code of 1986” for “section 401(c)(3) of the Internal Revenue Code of 1954”, which for purposes of codification was translated as “[section 401(c)(3) of title 26][/us/usc/t26/s401/c/3]” thus requiring no change in text.
 
-    [Pub. L. 101–239, § 7891(a)(2)][/us/pl/101/239/s7891/a/2], in last sentence, substituted “section 408 of the Internal Revenue Code of 1986” for “section 408 of the Internal Revenue Code of 1954” and “section 408(c) of the Internal Revenue Code of 1986” for “section 408(c) of such Code” which for purposes of codification were translated as “[section 408 of title 26][/us/usc/t26/s408]” and “[section 408(c) of title 26][/us/usc/t26/s408/c]”, respectively, thus requiring no change in text.
+    [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(2), in last sentence, substituted “section 408 of the Internal Revenue Code of 1986” for “section 408 of the Internal Revenue Code of 1954” and “section 408(c) of the Internal Revenue Code of 1986” for “section 408(c) of such Code” which for purposes of codification were translated as “[section 408 of title 26][/us/usc/t26/s408]” and “[section 408(c) of title 26][/us/usc/t26/s408/c]”, respectively, thus requiring no change in text.
 
-    [Pub. L. 101–239, § 7894(e)(4)(A)][/us/pl/101/239/s7894/e/4/A], in last sentence, substituted “individual retirement account or individual retirement annuity described in [section 408 of title 26][/us/usc/t26/s408] or a retirement bond described in [section 409 of title 26][/us/usc/t26/s409] (as effective for obligations issued before January 1, 1984)” for “individual retirement account, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409 of title 26)” and “section 408(c) of such Code” for “section 408(c) of such code”, which for purposes of codification was translated as “[section 408(c) of title 26][/us/usc/t26/s408/c]” thus requiring no change in text.
+    [Pub. L. 101–239][/us/pl/101/239], § 7894(e)(4)(A), in last sentence, substituted “individual retirement account or individual retirement annuity described in [section 408 of title 26][/us/usc/t26/s408] or a retirement bond described in [section 409 of title 26][/us/usc/t26/s409] (as effective for obligations issued before January 1, 1984)” for “individual retirement account, individual retirement annuity, or an individual retirement bond (as defined in section 408 or 409 of title 26)” and “section 408(c) of such Code” for “section 408(c) of such code”, which for purposes of codification was translated as “[section 408(c) of title 26][/us/usc/t26/s408/c]” thus requiring no change in text.
 
-    1986—Subsec. (b)(1)(B). [Pub. L. 99–514, § 1114(b)(15)(B)][/us/pl/99/514/s1114/b/15/B], substituted “highly compensated employees (within the meaning of [section 414(q) of title 26][/us/usc/t26/s414/q])” for “highly compensated employees, officers, or shareholders”.
+    1986—Subsec. (b)(1)(B). [Pub. L. 99–514][/us/pl/99/514], § 1114(b)(15)(B), substituted “highly compensated employees (within the meaning of [section 414(q) of title 26][/us/usc/t26/s414/q])” for “highly compensated employees, officers, or shareholders”.
 
-    Subsec. (d). [Pub. L. 99–514, § 1898(i)(1)][/us/pl/99/514/s1898/i/1], struck out “(a),” before “(b),” in introductory provisions.
+    Subsec. (d). [Pub. L. 99–514][/us/pl/99/514], § 1898(i)(1), struck out “(a),” before “(b),” in introductory provisions.
 
     1982—Subsec. (d). [Pub. L. 97–354][/us/pl/97/354] substituted “[section 1379 of title 26][/us/usc/t26/s1379] as in effect on the day before the date of the enactment of the Subchapter S Revision Act of 1982” for “[section 1379 of title 26][/us/usc/t26/s1379]”.
 
-    1980—Subsec. (b)(10), (11). [Pub. L. 96–364, § 308(a)][/us/pl/96/364/s308/a], added pars. (10) and (11).
+    1980—Subsec. (b)(10), (11). [Pub. L. 96–364][/us/pl/96/364], § 308(a), added pars. (10) and (11).
 
-    Subsec. (f). [Pub. L. 96–364, § 308(b)][/us/pl/96/364/s308/b], added subsec. (f).
+    Subsec. (f). [Pub. L. 96–364][/us/pl/96/364], § 308(b), added subsec. (f).
 
  __Effective Date of 2008 Amendment__ 
 
@@ -571,7 +571,7 @@
 
     Amendment by [section 108(a)(11) of Pub. L. 109–280][/us/pl/109/280/s108/a/11] applicable to plan years beginning after 2007, see [section 108(e) of Pub. L. 109–280][/us/pl/109/280/s108/e], set out as a note under [section 1021 of this title][/us/usc/t29/s1021].
 
-[Pub. L. 109–280, title VI, § 601(a)(3)][/us/pl/109/280/s601/a/3], Aug. 17, 2006, [120 Stat. 958][/us/stat/120/958], provided that: 
+[Pub. L. 109–280, title VI][/us/pl/109/280/tVI], § 601(a)(3), Aug. 17, 2006, [120 Stat. 958][/us/stat/120/958], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply with respect to advice referred to in section 3(21)(A)(ii) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1002(21)(A)(ii)][/us/usc/t29/s1002/21/A/ii]\] provided after December 31, 2006.”
 
@@ -627,7 +627,7 @@
 
  __Regulations__ 
 
-[Pub. L. 109–280, title VI, § 611(g)(3)][/us/pl/109/280/s611/g/3], Aug. 17, 2006, [120 Stat. 975][/us/stat/120/975], provided that: 
+[Pub. L. 109–280, title VI][/us/pl/109/280/tVI], § 611(g)(3), Aug. 17, 2006, [120 Stat. 975][/us/stat/120/975], provided that: 
 
 > “No later than 180 days after the date of the enactment of this Act \[Aug. 17, 2006\], the Secretary of Labor, after consultation with the Securities and Exchange Commission, shall issue regulations regarding the content of policies and procedures required to be adopted by an investment manager under section 408(b)(19) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1108(b)(19)][/us/usc/t29/s1108/b/19]\].”
 
@@ -704,41 +704,41 @@
 [/us/usc/t15/s80a–2/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80a%E2%80%932%2Fa%2F3
 [/us/usc/t15/s78c/a/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F18
 [/us/usc/t15/s80b–2/a/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs80b%E2%80%932%2Fa%2F17
-[/us/pl/93/406/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs408
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/883]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F883
-[/us/pl/96/364/s308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs308
+[/us/pl/96/364/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIII
 [/us/stat/94/1295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1295
-[/us/pl/97/354/s5/a/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354%2Fs5%2Fa%2F43
+[/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/stat/96/1697]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1697
-[/us/pl/99/514/s1114/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fb%2F15%2FB
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2452
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2443
-[/us/pl/101/508/s12012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs12012%2Fb
+[/us/pl/101/508/tXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtXII
 [/us/stat/104/1388-571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-571
-[/us/pl/103/465/s731/c/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs731%2Fc%2F4%2FC
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5004
-[/us/pl/104/188/s1704/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs1704%2Fn%2F2
+[/us/pl/104/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2FtI
 [/us/stat/110/1886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1886
-[/us/pl/105/34/s1506/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2Fs1506%2Fb%2F2
+[/us/pl/105/34/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F34%2FtXV
 [/us/stat/111/1066]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F1066
-[/us/pl/106/170/s535/a/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2Fs535%2Fa%2F2%2FC
+[/us/pl/106/170/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F170%2FtV
 [/us/stat/113/1934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F1934
-[/us/pl/107/16/s612/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2Fs612%2Fb
+[/us/pl/107/16/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16%2FtVI
 [/us/stat/115/100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F100
-[/us/pl/108/218/s204/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2Fs204%2Fb%2F3
+[/us/pl/108/218/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218%2FtII
 [/us/stat/118/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F609
-[/us/pl/108/357/s709/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2Fs709%2Fa%2F3
+[/us/pl/108/357/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVII
 [/us/stat/118/1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1551
-[/us/pl/109/280/s108/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fa%2F11
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F819
-[/us/pl/111/192/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fa
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
-[/us/pl/110/458/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs106%2Fa%2F1
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5106
-[/us/pl/112/141/s40241/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs40241%2Fb
+[/us/pl/112/141/dD/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2FdD%2FtII
 [/us/stat/126/859]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F859
-[/us/pl/114/41/s2007/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2Fs2007%2Fb
+[/us/pl/114/41/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41%2FtII
 [/us/stat/129/459]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F459
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
@@ -750,17 +750,17 @@
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/114/41]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F41
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
-[/us/pl/110/458/s106/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs106%2Fb%2F1
-[/us/pl/110/458/s106/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs106%2Fa%2F1%2FA
-[/us/pl/110/458/s106/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs106%2Fa%2F1%2FB
-[/us/pl/110/458/s106/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs106%2Fa%2F1%2FC
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
+[/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/usc/t29/s1108/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1108%2Fb%2F4
-[/us/pl/109/280/s108/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fa%2F11
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
-[/us/pl/109/280/s601/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs601%2Fa%2F1
-[/us/pl/109/280/s611/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs611%2Fa%2F1
-[/us/pl/109/280/s612/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs612%2Fa
-[/us/pl/109/280/s601/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs601%2Fa%2F2
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/108/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357
 [/us/pl/108/218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F218
 [/us/pl/107/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F16
@@ -770,24 +770,24 @@
 [/us/usc/t26/s414/u/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414%2Fu%2F4
 [/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
-[/us/pl/101/239/s7881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s401/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401%2Fc%2F3
-[/us/pl/101/239/s7891/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408
 [/us/usc/t26/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408%2Fc
-[/us/pl/101/239/s7894/e/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fe%2F4%2FA
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s408]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
 [/us/usc/t26/s408/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs408%2Fc
-[/us/pl/99/514/s1114/b/15/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114%2Fb%2F15%2FB
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/usc/t26/s414/q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs414%2Fq
-[/us/pl/99/514/s1898/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1898%2Fi%2F1
+[/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/97/354]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F354
 [/us/usc/t26/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1379
 [/us/usc/t26/s1379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1379
-[/us/pl/96/364/s308/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs308%2Fa
-[/us/pl/96/364/s308/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs308%2Fb
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/110/458/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs112
@@ -795,7 +795,7 @@
 [/us/pl/109/280/s108/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fa%2F11
 [/us/pl/109/280/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fe
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
-[/us/pl/109/280/s601/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs601%2Fa%2F3
+[/us/pl/109/280/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVI
 [/us/stat/120/958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F958
 [/us/usc/t29/s1002/21/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F21%2FA%2Fii
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
@@ -839,7 +839,7 @@
 [/us/usc/t26/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1361
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
-[/us/pl/109/280/s611/g/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs611%2Fg%2F3
+[/us/pl/109/280/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtVI
 [/us/stat/120/975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F975
 [/us/usc/t29/s1108/b/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1108%2Fb%2F19
 [/us/pl/99/514/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1114

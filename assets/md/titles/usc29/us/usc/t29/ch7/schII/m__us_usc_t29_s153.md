@@ -31,7 +31,7 @@
 
         There shall be a General Counsel of the Board who shall be appointed by the President, by and with the advice and consent of the Senate, for a term of four years. The General Counsel of the Board shall exercise general supervision over all attorneys employed by the Board (other than administrative law judges and legal assistants to Board members) and over the officers and employees in the regional offices. He shall have final authority, on behalf of the Board, in respect of the investigation of charges and issuance of complaints under [section 160 of this title][/us/usc/t29/s160], and in respect of the prosecution of such complaints before the Board, and shall have such other duties as the Board may prescribe or as may be provided by law. In case of a vacancy in the office of the General Counsel the President is authorized to designate the officer or employee who shall act as General Counsel during such vacancy, but no person or persons so designated shall so act (1) for more than forty days when the Congress is in session unless a nomination to fill such vacancy shall have been submitted to the Senate, or (2) after the adjournment sine die of the session of the Senate in which such nomination was submitted.
 
-([July 5, 1935, ch. 372, § 3][/us/act/1935-07-05/ch372/s3], [49 Stat. 451][/us/stat/49/451]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 139][/us/stat/61/139]; [Pub. L. 86–257, title VII][/us/pl/86/257], §§ 701(b), 703, Sept. 14, 1959, [73 Stat. 542][/us/stat/73/542]; [Pub. L. 93–608, § 3(3)][/us/pl/93/608/s3/3], Jan. 2, 1975, [88 Stat. 1972][/us/stat/88/1972]; [Pub. L. 95–251, § 3][/us/pl/95/251/s3], Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184]; [Pub. L. 97–375, title II, § 213][/us/pl/97/375/s213], Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 3, [49 Stat. 451][/us/stat/49/451]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 139][/us/stat/61/139]; [Pub. L. 86–257, title VII][/us/pl/86/257/tVII], §§ 701(b), 703, Sept. 14, 1959, [73 Stat. 542][/us/stat/73/542]; [Pub. L. 93–608][/us/pl/93/608], § 3(3), Jan. 2, 1975, [88 Stat. 1972][/us/stat/88/1972]; [Pub. L. 95–251][/us/pl/95/251], § 3, Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184]; [Pub. L. 97–375, title II][/us/pl/97/375/tII], § 213, Dec. 21, 1982, [96 Stat. 1826][/us/stat/96/1826].)
 
  __References in Text__ 
 
@@ -47,15 +47,15 @@
 
     1975—Subsec. (c). [Pub. L. 93–608][/us/pl/93/608] struck out requirement that report contain the names, salaries, and duties of all employees and officers employed or supervised by the Board.
 
-    1959—Subsec. (b). [Pub. L. 86–257, § 701(b)][/us/pl/86/257/s701/b], authorized the Board to delegate to its regional directors its powers under [section 159 of this title][/us/usc/t29/s159] to determine the unit appropriate for the purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under section 159(c) or 159(e) of this title and certify the results thereof.
+    1959—Subsec. (b). [Pub. L. 86–257][/us/pl/86/257], § 701(b), authorized the Board to delegate to its regional directors its powers under [section 159 of this title][/us/usc/t29/s159] to determine the unit appropriate for the purpose of collective bargaining, to investigate and provide for hearings, and determine whether a question of representation exists, and to direct an election or take a secret ballot under section 159(c) or 159(e) of this title and certify the results thereof.
 
-    Subsec. (d). [Pub. L. 86–257, § 703][/us/pl/86/257/s703], authorized the President to designate the officer or employee who shall act as General Counsel in the case of a vacancy in the office of the General Counsel.
+    Subsec. (d). [Pub. L. 86–257][/us/pl/86/257], § 703, authorized the President to designate the officer or employee who shall act as General Counsel in the case of a vacancy in the office of the General Counsel.
 
     1947—Act June 23, 1947, amended section generally by increasing membership from three to five, delegating its powers and duties to a quorum of any three members, and by appointing a General Counsel and outlining his powers and duties.
 
  __Effective Date of 1959 Amendment__ 
 
-[Pub. L. 86–257, title VII, § 707][/us/pl/86/257/s707], Sept. 14, 1959, [73 Stat. 546][/us/stat/73/546], provided that: 
+[Pub. L. 86–257, title VII][/us/pl/86/257/tVII], § 707, Sept. 14, 1959, [73 Stat. 546][/us/stat/73/546], provided that: 
 
 > “The amendments made by this title \[amending this section and sections 158, 159, and 160 of this title\] shall take effect sixty days after the date of the enactment of this Act \[Sept. 14, 1959\] and no provision of this title shall be deemed to make an unfair labor practice, any act which is performed prior to such effective date which did not constitute an unfair labor practice prior thereto.”
 
@@ -74,17 +74,17 @@
 [/us/usc/t29/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159
 [/us/usc/t29/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159
 [/us/usc/t29/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs160
-[/us/act/1935-07-05/ch372/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs3
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F451
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F139
-[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/86/257/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVII
 [/us/stat/73/542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F542
-[/us/pl/93/608/s3/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608%2Fs3%2F3
+[/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
 [/us/stat/88/1972]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1972
-[/us/pl/95/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs3
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F184
-[/us/pl/97/375/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs213
+[/us/pl/97/375/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtII
 [/us/stat/96/1826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1826
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F136
@@ -95,10 +95,10 @@
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/pl/97/375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375
 [/us/pl/93/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F608
-[/us/pl/86/257/s701/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs701%2Fb
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/usc/t29/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159
-[/us/pl/86/257/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs703
-[/us/pl/86/257/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs707
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/86/257/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVII
 [/us/stat/73/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F546
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113

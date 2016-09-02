@@ -39,7 +39,7 @@
 
         No cause of action based on unpaid minimum wages, unpaid overtime compensation, or liquidated damages, under the Fair Labor Standards Act of 1938, as amended \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\], the Walsh-Healey Act, or the Bacon-Davis Act,1 which accrued prior to May 14, 1947, or any interest in such cause of action, shall hereafter be assignable, in whole or in part, to the extent that such cause of action is based on an activity which was not compensable within the meaning of subsections (a) and (b).
 
-([May 14, 1947, ch. 52, § 2][/us/act/1947-05-14/ch52/s2], [61 Stat. 85][/us/stat/61/85].)
+([May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 2, [61 Stat. 85][/us/stat/61/85].)
 
  __References in Text__ 
 
@@ -58,7 +58,7 @@
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/act/1947-05-14/ch52/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs2
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/85]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F85
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

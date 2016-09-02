@@ -17,7 +17,7 @@
 
     The Secretary may issue such rules and regulations as are necessary to carry out this chapter, consistent with the requirements of chapter 5 of title 5.
 
-([Pub. L. 97–470, title V, § 511][/us/pl/97/470/s511], Jan. 14, 1983, [96 Stat. 2598][/us/stat/96/2598].)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 511, Jan. 14, 1983, [96 Stat. 2598][/us/stat/96/2598].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs511
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2598
 
 

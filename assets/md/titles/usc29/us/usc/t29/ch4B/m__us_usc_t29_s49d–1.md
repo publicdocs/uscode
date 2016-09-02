@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act June 16, 1937, ch. 359][/us/act/1937-06-16/ch359], title IV, [50 Stat. 302][/us/stat/50/302], provided for reapportionment of unexpended appropriations.
+    Section, [act June 16, 1937, ch. 359, title IV][/us/act/1937-06-16/ch359/tIV], [50 Stat. 302][/us/stat/50/302], provided for reapportionment of unexpended appropriations.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1937-06-16/ch359]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-16%2Fch359
+[/us/act/1937-06-16/ch359/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-06-16%2Fch359%2FtIV
 [/us/stat/50/302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F302
 
 

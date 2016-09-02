@@ -21,7 +21,7 @@
 
     (2) the closing or layoff constitutes a strike or constitutes a lockout not intended to evade the requirements of this chapter. Nothing in this chapter shall require an employer to serve written notice pursuant to [section 2102(a) of this title][/us/usc/t29/s2102/a] when permanently replacing a person who is deemed to be an economic striker under the National Labor Relations Act \[[29 U.S.C. 151][/us/usc/t29/s151] et seq.\]: Provided, That nothing in this chapter shall be deemed to validate or invalidate any judicial or administrative ruling relating to the hiring of permanent replacements for economic strikers under the National Labor Relations Act.
 
-([Pub. L. 100–379, § 4][/us/pl/100/379/s4], Aug. 4, 1988, [102 Stat. 892][/us/stat/102/892].)
+([Pub. L. 100–379][/us/pl/100/379], § 4, Aug. 4, 1988, [102 Stat. 892][/us/stat/102/892].)
 
  __References in Text__ 
 
@@ -36,7 +36,7 @@
 
 [/us/usc/t29/s2102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2102%2Fa
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
-[/us/pl/100/379/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379%2Fs4
+[/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/892]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F892
 [/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F452

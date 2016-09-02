@@ -17,7 +17,7 @@
 
     Each State desiring to receive funds under this subchapter for any fiscal year shall submit and have approved a unified State plan in accordance with [section 3112 of this title][/us/usc/t29/s3112] or a combined State plan in accordance with [section 3113 of this title][/us/usc/t29/s3113].
 
-([Pub. L. 113–128, title II, § 224][/us/pl/113/128/s224], July 22, 2014, [128 Stat. 1617][/us/stat/128/1617].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 224, July 22, 2014, [128 Stat. 1617][/us/stat/128/1617].)
 
  __Effective Date__ 
 
@@ -32,7 +32,7 @@
 
 [/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
-[/us/pl/113/128/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs224
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1617
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

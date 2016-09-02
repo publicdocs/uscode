@@ -67,7 +67,7 @@
 
         (3) commission research under [section 3224(b) of this title][/us/usc/t29/s3224/b] to address knowledge gaps identified under paragraph (2).
 
-([Pub. L. 113–128, title I, § 168][/us/pl/113/128/s168], July 22, 2014, [128 Stat. 1566][/us/stat/128/1566].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 168, July 22, 2014, [128 Stat. 1566][/us/stat/128/1566].)
 
  __References in Text__ 
 
@@ -87,7 +87,7 @@
 [/us/usc/t29/s3172/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3172%2Fa%2F2%2FA
 [/us/usc/t29/s3141/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fi
 [/us/usc/t29/s3224/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3224%2Fb
-[/us/pl/113/128/s168]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs168
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1566]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1566
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425

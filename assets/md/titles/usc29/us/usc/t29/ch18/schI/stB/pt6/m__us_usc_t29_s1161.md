@@ -23,13 +23,13 @@
 
         Subsection (a) of this section shall not apply to any group health plan for any calendar year if all employers maintaining such plan normally employed fewer than 20 employees on a typical business day during the preceding calendar year.
 
-([Pub. L. 93–406, title I, § 601][/us/pl/93/406/s601], as added [Pub. L. 99–272, title X, § 10002(a)][/us/pl/99/272/s10002/a], Apr. 7, 1986, [100 Stat. 227][/us/stat/100/227]; amended [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7862(c)(1)(B), 7891(a)(1), Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432], 2445.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 601, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10002(a), Apr. 7, 1986, [100 Stat. 227][/us/stat/100/227]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7862(c)(1)(B), 7891(a)(1), Dec. 19, 1989, [103 Stat. 2432][/us/stat/103/2432], 2445.)
 
  __Amendments__ 
 
     1989—Subsec. (b). [Pub. L. 101–239][/us/pl/101/239] struck out at end “Under regulations, rules similar to the rules of subsections (a) and (b) of [section 52 of title 26][/us/usc/t26/s52] (relating to employers under common control) shall apply for purposes of this subsection.”
 
-    [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
  __Effective Date of 1989 Amendment__ 
 
@@ -39,7 +39,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 99–272, title X, § 10002(d)][/us/pl/99/272/s10002/d], Apr. 7, 1986, [100 Stat. 231][/us/stat/100/231], provided that:
+[Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10002(d), Apr. 7, 1986, [100 Stat. 231][/us/stat/100/231], provided that:
 
 >     “(1)  __General rule__  __.—__ 
 
@@ -62,14 +62,14 @@
 ----------
 ----------
 
-[/us/pl/93/406/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs601
-[/us/pl/99/272/s10002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10002%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F227
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2432
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs52
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239/s7862/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7862%2Fc%2F1%2FB
 [/us/pl/101/239/s7862/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7862%2Fc%2F1%2FC
 [/us/usc/t26/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs106
@@ -77,7 +77,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/101/239/s7891/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Ff
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
-[/us/pl/99/272/s10002/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10002%2Fd
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F231
 [/us/usc/t29/s1132]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1132
 

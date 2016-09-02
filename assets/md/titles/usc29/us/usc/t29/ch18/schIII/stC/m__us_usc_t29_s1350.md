@@ -113,7 +113,7 @@
 
         The corporation shall prescribe such regulations as are necessary to carry out the purposes of this section, including rules relating to what will be considered a diligent search, the amount payable to the corporation, and the amount to be paid by the corporation.
 
-([Pub. L. 93–406, title IV, § 4050][/us/pl/93/406/s4050], as added [Pub. L. 103–465, title VII, § 776(a)][/us/pl/103/465/s776/a], Dec. 8, 1994, [108 Stat. 5047][/us/stat/108/5047]; amended [Pub. L. 109–280, title IV, § 410(a)][/us/pl/109/280/s410/a], Aug. 17, 2006, [120 Stat. 934][/us/stat/120/934]; [Pub. L. 110–458, title I, § 104(e)][/us/pl/110/458/s104/e], Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4050, as added [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 776(a), Dec. 8, 1994, [108 Stat. 5047][/us/stat/108/5047]; amended [Pub. L. 109–280, title IV][/us/pl/109/280/tIV], § 410(a), Aug. 17, 2006, [120 Stat. 934][/us/stat/120/934]; [Pub. L. 110–458, title I][/us/pl/110/458/tI], § 104(e), Dec. 23, 2008, [122 Stat. 5104][/us/stat/122/5104].)
 
  __Amendments__ 
 
@@ -151,12 +151,12 @@
 [/us/usc/t29/s1321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321%2Fb
 [/us/usc/t26/s401/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401%2Fa
 [/us/usc/t29/s1002/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F2
-[/us/pl/93/406/s4050]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4050
-[/us/pl/103/465/s776/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs776%2Fa
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5047]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5047
-[/us/pl/109/280/s410/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs410%2Fa
+[/us/pl/109/280/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIV
 [/us/stat/120/934]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F934
-[/us/pl/110/458/s104/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2Fs104%2Fe
+[/us/pl/110/458/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458%2FtI
 [/us/stat/122/5104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F5104
 [/us/pl/110/458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F458
 [/us/usc/t29/s1321/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321%2Fb

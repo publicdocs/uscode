@@ -91,7 +91,7 @@
 
         The portion of any eligible agency’s allotment under this subchapter for a fiscal year that the Secretary determines will not be required for the period such allotment is available for carrying out activities under this subchapter, shall be available for reallotment from time to time, on such dates during such period as the Secretary shall fix, to other eligible agencies in proportion to the original allotments to such agencies under this subchapter for such year.
 
-([Pub. L. 113–128, title II, § 211][/us/pl/113/128/s211], July 22, 2014, [128 Stat. 1612][/us/stat/128/1612].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 211, July 22, 2014, [128 Stat. 1612][/us/stat/128/1612].)
 
  __Effective Date__ 
 
@@ -115,7 +115,7 @@
 [/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
 [/us/usc/t29/s3275]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3275
 [/us/usc/t29/s3102/45]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102%2F45
-[/us/pl/113/128/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs211
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1612
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

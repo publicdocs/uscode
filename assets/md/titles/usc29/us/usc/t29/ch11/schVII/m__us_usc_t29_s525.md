@@ -17,7 +17,7 @@
 
     For the purposes of this chapter, service of summons, subpena, or other legal process of a court of the United States upon an officer or agent of a labor organization in his capacity as such shall constitute service upon the labor organization.
 
-([Pub. L. 86–257, title VI, § 605][/us/pl/86/257/s605], Sept. 14, 1959, [73 Stat. 540][/us/stat/73/540].)
+([Pub. L. 86–257, title VI][/us/pl/86/257/tVI], § 605, Sept. 14, 1959, [73 Stat. 540][/us/stat/73/540].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs605
+[/us/pl/86/257/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVI
 [/us/stat/73/540]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F540
 
 

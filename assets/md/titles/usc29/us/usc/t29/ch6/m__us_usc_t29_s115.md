@@ -17,7 +17,7 @@
 
     All acts and parts of acts in conflict with the provisions of this chapter are repealed.
 
-([Mar. 23, 1932, ch. 90, § 15][/us/act/1932-03-23/ch90/s15], [47 Stat. 73][/us/stat/47/73].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 15, [47 Stat. 73][/us/stat/47/73].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1932-03-23/ch90/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs15
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F73
 
 

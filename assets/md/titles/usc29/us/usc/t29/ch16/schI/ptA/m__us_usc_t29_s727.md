@@ -143,25 +143,25 @@
 
                 [Section 706 of title 5][/us/usc/t5/s706] shall apply to the review of any determination under this subsection, except that the standard for review prescribed by paragraph (2)(E) of such section 706 shall not apply and the court shall hold unlawful and set aside such determination if the court finds that the determination is not supported by substantial evidence in the record of the proceeding submitted pursuant to paragraph (1), as supplemented by any additional submissions and presentations filed under paragraph (2).
 
-([Pub. L. 93–112, title I, § 107][/us/pl/93/112/s107], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1157][/us/stat/112/1157]; amended [Pub. L. 113–128, title IV, § 417(a)][/us/pl/113/128/s417/a], July 22, 2014, [128 Stat. 1654][/us/stat/128/1654].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 107, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1157][/us/stat/112/1157]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 417(a), July 22, 2014, [128 Stat. 1654][/us/stat/128/1654].)
 
  __Prior Provisions__ 
 
-    A prior section 727, [Pub. L. 93–112, title I, § 107][/us/pl/93/112/s107], as added [Pub. L. 102–569, title I, § 128(a)][/us/pl/102/569/s128/a], Oct. 29, 1992, [106 Stat. 4386][/us/stat/106/4386], related to monitoring and review, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 727, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 107, as added [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 128(a), Oct. 29, 1992, [106 Stat. 4386][/us/stat/106/4386], related to monitoring and review, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(3)(E). [Pub. L. 113–128, § 417(a)(1)(A)][/us/pl/113/128/s417/a/1/A], inserted “, including personnel of a client assistance program under [section 732 of this title][/us/usc/t29/s732], and past or current recipients of vocational rehabilitation services” before period at end.
+    2014—Subsec. (a)(3)(E). [Pub. L. 113–128][/us/pl/113/128], § 417(a)(1)(A), inserted “, including personnel of a client assistance program under [section 732 of this title][/us/usc/t29/s732], and past or current recipients of vocational rehabilitation services” before period at end.
 
-    Subsec. (a)(4)(A), (B). [Pub. L. 113–128, § 417(a)(1)(B)(i)][/us/pl/113/128/s417/a/1/B/i], added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (a)(4)(A), (B). [Pub. L. 113–128][/us/pl/113/128], § 417(a)(1)(B)(i), added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) the eligibility process;
 
     “(B) the provision of services, including, if applicable, the order of selection;”.
 
-    Subsec. (a)(4)(D), (E). [Pub. L. 113–128, § 417(a)(1)(B)(ii)][/us/pl/113/128/s417/a/1/B/ii]–(iv), added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (a)(4)(D), (E). [Pub. L. 113–128][/us/pl/113/128], § 417(a)(1)(B)(ii)–(iv), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (b)(3). [Pub. L. 113–128, § 417(a)(2)][/us/pl/113/128/s417/a/2], added par. (3).
+    Subsec. (b)(3). [Pub. L. 113–128][/us/pl/113/128], § 417(a)(2), added par. (3).
 
  __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
@@ -196,20 +196,20 @@
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t29/s721/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fb
 [/us/usc/t5/s706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs706
-[/us/pl/93/112/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs107
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1157
-[/us/pl/113/128/s417/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs417%2Fa
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1654
-[/us/pl/93/112/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs107
-[/us/pl/102/569/s128/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs128%2Fa
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4386
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s417/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs417%2Fa%2F1%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
-[/us/pl/113/128/s417/a/1/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs417%2Fa%2F1%2FB%2Fi
-[/us/pl/113/128/s417/a/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs417%2Fa%2F1%2FB%2Fii
-[/us/pl/113/128/s417/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs417%2Fa%2F2
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102

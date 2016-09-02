@@ -17,7 +17,7 @@
 
     Whoever shall forcibly resist, oppose, impede, intimidate or interfere with a duly authorized representative of the Equal Employment Opportunity Commission while it is engaged in the performance of duties under this chapter shall be punished by a fine of not more than $500 or by imprisonment for not more than one year, or by both: Provided, however, That no person shall be imprisoned under this section except when there has been a prior conviction here­under.
 
-([Pub. L. 90–202, § 10][/us/pl/90/202/s10], Dec. 15, 1967, [81 Stat. 605][/us/stat/81/605]; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781].)
+([Pub. L. 90–202][/us/pl/90/202], § 10, Dec. 15, 1967, [81 Stat. 605][/us/stat/81/605]; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/202/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs10
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F605
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781

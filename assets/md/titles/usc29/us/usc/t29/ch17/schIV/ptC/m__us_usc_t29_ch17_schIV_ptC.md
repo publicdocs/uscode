@@ -11,40 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch17/schIV/ptB/m__us_usc_t29_ch17_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch17/schV/m__us_usc_t29_ch17_schV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t29/ch17/schIV/ptB/m__us_usc_t29_s923...941a.md) | [Next](./../../../../../..//us/usc/t29/ch17/schIV/ptC/m__us_usc_t29_s942...945.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschIV%2FptC)
 
 #### Part C—Summer Youth Program
 
-§§ 942 to 945. __Repealed.__  __[__  __Pub. L. 97–300, title I, § 184(a)(1)__  __][/us/pl/97/300/s184/a/1]__  __,__  __Oct. 13, 1982__  __,__  __[__  __96 Stat. 1357__  __][/us/stat/96/1357]__ 
-
-    Section 942, [Pub. L. 93–203, title IV, § 481][/us/pl/93/203/s481], as added [Pub. L. 95–524, § 2][/us/pl/95/524/s2], Oct. 27, 1978, [92 Stat. 2001][/us/stat/92/2001], related to establishment of summer youth programs.
-
-    Section 943, [Pub. L. 93–203, title IV, § 482][/us/pl/93/203/s482], as added [Pub. L. 95–524, § 2][/us/pl/95/524/s2], Oct. 27, 1978, [92 Stat. 2001][/us/stat/92/2001], related to prime sponsors eligible for assistance under summer youth programs.
-
-    Section 944, [Pub. L. 93–203, title IV, § 483][/us/pl/93/203/s483], as added [Pub. L. 95–524, § 2][/us/pl/95/524/s2], Oct. 27, 1978, [92 Stat. 2001][/us/stat/92/2001], related to financial assistance under summer youth programs.
-
-    Section 945, [Pub. L. 93–203, title IV, § 484][/us/pl/93/203/s484], as added [Pub. L. 95–524, § 2][/us/pl/95/524/s2], Oct. 27, 1978, [92 Stat. 2002][/us/stat/92/2002], related to Secretarial authority over summer youth programs.
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch17/schIV/ptB/m__us_usc_t29_ch17_schIV_ptB.md) | [Next](./../../../../../..//us/usc/t29/ch17/schV/m__us_usc_t29_ch17_schV.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschIV%2FptC)
+[Previous](./../../../../../..//us/usc/t29/ch17/schIV/ptB/m__us_usc_t29_s923...941a.md) | [Next](./../../../../../..//us/usc/t29/ch17/schIV/ptC/m__us_usc_t29_s942...945.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch17%2FschIV%2FptC)
 
 ----------
 ----------
 
-[/us/pl/97/300/s184/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs184%2Fa%2F1
-[/us/stat/96/1357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1357
-[/us/pl/93/203/s481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F203%2Fs481
-[/us/pl/95/524/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs2
-[/us/stat/92/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2001
-[/us/pl/93/203/s482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F203%2Fs482
-[/us/pl/95/524/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs2
-[/us/stat/92/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2001
-[/us/pl/93/203/s483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F203%2Fs483
-[/us/pl/95/524/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs2
-[/us/stat/92/2001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2001
-[/us/pl/93/203/s484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F203%2Fs484
-[/us/pl/95/524/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs2
-[/us/stat/92/2002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2002
 
 

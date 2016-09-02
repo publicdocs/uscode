@@ -67,7 +67,7 @@
 
         Section 14 of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply with respect to the Council.
 
-([Pub. L. 93–112, title II, § 205][/us/pl/93/112/s205], as added [Pub. L. 105–220, title IV, § 405][/us/pl/105/220/s405], Aug. 7, 1998, [112 Stat. 1182][/us/stat/112/1182]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, §§ 401(16), 402(b)(11)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–414; [Pub. L. 113–128, title IV, § 436][/us/pl/113/128/s436], July 22, 2014, [128 Stat. 1671][/us/stat/128/1671].)
+([Pub. L. 93–112, title II][/us/pl/93/112/tII], § 205, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 405, Aug. 7, 1998, [112 Stat. 1182][/us/stat/112/1182]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, §§ 401(16), 402(b)(11)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, 2681–414; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 436, July 22, 2014, [128 Stat. 1671][/us/stat/128/1671].)
 
  __References in Text__ 
 
@@ -75,21 +75,21 @@
 
  __Prior Provisions__ 
 
-    A prior section 765, [Pub. L. 93–112, title II, § 205][/us/pl/93/112/s205], as added [Pub. L. 102–569, title II, § 206(a)][/us/pl/102/569/s206/a], Oct. 29, 1992, [106 Stat. 4409][/us/stat/106/4409], related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 765, [Pub. L. 93–112, title II][/us/pl/93/112/tII], § 205, as added [Pub. L. 102–569, title II][/us/pl/102/569/tII], § 206(a), Oct. 29, 1992, [106 Stat. 4409][/us/stat/106/4409], related to the Rehabilitation Research Advisory Council, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—[Pub. L. 113–128, § 436(1)][/us/pl/113/128/s436/1], inserted “Disability, Independent Living, and” before “Rehabilitation” in section catchline.
+    2014—[Pub. L. 113–128][/us/pl/113/128], § 436(1), inserted “Disability, Independent Living, and” before “Rehabilitation” in section catchline.
 
-    Subsec. (a). [Pub. L. 113–128, § 436(2)][/us/pl/113/128/s436/2], substituted “Department of Health and Human Services a Disability, Independent Living, and Rehabilitation Research Advisory Council” for “Department of Education a Rehabilitation Research Advisory Council” and inserted “not less than” after “composed of”.
+    Subsec. (a). [Pub. L. 113–128][/us/pl/113/128], § 436(2), substituted “Department of Health and Human Services a Disability, Independent Living, and Rehabilitation Research Advisory Council” for “Department of Education a Rehabilitation Research Advisory Council” and inserted “not less than” after “composed of”.
 
-    Subsec. (c). [Pub. L. 113–128, § 436(3)][/us/pl/113/128/s436/3], added subsec. (c) and struck out former subsec. (c) which read as follows: “Members of the Council shall be generally representative of the community of rehabilitation professionals, the community of rehabilitation researchers, the community of individuals with disabilities, and the individuals’ representatives. At least one-half of the members shall be individuals with disabilities or the individuals’ representatives.”
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 436(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “Members of the Council shall be generally representative of the community of rehabilitation professionals, the community of rehabilitation researchers, the community of individuals with disabilities, and the individuals’ representatives. At least one-half of the members shall be individuals with disabilities or the individuals’ representatives.”
 
-    Subsec. (g). [Pub. L. 113–128, § 436(4)][/us/pl/113/128/s436/4], substituted “Department of Health and Human Services” for “Department of Education”.
+    Subsec. (g). [Pub. L. 113–128][/us/pl/113/128], § 436(4), substituted “Department of Health and Human Services” for “Department of Education”.
 
-    1998—[Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(11)\], made technical amendment to section designation and catchline in original.
+    1998—[Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(b)(11)\], made technical amendment to section designation and catchline in original.
 
-    [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 401(16)\], made technical amendment to directory language of [Pub. L. 105–220, § 405][/us/pl/105/220/s405], which enacted this section.
+    [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 401(16)\], made technical amendment to directory language of [Pub. L. 105–220][/us/pl/105/220], § 405, which enacted this section.
 
 ----------
 
@@ -100,24 +100,24 @@
 
 [/us/usc/t29/s762/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs762%2Fh
 [/us/usc/t5/s5703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5703
-[/us/pl/93/112/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs205
-[/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405
+[/us/pl/93/112/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1182
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs436
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1671]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1671
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
-[/us/pl/93/112/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs205
-[/us/pl/102/569/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs206%2Fa
+[/us/pl/93/112/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtII
+[/us/pl/102/569/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtII
 [/us/stat/106/4409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4409
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s436/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs436%2F1
-[/us/pl/113/128/s436/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs436%2F2
-[/us/pl/113/128/s436/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs436%2F3
-[/us/pl/113/128/s436/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs436%2F4
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/220/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs405
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 
 

@@ -17,7 +17,7 @@
 
  __Amendments__ 
 
-    1980—[Pub. L. 96–364, title I, § 104][/us/pl/96/364/s104], Sept. 26, 1980, [94 Stat. 1217][/us/stat/94/1217], added subtitle heading. Former subtitle E heading “Effective Date; Special Rules” was struck out. See subtitle F of this subchapter.
+    1980—[Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104, Sept. 26, 1980, [94 Stat. 1217][/us/stat/94/1217], added subtitle heading. Former subtitle E heading “Effective Date; Special Rules” was struck out. See subtitle F of this subchapter.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/96/364/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1217]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1217
 
 

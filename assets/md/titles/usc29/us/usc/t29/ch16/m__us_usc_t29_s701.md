@@ -99,7 +99,7 @@
 
         (5) support for individual and systemic advocacy and community involvement.
 
-([Pub. L. 93–112, § 2][/us/pl/93/112/s2], as added [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1095][/us/stat/112/1095]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 113–128, title IV, § 402][/us/pl/113/128/s402], July 22, 2014, [128 Stat. 1631][/us/stat/128/1631].)
+([Pub. L. 93–112][/us/pl/93/112], § 2, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1095][/us/stat/112/1095]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(b)(2)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–413; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 402, July 22, 2014, [128 Stat. 1631][/us/stat/128/1631].)
 
  __References in Text__ 
 
@@ -107,93 +107,93 @@
 
  __Prior Provisions__ 
 
-    A prior section 701, [Pub. L. 93–112, § 2][/us/pl/93/112/s2], Sept. 26, 1973, [87 Stat. 357][/us/stat/87/357]; [Pub. L. 95–602, title I, § 122(a)(1)][/us/pl/95/602/s122/a/1], Nov. 6, 1978, [92 Stat. 2984][/us/stat/92/2984]; [Pub. L. 99–506, title I, § 101][/us/pl/99/506/s101], Oct. 21, 1986, [100 Stat. 1808][/us/stat/100/1808]; [Pub. L. 102–569, title I, § 101][/us/pl/102/569/s101], Oct. 29, 1992, [106 Stat. 4346][/us/stat/106/4346], related to findings, purpose, and policy, prior to repeal by [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
+    A prior section 701, [Pub. L. 93–112][/us/pl/93/112], § 2, Sept. 26, 1973, [87 Stat. 357][/us/stat/87/357]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 122(a)(1), Nov. 6, 1978, [92 Stat. 2984][/us/stat/92/2984]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 101, Oct. 21, 1986, [100 Stat. 1808][/us/stat/100/1808]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 101, Oct. 29, 1992, [106 Stat. 4346][/us/stat/106/4346], related to findings, purpose, and policy, prior to repeal by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(4). [Pub. L. 113–128, § 402(a)(1)][/us/pl/113/128/s402/a/1], substituted “workforce development systems defined in [section 3102 of this title][/us/usc/t29/s3102]” for “workforce investment systems under title I of the Workforce Investment Act of 1998”.
+    2014—Subsec. (a)(4). [Pub. L. 113–128][/us/pl/113/128], § 402(a)(1), substituted “workforce development systems defined in [section 3102 of this title][/us/usc/t29/s3102]” for “workforce investment systems under title I of the Workforce Investment Act of 1998”.
 
-    Subsec. (a)(7). [Pub. L. 113–128, § 402(a)(2)][/us/pl/113/128/s402/a/2]–(4), added par. (7).
+    Subsec. (a)(7). [Pub. L. 113–128][/us/pl/113/128], § 402(a)(2)–(4), added par. (7).
 
-    Subsec. (b)(1)(A). [Pub. L. 113–128, § 402(b)(1)(A)][/us/pl/113/128/s402/b/1/A], substituted “workforce development systems defined in [section 3102 of this title][/us/usc/t29/s3102]” for “workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998”.
+    Subsec. (b)(1)(A). [Pub. L. 113–128][/us/pl/113/128], § 402(b)(1)(A), substituted “workforce development systems defined in [section 3102 of this title][/us/usc/t29/s3102]” for “workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998”.
 
-    Subsec. (b)(2) to (5). [Pub. L. 113–128, § 402(b)(1)(B)][/us/pl/113/128/s402/b/1/B], (2)–(5), added par. (2), redesignated former par. (2) as (3), and added pars. (4) and (5).
+    Subsec. (b)(2) to (5). [Pub. L. 113–128][/us/pl/113/128], § 402(b)(1)(B), (2)–(5), added par. (2), redesignated former par. (2) as (3), and added pars. (4) and (5).
 
     1998—[Pub. L. 105–277][/us/pl/105/277] made technical amendment in original to section designation and catchline.
 
  __Short Title of 2010 Amendment__ 
 
-[Pub. L. 111–213, § 1][/us/pl/111/213/s1], July 29, 2010, [124 Stat. 2343][/us/stat/124/2343], provided that: 
+[Pub. L. 111–213][/us/pl/111/213], § 1, July 29, 2010, [124 Stat. 2343][/us/stat/124/2343], provided that: 
 
 > “This Act \[enacting provisions set out as notes under sections 796f–1 and 796f–2 of this title\] may be cited as the ‘Independent Living Centers Technical Adjustment Act’.”
 
  __Short Title of 1998 Amendment__ 
 
-    [Pub. L. 105–220, title IV, § 401][/us/pl/105/220/s401], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], provided that title IV of [Pub. L. 105–220][/us/pl/105/220] could be cited as the “Rehabilitation Act Amendments of 1998”, prior to repeal by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
+    [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 401, Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], provided that title IV of [Pub. L. 105–220][/us/pl/105/220] could be cited as the “Rehabilitation Act Amendments of 1998”, prior to repeal by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
  __Short Title of 1993 Amendment__ 
 
-[Pub. L. 103–73, § 1][/us/pl/103/73/s1], Aug. 11, 1993, [107 Stat. 718][/us/stat/107/718], provided that: 
+[Pub. L. 103–73][/us/pl/103/73], § 1, Aug. 11, 1993, [107 Stat. 718][/us/stat/107/718], provided that: 
 
 > “This Act \[enacting sections 753 and 753a of this title, amending sections 706, 718 to 718b, 721 to 723, 725, 730 to 732, 744, 761a, 762, 771a, 777, 777a, 777f, 783, 791, 792, 794e, 795l, 796, 796c, 796d to 796e–2, 796f to 796f–4, and 796k of this title, sections 1431, 4301 to 4305, 4331, 4332, 4351, 4353 to 4357, 4359, 4359a, and 4360 of Title 20, Education, and [section 46 of Title 41][/us/usc/t41/s46], Public Contracts, enacting provisions set out as notes under [section 725 of this title][/us/usc/t29/s725] and [section 4301 of Title 20][/us/usc/t20/s4301], and amending provisions set out as a note under this section\] may be cited as the ‘Rehabilitation Act Amendments of 1993’.”
 
  __Short Title of 1992 Amendment__ 
 
-[Pub. L. 102–569, § 1(a)][/us/pl/102/569/s1/a], Oct. 29, 1992, [106 Stat. 4344][/us/stat/106/4344], provided that: 
+[Pub. L. 102–569][/us/pl/102/569], § 1(a), Oct. 29, 1992, [106 Stat. 4344][/us/stat/106/4344], provided that: 
 
 > “This Act \[see Tables for classification\] may be cited as the ‘Rehabilitation Act Amendments of 1992’.”
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–52, § 1][/us/pl/102/52/s1], June 6, 1991, [105 Stat. 260][/us/stat/105/260], provided that: 
+[Pub. L. 102–52][/us/pl/102/52], § 1, June 6, 1991, [105 Stat. 260][/us/stat/105/260], provided that: 
 
 > “This Act \[amending sections 720, 732, 741, 761, 771, 772, 774, 775, 777, 777a, 777f, 785, 792, 795f, 795i, 795q, 796i, and 1904 of this title and [section 1475 of Title 20][/us/usc/t20/s1475], Education\] may be cited as the ‘Rehabilitation Act Amendments of 1991’.”
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–506, § 1(a)][/us/pl/99/506/s1/a], Oct. 21, 1986, [100 Stat. 1807][/us/stat/100/1807], provided that: 
+[Pub. L. 99–506][/us/pl/99/506], § 1(a), Oct. 21, 1986, [100 Stat. 1807][/us/stat/100/1807], provided that: 
 
 > “This Act \[enacting sections 716, 717, 752, 794d, 795j to 795q, and 796d–1 of this title and [section 2000d–7 of Title 42][/us/usc/t42/s2000d–7], The Public Health and Welfare, amending this section and sections 702, 705, 706, 711 to 715, 720 to 724, 730 to 732, 740, 741, 750, 751, 760 to 761b, 762, 762a, 770 to 777b, 777f, 780, 781, 783, 785, 791 to 794, 794c, 795, 795d to 795i, 796a, 796b, 796d to 796i, and 1904 of this title, and section 155a of former Title 36, Patriotic Societies and Observances, repealing [section 751 of this title][/us/usc/t29/s751], and enacting provisions set out as notes under this section and sections 706, 730, 761a, and 795m of this title and [section 1414 of Title 20][/us/usc/t20/s1414], Education\] may be cited as the ‘Rehabilitation Act Amendments of 1986’.”
 
  __Short Title of 1984 Amendment__ 
 
-[Pub. L. 98–221, § 1][/us/pl/98/221/s1], Feb. 22, 1984, [98 Stat. 17][/us/stat/98/17], provided: 
+[Pub. L. 98–221][/us/pl/98/221], § 1, Feb. 22, 1984, [98 Stat. 17][/us/stat/98/17], provided: 
 
 > “That this Act \[enacting sections 780a and 1901 to 1906 of this title, amending sections 706, 712 to 714, 720 to 722, 730, 732, 741, 761 to 762a, 771, 772, 774, 775, 777, 777a, 777f, 780, 781, 783, 791, 792, 794c, 795a, 795c, 795f, 795g, 795i, 796e, and 796i of this title and sections 6001, 6012, 6033, 6061, and 6081 of Title 42, The Public Health and Welfare, repealing [section 777c of this title][/us/usc/t29/s777c], enacting provisions set out as a note under [section 1901 of this title][/us/usc/t29/s1901] and amending provisions set out as a note under [section 713 of this title][/us/usc/t29/s713]\] may be cited as the ‘Rehabilitation Amendments of 1984’.”
 
  __Short Title of 1978 Amendment__ 
 
-[Pub. L. 95–602, § 1][/us/pl/95/602/s1], Nov. 6, 1978, [92 Stat. 2955][/us/stat/92/2955], provided that: 
+[Pub. L. 95–602][/us/pl/95/602], § 1, Nov. 6, 1978, [92 Stat. 2955][/us/stat/92/2955], provided that: 
 
 > “This Act \[enacting sections 710 to 715, 751, 761a, 761b, 762a, 775, 777 to 777f, 780 to 785, 794a to 794c, 795 to 795i, and 796 to 796i of this title and [section 6000 of Title 42][/us/usc/t42/s6000], The Public Health and Welfare, amending this section, sections 702, 706, 709, 720 to 724, 730 to 732, 740, 741, 750, 760 to 762, 770 to 774, 776, and 792 to 794 of this title, section 1904 \[now 3904\] of Title 38, Veterans’ Benefits, and sections 6001, 6008 to 6012, 6031 to 6033, 6061 to 6065, 6067, 6081, and 6862 of Title 42, repealing sections 764, 786, and 787 of this title and [section 6007 of Title 42][/us/usc/t42/s6007], omitting sections 6041 to 6043 of Title 42, enacting provisions set out as notes under sections 713 and 795 of this title and sections 6000 and 6001 of Title 42, and repealing a provision set out as a note under [section 6001 of Title 42][/us/usc/t42/s6001]\] may be cited as the ‘Rehabilitation, Comprehensive Services, and Developmental Disabilities Amendments of 1978’.”
 
  __Short Title of 1976 Amendment__ 
 
-[Pub. L. 94–230, § 1][/us/pl/94/230/s1], Mar. 15, 1976, [90 Stat. 211][/us/stat/90/211], provided that: 
+[Pub. L. 94–230][/us/pl/94/230], § 1, Mar. 15, 1976, [90 Stat. 211][/us/stat/90/211], provided that: 
 
 > “This Act \[amending sections 720, 732, 741, 761, 771, 772, 774, 775, 783, 785, and 792 of this title and enacting provisions set out as a note under [section 720 of this title][/us/usc/t29/s720]\] may be cited as the ‘Rehabilitation Act Extension of 1976’.”
 
  __Short Title of 1974 Amendment__ 
 
-[Pub. L. 93–516, title I, § 100][/us/pl/93/516/s100], Dec. 7, 1974, [88 Stat. 1617][/us/stat/88/1617], provided that: 
+[Pub. L. 93–516, title I][/us/pl/93/516/tI], § 100, Dec. 7, 1974, [88 Stat. 1617][/us/stat/88/1617], provided that: 
 
 > “This title \[amending sections 702, 706, 720 to 722, 732, 741, 750, 761, 762, 771, 772, 774 to 776, 783, 785, and 792 of this title and enacting provisions set out as a note under [section 702 of this title][/us/usc/t29/s702]\] shall be known as the ‘Rehabilitation Act Amendments of 1974’.”
 
-    An identical provision is contained in [Pub. L. 93–651, title I, § 100][/us/pl/93/651/s100], Nov. 21, 1974, [89 Stat. 2–3][/us/stat/89/2-3].
+    An identical provision is contained in [Pub. L. 93–651, title I][/us/pl/93/651/tI], § 100, Nov. 21, 1974, [89 Stat. 2–3][/us/stat/89/2-3].
 
  __Short Title__ 
 
-[Pub. L. 93–112, § 1(a)][/us/pl/93/112/s1/a], as added by [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093], and amended by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(b)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, provided that: 
+[Pub. L. 93–112][/us/pl/93/112], § 1(a), as added by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093], and amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(b)(1)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–412, provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Rehabilitation Act of 1973’.”
 
-[Pub. L. 93–112, title VI, § 601][/us/pl/93/112/s601], as added by [Pub. L. 105–220, title IV, § 409][/us/pl/105/220/s409], Aug. 7, 1998, [112 Stat. 1210][/us/stat/112/1210], provided that: 
+[Pub. L. 93–112, title VI][/us/pl/93/112/tVI], § 601, as added by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 409, Aug. 7, 1998, [112 Stat. 1210][/us/stat/112/1210], provided that: 
 
 > “This title \[enacting subchapter VI of this chapter\] may be cited as the ‘Employment Opportunities for Individuals With Disabilities Act’.”
 
-    [Pub. L. 93–112, § 1][/us/pl/93/112/s1], Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], provided in part that [Pub. L. 93–112][/us/pl/93/112], which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, could be cited as the “Rehabilitation Act of 1973”, prior to repeal by [Pub. L. 105–220, title IV, § 403][/us/pl/105/220/s403], Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
+    [Pub. L. 93–112][/us/pl/93/112], § 1, Sept. 26, 1973, [87 Stat. 355][/us/stat/87/355], provided in part that [Pub. L. 93–112][/us/pl/93/112], which enacted this chapter and repealed sections 31 to 41c and 42–1 to 42b of this title, could be cited as the “Rehabilitation Act of 1973”, prior to repeal by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 403, Aug. 7, 1998, [112 Stat. 1093][/us/stat/112/1093].
 
-    [Pub. L. 93–112, title VI, § 601][/us/pl/93/112/s601], as added by [Pub. L. 95–602, title II, § 201][/us/pl/95/602/s201], Nov. 6, 1978, [92 Stat. 2989][/us/stat/92/2989], and amended by [Pub. L. 102–569, title I, § 102(p)(34)][/us/pl/102/569/s102/p/34], Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], provided that title VI of [Pub. L. 93–112][/us/pl/93/112], enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of [Pub. L. 93–112][/us/pl/93/112] by [Pub. L. 105–220, title IV, § 409][/us/pl/105/220/s409], Aug. 7, 1998, [112 Stat. 1210][/us/stat/112/1210].
+    [Pub. L. 93–112, title VI][/us/pl/93/112/tVI], § 601, as added by [Pub. L. 95–602, title II][/us/pl/95/602/tII], § 201, Nov. 6, 1978, [92 Stat. 2989][/us/stat/92/2989], and amended by [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 102(p)(34), Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], provided that title VI of [Pub. L. 93–112][/us/pl/93/112], enacting former subchapter VI of this chapter, could be cited as the “Employment Opportunities for Handicapped Individuals Act”, prior to the general amendment of title VI of [Pub. L. 93–112][/us/pl/93/112] by [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 409, Aug. 7, 1998, [112 Stat. 1210][/us/stat/112/1210].
 
  __Ex. Ord. No. 11758. Delegation of Authority of the President__ 
 
@@ -265,7 +265,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
     (g) All executive agencies that are not members of the Task Force shall: (1) coordinate and cooperate with the Task Force; and (2) review their programs and policies to ensure that they are being conducted and delivered in a manner that facilitates and promotes the employment of adults with disabilities. Each agency shall file a report with the Task Force on the results of its review on November 15, 1998.
 
-    (h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 \[[Pub. L. 105–220][/us/pl/105/220] repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015\]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
+    (h) To improve employment outcomes for persons with disabilities by addressing, among other things, the education, transition, employment, health and rehabilitation, and independent living issues affecting young people with disabilities, executive departments and agencies shall coordinate and cooperate with the Task Force to: (1) strengthen interagency research, demonstration, and training activities relating to young people with disabilities; (2) create a public awareness campaign focused on access to equal opportunity for young people with disabilities; (3) promote the views of young people with disabilities through collaboration with the Youth Councils authorized under the Workforce Investment Act of 1998 \[[Pub. L. 105–220][/us/pl/105/220] repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015\]; (4) increase access to and utilization of health insurance and health care for young people with disabilities through the formalization of the Federal Healthy and Ready to Work Interagency Council; (5) increase participation by young people with disabilities in postsecondary education and training programs; and (6) create a nationally representative Youth Advisory Council, to be funded and chaired by the Department of Labor, to advise the Task Force in conducting these and other appropriate activities.
 
     Sec. 3. Cooperation. All efforts taken by executive departments and agencies under sections 1 and 2 of this order shall, as appropriate, further partnerships and cooperation with public and private sector employers, organizations that represent people with disabilities, organized labor, veteran service organizations, and State and local governments whenever such partnerships and cooperation are possible and would promote the employment and gainful economic activities of individuals with disabilities.
 
@@ -328,94 +328,94 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
 [/us/usc/t29/s794]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs794
-[/us/pl/93/112/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs2
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1095]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1095
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1631
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/93/112/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs2
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F357
-[/us/pl/95/602/s122/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs122%2Fa%2F1
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2984
-[/us/pl/99/506/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs101
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1808]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1808
-[/us/pl/102/569/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs101
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4346]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4346
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1093
-[/us/pl/113/128/s402/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402%2Fa%2F1
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
-[/us/pl/113/128/s402/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402%2Fa%2F2
-[/us/pl/113/128/s402/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402%2Fb%2F1%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
-[/us/pl/113/128/s402/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs402%2Fb%2F1%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
-[/us/pl/111/213/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F213%2Fs1
+[/us/pl/111/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F213
 [/us/stat/124/2343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2343
-[/us/pl/105/220/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs401
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
-[/us/pl/103/73/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs1
+[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
 [/us/stat/107/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F718
 [/us/usc/t41/s46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs46
 [/us/usc/t29/s725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs725
 [/us/usc/t20/s4301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs4301
-[/us/pl/102/569/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs1%2Fa
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/stat/106/4344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4344
-[/us/pl/102/52/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52%2Fs1
+[/us/pl/102/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52
 [/us/stat/105/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F260
 [/us/usc/t20/s1475]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1475
-[/us/pl/99/506/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1%2Fa
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
 [/us/stat/100/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1807
 [/us/usc/t42/s2000d–7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d%E2%80%937
 [/us/usc/t29/s751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs751
 [/us/usc/t20/s1414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1414
-[/us/pl/98/221/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs1
+[/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
 [/us/stat/98/17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F17
 [/us/usc/t29/s777c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs777c
 [/us/usc/t29/s1901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1901
 [/us/usc/t29/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs713
-[/us/pl/95/602/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs1
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
 [/us/stat/92/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2955
 [/us/usc/t42/s6000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6000
 [/us/usc/t42/s6007]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6007
 [/us/usc/t42/s6001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6001
-[/us/pl/94/230/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230%2Fs1
+[/us/pl/94/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230
 [/us/stat/90/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F211
 [/us/usc/t29/s720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720
-[/us/pl/93/516/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs100
+[/us/pl/93/516/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtI
 [/us/stat/88/1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1617
 [/us/usc/t29/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs702
-[/us/pl/93/651/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs100
+[/us/pl/93/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtI
 [/us/stat/89/2-3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-3
-[/us/pl/93/112/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs1%2Fa
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1093
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/93/112/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs601
-[/us/pl/105/220/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs409
+[/us/pl/93/112/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1210
-[/us/pl/93/112/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs1
+[/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/stat/87/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F355
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
-[/us/pl/105/220/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs403
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1093]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1093
-[/us/pl/93/112/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs601
-[/us/pl/95/602/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs201
+[/us/pl/93/112/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVI
+[/us/pl/95/602/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtII
 [/us/stat/92/2989]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2989
-[/us/pl/102/569/s102/p/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F34
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4360
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
 [/us/pl/93/112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112
-[/us/pl/105/220/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs409
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1210
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/stat/87/390]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F390
@@ -435,7 +435,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/usc/t41/s8501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs8501
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/usc/t5/s5701–570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5701%E2%80%93570
 

@@ -23,11 +23,11 @@
 
         (2) No funds paid under this chapter may be used by any State for advertising in newspapers for high paying jobs unless such State submits an annual report to the Secretary beginning in December 1984 concerning such advertising and the justifications therefor, and the justification may include that such jobs are part of a State industrial development effort.
 
-([June 6, 1933, ch. 49, § 13][/us/act/1933-06-06/ch49/s13], as added [Pub. L. 97–300, title VI, § 601(h)][/us/pl/97/300/s601/h], formerly title V, § 501(h), Oct. 13, 1982, [96 Stat. 1397][/us/stat/96/1397]; renumbered title VI, § 601(h), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; amended [Pub. L. 97–404, § 5][/us/pl/97/404/s5], Dec. 31, 1982, [96 Stat. 2027][/us/stat/96/2027]; [Pub. L. 113–128, title III, § 307][/us/pl/113/128/s307], July 22, 2014, [128 Stat. 1627][/us/stat/128/1627].)
+([June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 13, as added [Pub. L. 97–300, title VI][/us/pl/97/300/tVI], § 601(h), formerly title V, § 501(h), Oct. 13, 1982, [96 Stat. 1397][/us/stat/96/1397]; renumbered title VI, § 601(h), [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 712(a)(1), (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; amended [Pub. L. 97–404][/us/pl/97/404], § 5, Dec. 31, 1982, [96 Stat. 2027][/us/stat/96/2027]; [Pub. L. 113–128, title III][/us/pl/113/128/tIII], § 307, July 22, 2014, [128 Stat. 1627][/us/stat/128/1627].)
 
  __Prior Provisions__ 
 
-    A prior section 49l, [act June 6, 1933, ch. 49, § 13][/us/act/1933-06-06/ch49/s13], [48 Stat. 117][/us/stat/48/117], relating to mail franking privileges to employment systems, was transferred to section 338 of former Title 39, The Postal Service. Section 338 of former Title 39 was repealed and reenacted as section 4152 of former Title 39, The Postal Service by [Pub. L. 86–682][/us/pl/86/682], Sept. 2, 1960, [74 Stat. 578][/us/stat/74/578]. Section 4152 of former Title 39 was repealed and reenacted as [section 3202 of Title 39][/us/usc/t39/s3202], Postal Service, by [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719].
+    A prior section 49l, [act June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 13, [48 Stat. 117][/us/stat/48/117], relating to mail franking privileges to employment systems, was transferred to section 338 of former Title 39, The Postal Service. Section 338 of former Title 39 was repealed and reenacted as section 4152 of former Title 39, The Postal Service by [Pub. L. 86–682][/us/pl/86/682], Sept. 2, 1960, [74 Stat. 578][/us/stat/74/578]. Section 4152 of former Title 39 was repealed and reenacted as [section 3202 of Title 39][/us/usc/t39/s3202], Postal Service, by [Pub. L. 91–375][/us/pl/91/375], Aug. 12, 1970, [84 Stat. 719][/us/stat/84/719].
 
  __Amendments__ 
 
@@ -56,16 +56,16 @@
 
 [/us/usc/t29/s49f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49f
 [/us/usc/t29/s3141/b/2/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fb%2F2%2FA%2Fi
-[/us/act/1933-06-06/ch49/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs13
-[/us/pl/97/300/s601/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fh
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
+[/us/pl/97/300/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtVI
 [/us/stat/96/1397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1397
-[/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
-[/us/pl/97/404/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F404%2Fs5
+[/us/pl/97/404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F404
 [/us/stat/96/2027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2027
-[/us/pl/113/128/s307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs307
+[/us/pl/113/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIII
 [/us/stat/128/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1627
-[/us/act/1933-06-06/ch49/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs13
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F117
 [/us/pl/86/682]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F682
 [/us/stat/74/578]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F578

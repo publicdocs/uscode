@@ -17,31 +17,31 @@
 
     Any State desiring to receive assistance under [section 49e of this title][/us/usc/t29/s49e] shall prepare and submit to, and have approved by, the Secretary and the Secretary of Education, a State plan in accordance with section 3112 or 3113 of this title.
 
-([June 6, 1933, ch. 49, § 8][/us/act/1933-06-06/ch49/s8], [48 Stat. 115][/us/stat/48/115]; [Aug. 3, 1954, ch. 655, § 6(b)][/us/act/1954-08-03/ch655/s6/b], [68 Stat. 665][/us/stat/68/665]; [Pub. L. 97–300, title VI, § 601(d)][/us/pl/97/300/s601/d], formerly title V, § 501(d), Oct. 13, 1982, [96 Stat. 1395][/us/stat/96/1395]; renumbered title VI, § 601(d), [Pub. L. 100–628, title VII, § 712(a)(1)][/us/pl/100/628/s712/a/1], (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 105–220, title III, § 306][/us/pl/105/220/s306], Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081]; [Pub. L. 113–128, title III, § 306][/us/pl/113/128/s306], July 22, 2014, [128 Stat. 1627][/us/stat/128/1627].)
+([June 6, 1933, ch. 49][/us/act/1933-06-06/ch49], § 8, [48 Stat. 115][/us/stat/48/115]; [Aug. 3, 1954, ch. 655][/us/act/1954-08-03/ch655], § 6(b), [68 Stat. 665][/us/stat/68/665]; [Pub. L. 97–300, title VI][/us/pl/97/300/tVI], § 601(d), formerly title V, § 501(d), Oct. 13, 1982, [96 Stat. 1395][/us/stat/96/1395]; renumbered title VI, § 601(d), [Pub. L. 100–628, title VII][/us/pl/100/628/tVII], § 712(a)(1), (2), Nov. 7, 1988, [102 Stat. 3248][/us/stat/102/3248]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 306, Aug. 7, 1998, [112 Stat. 1081][/us/stat/112/1081]; [Pub. L. 113–128, title III][/us/pl/113/128/tIII], § 306, July 22, 2014, [128 Stat. 1627][/us/stat/128/1627].)
 
  __Amendments__ 
 
     2014—[Pub. L. 113–128][/us/pl/113/128] amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to submission, required content, and approval of State plans.
 
-    1998—Subsec. (a). [Pub. L. 105–220, § 306(1)][/us/pl/105/220/s306/1], amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
+    1998—Subsec. (a). [Pub. L. 105–220][/us/pl/105/220], § 306(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any State desiring to receive the benefits of this chapter shall, by the agency designated to cooperate with the United States Employment Service, submit to the Secretary of Labor detailed plans for carrying out the provisions of this chapter within such State.”
 
-    Subsec. (b). [Pub. L. 105–220, § 306(2)][/us/pl/105/220/s306/2], (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels.
+    Subsec. (b). [Pub. L. 105–220][/us/pl/105/220], § 306(2), (3), redesignated subsec. (d) as (b) and struck out former subsec. (b) which contained certain requirements for plan preparation at State and national levels.
 
-    Subsec. (c). [Pub. L. 105–220, § 306(2)][/us/pl/105/220/s306/2], (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Governor of the State shall be afforded the opportunity to review and transmit to the Secretary proposed modifications of such plans submitted.”
+    Subsec. (c). [Pub. L. 105–220][/us/pl/105/220], § 306(2), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Governor of the State shall be afforded the opportunity to review and transmit to the Secretary proposed modifications of such plans submitted.”
 
-    Subsec. (d). [Pub. L. 105–220, § 306(5)][/us/pl/105/220/s306/5], (6), redesignated subsec. (e) as (d) and substituted “such detailed plans” for “such plans”. Former subsec. (d) redesignated (b).
+    Subsec. (d). [Pub. L. 105–220][/us/pl/105/220], § 306(5), (6), redesignated subsec. (e) as (d) and substituted “such detailed plans” for “such plans”. Former subsec. (d) redesignated (b).
 
-    Subsec. (e). [Pub. L. 105–220, § 306(5)][/us/pl/105/220/s306/5], redesignated subsec. (e) as (d).
+    Subsec. (e). [Pub. L. 105–220][/us/pl/105/220], § 306(5), redesignated subsec. (e) as (d).
 
-    1982—[Pub. L. 97–300, § 601(d)(1)][/us/pl/97/300/s601/d/1], substituted “Secretary of Labor” for “Director” wherever appearing.
+    1982—[Pub. L. 97–300][/us/pl/97/300], § 601(d)(1), substituted “Secretary of Labor” for “Director” wherever appearing.
 
-    Subsec. (a). [Pub. L. 97–300, § 601(d)(2)][/us/pl/97/300/s601/d/2], designated provisions relating to the submission of a plan to the Secretary by any State desiring to receive benefits under certain sections of this chapter as subsec. (a).
+    Subsec. (a). [Pub. L. 97–300][/us/pl/97/300], § 601(d)(2), designated provisions relating to the submission of a plan to the Secretary by any State desiring to receive benefits under certain sections of this chapter as subsec. (a).
 
-    Subsecs. (b), (c). [Pub. L. 97–300, § 601(d)(5)][/us/pl/97/300/s601/d/5], added subsecs. (b) and (c).
+    Subsecs. (b), (c). [Pub. L. 97–300][/us/pl/97/300], § 601(d)(5), added subsecs. (b) and (c).
 
-    Subsec. (d). [Pub. L. 97–300, § 601(d)(3)][/us/pl/97/300/s601/d/3], designated provisions relating to the inclusion in State plans of provision for handicapped persons employment opportunities and coordination with State agencies similarly concerned as subsec. (d).
+    Subsec. (d). [Pub. L. 97–300][/us/pl/97/300], § 601(d)(3), designated provisions relating to the inclusion in State plans of provision for handicapped persons employment opportunities and coordination with State agencies similarly concerned as subsec. (d).
 
-    Subsec. (e). [Pub. L. 97–300, § 601(d)(4)][/us/pl/97/300/s601/d/4], designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e).
+    Subsec. (e). [Pub. L. 97–300][/us/pl/97/300], § 601(d)(4), designated provisions relating to approval and notice by the Secretary of the State plans as subsec. (e).
 
     1954—Act Aug. 3, 1954, inserted provisions relating to promotion and development of employment opportunities and for job counseling and placement of handicapped persons.
 
@@ -73,29 +73,29 @@
 ----------
 
 [/us/usc/t29/s49e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49e
-[/us/act/1933-06-06/ch49/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49%2Fs8
+[/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F115
-[/us/act/1954-08-03/ch655/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655%2Fs6%2Fb
+[/us/act/1954-08-03/ch655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-03%2Fch655
 [/us/stat/68/665]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F665
-[/us/pl/97/300/s601/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fd
+[/us/pl/97/300/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2FtVI
 [/us/stat/96/1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1395
-[/us/pl/100/628/s712/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs712%2Fa%2F1
+[/us/pl/100/628/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2FtVII
 [/us/stat/102/3248]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3248
-[/us/pl/105/220/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs306
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1081]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1081
-[/us/pl/113/128/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs306
+[/us/pl/113/128/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIII
 [/us/stat/128/1627]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1627
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
-[/us/pl/105/220/s306/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs306%2F1
-[/us/pl/105/220/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs306%2F2
-[/us/pl/105/220/s306/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs306%2F2
-[/us/pl/105/220/s306/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs306%2F5
-[/us/pl/105/220/s306/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs306%2F5
-[/us/pl/97/300/s601/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fd%2F1
-[/us/pl/97/300/s601/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fd%2F2
-[/us/pl/97/300/s601/d/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fd%2F5
-[/us/pl/97/300/s601/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fd%2F3
-[/us/pl/97/300/s601/d/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs601%2Fd%2F4
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
+[/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
+[/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
+[/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
+[/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
+[/us/pl/97/300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

@@ -69,11 +69,11 @@
 
     (f) The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
 
-([Pub. L. 93–406, title I, § 211][/us/pl/93/406/s211], Sept. 2, 1974, [88 Stat. 867][/us/stat/88/867]; [Pub. L. 99–272, title XI, § 11015(a)(1)(B)][/us/pl/99/272/s11015/a/1/B], Apr. 7, 1986, [100 Stat. 265][/us/stat/100/265]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(h)(2), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2451.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 211, Sept. 2, 1974, [88 Stat. 867][/us/stat/88/867]; [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11015(a)(1)(B), Apr. 7, 1986, [100 Stat. 265][/us/stat/100/265]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7891(a)(1), 7894(h)(2), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2451.)
 
  __References in Text__ 
 
-    [Section 1086(c) of this title][/us/usc/t29/s1086/c], referred to in subsec. (c)(1), was in the original “section 307(c)”, meaning [section 307(c) of Pub. L. 93–406][/us/pl/93/406/s307/c], the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by [Pub. L. 100–203, title IX, § 9341(b)(1)][/us/pl/100/203/s9341/b/1], Dec. 22, 1987, [101 Stat. 1330–370][/us/stat/101/1330-370] and subsequently was repealed by [Pub. L. 109–280, title I, § 101(a)][/us/pl/109/280/s101/a], Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784].
+    [Section 1086(c) of this title][/us/usc/t29/s1086/c], referred to in subsec. (c)(1), was in the original “section 307(c)”, meaning [section 307(c) of Pub. L. 93–406][/us/pl/93/406/s307/c], the Employee Retirement Income Security Act of 1974. Section 307(c) was renumbered section 308(c) by [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9341(b)(1), Dec. 22, 1987, [101 Stat. 1330–370][/us/stat/101/1330-370] and subsequently was repealed by [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 101(a), Aug. 17, 2006, [120 Stat. 784][/us/stat/120/784].
 
     This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
@@ -81,9 +81,9 @@
 
  __Amendments__ 
 
-    1989—Subsecs. (c)(1), (d). [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26”.
+    1989—Subsecs. (c)(1), (d). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26”.
 
-    Subsec. (f). [Pub. L. 101–239, § 7894(h)(2)][/us/pl/101/239/s7894/h/2], added subsec. (f).
+    Subsec. (f). [Pub. L. 101–239][/us/pl/101/239], § 7894(h)(2), added subsec. (f).
 
     1986—Subsec. (c)(1). [Pub. L. 99–272][/us/pl/99/272] made a technical amendment to the reference to [section 1086(c) of this title][/us/usc/t29/s1086/c] to reflect the renumbering of the corresponding section of the original act.
 
@@ -110,24 +110,24 @@
 [/us/usc/t29/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053
 [/us/usc/t29/s1053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053
 [/us/usc/t29/s1052/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1052%2Fb%2F3
-[/us/pl/93/406/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs211
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F867
-[/us/pl/99/272/s11015/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11015%2Fa%2F1%2FB
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F265
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/usc/t29/s1086/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1086%2Fc
 [/us/pl/93/406/s307/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs307%2Fc
-[/us/pl/100/203/s9341/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9341%2Fb%2F1
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-370
-[/us/pl/109/280/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs101%2Fa
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F784
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/93/406/s1017]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs1017
 [/us/usc/t26/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs410
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
-[/us/pl/101/239/s7894/h/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fh%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t29/s1086/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1086%2Fc
 [/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1

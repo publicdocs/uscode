@@ -25,7 +25,7 @@
 
     (d) with respect to any cause of action brought under [section 216(b) of this title][/us/usc/t29/s216/b] against a State or a political subdivision of a State in a district court of the United States on or before April 18, 1973, the running of the statutory periods of limitation shall be deemed suspended during the period beginning with the commencement of any such action and ending one hundred and eighty days after the effective date of the Fair Labor Standards Amendments of 1974, except that such suspension shall not be applicable if in such action judgment has been entered for the defendant on the grounds other than State immunity from Federal jurisdiction.
 
-([May 14, 1947, ch. 52, § 6][/us/act/1947-05-14/ch52/s6], [61 Stat. 87][/us/stat/61/87]; [Pub. L. 89–601, title VI, § 601(b)][/us/pl/89/601/s601/b], Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844]; [Pub. L. 93–259, § 6(d)(2)(A)][/us/pl/93/259/s6/d/2/A], Apr. 8, 1974, [88 Stat. 61][/us/stat/88/61].)
+([May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 6, [61 Stat. 87][/us/stat/61/87]; [Pub. L. 89–601, title VI][/us/pl/89/601/tVI], § 601(b), Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844]; [Pub. L. 93–259][/us/pl/93/259], § 6(d)(2)(A), Apr. 8, 1974, [88 Stat. 61][/us/stat/88/61].)
 
  __References in Text__ 
 
@@ -62,11 +62,11 @@
 
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s216/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs216%2Fb
-[/us/act/1947-05-14/ch52/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs6
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/87]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F87
-[/us/pl/89/601/s601/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs601%2Fb
+[/us/pl/89/601/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtVI
 [/us/stat/80/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F844
-[/us/pl/93/259/s6/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fd%2F2%2FA
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F61
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

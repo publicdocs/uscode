@@ -187,7 +187,7 @@
 
         (3) that the Member of Congress who represents the district in which such center is located is notified within a reasonable period of time in advance of any final decision to close the center.
 
-([Pub. L. 113–128, title I, § 159][/us/pl/113/128/s159], July 22, 2014, [128 Stat. 1554][/us/stat/128/1554].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 159, July 22, 2014, [128 Stat. 1554][/us/stat/128/1554].)
 
  __References in Text__ 
 
@@ -211,7 +211,7 @@
 [/us/usc/t29/s3141/i/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3141%2Fi%2F2
 [/us/usc/t29/s3197]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3197
 [/us/usc/t29/s651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs651
-[/us/pl/113/128/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs159
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1554
 [/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1590

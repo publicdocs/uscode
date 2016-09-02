@@ -17,7 +17,7 @@
 
     Notwithstanding this or any other Act regulating labor-management relations, each State shall have the authority to enact and enforce, as part of a comprehensive statutory system to eliminate the threat of pervasive racketeering activity in an industry that is, or over time has been, affected by such activity, a provision of law that applies equally to employers, employees, and collective bargaining representatives, which provision of law governs service in any position in a local labor organization which acts or seeks to act in that State as a collective bargaining representative pursuant to the National Labor Relations Act \[[29 U.S.C. 151][/us/usc/t29/s151] et seq.\], in the industry that is subject to that program.
 
-([Pub. L. 98–473, title II, § 2201][/us/pl/98/473/s2201], Oct. 12, 1984, [98 Stat. 2192][/us/stat/98/2192].)
+([Pub. L. 98–473, title II][/us/pl/98/473/tII], § 2201, Oct. 12, 1984, [98 Stat. 2192][/us/stat/98/2192].)
 
  __References in Text__ 
 
@@ -37,7 +37,7 @@
 ----------
 
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
-[/us/pl/98/473/s2201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs2201
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2192
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/stat/98/1976]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1976

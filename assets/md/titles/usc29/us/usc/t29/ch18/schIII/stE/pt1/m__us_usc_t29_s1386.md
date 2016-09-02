@@ -59,7 +59,7 @@
 
             so that the liability for any complete or partial withdrawal in any subsequent year (after the application of the reduction) properly reflects the employer’s share of liability with respect to the plan.
 
-([Pub. L. 93–406, title IV, § 4206][/us/pl/93/406/s4206], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1222][/us/stat/94/1222].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4206, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1222][/us/stat/94/1222].)
 
 ----------
 
@@ -72,8 +72,8 @@
 [/us/usc/t29/s1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1389
 [/us/usc/t29/s1385/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1385%2Fa%2F1
 [/us/usc/t29/s1385/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1385%2Fa%2F1
-[/us/pl/93/406/s4206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4206
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1222
 
 

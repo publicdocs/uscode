@@ -17,13 +17,13 @@
 
     There shall be a solicitor for the Department of Labor.
 
-([Mar. 18, 1904, ch. 716, § 1][/us/act/1904-03-18/ch716/s1], [33 Stat. 135][/us/stat/33/135]; [Mar. 4, 1913, ch. 141, § 7][/us/act/1913-03-04/ch141/s7], [37 Stat. 738][/us/stat/37/738]; Ex. Ord. No. 6166, § 7, June 10, 1933.)
+([Mar. 18, 1904, ch. 716][/us/act/1904-03-18/ch716], § 1, [33 Stat. 135][/us/stat/33/135]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 7, [37 Stat. 738][/us/stat/37/738]; Ex. Ord. No. 6166, § 7, June 10, 1933.)
 
  __Codification__ 
 
     The words “of the Department of Justice” were omitted from text on authority of section 7 of Ex. Ord. No. 6166, which transferred the Solicitor for the Department of Labor from the Department of Justice to the Department of Labor.
 
-    Section was formerly classified to [section 613b of Title 5][/us/usc/t5/s613b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 613b of Title 5][/us/usc/t5/s613b] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Transfer of Functions__ 
 
@@ -40,12 +40,12 @@
 ----------
 ----------
 
-[/us/act/1904-03-18/ch716/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-03-18%2Fch716%2Fs1
+[/us/act/1904-03-18/ch716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-03-18%2Fch716
 [/us/stat/33/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F135
-[/us/act/1913-03-04/ch141/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs7
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F738
 [/us/usc/t5/s613b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs613b
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315

@@ -57,7 +57,7 @@
 
     (b) Subchapter I of this chapter does not apply to any agricultural employer or agricultural association or to any employee of such an employer or association.
 
-([Pub. L. 97–470, § 4][/us/pl/97/470/s4], Jan. 14, 1983, [96 Stat. 2585][/us/stat/96/2585].)
+([Pub. L. 97–470][/us/pl/97/470], § 4, Jan. 14, 1983, [96 Stat. 2585][/us/stat/96/2585].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 [/us/usc/t29/s213/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213%2Fa%2F6%2FA
 [/us/usc/t29/s152/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs152%2F5
 [/us/usc/t29/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs141
-[/us/pl/97/470/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs4
+[/us/pl/97/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470
 [/us/stat/96/2585]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2585
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F136

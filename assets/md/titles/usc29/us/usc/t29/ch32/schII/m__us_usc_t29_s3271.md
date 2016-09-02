@@ -43,7 +43,7 @@
 
         (B) acquiring an understanding of the American system of Government, individual freedom, and the responsibilities of citizenship.
 
-([Pub. L. 113–128, title II, § 202][/us/pl/113/128/s202], July 22, 2014, [128 Stat. 1608][/us/stat/128/1608].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 202, July 22, 2014, [128 Stat. 1608][/us/stat/128/1608].)
 
  __Effective Date__ 
 
@@ -218,7 +218,7 @@ Sec. 4. Mission and Functions. The Task Force shall work across executive depart
 ----------
 ----------
 
-[/us/pl/113/128/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs202
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1608
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

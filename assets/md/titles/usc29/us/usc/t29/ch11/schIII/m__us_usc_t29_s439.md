@@ -31,7 +31,7 @@
 
         Each individual required to sign reports under sections 431 and 433 of this title shall be personally responsible for the filing of such reports and for any statement contained therein which he knows to be false.
 
-([Pub. L. 86–257, title II, § 209][/us/pl/86/257/s209], Sept. 14, 1959, [73 Stat. 529][/us/stat/73/529].)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 209, Sept. 14, 1959, [73 Stat. 529][/us/stat/73/529].)
 
 ----------
 
@@ -40,7 +40,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s209]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs209
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/529]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F529
 
 

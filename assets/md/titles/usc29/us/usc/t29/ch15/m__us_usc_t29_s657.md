@@ -59,7 +59,7 @@
 
         The Secretary shall not use the results of enforcement activities, such as the number of citations issued or penalties assessed, to evaluate employees directly involved in enforcement activities under this chapter or to impose quotas or goals with regard to the results of such activities.
 
-([Pub. L. 91–596, § 8][/us/pl/91/596/s8], Dec. 29, 1970, [84 Stat. 1598][/us/stat/84/1598]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 105–198, § 1][/us/pl/105/198/s1], July 16, 1998, [112 Stat. 640][/us/stat/112/640].)
+([Pub. L. 91–596][/us/pl/91/596], § 8, Dec. 29, 1970, [84 Stat. 1598][/us/stat/84/1598]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695]; [Pub. L. 105–198][/us/pl/105/198], § 1, July 16, 1998, [112 Stat. 640][/us/stat/112/640].)
 
  __Constitutionality__ 
 
@@ -82,11 +82,11 @@ For information regarding constitutionality of certain provisions of [section 8 
 
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
-[/us/pl/91/596/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs8
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1598
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
-[/us/pl/105/198/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F198%2Fs1
+[/us/pl/105/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F198
 [/us/stat/112/640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F640
 [/us/pl/91/596/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs8
 [/us/pl/105/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F198

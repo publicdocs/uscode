@@ -83,7 +83,7 @@
 
         (4) This subsection shall only apply to an employee who has not attained the age of 20 years.
 
-([June 25, 1938, ch. 676, § 6][/us/act/1938-06-25/ch676/s6], [52 Stat. 1062][/us/stat/52/1062]; [June 26, 1940, ch. 432, § 3(e)][/us/act/1940-06-26/ch432/s3/e], (f), [54 Stat. 616][/us/stat/54/616]; [Oct. 26, 1949, ch. 736, § 6][/us/act/1949-10-26/ch736/s6], [63 Stat. 912][/us/stat/63/912]; [Aug. 12, 1955, ch. 867, § 3][/us/act/1955-08-12/ch867/s3], [69 Stat. 711][/us/stat/69/711]; [Aug. 8, 1956, ch. 1035, § 2][/us/act/1956-08-08/ch1035/s2], [70 Stat. 1118][/us/stat/70/1118]; [Pub. L. 87–30, § 5][/us/pl/87/30/s5], May 5, 1961, [75 Stat. 67][/us/stat/75/67]; [Pub. L. 88–38, § 3][/us/pl/88/38/s3], June 10, 1963, [77 Stat. 56][/us/stat/77/56]; [Pub. L. 89–601, title III][/us/pl/89/601], §§ 301–305, Sept. 23, 1966, [80 Stat. 838][/us/stat/80/838], 839, 841; [Pub. L. 93–259][/us/pl/93/259], §§ 2–4, 5(b), 7(b)(1), Apr. 8, 1974, [88 Stat. 55][/us/stat/88/55], 56, 62; [Pub. L. 95–151, § 2(a)][/us/pl/95/151/s2/a]–(d)(2), Nov. 1, 1977, [91 Stat. 1245][/us/stat/91/1245], 1246; [Pub. L. 101–157][/us/pl/101/157], §§ 2, 4(b), Nov. 17, 1989, [103 Stat. 938][/us/stat/103/938], 940; [Pub. L. 101–239, title X, § 10208(d)(2)(B)(i)][/us/pl/101/239/s10208/d/2/B/i], Dec. 19, 1989, [103 Stat. 2481][/us/stat/103/2481]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], §§ 2104(b), (c), 2105(c), Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928], 1929; [Pub. L. 110–28, title VIII][/us/pl/110/28], §§ 8102(a), 8103(c)(1)(B), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189.)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 6, [52 Stat. 1062][/us/stat/52/1062]; [June 26, 1940, ch. 432][/us/act/1940-06-26/ch432], § 3(e), (f), [54 Stat. 616][/us/stat/54/616]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 6, [63 Stat. 912][/us/stat/63/912]; [Aug. 12, 1955, ch. 867][/us/act/1955-08-12/ch867], § 3, [69 Stat. 711][/us/stat/69/711]; [Aug. 8, 1956, ch. 1035][/us/act/1956-08-08/ch1035], § 2, [70 Stat. 1118][/us/stat/70/1118]; [Pub. L. 87–30][/us/pl/87/30], § 5, May 5, 1961, [75 Stat. 67][/us/stat/75/67]; [Pub. L. 88–38][/us/pl/88/38], § 3, June 10, 1963, [77 Stat. 56][/us/stat/77/56]; [Pub. L. 89–601, title III][/us/pl/89/601/tIII], §§ 301–305, Sept. 23, 1966, [80 Stat. 838][/us/stat/80/838], 839, 841; [Pub. L. 93–259][/us/pl/93/259], §§ 2–4, 5(b), 7(b)(1), Apr. 8, 1974, [88 Stat. 55][/us/stat/88/55], 56, 62; [Pub. L. 95–151][/us/pl/95/151], § 2(a)–(d)(2), Nov. 1, 1977, [91 Stat. 1245][/us/stat/91/1245], 1246; [Pub. L. 101–157][/us/pl/101/157], §§ 2, 4(b), Nov. 17, 1989, [103 Stat. 938][/us/stat/103/938], 940; [Pub. L. 101–239, title X][/us/pl/101/239/tX], § 10208(d)(2)(B)(i), Dec. 19, 1989, [103 Stat. 2481][/us/stat/103/2481]; [Pub. L. 104–188][/us/pl/104/188], \[title II\], §§ 2104(b), (c), 2105(c), Aug. 20, 1996, [110 Stat. 1928][/us/stat/110/1928], 1929; [Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], §§ 8102(a), 8103(c)(1)(B), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189.)
 
  __References in Text__ 
 
@@ -97,53 +97,53 @@
 
  __Codification__ 
 
-    In subsec. (e)(1), “chapter 67 of title 41” substituted for “the Service Contract Act of 1965 ([41 U.S.C. 351–357][/us/usc/t41/s351–357])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e)(1), “chapter 67 of title 41” substituted for “the Service Contract Act of 1965 ([41 U.S.C. 351–357][/us/usc/t41/s351–357])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
-    In subsec. (e)(2), “chapter 67 of title 41” substituted for “the Service Contract Act of 1965” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (e)(2), “chapter 67 of title 41” substituted for “the Service Contract Act of 1965” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
-    2007—Subsec. (a)(1). [Pub. L. 110–28, § 8102(a)][/us/pl/110/28/s8102/a], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $4.25 an hour during the period ending on September 30, 1996, not less than $4.75 an hour during the year beginning on October 1, 1996, and not less than $5.15 an hour beginning September 1, 1997;”.
+    2007—Subsec. (a)(1). [Pub. L. 110–28][/us/pl/110/28], § 8102(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $4.25 an hour during the period ending on September 30, 1996, not less than $4.75 an hour during the year beginning on October 1, 1996, and not less than $5.15 an hour beginning September 1, 1997;”.
 
-    Subsec. (a)(3) to (5). [Pub. L. 110–28, § 8103(c)(1)(B)][/us/pl/110/28/s8103/c/1/B], redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “if such employee is employed in American Samoa, in lieu of the rate or rates provided by this subsection or subsection (b), not less than the applicable rate established by the Secretary of Labor in accordance with recommendations of a special industry committee or committees which he shall appoint pursuant to sections 205 and 208 of this title. The minimum wage rate thus established shall not exceed the rate prescribed in paragraph (1) of this subsection;”.
+    Subsec. (a)(3) to (5). [Pub. L. 110–28][/us/pl/110/28], § 8103(c)(1)(B), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “if such employee is employed in American Samoa, in lieu of the rate or rates provided by this subsection or subsection (b), not less than the applicable rate established by the Secretary of Labor in accordance with recommendations of a special industry committee or committees which he shall appoint pursuant to sections 205 and 208 of this title. The minimum wage rate thus established shall not exceed the rate prescribed in paragraph (1) of this subsection;”.
 
-    1996—Subsec. (a)(1). [Pub. L. 104–188, § 2104(b)][/us/pl/104/188/s2104/b], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $3.35 an hour during the period ending March 31, 1990, not less than $3.80 an hour during the year beginning April 1, 1990, and not less than $4.25 an hour after March 31, 1991;”.
+    1996—Subsec. (a)(1). [Pub. L. 104–188][/us/pl/104/188], § 2104(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “except as otherwise provided in this section, not less than $3.35 an hour during the period ending March 31, 1990, not less than $3.80 an hour during the year beginning April 1, 1990, and not less than $4.25 an hour after March 31, 1991;”.
 
-    Subsec. (c). [Pub. L. 104–188, § 2104(c)][/us/pl/104/188/s2104/c], struck out subsec. (c) which related to employees in Puerto Rico.
+    Subsec. (c). [Pub. L. 104–188][/us/pl/104/188], § 2104(c), struck out subsec. (c) which related to employees in Puerto Rico.
 
-    Subsec. (g). [Pub. L. 104–188, § 2105(c)][/us/pl/104/188/s2105/c], added subsec. (g).
+    Subsec. (g). [Pub. L. 104–188][/us/pl/104/188], § 2105(c), added subsec. (g).
 
-    1989—Subsec. (a)(1). [Pub. L. 101–157, § 2][/us/pl/101/157/s2], amended par. (1) generally. Prior to amendment, par. (1) read as follows: “not less than $2.65 an hour during the year beginning January 1, 1978, not less than $2.90 an hour during the year beginning January 1, 1979, not less than $3.10 an hour during the year beginning January 1, 1980, and not less than $3.35 an hour after December 31, 1980, except as otherwise provided in this section;”.
+    1989—Subsec. (a)(1). [Pub. L. 101–157][/us/pl/101/157], § 2, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “not less than $2.65 an hour during the year beginning January 1, 1978, not less than $2.90 an hour during the year beginning January 1, 1979, not less than $3.10 an hour during the year beginning January 1, 1980, and not less than $3.35 an hour after December 31, 1980, except as otherwise provided in this section;”.
 
-    Subsec. (a)(3). [Pub. L. 101–157, § 4(b)(1)][/us/pl/101/157/s4/b/1], substituted “pursuant to sections 205 and 208 of this title” for “in the same manner and pursuant to the same provisions as are applicable to the special industry committees provided for Puerto Rico and the Virgin Islands by this chapter as amended from time to time. Each such committee shall have the same powers and duties and shall apply the same standards with respect to the application of the provisions of this chapter to employees employed in American Samoa as pertain to special industry committees established under [section 205 of this title][/us/usc/t29/s205] with respect to employees employed in Puerto Rico or the Virgin Islands”.
+    Subsec. (a)(3). [Pub. L. 101–157][/us/pl/101/157], § 4(b)(1), substituted “pursuant to sections 205 and 208 of this title” for “in the same manner and pursuant to the same provisions as are applicable to the special industry committees provided for Puerto Rico and the Virgin Islands by this chapter as amended from time to time. Each such committee shall have the same powers and duties and shall apply the same standards with respect to the application of the provisions of this chapter to employees employed in American Samoa as pertain to special industry committees established under [section 205 of this title][/us/usc/t29/s205] with respect to employees employed in Puerto Rico or the Virgin Islands”.
 
-    Subsec. (c). [Pub. L. 101–157, § 4(b)(2)][/us/pl/101/157/s4/b/2], amended subsec. (c) generally, substituting provisions relating to the application of wage rates under subsec. (a)(1) to employees in Puerto Rico for provisions relating to the superseding of subsec. (a)(1) wage rates by wage orders of a special industry committee for employees in Puerto Rico and the Virgin Islands.
+    Subsec. (c). [Pub. L. 101–157][/us/pl/101/157], § 4(b)(2), amended subsec. (c) generally, substituting provisions relating to the application of wage rates under subsec. (a)(1) to employees in Puerto Rico for provisions relating to the superseding of subsec. (a)(1) wage rates by wage orders of a special industry committee for employees in Puerto Rico and the Virgin Islands.
 
     Subsec. (f)(1). [Pub. L. 101–239][/us/pl/101/239] substituted “209(a)(6)” for “209(g)”.
 
-    1977—Subsec. (a)(1). [Pub. L. 95–151, § 2(a)][/us/pl/95/151/s2/a], substituted “not less than $2.65 an hour during the year beginning January 1, 1978, not less than $2.90 an hour during the year beginning January 1, 1979, not less than $3.10 an hour during the year beginning January 1, 1980, and not less than $3.35 an hour after December 1, 1980” for “not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975”.
+    1977—Subsec. (a)(1). [Pub. L. 95–151][/us/pl/95/151], § 2(a), substituted “not less than $2.65 an hour during the year beginning January 1, 1978, not less than $2.90 an hour during the year beginning January 1, 1979, not less than $3.10 an hour during the year beginning January 1, 1980, and not less than $3.35 an hour after December 1, 1980” for “not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975”.
 
-    Subsec. (a)(5). [Pub. L. 95–151, § 2(b)][/us/pl/95/151/s2/b], substituted provisions for a minimum wage rate of not less than the minimum wage rate in effect under par. (1) after Dec. 31, 1977, for provisions for a minimum wage rate of not less than $1.60 an hour during the period ending Dec. 31, 1974, $1.80 an hour during the year beginning Jan. 1, 1975, $2 an hour during the year beginning Jan. 1, 1976, $2.20 an hour during the year beginning Jan. 1, 1977, and $2.30 an hour after Dec. 31, 1977.
+    Subsec. (a)(5). [Pub. L. 95–151][/us/pl/95/151], § 2(b), substituted provisions for a minimum wage rate of not less than the minimum wage rate in effect under par. (1) after Dec. 31, 1977, for provisions for a minimum wage rate of not less than $1.60 an hour during the period ending Dec. 31, 1974, $1.80 an hour during the year beginning Jan. 1, 1975, $2 an hour during the year beginning Jan. 1, 1976, $2.20 an hour during the year beginning Jan. 1, 1977, and $2.30 an hour after Dec. 31, 1977.
 
-    Subsec. (b). [Pub. L. 95–151, § 2(c)][/us/pl/95/151/s2/c], substituted provisions for a minimum wage rate, effective after Dec. 31, 1977, of not less than the minimum wage rate in effect under subsec. (a)(1) of this section, for provisions for a minimum wage rate of not less than $1.90 an hour during the period ending Dec. 31, 1974, not less than $2 an hour during the year beginning Jan. 1, 1975, not less than $2.20 an hour during the year beginning Jan. 1, 1976, and not less than $2.30 an hour after Dec. 31, 1976.
+    Subsec. (b). [Pub. L. 95–151][/us/pl/95/151], § 2(c), substituted provisions for a minimum wage rate, effective after Dec. 31, 1977, of not less than the minimum wage rate in effect under subsec. (a)(1) of this section, for provisions for a minimum wage rate of not less than $1.90 an hour during the period ending Dec. 31, 1974, not less than $2 an hour during the year beginning Jan. 1, 1975, not less than $2.20 an hour during the year beginning Jan. 1, 1976, and not less than $2.30 an hour after Dec. 31, 1976.
 
-    Subsec. (c)(1). [Pub. L. 95–151, § 2(d)(2)(A)][/us/pl/95/151/s2/d/2/A], inserted “(A)” before “heretofore” and cl. (B), and substituted “subsection (a)(1)” for “subsections (a) and (b)”.
+    Subsec. (c)(1). [Pub. L. 95–151][/us/pl/95/151], § 2(d)(2)(A), inserted “(A)” before “heretofore” and cl. (B), and substituted “subsection (a)(1)” for “subsections (a) and (b)”.
 
-    Subsec. (c)(2). [Pub. L. 95–151, § 2(d)(1)][/us/pl/95/151/s2/d/1], added par. (2). Former par. (2), relating to applicability, etc., of wage rate orders effective on the effective date of the Fair Labor Standards Amendments of 1974, and effective on the first day of the second and each subsequent year after such date, was struck out.
+    Subsec. (c)(2). [Pub. L. 95–151][/us/pl/95/151], § 2(d)(1), added par. (2). Former par. (2), relating to applicability, etc., of wage rate orders effective on the effective date of the Fair Labor Standards Amendments of 1974, and effective on the first day of the second and each subsequent year after such date, was struck out.
 
-    Subsec. (c)(3). [Pub. L. 95–151, § 2(d)(1)][/us/pl/95/151/s2/d/1], (2)(B), (C), redesignated par. (5) as (3) and substituted references to subsec. (a)(1) of this section, for references to subsec. (a) or (b) of this section. Former par. (3), relating to appointment of a special industry committee for recommendations with respect to highest minimum wage rates for employees employed in Puerto Rico or the Virgin Islands subject to the amendments to this chapter by the Fair Labor Standards Amendments of 1974, was struck out.
+    Subsec. (c)(3). [Pub. L. 95–151][/us/pl/95/151], § 2(d)(1), (2)(B), (C), redesignated par. (5) as (3) and substituted references to subsec. (a)(1) of this section, for references to subsec. (a) or (b) of this section. Former par. (3), relating to appointment of a special industry committee for recommendations with respect to highest minimum wage rates for employees employed in Puerto Rico or the Virgin Islands subject to the amendments to this chapter by the Fair Labor Standards Amendments of 1974, was struck out.
 
-    Subsec. (c)(4). [Pub. L. 95–151, § 2(d)(1)][/us/pl/95/151/s2/d/1], (2)(B), (D), redesignated par. (6) as (4) and struck out “or (3)” after “(2)”. Former par. (4), relating to wage rates of employees in Puerto Rico or the Virgin Islands subject to the former provisions of subsec. (c)(2)(A) or (3) of this section, was struck out.
+    Subsec. (c)(4). [Pub. L. 95–151][/us/pl/95/151], § 2(d)(1), (2)(B), (D), redesignated par. (6) as (4) and struck out “or (3)” after “(2)”. Former par. (4), relating to wage rates of employees in Puerto Rico or the Virgin Islands subject to the former provisions of subsec. (c)(2)(A) or (3) of this section, was struck out.
 
-    Subsec. (c)(5), (6). [Pub. L. 95–151, § 2(d)(2)(B)][/us/pl/95/151/s2/d/2/B], redesignated pars. (5) and (6) as (3) and (4), respectively.
+    Subsec. (c)(5), (6). [Pub. L. 95–151][/us/pl/95/151], § 2(d)(2)(B), redesignated pars. (5) and (6) as (3) and (4), respectively.
 
-    1974—Subsec. (a)(1). [Pub. L. 93–259, § 2][/us/pl/93/259/s2], substituted “not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975” for “not less than $1.40 an hour during the first year from the effective date of the Fair Labor Standards Amendments of 1966 and not less than $1.60 an hour thereafter”.
+    1974—Subsec. (a)(1). [Pub. L. 93–259][/us/pl/93/259], § 2, substituted “not less than $2 an hour during the period ending December 31, 1974, not less than $2.10 an hour during the year beginning January 1, 1975, and not less than $2.30 an hour after December 31, 1975” for “not less than $1.40 an hour during the first year from the effective date of the Fair Labor Standards Amendments of 1966 and not less than $1.60 an hour thereafter”.
 
-    Subsec. (a)(5). [Pub. L. 93–259, § 4][/us/pl/93/259/s4], substituted provisions for a minimum wage rate not less than: $1.60 an hour during period ending Dec. 31, 1974; $1.80, $2, and $2.20 an hour during years beginning Jan. 1, 1975, 1976, and 1977, respectively; and $2.30 an hour after Dec. 31, 1977 for former provisions for a minimum wage rate not less than $1 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966, not less than $1.15 an hour during second year from such date, and not less than $1.30 an hour thereafter.
+    Subsec. (a)(5). [Pub. L. 93–259][/us/pl/93/259], § 4, substituted provisions for a minimum wage rate not less than: $1.60 an hour during period ending Dec. 31, 1974; $1.80, $2, and $2.20 an hour during years beginning Jan. 1, 1975, 1976, and 1977, respectively; and $2.30 an hour after Dec. 31, 1977 for former provisions for a minimum wage rate not less than $1 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966, not less than $1.15 an hour during second year from such date, and not less than $1.30 an hour thereafter.
 
-    Subsec. (b). [Pub. L. 93–259, § 3][/us/pl/93/259/s3], inserted references to “title II of the Education Amendments of 1972” and “Fair Labor Standards Amendments of 1974” and substituted provisions for a minimum wage rate not less than $1.90 an hour during period ending Dec. 31, 1974; $2 and $2.20 an hour during years beginning Jan. 1, 1975, and 1976, respectively; and $2.30 an hour after Dec. 31, 1976 for former provisions for a minimum wage rate not less than: $1 an hour during first year from effective date of Fair Labor Standards Amendments of 1966; $1.15, $1.30, and $1.45 an hour during second, third, and fourth years from such date; and $1.60 an hour thereafter.
+    Subsec. (b). [Pub. L. 93–259][/us/pl/93/259], § 3, inserted references to “title II of the Education Amendments of 1972” and “Fair Labor Standards Amendments of 1974” and substituted provisions for a minimum wage rate not less than $1.90 an hour during period ending Dec. 31, 1974; $2 and $2.20 an hour during years beginning Jan. 1, 1975, and 1976, respectively; and $2.30 an hour after Dec. 31, 1976 for former provisions for a minimum wage rate not less than: $1 an hour during first year from effective date of Fair Labor Standards Amendments of 1966; $1.15, $1.30, and $1.45 an hour during second, third, and fourth years from such date; and $1.60 an hour thereafter.
 
-    Subsec. (c)(2) to (6). [Pub. L. 93–259, § 5(b)][/us/pl/93/259/s5/b], added pars. (2) to (6) and struck out former pars. (2) to (4) which had provided:
+    Subsec. (c)(2) to (6). [Pub. L. 93–259][/us/pl/93/259], § 5(b), added pars. (2) to (6) and struck out former pars. (2) to (4) which had provided:
 
     “(2) In the case of any such employee who is covered by such a wage order and to whom the rate or rates prescribed by subsection (a) would otherwise apply, the following rates shall apply:
 
@@ -159,33 +159,33 @@
 
     “(4) The provisions of sections 205 and 208 of this title, relating to special industry committees, shall be applicable to review committees appointed under this subsection. The appointment of a review committee shall be in addition to and not in lieu of any special industry committee required to be appointed pursuant to the provisions of subsection (a) of [section 208 of this title][/us/usc/t29/s208], except that no special industry committee shall hold any hearing within one year after a minimum wage rate or rates for such industry shall have been recommended to the Secretary by a review committee to be paid in lieu of the rate or rates provided for under paragraph (A) or (B). The minimum wage rate or rates prescribed by this subsection shall be in effect only for so long as and insofar as such minimum wage rate or rates have not been superseded by a wage order fixing a higher minimum wage rate or rates (but not in excess of the applicable rate prescribed in subsection (a) or subsection (b)) hereafter issued by the Secretary pursuant to the recommendation of a special industry committee.”
 
-    Subsec. (f). [Pub. L. 93–259, § 7(b)(1)][/us/pl/93/259/s7/b/1], added subsec. (f).
+    Subsec. (f). [Pub. L. 93–259][/us/pl/93/259], § 7(b)(1), added subsec. (f).
 
-    1966—Subsec. (a). [Pub. L. 89–601, § 301(a)][/us/pl/89/601/s301/a], inserted “, or is employed in an enterprise engaged in commerce or in the production of goods for commerce,” in opening provisions.
+    1966—Subsec. (a). [Pub. L. 89–601][/us/pl/89/601], § 301(a), inserted “, or is employed in an enterprise engaged in commerce or in the production of goods for commerce,” in opening provisions.
 
-    Subsec. (a)(1). [Pub. L. 89–601, § 301(a)][/us/pl/89/601/s301/a], raised minimum wage to not less than $1.40 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966, and not less than $1.60 thereafter, except as otherwise provided in this section.
+    Subsec. (a)(1). [Pub. L. 89–601][/us/pl/89/601], § 301(a), raised minimum wage to not less than $1.40 an hour during first year from the effective date of the Fair Labor Standards Amendments of 1966, and not less than $1.60 thereafter, except as otherwise provided in this section.
 
-    Subsec. (a)(4). [Pub. L. 89–601, § 301(b)][/us/pl/89/601/s301/b], added par. (4).
+    Subsec. (a)(4). [Pub. L. 89–601][/us/pl/89/601], § 301(b), added par. (4).
 
-    Subsec. (a)(5). [Pub. L. 89–601, § 302][/us/pl/89/601/s302], added par. (5).
+    Subsec. (a)(5). [Pub. L. 89–601][/us/pl/89/601], § 302, added par. (5).
 
-    Subsec. (b). [Pub. L. 89–601, § 303][/us/pl/89/601/s303], substituted provisions for a minimum wage for employees covered for first time by the Fair Labor Standards Amendments of 1966 (other than newly covered agricultural employees) at not less than $1 an hour during first year from the effective date of the 1966 amendments, not less than $1.15 an hour during second year from such date, not less than $1.30 an hour during third year from such date, not less than $1.45 an hour during fourth year from such date, and not less than $1.60 an hour thereafter, for provisions setting a timetable for increases in the minimum wage of employees first covered by the Fair Labor Standards Amendments of 1961.
+    Subsec. (b). [Pub. L. 89–601][/us/pl/89/601], § 303, substituted provisions for a minimum wage for employees covered for first time by the Fair Labor Standards Amendments of 1966 (other than newly covered agricultural employees) at not less than $1 an hour during first year from the effective date of the 1966 amendments, not less than $1.15 an hour during second year from such date, not less than $1.30 an hour during third year from such date, not less than $1.45 an hour during fourth year from such date, and not less than $1.60 an hour thereafter, for provisions setting a timetable for increases in the minimum wage of employees first covered by the Fair Labor Standards Amendments of 1961.
 
-    Subsec. (c). [Pub. L. 89–601, § 304][/us/pl/89/601/s304], provided for a percentage minimum wage increase for employees in Puerto Rico and the Virgin Islands who are covered by wage orders already in effect as the equivalent of the percentage increase on the mainland, provided for minimum wages for employees brought within coverage of this chapter for the first time by the Fair Labor Standards Amendments of 1966 at rates to be set by special industry committees so as to reach as rapidly as is economically feasible without substantially curtailing employment the objectives of the minimum wage prescribed for mainland employees, and eliminated the review committees that has been established by the Fair Labor Standards Amendments of 1961.
+    Subsec. (c). [Pub. L. 89–601][/us/pl/89/601], § 304, provided for a percentage minimum wage increase for employees in Puerto Rico and the Virgin Islands who are covered by wage orders already in effect as the equivalent of the percentage increase on the mainland, provided for minimum wages for employees brought within coverage of this chapter for the first time by the Fair Labor Standards Amendments of 1966 at rates to be set by special industry committees so as to reach as rapidly as is economically feasible without substantially curtailing employment the objectives of the minimum wage prescribed for mainland employees, and eliminated the review committees that has been established by the Fair Labor Standards Amendments of 1961.
 
-    Subsec. (e). [Pub. L. 89–601, § 305][/us/pl/89/601/s305], added subsec. (e).
+    Subsec. (e). [Pub. L. 89–601][/us/pl/89/601], § 305, added subsec. (e).
 
     1963—Subsec. (d). [Pub. L. 88–38][/us/pl/88/38] added subsec. (d).
 
-    1961—Subsec. (a). [Pub. L. 87–30, § 5(a)(1)][/us/pl/87/30/s5/a/1], inserted “in any workweek” in opening provisions.
+    1961—Subsec. (a). [Pub. L. 87–30][/us/pl/87/30], § 5(a)(1), inserted “in any workweek” in opening provisions.
 
-    Subsec. (a)(1). [Pub. L. 87–30, § 5(a)(2)][/us/pl/87/30/s5/a/2], increased minimum wage from not less than $1 an hour to not less than $1.15 an hour during first two years from the effective date of the Fair Labor Standards Amendments of 1961, and not less than $1.25 an hour thereafter.
+    Subsec. (a)(1). [Pub. L. 87–30][/us/pl/87/30], § 5(a)(2), increased minimum wage from not less than $1 an hour to not less than $1.15 an hour during first two years from the effective date of the Fair Labor Standards Amendments of 1961, and not less than $1.25 an hour thereafter.
 
-    Subsec. (a)(3). [Pub. L. 87–30, § 5(a)(3)][/us/pl/87/30/s5/a/3], inserted “in lieu of the rate or rates provided by this subsection or subsection (b)” and “as amended from time to time” and struck out “now” before “applicable to”.
+    Subsec. (a)(3). [Pub. L. 87–30][/us/pl/87/30], § 5(a)(3), inserted “in lieu of the rate or rates provided by this subsection or subsection (b)” and “as amended from time to time” and struck out “now” before “applicable to”.
 
-    Subsec. (b). [Pub. L. 87–30, § 5(b)][/us/pl/87/30/s5/b], added subsec. (b). Former subsec. (b) had provided that “This section shall take effect upon the expiration of one hundred and twenty days from June 25, 1938.”
+    Subsec. (b). [Pub. L. 87–30][/us/pl/87/30], § 5(b), added subsec. (b). Former subsec. (b) had provided that “This section shall take effect upon the expiration of one hundred and twenty days from June 25, 1938.”
 
-    Subsec. (c). [Pub. L. 87–30, § 5(c)][/us/pl/87/30/s5/c], added subsec. (c). Former subsec. (c) had provided for wage orders recommended by special industrial committees and covering employees in Puerto Rico and the Virgin Islands to supersede minimum wages of $1 an hour and for continuance of wage orders in effect prior to effective date of this chapter until superseded by wage orders recommended by the special industrial committees.
+    Subsec. (c). [Pub. L. 87–30][/us/pl/87/30], § 5(c), added subsec. (c). Former subsec. (c) had provided for wage orders recommended by special industrial committees and covering employees in Puerto Rico and the Virgin Islands to supersede minimum wages of $1 an hour and for continuance of wage orders in effect prior to effective date of this chapter until superseded by wage orders recommended by the special industrial committees.
 
     1956—Subsec. (a)(3). Act Aug. 8, 1956, added par. (3).
 
@@ -199,17 +199,17 @@
 
  __Effective Date of 2015 Amendment__ 
 
-[Pub. L. 114–61, § 1(c)][/us/pl/114/61/s1/c], Oct. 7, 2015, [129 Stat. 546][/us/stat/129/546], provided that: 
+[Pub. L. 114–61][/us/pl/114/61], § 1(c), Oct. 7, 2015, [129 Stat. 546][/us/stat/129/546], provided that: 
 
 > “This Act \[amending provisions set out as notes under this section\], and the amendments made by this Act, shall take effect as of September 29, 2015.”
 
  __Effective Date of 2007 Amendment__ 
 
-[Pub. L. 110–28, title VIII, § 8102(b)][/us/pl/110/28/s8102/b], May 25, 2007, [121 Stat. 188][/us/stat/121/188], provided that: 
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8102(b), May 25, 2007, [121 Stat. 188][/us/stat/121/188], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] shall take effect 60 days after the date of enactment of this Act \[May 25, 2007\].”
 
-[Pub. L. 110–28, title VIII, § 8103(c)(2)][/us/pl/110/28/s8103/c/2], May 25, 2007, [121 Stat. 189][/us/stat/121/189], provided that: 
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8103(c)(2), May 25, 2007, [121 Stat. 189][/us/stat/121/189], provided that: 
 
 > “The amendments made by this subsection \[amending this section and repealing sections 205 and 208 of this title\] shall take effect 60 days after the date of enactment of this Act \[May 25, 2007\].”
 
@@ -221,7 +221,7 @@
 
     Amendment by sections 2 to 4 and 7(b)(1) of [Pub. L. 93–259][/us/pl/93/259] effective May 1, 1974, see [section 29(a) of Pub. L. 93–259][/us/pl/93/259/s29/a], set out as a note under [section 202 of this title][/us/usc/t29/s202].
 
-    [Pub. L. 93–259, § 5(b)][/us/pl/93/259/s5/b], Apr. 8, 1974, [88 Stat. 56][/us/stat/88/56], provided that the amendment made by that section is effective Apr. 8, 1974.
+    [Pub. L. 93–259][/us/pl/93/259], § 5(b), Apr. 8, 1974, [88 Stat. 56][/us/stat/88/56], provided that the amendment made by that section is effective Apr. 8, 1974.
 
  __Effective Date of 1966 Amendment__ 
 
@@ -229,7 +229,7 @@
 
  __Effective Date of 1963 Amendment__ 
 
-[Pub. L. 88–38, § 4][/us/pl/88/38/s4], June 10, 1963, [77 Stat. 57][/us/stat/77/57], provided that: 
+[Pub. L. 88–38][/us/pl/88/38], § 4, June 10, 1963, [77 Stat. 57][/us/stat/77/57], provided that: 
 
 > “The amendments made by this Act \[amending this section and enacting provisions set out below\] shall take effect upon the expiration of one year from the date of its enactment \[June 10, 1963\]: Provided, That in the case of employees covered by a bona fide collective bargaining agreement in effect at least thirty days prior to the date of enactment of this Act \[June 10, 1963\], entered into by a labor organization as defined in section 6(d)(4) of the Fair Labor Standards Act of 1938, as amended \[subsec. (d)(4) of this section\], the amendments made by this Act shall take effect upon the termination of such collective bargaining agreement or upon the expiration of two years from the date of enactment of this Act \[June 10, 1963\], whichever shall first occur.”
 
@@ -239,7 +239,7 @@
 
  __Effective Date of 1955 Amendment__ 
 
-    [Act Aug. 12, 1955, ch. 867, § 3][/us/act/1955-08-12/ch867/s3], [69 Stat. 711][/us/stat/69/711], provided that the amendment made by section 3 is effective Mar. 1, 1956.
+    [Act Aug. 12, 1955, ch. 867][/us/act/1955-08-12/ch867], § 3, [69 Stat. 711][/us/stat/69/711], provided that the amendment made by section 3 is effective Mar. 1, 1956.
 
  __Effective Date of 1949 Amendment__ 
 
@@ -253,7 +253,7 @@
 
  __Applicability of Minimum Wage to American Samoa and the Commonwealth of the Northern Mariana Islands__ 
 
-[Pub. L. 110–28, title VIII, § 8103(a)][/us/pl/110/28/s8103/a], (b), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189, as amended by [Pub. L. 111–117, div. D, title V, § 520][/us/pl/111/117/s520], Dec. 16, 2009, [123 Stat. 3283][/us/stat/123/3283]; [Pub. L. 111–244, § 2(a)][/us/pl/111/244/s2/a], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(a)][/us/pl/112/149/s4/a], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 113–34, § 2][/us/pl/113/34/s2], Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518]; [Pub. L. 114–61, § 1(a)][/us/pl/114/61/s1/a], Oct. 7, 2015, [129 Stat. 545][/us/stat/129/545], provided that:
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8103(a), (b), May 25, 2007, [121 Stat. 188][/us/stat/121/188], 189, as amended by [Pub. L. 111–117, div. D, title V][/us/pl/111/117/dD/tV], § 520, Dec. 16, 2009, [123 Stat. 3283][/us/stat/123/3283]; [Pub. L. 111–244][/us/pl/111/244], § 2(a), Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149][/us/pl/112/149], § 4(a), July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 113–34][/us/pl/113/34], § 2, Sept. 18, 2013, [127 Stat. 518][/us/stat/127/518]; [Pub. L. 114–61][/us/pl/114/61], § 1(a), Oct. 7, 2015, [129 Stat. 545][/us/stat/129/545], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -281,7 +281,7 @@
 
  __Report on the Impact of Past and Future Minimum Wage Increases__ 
 
-[Pub. L. 110–28, title VIII, § 8104][/us/pl/110/28/s8104], May 25, 2007, [121 Stat. 189][/us/stat/121/189], as amended by [Pub. L. 111–5, div. A, title VIII, § 802(a)][/us/pl/111/5/s802/a], Feb. 17, 2009, [123 Stat. 186][/us/stat/123/186]; [Pub. L. 111–244, § 2(b)][/us/pl/111/244/s2/b], Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149, § 4(b)][/us/pl/112/149/s4/b], July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 114–61, § 1(b)][/us/pl/114/61/s1/b], Oct. 7, 2015, [129 Stat. 545][/us/stat/129/545], provided that:
+[Pub. L. 110–28, title VIII][/us/pl/110/28/tVIII], § 8104, May 25, 2007, [121 Stat. 189][/us/stat/121/189], as amended by [Pub. L. 111–5, div. A, title VIII][/us/pl/111/5/dA/tVIII], § 802(a), Feb. 17, 2009, [123 Stat. 186][/us/stat/123/186]; [Pub. L. 111–244][/us/pl/111/244], § 2(b), Sept. 30, 2010, [124 Stat. 2618][/us/stat/124/2618]; [Pub. L. 112–149][/us/pl/112/149], § 4(b), July 26, 2012, [126 Stat. 1145][/us/stat/126/1145]; [Pub. L. 114–61][/us/pl/114/61], § 1(b), Oct. 7, 2015, [129 Stat. 545][/us/stat/129/545], provided that:
 
 >     “(a)  __Report__  __.—__ 
 
@@ -295,7 +295,7 @@
 
 >     Not later than 1 year after the date of enactment of ‘An Act to amend the Fair Minimum Wage Act of 2007 to reduce a scheduled increase in the minimum wage applicable to American Samoa’ \[[Pub. L. 114–61][/us/pl/114/61], approved Oct. 7, 2015\], the Government Accountability Office shall transmit to Congress a report on alternative ways of increasing the minimum wage in American Samoa to keep pace with the cost of living in American Samoa and to eventually equal the minimum wage set forth in section 6(a)(1) of the Fair Labor Standards Act of 1938 ([29 U.S.C. 206(a)(1)][/us/usc/t29/s206/a/1]).”
 
-\[[Pub. L. 111–5, div. A, title VIII, § 802(b)][/us/pl/111/5/s802/b], Feb. 17, 2009, [123 Stat. 187][/us/stat/123/187], provided that: 
+\[[Pub. L. 111–5, div. A, title VIII][/us/pl/111/5/dA/tVIII], § 802(b), Feb. 17, 2009, [123 Stat. 187][/us/stat/123/187], provided that: 
 
 > “The amendment made by this section \[amending [section 8104 of Pub. L. 110–28][/us/pl/110/28/s8104], set out above\] shall take effect on the date of enactment of this Act \[Feb. 17, 2009\].”
 
@@ -303,7 +303,7 @@
 
  __Training Wage__ 
 
-[Pub. L. 101–157, § 6][/us/pl/101/157/s6], Nov. 17, 1989, [103 Stat. 941][/us/stat/103/941], provided that:
+[Pub. L. 101–157][/us/pl/101/157], § 6, Nov. 17, 1989, [103 Stat. 941][/us/stat/103/941], provided that:
 
 >     “(a) __In General.—__ 
 
@@ -453,7 +453,7 @@
 
  __Congressional Finding and Declaration of Policy__ 
 
-[Pub. L. 88–38, § 2][/us/pl/88/38/s2], June 10, 1963, [77 Stat. 56][/us/stat/77/56], provided that:
+[Pub. L. 88–38][/us/pl/88/38], § 2, June 10, 1963, [77 Stat. 56][/us/stat/77/56], provided that:
 
 >     “(a)
 
@@ -490,33 +490,33 @@
 [/us/usc/t42/s409/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs409%2Fa%2F6
 [/us/usc/t42/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs401
 [/us/usc/t29/s215/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs215%2Fa%2F3
-[/us/act/1938-06-25/ch676/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs6
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1062]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1062
-[/us/act/1940-06-26/ch432/s3/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-26%2Fch432%2Fs3%2Fe
+[/us/act/1940-06-26/ch432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1940-06-26%2Fch432
 [/us/stat/54/616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F616
-[/us/act/1949-10-26/ch736/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs6
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F912
-[/us/act/1955-08-12/ch867/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867%2Fs3
+[/us/act/1955-08-12/ch867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867
 [/us/stat/69/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F711
-[/us/act/1956-08-08/ch1035/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1035%2Fs2
+[/us/act/1956-08-08/ch1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-08%2Fch1035
 [/us/stat/70/1118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70%2F1118
-[/us/pl/87/30/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/stat/75/67]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F67
-[/us/pl/88/38/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F38%2Fs3
+[/us/pl/88/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F38
 [/us/stat/77/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F56
-[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtIII
 [/us/stat/80/838]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F838
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F55
-[/us/pl/95/151/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fa
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/stat/91/1245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F91%2F1245
 [/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F938
-[/us/pl/101/239/s10208/d/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs10208%2Fd%2F2%2FB%2Fi
+[/us/pl/101/239/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtX
 [/us/stat/103/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2481
 [/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
 [/us/stat/110/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1928
-[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F188
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/stat/80/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F830
@@ -531,55 +531,55 @@
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t41/s351–357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs351%E2%80%93357
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
-[/us/pl/110/28/s8102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8102%2Fa
-[/us/pl/110/28/s8103/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8103%2Fc%2F1%2FB
-[/us/pl/104/188/s2104/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs2104%2Fb
-[/us/pl/104/188/s2104/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs2104%2Fc
-[/us/pl/104/188/s2105/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188%2Fs2105%2Fc
-[/us/pl/101/157/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs2
-[/us/pl/101/157/s4/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs4%2Fb%2F1
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/104/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F188
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/usc/t29/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs205
-[/us/pl/101/157/s4/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs4%2Fb%2F2
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/95/151/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fa
-[/us/pl/95/151/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fb
-[/us/pl/95/151/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fc
-[/us/pl/95/151/s2/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fd%2F2%2FA
-[/us/pl/95/151/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fd%2F1
-[/us/pl/95/151/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fd%2F1
-[/us/pl/95/151/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fd%2F1
-[/us/pl/95/151/s2/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs2%2Fd%2F2%2FB
-[/us/pl/93/259/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs2
-[/us/pl/93/259/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs4
-[/us/pl/93/259/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs3
-[/us/pl/93/259/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs5%2Fb
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/usc/t29/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs205
 [/us/usc/t29/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs205
 [/us/usc/t29/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs208
 [/us/usc/t29/s208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs208
-[/us/pl/93/259/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs7%2Fb%2F1
-[/us/pl/89/601/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs301%2Fa
-[/us/pl/89/601/s301/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs301%2Fa
-[/us/pl/89/601/s301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs301%2Fb
-[/us/pl/89/601/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs302
-[/us/pl/89/601/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs303
-[/us/pl/89/601/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs304
-[/us/pl/89/601/s305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs305
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/pl/88/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F38
-[/us/pl/87/30/s5/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5%2Fa%2F1
-[/us/pl/87/30/s5/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5%2Fa%2F2
-[/us/pl/87/30/s5/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5%2Fa%2F3
-[/us/pl/87/30/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5%2Fb
-[/us/pl/87/30/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs5%2Fc
-[/us/pl/114/61/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61%2Fs1%2Fc
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/114/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61
 [/us/stat/129/546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F546
-[/us/pl/110/28/s8102/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8102%2Fb
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F188
-[/us/pl/110/28/s8103/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8103%2Fc%2F2
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F189
 [/us/pl/95/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151
 [/us/pl/95/151/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F151%2Fs15%2Fa
@@ -587,53 +587,53 @@
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/93/259/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs29%2Fa
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
-[/us/pl/93/259/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs5%2Fb
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F56
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/pl/89/601/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs602
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
-[/us/pl/88/38/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F38%2Fs4
+[/us/pl/88/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F38
 [/us/stat/77/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F57
 [/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/pl/87/30/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs14
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
-[/us/act/1955-08-12/ch867/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867%2Fs3
+[/us/act/1955-08-12/ch867]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1955-08-12%2Fch867
 [/us/stat/69/711]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F69%2F711
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/pl/110/28/s8103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8103%2Fa
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F188
-[/us/pl/111/117/s520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs520
+[/us/pl/111/117/dD/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2FdD%2FtV
 [/us/stat/123/3283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3283
-[/us/pl/111/244/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F244%2Fs2%2Fa
+[/us/pl/111/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F244
 [/us/stat/124/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2618
-[/us/pl/112/149/s4/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149%2Fs4%2Fa
+[/us/pl/112/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149
 [/us/stat/126/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1145
-[/us/pl/113/34/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34%2Fs2
+[/us/pl/113/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F34
 [/us/stat/127/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F518
-[/us/pl/114/61/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61%2Fs1%2Fa
+[/us/pl/114/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61
 [/us/stat/129/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F545
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/110/28/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8104
+[/us/pl/110/28/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2FtVIII
 [/us/stat/121/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F189
-[/us/pl/111/5/s802/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs802%2Fa
+[/us/pl/111/5/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtVIII
 [/us/stat/123/186]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F186
-[/us/pl/111/244/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F244%2Fs2%2Fb
+[/us/pl/111/244]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F244
 [/us/stat/124/2618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2618
-[/us/pl/112/149/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149%2Fs4%2Fb
+[/us/pl/112/149]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F149
 [/us/stat/126/1145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1145
-[/us/pl/114/61/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61%2Fs1%2Fb
+[/us/pl/114/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61
 [/us/stat/129/545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F545
 [/us/pl/110/28]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28
 [/us/pl/114/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F61
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/111/5/s802/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2Fs802%2Fb
+[/us/pl/111/5/dA/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5%2FdA%2FtVIII
 [/us/stat/123/187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F187
 [/us/pl/110/28/s8104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F28%2Fs8104
-[/us/pl/101/157/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs6
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F941
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t29/s215/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs215%2Fa%2F3
@@ -654,7 +654,7 @@
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/pl/89/601/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs602
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
-[/us/pl/88/38/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F38%2Fs2
+[/us/pl/88/38]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F38
 [/us/stat/77/56]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F77%2F56
 [/us/usc/t29/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs204
 

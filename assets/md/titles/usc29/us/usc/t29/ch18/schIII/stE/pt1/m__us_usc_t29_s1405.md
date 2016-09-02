@@ -173,17 +173,17 @@
 
         (2) the withdrawal liability of the employer to each plan shall be an amount which bears the same ratio to the present value of the withdrawal liability payments to all plans (after the application of the preceding provisions of this section) as the withdrawal liability of the employer to such plan (determined without regard to this section) bears to the withdrawal liability of the employer to all such plans (determined without regard to this section).
 
-([Pub. L. 93–406, title IV, § 4225][/us/pl/93/406/s4225], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1243][/us/stat/94/1243]; amended [Pub. L. 109–280, title II, § 204(a)(1)][/us/pl/109/280/s204/a/1], (2), Aug. 17, 2006, [120 Stat. 886][/us/stat/120/886], 887.)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4225, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1243][/us/stat/94/1243]; amended [Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(a)(1), (2), Aug. 17, 2006, [120 Stat. 886][/us/stat/120/886], 887.)
 
  __Amendments__ 
 
-    2006—Subsec. (a)(1)(B). [Pub. L. 109–280, § 204(a)(2)][/us/pl/109/280/s204/a/2], amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the unfunded vested benefits attributable to employees of the employer.”
+    2006—Subsec. (a)(1)(B). [Pub. L. 109–280][/us/pl/109/280], § 204(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the unfunded vested benefits attributable to employees of the employer.”
 
-    Subsec. (a)(2). [Pub. L. 109–280, § 204(a)(1)][/us/pl/109/280/s204/a/1], added table and struck out former table which provided for a portion of: 30 percent of the amount if the liquidation or dissolution value of the employer after the sale or exchange is not more than $2,000,000; $600,000, plus 35 percent of the amount in excess of $2,000,000, if the employer’s liquidation or dissolution value is more than $2,000,000, but not more than $4,000,000; $1,300,000, plus 40 percent of the amount in excess of $4,000,000, if the employer’s liquidation or dissolution value is more than $4,000,000, but not more than $6,000,000; $2,100,000, plus 45 percent of the amount in excess of $6,000,000, if the employer’s liquidation or dissolution value is more than $6,000,000, but not more than $7,000,000; $2,550,000, plus 50 percent of the amount in excess of $7,000,000, if the employer’s liquidation or dissolution value is more than $7,000,000, but not more than $8,000,000; $3,050,000, plus 60 percent of the amount in excess of $8,000,000, if the employer’s liquidation or dissolution value is more than $8,000,000, but not more than $9,000,000; $3,650,000, plus 70 percent of the amount in excess of $9,000,000, if the employer’s liquidation or dissolution value is more than $9,000,000, but not more than $10,000,000; and $4,350,000, plus 80 percent of the amount in excess of $10,000,000, if the employer’s liquidation or dissolution value is more than $10,000,000.
+    Subsec. (a)(2). [Pub. L. 109–280][/us/pl/109/280], § 204(a)(1), added table and struck out former table which provided for a portion of: 30 percent of the amount if the liquidation or dissolution value of the employer after the sale or exchange is not more than $2,000,000; $600,000, plus 35 percent of the amount in excess of $2,000,000, if the employer’s liquidation or dissolution value is more than $2,000,000, but not more than $4,000,000; $1,300,000, plus 40 percent of the amount in excess of $4,000,000, if the employer’s liquidation or dissolution value is more than $4,000,000, but not more than $6,000,000; $2,100,000, plus 45 percent of the amount in excess of $6,000,000, if the employer’s liquidation or dissolution value is more than $6,000,000, but not more than $7,000,000; $2,550,000, plus 50 percent of the amount in excess of $7,000,000, if the employer’s liquidation or dissolution value is more than $7,000,000, but not more than $8,000,000; $3,050,000, plus 60 percent of the amount in excess of $8,000,000, if the employer’s liquidation or dissolution value is more than $8,000,000, but not more than $9,000,000; $3,650,000, plus 70 percent of the amount in excess of $9,000,000, if the employer’s liquidation or dissolution value is more than $9,000,000, but not more than $10,000,000; and $4,350,000, plus 80 percent of the amount in excess of $10,000,000, if the employer’s liquidation or dissolution value is more than $10,000,000.
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title II, § 204(a)(3)][/us/pl/109/280/s204/a/3], Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887], provided that: 
+[Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(a)(3), Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply to sales occurring on or after January 1, 2007.”
 
@@ -196,14 +196,14 @@
 
 [/us/usc/t29/s1384/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1384%2Fd
 [/us/usc/t11/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs522
-[/us/pl/93/406/s4225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4225
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1243]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1243
-[/us/pl/109/280/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fa%2F1
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F886
-[/us/pl/109/280/s204/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fa%2F2
-[/us/pl/109/280/s204/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fa%2F1
-[/us/pl/109/280/s204/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fa%2F3
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F887
 
 

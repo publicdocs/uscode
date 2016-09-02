@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s110.md) | [Next](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113)
+[Previous](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s111 _us_usc_t29_s112.md) | [Next](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113)
 
 ## § 113. Definitions of terms and words used in chapter
 
@@ -25,16 +25,16 @@
 
     (d) The term “court of the United States” means any court of the United States whose jurisdiction has been or may be conferred or defined or limited by Act of Congress, including the courts of the District of Columbia.
 
-([Mar. 23, 1932, ch. 90, § 13][/us/act/1932-03-23/ch90/s13], [47 Stat. 73][/us/stat/47/73].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 13, [47 Stat. 73][/us/stat/47/73].)
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s110.md) | [Next](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113)
+[Previous](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s111 _us_usc_t29_s112.md) | [Next](./../../../..//us/usc/t29/ch6/m__us_usc_t29_s114.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs113)
 
 ----------
 ----------
 
-[/us/act/1932-03-23/ch90/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs13
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F73
 
 

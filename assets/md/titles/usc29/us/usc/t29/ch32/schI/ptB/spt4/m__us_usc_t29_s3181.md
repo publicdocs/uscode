@@ -27,7 +27,7 @@
 
         There are authorized to be appropriated to carry out the activities described in [section 3172(a)(2) of this title][/us/usc/t29/s3172/a/2], $1,222,457,000 for fiscal year 2015, $1,316,880,000 for fiscal year 2016, $1,344,205,000 for fiscal year 2017, $1,374,019,000 for fiscal year 2018, $1,406,322,000 for fiscal year 2019, and $1,436,137,000 for fiscal year 2020.
 
-([Pub. L. 113–128, title I, § 136][/us/pl/113/128/s136], July 22, 2014, [128 Stat. 1537][/us/stat/128/1537].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 136, July 22, 2014, [128 Stat. 1537][/us/stat/128/1537].)
 
  __Effective Date__ 
 
@@ -43,7 +43,7 @@
 [/us/usc/t29/s3162/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3162%2Fa
 [/us/usc/t29/s3172/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3172%2Fa%2F1
 [/us/usc/t29/s3172/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3172%2Fa%2F2
-[/us/pl/113/128/s136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs136
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1537
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

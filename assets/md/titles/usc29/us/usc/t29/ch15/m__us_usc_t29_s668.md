@@ -39,7 +39,7 @@
 
         The Secretary shall have access to records and reports kept and filed by Federal agencies pursuant to subsections (a)(3) and (5) of this section unless those records and reports are specifically required by Executive order to be kept secret in the interest of the national defense or foreign policy, in which case the Secretary shall have access to such information as will not jeopardize national defense or foreign policy.
 
-([Pub. L. 91–596, § 19][/us/pl/91/596/s19], Dec. 29, 1970, [84 Stat. 1609][/us/stat/84/1609]; [Pub. L. 97–375, title I, § 110(c)][/us/pl/97/375/s110/c], Dec. 21, 1982, [96 Stat. 1821][/us/stat/96/1821]; [Pub. L. 105–241, § 2(b)(1)][/us/pl/105/241/s2/b/1], Sept. 28, 1998, [112 Stat. 1572][/us/stat/112/1572].)
+([Pub. L. 91–596][/us/pl/91/596], § 19, Dec. 29, 1970, [84 Stat. 1609][/us/stat/84/1609]; [Pub. L. 97–375, title I][/us/pl/97/375/tI], § 110(c), Dec. 21, 1982, [96 Stat. 1821][/us/stat/96/1821]; [Pub. L. 105–241][/us/pl/105/241], § 2(b)(1), Sept. 28, 1998, [112 Stat. 1572][/us/stat/112/1572].)
 
  __Codification__ 
 
@@ -65,11 +65,11 @@
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
 [/us/usc/t5/s7902/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7902%2Fe%2F2
-[/us/pl/91/596/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs19
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1609
-[/us/pl/97/375/s110/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2Fs110%2Fc
+[/us/pl/97/375/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F375%2FtI
 [/us/stat/96/1821]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1821
-[/us/pl/105/241/s2/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241%2Fs2%2Fb%2F1
+[/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241
 [/us/stat/112/1572]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1572
 [/us/usc/t5/s7902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs7902
 [/us/pl/105/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F241

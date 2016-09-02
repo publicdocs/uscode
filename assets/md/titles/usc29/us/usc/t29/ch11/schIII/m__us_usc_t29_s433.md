@@ -61,7 +61,7 @@
 
         The term “interfere with, restrain, or coerce” as used in this section means interference, restraint, and coercion which, if done with respect to the exercise of rights guaranteed in [section 157 of this title][/us/usc/t29/s157], would, under [section 158(a) of this title][/us/usc/t29/s158/a], constitute an unfair labor practice.
 
-([Pub. L. 86–257, title II, § 203][/us/pl/86/257/s203], Sept. 14, 1959, [73 Stat. 526][/us/stat/73/526].)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 203, Sept. 14, 1959, [73 Stat. 526][/us/stat/73/526].)
 
 ----------
 
@@ -75,7 +75,7 @@
 [/us/usc/t29/s158/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fc
 [/us/usc/t29/s157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs157
 [/us/usc/t29/s158/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fa
-[/us/pl/86/257/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs203
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/526]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F526
 
 

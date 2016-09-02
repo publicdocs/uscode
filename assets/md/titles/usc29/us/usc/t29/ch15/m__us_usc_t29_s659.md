@@ -27,7 +27,7 @@
 
         If an employer notifies the Secretary that he intends to contest a citation issued under [section 658(a) of this title][/us/usc/t29/s658/a] or notification issued under subsection (a) or (b) of this section, or if, within fifteen working days of the issuance of a citation under [section 658(a) of this title][/us/usc/t29/s658/a], any employee or representative of employees files a notice with the Secretary alleging that the period of time fixed in the citation for the abatement of the violation is unreasonable, the Secretary shall immediately advise the Commission of such notification, and the Commission shall afford an opportunity for a hearing (in accordance with [section 554 of title 5][/us/usc/t5/s554] but without regard to subsection (a)(3) of such section). The Commission shall thereafter issue an order, based on findings of fact, affirming, modifying, or vacating the Secretary’s citation or proposed penalty, or directing other appropriate relief, and such order shall become final thirty days after its issuance. Upon a showing by an employer of a good faith effort to comply with the abatement requirements of a citation, and that abatement has not been completed because of factors beyond his reasonable control, the Secretary, after an opportunity for a hearing as provided in this subsection, shall issue an order affirming or modifying the abatement requirements in such citation. The rules of procedure prescribed by the Commission shall provide affected employees or representatives of affected employees an opportunity to participate as parties to hearings under this subsection.
 
-([Pub. L. 91–596, § 10][/us/pl/91/596/s10], Dec. 29, 1970, [84 Stat. 1601][/us/stat/84/1601].)
+([Pub. L. 91–596][/us/pl/91/596], § 10, Dec. 29, 1970, [84 Stat. 1601][/us/stat/84/1601].)
 
 ----------
 
@@ -42,7 +42,7 @@
 [/us/usc/t29/s658/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs658%2Fa
 [/us/usc/t29/s658/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs658%2Fa
 [/us/usc/t5/s554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs554
-[/us/pl/91/596/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs10
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1601
 
 

@@ -55,7 +55,7 @@
 
     (e) The preceding provisions of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
 
-([Pub. L. 93–406, title I, § 414][/us/pl/93/406/s414], Sept. 2, 1974, [88 Stat. 889][/us/stat/88/889]; [Pub. L. 101–239, title VII, § 7894(e)(6)][/us/pl/101/239/s7894/e/6], (h)(4), Dec. 19, 1989, [103 Stat. 2450][/us/stat/103/2450], 2451.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 414, Sept. 2, 1974, [88 Stat. 889][/us/stat/88/889]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7894(e)(6), (h)(4), Dec. 19, 1989, [103 Stat. 2450][/us/stat/103/2450], 2451.)
 
  __References in Text__ 
 
@@ -63,9 +63,9 @@
 
  __Amendments__ 
 
-    1989—Subsec. (c)(2). [Pub. L. 101–239, § 7894(e)(6)][/us/pl/101/239/s7894/e/6], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text, and substituted “or the corresponding provisions of prior law)” for “) or the corresponding provisions of prior law”.
+    1989—Subsec. (c)(2). [Pub. L. 101–239][/us/pl/101/239], § 7894(e)(6), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text, and substituted “or the corresponding provisions of prior law)” for “) or the corresponding provisions of prior law”.
 
-    Subsec. (e). [Pub. L. 101–239, § 7894(h)(4)][/us/pl/101/239/s7894/h/4], added subsec. (e).
+    Subsec. (e). [Pub. L. 101–239][/us/pl/101/239], § 7894(h)(4), added subsec. (e).
 
  __Effective Date of 1989 Amendment__ 
 
@@ -84,14 +84,14 @@
 [/us/usc/t26/s503/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs503%2Fb
 [/us/usc/t29/s1107/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1107%2Fa
 [/us/usc/t29/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144
-[/us/pl/93/406/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs414
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/889]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F889
-[/us/pl/101/239/s7894/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fe%2F6
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2450
 [/us/pl/93/406/s2003/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs2003%2Fc%2F1%2FB
 [/us/usc/t26/s4975]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4975
-[/us/pl/101/239/s7894/e/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fe%2F6
-[/us/pl/101/239/s7894/h/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fh%2F4
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/pl/101/239/s7894/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fi

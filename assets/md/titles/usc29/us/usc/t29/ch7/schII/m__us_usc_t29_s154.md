@@ -19,7 +19,7 @@
 
     (b) All of the expenses of the Board, including all necessary traveling and subsistence expenses outside the District of Columbia incurred by the members or employees of the Board under its orders, shall be allowed and paid on the presentation of itemized vouchers therefor approved by the Board or by any individual it designates for that purpose.
 
-([July 5, 1935, ch. 372, § 4][/us/act/1935-07-05/ch372/s4], [49 Stat. 451][/us/stat/49/451]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 139][/us/stat/61/139]; [Pub. L. 95–251, § 3][/us/pl/95/251/s3], Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 4, [49 Stat. 451][/us/stat/49/451]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 139][/us/stat/61/139]; [Pub. L. 95–251][/us/pl/95/251], § 3, Mar. 27, 1978, [92 Stat. 184][/us/stat/92/184].)
 
  __Codification__ 
 
@@ -42,11 +42,11 @@
 ----------
 ----------
 
-[/us/act/1935-07-05/ch372/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs4
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F451
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F139
-[/us/pl/95/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs3
+[/us/pl/95/251]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251
 [/us/stat/92/184]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F184
 [/us/usc/t5/s3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3105
 [/us/pl/95/251/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F251%2Fs3

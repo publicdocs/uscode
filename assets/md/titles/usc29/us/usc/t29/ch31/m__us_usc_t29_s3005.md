@@ -277,7 +277,7 @@
 
         (6) venders and public and private researchers and developers.
 
-([Pub. L. 105–394, § 6][/us/pl/105/394/s6], as added [Pub. L. 108–364, § 2][/us/pl/108/364/s2], Oct. 25, 2004, [118 Stat. 1727][/us/stat/118/1727]; amended [Pub. L. 110–69, title III, § 3002(c)(7)][/us/pl/110/69/s3002/c/7], Aug. 9, 2007, [121 Stat. 587][/us/stat/121/587]; [Pub. L. 113–128, title IV, § 491][/us/pl/113/128/s491](o)(2), July 22, 2014, [128 Stat. 1698][/us/stat/128/1698].)
+([Pub. L. 105–394][/us/pl/105/394], § 6, as added [Pub. L. 108–364][/us/pl/108/364], § 2, Oct. 25, 2004, [118 Stat. 1727][/us/stat/118/1727]; amended [Pub. L. 110–69, title III][/us/pl/110/69/tIII], § 3002(c)(7), Aug. 9, 2007, [121 Stat. 587][/us/stat/121/587]; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 491(o)(2), July 22, 2014, [128 Stat. 1698][/us/stat/128/1698].)
 
  __References in Text__ 
 
@@ -303,12 +303,12 @@
 [/us/usc/t29/s3003/d/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003%2Fd%2F3
 [/us/usc/t29/s3003/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003%2Ff%2F2
 [/us/usc/t29/s3004]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3004
-[/us/pl/105/394/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs6
-[/us/pl/108/364/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs2
+[/us/pl/105/394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1727
-[/us/pl/110/69/s3002/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2Fs3002%2Fc%2F7
+[/us/pl/110/69/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F69%2FtIII
 [/us/stat/121/587]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F587
-[/us/pl/113/128/s491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs491
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1698]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1698
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677

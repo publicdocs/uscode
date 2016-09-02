@@ -17,11 +17,11 @@
 
     The Secretary of Labor is authorized and directed to formulate and promote the furtherance of labor standards necessary to safeguard the welfare of apprentices, to extend the application of such standards by encouraging the inclusion thereof in contracts of apprenticeship, to bring together employers and labor for the formulation of programs of apprenticeship, to cooperate with State agencies engaged in the formulation and promotion of standards of apprenticeship, and to cooperate with the Secretary of Education in accordance with [section 17 of title 20][/us/usc/t20/s17]. For the purposes of this chapter the term “State” shall include the District of Columbia.
 
-([Aug. 16, 1937, ch. 663, § 1][/us/act/1937-08-16/ch663/s1], [50 Stat. 664][/us/stat/50/664]; 1939 Reorg. Plan No. I, §§  201, 204, 206, eff. July 1, 1939, 4 F.R. 2728, [53 Stat. 1424][/us/stat/53/1424], 1425; [July 12, 1943, ch. 221][/us/act/1943-07-12/ch221], title VII, [57 Stat. 518][/us/stat/57/518]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 93–198, title II][/us/pl/93/198], §  204(h), Dec. 24, 1973, [87 Stat. 784][/us/stat/87/784]; [Pub. L. 96–88, title III, § 301(a)(1)][/us/pl/96/88/s301/a/1], Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677].)
+([Aug. 16, 1937, ch. 663][/us/act/1937-08-16/ch663], § 1, [50 Stat. 664][/us/stat/50/664]; 1939 Reorg. Plan No. I, §§  201, 204, 206, eff. July 1, 1939, 4 F.R. 2728, [53 Stat. 1424][/us/stat/53/1424], 1425; [July 12, 1943, ch. 221][/us/act/1943-07-12/ch221], title VII, [57 Stat. 518][/us/stat/57/518]; 1953 Reorg. Plan No. 1, §§ 5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; [Pub. L. 93–198, title II][/us/pl/93/198/tII], §  204(h), Dec. 24, 1973, [87 Stat. 784][/us/stat/87/784]; [Pub. L. 96–88, title III][/us/pl/96/88/tIII], § 301(a)(1), Oct. 17, 1979, [93 Stat. 677][/us/stat/93/677].)
 
  __References in Text__ 
 
-    [Section 17 of title 20][/us/usc/t20/s17], referred to in text, was repealed by [Pub. L. 89–554, § 8(a)][/us/pl/89/554/s8/a], Sept. 6, 1966, [80 Stat. 643][/us/stat/80/643].
+    [Section 17 of title 20][/us/usc/t20/s17], referred to in text, was repealed by [Pub. L. 89–554][/us/pl/89/554], § 8(a), Sept. 6, 1966, [80 Stat. 643][/us/stat/80/643].
 
  __Codification__ 
 
@@ -55,18 +55,18 @@
 ----------
 
 [/us/usc/t20/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs17
-[/us/act/1937-08-16/ch663/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663%2Fs1
+[/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
 [/us/stat/53/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F53%2F1424
 [/us/act/1943-07-12/ch221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-07-12%2Fch221
 [/us/stat/57/518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F518
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
+[/us/pl/93/198/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtII
 [/us/stat/87/784]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F784
-[/us/pl/96/88/s301/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs301%2Fa%2F1
+[/us/pl/96/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtIII
 [/us/stat/93/677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F677
 [/us/usc/t20/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs17
-[/us/pl/89/554/s8/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs8%2Fa
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/643]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F643
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
 [/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198

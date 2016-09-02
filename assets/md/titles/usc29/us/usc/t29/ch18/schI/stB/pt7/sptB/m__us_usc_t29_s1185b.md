@@ -61,11 +61,11 @@
 
             Nothing in this section shall be construed to affect or modify the provisions of [section 1144 of this title][/us/usc/t29/s1144] with respect to group health plans.
 
-([Pub. L. 93–406, title I, § 713][/us/pl/93/406/s713], as added [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title IX, § 902(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–436.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 713, as added [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title IX, § 902(a)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–436.)
 
  __Effective Date__ 
 
-[Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title IX, § 902(c)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–438, provided that:
+[Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title IX, § 902(c)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–438, provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -83,10 +83,10 @@
 ----------
 
 [/us/usc/t29/s1144]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1144
-[/us/pl/93/406/s713]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs713
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 
 

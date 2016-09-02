@@ -17,7 +17,7 @@
 
     The Secretary of Health and Human Services (referred to in this section as the “Secretary”), acting through the Director of the National Institute of Occupational Safety and Health, shall enhance and expand research as deemed appropriate on the health and safety of workers who are at risk for bioterrorist threats or attacks in the workplace, including research on the health effects of measures taken to treat or protect such workers for diseases or disorders resulting from a bioterrorist threat or attack. Nothing in this section may be construed as establishing new regulatory authority for the Secretary or the Director to issue or modify any occupational safety and health rule or regulation.
 
-([Pub. L. 107–188, title I, § 153][/us/pl/107/188/s153], June 12, 2002, [116 Stat. 631][/us/stat/116/631].)
+([Pub. L. 107–188, title I][/us/pl/107/188/tI], § 153, June 12, 2002, [116 Stat. 631][/us/stat/116/631].)
 
  __Codification__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/107/188/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2Fs153
+[/us/pl/107/188/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F188%2FtI
 [/us/stat/116/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F631
 
 

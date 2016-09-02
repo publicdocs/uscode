@@ -17,7 +17,7 @@
 
     Trusteeships shall be established and administered by a labor organization over a subordinate body only in accordance with the constitution and bylaws of the organization which has assumed trusteeship over the subordinate body and for the purpose of correcting corruption or financial malpractice, assuring the performance of collective bargaining agreements or other duties of a bargaining representative, restoring democratic procedures, or otherwise carrying out the legitimate objects of such labor organization.
 
-([Pub. L. 86–257, title III, § 302][/us/pl/86/257/s302], Sept. 14, 1959, [73 Stat. 531][/us/stat/73/531].)
+([Pub. L. 86–257, title III][/us/pl/86/257/tIII], § 302, Sept. 14, 1959, [73 Stat. 531][/us/stat/73/531].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs302
+[/us/pl/86/257/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIII
 [/us/stat/73/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F531
 
 

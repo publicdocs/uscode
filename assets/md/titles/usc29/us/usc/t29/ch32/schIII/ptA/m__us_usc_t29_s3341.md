@@ -29,7 +29,7 @@
 
             Nothing in paragraph (1) shall be construed to prevent the proper administration of national programs under parts C and D of subchapter I, or the amendments made by title IV (as the case may be), or to carry out program management activities consistent with subchapter I or the amendments made by title IV (as the case may be).
 
-([Pub. L. 113–128, title V, § 501][/us/pl/113/128/s501], July 22, 2014, [128 Stat. 1700][/us/stat/128/1700].)
+([Pub. L. 113–128, title V][/us/pl/113/128/tV], § 501, July 22, 2014, [128 Stat. 1700][/us/stat/128/1700].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
 [/us/usc/t20/s1232g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1232g
-[/us/pl/113/128/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs501
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1700
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/stat/128/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1425

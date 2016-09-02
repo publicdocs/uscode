@@ -17,7 +17,7 @@
 
     The Bureau of Labor Statistics shall be under the charge of a Commissioner of Labor Statistics, who shall be appointed by the President, by and with the advice and consent of the Senate; he shall hold his office for four years, unless sooner removed, and shall receive a salary.
 
-([June 27, 1884, ch. 127][/us/act/1884-06-27/ch127], [23 Stat. 60][/us/stat/23/60]; [June 13, 1888, ch. 389, § 2][/us/act/1888-06-13/ch389/s2], [25 Stat. 182][/us/stat/25/182]; [Mar. 18, 1904, ch. 716][/us/act/1904-03-18/ch716], [33 Stat. 136][/us/stat/33/136]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737].)
+([June 27, 1884, ch. 127][/us/act/1884-06-27/ch127], [23 Stat. 60][/us/stat/23/60]; [June 13, 1888, ch. 389][/us/act/1888-06-13/ch389], § 2, [25 Stat. 182][/us/stat/25/182]; [Mar. 18, 1904, ch. 716][/us/act/1904-03-18/ch716], [33 Stat. 136][/us/stat/33/136]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737].)
 
  __Codification__ 
 
@@ -42,11 +42,11 @@
 
 [/us/act/1884-06-27/ch127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-06-27%2Fch127
 [/us/stat/23/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F60
-[/us/act/1888-06-13/ch389/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389%2Fs2
+[/us/act/1888-06-13/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389
 [/us/stat/25/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F182
 [/us/act/1904-03-18/ch716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-03-18%2Fch716
 [/us/stat/33/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F136
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 

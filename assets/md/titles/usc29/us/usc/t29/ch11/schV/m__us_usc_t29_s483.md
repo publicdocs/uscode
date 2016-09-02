@@ -17,7 +17,7 @@
 
     No labor organization shall be required by law to conduct elections of officers with greater frequency or in a different form or manner than is required by its own constitution or bylaws, except as otherwise provided by this subchapter. Existing rights and remedies to enforce the constitution and bylaws of a labor organization with respect to elections prior to the conduct thereof shall not be affected by the provisions of this subchapter. The remedy provided by this subchapter for challenging an election already conducted shall be exclusive.
 
-([Pub. L. 86–257, title IV, § 403][/us/pl/86/257/s403], Sept. 14, 1959, [73 Stat. 534][/us/stat/73/534].)
+([Pub. L. 86–257, title IV][/us/pl/86/257/tIV], § 403, Sept. 14, 1959, [73 Stat. 534][/us/stat/73/534].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs403
+[/us/pl/86/257/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtIV
 [/us/stat/73/534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F534
 
 

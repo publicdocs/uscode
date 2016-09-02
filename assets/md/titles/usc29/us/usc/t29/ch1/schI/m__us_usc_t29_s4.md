@@ -17,7 +17,7 @@
 
     It shall be the duty of the Commissioner of Labor Statistics to ascertain the effect of the customs laws, and the effect thereon of the state of the currency, in the United States, on the agricultural industry, especially as to its effect on mortgage indebtedness of farmers. He shall also establish a system of reports by which, at intervals of not less than two years, he can report the general condition, so far as production is concerned, of the leading industries of the country. He is also specially charged to investigate the causes of, and facts relating to, all controversies and disputes between employers and employees as they may occur, and which may tend to interfere with the welfare of the people of the different States. He shall also obtain such information upon the various subjects committed to him as he may deem desirable from different foreign nations, and what, if any, convict-made goods are imported into this country, and if so from whence.
 
-([June 13, 1888, ch. 389, § 7][/us/act/1888-06-13/ch389/s7], [25 Stat. 183][/us/stat/25/183]; [Aug. 23, 1912, ch. 350, § 1][/us/act/1912-08-23/ch350/s1], [37 Stat. 407][/us/stat/37/407]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737]; [May 29, 1928, ch. 901, § 1(110)][/us/act/1928-05-29/ch901/s1/110], (111), [45 Stat. 994][/us/stat/45/994].)
+([June 13, 1888, ch. 389][/us/act/1888-06-13/ch389], § 7, [25 Stat. 183][/us/stat/25/183]; [Aug. 23, 1912, ch. 350][/us/act/1912-08-23/ch350], § 1, [37 Stat. 407][/us/stat/37/407]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737]; [May 29, 1928, ch. 901][/us/act/1928-05-29/ch901], § 1(110), (111), [45 Stat. 994][/us/stat/45/994].)
 
  __Codification__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/act/1888-06-13/ch389/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389%2Fs7
+[/us/act/1888-06-13/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389
 [/us/stat/25/183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F183
-[/us/act/1912-08-23/ch350/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350%2Fs1
+[/us/act/1912-08-23/ch350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1912-08-23%2Fch350
 [/us/stat/37/407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F407
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
-[/us/act/1928-05-29/ch901/s1/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901%2Fs1%2F110
+[/us/act/1928-05-29/ch901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-05-29%2Fch901
 [/us/stat/45/994]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F994
 [/us/usc/t15/s172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs172
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263

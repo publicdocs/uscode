@@ -17,7 +17,7 @@
 
     The Secretary shall prepare, have printed, and distribute a notice setting forth excerpts from, or summaries of, the pertinent provisions of this chapter. Each employer shall post and maintain such notice in conspicuous places on its premises where notices to employees and applicants to employment are customarily posted.
 
-([Pub. L. 100–347, § 4][/us/pl/100/347/s4], June 27, 1988, [102 Stat. 647][/us/stat/102/647].)
+([Pub. L. 100–347][/us/pl/100/347], § 4, June 27, 1988, [102 Stat. 647][/us/stat/102/647].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/100/347/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs4
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/647]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F647
 
 

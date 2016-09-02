@@ -35,7 +35,7 @@
 
     (4) assisting employers with utilizing available financial support for hiring or accommodating individuals with disabilities.
 
-([Pub. L. 93–112, title I, § 109][/us/pl/93/112/s109], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1160][/us/stat/112/1160]; amended [Pub. L. 113–128, title IV, § 418][/us/pl/113/128/s418], July 22, 2014, [128 Stat. 1655][/us/stat/128/1655].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 109, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1160][/us/stat/112/1160]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 418, July 22, 2014, [128 Stat. 1655][/us/stat/128/1655].)
 
  __References in Text__ 
 
@@ -43,7 +43,7 @@
 
  __Prior Provisions__ 
 
-    A prior section 728a, [Pub. L. 93–112, title I, § 109][/us/pl/93/112/s109], as added [Pub. L. 102–569, title I, § 130(a)][/us/pl/102/569/s130/a], Oct. 29, 1992, [106 Stat. 4389][/us/stat/106/4389], related to training of employers with respect to Americans with Disabilities Act of 1990, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 728a, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 109, as added [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 130(a), Oct. 29, 1992, [106 Stat. 4389][/us/stat/106/4389], related to training of employers with respect to Americans with Disabilities Act of 1990, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
@@ -66,16 +66,16 @@
 
 [/us/usc/t29/s731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs731
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/93/112/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs109
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1160
-[/us/pl/113/128/s418]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs418
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1655
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/93/112/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs109
-[/us/pl/102/569/s130/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs130%2Fa
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4389
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128

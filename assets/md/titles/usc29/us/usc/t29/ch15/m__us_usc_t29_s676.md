@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [Pub. L. 91–596, § 27][/us/pl/91/596/s27], Dec. 29, 1970, [84 Stat. 1616][/us/stat/84/1616], provided for establishment of a National Commission on State Workmen’s Compensation Laws to make an effective study and evaluation of State workmen’s compensation laws to determine whether such laws provide an adequate, prompt, and equitable system of compensation for injury or death, with a final report to be transmitted to President and Congress not later than July 31, 1972, ninety days after which the Commission ceased to exist.
+    Section, [Pub. L. 91–596][/us/pl/91/596], § 27, Dec. 29, 1970, [84 Stat. 1616][/us/stat/84/1616], provided for establishment of a National Commission on State Workmen’s Compensation Laws to make an effective study and evaluation of State workmen’s compensation laws to determine whether such laws provide an adequate, prompt, and equitable system of compensation for injury or death, with a final report to be transmitted to President and Congress not later than July 31, 1972, ninety days after which the Commission ceased to exist.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/91/596/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs27
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1616]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1616
 
 

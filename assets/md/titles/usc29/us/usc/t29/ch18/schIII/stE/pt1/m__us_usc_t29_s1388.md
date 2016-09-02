@@ -63,7 +63,7 @@
 
         (3) The corporation shall prescribe by regulation a procedure by which a plan may by amendment adopt rules for the reduction or elimination of partial withdrawal liability under any other conditions, subject to the approval of the corporation based on its determination that adoption of such rules by the plan is consistent with the purposes of this chapter.
 
-([Pub. L. 93–406, title IV, § 4208][/us/pl/93/406/s4208], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1224][/us/stat/94/1224].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4208, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1224][/us/stat/94/1224].)
 
  __References in Text__ 
 
@@ -85,8 +85,8 @@
 [/us/usc/t29/s1385/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1385%2Fa%2F1
 [/us/usc/t29/s1385/b/1/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1385%2Fb%2F1%2FB%2Fii
 [/us/usc/t29/s1385/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1385%2Fa%2F1
-[/us/pl/93/406/s4208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4208
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1224
 [/us/usc/t29/s1383/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1383%2Fb
 [/us/usc/t29/s1383/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1383%2Fc

@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t29/ch8/m__us_usc_t29_s218.md) | [Next](./../../../..//us/usc/t29/ch8/m__us_usc_t29_s218b.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs218a)
 
-## § 218a. Repealed. [Pub. L. 114–74, title VI, § 604][/us/pl/114/74/s604], Nov. 2, 2015, [129 Stat. 599][/us/stat/129/599]
+## § 218a. Repealed. [Pub. L. 114–74, title VI][/us/pl/114/74/tVI], § 604, Nov. 2, 2015, [129 Stat. 599][/us/stat/129/599]
 
-    Section, [act June 25, 1938, ch. 676, § 18A][/us/act/1938-06-25/ch676/s18A], as added [Pub. L. 111–148, title I, § 1511][/us/pl/111/148/s1511], Mar. 23, 2010, [124 Stat. 252][/us/stat/124/252], related to automatic enrollment for employees of large employers.
+    Section, [act June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 18A, as added [Pub. L. 111–148, title I][/us/pl/111/148/tI], § 1511, Mar. 23, 2010, [124 Stat. 252][/us/stat/124/252], related to automatic enrollment for employees of large employers.
 
 ----------
 
@@ -24,10 +24,10 @@
 ----------
 ----------
 
-[/us/pl/114/74/s604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs604
+[/us/pl/114/74/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtVI
 [/us/stat/129/599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F599
-[/us/act/1938-06-25/ch676/s18A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs18A
-[/us/pl/111/148/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1511
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
+[/us/pl/111/148/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtI
 [/us/stat/124/252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F252
 
 

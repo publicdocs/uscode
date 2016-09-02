@@ -121,7 +121,7 @@
 
         The corporation may provide by regulation rules not inconsistent with this section governing the establishment and maintenance of funds, but only to the extent necessary to carry out the purposes of this part (other than [section 1402 of this title][/us/usc/t29/s1402]).
 
-([Pub. L. 93–406, title IV, § 4223][/us/pl/93/406/s4223], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1241][/us/stat/94/1241]; amended [Pub. L. 101–239, title VII, § 7891(a)][/us/pl/101/239/s7891/a], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4223, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1241][/us/stat/94/1241]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
 
  __References in Text__ 
 
@@ -147,10 +147,10 @@
 [/us/usc/t26/s4975/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs4975%2Fd%2F2
 [/us/usc/t29/s159]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs159
 [/us/usc/t29/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1402
-[/us/pl/93/406/s4223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4223
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1241
-[/us/pl/101/239/s7891/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49l–2.md) | [Next](./../../../..//us/usc/t29/ch4C/m__us_usc_t29_s50.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4C)
+[Previous](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49m _us_usc_t29_s49n.md) | [Next](./../../../..//us/usc/t29/ch4C/m__us_usc_t29_s50.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4C)
 
 ## CHAPTER 4C—APPRENTICE LABOR
 
@@ -51,7 +51,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49l–2.md) | [Next](./../../../..//us/usc/t29/ch4C/m__us_usc_t29_s50.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4C)
+[Previous](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49m _us_usc_t29_s49n.md) | [Next](./../../../..//us/usc/t29/ch4C/m__us_usc_t29_s50.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4C)
 
 ----------
 ----------

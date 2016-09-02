@@ -33,7 +33,7 @@
 
         There are authorized to be appropriated such sums as may be necessary to carry out the provisions of this section.
 
-([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title II, § 213, as added [Pub. L. 93–360, § 2][/us/pl/93/360/s2], July 26, 1974, [88 Stat. 396][/us/stat/88/396].)
+([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title II, § 213, as added [Pub. L. 93–360][/us/pl/93/360], § 2, July 26, 1974, [88 Stat. 396][/us/stat/88/396].)
 
  __Effective Date__ 
 
@@ -54,7 +54,7 @@
 [/us/usc/t29/s158/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fd
 [/us/usc/t5/s5332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5332
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
-[/us/pl/93/360/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360%2Fs2
+[/us/pl/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360
 [/us/stat/88/396]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F396
 [/us/pl/93/360/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360%2Fs4
 [/us/usc/t29/s169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs169

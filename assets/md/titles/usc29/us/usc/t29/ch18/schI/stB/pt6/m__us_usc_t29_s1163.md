@@ -31,7 +31,7 @@
 
     In the case of an event described in paragraph (6), a loss of coverage includes a substantial elimination of coverage with respect to a qualified beneficiary described in [section 1167(3)(C) of this title][/us/usc/t29/s1167/3/C] within one year before or after the date of commencement of the proceeding.
 
-([Pub. L. 93–406, title I, § 603][/us/pl/93/406/s603], as added [Pub. L. 99–272, title X, § 10002(a)][/us/pl/99/272/s10002/a], Apr. 7, 1986, [100 Stat. 229][/us/stat/100/229]; amended [Pub. L. 99–509, title IX, § 9501(a)(2)][/us/pl/99/509/s9501/a/2], Oct. 21, 1986, [100 Stat. 2076][/us/stat/100/2076].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 603, as added [Pub. L. 99–272, title X][/us/pl/99/272/tX], § 10002(a), Apr. 7, 1986, [100 Stat. 229][/us/stat/100/229]; amended [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9501(a)(2), Oct. 21, 1986, [100 Stat. 2076][/us/stat/100/2076].)
 
  __References in Text__ 
 
@@ -54,10 +54,10 @@
 
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/usc/t29/s1167/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1167%2F3%2FC
-[/us/pl/93/406/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs603
-[/us/pl/99/272/s10002/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs10002%2Fa
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
+[/us/pl/99/272/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtX
 [/us/stat/100/229]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F229
-[/us/pl/99/509/s9501/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9501%2Fa%2F2
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/2076]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2076
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

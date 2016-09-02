@@ -57,7 +57,7 @@
 
         The Secretary shall issue regulations necessary to implement this section not later than 1 year after July 22, 2014. Such regulations shall adopt standards for determining discrimination and procedures for enforcement that are consistent with the Acts referred to in subsection (a)(1), as well as procedures to ensure that complaints filed under this section and such Acts are processed in a manner that avoids duplication of effort.
 
-([Pub. L. 113–128, title I, § 188][/us/pl/113/128/s188], July 22, 2014, [128 Stat. 1597][/us/stat/128/1597].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 188, July 22, 2014, [128 Stat. 1597][/us/stat/128/1597].)
 
  __References in Text__ 
 
@@ -85,7 +85,7 @@
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
 [/us/usc/t42/s2000d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000d
 [/us/usc/t20/s1681]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1681
-[/us/pl/113/128/s188]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs188
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1597]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1597
 [/us/pl/94/135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F135
 [/us/stat/89/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F728

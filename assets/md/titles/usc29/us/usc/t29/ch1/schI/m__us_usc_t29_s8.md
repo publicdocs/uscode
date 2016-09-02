@@ -17,7 +17,7 @@
 
     The Department of Labor, in cooperation with the Department of Commerce, shall develop methods for improving and expanding the collection, analysis, and publication of unemployment data relating to Americans of Spanish origin or descent.
 
-([Pub. L. 94–311, § 1][/us/pl/94/311/s1], June 16, 1976, [90 Stat. 688][/us/stat/90/688].)
+([Pub. L. 94–311][/us/pl/94/311], § 1, June 16, 1976, [90 Stat. 688][/us/stat/90/688].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/94/311/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311%2Fs1
+[/us/pl/94/311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F311
 [/us/stat/90/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F688
 
 

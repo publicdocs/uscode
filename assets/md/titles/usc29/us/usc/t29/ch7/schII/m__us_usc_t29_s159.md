@@ -53,15 +53,15 @@
 
         (2) No election shall be conducted pursuant to this subsection in any bargaining unit or any subdivision within which, in the preceding twelve-month period, a valid election shall have been held.
 
-([July 5, 1935, ch. 372, § 9][/us/act/1935-07-05/ch372/s9], [49 Stat. 453][/us/stat/49/453]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 143][/us/stat/61/143]; [Oct. 22, 1951, ch. 534, § 1(c)][/us/act/1951-10-22/ch534/s1/c], (d), [65 Stat. 601][/us/stat/65/601]; [Pub. L. 86–257, title II, § 201(d)][/us/pl/86/257/s201/d], title VII, § 702, Sept. 14, 1959, [73 Stat. 525][/us/stat/73/525], 542.)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 9, [49 Stat. 453][/us/stat/49/453]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 143][/us/stat/61/143]; [Oct. 22, 1951, ch. 534][/us/act/1951-10-22/ch534], § 1(c), (d), [65 Stat. 601][/us/stat/65/601]; [Pub. L. 86–257, title II][/us/pl/86/257/tII], § 201(d), title VII, § 702, Sept. 14, 1959, [73 Stat. 525][/us/stat/73/525], 542.)
 
  __Amendments__ 
 
-    1959—Subsec. (c)(3). [Pub. L. 86–257, § 702][/us/pl/86/257/s702], substituted “Employees engaged in an economic strike who are not entitled to reinstatement shall be eligible to vote under such regulations as the Board shall find are consistent with the purposes and provisions of this subchapter in any election conducted within twelve months after the commencement of the strike” for “Employees on strike who are not entitled to reinstatement shall not be eligible to vote.”
+    1959—Subsec. (c)(3). [Pub. L. 86–257][/us/pl/86/257], § 702, substituted “Employees engaged in an economic strike who are not entitled to reinstatement shall be eligible to vote under such regulations as the Board shall find are consistent with the purposes and provisions of this subchapter in any election conducted within twelve months after the commencement of the strike” for “Employees on strike who are not entitled to reinstatement shall not be eligible to vote.”
 
-    Subsecs. (f), (g). [Pub. L. 86–257, § 201(d)][/us/pl/86/257/s201/d], repealed subsecs. (f) and (g) which required unions to file their constitutions, bylaws and a report, prescribed the contents of the report and directed the filing of annual financial reports, and are now covered by [section 431 of this title][/us/usc/t29/s431].
+    Subsecs. (f), (g). [Pub. L. 86–257][/us/pl/86/257], § 201(d), repealed subsecs. (f) and (g) which required unions to file their constitutions, bylaws and a report, prescribed the contents of the report and directed the filing of annual financial reports, and are now covered by [section 431 of this title][/us/usc/t29/s431].
 
-    Subsec. (h). [Pub. L. 86–257, § 201(d)][/us/pl/86/257/s201/d], repealed subsec. (h) which related to affidavits showing union’s officers free from Communist Party affiliation or belief.
+    Subsec. (h). [Pub. L. 86–257][/us/pl/86/257], § 201(d), repealed subsec. (h) which related to affidavits showing union’s officers free from Communist Party affiliation or belief.
 
     1951—Subsec. (e). Act Oct. 22, 1951, § 1(c), struck out par. (1) and renumbered pars. (2) and (3) as (1) and (2).
 
@@ -79,7 +79,7 @@
 
  __Certain Certifications of Bargaining Units Unaffected__ 
 
-[Act June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 103, [61 Stat. 152][/us/stat/61/152], provided that: 
+[Act June 23, 1947, ch. 120, title I][/us/act/1947-06-23/ch120/tI], § 103, [61 Stat. 152][/us/stat/61/152], provided that: 
 
 > “No provisions of this title \[amending this subchapter\] shall affect any certification of representatives or any determination as to the appropriate collective-bargaining unit, which was made under section 9 of the National Labor Relations Act \[this section\] prior to the effective date of this title \[sixty days after June 23, 1947\] until one year after the date of such certification or if, in respect of any such certification, a collective-bargaining contract was entered into prior to the effective date of this title \[sixty days after June 23, 1947\], until the end of the contract period or until one year after such date, whichever first occurs.”
 
@@ -94,23 +94,23 @@
 [/us/usc/t29/s160/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs160%2Fc
 [/us/usc/t29/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs160
 [/us/usc/t29/s158/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158%2Fa%2F3
-[/us/act/1935-07-05/ch372/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs9
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/453]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F453
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/143]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F143
-[/us/act/1951-10-22/ch534/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-22%2Fch534%2Fs1%2Fc
+[/us/act/1951-10-22/ch534]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-22%2Fch534
 [/us/stat/65/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F601
-[/us/pl/86/257/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs201%2Fd
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F525
-[/us/pl/86/257/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs702
-[/us/pl/86/257/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs201%2Fd
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/usc/t29/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs431
-[/us/pl/86/257/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs201%2Fd
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/pl/86/257/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs702
 [/us/pl/86/257/s707]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs707
 [/us/usc/t29/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs153
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
-[/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
+[/us/act/1947-06-23/ch120/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120%2FtI
 [/us/stat/61/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F152
 
 

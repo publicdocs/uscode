@@ -43,7 +43,7 @@
 
         (3) the ratio of the assets of the plan for the plan year preceding the first plan year for which the employer was required to contribute to the plan to the benefit payments made during that plan year was at least 8 to 1.
 
-([Pub. L. 93–406, title IV, § 4210][/us/pl/93/406/s4210], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1226][/us/stat/94/1226]; amended [Pub. L. 101–239, title VII, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 109–280, title II, § 204(c)(1)][/us/pl/109/280/s204/c/1], Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4210, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1226][/us/stat/94/1226]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a)(1), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(c)(1), Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887].)
 
  __Amendments__ 
 
@@ -53,7 +53,7 @@
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title II, § 204(c)(3)][/us/pl/109/280/s204/c/3], Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887], provided that: 
+[Pub. L. 109–280, title II][/us/pl/109/280/tII], § 204(c)(3), Aug. 17, 2006, [120 Stat. 887][/us/stat/120/887], provided that: 
 
 > “The amendments made by this subsection \[amending this section and [section 1391 of this title][/us/usc/t29/s1391]\] shall apply with respect to plan withdrawals occurring on or after January 1, 2007.”
 
@@ -69,16 +69,16 @@
 ----------
 
 [/us/usc/t26/s411/a/3/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs411%2Fa%2F3%2FE
-[/us/pl/93/406/s4210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4210
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1226
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/109/280/s204/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fc%2F1
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F887
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
-[/us/pl/109/280/s204/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs204%2Fc%2F3
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/887]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F887
 [/us/usc/t29/s1391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1391
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

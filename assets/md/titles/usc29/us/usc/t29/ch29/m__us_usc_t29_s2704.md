@@ -63,7 +63,7 @@
 
         The Department shall develop mechanisms for evaluating the effectiveness of the use of a grant awarded under this section in carrying out the purposes under [section 2702 of this title][/us/usc/t29/s2702] and, not later than two years after October 20, 1994, and every two years thereafter, prepare and submit a report to Congress concerning such evaluation.
 
-([Pub. L. 103–382, title V, § 545][/us/pl/103/382/s545], Oct. 20, 1994, [108 Stat. 4053][/us/stat/108/4053].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 545, Oct. 20, 1994, [108 Stat. 4053][/us/stat/108/4053].)
 
 ----------
 
@@ -75,7 +75,7 @@
 [/us/usc/t29/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2702
 [/us/usc/t29/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2702
 [/us/usc/t29/s2702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2702
-[/us/pl/103/382/s545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs545
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4053
 
 

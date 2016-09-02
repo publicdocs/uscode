@@ -17,7 +17,7 @@
 
     The corporation shall pay benefits under a single-employer plan terminated under this subchapter subject to the limitations and requirements of subtitle B of this subchapter. The corporation shall provide financial assistance to pay benefits under a multiemployer plan which is insolvent under section 1426 or 1441(d)(2)(A) of this title, subject to the limitations and requirements of subtitles B, C, and E of this subchapter. Amounts guaranteed by the corporation under sections 1322 and 1322a of this title shall be paid by the corporation only out of the appropriate fund. The corporation shall make payments under the supplemental program to reimburse multiemployer plans for uncollectible withdrawal liability only out of the fund established under [section 1305(e) of this title][/us/usc/t29/s1305/e].
 
-([Pub. L. 93–406, title IV, § 4061][/us/pl/93/406/s4061], Sept. 2, 1974, [88 Stat. 1029][/us/stat/88/1029]; [Pub. L. 96–364, title IV, § 403(f)][/us/pl/96/364/s403/f], Sept. 26, 1980, [94 Stat. 1301][/us/stat/94/1301].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4061, Sept. 2, 1974, [88 Stat. 1029][/us/stat/88/1029]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], § 403(f), Sept. 26, 1980, [94 Stat. 1301][/us/stat/94/1301].)
 
  __Amendments__ 
 
@@ -35,9 +35,9 @@
 ----------
 
 [/us/usc/t29/s1305/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1305%2Fe
-[/us/pl/93/406/s4061]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4061
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1029
-[/us/pl/96/364/s403/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs403%2Ff
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1301
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364

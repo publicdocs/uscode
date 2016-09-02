@@ -17,7 +17,7 @@
 
     Nothing in this subchapter, except as specifically provided for herein, shall be construed so as either to interfere with or impede or diminish in any way the right to strike, or to affect the limitations or qualifications on that right.
 
-([July 5, 1935, ch. 372, § 13][/us/act/1935-07-05/ch372/s13], [49 Stat. 457][/us/stat/49/457]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 13, [49 Stat. 457][/us/stat/49/457]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1935-07-05/ch372/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs13
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F457
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F151

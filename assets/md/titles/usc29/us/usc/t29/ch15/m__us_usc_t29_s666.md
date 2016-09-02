@@ -61,7 +61,7 @@
 
         Civil penalties owed under this chapter shall be paid to the Secretary for deposit into the Treasury of the United States and shall accrue to the United States and may be recovered in a civil action in the name of the United States brought in the United States district court for the district where the violation is alleged to have occurred or where the employer has its principal office.
 
-([Pub. L. 91–596, § 17][/us/pl/91/596/s17], Dec. 29, 1970, [84 Stat. 1606][/us/stat/84/1606], 1607; [Pub. L. 101–508, title III, § 3101][/us/pl/101/508/s3101], Nov. 5, 1990, [104 Stat. 1388–29][/us/stat/104/1388-29].)
+([Pub. L. 91–596][/us/pl/91/596], § 17, Dec. 29, 1970, [84 Stat. 1606][/us/stat/84/1606], 1607; [Pub. L. 101–508, title III][/us/pl/101/508/tIII], § 3101, Nov. 5, 1990, [104 Stat. 1388–29][/us/stat/104/1388-29].)
 
  __Codification__ 
 
@@ -69,9 +69,9 @@
 
  __Amendments__ 
 
-    1990—Subsec. (a). [Pub. L. 101–508, § 3101(1)][/us/pl/101/508/s3101/1], substituted “$70,000 for each violation, but not less than $5,000 for each willful violation” for “$10,000 for each violation”.
+    1990—Subsec. (a). [Pub. L. 101–508][/us/pl/101/508], § 3101(1), substituted “$70,000 for each violation, but not less than $5,000 for each willful violation” for “$10,000 for each violation”.
 
-    Subsecs. (b) to (d), (i). [Pub. L. 101–508, § 3101(2)][/us/pl/101/508/s3101/2], substituted “$7,000” for “$1,000”.
+    Subsecs. (b) to (d), (i). [Pub. L. 101–508][/us/pl/101/508], § 3101(2), substituted “$7,000” for “$1,000”.
 
 ----------
 
@@ -89,12 +89,12 @@
 [/us/usc/t29/s658/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs658%2Fa
 [/us/usc/t29/s659]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs659
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
-[/us/pl/91/596/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs17
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1606]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1606
-[/us/pl/101/508/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs3101
+[/us/pl/101/508/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2FtIII
 [/us/stat/104/1388-29]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-29
 [/us/usc/t18/s1114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1114
-[/us/pl/101/508/s3101/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs3101%2F1
-[/us/pl/101/508/s3101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508%2Fs3101%2F2
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 
 

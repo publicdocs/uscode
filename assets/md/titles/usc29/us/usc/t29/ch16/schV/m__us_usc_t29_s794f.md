@@ -27,7 +27,7 @@
 
         The Architectural and Transportation Barriers Compliance Board, in consultation with the Commissioner of the Food and Drug Administration, shall periodically review and, as appropriate, amend the standards in accordance with the Administrative Procedure Act ([2 U.S.C. 551][/us/usc/t2/s551] et seq.).1
 
-([Pub. L. 93–112, title V, § 510][/us/pl/93/112/s510], as added [Pub. L. 111–148, title IV, § 4203][/us/pl/111/148/s4203], Mar. 23, 2010, [124 Stat. 570][/us/stat/124/570].)
+([Pub. L. 93–112, title V][/us/pl/93/112/tV], § 510, as added [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4203, Mar. 23, 2010, [124 Stat. 570][/us/stat/124/570].)
 
  __References in Text__ 
 
@@ -44,8 +44,8 @@
 
 [/us/usc/t2/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs551
 [/us/usc/t2/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs551
-[/us/pl/93/112/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs510
-[/us/pl/111/148/s4203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4203
+[/us/pl/93/112/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtV
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F570
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/act/1946-06-11/ch324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-06-11%2Fch324

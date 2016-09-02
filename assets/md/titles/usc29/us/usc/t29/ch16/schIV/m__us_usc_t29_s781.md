@@ -55,7 +55,7 @@
 
         (3) In determining the issues to focus on and the findings, conclusions, and recommendations to include in the report, the National Council shall seek input from the public, particularly individuals with disabilities, representatives of organizations representing a broad range of individuals with disabilities, and organizations and agencies interested in individuals with disabilities.
 
-([Pub. L. 93–112, title IV, § 401][/us/pl/93/112/s401], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1199][/us/stat/112/1199]; amended [Pub. L. 105–394, title II, § 202][/us/pl/105/394/s202], Nov. 13, 1998, [112 Stat. 3653][/us/stat/112/3653]; [Pub. L. 106–402, title IV, § 401(b)(3)(B)][/us/pl/106/402/s401/b/3/B], Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 108–364, § 3(b)(2)][/us/pl/108/364/s3/b/2], Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737]; [Pub. L. 113–128, title IV, § 452][/us/pl/113/128/s452], July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
+([Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 401, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 407, Aug. 7, 1998, [112 Stat. 1199][/us/stat/112/1199]; amended [Pub. L. 105–394, title II][/us/pl/105/394/tII], § 202, Nov. 13, 1998, [112 Stat. 3653][/us/stat/112/3653]; [Pub. L. 106–402, title IV][/us/pl/106/402/tIV], § 401(b)(3)(B), Oct. 30, 2000, [114 Stat. 1737][/us/stat/114/1737]; [Pub. L. 108–364][/us/pl/108/364], § 3(b)(2), Oct. 25, 2004, [118 Stat. 1737][/us/stat/118/1737]; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 452, July 22, 2014, [128 Stat. 1675][/us/stat/128/1675].)
 
  __References in Text__ 
 
@@ -65,15 +65,15 @@
 
  __Prior Provisions__ 
 
-    A prior section 781, [Pub. L. 93–112, title IV, § 401][/us/pl/93/112/s401], as added [Pub. L. 95–602, title I, § 117][/us/pl/95/602/s117], Nov. 6, 1978, [92 Stat. 2977][/us/stat/92/2977]; amended [Pub. L. 98–221, title I, § 142][/us/pl/98/221/s142], Feb. 22, 1984, [98 Stat. 27][/us/stat/98/27]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title III, § 302(b), title V, § 502, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1821, 1828; [Pub. L. 100–630, title II, § 205(c)][/us/pl/100/630/s205/c], Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–569, title I, § 102(p)(27)][/us/pl/102/569/s102/p/27], title IV, § 402, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4422; [Pub. L. 104–66, title II, § 2131][/us/pl/104/66/s2131], Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731], related to duties of National Council on Disability, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 781, [Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 401, as added [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 117, Nov. 6, 1978, [92 Stat. 2977][/us/stat/92/2977]; amended [Pub. L. 98–221, title I][/us/pl/98/221/tI], § 142, Feb. 22, 1984, [98 Stat. 27][/us/stat/98/27]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(C), title III, § 302(b), title V, § 502, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1821, 1828; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 205(c), Nov. 7, 1988, [102 Stat. 3310][/us/stat/102/3310]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 102(p)(27), title IV, § 402, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4422; [Pub. L. 104–66, title II][/us/pl/104/66/tII], § 2131, Dec. 21, 1995, [109 Stat. 731][/us/stat/109/731], related to duties of National Council on Disability, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    Another prior section 781, [Pub. L. 93–112, title IV, § 401][/us/pl/93/112/s401], Sept. 26, 1973, [87 Stat. 386][/us/stat/87/386], related to program and project evaluation, prior to repeal by [Pub. L. 95–602, § 117][/us/pl/95/602/s117].
+    Another prior section 781, [Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 401, Sept. 26, 1973, [87 Stat. 386][/us/stat/87/386], related to program and project evaluation, prior to repeal by [Pub. L. 95–602][/us/pl/95/602], § 117.
 
  __Amendments__ 
 
-    Subsec. (a)(1), (3). [Pub. L. 113–128, § 452(1)][/us/pl/113/128/s452/1], substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
+    Subsec. (a)(1), (3). [Pub. L. 113–128][/us/pl/113/128], § 452(1), substituted “National Institute on Disability, Independent Living, and Rehabilitation Research” for “National Institute on Disability and Rehabilitation Research”.
 
-    Subsec. (c). [Pub. L. 113–128, § 452(2)][/us/pl/113/128/s452/2], struck out subsec. (c) which required a report describing the barriers in Federal assistive technology policy to increasing the availability of and access to assistive technology devices and assistive technology services for individuals with disabilities.
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 452(2), struck out subsec. (c) which required a report describing the barriers in Federal assistive technology policy to increasing the availability of and access to assistive technology devices and assistive technology services for individuals with disabilities.
 
     2004—Subsec. (c)(2). [Pub. L. 108–364][/us/pl/108/364] substituted “targeted individuals and entities” for “targeted individuals”.
 
@@ -101,16 +101,16 @@
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/usc/t29/s780/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs780%2Fa%2F2
 [/us/usc/t29/s780/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs780%2Fa%2F2
-[/us/pl/93/112/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs401
-[/us/pl/105/220/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs407
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1199]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1199
-[/us/pl/105/394/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2Fs202
+[/us/pl/105/394/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F394%2FtII
 [/us/stat/112/3653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F3653
-[/us/pl/106/402/s401/b/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2Fs401%2Fb%2F3%2FB
+[/us/pl/106/402/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402%2FtIV
 [/us/stat/114/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1737
-[/us/pl/108/364/s3/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364%2Fs3%2Fb%2F2
+[/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/stat/118/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1737
-[/us/pl/113/128/s452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs452
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1675]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1675
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/stat/114/1677]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1677
@@ -118,25 +118,25 @@
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/93/112/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs401
-[/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2977]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2977
-[/us/pl/98/221/s142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs142
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F27
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s205/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs205%2Fc
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3310
-[/us/pl/102/569/s102/p/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F27
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4360
-[/us/pl/104/66/s2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs2131
+[/us/pl/104/66/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtII
 [/us/stat/109/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F731
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs401
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
 [/us/stat/87/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F386
-[/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
-[/us/pl/113/128/s452/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs452%2F1
-[/us/pl/113/128/s452/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs452%2F2
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/108/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F364
 [/us/pl/106/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F402
 [/us/usc/t42/s6000]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs6000

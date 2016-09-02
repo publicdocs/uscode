@@ -27,7 +27,7 @@
 
         (4) Nothing in this chapter shall be construed to supersede or in any manner affect any workmen’s compensation law or to enlarge or diminish or affect in any other manner the common law or statutory rights, duties, or liabilities of employers and employees under any law with respect to injuries, diseases, or death of employees arising out of, or in the course of, employment.
 
-([Pub. L. 91–596, § 4][/us/pl/91/596/s4], Dec. 29, 1970, [84 Stat. 1592][/us/stat/84/1592].)
+([Pub. L. 91–596][/us/pl/91/596], § 4, Dec. 29, 1970, [84 Stat. 1592][/us/stat/84/1592].)
 
  __References in Text__ 
 
@@ -67,7 +67,7 @@
 [/us/pl/91/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F54
 [/us/pl/85/742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F742
 [/us/usc/t20/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs951
-[/us/pl/91/596/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs4
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1592
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345
 [/us/stat/67/462]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F462

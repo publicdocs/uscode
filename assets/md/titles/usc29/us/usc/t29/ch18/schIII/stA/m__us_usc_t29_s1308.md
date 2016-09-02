@@ -33,7 +33,7 @@
 
         (3) a statement regarding the deficit or surplus for such year that the corporation would have had if the corporation had earned the return described in paragraph (2)(B) with respect to assets invested by the corporation.
 
-([Pub. L. 93–406, title IV, § 4008][/us/pl/93/406/s4008], Sept. 2, 1974, [88 Stat. 1014][/us/stat/88/1014]; [Pub. L. 109–280, title IV, § 412][/us/pl/109/280/s412], Aug. 17, 2006, [120 Stat. 936][/us/stat/120/936].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4008, Sept. 2, 1974, [88 Stat. 1014][/us/stat/88/1014]; [Pub. L. 109–280, title IV][/us/pl/109/280/tIV], § 412, Aug. 17, 2006, [120 Stat. 936][/us/stat/120/936].)
 
  __Amendments__ 
 
@@ -47,9 +47,9 @@
 ----------
 
 [/us/usc/t29/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1305
-[/us/pl/93/406/s4008]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4008
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1014
-[/us/pl/109/280/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs412
+[/us/pl/109/280/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIV
 [/us/stat/120/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F936
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 

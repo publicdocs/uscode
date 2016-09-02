@@ -17,11 +17,11 @@
 
     The staffs of the Committee on Ways and Means and the Committee on Education and Labor of the House of Representatives, the Joint Committee on Taxation, and the Committee on Finance and the Committee on Labor and Public Welfare of the Senate shall carry out the duties assigned under this subchapter to the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force. By agreement among the chairmen of such Committees, the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force shall be furnished with office space, clerical personnel, and such supplies and equipment as may be necessary for the Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force to carry out its duties under this subchapter.
 
-([Pub. L. 93–406, title III, § 3021][/us/pl/93/406/s3021], Sept. 2, 1974, [88 Stat. 999][/us/stat/88/999]; [Pub. L. 94–455, title VIII, § 803(i)][/us/pl/94/455/s803/i] (2)(A)(iii), title XIX, § 1907(a)(5), Oct. 4, 1976, [90 Stat. 1591][/us/stat/90/1591], 1836.)
+([Pub. L. 93–406, title III][/us/pl/93/406/tIII], § 3021, Sept. 2, 1974, [88 Stat. 999][/us/stat/88/999]; [Pub. L. 94–455, title VIII][/us/pl/94/455/tVIII], § 803(i) (2)(A)(iii), title XIX, § 1907(a)(5), Oct. 4, 1976, [90 Stat. 1591][/us/stat/90/1591], 1836.)
 
  __Amendments__ 
 
-    1976—[Pub. L. 94–455, § 803(i)(2)(A)(iii)][/us/pl/94/455/s803/i/2/A/iii], substituted “Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force” for “Joint Pension Task Force” wherever appearing.
+    1976—[Pub. L. 94–455][/us/pl/94/455], § 803(i)(2)(A)(iii), substituted “Joint Pension, Profit-Sharing, and Employee Stock Ownership Plan Task Force” for “Joint Pension Task Force” wherever appearing.
 
  __Change of Name__ 
 
@@ -38,11 +38,11 @@
 ----------
 ----------
 
-[/us/pl/93/406/s3021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs3021
+[/us/pl/93/406/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIII
 [/us/stat/88/999]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F999
-[/us/pl/94/455/s803/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs803%2Fi
+[/us/pl/94/455/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2FtVIII
 [/us/stat/90/1591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1591
-[/us/pl/94/455/s803/i/2/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs803%2Fi%2F2%2FA%2Fiii
+[/us/pl/94/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455
 [/us/pl/94/455/s1907/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F455%2Fs1907%2Fa%2F5
 
 

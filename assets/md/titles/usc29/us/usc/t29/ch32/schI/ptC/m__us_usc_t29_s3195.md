@@ -115,7 +115,7 @@
 
             An enrollee who is younger than 18 shall not be assigned to a Job Corps center other than the center closest to the home that offers the career and technical education and training desired by the enrollee pursuant to paragraph (1) if the parent or guardian of the enrollee objects to the assignment.
 
-([Pub. L. 113–128, title I, § 145][/us/pl/113/128/s145], July 22, 2014, [128 Stat. 1539][/us/stat/128/1539].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 145, July 22, 2014, [128 Stat. 1539][/us/stat/128/1539].)
 
  __Effective Date__ 
 
@@ -132,7 +132,7 @@
 [/us/usc/t18/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1111
 [/us/usc/t29/s3209/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3209%2Fc%2F1
 [/us/usc/t29/s3209/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3209%2Ff
-[/us/pl/113/128/s145]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs145
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1539]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1539
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

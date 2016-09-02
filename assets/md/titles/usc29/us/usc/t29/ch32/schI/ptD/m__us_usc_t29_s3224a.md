@@ -73,7 +73,7 @@
 
         The Secretary of Labor shall require grantees to report on the employment outcomes obtained by workers receiving training under this section using indicators of performance that are consistent with other indicators used for employment and training programs administered by the Secretary, such as entry into employment, retention in employment, and increases in earnings. The Secretary of Labor may also require grantees to participate in evaluations of projects carried out under this section.
 
-([Pub. L. 105–277, div. C, title IV, § 414(c)][/us/pl/105/277/s414/c], Oct. 21, 1998, [112 Stat. 2681–653][/us/stat/112/2681-653]; [Pub. L. 106–313, title I, § 111][/us/pl/106/313/s111], Oct. 17, 2000, [114 Stat. 1257][/us/stat/114/1257]; [Pub. L. 108–447, div. J, title IV, § 428][/us/pl/108/447/s428], Dec. 8, 2004, [118 Stat. 3358][/us/stat/118/3358]; (As amended [Pub. L. 113–128, title V, § 512(a)][/us/pl/113/128/s512/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].)
+([Pub. L. 105–277, div. C, title IV][/us/pl/105/277/dC/tIV], § 414(c), Oct. 21, 1998, [112 Stat. 2681–653][/us/stat/112/2681-653]; [Pub. L. 106–313, title I][/us/pl/106/313/tI], § 111, Oct. 17, 2000, [114 Stat. 1257][/us/stat/114/1257]; [Pub. L. 108–447, div. J, title IV][/us/pl/108/447/dJ/tIV], § 428, Dec. 8, 2004, [118 Stat. 3358][/us/stat/118/3358]; (As amended [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 512(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].)
 
  __Codification__ 
 
@@ -116,13 +116,13 @@
 
 [/us/usc/t8/s1356/s/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1356%2Fs%2F2
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
-[/us/pl/105/277/s414/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs414%2Fc
+[/us/pl/105/277/dC/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdC%2FtIV
 [/us/stat/112/2681-653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-653
-[/us/pl/106/313/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2Fs111
+[/us/pl/106/313/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F313%2FtI
 [/us/stat/114/1257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F1257
-[/us/pl/108/447/s428]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs428
+[/us/pl/108/447/dJ/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2FdJ%2FtIV
 [/us/stat/118/3358]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3358
-[/us/pl/113/128/s512/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs512%2Fa
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
 [/us/usc/t29/s2916a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2916a
 [/us/usc/t29/s2916]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2916

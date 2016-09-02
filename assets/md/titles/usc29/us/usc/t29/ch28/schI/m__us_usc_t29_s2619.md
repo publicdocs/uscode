@@ -23,7 +23,7 @@
 
         Any employer that willfully violates this section may be assessed a civil money penalty not to exceed $100 for each separate offense.
 
-([Pub. L. 103–3, title I, § 109][/us/pl/103/3/s109], Feb. 5, 1993, [107 Stat. 19][/us/stat/107/19].)
+([Pub. L. 103–3, title I][/us/pl/103/3/tI], § 109, Feb. 5, 1993, [107 Stat. 19][/us/stat/107/19].)
 
 ----------
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs109
+[/us/pl/103/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtI
 [/us/stat/107/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F19
 
 

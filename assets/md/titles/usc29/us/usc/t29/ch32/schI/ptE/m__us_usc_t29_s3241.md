@@ -163,7 +163,7 @@
 
         A recipient of grant funds under this subchapter shall have the authority to enter into subgrants in order to carry out the grant, subject to such conditions as the Secretary may establish.
 
-([Pub. L. 113–128, title I, § 181][/us/pl/113/128/s181], July 22, 2014, [128 Stat. 1586][/us/stat/128/1586].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 181, July 22, 2014, [128 Stat. 1586][/us/stat/128/1586].)
 
  __References in Text__ 
 
@@ -185,7 +185,7 @@
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
 [/us/usc/t42/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs301
 [/us/usc/t29/s3174/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3174%2Fa%2F3%2FB
-[/us/pl/113/128/s181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs181
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1586]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1586
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

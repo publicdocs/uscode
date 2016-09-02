@@ -17,7 +17,7 @@
 
     There shall be an executive department in the Government to be called the Department of Labor, with a Secretary of Labor, who shall be the head thereof, to be appointed by the President, by and with the advice and consent of the Senate, and whose tenure of office shall be like that of the heads of the other executive departments. The provisions of title 4 of the Revised Statutes, including all amendments thereto, shall be applicable to said department. The purpose of the Department of Labor shall be to foster, promote, and develop the welfare of the wage earners of the United States, to improve their working conditions, and to advance their opportunities for profitable employment. The said Secretary shall cause a seal of office to be made for the said department of such device as the President shall approve and judicial notice shall be taken of the said seal.
 
-([Mar. 4, 1913, ch. 141, § 1][/us/act/1913-03-04/ch141/s1], [37 Stat. 736][/us/stat/37/736]; [Mar. 4, 1925, ch. 549, § 4][/us/act/1925-03-04/ch549/s4], [43 Stat. 1301][/us/stat/43/1301].)
+([Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 1, [37 Stat. 736][/us/stat/37/736]; [Mar. 4, 1925, ch. 549][/us/act/1925-03-04/ch549], § 4, [43 Stat. 1301][/us/stat/43/1301].)
 
  __References in Text__ 
 
@@ -25,11 +25,11 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 611 of Title 5][/us/usc/t5/s611] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 611 of Title 5][/us/usc/t5/s611] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Short Title of 1986 Amendment__ 
 
-[Pub. L. 99–619, § 1][/us/pl/99/619/s1], Nov. 6, 1986, [100 Stat. 3491][/us/stat/100/3491], provided that: 
+[Pub. L. 99–619][/us/pl/99/619], § 1, Nov. 6, 1986, [100 Stat. 3491][/us/stat/100/3491], provided that: 
 
 > “This Act \[amending sections 552 and 553 of this title and sections 5313 to 5316 of Title 5, Government Organization and Employees, repealing section 3 of Reorganization Plan No. 6 of 1950, set out in the Appendix to Title 5, and enacting provisions set out as notes under sections 552 and 553 of this title and [section 5316 of Title 5][/us/usc/t5/s5316]\] may be cited as the ‘Department of Labor Executive Level Conforming Amendments of 1986’.”
 
@@ -43,7 +43,7 @@
 
  __History of Department__ 
 
-    A Department of Labor under the charge of a Commissioner of Labor was first established by [act June 13, 1888, ch. 389][/us/act/1888-06-13/ch389], [25 Stat. 182][/us/stat/25/182]. That Department was placed under the jurisdiction and made a part of a new department, called the Department of Commerce and Labor, by [act Feb. 14, 1903, ch. 552, § 4][/us/act/1903-02-14/ch552/s4], [32 Stat. 827][/us/stat/32/827]. The name Department of Labor was changed to Bureau of Labor by [act Mar. 18, 1904, ch. 716][/us/act/1904-03-18/ch716], [33 Stat. 136][/us/stat/33/136]. The present Department of Labor was created by act Mar. 4, 1913. The Bureau of Labor in the Department of Commerce and Labor was transferred to the present Department of Labor by said act.
+    A Department of Labor under the charge of a Commissioner of Labor was first established by [act June 13, 1888, ch. 389][/us/act/1888-06-13/ch389], [25 Stat. 182][/us/stat/25/182]. That Department was placed under the jurisdiction and made a part of a new department, called the Department of Commerce and Labor, by [act Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 4, [32 Stat. 827][/us/stat/32/827]. The name Department of Labor was changed to Bureau of Labor by [act Mar. 18, 1904, ch. 716][/us/act/1904-03-18/ch716], [33 Stat. 136][/us/stat/33/136]. The present Department of Labor was created by act Mar. 4, 1913. The Bureau of Labor in the Department of Commerce and Labor was transferred to the present Department of Labor by said act.
 
  __Order of Succession__ 
 
@@ -102,23 +102,23 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch141/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs1
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
-[/us/act/1925-03-04/ch549/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch549%2Fs4
+[/us/act/1925-03-04/ch549]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1925-03-04%2Fch549
 [/us/stat/43/1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F43%2F1301
 [/us/usc/t18/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs207
 [/us/usc/t31/s3321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs3321
 [/us/usc/t5/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs611
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
-[/us/pl/99/619/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F619%2Fs1
+[/us/pl/99/619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F619
 [/us/stat/100/3491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3491
 [/us/usc/t5/s5316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5316
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 [/us/usc/t42/s5195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5195
 [/us/act/1888-06-13/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389
 [/us/stat/25/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F182
-[/us/act/1903-02-14/ch552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs4
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/827]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F827
 [/us/act/1904-03-18/ch716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-03-18%2Fch716
 [/us/stat/33/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F136

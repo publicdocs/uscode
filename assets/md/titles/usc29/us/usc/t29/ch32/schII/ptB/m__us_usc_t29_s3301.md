@@ -23,7 +23,7 @@
 
     (3) coordination and nonduplication with other Federal and State education, training, corrections, public housing, and social service programs.
 
-([Pub. L. 113–128, title II, § 221][/us/pl/113/128/s221], July 22, 2014, [128 Stat. 1614][/us/stat/128/1614].)
+([Pub. L. 113–128, title II][/us/pl/113/128/tII], § 221, July 22, 2014, [128 Stat. 1614][/us/stat/128/1614].)
 
  __Effective Date__ 
 
@@ -38,7 +38,7 @@
 
 [/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
-[/us/pl/113/128/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs221
+[/us/pl/113/128/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtII
 [/us/stat/128/1614]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1614
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

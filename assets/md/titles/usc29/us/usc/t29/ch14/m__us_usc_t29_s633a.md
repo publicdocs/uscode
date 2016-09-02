@@ -53,7 +53,7 @@
 
         (2) The Equal Employment Opportunity Commission shall transmit a report to the President and to the Congress containing the findings of the Commission resulting from the study of the Commission under paragraph (1) of this subsection. Such report shall be transmitted no later than January 1, 1980.
 
-([Pub. L. 90–202, § 15][/us/pl/90/202/s15], as added [Pub. L. 93–259, § 28(b)(2)][/us/pl/93/259/s28/b/2], Apr. 8, 1974, [88 Stat. 74][/us/stat/88/74]; amended [Pub. L. 95–256, § 5(a)][/us/pl/95/256/s5/a], (e), Apr. 6, 1978, [92 Stat. 191][/us/stat/92/191]; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, § 2, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 104–1, title II, § 201(c)(2)][/us/pl/104/1/s201/c/2], Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8]; [Pub. L. 105–220, title III, § 341(b)][/us/pl/105/220/s341/b], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–2, § 5(c)(3)][/us/pl/111/2/s5/c/3], Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
+([Pub. L. 90–202][/us/pl/90/202], § 15, as added [Pub. L. 93–259][/us/pl/93/259], § 28(b)(2), Apr. 8, 1974, [88 Stat. 74][/us/stat/88/74]; amended [Pub. L. 95–256][/us/pl/95/256], § 5(a), (e), Apr. 6, 1978, [92 Stat. 191][/us/stat/92/191]; 1978 Reorg. Plan No. 1, eff. Jan. 1, 1979, § 2, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 104–1, title II][/us/pl/104/1/tII], § 201(c)(2), Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8]; [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 341(b), Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI][/us/pl/109/435/tVI], § 604(f), Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–2][/us/pl/111/2], § 5(c)(3), Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7]; [Pub. L. 113–235, div. H, title I][/us/pl/113/235/dH/tI], § 1301(b), Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -71,9 +71,9 @@
 
     1995—Subsec. (a). [Pub. L. 104–1][/us/pl/104/1] substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
 
-    1978—Subsec. (a). [Pub. L. 95–256, § 5(a)][/us/pl/95/256/s5/a], inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
+    1978—Subsec. (a). [Pub. L. 95–256][/us/pl/95/256], § 5(a), inserted age requirement of at least 40 years of age, and “personnel actions” after “except”.
 
-    Subsecs. (f), (g). [Pub. L. 95–256, § 5(e)][/us/pl/95/256/s5/e], added subsecs. (f) and (g).
+    Subsecs. (f), (g). [Pub. L. 95–256][/us/pl/95/256], § 5(e), added subsecs. (f) and (g).
 
  __Change of Name__ 
 
@@ -85,7 +85,7 @@
 
  __Effective Date of 1998 Amendment__ 
 
-    [Pub. L. 105–220, title III, § 341(d)][/us/pl/105/220/s341/d], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], which provided that amendments made by subsections (a), (b), and (c) (amending this section, [section 791 of this title][/us/usc/t29/s791], and [section 2000e–16 of Title 42][/us/usc/t42/s2000e–16], The Public Health and Welfare) would take effect on Aug. 7, 1998, and would be applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after Aug. 7, 1998, regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, was repealed by [Pub. L. 113–128, title V, § 511(a)][/us/pl/113/128/s511/a], July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
+    [Pub. L. 105–220, title III][/us/pl/105/220/tIII], § 341(d), Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092], which provided that amendments made by subsections (a), (b), and (c) (amending this section, [section 791 of this title][/us/usc/t29/s791], and [section 2000e–16 of Title 42][/us/usc/t42/s2000e–16], The Public Health and Welfare) would take effect on Aug. 7, 1998, and would be applicable to and may be raised in any administrative or judicial claim or action brought before Aug. 7, 1998, but pending on such date, and any administrative or judicial claim or action brought after Aug. 7, 1998, regardless of whether the claim or action arose prior to such date, if the claim or action was brought within the applicable statute of limitations, was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], § 511(a), July 22, 2014, [128 Stat. 1705][/us/stat/128/1705].
 
  __Effective Date of 1995 Amendment__ 
 
@@ -93,7 +93,7 @@
 
  __Effective Date of 1978 Amendment__ 
 
-[Pub. L. 95–256, § 5(f)][/us/pl/95/256/s5/f], Apr. 6, 1978, [92 Stat. 192][/us/stat/92/192], provided that: 
+[Pub. L. 95–256][/us/pl/95/256], § 5(f), Apr. 6, 1978, [92 Stat. 192][/us/stat/92/192], provided that: 
 
 > “The amendments made by this section \[amending this section and sections 8335 and 8339 of Title 5, Government Organization and Employees, and repealing [section 3322 of Title 5][/us/usc/t5/s3322]\] shall take effect on September 30, 1978, except that section 15(g) of the Age Discrimination in Employment Act of 1967, as amended by subsection (e) of this section \[subsec. (g) of this section\], shall take effect on the date of enactment of this Act \[Apr. 6, 1978\].”
 
@@ -115,23 +115,23 @@
 [/us/usc/t5/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs102
 [/us/usc/t5/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs105
 [/us/usc/t29/s631/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs631%2Fb
-[/us/pl/90/202/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs15
-[/us/pl/93/259/s28/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs28%2Fb%2F2
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F74
-[/us/pl/95/256/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs5%2Fa
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/stat/92/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F191
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
-[/us/pl/104/1/s201/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs201%2Fc%2F2
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F8
-[/us/pl/105/220/s341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fb
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/109/435/s604/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2Fs604%2Ff
+[/us/pl/109/435/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F435%2FtVI
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
-[/us/pl/111/2/s5/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs5%2Fc%2F3
+[/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/stat/123/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F7
-[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/pl/113/235/dH/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdH%2FtI
 [/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
@@ -139,22 +139,22 @@
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
-[/us/pl/95/256/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs5%2Fa
-[/us/pl/95/256/s5/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs5%2Fe
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
 [/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/pl/111/2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs6
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935
-[/us/pl/105/220/s341/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs341%2Fd
+[/us/pl/105/220/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIII
 [/us/stat/112/1092]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1092
 [/us/usc/t29/s791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs791
 [/us/usc/t42/s2000e–16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%9316
-[/us/pl/113/128/s511/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs511%2Fa
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1705
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
 [/us/usc/t2/s1311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1311%2Fd
-[/us/pl/95/256/s5/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs5%2Ff
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/stat/92/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F192
 [/us/usc/t5/s3322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3322
 [/us/pl/93/259/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs29%2Fa

@@ -27,7 +27,7 @@
 
         The Secretary shall by regulation provide for the furnishing by the Department of Labor of copies of reports or other documents filed with the Secretary pursuant to this subchapter, upon payment of a charge based upon the cost of the service. The Secretary shall make available without payment of a charge, or require any person to furnish, to such State agency as is designated by law or by the Governor of the State in which such person has his principal place of business or headquarters, upon request of the Governor of such State, copies of any reports and documents filed by such person with the Secretary pursuant to section 431, 432, 433, or 441 of this title, or of information and data contained therein. No person shall be required by reason of any law of any State to furnish to any officer or agency of such State any information included in a report filed by such person with the Secretary pursuant to the provisions of this subchapter, if a copy of such report, or of the portion thereof containing such information, is furnished to such officer or agency. All moneys received in payment of such charges fixed by the Secretary pursuant to this subsection shall be deposited in the general fund of the Treasury.
 
-([Pub. L. 86–257, title II, § 205][/us/pl/86/257/s205], Sept. 14, 1959, [73 Stat. 528][/us/stat/73/528]; [Pub. L. 89–216, § 2(a)][/us/pl/89/216/s2/a]–(c), Sept. 29, 1965, [79 Stat. 888][/us/stat/79/888].)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 205, Sept. 14, 1959, [73 Stat. 528][/us/stat/73/528]; [Pub. L. 89–216][/us/pl/89/216], § 2(a)–(c), Sept. 29, 1965, [79 Stat. 888][/us/stat/79/888].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/86/257/s205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs205
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F528
-[/us/pl/89/216/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216%2Fs2%2Fa
+[/us/pl/89/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216
 [/us/stat/79/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F888
 [/us/pl/89/216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F216
 [/us/usc/t29/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs441

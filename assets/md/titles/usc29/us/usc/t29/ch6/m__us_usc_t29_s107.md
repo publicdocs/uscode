@@ -29,7 +29,7 @@
 
         The undertaking mentioned in this section shall be understood to signify an agreement entered into by the complainant and the surety upon which a decree may be rendered in the same suit or proceeding against said complainant and surety, upon a hearing to assess damages of which hearing complainant and surety shall have reasonable notice, the said complainant and surety submitting themselves to the jurisdiction of the court for that purpose. But nothing in this section contained shall deprive any party having a claim or cause of action under or upon such undertaking from electing to pursue his ordinary remedy by suit at law or in equity.
 
-([Mar. 23, 1932, ch. 90, § 7][/us/act/1932-03-23/ch90/s7], [47 Stat. 71][/us/stat/47/71].)
+([Mar. 23, 1932, ch. 90][/us/act/1932-03-23/ch90], § 7, [47 Stat. 71][/us/stat/47/71].)
 
 ----------
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/act/1932-03-23/ch90/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90%2Fs7
+[/us/act/1932-03-23/ch90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1932-03-23%2Fch90
 [/us/stat/47/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F71
 
 

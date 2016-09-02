@@ -103,7 +103,7 @@
 
         Any information or documentary material submitted to the corporation pursuant to this section shall be exempt from disclosure under [section 552 of title 5][/us/usc/t5/s552], and no such information or documentary material may be made public, except as may be relevant to any administrative or judicial action or proceeding. Nothing in this section is intended to prevent disclosure to either body of Congress or to any duly authorized committee or subcommittee of the Congress.
 
-([Pub. L. 93–406, title IV, § 4043][/us/pl/93/406/s4043], Sept. 2, 1974, [88 Stat. 1024][/us/stat/88/1024]; [Pub. L. 101–239, title VII, § 7891(a)][/us/pl/101/239/s7891/a], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 103–465, title VII, § 771(a)][/us/pl/103/465/s771/a]–(e)(1), Dec. 8, 1994, [108 Stat. 5042][/us/stat/108/5042], 5043; [Pub. L. 109–280, title IV, § 407(c)(2)][/us/pl/109/280/s407/c/2], Aug. 17, 2006, [120 Stat. 930][/us/stat/120/930].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4043, Sept. 2, 1974, [88 Stat. 1024][/us/stat/88/1024]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445]; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 771(a)–(e)(1), Dec. 8, 1994, [108 Stat. 5042][/us/stat/108/5042], 5043; [Pub. L. 109–280, title IV][/us/pl/109/280/tIV], § 407(c)(2), Aug. 17, 2006, [120 Stat. 930][/us/stat/120/930].)
 
  __References in Text__ 
 
@@ -113,17 +113,17 @@
 
     2006—Subsec. (c)(7). [Pub. L. 109–280][/us/pl/109/280] substituted “1321(d)” for “1322(b)(6)” in introductory provisions.
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 771(a)][/us/pl/103/465/s771/a], (e)(1), in first sentence, inserted “or the contributing sponsor” after “administrator”, substituted “subsection (c)” for “subsection (b)”, and inserted before period at end “, unless a notice otherwise required under this subsection has already been provided with respect to such event”, and struck out last sentence which read as follows: “Whenever an employer making contributions under a plan to which [section 1321 of this title][/us/usc/t29/s1321] applies knows or has reason to know that a reportable event has occurred he shall notify the plan administrator immediately.”
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 771(a), (e)(1), in first sentence, inserted “or the contributing sponsor” after “administrator”, substituted “subsection (c)” for “subsection (b)”, and inserted before period at end “, unless a notice otherwise required under this subsection has already been provided with respect to such event”, and struck out last sentence which read as follows: “Whenever an employer making contributions under a plan to which [section 1321 of this title][/us/usc/t29/s1321] applies knows or has reason to know that a reportable event has occurred he shall notify the plan administrator immediately.”
 
-    Subsec. (b). [Pub. L. 103–465, § 771(b)][/us/pl/103/465/s771/b], added subsec. (b). Former subsec. (b) redesignated (c).
+    Subsec. (b). [Pub. L. 103–465][/us/pl/103/465], § 771(b), added subsec. (b). Former subsec. (b) redesignated (c).
 
-    Subsec. (c). [Pub. L. 103–465, § 771(b)][/us/pl/103/465/s771/b], redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
+    Subsec. (c). [Pub. L. 103–465][/us/pl/103/465], § 771(b), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-    Subsec. (c)(8) to (13). [Pub. L. 103–465, § 771(c)][/us/pl/103/465/s771/c], struck out “or” at end of par. (8), added pars. (9) to (13), and struck out former par. (9) which read as follows: “when any other event occurs which the corporation determines may be indicative of a need to terminate the plan.”.
+    Subsec. (c)(8) to (13). [Pub. L. 103–465][/us/pl/103/465], § 771(c), struck out “or” at end of par. (8), added pars. (9) to (13), and struck out former par. (9) which read as follows: “when any other event occurs which the corporation determines may be indicative of a need to terminate the plan.”.
 
-    Subsecs. (d), (e). [Pub. L. 103–465, § 771(b)][/us/pl/103/465/s771/b], (e)(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted “subsection (c)” for “subsection (b)” in par. (1) of each subsec.
+    Subsecs. (d), (e). [Pub. L. 103–465][/us/pl/103/465], § 771(b), (e)(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively, and substituted “subsection (c)” for “subsection (b)” in par. (1) of each subsec.
 
-    Subsec. (f). [Pub. L. 103–465, § 771(d)][/us/pl/103/465/s771/d], added subsec. (f).
+    Subsec. (f). [Pub. L. 103–465][/us/pl/103/465], § 771(d), added subsec. (f).
 
     1989—Subsec. (b)(4). [Pub. L. 101–239][/us/pl/101/239] substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -160,25 +160,25 @@
 [/us/usc/t29/s1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1030
 [/us/usc/t26/s1059/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs1059%2Fc
 [/us/usc/t5/s552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552
-[/us/pl/93/406/s4043]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4043
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1024]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1024
-[/us/pl/101/239/s7891/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/103/465/s771/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fa
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5042
-[/us/pl/109/280/s407/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs407%2Fc%2F2
+[/us/pl/109/280/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtIV
 [/us/stat/120/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F930
 [/us/act/1934-06-06/ch404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1934-06-06%2Fch404
 [/us/stat/48/881]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F881
 [/us/usc/t15/s78a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78a
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/103/465/s771/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fa
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t29/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321
-[/us/pl/103/465/s771/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fb
-[/us/pl/103/465/s771/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fb
-[/us/pl/103/465/s771/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fc
-[/us/pl/103/465/s771/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fb
-[/us/pl/103/465/s771/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fd
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/109/280/s407/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs407%2Fd%2F2

@@ -63,11 +63,11 @@
 
         (4) A plan is not required to make retroactive benefit payments with respect to that portion of a benefit which was suspended under this subsection, except that the provisions of section 1426(c)(4) and (5) of this title shall apply in the case of plans which are insolvent under paragraph (2)(A), in connection with the plan year during which such [section 1341a(d) of this title][/us/usc/t29/s1341a/d] first became applicable to the plan and every year thereafter, in the same manner and to the same extent as such provisions apply to insolvent plans in reorganization under [section 1426 of this title][/us/usc/t29/s1426], in connection with insolvency years under such [section 1426 of this title][/us/usc/t29/s1426].
 
-([Pub. L. 93–406, title IV, § 4281][/us/pl/93/406/s4281], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1261][/us/stat/94/1261].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4281, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1261][/us/stat/94/1261].)
 
  __References in Text__ 
 
-    [Section 1425 of this title][/us/usc/t29/s1425], referred to in subsec. (c)(2)(C), was repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+    [Section 1425 of this title][/us/usc/t29/s1425], referred to in subsec. (c)(2)(C), was repealed by [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 108(a)(1), Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
  __Effective Date__ 
 
@@ -90,11 +90,11 @@
 [/us/usc/t29/s1341a/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341a%2Fd
 [/us/usc/t29/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426
 [/us/usc/t29/s1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1426
-[/us/pl/93/406/s4281]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4281
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1261
 [/us/usc/t29/s1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1425
-[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/usc/t29/s1461/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1461%2Fe
 

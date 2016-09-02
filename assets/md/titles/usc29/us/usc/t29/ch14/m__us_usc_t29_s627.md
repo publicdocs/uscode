@@ -17,7 +17,7 @@
 
     Every employer, employment agency, and labor organization shall post and keep posted in conspicuous places upon its premises a notice to be prepared or approved by the Equal Employment Opportunity Commission setting forth information as the Commission deems appropriate to effectuate the purposes of this chapter.
 
-([Pub. L. 90–202, § 8][/us/pl/90/202/s8], Dec. 15, 1967, [81 Stat. 605][/us/stat/81/605]; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781].)
+([Pub. L. 90–202][/us/pl/90/202], § 8, Dec. 15, 1967, [81 Stat. 605][/us/stat/81/605]; 1978 Reorg. Plan No. 1, § 2, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781].)
 
  __Transfer of Functions__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/pl/90/202/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs8
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F605
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781

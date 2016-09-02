@@ -39,11 +39,11 @@
 
     The report shall be filed within 6 months after the close of the plan year to which it relates. The corporation shall cooperate with the Secretary of the Treasury and the Secretary of Labor in an endeavor to coordinate the timing and content, and possibly obtain the combination, of reports under this section with reports required to be made by plan administrators to such Secretaries.
 
-([Pub. L. 93–406, title IV, § 4065][/us/pl/93/406/s4065], Sept. 2, 1974, [88 Stat. 1032][/us/stat/88/1032]; [Pub. L. 96–364, title I, § 106][/us/pl/96/364/s106], Sept. 26, 1980, [94 Stat. 1266][/us/stat/94/1266].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4065, Sept. 2, 1974, [88 Stat. 1032][/us/stat/88/1032]; [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 106, Sept. 26, 1980, [94 Stat. 1266][/us/stat/94/1266].)
 
  __References in Text__ 
 
-    [Section 1343(b) of this title][/us/usc/t29/s1343/b], referred to in par. (2), was redesignated [section 1343(c) of this title][/us/usc/t29/s1343/c] and a new section 1343(b) was added by [Pub. L. 103–465, title VII, § 771(b)][/us/pl/103/465/s771/b], Dec. 8, 1994, [108 Stat. 5042][/us/stat/108/5042].
+    [Section 1343(b) of this title][/us/usc/t29/s1343/b], referred to in par. (2), was redesignated [section 1343(c) of this title][/us/usc/t29/s1343/c] and a new section 1343(b) was added by [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 771(b), Dec. 8, 1994, [108 Stat. 5042][/us/stat/108/5042].
 
  __Amendments__ 
 
@@ -63,13 +63,13 @@
 [/us/usc/t29/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321
 [/us/usc/t29/s1363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1363
 [/us/usc/t29/s1301/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1301%2Fa%2F12
-[/us/pl/93/406/s4065]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4065
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1032]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1032
-[/us/pl/96/364/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs106
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1266
 [/us/usc/t29/s1343/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1343%2Fb
 [/us/usc/t29/s1343/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1343%2Fc
-[/us/pl/103/465/s771/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs771%2Fb
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5042]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5042
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364

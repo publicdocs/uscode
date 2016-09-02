@@ -183,27 +183,27 @@
 
         The term “veteran” has the meaning given the term in [section 101 of title 38][/us/usc/t38/s101].
 
-([Pub. L. 103–3, title I, § 101][/us/pl/103/3/s101], Feb. 5, 1993, [107 Stat. 7][/us/stat/107/7]; [Pub. L. 104–1, title II, § 202(c)(1)(A)][/us/pl/104/1/s202/c/1/A], Jan. 23, 1995, [109 Stat. 9][/us/stat/109/9]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–181, div. A, title V, § 585(a)(1)][/us/pl/110/181/s585/a/1], Jan. 28, 2008, [122 Stat. 128][/us/stat/122/128]; [Pub. L. 111–84, div. A, title V, § 565(a)(1)(A)][/us/pl/111/84/s565/a/1/A], (2), (3), Oct. 28, 2009, [123 Stat. 2309][/us/stat/123/2309], 2310; [Pub. L. 111–119, § 2(a)][/us/pl/111/119/s2/a], Dec. 21, 2009, [123 Stat. 3476][/us/stat/123/3476].)
+([Pub. L. 103–3, title I][/us/pl/103/3/tI], § 101, Feb. 5, 1993, [107 Stat. 7][/us/stat/107/7]; [Pub. L. 104–1, title II][/us/pl/104/1/tII], § 202(c)(1)(A), Jan. 23, 1995, [109 Stat. 9][/us/stat/109/9]; [Pub. L. 108–271][/us/pl/108/271], § 8(b), July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 585(a)(1), Jan. 28, 2008, [122 Stat. 128][/us/stat/122/128]; [Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 565(a)(1)(A), (2), (3), Oct. 28, 2009, [123 Stat. 2309][/us/stat/123/2309], 2310; [Pub. L. 111–119][/us/pl/111/119], § 2(a), Dec. 21, 2009, [123 Stat. 3476][/us/stat/123/3476].)
 
  __Amendments__ 
 
     2009—Par. (2)(D). [Pub. L. 111–119][/us/pl/111/119] added subpar. (D).
 
-    Par. (14). [Pub. L. 111–84, § 565(a)(1)(A)(i)][/us/pl/111/84/s565/a/1/A/i], added par. (14) and struck out former par. (14). Prior to amendment, text read as follows: “The term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in [section 101(a)(13)(B) of title 10][/us/usc/t10/s101/a/13/B].”
+    Par. (14). [Pub. L. 111–84][/us/pl/111/84], § 565(a)(1)(A)(i), added par. (14) and struck out former par. (14). Prior to amendment, text read as follows: “The term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in [section 101(a)(13)(B) of title 10][/us/usc/t10/s101/a/13/B].”
 
-    Par. (15). [Pub. L. 111–84, § 565(a)(2)][/us/pl/111/84/s565/a/2], amended par. (15) generally. Prior to amendment, text read as follows: “The term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness.”
+    Par. (15). [Pub. L. 111–84][/us/pl/111/84], § 565(a)(2), amended par. (15) generally. Prior to amendment, text read as follows: “The term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness.”
 
-    [Pub. L. 111–84, § 565(a)(1)(A)(ii)][/us/pl/111/84/s565/a/1/A/ii], redesignated par. (16) as (15) and struck out former par. (15). Prior to amendment, text read as follows: “The term ‘contingency operation’ has the same meaning given such term in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13].”
+    [Pub. L. 111–84][/us/pl/111/84], § 565(a)(1)(A)(ii), redesignated par. (16) as (15) and struck out former par. (15). Prior to amendment, text read as follows: “The term ‘contingency operation’ has the same meaning given such term in [section 101(a)(13) of title 10][/us/usc/t10/s101/a/13].”
 
-    Pars. (16), (17). [Pub. L. 111–84, § 565(a)(1)(A)(ii)][/us/pl/111/84/s565/a/1/A/ii], redesignated pars. (17) and (18) as (16) and (17), respectively. Former par. (16) redesignated (15).
+    Pars. (16), (17). [Pub. L. 111–84][/us/pl/111/84], § 565(a)(1)(A)(ii), redesignated pars. (17) and (18) as (16) and (17), respectively. Former par. (16) redesignated (15).
 
-    Par. (18). [Pub. L. 111–84, § 565(a)(3)][/us/pl/111/84/s565/a/3], added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘serious injury or illness’, in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.”
+    Par. (18). [Pub. L. 111–84][/us/pl/111/84], § 565(a)(3), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘serious injury or illness’, in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member’s office, grade, rank, or rating.”
 
-    [Pub. L. 111–84, § 565(a)(1)(A)(ii)][/us/pl/111/84/s565/a/1/A/ii], redesignated par. (19) as (18). Former par. (18) redesignated (17).
+    [Pub. L. 111–84][/us/pl/111/84], § 565(a)(1)(A)(ii), redesignated par. (19) as (18). Former par. (18) redesignated (17).
 
-    Par. (19). [Pub. L. 111–84, § 565(a)(3)][/us/pl/111/84/s565/a/3], added par. (19).
+    Par. (19). [Pub. L. 111–84][/us/pl/111/84], § 565(a)(3), added par. (19).
 
-    [Pub. L. 111–84, § 565(a)(1)(A)(ii)][/us/pl/111/84/s565/a/1/A/ii], redesignated par. (19) as (18).
+    [Pub. L. 111–84][/us/pl/111/84], § 565(a)(1)(A)(ii), redesignated par. (19) as (18).
 
     2008—Pars. (14) to (19). [Pub. L. 110–181][/us/pl/110/181] added pars. (14) to (19).
 
@@ -221,7 +221,7 @@
 
  __Regulations__ 
 
-[Pub. L. 111–84, div. A, title V, § 565(a)(5)][/us/pl/111/84/s565/a/5], Oct. 28, 2009, [123 Stat. 2311][/us/stat/123/2311], provided that: 
+[Pub. L. 111–84, div. A, title V][/us/pl/111/84/dA/tV], § 565(a)(5), Oct. 28, 2009, [123 Stat. 2311][/us/stat/123/2311], provided that: 
 
 > “In prescribing regulations to carry out the amendments made by this subsection \[amending this section and sections 2612 and 2613 of this title\], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
 
@@ -242,29 +242,29 @@
 [/us/usc/t29/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fa
 [/us/usc/t10/s101/a/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13%2FB
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
-[/us/pl/103/3/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs101
+[/us/pl/103/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtI
 [/us/stat/107/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F7
-[/us/pl/104/1/s202/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs202%2Fc%2F1%2FA
+[/us/pl/104/1/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2FtII
 [/us/stat/109/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F9
-[/us/pl/108/271/s8/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271%2Fs8%2Fb
+[/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
-[/us/pl/110/181/s585/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F1
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F128
-[/us/pl/111/84/s565/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FA
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2309
-[/us/pl/111/119/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F119%2Fs2%2Fa
+[/us/pl/111/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F119
 [/us/stat/123/3476]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3476
 [/us/pl/111/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F119
-[/us/pl/111/84/s565/a/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FA%2Fi
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s101/a/13/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13%2FB
-[/us/pl/111/84/s565/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F2
-[/us/pl/111/84/s565/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FA%2Fii
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/usc/t10/s101/a/13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs101%2Fa%2F13
-[/us/pl/111/84/s565/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FA%2Fii
-[/us/pl/111/84/s565/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F3
-[/us/pl/111/84/s565/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FA%2Fii
-[/us/pl/111/84/s565/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F3
-[/us/pl/111/84/s565/a/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F1%2FA%2Fii
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/108/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F271
 [/us/pl/104/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1
@@ -274,7 +274,7 @@
 [/us/usc/t2/s1371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1371
 [/us/pl/103/3/s405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs405%2Fb
 [/us/usc/t29/s2601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2601
-[/us/pl/111/84/s565/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs565%2Fa%2F5
+[/us/pl/111/84/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdA%2FtV
 [/us/stat/123/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2311
 
 

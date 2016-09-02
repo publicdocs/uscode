@@ -17,7 +17,7 @@
 
     If any provision of this chapter or the application of such provision to any person or circumstance is held invalid, the remainder of this chapter and the application of such provision to other persons or circumstances shall not be affected thereby.
 
-([June 25, 1938, ch. 676, § 19][/us/act/1938-06-25/ch676/s19], [52 Stat. 1069][/us/stat/52/1069].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 19, [52 Stat. 1069][/us/stat/52/1069].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1938-06-25/ch676/s19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs19
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1069
 
 

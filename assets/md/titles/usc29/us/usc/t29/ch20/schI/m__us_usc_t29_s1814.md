@@ -25,11 +25,11 @@
 
         (2) Eligibility for renewals for periods of more than twelve months shall be limited to farm labor contractors who have not been cited for a violation of this chapter, or any regulation under this chapter, or the Farm Labor Contractor Registration Act of 1963 \[[7 U.S.C. 2041][/us/usc/t7/s2041] et seq.\], or any regulation under such Act, during the preceding five years.
 
-([Pub. L. 97–470, title I, § 104][/us/pl/97/470/s104], Jan. 14, 1983, [96 Stat. 2589][/us/stat/96/2589].)
+([Pub. L. 97–470, title I][/us/pl/97/470/tI], § 104, Jan. 14, 1983, [96 Stat. 2589][/us/stat/96/2589].)
 
  __References in Text__ 
 
-    The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (b)(2), is [Pub. L. 88–582][/us/pl/88/582], Sept. 7, 1964, [78 Stat. 920][/us/stat/78/920], as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by [Pub. L. 97–470, title V, § 523][/us/pl/97/470/s523], Jan. 14, 1983, [96 Stat. 2600][/us/stat/96/2600]. See section 1801 et seq. of this title.
+    The Farm Labor Contractor Registration Act of 1963, referred to in subsec. (b)(2), is [Pub. L. 88–582][/us/pl/88/582], Sept. 7, 1964, [78 Stat. 920][/us/stat/78/920], as amended, which was classified generally to chapter 52 (§ 2041 et seq.) of Title 7, Agriculture, and was repealed by [Pub. L. 97–470, title V][/us/pl/97/470/tV], § 523, Jan. 14, 1983, [96 Stat. 2600][/us/stat/96/2600]. See section 1801 et seq. of this title.
 
 ----------
 
@@ -39,11 +39,11 @@
 ----------
 
 [/us/usc/t7/s2041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs2041
-[/us/pl/97/470/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs104
+[/us/pl/97/470/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtI
 [/us/stat/96/2589]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2589
 [/us/pl/88/582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F582
 [/us/stat/78/920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F920
-[/us/pl/97/470/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs523
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2600]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2600
 
 

@@ -41,33 +41,33 @@
 
         The Secretary shall develop procedures to ensure that administrative complaints filed under this section and under the Americans with Disabilities Act of 1990 \[[42 U.S.C. 12101][/us/usc/t42/s12101] et seq.\] are dealt with in a manner that avoids duplication of effort and prevents imposition of inconsistent or conflicting standards for the same requirements under this section and the Americans with Disabilities Act of 1990.
 
-([Pub. L. 93–112, title V, § 503][/us/pl/93/112/s503], Sept. 26, 1973, [87 Stat. 393][/us/stat/87/393]; [Pub. L. 95–602, title I, § 122(d)(1)][/us/pl/95/602/s122/d/1], Nov. 6, 1978, [92 Stat. 2987][/us/stat/92/2987]; [Pub. L. 99–506, title I, § 103(d)(2)(B)][/us/pl/99/506/s103/d/2/B], (C), title X, §§ 1001(f)(2), (3), 1002(e)(3), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1843, 1844; [Pub. L. 100–630, title II, § 206(c)][/us/pl/100/630/s206/c], Nov. 7, 1988, [102 Stat. 3312][/us/stat/102/3312]; [Pub. L. 102–569, title I, § 102(p)(31)][/us/pl/102/569/s102/p/31], title V, § 505, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4427.)
+([Pub. L. 93–112, title V][/us/pl/93/112/tV], § 503, Sept. 26, 1973, [87 Stat. 393][/us/stat/87/393]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 122(d)(1), Nov. 6, 1978, [92 Stat. 2987][/us/stat/92/2987]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(B), (C), title X, §§ 1001(f)(2), (3), 1002(e)(3), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1843, 1844; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 206(c), Nov. 7, 1988, [102 Stat. 3312][/us/stat/102/3312]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 102(p)(31), title V, § 505, Oct. 29, 1992, [106 Stat. 4360][/us/stat/106/4360], 4427.)
 
  __References in Text__ 
 
-    The Americans with Disabilities Act of 1990, referred to in subsecs. (d) and (e), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42. Section 510 of the Act was renumbered section 511 by [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
+    The Americans with Disabilities Act of 1990, referred to in subsecs. (d) and (e), is [Pub. L. 101–336][/us/pl/101/336], July 26, 1990, [104 Stat. 327][/us/stat/104/327], which is classified principally to chapter 126 (§ 12101 et seq.) of Title 42, The Public Health and Welfare. Title I of the Act is classified generally to subchapter I (§ 12111 et seq.) of chapter 126 of Title 42. Section 510 of the Act was renumbered section 511 by [Pub. L. 110–325][/us/pl/110/325], § 6(a)(2), Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]. For complete classification of this Act to the Code, see Short Title note set out under [section 12101 of Title 42][/us/usc/t42/s12101] and Tables.
 
  __Amendments__ 
 
     1992—Subsec. (a). [Pub. L. 102–569][/us/pl/102/569], §§ 102(p)(31)(A), 505(a), substituted “$10,000” for “$2,500” in two places, struck out “, in employing persons to carry out such contract,” after “contain a provision requiring that”, and substituted “individuals with disabilities” for “individuals with handicaps as defined in [section 706(8) of this title][/us/usc/t29/s706/8]”.
 
-    Subsec. (b). [Pub. L. 102–569, § 102(p)(31)(B)][/us/pl/102/569/s102/p/31/B], substituted “individual with a disability” for “individual with handicaps” and “individuals with disabilities” for “individuals with handicaps”.
+    Subsec. (b). [Pub. L. 102–569][/us/pl/102/569], § 102(p)(31)(B), substituted “individual with a disability” for “individual with handicaps” and “individuals with disabilities” for “individuals with handicaps”.
 
-    Subsec. (c). [Pub. L. 102–569, § 505(b)][/us/pl/102/569/s505/b], designated existing provisions as par. (1) and added par. (2).
+    Subsec. (c). [Pub. L. 102–569][/us/pl/102/569], § 505(b), designated existing provisions as par. (1) and added par. (2).
 
-    Subsecs. (d), (e). [Pub. L. 102–569, § 505(c)][/us/pl/102/569/s505/c], added subsecs. (d) and (e).
+    Subsecs. (d), (e). [Pub. L. 102–569][/us/pl/102/569], § 505(c), added subsecs. (d) and (e).
 
-    1988—Subsec. (a). [Pub. L. 100–630, § 206(c)(1)][/us/pl/100/630/s206/c/1], inserted a comma after “to carry out such contract”.
+    1988—Subsec. (a). [Pub. L. 100–630][/us/pl/100/630], § 206(c)(1), inserted a comma after “to carry out such contract”.
 
-    Subsec. (b). [Pub. L. 100–630, § 206(c)(2)][/us/pl/100/630/s206/c/2], substituted “refused” for “refuses”.
+    Subsec. (b). [Pub. L. 100–630][/us/pl/100/630], § 206(c)(2), substituted “refused” for “refuses”.
 
-    Subsec. (c). [Pub. L. 100–630, § 206(c)(3)][/us/pl/100/630/s206/c/3], substituted “which the President” for “which The President” and “when the President” for “when The President”.
+    Subsec. (c). [Pub. L. 100–630][/us/pl/100/630], § 206(c)(3), substituted “which the President” for “which The President” and “when the President” for “when The President”.
 
     1986—Subsec. (a). [Pub. L. 99–506][/us/pl/99/506], §§ 103(d)(2)(C), 1002(e)(3), substituted “individuals with handicaps” for “handicapped individuals” and “[section 706(8) of this title][/us/usc/t29/s706/8]” for “[section 706(7) of this title][/us/usc/t29/s706/7]”.
 
     Subsec. (b). [Pub. L. 99–506][/us/pl/99/506], §§ 103(d)(2)(B), (C), 1001(f)(2), substituted “individual with handicaps” for “handicapped individual”, “individuals with handicaps” for “handicapped individuals”, and “a contract” for “his contract”.
 
-    Subsec. (c). [Pub. L. 99–506, § 1001(f)(3)][/us/pl/99/506/s1001/f/3], substituted “The President” for “he” in two places and substituted “the reasons” for “his reasons”.
+    Subsec. (c). [Pub. L. 99–506][/us/pl/99/506], § 1001(f)(3), substituted “The President” for “he” in two places and substituted “the reasons” for “his reasons”.
 
     1978—Subsec. (a). [Pub. L. 95–602][/us/pl/95/602] substituted “[section 706(7) of this title][/us/usc/t29/s706/7]” for “[section 706(6) of this title][/us/usc/t29/s706/6]”.
 
@@ -81,34 +81,34 @@
 [/us/usc/t42/s12111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12111
 [/us/usc/t42/s12201–122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12201%E2%80%93122
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/93/112/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs503
+[/us/pl/93/112/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtV
 [/us/stat/87/393]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F393
-[/us/pl/95/602/s122/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs122%2Fd%2F1
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2987]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2987
-[/us/pl/99/506/s103/d/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FB
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s206/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fc
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3312
-[/us/pl/102/569/s102/p/31]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F31
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4360
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
-[/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
+[/us/pl/110/325]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/usc/t29/s706/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706%2F8
-[/us/pl/102/569/s102/p/31/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs102%2Fp%2F31%2FB
-[/us/pl/102/569/s505/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs505%2Fb
-[/us/pl/102/569/s505/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs505%2Fc
-[/us/pl/100/630/s206/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fc%2F1
-[/us/pl/100/630/s206/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fc%2F2
-[/us/pl/100/630/s206/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs206%2Fc%2F3
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
+[/us/pl/100/630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630
 [/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
 [/us/usc/t29/s706/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706%2F8
 [/us/usc/t29/s706/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706%2F7
 [/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
-[/us/pl/99/506/s1001/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs1001%2Ff%2F3
+[/us/pl/99/506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506
 [/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
 [/us/usc/t29/s706/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706%2F7
 [/us/usc/t29/s706/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs706%2F6

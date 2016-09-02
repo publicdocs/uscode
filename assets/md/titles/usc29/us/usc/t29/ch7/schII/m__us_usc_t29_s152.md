@@ -49,7 +49,7 @@
 
     (14) The term “health care institution” shall include any hospital, convalescent hospital, health maintenance organization, health clinic, nursing home, extended care facility, or other institution devoted to the care of sick, infirm, or aged person. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “persons.” </sup></sup> 
 
-([July 5, 1935, ch. 372, § 2][/us/act/1935-07-05/ch372/s2], [49 Stat. 450][/us/stat/49/450]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 137][/us/stat/61/137]; [Pub. L. 93–360, § 1(a)][/us/pl/93/360/s1/a], (b), July 26, 1974, [88 Stat. 395][/us/stat/88/395]; [Pub. L. 95–598, title III, § 319][/us/pl/95/598/s319], Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 2, [49 Stat. 450][/us/stat/49/450]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 137][/us/stat/61/137]; [Pub. L. 93–360][/us/pl/93/360], § 1(a), (b), July 26, 1974, [88 Stat. 395][/us/stat/88/395]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 319, Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678].)
 
  __References in Text__ 
 
@@ -59,9 +59,9 @@
 
     1978—Par. (1). [Pub. L. 95–598][/us/pl/95/598] substituted “cases under title 11” for “bankruptcy”.
 
-    1974—Par. (2). [Pub. L. 93–360, § 1(a)][/us/pl/93/360/s1/a], struck out provisions which had excepted from definition of “employer” corporations and associations operating hospitals if no part of the net earnings inured to the benefit of any private shareholder or individual.
+    1974—Par. (2). [Pub. L. 93–360][/us/pl/93/360], § 1(a), struck out provisions which had excepted from definition of “employer” corporations and associations operating hospitals if no part of the net earnings inured to the benefit of any private shareholder or individual.
 
-    Par. (14). [Pub. L. 93–360, § 1(b)][/us/pl/93/360/s1/b], added par. (14).
+    Par. (14). [Pub. L. 93–360][/us/pl/93/360], § 1(b), added par. (14).
 
     1947—Act June 23, 1947, amended section generally to redefine terms used in this subchapter and to define several new terms.
 
@@ -88,20 +88,20 @@
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
 [/us/usc/t29/s158]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs158
 [/us/usc/t29/s153]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs153
-[/us/act/1935-07-05/ch372/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs2
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F450
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/137]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F137
-[/us/pl/93/360/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360%2Fs1%2Fa
+[/us/pl/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360
 [/us/stat/88/395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F395
-[/us/pl/95/598/s319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs319
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
 [/us/act/1926-05-20/ch347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1926-05-20%2Fch347
 [/us/stat/44/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F44%2F577
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
-[/us/pl/93/360/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360%2Fs1%2Fa
-[/us/pl/93/360/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360%2Fs1%2Fb
+[/us/pl/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360
+[/us/pl/93/360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F360
 [/us/pl/95/598]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598
 [/us/pl/95/598/s402/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs402%2Fa
 [/us/usc/t11/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft11%2Fs101

@@ -17,7 +17,7 @@
 
     Nothing contained in this subchapter shall limit the rights and remedies of any member of a labor organization under any State or Federal law or before any court or other tribunal, or under the constitution and bylaws of any labor organization.
 
-([Pub. L. 86–257, title I, § 103][/us/pl/86/257/s103], Sept. 14, 1959, [73 Stat. 523][/us/stat/73/523].)
+([Pub. L. 86–257, title I][/us/pl/86/257/tI], § 103, Sept. 14, 1959, [73 Stat. 523][/us/stat/73/523].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs103
+[/us/pl/86/257/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtI
 [/us/stat/73/523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F523
 
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch4A/m__us_usc_t29_s48b.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4B)
+[Previous](./../../../..//us/usc/t29/ch4A/m__us_usc_t29_s48c...48g.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4B)
 
 ## CHAPTER 4B—FEDERAL EMPLOYMENT SERVICE
 
@@ -145,7 +145,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49</a>l.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49l" data-uslm-ref="/us/usc/t29/s49l">49l.</a>  </td>
 
     <td> Miscellaneous operating authorities.  </td>
 
@@ -153,7 +153,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49</a>l–1.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49l" data-uslm-ref="/us/usc/t29/s49l">49l</a>–1.  </td>
 
     <td> Authorization of appropriations.  </td>
 
@@ -161,7 +161,7 @@
 
   <tr>
 
-    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49" data-uslm-ref="/us/usc/t29/s49">49</a>l–2.  </td>
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft29%2Fs49l" data-uslm-ref="/us/usc/t29/s49l">49l</a>–2.  </td>
 
     <td> Workforce and labor market information system.  </td>
 
@@ -179,7 +179,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t29/ch4A/m__us_usc_t29_s48b.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4B)
+[Previous](./../../../..//us/usc/t29/ch4A/m__us_usc_t29_s48c...48g.md) | [Next](./../../../..//us/usc/t29/ch4B/m__us_usc_t29_s49.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch4B)
 
 ----------
 ----------

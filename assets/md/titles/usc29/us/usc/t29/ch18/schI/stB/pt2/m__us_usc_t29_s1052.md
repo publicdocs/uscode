@@ -121,21 +121,21 @@
 
                 (ii) the number of days for which there was such an absence.
 
-([Pub. L. 93–406, title I, § 202][/us/pl/93/406/s202], Sept. 2, 1974, [88 Stat. 853][/us/stat/88/853]; [Pub. L. 98–397, title I, § 102(a)][/us/pl/98/397/s102/a], (d)(1), (e)(1), Aug. 23, 1984, [98 Stat. 1426][/us/stat/98/1426], 1427; [Pub. L. 99–509, title IX, § 9203(a)(1)][/us/pl/99/509/s9203/a/1], Oct. 21, 1986, [100 Stat. 1979][/us/stat/100/1979]; [Pub. L. 99–514, title XI, § 1113(e)(3)][/us/pl/99/514/s1113/e/3], Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7861(a)(2), 7891(a)(1), 7892(a), 7894(c)(2), Dec. 19, 1989, [103 Stat. 2430][/us/stat/103/2430], 2445, 2447, 2449.)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 202, Sept. 2, 1974, [88 Stat. 853][/us/stat/88/853]; [Pub. L. 98–397, title I][/us/pl/98/397/tI], § 102(a), (d)(1), (e)(1), Aug. 23, 1984, [98 Stat. 1426][/us/stat/98/1426], 1427; [Pub. L. 99–509, title IX][/us/pl/99/509/tIX], § 9203(a)(1), Oct. 21, 1986, [100 Stat. 1979][/us/stat/100/1979]; [Pub. L. 99–514, title XI][/us/pl/99/514/tXI], § 1113(e)(3), Oct. 22, 1986, [100 Stat. 2448][/us/stat/100/2448]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7861(a)(2), 7891(a)(1), 7892(a), 7894(c)(2), Dec. 19, 1989, [103 Stat. 2430][/us/stat/103/2430], 2445, 2447, 2449.)
 
  __Amendments__ 
 
-    1989—Subsec. (a)(1)(B)(i). [Pub. L. 101–239, § 7861(a)(2)][/us/pl/101/239/s7861/a/2], made technical correction to directory language of [Pub. L. 99–514][/us/pl/99/514]. See 1986 Amendment note below.
+    1989—Subsec. (a)(1)(B)(i). [Pub. L. 101–239][/us/pl/101/239], § 7861(a)(2), made technical correction to directory language of [Pub. L. 99–514][/us/pl/99/514]. See 1986 Amendment note below.
 
-    Subsec. (a)(1)(B)(ii). [Pub. L. 101–239, § 7894(c)(2)(A)][/us/pl/101/239/s7894/c/2/A], substituted “educational organization” for “educational institution”.
+    Subsec. (a)(1)(B)(ii). [Pub. L. 101–239][/us/pl/101/239], § 7894(c)(2)(A), substituted “educational organization” for “educational institution”.
 
-    [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    Subsec. (a)(2). [Pub. L. 101–239, § 7892(a)][/us/pl/101/239/s7892/a], struck out comma after “specified age”.
+    Subsec. (a)(2). [Pub. L. 101–239][/us/pl/101/239], § 7892(a), struck out comma after “specified age”.
 
-    Subsec. (b)(2). [Pub. L. 101–239, § 7894(c)(2)(B)][/us/pl/101/239/s7894/c/2/B], substituted “a plan” for “the plan”.
+    Subsec. (b)(2). [Pub. L. 101–239][/us/pl/101/239], § 7894(c)(2)(B), substituted “a plan” for “the plan”.
 
-    1986—Subsec. (a)(1)(B)(i). [Pub. L. 99–514][/us/pl/99/514], as amended by [Pub. L. 101–239, § 7861(a)(2)][/us/pl/101/239/s7861/a/2], substituted “2 years of service” for “3 years of service” in two places.
+    1986—Subsec. (a)(1)(B)(i). [Pub. L. 99–514][/us/pl/99/514], as amended by [Pub. L. 101–239][/us/pl/101/239], § 7861(a)(2), substituted “2 years of service” for “3 years of service” in two places.
 
     Subsec. (a)(2). [Pub. L. 99–509][/us/pl/99/509] substituted a period for “unless—
 
@@ -147,11 +147,11 @@
 
     “(B) such employees begin employment with the employer after they have attained a specified age which is not more than 5 years before the normal retirement age under the plan.”
 
-    1984—Subsec. (a)(1). [Pub. L. 98–397, § 102(a)][/us/pl/98/397/s102/a], substituted “21” for “25” in subpar. (A)(i) and “ ‘26’ for ‘21’ ” for “ ‘30’ for ‘25’ ” in subpar. (B)(ii).
+    1984—Subsec. (a)(1). [Pub. L. 98–397][/us/pl/98/397], § 102(a), substituted “21” for “25” in subpar. (A)(i) and “ ‘26’ for ‘21’ ” for “ ‘30’ for ‘25’ ” in subpar. (B)(ii).
 
-    Subsec. (b)(4). [Pub. L. 98–397, § 102(d)(1)][/us/pl/98/397/s102/d/1], amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an employee who does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service with the employer or employers maintaining the plan before a break in service shall not be required to be taken into account in computing the period of service for purposes of subsection (a)(1) of this section if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service before such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this paragraph by reason of any prior break in service.”
+    Subsec. (b)(4). [Pub. L. 98–397][/us/pl/98/397], § 102(d)(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of an employee who does not have any nonforfeitable right to an accrued benefit derived from employer contributions, years of service with the employer or employers maintaining the plan before a break in service shall not be required to be taken into account in computing the period of service for purposes of subsection (a)(1) of this section if the number of consecutive 1-year breaks in service equals or exceeds the aggregate number of such years of service before such break. Such aggregate number of years of service before such break shall be deemed not to include any years of service not required to be taken into account under this paragraph by reason of any prior break in service.”
 
-    Subsec. (b)(5). [Pub. L. 98–397, § 102(e)(1)][/us/pl/98/397/s102/e/1], added par. (5).
+    Subsec. (b)(5). [Pub. L. 98–397][/us/pl/98/397], § 102(e)(1), added par. (5).
 
  __Effective Date of 1989 Amendment__ 
 
@@ -159,7 +159,7 @@
 
     Amendment by [section 7891(a)(1) of Pub. L. 101–239][/us/pl/101/239/s7891/a/1] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 7891(f) of Pub. L. 101–239][/us/pl/101/239/s7891/f], set out as a note under [section 1002 of this title][/us/usc/t29/s1002].
 
-[Pub. L. 101–239, title VII, § 7892(c)][/us/pl/101/239/s7892/c], Dec. 19, 1989, [103 Stat. 2447][/us/stat/103/2447], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7892(c), Dec. 19, 1989, [103 Stat. 2447][/us/stat/103/2447], provided that: 
 
 > “Any amendment made by this section \[amending this section and [section 1082 of this title][/us/usc/t29/s1082]\] shall take effect as if included in the provision of the Omnibus Budget Reconciliation Act of 1987 \[[Pub. L. 100–203][/us/pl/100/203], probably should refer to Omnibus Budget Reconciliation Act of 1986, [Pub. L. 99–509][/us/pl/99/509]\] or Pension Protection Act \[[Pub. L. 100–203][/us/pl/100/203], §§ 9302–9346, probably should refer to Omnibus Budget Reconciliation Act of 1987, [Pub. L. 100–203][/us/pl/100/203]\] to which such amendment relates.”
 
@@ -199,28 +199,28 @@
 [/us/usc/t29/s1053/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053%2Fb%2F3%2FA
 [/us/usc/t29/s1053/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053%2Fb%2F3%2FA
 [/us/usc/t29/s1053/b/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1053%2Fb%2F3%2FA
-[/us/pl/93/406/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs202
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F853
-[/us/pl/98/397/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs102%2Fa
+[/us/pl/98/397/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2FtI
 [/us/stat/98/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F1426
-[/us/pl/99/509/s9203/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2Fs9203%2Fa%2F1
+[/us/pl/99/509/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509%2FtIX
 [/us/stat/100/1979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1979
-[/us/pl/99/514/s1113/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2Fs1113%2Fe%2F3
+[/us/pl/99/514/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514%2FtXI
 [/us/stat/100/2448]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F2448
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2430
-[/us/pl/101/239/s7861/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7861%2Fa%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/101/239/s7894/c/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fc%2F2%2FA
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
-[/us/pl/101/239/s7892/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7892%2Fa
-[/us/pl/101/239/s7894/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fc%2F2%2FB
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
-[/us/pl/101/239/s7861/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7861%2Fa%2F2
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/99/509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F509
-[/us/pl/98/397/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs102%2Fa
-[/us/pl/98/397/s102/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs102%2Fd%2F1
-[/us/pl/98/397/s102/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397%2Fs102%2Fe%2F1
+[/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
+[/us/pl/98/397]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F397
 [/us/pl/101/239/s7861/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7861%2Fa%2F2
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/101/239/s7863]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7863
@@ -229,7 +229,7 @@
 [/us/pl/99/514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F514
 [/us/pl/101/239/s7891/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Ff
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
-[/us/pl/101/239/s7892/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7892%2Fc
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2447]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2447
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
 [/us/pl/100/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203

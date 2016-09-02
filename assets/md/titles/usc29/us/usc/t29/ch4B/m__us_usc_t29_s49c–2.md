@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 26, 1946, ch. 672][/us/act/1946-07-26/ch672], title I, [60 Stat. 684][/us/stat/60/684], 685, which authorized transfer to and retention in State system of public employment offices of Federal employees, was from the Department of Labor Act, 1947, and was not repeated in subsequent appropriation acts.
+    Section, [act July 26, 1946, ch. 672, title I][/us/act/1946-07-26/ch672/tI], [60 Stat. 684][/us/stat/60/684], 685, which authorized transfer to and retention in State system of public employment offices of Federal employees, was from the Department of Labor Act, 1947, and was not repeated in subsequent appropriation acts.
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1946-07-26/ch672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-26%2Fch672
+[/us/act/1946-07-26/ch672/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-26%2Fch672%2FtI
 [/us/stat/60/684]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F684
 
 

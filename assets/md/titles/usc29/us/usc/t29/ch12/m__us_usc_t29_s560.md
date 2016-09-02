@@ -17,11 +17,11 @@
 
     The Secretary of Labor shall annually, at the close of each fiscal year, prepare and submit to Congress the financial statements of the Department that have been audited. He shall also, from time to time, make such special investigations and reports as he may be required to do by the President, or by Congress, or which he himself may deem necessary.
 
-([Mar. 4, 1913, ch. 141, § 9][/us/act/1913-03-04/ch141/s9], [37 Stat. 738][/us/stat/37/738]; [Pub. L. 104–66, title I, § 1102(c)][/us/pl/104/66/s1102/c], Dec. 21, 1995, [109 Stat. 723][/us/stat/109/723].)
+([Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 9, [37 Stat. 738][/us/stat/37/738]; [Pub. L. 104–66, title I][/us/pl/104/66/tI], § 1102(c), Dec. 21, 1995, [109 Stat. 723][/us/stat/109/723].)
 
  __Codification__ 
 
-    Section was formerly classified to [section 620 of Title 5][/us/usc/t5/s620] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 620 of Title 5][/us/usc/t5/s620] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
  __Amendments__ 
 
@@ -38,12 +38,12 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch141/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs9
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/738]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F738
-[/us/pl/104/66/s1102/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs1102%2Fc
+[/us/pl/104/66/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2FtI
 [/us/stat/109/723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F723
 [/us/usc/t5/s620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs620
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 [/us/pl/104/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

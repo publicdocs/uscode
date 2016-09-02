@@ -19,7 +19,7 @@
 
     (b) No fiduciary shall be liable with respect to a breach of fiduciary duty under this subchapter if such breach was committed before he became a fiduciary or after he ceased to be a fiduciary.
 
-([Pub. L. 93–406, title I, § 409][/us/pl/93/406/s409], Sept. 2, 1974, [88 Stat. 886][/us/stat/88/886].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 409, Sept. 2, 1974, [88 Stat. 886][/us/stat/88/886].)
 
 ----------
 
@@ -29,7 +29,7 @@
 ----------
 
 [/us/usc/t29/s1111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1111
-[/us/pl/93/406/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs409
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/886]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F886
 
 

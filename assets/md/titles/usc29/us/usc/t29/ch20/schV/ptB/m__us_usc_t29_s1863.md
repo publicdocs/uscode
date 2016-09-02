@@ -27,7 +27,7 @@
 
         (2) provides assurances satisfactory to the Secretary that the State agency will comply with its description under paragraph (1) and that the State agency’s performance of functions so delegated will be at least comparable to the performance of such functions by the Department of Labor.
 
-([Pub. L. 97–470, title V, § 513][/us/pl/97/470/s513], Jan. 14, 1983, [96 Stat. 2599][/us/stat/96/2599].)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 513, Jan. 14, 1983, [96 Stat. 2599][/us/stat/96/2599].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs513
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2599]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2599
 
 

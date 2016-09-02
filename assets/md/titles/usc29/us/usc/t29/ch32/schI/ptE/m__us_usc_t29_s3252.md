@@ -23,7 +23,7 @@
 
         A State shall not use funds awarded under this Act, title III of the Social Security Act, or the Wagner-Peyser Act to amortize the costs of real property that is purchased by any State on or after February 15, 2007.
 
-([Pub. L. 113–128, title I, § 192][/us/pl/113/128/s192], July 22, 2014, [128 Stat. 1604][/us/stat/128/1604].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 192, July 22, 2014, [128 Stat. 1604][/us/stat/128/1604].)
 
  __References in Text__ 
 
@@ -46,7 +46,7 @@
 
 [/us/usc/t42/s501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs501
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
-[/us/pl/113/128/s192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs192
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1604
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620

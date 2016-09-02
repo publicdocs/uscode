@@ -723,7 +723,7 @@
 
         Nothing in this part shall be construed to reduce the obligation under the Individuals with Disabilities Education Act ([20 U.S.C. 1400][/us/usc/t20/s1400] et seq.) of a local educational agency or any other agency to provide or pay for any transition services that are also considered special education or related services and that are necessary for ensuring a free appropriate public education to children with disabilities within the State involved.
 
-([Pub. L. 93–112, title I, § 101][/us/pl/93/112/s101], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1119][/us/stat/112/1119]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(4)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 108–446, title III, § 305(h)(1)][/us/pl/108/446/s305/h/1], Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 113–128, title IV, § 412][/us/pl/113/128/s412], July 22, 2014, [128 Stat. 1641][/us/stat/128/1641].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 101, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1119][/us/stat/112/1119]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(c)(4)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 108–446, title III][/us/pl/108/446/tIII], § 305(h)(1), Dec. 3, 2004, [118 Stat. 2805][/us/stat/118/2805]; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 412, July 22, 2014, [128 Stat. 1641][/us/stat/128/1641].)
 
  __References in Text__ 
 
@@ -739,129 +739,129 @@
 
     The Social Security Act, referred to in subsec. (a)(11)(G), (K), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Title XIX of the Act is classified generally to subchapter XIX (§ 1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
 
-    [Section 776 of this title][/us/usc/t29/s776], referred to in subsec. (a)(17)(B), was in the original a reference to section 306 which was renumbered [section 304 of Pub. L. 93–112][/us/pl/93/112/s304] by [Pub. L. 113–128, title IV, § 443(2)][/us/pl/113/128/s443/2], July 22, 2014, [128 Stat. 1674][/us/stat/128/1674].
+    [Section 776 of this title][/us/usc/t29/s776], referred to in subsec. (a)(17)(B), was in the original a reference to section 306 which was renumbered [section 304 of Pub. L. 93–112][/us/pl/93/112/s304] by [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 443(2), July 22, 2014, [128 Stat. 1674][/us/stat/128/1674].
 
  __Prior Provisions__ 
 
-    A prior section 721, [Pub. L. 93–112, title I, § 101][/us/pl/93/112/s101], Sept. 26, 1973, [87 Stat. 363][/us/stat/87/363]; [Pub. L. 93–516, title I, § 111(b)][/us/pl/93/516/s111/b]–(d), Dec. 7, 1974, [88 Stat. 1619][/us/stat/88/1619], 1620; [Pub. L. 93–651, title I, § 111(b)][/us/pl/93/651/s111/b]–(d), Nov. 21, 1974, [89 Stat. 2–5][/us/stat/89/2-5]; [Pub. L. 95–602, title I][/us/pl/95/602], §§ 102, 122(b)(1), Nov. 6, 1978, [92 Stat. 2957][/us/stat/92/2957], 2987; [Pub. L. 98–221, title I, § 104(a)(2)][/us/pl/98/221/s104/a/2], Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 98–524, § 4(f)][/us/pl/98/524/s4/f], Oct. 19, 1984, [98 Stat. 2489][/us/stat/98/2489]; [Pub. L. 99–506, title I, § 103(d)(2)][/us/pl/99/506/s103/d/2], title II, § 202, title X, § 1001(b)(1)–(4), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1814, 1841, 1842; [Pub. L. 100–630, title II, § 202(b)][/us/pl/100/630/s202/b], Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–54, § 13(k)(1)(A)][/us/pl/102/54/s13/k/1/A], June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–119, § 26(e)][/us/pl/102/119/s26/e], Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 102–569, title I][/us/pl/102/569], §§ 102(o), (p)(7), 122, Oct. 29, 1992, [106 Stat. 4355][/us/stat/106/4355], 4356, 4367; [Pub. L. 103–73, title I][/us/pl/103/73], §§ 102(2), 107(a), Aug. 11, 1993, [107 Stat. 718][/us/stat/107/718], 719; [Pub. L. 104–106, div. D, title XLIII, § 4321(i)(7)][/us/pl/104/106/s4321/i/7], Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], related to State plans, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 721, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 101, Sept. 26, 1973, [87 Stat. 363][/us/stat/87/363]; [Pub. L. 93–516, title I][/us/pl/93/516/tI], § 111(b)–(d), Dec. 7, 1974, [88 Stat. 1619][/us/stat/88/1619], 1620; [Pub. L. 93–651, title I][/us/pl/93/651/tI], § 111(b)–(d), Nov. 21, 1974, [89 Stat. 2–5][/us/stat/89/2-5]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], §§ 102, 122(b)(1), Nov. 6, 1978, [92 Stat. 2957][/us/stat/92/2957], 2987; [Pub. L. 98–221, title I][/us/pl/98/221/tI], § 104(a)(2), Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18]; [Pub. L. 98–524][/us/pl/98/524], § 4(f), Oct. 19, 1984, [98 Stat. 2489][/us/stat/98/2489]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2), title II, § 202, title X, § 1001(b)(1)–(4), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1814, 1841, 1842; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 202(b), Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–54][/us/pl/102/54], § 13(k)(1)(A), June 13, 1991, [105 Stat. 276][/us/stat/105/276]; [Pub. L. 102–119][/us/pl/102/119], § 26(e), Oct. 7, 1991, [105 Stat. 607][/us/stat/105/607]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], §§ 102(o), (p)(7), 122, Oct. 29, 1992, [106 Stat. 4355][/us/stat/106/4355], 4356, 4367; [Pub. L. 103–73, title I][/us/pl/103/73/tI], §§ 102(2), 107(a), Aug. 11, 1993, [107 Stat. 718][/us/stat/107/718], 719; [Pub. L. 104–106, div. D, title XLIII][/us/pl/104/106/dD/tXLIII], § 4321(i)(7), Feb. 10, 1996, [110 Stat. 676][/us/stat/110/676], related to State plans, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(A). [Pub. L. 113–128, § 412(a)(1)(A)][/us/pl/113/128/s412/a/1/A], substituted “to receive funds under this subchapter for a fiscal year, a State shall submit, and have approved by the Secretary and the Secretary of Labor, a unified State plan in accordance with section 102, or a combined State plan in accordance with section 103, of the Workforce Innovation and Opportunity Act. The unified or combined State plan shall include, in the portion of the plan described in section 102(b)(2)(D) of such Act (referred to in this subsection as the ‘vocational rehabilitation services portion’), the provisions of a State plan for vocational rehabilitation services, described in this subsection.” for “to participate in programs under this subchapter, a State shall submit to the Commissioner a State plan for vocational rehabilitation services that meets the requirements of this section, on the same date that the State submits a State plan under section 112 of the Workforce Investment Act of 1998.”
+    2014—Subsec. (a)(1)(A). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(1)(A), substituted “to receive funds under this subchapter for a fiscal year, a State shall submit, and have approved by the Secretary and the Secretary of Labor, a unified State plan in accordance with section 102, or a combined State plan in accordance with section 103, of the Workforce Innovation and Opportunity Act. The unified or combined State plan shall include, in the portion of the plan described in section 102(b)(2)(D) of such Act (referred to in this subsection as the ‘vocational rehabilitation services portion’), the provisions of a State plan for vocational rehabilitation services, described in this subsection.” for “to participate in programs under this subchapter, a State shall submit to the Commissioner a State plan for vocational rehabilitation services that meets the requirements of this section, on the same date that the State submits a State plan under section 112 of the Workforce Investment Act of 1998.”
 
-    Subsec. (a)(1)(B). [Pub. L. 113–128, § 412(a)(1)(B)][/us/pl/113/128/s412/a/1/B], substituted “as part of the vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A),” for “in the State plan for vocational rehabilitation services,” and “the effective date of the Workforce Innovation and Opportunity Act” for “the effective date of the Rehabilitation Act Amendments of 1998”, which had been translated as “August 7, 1998”.
+    Subsec. (a)(1)(B). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(1)(B), substituted “as part of the vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A),” for “in the State plan for vocational rehabilitation services,” and “the effective date of the Workforce Innovation and Opportunity Act” for “the effective date of the Rehabilitation Act Amendments of 1998”, which had been translated as “August 7, 1998”.
 
-    Subsec. (a)(1)(C). [Pub. L. 113–128, § 412(a)(1)(C)][/us/pl/113/128/s412/a/1/C], substituted “The vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A) shall remain in effect until the State submits and receives approval of a new State plan in accordance with subparagraph (A), or until the submission of such modifications” for “The State plan shall remain in effect subject to the submission of such modifications” and struck out “, until the State submits and receives approval of a new State plan” before period at end.
+    Subsec. (a)(1)(C). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(1)(C), substituted “The vocational rehabilitation services portion of the unified or combined State plan submitted in accordance with subparagraph (A) shall remain in effect until the State submits and receives approval of a new State plan in accordance with subparagraph (A), or until the submission of such modifications” for “The State plan shall remain in effect subject to the submission of such modifications” and struck out “, until the State submits and receives approval of a new State plan” before period at end.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–128, § 412(a)(2)(A)][/us/pl/113/128/s412/a/2/A], substituted “The State plan for vocational rehabilitation services” for “The State plan” in introductory provisions.
+    Subsec. (a)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(2)(A), substituted “The State plan for vocational rehabilitation services” for “The State plan” in introductory provisions.
 
-    Subsec. (a)(2)(B)(ii)(II). [Pub. L. 113–128, § 412(a)(2)(B)(i)][/us/pl/113/128/s412/a/2/B/i], inserted “who is responsible for the day-to-day operation of the vocational rehabilitation program” before semicolon at end.
+    Subsec. (a)(2)(B)(ii)(II). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(2)(B)(i), inserted “who is responsible for the day-to-day operation of the vocational rehabilitation program” before semicolon at end.
 
-    Subsec. (a)(2)(B)(ii)(V). [Pub. L. 113–128, § 412(a)(2)(B)(ii)][/us/pl/113/128/s412/a/2/B/ii]–(iv), added subcl. (V).
+    Subsec. (a)(2)(B)(ii)(V). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(2)(B)(ii)–(iv), added subcl. (V).
 
-    Subsec. (a)(5)(D), (E). [Pub. L. 113–128, § 412(a)(3)][/us/pl/113/128/s412/a/3], added subpar. (D) and redesignated former subpar. (D) as (E).
+    Subsec. (a)(5)(D), (E). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(3), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-    Subsec. (a)(7)(A)(v)(I). [Pub. L. 113–128, § 412(a)(4)(A)(i)][/us/pl/113/128/s412/a/4/A/i], inserted “, including training implemented in coordination with entities carrying out State programs under [section 3003 of this title][/us/usc/t29/s3003]” after “rehabilitation technology”.
+    Subsec. (a)(7)(A)(v)(I). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(4)(A)(i), inserted “, including training implemented in coordination with entities carrying out State programs under [section 3003 of this title][/us/usc/t29/s3003]” after “rehabilitation technology”.
 
-    Subsec. (a)(7)(A)(v)(II). [Pub. L. 113–128, § 412(a)(4)(A)(ii)][/us/pl/113/128/s412/a/4/A/ii], substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
+    Subsec. (a)(7)(A)(v)(II). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(4)(A)(ii), substituted “Workforce Innovation and Opportunity Act” for “Rehabilitation Act Amendments of 1998”.
 
-    Subsec. (a)(7)(B)(ii). [Pub. L. 113–128, § 412(a)(4)(B)][/us/pl/113/128/s412/a/4/B], added cl. (ii) and struck out former cl. (ii) which read as follows: “to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and”.
+    Subsec. (a)(7)(B)(ii). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(4)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and”.
 
-    Subsec. (a)(8)(A)(i). [Pub. L. 113–128, § 412(a)(5)(A)][/us/pl/113/128/s412/a/5/A], in introductory provisions, inserted “an accommodation or auxiliary aid or service or” after “prior to providing” and substituted “(5)(E)” for “(5)(D)”.
+    Subsec. (a)(8)(A)(i). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(5)(A), in introductory provisions, inserted “an accommodation or auxiliary aid or service or” after “prior to providing” and substituted “(5)(E)” for “(5)(D)”.
 
-    Subsec. (a)(8)(B). [Pub. L. 113–128, § 412(a)(5)(B)(i)][/us/pl/113/128/s412/a/5/B/i], in introductory provisions, substituted “Medicaid” for “medicaid”, “workforce development system” for “workforce investment system”, and “(5)(E)” for “(5)(D)”, inserted “and, if appropriate, accommodations or auxiliary aids and services,” before “that are included”, and substituted “provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services)” for “provision of such vocational rehabilitation services”.
+    Subsec. (a)(8)(B). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(5)(B)(i), in introductory provisions, substituted “Medicaid” for “medicaid”, “workforce development system” for “workforce investment system”, and “(5)(E)” for “(5)(D)”, inserted “and, if appropriate, accommodations or auxiliary aids and services,” before “that are included”, and substituted “provision of such vocational rehabilitation services (including, if appropriate, accommodations or auxiliary aids and services)” for “provision of such vocational rehabilitation services”.
 
-    Subsec. (a)(8)(B)(iv). [Pub. L. 113–128, § 412(a)(5)(B)(ii)][/us/pl/113/128/s412/a/5/B/ii], substituted “(5)(E)” for “(5)(D)” and inserted “, and accommodations or auxiliary aids and services” before period at end.
+    Subsec. (a)(8)(B)(iv). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(5)(B)(ii), substituted “(5)(E)” for “(5)(D)” and inserted “, and accommodations or auxiliary aids and services” before period at end.
 
-    Subsec. (a)(8)(C)(i). [Pub. L. 113–128, § 412(a)(5)(C)][/us/pl/113/128/s412/a/5/C], substituted “(5)(E)” for “(5)(D)”.
+    Subsec. (a)(8)(C)(i). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(5)(C), substituted “(5)(E)” for “(5)(D)”.
 
-    Subsec. (a)(10)(B). [Pub. L. 113–128, § 412(a)(6)(A)][/us/pl/113/128/s412/a/6/A], substituted “annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State’s performance on the standards and indicators described in [section 726(a) of this title][/us/usc/t29/s726/a]” for “annual reporting on the eligible individuals receiving the services, on those specific data elements described in section 136(d)(2) of the Workforce Investment Act of 1998”.
+    Subsec. (a)(10)(B). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(A), substituted “annual reporting of information, on eligible individuals receiving the services, that is necessary to assess the State’s performance on the standards and indicators described in [section 726(a) of this title][/us/usc/t29/s726/a]” for “annual reporting on the eligible individuals receiving the services, on those specific data elements described in section 136(d)(2) of the Workforce Investment Act of 1998”.
 
-    Subsec. (a)(10)(C). [Pub. L. 113–128, § 412(a)(6)(B)(i)][/us/pl/113/128/s412/a/6/B/i], inserted “, from each State,” after “additional data” in introductory provisions.
+    Subsec. (a)(10)(C). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(B)(i), inserted “, from each State,” after “additional data” in introductory provisions.
 
-    Subsec. (a)(10)(C)(i). [Pub. L. 113–128, § 412(a)(6)(B)(ii)][/us/pl/113/128/s412/a/6/B/ii], added cl. (i) and struck out former cl. (i) which read as follows: “the number of applicants and the number of individuals determined to be eligible or ineligible for the program carried out under this subchapter, including—
+    Subsec. (a)(10)(C)(i). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(B)(ii), added cl. (i) and struck out former cl. (i) which read as follows: “the number of applicants and the number of individuals determined to be eligible or ineligible for the program carried out under this subchapter, including—
 
     “(I) the number of individuals determined to be ineligible because they did not require vocational rehabilitation services, as provided in [section 722(a) of this title][/us/usc/t29/s722/a]; and
 
     “(II) the number of individuals determined, on the basis of clear and convincing evidence, to be too severely disabled to benefit in terms of an employment outcome from vocational rehabilitation services;”.
 
-    Subsec. (a)(10)(C)(ii)(I). [Pub. L. 113–128, § 412(a)(6)(B)(iii)(I)][/us/pl/113/128/s412/a/6/B/iii/I], substituted “(5)(E)” for “(5)(D)”.
+    Subsec. (a)(10)(C)(ii)(I). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(B)(iii)(I), substituted “(5)(E)” for “(5)(D)”.
 
-    Subsec. (a)(10)(C)(ii)(IV) to (VI). [Pub. L. 113–128, § 412(a)(6)(B)(iii)(II)][/us/pl/113/128/s412/a/6/B/iii/II], (III), added subcls. (IV) to (VI).
+    Subsec. (a)(10)(C)(ii)(IV) to (VI). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(B)(iii)(II), (III), added subcls. (IV) to (VI).
 
-    Subsec. (a)(10)(C)(iv)(I). [Pub. L. 113–128, § 412(a)(6)(B)(iv)][/us/pl/113/128/s412/a/6/B/iv], inserted “and, for those who achieved employment outcomes, the average length of time to obtain employment” before semicolon.
+    Subsec. (a)(10)(C)(iv)(I). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(B)(iv), inserted “and, for those who achieved employment outcomes, the average length of time to obtain employment” before semicolon.
 
-    Subsec. (a)(10)(D)(i). [Pub. L. 113–128, § 412(a)(6)(C)][/us/pl/113/128/s412/a/6/C], substituted “title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
+    Subsec. (a)(10)(D)(i). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(C), substituted “title I of the Workforce Innovation and Opportunity Act” for “title I of the Workforce Investment Act of 1998”.
 
-    Subsec. (a)(10)(E)(ii). [Pub. L. 113–128, § 412(a)(6)(D)][/us/pl/113/128/s412/a/6/D], substituted “of the State in meeting the standards and indicators established pursuant to [section 726 of this title][/us/usc/t29/s726].” for “of the State in meeting—
+    Subsec. (a)(10)(E)(ii). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(D), substituted “of the State in meeting the standards and indicators established pursuant to [section 726 of this title][/us/usc/t29/s726].” for “of the State in meeting—
 
     “(I) the State performance measures established under section 136(b) of the Workforce Investment Act of 1998, to the extent the measures are applicable to individuals with disabilities; and
 
     “(II) the standards and indicators established pursuant to [section 726 of this title][/us/usc/t29/s726].”
 
-    Subsec. (a)(10)(G), (H). [Pub. L. 113–128, § 412(a)(6)(E)][/us/pl/113/128/s412/a/6/E], added subpars. (G) and (H).
+    Subsec. (a)(10)(G), (H). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(6)(E), added subpars. (G) and (H).
 
-    Subsec. (a)(11)(A). [Pub. L. 113–128, § 412(a)(7)(A)(i)][/us/pl/113/128/s412/a/7/A/i], (ii), substituted “workforce development systems” for “workforce investment systems” in heading and “workforce development system” for “workforce investment system” in introductory provisions.
+    Subsec. (a)(11)(A). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(A)(i), (ii), substituted “workforce development systems” for “workforce investment systems” in heading and “workforce development system” for “workforce investment system” in introductory provisions.
 
-    Subsec. (a)(11)(A)(i)(II). [Pub. L. 113–128, § 412(a)(7)(A)(iii)][/us/pl/113/128/s412/a/7/A/iii], substituted “development” for “investment” and inserted “(including programmatic accessibility and physical accessibility)” after “program accessibility”.
+    Subsec. (a)(11)(A)(i)(II). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(A)(iii), substituted “development” for “investment” and inserted “(including programmatic accessibility and physical accessibility)” after “program accessibility”.
 
-    Subsec. (a)(11)(A)(ii). [Pub. L. 113–128, § 412(a)(7)(A)(iv)][/us/pl/113/128/s412/a/7/A/iv], substituted “workforce development system” for “workforce investment system”.
+    Subsec. (a)(11)(A)(ii). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(A)(iv), substituted “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(11)(A)(v). [Pub. L. 113–128, § 412(a)(7)(A)(v)][/us/pl/113/128/s412/a/7/A/v], substituted “workforce development system” for “workforce investment system”.
+    Subsec. (a)(11)(A)(v). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(A)(v), substituted “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(11)(B). [Pub. L. 113–128, § 412(a)(7)(B)][/us/pl/113/128/s412/a/7/B], substituted “workforce development system” for “workforce investment system”.
+    Subsec. (a)(11)(B). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(B), substituted “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(11)(C). [Pub. L. 113–128, § 412(a)(7)(C)][/us/pl/113/128/s412/a/7/C], inserted “the State programs carried out under [section 3003 of this title][/us/usc/t29/s3003],” after “including” and “, noneducational agencies serving out-of-school youth,” after “Agriculture” and substituted “such Federal, State, and local agencies and programs” for “such agencies and programs” and “workforce development system” for “workforce investment system”.
+    Subsec. (a)(11)(C). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(C), inserted “the State programs carried out under [section 3003 of this title][/us/usc/t29/s3003],” after “including” and “, noneducational agencies serving out-of-school youth,” after “Agriculture” and substituted “such Federal, State, and local agencies and programs” for “such agencies and programs” and “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(11)(D). [Pub. L. 113–128, § 412(a)(7)(D)][/us/pl/113/128/s412/a/7/D], inserted “, including pre-employment transition services,” after “vocational rehabilitation services” in introductory provisions and “, which may be provided using alternative means for meeting participation (such as video conferences and conference calls),” after “consultation and technical assistance” in cl. (i) and substituted “implementation” for “completion” in cl. (ii).
+    Subsec. (a)(11)(D). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(D), inserted “, including pre-employment transition services,” after “vocational rehabilitation services” in introductory provisions and “, which may be provided using alternative means for meeting participation (such as video conferences and conference calls),” after “consultation and technical assistance” in cl. (i) and substituted “implementation” for “completion” in cl. (ii).
 
-    Subsec. (a)(11)(E). [Pub. L. 113–128, § 412(a)(7)(F)][/us/pl/113/128/s412/a/7/F], added subpar. (E). Former subpar. (E) redesignated (F).
+    Subsec. (a)(11)(E). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(F), added subpar. (E). Former subpar. (E) redesignated (F).
 
-    Subsec. (a)(11)(F). [Pub. L. 113–128, § 412(a)(7)(G)][/us/pl/113/128/s412/a/7/G], made technical amendment to reference in original act which appears in text as reference to subpart 3 of part A of subchapter VII and inserted “, as appropriate” before period at end.
+    Subsec. (a)(11)(F). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(G), made technical amendment to reference in original act which appears in text as reference to subpart 3 of part A of subchapter VII and inserted “, as appropriate” before period at end.
 
-    [Pub. L. 113–128, § 412(a)(7)(E)][/us/pl/113/128/s412/a/7/E], redesignated subpar. (E) as (F). Former subpar. (F) redesignated (H).
+    [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(E), redesignated subpar. (E) as (F). Former subpar. (F) redesignated (H).
 
-    Subsec. (a)(11)(G). [Pub. L. 113–128, § 412(a)(7)(H)][/us/pl/113/128/s412/a/7/H], added subpar. (G).
+    Subsec. (a)(11)(G). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(H), added subpar. (G).
 
-    Subsec. (a)(11)(H). [Pub. L. 113–128, § 412(a)(7)(E)][/us/pl/113/128/s412/a/7/E], redesignated subpar. (F) as (H).
+    Subsec. (a)(11)(H). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(E), redesignated subpar. (F) as (H).
 
-    Subsec. (a)(11)(H)(ii) to (iv). [Pub. L. 113–128, § 412(a)(7)(I)][/us/pl/113/128/s412/a/7/I], inserted “on or” before “near” and struck out “and” after semicolon in cl. (ii), added cl. (iii), and redesignated former cl. (iii) as (iv).
+    Subsec. (a)(11)(H)(ii) to (iv). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(I), inserted “on or” before “near” and struck out “and” after semicolon in cl. (ii), added cl. (iii), and redesignated former cl. (iii) as (iv).
 
-    Subsec. (a)(11)(I) to (K). [Pub. L. 113–128, § 412(a)(7)(J)][/us/pl/113/128/s412/a/7/J], added subpars. (I) to (K).
+    Subsec. (a)(11)(I) to (K). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(7)(J), added subpars. (I) to (K).
 
-    Subsec. (a)(14). [Pub. L. 113–128, § 412(a)(8)(A)][/us/pl/113/128/s412/a/8/A], substituted “Semiannual” for “Annual” in heading.
+    Subsec. (a)(14). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(8)(A), substituted “Semiannual” for “Annual” in heading.
 
-    Subsec. (a)(14)(A). [Pub. L. 113–128, § 412(a)(8)(B)][/us/pl/113/128/s412/a/8/B], substituted “a semiannual” for “an annual”, “is employed” for “has achieved an employment outcome”, “beginning of such employment, and annually thereafter” for “achievement of the outcome (and thereafter if requested by the individual or, if appropriate, the individual’s representative)”, and “to competitive integrated employment or training for competitive integrated employment;” for “to competitive employment or training for competitive employment;”.
+    Subsec. (a)(14)(A). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(8)(B), substituted “a semiannual” for “an annual”, “is employed” for “has achieved an employment outcome”, “beginning of such employment, and annually thereafter” for “achievement of the outcome (and thereafter if requested by the individual or, if appropriate, the individual’s representative)”, and “to competitive integrated employment or training for competitive integrated employment;” for “to competitive employment or training for competitive employment;”.
 
-    Subsec. (a)(14)(C), (D). [Pub. L. 113–128, § 412(a)(8)(C)][/us/pl/113/128/s412/a/8/C]–(E), substituted “individuals described in subparagraph (A) in attaining competitive integrated employment; and” for “the individuals described in subparagraph (A) in engaging in competitive employment.” in subpar. (C) and added subpar. (D).
+    Subsec. (a)(14)(C), (D). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(8)(C)–(E), substituted “individuals described in subparagraph (A) in attaining competitive integrated employment; and” for “the individuals described in subparagraph (A) in engaging in competitive employment.” in subpar. (C) and added subpar. (D).
 
-    Subsec. (a)(15)(A)(i)(III). [Pub. L. 113–128, § 412(a)(9)(A)(i)(II)(aa)][/us/pl/113/128/s412/a/9/A/i/II/aa], substituted “workforce development system” for “workforce investment system”.
+    Subsec. (a)(15)(A)(i)(III). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(9)(A)(i)(II)(aa), substituted “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(15)(A)(i)(IV). [Pub. L. 113–128, § 412(a)(9)(A)(i)(I)][/us/pl/113/128/s412/a/9/A/i/I], (II)(bb), (III), added subcl. (IV).
+    Subsec. (a)(15)(A)(i)(IV). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(9)(A)(i)(I), (II)(bb), (III), added subcl. (IV).
 
-    Subsec. (a)(15)(A)(ii) to (iv). [Pub. L. 113–128, § 412(a)(9)(A)(ii)][/us/pl/113/128/s412/a/9/A/ii], (iii), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
+    Subsec. (a)(15)(A)(ii) to (iv). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(9)(A)(ii), (iii), added cl. (ii) and redesignated former cls. (ii) and (iii) as (iii) and (iv), respectively.
 
-    Subsec. (a)(15)(B)(ii). [Pub. L. 113–128, § 412(a)(9)(B)(i)][/us/pl/113/128/s412/a/9/B/i], substituted “subchapter VI” for “part B of subchapter VI”.
+    Subsec. (a)(15)(B)(ii). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(9)(B)(i), substituted “subchapter VI” for “part B of subchapter VI”.
 
-    Subsec. (a)(15)(B)(iii), (iv). [Pub. L. 113–128, § 412(a)(9)(B)(ii)][/us/pl/113/128/s412/a/9/B/ii], (iii), added cl. (iii) and redesignated former cl. (iii) as (iv).
+    Subsec. (a)(15)(B)(iii), (iv). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(9)(B)(ii), (iii), added cl. (iii) and redesignated former cl. (iii) as (iv).
 
-    Subsec. (a)(15)(D)(iii) to (vi). [Pub. L. 113–128, § 412(a)(9)(C)][/us/pl/113/128/s412/a/9/C], added cl. (iii), redesignated former cls. (iii) to (v) as (iv) to (vi), respectively, and, in cl. (vi), substituted “workforce development system” for “workforce investment system”.
+    Subsec. (a)(15)(D)(iii) to (vi). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(9)(C), added cl. (iii), redesignated former cls. (iii) to (v) as (iv) to (vi), respectively, and, in cl. (vi), substituted “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(20)(A), (B)(i). [Pub. L. 113–128, § 412(a)(10)][/us/pl/113/128/s412/a/10], substituted “workforce development system” for “workforce investment system”.
+    Subsec. (a)(20)(A), (B)(i). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(10), substituted “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(22). [Pub. L. 113–128, § 412(a)(11)][/us/pl/113/128/s412/a/11], substituted “subchapter VI” for “part B of subchapter VI”.
+    Subsec. (a)(22). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(11), substituted “subchapter VI” for “part B of subchapter VI”.
 
-    Subsec. (a)(25), (26). [Pub. L. 113–128, § 412(a)(12)][/us/pl/113/128/s412/a/12], added pars. (25) and (26).
+    Subsec. (a)(25), (26). [Pub. L. 113–128][/us/pl/113/128], § 412(a)(12), added pars. (25) and (26).
 
-    Subsec. (b). [Pub. L. 113–128, § 412(b)][/us/pl/113/128/s412/b], amended subsec. (b) generally. Prior to amendment, subsec. (b) related to approval and disapproval of State plans.
+    Subsec. (b). [Pub. L. 113–128][/us/pl/113/128], § 412(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to approval and disapproval of State plans.
 
-    Subsec. (c). [Pub. L. 113–128, § 412(c)][/us/pl/113/128/s412/c], added subsec. (c).
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 412(c), added subsec. (c).
 
     2004—Subsec. (a)(11)(D)(ii). [Pub. L. 108–446][/us/pl/108/446] struck out “(as added by [section 101 of Public Law 105–17][/us/pl/105/17/s101])” before semicolon at end.
 
-    1998—Subsec. (a)(18)(C). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(4)(A)\], substituted “were utilized during the preceding year” for “will be utilized”.
+    1998—Subsec. (a)(18)(C). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(c)(4)(A)\], substituted “were utilized during the preceding year” for “will be utilized”.
 
-    Subsec. (a)(21)(A)(i)(II)(bb). [Pub. L. 105–277, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(4)(B)\], substituted “commission” for “Commission”.
+    Subsec. (a)(21)(A)(i)(II)(bb). [Pub. L. 105–277][/us/pl/105/277], § 101(f) \[title VIII, § 402(c)(4)(B)\], substituted “commission” for “Commission”.
 
  __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
@@ -925,14 +925,14 @@
 [/us/usc/t29/s3112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3112
 [/us/usc/t29/s3113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3113
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
-[/us/pl/93/112/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs101
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1119
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/108/446/s305/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2Fs305%2Fh%2F1
+[/us/pl/108/446/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446%2FtIII
 [/us/stat/118/2805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F2805
-[/us/pl/113/128/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1641
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
@@ -953,96 +953,96 @@
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
 [/us/usc/t29/s776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs776
 [/us/pl/93/112/s304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs304
-[/us/pl/113/128/s443/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs443%2F2
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1674]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1674
-[/us/pl/93/112/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs101
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
 [/us/stat/87/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F363
-[/us/pl/93/516/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs111%2Fb
+[/us/pl/93/516/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtI
 [/us/stat/88/1619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1619
-[/us/pl/93/651/s111/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs111%2Fb
+[/us/pl/93/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtI
 [/us/stat/89/2-5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-5
-[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2957]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2957
-[/us/pl/98/221/s104/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs104%2Fa%2F2
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F18
-[/us/pl/98/524/s4/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524%2Fs4%2Ff
+[/us/pl/98/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F524
 [/us/stat/98/2489]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2489
-[/us/pl/99/506/s103/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs202%2Fb
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3304
-[/us/pl/102/54/s13/k/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fk%2F1%2FA
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F276
-[/us/pl/102/119/s26/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119%2Fs26%2Fe
+[/us/pl/102/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F119
 [/us/stat/105/607]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F607
-[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4355
-[/us/pl/103/73]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F718
-[/us/pl/104/106/s4321/i/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2Fs4321%2Fi%2F7
+[/us/pl/104/106/dD/tXLIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F106%2FdD%2FtXLIII
 [/us/stat/110/676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F676
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s412/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F1%2FA
-[/us/pl/113/128/s412/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F1%2FB
-[/us/pl/113/128/s412/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F1%2FC
-[/us/pl/113/128/s412/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F2%2FA
-[/us/pl/113/128/s412/a/2/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F2%2FB%2Fi
-[/us/pl/113/128/s412/a/2/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F2%2FB%2Fii
-[/us/pl/113/128/s412/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F3
-[/us/pl/113/128/s412/a/4/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F4%2FA%2Fi
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003
-[/us/pl/113/128/s412/a/4/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F4%2FA%2Fii
-[/us/pl/113/128/s412/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F4%2FB
-[/us/pl/113/128/s412/a/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F5%2FA
-[/us/pl/113/128/s412/a/5/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F5%2FB%2Fi
-[/us/pl/113/128/s412/a/5/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F5%2FB%2Fii
-[/us/pl/113/128/s412/a/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F5%2FC
-[/us/pl/113/128/s412/a/6/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s726/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726%2Fa
-[/us/pl/113/128/s412/a/6/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fi
-[/us/pl/113/128/s412/a/6/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fii
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s722/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs722%2Fa
-[/us/pl/113/128/s412/a/6/B/iii/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fiii%2FI
-[/us/pl/113/128/s412/a/6/B/iii/II]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fiii%2FII
-[/us/pl/113/128/s412/a/6/B/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FB%2Fiv
-[/us/pl/113/128/s412/a/6/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FC
-[/us/pl/113/128/s412/a/6/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FD
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726
 [/us/usc/t29/s726]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs726
-[/us/pl/113/128/s412/a/6/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F6%2FE
-[/us/pl/113/128/s412/a/7/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FA%2Fi
-[/us/pl/113/128/s412/a/7/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FA%2Fiii
-[/us/pl/113/128/s412/a/7/A/iv]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FA%2Fiv
-[/us/pl/113/128/s412/a/7/A/v]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FA%2Fv
-[/us/pl/113/128/s412/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FB
-[/us/pl/113/128/s412/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FC
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3003
-[/us/pl/113/128/s412/a/7/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FD
-[/us/pl/113/128/s412/a/7/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FF
-[/us/pl/113/128/s412/a/7/G]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FG
-[/us/pl/113/128/s412/a/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FE
-[/us/pl/113/128/s412/a/7/H]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FH
-[/us/pl/113/128/s412/a/7/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FE
-[/us/pl/113/128/s412/a/7/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FI
-[/us/pl/113/128/s412/a/7/J]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F7%2FJ
-[/us/pl/113/128/s412/a/8/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F8%2FA
-[/us/pl/113/128/s412/a/8/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F8%2FB
-[/us/pl/113/128/s412/a/8/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F8%2FC
-[/us/pl/113/128/s412/a/9/A/i/II/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FA%2Fi%2FII%2Faa
-[/us/pl/113/128/s412/a/9/A/i/I]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FA%2Fi%2FI
-[/us/pl/113/128/s412/a/9/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FA%2Fii
-[/us/pl/113/128/s412/a/9/B/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FB%2Fi
-[/us/pl/113/128/s412/a/9/B/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FB%2Fii
-[/us/pl/113/128/s412/a/9/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F9%2FC
-[/us/pl/113/128/s412/a/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F10
-[/us/pl/113/128/s412/a/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F11
-[/us/pl/113/128/s412/a/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fa%2F12
-[/us/pl/113/128/s412/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fb
-[/us/pl/113/128/s412/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs412%2Fc
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/108/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F446
 [/us/pl/105/17/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F17%2Fs101
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
+[/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102

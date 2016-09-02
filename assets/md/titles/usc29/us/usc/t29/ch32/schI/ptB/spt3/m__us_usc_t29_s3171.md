@@ -17,7 +17,7 @@
 
     The Secretary shall make allotments under paragraphs (1)(B) and (2)(B) of [section 3172(b) of this title][/us/usc/t29/s3172/b] to each State that meets the requirements of section 3112 or 3113 of this title and grants under paragraphs (1)(A) and (2)(A) of [section 3172(b) of this title][/us/usc/t29/s3172/b] to each outlying area that complies with the requirements of this subchapter, to assist the State or outlying area, and to enable the State or outlying area to assist local areas, for the purpose of providing workforce investment activities for adults, and dislocated workers, in the State or outlying area and in the local areas.
 
-([Pub. L. 113–128, title I, § 131][/us/pl/113/128/s131], July 22, 2014, [128 Stat. 1511][/us/stat/128/1511].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 131, July 22, 2014, [128 Stat. 1511][/us/stat/128/1511].)
 
  __Effective Date__ 
 
@@ -25,7 +25,7 @@
 
  __Veterans Energy-Related Employment Program__ 
 
-[Pub. L. 111–275, title I, § 106][/us/pl/111/275/s106], Oct. 13, 2010, [124 Stat. 2870][/us/stat/124/2870], provided that:
+[Pub. L. 111–275, title I][/us/pl/111/275/tI], § 106, Oct. 13, 2010, [124 Stat. 2870][/us/stat/124/2870], provided that:
 
 >     “(a)  __Establishment of Pilot Program__  __.—__ 
 
@@ -135,7 +135,7 @@
 
  __Coordination of Information and Assistance__ 
 
-[Pub. L. 100–689, title IV, § 402][/us/pl/100/689/s402], Nov. 18, 1988, [100 Stat. 4178][/us/stat/100/4178], as amended by [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(24), (f)(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–423, 2681–432, provided that:
+[Pub. L. 100–689, title IV][/us/pl/100/689/tIV], § 402, Nov. 18, 1988, [100 Stat. 4178][/us/stat/100/4178], as amended by [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(24), (f)(16)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–423, 2681–432, provided that:
 
 >     “(a)  __Purpose__  __.—__ 
 
@@ -199,7 +199,7 @@
 
  __Veterans’ Job Training Act__ 
 
-[Pub. L. 98–77][/us/pl/98/77], Aug. 15, 1983, [97 Stat. 443][/us/stat/97/443], as amended by [Pub. L. 98–160, title VII, § 704][/us/pl/98/160/s704], Nov. 21, 1983, [97 Stat. 1011][/us/stat/97/1011]; [Pub. L. 98–543, title II, § 212][/us/pl/98/543/s212], Oct. 24, 1984, [98 Stat. 2744][/us/stat/98/2744]; [Pub. L. 99–108, § 4][/us/pl/99/108/s4], Sept. 30, 1985, [99 Stat. 481][/us/stat/99/481]; [Pub. L. 99–238, title II, § 201(a)(1)][/us/pl/99/238/s201/a/1], (b)–(e), Jan. 13, 1986, [99 Stat. 1767][/us/stat/99/1767], 1768; [Pub. L. 100–77, title IX, § 901][/us/pl/100/77/s901], July 22, 1987, [101 Stat. 538][/us/stat/101/538]; [Pub. L. 100–227, title II, § 201][/us/pl/100/227/s201], Dec. 31, 1987, [101 Stat. 1555][/us/stat/101/1555]; [Pub. L. 100–323][/us/pl/100/323], §§ 11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, [102 Stat. 567–570][/us/stat/102/567-570], 574; [Pub. L. 102–40, title IV, § 402(d)(2)][/us/pl/102/40/s402/d/2], May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83, § 5(c)(2)][/us/pl/102/83/s5/c/2], Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 405(d)(25), (f)(17)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–423, 2681–432, provided that:
+[Pub. L. 98–77][/us/pl/98/77], Aug. 15, 1983, [97 Stat. 443][/us/stat/97/443], as amended by [Pub. L. 98–160, title VII][/us/pl/98/160/tVII], § 704, Nov. 21, 1983, [97 Stat. 1011][/us/stat/97/1011]; [Pub. L. 98–543, title II][/us/pl/98/543/tII], § 212, Oct. 24, 1984, [98 Stat. 2744][/us/stat/98/2744]; [Pub. L. 99–108][/us/pl/99/108], § 4, Sept. 30, 1985, [99 Stat. 481][/us/stat/99/481]; [Pub. L. 99–238, title II][/us/pl/99/238/tII], § 201(a)(1), (b)–(e), Jan. 13, 1986, [99 Stat. 1767][/us/stat/99/1767], 1768; [Pub. L. 100–77, title IX][/us/pl/100/77/tIX], § 901, July 22, 1987, [101 Stat. 538][/us/stat/101/538]; [Pub. L. 100–227, title II][/us/pl/100/227/tII], § 201, Dec. 31, 1987, [101 Stat. 1555][/us/stat/101/1555]; [Pub. L. 100–323][/us/pl/100/323], §§ 11(a)(1), (2), (3)(B), (4), (b)–(f), 15(b)(2), (c)(2), May 20, 1988, [102 Stat. 567–570][/us/stat/102/567-570], 574; [Pub. L. 102–40, title IV][/us/pl/102/40/tIV], § 402(d)(2), May 7, 1991, [105 Stat. 239][/us/stat/105/239]; [Pub. L. 102–83][/us/pl/102/83], § 5(c)(2), Aug. 6, 1991, [105 Stat. 406][/us/stat/105/406]; [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 405(d)(25), (f)(17)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–423, 2681–432, provided that:
 
 >  __“short title__ 
 
@@ -603,7 +603,7 @@
 
     \[Amendment of [Pub. L. 98–77][/us/pl/98/77], set out above, by [Pub. L. 100–323][/us/pl/100/323] effective on 60th day after May 20, 1988, see [section 16(b)(2) of Pub. L. 100–323][/us/pl/100/323/s16/b/2], set out as a note under [section 3104 of Title 38][/us/usc/t38/s3104], Veterans’ Benefits.\]
 
-\[[Pub. L. 99–238, title II, § 201(f)][/us/pl/99/238/s201/f], Jan. 13, 1986, [99 Stat. 1768][/us/stat/99/1768], provided that:
+\[[Pub. L. 99–238, title II][/us/pl/99/238/tII], § 201(f), Jan. 13, 1986, [99 Stat. 1768][/us/stat/99/1768], provided that:
 
     \[“(1) Except as provided in paragraph (2), the amendments made by this section \[amending [Pub. L. 98–77][/us/pl/98/77] above\] shall take effect on the date of the enactment of this Act \[Jan. 13, 1986\].
 
@@ -622,18 +622,18 @@
 
 [/us/usc/t29/s3172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3172%2Fb
 [/us/usc/t29/s3172/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3172%2Fb
-[/us/pl/113/128/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs131
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1511
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
-[/us/pl/111/275/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2Fs106
+[/us/pl/111/275/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F275%2FtI
 [/us/stat/124/2870]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2870
 [/us/usc/t38/s4107/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4107%2Fc
 [/us/usc/t38/s3687]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3687
 [/us/usc/t38/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F2
-[/us/pl/100/689/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2Fs402
+[/us/pl/100/689/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F689%2FtIV
 [/us/stat/100/4178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F4178
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t29/s1662a/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1662a%2Fb
@@ -647,25 +647,25 @@
 [/us/usc/t38/s101/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101%2F2
 [/us/pl/98/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F77
 [/us/stat/97/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F443
-[/us/pl/98/160/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2Fs704
+[/us/pl/98/160/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F160%2FtVII
 [/us/stat/97/1011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F97%2F1011
-[/us/pl/98/543/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2Fs212
+[/us/pl/98/543/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F543%2FtII
 [/us/stat/98/2744]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2744
-[/us/pl/99/108/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F108%2Fs4
+[/us/pl/99/108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F108
 [/us/stat/99/481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F481
-[/us/pl/99/238/s201/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F238%2Fs201%2Fa%2F1
+[/us/pl/99/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F238%2FtII
 [/us/stat/99/1767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1767
-[/us/pl/100/77/s901]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2Fs901
+[/us/pl/100/77/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F77%2FtIX
 [/us/stat/101/538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F538
-[/us/pl/100/227/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F227%2Fs201
+[/us/pl/100/227/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F227%2FtII
 [/us/stat/101/1555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1555
 [/us/pl/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323
 [/us/stat/102/567-570]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F567-570
-[/us/pl/102/40/s402/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2Fs402%2Fd%2F2
+[/us/pl/102/40/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F40%2FtIV
 [/us/stat/105/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F239
-[/us/pl/102/83/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83%2Fs5%2Fc%2F2
+[/us/pl/102/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F83
 [/us/stat/105/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F406
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
 [/us/usc/t38/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs101
 [/us/usc/t38/s4102A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs4102A
@@ -685,7 +685,7 @@
 [/us/pl/100/323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323
 [/us/pl/100/323/s16/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F323%2Fs16%2Fb%2F2
 [/us/usc/t38/s3104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft38%2Fs3104
-[/us/pl/99/238/s201/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F238%2Fs201%2Ff
+[/us/pl/99/238/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F238%2FtII
 [/us/stat/99/1768]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1768
 [/us/pl/98/77]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F77
 [/us/pl/98/77/s17/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F77%2Fs17%2Fa%2F1

@@ -45,7 +45,7 @@
 
         The term “worker organization” means a labor organization within the meaning of [section 501(c)(5) of title 26][/us/usc/t26/s501/c/5].
 
-([Pub. L. 103–382, title V, § 544][/us/pl/103/382/s544], Oct. 20, 1994, [108 Stat. 4053][/us/stat/108/4053].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 544, Oct. 20, 1994, [108 Stat. 4053][/us/stat/108/4053].)
 
 ----------
 
@@ -56,7 +56,7 @@
 
 [/us/usc/t26/s501/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc
 [/us/usc/t26/s501/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs501%2Fc%2F5
-[/us/pl/103/382/s544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs544
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4053]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4053
 
 

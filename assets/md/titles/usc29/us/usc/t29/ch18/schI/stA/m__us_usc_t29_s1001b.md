@@ -55,7 +55,7 @@
 
         (6) to assure the prudent financing of current funding deficiencies and future obligations of the single-employer pension plan termination insurance system by increasing termination insurance premiums.
 
-([Pub. L. 99–272, title XI, § 11002][/us/pl/99/272/s11002], Apr. 7, 1986, [100 Stat. 237][/us/stat/100/237].)
+([Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11002, Apr. 7, 1986, [100 Stat. 237][/us/stat/100/237].)
 
  __References in Text__ 
 
@@ -76,7 +76,7 @@
 ----------
 ----------
 
-[/us/pl/99/272/s11002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11002
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F237
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/stat/100/237]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F237

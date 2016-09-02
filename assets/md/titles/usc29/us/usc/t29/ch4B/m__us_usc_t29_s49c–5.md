@@ -17,7 +17,7 @@
 
  __Codification__ 
 
-    Section, [act July 8, 1947, ch. 210][/us/act/1947-07-08/ch210], title I, [61 Stat. 263][/us/stat/61/263], which related to a joint budget, was from the Department of Labor Appropriation Act, 1948, and was not repeated in subsequent appropriation acts. Similar provisions were contained in [act July 26, 1946, ch. 672][/us/act/1946-07-26/ch672], title I, § 101, [60 Stat. 686][/us/stat/60/686].
+    Section, [act July 8, 1947, ch. 210, title I][/us/act/1947-07-08/ch210/tI], [61 Stat. 263][/us/stat/61/263], which related to a joint budget, was from the Department of Labor Appropriation Act, 1948, and was not repeated in subsequent appropriation acts. Similar provisions were contained in [act July 26, 1946, ch. 672, title I][/us/act/1946-07-26/ch672/tI], § 101, [60 Stat. 686][/us/stat/60/686].
 
 ----------
 
@@ -26,9 +26,9 @@
 ----------
 ----------
 
-[/us/act/1947-07-08/ch210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-08%2Fch210
+[/us/act/1947-07-08/ch210/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-08%2Fch210%2FtI
 [/us/stat/61/263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F263
-[/us/act/1946-07-26/ch672]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-26%2Fch672
+[/us/act/1946-07-26/ch672/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-26%2Fch672%2FtI
 [/us/stat/60/686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F686
 
 

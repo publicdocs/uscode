@@ -35,7 +35,7 @@
 
             (ii) prior to having given written notification to the Administrator of General Services (if the expenditure would affect an activity that otherwise would be under the jurisdiction of the General Services Administration) of the intention of the Secretary to make the expenditure, and the reasons and justifications for the expenditure.
 
-([Pub. L. 113–128, title I, § 160][/us/pl/113/128/s160], July 22, 2014, [128 Stat. 1558][/us/stat/128/1558].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 160, July 22, 2014, [128 Stat. 1558][/us/stat/128/1558].)
 
  __Effective Date__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t39/s3204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft39%2Fs3204
 [/us/usc/t29/s3207/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3207%2Fb
-[/us/pl/113/128/s160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs160
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1558
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

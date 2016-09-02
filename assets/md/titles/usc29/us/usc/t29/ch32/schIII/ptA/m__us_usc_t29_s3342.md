@@ -33,7 +33,7 @@
 
         If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds made available under subchapter I or II or under the Wagner-Peyser Act ([29 U.S.C. 49][/us/usc/t29/s49] et seq.), pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations, as such sections were in effect on August 7, 1998, or pursuant to any successor regulations.
 
-([Pub. L. 113–128, title V, § 502][/us/pl/113/128/s502], July 22, 2014, [128 Stat. 1700][/us/stat/128/1700].)
+([Pub. L. 113–128, title V][/us/pl/113/128/tV], § 502, July 22, 2014, [128 Stat. 1700][/us/stat/128/1700].)
 
  __References in Text__ 
 
@@ -53,7 +53,7 @@
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
 [/us/usc/t29/s49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs49
-[/us/pl/113/128/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs502
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1700
 [/us/act/1933-06-06/ch49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-06-06%2Fch49
 [/us/stat/48/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F48%2F113

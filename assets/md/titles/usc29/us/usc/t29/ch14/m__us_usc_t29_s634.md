@@ -17,13 +17,13 @@
 
     There are hereby authorized to be appropriated such sums as may be necessary to carry out this chapter.
 
-([Pub. L. 90–202, § 17][/us/pl/90/202/s17], formerly § 16, Dec. 15, 1967, [81 Stat. 608][/us/stat/81/608]; renumbered and amended [Pub. L. 93–259, § 28(a)(5)][/us/pl/93/259/s28/a/5], (b)(1), Apr. 8, 1974, [88 Stat. 74][/us/stat/88/74]; [Pub. L. 95–256, § 7][/us/pl/95/256/s7], Apr. 6, 1978, [92 Stat. 193][/us/stat/92/193].)
+([Pub. L. 90–202][/us/pl/90/202], § 17, formerly § 16, Dec. 15, 1967, [81 Stat. 608][/us/stat/81/608]; renumbered and amended [Pub. L. 93–259][/us/pl/93/259], § 28(a)(5), (b)(1), Apr. 8, 1974, [88 Stat. 74][/us/stat/88/74]; [Pub. L. 95–256][/us/pl/95/256], § 7, Apr. 6, 1978, [92 Stat. 193][/us/stat/92/193].)
 
  __Amendments__ 
 
     1978—[Pub. L. 95–256][/us/pl/95/256] struck out “, not in excess of $5,000,000 for any fiscal year,” after “sums”.
 
-    1974—[Pub. L. 93–259, § 28(a)(5)][/us/pl/93/259/s28/a/5], increased appropriations authorization to $5,000,000 from $3,000,000.
+    1974—[Pub. L. 93–259][/us/pl/93/259], § 28(a)(5), increased appropriations authorization to $5,000,000 from $3,000,000.
 
  __Effective Date of 1974 Amendment__ 
 
@@ -40,14 +40,14 @@
 ----------
 ----------
 
-[/us/pl/90/202/s17]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs17
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F608
-[/us/pl/93/259/s28/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs28%2Fa%2F5
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F74
-[/us/pl/95/256/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs7
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/stat/92/193]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F193
 [/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
-[/us/pl/93/259/s28/a/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs28%2Fa%2F5
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/93/259/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs29%2Fa
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202

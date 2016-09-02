@@ -17,7 +17,7 @@
 
     If any provision of this subchapter, or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this subchapter, or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-([July 5, 1935, ch. 372, § 16][/us/act/1935-07-05/ch372/s16], [49 Stat. 457][/us/stat/49/457]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 16, [49 Stat. 457][/us/stat/49/457]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 151][/us/stat/61/151].)
 
  __Amendments__ 
 
@@ -34,7 +34,7 @@
 ----------
 ----------
 
-[/us/act/1935-07-05/ch372/s16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs16
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F457
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F151

@@ -45,7 +45,7 @@
 
     (d) Subsections (b) and (c) of this section shall not apply with respect to amendments made to this part in provisions enacted after September 2, 1974.
 
-([Pub. L. 93–406, title I, § 111][/us/pl/93/406/s111], Sept. 2, 1974, [88 Stat. 851][/us/stat/88/851]; [Pub. L. 101–239, title VII, § 7894(h)(1)][/us/pl/101/239/s7894/h/1], Dec. 19, 1989, [103 Stat. 2451][/us/stat/103/2451].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 111, Sept. 2, 1974, [88 Stat. 851][/us/stat/88/851]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7894(h)(1), Dec. 19, 1989, [103 Stat. 2451][/us/stat/103/2451].)
 
  __References in Text__ 
 
@@ -73,9 +73,9 @@
 [/us/usc/t29/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs301
 [/us/usc/t18/s664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs664
 [/us/usc/t29/s441]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs441
-[/us/pl/93/406/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs111
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F851
-[/us/pl/101/239/s7894/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fh%2F1
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2451
 [/us/pl/85/836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F836
 [/us/stat/72/997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F997

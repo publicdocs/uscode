@@ -465,7 +465,7 @@
 
         (5) to ensure that the availability and scope of informed choice provided under this section is consistent with the obligations of the designated State agency under this subchapter.
 
-([Pub. L. 93–112, title I, § 102][/us/pl/93/112/s102], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1138][/us/stat/112/1138]; amended [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title VIII, § 402(c)(5)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 113–128, title IV, § 413][/us/pl/113/128/s413], July 22, 2014, [128 Stat. 1649][/us/stat/128/1649].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 102, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1138][/us/stat/112/1138]; amended [Pub. L. 105–277, div. A][/us/pl/105/277/dA], § 101(f) \[title VIII, § 402(c)(5)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–415; [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 413, July 22, 2014, [128 Stat. 1649][/us/stat/128/1649].)
 
  __References in Text__ 
 
@@ -473,53 +473,53 @@
 
  __Prior Provisions__ 
 
-    A prior section 722, [Pub. L. 93–112, title I, § 102][/us/pl/93/112/s102], Sept. 26, 1973, [87 Stat. 368][/us/stat/87/368]; [Pub. L. 93–516, title I, § 111(e)][/us/pl/93/516/s111/e], Dec. 7, 1974, [88 Stat. 1620][/us/stat/88/1620]; [Pub. L. 93–651, title I, § 111(e)][/us/pl/93/651/s111/e], Nov. 21, 1974, [89 Stat. 2–5][/us/stat/89/2-5]; [Pub. L. 95–602, title I][/us/pl/95/602], §§ 103, 122(b)(1), Nov. 6, 1978, [92 Stat. 2959][/us/stat/92/2959], 2987; [Pub. L. 98–221, title I][/us/pl/98/221], §§ 104(a)(3), 112, Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18], 20; [Pub. L. 99–506, title I, § 103(d)(2)(A)][/us/pl/99/506/s103/d/2/A], (B), title II, § 203, title X, § 1001(b)(5), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1815, 1842; [Pub. L. 100–630, title II, § 202(c)][/us/pl/100/630/s202/c], Nov. 7, 1988, [102 Stat. 3305][/us/stat/102/3305]; [Pub. L. 102–569, title I][/us/pl/102/569], §§ 102(p)(8), 123, Oct. 29, 1992, [106 Stat. 4357][/us/stat/106/4357], 4375; [Pub. L. 103–73, title I, § 107(b)][/us/pl/103/73/s107/b], Aug. 11, 1993, [107 Stat. 720][/us/stat/107/720], related to individualized written rehabilitation program, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 722, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 102, Sept. 26, 1973, [87 Stat. 368][/us/stat/87/368]; [Pub. L. 93–516, title I][/us/pl/93/516/tI], § 111(e), Dec. 7, 1974, [88 Stat. 1620][/us/stat/88/1620]; [Pub. L. 93–651, title I][/us/pl/93/651/tI], § 111(e), Nov. 21, 1974, [89 Stat. 2–5][/us/stat/89/2-5]; [Pub. L. 95–602, title I][/us/pl/95/602/tI], §§ 103, 122(b)(1), Nov. 6, 1978, [92 Stat. 2959][/us/stat/92/2959], 2987; [Pub. L. 98–221, title I][/us/pl/98/221/tI], §§ 104(a)(3), 112, Feb. 22, 1984, [98 Stat. 18][/us/stat/98/18], 20; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(A), (B), title II, § 203, title X, § 1001(b)(5), Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1815, 1842; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 202(c), Nov. 7, 1988, [102 Stat. 3305][/us/stat/102/3305]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], §§ 102(p)(8), 123, Oct. 29, 1992, [106 Stat. 4357][/us/stat/106/4357], 4375; [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 107(b), Aug. 11, 1993, [107 Stat. 720][/us/stat/107/720], related to individualized written rehabilitation program, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–128, § 413(a)(1)(C)][/us/pl/113/128/s413/a/1/C], which directed the insertion “at the end” of “For purposes of an assessment for determining eligibility and vocational rehabilitation needs under this chapter, an individual shall be presumed to have a goal of an employment outcome.”, was executed by inserting text as concluding provisions of par. (1) to reflect the probable intent of Congress.
+    2014—Subsec. (a)(1). [Pub. L. 113–128][/us/pl/113/128], § 413(a)(1)(C), which directed the insertion “at the end” of “For purposes of an assessment for determining eligibility and vocational rehabilitation needs under this chapter, an individual shall be presumed to have a goal of an employment outcome.”, was executed by inserting text as concluding provisions of par. (1) to reflect the probable intent of Congress.
 
-    Subsec. (a)(1)(A). [Pub. L. 113–128, § 413(a)(1)(A)][/us/pl/113/128/s413/a/1/A], substituted “has undergone an assessment for determining eligibility and vocational rehabilitation needs and as a result has been determined to be an” for “is an”.
+    Subsec. (a)(1)(A). [Pub. L. 113–128][/us/pl/113/128], § 413(a)(1)(A), substituted “has undergone an assessment for determining eligibility and vocational rehabilitation needs and as a result has been determined to be an” for “is an”.
 
-    Subsec. (a)(1)(B). [Pub. L. 113–128, § 413(a)(1)(B)][/us/pl/113/128/s413/a/1/B], substituted “advance in, or regain employment that is consistent with the individual’s strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.” for “or regain employment.”
+    Subsec. (a)(1)(B). [Pub. L. 113–128][/us/pl/113/128], § 413(a)(1)(B), substituted “advance in, or regain employment that is consistent with the individual’s strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice.” for “or regain employment.”
 
-    Subsec. (a)(2)(A). [Pub. L. 113–128, § 413(a)(2)(A)][/us/pl/113/128/s413/a/2/A], substituted “Applicants” for “Demonstration” in heading and struck out “, unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual” before period at end.
+    Subsec. (a)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 413(a)(2)(A), substituted “Applicants” for “Demonstration” in heading and struck out “, unless the designated State unit involved can demonstrate by clear and convincing evidence that such individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual” before period at end.
 
-    Subsec. (a)(2)(B). [Pub. L. 113–128, § 413(a)(2)(B)][/us/pl/113/128/s413/a/2/B], in heading, substituted “Responsibilities” for “Methods” and, in text, substituted “Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual’s disability or that the individual is ineligible for vocational rehabilitation services,” for “In making the demonstration required under subparagraph (A),”, “through the designated State unit.” for “through the designated State unit, except under limited circumstances when an individual cannot take advantage of such experiences.”, and “individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.” for “individual or to determine the existence of clear and convincing evidence that the individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.”
+    Subsec. (a)(2)(B). [Pub. L. 113–128][/us/pl/113/128], § 413(a)(2)(B), in heading, substituted “Responsibilities” for “Methods” and, in text, substituted “Prior to determining under this subsection that an applicant described in subparagraph (A) is unable to benefit due to the severity of the individual’s disability or that the individual is ineligible for vocational rehabilitation services,” for “In making the demonstration required under subparagraph (A),”, “through the designated State unit.” for “through the designated State unit, except under limited circumstances when an individual cannot take advantage of such experiences.”, and “individual. In providing the trial experiences, the designated State unit shall provide the individual with the opportunity to try different employment experiences, including supported employment, and the opportunity to become employed in competitive integrated employment.” for “individual or to determine the existence of clear and convincing evidence that the individual is incapable of benefiting in terms of an employment outcome from vocational rehabilitation services due to the severity of the disability of the individual.”
 
-    Subsec. (a)(3)(A)(ii). [Pub. L. 113–128, § 413(a)(3)][/us/pl/113/128/s413/a/3], substituted “outcome due to the severity of the individual’s disability (as of the date of the determination).” for “outcome from vocational rehabilitation services due to the severity of the disability of the individual in accordance with paragraph (2).”
+    Subsec. (a)(3)(A)(ii). [Pub. L. 113–128][/us/pl/113/128], § 413(a)(3), substituted “outcome due to the severity of the individual’s disability (as of the date of the determination).” for “outcome from vocational rehabilitation services due to the severity of the disability of the individual in accordance with paragraph (2).”
 
-    Subsec. (a)(5). [Pub. L. 113–128, § 413(a)(4)(B)][/us/pl/113/128/s413/a/4/B], (C), added subpar. (A) and redesignated former subpars. (A) to (D) as (B) to (E), respectively.
+    Subsec. (a)(5). [Pub. L. 113–128][/us/pl/113/128], § 413(a)(4)(B), (C), added subpar. (A) and redesignated former subpars. (A) to (D) as (B) to (E), respectively.
 
-    [Pub. L. 113–128, § 413(a)(4)(A)][/us/pl/113/128/s413/a/4/A], in introductory provisions, substituted “If, after the designated State unit carries out the activities described in paragraph (2)(B), a review of existing data, and, to the extent necessary, the assessment activities described in [section 705(2)(A)(ii) of this title][/us/usc/t29/s705/2/A/ii], an individual” for “If an individual” and “subchapter is determined not to be” for “subchapter is determined, based on the review of existing data and, to the extent necessary, the assessment activities described in [section 705(2)(A)(ii) of this title][/us/usc/t29/s705/2/A/ii], not to be”.
+    [Pub. L. 113–128][/us/pl/113/128], § 413(a)(4)(A), in introductory provisions, substituted “If, after the designated State unit carries out the activities described in paragraph (2)(B), a review of existing data, and, to the extent necessary, the assessment activities described in [section 705(2)(A)(ii) of this title][/us/usc/t29/s705/2/A/ii], an individual” for “If an individual” and “subchapter is determined not to be” for “subchapter is determined, based on the review of existing data and, to the extent necessary, the assessment activities described in [section 705(2)(A)(ii) of this title][/us/usc/t29/s705/2/A/ii], not to be”.
 
-    Subsec. (a)(5)(C)(i). [Pub. L. 113–128, § 413(a)(4)(D)][/us/pl/113/128/s413/a/4/D], inserted “, including the clear and convincing evidence that forms the basis for the determination of ineligibility” after “determination”.
+    Subsec. (a)(5)(C)(i). [Pub. L. 113–128][/us/pl/113/128], § 413(a)(4)(D), inserted “, including the clear and convincing evidence that forms the basis for the determination of ineligibility” after “determination”.
 
-    Subsec. (b)(1)(A). [Pub. L. 113–128, § 413(b)(1)][/us/pl/113/128/s413/b/1], struck out “, to the extent determined to be appropriate by the eligible individual,” after “availability of assistance” and inserted “or, as appropriate, a disability advocacy organization” after “counselor”.
+    Subsec. (b)(1)(A). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(1), struck out “, to the extent determined to be appropriate by the eligible individual,” after “availability of assistance” and inserted “or, as appropriate, a disability advocacy organization” after “counselor”.
 
-    Subsec. (b)(2). [Pub. L. 113–128, § 413(b)(3)][/us/pl/113/128/s413/b/3], added par. (2). Former par. (2) redesignated (3).
+    Subsec. (b)(2). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(3), added par. (2). Former par. (2) redesignated (3).
 
-    Subsec. (b)(3). [Pub. L. 113–128, § 413(b)(2)][/us/pl/113/128/s413/b/2], redesignated par. (2) as (3). Former par. (3) redesignated (4).
+    Subsec. (b)(3). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(2), redesignated par. (2) as (3). Former par. (3) redesignated (4).
 
-    Subsec. (b)(3)(E)(iii). [Pub. L. 113–128, § 413(b)(4)(A)][/us/pl/113/128/s413/b/4/A], added cl. (iii).
+    Subsec. (b)(3)(E)(iii). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(4)(A), added cl. (iii).
 
-    Subsec. (b)(3)(F). [Pub. L. 113–128, § 413(b)(4)(B)][/us/pl/113/128/s413/b/4/B], added subpar. (F).
+    Subsec. (b)(3)(F). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(4)(B), added subpar. (F).
 
-    Subsec. (b)(4). [Pub. L. 113–128, § 413(b)(2)][/us/pl/113/128/s413/b/2], redesignated par. (3) as (4).
+    Subsec. (b)(4). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(2), redesignated par. (3) as (4).
 
-    Subsec. (b)(4)(A). [Pub. L. 113–128, § 413(b)(5)(A)][/us/pl/113/128/s413/b/5/A], substituted “choice of the eligible individual, consistent with the general goal of competitive integrated employment (except that in the case of an eligible individual who is a student, the description may be a description of the student’s projected postschool employment outcome);” for “choice of the eligible individual, and, to the maximum extent appropriate, results in employment in an integrated setting;”.
+    Subsec. (b)(4)(A). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(5)(A), substituted “choice of the eligible individual, consistent with the general goal of competitive integrated employment (except that in the case of an eligible individual who is a student, the description may be a description of the student’s projected postschool employment outcome);” for “choice of the eligible individual, and, to the maximum extent appropriate, results in employment in an integrated setting;”.
 
-    Subsec. (b)(4)(B)(i). [Pub. L. 113–128, § 413(b)(5)(B)][/us/pl/113/128/s413/b/5/B], added subcls. (I) and (II), redesignated former subcl. (II) as (III), and struck out former subcl. (I) which read as follows: “needed to achieve the employment outcome, including, as appropriate, the provision of assistive technology devices and assistive technology services, and personal assistance services, including training in the management of such services; and”.
+    Subsec. (b)(4)(B)(i). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(5)(B), added subcls. (I) and (II), redesignated former subcl. (II) as (III), and struck out former subcl. (I) which read as follows: “needed to achieve the employment outcome, including, as appropriate, the provision of assistive technology devices and assistive technology services, and personal assistance services, including training in the management of such services; and”.
 
-    Subsec. (b)(4)(H). [Pub. L. 113–128, § 413(b)(5)(C)][/us/pl/113/128/s413/b/5/C]–(E), added subpar. (H).
+    Subsec. (b)(4)(H). [Pub. L. 113–128][/us/pl/113/128], § 413(b)(5)(C)–(E), added subpar. (H).
 
-    Subsec. (c)(1). [Pub. L. 113–128, § 413(c)(1)][/us/pl/113/128/s413/c/1], inserted at end “The procedures shall allow an applicant or an eligible individual the opportunity to request mediation, an impartial due process hearing, or both procedures.”
+    Subsec. (c)(1). [Pub. L. 113–128][/us/pl/113/128], § 413(c)(1), inserted at end “The procedures shall allow an applicant or an eligible individual the opportunity to request mediation, an impartial due process hearing, or both procedures.”
 
-    Subsec. (c)(2)(A)(iv). [Pub. L. 113–128, § 413(c)(2)][/us/pl/113/128/s413/c/2], added cl. (iv).
+    Subsec. (c)(2)(A)(iv). [Pub. L. 113–128][/us/pl/113/128], § 413(c)(2), added cl. (iv).
 
-    Subsec. (c)(5)(A). [Pub. L. 113–128, § 413(c)(3)(A)][/us/pl/113/128/s413/c/3/A], added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who shall issue a decision based on the provisions of the approved State plan, this chapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the decision in writing to the applicant or eligible individual, or, as appropriate, the applicant’s representative or individual’s representative, and to the designated State unit.”
+    Subsec. (c)(5)(A). [Pub. L. 113–128][/us/pl/113/128], § 413(c)(3)(A), added subpar. (A) and struck out former subpar. (A). Prior to amendment, text read as follows: “A due process hearing described in paragraph (2) shall be conducted by an impartial hearing officer who shall issue a decision based on the provisions of the approved State plan, this chapter (including regulations implementing this chapter), and State regulations and policies that are consistent with the Federal requirements specified in this subchapter. The officer shall provide the decision in writing to the applicant or eligible individual, or, as appropriate, the applicant’s representative or individual’s representative, and to the designated State unit.”
 
-    Subsec. (c)(5)(B). [Pub. L. 113–128, § 413(c)(3)(B)][/us/pl/113/128/s413/c/3/B], substituted “about Federal laws” for “in laws” in introductory provisions.
+    Subsec. (c)(5)(B). [Pub. L. 113–128][/us/pl/113/128], § 413(c)(3)(B), substituted “about Federal laws” for “in laws” in introductory provisions.
 
     1998—Subsec. (c)(5)(F)(iv). [Pub. L. 105–277][/us/pl/105/277] added cl. (iv).
 
@@ -559,59 +559,59 @@
 [/us/usc/t29/s721/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F2
 [/us/usc/t29/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs710
 [/us/usc/t29/s720/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs720%2Fa%2F3%2FC
-[/us/pl/93/112/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs102
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1138
-[/us/pl/105/277/s101/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2Fs101%2Ff
+[/us/pl/105/277/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277%2FdA
 [/us/stat/112/2681-337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2681-337
-[/us/pl/113/128/s413]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1649
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/93/112/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs102
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
 [/us/stat/87/368]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F368
-[/us/pl/93/516/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs111%2Fe
+[/us/pl/93/516/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtI
 [/us/stat/88/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1620
-[/us/pl/93/651/s111/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs111%2Fe
+[/us/pl/93/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtI
 [/us/stat/89/2-5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-5
-[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2959]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2959
-[/us/pl/98/221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F18
-[/us/pl/99/506/s103/d/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FA
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s202/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs202%2Fc
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3305
-[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4357]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4357
-[/us/pl/103/73/s107/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs107%2Fb
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/720]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F720
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s413/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F1%2FC
-[/us/pl/113/128/s413/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F1%2FA
-[/us/pl/113/128/s413/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F1%2FB
-[/us/pl/113/128/s413/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F2%2FA
-[/us/pl/113/128/s413/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F2%2FB
-[/us/pl/113/128/s413/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F3
-[/us/pl/113/128/s413/a/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F4%2FB
-[/us/pl/113/128/s413/a/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F4%2FA
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/usc/t29/s705/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F2%2FA%2Fii
 [/us/usc/t29/s705/2/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F2%2FA%2Fii
-[/us/pl/113/128/s413/a/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fa%2F4%2FD
-[/us/pl/113/128/s413/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F1
-[/us/pl/113/128/s413/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F3
-[/us/pl/113/128/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F2
-[/us/pl/113/128/s413/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F4%2FA
-[/us/pl/113/128/s413/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F4%2FB
-[/us/pl/113/128/s413/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F2
-[/us/pl/113/128/s413/b/5/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F5%2FA
-[/us/pl/113/128/s413/b/5/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F5%2FB
-[/us/pl/113/128/s413/b/5/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fb%2F5%2FC
-[/us/pl/113/128/s413/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fc%2F1
-[/us/pl/113/128/s413/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fc%2F2
-[/us/pl/113/128/s413/c/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fc%2F3%2FA
-[/us/pl/113/128/s413/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs413%2Fc%2F3%2FB
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/105/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F277
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3

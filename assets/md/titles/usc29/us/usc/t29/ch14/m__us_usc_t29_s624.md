@@ -33,7 +33,7 @@
 
     (b) The report required by subsection (a) of this section shall be transmitted to the President and to the Congress as an interim report not later than January 1, 1981, and in final form not later than January 1, 1982.
 
-([Pub. L. 90–202, § 5][/us/pl/90/202/s5], Dec. 15, 1967, [81 Stat. 604][/us/stat/81/604]; [Pub. L. 95–256, § 6][/us/pl/95/256/s6], Apr. 6, 1978, [92 Stat. 192][/us/stat/92/192].)
+([Pub. L. 90–202][/us/pl/90/202], § 5, Dec. 15, 1967, [81 Stat. 604][/us/stat/81/604]; [Pub. L. 95–256][/us/pl/95/256], § 6, Apr. 6, 1978, [92 Stat. 192][/us/stat/92/192].)
 
  __References in Text__ 
 
@@ -45,7 +45,7 @@
 
  __Study To Analyze Potential Consequences of Elimination of Mandatory Retirement on Institutions of Higher Education__ 
 
-[Pub. L. 99–592, § 6(c)][/us/pl/99/592/s6/c], Oct. 31, 1986, [100 Stat. 3344][/us/stat/100/3344], provided that:
+[Pub. L. 99–592][/us/pl/99/592], § 6(c), Oct. 31, 1986, [100 Stat. 3344][/us/stat/100/3344], provided that:
 
 >     “(1) The Equal Employment Opportunity Commission shall, not later than 12 months after the date of enactment of this Act \[Oct. 31, 1986\], enter into an agreement with the National Academy of Sciences for the conduct of a study to analyze the potential consequences of the elimination of mandatory retirement on institutions of higher education.
 
@@ -73,15 +73,15 @@
 [/us/usc/t29/s631/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs631%2Fa
 [/us/usc/t29/s631/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs631%2Fc
 [/us/usc/t29/s631/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs631%2Fd
-[/us/pl/90/202/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs5
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F604
-[/us/pl/95/256/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs6
+[/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
 [/us/stat/92/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F192
 [/us/pl/95/256/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256%2Fs3%2Fa
 [/us/stat/92/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F189
 [/us/usc/t29/s631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs631
 [/us/pl/95/256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F256
-[/us/pl/99/592/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F592%2Fs6%2Fc
+[/us/pl/99/592]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F592
 [/us/stat/100/3344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3344
 
 

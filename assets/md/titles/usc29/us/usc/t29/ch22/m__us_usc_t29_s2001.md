@@ -41,11 +41,11 @@
 
         The term “Secretary” means the Secretary of Labor.
 
-([Pub. L. 100–347, § 2][/us/pl/100/347/s2], June 27, 1988, [102 Stat. 646][/us/stat/102/646].)
+([Pub. L. 100–347][/us/pl/100/347], § 2, June 27, 1988, [102 Stat. 646][/us/stat/102/646].)
 
  __Effective Date__ 
 
-[Pub. L. 100–347, § 11][/us/pl/100/347/s11], June 27, 1988, [102 Stat. 653][/us/stat/102/653], provided that:
+[Pub. L. 100–347][/us/pl/100/347], § 11, June 27, 1988, [102 Stat. 653][/us/stat/102/653], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -57,7 +57,7 @@
 
  __Short Title__ 
 
-[Pub. L. 100–347, § 1][/us/pl/100/347/s1], June 27, 1988, [102 Stat. 646][/us/stat/102/646], provided that: 
+[Pub. L. 100–347][/us/pl/100/347], § 1, June 27, 1988, [102 Stat. 646][/us/stat/102/646], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Employee Polygraph Protection Act of 1988’.”
 
@@ -69,11 +69,11 @@
 ----------
 
 [/us/usc/t29/s203/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203%2Fb
-[/us/pl/100/347/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs2
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F646
-[/us/pl/100/347/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs11
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/653]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F653
-[/us/pl/100/347/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347%2Fs1
+[/us/pl/100/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F347
 [/us/stat/102/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F646
 
 

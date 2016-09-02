@@ -207,13 +207,13 @@
 
         The Governor and local boards shall implement the requirements of this section not later than 12 months after July 22, 2014. In order to facilitate early implementation of this section, the Governor may establish transition procedures under which providers eligible to provide training services under chapter 5 of subtitle B of title I of the Workforce Investment Act of 1998 \[[29 U.S.C. 2861][/us/usc/t29/s2861] et seq.\], as such chapter was in effect on the day before July 22, 2014, may continue to be eligible to provide such services until December 31, 2015, or until such earlier date as the Governor determines to be appropriate.
 
-([Pub. L. 113–128, title I, § 122][/us/pl/113/128/s122], July 22, 2014, [128 Stat. 1492][/us/stat/128/1492].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 122, July 22, 2014, [128 Stat. 1492][/us/stat/128/1492].)
 
  __References in Text__ 
 
     The National Apprenticeship Act, referred to in subsec. (a)(2)(B), is [act Aug. 16, 1937, ch. 663][/us/act/1937-08-16/ch663], [50 Stat. 664][/us/stat/50/664], which is classified generally to chapter 4C (§ 50 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 50 of this title][/us/usc/t29/s50] and Tables.
 
-    The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), and (i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§ 2801 et seq.) of this title. Chapter 5 of subtitle B of title I of the Act was classified generally to part E (§ 2861 et seq.) of subchapter II of chapter 30 of this title. For complete classification of this Act to the Code, see Tables.
+    The Workforce Investment Act of 1998, referred to in subsecs. (f)(1)(B), (C), and (i), is [Pub. L. 105–220][/us/pl/105/220], Aug. 7, 1998, [112 Stat. 936][/us/stat/112/936], and was repealed by [Pub. L. 113–128, title V][/us/pl/113/128/tV], §§ 506, 511(a), July 22, 2014, [128 Stat. 1703][/us/stat/128/1703], 1705, effective July 1, 2015. Title I of the Act was classified principally to chapter 30 (§ 2801 et seq.) of this title. Chapter 5 of subtitle B of title I of the Act was classified generally to part E (§ 2861 et seq.) of subchapter II of chapter 30 of this title. For complete classification of this Act to the Code, see Tables.
 
  __Effective Date__ 
 
@@ -239,14 +239,14 @@
 [/us/usc/t29/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2801
 [/us/usc/t29/s2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2861
 [/us/usc/t29/s2861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2861
-[/us/pl/113/128/s122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs122
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1492
 [/us/act/1937-08-16/ch663]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1937-08-16%2Fch663
 [/us/stat/50/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F664
 [/us/usc/t29/s50]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs50
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
 [/us/stat/112/936]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F936
-[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtV
 [/us/stat/128/1703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1703
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

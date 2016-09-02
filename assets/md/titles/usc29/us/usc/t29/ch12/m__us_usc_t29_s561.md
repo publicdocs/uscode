@@ -17,7 +17,7 @@
 
     The official records and papers on file in and pertaining exclusively to the business of any bureau, office, department, or branch of the public service in this Act transferred to the Department of Labor, together with the furniture in use in such bureau, office, department, or branch of the public service, are transferred to the Department of Labor.
 
-([Mar. 4, 1913, ch. 141, § 5][/us/act/1913-03-04/ch141/s5], [37 Stat. 737][/us/stat/37/737].)
+([Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 5, [37 Stat. 737][/us/stat/37/737].)
 
  __References in Text__ 
 
@@ -25,7 +25,7 @@
 
  __Codification__ 
 
-    Section was formerly classified to [section 621 of Title 5][/us/usc/t5/s621] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554, § 1][/us/pl/89/554/s1], Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
+    Section was formerly classified to [section 621 of Title 5][/us/usc/t5/s621] prior to the general revision and enactment of Title 5, Government Organization and Employees, by [Pub. L. 89–554][/us/pl/89/554], § 1, Sept. 1, 1966, [80 Stat. 378][/us/stat/80/378].
 
 ----------
 
@@ -34,12 +34,12 @@
 ----------
 ----------
 
-[/us/act/1913-03-04/ch141/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs5
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
 [/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F736
 [/us/usc/t5/s621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs621
-[/us/pl/89/554/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554%2Fs1
+[/us/pl/89/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F554
 [/us/stat/80/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F378
 
 

@@ -215,11 +215,11 @@
 
             (B) in which it is determined by the corporation that substantially all the employers have withdrawn from the plan pursuant to an agreement or arrangement to withdraw.
 
-([Pub. L. 93–406, title IV, § 4022A][/us/pl/93/406/s4022A], as added [Pub. L. 96–364, title I, § 102][/us/pl/96/364/s102], Sept. 26, 1980, [94 Stat. 1210][/us/stat/94/1210]; amended [Pub. L. 99–272, title XI, § 11005(c)(4)][/us/pl/99/272/s11005/c/4]–(12), Apr. 7, 1986, [100 Stat. 242][/us/stat/100/242]; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2447, 2451; [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586; [Pub. L. 113–235, div. O, title I, § 110(a)][/us/pl/113/235/s110/a], Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4022A, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 102, Sept. 26, 1980, [94 Stat. 1210][/us/stat/94/1210]; amended [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11005(c)(4)–(12), Apr. 7, 1986, [100 Stat. 242][/us/stat/100/242]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7891(a)(1), 7893(b), 7894(g)(3)(C)(i), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2447, 2451; [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 951(a)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586; [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 110(a), Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792].)
 
  __References in Text__ 
 
-    Sections 1423 and 1425 of this title, referred to in subsec. (b)(1)(B), were repealed by [Pub. L. 113–235, div. O, title I, § 108(a)(1)][/us/pl/113/235/s108/a/1], Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
+    Sections 1423 and 1425 of this title, referred to in subsec. (b)(1)(B), were repealed by [Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 108(a)(1), Dec. 16, 2014, [128 Stat. 2786][/us/stat/128/2786].
 
     Section 4022A(f)(2)(A)(ii), (iii), (3)(A)(i), and (ii) of the Employee Retirement Income Security Act of 1974, referred to in subsec. (f)(4)(B), is classified to subsec. (f)(2)(A)(ii), (iii), (3)(A)(i) and (ii) of this section.
 
@@ -229,35 +229,35 @@
 
     2014—Subsec. (c)(4). [Pub. L. 113–235][/us/pl/113/235] added par. (4).
 
-    2000—Subsec. (c)(1)(A). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(a)(1)\], substituted “$11” for “$5” in two places.
+    2000—Subsec. (c)(1)(A). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 951(a)(1)\], substituted “$11” for “$5” in two places.
 
-    Subsec. (c)(1)(A)(i). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(a)(2)\], substituted “$33” for “$15”.
+    Subsec. (c)(1)(A)(i). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 951(a)(2)\], substituted “$33” for “$15”.
 
-    Subsec. (c)(2) to (6). [Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(a)(3)\], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former pars. (2), (5), and (6). Prior to amendment, par. (2) modified the amount of benefits guaranteed under par. (1) with respect to plans described in par. (5)(A), par. (5) described certain plans for which the first plan year in which the plan was insolvent and in which benefits were required to be suspended or reduced to a certain level began before the year 2000, and par. (6) provided that par. (2) did not apply to a plan described in par. (5)(A) if the value of the assets of the plan was at least a specified amount for a specified period of time.
+    Subsec. (c)(2) to (6). [Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 951(a)(3)\], redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former pars. (2), (5), and (6). Prior to amendment, par. (2) modified the amount of benefits guaranteed under par. (1) with respect to plans described in par. (5)(A), par. (5) described certain plans for which the first plan year in which the plan was insolvent and in which benefits were required to be suspended or reduced to a certain level began before the year 2000, and par. (6) provided that par. (2) did not apply to a plan described in par. (5)(A) if the value of the assets of the plan was at least a specified amount for a specified period of time.
 
-    1989—Subsec. (a)(1). [Pub. L. 101–239, § 7894(g)(3)(C)(i)][/us/pl/101/239/s7894/g/3/C/i], substituted “this subchapter” for “[section 1321 of this title][/us/usc/t29/s1321]”.
+    1989—Subsec. (a)(1). [Pub. L. 101–239][/us/pl/101/239], § 7894(g)(3)(C)(i), substituted “this subchapter” for “[section 1321 of this title][/us/usc/t29/s1321]”.
 
-    Subsecs. (c)(3)(A)(ii), (4)(C), (5)(A)(ii), (6), (d), (g)(5). [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    Subsecs. (c)(3)(A)(ii), (4)(C), (5)(A)(ii), (6), (d), (g)(5). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    Subsec. (f)(2)(B). [Pub. L. 101–239, § 7893(b)][/us/pl/101/239/s7893/b], substituted “the enactment” for “the the enactment”.
+    Subsec. (f)(2)(B). [Pub. L. 101–239][/us/pl/101/239], § 7893(b), substituted “the enactment” for “the the enactment”.
 
-    1986—Subsec. (f)(2)(B). [Pub. L. 99–272, § 11005(c)(4)][/us/pl/99/272/s11005/c/4], substituted “the enactment of a joint resolution” for “Congress by concurrent resolution”.
+    1986—Subsec. (f)(2)(B). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(4), substituted “the enactment of a joint resolution” for “Congress by concurrent resolution”.
 
-    Subsec. (f)(2)(C). [Pub. L. 99–272, § 11005(c)(5)][/us/pl/99/272/s11005/c/5], substituted “so enacted” for “approved”.
+    Subsec. (f)(2)(C). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(5), substituted “so enacted” for “approved”.
 
-    Subsec. (f)(3)(B). [Pub. L. 99–272, § 11005(c)(6)][/us/pl/99/272/s11005/c/6], substituted “enactment of a joint resolution” for “Congress by concurrent resolution”.
+    Subsec. (f)(3)(B). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(6), substituted “enactment of a joint resolution” for “Congress by concurrent resolution”.
 
-    Subsec. (f)(4)(A). [Pub. L. 99–272, § 11005(c)(7)][/us/pl/99/272/s11005/c/7], substituted “joint” for “concurrent”.
+    Subsec. (f)(4)(A). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(7), substituted “joint” for “concurrent”.
 
-    Subsec. (f)(4)(B). [Pub. L. 99–272, § 11005(c)(8)][/us/pl/99/272/s11005/c/8], substituted “joint” for “concurrent” in two places and “The” for “That the Congress favors the” and inserted “is hereby approved”.
+    Subsec. (f)(4)(B). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(8), substituted “joint” for “concurrent” in two places and “The” for “That the Congress favors the” and inserted “is hereby approved”.
 
-    Subsec. (f)(4)(C). [Pub. L. 99–272, § 11005(c)(9)][/us/pl/99/272/s11005/c/9], substituted “joint” for “concurrent”.
+    Subsec. (f)(4)(C). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(9), substituted “joint” for “concurrent”.
 
-    Subsec. (g)(4)(A)(ii). [Pub. L. 99–272, § 11005(c)(10)][/us/pl/99/272/s11005/c/10], substituted “joint” for “concurrent” and “enacted” for “adopted”.
+    Subsec. (g)(4)(A)(ii). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(10), substituted “joint” for “concurrent” and “enacted” for “adopted”.
 
-    Subsec. (g)(4)(B). [Pub. L. 99–272, § 11005(c)(11)][/us/pl/99/272/s11005/c/11], substituted “joint” for “concurrent” in two places and “The” for “That the Congress disapproves the” and inserted “is hereby disapproved”.
+    Subsec. (g)(4)(B). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(11), substituted “joint” for “concurrent” in two places and “The” for “That the Congress disapproves the” and inserted “is hereby disapproved”.
 
-    Subsec. (g)(4)(D). [Pub. L. 99–272, § 11005(c)(12)][/us/pl/99/272/s11005/c/12], substituted “joint” for “concurrent”.
+    Subsec. (g)(4)(D). [Pub. L. 99–272][/us/pl/99/272], § 11005(c)(12), substituted “joint” for “concurrent”.
 
  __Change of Name__ 
 
@@ -267,13 +267,13 @@
 
  __Effective Date of 2014 Amendment__ 
 
-[Pub. L. 113–235, div. O, title I, § 110(b)][/us/pl/113/235/s110/b], Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792], provided that: 
+[Pub. L. 113–235, div. O, title I][/us/pl/113/235/dO/tI], § 110(b), Dec. 16, 2014, [128 Stat. 2792][/us/stat/128/2792], provided that: 
 
 > “The amendment made by this section \[amending this section\] shall apply with respect to multiemployer plan benefit payments becoming payable on or after January 1, 1985, except that the amendment shall not apply in any case where the surviving spouse has died before the date of the enactment of this Act \[Dec. 16, 2014\].”
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–554, § 1(a)(6)][/us/pl/106/554/s1/a/6] \[title IX, § 951(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586, provided that: 
+[Pub. L. 106–554][/us/pl/106/554], § 1(a)(6) \[title IX, § 951(b)\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–586, provided that: 
 
 > “The amendments made by this section \[amending this section\] shall apply to any multiemployer plan that has not received financial assistance (within the meaning of section 4261 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1431][/us/usc/t29/s1431]\]) within the 1-year period ending on the date of the enactment of this Act \[Dec. 21, 2000\].”
 
@@ -281,9 +281,9 @@
 
     Amendment by [section 7891(a)(1) of Pub. L. 101–239][/us/pl/101/239/s7891/a/1] effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, [Pub. L. 99–514][/us/pl/99/514], to which such amendment relates, see [section 7891(f) of Pub. L. 101–239][/us/pl/101/239/s7891/f], set out as a note under [section 1002 of this title][/us/usc/t29/s1002].
 
-    Amendment by [section 7893(b) of Pub. L. 101–239][/us/pl/101/239/s7893/b] effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, [Pub. L. 99–272, title XI][/us/pl/99/272], to which such amendment relates, see [section 7893(h) of Pub. L. 101–239][/us/pl/101/239/s7893/h], set out as a note under [section 1002 of this title][/us/usc/t29/s1002].
+    Amendment by [section 7893(b) of Pub. L. 101–239][/us/pl/101/239/s7893/b] effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], to which such amendment relates, see [section 7893(h) of Pub. L. 101–239][/us/pl/101/239/s7893/h], set out as a note under [section 1002 of this title][/us/usc/t29/s1002].
 
-[Pub. L. 101–239, title VII, § 7894(g)(3)(C)(ii)][/us/pl/101/239/s7894/g/3/C/ii], Dec. 19, 1989, [103 Stat. 2451][/us/stat/103/2451], provided that: 
+[Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7894(g)(3)(C)(ii), Dec. 19, 1989, [103 Stat. 2451][/us/stat/103/2451], provided that: 
 
 > “The amendment made by clause (i) \[amending this section\] shall take effect as if originally included in section 102 of the Multiemployer Pension Plan Amendments Act of 1980 \[[Pub. L. 96–364][/us/pl/96/364]\].”
 
@@ -318,39 +318,39 @@
 [/us/usc/t26/s418E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs418E
 [/us/usc/t29/s1322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1322
 [/us/usc/t29/s1341a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341a%2Fa%2F2
-[/us/pl/93/406/s4022A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4022A
-[/us/pl/96/364/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs102
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1210
-[/us/pl/99/272/s11005/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F4
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F242
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
-[/us/pl/113/235/s110/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs110%2Fa
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2792
-[/us/pl/113/235/s108/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs108%2Fa%2F1
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2786
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
-[/us/pl/101/239/s7894/g/3/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fg%2F3%2FC%2Fi
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t29/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
-[/us/pl/101/239/s7893/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7893%2Fb
-[/us/pl/99/272/s11005/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F4
-[/us/pl/99/272/s11005/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F5
-[/us/pl/99/272/s11005/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F6
-[/us/pl/99/272/s11005/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F7
-[/us/pl/99/272/s11005/c/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F8
-[/us/pl/99/272/s11005/c/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F9
-[/us/pl/99/272/s11005/c/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F10
-[/us/pl/99/272/s11005/c/11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F11
-[/us/pl/99/272/s11005/c/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11005%2Fc%2F12
-[/us/pl/113/235/s110/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs110%2Fb
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/113/235/dO/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtI
 [/us/stat/128/2792]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2792
-[/us/pl/106/554/s1/a/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F6
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 [/us/usc/t29/s1431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1431
 [/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
@@ -358,10 +358,10 @@
 [/us/pl/101/239/s7891/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Ff
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
 [/us/pl/101/239/s7893/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7893%2Fb
-[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/pl/101/239/s7893/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7893%2Fh
 [/us/usc/t29/s1002]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002
-[/us/pl/101/239/s7894/g/3/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fg%2F3%2FC%2Fii
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2451
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272

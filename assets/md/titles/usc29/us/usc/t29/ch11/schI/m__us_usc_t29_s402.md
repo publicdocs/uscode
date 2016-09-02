@@ -65,7 +65,7 @@
 
     (r) “District court of the United States” means a United States district court and a United States court of any place subject to the jurisdiction of the United States.
 
-([Pub. L. 86–257, § 3][/us/pl/86/257/s3], Sept. 14, 1959, [73 Stat. 520][/us/stat/73/520]; [Pub. L. 95–598, title III, § 320][/us/pl/95/598/s320], Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678].)
+([Pub. L. 86–257][/us/pl/86/257], § 3, Sept. 14, 1959, [73 Stat. 520][/us/stat/73/520]; [Pub. L. 95–598, title III][/us/pl/95/598/tIII], § 320, Nov. 6, 1978, [92 Stat. 2678][/us/stat/92/2678].)
 
  __References in Text__ 
 
@@ -103,9 +103,9 @@
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
 [/us/usc/t29/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs151
 [/us/usc/t45/s151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs151
-[/us/pl/86/257/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs3
+[/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/stat/73/520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F520
-[/us/pl/95/598/s320]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2Fs320
+[/us/pl/95/598/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F598%2FtIII
 [/us/stat/92/2678]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2678
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 [/us/act/1953-08-07/ch345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1953-08-07%2Fch345

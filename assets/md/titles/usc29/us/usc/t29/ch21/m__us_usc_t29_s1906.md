@@ -17,7 +17,7 @@
 
     This chapter shall not be construed as modifying or affecting any agreement between the Department of Education or any other department or agency of the United States and the Helen Keller Services for the Blind, Incorporated, or any successor to or assignee of such corporation, with respect to the Center.
 
-([Pub. L. 98–221, title II, § 207][/us/pl/98/221/s207], Feb. 22, 1984, [98 Stat. 34][/us/stat/98/34]; [Pub. L. 102–569, title IX, § 906][/us/pl/102/569/s906], Oct. 29, 1992, [106 Stat. 4483][/us/stat/106/4483].)
+([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 207, Feb. 22, 1984, [98 Stat. 34][/us/stat/98/34]; [Pub. L. 102–569, title IX][/us/pl/102/569/tIX], § 906, Oct. 29, 1992, [106 Stat. 4483][/us/stat/106/4483].)
 
  __Amendments__ 
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/pl/98/221/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs207
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
 [/us/stat/98/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F34
-[/us/pl/102/569/s906]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs906
+[/us/pl/102/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIX
 [/us/stat/106/4483]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4483
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 

@@ -33,7 +33,7 @@
 
     (b) An alternative method may be prescribed under subsection (a) of this section by regulation or otherwise. If an alternative method is prescribed other than by regulation, the Secretary shall provide notice and an opportunity for interested persons to present their views, and shall publish in the Federal Register the provisions of such alternative method.
 
-([Pub. L. 93–406, title I, § 110][/us/pl/93/406/s110], Sept. 2, 1974, [88 Stat. 851][/us/stat/88/851].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 110, Sept. 2, 1974, [88 Stat. 851][/us/stat/88/851].)
 
  __Regulations__ 
 
@@ -46,7 +46,7 @@
 ----------
 ----------
 
-[/us/pl/93/406/s110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs110
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/851]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F851
 [/us/usc/t29/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1031
 

@@ -21,7 +21,7 @@
 
     (c) No employee of the Department of Labor or the Department of the Treasury shall administer or enforce this subchapter or title 26 with respect to any employee benefit plan under which he is a participant or beneficiary, any employee organization of which he is a member, or any employer organization in which he has an interest. This subsection does not apply to an employee benefit plan which covers only employees of the United States.
 
-([Pub. L. 93–406, title I, § 507][/us/pl/93/406/s507], Sept. 2, 1974, [88 Stat. 894][/us/stat/88/894]; [Pub. L. 101–239, title VII, § 7891(a)][/us/pl/101/239/s7891/a], Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 507, Sept. 2, 1974, [88 Stat. 894][/us/stat/88/894]; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7891(a), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445].)
 
  __Codification__ 
 
@@ -46,9 +46,9 @@
 ----------
 ----------
 
-[/us/pl/93/406/s507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs507
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F894
-[/us/pl/101/239/s7891/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
 [/us/usc/t5/s5108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5108
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

@@ -37,7 +37,7 @@
 
     (4) to prescribe various other powers, duties, and responsibilities incident to the operation and continuing development of the Job Corps.
 
-([Pub. L. 113–128, title I, § 141][/us/pl/113/128/s141], July 22, 2014, [128 Stat. 1537][/us/stat/128/1537].)
+([Pub. L. 113–128, title I][/us/pl/113/128/tI], § 141, July 22, 2014, [128 Stat. 1537][/us/stat/128/1537].)
 
  __Effective Date__ 
 
@@ -50,7 +50,7 @@
 ----------
 ----------
 
-[/us/pl/113/128/s141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs141
+[/us/pl/113/128/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtI
 [/us/stat/128/1537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1537
 [/us/pl/113/128/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs506
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101

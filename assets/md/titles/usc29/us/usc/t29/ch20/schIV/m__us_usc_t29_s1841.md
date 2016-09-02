@@ -69,7 +69,7 @@
 
         The Secretary shall, by regulations promulgated in accordance with [section 1861 of this title][/us/usc/t29/s1861] not later than the effective date of this chapter, prescribe the standards required for the purposes of implementing this section. Any subsequent revision of such standards shall also be accomplished by regulation promulgated in accordance with such section.
 
-([Pub. L. 97–470, title IV, § 401][/us/pl/97/470/s401], Jan. 14, 1983, [96 Stat. 2594][/us/stat/96/2594]; [Pub. L. 104–49, § 5(a)][/us/pl/104/49/s5/a], Nov. 15, 1995, [109 Stat. 434][/us/stat/109/434]; [Pub. L. 104–88, title III, § 333][/us/pl/104/88/s333], Dec. 29, 1995, [109 Stat. 953][/us/stat/109/953].)
+([Pub. L. 97–470, title IV][/us/pl/97/470/tIV], § 401, Jan. 14, 1983, [96 Stat. 2594][/us/stat/96/2594]; [Pub. L. 104–49][/us/pl/104/49], § 5(a), Nov. 15, 1995, [109 Stat. 434][/us/stat/109/434]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 333, Dec. 29, 1995, [109 Stat. 953][/us/stat/109/953].)
 
  __References in Text__ 
 
@@ -77,7 +77,7 @@
 
  __Codification__ 
 
-    In subsec. (b)(2)(D), “[section 31502 of title 49][/us/usc/t49/s31502]” substituted for “[section 3102 of title 49][/us/usc/t49/s3102]” on authority of [Pub. L. 103–272][/us/pl/103/272], §§ 1(c), (e), 6(b), July 5, 1994, [108 Stat. 745][/us/stat/108/745], 862, 1029, 1378. Previously, “[section 3102 of title 49][/us/usc/t49/s3102]” substituted for “section 204(a)(3a) of the Interstate Commerce Act ([49 U.S.C. 304(a)][/us/usc/t49/s304/a](3a))” on authority of [Pub. L. 97–449, § 6(b)][/us/pl/97/449/s6/b], Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], the first section of which enacted subtitle I (§ 101 et seq.) and chapter 31 (§ 3101 et seq.) of subtitle II of Title 49, Transportation.
+    In subsec. (b)(2)(D), “[section 31502 of title 49][/us/usc/t49/s31502]” substituted for “[section 3102 of title 49][/us/usc/t49/s3102]” on authority of [Pub. L. 103–272][/us/pl/103/272], §§ 1(c), (e), 6(b), July 5, 1994, [108 Stat. 745][/us/stat/108/745], 862, 1029, 1378. Previously, “[section 3102 of title 49][/us/usc/t49/s3102]” substituted for “section 204(a)(3a) of the Interstate Commerce Act ([49 U.S.C. 304(a)][/us/usc/t49/s304/a](3a))” on authority of [Pub. L. 97–449][/us/pl/97/449], § 6(b), Jan. 12, 1983, [96 Stat. 2443][/us/stat/96/2443], the first section of which enacted subtitle I (§ 101 et seq.) and chapter 31 (§ 3101 et seq.) of subtitle II of Title 49, Transportation.
 
  __Amendments__ 
 
@@ -87,15 +87,15 @@
 
  __Effective Date of 1995 Amendments__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of Title 49][/us/usc/t49/s701], Transportation.
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of Title 49][/us/usc/t49/s1301], Transportation.
 
-[Pub. L. 104–49, § 5(c)][/us/pl/104/49/s5/c], Nov. 15, 1995, [109 Stat. 435][/us/stat/109/435], provided that: 
+[Pub. L. 104–49][/us/pl/104/49], § 5(c), Nov. 15, 1995, [109 Stat. 435][/us/stat/109/435], provided that: 
 
 > “The amendment made by subsection (a) \[amending this section\] takes effect upon the expiration of 180 days after the date of enactment of this Act \[Nov. 15, 1995\] or upon the issuance of final regulations under subsection (b) \[set out below\], whichever occurs first.”
 
  __Regulations__ 
 
-[Pub. L. 104–49, § 5(b)][/us/pl/104/49/s5/b], Nov. 15, 1995, [109 Stat. 435][/us/stat/109/435], provided that: 
+[Pub. L. 104–49][/us/pl/104/49], § 5(b), Nov. 15, 1995, [109 Stat. 435][/us/stat/109/435], provided that: 
 
 > “Within 180 days of the date of the enactment of this Act \[Nov. 15, 1995\], the Secretary of Labor shall promulgate regulations establishing insurance levels under section 401(b)(3) of the Migrant and Seasonal Agricultural Worker Protection Act ([29 U.S.C. 1841(b)(3)][/us/usc/t29/s1841/b/3]) as amended by subsection (a).”
 
@@ -110,11 +110,11 @@
 
 [/us/usc/t49/s31502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs31502
 [/us/usc/t29/s1861]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1861
-[/us/pl/97/470/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs401
+[/us/pl/97/470/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtIV
 [/us/stat/96/2594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2594
-[/us/pl/104/49/s5/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs5%2Fa
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F434
-[/us/pl/104/88/s333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs333
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F953
 [/us/pl/97/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470
 [/us/pl/97/470]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470
@@ -124,16 +124,16 @@
 [/us/stat/108/745]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F745
 [/us/usc/t49/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs3102
 [/us/usc/t49/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs304%2Fa
-[/us/pl/97/449/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449%2Fs6%2Fb
+[/us/pl/97/449]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F449
 [/us/stat/96/2443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2443
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
-[/us/pl/104/49/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs5%2Fc
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F435
-[/us/pl/104/49/s5/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49%2Fs5%2Fb
+[/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49
 [/us/stat/109/435]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F435
 [/us/usc/t29/s1841/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1841%2Fb%2F3
 [/us/pl/104/49]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F49

@@ -17,7 +17,7 @@
 
     It shall be unlawful for any labor organization, or any officer, agent, shop steward, or other representative of a labor organization, or any employee thereof to fine, suspend, expel, or otherwise discipline any of its members for exercising any right to which he is entitled under the provisions of this chapter. The provisions of [section 412 of this title][/us/usc/t29/s412] shall be applicable in the enforcement of this section.
 
-([Pub. L. 86–257, title VI, § 609][/us/pl/86/257/s609], Sept. 14, 1959, [73 Stat. 541][/us/stat/73/541].)
+([Pub. L. 86–257, title VI][/us/pl/86/257/tVI], § 609, Sept. 14, 1959, [73 Stat. 541][/us/stat/73/541].)
 
 ----------
 
@@ -27,7 +27,7 @@
 ----------
 
 [/us/usc/t29/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs412
-[/us/pl/86/257/s609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs609
+[/us/pl/86/257/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVI
 [/us/stat/73/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F541
 
 

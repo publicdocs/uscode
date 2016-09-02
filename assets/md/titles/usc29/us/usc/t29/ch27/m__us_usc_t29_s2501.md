@@ -41,11 +41,11 @@
 
         (4) conducting a comprehensive study to examine the barriers to the participation of women in apprenticeable occupations and nontraditional occupations and to develop recommendations for the workplace to eliminate such barriers.
 
-([Pub. L. 102–530, § 2][/us/pl/102/530/s2], Oct. 27, 1992, [106 Stat. 3465][/us/stat/106/3465].)
+([Pub. L. 102–530][/us/pl/102/530], § 2, Oct. 27, 1992, [106 Stat. 3465][/us/stat/106/3465].)
 
  __Short Title__ 
 
-[Pub. L. 102–530, § 1][/us/pl/102/530/s1], Oct. 27, 1992, [106 Stat. 3465][/us/stat/106/3465], provided that: 
+[Pub. L. 102–530][/us/pl/102/530], § 1, Oct. 27, 1992, [106 Stat. 3465][/us/stat/106/3465], provided that: 
 
 > “This Act \[enacting this chapter\] shall be cited as the ‘Women in Apprenticeship and Nontraditional Occupations Act’.”
 
@@ -56,9 +56,9 @@
 ----------
 ----------
 
-[/us/pl/102/530/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530%2Fs2
+[/us/pl/102/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530
 [/us/stat/106/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3465
-[/us/pl/102/530/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530%2Fs1
+[/us/pl/102/530]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F530
 [/us/stat/106/3465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F3465
 
 

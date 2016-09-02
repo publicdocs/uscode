@@ -65,11 +65,11 @@
 
         This part applies, with respect to a terminated multiemployer plan to which [section 1321 of this title][/us/usc/t29/s1321] applies, until the last day of the plan year in which the plan terminates, within the meaning of [section 1341a(a)(2) of this title][/us/usc/t29/s1341a/a/2].
 
-([Pub. L. 93–406, title I, § 301][/us/pl/93/406/s301], Sept. 2, 1974, [88 Stat. 868][/us/stat/88/868]; [Pub. L. 96–364, title III, § 304(a)][/us/pl/96/364/s304/a], title IV, § 411(b), Sept. 26, 1980, [94 Stat. 1293][/us/stat/94/1293], 1308; [Pub. L. 101–239, title VII][/us/pl/101/239], §§ 7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2449; [Pub. L. 109–280, title II, § 201(c)(1)][/us/pl/109/280/s201/c/1], Aug. 17, 2006, [120 Stat. 868][/us/stat/120/868].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 301, Sept. 2, 1974, [88 Stat. 868][/us/stat/88/868]; [Pub. L. 96–364, title III][/us/pl/96/364/tIII], § 304(a), title IV, § 411(b), Sept. 26, 1980, [94 Stat. 1293][/us/stat/94/1293], 1308; [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], §§ 7891(a)(1), 7894(d)(1)(A), (4)(A), Dec. 19, 1989, [103 Stat. 2445][/us/stat/103/2445], 2449; [Pub. L. 109–280, title II][/us/pl/109/280/tII], § 201(c)(1), Aug. 17, 2006, [120 Stat. 868][/us/stat/120/868].)
 
  __References in Text__ 
 
-    [Section 409 of title 26][/us/usc/t26/s409], referred to in subsec. (a)(7), means [section 409 of Title 26][/us/usc/t26/s409], Internal Revenue Code, prior to its repeal by [Pub. L. 98–369, div. A, title IV, § 491(b)][/us/pl/98/369/s491/b], July 18, 1984, [98 Stat. 848][/us/stat/98/848], applicable to obligations issued after Dec. 31, 1983.
+    [Section 409 of title 26][/us/usc/t26/s409], referred to in subsec. (a)(7), means [section 409 of Title 26][/us/usc/t26/s409], Internal Revenue Code, prior to its repeal by [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], § 491(b), July 18, 1984, [98 Stat. 848][/us/stat/98/848], applicable to obligations issued after Dec. 31, 1983.
 
     This chapter, referred to in subsec. (a)(10), was in the original “this Act”, meaning [Pub. L. 93–406][/us/pl/93/406], known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of this title][/us/usc/t29/s1001] and Tables.
 
@@ -77,23 +77,23 @@
 
     2006—Subsec. (d). [Pub. L. 109–280][/us/pl/109/280] struck out heading and text of subsec. (d). Text read as follows: “Any amount of any financial assistance from the Pension Benefit Guaranty Corporation to any plan, and any repayment of such amount, shall be taken into account under this section in such manner as determined by the Secretary of the Treasury.”
 
-    1989—Subsec. (a)(4)(A), (6). [Pub. L. 101–239, § 7891(a)(1)][/us/pl/101/239/s7891/a/1], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+    1989—Subsec. (a)(4)(A), (6). [Pub. L. 101–239][/us/pl/101/239], § 7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-    Subsec. (a)(7). [Pub. L. 101–239, § 7894(d)(4)(A)][/us/pl/101/239/s7894/d/4/A], substituted “[section 409 of title 26][/us/usc/t26/s409] (as effective for obligations issued before January 1, 1984)” for “[section 409 of title 26][/us/usc/t26/s409]”.
+    Subsec. (a)(7). [Pub. L. 101–239][/us/pl/101/239], § 7894(d)(4)(A), substituted “[section 409 of title 26][/us/usc/t26/s409] (as effective for obligations issued before January 1, 1984)” for “[section 409 of title 26][/us/usc/t26/s409]”.
 
-    Subsec. (a)(8). [Pub. L. 101–239, § 7894(d)(1)(A)(i)][/us/pl/101/239/s7894/d/1/A/i], struck out “or” after semicolon at end.
+    Subsec. (a)(8). [Pub. L. 101–239][/us/pl/101/239], § 7894(d)(1)(A)(i), struck out “or” after semicolon at end.
 
-    Subsec. (a)(9). [Pub. L. 101–239, § 7894(d)(1)(A)(ii)][/us/pl/101/239/s7894/d/1/A/ii], substituted “; or” for period at end.
+    Subsec. (a)(9). [Pub. L. 101–239][/us/pl/101/239], § 7894(d)(1)(A)(ii), substituted “; or” for period at end.
 
-    Subsec. (a)(10). [Pub. L. 101–239, § 7894(d)(1)(A)(iii)][/us/pl/101/239/s7894/d/1/A/iii], substituted “any” for “Any”.
+    Subsec. (a)(10). [Pub. L. 101–239][/us/pl/101/239], § 7894(d)(1)(A)(iii), substituted “any” for “Any”.
 
-    1980—Subsec. (a)(10). [Pub. L. 96–364, § 411(b)][/us/pl/96/364/s411/b], added par. (10).
+    1980—Subsec. (a)(10). [Pub. L. 96–364][/us/pl/96/364], § 411(b), added par. (10).
 
-    Subsecs. (c), (d). [Pub. L. 96–364, § 304(a)][/us/pl/96/364/s304/a], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 96–364][/us/pl/96/364], § 304(a), added subsecs. (c) and (d).
 
  __Effective Date of 2006 Amendment__ 
 
-[Pub. L. 109–280, title II, § 201(d)][/us/pl/109/280/s201/d], Aug. 17, 2006, [120 Stat. 868][/us/stat/120/868], provided that:
+[Pub. L. 109–280, title II][/us/pl/109/280/tII], § 201(d), Aug. 17, 2006, [120 Stat. 868][/us/stat/120/868], provided that:
 
 >     “(1)  __In general__  __.—__ 
 
@@ -143,31 +143,31 @@
 [/us/usc/t29/s1002/35/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1002%2F35%2FB
 [/us/usc/t29/s1321]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1321
 [/us/usc/t29/s1341a/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341a%2Fa%2F2
-[/us/pl/93/406/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs301
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F868
-[/us/pl/96/364/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs304%2Fa
+[/us/pl/96/364/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIII
 [/us/stat/94/1293]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1293
-[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2445]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2445
-[/us/pl/109/280/s201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs201%2Fc%2F1
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F868
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
-[/us/pl/98/369/s491/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2Fs491%2Fb
+[/us/pl/98/369/dA/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F369%2FdA%2FtIV
 [/us/stat/98/848]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F848
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
-[/us/pl/101/239/s7891/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7891%2Fa%2F1
-[/us/pl/101/239/s7894/d/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fd%2F4%2FA
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
 [/us/usc/t26/s409]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs409
-[/us/pl/101/239/s7894/d/1/A/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fd%2F1%2FA%2Fi
-[/us/pl/101/239/s7894/d/1/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fd%2F1%2FA%2Fii
-[/us/pl/101/239/s7894/d/1/A/iii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7894%2Fd%2F1%2FA%2Fiii
-[/us/pl/96/364/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs411%2Fb
-[/us/pl/96/364/s304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs304%2Fa
-[/us/pl/109/280/s201/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs201%2Fd
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/109/280/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtII
 [/us/stat/120/868]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F868
 [/us/usc/t29/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084
 [/us/usc/t29/s1084]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1084

@@ -25,7 +25,7 @@
 
         to cooperate with regional, State, local, and other agencies, and to cooperate with and furnish technical assistance to employers, labor organizations, and employment agencies to aid in effectuating the purposes of this chapter.
 
-([Pub. L. 90–202, § 6][/us/pl/90/202/s6], Dec. 15, 1967, [81 Stat. 604][/us/stat/81/604].)
+([Pub. L. 90–202][/us/pl/90/202], § 6, Dec. 15, 1967, [81 Stat. 604][/us/stat/81/604].)
 
  __Transfer of Functions__ 
 
@@ -38,7 +38,7 @@
 ----------
 ----------
 
-[/us/pl/90/202/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202%2Fs6
+[/us/pl/90/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F202
 [/us/stat/81/604]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F81%2F604
 [/us/stat/92/3781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3781
 

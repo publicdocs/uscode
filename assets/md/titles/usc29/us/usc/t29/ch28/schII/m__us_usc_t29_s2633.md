@@ -63,7 +63,7 @@
 
         Eight members of the Commission shall constitute a quorum for all purposes, except that a lesser number may constitute a quorum for the purpose of holding hearings.
 
-([Pub. L. 103–3, title III, § 303][/us/pl/103/3/s303], Feb. 5, 1993, [107 Stat. 24][/us/stat/107/24].)
+([Pub. L. 103–3, title III][/us/pl/103/3/tIII], § 303, Feb. 5, 1993, [107 Stat. 24][/us/stat/107/24].)
 
 ----------
 
@@ -72,7 +72,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs303
+[/us/pl/103/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIII
 [/us/stat/107/24]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F24
 
 

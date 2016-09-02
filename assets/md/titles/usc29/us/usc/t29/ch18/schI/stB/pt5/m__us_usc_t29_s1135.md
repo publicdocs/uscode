@@ -17,11 +17,11 @@
 
     Subject to subchapter II and [section 1029 of this title][/us/usc/t29/s1029], the Secretary may prescribe such regulations as he finds necessary or appropriate to carry out the provisions of this subchapter. Among other things, such regulations may define accounting, technical and trade terms used in such provisions; may prescribe forms; and may provide for the keeping of books and records, and for the inspection of such books and records (subject to section 1134(a) and (b) of this title).
 
-([Pub. L. 93–406, title I, § 505][/us/pl/93/406/s505], Sept. 2, 1974, [88 Stat. 894][/us/stat/88/894].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 505, Sept. 2, 1974, [88 Stat. 894][/us/stat/88/894].)
 
  __Regulations__ 
 
-[Pub. L. 99–272, title XI, § 11018][/us/pl/99/272/s11018], Apr. 7, 1986, [100 Stat. 277][/us/stat/100/277], provided that:
+[Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11018, Apr. 7, 1986, [100 Stat. 277][/us/stat/100/277], provided that:
 
 >     “(a) __Regulatory Treatment of Assets of Real Estate Entities.—__ 
 
@@ -129,9 +129,9 @@
 ----------
 
 [/us/usc/t29/s1029]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1029
-[/us/pl/93/406/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs505
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F894
-[/us/pl/99/272/s11018]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11018
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/277]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F277
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001
 [/us/usc/t15/s77q]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs77q

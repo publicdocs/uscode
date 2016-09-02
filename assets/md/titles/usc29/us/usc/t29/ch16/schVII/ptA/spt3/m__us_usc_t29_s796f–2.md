@@ -133,29 +133,29 @@
 
         If the director of the designated State unit proposes to take a significant adverse action against a center for independent living, the center may seek mediation and conciliation to be provided by an individual or individuals who are free of conflicts of interest identified by the chairperson of or other individual designated by the Council. If the issue is not resolved through the mediation and conciliation, the center may appeal the proposed adverse action to the Administrator for a final decision.
 
-([Pub. L. 93–112, title VII, § 723][/us/pl/93/112/s723], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1231][/us/stat/112/1231]; amended [Pub. L. 113–128, title IV, § 482(b)][/us/pl/113/128/s482/b], July 22, 2014, [128 Stat. 1693][/us/stat/128/1693].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 723, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1231][/us/stat/112/1231]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 482(b), July 22, 2014, [128 Stat. 1693][/us/stat/128/1693].)
 
  __Prior Provisions__ 
 
-    A prior section 796f–2, [Pub. L. 93–112, title VII, § 723][/us/pl/93/112/s723], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4458][/us/stat/106/4458]; amended [Pub. L. 103–73, title I, § 114(j)][/us/pl/103/73/s114/j], Aug. 11, 1993, [107 Stat. 731][/us/stat/107/731], related to grants to centers for independent living in States in which State funding equals or exceeds Federal funding, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796f–2, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 723, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4458][/us/stat/106/4458]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(j), Aug. 11, 1993, [107 Stat. 731][/us/stat/107/731], related to grants to centers for independent living in States in which State funding equals or exceeds Federal funding, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–128, § 482(b)(1)][/us/pl/113/128/s482/b/1], substituted “Administrator” for “Commissioner” wherever appearing in text.
+    2014—Subsec. (a). [Pub. L. 113–128][/us/pl/113/128], § 482(b)(1), substituted “Administrator” for “Commissioner” wherever appearing in text.
 
-    Subsec. (a)(1)(A)(ii). [Pub. L. 113–128, § 482(b)(2)(A)][/us/pl/113/128/s482/b/2/A], inserted “of a designated State unit” after “director”.
+    Subsec. (a)(1)(A)(ii). [Pub. L. 113–128][/us/pl/113/128], § 482(b)(2)(A), inserted “of a designated State unit” after “director”.
 
-    Subsec. (a)(3). [Pub. L. 113–128, § 482(b)(2)(B)][/us/pl/113/128/s482/b/2/B], substituted “Administrator” for “Commissioner” in heading.
+    Subsec. (a)(3). [Pub. L. 113–128][/us/pl/113/128], § 482(b)(2)(B), substituted “Administrator” for “Commissioner” in heading.
 
-    Subsec. (b). [Pub. L. 113–128, § 482(b)(1)][/us/pl/113/128/s482/b/1], substituted “Administrator” for “Commissioner” in introductory provisions.
+    Subsec. (b). [Pub. L. 113–128][/us/pl/113/128], § 482(b)(1), substituted “Administrator” for “Commissioner” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 113–128, § 482(b)(3)][/us/pl/113/128/s482/b/3], substituted “grants for a fiscal year” for “grants” and “for the preceding fiscal year” for “by September 30, 1997”.
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 482(b)(3), substituted “grants for a fiscal year” for “grants” and “for the preceding fiscal year” for “by September 30, 1997”.
 
-    Subsecs. (g)(2), (h), (i). [Pub. L. 113–128, § 482(b)(1)][/us/pl/113/128/s482/b/1], substituted “Administrator” for “Commissioner”.
+    Subsecs. (g)(2), (h), (i). [Pub. L. 113–128][/us/pl/113/128], § 482(b)(1), substituted “Administrator” for “Commissioner”.
 
  __Grants to Centers for Independent Living in States in Which State Funding Equals or Exceeds Federal Funding__ 
 
-[Pub. L. 111–213, § 2(b)][/us/pl/111/213/s2/b], July 29, 2010, [124 Stat. 2344][/us/stat/124/2344], provided that: 
+[Pub. L. 111–213][/us/pl/111/213], § 2(b), July 29, 2010, [124 Stat. 2344][/us/stat/124/2344], provided that: 
 
 > “In awarding funds to existing centers for independent living (described in section 723(c) of the Rehabilitation Act of 1973 ([29 U.S.C. 796f–2(c)][/us/usc/t29/s796f–2/c])) in a State, the director of the designated State unit that has approval to make such awards—
 
@@ -190,24 +190,24 @@
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
 [/us/usc/t29/s796f–4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%934
-[/us/pl/93/112/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs723
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1231]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1231
-[/us/pl/113/128/s482/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1693
-[/us/pl/93/112/s723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs723
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4458]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4458
-[/us/pl/103/73/s114/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fj
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F731
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s482/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F1
-[/us/pl/113/128/s482/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F2%2FA
-[/us/pl/113/128/s482/b/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F2%2FB
-[/us/pl/113/128/s482/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F1
-[/us/pl/113/128/s482/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F3
-[/us/pl/113/128/s482/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs482%2Fb%2F1
-[/us/pl/111/213/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F213%2Fs2%2Fb
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/111/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F213
 [/us/stat/124/2344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2344
 [/us/usc/t29/s796f–2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f%E2%80%932%2Fc
 [/us/usc/t29/s796f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs796f

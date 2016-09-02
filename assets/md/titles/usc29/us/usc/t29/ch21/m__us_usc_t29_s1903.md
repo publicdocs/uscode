@@ -23,7 +23,7 @@
 
         (2) The Secretary shall, in addition to the regular monitoring required under paragraph (1), conduct an evaluation of the operation of the Center at the end of each fiscal year. A written report of such evaluation shall be submitted to the President, the Clerk of the House of Representatives, and the Secretary of the Senate within one hundred and eighty days after the end of the fiscal year for which such evaluation was conducted. The first such report shall be submitted for fiscal year 1983.
 
-([Pub. L. 98–221, title II, § 204][/us/pl/98/221/s204], Feb. 22, 1984, [98 Stat. 33][/us/stat/98/33]; [Pub. L. 102–569, title IX, § 903][/us/pl/102/569/s903], Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482].)
+([Pub. L. 98–221, title II][/us/pl/98/221/tII], § 204, Feb. 22, 1984, [98 Stat. 33][/us/stat/98/33]; [Pub. L. 102–569, title IX][/us/pl/102/569/tIX], § 903, Oct. 29, 1992, [106 Stat. 4482][/us/stat/106/4482].)
 
  __Amendments__ 
 
@@ -40,9 +40,9 @@
 ----------
 ----------
 
-[/us/pl/98/221/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs204
+[/us/pl/98/221/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtII
 [/us/stat/98/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F33
-[/us/pl/102/569/s903]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs903
+[/us/pl/102/569/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIX
 [/us/stat/106/4482]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4482
 [/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003

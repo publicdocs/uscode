@@ -53,7 +53,7 @@
 
         and if such employee receives compensation for employment in excess of twelve hours in any workday, or for employment in excess of fifty-six hours in any workweek, as the case may be, at a rate not less than one and one-half times the regular rate at which he is employed.
 
-    (c) __, (d) Repealed.__  __[__  __Pub. L. 93–259, § 19(e)__  __][/us/pl/93/259/s19/e]__  __,__  __Apr. 8, 1974__  __,__  __[__  __88 Stat. 66__  __][/us/stat/88/66]__ 
+    (c) __, (d) Repealed.__  __[__  __Pub. L. 93–259__  __][/us/pl/93/259]__  __, § 19(e),__  __Apr. 8, 1974__  __,__  __[__  __88 Stat. 66__  __][/us/stat/88/66]__ 
 
     (e) __“Regular rate” defined__ 
 
@@ -279,7 +279,7 @@
 
         (4) Nothing in this subsection shall preempt a State law that provides greater protections to employees than the protections provided for under this subsection.
 
-([June 25, 1938, ch. 676, § 7][/us/act/1938-06-25/ch676/s7], [52 Stat. 1063][/us/stat/52/1063]; [Oct. 29, 1941, ch. 461][/us/act/1941-10-29/ch461], [55 Stat. 756][/us/stat/55/756]; [July 20, 1949, ch. 352, § 1][/us/act/1949-07-20/ch352/s1], [63 Stat. 446][/us/stat/63/446]; [Oct. 26, 1949, ch. 736, § 7][/us/act/1949-10-26/ch736/s7], [63 Stat. 912][/us/stat/63/912]; [Pub. L. 87–30, § 6][/us/pl/87/30/s6], May 5, 1961, [75 Stat. 69][/us/stat/75/69]; [Pub. L. 89–601, title II][/us/pl/89/601], §§ 204(c), (d), 212(b), title IV, §§ 401–403, Sept. 23, 1966, [80 Stat. 835–837][/us/stat/80/835-837], 841, 842; [Pub. L. 93–259][/us/pl/93/259], §§ 6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, [88 Stat. 60][/us/stat/88/60], 62, 64, 66, 68; [Pub. L. 99–150][/us/pl/99/150], §§ 2(a), 3(a)–(c)(1), Nov. 13, 1985, [99 Stat. 787][/us/stat/99/787], 789; [Pub. L. 101–157, § 7][/us/pl/101/157/s7], Nov. 17, 1989, [103 Stat. 944][/us/stat/103/944]; [Pub. L. 104–26, § 2][/us/pl/104/26/s2], Sept. 6, 1995, [109 Stat. 264][/us/stat/109/264]; [Pub. L. 106–202, § 2(a)][/us/pl/106/202/s2/a], (b), May 18, 2000, [114 Stat. 308][/us/stat/114/308], 309; [Pub. L. 111–148, title IV, § 4207][/us/pl/111/148/s4207], Mar. 23, 2010, [124 Stat. 577][/us/stat/124/577].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 7, [52 Stat. 1063][/us/stat/52/1063]; [Oct. 29, 1941, ch. 461][/us/act/1941-10-29/ch461], [55 Stat. 756][/us/stat/55/756]; [July 20, 1949, ch. 352][/us/act/1949-07-20/ch352], § 1, [63 Stat. 446][/us/stat/63/446]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 7, [63 Stat. 912][/us/stat/63/912]; [Pub. L. 87–30][/us/pl/87/30], § 6, May 5, 1961, [75 Stat. 69][/us/stat/75/69]; [Pub. L. 89–601, title II][/us/pl/89/601/tII], §§ 204(c), (d), 212(b), title IV, §§ 401–403, Sept. 23, 1966, [80 Stat. 835–837][/us/stat/80/835-837], 841, 842; [Pub. L. 93–259][/us/pl/93/259], §§ 6(c)(1), 7(b)(2), 9(a), 12(b), 19, 21(a), Apr. 8, 1974, [88 Stat. 60][/us/stat/88/60], 62, 64, 66, 68; [Pub. L. 99–150][/us/pl/99/150], §§ 2(a), 3(a)–(c)(1), Nov. 13, 1985, [99 Stat. 787][/us/stat/99/787], 789; [Pub. L. 101–157][/us/pl/101/157], § 7, Nov. 17, 1989, [103 Stat. 944][/us/stat/103/944]; [Pub. L. 104–26][/us/pl/104/26], § 2, Sept. 6, 1995, [109 Stat. 264][/us/stat/109/264]; [Pub. L. 106–202][/us/pl/106/202], § 2(a), (b), May 18, 2000, [114 Stat. 308][/us/stat/114/308], 309; [Pub. L. 111–148, title IV][/us/pl/111/148/tIV], § 4207, Mar. 23, 2010, [124 Stat. 577][/us/stat/124/577].)
 
  __References in Text__ 
 
@@ -287,71 +287,71 @@
 
     The effective date of the Fair Labor Standards Amendments of 1966, referred to in subsec. (a)(2)(A), means the effective date of [Pub. L. 89–601][/us/pl/89/601], which is Feb. 1, 1967 except as otherwise provided, see [section 602 of Pub. L. 89–601][/us/pl/89/601/s602], set out as an Effective Date of 1966 Amendment note under [section 203 of this title][/us/usc/t29/s203].
 
-    Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in subsec. (k)(1), is [Pub. L. 93–259, § 6(c)(3)][/us/pl/93/259/s6/c/3], Apr. 8, 1974, [88 Stat. 61][/us/stat/88/61], which is set out as a note under [section 213 of this title][/us/usc/t29/s213].
+    Section 6(c)(3) of the Fair Labor Standards Amendments of 1974, referred to in subsec. (k)(1), is [Pub. L. 93–259][/us/pl/93/259], § 6(c)(3), Apr. 8, 1974, [88 Stat. 61][/us/stat/88/61], which is set out as a note under [section 213 of this title][/us/usc/t29/s213].
 
  __Amendments__ 
 
     2010—Subsec. (r). [Pub. L. 111–148][/us/pl/111/148] added subsec. (r).
 
-    2000—Subsec. (e)(8). [Pub. L. 106–202, § 2(a)][/us/pl/106/202/s2/a], added par. (8).
+    2000—Subsec. (e)(8). [Pub. L. 106–202][/us/pl/106/202], § 2(a), added par. (8).
 
-    Subsec. (h). [Pub. L. 106–202, § 2(b)][/us/pl/106/202/s2/b], designated existing provisions as par. (2) and added par. (1).
+    Subsec. (h). [Pub. L. 106–202][/us/pl/106/202], § 2(b), designated existing provisions as par. (2) and added par. (1).
 
     1995—Subsec. (o)(6), (7). [Pub. L. 104–26][/us/pl/104/26] added par. (6) and redesignated former par. (6) as (7).
 
     1989—Subsec. (q). [Pub. L. 101–157][/us/pl/101/157] added subsec. (q).
 
-    1985—Subsec. (o). [Pub. L. 99–150, § 2(a)][/us/pl/99/150/s2/a], added subsec. (o).
+    1985—Subsec. (o). [Pub. L. 99–150][/us/pl/99/150], § 2(a), added subsec. (o).
 
-    Subsec. (p). [Pub. L. 99–150, § 3(a)][/us/pl/99/150/s3/a]–(c)(1), added subsec. (p).
+    Subsec. (p). [Pub. L. 99–150][/us/pl/99/150], § 3(a)–(c)(1), added subsec. (p).
 
-    1974—Subsec. (c). [Pub. L. 93–259, § 19(a)][/us/pl/93/259/s19/a], (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. [Pub. L. 93–259, § 19(c)][/us/pl/93/259/s19/c], substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. [Pub. L. 93–259, § 19(d)][/us/pl/93/259/s19/d], substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. [Pub. L. 93–259, § 19(e)][/us/pl/93/259/s19/e], repealed subsec. (c) effective Dec. 31, 1976.
+    1974—Subsec. (c). [Pub. L. 93–259][/us/pl/93/259], § 19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. [Pub. L. 93–259][/us/pl/93/259], § 19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. [Pub. L. 93–259][/us/pl/93/259], § 19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. [Pub. L. 93–259][/us/pl/93/259], § 19(e), repealed subsec. (c) effective Dec. 31, 1976.
 
-    Subsec. (d). [Pub. L. 93–259, § 19(a)][/us/pl/93/259/s19/a], (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. [Pub. L. 93–259, § 19(c)][/us/pl/93/259/s19/c], substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. [Pub. L. 93–259, § 19(d)][/us/pl/93/259/s19/d], substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. [Pub. L. 93–259, § 19(e)][/us/pl/93/259/s19/e], repealed subsec. (d) effective Dec. 31, 1976.
+    Subsec. (d). [Pub. L. 93–259][/us/pl/93/259], § 19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. [Pub. L. 93–259][/us/pl/93/259], § 19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. [Pub. L. 93–259][/us/pl/93/259], § 19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. [Pub. L. 93–259][/us/pl/93/259], § 19(e), repealed subsec. (d) effective Dec. 31, 1976.
 
-    Subsec. (j). [Pub. L. 93–259, § 12(b)][/us/pl/93/259/s12/b], extended provision excepting from being considered a subsec. (a) violation agreements or undertakings between employers and employees respecting consecutive work period and overtime compensation to agreements between employers engaged in operation of an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises and employees respecting consecutive work period and overtime compensation.
+    Subsec. (j). [Pub. L. 93–259][/us/pl/93/259], § 12(b), extended provision excepting from being considered a subsec. (a) violation agreements or undertakings between employers and employees respecting consecutive work period and overtime compensation to agreements between employers engaged in operation of an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises and employees respecting consecutive work period and overtime compensation.
 
-    Subsec. (k). [Pub. L. 93–259, § 6(c)(1)(D)][/us/pl/93/259/s6/c/1/D], effective Jan. 1, 1978, substituted in par. (1) “exceed the lesser of (A) 216 hours, or (B) the average number of hours (as determined by the Secretary pursuant to section 6(c)(3) of the Fair Labor Standards Amendments of 1974) in tours of duty of employees engaged in such activities in work periods of 28 consecutive days in calendar year 1975” for “exceed 216 hours” and inserted in par. (2) “(or if lower, the number of hours referred to in clause (B) of paragraph (1)”.
+    Subsec. (k). [Pub. L. 93–259][/us/pl/93/259], § 6(c)(1)(D), effective Jan. 1, 1978, substituted in par. (1) “exceed the lesser of (A) 216 hours, or (B) the average number of hours (as determined by the Secretary pursuant to section 6(c)(3) of the Fair Labor Standards Amendments of 1974) in tours of duty of employees engaged in such activities in work periods of 28 consecutive days in calendar year 1975” for “exceed 216 hours” and inserted in par. (2) “(or if lower, the number of hours referred to in clause (B) of paragraph (1)”.
 
-    [Pub. L. 93–259, § 6(c)(1)(C)][/us/pl/93/259/s6/c/1/C], substituted “216 hours” for “232 hours”, wherever appearing, effective Jan. 1, 1977.
+    [Pub. L. 93–259][/us/pl/93/259], § 6(c)(1)(C), substituted “216 hours” for “232 hours”, wherever appearing, effective Jan. 1, 1977.
 
-    [Pub. L. 93–259, § 6(c)(1)(B)][/us/pl/93/259/s6/c/1/B], substituted “232 hours” for “240 hours”, wherever appearing, effective Jan. 1, 1976.
+    [Pub. L. 93–259][/us/pl/93/259], § 6(c)(1)(B), substituted “232 hours” for “240 hours”, wherever appearing, effective Jan. 1, 1976.
 
-    [Pub. L. 93–259, § 6(c)(1)(A)][/us/pl/93/259/s6/c/1/A], added subsec. (k), effective Jan. 1, 1975.
+    [Pub. L. 93–259][/us/pl/93/259], § 6(c)(1)(A), added subsec. (k), effective Jan. 1, 1975.
 
-    Subsec. (l). [Pub. L. 93–259, § 7(b)(2)][/us/pl/93/259/s7/b/2], added subsec. (l).
+    Subsec. (l). [Pub. L. 93–259][/us/pl/93/259], § 7(b)(2), added subsec. (l).
 
-    Subsec. (m). [Pub. L. 93–259, § 9(a)][/us/pl/93/259/s9/a], added subsec. (m).
+    Subsec. (m). [Pub. L. 93–259][/us/pl/93/259], § 9(a), added subsec. (m).
 
-    Subsec. (n). [Pub. L. 93–259, § 21(a)][/us/pl/93/259/s21/a], added subsec. (n).
+    Subsec. (n). [Pub. L. 93–259][/us/pl/93/259], § 21(a), added subsec. (n).
 
-    1966—Subsec. (a). [Pub. L. 89–601, § 401][/us/pl/89/601/s401], retained provision for 40-hour workweek and compensation for employment in excess of 40 hours at not less than one and one-half times the regular rate of pay and substituted provisions setting out a phased timetable for the workweek in the case of employees covered by the overtime provisions for the first time under the Fair Labor Standards Amendments of 1966 beginning at 44 hours during the first year from the effective date of the Fair Labor Standards Amendments of 1966, 42 hours during the second year from such date, and 40 hours after the expiration of the second year from such date, for provisions giving a phased timetable for workweeks in the case of employees first covered under the provisions of the Fair Labor Standards Amendments of 1961.
+    1966—Subsec. (a). [Pub. L. 89–601][/us/pl/89/601], § 401, retained provision for 40-hour workweek and compensation for employment in excess of 40 hours at not less than one and one-half times the regular rate of pay and substituted provisions setting out a phased timetable for the workweek in the case of employees covered by the overtime provisions for the first time under the Fair Labor Standards Amendments of 1966 beginning at 44 hours during the first year from the effective date of the Fair Labor Standards Amendments of 1966, 42 hours during the second year from such date, and 40 hours after the expiration of the second year from such date, for provisions giving a phased timetable for workweeks in the case of employees first covered under the provisions of the Fair Labor Standards Amendments of 1961.
 
-    Subsec. (b)(3). [Pub. L. 89–601, § 212(b)][/us/pl/89/601/s212/b], substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise’s annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
+    Subsec. (b)(3). [Pub. L. 89–601][/us/pl/89/601], § 212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise’s annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
 
-    Subsec. (c). [Pub. L. 89–601, § 204(c)][/us/pl/89/601/s204/c], substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
+    Subsec. (c). [Pub. L. 89–601][/us/pl/89/601], § 204(c), substituted provisions for an overtime exemption of 10 weeks in any calendar year or 14 weeks in the case of an employer not qualifying for the exemption in subsec. (d) of this section, limited to 10 hours a day and 50 hours a week, applicable to employees employed in seasonal industries which are not engaged in agricultural processing, for provisions granting a year-round unlimited exemption applicable to employees of employers engaged in first processing of milk into dairy products, cotton compressing and ginning, cottonseed processing, and the processing of certain farm products into sugar, and granting a 14-week unlimited exemption applicable to employees of employers engaged in first processing of perishable or seasonal fresh fruits or vegetables first processing within the area of production of any agricultural commodity during a seasonal operation, or the handling or slaughtering of livestock and poultry.
 
-    Subsec. (d). [Pub. L. 89–601, § 204(c)][/us/pl/89/601/s204/c], added subsec. (d). Former subsec. (d) redesignated (e).
+    Subsec. (d). [Pub. L. 89–601][/us/pl/89/601], § 204(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
-    Subsecs. (e), (f). [Pub. L. 89–601, § 204(d)(1)][/us/pl/89/601/s204/d/1], redesignated former subsecs. (d) and (e) as (e) and (f) respectively. Former subsec. (f) redesignated (g).
+    Subsecs. (e), (f). [Pub. L. 89–601][/us/pl/89/601], § 204(d)(1), redesignated former subsecs. (d) and (e) as (e) and (f) respectively. Former subsec. (f) redesignated (g).
 
-    Subsecs. (g), (h). [Pub. L. 89–601, § 204(d)(1)][/us/pl/89/601/s204/d/1], (2), redesignated former subsecs. (f) and (g) as subsecs. (g) and (h) respectively, and in subsecs. (g) and (h) as so redesignated, substituted reference to “subsection (e)” for reference to “subsection (d).” Former subsec. (h) redesignated (i).
+    Subsecs. (g), (h). [Pub. L. 89–601][/us/pl/89/601], § 204(d)(1), (2), redesignated former subsecs. (f) and (g) as subsecs. (g) and (h) respectively, and in subsecs. (g) and (h) as so redesignated, substituted reference to “subsection (e)” for reference to “subsection (d).” Former subsec. (h) redesignated (i).
 
     Subsec. (i). [Pub. L. 89–601][/us/pl/89/601], §§ 204(d)(1), 402, redesignated former subsec. (h) as (i) and inserted provision that, in determining the proportion of compensation representing commissions, all earnings resulting from the application of a bona fide commission rate shall be deemed commissions on goods or services without regard to whether the computed commissions exceed the draw or guarantee.
 
-    Subsec. (j). [Pub. L. 89–601, § 403][/us/pl/89/601/s403], added subsec. (j).
+    Subsec. (j). [Pub. L. 89–601][/us/pl/89/601], § 403, added subsec. (j).
 
-    1961—Subsec. (a). [Pub. L. 87–30, § 6(a)][/us/pl/87/30/s6/a], designated existing provisions as par. (1), inserted “in any workweek”, and added par. (2).
+    1961—Subsec. (a). [Pub. L. 87–30][/us/pl/87/30], § 6(a), designated existing provisions as par. (1), inserted “in any workweek”, and added par. (2).
 
-    Subsec. (b)(2). [Pub. L. 87–30, § 6(b)][/us/pl/87/30/s6/b], substituted “in excess of the maximum workweek applicable to such employee under subsection (a)” for “in excess of forty hours in the workweek”.
+    Subsec. (b)(2). [Pub. L. 87–30][/us/pl/87/30], § 6(b), substituted “in excess of the maximum workweek applicable to such employee under subsection (a)” for “in excess of forty hours in the workweek”.
 
-    Subsec. (d)(5), (7). [Pub. L. 87–30, § 6(c)][/us/pl/87/30/s6/c], (d), substituted “in excess of the maximum workweek applicable to such employee under subsection (a)” for “forty in a workweek” in par. (5) and “the maximum workweek applicable to such employee under subsection (a)” for “forty hours” in par. (7).
+    Subsec. (d)(5), (7). [Pub. L. 87–30][/us/pl/87/30], § 6(c), (d), substituted “in excess of the maximum workweek applicable to such employee under subsection (a)” for “forty in a workweek” in par. (5) and “the maximum workweek applicable to such employee under subsection (a)” for “forty hours” in par. (7).
 
-    Subsec. (e). [Pub. L. 87–30, § 6(e)][/us/pl/87/30/s6/e], substituted “the maximum workweek applicable to such employee under subsection (a)”, “subsection (a) or (b) of [section 206 of this title][/us/usc/t29/s206] (whichever may be applicable” and “such maximum” for “forty hours”, “[section 206(a) of this title][/us/usc/t29/s206/a]” and “forty in any”, respectively.
+    Subsec. (e). [Pub. L. 87–30][/us/pl/87/30], § 6(e), substituted “the maximum workweek applicable to such employee under subsection (a)”, “subsection (a) or (b) of [section 206 of this title][/us/usc/t29/s206] (whichever may be applicable” and “such maximum” for “forty hours”, “[section 206(a) of this title][/us/usc/t29/s206/a]” and “forty in any”, respectively.
 
-    Subsec. (f). [Pub. L. 87–30, § 6(f)][/us/pl/87/30/s6/f], substituted “the maximum workweek applicable to such employee under subsection” for “forty hours” in two places.
+    Subsec. (f). [Pub. L. 87–30][/us/pl/87/30], § 6(f), substituted “the maximum workweek applicable to such employee under subsection” for “forty hours” in two places.
 
-    Subsec. (h). [Pub. L. 87–30, § 6(g)][/us/pl/87/30/s6/g], added subsec. (h).
+    Subsec. (h). [Pub. L. 87–30][/us/pl/87/30], § 6(g), added subsec. (h).
 
     1949—Subsec. (a). Act Oct. 26, 1949, continued requirement that employment in excess of 40 hours in a workweek be compensated at rate not less than 1½ times regular rate except as to employees specifically exempted.
 
@@ -371,13 +371,13 @@
 
  __Effective Date of 2000 Amendment__ 
 
-[Pub. L. 106–202, § 2(c)][/us/pl/106/202/s2/c], May 18, 2000, [114 Stat. 309][/us/stat/114/309], provided that: 
+[Pub. L. 106–202][/us/pl/106/202], § 2(c), May 18, 2000, [114 Stat. 309][/us/stat/114/309], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall take effect on the date that is 90 days after the date of enactment of this Act \[May 18, 2000\].”
 
  __Effective Date of 1995 Amendment__ 
 
-[Pub. L. 104–26, § 3][/us/pl/104/26/s3], Sept. 6, 1995, [109 Stat. 265][/us/stat/109/265], provided that: 
+[Pub. L. 104–26][/us/pl/104/26], § 3, Sept. 6, 1995, [109 Stat. 265][/us/stat/109/265], provided that: 
 
 > “The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
 
@@ -387,11 +387,11 @@
 
  __Effective Date of 1974 Amendment__ 
 
-    [Pub. L. 93–259, § 6(c)(1)(A)][/us/pl/93/259/s6/c/1/A]–(D), Apr. 8, 1974, [88 Stat. 60][/us/stat/88/60], provided that the amendments made by that section are effective Jan. 1, 1975, 1976, 1977, and 1978, respectively.
+    [Pub. L. 93–259][/us/pl/93/259], § 6(c)(1)(A)–(D), Apr. 8, 1974, [88 Stat. 60][/us/stat/88/60], provided that the amendments made by that section are effective Jan. 1, 1975, 1976, 1977, and 1978, respectively.
 
     Amendment by sections 7(b)(2), 9(a), 12(b), 19(a), (b), and 21(a) of [Pub. L. 93–259][/us/pl/93/259] effective May 1, 1974, see [section 29(a) of Pub. L. 93–259][/us/pl/93/259/s29/a], set out as a note under [section 202 of this title][/us/usc/t29/s202].
 
-    [Pub. L. 93–259, § 19(c)][/us/pl/93/259/s19/c]–(e), Apr. 8, 1974, [88 Stat. 66][/us/stat/88/66], provided that the amendments and repeals made by subsecs. (c), (d), and (e) of section 19 are effective Jan. 1, 1975, Jan. 1, 1976, and Dec. 31, 1976, respectively.
+    [Pub. L. 93–259][/us/pl/93/259], § 19(c)–(e), Apr. 8, 1974, [88 Stat. 66][/us/stat/88/66], provided that the amendments and repeals made by subsecs. (c), (d), and (e) of section 19 are effective Jan. 1, 1975, Jan. 1, 1976, and Dec. 31, 1976, respectively.
 
  __Effective Date of 1966 Amendment__ 
 
@@ -407,7 +407,7 @@
 
  __Regulations__ 
 
-[Pub. L. 106–202, § 2(e)][/us/pl/106/202/s2/e], May 18, 2000, [114 Stat. 309][/us/stat/114/309], provided that: 
+[Pub. L. 106–202][/us/pl/106/202], § 2(e), May 18, 2000, [114 Stat. 309][/us/stat/114/309], provided that: 
 
 > “The Secretary of Labor may promulgate such regulations as may be necessary to carry out the amendments made by this Act \[amending this section\].”
 
@@ -417,7 +417,7 @@
 
  __Applicability; Liability of Employers__ 
 
-[Pub. L. 110–244, title III, § 306][/us/pl/110/244/s306], June 6, 2008, [122 Stat. 1620][/us/stat/122/1620], provided that:
+[Pub. L. 110–244, title III][/us/pl/110/244/tIII], § 306, June 6, 2008, [122 Stat. 1620][/us/stat/122/1620], provided that:
 
 >     “(a)  __Applicability Following This Act__  __.—__ 
 
@@ -463,7 +463,7 @@
 
  __Liability of Employers__ 
 
-[Pub. L. 106–202, § 2(d)][/us/pl/106/202/s2/d], May 18, 2000, [114 Stat. 309][/us/stat/114/309], provided that: 
+[Pub. L. 106–202][/us/pl/106/202], § 2(d), May 18, 2000, [114 Stat. 309][/us/stat/114/309], provided that: 
 
 > “No employer shall be liable under the Fair Labor Standards Act of 1938 \[[29 U.S.C. 201][/us/usc/t29/s201] et seq.\] for any failure to include in an employee’s regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
 
@@ -475,13 +475,13 @@
 
  __Compensatory Time; Collective Bargaining Agreements in Effect on__  __April 15, 1986__ 
 
-[Pub. L. 99–150, § 2(b)][/us/pl/99/150/s2/b], Nov. 13, 1985, [99 Stat. 788][/us/stat/99/788], provided that: 
+[Pub. L. 99–150][/us/pl/99/150], § 2(b), Nov. 13, 1985, [99 Stat. 788][/us/stat/99/788], provided that: 
 
 > “A collective bargaining agreement which is in effect on April 15, 1986, and which permits compensatory time off in lieu of overtime compensation shall remain in effect until its expiration date unless otherwise modified, except that compensatory time shall be provided after April 14, 1986, in accordance with section 7(o) of the Fair Labor Standards Act of 1938 (as added by subsection (a)) \[[29 U.S.C. 207][/us/usc/t29/s207](o)\].”
 
  __Deferment of Monetary Overtime Compensation__ 
 
-[Pub. L. 99–150, § 2(c)(2)][/us/pl/99/150/s2/c/2], Nov. 13, 1985, [99 Stat. 789][/us/stat/99/789], provided that: 
+[Pub. L. 99–150][/us/pl/99/150], § 2(c)(2), Nov. 13, 1985, [99 Stat. 789][/us/stat/99/789], provided that: 
 
 > “A State, political subdivision of a State, or interstate governmental agency may defer until August 1, 1986, the payment of monetary overtime compensation under section 7 of the Fair Labor Standards Act of 1938 \[[29 U.S.C. 207][/us/usc/t29/s207]\] for hours worked after April 14, 1986.”
 
@@ -495,7 +495,7 @@
 
  __Study by Secretary of Labor of Excessive Overtime__ 
 
-    [Pub. L. 89–601, title VI, § 603][/us/pl/89/601/s603], Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844], directed Secretary of Labor to make a complete study of practices dealing with overtime payments for work in excess of forty hours per week and the extent to which such overtime work impeded the creation of new job opportunities in American industry and instructed him to report to the Congress by July 1, 1967, the findings of such survey with appropriate recommendations.
+    [Pub. L. 89–601, title VI][/us/pl/89/601/tVI], § 603, Sept. 23, 1966, [80 Stat. 844][/us/stat/80/844], directed Secretary of Labor to make a complete study of practices dealing with overtime payments for work in excess of forty hours per week and the extent to which such overtime work impeded the creation of new job opportunities in American industry and instructed him to report to the Congress by July 1, 1967, the findings of such survey with appropriate recommendations.
 
  __Ex. Ord. No. 9607. Forty-Eight Hour Wartime Workweek__ 
 
@@ -517,34 +517,34 @@
 ----------
 
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
-[/us/pl/93/259/s19/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fe
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F66
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
-[/us/act/1938-06-25/ch676/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs7
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1063]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1063
 [/us/act/1941-10-29/ch461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1941-10-29%2Fch461
 [/us/stat/55/756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F55%2F756
-[/us/act/1949-07-20/ch352/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-20%2Fch352%2Fs1
+[/us/act/1949-07-20/ch352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-07-20%2Fch352
 [/us/stat/63/446]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F446
-[/us/act/1949-10-26/ch736/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs7
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/912]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F912
-[/us/pl/87/30/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs6
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/stat/75/69]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F75%2F69
-[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtII
 [/us/stat/80/835-837]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F835-837
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F60
 [/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/787]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F787
-[/us/pl/101/157/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157%2Fs7
+[/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
 [/us/stat/103/944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F944
-[/us/pl/104/26/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F26%2Fs2
+[/us/pl/104/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F26
 [/us/stat/109/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F264
-[/us/pl/106/202/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202%2Fs2%2Fa
+[/us/pl/106/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202
 [/us/stat/114/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F308
-[/us/pl/111/148/s4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs4207
+[/us/pl/111/148/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2FtIV
 [/us/stat/124/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F577
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/stat/80/830]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F830
@@ -552,61 +552,61 @@
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/pl/89/601/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs602
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
-[/us/pl/93/259/s6/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fc%2F3
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/61]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F61
 [/us/usc/t29/s213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
-[/us/pl/106/202/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202%2Fs2%2Fa
-[/us/pl/106/202/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202%2Fs2%2Fb
+[/us/pl/106/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202
+[/us/pl/106/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202
 [/us/pl/104/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F26
 [/us/pl/101/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F157
-[/us/pl/99/150/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs2%2Fa
-[/us/pl/99/150/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs3%2Fa
-[/us/pl/93/259/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fa
-[/us/pl/93/259/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fc
-[/us/pl/93/259/s19/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fd
-[/us/pl/93/259/s19/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fe
-[/us/pl/93/259/s19/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fa
-[/us/pl/93/259/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fc
-[/us/pl/93/259/s19/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fd
-[/us/pl/93/259/s19/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fe
-[/us/pl/93/259/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs12%2Fb
-[/us/pl/93/259/s6/c/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fc%2F1%2FD
-[/us/pl/93/259/s6/c/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fc%2F1%2FC
-[/us/pl/93/259/s6/c/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fc%2F1%2FB
-[/us/pl/93/259/s6/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fc%2F1%2FA
-[/us/pl/93/259/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs7%2Fb%2F2
-[/us/pl/93/259/s9/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs9%2Fa
-[/us/pl/93/259/s21/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs21%2Fa
-[/us/pl/89/601/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs401
-[/us/pl/89/601/s212/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs212%2Fb
-[/us/pl/89/601/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs204%2Fc
-[/us/pl/89/601/s204/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs204%2Fc
-[/us/pl/89/601/s204/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs204%2Fd%2F1
-[/us/pl/89/601/s204/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs204%2Fd%2F1
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
-[/us/pl/89/601/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs403
-[/us/pl/87/30/s6/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs6%2Fa
-[/us/pl/87/30/s6/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs6%2Fb
-[/us/pl/87/30/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs6%2Fc
-[/us/pl/87/30/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs6%2Fe
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
 [/us/usc/t29/s206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206
 [/us/usc/t29/s206/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa
-[/us/pl/87/30/s6/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs6%2Ff
-[/us/pl/87/30/s6/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs6%2Fg
-[/us/pl/106/202/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202%2Fs2%2Fc
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/87/30]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30
+[/us/pl/106/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202
 [/us/stat/114/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F309
-[/us/pl/104/26/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F26%2Fs3
+[/us/pl/104/26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F26
 [/us/stat/109/265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F265
 [/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/pl/99/150/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs6
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
-[/us/pl/93/259/s6/c/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs6%2Fc%2F1%2FA
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/60]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F60
 [/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/pl/93/259/s29/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs29%2Fa
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
-[/us/pl/93/259/s19/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259%2Fs19%2Fc
+[/us/pl/93/259]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F259
 [/us/stat/88/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F66
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/pl/89/601/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs602
@@ -615,10 +615,10 @@
 [/us/pl/87/30/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F30%2Fs14
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
-[/us/pl/106/202/s2/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202%2Fs2%2Fe
+[/us/pl/106/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202
 [/us/stat/114/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F309
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/pl/110/244/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2Fs306
+[/us/pl/110/244/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F244%2FtIII
 [/us/stat/122/1620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1620
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
 [/us/usc/t29/s213/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs213%2Fb%2F1
@@ -627,14 +627,14 @@
 [/us/usc/t49/s13102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs13102
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
 [/us/usc/t49/s5103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs5103
-[/us/pl/106/202/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202%2Fs2%2Fd
+[/us/pl/106/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F202
 [/us/stat/114/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F309
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s207/e/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207%2Fe%2F8
-[/us/pl/99/150/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs2%2Fb
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/788]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F788
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
-[/us/pl/99/150/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs2%2Fc%2F2
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/789]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F789
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
 [/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
@@ -646,7 +646,7 @@
 [/us/pl/89/601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601
 [/us/pl/89/601/s602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs602
 [/us/usc/t29/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs203
-[/us/pl/89/601/s603]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2Fs603
+[/us/pl/89/601/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F601%2FtVI
 [/us/stat/80/844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F80%2F844
 [/us/usc/t29/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs204
 

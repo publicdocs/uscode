@@ -17,7 +17,7 @@
 
     Nothing contained in this chapter shall be construed to require an attorney who is a member in good standing of the bar of any State, to include in any report required to be filed pursuant to the provisions of this chapter any information which was lawfully communicated to such attorney by any of his clients in the course of a legitimate attorney-client relationship.
 
-([Pub. L. 86–257, title II, § 204][/us/pl/86/257/s204], Sept. 14, 1959, [73 Stat. 528][/us/stat/73/528].)
+([Pub. L. 86–257, title II][/us/pl/86/257/tII], § 204, Sept. 14, 1959, [73 Stat. 528][/us/stat/73/528].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs204
+[/us/pl/86/257/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtII
 [/us/stat/73/528]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F528
 
 

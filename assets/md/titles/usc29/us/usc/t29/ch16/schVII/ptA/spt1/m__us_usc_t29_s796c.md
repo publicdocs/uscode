@@ -173,27 +173,27 @@
 
         The plan shall describe how the State will provide independent living services described in [section 705(18) of this title][/us/usc/t29/s705/18] that promote full access to community life for individuals with significant disabilities.
 
-([Pub. L. 93–112, title VII, § 704][/us/pl/93/112/s704], as added [Pub. L. 105–220, title IV, § 410][/us/pl/105/220/s410], Aug. 7, 1998, [112 Stat. 1218][/us/stat/112/1218]; amended [Pub. L. 113–128, title IV, § 474][/us/pl/113/128/s474], July 22, 2014, [128 Stat. 1686][/us/stat/128/1686].)
+([Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 704, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 410, Aug. 7, 1998, [112 Stat. 1218][/us/stat/112/1218]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 474, July 22, 2014, [128 Stat. 1686][/us/stat/128/1686].)
 
  __Prior Provisions__ 
 
-    A prior section 796c, [Pub. L. 93–112, title VII, § 704][/us/pl/93/112/s704], as added [Pub. L. 102–569, title VII, § 701(2)][/us/pl/102/569/s701/2], Oct. 29, 1992, [106 Stat. 4444][/us/stat/106/4444]; amended [Pub. L. 103–73, title I, § 114(b)][/us/pl/103/73/s114/b], Aug. 11, 1993, [107 Stat. 728][/us/stat/107/728], related to State plans, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 796c, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 704, as added [Pub. L. 102–569, title VII][/us/pl/102/569/tVII], § 701(2), Oct. 29, 1992, [106 Stat. 4444][/us/stat/106/4444]; amended [Pub. L. 103–73, title I][/us/pl/103/73/tI], § 114(b), Aug. 11, 1993, [107 Stat. 728][/us/stat/107/728], related to State plans, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    Another prior section 796c, [Pub. L. 93–112, title VII, § 704][/us/pl/93/112/s704], as added [Pub. L. 95–602, title III, § 301][/us/pl/95/602/s301], Nov. 6, 1978, [92 Stat. 2997][/us/stat/92/2997]; amended [Pub. L. 100–630, title II, § 208(c)][/us/pl/100/630/s208/c], Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], related to payments to States from allotments to pay Federal share of expenditures, prior to repeal by [Pub. L. 102–569, § 701(1)][/us/pl/102/569/s701/1].
+    Another prior section 796c, [Pub. L. 93–112, title VII][/us/pl/93/112/tVII], § 704, as added [Pub. L. 95–602, title III][/us/pl/95/602/tIII], § 301, Nov. 6, 1978, [92 Stat. 2997][/us/stat/92/2997]; amended [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 208(c), Nov. 7, 1988, [102 Stat. 3314][/us/stat/102/3314], related to payments to States from allotments to pay Federal share of expenditures, prior to repeal by [Pub. L. 102–569][/us/pl/102/569], § 701(1).
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1). [Pub. L. 113–128, § 474(1)(A)][/us/pl/113/128/s474/1/A], substituted “Administrator” for “Commissioner” in two places and inserted “developed and signed in accordance with paragraph (2),” after “State plan”.
+    2014—Subsec. (a)(1). [Pub. L. 113–128][/us/pl/113/128], § 474(1)(A), substituted “Administrator” for “Commissioner” in two places and inserted “developed and signed in accordance with paragraph (2),” after “State plan”.
 
-    Subsec. (a)(2). [Pub. L. 113–128, § 474(1)(B)][/us/pl/113/128/s474/1/B], struck out “developed and signed by” after “jointly” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+    Subsec. (a)(2). [Pub. L. 113–128][/us/pl/113/128], § 474(1)(B), struck out “developed and signed by” after “jointly” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
     “(A) the director of the designated State unit; and
 
     “(B) the chairperson of the Statewide Independent Living Council, acting on behalf of and at the direction of the Council.”
 
-    Subsec. (a)(3)(A). [Pub. L. 113–128, § 474(1)(C)(i)][/us/pl/113/128/s474/1/C/i], substituted “independent living services in the State” for “State independent living services”.
+    Subsec. (a)(3)(A). [Pub. L. 113–128][/us/pl/113/128], § 474(1)(C)(i), substituted “independent living services in the State” for “State independent living services”.
 
-    Subsec. (a)(3)(C). [Pub. L. 113–128, § 474(1)(C)(ii)][/us/pl/113/128/s474/1/C/ii], added subpar. (C) and struck out former subpar. (C) which read as follows:
+    Subsec. (a)(3)(C). [Pub. L. 113–128][/us/pl/113/128], § 474(1)(C)(ii), added subpar. (C) and struck out former subpar. (C) which read as follows:
 
     “(C) working relationships between—
 
@@ -201,25 +201,25 @@
 
     “(ii) the vocational rehabilitation program established under subchapter I of this chapter, and other programs providing services for individuals with disabilities.”
 
-    Subsec. (a)(4). [Pub. L. 113–128, § 474(1)(D)][/us/pl/113/128/s474/1/D], substituted “Administrator” for “Commissioner” in two places.
+    Subsec. (a)(4). [Pub. L. 113–128][/us/pl/113/128], § 474(1)(D), substituted “Administrator” for “Commissioner” in two places.
 
-    Subsec. (a)(5). [Pub. L. 113–128, § 474(1)(E)][/us/pl/113/128/s474/1/E], added par. (5).
+    Subsec. (a)(5). [Pub. L. 113–128][/us/pl/113/128], § 474(1)(E), added par. (5).
 
-    Subsec. (c). [Pub. L. 113–128, § 474(2)(A)][/us/pl/113/128/s474/2/A], (B), substituted “entity” for “unit” in heading and “a State entity of such State (referred to in this subchapter as the ‘designated State entity’)” for “the designated State unit of such State” in introductory provisions.
+    Subsec. (c). [Pub. L. 113–128][/us/pl/113/128], § 474(2)(A), (B), substituted “entity” for “unit” in heading and “a State entity of such State (referred to in this subchapter as the ‘designated State entity’)” for “the designated State unit of such State” in introductory provisions.
 
-    Subsec. (c)(3), (4). [Pub. L. 113–128, § 474(2)(C)][/us/pl/113/128/s474/2/C], substituted “Administrator” for “Commissioner”.
+    Subsec. (c)(3), (4). [Pub. L. 113–128][/us/pl/113/128], § 474(2)(C), substituted “Administrator” for “Commissioner”.
 
-    Subsec. (c)(5). [Pub. L. 113–128, § 474(2)(D)][/us/pl/113/128/s474/2/D]–(F), added par. (5).
+    Subsec. (c)(5). [Pub. L. 113–128][/us/pl/113/128], § 474(2)(D)–(F), added par. (5).
 
-    Subsec. (i). [Pub. L. 113–128, § 474(3)][/us/pl/113/128/s474/3], added pars. (1) to (4) and struck out former pars. (1) and (2) which read as follows:
+    Subsec. (i). [Pub. L. 113–128][/us/pl/113/128], § 474(3), added pars. (1) to (4) and struck out former pars. (1) and (2) which read as follows:
 
     “(1) the independent living rehabilitation service program, the Statewide Independent Living Council, and centers for independent living; and
 
     “(2) the designated State unit, other State agencies represented on such Council, other councils that address the needs of specific disability populations and issues, and other public and private entities determined to be appropriate by the Council.”
 
-    Subsec. (m)(4), (5). [Pub. L. 113–128, § 474(4)][/us/pl/113/128/s474/4], substituted “Administrator” for “Commissioner” wherever appearing.
+    Subsec. (m)(4), (5). [Pub. L. 113–128][/us/pl/113/128], § 474(4), substituted “Administrator” for “Commissioner” wherever appearing.
 
-    Subsec. (o). [Pub. L. 113–128, § 474(5)][/us/pl/113/128/s474/5], added subsec. (o).
+    Subsec. (o). [Pub. L. 113–128][/us/pl/113/128], § 474(5), added subsec. (o).
 
 ----------
 
@@ -236,34 +236,34 @@
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
 [/us/usc/t29/s793]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs793
 [/us/usc/t29/s705/18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs705%2F18
-[/us/pl/93/112/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs704
-[/us/pl/105/220/s410]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs410
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1218
-[/us/pl/113/128/s474]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1686]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1686
-[/us/pl/93/112/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs704
-[/us/pl/102/569/s701/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F2
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/102/569/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtVII
 [/us/stat/106/4444]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4444
-[/us/pl/103/73/s114/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2Fs114%2Fb
+[/us/pl/103/73/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F73%2FtI
 [/us/stat/107/728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F728
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s704]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs704
-[/us/pl/95/602/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs301
+[/us/pl/93/112/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtVII
+[/us/pl/95/602/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtIII
 [/us/stat/92/2997]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2997
-[/us/pl/100/630/s208/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs208%2Fc
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3314
-[/us/pl/102/569/s701/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs701%2F1
-[/us/pl/113/128/s474/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F1%2FA
-[/us/pl/113/128/s474/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F1%2FB
-[/us/pl/113/128/s474/1/C/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F1%2FC%2Fi
-[/us/pl/113/128/s474/1/C/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F1%2FC%2Fii
-[/us/pl/113/128/s474/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F1%2FD
-[/us/pl/113/128/s474/1/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F1%2FE
-[/us/pl/113/128/s474/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F2%2FA
-[/us/pl/113/128/s474/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F2%2FC
-[/us/pl/113/128/s474/2/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F2%2FD
-[/us/pl/113/128/s474/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F3
-[/us/pl/113/128/s474/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F4
-[/us/pl/113/128/s474/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs474%2F5
+[/us/pl/102/569]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 
 

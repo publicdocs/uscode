@@ -53,17 +53,17 @@
 
         Beginning in fiscal year 1999, the Commissioner shall include in each annual report to the Congress under [section 710 of this title][/us/usc/t29/s710] an analysis of program performance, including relative State performance, based on the standards and indicators.
 
-([Pub. L. 93–112, title I, § 106][/us/pl/93/112/s106], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1156][/us/stat/112/1156]; amended [Pub. L. 113–128, title IV, § 416][/us/pl/113/128/s416], July 22, 2014, [128 Stat. 1654][/us/stat/128/1654].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 106, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1156][/us/stat/112/1156]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 416, July 22, 2014, [128 Stat. 1654][/us/stat/128/1654].)
 
  __Prior Provisions__ 
 
-    A prior section 726, [Pub. L. 93–112, title I, § 106][/us/pl/93/112/s106], as added [Pub. L. 102–569, title I, § 127(a)][/us/pl/102/569/s127/a], Oct. 29, 1992, [106 Stat. 4385][/us/stat/106/4385], related to evaluation standards and performance indicators, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 726, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 106, as added [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 127(a), Oct. 29, 1992, [106 Stat. 4385][/us/stat/106/4385], related to evaluation standards and performance indicators, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a). [Pub. L. 113–128, § 416(1)][/us/pl/113/128/s416/1], added subsec. (a) and struck out former subsec. (a) which provided for the establishment, review, and revision of evaluation standards and performance indicators.
+    2014—Subsec. (a). [Pub. L. 113–128][/us/pl/113/128], § 416(1), added subsec. (a) and struck out former subsec. (a) which provided for the establishment, review, and revision of evaluation standards and performance indicators.
 
-    Subsec. (b)(2)(B)(i). [Pub. L. 113–128, § 416(2)][/us/pl/113/128/s416/2], substituted “on a biannual basis, review the program improvement efforts of the State and, if the State has not improved its performance to acceptable levels, as determined by the Commissioner, direct the State” for “review the program improvement efforts of the State on a biannual basis and, if necessary, request the State”.
+    Subsec. (b)(2)(B)(i). [Pub. L. 113–128][/us/pl/113/128], § 416(2), substituted “on a biannual basis, review the program improvement efforts of the State and, if the State has not improved its performance to acceptable levels, as determined by the Commissioner, direct the State” for “review the program improvement efforts of the State on a biannual basis and, if necessary, request the State”.
 
  __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
@@ -80,17 +80,17 @@
 [/us/usc/t29/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721
 [/us/usc/t29/s727]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs727
 [/us/usc/t29/s710]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs710
-[/us/pl/93/112/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs106
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1156]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1156
-[/us/pl/113/128/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs416
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1654
-[/us/pl/93/112/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs106
-[/us/pl/102/569/s127/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs127%2Fa
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4385
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s416/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs416%2F1
-[/us/pl/113/128/s416/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs416%2F2
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102

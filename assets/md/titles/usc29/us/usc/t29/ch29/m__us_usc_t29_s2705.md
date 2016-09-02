@@ -43,7 +43,7 @@
 
         The information and materials developed under this section shall be distributed through an appropriate entity designated by the Secretary of Commerce to the Regional Centers for the Transfer of Manufacturing Technology, to the Manufacturing Outreach Center, to other technology training entities, and directly to others as determined appropriate by the Secretary of Labor and the Secretary of Commerce.
 
-([Pub. L. 103–382, title V, § 546][/us/pl/103/382/s546], Oct. 20, 1994, [108 Stat. 4055][/us/stat/108/4055].)
+([Pub. L. 103–382, title V][/us/pl/103/382/tV], § 546, Oct. 20, 1994, [108 Stat. 4055][/us/stat/108/4055].)
 
 ----------
 
@@ -52,7 +52,7 @@
 ----------
 ----------
 
-[/us/pl/103/382/s546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2Fs546
+[/us/pl/103/382/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F382%2FtV
 [/us/stat/108/4055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F4055
 
 

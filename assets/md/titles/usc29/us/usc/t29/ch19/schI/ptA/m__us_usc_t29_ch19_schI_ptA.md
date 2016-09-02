@@ -11,99 +11,16 @@
 ----------
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schI/m__us_usc_t29_ch19_schI.md) | [Next](./../../../../../..//us/usc/t29/ch19/schI/ptB/m__us_usc_t29_ch19_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschI%2FptA)
+[Previous](./../../../../../..//us/usc/t29/ch19/schI/m__us_usc_t29_ch19_schI.md) | [Next](./../../../../../..//us/usc/t29/ch19/schI/ptA/m__us_usc_t29_s1511...1519.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschI%2FptA)
 
 #### Part A—Service Delivery System
 
-§§ 1511 to 1519. __Repealed.__  __[__  __Pub. L. 105–220, title I, § 199(b)(2)__  __][/us/pl/105/220/s199/b/2]__  __,__  __Aug. 7, 1998__  __,__  __[__  __112 Stat. 1059__  __][/us/stat/112/1059]__ 
-
-    Section 1511, [Pub. L. 97–300, title I, § 101][/us/pl/97/300/s101], Oct. 13, 1982, [96 Stat. 1327][/us/stat/96/1327]; [Pub. L. 99–496, § 2][/us/pl/99/496/s2], Oct. 16, 1986, [100 Stat. 1261][/us/stat/100/1261]; [Pub. L. 102–367, title I, § 111][/us/pl/102/367/s111], Sept. 7, 1992, [106 Stat. 1026][/us/stat/106/1026], related to establishment of service delivery areas.
-
-    Section 1512, [Pub. L. 97–300, title I, § 102][/us/pl/97/300/s102], Oct. 13, 1982, [96 Stat. 1328][/us/stat/96/1328]; [Pub. L. 102–367, title I, § 112][/us/pl/102/367/s112], Sept. 7, 1992, [106 Stat. 1026][/us/stat/106/1026], related to private industry councils.
-
-    Section 1513, [Pub. L. 97–300, title I, § 103][/us/pl/97/300/s103], Oct. 13, 1982, [96 Stat. 1330][/us/stat/96/1330]; [Pub. L. 97–404, § 1(a)][/us/pl/97/404/s1/a], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026], related to functions of private industry councils.
-
-    Section 1514, [Pub. L. 97–300, title I, § 104][/us/pl/97/300/s104], Oct. 13, 1982, [96 Stat. 1331][/us/stat/96/1331]; [Pub. L. 100–628, title VII, § 714(a)][/us/pl/100/628/s714/a], Nov. 7, 1988, [102 Stat. 3255][/us/stat/102/3255]; [Pub. L. 102–235, § 4][/us/pl/102/235/s4], Dec. 12, 1991, [105 Stat. 1807][/us/stat/105/1807]; [Pub. L. 102–367, title I, § 113][/us/pl/102/367/s113], Sept. 7, 1992, [106 Stat. 1027][/us/stat/106/1027], related to job training plan.
-
-    Section 1515, [Pub. L. 97–300, title I, § 105][/us/pl/97/300/s105], Oct. 13, 1982, [96 Stat. 1332][/us/stat/96/1332]; [Pub. L. 102–367, title I, § 114][/us/pl/102/367/s114], Sept. 7, 1992, [106 Stat. 1030][/us/stat/106/1030], related to review and approval of plan.
-
-    Section 1516, [Pub. L. 97–300, title I, § 106][/us/pl/97/300/s106], Oct. 13, 1982, [96 Stat. 1333][/us/stat/96/1333]; [Pub. L. 97–404, § 1(b)][/us/pl/97/404/s1/b], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 99–496, § 15(b)][/us/pl/99/496/s15/b], Oct. 16, 1986, [100 Stat. 1266][/us/stat/100/1266]; [Pub. L. 100–418, title VI, § 6304(a)][/us/pl/100/418/s6304/a], Aug. 23, 1988, [102 Stat. 1538][/us/stat/102/1538]; [Pub. L. 100–628, title VII][/us/pl/100/628], §§ 713(b), 714(b), Nov. 7, 1988, [102 Stat. 3255][/us/stat/102/3255], 3256; [Pub. L. 102–367, title I, § 115(a)][/us/pl/102/367/s115/a], Sept. 7, 1992, [106 Stat. 1030][/us/stat/106/1030]; [Pub. L. 104–193, title I, § 110(n)(2)][/us/pl/104/193/s110/n/2], Aug. 22, 1996, [110 Stat. 2174][/us/stat/110/2174], related to performance standards.
-
-    Section 1517, [Pub. L. 97–300, title I, § 107][/us/pl/97/300/s107], Oct. 13, 1982, [96 Stat. 1335][/us/stat/96/1335]; [Pub. L. 102–367, title I, § 116][/us/pl/102/367/s116], Sept. 7, 1992, [106 Stat. 1034][/us/stat/106/1034], related to selection of service providers.
-
-    Section 1518, [Pub. L. 97–300, title I, § 108][/us/pl/97/300/s108], Oct. 13, 1982, [96 Stat. 1336][/us/stat/96/1336]; [Pub. L. 97–404, § 1(c)][/us/pl/97/404/s1/c], Dec. 31, 1982, [96 Stat. 2026][/us/stat/96/2026]; [Pub. L. 99–496, § 15(c)][/us/pl/99/496/s15/c], Oct. 16, 1986, [100 Stat. 1266][/us/stat/100/1266]; [Pub. L. 102–367, title I, § 117][/us/pl/102/367/s117], Sept. 7, 1992, [106 Stat. 1035][/us/stat/106/1035], related to limitation on certain costs.
-
-    Section 1519, [Pub. L. 97–300, title I, § 109][/us/pl/97/300/s109], as added [Pub. L. 102–367, title I, § 118][/us/pl/102/367/s118], Sept. 7, 1992, [106 Stat. 1036][/us/stat/106/1036], related to recapture and reallotment of unobligated funds.
-
- __Effective Date of Repeal__ 
-
-    Repeal effective July 1, 2000, see [section 199(c)(2)(B) of Pub. L. 105–220][/us/pl/105/220/s199/c/2/B], set out as a note under [section 1501 of this title][/us/usc/t29/s1501].
-
 ----------
 
-[Previous](./../../../../../..//us/usc/t29/ch19/schI/m__us_usc_t29_ch19_schI.md) | [Next](./../../../../../..//us/usc/t29/ch19/schI/ptB/m__us_usc_t29_ch19_schI_ptB.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschI%2FptA)
+[Previous](./../../../../../..//us/usc/t29/ch19/schI/m__us_usc_t29_ch19_schI.md) | [Next](./../../../../../..//us/usc/t29/ch19/schI/ptA/m__us_usc_t29_s1511...1519.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fch19%2FschI%2FptA)
 
 ----------
 ----------
 
-[/us/pl/105/220/s199/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fb%2F2
-[/us/stat/112/1059]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1059
-[/us/pl/97/300/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs101
-[/us/stat/96/1327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1327
-[/us/pl/99/496/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F496%2Fs2
-[/us/stat/100/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1261
-[/us/pl/102/367/s111]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs111
-[/us/stat/106/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1026
-[/us/pl/97/300/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs102
-[/us/stat/96/1328]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1328
-[/us/pl/102/367/s112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs112
-[/us/stat/106/1026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1026
-[/us/pl/97/300/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs103
-[/us/stat/96/1330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1330
-[/us/pl/97/404/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F404%2Fs1%2Fa
-[/us/stat/96/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2026
-[/us/pl/97/300/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs104
-[/us/stat/96/1331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1331
-[/us/pl/100/628/s714/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628%2Fs714%2Fa
-[/us/stat/102/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3255
-[/us/pl/102/235/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F235%2Fs4
-[/us/stat/105/1807]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F1807
-[/us/pl/102/367/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs113
-[/us/stat/106/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1027
-[/us/pl/97/300/s105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs105
-[/us/stat/96/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1332
-[/us/pl/102/367/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs114
-[/us/stat/106/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1030
-[/us/pl/97/300/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs106
-[/us/stat/96/1333]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1333
-[/us/pl/97/404/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F404%2Fs1%2Fb
-[/us/stat/96/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2026
-[/us/pl/99/496/s15/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F496%2Fs15%2Fb
-[/us/stat/100/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1266
-[/us/pl/100/418/s6304/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F418%2Fs6304%2Fa
-[/us/stat/102/1538]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1538
-[/us/pl/100/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F628
-[/us/stat/102/3255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3255
-[/us/pl/102/367/s115/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs115%2Fa
-[/us/stat/106/1030]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1030
-[/us/pl/104/193/s110/n/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs110%2Fn%2F2
-[/us/stat/110/2174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2174
-[/us/pl/97/300/s107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs107
-[/us/stat/96/1335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1335
-[/us/pl/102/367/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs116
-[/us/stat/106/1034]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1034
-[/us/pl/97/300/s108]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs108
-[/us/stat/96/1336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F1336
-[/us/pl/97/404/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F404%2Fs1%2Fc
-[/us/stat/96/2026]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2026
-[/us/pl/99/496/s15/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F496%2Fs15%2Fc
-[/us/stat/100/1266]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1266
-[/us/pl/102/367/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs117
-[/us/stat/106/1035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1035
-[/us/pl/97/300/s109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F300%2Fs109
-[/us/pl/102/367/s118]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F367%2Fs118
-[/us/stat/106/1036]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1036
-[/us/pl/105/220/s199/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs199%2Fc%2F2%2FB
-[/us/usc/t29/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1501
 
 

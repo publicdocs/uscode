@@ -25,7 +25,7 @@
 
     (b) It is declared to be the policy of the Congress in order to meet the existing emergency and to correct existing evils (1) to relieve and protect interstate commerce from practices which burden and obstruct it; (2) to protect the right of collective bargaining; and (3) to define and limit the jurisdiction of the courts.
 
-([May 14, 1947, ch. 52, § 1][/us/act/1947-05-14/ch52/s1], [61 Stat. 84][/us/stat/61/84].)
+([May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 1, [61 Stat. 84][/us/stat/61/84].)
 
  __References in Text__ 
 
@@ -43,13 +43,13 @@
 
  __Short Title__ 
 
-[Act May 14, 1947, ch. 52, § 15][/us/act/1947-05-14/ch52/s15], [61 Stat. 90][/us/stat/61/90], provided that: 
+[Act May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 15, [61 Stat. 90][/us/stat/61/90], provided that: 
 
 > “This Act \[enacting this chapter and amending [section 216 of this title][/us/usc/t29/s216]\] may be cited as the ‘Portal-to-Portal Act of 1947’.”
 
  __Separability__ 
 
-[Act May 14, 1947, ch. 52, § 14][/us/act/1947-05-14/ch52/s14], [61 Stat. 90][/us/stat/61/90], provided: 
+[Act May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 14, [61 Stat. 90][/us/stat/61/90], provided: 
 
 > “If any provision of this Act \[see Short Title note above\] or the application of such provision to any person or circumstance is held invalid, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
 
@@ -61,7 +61,7 @@
 ----------
 
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/act/1947-05-14/ch52/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs1
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F84
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060
@@ -74,10 +74,10 @@
 [/us/stat/110/1928]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1928
 [/us/usc/t29/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs254
 [/us/usc/t29/s254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs254
-[/us/act/1947-05-14/ch52/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs15
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F90
 [/us/usc/t29/s216]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs216
-[/us/act/1947-05-14/ch52/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs14
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F90
 
 

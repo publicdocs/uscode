@@ -31,7 +31,7 @@
 
     (b) For the purposes of subsection (a)(1) proof that any employee was employed in any place of employment where goods shipped or sold in commerce were produced, within ninety days prior to the removal of the goods from such place of employment, shall be prima facie evidence that such employee was engaged in the production of such goods.
 
-([June 25, 1938, ch. 676, § 15][/us/act/1938-06-25/ch676/s15], [52 Stat. 1068][/us/stat/52/1068]; [Oct. 26, 1949, ch. 736, § 13][/us/act/1949-10-26/ch736/s13], [63 Stat. 919][/us/stat/63/919]; 1950 Reorg. Plan No. 6, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263].)
+([June 25, 1938, ch. 676][/us/act/1938-06-25/ch676], § 15, [52 Stat. 1068][/us/stat/52/1068]; [Oct. 26, 1949, ch. 736][/us/act/1949-10-26/ch736], § 13, [63 Stat. 919][/us/stat/63/919]; 1950 Reorg. Plan No. 6, §§ 1, 2, eff. May 24, 1950, 15 F.R. 3174, [64 Stat. 1263][/us/stat/64/1263].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Liability of Public Agency for Discrimination Against Employee for Assertion of Coverage__ 
 
-[Pub. L. 99–150, § 8][/us/pl/99/150/s8], Nov. 13, 1985, [99 Stat. 791][/us/stat/99/791], provided that: 
+[Pub. L. 99–150][/us/pl/99/150], § 8, Nov. 13, 1985, [99 Stat. 791][/us/stat/99/791], provided that: 
 
 > “A public agency which is a State, political subdivision of a State, or an interstate governmental agency and which discriminates or has discriminated against an employee with respect to the employee’s wages or other terms or conditions of employment because on or after February 19, 1985, the employee asserted coverage under section 7 of the Fair Labor Standards Act of 1938 \[[29 U.S.C. 207][/us/usc/t29/s207]\] shall be held to have violated section 15(a)(3) of such Act \[[29 U.S.C. 215(a)(3)][/us/usc/t29/s215/a/3]\]. The protection against discrimination afforded by the preceding sentence shall be available after August 1, 1986, only for an employee who takes an action described in section 15(a)(3) of such Act.”
 
@@ -67,15 +67,15 @@
 [/us/usc/t29/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs212
 [/us/usc/t29/s211/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs211%2Fc
 [/us/usc/t29/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs211%2Fd
-[/us/act/1938-06-25/ch676/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676%2Fs15
+[/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1068]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1068
-[/us/act/1949-10-26/ch736/s13]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736%2Fs13
+[/us/act/1949-10-26/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-10-26%2Fch736
 [/us/stat/63/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F919
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 [/us/usc/t29/s211/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs211%2Fd
 [/us/usc/t29/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs202
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
-[/us/pl/99/150/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150%2Fs8
+[/us/pl/99/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F150
 [/us/stat/99/791]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F791
 [/us/usc/t29/s207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs207
 [/us/usc/t29/s215/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs215%2Fa%2F3

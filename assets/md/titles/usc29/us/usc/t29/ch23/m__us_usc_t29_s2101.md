@@ -69,17 +69,17 @@
 
             (B) the employer offers to transfer the employee to any other site of employment regardless of distance with no more than a 6-month break in employment, and the employee accepts within 30 days of the offer or of the closing or layoff, whichever is later.
 
-([Pub. L. 100–379, § 2][/us/pl/100/379/s2], Aug. 4, 1988, [102 Stat. 890][/us/stat/102/890].)
+([Pub. L. 100–379][/us/pl/100/379], § 2, Aug. 4, 1988, [102 Stat. 890][/us/stat/102/890].)
 
  __Effective Date__ 
 
-[Pub. L. 100–379, § 11][/us/pl/100/379/s11], Aug. 4, 1988, [102 Stat. 895][/us/stat/102/895], provided that: 
+[Pub. L. 100–379][/us/pl/100/379], § 11, Aug. 4, 1988, [102 Stat. 895][/us/stat/102/895], provided that: 
 
 > “This Act \[enacting this chapter\] shall take effect on the date which is 6 months after the date of enactment of this Act \[Aug. 4, 1988\], except that the authority of the Secretary of Labor under section 8 \[[section 2107 of this title][/us/usc/t29/s2107]\] is effective upon enactment.”
 
  __Short Title__ 
 
-[Pub. L. 100–379, § 1(a)][/us/pl/100/379/s1/a], Aug. 4, 1988, [102 Stat. 890][/us/stat/102/890], provided that: 
+[Pub. L. 100–379][/us/pl/100/379], § 1(a), Aug. 4, 1988, [102 Stat. 890][/us/stat/102/890], provided that: 
 
 > “This Act \[enacting this chapter\] may be cited as the ‘Worker Adjustment and Retraining Notification Act’.”
 
@@ -93,12 +93,12 @@
 [/us/usc/t45/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft45%2Fs152
 [/us/usc/t29/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2102
 [/us/usc/t29/s2102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2102
-[/us/pl/100/379/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379%2Fs2
+[/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F890
-[/us/pl/100/379/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379%2Fs11
+[/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/895]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F895
 [/us/usc/t29/s2107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2107
-[/us/pl/100/379/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379%2Fs1%2Fa
+[/us/pl/100/379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F379
 [/us/stat/102/890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F890
 
 

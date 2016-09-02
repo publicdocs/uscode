@@ -35,13 +35,13 @@
 
         The National Council may use, with the consent of the agencies represented on the Interagency Disability Coordinating Council, and as authorized in subchapter V, such services, personnel, information, and facilities as may be needed to carry out its duties under this subchapter, with or without reimbursement to such agencies.
 
-([Pub. L. 93–112, title IV, § 404][/us/pl/93/112/s404], as added [Pub. L. 105–220, title IV, § 407][/us/pl/105/220/s407], Aug. 7, 1998, [112 Stat. 1201][/us/stat/112/1201].)
+([Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 404, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 407, Aug. 7, 1998, [112 Stat. 1201][/us/stat/112/1201].)
 
  __Prior Provisions__ 
 
-    A prior section 784, [Pub. L. 93–112, title IV, § 404][/us/pl/93/112/s404], as added [Pub. L. 95–602, title I, § 117][/us/pl/95/602/s117], Nov. 6, 1978, [92 Stat. 2979][/us/stat/92/2979]; amended [Pub. L. 102–569, title IV, § 405][/us/pl/102/569/s405], Oct. 29, 1992, [106 Stat. 4423][/us/stat/106/4423], related to administrative powers of National Council, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 784, [Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 404, as added [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 117, Nov. 6, 1978, [92 Stat. 2979][/us/stat/92/2979]; amended [Pub. L. 102–569, title IV][/us/pl/102/569/tIV], § 405, Oct. 29, 1992, [106 Stat. 4423][/us/stat/106/4423], related to administrative powers of National Council, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
-    Another prior section 784, [Pub. L. 93–112, title IV, § 404][/us/pl/93/112/s404], Sept. 26, 1973, [87 Stat. 387][/us/stat/87/387], directed Secretary to submit annual reports to the President and to Congress on activities carried out under this chapter, prior to repeal by [Pub. L. 95–602, § 117][/us/pl/95/602/s117].
+    Another prior section 784, [Pub. L. 93–112, title IV][/us/pl/93/112/tIV], § 404, Sept. 26, 1973, [87 Stat. 387][/us/stat/87/387], directed Secretary to submit annual reports to the President and to Congress on activities carried out under this chapter, prior to repeal by [Pub. L. 95–602][/us/pl/95/602], § 117.
 
  __Termination of Advisory Committees__ 
 
@@ -54,18 +54,18 @@
 ----------
 ----------
 
-[/us/pl/93/112/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs404
-[/us/pl/105/220/s407]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs407
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1201
-[/us/pl/93/112/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs404
-[/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2979]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2979
-[/us/pl/102/569/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs405
+[/us/pl/102/569/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtIV
 [/us/stat/106/4423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4423
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/93/112/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs404
+[/us/pl/93/112/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtIV
 [/us/stat/87/387]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F387
-[/us/pl/95/602/s117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs117
+[/us/pl/95/602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602
 [/us/pl/92/463/s14]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463%2Fs14
 [/us/stat/86/776]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F776
 

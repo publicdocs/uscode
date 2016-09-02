@@ -27,7 +27,7 @@
 
         A State may enter into an agreement with the Secretary for delegation to the State of some or all of the Secretary’s authority under sections 1132 and 1134 of this title to enforce the requirements under part 7 in connection with multiple employer welfare arrangements, providing medical care (within the meaning of [section 1191b(a)(2) of this title][/us/usc/t29/s1191b/a/2]), which are not group health plans.
 
-([Pub. L. 93–406, title I, § 506][/us/pl/93/406/s506], Sept. 2, 1974, [88 Stat. 894][/us/stat/88/894]; [Pub. L. 98–473, title II, § 805][/us/pl/98/473/s805], Oct. 12, 1984, [98 Stat. 2134][/us/stat/98/2134]; [Pub. L. 104–191, title I, § 101(e)(3)][/us/pl/104/191/s101/e/3], Aug. 21, 1996, [110 Stat. 1953][/us/stat/110/1953]; [Pub. L. 104–204, title VI, § 603(b)(3)(F)][/us/pl/104/204/s603/b/3/F], Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938].)
+([Pub. L. 93–406, title I][/us/pl/93/406/tI], § 506, Sept. 2, 1974, [88 Stat. 894][/us/stat/88/894]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 805, Oct. 12, 1984, [98 Stat. 2134][/us/stat/98/2134]; [Pub. L. 104–191, title I][/us/pl/104/191/tI], § 101(e)(3), Aug. 21, 1996, [110 Stat. 1953][/us/stat/110/1953]; [Pub. L. 104–204, title VI][/us/pl/104/204/tVI], § 603(b)(3)(F), Sept. 26, 1996, [110 Stat. 2938][/us/stat/110/2938].)
 
  __Amendments__ 
 
@@ -49,7 +49,7 @@
 
  __Relation of Subtitle E of Title II of__  __[__  __Pub. L. 104–191__  __][/us/pl/104/191]__  __to ERISA Authority__ 
 
-[Pub. L. 104–191, title II, § 250][/us/pl/104/191/s250], Aug. 21, 1996, [110 Stat. 2021][/us/stat/110/2021], provided that: 
+[Pub. L. 104–191, title II][/us/pl/104/191/tII], § 250, Aug. 21, 1996, [110 Stat. 2021][/us/stat/110/2021], provided that: 
 
 > “Nothing in this subtitle \[subtitle E (§§ 241–250) of title II of [Pub. L. 104–191][/us/pl/104/191], enacting sections 24, 669, 1035, 1347, 1518, and 3486 of Title 18, Crimes and Criminal Procedure, amending sections 982, 1345, 1510, and 1956 of Title 18, and enacting provisions set out as notes under [section 1395i of Title 42][/us/usc/t42/s1395i], The Public Health and Welfare\] shall be construed as affecting the authority of the Secretary of Labor under section 506(b) of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1136(b)][/us/usc/t29/s1136/b]\], including the Secretary’s authority with respect to violations of title 18, United States Code (as amended by this subtitle).”
 
@@ -61,13 +61,13 @@
 ----------
 
 [/us/usc/t29/s1191b/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b%2Fa%2F2
-[/us/pl/93/406/s506]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs506
+[/us/pl/93/406/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtI
 [/us/stat/88/894]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F894
-[/us/pl/98/473/s805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs805
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2134]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2134
-[/us/pl/104/191/s101/e/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs101%2Fe%2F3
+[/us/pl/104/191/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtI
 [/us/stat/110/1953]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F1953
-[/us/pl/104/204/s603/b/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2Fs603%2Fb%2F3%2FF
+[/us/pl/104/204/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204%2FtVI
 [/us/stat/110/2938]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2938
 [/us/pl/104/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F204
 [/us/usc/t29/s1191b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1191b
@@ -81,7 +81,7 @@
 [/us/usc/t29/s1181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1181
 [/us/usc/t29/s1031]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1031
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
-[/us/pl/104/191/s250]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2Fs250
+[/us/pl/104/191/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191%2FtII
 [/us/stat/110/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2021
 [/us/pl/104/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F191
 [/us/usc/t42/s1395i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395i

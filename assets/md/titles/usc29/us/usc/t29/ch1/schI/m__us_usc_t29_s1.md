@@ -17,7 +17,7 @@
 
     The general design and duties of the Bureau of Labor Statistics shall be to acquire and diffuse among the people of the United States useful information on subjects connected with labor, in the most general and comprehensive sense of that word, and especially upon its relation to capital, the hours of labor, the earnings of laboring men and women, and the means of promoting their material, social, intellectual, and moral prosperity.
 
-([June 13, 1888, ch. 389, § 1][/us/act/1888-06-13/ch389/s1], [25 Stat. 182][/us/stat/25/182]; [Feb. 14, 1903, ch. 552, § 4][/us/act/1903-02-14/ch552/s4], [32 Stat. 826][/us/stat/32/826]; [Mar. 18, 1904, ch. 716][/us/act/1904-03-18/ch716], [33 Stat. 136][/us/stat/33/136]; [Mar. 4, 1913, ch. 141, § 3][/us/act/1913-03-04/ch141/s3], [37 Stat. 737][/us/stat/37/737].)
+([June 13, 1888, ch. 389][/us/act/1888-06-13/ch389], § 1, [25 Stat. 182][/us/stat/25/182]; [Feb. 14, 1903, ch. 552][/us/act/1903-02-14/ch552], § 4, [32 Stat. 826][/us/stat/32/826]; [Mar. 18, 1904, ch. 716][/us/act/1904-03-18/ch716], [33 Stat. 136][/us/stat/33/136]; [Mar. 4, 1913, ch. 141][/us/act/1913-03-04/ch141], § 3, [37 Stat. 737][/us/stat/37/737].)
 
  __Codification__ 
 
@@ -42,13 +42,13 @@
 ----------
 ----------
 
-[/us/act/1888-06-13/ch389/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389%2Fs1
+[/us/act/1888-06-13/ch389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1888-06-13%2Fch389
 [/us/stat/25/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F182
-[/us/act/1903-02-14/ch552/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552%2Fs4
+[/us/act/1903-02-14/ch552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1903-02-14%2Fch552
 [/us/stat/32/826]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F32%2F826
 [/us/act/1904-03-18/ch716]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1904-03-18%2Fch716
 [/us/stat/33/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F33%2F136
-[/us/act/1913-03-04/ch141/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141%2Fs3
+[/us/act/1913-03-04/ch141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1913-03-04%2Fch141
 [/us/stat/37/737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F37%2F737
 [/us/stat/64/1263]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F1263
 

@@ -17,7 +17,7 @@
 
      Beginning in fiscal year 2001, there is established in the Department of Labor an office of disability employment policy which shall, under the overall direction of the Secretary, provide leadership, develop policy and initiatives, and award grants furthering the objective of eliminating barriers to the training and employment of people with disabilities. Such office shall be headed by an Assistant Secretary.
 
-([Pub. L. 106–554, § 1(a)(1)][/us/pl/106/554/s1/a/1] \[title I\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–10.)
+([Pub. L. 106–554][/us/pl/106/554], § 1(a)(1) \[title I\], Dec. 21, 2000, [114 Stat. 2763][/us/stat/114/2763], 2763A–10.)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/106/554/s1/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554%2Fs1%2Fa%2F1
+[/us/pl/106/554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F554
 [/us/stat/114/2763]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2763
 
 

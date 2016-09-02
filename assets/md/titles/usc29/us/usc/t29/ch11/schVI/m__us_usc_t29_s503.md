@@ -27,7 +27,7 @@
 
         Any person who willfully violates this section shall be fined not more than $5,000 or imprisoned for not more than one year, or both.
 
-([Pub. L. 86–257, title V, § 503][/us/pl/86/257/s503], Sept. 14, 1959, [73 Stat. 536][/us/stat/73/536].)
+([Pub. L. 86–257, title V][/us/pl/86/257/tV], § 503, Sept. 14, 1959, [73 Stat. 536][/us/stat/73/536].)
 
 ----------
 
@@ -36,7 +36,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs503
+[/us/pl/86/257/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtV
 [/us/stat/73/536]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F536
 
 

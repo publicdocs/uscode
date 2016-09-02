@@ -69,7 +69,7 @@
 
             In the case of fraud or concealment, the period described in paragraph (1)(B) shall be extended to 6 years after the applicable date specified in paragraph (2).
 
-([Pub. L. 93–406, title IV, § 4070][/us/pl/93/406/s4070], as added [Pub. L. 99–272, title XI, § 11014(a)][/us/pl/99/272/s11014/a], Apr. 7, 1986, [100 Stat. 261][/us/stat/100/261]; amended [Pub. L. 101–239, title VII, § 7881(f)(8)][/us/pl/101/239/s7881/f/8], Dec. 19, 1989, [103 Stat. 2440][/us/stat/103/2440].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4070, as added [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11014(a), Apr. 7, 1986, [100 Stat. 261][/us/stat/100/261]; amended [Pub. L. 101–239, title VII][/us/pl/101/239/tVII], § 7881(f)(8), Dec. 19, 1989, [103 Stat. 2440][/us/stat/103/2440].)
 
  __Amendments__ 
 
@@ -90,10 +90,10 @@
 ----------
 ----------
 
-[/us/pl/93/406/s4070]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4070
-[/us/pl/99/272/s11014/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11014%2Fa
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F261
-[/us/pl/101/239/s7881/f/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2Fs7881%2Ff%2F8
+[/us/pl/101/239/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239%2FtVII
 [/us/stat/103/2440]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F2440
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239
 [/us/pl/101/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F239

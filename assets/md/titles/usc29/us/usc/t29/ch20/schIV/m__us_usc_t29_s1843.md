@@ -17,7 +17,7 @@
 
     Each farm labor contractor, without regard to any other provisions of this chapter, shall obtain at each place of employment and make available for inspection to every worker he furnishes for employment, a written statement of the conditions of such employment as described in sections 1821(b) and 1831(b) of this title.
 
-([Pub. L. 97–470, title IV, § 403][/us/pl/97/470/s403], Jan. 14, 1983, [96 Stat. 2595][/us/stat/96/2595].)
+([Pub. L. 97–470, title IV][/us/pl/97/470/tIV], § 403, Jan. 14, 1983, [96 Stat. 2595][/us/stat/96/2595].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/97/470/s403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs403
+[/us/pl/97/470/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtIV
 [/us/stat/96/2595]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2595
 
 

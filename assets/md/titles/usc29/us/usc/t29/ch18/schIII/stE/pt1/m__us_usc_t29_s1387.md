@@ -19,7 +19,7 @@
 
     (b) The corporation shall prescribe by regulation a procedure and standards for the amendment of plans to provide alternative rules for the reduction or waiver of liability for a complete withdrawal in the event that an employer who has withdrawn from the plan subsequently resumes covered operations or renews an obligation to contribute under the plan. The rules may apply only to the extent that the rules are consistent with the purposes of this chapter.
 
-([Pub. L. 93–406, title IV, § 4207][/us/pl/93/406/s4207], as added [Pub. L. 96–364, title I, § 104(2)][/us/pl/96/364/s104/2], Sept. 26, 1980, [94 Stat. 1223][/us/stat/94/1223].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4207, as added [Pub. L. 96–364, title I][/us/pl/96/364/tI], § 104(2), Sept. 26, 1980, [94 Stat. 1223][/us/stat/94/1223].)
 
  __References in Text__ 
 
@@ -32,8 +32,8 @@
 ----------
 ----------
 
-[/us/pl/93/406/s4207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4207
-[/us/pl/96/364/s104/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs104%2F2
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
+[/us/pl/96/364/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtI
 [/us/stat/94/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1223
 [/us/pl/93/406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406
 [/us/usc/t29/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1001

@@ -55,7 +55,7 @@
 
         Compliance with the restrictions contained in subsection (c)(5)(B) upon contributions to trust funds, otherwise lawful, shall not be applicable to contributions to such trust funds established by collective agreement prior to January 1, 1946, nor shall subsection (c)(5)(A) be construed as prohibiting contributions to such trust funds if prior to January 1, 1947, such funds contained provisions for pooled vacation benefits.
 
-([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title III, § 302, [61 Stat. 157][/us/stat/61/157]; [Pub. L. 86–257, title V, § 505][/us/pl/86/257/s505], Sept. 14, 1959, [73 Stat. 537][/us/stat/73/537]; [Pub. L. 91–86][/us/pl/91/86], Oct. 14, 1969, [83 Stat. 133][/us/stat/83/133]; [Pub. L. 93–95][/us/pl/93/95], Aug. 15, 1973, [87 Stat. 314][/us/stat/87/314]; [Pub. L. 95–524, § 6(d)][/us/pl/95/524/s6/d], Oct. 27, 1978, [92 Stat. 2021][/us/stat/92/2021]; [Pub. L. 98–473, title II, § 801][/us/pl/98/473/s801], Oct. 12, 1984, [98 Stat. 2131][/us/stat/98/2131]; [Pub. L. 101–273, § 1][/us/pl/101/273/s1], Apr. 18, 1990, [104 Stat. 138][/us/stat/104/138]; [Pub. L. 104–88, title III, § 337][/us/pl/104/88/s337], Dec. 29, 1995, [109 Stat. 954][/us/stat/109/954].)
+([June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title III, § 302, [61 Stat. 157][/us/stat/61/157]; [Pub. L. 86–257, title V][/us/pl/86/257/tV], § 505, Sept. 14, 1959, [73 Stat. 537][/us/stat/73/537]; [Pub. L. 91–86][/us/pl/91/86], Oct. 14, 1969, [83 Stat. 133][/us/stat/83/133]; [Pub. L. 93–95][/us/pl/93/95], Aug. 15, 1973, [87 Stat. 314][/us/stat/87/314]; [Pub. L. 95–524][/us/pl/95/524], § 6(d), Oct. 27, 1978, [92 Stat. 2021][/us/stat/92/2021]; [Pub. L. 98–473, title II][/us/pl/98/473/tII], § 801, Oct. 12, 1984, [98 Stat. 2131][/us/stat/98/2131]; [Pub. L. 101–273][/us/pl/101/273], § 1, Apr. 18, 1990, [104 Stat. 138][/us/stat/104/138]; [Pub. L. 104–88, title III][/us/pl/104/88/tIII], § 337, Dec. 29, 1995, [109 Stat. 954][/us/stat/109/954].)
 
  __References in Text__ 
 
@@ -89,7 +89,7 @@
 
  __Effective Date of 1995 Amendment__ 
 
-    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 701 of Title 49][/us/usc/t49/s701], Transportation.
+    Amendment by [Pub. L. 104–88][/us/pl/104/88] effective Jan. 1, 1996, see [section 2 of Pub. L. 104–88][/us/pl/104/88/s2], set out as an Effective Date note under [section 1301 of Title 49][/us/usc/t49/s1301], Transportation.
 
  __Applicability to Collective Bargaining Agreements__ 
 
@@ -109,19 +109,19 @@
 [/us/usc/t29/s52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs52
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/157]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F157
-[/us/pl/86/257/s505]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs505
+[/us/pl/86/257/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtV
 [/us/stat/73/537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F537
 [/us/pl/91/86]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F86
 [/us/stat/83/133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F83%2F133
 [/us/pl/93/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F95
 [/us/stat/87/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F314
-[/us/pl/95/524/s6/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs6%2Fd
+[/us/pl/95/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524
 [/us/stat/92/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2021
-[/us/pl/98/473/s801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2Fs801
+[/us/pl/98/473/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473%2FtII
 [/us/stat/98/2131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F2131
-[/us/pl/101/273/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F273%2Fs1
+[/us/pl/101/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F273
 [/us/stat/104/138]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F138
-[/us/pl/104/88/s337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs337
+[/us/pl/104/88/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2FtIII
 [/us/stat/109/954]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F954
 [/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/stat/73/519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F519
@@ -145,7 +145,7 @@
 [/us/pl/86/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257
 [/us/pl/104/88]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88
 [/us/pl/104/88/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F88%2Fs2
-[/us/usc/t49/s701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs701
+[/us/usc/t49/s1301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs1301
 [/us/pl/95/524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524
 [/us/pl/95/524/s6/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F524%2Fs6%2Fe
 [/us/usc/t29/s175a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs175a

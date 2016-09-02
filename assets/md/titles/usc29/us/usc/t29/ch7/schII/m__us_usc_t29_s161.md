@@ -25,7 +25,7 @@
 
         In case of contumacy or refusal to obey a subpena issued to any person, any district court of the United States or the United States courts of any Territory or possession, within the jurisdiction of which the inquiry is carried on or within the jurisdiction of which said person guilty of contumacy or refusal to obey is found or resides or transacts business, upon application by the Board shall have jurisdiction to issue to such person an order requiring such person to appear before the Board, its member, agent, or agency, there to produce evidence if so ordered, or there to give testimony touching the matter under investigation or in question; and any failure to obey such order of the court may be punished by said court as a contempt thereof.
 
-    (3) __Repealed.__  __[__  __Pub. L. 91–452, title II, § 234__  __][/us/pl/91/452/s234]__  __,__  __Oct. 15, 1970__  __,__  __[__  __84 Stat. 930__  __][/us/stat/84/930]__ 
+    (3) __Repealed.__  __[__  __Pub. L. 91–452, title II__  __][/us/pl/91/452/tII]__  __, § 234,__  __Oct. 15, 1970__  __,__  __[__  __84 Stat. 930__  __][/us/stat/84/930]__ 
 
     (4) __Process, service and return; fees of witnesses__ 
 
@@ -39,7 +39,7 @@
 
         The several departments and agencies of the Government, when directed by the President, shall furnish the Board, upon its request, all records, papers, and information in their possession relating to any matter before the Board.
 
-([July 5, 1935, ch. 372, § 11][/us/act/1935-07-05/ch372/s11], [49 Stat. 455][/us/stat/49/455]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 150][/us/stat/61/150]; [June 25, 1948, ch. 646, § 32(b)][/us/act/1948-06-25/ch646/s32/b], [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139, § 127][/us/act/1949-05-24/ch139/s127], [63 Stat. 107][/us/stat/63/107]; [Pub. L. 91–452, title II, § 234][/us/pl/91/452/s234], Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 86–507, § 1(57)][/us/pl/86/507/s1/57], June 11, 1960, as added [Pub. L. 96–245][/us/pl/96/245], May 21, 1980, [94 Stat. 347][/us/stat/94/347].)
+([July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], § 11, [49 Stat. 455][/us/stat/49/455]; [June 23, 1947, ch. 120][/us/act/1947-06-23/ch120], title I, § 101, [61 Stat. 150][/us/stat/61/150]; [June 25, 1948, ch. 646][/us/act/1948-06-25/ch646], § 32(b), [62 Stat. 991][/us/stat/62/991]; [May 24, 1949, ch. 139][/us/act/1949-05-24/ch139], § 127, [63 Stat. 107][/us/stat/63/107]; [Pub. L. 91–452, title II][/us/pl/91/452/tII], § 234, Oct. 15, 1970, [84 Stat. 930][/us/stat/84/930]; [Pub. L. 86–507][/us/pl/86/507], § 1(57), June 11, 1960, as added [Pub. L. 96–245][/us/pl/96/245], May 21, 1980, [94 Stat. 347][/us/stat/94/347].)
 
  __Codification__ 
 
@@ -68,19 +68,19 @@
 ----------
 ----------
 
-[/us/pl/91/452/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs234
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/act/1935-07-05/ch372/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372%2Fs11
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
 [/us/stat/49/455]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F455
 [/us/act/1947-06-23/ch120]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-06-23%2Fch120
 [/us/stat/61/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F150
-[/us/act/1948-06-25/ch646/s32/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646%2Fs32%2Fb
+[/us/act/1948-06-25/ch646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1948-06-25%2Fch646
 [/us/stat/62/991]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F62%2F991
-[/us/act/1949-05-24/ch139/s127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139%2Fs127
+[/us/act/1949-05-24/ch139]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1949-05-24%2Fch139
 [/us/stat/63/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F63%2F107
-[/us/pl/91/452/s234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2Fs234
+[/us/pl/91/452/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F452%2FtII
 [/us/stat/84/930]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F930
-[/us/pl/86/507/s1/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507%2Fs1%2F57
+[/us/pl/86/507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F507
 [/us/pl/96/245]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F245
 [/us/stat/94/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F347
 [/us/usc/t28/s132/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs132%2Fa

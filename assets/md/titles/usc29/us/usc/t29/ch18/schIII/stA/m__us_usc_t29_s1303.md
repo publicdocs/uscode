@@ -39,7 +39,7 @@
 
         (3) The district courts of the United States shall have jurisdiction of actions brought by the corporation under this subchapter without regard to the amount in controversy in any such action.
 
-        (4) Repealed. [Pub. L. 98–620, title IV, § 402(33)][/us/pl/98/620/s402/33], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].
+        (4) Repealed. [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(33), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360].
 
         (5) In any action brought under this subchapter, whether to collect premiums, penalties, and interest under [section 1307 of this title][/us/usc/t29/s1307] or for any other purpose, the court may award to the corporation all or a portion of the costs of litigation incurred by the corporation in connection with such action.
 
@@ -101,11 +101,11 @@
 
         (7) In any suit, action, or proceeding in which the corporation is a party, or intervenes under [section 1451 of this title][/us/usc/t29/s1451], in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States district court for the district or division in which such suit, action, or proceeding is pending by following any procedure for removal now or hereafter in effect.
 
-([Pub. L. 93–406, title IV, § 4003][/us/pl/93/406/s4003], Sept. 2, 1974, [88 Stat. 1006][/us/stat/88/1006]; [Pub. L. 96–364, title IV][/us/pl/96/364], §§ 402(a)(2), 403(k), Sept. 26, 1980, [94 Stat. 1297][/us/stat/94/1297], 1302; [Pub. L. 98–620, title IV, § 402(33)][/us/pl/98/620/s402/33], Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 99–272, title XI][/us/pl/99/272], §§ 11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, [100 Stat. 262][/us/stat/100/262], 264, 274; [Pub. L. 103–465, title VII][/us/pl/103/465], §§ 773(a), 776(b)(1), Dec. 8, 1994, [108 Stat. 5044][/us/stat/108/5044], 5048; [Pub. L. 109–280, title I, § 108(b)(2)][/us/pl/109/280/s108/b/2], formerly § 107(b)(2), title IV, § 411(a)(2), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 935, renumbered [Pub. L. 111–192, title II, § 202(a)][/us/pl/111/192/s202/a], June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 113–97, title I, § 102(b)(7)][/us/pl/113/97/s102/b/7], Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117]; [Pub. L. 113–235, div. O, title II, § 201(a)(7)(C)][/us/pl/113/235/s201/a/7/C], Dec. 16, 2014, [128 Stat. 2810][/us/stat/128/2810].)
+([Pub. L. 93–406, title IV][/us/pl/93/406/tIV], § 4003, Sept. 2, 1974, [88 Stat. 1006][/us/stat/88/1006]; [Pub. L. 96–364, title IV][/us/pl/96/364/tIV], §§ 402(a)(2), 403(k), Sept. 26, 1980, [94 Stat. 1297][/us/stat/94/1297], 1302; [Pub. L. 98–620, title IV][/us/pl/98/620/tIV], § 402(33), Nov. 8, 1984, [98 Stat. 3360][/us/stat/98/3360]; [Pub. L. 99–272, title XI][/us/pl/99/272/tXI], §§ 11014(b)(1), (2), 11016(c)(5), Apr. 7, 1986, [100 Stat. 262][/us/stat/100/262], 264, 274; [Pub. L. 103–465, title VII][/us/pl/103/465/tVII], §§ 773(a), 776(b)(1), Dec. 8, 1994, [108 Stat. 5044][/us/stat/108/5044], 5048; [Pub. L. 109–280, title I][/us/pl/109/280/tI], § 108(b)(2), formerly § 107(b)(2), title IV, § 411(a)(2), Aug. 17, 2006, [120 Stat. 819][/us/stat/120/819], 935, renumbered [Pub. L. 111–192, title II][/us/pl/111/192/tII], § 202(a), June 25, 2010, [124 Stat. 1297][/us/stat/124/1297]; [Pub. L. 113–97, title I][/us/pl/113/97/tI], § 102(b)(7), Apr. 7, 2014, [128 Stat. 1117][/us/stat/128/1117]; [Pub. L. 113–235, div. O, title II][/us/pl/113/235/dO/tII], § 201(a)(7)(C), Dec. 16, 2014, [128 Stat. 2810][/us/stat/128/2810].)
 
  __References in Text__ 
 
-    [Section 1349 of this title][/us/usc/t29/s1349], referred to in subsec. (f)(4), was repealed by [Pub. L. 100–203, title IX, § 9312(a)][/us/pl/100/203/s9312/a], Dec. 22, 1987, [101 Stat. 1330–361][/us/stat/101/1330-361].
+    [Section 1349 of this title][/us/usc/t29/s1349], referred to in subsec. (f)(4), was repealed by [Pub. L. 100–203, title IX][/us/pl/100/203/tIX], § 9312(a), Dec. 22, 1987, [101 Stat. 1330–361][/us/stat/101/1330-361].
 
  __Amendments__ 
 
@@ -113,25 +113,25 @@
 
     Subsec. (f)(1). [Pub. L. 113–235][/us/pl/113/235] inserted “plan sponsor,” before “fiduciary”.
 
-    2006—Subsec. (b). [Pub. L. 109–280, § 411(a)(2)][/us/pl/109/280/s411/a/2], substituted “under this subchapter, the Director, any member” for “under this subchapter, any member” and “designated by the Director or chairman” for “designated by the chairman”.
+    2006—Subsec. (b). [Pub. L. 109–280][/us/pl/109/280], § 411(a)(2), substituted “under this subchapter, the Director, any member” for “under this subchapter, any member” and “designated by the Director or chairman” for “designated by the chairman”.
 
-    Subsec. (e)(1). [Pub. L. 109–280, § 108(b)(2)][/us/pl/109/280/s108/b/2], formerly § 107(b)(2), as renumbered by [Pub. L. 111–192][/us/pl/111/192], substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
+    Subsec. (e)(1). [Pub. L. 109–280][/us/pl/109/280], § 108(b)(2), formerly § 107(b)(2), as renumbered by [Pub. L. 111–192][/us/pl/111/192], substituted “1083(k)(1)(A) and (B)” for “1082(f)(1)(A) and (B)” and “430(k)(1)(A) and (B)” for “412(n)(1)(A) and (B)”.
 
-    1994—Subsec. (a). [Pub. L. 103–465, § 776(b)(1)][/us/pl/103/465/s776/b/1], inserted “and whether [section 1350(a) of this title][/us/usc/t29/s1350/a] has been satisfied” before period at end of second sentence.
+    1994—Subsec. (a). [Pub. L. 103–465][/us/pl/103/465], § 776(b)(1), inserted “and whether [section 1350(a) of this title][/us/usc/t29/s1350/a] has been satisfied” before period at end of second sentence.
 
-    Subsec. (e)(1). [Pub. L. 103–465, § 773(a)][/us/pl/103/465/s773/a], inserted “(A)” after “enforce” and substituted “, and” and cl. (B) for period at end.
+    Subsec. (e)(1). [Pub. L. 103–465][/us/pl/103/465], § 773(a), inserted “(A)” after “enforce” and substituted “, and” and cl. (B) for period at end.
 
-    1986—Subsec. (a). [Pub. L. 99–272, § 11016(c)(5)][/us/pl/99/272/s11016/c/5], inserted provisions directing the corporation to audit annually a statistically significant number of plans terminating under [section 1341(b) of this title][/us/usc/t29/s1341/b] to determine whether participants and beneficiaries have received their benefit commitments and to include a statistically significant number of participants and beneficiaries in each audit.
+    1986—Subsec. (a). [Pub. L. 99–272][/us/pl/99/272], § 11016(c)(5), inserted provisions directing the corporation to audit annually a statistically significant number of plans terminating under [section 1341(b) of this title][/us/usc/t29/s1341/b] to determine whether participants and beneficiaries have received their benefit commitments and to include a statistically significant number of participants and beneficiaries in each audit.
 
-    Subsec. (e)(6). [Pub. L. 99–272, § 11014(b)(2)][/us/pl/99/272/s11014/b/2], added par. (6).
+    Subsec. (e)(6). [Pub. L. 99–272][/us/pl/99/272], § 11014(b)(2), added par. (6).
 
-    Subsec. (f). [Pub. L. 99–272, § 11014(b)(1)][/us/pl/99/272/s11014/b/1], amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Except as provided in [section 1451(a)(2) of this title][/us/usc/t29/s1451/a/2], any participant, beneficiary, plan administrator, or employee adversely affected by any action of the corporation, or by a receiver or trustee appointed by the corporation, with respect to a plan in which such participant, beneficiary, plan administrator or employer has an interest, may bring an action against the corporation, receiver, or trustee in the appropriate court. For purposes of this subsection the term ‘appropriate court’ means the United States district court before which proceedings under section 1341 or 1342 of this title are being conducted, or if no such proceedings are being conducted the United States district court for the district in which the plan has its principal office, or the United States district court for the District of Columbia. The district courts of the United States have jurisdiction of actions brought under this subsection without regard to the amount in controversy. In any suit, action, or proceeding in which the corporation is a party, or intervenes under [section 1451 of this title][/us/usc/t29/s1451], in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States District Court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect.”
+    Subsec. (f). [Pub. L. 99–272][/us/pl/99/272], § 11014(b)(1), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Except as provided in [section 1451(a)(2) of this title][/us/usc/t29/s1451/a/2], any participant, beneficiary, plan administrator, or employee adversely affected by any action of the corporation, or by a receiver or trustee appointed by the corporation, with respect to a plan in which such participant, beneficiary, plan administrator or employer has an interest, may bring an action against the corporation, receiver, or trustee in the appropriate court. For purposes of this subsection the term ‘appropriate court’ means the United States district court before which proceedings under section 1341 or 1342 of this title are being conducted, or if no such proceedings are being conducted the United States district court for the district in which the plan has its principal office, or the United States district court for the District of Columbia. The district courts of the United States have jurisdiction of actions brought under this subsection without regard to the amount in controversy. In any suit, action, or proceeding in which the corporation is a party, or intervenes under [section 1451 of this title][/us/usc/t29/s1451], in any State court, the corporation may, without bond or security, remove such suit, action, or proceeding from the State court to the United States District Court for the district or division embracing the place where the same is pending by following any procedure for removal now or hereafter in effect.”
 
     1984—Subsec. (e)(4). [Pub. L. 98–620][/us/pl/98/620] struck out par. (4) which provided that upon application by the corporation to a court of the United States for expedited handling of any case in which the corporation was a party, it was the duty of that court to assign such case for hearing at the earliest practical date and to cause such case to be in every way expedited.
 
-    1980—Subsec. (a). [Pub. L. 96–364, § 402(a)(2)(A)][/us/pl/96/364/s402/a/2/A], substituted “enforce” for “determine whether any person has violated or is about to violate”.
+    1980—Subsec. (a). [Pub. L. 96–364][/us/pl/96/364], § 402(a)(2)(A), substituted “enforce” for “determine whether any person has violated or is about to violate”.
 
-    Subsec. (e)(1). [Pub. L. 96–364, § 402(a)(2)(B)][/us/pl/96/364/s402/a/2/B], substituted “enforce” for “redress violations of”.
+    Subsec. (e)(1). [Pub. L. 96–364][/us/pl/96/364], § 402(a)(2)(B), substituted “enforce” for “redress violations of”.
 
     Subsec. (f). [Pub. L. 96–364][/us/pl/96/364], §§ 402(a)(2)(C), 403(k), substituted “Except as provided in section 1451(a)(2) of the title, any” for “Any” and inserted provisions relating to removal of actions.
 
@@ -145,7 +145,7 @@
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–465, title VII, § 773(b)][/us/pl/103/465/s773/b], Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], provided that: 
+[Pub. L. 103–465, title VII][/us/pl/103/465/tVII], § 773(b), Dec. 8, 1994, [108 Stat. 5045][/us/stat/108/5045], provided that: 
 
 > “The amendments made by this section \[amending this section\] shall be effective for installments and other payments required under section 302 of the Employee Retirement Income Security Act of 1974 \[[29 U.S.C. 1082][/us/usc/t29/s1082]\] or section 412 of the Internal Revenue Code of 1986 \[[26 U.S.C. 412][/us/usc/t26/s412]\] that become due on or after the date of the enactment of this Act \[Dec. 8, 1994\].”
 
@@ -153,7 +153,7 @@
 
  __Effective Date of 1986 Amendment__ 
 
-[Pub. L. 99–272, title XI, § 11014(b)(3)][/us/pl/99/272/s11014/b/3], Apr. 7, 1986, [100 Stat. 264][/us/stat/100/264], provided that: 
+[Pub. L. 99–272, title XI][/us/pl/99/272/tXI], § 11014(b)(3), Apr. 7, 1986, [100 Stat. 264][/us/stat/100/264], provided that: 
 
 > “The amendments made by this subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
@@ -182,48 +182,48 @@
 [/us/usc/t29/s1350/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1350%2Fa
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
 [/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
-[/us/pl/98/620/s402/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F33
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
 [/us/usc/t29/s1307]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1307
 [/us/usc/t29/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1451
-[/us/pl/93/406/s4003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2Fs4003
+[/us/pl/93/406/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F406%2FtIV
 [/us/stat/88/1006]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1006
-[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/96/364/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2FtIV
 [/us/stat/94/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F1297
-[/us/pl/98/620/s402/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2Fs402%2F33
+[/us/pl/98/620/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620%2FtIV
 [/us/stat/98/3360]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3360
-[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F262
-[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5044]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5044
-[/us/pl/109/280/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fb%2F2
+[/us/pl/109/280/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2FtI
 [/us/stat/120/819]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F819
-[/us/pl/111/192/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2Fs202%2Fa
+[/us/pl/111/192/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192%2FtII
 [/us/stat/124/1297]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1297
-[/us/pl/113/97/s102/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs102%2Fb%2F7
+[/us/pl/113/97/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2FtI
 [/us/stat/128/1117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1117
-[/us/pl/113/235/s201/a/7/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs201%2Fa%2F7%2FC
+[/us/pl/113/235/dO/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2FdO%2FtII
 [/us/stat/128/2810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2810
 [/us/usc/t29/s1349]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1349
-[/us/pl/100/203/s9312/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2Fs9312%2Fa
+[/us/pl/100/203/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F203%2FtIX
 [/us/stat/101/1330-361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1330-361
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
-[/us/pl/109/280/s411/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs411%2Fa%2F2
-[/us/pl/109/280/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fb%2F2
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
+[/us/pl/109/280]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280
 [/us/pl/111/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F192
-[/us/pl/103/465/s776/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs776%2Fb%2F1
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
 [/us/usc/t29/s1350/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1350%2Fa
-[/us/pl/103/465/s773/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs773%2Fa
-[/us/pl/99/272/s11016/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fc%2F5
+[/us/pl/103/465]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t29/s1341/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1341%2Fb
-[/us/pl/99/272/s11014/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11014%2Fb%2F2
-[/us/pl/99/272/s11014/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11014%2Fb%2F1
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
+[/us/pl/99/272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272
 [/us/usc/t29/s1451/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1451%2Fa%2F2
 [/us/usc/t29/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1451
 [/us/pl/98/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F620
-[/us/pl/96/364/s402/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fa%2F2%2FA
-[/us/pl/96/364/s402/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364%2Fs402%2Fa%2F2%2FB
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
+[/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/96/364]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F364
 [/us/pl/113/97]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97
 [/us/pl/113/97/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F97%2Fs3
@@ -231,14 +231,14 @@
 [/us/pl/109/280/s108/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fb%2F2
 [/us/pl/109/280/s108/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F280%2Fs108%2Fe
 [/us/usc/t29/s1021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1021
-[/us/pl/103/465/s773/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs773%2Fb
+[/us/pl/103/465/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2FtVII
 [/us/stat/108/5045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F5045
 [/us/usc/t29/s1082]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1082
 [/us/usc/t26/s412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs412
 [/us/pl/103/465/s776/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs776%2Fb%2F1
 [/us/pl/103/465/s776/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F465%2Fs776%2Fe
 [/us/usc/t29/s1056]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs1056
-[/us/pl/99/272/s11014/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11014%2Fb%2F3
+[/us/pl/99/272/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2FtXI
 [/us/stat/100/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F264
 [/us/pl/99/272/s11016/c/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11016%2Fc%2F5
 [/us/pl/99/272/s11019]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F272%2Fs11019

@@ -17,7 +17,7 @@
 
     The Commission shall terminate 30 days after the date of the submission of the report of the Commission to Congress.
 
-([Pub. L. 103–3, title III, § 306][/us/pl/103/3/s306], Feb. 5, 1993, [107 Stat. 25][/us/stat/107/25].)
+([Pub. L. 103–3, title III][/us/pl/103/3/tIII], § 306, Feb. 5, 1993, [107 Stat. 25][/us/stat/107/25].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/103/3/s306]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs306
+[/us/pl/103/3/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtIII
 [/us/stat/107/25]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F25
 
 

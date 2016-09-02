@@ -27,7 +27,7 @@
 
         (3) in the case of the Bacon-Davis Act 1—the Secretary of Labor.
 
-([May 14, 1947, ch. 52, § 10][/us/act/1947-05-14/ch52/s10], [61 Stat. 89][/us/stat/61/89].)
+([May 14, 1947, ch. 52][/us/act/1947-05-14/ch52], § 10, [61 Stat. 89][/us/stat/61/89].)
 
  __References in Text__ 
 
@@ -50,7 +50,7 @@
 
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
 [/us/usc/t29/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs201
-[/us/act/1947-05-14/ch52/s10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52%2Fs10
+[/us/act/1947-05-14/ch52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-05-14%2Fch52
 [/us/stat/61/89]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F89
 [/us/act/1938-06-25/ch676]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1938-06-25%2Fch676
 [/us/stat/52/1060]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F52%2F1060

@@ -63,7 +63,7 @@
 
         The Secretary may enter into an agreement with a State under which the State will be permitted to continue to enforce one or more occupational health and safety standards in effect in such State until final action is taken by the Secretary with respect to a plan submitted by a State under subsection (b) of this section, or two years from December 29, 1970, whichever is earlier.
 
-([Pub. L. 91–596, § 18][/us/pl/91/596/s18], Dec. 29, 1970, [84 Stat. 1608][/us/stat/84/1608].)
+([Pub. L. 91–596][/us/pl/91/596], § 18, Dec. 29, 1970, [84 Stat. 1608][/us/stat/84/1608].)
 
 ----------
 
@@ -80,7 +80,7 @@
 [/us/usc/t29/s655]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs655
 [/us/usc/t28/s2112]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs2112
 [/us/usc/t28/s1254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs1254
-[/us/pl/91/596/s18]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596%2Fs18
+[/us/pl/91/596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F596
 [/us/stat/84/1608]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F1608
 
 

@@ -17,7 +17,7 @@
 
     If any provision of this chapter, or the application of such provision to any person or circumstances, shall be held invalid, the remainder of this chapter or the application of such provision to persons or circumstances other than those as to which it is held invalid, shall not be affected thereby.
 
-([Pub. L. 86–257, title VI, § 611][/us/pl/86/257/s611], Sept. 14, 1959, [73 Stat. 541][/us/stat/73/541].)
+([Pub. L. 86–257, title VI][/us/pl/86/257/tVI], § 611, Sept. 14, 1959, [73 Stat. 541][/us/stat/73/541].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/pl/86/257/s611]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2Fs611
+[/us/pl/86/257/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F257%2FtVI
 [/us/stat/73/541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F73%2F541
 
 

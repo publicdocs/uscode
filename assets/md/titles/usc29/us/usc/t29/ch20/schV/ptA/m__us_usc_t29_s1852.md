@@ -23,7 +23,7 @@
 
         Except as provided in [section 518(a) of title 28][/us/usc/t28/s518/a], relating to litigation before the Supreme Court, the Solicitor of Labor may appear for and represent the Secretary in any civil litigation brought under this chapter, but all such litigation shall be subject to the direction and control of the Attorney General.
 
-([Pub. L. 97–470, title V, § 502][/us/pl/97/470/s502], Jan. 14, 1983, [96 Stat. 2596][/us/stat/96/2596].)
+([Pub. L. 97–470, title V][/us/pl/97/470/tV], § 502, Jan. 14, 1983, [96 Stat. 2596][/us/stat/96/2596].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t28/s518/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs518%2Fa
-[/us/pl/97/470/s502]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2Fs502
+[/us/pl/97/470/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F470%2FtV
 [/us/stat/96/2596]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F96%2F2596
 
 

@@ -107,13 +107,13 @@
 
                     The certification described in subparagraph (A)(i) shall be sufficient if the certification states that the employee is needed to care for the son, daughter, spouse, or parent who has a serious health condition on the date that the leave of the employee expired.
 
-([Pub. L. 103–3, title I, § 104][/us/pl/103/3/s104], Feb. 5, 1993, [107 Stat. 12][/us/stat/107/12]; [Pub. L. 110–181, div. A, title V, § 585(a)(3)(F)][/us/pl/110/181/s585/a/3/F], Jan. 28, 2008, [122 Stat. 131][/us/stat/122/131].)
+([Pub. L. 103–3, title I][/us/pl/103/3/tI], § 104, Feb. 5, 1993, [107 Stat. 12][/us/stat/107/12]; [Pub. L. 110–181, div. A, title V][/us/pl/110/181/dA/tV], § 585(a)(3)(F), Jan. 28, 2008, [122 Stat. 131][/us/stat/122/131].)
 
  __Amendments__ 
 
-    2008—Subsec. (c)(2)(B)(i). [Pub. L. 110–181, § 585(a)(3)(F)(i)][/us/pl/110/181/s585/a/3/F/i], inserted “or under [section 2612(a)(3) of this title][/us/usc/t29/s2612/a/3]” before semicolon.
+    2008—Subsec. (c)(2)(B)(i). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(F)(i), inserted “or under [section 2612(a)(3) of this title][/us/usc/t29/s2612/a/3]” before semicolon.
 
-    Subsec. (c)(3)(A)(iii). [Pub. L. 110–181, § 585(a)(3)(F)(ii)][/us/pl/110/181/s585/a/3/F/ii], added cl. (iii).
+    Subsec. (c)(3)(A)(iii). [Pub. L. 110–181][/us/pl/110/181], § 585(a)(3)(F)(ii), added cl. (iii).
 
 ----------
 
@@ -135,12 +135,12 @@
 [/us/usc/t29/s2612/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2612%2Fa%2F1%2FC
 [/us/usc/t29/s2612/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2612%2Fa%2F1%2FD
 [/us/usc/t29/s2612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2612%2Fa%2F3
-[/us/pl/103/3/s104]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2Fs104
+[/us/pl/103/3/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F3%2FtI
 [/us/stat/107/12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F12
-[/us/pl/110/181/s585/a/3/F]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FF
+[/us/pl/110/181/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtV
 [/us/stat/122/131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F131
-[/us/pl/110/181/s585/a/3/F/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FF%2Fi
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/usc/t29/s2612/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2612%2Fa%2F3
-[/us/pl/110/181/s585/a/3/F/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs585%2Fa%2F3%2FF%2Fii
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 
 

@@ -141,7 +141,7 @@
 
                 In any case where the Commissioner is required under an applicable statute to carry out certain acts or make certain determinations which are necessary for the continuation of the program authorized by this subchapter, if such acts or determinations are required during the terminal year of such program, such acts and determinations shall be required during any fiscal year in which the extension described in that part of paragraph (1) that follows clause (ii) of paragraph (1)(A) is in effect.
 
-([Pub. L. 93–112, title I, § 100][/us/pl/93/112/s100], as added [Pub. L. 105–220, title IV, § 404][/us/pl/105/220/s404], Aug. 7, 1998, [112 Stat. 1116][/us/stat/112/1116]; amended [Pub. L. 113–128, title IV, § 411][/us/pl/113/128/s411], July 22, 2014, [128 Stat. 1640][/us/stat/128/1640].)
+([Pub. L. 93–112, title I][/us/pl/93/112/tI], § 100, as added [Pub. L. 105–220, title IV][/us/pl/105/220/tIV], § 404, Aug. 7, 1998, [112 Stat. 1116][/us/stat/112/1116]; amended [Pub. L. 113–128, title IV][/us/pl/113/128/tIV], § 411, July 22, 2014, [128 Stat. 1640][/us/stat/128/1640].)
 
  __References in Text__ 
 
@@ -151,27 +151,27 @@
 
  __Prior Provisions__ 
 
-    A prior section 720, [Pub. L. 93–112, title I, § 100][/us/pl/93/112/s100], Sept. 26, 1973, [87 Stat. 363][/us/stat/87/363]; [Pub. L. 93–516, title I, § 102(a)][/us/pl/93/516/s102/a], Dec. 7, 1974, [88 Stat. 1618][/us/stat/88/1618]; [Pub. L. 93–651, title I, § 102(a)][/us/pl/93/651/s102/a], Nov. 21, 1974, [89 Stat. 2–3][/us/stat/89/2-3]; [Pub. L. 94–230][/us/pl/94/230], §§ 2(a), 11(b)(2), (3), Mar. 15, 1976, [90 Stat. 211][/us/stat/90/211], 213; [Pub. L. 95–602, title I, § 101(a)][/us/pl/95/602/s101/a], (b), Nov. 6, 1978, [92 Stat. 2955][/us/stat/92/2955]; [Pub. L. 98–221, title I, § 111(a)][/us/pl/98/221/s111/a]–(d), Feb. 22, 1984, [98 Stat. 19][/us/stat/98/19]; [Pub. L. 99–506, title I, § 103(d)(2)(C)][/us/pl/99/506/s103/d/2/C], title II, § 201, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1813; [Pub. L. 100–630, title II, § 202(a)][/us/pl/100/630/s202/a], Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–52, § 2(a)][/us/pl/102/52/s2/a], (b)(1), June 6, 1991, [105 Stat. 260][/us/stat/105/260]; [Pub. L. 102–569, title I, § 121(a)][/us/pl/102/569/s121/a], (b), Oct. 29, 1992, [106 Stat. 4365][/us/stat/106/4365], 4367, related to congressional findings, purpose, policy, authorization of appropriations, change in Consumer Price Index, and extension of program, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
+    A prior section 720, [Pub. L. 93–112, title I][/us/pl/93/112/tI], § 100, Sept. 26, 1973, [87 Stat. 363][/us/stat/87/363]; [Pub. L. 93–516, title I][/us/pl/93/516/tI], § 102(a), Dec. 7, 1974, [88 Stat. 1618][/us/stat/88/1618]; [Pub. L. 93–651, title I][/us/pl/93/651/tI], § 102(a), Nov. 21, 1974, [89 Stat. 2–3][/us/stat/89/2-3]; [Pub. L. 94–230][/us/pl/94/230], §§ 2(a), 11(b)(2), (3), Mar. 15, 1976, [90 Stat. 211][/us/stat/90/211], 213; [Pub. L. 95–602, title I][/us/pl/95/602/tI], § 101(a), (b), Nov. 6, 1978, [92 Stat. 2955][/us/stat/92/2955]; [Pub. L. 98–221, title I][/us/pl/98/221/tI], § 111(a)–(d), Feb. 22, 1984, [98 Stat. 19][/us/stat/98/19]; [Pub. L. 99–506, title I][/us/pl/99/506/tI], § 103(d)(2)(C), title II, § 201, Oct. 21, 1986, [100 Stat. 1810][/us/stat/100/1810], 1813; [Pub. L. 100–630, title II][/us/pl/100/630/tII], § 202(a), Nov. 7, 1988, [102 Stat. 3304][/us/stat/102/3304]; [Pub. L. 102–52][/us/pl/102/52], § 2(a), (b)(1), June 6, 1991, [105 Stat. 260][/us/stat/105/260]; [Pub. L. 102–569, title I][/us/pl/102/569/tI], § 121(a), (b), Oct. 29, 1992, [106 Stat. 4365][/us/stat/106/4365], 4367, related to congressional findings, purpose, policy, authorization of appropriations, change in Consumer Price Index, and extension of program, prior to the general amendment of this subchapter by [Pub. L. 105–220][/us/pl/105/220].
 
  __Amendments__ 
 
-    2014—Subsec. (a)(1)(C). [Pub. L. 113–128, § 411(a)(1)(A)][/us/pl/113/128/s411/a/1/A], substituted “competitive integrated employment” for “integrated”.
+    2014—Subsec. (a)(1)(C). [Pub. L. 113–128][/us/pl/113/128], § 411(a)(1)(A), substituted “competitive integrated employment” for “integrated”.
 
-    Subsec. (a)(1)(D)(iii). [Pub. L. 113–128, § 411(a)(1)(B)][/us/pl/113/128/s411/a/1/B], substituted “Medicare and Medicaid” for “medicare and medicaid”.
+    Subsec. (a)(1)(D)(iii). [Pub. L. 113–128][/us/pl/113/128], § 411(a)(1)(B), substituted “Medicare and Medicaid” for “medicare and medicaid”.
 
-    Subsec. (a)(1)(F). [Pub. L. 113–128, § 411(a)(1)(C)][/us/pl/113/128/s411/a/1/C], substituted “development” for “investment”.
+    Subsec. (a)(1)(F). [Pub. L. 113–128][/us/pl/113/128], § 411(a)(1)(C), substituted “development” for “investment”.
 
-    Subsec. (a)(1)(G). [Pub. L. 113–128, § 411(a)(1)(D)][/us/pl/113/128/s411/a/1/D], substituted “workforce development systems” for “workforce investment systems” and “workforce development activities” for “workforce investment activities”.
+    Subsec. (a)(1)(G). [Pub. L. 113–128][/us/pl/113/128], § 411(a)(1)(D), substituted “workforce development systems” for “workforce investment systems” and “workforce development activities” for “workforce investment activities”.
 
-    Subsec. (a)(2)(A). [Pub. L. 113–128, § 411(a)(2)(A)][/us/pl/113/128/s411/a/2/A], substituted “workforce development system” for “workforce investment system”.
+    Subsec. (a)(2)(A). [Pub. L. 113–128][/us/pl/113/128], § 411(a)(2)(A), substituted “workforce development system” for “workforce investment system”.
 
-    Subsec. (a)(2)(B). [Pub. L. 113–128, § 411(a)(2)(B)][/us/pl/113/128/s411/a/2/B], substituted “informed choice, and economic self-sufficiency,” for “and informed choice,”.
+    Subsec. (a)(2)(B). [Pub. L. 113–128][/us/pl/113/128], § 411(a)(2)(B), substituted “informed choice, and economic self-sufficiency,” for “and informed choice,”.
 
-    Subsec. (a)(3)(B). [Pub. L. 113–128, § 411(a)(3)(A)][/us/pl/113/128/s411/a/3/A], substituted “competitive integrated employment” for “gainful employment in integrated settings”.
+    Subsec. (a)(3)(B). [Pub. L. 113–128][/us/pl/113/128], § 411(a)(3)(A), substituted “competitive integrated employment” for “gainful employment in integrated settings”.
 
-    Subsec. (a)(3)(E). [Pub. L. 113–128, § 411(a)(3)(B)][/us/pl/113/128/s411/a/3/B], inserted “should” before “facilitate the accomplishment”.
+    Subsec. (a)(3)(E). [Pub. L. 113–128][/us/pl/113/128], § 411(a)(3)(B), inserted “should” before “facilitate the accomplishment”.
 
-    Subsec. (b)(1). [Pub. L. 113–128, § 411(b)][/us/pl/113/128/s411/b], substituted “$3,302,053,000 for each of the fiscal years 2015 through 2020” for “such sums as may be necessary for fiscal years 1999 through 2003”.
+    Subsec. (b)(1). [Pub. L. 113–128][/us/pl/113/128], § 411(b), substituted “$3,302,053,000 for each of the fiscal years 2015 through 2020” for “such sums as may be necessary for fiscal years 1999 through 2003”.
 
  __Definitions of Terms in__  __[__  __Pub. L. 113–128__  __][/us/pl/113/128]__ 
 
@@ -189,10 +189,10 @@
 [/us/usc/t29/s721/a/7/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721%2Fa%2F7%2FB
 [/us/usc/t29/s721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs721
 [/us/usc/t29/s732]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs732
-[/us/pl/93/112/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs100
-[/us/pl/105/220/s404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2Fs404
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
+[/us/pl/105/220/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220%2FtIV
 [/us/stat/112/1116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F1116
-[/us/pl/113/128/s411]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411
+[/us/pl/113/128/tIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2FtIV
 [/us/stat/128/1640]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1640
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
@@ -200,36 +200,36 @@
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
-[/us/pl/93/112/s100]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2Fs100
+[/us/pl/93/112/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F112%2FtI
 [/us/stat/87/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F363
-[/us/pl/93/516/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2Fs102%2Fa
+[/us/pl/93/516/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F516%2FtI
 [/us/stat/88/1618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F88%2F1618
-[/us/pl/93/651/s102/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2Fs102%2Fa
+[/us/pl/93/651/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F651%2FtI
 [/us/stat/89/2-3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F89%2F2-3
 [/us/pl/94/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F230
 [/us/stat/90/211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F211
-[/us/pl/95/602/s101/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2Fs101%2Fa
+[/us/pl/95/602/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F602%2FtI
 [/us/stat/92/2955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F2955
-[/us/pl/98/221/s111/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2Fs111%2Fa
+[/us/pl/98/221/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F221%2FtI
 [/us/stat/98/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F19
-[/us/pl/99/506/s103/d/2/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2Fs103%2Fd%2F2%2FC
+[/us/pl/99/506/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F506%2FtI
 [/us/stat/100/1810]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1810
-[/us/pl/100/630/s202/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2Fs202%2Fa
+[/us/pl/100/630/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F630%2FtII
 [/us/stat/102/3304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3304
-[/us/pl/102/52/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52%2Fs2%2Fa
+[/us/pl/102/52]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F52
 [/us/stat/105/260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F260
-[/us/pl/102/569/s121/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2Fs121%2Fa
+[/us/pl/102/569/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F569%2FtI
 [/us/stat/106/4365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F4365
 [/us/pl/105/220]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F220
-[/us/pl/113/128/s411/a/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F1%2FA
-[/us/pl/113/128/s411/a/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F1%2FB
-[/us/pl/113/128/s411/a/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F1%2FC
-[/us/pl/113/128/s411/a/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F1%2FD
-[/us/pl/113/128/s411/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F2%2FA
-[/us/pl/113/128/s411/a/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F2%2FB
-[/us/pl/113/128/s411/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F3%2FA
-[/us/pl/113/128/s411/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fa%2F3%2FB
-[/us/pl/113/128/s411/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs411%2Fb
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
+[/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128
 [/us/pl/113/128/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F128%2Fs3
 [/us/usc/t29/s3102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3102
