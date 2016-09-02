@@ -91,7 +91,13 @@ July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d)
 
     Amendment by [Pub. L. 108–7][/us/pl/108/7] applicable to fiscal year 2003 and each fiscal year thereafter, see [section 1016(d) of Pub. L. 108–7][/us/pl/108/7/s1016/d], set out as a note under [section 1961 of Title 2][/us/usc/t2/s1961], The Congress.
 
- __Designation of Great Hall of the Capitol Visitor Center as Emancipation Hall__ 
+ __Designating Small House Rotunda as “Freedom Foyer”__ 
+
+[Pub. L. 114–74, title XII, § 1201][/us/pl/114/74/s1201], Nov. 2, 2015, [129 Stat. 639][/us/stat/129/639], provided that: 
+
+> “The first floor of the area of the House of Representatives wing of the United States Capitol known as the small House rotunda is designated the ‘Freedom Foyer’.”
+
+ __Designation of Great Hall of the Capitol Visitor Center as “Emancipation Hall”__ 
 
 [Pub. L. 110–139, § 1][/us/pl/110/139/s1], Dec. 18, 2007, [121 Stat. 1491][/us/stat/121/1491], provided that:
 
@@ -143,6 +149,8 @@ July 31, 1946, ch. 707, § 16(a)(1), 60 Stat. 721; Pub. L. 90–108, § 1(d)
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/pl/108/7/s1016/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs1016%2Fd
 [/us/usc/t2/s1961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1961
+[/us/pl/114/74/s1201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2Fs1201
+[/us/stat/129/639]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F639
 [/us/pl/110/139/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F139%2Fs1
 [/us/stat/121/1491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1491
 
