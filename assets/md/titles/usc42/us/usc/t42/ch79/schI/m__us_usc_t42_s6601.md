@@ -271,7 +271,9 @@ Sec. 3. The Federal science, engineering, and technology functions under Section
 
  __Extension of Term of Presidential Commission for the Study of Bioethical Issues__ 
 
-    Term of the Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    Term of Presidential Commission for the Study of Bioethical Issues extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __Ex. Ord. No. 13539. President’s Council of Advisors on Science and Technology__ 
 
@@ -323,7 +325,9 @@ Sec. 3. The Federal science, engineering, and technology functions under Section
 
  __Extension of Term of President’s Council of Advisors on Science and Technology__ 
 
-    Term of the President’s Council of Advisors on Science and Technology extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2013, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    Term of President’s Council of Advisors on Science and Technology extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
  __Strengthened Protections for Human Subjects of Classified Research__ 
 

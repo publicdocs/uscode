@@ -277,7 +277,9 @@ By the authority vested in me as President by the Constitution and the laws of t
 
  __Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health__ 
 
-    Term of the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2012, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+    Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2012, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+    For extensions of Advisory Group after its reestablishment, see table following Ex. Ord. No. 13631, set out below.
 
  __Ex. Ord. No. 13631. Reestablishment of Advisory Group__ 
 
@@ -296,6 +298,10 @@ By the authority vested in me as President by the Constitution and the laws of t
     (b) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
                               Barack Obama.
+
+ __Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health__ 
+
+    Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 ----------
 

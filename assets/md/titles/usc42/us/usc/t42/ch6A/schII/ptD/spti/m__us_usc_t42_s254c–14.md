@@ -167,7 +167,7 @@
 
             (B) __Services__ 
 
-                The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health, public health, long-term care, home care, preventive, or case management services.
+                The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health, public health, long-term care, home care, preventive, case management services, or prenatal care for high-risk pregnancies.
 
             (C) __Coordination__ 
 
@@ -341,9 +341,11 @@
 
         (2) for grants under subsection (d)(2) of this section, $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330I, as added [Pub. L. 107–251, title II, § 212][/us/pl/107/251/s212], Oct. 26, 2002, [116 Stat. 1632][/us/stat/116/1632]; amended [Pub. L. 108–163, § 2(c)][/us/pl/108/163/s2/c], Dec. 6, 2003, [117 Stat. 2021][/us/stat/117/2021].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 330I, as added [Pub. L. 107–251, title II, § 212][/us/pl/107/251/s212], Oct. 26, 2002, [116 Stat. 1632][/us/stat/116/1632]; amended [Pub. L. 108–163, § 2(c)][/us/pl/108/163/s2/c], Dec. 6, 2003, [117 Stat. 2021][/us/stat/117/2021]; [Pub. L. 113–55, title I, § 103(a)][/us/pl/113/55/s103/a], Nov. 27, 2013, [127 Stat. 642][/us/stat/127/642].)
 
  __Amendments__ 
+
+    2013—Subsec. (i)(1)(B). [Pub. L. 113–55][/us/pl/113/55] substituted “case management services, or prenatal care for high-risk pregnancies” for “or case management services”.
 
     2003—Subsec. (a)(4). [Pub. L. 108–163, § 2(c)(1)][/us/pl/108/163/s2/c/1], substituted “section 295p(6)” for “section 295p”.
 
@@ -371,6 +373,9 @@
 [/us/stat/116/1632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1632
 [/us/pl/108/163/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fc
 [/us/stat/117/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2021
+[/us/pl/113/55/s103/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fa
+[/us/stat/127/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F642
+[/us/pl/113/55]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55
 [/us/pl/108/163/s2/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fc%2F1
 [/us/pl/108/163/s2/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163%2Fs2%2Fc%2F2
 [/us/pl/108/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F163

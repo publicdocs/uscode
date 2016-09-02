@@ -29,7 +29,7 @@
 
     (c) __Revision of standards and regulations generally__ 
 
-    Not later than 4 years after November 21, 2013, and annually thereafter, the Secretary, shall—
+    Not later than 4 years after November 21, 2013, and annually thereafter, the Secretary, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  shall—
 
         (1) review the results of scientific research in conjunction with the Organ Procurement and Transplantation Network to determine whether the results warrant revision of the standards of quality adopted under [section 274(b)(2)(E) of this title][/us/usc/t42/s274/b/2/E] with respect to donated organs infected with HIV and with respect to the safety of transplanting an organ with a particular strain of HIV into a recipient with a different strain of HIV;
 

@@ -971,7 +971,7 @@ Part B—Federal-State Cooperation  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934g" data-uslm-ref="/us/usc/t42/s247b–4g">247b–4g.</a>  </td>
 
-    <td> Interagency Coordinating Council on Prematurity and Low Birthweight.  </td>
+    <td> Repealed.  </td>
 
   </tr>
 

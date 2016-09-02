@@ -153,6 +153,18 @@
 
  __Short Title of 2013 Amendment__ 
 
+[Pub. L. 113–55, title I, § 101][/us/pl/113/55/s101], Nov. 27, 2013, [127 Stat. 641][/us/stat/127/641], provided that: 
+
+> “This title \[amending sections 247b–4f, 254c–14, and 280g–5 of this title, repealing [section 247b–4g of this title][/us/usc/t42/s247b–4g], and enacting provisions set out as a note under [section 247b–4f of this title][/us/usc/t42/s247b–4f]\] may be cited as the ‘Prematurity Research Expansion and Education for Mothers who deliver Infants Early Reauthorization Act’ or the ‘PREEMIE Reauthorization Act’.”
+
+[Pub. L. 113–55, title II, § 201][/us/pl/113/55/s201], Nov. 27, 2013, [127 Stat. 644][/us/stat/127/644], provided that: 
+
+> “This title \[amending [section 284h of this title][/us/usc/t42/s284h]\] may be cited as the ‘National Pediatric Research Network Act of 2013’.”
+
+[Pub. L. 113–55, title III, § 301][/us/pl/113/55/s301], Nov. 27, 2013, [127 Stat. 646][/us/stat/127/646], provided that: 
+
+> “This title \[amending [section 283m of this title][/us/usc/t42/s283m]\] may be cited as the ‘CHIMP Act Amendments of 2013’.”
+
 [Pub. L. 113–51, § 1][/us/pl/113/51/s1], Nov. 21, 2013, [127 Stat. 579][/us/stat/127/579], provided that: 
 
 > “This Act \[enacting [section 274f–5 of this title][/us/usc/t42/s274f–5] and amending sections 273 and 274 of this title and [section 1122 of Title 18][/us/usc/t18/s1122], Crimes and Criminal Procedure\] may be cited as the ‘HIV Organ Policy Equity Act’.”
@@ -1497,6 +1509,16 @@ Act June 16, 1948, § 1, [62 Stat. 464][/us/stat/62/464], provided that:
 [/us/usc/t33/s466j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs466j
 [/us/pl/86/70]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70
 [/us/pl/86/70/s47/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F70%2Fs47%2Fd
+[/us/pl/113/55/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs101
+[/us/stat/127/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F641
+[/us/usc/t42/s247b–4g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934g
+[/us/usc/t42/s247b–4f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs247b%E2%80%934f
+[/us/pl/113/55/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs201
+[/us/stat/127/644]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F644
+[/us/usc/t42/s284h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs284h
+[/us/pl/113/55/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs301
+[/us/stat/127/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F646
+[/us/usc/t42/s283m]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs283m
 [/us/pl/113/51/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F51%2Fs1
 [/us/stat/127/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F579
 [/us/usc/t42/s274f–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs274f%E2%80%935

@@ -27,21 +27,29 @@
 
          programs to test and evaluate various strategies to provide information and education to health professionals, other health care providers, and the public concerning—
 
-            (A) the signs of preterm labor, updated as new research results become available;
+            (A) the core risk factors for preterm labor and delivery;
 
-            (B) the screening for and the treating of infections;
+            (B) medically indicated deliveries before full term;
 
-    (c)
+            (C)
 
-  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “(C)”. </sup></sup>  counseling on optimal weight and good nutrition, including folic acid;
+             the importance of preconception and prenatal care, including—
 
-        (D) smoking cessation education and counseling;
+                (i) smoking cessation;
 
-        (E) stress management; and
+                (ii) weight maintenance and good nutrition, including folic acid;
 
-        (F) appropriate prenatal care;
+                (iii) the screening for and the treatment of infections; and
 
-        (2) programs to improve the treatment and outcomes for babies born premature, including the use of evidence-based standards of care by health care professionals for pregnant women at risk of preterm labor or other serious complications and for infants born preterm and at a low birthweight;
+                (iv) stress management;
+
+            (D) treatments and outcomes for premature infants, including late preterm infants;
+
+            (E) the informational needs of families during the stay of an infant in a neonatal intensive care unit; and
+
+            (F) utilization of evidence-based strategies to prevent birth injuries;
+
+        (2) programs to increase the availability, awareness, and use of pregnancy and post-term information services that provide evidence-based, clinical information through counselors, community outreach efforts, electronic or telephonic communication, or other appropriate means regarding causes associated with prematurity, birth defects, or health risks to a post-term infant;
 
         (3) programs to respond to the informational needs of families during the stay of an infant in a neonatal intensive care unit, during the transition of the infant to the home, and in the event of a newborn death; and
 
@@ -49,9 +57,29 @@
 
     (c) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2007 through 2011.
+        There is authorized to be appropriated to carry out this section $1,900,000 for each of fiscal years 2014 through 2018.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399Q, as added [Pub. L. 109–450, § 4(2)][/us/pl/109/450/s4/2], Dec. 22, 2006, [120 Stat. 3342][/us/stat/120/3342].)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title III, § 399Q, as added [Pub. L. 109–450, § 4(2)][/us/pl/109/450/s4/2], Dec. 22, 2006, [120 Stat. 3342][/us/stat/120/3342]; amended [Pub. L. 113–55, title I, § 103(b)][/us/pl/113/55/s103/b], Nov. 27, 2013, [127 Stat. 642][/us/stat/127/642].)
+
+ __Amendments__ 
+
+    2013—Subsec. (b)(1). [Pub. L. 113–55, § 103(b)(1)(A)][/us/pl/113/55/s103/b/1/A], added subpars. (A) to (F) and struck out former subpars. (A) to (F) which read as follows:
+
+    “(A) the signs of preterm labor, updated as new research results become available;
+
+    “(B) the screening for and the treating of infections;
+
+    “(c) counseling on optimal weight and good nutrition, including folic acid;
+
+    “(D) smoking cessation education and counseling;
+
+    “(E) stress management; and
+
+    “(F) appropriate prenatal care;”.
+
+    Subsec. (b)(2). [Pub. L. 113–55, § 103(b)(1)(B)][/us/pl/113/55/s103/b/1/B], added par. (2) and struck out former par. (2) which read as follows: “programs to improve the treatment and outcomes for babies born premature, including the use of evidence-based standards of care by health care professionals for pregnant women at risk of preterm labor or other serious complications and for infants born preterm and at a low birthweight;”.
+
+    Subsec. (c). [Pub. L. 113–55, § 103(b)(2)][/us/pl/113/55/s103/b/2], substituted “$1,900,000 for each of fiscal years 2014 through 2018.” for “$5,000,000 for each of fiscal years 2007 through 2011.”
 
 ----------
 
@@ -63,5 +91,10 @@
 [/us/act/1944-07-01/ch373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-07-01%2Fch373
 [/us/pl/109/450/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F450%2Fs4%2F2
 [/us/stat/120/3342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3342
+[/us/pl/113/55/s103/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fb
+[/us/stat/127/642]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F642
+[/us/pl/113/55/s103/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fb%2F1%2FA
+[/us/pl/113/55/s103/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fb%2F1%2FB
+[/us/pl/113/55/s103/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F55%2Fs103%2Fb%2F2
 
 
