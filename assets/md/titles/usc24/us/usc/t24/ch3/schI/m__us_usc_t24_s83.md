@@ -11,20 +11,20 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s79.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs83)
+[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s80...82.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs83)
 
-## § 83. Repealed. [Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641]
+## § 83. Repealed. [Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641]
 
     Section, acts [Feb. 8, 1889, ch. 116][/us/act/1889-02-08/ch116], [25 Stat. 657][/us/stat/25/657]; [May 26, 1900, ch. 586][/us/act/1900-05-26/ch586], [31 Stat. 216][/us/stat/31/216], authorized issuance of obsolete cannon or ordnance. See sections 4686 and 9686 of Title 10, Armed Forces.
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s79.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs83)
+[Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s80...82.md) | [Next](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s84.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs83)
 
 ----------
 ----------
 
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/act/1889-02-08/ch116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1889-02-08%2Fch116
 [/us/stat/25/657]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F25%2F657

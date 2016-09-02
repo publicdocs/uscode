@@ -35,7 +35,7 @@
 
     (9) The term “Council” means the Council of the District of Columbia.
 
-([Pub. L. 98–621, § 3][/us/pl/98/621/s3], Nov. 8, 1984, [98 Stat. 3371][/us/stat/98/3371].)
+([Pub. L. 98–621][/us/pl/98/621], § 3, Nov. 8, 1984, [98 Stat. 3371][/us/stat/98/3371].)
 
 ----------
 
@@ -44,7 +44,7 @@
 ----------
 ----------
 
-[/us/pl/98/621/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs3
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3371
 
 

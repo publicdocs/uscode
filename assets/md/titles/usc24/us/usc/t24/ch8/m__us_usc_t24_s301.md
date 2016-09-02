@@ -17,7 +17,7 @@
 
     In recognition of his distinguished services to humanity and as a fitting perpetuation of the name and memory of Major General William Crawford Gorgas, the Government hospital within the Canal Zone, near the City of Panama, known prior to March 24, 1928, as the Ancon Hospital, shall after such date be known and designated on the public records as the Gorgas Hospital.
 
-([Mar. 24, 1928, ch. 240, § 1][/us/act/1928-03-24/ch240/s1], [45 Stat. 365][/us/stat/45/365].)
+([Mar. 24, 1928, ch. 240][/us/act/1928-03-24/ch240], § 1, [45 Stat. 365][/us/stat/45/365].)
 
  __References in Text__ 
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1928-03-24/ch240/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-24%2Fch240%2Fs1
+[/us/act/1928-03-24/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-24%2Fch240
 [/us/stat/45/365]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F365
 [/us/usc/t22/s3602/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3602%2Fb
 

@@ -123,33 +123,33 @@
 
         (8) The interest of a lessee of property leased under this subsection may be taxed by State or local governments. A lease under this subsection shall provide that, if and to the extent that the leased property is later made taxable by State or local governments under an Act of Congress, the lease shall be renegotiated.
 
-([Pub. L. 101–510, div. A, title XV, § 1511][/us/pl/101/510/s1511], Nov. 5, 1990, [104 Stat. 1723][/us/stat/104/1723]; [Pub. L. 103–160, div. A, title III, § 366(a)][/us/pl/103/160/s366/a], Nov. 30, 1993, [107 Stat. 1630][/us/stat/107/1630]; [Pub. L. 107–107, div. A, title XIV, § 1403][/us/pl/107/107/s1403], Dec. 28, 2001, [115 Stat. 1258][/us/stat/115/1258]; [Pub. L. 110–181, div. A, title XIV, § 1422(a)][/us/pl/110/181/s1422/a], (b), Jan. 28, 2008, [122 Stat. 420][/us/stat/122/420]; [Pub. L. 111–84, div. B, title XXVIII, § 2823][/us/pl/111/84/s2823], Oct. 28, 2009, [123 Stat. 2666][/us/stat/123/2666]; [Pub. L. 111–383, div. B, title XXVIII, § 2813(b)][/us/pl/111/383/s2813/b], Jan. 7, 2011, [124 Stat. 4463][/us/stat/124/4463]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 561, 564(b)(1), Dec. 31, 2011, [125 Stat. 1420][/us/stat/125/1420], 1424; [Pub. L. 112–239, div. A, title X, § 1076(j)][/us/pl/112/239/s1076/j], Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1511, Nov. 5, 1990, [104 Stat. 1723][/us/stat/104/1723]; [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 366(a), Nov. 30, 1993, [107 Stat. 1630][/us/stat/107/1630]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], § 1403, Dec. 28, 2001, [115 Stat. 1258][/us/stat/115/1258]; [Pub. L. 110–181, div. A, title XIV][/us/pl/110/181/dA/tXIV], § 1422(a), (b), Jan. 28, 2008, [122 Stat. 420][/us/stat/122/420]; [Pub. L. 111–84, div. B, title XXVIII][/us/pl/111/84/dB/tXXVIII], § 2823, Oct. 28, 2009, [123 Stat. 2666][/us/stat/123/2666]; [Pub. L. 111–383, div. B, title XXVIII][/us/pl/111/383/dB/tXXVIII], § 2813(b), Jan. 7, 2011, [124 Stat. 4463][/us/stat/124/4463]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], §§ 561, 564(b)(1), Dec. 31, 2011, [125 Stat. 1420][/us/stat/125/1420], 1424; [Pub. L. 112–239, div. A, title X][/us/pl/112/239/dA/tX], § 1076(j), Jan. 2, 2013, [126 Stat. 1955][/us/stat/126/1955].)
 
  __References in Text__ 
 
-    This chapter, referred to in subsec. (f), was in the original “this title”, meaning title XV of [Pub. L. 101–510, div. A][/us/pl/101/510], Nov. 5, 1990, [104 Stat. 1722][/us/stat/104/1722], which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note set out under [section 401 of this title][/us/usc/t24/s401] and Tables.
+    This chapter, referred to in subsec. (f), was in the original “this title”, meaning title XV of [Pub. L. 101–510, div. A][/us/pl/101/510/dA], Nov. 5, 1990, [104 Stat. 1722][/us/stat/104/1722], which is classified principally to this chapter. For complete classification of title XV to the Code, see Short Title note set out under [section 401 of this title][/us/usc/t24/s401] and Tables.
 
  __Amendments__ 
 
     2013—Subsec. (d)(3). [Pub. L. 112–239][/us/pl/112/239] struck out first par. (3) which read as follows: “The administration of the Retirement Home (including administration for the provision of health care and medical care for residents) shall remain under the direct authority, control, and administration of the Secretary of Defense.”
 
-    2011—Subsec. (d)(2). [Pub. L. 112–81, § 564(b)(1)][/us/pl/112/81/s564/b/1], substituted “Administrator” for “Director” in two places.
+    2011—Subsec. (d)(2). [Pub. L. 112–81][/us/pl/112/81], § 564(b)(1), substituted “Administrator” for “Director” in two places.
 
-    Subsec. (d)(3). [Pub. L. 112–81, § 561][/us/pl/112/81/s561], added second par. (3).
+    Subsec. (d)(3). [Pub. L. 112–81][/us/pl/112/81], § 561, added second par. (3).
 
     Subsec. (i)(2)(F). [Pub. L. 111–383][/us/pl/111/383] added subpar. (F).
 
-    2009—Subsec. (e)(2). [Pub. L. 111–84, § 2823(a)][/us/pl/111/84/s2823/a], inserted at end “If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.”
+    2009—Subsec. (e)(2). [Pub. L. 111–84][/us/pl/111/84], § 2823(a), inserted at end “If the purchase price to acquire fee title to real property for inclusion in the Retirement Home is more than $750,000, the Secretary may acquire the real property only if the acquisition is specifically authorized by law.”
 
-    Subsec. (e)(3). [Pub. L. 111–84, § 2823(b)(1)][/us/pl/111/84/s2823/b/1], added par. (3) and struck out former par. (3) which read as follows: “The Secretary of Defense may dispose of any property of the Retirement Home, by sale, lease, or otherwise, that the Secretary determines is excess to the needs of the Retirement Home. The proceeds from such a disposal of property shall be deposited in the Armed Forces Retirement Home Trust Fund. No such disposal of real property shall be effective earlier than 120 days after the date on which the Secretary transmits a notification of the proposed disposal to the Committees on Armed Services of the Senate and the House of Representatives.”
+    Subsec. (e)(3). [Pub. L. 111–84][/us/pl/111/84], § 2823(b)(1), added par. (3) and struck out former par. (3) which read as follows: “The Secretary of Defense may dispose of any property of the Retirement Home, by sale, lease, or otherwise, that the Secretary determines is excess to the needs of the Retirement Home. The proceeds from such a disposal of property shall be deposited in the Armed Forces Retirement Home Trust Fund. No such disposal of real property shall be effective earlier than 120 days after the date on which the Secretary transmits a notification of the proposed disposal to the Committees on Armed Services of the Senate and the House of Representatives.”
 
-    Subsec. (i). [Pub. L. 111–84, § 2823(b)(2)][/us/pl/111/84/s2823/b/2], added subsec. (i).
+    Subsec. (i). [Pub. L. 111–84][/us/pl/111/84], § 2823(b)(2), added subsec. (i).
 
-    2008—Subsec. (d)(3). [Pub. L. 110–181, § 1422(a)(1)][/us/pl/110/181/s1422/a/1], added par. (3).
+    2008—Subsec. (d)(3). [Pub. L. 110–181][/us/pl/110/181], § 1422(a)(1), added par. (3).
 
-    Subsec. (g). [Pub. L. 110–181, § 1422(b)][/us/pl/110/181/s1422/b], amended subsec. (g) generally. Prior to amendment, text read as follows: “The Chief Operating Officer shall endeavor to secure for each facility of the Retirement Home accreditation by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.”
+    Subsec. (g). [Pub. L. 110–181][/us/pl/110/181], § 1422(b), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Chief Operating Officer shall endeavor to secure for each facility of the Retirement Home accreditation by a nationally recognized civilian accrediting organization, such as the Continuing Care Accreditation Commission and the Joint Commission for Accreditation of Health Organizations.”
 
-    Subsec. (h). [Pub. L. 110–181, § 1422(a)(2)][/us/pl/110/181/s1422/a/2], inserted at end “The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.”
+    Subsec. (h). [Pub. L. 110–181][/us/pl/110/181], § 1422(a)(2), inserted at end “The annual report shall include an assessment of all aspects of each facility of the Retirement Home, including the quality of care at the facility.”
 
     2001—[Pub. L. 107–107][/us/pl/107/107] reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to inclusion of existing homes in the Armed Forces Retirement Home in subsec. (a), the purpose of the Retirement Home in subsec. (b), its operation in subsec. (c), its property and facilities in subsec. (d), the requirement that the Secretary of Defense make available certain support services for the Home in subsec. (e), and its accreditation in subsec. (f).
 
@@ -170,35 +170,35 @@
 [/us/usc/t40/s541]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs541
 [/us/usc/t40/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs102
 [/us/usc/t40/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs1302
-[/us/pl/101/510/s1511]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1511
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1723]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1723
-[/us/pl/103/160/s366/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs366%2Fa
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1630
-[/us/pl/107/107/s1403]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1403
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1258
-[/us/pl/110/181/s1422/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1422%2Fa
+[/us/pl/110/181/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXIV
 [/us/stat/122/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F420
-[/us/pl/111/84/s2823]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2823
+[/us/pl/111/84/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2FdB%2FtXXVIII
 [/us/stat/123/2666]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F2666
-[/us/pl/111/383/s2813/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2Fs2813%2Fb
+[/us/pl/111/383/dB/tXXVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383%2FdB%2FtXXVIII
 [/us/stat/124/4463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F4463
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1420
-[/us/pl/112/239/s1076/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1076%2Fj
+[/us/pl/112/239/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtX
 [/us/stat/126/1955]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1955
-[/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
+[/us/pl/101/510/dA]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA
 [/us/stat/104/1722]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1722
 [/us/usc/t24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs401
 [/us/pl/112/239]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239
-[/us/pl/112/81/s564/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs564%2Fb%2F1
-[/us/pl/112/81/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs561
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/111/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F383
-[/us/pl/111/84/s2823/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2823%2Fa
-[/us/pl/111/84/s2823/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2823%2Fb%2F1
-[/us/pl/111/84/s2823/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84%2Fs2823%2Fb%2F2
-[/us/pl/110/181/s1422/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1422%2Fa%2F1
-[/us/pl/110/181/s1422/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1422%2Fb
-[/us/pl/110/181/s1422/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1422%2Fa%2F2
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/111/84]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F84
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
+[/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/101/510/s1541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541%2Fa

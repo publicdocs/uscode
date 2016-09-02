@@ -23,7 +23,7 @@
 
         As used in this section, the term “costs or charges” means, in the case of hospitalization at a hospital under the jurisdiction of the Department of Health and Human Services, a per diem rate prescribed by the Secretary on a basis comparable to that charged for any other paying patients and, in the case of persons hospitalized elsewhere, the contract rate or a per diem rate fixed by the Secretary on the basis of the contract rate.
 
-([Pub. L. 86–571, § 8][/us/pl/86/571/s8], July 5, 1960, [74 Stat. 310][/us/stat/74/310]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 86–571][/us/pl/86/571], § 8, July 5, 1960, [74 Stat. 310][/us/stat/74/310]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Change of Name__ 
 
@@ -38,9 +38,9 @@
 
 [/us/usc/t24/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs324
 [/us/usc/t24/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs324
-[/us/pl/86/571/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs8
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F310
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

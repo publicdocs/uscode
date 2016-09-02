@@ -13,7 +13,7 @@
 
 [Previous](./../../../..//us/usc/t24/ch7/m__us_usc_t24_s295a.md) | [Next](./../../../..//us/usc/t24/ch7A/m__us_usc_t24_ch7A.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs296)
 
-## § 296. Repealed. [Pub. L. 93–43, § 7(a)(9)][/us/pl/93/43/s7/a/9], June 18, 1973, [87 Stat. 82][/us/stat/87/82]
+## § 296. Repealed. [Pub. L. 93–43][/us/pl/93/43], § 7(a)(9), June 18, 1973, [87 Stat. 82][/us/stat/87/82]
 
     Section, [act July 1, 1947, ch. 187][/us/act/1947-07-01/ch187], [61 Stat. 234][/us/stat/61/234], related to preservation of historic graveyards in abandoned military posts and conveyance to grantees. See [section 2405(b) of Title 38][/us/usc/t38/s2405/b], Veterans’ Benefits.
 
@@ -32,7 +32,7 @@
 ----------
 ----------
 
-[/us/pl/93/43/s7/a/9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43%2Fs7%2Fa%2F9
+[/us/pl/93/43]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F43
 [/us/stat/87/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F82
 [/us/act/1947-07-01/ch187]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-01%2Fch187
 [/us/stat/61/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F234

@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t24/ch3/schII/m__us_usc_t24_ch3_schII.md) | [Next](./../../../../..//us/usc/t24/ch3/schII/m__us_usc_t24_s92.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs91)
 
-## § 91. Repealed. [Pub. L. 85–857, § 14(1)][/us/pl/85/857/s14/1], Sept. 2, 1958, [72 Stat. 1268][/us/stat/72/1268]
+## § 91. Repealed. [Pub. L. 85–857][/us/pl/85/857], § 14(1), Sept. 2, 1958, [72 Stat. 1268][/us/stat/72/1268]
 
     Section, R.S. § 4829; acts [Apr. 11, 1892, ch. 40][/us/act/1892-04-11/ch40], [27 Stat. 15][/us/stat/27/15]; [Feb. 9, 1897, ch. 205][/us/act/1897-02-09/ch205], [29 Stat. 517][/us/stat/29/517], provided for officers of National Home for Disabled Volunteer Soldiers.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/85/857/s14/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs14%2F1
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1268
 [/us/act/1892-04-11/ch40]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1892-04-11%2Fch40
 [/us/stat/27/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F27%2F15

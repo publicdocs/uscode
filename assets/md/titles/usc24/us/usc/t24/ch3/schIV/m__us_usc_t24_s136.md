@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s132.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s137.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs136)
+[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s133...135.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s137.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs136)
 
-## § 136. Repealed. [Pub. L. 85–56, title XXII, § 2202(1)][/us/pl/85/56/s2202/1], (85), June 17, 1957, [71 Stat. 162][/us/stat/71/162], 165
+## § 136. Repealed. [Pub. L. 85–56, title XXII][/us/pl/85/56/tXXII], § 2202(1), (85), June 17, 1957, [71 Stat. 162][/us/stat/71/162], 165
 
     Section, acts [June 25, 1910, ch. 384][/us/act/1910-06-25/ch384], §§ 1–11, [36 Stat. 736][/us/stat/36/736]; [Dec. 26, 1941, ch. 634][/us/act/1941-12-26/ch634], [55 Stat. 868][/us/stat/55/868], related to disposition of deceased veterans’ personal property. See section 8520 et seq. of Title 38, Veterans’ Benefits.
 
@@ -23,12 +23,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s132.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s137.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs136)
+[Previous](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s133...135.md) | [Next](./../../../../..//us/usc/t24/ch3/schIV/m__us_usc_t24_s137.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs136)
 
 ----------
 ----------
 
-[/us/pl/85/56/s2202/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2Fs2202%2F1
+[/us/pl/85/56/tXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F56%2FtXXII
 [/us/stat/71/162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F71%2F162
 [/us/act/1910-06-25/ch384]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1910-06-25%2Fch384
 [/us/stat/36/736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F36%2F736

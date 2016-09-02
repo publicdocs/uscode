@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s201.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s203.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs202)
 
-## § 202. Repealed. [Pub. L. 98–621, § 10(u)][/us/pl/98/621/s10/u], Nov. 8, 1984, [98 Stat. 3381][/us/stat/98/3381]
+## § 202. Repealed. [Pub. L. 98–621][/us/pl/98/621], § 10(u), Nov. 8, 1984, [98 Stat. 3381][/us/stat/98/3381]
 
     Section, acts [Mar. 3, 1877, ch. 105][/us/act/1877-03-03/ch105], [19 Stat. 347][/us/stat/19/347]; [July 1, 1916, ch. 209][/us/act/1916-07-01/ch209], [39 Stat. 309][/us/stat/39/309], related to expense of indigent insane admitted from District of Columbia.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/621/s10/u]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs10%2Fu
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3381
 [/us/act/1877-03-03/ch105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1877-03-03%2Fch105
 [/us/stat/19/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F19%2F347

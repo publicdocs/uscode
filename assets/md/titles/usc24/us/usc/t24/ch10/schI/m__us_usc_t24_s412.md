@@ -59,19 +59,19 @@
 
         The Chief Operating Officer shall establish a system of priorities for the acceptance of residents so that the most deserving applicants will be accepted whenever the number of eligible applicants is greater than the Retirement Home can accommodate.
 
-([Pub. L. 101–510, div. A, title XV, § 1512][/us/pl/101/510/s1512], Nov. 5, 1990, [104 Stat. 1724][/us/stat/104/1724]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107], §§ 1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260], 1261, 1266; [Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 564(b)(1), 567(c)(6), Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424], 1426.)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1512, Nov. 5, 1990, [104 Stat. 1724][/us/stat/104/1724]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], §§ 1404(b)(1)(A), 1405(a), 1410(b)(1), Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260], 1261, 1266; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], §§ 564(b)(1), 567(c)(6), Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424], 1426.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 567(c)(6)][/us/pl/112/81/s567/c/6], made technical amendment to section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 567(c)(6), made technical amendment to section catchline.
 
-    Subsec. (c). [Pub. L. 112–81, § 564(b)(1)][/us/pl/112/81/s564/b/1], substituted “Administrator” for “Director”.
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 564(b)(1), substituted “Administrator” for “Director”.
 
-    2001—Subsecs. (a), (c), (d). [Pub. L. 107–107, § 1404(b)(1)(A)][/us/pl/107/107/s1404/b/1/A], substituted “Chief Operating Officer” for “Retirement Home Board” wherever appearing.
+    2001—Subsecs. (a), (c), (d). [Pub. L. 107–107][/us/pl/107/107], § 1404(b)(1)(A), substituted “Chief Operating Officer” for “Retirement Home Board” wherever appearing.
 
-    Subsec. (e). [Pub. L. 107–107, § 1405(a)][/us/pl/107/107/s1405/a], struck out heading and text of subsec. (e). Text read as follows: “A resident of the Retirement Home who leaves the Retirement Home for more than 45 consecutive days (other than for inpatient medical care) shall be required to reapply for acceptance as a resident.”
+    Subsec. (e). [Pub. L. 107–107][/us/pl/107/107], § 1405(a), struck out heading and text of subsec. (e). Text read as follows: “A resident of the Retirement Home who leaves the Retirement Home for more than 45 consecutive days (other than for inpatient medical care) shall be required to reapply for acceptance as a resident.”
 
-    Subsec. (f). [Pub. L. 107–107, § 1410(b)(1)][/us/pl/107/107/s1410/b/1], struck out heading and text of subsec. (f). Text read as follows: “Residents of the Naval Home and the United States Soldiers’ and Airmen’s Home as of the effective date specified in section 1541(a)—
+    Subsec. (f). [Pub. L. 107–107][/us/pl/107/107], § 1410(b)(1), struck out heading and text of subsec. (f). Text read as follows: “Residents of the Naval Home and the United States Soldiers’ and Airmen’s Home as of the effective date specified in section 1541(a)—
 
     “(1) shall not be required to apply for acceptance as residents of the Retirement Home; and
 
@@ -89,17 +89,17 @@
 ----------
 
 [/us/usc/t37/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs310
-[/us/pl/101/510/s1512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1512
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1724
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1260
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1424
-[/us/pl/112/81/s567/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs567%2Fc%2F6
-[/us/pl/112/81/s564/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs564%2Fb%2F1
-[/us/pl/107/107/s1404/b/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F1%2FA
-[/us/pl/107/107/s1405/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1405%2Fa
-[/us/pl/107/107/s1410/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1410%2Fb%2F1
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/101/510/s1541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541%2Fa
 [/us/usc/t24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs401
 

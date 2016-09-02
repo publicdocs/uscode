@@ -37,11 +37,11 @@
 
         In subsection (b)(1), the term “position” has the meaning given that term in [section 5531 of title 5][/us/usc/t5/s5531].
 
-([Pub. L. 101–510, div. A, title XV, § 1521][/us/pl/101/510/s1521], as added [Pub. L. 102–484, div. A, title III, § 385(a)][/us/pl/102/484/s385/a], Oct. 23, 1992, [106 Stat. 2394][/us/stat/106/2394]; amended [Pub. L. 104–201, div. A, title X, § 1052(b)][/us/pl/104/201/s1052/b], Sept. 23, 1996, [110 Stat. 2650][/us/stat/110/2650]; [Pub. L. 107–107, div. A, title XIV, § 1404(b)(3)][/us/pl/107/107/s1404/b/3], Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260].)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1521, as added [Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 385(a), Oct. 23, 1992, [106 Stat. 2394][/us/stat/106/2394]; amended [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1052(b), Sept. 23, 1996, [110 Stat. 2650][/us/stat/110/2650]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], § 1404(b)(3), Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260].)
 
  __References in Text__ 
 
-    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (b)(1), was repealed by [Pub. L. 106–65, div. A, title VI, § 651(a)(1)][/us/pl/106/65/s651/a/1], Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
+    [Section 5532 of title 5][/us/usc/t5/s5532], referred to in subsec. (b)(1), was repealed by [Pub. L. 106–65, div. A, title VI][/us/pl/106/65/dA/tVI], § 651(a)(1), Oct. 5, 1999, [113 Stat. 664][/us/stat/113/664].
 
  __Amendments__ 
 
@@ -51,7 +51,7 @@
 
  __Forgiveness of Indebtedness__ 
 
-[Pub. L. 102–484, div. A, title III, § 385(b)][/us/pl/102/484/s385/b], Oct. 23, 1992, [106 Stat. 2394][/us/stat/106/2394], provided that: 
+[Pub. L. 102–484, div. A, title III][/us/pl/102/484/dA/tIII], § 385(b), Oct. 23, 1992, [106 Stat. 2394][/us/stat/106/2394], provided that: 
 
 > “The Chairman of the Armed Forces Retirement Board is authorized to cancel the indebtedness of any resident of the Armed Forces Retirement Home for repayment to the United States of amounts paid the resident for services provided to the Retirement Home before the date of the enactment of this Act \[Oct. 23, 1992\] if the Chairman determines that it would be in the interest of the United States to do so and against equity and good conscience to require the repayment.”
 
@@ -63,19 +63,19 @@
 ----------
 
 [/us/usc/t5/s5531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5531
-[/us/pl/101/510/s1521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1521
-[/us/pl/102/484/s385/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs385%2Fa
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2394
-[/us/pl/104/201/s1052/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1052%2Fb
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2650
-[/us/pl/107/107/s1404/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F3
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1260
 [/us/usc/t5/s5532]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5532
-[/us/pl/106/65/s651/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2Fs651%2Fa%2F1
+[/us/pl/106/65/dA/tVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F65%2FdA%2FtVI
 [/us/stat/113/664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F113%2F664
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/104/201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201
-[/us/pl/102/484/s385/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2Fs385%2Fb
+[/us/pl/102/484/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484%2FdA%2FtIII
 [/us/stat/106/2394]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2394
 
 

@@ -17,7 +17,7 @@
 
     In the case of any person hospitalized under [section 324 of this title][/us/usc/t24/s324] who has been judicially committed to the Secretary’s custody, the Secretary shall, upon the discharge or conditional release of such person, or upon such person’s transfer and release under [section 323 of this title][/us/usc/t24/s323], notify the committing court of such discharge or conditional release or such transfer and release.
 
-([Pub. L. 86–571, § 7][/us/pl/86/571/s7], July 5, 1960, [74 Stat. 310][/us/stat/74/310].)
+([Pub. L. 86–571][/us/pl/86/571], § 7, July 5, 1960, [74 Stat. 310][/us/stat/74/310].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t24/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs324
 [/us/usc/t24/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs323
-[/us/pl/86/571/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs7
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F310
 
 

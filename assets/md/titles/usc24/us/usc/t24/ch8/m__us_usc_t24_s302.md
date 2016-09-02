@@ -17,7 +17,7 @@
 
     The change in the name of said hospital shall in no wise affect the rights of the Federal Government, or any municipality, corporation, association, or person; and all records, maps, and public documents of the United States in which said hospital is mentioned or referred to under the name of the Ancon Hospital or otherwise shall be held to refer to the said hospital under and by the name of the Gorgas Hospital.
 
-([Mar. 24, 1928, ch. 240, § 2][/us/act/1928-03-24/ch240/s2], [45 Stat. 366][/us/stat/45/366].)
+([Mar. 24, 1928, ch. 240][/us/act/1928-03-24/ch240], § 2, [45 Stat. 366][/us/stat/45/366].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1928-03-24/ch240/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-24%2Fch240%2Fs2
+[/us/act/1928-03-24/ch240]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1928-03-24%2Fch240
 [/us/stat/45/366]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F366
 
 

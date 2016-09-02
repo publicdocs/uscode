@@ -43,7 +43,7 @@
 
         (2) The Retirement Home may not collect a fee from a resident for transportation provided under this subsection.
 
-([Pub. L. 101–510, div. A, title XV, § 1513][/us/pl/101/510/s1513], Nov. 5, 1990, [104 Stat. 1725][/us/stat/104/1725]; [Pub. L. 103–160, div. A, title III, § 366(c)][/us/pl/103/160/s366/c], Nov. 30, 1993, [107 Stat. 1630][/us/stat/107/1630]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107], §§ 1404(b)(1)(B), 1410(a)(1), Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260], 1266; [Pub. L. 109–163, div. A, title IX, § 909(a)][/us/pl/109/163/s909/a], Jan. 6, 2006, [119 Stat. 3404][/us/stat/119/3404]; [Pub. L. 110–181, div. A, title XIV, § 1422(c)][/us/pl/110/181/s1422/c], Jan. 28, 2008, [122 Stat. 420][/us/stat/122/420]; [Pub. L. 112–81, div. A, title V, § 567(c)(2)][/us/pl/112/81/s567/c/2], Dec. 31, 2011, [125 Stat. 1426][/us/stat/125/1426].)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1513, Nov. 5, 1990, [104 Stat. 1725][/us/stat/104/1725]; [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 366(c), Nov. 30, 1993, [107 Stat. 1630][/us/stat/107/1630]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], §§ 1404(b)(1)(B), 1410(a)(1), Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260], 1266; [Pub. L. 109–163, div. A, title IX][/us/pl/109/163/dA/tIX], § 909(a), Jan. 6, 2006, [119 Stat. 3404][/us/stat/119/3404]; [Pub. L. 110–181, div. A, title XIV][/us/pl/110/181/dA/tXIV], § 1422(c), Jan. 28, 2008, [122 Stat. 420][/us/stat/122/420]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 567(c)(2), Dec. 31, 2011, [125 Stat. 1426][/us/stat/125/1426].)
 
  __Amendments__ 
 
@@ -51,15 +51,15 @@
 
     2008—Subsec. (b). [Pub. L. 110–181][/us/pl/110/181] inserted after first sentence “The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents.”
 
-    2006—Subsec. (a). [Pub. L. 109–163, § 909(a)(1)][/us/pl/109/163/s909/a/1], substituted “subsections (b), (c), and (d)” for “subsection (b)”.
+    2006—Subsec. (a). [Pub. L. 109–163][/us/pl/109/163], § 909(a)(1), substituted “subsections (b), (c), and (d)” for “subsection (b)”.
 
-    Subsec. (b). [Pub. L. 109–163, § 909(a)(2)][/us/pl/109/163/s909/a/2], substituted “Except as provided in subsection (d), the” for “The”.
+    Subsec. (b). [Pub. L. 109–163][/us/pl/109/163], § 909(a)(2), substituted “Except as provided in subsection (d), the” for “The”.
 
-    Subsecs. (c), (d). [Pub. L. 109–163, § 909(a)(3)][/us/pl/109/163/s909/a/3], added subsecs. (c) and (d).
+    Subsecs. (c), (d). [Pub. L. 109–163][/us/pl/109/163], § 909(a)(3), added subsecs. (c) and (d).
 
-    2001—Subsec. (a). [Pub. L. 107–107, § 1404(b)(1)(B)][/us/pl/107/107/s1404/b/1/B], substituted “Chief Operating Officer” for “Retirement Home Board”.
+    2001—Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 1404(b)(1)(B), substituted “Chief Operating Officer” for “Retirement Home Board”.
 
-    Subsec. (b). [Pub. L. 107–107, § 1410(a)(1)][/us/pl/107/107/s1410/a/1], struck out “maintained as a separate establishment” after “available at a facility” in second sentence.
+    Subsec. (b). [Pub. L. 107–107][/us/pl/107/107], § 1410(a)(1), struck out “maintained as a separate establishment” after “available at a facility” in second sentence.
 
     1993—Subsec. (b). [Pub. L. 103–160][/us/pl/103/160] added second and third sentences and struck out former second sentence which read as follows: “Secondary and tertiary hospital care for residents that is not available at the Retirement Home shall be obtained through agreements with facilities administered by the Secretary of Veterans Affairs or the Secretary of Defense or at private facilities.”
 
@@ -74,25 +74,25 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1513
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1725
-[/us/pl/103/160/s366/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs366%2Fc
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1630
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1260
-[/us/pl/109/163/s909/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs909%2Fa
+[/us/pl/109/163/dA/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2FdA%2FtIX
 [/us/stat/119/3404]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F3404
-[/us/pl/110/181/s1422/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1422%2Fc
+[/us/pl/110/181/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXIV
 [/us/stat/122/420]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F420
-[/us/pl/112/81/s567/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs567%2Fc%2F2
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1426
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/109/163/s909/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs909%2Fa%2F1
-[/us/pl/109/163/s909/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs909%2Fa%2F2
-[/us/pl/109/163/s909/a/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163%2Fs909%2Fa%2F3
-[/us/pl/107/107/s1404/b/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F1%2FB
-[/us/pl/107/107/s1410/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1410%2Fa%2F1
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/109/163]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F163
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
 [/us/pl/101/510/s1541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541%2Fa
 [/us/usc/t24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs401

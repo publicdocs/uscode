@@ -13,9 +13,9 @@
 
 [Previous](./../../../..//us/usc/t24/ch2/m__us_usc_t24_s44a.md) | [Next](./../../../..//us/usc/t24/ch2/m__us_usc_t24_s44c.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs44b)
 
-## § 44b. Repealed. [Pub. L. 101–510, div. A, title XV, § 1532(b)(4)][/us/pl/101/510/s1532/b/4], Nov. 5, 1990, [104 Stat. 1733][/us/stat/104/1733]
+## § 44b. Repealed. [Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1532(b)(4), Nov. 5, 1990, [104 Stat. 1733][/us/stat/104/1733]
 
-    Section, [Pub. L. 94–454, § 1][/us/pl/94/454/s1], Oct. 2, 1976, [90 Stat. 1518][/us/stat/90/1518], related to collection of fees from members of Soldiers’ Home.
+    Section, [Pub. L. 94–454][/us/pl/94/454], § 1, Oct. 2, 1976, [90 Stat. 1518][/us/stat/90/1518], related to collection of fees from members of Soldiers’ Home.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1532/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1532%2Fb%2F4
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1733]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1733
-[/us/pl/94/454/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F454%2Fs1
+[/us/pl/94/454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F454
 [/us/stat/90/1518]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1518
 [/us/pl/101/510/s1541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541%2Fa
 [/us/usc/t24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs401

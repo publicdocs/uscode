@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s196.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s196b.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs196a)
 
-## § 196a. Repealed. [Pub. L. 86–571, § 10(b)][/us/pl/86/571/s10/b], July 5, 1960, [74 Stat. 310][/us/stat/74/310]
+## § 196a. Repealed. [Pub. L. 86–571][/us/pl/86/571], § 10(b), July 5, 1960, [74 Stat. 310][/us/stat/74/310]
 
     Section, acts [Mar. 2, 1929, ch. 509][/us/act/1929-03-02/ch509], [45 Stat. 1495][/us/stat/45/1495]; [June 25, 1936, ch. 804][/us/act/1936-06-25/ch804], [49 Stat. 1921][/us/stat/49/1921], authorized transfer to Saint Elizabeths Hospital of American citizens adjudged insane in Canada. See section 321 et seq. of this title.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/86/571/s10/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs10%2Fb
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F310
 [/us/act/1929-03-02/ch509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1929-03-02%2Fch509
 [/us/stat/45/1495]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F45%2F1495

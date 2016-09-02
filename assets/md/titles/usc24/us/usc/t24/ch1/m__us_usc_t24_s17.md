@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4811 derived from [act Feb. 26, 1811, ch. 26, § 4][/us/act/1811-02-26/ch26/s4], [2 Stat. 650][/us/stat/2/650].
+    R.S. § 4811 derived from [act Feb. 26, 1811, ch. 26][/us/act/1811-02-26/ch26], § 4, [2 Stat. 650][/us/stat/2/650].
 
 ----------
 
@@ -30,7 +30,7 @@
 ----------
 ----------
 
-[/us/act/1811-02-26/ch26/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1811-02-26%2Fch26%2Fs4
+[/us/act/1811-02-26/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1811-02-26%2Fch26
 [/us/stat/2/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F650
 
 

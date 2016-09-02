@@ -23,11 +23,11 @@
 
         The authority of the Secretary to provide hospitalization for any person under this section shall not apply to any person for whose medical care and treatment any agency of the United States is responsible.
 
-([Pub. L. 86–571, § 4][/us/pl/86/571/s4], July 5, 1960, [74 Stat. 309][/us/stat/74/309]; [Pub. L. 98–621, § 10(r)][/us/pl/98/621/s10/r], Nov. 8, 1984, [98 Stat. 3381][/us/stat/98/3381].)
+([Pub. L. 86–571][/us/pl/86/571], § 4, July 5, 1960, [74 Stat. 309][/us/stat/74/309]; [Pub. L. 98–621][/us/pl/98/621], § 10(r), Nov. 8, 1984, [98 Stat. 3381][/us/stat/98/3381].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Amendments__ 
 
@@ -47,12 +47,12 @@
 [/us/usc/t24/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs323
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t24/s322]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs322
-[/us/pl/86/571/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs4
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F309
-[/us/pl/98/621/s10/r]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs10%2Fr
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3381
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621

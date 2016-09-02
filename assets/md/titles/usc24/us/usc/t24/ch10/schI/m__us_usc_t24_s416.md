@@ -95,11 +95,11 @@
 
         (2) A member of the Advisory Council who is a member of the Armed Forces on active duty or a full-time officer or employee of the United States shall receive no additional pay by reason of serving as a member of the Advisory Council.
 
-([Pub. L. 101–510, div. A, title XV, § 1516][/us/pl/101/510/s1516], as added [Pub. L. 112–81, div. A, title V, § 563(a)][/us/pl/112/81/s563/a], Dec. 31, 2011, [125 Stat. 1421][/us/stat/125/1421].)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1516, as added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 563(a), Dec. 31, 2011, [125 Stat. 1421][/us/stat/125/1421].)
 
  __Prior Provisions__ 
 
-    A prior section 416, [Pub. L. 101–510, div. A, title XV, § 1516][/us/pl/101/510/s1516], Nov. 5, 1990, [104 Stat. 1728][/us/stat/104/1728]; [Pub. L. 107–107, div. A, title XIV, § 1406][/us/pl/107/107/s1406], Dec. 28, 2001, [115 Stat. 1262][/us/stat/115/1262]; [Pub. L. 110–181, div. A, title XIV, § 1422(e)][/us/pl/110/181/s1422/e], Jan. 28, 2008, [122 Stat. 421][/us/stat/122/421]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(12), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], related to local boards of trustees, prior to repeal by [Pub. L. 112–81, div. A, title V, § 563(a)][/us/pl/112/81/s563/a], Dec. 31, 2011, [125 Stat. 1421][/us/stat/125/1421].
+    A prior section 416, [Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1516, Nov. 5, 1990, [104 Stat. 1728][/us/stat/104/1728]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], § 1406, Dec. 28, 2001, [115 Stat. 1262][/us/stat/115/1262]; [Pub. L. 110–181, div. A, title XIV][/us/pl/110/181/dA/tXIV], § 1422(e), Jan. 28, 2008, [122 Stat. 421][/us/stat/122/421]; [Pub. L. 110–417][/us/pl/110/417], \[div. A\], title X, § 1061(b)(12), Oct. 14, 2008, [122 Stat. 4613][/us/stat/122/4613], related to local boards of trustees, prior to repeal by [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 563(a), Dec. 31, 2011, [125 Stat. 1421][/us/stat/125/1421].
 
 ----------
 
@@ -108,18 +108,18 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1516
-[/us/pl/112/81/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs563%2Fa
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1421
-[/us/pl/101/510/s1516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1516
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1728]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1728
-[/us/pl/107/107/s1406]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1406
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1262]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1262
-[/us/pl/110/181/s1422/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1422%2Fe
+[/us/pl/110/181/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXIV
 [/us/stat/122/421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F421
 [/us/pl/110/417]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F417
 [/us/stat/122/4613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F4613
-[/us/pl/112/81/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs563%2Fa
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1421]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1421
 
 

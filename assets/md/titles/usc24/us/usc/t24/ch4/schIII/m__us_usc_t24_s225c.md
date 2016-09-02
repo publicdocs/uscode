@@ -19,7 +19,7 @@
 
     (b) The Committee on the District of Columbia of the House of Representatives and the Committee on Labor and Human Resources and the Committee on Governmental Affairs of the Senate shall, within 90 days of submission of the final system implementation plan by the Mayor pursuant to [section 225b of this title][/us/usc/t24/s225b], review such plan to determine the extent to which it is in compliance with the provisions of [section 225(b) of this title][/us/usc/t24/s225/b] and [section 225b of this title][/us/usc/t24/s225b].
 
-([Pub. L. 98–621, § 5][/us/pl/98/621/s5], Nov. 8, 1984, [98 Stat. 3374][/us/stat/98/3374].)
+([Pub. L. 98–621][/us/pl/98/621], § 5, Nov. 8, 1984, [98 Stat. 3374][/us/stat/98/3374].)
 
  __Change of Name__ 
 
@@ -44,7 +44,7 @@
 [/us/usc/t24/s225b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225b
 [/us/usc/t24/s225/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225%2Fb
 [/us/usc/t24/s225b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225b
-[/us/pl/98/621/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs5
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3374
 [/us/pl/104/14/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21

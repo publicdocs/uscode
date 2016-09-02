@@ -67,21 +67,21 @@
 
         The Chief Operating Officer or the Administrator of a facility accepting services under subsection (a) may provide for reimbursement of a person for incidental expenses incurred by the person in providing the services accepted under subsection (a). The Chief Operating Officer or Administrator shall determine which expenses qualify for reimbursement under this subsection.
 
-([Pub. L. 101–510, div. A, title XV, § 1522][/us/pl/101/510/s1522], as added [Pub. L. 104–201, div. A, title X, § 1052(a)][/us/pl/104/201/s1052/a], Sept. 23, 1996, [110 Stat. 2649][/us/stat/110/2649]; amended [Pub. L. 107–107, div. A, title XIV, § 1404(b)(4)][/us/pl/107/107/s1404/b/4], Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260]; [Pub. L. 112–81, div. A, title V, § 564(b)(1)][/us/pl/112/81/s564/b/1], Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424].)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1522, as added [Pub. L. 104–201, div. A, title X][/us/pl/104/201/dA/tX], § 1052(a), Sept. 23, 1996, [110 Stat. 2649][/us/stat/110/2649]; amended [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], § 1404(b)(4), Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 564(b)(1), Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424].)
 
  __Amendments__ 
 
     2011—[Pub. L. 112–81][/us/pl/112/81] substituted “Administrator” for “Director” wherever appearing.
 
-    2001—Subsec. (a). [Pub. L. 107–107, § 1404(b)(4)(A)][/us/pl/107/107/s1404/b/4/A], substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of each establishment” and struck out “unless the acceptance of the voluntary services is disapproved by the Retirement Home Board” before period at end.
+    2001—Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 1404(b)(4)(A), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of each establishment” and struck out “unless the acceptance of the voluntary services is disapproved by the Retirement Home Board” before period at end.
 
-    Subsec. (b)(1). [Pub. L. 107–107, § 1404(b)(4)(B)][/us/pl/107/107/s1404/b/4/B], substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of the establishment” and inserted “offering the services” after “notify the person”.
+    Subsec. (b)(1). [Pub. L. 107–107][/us/pl/107/107], § 1404(b)(4)(B), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of the establishment” and inserted “offering the services” after “notify the person”.
 
-    Subsec. (b)(2). [Pub. L. 107–107, § 1404(b)(4)(C)][/us/pl/107/107/s1404/b/4/C], substituted “Chief Operating Officer” for “Chairman” in introductory provisions.
+    Subsec. (b)(2). [Pub. L. 107–107][/us/pl/107/107], § 1404(b)(4)(C), substituted “Chief Operating Officer” for “Chairman” in introductory provisions.
 
-    Subsec. (c). [Pub. L. 107–107, § 1404(b)(4)(D)][/us/pl/107/107/s1404/b/4/D], substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of an establishment”.
+    Subsec. (c). [Pub. L. 107–107][/us/pl/107/107], § 1404(b)(4)(D), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Home Board or the Director of an establishment”.
 
-    Subsec. (e). [Pub. L. 107–107, § 1404(b)(4)(E)][/us/pl/107/107/s1404/b/4/E], substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Board or the Director of the establishment” and “Chief Operating Officer or Director” for “Chairman or Director”.
+    Subsec. (e). [Pub. L. 107–107][/us/pl/107/107], § 1404(b)(4)(E), substituted “Chief Operating Officer or the Director of a facility” for “Chairman of the Retirement Board or the Director of the establishment” and “Chief Operating Officer or Director” for “Chairman or Director”.
 
 ----------
 
@@ -92,18 +92,18 @@
 
 [/us/usc/t31/s1342]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1342
 [/us/usc/t29/s206/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs206%2Fa%2F1
-[/us/pl/101/510/s1522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1522
-[/us/pl/104/201/s1052/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1052%2Fa
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
+[/us/pl/104/201/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2FdA%2FtX
 [/us/stat/110/2649]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F2649
-[/us/pl/107/107/s1404/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F4
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1260
-[/us/pl/112/81/s564/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs564%2Fb%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1424
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
-[/us/pl/107/107/s1404/b/4/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F4%2FA
-[/us/pl/107/107/s1404/b/4/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F4%2FB
-[/us/pl/107/107/s1404/b/4/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F4%2FC
-[/us/pl/107/107/s1404/b/4/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F4%2FD
-[/us/pl/107/107/s1404/b/4/E]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F4%2FE
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 
 

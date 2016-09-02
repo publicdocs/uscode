@@ -31,29 +31,29 @@
 
         (3) The fee shall be subject to a limitation on maximum monthly amount. The amount of the limitation shall be increased, effective on January 1 of each year, by the percentage of the increase in retired pay and retainer pay that takes effect on the preceding December 1 under subsection (b) of [section 1401a of title 10][/us/usc/t10/s1401a] without regard to paragraph (3) of such subsection.
 
-([Pub. L. 101–510, div. A, title XV, § 1514][/us/pl/101/510/s1514], Nov. 5, 1990, [104 Stat. 1725][/us/stat/104/1725]; [Pub. L. 103–337, div. A, title III, § 371(b)][/us/pl/103/337/s371/b], Oct. 5, 1994, [108 Stat. 2735][/us/stat/108/2735]; [Pub. L. 107–107, div. A, title XIV, § 1405(b)][/us/pl/107/107/s1405/b], Dec. 28, 2001, [115 Stat. 1261][/us/stat/115/1261]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 564(b), 565, Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424].)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1514, Nov. 5, 1990, [104 Stat. 1725][/us/stat/104/1725]; [Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 371(b), Oct. 5, 1994, [108 Stat. 2735][/us/stat/108/2735]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], § 1405(b), Dec. 28, 2001, [115 Stat. 1261][/us/stat/115/1261]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], §§ 564(b), 565, Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424].)
 
  __Amendments__ 
 
-    2011—Subsec. (a). [Pub. L. 112–81, § 564(b)(1)][/us/pl/112/81/s564/b/1], substituted “Administrator” for “Director”.
+    2011—Subsec. (a). [Pub. L. 112–81][/us/pl/112/81], § 564(b)(1), substituted “Administrator” for “Director”.
 
-    Subsec. (b). [Pub. L. 112–81, § 564(b)(2)][/us/pl/112/81/s564/b/2], substituted “Administrators” for “Directors”.
+    Subsec. (b). [Pub. L. 112–81][/us/pl/112/81], § 564(b)(2), substituted “Administrators” for “Directors”.
 
-    Subsec. (c)(3). [Pub. L. 112–81, § 565(a)][/us/pl/112/81/s565/a], struck out at end “The first increase in a limitation on maximum monthly amount shall take effect on January 1, 2003.”
+    Subsec. (c)(3). [Pub. L. 112–81][/us/pl/112/81], § 565(a), struck out at end “The first increase in a limitation on maximum monthly amount shall take effect on January 1, 2003.”
 
-    Subsec. (d). [Pub. L. 112–81, § 565(b)][/us/pl/112/81/s565/b], struck out subsec. (d) which related to transitional fee structures.
+    Subsec. (d). [Pub. L. 112–81][/us/pl/112/81], § 565(b), struck out subsec. (d) which related to transitional fee structures.
 
     2001—[Pub. L. 107–107][/us/pl/107/107] reenacted section catchline without change and amended text generally, substituting present provisions for provisions relating to collection of monthly fees in subsec. (a), deposit of fees in subsec. (b), fixing fees in subsec. (c), and application of fees in subsec. (d).
 
-    1994—Subsec. (c)(2). [Pub. L. 103–337, § 371(b)(1)][/us/pl/103/337/s371/b/1], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of Federal payments made to a resident, including monthly retired or retainer pay, monthly civil service annuity, monthly compensation or pension paid to the resident by the Secretary of Veterans Affairs, and Social Security payments. Residents who do not receive such Federal payments shall be required to pay a monthly fee that is equivalent to the average monthly fee paid by residents who receive Federal payments, subject to such adjustments in the fee as the Retirement Home Board may make. The percentage shall be the same for each establishment of the Retirement Home.”
+    1994—Subsec. (c)(2). [Pub. L. 103–337][/us/pl/103/337], § 371(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The fee shall be fixed as a percentage of Federal payments made to a resident, including monthly retired or retainer pay, monthly civil service annuity, monthly compensation or pension paid to the resident by the Secretary of Veterans Affairs, and Social Security payments. Residents who do not receive such Federal payments shall be required to pay a monthly fee that is equivalent to the average monthly fee paid by residents who receive Federal payments, subject to such adjustments in the fee as the Retirement Home Board may make. The percentage shall be the same for each establishment of the Retirement Home.”
 
-    Subsec. (d). [Pub. L. 103–337, § 371(b)(2)][/us/pl/103/337/s371/b/2], added subsec. (d) and struck out former subsec. (d) which specified fees to be paid by residents of the Naval Home and residents of the United States Soldiers’ and Airmen’s Home who became residents of the Retirement Home on the effective date specified in [section 1541(a) of Pub. L. 101–510][/us/pl/101/510/s1541/a].
+    Subsec. (d). [Pub. L. 103–337][/us/pl/103/337], § 371(b)(2), added subsec. (d) and struck out former subsec. (d) which specified fees to be paid by residents of the Naval Home and residents of the United States Soldiers’ and Airmen’s Home who became residents of the Retirement Home on the effective date specified in [section 1541(a) of Pub. L. 101–510][/us/pl/101/510/s1541/a].
 
-    Subsec. (e). [Pub. L. 103–337, § 371(b)(2)(A)][/us/pl/103/337/s371/b/2/A], struck out subsec. (e) which read as follows: “A person who becomes a resident of the Retirement Home after the effective date specified in section 1541(a) shall be required to pay a monthly fee that is equal to 25 percent of Federal payments made to the resident, subject to such adjustments in the fee as may be made under subsection (c) of this section.”
+    Subsec. (e). [Pub. L. 103–337][/us/pl/103/337], § 371(b)(2)(A), struck out subsec. (e) which read as follows: “A person who becomes a resident of the Retirement Home after the effective date specified in section 1541(a) shall be required to pay a monthly fee that is equal to 25 percent of Federal payments made to the resident, subject to such adjustments in the fee as may be made under subsection (c) of this section.”
 
  __Effective Date of 1994 Amendment__ 
 
-[Pub. L. 103–337, div. A, title III, § 371(d)(2)][/us/pl/103/337/s371/d/2], Oct. 5, 1994, [108 Stat. 2735][/us/stat/108/2735], provided that: 
+[Pub. L. 103–337, div. A, title III][/us/pl/103/337/dA/tIII], § 371(d)(2), Oct. 5, 1994, [108 Stat. 2735][/us/stat/108/2735], provided that: 
 
 > “The amendments made by subsection (b) \[amending this section\] shall take effect on October 1, 1997.”
 
@@ -69,24 +69,24 @@
 ----------
 
 [/us/usc/t10/s1401a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs1401a
-[/us/pl/101/510/s1514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1514
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1725]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1725
-[/us/pl/103/337/s371/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs371%2Fb
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2735
-[/us/pl/107/107/s1405/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1405%2Fb
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1261
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1424
-[/us/pl/112/81/s564/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs564%2Fb%2F1
-[/us/pl/112/81/s564/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs564%2Fb%2F2
-[/us/pl/112/81/s565/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs565%2Fa
-[/us/pl/112/81/s565/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs565%2Fb
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/103/337/s371/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs371%2Fb%2F1
-[/us/pl/103/337/s371/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs371%2Fb%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
 [/us/pl/101/510/s1541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541%2Fa
-[/us/pl/103/337/s371/b/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs371%2Fb%2F2%2FA
-[/us/pl/103/337/s371/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs371%2Fd%2F2
+[/us/pl/103/337]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337
+[/us/pl/103/337/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2FdA%2FtIII
 [/us/stat/108/2735]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2735
 [/us/pl/101/510/s1541/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541%2Fa
 [/us/usc/t24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs401

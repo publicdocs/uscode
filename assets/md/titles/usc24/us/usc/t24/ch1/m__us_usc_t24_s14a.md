@@ -17,7 +17,7 @@
 
     Commencing with the fiscal year 1944, annual appropriations in such amounts as may be necessary are authorized from the general fund of the Treasury for the maintenance, operation, and improvement of naval hospitals.
 
-([June 15, 1943, ch. 125, § 1(c)][/us/act/1943-06-15/ch125/s1/c], [57 Stat. 152][/us/stat/57/152].)
+([June 15, 1943, ch. 125][/us/act/1943-06-15/ch125], § 1(c), [57 Stat. 152][/us/stat/57/152].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1943-06-15/ch125/s1/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-15%2Fch125%2Fs1%2Fc
+[/us/act/1943-06-15/ch125]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-15%2Fch125
 [/us/stat/57/152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F152
 
 

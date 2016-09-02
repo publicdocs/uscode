@@ -23,7 +23,7 @@
 
         Whenever any person is admitted to a hospital pursuant to this chapter, his legal guardian, spouse, or next of kin shall, if known, be immediately notified.
 
-([Pub. L. 86–571, § 5][/us/pl/86/571/s5], July 5, 1960, [74 Stat. 309][/us/stat/74/309].)
+([Pub. L. 86–571][/us/pl/86/571], § 5, July 5, 1960, [74 Stat. 309][/us/stat/74/309].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t24/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs324
-[/us/pl/86/571/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs5
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F309
 
 

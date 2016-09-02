@@ -17,7 +17,7 @@
 
     Appropriations for carrying out this chapter shall also be available for the transportation of any eligible person and necessary attendants to or from a hospital (including any hospital of a State or political subdivision to which an eligible person is released under [section 323 of this title][/us/usc/t24/s323]), to the place where a relative to whom any person is released under [section 323 of this title][/us/usc/t24/s323] resides, or to a person’s home upon his discharge from hospitalization under this chapter.
 
-([Pub. L. 86–571, § 9][/us/pl/86/571/s9], July 5, 1960, [74 Stat. 310][/us/stat/74/310].)
+([Pub. L. 86–571][/us/pl/86/571], § 9, July 5, 1960, [74 Stat. 310][/us/stat/74/310].)
 
 ----------
 
@@ -28,7 +28,7 @@
 
 [/us/usc/t24/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs323
 [/us/usc/t24/s323]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs323
-[/us/pl/86/571/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs9
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F310
 
 

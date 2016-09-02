@@ -85,7 +85,7 @@
 
         (8) the comprehensive mental health system plan include a component for direct services for the homeless mentally ill.
 
-([Pub. L. 98–621, § 2][/us/pl/98/621/s2], Nov. 8, 1984, [98 Stat. 3369][/us/stat/98/3369]; [Pub. L. 102–150, § 3(a)][/us/pl/102/150/s3/a], Oct. 31, 1991, [105 Stat. 980][/us/stat/105/980].)
+([Pub. L. 98–621][/us/pl/98/621], § 2, Nov. 8, 1984, [98 Stat. 3369][/us/stat/98/3369]; [Pub. L. 102–150][/us/pl/102/150], § 3(a), Oct. 31, 1991, [105 Stat. 980][/us/stat/105/980].)
 
  __References in Text__ 
 
@@ -97,7 +97,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 98–621, § 12][/us/pl/98/621/s12], formerly § 11, Nov. 8, 1984, [98 Stat. 3382][/us/stat/98/3382], renumbered § 12, [Pub. L. 102–150, § 4(1)][/us/pl/102/150/s4/1], Oct. 31, 1991, [105 Stat. 981][/us/stat/105/981], provided that:
+[Pub. L. 98–621][/us/pl/98/621], § 12, formerly § 11, Nov. 8, 1984, [98 Stat. 3382][/us/stat/98/3382], renumbered § 12, [Pub. L. 102–150][/us/pl/102/150], § 4(1), Oct. 31, 1991, [105 Stat. 981][/us/stat/105/981], provided that:
 
 >     “(a) Except as provided in subsection (b), this Act \[see Short Title note below\] shall take effect on October 1, 1985.”
 
@@ -105,13 +105,13 @@
 
  __Short Title of 1991 Amendment__ 
 
-[Pub. L. 102–150, § 1][/us/pl/102/150/s1], Oct. 31, 1991, [105 Stat. 980][/us/stat/105/980], provided that: 
+[Pub. L. 102–150][/us/pl/102/150], § 1, Oct. 31, 1991, [105 Stat. 980][/us/stat/105/980], provided that: 
 
 > “This Act \[enacting [section 225h of this title][/us/usc/t24/s225h], amending this section and sections 225b and 225f of this title, and renumbering provisions set out as a note under this section\] may be cited as the ‘District of Columbia Mental Health Program Assistance Act of 1991’.”
 
  __Short Title__ 
 
-[Pub. L. 98–621, § 1][/us/pl/98/621/s1], Nov. 8, 1984, [98 Stat. 3369][/us/stat/98/3369], provided that: 
+[Pub. L. 98–621][/us/pl/98/621], § 1, Nov. 8, 1984, [98 Stat. 3369][/us/stat/98/3369], provided that: 
 
 > “This Act \[enacting this subchapter, amending [section 324 of this title][/us/usc/t24/s324], repealing sections 161, 164 to 166, 168, 168a, 169, 169a, 170 to 172, 175 to 177, 180 to 185, 191, 192, 194, 195, 195a, 196, 196b, 197 to 204, 206, 211 to 214, 221, and 222 of this title and [section 300aa–3 of Title 42][/us/usc/t42/s300aa–3], The Public Health and Welfare\] may be cited as the ‘Saint Elizabeths Hospital and District of Columbia Mental Health Services Act’.”
 
@@ -122,23 +122,23 @@
 ----------
 ----------
 
-[/us/pl/98/621/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs2
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3369
-[/us/pl/102/150/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150%2Fs3%2Fa
+[/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
 [/us/stat/105/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F980
 [/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3369
 [/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
-[/us/pl/98/621/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs12
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3382]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3382
-[/us/pl/102/150/s4/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150%2Fs4%2F1
+[/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
 [/us/stat/105/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F981
 [/us/usc/t24/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs324
 [/us/usc/t42/s300aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%933
-[/us/pl/102/150/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150%2Fs1
+[/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
 [/us/stat/105/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F980
 [/us/usc/t24/s225h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225h
-[/us/pl/98/621/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs1
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3369]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3369
 [/us/usc/t24/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs324
 [/us/usc/t42/s300aa–3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300aa%E2%80%933

@@ -83,7 +83,7 @@
 
         During the service coordination period, the District of Columbia and the Secretary, to the extent provided in the Federal court consent decree, shall be jointly responsible for providing citizens with the full range and scope of mental health services set forth in such decree and the system implementation plan. No provision of this subchapter or any action or agreement during the service coordination period may be so construed as to absolve or relieve the District or the Federal Government of their joint or respective responsibilities to implement fully the mandates of the Federal court consent decree.
 
-([Pub. L. 98–621, § 4][/us/pl/98/621/s4], Nov. 8, 1984, [98 Stat. 3371][/us/stat/98/3371]; [Pub. L. 102–150][/us/pl/102/150], §§ 2, 3(a), Oct. 31, 1991, [105 Stat. 980][/us/stat/105/980]; [Pub. L. 105–33, title XI, § 11717(b)][/us/pl/105/33/s11717/b], Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786].)
+([Pub. L. 98–621][/us/pl/98/621], § 4, Nov. 8, 1984, [98 Stat. 3371][/us/stat/98/3371]; [Pub. L. 102–150][/us/pl/102/150], §§ 2, 3(a), Oct. 31, 1991, [105 Stat. 980][/us/stat/105/980]; [Pub. L. 105–33, title XI][/us/pl/105/33/tXI], § 11717(b), Aug. 5, 1997, [111 Stat. 786][/us/stat/111/786].)
 
  __References in Text__ 
 
@@ -95,11 +95,11 @@
 
     1997—Subsec. (b)(3). [Pub. L. 105–33][/us/pl/105/33] substituted “District of Columbia Home Rule Act” for “District of Columbia Self-Government and Governmental Reorganization Act”.
 
-    1991—Subsec. (a)(2). [Pub. L. 102–150, § 3(a)][/us/pl/102/150/s3/a], substituted “October 1, 1993” for “October 1, 1991”.
+    1991—Subsec. (a)(2). [Pub. L. 102–150][/us/pl/102/150], § 3(a), substituted “October 1, 1993” for “October 1, 1991”.
 
     Subsec. (f)(2)(A). [Pub. L. 102–150][/us/pl/102/150], §§ 2(1), 3(a), substituted “and, except as provided under an agreement entered into pursuant to subparagraph (C), complete” for “and complete” and “October 1, 1993” for “October 1, 1991”.
 
-    Subsec. (f)(2)(C). [Pub. L. 102–150, § 2(2)][/us/pl/102/150/s2/2], added subpar. (C).
+    Subsec. (f)(2)(C). [Pub. L. 102–150][/us/pl/102/150], § 2(2), added subpar. (C).
 
  __Change of Name__ 
 
@@ -117,7 +117,7 @@
 
  __Termination of Claims__ 
 
-[Pub. L. 109–396, title I, § 102][/us/pl/109/396/s102], Dec. 15, 2006, [120 Stat. 2712][/us/stat/120/2712], provided that:
+[Pub. L. 109–396, title I][/us/pl/109/396/tI], § 102, Dec. 15, 2006, [120 Stat. 2712][/us/stat/120/2712], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -142,27 +142,27 @@
 
 [/us/usc/t24/s225g/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225g%2Fb%2F1
 [/us/usc/t24/s225f/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225f%2Fa%2F1
-[/us/pl/98/621/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs4
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3371
 [/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
 [/us/stat/105/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F980
-[/us/pl/105/33/s11717/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11717%2Fb
+[/us/pl/105/33/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2FtXI
 [/us/stat/111/786]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F786
 [/us/pl/93/198/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2Fs422
 [/us/stat/87/790]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F790
 [/us/pl/92/463]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F463
 [/us/stat/86/770]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F770
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
-[/us/pl/102/150/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150%2Fs3%2Fa
 [/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
-[/us/pl/102/150/s2/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150%2Fs2%2F2
+[/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
+[/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33
 [/us/pl/105/33/s11721]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs11721
 [/us/usc/t18/s4246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs4246
 [/us/pl/104/14/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb
 [/us/usc/t2/s21]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs21
-[/us/pl/109/396/s102]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396%2Fs102
+[/us/pl/109/396/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F396%2FtI
 [/us/stat/120/2712]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F2712
 [/us/usc/t24/s225b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225b%2Ff
 [/us/usc/t24/s225g/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225g%2Fb

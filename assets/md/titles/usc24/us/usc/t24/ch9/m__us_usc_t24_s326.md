@@ -23,7 +23,7 @@
 
         The Secretary is authorized at any time, when he deems it to be in the interest of the person or of the institution affected, to transfer any person hospitalized under [section 324 of this title][/us/usc/t24/s324] from one hospital to another, and to that end any judicial commitment of any person so hospitalized may be to the Secretary.
 
-([Pub. L. 86–571, § 6][/us/pl/86/571/s6], July 5, 1960, [74 Stat. 309][/us/stat/74/309].)
+([Pub. L. 86–571][/us/pl/86/571], § 6, July 5, 1960, [74 Stat. 309][/us/stat/74/309].)
 
 ----------
 
@@ -33,7 +33,7 @@
 ----------
 
 [/us/usc/t24/s324]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs324
-[/us/pl/86/571/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs6
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F309
 
 

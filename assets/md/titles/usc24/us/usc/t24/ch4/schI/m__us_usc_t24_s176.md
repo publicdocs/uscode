@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s175.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s177.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs176)
 
-## § 176. Repealed. [Pub. L. 98–621, § 10(c)][/us/pl/98/621/s10/c], Nov. 8, 1984, [98 Stat. 3379][/us/stat/98/3379]
+## § 176. Repealed. [Pub. L. 98–621][/us/pl/98/621], § 10(c), Nov. 8, 1984, [98 Stat. 3379][/us/stat/98/3379]
 
-    Section, acts [Mar. 6, 1920, ch. 94][/us/act/1920-03-06/ch94], [41 Stat. 513][/us/stat/41/513]; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1236][/us/stat/54/1236]; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; Oct. 17, 1979, [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], [93 Stat. 695][/us/stat/93/695], related to disposition of articles made by patients of Saint Elizabeths Hospital.
+    Section, acts [Mar. 6, 1920, ch. 94][/us/act/1920-03-06/ch94], [41 Stat. 513][/us/stat/41/513]; 1940 Reorg. Plan No. IV, § 11(a), eff. June 30, 1940, 5 F.R. 2422, [54 Stat. 1236][/us/stat/54/1236]; 1953 Reorg. Plan No. 1, § 5, eff. Apr. 11, 1953, 18 F.R. 2053, [67 Stat. 631][/us/stat/67/631]; Oct. 17, 1979, [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), [93 Stat. 695][/us/stat/93/695], related to disposition of articles made by patients of Saint Elizabeths Hospital.
 
  __Effective Date of Repeal__ 
 
@@ -28,13 +28,13 @@
 ----------
 ----------
 
-[/us/pl/98/621/s10/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs10%2Fc
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3379]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3379
 [/us/act/1920-03-06/ch94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1920-03-06%2Fch94
 [/us/stat/41/513]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F41%2F513
 [/us/stat/54/1236]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F54%2F1236
 [/us/stat/67/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F67%2F631
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/98/621/s12/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs12%2Fb
 [/us/usc/t24/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225

@@ -17,11 +17,11 @@
 
     The Secretary of the Navy is authorized to furnish materials for the manufacture or production by patients of products incident to the convalescence and rehabilitation of such patients in naval hospitals and other naval medical facilities, and ownership thereof shall be vested in the patients manufacturing or producing such products, except that the ownership of items manufactured or produced specifically for the use of a naval hospital or other naval medical facility shall be vested in the Government and such items shall be accounted for and disposed of accordingly.
 
-([Aug. 2, 1946, ch. 756, § 27][/us/act/1946-08-02/ch756/s27], [60 Stat. 856][/us/stat/60/856].)
+([Aug. 2, 1946, ch. 756][/us/act/1946-08-02/ch756], § 27, [60 Stat. 856][/us/stat/60/856].)
 
  __Delegation of Powers and Authority__ 
 
-    [Act Aug. 2, 1946, ch. 756, § 39][/us/act/1946-08-02/ch756/s39], [60 Stat. 858][/us/stat/60/858], authorized Secretary of the Navy to delegate to such persons in Naval Establishment and to such extent as he may deem proper, with or without authority to make successive redelegations, authority conferred upon Secretary by this section, except authority to prescribe regulations. Such section 39 was repealed by [act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641], less its applicability to this section and [section 21a of this title][/us/usc/t24/s21a].
+    [Act Aug. 2, 1946, ch. 756][/us/act/1946-08-02/ch756], § 39, [60 Stat. 858][/us/stat/60/858], authorized Secretary of the Navy to delegate to such persons in Naval Establishment and to such extent as he may deem proper, with or without authority to make successive redelegations, authority conferred upon Secretary by this section, except authority to prescribe regulations. Such section 39 was repealed by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641], less its applicability to this section and [section 21a of this title][/us/usc/t24/s21a].
 
 ----------
 
@@ -30,11 +30,11 @@
 ----------
 ----------
 
-[/us/act/1946-08-02/ch756/s27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch756%2Fs27
+[/us/act/1946-08-02/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch756
 [/us/stat/60/856]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F856
-[/us/act/1946-08-02/ch756/s39]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch756%2Fs39
+[/us/act/1946-08-02/ch756]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-02%2Fch756
 [/us/stat/60/858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F858
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/usc/t24/s21a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs21a
 

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_ch1.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs6)
+[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s3...5.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs6)
 
 ## § 6. Pension paid to fund for benefit of naval hospital
 
@@ -21,11 +21,11 @@
 
  __Codification__ 
 
-    R.S. § 4813 derived from [act Feb. 26, 1811, ch. 26, § 5][/us/act/1811-02-26/ch26/s5], [2 Stat. 650][/us/stat/2/650].
+    R.S. § 4813 derived from [act Feb. 26, 1811, ch. 26][/us/act/1811-02-26/ch26], § 5, [2 Stat. 650][/us/stat/2/650].
 
 ----------
 
-[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_ch1.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs6)
+[Previous](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s3...5.md) | [Next](./../../../..//us/usc/t24/ch1/m__us_usc_t24_s6a.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs6)
 
 ----------
 ----------
@@ -36,7 +36,7 @@
 [/us/stat/30/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F30%2F1027
 [/us/act/1914-06-30/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1914-06-30%2Fch130
 [/us/stat/38/398]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F398
-[/us/act/1811-02-26/ch26/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1811-02-26%2Fch26%2Fs5
+[/us/act/1811-02-26/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1811-02-26%2Fch26
 [/us/stat/2/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F650
 
 

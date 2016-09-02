@@ -17,7 +17,7 @@
 
     On and after May 29, 1945, additional commissioned, warranted, appointed, enlisted, and civilian personnel of the Medical Department of the Navy, required for the care of patients of the Department of Veterans Affairs in naval hospitals, may be employed in addition to the numbers annually appropriated for.
 
-([May 29, 1945, ch. 130, § 1][/us/act/1945-05-29/ch130/s1], [59 Stat. 208][/us/stat/59/208]; [Pub. L. 102–54, § 13(i)(1)][/us/pl/102/54/s13/i/1], June 13, 1991, [105 Stat. 276][/us/stat/105/276].)
+([May 29, 1945, ch. 130][/us/act/1945-05-29/ch130], § 1, [59 Stat. 208][/us/stat/59/208]; [Pub. L. 102–54][/us/pl/102/54], § 13(i)(1), June 13, 1991, [105 Stat. 276][/us/stat/105/276].)
 
  __Codification__ 
 
@@ -31,9 +31,9 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [June 22, 1944, ch. 269, § 1][/us/act/1944-06-22/ch269/s1], [58 Stat. 308][/us/stat/58/308].
+    [June 22, 1944, ch. 269][/us/act/1944-06-22/ch269], § 1, [58 Stat. 308][/us/stat/58/308].
 
-    [June 26, 1943, ch. 147, § 101][/us/act/1943-06-26/ch147/s101], [57 Stat. 204][/us/stat/57/204].
+    [June 26, 1943, ch. 147][/us/act/1943-06-26/ch147], § 101, [57 Stat. 204][/us/stat/57/204].
 
 ----------
 
@@ -42,14 +42,14 @@ Similar provisions were contained in the following prior appropriation acts:
 ----------
 ----------
 
-[/us/act/1945-05-29/ch130/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-05-29%2Fch130%2Fs1
+[/us/act/1945-05-29/ch130]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1945-05-29%2Fch130
 [/us/stat/59/208]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F59%2F208
-[/us/pl/102/54/s13/i/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54%2Fs13%2Fi%2F1
+[/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
 [/us/stat/105/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F276
 [/us/pl/102/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F54
-[/us/act/1944-06-22/ch269/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-22%2Fch269%2Fs1
+[/us/act/1944-06-22/ch269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1944-06-22%2Fch269
 [/us/stat/58/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F58%2F308
-[/us/act/1943-06-26/ch147/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-26%2Fch147%2Fs101
+[/us/act/1943-06-26/ch147]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1943-06-26%2Fch147
 [/us/stat/57/204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F57%2F204
 
 

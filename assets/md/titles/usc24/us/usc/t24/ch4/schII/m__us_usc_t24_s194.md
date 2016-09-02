@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s193.md) | [Next](./../../../../..//us/usc/t24/ch4/schII/m__us_usc_t24_s195.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs194)
 
-## § 194. Repealed. [Pub. L. 98–621, § 10(l)][/us/pl/98/621/s10/l], Nov. 8, 1984, [98 Stat. 3380][/us/stat/98/3380]
+## § 194. Repealed. [Pub. L. 98–621][/us/pl/98/621], § 10(l), Nov. 8, 1984, [98 Stat. 3380][/us/stat/98/3380]
 
     Section, acts [July 7, 1884, ch. 332][/us/act/1884-07-07/ch332], [23 Stat. 213][/us/stat/23/213]; [July 1, 1916, ch. 209][/us/act/1916-07-01/ch209], [39 Stat. 309][/us/stat/39/309], related to admission to Saint Elizabeths Hospital of insane inmates of Soldiers’ and Airmen’s Home.
 
@@ -28,7 +28,7 @@
 ----------
 ----------
 
-[/us/pl/98/621/s10/l]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs10%2Fl
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3380
 [/us/act/1884-07-07/ch332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1884-07-07%2Fch332
 [/us/stat/23/213]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F23%2F213

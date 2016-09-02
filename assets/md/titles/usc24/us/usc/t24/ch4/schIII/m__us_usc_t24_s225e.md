@@ -59,7 +59,7 @@
 
         For purposes of this section, Hospital employees shall include former patient employees occupying career positions at the Hospital.
 
-([Pub. L. 98–621, § 7][/us/pl/98/621/s7], Nov. 8, 1984, [98 Stat. 3375][/us/stat/98/3375].)
+([Pub. L. 98–621][/us/pl/98/621], § 7, Nov. 8, 1984, [98 Stat. 3375][/us/stat/98/3375].)
 
  __References in Text__ 
 
@@ -75,7 +75,7 @@
 [/us/usc/t24/s225d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225d
 [/us/usc/t5/s5948]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5948
 [/us/usc/t24/s225d/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225d%2Fc
-[/us/pl/98/621/s7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs7
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3375]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3375
 
 

@@ -11,9 +11,9 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s172.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s176.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs175)
+[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s173 _us_usc_t24_s174.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s176.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs175)
 
-## § 175. Repealed. [Pub. L. 98–621, § 10(g)][/us/pl/98/621/s10/g], Nov. 8, 1984, [98 Stat. 3380][/us/stat/98/3380]
+## § 175. Repealed. [Pub. L. 98–621][/us/pl/98/621], § 10(g), Nov. 8, 1984, [98 Stat. 3380][/us/stat/98/3380]
 
     Section, [act Apr. 17, 1917, ch. 3][/us/act/1917-04-17/ch3], [40 Stat. 19][/us/stat/40/19], related to rental payments for system of telephones at Saint Elizabeths Hospital.
 
@@ -23,12 +23,12 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s172.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s176.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs175)
+[Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s173 _us_usc_t24_s174.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s176.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs175)
 
 ----------
 ----------
 
-[/us/pl/98/621/s10/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs10%2Fg
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3380]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3380
 [/us/act/1917-04-17/ch3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-04-17%2Fch3
 [/us/stat/40/19]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F19

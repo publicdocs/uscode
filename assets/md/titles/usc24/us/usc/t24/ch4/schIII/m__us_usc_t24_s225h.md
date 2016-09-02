@@ -41,7 +41,7 @@
 
         If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a “Made in America” inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, that person shall be ineligible to receive any contract or subcontract under this subchapter, pursuant to the debarment, suspension, and ineligibility procedures in subpart 9.4 of chapter 1 of title 48, Code of Federal Regulations.
 
-([Pub. L. 98–621, § 11][/us/pl/98/621/s11], as added [Pub. L. 102–150, § 4(2)][/us/pl/102/150/s4/2], Oct. 31, 1991, [105 Stat. 981][/us/stat/105/981].)
+([Pub. L. 98–621][/us/pl/98/621], § 11, as added [Pub. L. 102–150][/us/pl/102/150], § 4(2), Oct. 31, 1991, [105 Stat. 981][/us/stat/105/981].)
 
  __References in Text__ 
 
@@ -61,8 +61,8 @@
 [/us/usc/t19/s2501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2501
 [/us/usc/t41/s10a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs10a
 [/us/usc/t19/s2515/g/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2515%2Fg%2F1%2FA
-[/us/pl/98/621/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs11
-[/us/pl/102/150/s4/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150%2Fs4%2F2
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
+[/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
 [/us/stat/105/981]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F981
 [/us/act/1933-03-03/ch212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1933-03-03%2Fch212
 [/us/stat/47/1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F47%2F1520

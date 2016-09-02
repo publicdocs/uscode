@@ -23,11 +23,11 @@
 
         The Secretary may, to the extent deemed appropriate, equitable, and practicable by him, (1) require any person receiving care and treatment or assistance pursuant to subsection (a) to pay, in advance or by way of reimbursement, for the cost thereof or (2) obtain reimbursement for such cost from any State or political subdivision responsible for the cost of his subsequent hospitalization.
 
-([Pub. L. 86–571, § 2][/us/pl/86/571/s2], July 5, 1960, [74 Stat. 308][/us/stat/74/308]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 86–571][/us/pl/86/571], § 2, July 5, 1960, [74 Stat. 308][/us/stat/74/308]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Codification__ 
 
-    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350, § 6(c)][/us/pl/111/350/s6/c], Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
+    In subsec. (a), “[section 6101 of title 41][/us/usc/t41/s6101]” substituted for “section 3709 of the Revised Statutes, as amended ([41 U.S.C. 5][/us/usc/t41/s5])” on authority of [Pub. L. 111–350][/us/pl/111/350], § 6(c), Jan. 4, 2011, [124 Stat. 3854][/us/stat/124/3854], which Act enacted Title 41, Public Contracts.
 
  __Change of Name__ 
 
@@ -41,13 +41,13 @@
 ----------
 
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
-[/us/pl/86/571/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs2
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F308
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
-[/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc
+[/us/pl/111/350]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350
 [/us/stat/124/3854]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3854
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb

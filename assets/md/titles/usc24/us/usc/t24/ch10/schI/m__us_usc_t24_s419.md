@@ -43,7 +43,7 @@
 
         The Chief Financial Officer of the Armed Forces Retirement Home shall comply with the reporting requirements of subchapter II of chapter 35 of title 31.
 
-([Pub. L. 101–510, div. A, title XV, § 1519][/us/pl/101/510/s1519], Nov. 5, 1990, [104 Stat. 1730][/us/stat/104/1730]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107], §§ 1404(b)(2), 1410(a)(2), (b)(2), Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260], 1266; [Pub. L. 110–181, div. A, title XIV, § 1422(g)][/us/pl/110/181/s1422/g], Jan. 28, 2008, [122 Stat. 423][/us/stat/122/423]; [Pub. L. 112–81, div. A, title V, § 567(b)(1)][/us/pl/112/81/s567/b/1], Dec. 31, 2011, [125 Stat. 1425][/us/stat/125/1425].)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1519, Nov. 5, 1990, [104 Stat. 1730][/us/stat/104/1730]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], §§ 1404(b)(2), 1410(a)(2), (b)(2), Dec. 28, 2001, [115 Stat. 1260][/us/stat/115/1260], 1266; [Pub. L. 110–181, div. A, title XIV][/us/pl/110/181/dA/tXIV], § 1422(g), Jan. 28, 2008, [122 Stat. 423][/us/stat/122/423]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 567(b)(1), Dec. 31, 2011, [125 Stat. 1425][/us/stat/125/1425].)
 
  __Amendments__ 
 
@@ -51,11 +51,11 @@
 
     2008—Subsec. (d). [Pub. L. 110–181][/us/pl/110/181] added subsec. (d).
 
-    2001—[Pub. L. 107–107, § 1410(a)(2)][/us/pl/107/107/s1410/a/2], inserted “Armed Forces” before “Retirement Home Trust Fund” in section catchline.
+    2001—[Pub. L. 107–107][/us/pl/107/107], § 1410(a)(2), inserted “Armed Forces” before “Retirement Home Trust Fund” in section catchline.
 
-    Subsec. (c). [Pub. L. 107–107, § 1404(b)(2)][/us/pl/107/107/s1404/b/2], substituted “Chief Operating Officer” for “Director”.
+    Subsec. (c). [Pub. L. 107–107][/us/pl/107/107], § 1404(b)(2), substituted “Chief Operating Officer” for “Director”.
 
-    Subsec. (d). [Pub. L. 107–107, § 1410(b)(2)][/us/pl/107/107/s1410/b/2], struck out heading and text of subsec. (d). Text read as follows:
+    Subsec. (d). [Pub. L. 107–107][/us/pl/107/107], § 1410(b)(2), struck out heading and text of subsec. (d). Text read as follows:
 
     “(1) During the period beginning on November 5, 1990, and ending on September 30, 1994, the Fund shall contain a separate account for each establishment of the Retirement Home. During that period, contributions shall be collected under subsection (a) of this section for the account of the Naval Home for the purpose of achieving a trust fund five times the estimated annual operating budget of the Naval Home.
 
@@ -81,19 +81,19 @@
 [/us/usc/t24/s414]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs414
 [/us/usc/t10/s2772]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2772
 [/us/usc/t37/s1007/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs1007%2Fi
-[/us/pl/101/510/s1519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1519
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1730
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1260]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1260
-[/us/pl/110/181/s1422/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2Fs1422%2Fg
+[/us/pl/110/181/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181%2FdA%2FtXIV
 [/us/stat/122/423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F423
-[/us/pl/112/81/s567/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs567%2Fb%2F1
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1425]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1425
 [/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/110/181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F181
-[/us/pl/107/107/s1410/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1410%2Fa%2F2
-[/us/pl/107/107/s1404/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1404%2Fb%2F2
-[/us/pl/107/107/s1410/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1410%2Fb%2F2
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/101/510/s1541/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541%2Fb
 [/us/usc/t24/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs401
 

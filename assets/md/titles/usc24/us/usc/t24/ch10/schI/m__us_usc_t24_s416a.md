@@ -41,7 +41,7 @@
 
         At a minimum, meetings of a Resident Advisory Committee shall be conducted quarterly.
 
-([Pub. L. 101–510, div. A, title XV, § 1516A][/us/pl/101/510/s1516A], as added [Pub. L. 112–81, div. A, title V, § 563(a)][/us/pl/112/81/s563/a], Dec. 31, 2011, [125 Stat. 1423][/us/stat/125/1423].)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1516A, as added [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], § 563(a), Dec. 31, 2011, [125 Stat. 1423][/us/stat/125/1423].)
 
 ----------
 
@@ -50,8 +50,8 @@
 ----------
 ----------
 
-[/us/pl/101/510/s1516A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1516A
-[/us/pl/112/81/s563/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs563%2Fa
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1423
 
 

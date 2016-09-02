@@ -13,9 +13,9 @@
 
 [Previous](./../../../../..//us/usc/t24/ch3/schI/m__us_usc_t24_s83.md) | [Next](./../../../../..//us/usc/t24/ch3/schII/m__us_usc_t24_ch3_schII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs84)
 
-## § 84. Repealed. [Pub. L. 85–857, § 14(16)][/us/pl/85/857/s14/16], Sept. 2, 1958, [72 Stat. 1269][/us/stat/72/1269]
+## § 84. Repealed. [Pub. L. 85–857][/us/pl/85/857], § 14(16), Sept. 2, 1958, [72 Stat. 1269][/us/stat/72/1269]
 
-    Section, [act Aug. 18, 1894, ch. 301, § 1][/us/act/1894-08-18/ch301/s1], [28 Stat. 412][/us/stat/28/412], related to an annual inspection of National Home for Disabled Volunteer Soldiers.
+    Section, [act Aug. 18, 1894, ch. 301][/us/act/1894-08-18/ch301], § 1, [28 Stat. 412][/us/stat/28/412], related to an annual inspection of National Home for Disabled Volunteer Soldiers.
 
  __Effective Date of Repeal__ 
 
@@ -28,9 +28,9 @@
 ----------
 ----------
 
-[/us/pl/85/857/s14/16]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs14%2F16
+[/us/pl/85/857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857
 [/us/stat/72/1269]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F72%2F1269
-[/us/act/1894-08-18/ch301/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch301%2Fs1
+[/us/act/1894-08-18/ch301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1894-08-18%2Fch301
 [/us/stat/28/412]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F28%2F412
 [/us/pl/85/857/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F85%2F857%2Fs2
 

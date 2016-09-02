@@ -51,7 +51,7 @@
 
         Any contract entered into by the District of Columbia for the provision of mental health services formerly provided by or at the Hospital shall require the contractor or provider, in filling new positions created to perform under the contract, to give preference to qualified candidates on the District agency reemployment priority list created pursuant to subsection (d) of this section. An individual who is offered nontemporary employment with a contractor shall have his or her name remain on the District agency reemployment priority list under subsection (d) for not more than 24 months from the date of acceptance of such employment.
 
-([Pub. L. 98–621, § 6][/us/pl/98/621/s6], Nov. 8, 1984, [98 Stat. 3374][/us/stat/98/3374].)
+([Pub. L. 98–621][/us/pl/98/621], § 6, Nov. 8, 1984, [98 Stat. 3374][/us/stat/98/3374].)
 
  __References in Text__ 
 
@@ -70,7 +70,7 @@
 
 [/us/usc/t5/s8336/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8336%2Fd
 [/us/usc/t5/s3503]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs3503
-[/us/pl/98/621/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs6
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3374]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3374
 [/us/pl/99/335]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F335
 [/us/usc/t5/s8331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8331

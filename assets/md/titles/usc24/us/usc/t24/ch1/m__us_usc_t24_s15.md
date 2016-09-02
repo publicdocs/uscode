@@ -21,7 +21,7 @@
 
  __Codification__ 
 
-    R.S. § 4807 derived from acts [Feb. 26, 1811, ch. 26, § 1][/us/act/1811-02-26/ch26/s1], [2 Stat. 650][/us/stat/2/650]; [July 10, 1832, ch. 194, § 5][/us/act/1832-07-10/ch194/s5], [4 Stat. 573][/us/stat/4/573].
+    R.S. § 4807 derived from acts [Feb. 26, 1811, ch. 26][/us/act/1811-02-26/ch26], § 1, [2 Stat. 650][/us/stat/2/650]; [July 10, 1832, ch. 194][/us/act/1832-07-10/ch194], § 5, [4 Stat. 573][/us/stat/4/573].
 
 ----------
 
@@ -30,9 +30,9 @@
 ----------
 ----------
 
-[/us/act/1811-02-26/ch26/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1811-02-26%2Fch26%2Fs1
+[/us/act/1811-02-26/ch26]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1811-02-26%2Fch26
 [/us/stat/2/650]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F2%2F650
-[/us/act/1832-07-10/ch194/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-10%2Fch194%2Fs5
+[/us/act/1832-07-10/ch194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1832-07-10%2Fch194
 [/us/stat/4/573]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F4%2F573
 
 

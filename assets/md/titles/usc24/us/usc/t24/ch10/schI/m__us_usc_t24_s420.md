@@ -79,33 +79,33 @@
 
         In the case of property delivered to the Retirement Home under [section 2575 of title 10][/us/usc/t10/s2575], the Administrator of the facility shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Administrator of the facility within two years after the delivery.
 
-([Pub. L. 101–510, div. A, title XV, § 1520][/us/pl/101/510/s1520], Nov. 5, 1990, [104 Stat. 1731][/us/stat/104/1731]; [Pub. L. 103–160, div. A, title III, § 366(d)][/us/pl/103/160/s366/d], (e), Nov. 30, 1993, [107 Stat. 1631][/us/stat/107/1631]; [Pub. L. 104–316, title II, § 202(j)][/us/pl/104/316/s202/j], Oct. 19, 1996, [110 Stat. 3843][/us/stat/110/3843]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107], §§ 1408, 1410(a)(3), Dec. 28, 2001, [115 Stat. 1265][/us/stat/115/1265], 1266; [Pub. L. 107–314, div. A, title X, § 1062(f)(3)][/us/pl/107/314/s1062/f/3], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 108–136, div. A, title X, § 1045(g)][/us/pl/108/136/s1045/g], Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81], §§ 564(b), 567(c)(6), Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424], 1426.)
+([Pub. L. 101–510, div. A, title XV][/us/pl/101/510/dA/tXV], § 1520, Nov. 5, 1990, [104 Stat. 1731][/us/stat/104/1731]; [Pub. L. 103–160, div. A, title III][/us/pl/103/160/dA/tIII], § 366(d), (e), Nov. 30, 1993, [107 Stat. 1631][/us/stat/107/1631]; [Pub. L. 104–316, title II][/us/pl/104/316/tII], § 202(j), Oct. 19, 1996, [110 Stat. 3843][/us/stat/110/3843]; [Pub. L. 107–107, div. A, title XIV][/us/pl/107/107/dA/tXIV], §§ 1408, 1410(a)(3), Dec. 28, 2001, [115 Stat. 1265][/us/stat/115/1265], 1266; [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(f)(3), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651]; [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1045(g), Nov. 24, 2003, [117 Stat. 1613][/us/stat/117/1613]; [Pub. L. 112–81, div. A, title V][/us/pl/112/81/dA/tV], §§ 564(b), 567(c)(6), Dec. 31, 2011, [125 Stat. 1424][/us/stat/125/1424], 1426.)
 
  __Amendments__ 
 
-    2011—[Pub. L. 112–81, § 567(c)(6)][/us/pl/112/81/s567/c/6], made technical amendment to section catchline.
+    2011—[Pub. L. 112–81][/us/pl/112/81], § 567(c)(6), made technical amendment to section catchline.
 
-    [Pub. L. 112–81, § 564(b)(1)][/us/pl/112/81/s564/b/1], substituted “Administrator” for “Director” wherever appearing.
+    [Pub. L. 112–81][/us/pl/112/81], § 564(b)(1), substituted “Administrator” for “Director” wherever appearing.
 
-    Subsec. (c). [Pub. L. 112–81, § 564(b)(2)][/us/pl/112/81/s564/b/2], substituted “Administrators” for “Directors”.
+    Subsec. (c). [Pub. L. 112–81][/us/pl/112/81], § 564(b)(2), substituted “Administrators” for “Directors”.
 
     2003—Subsec. (b)(1)(C). [Pub. L. 108–136][/us/pl/108/136] inserted “Armed Forces” before “Retirement Home Trust Fund”.
 
-    2002—Subsec. (e). [Pub. L. 107–314][/us/pl/107/314] made technical correction to directory language of [Pub. L. 107–107, § 1410(a)(3)(C)][/us/pl/107/107/s1410/a/3/C]. See 2001 Amendment note below.
+    2002—Subsec. (e). [Pub. L. 107–314][/us/pl/107/314] made technical correction to directory language of [Pub. L. 107–107][/us/pl/107/107], § 1410(a)(3)(C). See 2001 Amendment note below.
 
-    2001—Subsec. (a). [Pub. L. 107–107, § 1410(a)(3)(A)][/us/pl/107/107/s1410/a/3/A], substituted “a facility” for “each facility that is maintained as a separate establishment” in introductory provisions.
+    2001—Subsec. (a). [Pub. L. 107–107][/us/pl/107/107], § 1410(a)(3)(A), substituted “a facility” for “each facility that is maintained as a separate establishment” in introductory provisions.
 
-    Subsec. (b)(1)(B). [Pub. L. 107–107, § 1408(b)][/us/pl/107/107/s1408/b], inserted “Armed Forces” before “Retirement Home Trust Fund”.
+    Subsec. (b)(1)(B). [Pub. L. 107–107][/us/pl/107/107], § 1408(b), inserted “Armed Forces” before “Retirement Home Trust Fund”.
 
     Subsec. (b)(2)(A). [Pub. L. 107–107][/us/pl/107/107], §§ 1408(a), 1410(a)(3)(B), struck out “maintained as a separate establishment” before “of the Retirement Home” and inserted “who is a full-time officer or employee of the United States or a member of the Armed Forces on active duty” after “may designate an attorney”.
 
-    Subsec. (e). [Pub. L. 107–107, § 1410(a)(3)(C)][/us/pl/107/107/s1410/a/3/C], as amended by [Pub. L. 107–314][/us/pl/107/314], substituted “Director of the facility” for “Directors” in two places.
+    Subsec. (e). [Pub. L. 107–107][/us/pl/107/107], § 1410(a)(3)(C), as amended by [Pub. L. 107–314][/us/pl/107/314], substituted “Director of the facility” for “Directors” in two places.
 
-    1996—Subsec. (b)(1)(C). [Pub. L. 104–316, § 202(j)(1)][/us/pl/104/316/s202/j/1], substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
+    1996—Subsec. (b)(1)(C). [Pub. L. 104–316][/us/pl/104/316], § 202(j)(1), substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
 
-    Subsec. (d). [Pub. L. 104–316, § 202(j)(2)][/us/pl/104/316/s202/j/2], substituted “Secretary of Defense” for “Comptroller General of the United States” in par. (1), “Secretary” for “Comptroller General” in par. (2), and “allowed by the Secretary” for “allowed by the Comptroller General” in par. (3).
+    Subsec. (d). [Pub. L. 104–316][/us/pl/104/316], § 202(j)(2), substituted “Secretary of Defense” for “Comptroller General of the United States” in par. (1), “Secretary” for “Comptroller General” in par. (2), and “allowed by the Secretary” for “allowed by the Comptroller General” in par. (3).
 
-    1993—Subsec. (a). [Pub. L. 103–160, § 366(d)][/us/pl/103/160/s366/d], amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Directors of the establishments of the Retirement Home shall safeguard and dispose of the effects of a deceased person delivered to the Retirement Home under section 4712(f) or 9712(f) of title 10 and the estate and effects of a deceased resident of the Armed Forces Retirement Home as follows:
+    1993—Subsec. (a). [Pub. L. 103–160][/us/pl/103/160], § 366(d), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Directors of the establishments of the Retirement Home shall safeguard and dispose of the effects of a deceased person delivered to the Retirement Home under section 4712(f) or 9712(f) of title 10 and the estate and effects of a deceased resident of the Armed Forces Retirement Home as follows:
 
     “(1) A will or other paper involving property rights shall be promptly delivered to the proper court of record.
 
@@ -123,7 +123,7 @@
 
     “(F) A beneficiary named in the will of the deceased.”
 
-    Subsec. (b). [Pub. L. 103–160, § 366(e)][/us/pl/103/160/s366/e], amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
+    Subsec. (b). [Pub. L. 103–160][/us/pl/103/160], § 366(e), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows:
 
     “(1) After three years from the date of death of the deceased, the Directors may sell the effects to which a right has not been established under subsection (a) of this section (except decorations, medals, and citations) by public or private sale, as the Directors consider most advantageous.
 
@@ -137,7 +137,7 @@
 
  __Effective Date of 2002 Amendment__ 
 
-    [Pub. L. 107–314, div. A, title X, § 1062(f)][/us/pl/107/314/s1062/f], Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], provided that the amendment made by section 1062(f)(3) is effective as of Dec. 28, 2001, and as if included in [Pub. L. 107–107][/us/pl/107/107] as enacted.
+    [Pub. L. 107–314, div. A, title X][/us/pl/107/314/dA/tX], § 1062(f), Dec. 2, 2002, [116 Stat. 2651][/us/stat/116/2651], provided that the amendment made by section 1062(f)(3) is effective as of Dec. 28, 2001, and as if included in [Pub. L. 107–107][/us/pl/107/107] as enacted.
 
  __Effective Date__ 
 
@@ -152,36 +152,36 @@
 
 [/us/usc/t10/s2771]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2771
 [/us/usc/t10/s2575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2575
-[/us/pl/101/510/s1520]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1520
+[/us/pl/101/510/dA/tXV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2FdA%2FtXV
 [/us/stat/104/1731]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1731
-[/us/pl/103/160/s366/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs366%2Fd
+[/us/pl/103/160/dA/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2FdA%2FtIII
 [/us/stat/107/1631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F107%2F1631
-[/us/pl/104/316/s202/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fj
+[/us/pl/104/316/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2FtII
 [/us/stat/110/3843]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3843
-[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107/dA/tXIV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2FdA%2FtXIV
 [/us/stat/115/1265]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F1265
-[/us/pl/107/314/s1062/f/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Ff%2F3
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
-[/us/pl/108/136/s1045/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2Fs1045%2Fg
+[/us/pl/108/136/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136%2FdA%2FtX
 [/us/stat/117/1613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F1613
-[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2FdA%2FtV
 [/us/stat/125/1424]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1424
-[/us/pl/112/81/s567/c/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs567%2Fc%2F6
-[/us/pl/112/81/s564/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs564%2Fb%2F1
-[/us/pl/112/81/s564/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81%2Fs564%2Fb%2F2
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
+[/us/pl/112/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F81
 [/us/pl/108/136]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F136
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/107/107/s1410/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1410%2Fa%2F3%2FC
-[/us/pl/107/107/s1410/a/3/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1410%2Fa%2F3%2FA
-[/us/pl/107/107/s1408/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1408%2Fb
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
-[/us/pl/107/107/s1410/a/3/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107%2Fs1410%2Fa%2F3%2FC
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
+[/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/107/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314
-[/us/pl/104/316/s202/j/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fj%2F1
-[/us/pl/104/316/s202/j/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316%2Fs202%2Fj%2F2
-[/us/pl/103/160/s366/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs366%2Fd
-[/us/pl/103/160/s366/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160%2Fs366%2Fe
-[/us/pl/107/314/s1062/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs1062%2Ff
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/104/316]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F316
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/103/160]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F160
+[/us/pl/107/314/dA/tX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2FdA%2FtX
 [/us/stat/116/2651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2651
 [/us/pl/107/107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F107
 [/us/pl/101/510/s1541/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510%2Fs1541%2Fd

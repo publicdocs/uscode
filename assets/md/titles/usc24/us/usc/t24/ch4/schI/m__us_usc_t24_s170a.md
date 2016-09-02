@@ -17,7 +17,7 @@
 
     In fiscal year 1989 and thereafter, the maximum amount available to Saint Elizabeths Hospital from Federal sources shall not exceed the total of the following amounts: the appropriations made under this heading, amounts billed to Federal agencies and entities by the District of Columbia for services provided at Saint Elizabeths Hospital, and amounts authorized by titles XVIII and XIX of the Social Security Act \[[42 U.S.C. 1395][/us/usc/t42/s1395] et seq., 1396 et seq.\]. This maximum amount shall not include Federal funds appropriated to the District of Columbia under “Federal Payment to the District of Columbia” and payments made pursuant to [section 9(c) of Public Law 98–621][/us/pl/98/621/s9/c].
 
-([Pub. L. 100–436, title II][/us/pl/100/436], Sept. 20, 1988, [102 Stat. 1693][/us/stat/102/1693].)
+([Pub. L. 100–436, title II][/us/pl/100/436/tII], Sept. 20, 1988, [102 Stat. 1693][/us/stat/102/1693].)
 
  __References in Text__ 
 
@@ -35,11 +35,11 @@
 
 Similar provisions were contained in the following prior appropriation acts:
 
-    [Pub. L. 100–202, § 101(h)][/us/pl/100/202/s101/h] \[title II\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–267.
+    [Pub. L. 100–202][/us/pl/100/202], § 101(h) \[title II\], Dec. 22, 1987, [101 Stat. 1329–256][/us/stat/101/1329-256], 1329–267.
 
-    [Pub. L. 99–500, § 101(i)][/us/pl/99/500/s101/i] \[H.R. 5233, title II\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591, § 101(i)][/us/pl/99/591/s101/i] \[H.R. 5233, title II\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
+    [Pub. L. 99–500][/us/pl/99/500], § 101(i) \[H.R. 5233, title II\], Oct. 18, 1986, [100 Stat. 1783–287][/us/stat/100/1783-287], and [Pub. L. 99–591][/us/pl/99/591], § 101(i) \[H.R. 5233, title II\], Oct. 30, 1986, [100 Stat. 3341–287][/us/stat/100/3341-287].
 
-    [Pub. L. 99–178, title II][/us/pl/99/178], Dec. 12, 1985, [99 Stat. 1113][/us/stat/99/1113].
+    [Pub. L. 99–178, title II][/us/pl/99/178/tII], Dec. 12, 1985, [99 Stat. 1113][/us/stat/99/1113].
 
 ----------
 
@@ -50,7 +50,7 @@ Similar provisions were contained in the following prior appropriation acts:
 
 [/us/usc/t42/s1395]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395
 [/us/pl/98/621/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs9%2Fc
-[/us/pl/100/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F436
+[/us/pl/100/436/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F436%2FtII
 [/us/stat/102/1693]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F1693
 [/us/pl/100/436]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F436
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
@@ -60,13 +60,13 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/98/621/s9/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs9%2Fc
 [/us/stat/98/3378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3378
 [/us/usc/t24/s225g/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225g%2Fc
-[/us/pl/100/202/s101/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202%2Fs101%2Fh
+[/us/pl/100/202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F202
 [/us/stat/101/1329-256]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F101%2F1329-256
-[/us/pl/99/500/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500%2Fs101%2Fi
+[/us/pl/99/500]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F500
 [/us/stat/100/1783-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F1783-287
-[/us/pl/99/591/s101/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591%2Fs101%2Fi
+[/us/pl/99/591]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F591
 [/us/stat/100/3341-287]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F100%2F3341-287
-[/us/pl/99/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178
+[/us/pl/99/178/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F178%2FtII
 [/us/stat/99/1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1113
 
 

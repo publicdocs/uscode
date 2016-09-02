@@ -17,7 +17,7 @@
 
     All persons who shall unlawfully intrude upon said reserve, or who shall without permission appropriate any object therein or commit unauthorized injury or waste in any form whatever upon the lands or other public property therein, or who shall violate any of the rules and regulations prescribed hereunder, shall, upon conviction, be fined in a sum not more than $1,000, or be imprisoned for a period not more than twelve months, or shall suffer both fine and imprisonment, in the discretion of the court.
 
-([Mar. 22, 1906, ch. 1127, § 4][/us/act/1906-03-22/ch1127/s4], [34 Stat. 83][/us/stat/34/83].)
+([Mar. 22, 1906, ch. 1127][/us/act/1906-03-22/ch1127], § 4, [34 Stat. 83][/us/stat/34/83].)
 
 ----------
 
@@ -26,7 +26,7 @@
 ----------
 ----------
 
-[/us/act/1906-03-22/ch1127/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-22%2Fch1127%2Fs4
+[/us/act/1906-03-22/ch1127]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1906-03-22%2Fch1127
 [/us/stat/34/83]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F34%2F83
 
 

@@ -17,7 +17,7 @@
 
     The Army and Navy General Hospital at Hot Springs, Arkansas, shall be subject to such rules, regulations, and restrictions as shall be provided by the President of the United States and shall remain under the jurisdiction and control of the Department of the Army.
 
-([June 30, 1882, ch. 254, § 1][/us/act/1882-06-30/ch254/s1], [22 Stat. 121][/us/stat/22/121]; [June 18, 1930, ch. 525, § 2][/us/act/1930-06-18/ch525/s2], [46 Stat. 781][/us/stat/46/781]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
+([June 30, 1882, ch. 254][/us/act/1882-06-30/ch254], § 1, [22 Stat. 121][/us/stat/22/121]; [June 18, 1930, ch. 525][/us/act/1930-06-18/ch525], § 2, [46 Stat. 781][/us/stat/46/781]; [July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501].)
 
  __Amendments__ 
 
@@ -25,7 +25,7 @@
 
  __Change of Name__ 
 
-    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by [act July 26, 1947, ch. 343][/us/act/1947-07-26/ch343], title II, § 205(a), [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by [act Aug. 10, 1956, ch. 1041, § 53][/us/act/1956-08-10/ch1041/s53], [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956 enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+    Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by [act July 26, 1947, ch. 343, title II][/us/act/1947-07-26/ch343/tII], § 205(a), [61 Stat. 501][/us/stat/61/501]. Section 205(a) of act July 26, 1947, was repealed by [act Aug. 10, 1956, ch. 1041][/us/act/1956-08-10/ch1041], § 53, [70A Stat. 641][/us/stat/70A/641]. Section 1 of act Aug. 10, 1956 enacted “Title 10, Armed Forces”, which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
  __Ex. Ord. No. 10272. Delegation of Authority to the Secretary of the Army__ 
 
@@ -42,15 +42,15 @@ By virtue of the authority vested in me by [section 1 of the act of August 8, 19
 ----------
 ----------
 
-[/us/act/1882-06-30/ch254/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-06-30%2Fch254%2Fs1
+[/us/act/1882-06-30/ch254]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1882-06-30%2Fch254
 [/us/stat/22/121]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F22%2F121
-[/us/act/1930-06-18/ch525/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-18%2Fch525%2Fs2
+[/us/act/1930-06-18/ch525]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1930-06-18%2Fch525
 [/us/stat/46/781]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F46%2F781
 [/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1947-07-26/ch343]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343
+[/us/act/1947-07-26/ch343/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-26%2Fch343%2FtII
 [/us/stat/61/501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F501
-[/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53
+[/us/act/1956-08-10/ch1041]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041
 [/us/stat/70A/641]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F70A%2F641
 [/us/act/1950-08-08/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-08-08%2Fs1
 [/us/stat/64/419]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F64%2F419

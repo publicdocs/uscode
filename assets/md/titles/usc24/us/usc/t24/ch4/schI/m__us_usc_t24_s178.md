@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s177.md) | [Next](./../../../../..//us/usc/t24/ch4/schI/m__us_usc_t24_s179.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs178)
 
-## § 178. Repealed. [Oct. 31, 1951, ch. 654, § 1(46)][/us/act/1951-10-31/ch654/s1/46], [65 Stat. 703][/us/stat/65/703]
+## § 178. Repealed. [Oct. 31, 1951, ch. 654][/us/act/1951-10-31/ch654], § 1(46), [65 Stat. 703][/us/stat/65/703]
 
     Section, [act Oct. 6, 1917, ch. 79][/us/act/1917-10-06/ch79], [40 Stat. 373][/us/stat/40/373], related to revocable permit to hospital to use certain lands.
 
@@ -24,7 +24,7 @@
 ----------
 ----------
 
-[/us/act/1951-10-31/ch654/s1/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654%2Fs1%2F46
+[/us/act/1951-10-31/ch654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1951-10-31%2Fch654
 [/us/stat/65/703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F65%2F703
 [/us/act/1917-10-06/ch79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1917-10-06%2Fch79
 [/us/stat/40/373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F373

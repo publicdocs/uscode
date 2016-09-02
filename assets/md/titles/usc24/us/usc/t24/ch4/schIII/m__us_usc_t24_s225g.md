@@ -65,7 +65,7 @@
 
         (2) all claims that result in a judgment or award against Saint Elizabeths Hospital before October 1, 1987.
 
-([Pub. L. 98–621, § 9][/us/pl/98/621/s9], Nov. 8, 1984, [98 Stat. 3377][/us/stat/98/3377].)
+([Pub. L. 98–621][/us/pl/98/621], § 9, Nov. 8, 1984, [98 Stat. 3377][/us/stat/98/3377].)
 
  __References in Text__ 
 
@@ -73,7 +73,7 @@
 
  __Codification__ 
 
-    Subsec. (c)(2) of this section amended section 502 of the District of Columbia Self-Government and Governmental Reorganization Act ([Pub. L. 93–198, title V][/us/pl/93/198], Dec. 24, 1973, [87 Stat. 813][/us/stat/87/813]), which is not classified to the Code.
+    Subsec. (c)(2) of this section amended section 502 of the District of Columbia Self-Government and Governmental Reorganization Act ([Pub. L. 93–198, title V][/us/pl/93/198/tV], Dec. 24, 1973, [87 Stat. 813][/us/stat/87/813]), which is not classified to the Code.
 
 ----------
 
@@ -85,14 +85,14 @@
 [/us/usc/t24/s225b/f/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225b%2Ff%2F2
 [/us/pl/83/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F83%2F472
 [/us/usc/t24/s225b/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225b%2Ff
-[/us/pl/98/621/s9]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs9
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3377
 [/us/pl/83/472]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F83%2F472
 [/us/act/1954-07-02/ch457]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-07-02%2Fch457
 [/us/stat/68/434]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F434
 [/us/stat/68/443]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F443
 [/us/pl/98/621/s10/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs10%2Fd%2F2
-[/us/pl/93/198]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198
+[/us/pl/93/198/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F198%2FtV
 [/us/stat/87/813]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F813
 
 

@@ -29,7 +29,7 @@
 
         On October 1, 1985, the Secretary shall transfer to the District, without compensation, all right, title, and interest of the United States to lot 87, square 622, in the subdivision made by the District of Columbia Redevelopment Land Agency, as per plat recorded in the Office of the Surveyor for the District of Columbia, in liber 154 at folio 149 (901 First Street N.W., the J.B. Johnson Building and grounds).
 
-([Pub. L. 98–621, § 8][/us/pl/98/621/s8], Nov. 8, 1984, [98 Stat. 3377][/us/stat/98/3377]; [Pub. L. 102–150, § 3(b)][/us/pl/102/150/s3/b], Oct. 31, 1991, [105 Stat. 980][/us/stat/105/980].)
+([Pub. L. 98–621][/us/pl/98/621], § 8, Nov. 8, 1984, [98 Stat. 3377][/us/stat/98/3377]; [Pub. L. 102–150][/us/pl/102/150], § 3(b), Oct. 31, 1991, [105 Stat. 980][/us/stat/105/980].)
 
  __Amendments__ 
 
@@ -54,9 +54,9 @@
 
 [/us/usc/t24/s225b/c/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225b%2Fc%2F7
 [/us/usc/t24/s225/b/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft24%2Fs225%2Fb%2F5
-[/us/pl/98/621/s8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621%2Fs8
+[/us/pl/98/621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F621
 [/us/stat/98/3377]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F98%2F3377
-[/us/pl/102/150/s3/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150%2Fs3%2Fb
+[/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
 [/us/stat/105/980]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F105%2F980
 [/us/pl/102/150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F150
 [/us/pl/104/14/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F14%2Fs1%2Fb

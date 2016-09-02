@@ -33,7 +33,7 @@
 
     (e) The term “residence” means residence as determined under the applicable law or regulations of a State or political subdivision for the purpose of determining the eligibility of an individual for hospitalization in a public mental hospital.
 
-([Pub. L. 86–571, § 1][/us/pl/86/571/s1], July 5, 1960, [74 Stat. 308][/us/stat/74/308]; [Pub. L. 96–88, title V, § 509(b)][/us/pl/96/88/s509/b], Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
+([Pub. L. 86–571][/us/pl/86/571], § 1, July 5, 1960, [74 Stat. 308][/us/stat/74/308]; [Pub. L. 96–88, title V][/us/pl/96/88/tV], § 509(b), Oct. 17, 1979, [93 Stat. 695][/us/stat/93/695].)
 
  __Change of Name__ 
 
@@ -41,7 +41,7 @@
 
  __Effective Date__ 
 
-[Pub. L. 86–571, § 11][/us/pl/86/571/s11], July 5, 1960, [74 Stat. 310][/us/stat/74/310], provided that: 
+[Pub. L. 86–571][/us/pl/86/571], § 11, July 5, 1960, [74 Stat. 310][/us/stat/74/310], provided that: 
 
 > “This Act \[enacting this chapter and repealing sections 191a and 196a of this title\] shall, except as otherwise specified, take effect on the date of its enactment \[July 5, 1960\].”
 
@@ -52,13 +52,13 @@
 ----------
 ----------
 
-[/us/pl/86/571/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs1
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/308]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F308
-[/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
+[/us/pl/96/88/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2FtV
 [/us/stat/93/695]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F695
 [/us/pl/96/88/s509/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F88%2Fs509%2Fb
 [/us/usc/t20/s3508/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs3508%2Fb
-[/us/pl/86/571/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571%2Fs11
+[/us/pl/86/571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F86%2F571
 [/us/stat/74/310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F74%2F310
 
 
