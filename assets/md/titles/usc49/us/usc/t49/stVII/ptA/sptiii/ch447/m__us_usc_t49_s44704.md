@@ -325,6 +325,94 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 
     Except as otherwise specifically provided, amendment by [Pub. L. 104–264][/us/pl/104/264] applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see [section 3 of Pub. L. 104–264][/us/pl/104/264/s3], set out as a note under [section 106 of this title][/us/usc/t49/s106].
 
+ __Small Airplane Revitalization__ 
+
+[Pub. L. 113–53][/us/pl/113/53], Nov. 27, 2013, [127 Stat. 584][/us/stat/127/584], provided that:
+
+> “SECTION 1. __SHORT TITLE.__ 
+
+>     “This Act may be cited as the ‘Small Airplane Revitalization Act of 2013’.
+
+> “SEC. 2. __FINDINGS.__ 
+
+> “Congress makes the following findings:
+
+>     “(1) A healthy small aircraft industry is integral to economic growth and to maintaining an effective transportation infrastructure for communities and countries around the world.
+
+>     “(2) Small airplanes comprise nearly 90 percent of general aviation aircraft certified by the Federal Aviation Administration.
+
+>     “(3) General aviation provides for the cultivation of a workforce of engineers, manufacturing and maintenance professionals, and pilots who secure the economic success and defense of the United States.
+
+>     “(4) General aviation contributes to well-paying jobs in the manufacturing and technology sectors in the United States and products produced by those sectors are exported in great numbers.
+
+>     “(5) Technology developed and proven in general aviation aids in the success and safety of all sectors of aviation and scientific competence.
+
+>     “(6) The average small airplane in the United States is now 40 years old and the regulatory barriers to bringing new designs to the market are resulting in a lack of innovation and investment in small airplane design.
+
+>     “(7) Since 2003, the United States lost 10,000 active private pilots per year on average, partially due to a lack of cost-effective, new small airplanes.
+
+>     “(8) General aviation safety can be improved by modernizing and revamping the regulations relating to small airplanes to clear the path for technology adoption and cost-effective means to retrofit the existing fleet with new safety technologies.
+
+> “SEC. 3. __SAFETY AND REGULATORY IMPROVEMENTS FOR GENERAL AVIATION.__ 
+
+>     “(a)  __In General__  __.—__ 
+
+>     Not later than December 15, 2015, the Administrator of the Federal Aviation Administration shall issue a final rule—
+
+>         “(1) to advance the safety and continued development of small airplanes by reorganizing the certification requirements for such airplanes under part 23 to streamline the approval of safety advancements; and
+
+>         “(2) that meets the objectives described in subsection (b).
+
+>     “(b)  __Objectives Described__  __.—__ 
+
+>     The objectives described in this subsection are based on the recommendations of the Part 23 Reorganization Aviation Rulemaking Committee:
+
+>         “(1) The establishment of a regulatory regime for small airplanes that will improve safety and reduce the regulatory cost burden for the Federal Aviation Administration and the aviation industry.
+
+>         “(2) The establishment of broad, outcome-driven safety objectives that will spur innovation and technology adoption.
+
+>         “(3) The replacement of current, prescriptive requirements under part 23 with performance-based regulations.
+
+>         “(4) The use of consensus standards accepted by the Federal Aviation Administration to clarify how the safety objectives of part 23 may be met using specific designs and technologies.
+
+>     “(c)  __Consensus-Based Standards__  __.—__ 
+
+>     In prescribing regulations under this section, the Administrator shall use consensus standards, as described in section 12(d) of the National Technology Transfer and Advancement Act of 1996 \[1995\] ([15 U.S.C. 272][/us/usc/t15/s272] note), to the extent practicable while continuing traditional methods for meeting part 23.
+
+>     “(d)  __Safety Cooperation__  __.—__ 
+
+>     The Administrator shall lead the effort to improve general aviation safety by working with leading aviation regulators to assist them in adopting a complementary regulatory approach for small airplanes.
+
+>     “(e)  __Definitions__  __.—__ 
+
+>     In this section:
+
+>         “(1) __Consensus standards.—__ 
+
+>             “(A)  __In general__  __.—__ 
+
+>             The term ‘consensus standards’ means standards developed by an organization described in subparagraph (B) that may include provisions requiring that owners of relevant intellectual property have agreed to make that intellectual property available on a nondiscriminatory, royalty-free, or reasonable royalty basis to all interested persons.
+
+>             “(B)  __Organizations described__  __.—__ 
+
+>             An organization described in this subparagraph is a domestic or international organization that—
+
+>                 “(i) plans, develops, establishes, or coordinates, through a process based on consensus and using agreed-upon procedures, voluntary standards; and
+
+>                 “(ii) operates in a transparent manner, considers a balanced set of interests with respect to such standards, and provides for due process and an appeals process with respect to such standards.
+
+>         “(2)  __Part 23__  __.—__ 
+
+>         The term ‘part 23’ means part 23 of title 14, Code of Federal Regulations.
+
+>         “(3)  __Part 23 reorganization aviation rulemaking committee__  __.—__ 
+
+>         The term ‘Part 23 Reorganization Aviation Rulemaking Committee’ means the aviation rulemaking committee established by the Federal Aviation Administration in August 2011 to consider the reorganization of the regulations under part 23.
+
+>         “(4)  __Small airplane__  __.—__ 
+
+>         The term ‘small airplane’ means an airplane which is certified to part 23 standards.”
+
  __Applicability__ 
 
 [Pub. L. 112–95, title III, § 303(b)][/us/pl/112/95/s303/b], Feb. 14, 2012, [126 Stat. 57][/us/stat/126/57], provided that: 
@@ -459,6 +547,9 @@ In subsections (a)–(c)(1), the word “Administrator” in section 603 of the 
 [/us/pl/104/264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264
 [/us/pl/104/264/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F264%2Fs3
 [/us/usc/t49/s106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs106
+[/us/pl/113/53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F53
+[/us/stat/127/584]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F584
+[/us/usc/t15/s272]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs272
 [/us/pl/112/95/s303/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F95%2Fs303%2Fb
 [/us/stat/126/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F57
 [/us/usc/t49/s44704/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs44704%2Fe
