@@ -29,6 +29,10 @@
 
 ([Pub. L. 95–617, title V, § 509][/us/pl/95/617/s509], Nov. 9, 1978, [92 Stat. 3162][/us/stat/92/3162].)
 
+ __References in Text__ 
+
+    The date this chapter becomes effective and the effective date of this chapter, referred to in subsec. (b), mean the date of enactment of title V of [Pub. L. 95–617][/us/pl/95/617], which was approved Nov. 9, 1978.
+
 ----------
 
 [Previous](./../../../..//us/usc/t43/ch38/m__us_usc_t43_s2008.md) | [Next](./../../../..//us/usc/t43/ch38/m__us_usc_t43_s2010.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs2009)
@@ -39,5 +43,6 @@
 [/us/usc/t30/s185]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft30%2Fs185
 [/us/pl/95/617/s509]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617%2Fs509
 [/us/stat/92/3162]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F3162
+[/us/pl/95/617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F617
 
 

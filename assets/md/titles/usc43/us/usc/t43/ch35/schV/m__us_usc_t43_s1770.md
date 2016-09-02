@@ -27,7 +27,7 @@
 
         (1) Nothing in this subchapter shall be construed as exempting any holder of a right-of-way issued under this subchapter from any provision of the antitrust laws of the United States.
 
-        (2) For the purposes of this subsection, the term “antitrust laws” includes the Act of July 2, 1890 ([26 Stat. 15][/us/stat/26/15] U.S.C. 1 et seq.); the Act of October 15, 1914 ([38 Stat. 730][/us/stat/38/730], [15 U.S.C. 12][/us/usc/t15/s12] et seq.); the Federal Trade Commission Act ([38 Stat. 717][/us/stat/38/717]; [15 U.S.C. 41][/us/usc/t15/s41] et seq.); and sections 73 and 74 of the Act of August 27, 1894 \[[15 U.S.C. 8][/us/usc/t15/s8], 9\].
+        (2) For the purposes of this subsection, the term “antitrust laws” includes the Act of July 2, 1890 (26 Stat. <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be followed by “209”. </sup></sup>  [15 U.S.C. 1][/us/usc/t15/s1] et seq.); the Act of October 15, 1914 ([38 Stat. 730][/us/stat/38/730], [15 U.S.C. 12][/us/usc/t15/s12] et seq.); the Federal Trade Commission Act ([38 Stat. 717][/us/stat/38/717]; [15 U.S.C. 41][/us/usc/t15/s41] et seq.); and sections 73 and 74 of the Act of August 27, 1894 \[[15 U.S.C. 8][/us/usc/t15/s8], 9\].
 
 ([Pub. L. 94–579, title V, § 510][/us/pl/94/579/s510], Oct. 21, 1976, [90 Stat. 2782][/us/stat/90/2782].)
 
@@ -57,7 +57,7 @@
 ----------
 
 [/us/usc/t43/s1761/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1761%2Fb
-[/us/stat/26/15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F26%2F15
+[/us/usc/t15/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs1
 [/us/stat/38/730]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F730
 [/us/usc/t15/s12]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs12
 [/us/stat/38/717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F717

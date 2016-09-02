@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s390b.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s390d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs390c)
+[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s390b–1.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s390d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs390c)
 
 ## § 390c. Water reservoirs; interests of States and local agencies in storage space
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s390b.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s390d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs390c)
+[Previous](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s390b–1.md) | [Next](./../../../../..//us/usc/t43/ch12/schI/m__us_usc_t43_s390d.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs390c)
 
 ----------
 ----------

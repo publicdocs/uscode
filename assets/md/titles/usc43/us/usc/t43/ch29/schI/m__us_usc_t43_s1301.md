@@ -23,7 +23,7 @@
 
         (1) all lands within the boundaries of each of the respective States which are covered by nontidal waters that were navigable under the laws of the United States at the time such State became a member of the Union, or acquired sovereignty over such lands and waters thereafter, up to the ordinary high water mark as heretofore or hereafter modified by accretion, erosion, and reliction;
 
-        (2) all lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coast line of each such State and to the boundary line of each such State where in any case such boundary as it existed at the time such State became a member of the Union, or as heretofore approved by Congress, extends seaward (or into the Gulf of Mexico) beyond three geographical miles, and
+        (2) all lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coast line of each such State and to the boundary line of each such State where in any case such boundary as it existed at the time such State became a member of the Union, or as heretofore approved by Congress, extends seaward (or into the Gulf of Mexico) beyond three geographical miles, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should be a semicolon. </sup></sup>  and
 
         (3) all filled in, made, or reclaimed lands which formerly were lands beneath navigable waters, as hereinabove defined;
 

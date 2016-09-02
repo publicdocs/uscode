@@ -105,6 +105,14 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs373f" data-uslm-ref="/us/usc/t43/s373f">373f.</a>  </td>
+
+    <td> Partnerships, grants, and cooperative agreements with local joint powers authorities.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs374" data-uslm-ref="/us/usc/t43/s374">374.</a>  </td>
 
     <td> Sale of lands acquired in connection with irrigation project.  </td>
@@ -316,6 +324,14 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs390b" data-uslm-ref="/us/usc/t43/s390b">390b.</a>  </td>
 
     <td> Development of water supplies for domestic, municipal, industrial, and other purposes.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs390b%E2%80%931" data-uslm-ref="/us/usc/t43/s390b–1">390b–1.</a>  </td>
+
+    <td> Improving planning and administration of water supply storage.  </td>
 
   </tr>
 
@@ -627,7 +643,7 @@ SUBCHAPTER I—GENERAL PROVISIONS  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft43%2Fs390h%E2%80%9312m" data-uslm-ref="/us/usc/t43/s390h–12m">390h–12m.</a>  </td>
 
-    <td> Mission Basin Brackish Groundwater Desalting Demonstration Project.  </td>
+    <td>   Mission Basin Brackish Groundwater Desalting Demonstration Project.  </td>
 
   </tr>
 

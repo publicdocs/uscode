@@ -53,7 +53,7 @@
 
         (3) taking actions consistent with an expert determination under the agreement; and
 
-        (4) ensuring only appropriate inspection staff at the Bureau of Safety and Environmental Enforcement or other Federal agency personnel designated by the Bureau, the operator, or the lessee have  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “has”. </sup></sup>  authority to stop work on any installation or other device or vessel permanently or temporarily attached to the seabed of the United States that may be erected thereon for the purpose of resource exploration, development or production activities as approved by the Secretary.
+        (4) ensuring only appropriate inspection staff at the Bureau of Safety and Environmental Enforcement or other Federal agency personnel designated by the Bureau, the operator, or the lessee have authority to stop work on any installation or other device or vessel permanently or temporarily attached to the seabed of the United States that may be erected thereon for the purpose of resource exploration, development or production activities as approved by the Secretary.
 
     (d) __Savings provisions__ 
 

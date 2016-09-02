@@ -15,9 +15,9 @@
 
 ## § 1703. Cooperative action and sharing of resources by Secretaries of the Interior and Agriculture
 
-    In fiscal year 2012 and each fiscal year thereafter, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish programs. <sup>\[1\]</sup>  <sup><sup> 1 So in original. The period probably should not appear. </sup></sup>  involving the land management agencies referred to in this section to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be followed by “may”. </sup></sup>  promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the “Service First” initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.
+    In fiscal year 2012 and each fiscal year thereafter, the Secretaries of the Interior and Agriculture, subject to annual review of Congress, may establish programs to conduct projects, planning, permitting, leasing, contracting and other activities, either jointly or on behalf of one another; may co-locate in Federal offices and facilities leased by an agency of either Department; and may promulgate special rules as needed to test the feasibility of issuing unified permits, applications, and leases. The Secretaries of the Interior and Agriculture may make reciprocal delegations of their respective authorities, duties and responsibilities in support of the “Service First” initiative agency-wide to promote customer service and efficiency. Nothing herein shall alter, expand or limit the applicability of any public law or regulation to lands administered by the Bureau of Land Management, National Park Service, Fish and Wildlife Service, or the Forest Service or matters under the purview of other bureaus or offices of either Department. To facilitate the sharing of resources under the Service First initiative, the Secretaries of the Interior and Agriculture may make transfers of funds and reimbursement of funds on an annual basis, including transfers and reimbursements for multi-year projects, except that this authority may not be used to circumvent requirements and limitations imposed on the use of funds.
 
-([Pub. L. 106–291, title III, § 330][/us/pl/106/291/s330], Oct. 11, 2000, [114 Stat. 996][/us/stat/114/996]; [Pub. L. 109–54, title IV, § 428][/us/pl/109/54/s428], Aug. 2, 2005, [119 Stat. 555][/us/stat/119/555]; [Pub. L. 111–8, div. E, title IV, § 418][/us/pl/111/8/s418], Mar. 11, 2009, [123 Stat. 747][/us/stat/123/747]; [Pub. L. 112–74, div. E, title IV, § 422][/us/pl/112/74/s422], Dec. 23, 2011, [125 Stat. 1045][/us/stat/125/1045].)
+([Pub. L. 106–291, title III, § 330][/us/pl/106/291/s330], Oct. 11, 2000, [114 Stat. 996][/us/stat/114/996]; [Pub. L. 109–54, title IV, § 428][/us/pl/109/54/s428], Aug. 2, 2005, [119 Stat. 555][/us/stat/119/555]; [Pub. L. 111–8, div. E, title IV, § 418][/us/pl/111/8/s418], Mar. 11, 2009, [123 Stat. 747][/us/stat/123/747]; [Pub. L. 112–74, div. E, title IV, § 422][/us/pl/112/74/s422], Dec. 23, 2011, [125 Stat. 1045][/us/stat/125/1045]; [Pub. L. 113–76, div. G, title IV, § 430][/us/pl/113/76/s430], Jan. 17, 2014, [128 Stat. 345][/us/stat/128/345].)
 
  __Codification__ 
 
@@ -26,6 +26,8 @@
     Section was formerly set out as a note under [section 1701 of this title][/us/usc/t43/s1701].
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–76][/us/pl/113/76], in first sentence, substituted “programs” for “programs. involving the land management agencies referred to in this section” and “and may promulgate” for “and promulgate” and, in third sentence, inserted “or matters under the purview of other bureaus or offices of either Department” after “Forest Service”.
 
     2011—[Pub. L. 112–74][/us/pl/112/74] substituted “In fiscal year 2012 and each fiscal year thereafter” for “In fiscal years 2001 through 2011” and “programs.” for “pilot programs”.
 
@@ -48,7 +50,10 @@
 [/us/stat/123/747]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F747
 [/us/pl/112/74/s422]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs422
 [/us/stat/125/1045]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1045
+[/us/pl/113/76/s430]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs430
+[/us/stat/128/345]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F345
 [/us/usc/t43/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1701
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/pl/111/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F8
 [/us/pl/109/54]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F54

@@ -43,7 +43,7 @@
 
  __References in Text__ 
 
-    Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, referred to in subsec. (e), is par. (1) of section 5(b) of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which was classified to [section 1805 of Title 42][/us/usc/t42/s1805], The Public Health and Welfare, prior to the general amendment of the Atomic Energy Act of 1946 by [act Aug. 30, 1954, ch. 1073][/us/act/1954-08-30/ch1073], [68 Stat. 921][/us/stat/68/921]. See [section 2014(z) of Title 42][/us/usc/t42/s2014/z].
+    Paragraph (1) of subsection (b) of section 5 of the Atomic Energy Act of 1946, as amended, referred to in subsec. (e), is par. (1) of section 5(b) of [act Aug. 1, 1946, ch. 724][/us/act/1946-08-01/ch724], [60 Stat. 755][/us/stat/60/755], which was classified to [section 1805 of Title 42][/us/usc/t42/s1805], The Public Health and Welfare, prior to the general amendment of the Atomic Energy Act of 1946 by [act Aug. 30, 1954, ch. 1073, § 1][/us/act/1954-08-30/ch1073/s1], [68 Stat. 919][/us/stat/68/919]. See [section 2014(z) of Title 42][/us/usc/t42/s2014/z].
 
  __Key Largo Coral Reef Preserve__ 
 
@@ -61,8 +61,8 @@
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/stat/60/755]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F755
 [/us/usc/t42/s1805]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1805
-[/us/act/1954-08-30/ch1073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073
-[/us/stat/68/921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F921
+[/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
+[/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
 [/us/usc/t42/s2014/z]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fz
 [/us/usc/t16/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs461
 

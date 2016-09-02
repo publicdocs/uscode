@@ -57,7 +57,7 @@
 
  __References in Text__ 
 
-    The Alaska Native Claims Settlement Act, referred to in subsecs. (b)(1)(A), (3), (d), and (e), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. Section 17(b) of the Act was classified to [section 1616(b) of this title][/us/usc/t43/s1616/b] and was omitted from the Code. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t43/s1601] and Tables.
+    The Alaska Native Claims Settlement Act, referred to in subsecs. (b)(1)(A), (3), (d), and (e), is [Pub. L. 92–203][/us/pl/92/203], Dec. 18, 1971, [85 Stat. 688][/us/stat/85/688], as amended, which is classified generally to chapter 33 (§ 1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t43/s1601] and Tables.
 
     Act of March 4, 1915, as amended, referred to in subsec. (b)(2), is [act Mar. 4, 1915, ch. 181][/us/act/1915-03-04/ch181], [38 Stat. 1214][/us/stat/38/1214], as amended, which enacted [section 353 of Title 48][/us/usc/t48/s353], Territories and Insular Possessions, and a provision set out as a note under [section 852 of this title][/us/usc/t43/s852]. [Section 353 of Title 48][/us/usc/t48/s353] was repealed by [Pub. L. 85–508, § 6(k)][/us/pl/85/508/s6/k], July 7, 1958, [72 Stat. 343][/us/stat/72/343]. For complete classification of this Act to the Code, see Tables.
 
@@ -121,7 +121,6 @@
 [/us/stat/94/2546]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F94%2F2546
 [/us/pl/92/203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F203
 [/us/stat/85/688]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F85%2F688
-[/us/usc/t43/s1616/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1616%2Fb
 [/us/usc/t43/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs1601
 [/us/act/1915-03-04/ch181]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1915-03-04%2Fch181
 [/us/stat/38/1214]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F38%2F1214
