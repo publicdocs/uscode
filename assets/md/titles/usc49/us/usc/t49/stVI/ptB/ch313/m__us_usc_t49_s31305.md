@@ -183,6 +183,22 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 
     Amendment by [Pub. L. 112–141][/us/pl/112/141] effective Oct. 1, 2012, see [section 3(a) of Pub. L. 112–141][/us/pl/112/141/s3/a], set out as an Effective and Termination Dates of 2012 Amendment note under [section 101 of Title 23][/us/usc/t23/s101], Highways.
 
+ __Commercial Motor Vehicle Operator Requirements Relating to Sleep Disorders__ 
+
+[Pub. L. 113–45, § 1][/us/pl/113/45/s1], Oct. 15, 2013, [127 Stat. 557][/us/stat/127/557], provided that:
+
+>     “(a) __In General.—__ 
+
+>     The Secretary of Transportation may implement or enforce a requirement providing for the screening, testing, or treatment (including consideration of all possible treatment alternatives) of individuals operating commercial motor vehicles for sleep disorders only if the requirement is adopted pursuant to a rulemaking proceeding.
+
+>     “(b) __Applicability.—__ 
+
+>     Subsection (a) shall not apply to a requirement that was in force before September 1, 2013.
+
+>     “(c) __Sleep Disorders Defined.—__ 
+
+>     In this section, the term ‘sleep disorders’ includes obstructive sleep apnea.”
+
  __Operation of Commercial Motor Vehicles by Individuals Who Use Insulin To Treat Diabetes Mellitus__ 
 
 [Pub. L. 109–59, title IV, § 4129][/us/pl/109/59/s4129], Aug. 10, 2005, [119 Stat. 1742][/us/stat/119/1742], provided that:
@@ -323,6 +339,8 @@ Oct. 27, 1986, Pub. L. 99–570, § 12005(a), (b), 100 Stat. 3207–171.  </td
 [/us/pl/112/141]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141
 [/us/pl/112/141/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F141%2Fs3%2Fa
 [/us/usc/t23/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft23%2Fs101
+[/us/pl/113/45/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F45%2Fs1
+[/us/stat/127/557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F557
 [/us/pl/109/59/s4129]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F59%2Fs4129
 [/us/stat/119/1742]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F1742
 [/us/pl/105/178]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F178
