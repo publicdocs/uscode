@@ -247,7 +247,7 @@
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 201(b), (d), Dec. 18, 2015, [129 Stat. 3076][/us/stat/129/3076], provided that, applicable to credits or refunds made after Dec. 31, 2016, this section is amended by adding at the end the following:
+    [Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 201(b), (d), Dec. 18, 2015, [129 Stat. 3076][/us/stat/129/3076], provided that, applicable to credits or refunds made after Dec. 31, 2016, this section is amended by adding at the end the following new subsection:
 
     (m) Earliest date for certain refunds
 

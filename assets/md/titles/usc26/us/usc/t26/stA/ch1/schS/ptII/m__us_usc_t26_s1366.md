@@ -87,7 +87,7 @@
 
     (e) __Treatment of family group__ 
 
-        If an individual who is a member of the family (within the meaning of section 704(e)(3)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> ) of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
+        If an individual who is a member of the family (within the meaning of section 704(e)(3))  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of one or more shareholders of an S corporation renders services for the corporation or furnishes capital to the corporation without receiving reasonable compensation therefor, the Secretary shall make such adjustments in the items taken into account by such individual and such shareholders as may be necessary in order to reflect the value of such services or capital.
 
     (f) __Special rules__ 
 

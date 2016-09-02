@@ -31,7 +31,7 @@
 
         (2) in the case of any modification of an imputed underpayment under section 6225(c), the date that is 270 days (plus the number of days of any extension consented to by the Secretary under paragraph (7) thereof) after the date on which everything required to be submitted to the Secretary pursuant to such section is so submitted, or
 
-        (3) in the case of any notice of a proposed partnership adjustment under section 6231(a)(2), the date that is 330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7) after the date of such notice.
+        (3) in the case of any notice of a proposed partnership adjustment under section 6231(a)(2), the date that is 330 days (plus the number of days of any extension consented to by the Secretary under section 6225(c)(7)  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Another closing parenthesis probably should appear. </sup></sup>  after the date of such notice.
 
     (b) __Extension by agreement__ 
 

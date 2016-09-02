@@ -83,7 +83,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–94][/us/pl/114/94], § 32103(c), div. C, title XXXII, § 32103(c), Dec. 4, 2015, [129 Stat. 1737][/us/stat/129/1737], added item 6307.
+    2015—[Pub. L. 114–94, div. C, title XXXII][/us/pl/114/94/dC/tXXXII], § 32103(c), Dec. 4, 2015, [129 Stat. 1737][/us/stat/129/1737], added item 6307.
 
     2004—[Pub. L. 108–357, title VIII][/us/pl/108/357/tVIII], § 881(a)(2)(B), Oct. 22, 2004, [118 Stat. 1626][/us/stat/118/1626], added item 6306.
 
@@ -100,7 +100,7 @@
 ----------
 ----------
 
-[/us/pl/114/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94
+[/us/pl/114/94/dC/tXXXII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F94%2FdC%2FtXXXII
 [/us/stat/129/1737]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1737
 [/us/pl/108/357/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F357%2FtVIII
 [/us/stat/118/1626]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1626

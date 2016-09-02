@@ -2497,11 +2497,11 @@
 
             (B) __Federally declared disaster__ 
 
-                The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i). <sup>\[6\]</sup>  <sup><sup> 6 See References in Text note below. </sup></sup> 
+                The term “federally declared disaster” has the meaning given such term under section 165(h)(3)(C)(i). <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup> 
 
             (C) __Disaster area__ 
 
-                The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii).6
+                The term “disaster area” has the meaning given such term under section 165(h)(3)(C)(ii).4
 
             (D) __Eligible taxpayer__ 
 
@@ -2529,7 +2529,7 @@
 
     The date of the enactment of this paragraph, referred to in subsec. (j)(7), is the date of enactment of [Pub. L. 103–66][/us/pl/103/66], which was approved Aug. 10, 1993.
 
-    The date of the enactment of this subsection and the date of the enactment of subsection (l), referred to in subsec. (l)(2)(B), (C), is the date of enactment of [Pub. L. 109–432][/us/pl/109/432], which was approved Dec. 20, 2006.
+    The date of the enactment of this subsection, referred to in subsec. (l)(2)(B), (C), is the date of enactment of [Pub. L. 109–432][/us/pl/109/432], which was approved Dec. 20, 2006.
 
     Par. (3) of section 165(h), referred to in subsec. (n)(3)(B), (C), was repealed by [Pub. L. 113–295, div. A, title II][/us/pl/113/295/dA/tII], § 221(a)(27)(A), Dec. 19, 2014, [128 Stat. 4040][/us/stat/128/4040]. However, the terms “federally declared disaster” and “disaster area” are defined elsewhere in that section.
 
@@ -2555,7 +2555,7 @@
 
     Subsec. (e)(3)(E)(ix). [Pub. L. 114–113][/us/pl/114/113], § 123(b), struck out “placed in service after December 31, 2008, and before January 1, 2015” after “property”.
 
-    Subsec. (e)(6). [Pub. L. 114–113][/us/pl/114/113], § 143(b)(6)(A), in introductory provisions substituted “For purposes of this subsection—” for “The term ‘qualified leasehold improvement property’ has the meaning given such term in section 168(k)(3) except that the following special rules shall apply:”; added subpars. (A) to (C) and redesignated former subpars. (A) and (B) as (D) and (E), respectively; and, in subpar. (E), substituted “subparagraph (D)” for “subparagraph (A)” in introductory provisions.
+    Subsec. (e)(6). [Pub. L. 114–113][/us/pl/114/113], § 143(b)(6)(A), in introductory provisions, substituted “For purposes of this subsection—” for “The term ‘qualified leasehold improvement property’ has the meaning given such term in section 168(k)(3) except that the following special rules shall apply:”; added subpars. (A) to (C) and redesignated former subpars. (A) and (B) as (D) and (E), respectively; and, in subpar. (E), substituted “subparagraph (D)” for “subparagraph (A)” in introductory provisions.
 
     Subsec. (e)(7)(B). [Pub. L. 114–113][/us/pl/114/113], § 143(b)(6)(B), substituted “qualified improvement property” for “qualified leasehold improvement property”.
 

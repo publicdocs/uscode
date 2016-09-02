@@ -199,7 +199,7 @@
 
     Amendment by [Pub. L. 85–866][/us/pl/85/866] applicable to gifts made after September 2, 1958, see [section 102(d) of Pub. L. 85–866][/us/pl/85/866/s102/d], set out as a note under [section 2014 of this title][/us/usc/t26/s2014].
 
- __Construction__ 
+ __Construction of 2015 Amendment__ 
 
 [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 408(c), Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121], provided that: 
 

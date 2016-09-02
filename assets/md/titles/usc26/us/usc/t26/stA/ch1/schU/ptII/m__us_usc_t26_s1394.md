@@ -53,7 +53,7 @@
 
                     (II) __Special rule for employee residence test__ 
 
-                        For purposes of subsection (b)(6) and (c)(5) of section 1397C, an employee shall be treated as a resident of an empowerment zone if such employee is a resident of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction.
+                        For purposes of subsection  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “subsections”. </sup></sup>  (b)(6) and (c)(5) of section 1397C, an employee shall be treated as a resident of an empowerment zone if such employee is a resident of an empowerment zone, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction.
 
                 (ii) __Waiver of requirements during startup period__ 
 
@@ -229,7 +229,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(3)(B)(i). [Pub. L. 114–113][/us/pl/114/113], § 171(b), designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), references” for “References” in subcl. (I), and added subcl. (II).
+    2015—Subsec. (b)(3)(B)(i). [Pub. L. 114–113][/us/pl/114/113], § 171(b), designated existing provisions as subcl. (I), inserted heading, substituted “Except as provided in subclause (II), references” for “References”, and added subcl. (II).
 
     Subsec. (b)(3)(B)(iii). [Pub. L. 114–113][/us/pl/114/113], § 171(d)(1), substituted “, an enterprise community, or a qualified low-income community within an applicable nominating jurisdiction” for “or an enterprise community”.
 

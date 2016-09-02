@@ -147,7 +147,7 @@
 
  __Amendment of Subsection (i)__ 
 
-    [Pub. L. 114–94, div. C, title XXXI][/us/pl/114/94/dC/tXXXI], § 31102(d)(2), (f), Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727], 1728, provided that, effective Oct. 1, 2016, subsection (i) of this section is amended by striking “October 1, 2017” and inserting “October 1, 2023”.
+    [Pub. L. 114–94, div. C, title XXXI][/us/pl/114/94/dC/tXXXI], § 31102(d)(2), (f), Dec. 4, 2015, [129 Stat. 1727][/us/stat/129/1727], 1728, provided that, effective Oct. 1, 2016, subsection (i) of this section is amended by striking “October 1, 2017” and inserting “October 1, 2023”. See 2015 Amendment note below.
 
  __References in Text__ 
 

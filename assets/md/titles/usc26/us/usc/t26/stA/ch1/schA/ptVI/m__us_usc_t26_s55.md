@@ -259,7 +259,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(4). [Pub. L. 114–113][/us/pl/114/113], § 334(b), struck out par. (4) which related to the maximum rate of tax on qualified timber gain of corporations.
+    2015—Subsec. (b)(4). [Pub. L. 114–113][/us/pl/114/113] struck out par. (4) which related to the maximum rate of tax on qualified timber gain of corporations.
 
     2014—Subsec. (d)(4)(B)(ii). [Pub. L. 113–295][/us/pl/113/295], § 202(c)(1), inserted “subparagraphs (A), (B), and (D) of” before “paragraph (1)”.
 

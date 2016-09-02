@@ -57,6 +57,10 @@
 
 (Added [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 346(a), Dec. 18, 2015, [129 Stat. 3115][/us/stat/129/3115].)
 
+ __References in Text__ 
+
+    [29 U.S.C. 152][/us/usc/t29/s152], referred to in subsec. (b)(1)(A)(iv), is section 2 of the National Labor Relations Act, [act July 5, 1935, ch. 372][/us/act/1935-07-05/ch372], [49 Stat. 450][/us/stat/49/450], which is classified to [section 152 of Title 29][/us/usc/t29/s152], Labor.
+
  __Effective Date__ 
 
 [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 346(c), Dec. 18, 2015, [129 Stat. 3116][/us/stat/129/3116], provided that: 
@@ -80,6 +84,10 @@
 [/us/usc/t18/s2257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs2257
 [/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3115]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3115
+[/us/usc/t29/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs152
+[/us/act/1935-07-05/ch372]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-07-05%2Fch372
+[/us/stat/49/450]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F450
+[/us/usc/t29/s152]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs152
 [/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3116
 [/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII

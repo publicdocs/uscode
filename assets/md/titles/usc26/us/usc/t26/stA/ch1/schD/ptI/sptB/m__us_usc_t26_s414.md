@@ -2243,7 +2243,9 @@
 
 >         “(A) a church plan (as defined in section 414(e) of the Internal Revenue Code of 1986), including a plan described in section 401(a) of such Code and a retirement income account described in section 403(b)(9) of such Code, and
 
->         “(B) an organization described in section 414(e)(3)(A) of such Code the principal purpose or function of which is the administration of such a plan or account,    “the assets of such plan, account, or organization (including any assets otherwise permitted to be commingled for investment purposes with the assets of such a plan, account, or organization) may be invested in a group trust otherwise described in Internal Revenue Service Revenue Ruling 81–100 (as modified by Internal Revenue Service Revenue Rulings 2004–67, 2011–1, and 2014–24), or any subsequent revenue ruling that supersedes or modifies such revenue ruling, without adversely affecting the tax status of the group trust, such plan, account, or organization, or any other plan or trust that invests in the group trust.
+>         “(B) an organization described in section 414(e)(3)(A) of such Code the principal purpose or function of which is the administration of such a plan or account,
+
+>         the assets of such plan, account, or organization (including any assets otherwise permitted to be commingled for investment purposes with the assets of such a plan, account, or organization) may be invested in a group trust otherwise described in Internal Revenue Service Revenue Ruling 81–100 (as modified by Internal Revenue Service Revenue Rulings 2004–67, 2011–1, and 2014–24), or any subsequent revenue ruling that supersedes or modifies such revenue ruling, without adversely affecting the tax status of the group trust, such plan, account, or organization, or any other plan or trust that invests in the group trust.
 
 >     “(2)  __Effective date__  __.—__ 
 

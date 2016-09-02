@@ -43,7 +43,7 @@
 
         The tax imposed under subsection (a) shall not apply to sales during the period beginning on January 1, 2016, and ending on December 31, 2017.
 
-(Added [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1405(a)(1), Mar. 30, 2010, [124 Stat. 1064][/us/stat/124/1064]; [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 174(a), Dec. 18, 2015, [129 Stat. 3071][/us/stat/129/3071].)
+(Added [Pub. L. 111–152, title I][/us/pl/111/152/tI], § 1405(a)(1), Mar. 30, 2010, [124 Stat. 1064][/us/stat/124/1064]; amended [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 174(a), Dec. 18, 2015, [129 Stat. 3071][/us/stat/129/3071].)
 
  __References in Text__ 
 

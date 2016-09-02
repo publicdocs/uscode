@@ -217,7 +217,7 @@
 
                 If any amount as adjusted under subparagraph (A) is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 
-    (i) __American opportunity tax credit__ 
+    (i) __American Opportunity Tax Credit__ 
 
     In the case of any taxable year beginning after 2008—
 

@@ -267,6 +267,10 @@
 
 (Added [Pub. L. 87–834][/us/pl/87/834], § 2(b), Oct. 16, 1962, [76 Stat. 966][/us/stat/76/966]; amended [Pub. L. 91–172, title VII][/us/pl/91/172/tVII], § 703(c), Dec. 30, 1969, [83 Stat. 666][/us/stat/83/666]; [Pub. L. 91–676][/us/pl/91/676], § 1, Jan. 12, 1971, [84 Stat. 2060][/us/stat/84/2060]; [Pub. L. 92–178, title I][/us/pl/92/178/tI], §§ 102(c), 107(a)(1), (b)(1), Dec. 10, 1971, [85 Stat. 500][/us/stat/85/500], 507; Mar. 29, 1975, [Pub. L. 94–12, title III][/us/pl/94/12/tIII], § 302(b)(2)(A), (c)(1), (2), [89 Stat. 43][/us/stat/89/43], 44; [Pub. L. 94–455, title VIII][/us/pl/94/455/tVIII], § 804(b), title XIX, § 1906(b)(13)(A), Oct. 4, 1976, [90 Stat. 1594][/us/stat/90/1594], 1834; [Pub. L. 95–600, title III][/us/pl/95/600/tIII], § 317(a), Nov. 6, 1978, [92 Stat. 2830][/us/stat/92/2830]; [Pub. L. 95–618, title II][/us/pl/95/618/tII], § 241(b), Nov. 9, 1978, [92 Stat. 3193][/us/stat/92/3193]; [Pub. L. 97–34, title II][/us/pl/97/34/tII], § 211(f)(2), (g), Aug. 13, 1981, [95 Stat. 231][/us/stat/95/231], 233; [Pub. L. 97–248, title II][/us/pl/97/248/tII], § 208(a)(2)(B), Sept. 3, 1982, [96 Stat. 435][/us/stat/96/435]; [Pub. L. 97–448, title I][/us/pl/97/448/tI], § 102(e)(3), Jan. 12, 1983, [96 Stat. 2371][/us/stat/96/2371]; [Pub. L. 98–369, div. A, title IV][/us/pl/98/369/dA/tIV], §§ 421(b)(7), 431(b)(2), (d)(4), (5), 474(o)(8), (9), July 18, 1984, [98 Stat. 794][/us/stat/98/794], 807, 810, 836; [Pub. L. 98–443][/us/pl/98/443], § 9(p), Oct. 4, 1984, [98 Stat. 1708][/us/stat/98/1708]; [Pub. L. 99–121, title I][/us/pl/99/121/tI], § 103(b)(6), Oct. 11, 1985, [99 Stat. 510][/us/stat/99/510]; [Pub. L. 99–514, title XV][/us/pl/99/514/tXV], § 1511(c)(2), title XVIII, §§ 1802(a)(5)(A), 1844(b)(1), (2), (4), Oct. 22, 1986, [100 Stat. 2744][/us/stat/100/2744], 2788, 2855; [Pub. L. 100–647, title I][/us/pl/100/647/tI], §§ 1002(a)(18), (26)–(28), 1007(g)(3)(A), Nov. 10, 1988, [102 Stat. 3356][/us/stat/102/3356], 3357, 3435; [Pub. L. 101–508, title XI][/us/pl/101/508/tXI], § 11801(c)(8)(A), 11813(a), Nov. 5, 1990, [104 Stat. 1388–524][/us/stat/104/1388-524], 1388–536; [Pub. L. 110–289, div. C, title I][/us/pl/110/289/dC/tI], § 3025(a), July 30, 2008, [122 Stat. 2897][/us/stat/122/2897].)
 
+ __Prior Provisions__ 
+
+    Provisions similar to this section were contained in [section 48(g) of this title][/us/usc/t26/s48/g], prior to the general amendment of this subpart by [Pub. L. 101–508][/us/pl/101/508].
+
  __Amendments__ 
 
     2008—Subsec. (c)(2)(B)(v)(I). [Pub. L. 110–289][/us/pl/110/289] substituted “section 168(h), except that ‘50 percent’ shall be substituted for ‘35 percent’ in paragraph (1)(B)(iii) thereof” for “section 168(h)”.
@@ -504,6 +508,8 @@
 [/us/stat/104/1388-524]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1388-524
 [/us/pl/110/289/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289%2FdC%2FtI
 [/us/stat/122/2897]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2897
+[/us/usc/t26/s48/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs48%2Fg
+[/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508
 [/us/pl/101/508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F508

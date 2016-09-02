@@ -597,7 +597,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a)(1)(E). [Pub. L. 114–113][/us/pl/114/113], § 151(b), substituted “discharged—” and cls. (i) and (ii) for “discharged before January 1, 2017.”
+    2015—Subsec. (a)(1)(E). [Pub. L. 114–113][/us/pl/114/113], § 151(b), substituted “discharged—” for “discharged before January 1, 2017.” and added cls. (i) and (ii).
 
     [Pub. L. 114–113][/us/pl/114/113], § 151(a), substituted “January 1, 2017” for “January 1, 2015”.
 

@@ -525,7 +525,7 @@
 
     The date of enactment of the Housing Assistance Tax Act of 2008, referred to in subsec. (b)(6)(I), is the date of enactment of div. C of [Pub. L. 110–289][/us/pl/110/289], which was approved July 30, 2008.
 
-    Section 856(c)(8), referred to in subsec. (b)(6)(J), was redesignated [section 856(c)(10) of this title][/us/usc/t26/s856/c/10] by [Pub. L. 114–113, div. Q][/us/pl/114/113/dQ], §§ 311(b), 318(a), Dec. 18, 2015, [129 Stat. 3090][/us/stat/129/3090], 3094.
+    Section 856(c)(8), referred to in subsec. (b)(6)(J), was redesignated [section 856(c)(10) of this title][/us/usc/t26/s856/c/10] by [Pub. L. 114–113, div. Q][/us/pl/114/113/dQ], §§ 311(b), 318(a), Dec. 18, 2015, [129 Stat. 3090][/us/stat/129/3090], 3095.
 
  __Codification__ 
 

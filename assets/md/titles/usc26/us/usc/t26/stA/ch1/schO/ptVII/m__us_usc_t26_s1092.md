@@ -631,7 +631,7 @@
 
 >         “(2)
 
->          was a member of the family (within the meaning of section 704(e)(3) of such Code) of an individual described in paragraph (1) to the extent such member engaged in commodities trading through an organization the members of which consisted solely of—
+>          was a member of the family (within the meaning of section 704(e)(3) \[now 704(e)(2)\] of such Code) of an individual described in paragraph (1) to the extent such member engaged in commodities trading through an organization the members of which consisted solely of—
 
 >             “(A) 1 or more individuals described in paragraph (1), and
 

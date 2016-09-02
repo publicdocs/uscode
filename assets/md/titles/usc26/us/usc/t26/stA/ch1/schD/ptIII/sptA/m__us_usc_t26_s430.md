@@ -659,11 +659,15 @@
 
                             <td> 
 
-                        The applicable minimum percentage is:  </td>
+                        The
+
+                        applicable minimum percentage is:  </td>
 
                             <td> 
 
-                        The applicable maximum percentage is:  </td>
+                        The
+
+                        applicable maximum percentage is:  </td>
 
   </tr>
 

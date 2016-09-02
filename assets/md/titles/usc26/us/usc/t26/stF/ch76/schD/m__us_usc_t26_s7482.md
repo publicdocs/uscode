@@ -57,7 +57,7 @@
 
             (F)
 
-  <sup>\[1\]</sup>  <sup><sup> 1 See Amendment of Subsection (b)(1) note below. </sup></sup>  in the case of a petition under section 6234(c)—
+  <sup>\[1\]</sup>  <sup><sup> 1 See Amendment of Subsection (b)(1) notes below. </sup></sup>  in the case of a petition under section 6234(c)—
 
                 (i) the legal residence of the petitioner if the petitioner is not a corporation, and
 

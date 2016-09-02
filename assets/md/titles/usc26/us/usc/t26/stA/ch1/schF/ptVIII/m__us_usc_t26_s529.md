@@ -279,7 +279,7 @@
 
     2015—Subsec. (c)(3)(D). [Pub. L. 114–113][/us/pl/114/113], § 302(c)(1), added subpar. (D).
 
-    [Pub. L. 114–113][/us/pl/114/113], § 302(b)(1), struck out subpar. (D). Prior to amendment, text read as follows: “For purposes of applying section 72—
+    [Pub. L. 114–113][/us/pl/114/113], § 302(b)(1), struck out subpar. (D). Text read as follows: “For purposes of applying section 72—
 
     “(i) to the extent provided by the Secretary, all qualified tuition programs of which an individual is a designated beneficiary shall be treated as one program,
 

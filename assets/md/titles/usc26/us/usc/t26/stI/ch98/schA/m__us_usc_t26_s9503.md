@@ -279,7 +279,7 @@
 
             There is hereby transferred to the Highway Account (as defined in subsection (e)(5)(B)) in the Highway Trust Fund amounts appropriated from the Leaking Underground Storage Tank Trust Fund under section 9508(c)(2).
 
-        (4) __Additional appropriations to trust fund__ 
+        (4) __Additional appropriations to Trust Fund__ 
 
         Out of money in the Treasury not otherwise appropriated, there is hereby appropriated to—
 
@@ -313,7 +313,7 @@
 
             (B) $2,000,000,000 to the Mass Transit Account in the Highway Trust Fund.
 
-        (8) __Further transfers to trust fund__ 
+        (8) __Further transfers to Trust Fund__ 
 
         Out of money in the Treasury not otherwise appropriated, there is hereby appropriated—
 
@@ -347,9 +347,9 @@
 
     (2) in subsection (c)—
 
-    (A) by striking “July 1, 2017” and inserting “July 1, 2023” in paragraph (2); and
+    (A) by striking “July 1, 2017” in paragraph (2) and inserting “July 1, 2023”; and
 
-    (B) by striking “October 1, 2016” and inserting “October 1, 2022” in paragraphs (3)(A)(i) and (4)(A).
+    (B) by striking “October 1, 2016” in paragraphs (3)(A)(i) and (4)(A) and inserting “October 1, 2022”.
 
     See 2015 Amendment notes below.
 
@@ -447,11 +447,11 @@ The provisions of law referred to in this paragraph before the date of the enact
 
     [Pub. L. 114–87][/us/pl/114/87] substituted “December 5, 2015” for “November 21, 2015” and “Surface Transportation Extension Act of 2015, Part II” for “Surface Transportation Extension Act of 2015”.
 
-    . [Pub. L. 114–73][/us/pl/114/73], § 2001(a), substituted “November 21, 2015” for “October 30, 2015” and “Surface Transportation Extension Act of 2015” for “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015”.
+    [Pub. L. 114–73][/us/pl/114/73] substituted “November 21, 2015” for “October 30, 2015” and “Surface Transportation Extension Act of 2015” for “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015”.
 
     [Pub. L. 114–41][/us/pl/114/41], § 2001(a), substituted “October 30, 2015” for “August 1, 2015” and “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015” for “Highway and Transportation Funding Act of 2015”.
 
-    [Pub. L. 114–21][/us/pl/114/21], § 2001(a), substituted “August 1, 2015” for “June 1, 2015” and “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
+    [Pub. L. 114–21][/us/pl/114/21] substituted “August 1, 2015” for “June 1, 2015” and “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
 
     Subsec. (c)(2). [Pub. L. 114–94][/us/pl/114/94], § 31102(e)(1)(B), substituted “July 1, 2023” for “July 1, 2017”.
 
@@ -461,11 +461,11 @@ The provisions of law referred to in this paragraph before the date of the enact
 
     [Pub. L. 114–87][/us/pl/114/87] substituted “December 5, 2015” for “November 21, 2015” and “Surface Transportation Extension Act of 2015, Part II” for “Surface Transportation Extension Act of 2015”.
 
-    . [Pub. L. 114–73][/us/pl/114/73], § 2001(a), substituted “November 21, 2015” for “October 30, 2015” and “Surface Transportation Extension Act of 2015” for “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015”.
+    [Pub. L. 114–73][/us/pl/114/73] substituted “November 21, 2015” for “October 30, 2015” and “Surface Transportation Extension Act of 2015” for “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015”.
 
     [Pub. L. 114–41][/us/pl/114/41], § 2001(a), substituted “October 30, 2015” for “August 1, 2015” and “Surface Transportation and Veterans Health Care Choice Improvement Act of 2015” for “Highway and Transportation Funding Act of 2015”.
 
-    [Pub. L. 114–21][/us/pl/114/21], § 2001(a), substituted “August 1, 2015” for “June 1, 2015” and “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
+    [Pub. L. 114–21][/us/pl/114/21] substituted “August 1, 2015” for “June 1, 2015” and “Highway and Transportation Funding Act of 2015” for “Highway and Transportation Funding Act of 2014”.
 
     Subsec. (f)(7). [Pub. L. 114–41][/us/pl/114/41], § 2002, added par. (7). Former par. (7) redesignated (8).
 

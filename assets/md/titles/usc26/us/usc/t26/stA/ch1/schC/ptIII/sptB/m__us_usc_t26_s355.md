@@ -511,7 +511,7 @@
 
                 Paragraph (1) shall not apply to any distribution if, immediately after the distribution, the distributing corporation and the controlled corporation are both real estate investment trusts.
 
-            (B) __Spinoffs of certain taxable reit subsidiaries__ 
+            (B) __Spinoffs of certain taxable REIT subsidiaries__ 
 
             Paragraph (1) shall not apply to any distribution if—
 

@@ -365,7 +365,7 @@
 
             The term “applicable employment retention plan” means an employment retention plan maintained by—
 
-                (i) a local educational agency (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]), <sup>\[1\]</sup>  <sup><sup> 1 So in original. A second closing parenthesis probably should precede the comma. </sup></sup>  or
+                (i) a local educational agency (as defined in section 9101  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]), <sup>\[2\]</sup>  <sup><sup> 2 So in original. A second closing parenthesis probably should precede the comma. </sup></sup>  or
 
                 (ii) an education association which principally represents employees of 1 or more agencies described in clause (i) and which is described in section 501(c)(5) or (6) and exempt from taxation under section 501(a).
 
@@ -408,6 +408,8 @@
  __References in Text__ 
 
     Section 8101 of the Elementary and Secondary Education Act of 1965, referred to in subsec. (e)(11)(D)(ii)(I), is classified to [section 7801 of Title 20][/us/usc/t20/s7801], Education.
+
+    Section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]), referred to in subsec. (f)(4)(C)(i), was renumbered section 8101 of that Act by [Pub. L. 114–95, title VIII][/us/pl/114/95/tVIII], § 8001(a)(1), Dec. 10, 2015, [129 Stat. 2089][/us/stat/129/2089]. See note above.
 
  __Amendments__ 
 
@@ -861,6 +863,9 @@
 [/us/stat/129/2183]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2183
 [/us/usc/t26/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs401
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
+[/us/pl/114/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVIII
+[/us/stat/129/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2089
 [/us/pl/114/95]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/113/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F295

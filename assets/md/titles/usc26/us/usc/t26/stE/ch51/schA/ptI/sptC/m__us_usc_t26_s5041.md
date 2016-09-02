@@ -95,7 +95,7 @@
 
  __Amendment of Section__ 
 
-    [Pub. L. 114–113, title III][/us/pl/114/113/tIII], § 335, Dec. 18, 2015, [129 Stat. 3109][/us/stat/129/3109], provided that, applicable to hard cider removed during calendar years beginning after Dec. 31, 2016, this section is amended:
+    [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 335, Dec. 18, 2015, [129 Stat. 3109][/us/stat/129/3109], provided that, applicable to hard cider removed during calendar years beginning after Dec. 31, 2016, this section is amended:
 
     (1) in subsection (b)(6), by striking out “which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume”; and
 
@@ -129,7 +129,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b)(6). [Pub. L. 114–113][/us/pl/114/113], § 355(a)(1), struck out “which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume” after “hard cider”.
+    2015—Subsec. (b)(6). [Pub. L. 114–113][/us/pl/114/113], § 335(a)(1), struck out “which is a still wine derived primarily from apples or apple concentrate and water, containing no other fruit product, and containing at least one-half of 1 percent and less than 7 percent alcohol by volume” after “hard cider”.
 
     Subsec. (g). [Pub. L. 114–113][/us/pl/114/113], § 335(a)(2), added subsec. (g).
 
@@ -266,7 +266,7 @@
 [/us/stat/112/812]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F812
 [/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3109
-[/us/pl/114/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FtIII
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3109]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3109
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F609

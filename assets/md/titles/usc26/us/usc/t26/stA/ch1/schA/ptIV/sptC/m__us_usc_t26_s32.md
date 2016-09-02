@@ -121,7 +121,7 @@
 
                 <td> 
 
-            7.65  </td>
+             7.65  </td>
 
   </tr>
 
@@ -493,7 +493,7 @@
 
     Subsec. (b)(2)(B). [Pub. L. 114–113][/us/pl/114/113], § 103(b), amended subpar. (B) generally. Prior to amendment, text read as follows: “In the case of a joint return filed by an eligible individual and such individual’s spouse, the phaseout amount determined under subparagraph (A) shall be increased by $3,000.”
 
-    Subsec. (b)(3). [Pub. L. 114–113][/us/pl/114/113], § 103(c), struck out par. (3) which provided for increased credit percentage for 3 or more qualifying children and reduction of marriage penalty in taxable years beginning after 2008 and before 2018, with adjustment for inflation.
+    Subsec. (b)(3). [Pub. L. 114–113][/us/pl/114/113], § 103(c), struck out par. (3) which provided for increased credit percentage for taxpayers with 3 or more qualifying children and reduction of marriage penalty in taxable years beginning after 2008 and before 2018, with adjustment for inflation.
 
     Subsec. (m). [Pub. L. 114–113][/us/pl/114/113], § 204(a), inserted “on or before the due date for filing the return for the taxable year” before period at end.
 

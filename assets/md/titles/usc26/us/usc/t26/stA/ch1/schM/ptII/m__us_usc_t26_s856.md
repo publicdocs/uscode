@@ -291,7 +291,7 @@
 
             Personal property shall be treated as a real estate asset for purposes of paragraph (4)(A) to the extent that rents attributable to such personal property are treated as rents from real property under subsection (d)(1)(C).
 
-            (B) __Certain personal property mortgaged in connection with real property.—__ 
+            (B)  __Certain personal property mortgaged in connection with real property__  __.—__ 
 
             In the case of an obligation secured by a mortgage on both real property and personal property, if the fair market value of such personal property does not exceed 15 percent of the total fair market value of all such property, such obligation shall be treated—
 

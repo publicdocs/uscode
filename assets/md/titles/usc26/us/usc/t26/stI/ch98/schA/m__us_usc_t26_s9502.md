@@ -185,7 +185,7 @@
 
     The FAA Modernization and Reform Act of 2012, referred to in subsec. (d)(1)(A), is [Pub. L. 112–95][/us/pl/112/95], Feb. 14, 2012, [126 Stat. 11][/us/stat/126/11]. For complete classification of this Act to the Code, see Short Title of 2012 Amendment note set out under [section 40101 of Title 49][/us/usc/t49/s40101], Transportation, and Tables.
 
-    The Airport and Airway Extension Act of 2015, referred to in (d)(1)(A), is [Pub. L. 114–55][/us/pl/114/55], Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
+    The Airport and Airway Extension Act of 2015, referred to in subsec. (d)(1)(A), is [Pub. L. 114–55][/us/pl/114/55], Sept. 30, 2015, [129 Stat. 524][/us/stat/129/524]. For complete classification of this Act to the Code, see Short Title of 2015 Amendment note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
 
     The Airport and Airway Extension Act of 2016, referred to in subsec. (d)(1)(A), is [Pub. L. 114–141][/us/pl/114/141], Mar. 30, 2016, [130 Stat. 322][/us/stat/130/322]. For complete classification of this Act to the Code, see Short Title of 2016 Amendment note set out under [section 1 of this title][/us/usc/t26/s1] and Tables.
 

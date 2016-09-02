@@ -27,7 +27,7 @@
 
     (6) For abatement, credit, or refund in case of jeopardy assessments, see chapter 70.
 
-    (7) For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742).
+    (7) For treatment of certain overpayments as having been refunded, in connection with sale of surplus war-built vessels, see section 9(b)(8) of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742). <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup> 
 
     (8) For restrictions on transfers and assignments of claims against the United States, see [section 3727 of title 31][/us/usc/t31/s3727], United States Code.
 
@@ -35,7 +35,7 @@
 
     (10) For special provisions relating to alcohol and tobacco taxes, see subtitle E.
 
-    (11) for  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be capitalized. </sup></sup>  credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.
+    (11) for  <sup>\[2\]</sup>  <sup><sup> 2 So in original. Probably should be capitalized. </sup></sup>  credit or refund in case of deficiency dividends paid by a regulated investment company or real estate investment trust, see section 860.
 
     (12) For special rules in the case of a credit or refund attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.
 
@@ -47,7 +47,7 @@
 
  __References in Text__ 
 
-    Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), was repealed by [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(g), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
+    Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in par. (7), is section 9 of [act Mar. 8, 1946, ch. 82][/us/act/1946-03-08/ch82], [60 Stat. 46][/us/stat/60/46], which was repealed by [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(g), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
 
  __Amendments__ 
 
@@ -150,6 +150,8 @@
 [/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
 [/us/pl/114/74/tXI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74%2FtXI
 [/us/stat/129/637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F637
+[/us/act/1946-03-08/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch82
+[/us/stat/60/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F46
 [/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
 [/us/pl/114/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F74

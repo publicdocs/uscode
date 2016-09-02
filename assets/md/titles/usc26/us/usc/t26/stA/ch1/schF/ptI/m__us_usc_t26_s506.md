@@ -61,7 +61,9 @@
 
 >         “(A) such organization has not applied for a written determination of recognition as an organization described in section 501(c)(4) of such Code, and
 
->         “(B) such organization has not filed at least one annual return or notice required under subsection (a)(1) or (i) (as the case may be) of section 6033 of such Code.    “In the case of any organization to which the amendments made by this section apply by reason of the preceding sentence, such organization shall submit the notice required by section 506(a) of such Code, as added by this Act, not later than 180 days after the date of the enactment of this Act.”
+>         “(B) such organization has not filed at least one annual return or notice required under subsection (a)(1) or (i) (as the case may be) of section 6033 of such Code.
+
+>         In the case of any organization to which the amendments made by this section apply by reason of the preceding sentence, such organization shall submit the notice required by section 506(a) of such Code, as added by this Act, not later than 180 days after the date of the enactment of this Act.”
 
  __Limitation on Expenditure of User Fees__ 
 

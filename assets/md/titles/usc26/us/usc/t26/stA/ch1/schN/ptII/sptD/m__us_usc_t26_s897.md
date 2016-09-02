@@ -225,7 +225,7 @@
 
                 (i) any real estate investment trust, and
 
-                (ii) anyregulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection or regulated investment company.
+                (ii) any regulated investment company which is a United States real property holding corporation or which would be a United States real property holding corporation if the exceptions provided in subsections (c)(3) and (h)(2) did not apply to interests in any real estate investment trust and for purposes of determining whether a real estate investment trust is a domestically controlled qualified investment entity under this subsection or regulated investment company.
 
             (B) __Domestically controlled__ 
 
@@ -621,7 +621,7 @@
 
 >         such investment company shall not be liable to any person to whom such distribution was made for any amount so withheld and paid over to the Secretary of the Treasury.”
 
-    Amendment by [section 322(a) of Pub. L. 114–113][/us/pl/114/113/s322/a] effective Dec. 18, 2015, and applicable to any disposition on and after Dec. 18, 2015, and any distribution by a real estate investment trust on or after such date which is treated as a deduction for a taxable year of such trust ending after such date, see [section 322(c)(1) of Pub. L. 114–113][/us/pl/114/113/s322/c/1], set out as a note under [section 857 of this title][/us/usc/t26/s857].
+    Amendment by section 322(a)(1), (2)(A) of [Pub. L. 114–113][/us/pl/114/113] effective Dec. 18, 2015, and applicable to any disposition on and after Dec. 18, 2015, and any distribution by a real estate investment trust on or after such date which is treated as a deduction for a taxable year of such trust ending after such date, see [section 322(c)(1) of Pub. L. 114–113][/us/pl/114/113/s322/c/1], set out as a note under [section 857 of this title][/us/usc/t26/s857].
 
 [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 322(c)(2), (3), Dec. 18, 2015, [129 Stat. 3102][/us/stat/129/3102], provided that:
 
@@ -939,7 +939,7 @@
 [/us/pl/97/34]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F34
 [/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3055]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3055
-[/us/pl/114/113/s322/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fa
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 [/us/pl/114/113/s322/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs322%2Fc%2F1
 [/us/usc/t26/s857]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft26%2Fs857
 [/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII

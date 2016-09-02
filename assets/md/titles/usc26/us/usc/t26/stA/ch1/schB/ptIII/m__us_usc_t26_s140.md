@@ -37,7 +37,7 @@
 
  __References in Text__ 
 
-    Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in subsec. (a)(2), was repealed by [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(g), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
+    Section 9 of the Merchant Ship Sales Act of 1946 (50 U.S.C. App. 1742), referred to in subsec. (a)(2), is section 9 of [act Mar. 8, 1946, ch. 82][/us/act/1946-03-08/ch82], [60 Stat. 46][/us/stat/60/46], which was repealed by [Pub. L. 94–412, title V][/us/pl/94/412/tV], § 501(g), Sept. 14, 1976, [90 Stat. 1258][/us/stat/90/1258].
 
  __Amendments__ 
 
@@ -174,6 +174,8 @@
 [/us/stat/115/2432]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F2432
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304
 [/us/stat/120/1708]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1708
+[/us/act/1946-03-08/ch82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-03-08%2Fch82
+[/us/stat/60/46]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F60%2F46
 [/us/pl/94/412/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F94%2F412%2FtV
 [/us/stat/90/1258]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1258
 [/us/pl/109/304]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F304

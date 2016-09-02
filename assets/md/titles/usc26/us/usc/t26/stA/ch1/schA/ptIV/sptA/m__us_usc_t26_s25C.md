@@ -189,7 +189,7 @@
 
  __References in Text__ 
 
-    Subsection (c)(2)(B), referred to in subsec. (b)(2), was redesignated (c)(3)(B) by [Pub. L. 114–113, div. Q][/us/pl/114/113/dQ], § 181(b)(2), Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072].
+    Subsection (c)(2)(B), referred to in subsec. (b)(2), was redesignated (c)(3)(B) by [Pub. L. 114–113, div. Q, title I][/us/pl/114/113/dQ/tI], § 181(b)(2), Dec. 18, 2015, [129 Stat. 3072][/us/stat/129/3072].
 
     The date of the enactment of the American Recovery and Reinvestment Tax Act of 2009, referred to in subsec. (c)(2)(C), is the date of enactment of title I of div. B of [Pub. L. 111–5][/us/pl/111/5], which was approved Feb. 17, 2009.
 
@@ -380,7 +380,7 @@
 [/us/stat/128/4021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F4021
 [/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
-[/us/pl/114/113/dQ]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ
+[/us/pl/114/113/dQ/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtI
 [/us/stat/129/3072]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3072
 [/us/pl/111/5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F5
 [/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113

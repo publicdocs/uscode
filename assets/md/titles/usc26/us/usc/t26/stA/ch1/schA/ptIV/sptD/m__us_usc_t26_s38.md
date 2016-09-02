@@ -291,7 +291,7 @@
 
     Subsec. (c)(4)(B)(v) to (x). [Pub. L. 114–113][/us/pl/114/113], § 186(d)(1), added cl. (v) and redesignated former cls. (v) to (ix) as (vi) to (x), respectively. Former cl. (x) redesignated (xi).
 
-    [Pub. L. 114–113][/us/pl/114/113], § 121(b), redesignated cls. (v) to (ix) as (vi) to (x), respectively.
+    [Pub. L. 114–113][/us/pl/114/113], § 121(b), redesignated cls. (iv) to (ix) as (v) to (x), respectively.
 
     Subsec. (c)(4)(B)(xi). [Pub. L. 114–113][/us/pl/114/113], § 186(d)(1), redesignated cl. (x) as (xi).
 

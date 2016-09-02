@@ -187,7 +187,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (d)(7). [Pub. L. 114–113][/us/pl/114/113] amended par. (7) generally. Prior to amendment, par. (7) related to recognition period.
+    2015—Subsec. (d)(7). [Pub. L. 114–113][/us/pl/114/113] amended par. (7) generally. Prior to amendment, par. (7) defined recognition period, with special rules for certain years and for distributions to shareholders.
 
     2014—Subsec. (d)(7)(C). [Pub. L. 113–295][/us/pl/113/295] substituted “2012, 2013, and 2014” for “2012 and 2013” in heading and “2012, 2013, or 2014” for “2012 or 2013” in text.
 

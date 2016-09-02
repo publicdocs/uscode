@@ -75,7 +75,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (b). [Pub. L. 114–113][/us/pl/114/113] amended subsec. (b) generally. Prior to amendment, subsec. (b) related to special rate for qualified timber gains.
+    2015—Subsec. (b). [Pub. L. 114–113][/us/pl/114/113] amended subsec. (b) generally. Prior to amendment, subsec. (b) related to special rate for qualified timber gains applicable during any taxable year ending after June 18, 2008, and beginning on or before one year after that date.
 
     2008—Subsecs. (b), (c). [Pub. L. 110–246][/us/pl/110/246] added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -175,7 +175,7 @@
 
     1956—Subsec. (a). Act Mar. 13, 1956, inserted reference to section 802(a).
 
- __Effective Date of 2015 Amendmen__ 
+ __Effective Date of 2015 Amendment__ 
 
     Amendment by [Pub. L. 114–113][/us/pl/114/113] applicable to taxable years beginning after Dec. 31, 2015, see [section 334(c) of Pub. L. 114–113][/us/pl/114/113/s334/c], set out as a note under [section 55 of this title][/us/usc/t26/s55].
 

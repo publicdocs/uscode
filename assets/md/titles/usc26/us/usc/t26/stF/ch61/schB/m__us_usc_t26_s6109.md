@@ -315,7 +315,7 @@
 
 > “Not later than 2 years after the date of the enactment of this Act \[Dec. 18, 2015\], and every 2 years thereafter, the Treasury Inspector General for Tax Administration shall conduct an audit of the program of the Internal Revenue Service for the issuance of individual taxpayer identification numbers pursuant to section 6109(i) of the Internal Revenue Code of 1986 (as added by this section) and report the results of such audit to the Committee on Finance of the Senate and the Committee on the \[sic\] Ways and Means of the House of Representatives.”
 
- __Community-based Certified Acceptance Agents__ 
+ __Community-Based Certified Acceptance Agents__ 
 
 [Pub. L. 114–113, div. Q, title II][/us/pl/114/113/dQ/tII], § 203(c), Dec. 18, 2015, [129 Stat. 3079][/us/stat/129/3079], provided that: 
 

@@ -117,7 +117,7 @@
 
  __Amendment of Subsection (a)__ 
 
-    [Pub. L. 114–113, title III][/us/pl/114/113/tIII], § 332(b)(2)(A), (c), Dec. 18, 2015, [129 Stat. 3105][/us/stat/129/3105], 3106, provided that, applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, subsection (a) is amended:
+    [Pub. L. 114–113, div. Q, title III][/us/pl/114/113/dQ/tIII], § 332(b)(2)(A), (c), Dec. 18, 2015, [129 Stat. 3105][/us/stat/129/3105], 3106, provided that, applicable to any calendar quarters beginning more than 1 year after Dec. 18, 2015, subsection (a) of this section is amended:
 
     (1) in paragraph (1), by striking out “No person” and inserting “Except as provided under section 5551(d), no person”; and
 
@@ -330,7 +330,7 @@ Provisions similar to those comprising subsecs. (a), (b), (b)(1), (b)(1)(A) to (
 [/us/stat/93/276]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F276
 [/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3105
-[/us/pl/114/113/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FtIII
+[/us/pl/114/113/dQ/tIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdQ%2FtIII
 [/us/stat/129/3105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F3105
 [/us/act/1954-08-16/ch736]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-16%2Fch736
 [/us/stat/68A/628]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68A%2F628

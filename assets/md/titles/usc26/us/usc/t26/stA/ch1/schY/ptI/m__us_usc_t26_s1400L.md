@@ -329,7 +329,7 @@
 
  __References in Text__ 
 
-    Section 168(k)(2)(D), referred to in subsecs. (b)(2)(C)(ii), (iv), and (c)(5), was amended generally by [Pub. L. 114–113, div. Q][/us/pl/114/113/dQ], § 143(b)(1), Dec. 18, 2015, [129 Stat. 3057][/us/stat/129/3057], and as so amended, no longer contains provisions similar to former cl. (iii) of section 158(k)(2)(D). Provisions similar to those contained in former cl. (i) of section 168(k)(2)(D) are now contained in section 168(k)(2)(D).
+    Section 168(k)(2)(D), referred to in subsecs. (b)(2)(C)(ii), (iv) and (c)(5), was amended generally by [Pub. L. 114–113, div. Q][/us/pl/114/113/dQ], § 143(b)(1), Dec. 18, 2015, [129 Stat. 3057][/us/stat/129/3057], and, as so amended, no longer contains provisions similar to those in former cl. (iii) of section 158(k)(2)(D). Provisions similar to those contained in former cl. (i) of section 168(k)(2)(D) are now contained in section 168(k)(2)(D).
 
     Section 168(k)(3), referred to in subsec. (c)(2), was amended generally by [Pub. L. 114–113, div. Q][/us/pl/114/113/dQ], § 143(b)(2), Dec. 18, 2015, [129 Stat. 3057][/us/stat/129/3057]. Provisions similar to those contained in former par. (3) of section 168(k) are now contained in par. (6) of section 168(k).
 

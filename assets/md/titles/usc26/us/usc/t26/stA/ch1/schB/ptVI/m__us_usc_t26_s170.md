@@ -1467,7 +1467,9 @@
 
     The Federal Food, Drug, and Cosmetic Act, as amended, referred to in subsec. (e)(3)(A)(iv), is [act June 25, 1938, ch. 675][/us/act/1938-06-25/ch675], [52 Stat. 1040][/us/stat/52/1040], as amended, which is classified generally to chapter 9 (§ 301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see [section 301 of Title 21][/us/usc/t21/s301] and Tables.
 
-    The date of the enactment of this subparagraph, referred to in subsec. (e)(3)(C)(vi), is the date of enactment of [Pub. L. 109–73][/us/pl/109/73], which was approved Sept. 23, 2005.[Section 330(c) of title 31][/us/usc/t31/s330/c], referred to in subsec. (f)(11)(E)(iii)(II), was redesignated [section 330(d) of title 31][/us/usc/t31/s330/d] by [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 410(1), Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121].
+    The date of the enactment of this subparagraph, referred to in subsec. (e)(3)(C)(vi), is the date of enactment of [Pub. L. 109–73][/us/pl/109/73], which was approved Sept. 23, 2005.
+
+    [Section 330(c) of title 31][/us/usc/t31/s330/c], referred to in subsec. (f)(11)(E)(iii)(II), was redesignated [section 330(d) of title 31][/us/usc/t31/s330/d] by [Pub. L. 114–113, div. Q, title IV][/us/pl/114/113/dQ/tIV], § 410(1), Dec. 18, 2015, [129 Stat. 3121][/us/stat/129/3121].
 
     Section 25 of the State Department Basic Authorities Act of 1956, referred to in subsec. (p)(7), is classified to [section 2697 of Title 22][/us/usc/t22/s2697], Foreign Relations and Intercourse.
 
@@ -1483,7 +1485,7 @@
 
     Subsec. (b)(1)(A)(ix). [Pub. L. 114–113][/us/pl/114/113], § 331(a), added cl. (ix).
 
-    Subsec. (b)(1)(E)(vi). [Pub. L. 114–113][/us/pl/114/113], § 111(a)(1), struck out cl. (vi). Text read as follows “This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2014.”
+    Subsec. (b)(1)(E)(vi). [Pub. L. 114–113][/us/pl/114/113], § 111(a)(1), struck out cl. (vi). Text read as follows: “This subparagraph shall not apply to any contribution made in taxable years beginning after December 31, 2014.”
 
     Subsec. (b)(2)(A). [Pub. L. 114–113][/us/pl/114/113], § 111(b)(2)(A), substituted “subparagraph (B) or (C) applies” for “subparagraph (B) applies”.
 
