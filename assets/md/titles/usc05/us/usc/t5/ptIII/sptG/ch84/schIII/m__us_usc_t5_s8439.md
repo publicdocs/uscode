@@ -59,21 +59,13 @@
 
         (2) Information under this subsection shall be provided on a regular basis, and in a manner designed to facilitate informed decisionmaking with respect to elections under sections 8432 and 8438 of this title. Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.
 
-    (d) Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee’s, Member’s, former employee’s, or former Member’s risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+    (d)
+
+        (1) Each employee, Member, former employee, or former Member who elects to invest in any investment fund or option under this chapter, other than the Government Securities Investment Fund, shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in any such fund or option is made at the employee’s, Member’s, former employee’s, or former Member’s risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
+
+        (2) Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).
 
 (Added [Pub. L. 99–335, title I, § 101(a)][/us/pl/99/335/s101/a], June 6, 1986, [100 Stat. 555][/us/stat/100/555]; amended [Pub. L. 104–208, div. A, title I, § 101(f)][/us/pl/104/208/s101/f] \[title VI, § 659 \[title I, § 103\]\], Sept. 30, 1996, [110 Stat. 3009–314][/us/stat/110/3009-314], 3009–372, 3009–373; [Pub. L. 104–316, title I, § 103(j)][/us/pl/104/316/s103/j], Oct. 19, 1996, [110 Stat. 3829][/us/stat/110/3829]; [Pub. L. 106–65, div. A, title VI, § 661(a)(5)][/us/pl/106/65/s661/a/5], Oct. 5, 1999, [113 Stat. 672][/us/stat/113/672]; [Pub. L. 106–361, § 2(b)(4)][/us/pl/106/361/s2/b/4], (5), Oct. 27, 2000, [114 Stat. 1401][/us/stat/114/1401]; [Pub. L. 108–469, § 1(d)(3)][/us/pl/108/469/s1/d/3], Dec. 21, 2004, [118 Stat. 3892][/us/stat/118/3892]; [Pub. L. 111–31, div. B, title I, § 106(a)][/us/pl/111/31/s106/a], June 22, 2009, [123 Stat. 1855][/us/stat/123/1855]; [Pub. L. 113–255, § 2(b)][/us/pl/113/255/s2/b], Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920].)
-
- __Amendment of Subsection (d)__ 
-
-    [Pub. L. 113–255, § 2(b)][/us/pl/113/255/s2/b], (e), Dec. 18, 2014, [128 Stat. 2920][/us/stat/128/2920], provided that, effective on the date that the Executive Director issues guidance under [section 2(d) of Pub. L. 113–255][/us/pl/113/255/s2/d], set out as a note under [section 8438 of this title][/us/usc/t5/s8438], and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, subsection (d) of this section is amended by—
-
-    (1) inserting “(1)” before “Each employee”; and
-
-    (2) adding at the end the following new paragraph:
-
-    “(2) Prior to enrollment in the Thrift Savings Fund, or as soon as practicable thereafter, an individual who is automatically enrolled pursuant to section 8432(b)(2) shall receive the risk acknowledgment information described under paragraph (1).”
-
-    See 2014 Amendment note below.
 
  __Amendments__ 
 
@@ -103,7 +95,7 @@
 
  __Effective Date of 2014 Amendment__ 
 
-    Amendment by [Pub. L. 113–255][/us/pl/113/255] effective on the date that the Executive Director issues guidance under section 2(d) [Pub. L. 113–255][/us/pl/113/255], set out as a Guidance note under [section 8438 of this title][/us/usc/t5/s8438], and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, see [section 2(e) of Pub. L. 113–255][/us/pl/113/255/s2/e], set out as a note under [section 8438 of this title][/us/usc/t5/s8438].
+    Amendment by [Pub. L. 113–255][/us/pl/113/255] effective on the date that the Executive Director issues guidance under section 2(d) [Pub. L. 113–255][/us/pl/113/255], set out as a Guidance note under [section 8438 of this title][/us/usc/t5/s8438] \[guidance published Aug. 28, 2015, effective Sept. 5, 2015\], and applicable to individuals enrolled in the Thrift Savings Plan on or after such date, see [section 2(e) of Pub. L. 113–255][/us/pl/113/255/s2/e], set out as a note under [section 8438 of this title][/us/usc/t5/s8438].
 
  __Effective Date of 2000 Amendment__ 
 
@@ -172,10 +164,6 @@
 [/us/stat/123/1855]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1855
 [/us/pl/113/255/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fb
 [/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
-[/us/pl/113/255/s2/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fb
-[/us/stat/128/2920]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2920
-[/us/pl/113/255/s2/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255%2Fs2%2Fd
-[/us/usc/t5/s8438]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs8438
 [/us/pl/113/255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F255
 [/us/pl/111/31/s106/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs106%2Fa%2F2
 [/us/pl/111/31/s106/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F31%2Fs106%2Fa%2F1

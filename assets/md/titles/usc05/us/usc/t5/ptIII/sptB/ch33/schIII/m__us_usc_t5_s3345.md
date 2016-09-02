@@ -151,7 +151,9 @@
 
  __Council on Environmental Quality__ 
 
-    Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487.
+    Memorandum of President of the United States, Mar. 13, 2015, 80 F.R. 14289.
+
+    Memorandum of President of the United States, Sept. 18, 2008, 73 F.R. 54487, revoked by Memorandum of President of the United States, § 3, Mar. 13, 2015, 80 F.R. 14289.
 
  __Department of Agriculture__ 
 
