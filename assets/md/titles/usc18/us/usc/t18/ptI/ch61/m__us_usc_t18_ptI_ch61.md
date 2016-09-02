@@ -79,9 +79,19 @@
 
   </tr>
 
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft18%2Fs1308" data-uslm-ref="/us/usc/t18/s1308">1308.</a>  </td>
+
+    <td> Limitation of applicability.  </td>
+
+  </tr>
+
 </table>
 
  __Amendments__ 
+
+    2014—[Pub. L. 113–251, § 4(b)][/us/pl/113/251/s4/b], Dec. 18, 2014, [128 Stat. 2890][/us/stat/128/2890], added item 1308.
 
     1988—[Pub. L. 100–625, § 3(a)(2)][/us/pl/100/625/s3/a/2], Nov. 7, 1988, [102 Stat. 3206][/us/stat/102/3206], substituted “Exceptions relating to certain advertisements and other information and to State-conducted lotteries” for “State-conducted lotteries” in item 1307.
 
@@ -100,6 +110,8 @@
 ----------
 ----------
 
+[/us/pl/113/251/s4/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F251%2Fs4%2Fb
+[/us/stat/128/2890]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2890
 [/us/pl/100/625/s3/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F100%2F625%2Fs3%2Fa%2F2
 [/us/stat/102/3206]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F3206
 [/us/pl/93/583/s2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F583%2Fs2

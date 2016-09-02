@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1307.md) | [Next](./../../../../..//us/usc/t18/ptI/ch63/m__us_usc_t18_s1341.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch63)
+[Previous](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1308.md) | [Next](./../../../../..//us/usc/t18/ptI/ch63/m__us_usc_t18_s1341.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch63)
 
 ### CHAPTER 63—MAIL FRAUD AND OTHER FRAUD OFFENSES
 
@@ -133,7 +133,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1307.md) | [Next](./../../../../..//us/usc/t18/ptI/ch63/m__us_usc_t18_s1341.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch63)
+[Previous](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1308.md) | [Next](./../../../../..//us/usc/t18/ptI/ch63/m__us_usc_t18_s1341.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2FptI%2Fch63)
 
 ----------
 ----------

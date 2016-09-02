@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1306.md) | [Next](./../../../../..//us/usc/t18/ptI/ch63/m__us_usc_t18_ptI_ch63.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1307)
+[Previous](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1306.md) | [Next](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1308.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1307)
 
 ## § 1307. Exceptions relating to certain advertisements and other information and to State-conducted lotteries
 
@@ -83,7 +83,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1306.md) | [Next](./../../../../..//us/usc/t18/ptI/ch63/m__us_usc_t18_ptI_ch63.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1307)
+[Previous](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1306.md) | [Next](./../../../../..//us/usc/t18/ptI/ch61/m__us_usc_t18_s1308.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1307)
 
 ----------
 ----------

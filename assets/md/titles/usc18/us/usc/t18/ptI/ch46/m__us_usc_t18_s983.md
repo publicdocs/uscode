@@ -387,7 +387,7 @@
 
  __References in Text__ 
 
-    The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsecs. (a)(3)(A), (4)(A) and (f)(7)(A)(ii), are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+    The Supplemental Rules for Certain Admiralty and Maritime Claims, referred to in subsecs. (a)(3)(A), (4)(A) and (f)(7)(A)(ii), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
     The Federal Rules of Civil Procedure, referred to in subsec. (h)(2), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
