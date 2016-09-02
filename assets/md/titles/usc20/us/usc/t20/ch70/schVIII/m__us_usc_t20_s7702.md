@@ -391,6 +391,32 @@
 
     Amendment by [Pub. L. 107–110][/us/pl/107/110] effective Jan. 8, 2002, and effective with respect to appropriations for use under this subchapter for fiscal year 2002, see [section 5 of Pub. L. 107–110][/us/pl/107/110/s5], set out as an Effective Date note under [section 6301 of this title][/us/usc/t20/s6301].
 
+ __Consolidations__ 
+
+[Pub. L. 113–76, div. H, title III, § 309][/us/pl/113/76/s309], Jan. 17, 2014, [128 Stat. 400][/us/stat/128/400], provided that:
+
+>     “(a)  __Consolidations__  __.—__ 
+
+>     For fiscal year 2006 and each succeeding fiscal year, if a local educational agency described in subsection (b) is formed at any time after 1938 by the consolidation of 2 or more former school districts, the local educational agency may elect to have the Secretary determine its eligibility for any fiscal year on the basis of 1 or more of those former districts, as designated by the local educational agency.
+
+>     “(b)  __Eligible Local Educational Agencies__  __.—__ 
+
+>     A local educational agency referred to in subsection (a) is—
+
+>         “(1) any local educational agency that, for fiscal year 1994 or any preceding fiscal year, applied, and was determined to be eligible under, [section 2(c) of the Act of September 30, 1950][/us/act/1950-09-30/s2/c] (Public Law 874, 81st Congress) \[former [20 U.S.C. 237(c)][/us/usc/t20/s237/c]\] as that section was in effect for that fiscal year; or
+
+>         “(2)
+
+>          a local educational agency formed by the consolidation of 2 or more districts, at least 1 of which was eligible for assistance under this section for the fiscal year preceding the year of the consolidation, if—
+
+>             “(A) for fiscal years 2006 through 2013 the local educational agency notified the Secretary not later than 30 days after the date of enactment of this Act \[Jan. 17, 2014\]; and
+
+>             “(B) for fiscal year 2014 the local educational agency includes the designation in its application under section 8005 \[probably means [section 8005 of Pub. L. 89–10][/us/pl/89/10/s8005], which is classified to [section 7705 of this title][/us/usc/t20/s7705]\] or any timely amendment to such application.
+
+>     “(c)  __Amount__  __.—__ 
+
+>     A local educational agency eligible under subsection (b) shall receive a foundation payment as provided for under subparagraphs (A) and (B) of subsection (h)(1) \[probably means subsec. (h)(1)(A) and (B) of [section 7702 of this title][/us/usc/t20/s7702]\], as in effect on the date of enactment of this Act, except that the foundation payment shall be calculated based on the most recent payment received by the local educational agency based on its former common status.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t20/ch70/schVIII/m__us_usc_t20_s7701.md) | [Next](./../../../../..//us/usc/t20/ch70/schVIII/m__us_usc_t20_s7703.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7702)
@@ -495,5 +521,12 @@
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110
 [/us/pl/107/110/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110%2Fs5
 [/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
+[/us/pl/113/76/s309]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs309
+[/us/stat/128/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F400
+[/us/act/1950-09-30/s2/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1950-09-30%2Fs2%2Fc
+[/us/usc/t20/s237/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs237%2Fc
+[/us/pl/89/10/s8005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10%2Fs8005
+[/us/usc/t20/s7705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7705
+[/us/usc/t20/s7702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7702
 
 

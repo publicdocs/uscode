@@ -35,7 +35,7 @@
 
             (B) an Assistant Secretary for Postsecond­ary Education;
 
-            (C) an Assistant Secretary for Vocational and Adult Education;
+            (C) an Assistant Secretary for Career, Technical, and Adult Education;
 
             (D) an Assistant Secretary for Special Education and Rehabilitative Services;
 
@@ -81,9 +81,9 @@
 
         Each officer of the Department established under this section shall report directly to the Secretary and shall, in addition to any functions vested in or required to be delegated to such officer, perform such additional functions as the Secretary may prescribe.
 
-    (h) __Coordination of literacy related functions by Assistant Secretary for Vocational and Adult Education__ 
+    (h) __Coordination of literacy related functions by Assistant Secretary for Career, Technical, and Adult Education__ 
 
-        The Assistant Secretary for Vocational and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Vocational and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
+        The Assistant Secretary for Career, Technical, and Adult Education, in addition to performing such functions as the Secretary may prescribe, shall have responsibility for coordination of all literacy related programs and policy initiatives in the Department. The Assistant Secretary for Career, Technical, and Adult Education shall assist in coordinating the related activities and programs of other Federal departments and agencies.
 
     (i) __Liaison for Community and Junior Colleges__ 
 
@@ -115,7 +115,7 @@
 
                 (iii) education programs located in, and regarding, rural areas.
 
-([Pub. L. 96–88, title II, § 202][/us/pl/96/88/s202], Oct. 17, 1979, [93 Stat. 671][/us/stat/93/671]; [Pub. L. 99–145, title XII, § 1204(a)(1)][/us/pl/99/145/s1204/a/1], Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(a)(3)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454; [Pub. L. 102–73, title I, § 101][/us/pl/102/73/s101], July 25, 1991, [105 Stat. 334][/us/stat/105/334]; [Pub. L. 102–103, title II, § 201][/us/pl/102/103/s201], Aug. 17, 1991, [105 Stat. 498][/us/stat/105/498]; [Pub. L. 102–325, title XV, § 1553(a)][/us/pl/102/325/s1553/a], July 23, 1992, [106 Stat. 838][/us/stat/106/838]; [Pub. L. 103–227, title IX, § 913][/us/pl/103/227/s913], Mar. 31, 1994, [108 Stat. 223][/us/stat/108/223]; [Pub. L. 103–382, title II, § 271(b)][/us/pl/103/382/s271/b], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929]; [Pub. L. 107–110, title X, § 1072(e)(2)][/us/pl/107/110/s1072/e/2], Jan. 8, 2002, [115 Stat. 2089][/us/stat/115/2089]; [Pub. L. 107–279, title IV, § 402(1)][/us/pl/107/279/s402/1], Nov. 5, 2002, [116 Stat. 1984][/us/stat/116/1984]; [Pub. L. 112–166, § 2(d)(1)][/us/pl/112/166/s2/d/1], Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284].)
+([Pub. L. 96–88, title II, § 202][/us/pl/96/88/s202], Oct. 17, 1979, [93 Stat. 671][/us/stat/93/671]; [Pub. L. 99–145, title XII, § 1204(a)(1)][/us/pl/99/145/s1204/a/1], Nov. 8, 1985, [99 Stat. 720][/us/stat/99/720]; [Pub. L. 101–509, title V, § 529][/us/pl/101/509/s529] \[title I, § 112(a)(3)(B)\], Nov. 5, 1990, [104 Stat. 1427][/us/stat/104/1427], 1454; [Pub. L. 102–73, title I, § 101][/us/pl/102/73/s101], July 25, 1991, [105 Stat. 334][/us/stat/105/334]; [Pub. L. 102–103, title II, § 201][/us/pl/102/103/s201], Aug. 17, 1991, [105 Stat. 498][/us/stat/105/498]; [Pub. L. 102–325, title XV, § 1553(a)][/us/pl/102/325/s1553/a], July 23, 1992, [106 Stat. 838][/us/stat/106/838]; [Pub. L. 103–227, title IX, § 913][/us/pl/103/227/s913], Mar. 31, 1994, [108 Stat. 223][/us/stat/108/223]; [Pub. L. 103–382, title II, § 271(b)][/us/pl/103/382/s271/b], Oct. 20, 1994, [108 Stat. 3929][/us/stat/108/3929]; [Pub. L. 107–110, title X, § 1072(e)(2)][/us/pl/107/110/s1072/e/2], Jan. 8, 2002, [115 Stat. 2089][/us/stat/115/2089]; [Pub. L. 107–279, title IV, § 402(1)][/us/pl/107/279/s402/1], Nov. 5, 2002, [116 Stat. 1984][/us/stat/116/1984]; [Pub. L. 112–166, § 2(d)(1)][/us/pl/112/166/s2/d/1], Aug. 10, 2012, [126 Stat. 1284][/us/stat/126/1284]; [Pub. L. 113–76, div. H, title III, § 307(b)][/us/pl/113/76/s307/b], Jan. 17, 2014, [128 Stat. 399][/us/stat/128/399].)
 
  __References in Text__ 
 
@@ -124,6 +124,10 @@
     The Inspector General Act of 1978, referred to in subsec. (c), is [Pub. L. 95–452][/us/pl/95/452], Oct. 12, 1978, [92 Stat. 1101][/us/stat/92/1101], as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
  __Amendments__ 
+
+    2014—Subsec. (b)(1)(C). [Pub. L. 113–76, § 307(b)(1)][/us/pl/113/76/s307/b/1], substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education”.
+
+    Subsec. (h). [Pub. L. 113–76, § 307(b)(2)][/us/pl/113/76/s307/b/2], substituted “Assistant Secretary for Career, Technical, and Adult Education” for “Assistant Secretary for Vocational and Adult Education” in two places.
 
     2012—Subsec. (e). [Pub. L. 112–166][/us/pl/112/166], in introductory provisions, inserted “Notwithstanding the previous sentence, the appointments of individuals to serve as the Assistant Secretary for Management shall not be subject to the advice and consent of the Senate.”
 
@@ -216,11 +220,15 @@
 [/us/stat/116/1984]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1984
 [/us/pl/112/166/s2/d/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166%2Fs2%2Fd%2F1
 [/us/stat/126/1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1284
+[/us/pl/113/76/s307/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fb
+[/us/stat/128/399]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F399
 [/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
 [/us/stat/116/1941]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1941
 [/us/usc/t20/s9501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9501
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
+[/us/pl/113/76/s307/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fb%2F1
+[/us/pl/113/76/s307/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs307%2Fb%2F2
 [/us/pl/112/166]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F166
 [/us/pl/107/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F279
 [/us/pl/107/110]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F110

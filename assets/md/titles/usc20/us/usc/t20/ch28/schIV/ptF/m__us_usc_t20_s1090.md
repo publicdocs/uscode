@@ -657,6 +657,16 @@
 
     Subsec. (e) of this section applicable to student assistance awarded for periods of enrollment beginning on or after July 1, 1987, see [section 407(b) of Pub. L. 99–498][/us/pl/99/498/s407/b], set out as a note under [section 1091 of this title][/us/usc/t20/s1091].
 
+ __Identification of Foster Youth on FAFSA__ 
+
+[Pub. L. 113–76, div. H, title III, § 310][/us/pl/113/76/s310], Jan. 17, 2014, [128 Stat. 400][/us/stat/128/400], provided that: 
+
+> “The Secretary of Education shall—
+
+>     “(1) modify the Free Application for Federal Student Aid described in section 483 of the HEA \[Higher Education Act of 1965, [20 U.S.C. 1090][/us/usc/t20/s1090]\] so that the Free Application for Federal Student Aid contains an individual box for the purpose of identifying students who are foster youth or were in the foster care system; and
+
+>     “(2) utilize such identification as a tool to notify students who are foster youth or were in the foster care system of their potential eligibility for Federal student aid, including postsecondary education programs through the John H. Chafee Foster Care Independence Program and any other Federal programs under which such students may be eligible to receive assistance.”
+
  __Delayed Implementation of EZ FAFSA__ 
 
 [Pub. L. 111–39, title IV, § 407(a)][/us/pl/111/39/s407/a], July 1, 2009, [123 Stat. 1950][/us/stat/123/1950], provided that: 
@@ -797,6 +807,9 @@
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001
 [/us/pl/99/498/s407/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F99%2F498%2Fs407%2Fb
 [/us/usc/t20/s1091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1091
+[/us/pl/113/76/s310]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs310
+[/us/stat/128/400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F400
+[/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090
 [/us/pl/111/39/s407/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F39%2Fs407%2Fa
 [/us/stat/123/1950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1950
 [/us/usc/t20/s1090]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1090

@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch79/m__us_usc_t20_s9905.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9906)
+[Previous](./../../../..//us/usc/t20/ch79/m__us_usc_t20_s9905.md) | [Next](./../../../..//us/usc/t20/ch80/m__us_usc_t20_ch80.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9906)
 
 ## § 9906. Authorization of appropriations
 
@@ -21,7 +21,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t20/ch79/m__us_usc_t20_s9905.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9906)
+[Previous](./../../../..//us/usc/t20/ch79/m__us_usc_t20_s9905.md) | [Next](./../../../..//us/usc/t20/ch80/m__us_usc_t20_ch80.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs9906)
 
 ----------
 ----------

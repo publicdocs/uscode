@@ -115,11 +115,17 @@
 
         (4)
 
-            (A) The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: Provided, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year.
+            (A)
+
+             The amount of each allotment to a State for any fiscal year under this subsection shall be available to each State, which has a plan approved by the Chairperson in effect on the first day of such fiscal year, to pay not more than 50 per centum of the total cost of any project or production described in paragraph (1). The amount of any allotment made under paragraph (3) for any fiscal year which exceeds $125,000 shall be available, at the discretion of the Chairperson, to pay up to 100 per centum of such cost of projects and productions if such projects and productions would otherwise be unavailable to the residents of that State: Provided, That the total amount of any such allotment for any fiscal year which is exempted from such 50 per centum limitation shall not exceed 20 per centum of the total of such allotment for such fiscal year. Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+
+                (i) give consideration to the various circumstances the State is encountering at the time of such request; and
+
+                (ii) ensure that such discretion is not exercised with respect to such State in perpetuity.
 
             (B) Any amount allotted to a State under the first sentence of paragraph (3) for any fiscal year which is not obligated by the State prior to 60 days prior to the end of the fiscal year for which such sums are appropriated shall be available for making grants to regional groups.
 
-            (C) Funds made available under this subsection shall not be used to supplant non-Federal funds.
+            (C) Funds made available under this subsection shall not be used to supplant non-Federal funds. The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.
 
             (D) For the purpose of paragraph (3) and paragraph (4) of this section the term “regional group” means any multistate group, whether or not representative of contiguous States.
 
@@ -275,7 +281,7 @@
 
         The Chairperson of the National Endowment for the Arts shall, in ongoing consultation with State and local agencies, relevant organizations, and relevant Federal agencies, continue to develop and implement a practical system of national information and data collection and public dissemination on the arts, artists and arts groups, and their audiences. Such system shall include artistic and financial trends in the various artistic fields, trends in audience participation, and trends in arts education on national, regional, and State levels. Such system shall also include information regarding the availability of the arts to various audience segments, including rural communities. Such system shall be used, along with a summary of the data submitted with State plans under subsection (g) of this section, to prepare a periodic report on the state of the arts in the Nation. The state of the arts report shall include a description of the availability of the Endowment’s programs to emerging, rural, and culturally diverse artists, arts organizations, and communities and of the participation by such artists, organizations, and communities in such programs. The state of the arts report shall be submitted to the President and the Congress, and provided to the States, not later than October 1, 1992, and quadrennially thereafter.
 
-([Pub. L. 89–209, § 5][/us/pl/89/209/s5], Sept. 29, 1965, [79 Stat. 846][/us/stat/79/846]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–348][/us/pl/90/348], §§ 2, 3, June 18, 1968, [82 Stat. 185][/us/stat/82/185]; [Pub. L. 91–346][/us/pl/91/346], §§ 4, 5(a)(1), (2), 6, 7, July 20, 1970, [84 Stat. 443][/us/stat/84/443], 445; [Pub. L. 93–133, § 2(a)(3)][/us/pl/93/133/s2/a/3], (4), Oct. 19, 1973, [87 Stat. 462][/us/stat/87/462]; [Pub. L. 94–462, title I][/us/pl/94/462], §§ 101, 102, title III, § 301(a), title IV, § 401(a), Oct. 8, 1976, [90 Stat. 1971][/us/stat/90/1971], 1978, 1980; [Pub. L. 96–496, title I][/us/pl/96/496], §§ 102, 109(a), (b), Dec. 4, 1980, [94 Stat. 2583][/us/stat/94/2583], 2591; renumbered title I, § 5, [Pub. L. 98–306, § 2][/us/pl/98/306/s2], May 31, 1984, [98 Stat. 223][/us/stat/98/223]; renumbered § 5 and amended [Pub. L. 99–194, title I][/us/pl/99/194], §§ 101(1), 105, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332], 1333; [Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title I, §§ 103(a)–(i)(1), 104\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1963–1966.)
+([Pub. L. 89–209, § 5][/us/pl/89/209/s5], Sept. 29, 1965, [79 Stat. 846][/us/stat/79/846]; [Pub. L. 90–83, § 10(b)][/us/pl/90/83/s10/b], Sept. 11, 1967, [81 Stat. 223][/us/stat/81/223]; [Pub. L. 90–348][/us/pl/90/348], §§ 2, 3, June 18, 1968, [82 Stat. 185][/us/stat/82/185]; [Pub. L. 91–346][/us/pl/91/346], §§ 4, 5(a)(1), (2), 6, 7, July 20, 1970, [84 Stat. 443][/us/stat/84/443], 445; [Pub. L. 93–133, § 2(a)(3)][/us/pl/93/133/s2/a/3], (4), Oct. 19, 1973, [87 Stat. 462][/us/stat/87/462]; [Pub. L. 94–462, title I][/us/pl/94/462], §§ 101, 102, title III, § 301(a), title IV, § 401(a), Oct. 8, 1976, [90 Stat. 1971][/us/stat/90/1971], 1978, 1980; [Pub. L. 96–496, title I][/us/pl/96/496], §§ 102, 109(a), (b), Dec. 4, 1980, [94 Stat. 2583][/us/stat/94/2583], 2591; renumbered title I, § 5, [Pub. L. 98–306, § 2][/us/pl/98/306/s2], May 31, 1984, [98 Stat. 223][/us/stat/98/223]; renumbered § 5 and amended [Pub. L. 99–194, title I][/us/pl/99/194], §§ 101(1), 105, Dec. 20, 1985, [99 Stat. 1332][/us/stat/99/1332], 1333; [Pub. L. 101–512, title III, § 318][/us/pl/101/512/s318] \[title I, §§ 103(a)–(i)(1), 104\], Nov. 5, 1990, [104 Stat. 1960][/us/stat/104/1960], 1963–1966; [Pub. L. 113–76, div. G, title IV, § 416][/us/pl/113/76/s416], Jan. 17, 2014, [128 Stat. 341][/us/stat/128/341].)
 
  __References in Text__ 
 
@@ -288,6 +294,14 @@
     In subsec. (n), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended ([40 U.S.C. 276a][/us/usc/t40/s276a]—276a–5)” and “[section 3145 of title 40][/us/usc/t40/s3145]” substituted for “[section 2 of the Act of June 13, 1934][/us/act/1934-06-13/s2], as amended ([40 U.S.C. 276c][/us/usc/t40/s276c])” on authority of [Pub. L. 107–217, § 5(c)][/us/pl/107/217/s5/c], Aug. 21, 2002, [116 Stat. 1303][/us/stat/116/1303], the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
  __Amendments__ 
+
+    2014—Subsec. (g)(4)(A). [Pub. L. 113–76, § 416(1)][/us/pl/113/76/s416/1], inserted at end “Whenever a State agency requests that the Chairperson exercise such discretion, the Chairperson shall—
+
+    “(i) give consideration to the various circumstances the State is encountering at the time of such request; and
+
+    “(ii) ensure that such discretion is not exercised with respect to such State in perpetuity.”
+
+    Subsec. (g)(4)(C). [Pub. L. 113–76, § 416(2)][/us/pl/113/76/s416/2], inserted at end “The non-Federal funds required by subparagraph (A) to pay 50 percent of the cost of a program or production shall be provided from funds directly controlled and appropriated by the State involved and directly managed by the State agency of such State.”
 
     1990—Subsec. (c). [Pub. L. 101–512, § 318][/us/pl/101/512/s318] \[title I, § 103(a)(7)\], substituted “paragraph (10)” for “clause (8)” in concluding provisions.
 
@@ -501,6 +515,8 @@
 [/us/stat/99/1332]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F1332
 [/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
 [/us/stat/104/1960]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1960
+[/us/pl/113/76/s416]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs416
+[/us/stat/128/341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F341
 [/us/pl/101/512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512
 [/us/usc/t20/s951]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs951
 [/us/usc/t40/s276a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276a
@@ -509,6 +525,8 @@
 [/us/usc/t40/s276c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs276c
 [/us/pl/107/217/s5/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F217%2Fs5%2Fc
 [/us/stat/116/1303]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F1303
+[/us/pl/113/76/s416/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs416%2F1
+[/us/pl/113/76/s416/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs416%2F2
 [/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
 [/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
 [/us/pl/101/512/s318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F512%2Fs318
