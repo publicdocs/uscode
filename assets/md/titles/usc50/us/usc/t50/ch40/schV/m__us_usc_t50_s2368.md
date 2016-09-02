@@ -55,7 +55,7 @@
 
         (7) An analysis of the effectiveness of the regulatory and enforcement regimes of the United States and other countries that adhere to the MTCR and other arrangements affecting the acquisition and delivery of NBC weapons in controlling the export of MTCR and other NBC weapons and delivery system equipment or technology.
 
-        (8) A summary of advisory opinions issued under section 2410b(b)(4) of the Appendix to this title and under [section 2797b(d) of title 22][/us/usc/t22/s2797b/d].
+        (8) A summary of advisory opinions issued under [section 4612(b)(4) of this title][/us/usc/t50/s4612/b/4] and under [section 2797b(d) of title 22][/us/usc/t22/s2797b/d].
 
         (9) An explanation of United States policy regarding the transfer of MTCR equipment or technology to foreign missile programs, including programs involving launches of space vehicles.
 
@@ -124,6 +124,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4612/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4612%2Fb%2F4
 [/us/usc/t22/s2797b/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797b%2Fd
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t22/s2797c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797c

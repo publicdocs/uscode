@@ -25,7 +25,7 @@
 
         (3) Materials in the supplemental stockpile established by [section 1704(b) of title 7][/us/usc/t7/s1704/b] (as in effect from September 21, 1959, through December 31, 1966) on July 29, 1979.
 
-        (4) Materials acquired by the United States under the provisions of section 2093 of the Appendix to this title and transferred to the stockpile by the President pursuant to subsection (f) of such section.
+        (4) Materials acquired by the United States under the provisions of [section 4533 of this title][/us/usc/t50/s4533] and transferred to the stockpile by the President pursuant to subsection (f) of such section.
 
         (5) Materials transferred to the United States under [section 2423 of title 22][/us/usc/t22/s2423] that have been determined to be strategic and critical materials for the purposes of this subchapter and that are allocated by the President under subsection (b) of such section for stockpiling in the stockpile.
 
@@ -77,7 +77,7 @@
 
 [Pub. L. 102–484, div. C, title XXXIII, § 3315][/us/pl/102/484/s3315], Oct. 23, 1992, [106 Stat. 2654][/us/stat/106/2654], as amended by [Pub. L. 103–337, div. A, title X, § 1070(c)(4)][/us/pl/103/337/s1070/c/4], Oct. 5, 1994, [108 Stat. 2858][/us/stat/108/2858], provided that: 
 
-> “All materials purchased under section 303 of the Defense Production Act of 1950 (\[former\] 50 U.S.C. App. 2093) and held in the Defense Production Act inventory as of June 30, 1992, are hereby transferred to the National Defense Stockpile and shall be managed, controlled, and subject to disposal by the National Defense Stockpile Manager as provided in the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98a][/us/usc/t50/s98a] et seq.) \[[50 U.S.C. 98][/us/usc/t50/s98] et seq.\].”
+> “All materials purchased under section 303 of the Defense Production Act of 1950 (50 U.S.C. App. 2093) \[now [50 U.S.C. 4533][/us/usc/t50/s4533]\] and held in the Defense Production Act inventory as of June 30, 1992, are hereby transferred to the National Defense Stockpile and shall be managed, controlled, and subject to disposal by the National Defense Stockpile Manager as provided in the Strategic and Critical Materials Stock Piling Act ([50 U.S.C. 98a][/us/usc/t50/s98a] et seq.) \[[50 U.S.C. 98][/us/usc/t50/s98] et seq.\].”
 
 ----------
 
@@ -87,6 +87,7 @@
 ----------
 
 [/us/usc/t7/s1704/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1704%2Fb
+[/us/usc/t50/s4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4533
 [/us/usc/t22/s2423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2423
 [/us/usc/t15/s714b/h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs714b%2Fh
 [/us/usc/t7/s1743/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft7%2Fs1743%2Fa
@@ -127,6 +128,7 @@
 [/us/stat/106/2654]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2654
 [/us/pl/103/337/s1070/c/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs1070%2Fc%2F4
 [/us/stat/108/2858]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F2858
+[/us/usc/t50/s4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4533
 [/us/usc/t50/s98a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98a
 [/us/usc/t50/s98]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98
 

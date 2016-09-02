@@ -23,7 +23,7 @@
 
     Congress urges the United States Sentencing Commission to revise the relevant sentencing guidelines to provide for increased penalties for offenses relating to importation, attempted importation, exportation, and attempted exportation of nuclear, biological, or chemical weapons or related materials or technologies under the following provisions of law:
 
-        (1) Section 2410 of the Appendix to this title.
+        (1) [Section 4610 of this title][/us/usc/t50/s4610].
 
         (2) Sections 2778 and 2780 of title 22.
 
@@ -52,6 +52,7 @@
 ----------
 ----------
 
+[/us/usc/t50/s4610]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4610
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t42/s2139a/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139a%2Fc
 [/us/pl/104/201/s1423]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F201%2Fs1423

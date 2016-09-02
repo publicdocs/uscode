@@ -149,7 +149,7 @@
 
         (8) __Technology__ 
 
-            The term “technology” has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
+            The term “technology” has the meaning given that term in section 16 of the Export Administration Act of 1979 ([50 U.S.C. 4618][/us/usc/t50/s4618]) (as in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
 
         (9) __Trade secret__ 
 
@@ -186,6 +186,7 @@
 [/us/usc/t50/s1702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1702
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
 [/us/usc/t50/s1705/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705%2Fa
+[/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/usc/t18/s1839]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft18%2Fs1839
 [/us/pl/113/291/s1637]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1637

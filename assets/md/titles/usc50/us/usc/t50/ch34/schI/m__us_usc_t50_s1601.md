@@ -33,7 +33,7 @@
 
 [Pub. L. 94–412, § 1][/us/pl/94/412/s1], Sept. 14, 1976, [90 Stat. 1255][/us/stat/90/1255], provided: 
 
-> “That this Act \[enacting this chapter, amending [section 1481 of Title 8][/us/usc/t8/s1481], Aliens and Nationality, and [section 2667 of Title 10][/us/usc/t10/s2667], Armed Forces, repealing [section 249 of Title 12][/us/usc/t12/s249], Banks and Banking, [section 831d of Title 16][/us/usc/t16/s831d], Conservation, [section 1383 of Title 18][/us/usc/t18/s1383], Crimes and Criminal Procedure, [section 211b of Title 42][/us/usc/t42/s211b], The Public Health and Welfare, and section 1742 of the Appendix to this title, and enacting provisions set out below\] may be cited as the ‘National Emergencies Act’.”
+> “That this Act \[enacting this chapter, amending [section 1481 of Title 8][/us/usc/t8/s1481], Aliens and Nationality, and [section 2667 of Title 10][/us/usc/t10/s2667], Armed Forces, repealing [section 249 of Title 12][/us/usc/t12/s249], Banks and Banking, [section 831d of Title 16][/us/usc/t16/s831d], Conservation, [section 1383 of Title 18][/us/usc/t18/s1383], Crimes and Criminal Procedure, [section 211b of Title 42][/us/usc/t42/s211b], The Public Health and Welfare, and section 1742 of the former Appendix to this title, and enacting provisions set out below\] may be cited as the ‘National Emergencies Act’.”
 
  __Savings Provision__ 
 

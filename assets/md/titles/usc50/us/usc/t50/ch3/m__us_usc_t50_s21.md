@@ -47,7 +47,7 @@
 
     Proc. No. 2674, Dec. 7, 1945, 10 F.R. 14945, 59 Stat. Pt. 2, 889.
 
-    Proc. No. 2685, Apr. 11, 1946, 11 F.R. 4079, 60 Stat. Pt. 2, 1342, set out as a note preceding section 1 of Appendix to this title.
+    Proc. No. 2685, Apr. 11, 1946, 11 F.R. 4079, 60 Stat. Pt. 2, 1342, set out as a note preceding [section 1 of this title][/us/usc/t50/s1].
 
  __World War I Proclamations__ 
 
@@ -64,6 +64,7 @@
 [/us/stat/40/531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F531
 [/us/act/1798-07-06/ch66/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1798-07-06%2Fch66%2Fs1
 [/us/stat/1/577]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F1%2F577
+[/us/usc/t50/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1
 [/us/stat/40/1651]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F1651
 
 

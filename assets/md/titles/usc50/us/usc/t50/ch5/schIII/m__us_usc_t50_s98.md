@@ -33,7 +33,7 @@
 
 [Pub. L. 96–41, § 1][/us/pl/96/41/s1], July 30, 1979, [93 Stat. 319][/us/stat/93/319], provided: 
 
-> “That this Act \[enacting this section and sections 98a to 98h–3 of this title, redesignating former [section 98h–1 of this title][/us/usc/t50/s98h–1] as 98h–4 of this title, amending section 2093 of the Appendix to this title, sections 1743 and 1745 of Title 7, Agriculture, [section 741b of Title 15][/us/usc/t15/s741b], Commerce and Trade, and section 485 of former Title 40, Public Buildings, Property, and Works, enacting a provision set out as a note under this section, and repealing a provision set out as a note under this section\] may be cited as the ‘Strategic and Critical Materials Stock Piling Revision Act of 1979’.”
+> “That this Act \[enacting this section and sections 98a to 98h–3 of this title, redesignating former [section 98h–1 of this title][/us/usc/t50/s98h–1] as 98h–4 of this title, amending [section 4533 of this title][/us/usc/t50/s4533], sections 1743 and 1745 of Title 7, Agriculture, [section 741b of Title 15][/us/usc/t15/s741b], Commerce and Trade, and section 485 of former Title 40, Public Buildings, Property, and Works, enacting a provision set out as a note under this section, and repealing a provision set out as a note under this section\] may be cited as the ‘Strategic and Critical Materials Stock Piling Revision Act of 1979’.”
 
  __Short Title__ 
 
@@ -87,6 +87,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 [/us/pl/96/41/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F41%2Fs1
 [/us/stat/93/319]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F319
 [/us/usc/t50/s98h–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs98h%E2%80%931
+[/us/usc/t50/s4533]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4533
 [/us/usc/t15/s741b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs741b
 [/us/act/1939-06-07/ch190/s11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1939-06-07%2Fch190%2Fs11
 [/us/act/1946-07-23/ch590]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-07-23%2Fch590

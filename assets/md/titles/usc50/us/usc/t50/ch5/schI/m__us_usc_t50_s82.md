@@ -57,7 +57,7 @@
 
     Ex. Ord. No. 12742, Jan. 8, 1991, 56 F.R. 1079, as amended by Ex. Ord. No. 13286, § 36, Feb. 28, 2003, 68 F.R. 10625, provided:
 
-    By the authority vested in me as President by the Constitution and the laws of the United States of America, including 50 U.S.C. App. 468, [10 U.S.C. 4501][/us/usc/t10/s4501] and 9501 \[former sections 4501 and 9501 of Title 10, Armed Forces\], and [50 U.S.C. 82][/us/usc/t50/s82], it is hereby ordered as follows:
+    By the authority vested in me as President by the Constitution and the laws of the United States of America, including 50 U.S.C. App. 468 \[now [50 U.S.C. 3816][/us/usc/t50/s3816]\], [10 U.S.C. 4501][/us/usc/t10/s4501] and 9501 \[former sections 4501 and 9501 of Title 10, Armed Forces\], and [50 U.S.C. 82][/us/usc/t50/s82], it is hereby ordered as follows:
 
     Section 101. Policy. The United States must have the capability to rapidly mobilize its resources in the interest of national security. Therefore, to achieve prompt delivery of articles, products, and materials to meet national security requirements, the Government may place orders and require priority performance of these orders.
 
@@ -79,7 +79,7 @@
 
     (2) a determination by the Secretary of Energy that the prompt delivery of the articles or materials for the Department of Energy’s atomic energy programs is in the interest of national security.
 
-    (c) All determinations of the type described in paragraph (b) of this section and all delegations—made prior to the effective date of this order under the Defense Production Act of 1950, as amended \[50 U.S.C. App. 2061 et seq.\], and under its implementing rules and regulations—shall be continued in effect, including but not limited to approved programs listed under the Defense Priorities and Allocations System (15 CFR Part 700).
+    (c) All determinations of the type described in paragraph (b) of this section and all delegations—made prior to the effective date of this order under the Defense Production Act of 1950, as amended \[[50 U.S.C. 4501][/us/usc/t50/s4501] et seq.\], and under its implementing rules and regulations—shall be continued in effect, including but not limited to approved programs listed under the Defense Priorities and Allocations System (15 CFR Part 700).
 
     Sec. 103. Delegation of Authority under [10 U.S.C. 4501][/us/usc/t10/s4501] and 9501, and [50 U.S.C. 82][/us/usc/t50/s82].
 
@@ -97,7 +97,7 @@
 
     Sec. 104. Implementation. (a) The authorities delegated under sections 102 and 103 of this order shall include the power to redelegate such authorities, and the power of successive redelegation of such authorities, to departments and agencies, officers, and employees of the Government. The authorities delegated in this order may be implemented by regulations promulgated and administered by the Secretaries of Agriculture, Defense, Energy, Transportation, Homeland Security, and Commerce, and the Director of the Federal Emergency Management Agency, as appropriate.
 
-    (b) All departments and agencies delegated authority under this order are hereby directed to amend their rules and regulations as necessary to reflect the new authorities delegated herein that are to be relied upon to carry out their functions. To the extent authorized by law, including 50 U.S.C. App. 486 \[468\], [10 U.S.C. 4501][/us/usc/t10/s4501] and 9501 \[former sections 4501 and 9501 of Title 10\], and [50 U.S.C. 82][/us/usc/t50/s82], all rules and regulations issued under the Defense Production Act of 1950, as amended, with respect to the placing of priority orders for articles, products, ships, and materials, including war materials, shall be deemed, where appropriate, to implement the authorities delegated by sections 102 and 103 of this order, and shall remain in effect until amended or revoked by the respective Secretary. All orders, regulations, and other forms of administrative actions purported to have been issued, taken, or continued in effect pursuant to the Defense Production Act of 1950, as amended, shall, until amended or revoked by the respective Secretaries or the Director of the Federal Emergency Management Agency, as appropriate, remain in full force and effect, to the extent supported by any law or any authority delegated to the respective Secretary or the Director pursuant to this order.
+    (b) All departments and agencies delegated authority under this order are hereby directed to amend their rules and regulations as necessary to reflect the new authorities delegated herein that are to be relied upon to carry out their functions. To the extent authorized by law, including 50 U.S.C. App. 486 \[468\] \[now [50 U.S.C. 3816][/us/usc/t50/s3816]\], [10 U.S.C. 4501][/us/usc/t10/s4501] and 9501 \[former sections 4501 and 9501 of Title 10\], and [50 U.S.C. 82][/us/usc/t50/s82], all rules and regulations issued under the Defense Production Act of 1950, as amended, with respect to the placing of priority orders for articles, products, ships, and materials, including war materials, shall be deemed, where appropriate, to implement the authorities delegated by sections 102 and 103 of this order, and shall remain in effect until amended or revoked by the respective Secretary. All orders, regulations, and other forms of administrative actions purported to have been issued, taken, or continued in effect pursuant to the Defense Production Act of 1950, as amended, shall, until amended or revoked by the respective Secretaries or the Director of the Federal Emergency Management Agency, as appropriate, remain in full force and effect, to the extent supported by any law or any authority delegated to the respective Secretary or the Director pursuant to this order.
 
     (c) Upon the request of the Secretary of Defense with respect to particular articles, products, or materials that are determined to be needed to meet national security requirements, any other official receiving a delegation of authority under this Executive order to place orders or to enforce precedence of such orders, shall exercise such authority within 10 calendar days of the receipt of the request; provided, that if the head of any department or agency having delegated responsibilities hereunder disagrees with a request of the Secretary of Defense, such department or agency head shall, within 10 calendar days from the receipt of the request, refer the issue to the Assistant to the President for National Security Affairs, who shall ensure expeditious resolution of the issue.
 
@@ -117,7 +117,7 @@
 
  __Codification__ 
 
-    Sections 86 to 88, [act Feb. 15, 1936, ch. 74][/us/act/1936-02-15/ch74], §§ 1–3, [49 Stat. 1140][/us/stat/49/1140], related to conservation of domestic sources of tin, and were superseded by the Export Control Act of 1949 (former sections 2021 to 2032 of the Appendix to this title) pursuant to section 10 of that Act (former section 2030 of the Appendix to this title). The act of Feb. 15, 1936 was subsequently superseded by the Export Administration Act of 1969 (former sections 2401 to 2413 of the Appendix to this title) pursuant to section 12 of that Act (former section 2411 of the Appendix to this title). See, also, the Export Administration Act of 1979, which is classified to section 2401 of the Appendix to this title.
+    Sections 86 to 88, [act Feb. 15, 1936, ch. 74][/us/act/1936-02-15/ch74], §§ 1–3, [49 Stat. 1140][/us/stat/49/1140], related to conservation of domestic sources of tin, and were superseded by the Export Control Act of 1949 (former sections 2021 to 2032 of the former Appendix to this title) pursuant to section 10 of that Act (former section 2030 of the former Appendix to this title). The act of Feb. 15, 1936 was subsequently superseded by the Export Administration Act of 1969 (former sections 2401 to 2413 of the former Appendix to this title) pursuant to section 12 of that Act (former section 2411 of the former Appendix to this title). See, also, the Export Administration Act of 1979, which is classified principally to chapter 56 (§ 4601 et seq.) of this title.
 
     Section 86, [act Feb. 15, 1936, ch. 74, § 1][/us/act/1936-02-15/ch74/s1], [49 Stat. 1140][/us/stat/49/1140], related to conservation of domestic resources of tin.
 
@@ -145,12 +145,15 @@
 [/us/stat/40/719]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F40%2F719
 [/us/act/1947-07-25/ch327/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1947-07-25%2Fch327%2Fs3
 [/us/stat/61/451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F61%2F451
+[/us/usc/t50/s3816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3816
+[/us/usc/t10/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4501
+[/us/usc/t50/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82
+[/us/usc/t50/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4501
 [/us/usc/t10/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4501
 [/us/usc/t50/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82
 [/us/usc/t10/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4501
 [/us/usc/t50/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82
-[/us/usc/t10/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4501
-[/us/usc/t50/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82
+[/us/usc/t50/s3816]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3816
 [/us/usc/t10/s4501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs4501
 [/us/usc/t50/s82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs82
 [/us/act/1956-08-10/ch1041/s53]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1956-08-10%2Fch1041%2Fs53

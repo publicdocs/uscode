@@ -169,7 +169,7 @@
 
     By the authority vested in me by the Constitution and the laws of the United States of America, in order to expand the scope of the national emergency declared in Proclamation 6867 of March 1, 1996 \[set out above\], based on the disturbance or threatened disturbance of the international relations of the United States caused by actions taken by the Cuban government, and in light of steps taken over the past year by the Cuban government to worsen the threat to United States international relations, and,
 
-    WHEREAS the United States has determined that Cuba is a state-sponsor of terrorism and it is subject to the restrictions of section 6(j)(1)(A) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)(1)(A)\], section 620A of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2371][/us/usc/t22/s2371]\], and section 40 of the Arms Export Control Act \[[22 U.S.C. 2780][/us/usc/t22/s2780]\];
+    WHEREAS the United States has determined that Cuba is a state-sponsor of terrorism and it is subject to the restrictions of section 6(j)(1)(A) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(j)(1)(A)][/us/usc/t50/s4605/j/1/A]\], section 620A of the Foreign Assistance Act of 1961 \[[22 U.S.C. 2371][/us/usc/t22/s2371]\], and section 40 of the Arms Export Control Act \[[22 U.S.C. 2780][/us/usc/t22/s2780]\];
 
     WHEREAS the Cuban government has demonstrated a ready and reckless willingness to use excessive force, including deadly force, against U.S. citizens, in the ostensible enforcement of its sovereignty, including the February 1996 shoot-down of two unarmed U.S.-registered civilian aircraft in international airspace, resulting in the deaths of three American citizens and one other individual;
 
@@ -259,6 +259,7 @@
 [/us/usc/t50/s1621]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1621
 [/us/usc/t3/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft3%2Fs301
 [/us/usc/t50/s1622/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1622%2Fd
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2371]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371
 [/us/usc/t22/s2780]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780
 [/us/pl/65/24/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F65%2F24%2Fs1

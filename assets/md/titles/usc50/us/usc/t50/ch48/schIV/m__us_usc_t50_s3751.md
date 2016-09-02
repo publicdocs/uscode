@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch48/schIV/m__us_usc_t50_ch48_schIV.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3751)
+[Previous](./../../../../..//us/usc/t50/ch48/schIV/m__us_usc_t50_ch48_schIV.md) | [Next](./../../../../..//us/usc/t50/ch49/m__us_usc_t50_ch49.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3751)
 
 ## § 3751. Transition provisions
 
@@ -41,7 +41,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t50/ch48/schIV/m__us_usc_t50_ch48_schIV.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3751)
+[Previous](./../../../../..//us/usc/t50/ch48/schIV/m__us_usc_t50_ch48_schIV.md) | [Next](./../../../../..//us/usc/t50/ch49/m__us_usc_t50_ch49.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3751)
 
 ----------
 ----------

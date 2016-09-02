@@ -25,7 +25,7 @@
 
     The Nuclear Proliferation Prevention Act of 1994, referred to in text, is title VIII of [Pub. L. 103–236][/us/pl/103/236], Apr. 30, 1994, [108 Stat. 507][/us/stat/108/507], as amended. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 22][/us/usc/t22/s6301], Foreign Relations and Intercourse, and Tables.
 
-    Title XVII of the National Defense Authorization Act for Fiscal Year 1991, referred to in text, is title XVII of div. A of [Pub. L. 101–510][/us/pl/101/510], Nov. 5, 1990, [104 Stat. 1750][/us/stat/104/1750], as amended, which enacted section 2410b of the Appendix to this title and sections 2797 to 2797c of Title 22, Foreign Relations and Intercourse, amended section 2405 of the Appendix to this title, and enacted provisions set out as notes under section 2402 of the Appendix to this title and [section 2797 of Title 22][/us/usc/t22/s2797]. For complete classification of title XVII to the Code, see Tables.
+    Title XVII of the National Defense Authorization Act for Fiscal Year 1991, referred to in text, is title XVII of div. A of [Pub. L. 101–510][/us/pl/101/510], Nov. 5, 1990, [104 Stat. 1750][/us/stat/104/1750], as amended, which enacted [section 4612 of this title][/us/usc/t50/s4612] and sections 2797 to 2797c of Title 22, Foreign Relations and Intercourse, amended [section 4605 of this title][/us/usc/t50/s4605], and enacted provisions set out as notes under [section 4602 of this title][/us/usc/t50/s4602] and [section 2797 of Title 22][/us/usc/t22/s2797]. For complete classification of title XVII to the Code, see Tables.
 
     The Iran-Iraq Arms Nonproliferation Act of 1992, referred to in text, is title XVI of div. A of [Pub. L. 102–484][/us/pl/102/484], Oct. 23, 1992, [106 Stat. 2571][/us/stat/106/2571], as amended, which is set out as a note under [section 1701 of this title][/us/usc/t50/s1701].
 
@@ -62,6 +62,9 @@
 [/us/usc/t22/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs6301
 [/us/pl/101/510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F510
 [/us/stat/104/1750]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1750
+[/us/usc/t50/s4612]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4612
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
+[/us/usc/t50/s4602]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4602
 [/us/usc/t22/s2797]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2797
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/stat/106/2571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F2571

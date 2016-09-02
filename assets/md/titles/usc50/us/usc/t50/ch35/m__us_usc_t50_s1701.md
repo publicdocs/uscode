@@ -199,7 +199,7 @@
 
 >         “(4)  __Good__  __.—__ 
 
->         The term ‘good’ has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
+>         The term ‘good’ has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) \[now [50 U.S.C. 4618][/us/usc/t50/s4618]\] (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
 
 >         “(5)  __Knowingly__  __.—__ 
 
@@ -257,7 +257,7 @@
 
 >             “(B)  __Good defined__  __.—__ 
 
->             In this paragraph, the term ‘good’ has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
+>             In this paragraph, the term ‘good’ has the meaning given that term in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) \[now [50 U.S.C. 4618][/us/usc/t50/s4618]\] (as continued in effect pursuant to the International Emergency Economic Powers Act ([50 U.S.C. 1701][/us/usc/t50/s1701] et seq.)).
 
 >     “(b)  __Visa Ban__  __.—__ 
 
@@ -745,7 +745,7 @@
 
 >     “(20) Between August 30 and September 3, 2006, President Bashir and other senior members of his administration have publicly rejected United Nations Security Council Resolution 1706 (2006), calling it illegal and a western invasion of his country, despite the current presence of 10,000 United Nations peacekeepers under the UNMIS peacekeeping force.
 
->     “(21) Since 1993, the Secretary of State has determined, pursuant to section 6(j) of the Export Administration Act of 1979 (50 App. U.S.C. 2405(j)), that Sudan is a country, the government of which has repeatedly provided support for acts of international terrorism, thereby restricting United States assistance, defense exports and sales, and financial and other transactions with the Government of Sudan.
+>     “(21) Since 1993, the Secretary of State has determined, pursuant to section 6(j) of the Export Administration Act of 1979 (50 App. U.S.C. 2405(j)) \[now [50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\], that Sudan is a country, the government of which has repeatedly provided support for acts of international terrorism, thereby restricting United States assistance, defense exports and sales, and financial and other transactions with the Government of Sudan.
 
 > “SEC. 4. __SENSE OF CONGRESS.__ 
 
@@ -1007,7 +1007,7 @@
 
 >     “(b)  __No Effect on Other Sanctions Relating to Support for Acts of International Terrorism__  __.—__ 
 
->     Nothing in this Act \[see Short Title of 2006 Amendment note above\] shall affect any United States sanction, control, or regulation as in effect on January 1, 2006, relating to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]), or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]) that the Government of Iran has repeatedly provided support for acts of international terrorism.”
+>     Nothing in this Act \[see Short Title of 2006 Amendment note above\] shall affect any United States sanction, control, or regulation as in effect on January 1, 2006, relating to a determination under section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)) \[now [50 U.S.C. 4605(j)(1)(A)][/us/usc/t50/s4605/j/1/A]\], section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]), or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]) that the Government of Iran has repeatedly provided support for acts of international terrorism.”
 
  __Burmese Freedom and Democracy__ 
 
@@ -2641,7 +2641,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(3)  __Dual use export prohibition__  __.—__ 
 
->         Denial of licenses and suspension of existing licenses for the transfer to that person of items the export of which is controlled under the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\] or the Export Administration Regulations.
+>         Denial of licenses and suspension of existing licenses for the transfer to that person of items the export of which is controlled under the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\] or the Export Administration Regulations.
 
 >     “(c)  __Effective Date of Measures__  __.—__ 
 
@@ -2783,7 +2783,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >             “(A) the specific purpose of each payment made to each entity or person identified in the report; and
 
->             “(B) with respect to each such payment, the assessment of the President that the payment was not prejudicial to the achievement of the objectives of the United States Government to prevent the proliferation of ballistic or cruise missile systems in Iran and other countries that have repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]), section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)), or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]).
+>             “(B) with respect to each such payment, the assessment of the President that the payment was not prejudicial to the achievement of the objectives of the United States Government to prevent the proliferation of ballistic or cruise missile systems in Iran and other countries that have repeatedly provided support for acts of international terrorism, as determined by the Secretary of State under section 620A(a) of the Foreign Assistance Act of 1961 ([22 U.S.C. 2371(a)][/us/usc/t22/s2371/a]), section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) \[now [50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\], or section 40(d) of the Arms Export Control Act ([22 U.S.C. 2780(d)][/us/usc/t22/s2780/d]).
 
 > “SEC. 7. __DEFINITIONS.__ 
 
@@ -3401,7 +3401,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         The President may order the United States Government not to issue any specific license and not to grant any other specific permission or authority to export any goods or technology to a sanctioned person under—
 
->             “(i) the Export Administration Act of 1979 \[50 U.S.C. App. 2401 et seq.\];
+>             “(i) the Export Administration Act of 1979 \[[50 U.S.C. 4601][/us/usc/t50/s4601] et seq.\];
 
 >             “(ii) the Arms Export Control Act \[[22 U.S.C. 2751][/us/usc/t22/s2751] et seq.\];
 
@@ -3539,7 +3539,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >         “(C) ballistic missiles and ballistic missile launch technology;
 
->     “(2) has been removed from the list of countries the governments of which have been determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], to have repeatedly provided support for acts of international terrorism; and
+>     “(2) has been removed from the list of countries the governments of which have been determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[[50 U.S.C. 4605(j)][/us/usc/t50/s4605/j]\], to have repeatedly provided support for acts of international terrorism; and
 
 >     “(3) poses no significant threat to United States national security, interests, or allies.
 
@@ -3701,7 +3701,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(3)  __Component part__  __.—__ 
 
->     The term ‘component part’ has the meaning given that term in section 11A(e)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2410a(e)(1)).
+>     The term ‘component part’ has the meaning given that term in section 11A(e)(1) of the Export Administration Act of 1979 (50 U.S.C. App. 2410a(e)(1)) \[now [50 U.S.C. 4611(e)(1)][/us/usc/t50/s4611/e/1]\].
 
 >     “(4)  __Credible information__  __.—__ 
 
@@ -3749,7 +3749,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(7)  __Finished product__  __.—__ 
 
->     The term ‘finished product’ has the meaning given that term in section 11A(e)(2) of the Export Administration Act of 1979 (50 U.S.C. App. 2410a(e)(2)).
+>     The term ‘finished product’ has the meaning given that term in section 11A(e)(2) of the Export Administration Act of 1979 (50 U.S.C. App. 2410a(e)(2)) \[now [50 U.S.C. 4611(e)(2)][/us/usc/t50/s4611/e/2]\].
 
 >     “(8)  __Foreign person__  __.—__ 
 
@@ -3761,7 +3761,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 >     “(9)  __Goods and technology__  __.—__ 
 
->     The terms ‘goods’ and ‘technology’ have the meanings given those terms in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415).
+>     The terms ‘goods’ and ‘technology’ have the meanings given those terms in section 16 of the Export Administration Act of 1979 (50 U.S.C. App. 2415) \[now [50 U.S.C. 4618][/us/usc/t50/s4618]\].
 
 >     “(10)  __Investment__  __.—__ 
 
@@ -4443,7 +4443,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >         “(3)  __Exports of certain goods and technology__  __.—__ 
 
->         The authorities of section 6 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) shall be used to prohibit the export to Iraq of any goods or technology listed pursuant to that section or section 5(c)(1) of that Act (50 U.S.C. App. 2404(c)(1)) on the control list provided for in section 4(b) of that Act (50 U.S.C. App. 2403(b)).
+>         The authorities of section 6 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) \[now [50 U.S.C. 4605][/us/usc/t50/s4605]\] shall be used to prohibit the export to Iraq of any goods or technology listed pursuant to that section or section 5(c)(1) of that Act (50 U.S.C. App. 2404(c)(1)) \[now [50 U.S.C. 4604(c)(1)][/us/usc/t50/s4604/c/1]\] on the control list provided for in section 4(b) of that Act (50 U.S.C. App. 2403(b)) \[now [50 U.S.C. 4603(b)][/us/usc/t50/s4603/b]\].
 
 >         “(4) __Nuclear equipment, materials, and technology.—__ 
 
@@ -4477,7 +4477,7 @@ Provisions suspending sanctions imposed on the governments of Serbia and Montene
 
 >     “(b)  __Contract Sanctity__  __.—__ 
 
->     For purposes of the export controls imposed pursuant to subsection (a)(3), the date described in subsection (m)(1) of section 6 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) shall be deemed to be August 1, 1990.
+>     For purposes of the export controls imposed pursuant to subsection (a)(3), the date described in subsection (m)(1) of section 6 of the Export Administration Act of 1979 (50 U.S.C. App. 2405) \[now [50 U.S.C. 4605][/us/usc/t50/s4605]\] shall be deemed to be August 1, 1990.
 
 > “SEC. 586H. __WAIVER AUTHORITY.__ 
 
@@ -5898,10 +5898,12 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t50/s1705]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1705
 [/us/usc/t8/s1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101
 [/us/usc/t31/s5312]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs5312
+[/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/112/239/s1284]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2Fs1284
 [/us/stat/126/2035]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2035
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
+[/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
 [/us/pl/110/174]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F174
 [/us/stat/121/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F2516
@@ -5937,6 +5939,7 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/stat/121/172]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F172
 [/us/pl/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344
 [/us/stat/120/1869]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1869
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/pl/108/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497
 [/us/pl/108/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497
 [/us/pl/108/497]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F497
@@ -5958,6 +5961,7 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/109/344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F344
 [/us/pl/109/293/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F293%2Fs101
 [/us/stat/120/1344]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F1344
+[/us/usc/t50/s4605/j/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj%2F1%2FA
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/pl/112/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F192
@@ -6112,7 +6116,9 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/pl/112/273/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F273%2Fs4
 [/us/stat/126/2454]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F2454
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2371/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2371%2Fa
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s2780/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2780%2Fd
 [/us/pl/109/112/s4/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F112%2Fs4%2Fe%2F2
 [/us/stat/119/2370]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2370
@@ -6147,6 +6153,7 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t42/s2014/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Fb
 [/us/usc/t19/s2518/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2518%2F4
 [/us/usc/t19/s2511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fb
+[/us/usc/t50/s4601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4601
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t50/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1701
@@ -6155,11 +6162,15 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/usc/t19/s2511/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs2511%2Fb
 [/us/usc/t41/s133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs133
 [/us/usc/t41/s1303/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs1303%2Fa%2F1
+[/us/usc/t50/s4605/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605%2Fj
 [/us/usc/t22/s3281/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs3281%2Fa
 [/us/pl/102/484]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F484
 [/us/usc/t50/s3091]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs3091
+[/us/usc/t50/s4611/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4611%2Fe%2F1
 [/us/usc/t12/s1813/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs1813%2Fc%2F1
 [/us/usc/t12/s3101/b/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft12%2Fs3101%2Fb%2F7
+[/us/usc/t50/s4611/e/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4611%2Fe%2F2
+[/us/usc/t50/s4618]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4618
 [/us/usc/t42/s2014/aa]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2014%2Faa
 [/us/pl/112/158/s202/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F158%2Fs202%2Fb
 [/us/stat/126/1223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1223
@@ -6252,12 +6263,16 @@ Provisions relating to the exercise of Presidential authorities to declare natio
 [/us/stat/104/2021]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F2021
 [/us/stat/99/227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F99%2F227
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
+[/us/usc/t50/s4604/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4604%2Fc%2F1
+[/us/usc/t50/s4603/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4603%2Fb
 [/us/usc/t42/s2011]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2011
 [/us/usc/t42/s2139/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2139%2Fb
 [/us/usc/t42/s2077/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2077%2Fb%2F2
 [/us/usc/t22/s262d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs262d
 [/us/usc/t22/s2151]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2151
 [/us/usc/t22/s2751]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft22%2Fs2751
+[/us/usc/t50/s4605]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4605
 [/us/pl/101/513/s586D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F513%2Fs586D
 [/us/pl/108/7/s531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7%2Fs531
 [/us/stat/117/192]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F192

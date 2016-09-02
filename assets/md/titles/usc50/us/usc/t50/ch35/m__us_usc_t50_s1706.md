@@ -41,7 +41,7 @@
 
     The National Emergencies Act, referred to in subsecs. (a)(1) and (c)(2), is [Pub. L. 94–412][/us/pl/94/412], Sept. 14, 1976, [90 Stat. 1255][/us/stat/90/1255], as amended, which is classified principally to chapter 34 (§ 1601 et seq.) of this title. Title II of the National Emergencies Act is classified generally to subchapter II (§ 1621 et seq.) of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under [section 1601 of this title][/us/usc/t50/s1601] and Tables.
 
-    Section 101(b) of this Act, referred to in subsec. (a)(2), is [section 101(b) of Pub. L. 95–223][/us/pl/95/223/s101/b], which is set out as a note under section 5 of the Appendix to this title.
+    Section 101(b) of this Act, referred to in subsec. (a)(2), is [section 101(b) of Pub. L. 95–223][/us/pl/95/223/s101/b], which is set out as a note under [section 4305 of this title][/us/usc/t50/s4305].
 
  __Termination of Reporting Requirements__ 
 
@@ -66,6 +66,7 @@
 [/us/stat/90/1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F90%2F1255
 [/us/usc/t50/s1601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs1601
 [/us/pl/95/223/s101/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F223%2Fs101%2Fb
+[/us/usc/t50/s4305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs4305
 [/us/pl/104/66/s3003]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F66%2Fs3003
 [/us/usc/t31/s1113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs1113
 
