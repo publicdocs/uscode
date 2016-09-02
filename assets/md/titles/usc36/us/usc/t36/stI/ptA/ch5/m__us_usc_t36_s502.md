@@ -15,7 +15,7 @@
 
 ## § 502. Regulations, licenses, and registration tags
 
-    (a) __Regulations and Licenses.—__ 
+    (a)  __Regulations and Licenses__  __.—__ 
 
     For each inaugural period, the Council of the District of Columbia shall—
 
@@ -25,7 +25,7 @@
 
         (3) grant special licenses to peddlers and vendors to sell merchandise in places the Council considers proper, subject to conditions and fees for the licenses the Council considers proper.
 
-    (b) __Registration Tags.—__ 
+    (b)  __Registration Tags__  __.—__ 
 
     The Mayor of the District of Columbia may issue, for any motor vehicle made available for the use of the Inaugural Committee, special registration tags, valid for not more than 90 days, designed to celebrate the inauguration of the President and Vice President.
 

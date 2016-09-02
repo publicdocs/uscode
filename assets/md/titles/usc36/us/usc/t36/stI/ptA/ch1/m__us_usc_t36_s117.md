@@ -15,11 +15,11 @@
 
 ## § 117. Mother’s Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The second Sunday in May is Mother’s Day.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue a proclamation calling on United States Government officials to display the flag of the United States on all Government buildings, and on the people of the United States to display the flag at their homes or other suitable places, on Mother’s Day as a public expression of love and reverence for the mothers of the United States.
 

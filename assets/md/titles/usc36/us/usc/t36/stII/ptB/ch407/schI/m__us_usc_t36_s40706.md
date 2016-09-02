@@ -15,7 +15,7 @@
 
 ## § 40706. Distribution of assets on dissolution
 
-    (a) __Secretary of the Army.—__ 
+    (a)  __Secretary of the Army__  __.—__ 
 
     On dissolution of the corporation, title to the following items, and the right to possess the items, vest in the Secretary of the Army—
 
@@ -25,7 +25,7 @@
 
         (3) trophies received from the National Board for the Promotion of Rifle Practice through the date of dissolution.
 
-    (b) __Tax-Exempt Organizations.—__ 
+    (b)  __Tax-Exempt Organizations__  __.—__ 
 
         (1)
 
@@ -37,7 +37,7 @@
 
         (2) An asset distributed under this subsection may not be distributed to an individual.
 
-    (c) __Treasury.—__ 
+    (c)  __Treasury__  __.—__ 
 
     On dissolution of the corporation, any asset not distributed under subsection (a) or (b) of this section shall be sold and the proceeds shall be deposited in the Treasury.
 

@@ -15,7 +15,7 @@
 
 ## § 70503. Membership
 
-    (a) __Members.—__ 
+    (a)  __Members__  __.—__ 
 
     The members of the corporation are—
 
@@ -23,11 +23,11 @@
 
         (2) other individuals the corporation provides for in the bylaws or otherwise.
 
-    (b) __Voting.—__ 
+    (b)  __Voting__  __.—__ 
 
     Each member has one vote on each matter submitted to a vote of the members.
 
-    (c) __Grounds for Disqualification.—__ 
+    (c)  __Grounds for Disqualification__  __.—__ 
 
     An individual may not be a member, director, or officer of the corporation if the individual—
 

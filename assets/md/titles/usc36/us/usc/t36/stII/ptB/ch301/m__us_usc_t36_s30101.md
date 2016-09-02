@@ -15,15 +15,15 @@
 
 ## § 30101. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     Big Brothers—Big Sisters of America (in this chapter, the “corporation”) is a federally chartered corporation.
 
-    (b) __Place of Incorporation and Domicile.—__ 
+    (b)  __Place of Incorporation and Domicile__  __.—__ 
 
     The corporation is declared to be incorporated and domiciled in the District of Columbia.
 
-    (c) __Perpetual Existence.—__ 
+    (c)  __Perpetual Existence__  __.—__ 
 
     Except as otherwise provided, the corporation has perpetual existence.
 

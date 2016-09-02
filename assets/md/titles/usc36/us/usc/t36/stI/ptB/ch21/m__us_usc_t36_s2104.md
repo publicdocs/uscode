@@ -79,15 +79,15 @@ Mar. 4, 1923, ch. 283, § 2, as added July 25, 1956, ch. 721, § 3(a), 70 St
 
 [Pub. L. 112–260, title I, § 106][/us/pl/112/260/s106], Jan. 10, 2013, [126 Stat. 2421][/us/stat/126/2421], provided that:
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     After an agreement is made between the Government of the Republic of the Philippines and the United States Government, Clark Veterans Cemetery in the Republic of the Philippines shall be treated, for purposes of [section 2104 of title 36][/us/usc/t36/s2104], United States Code, as a cemetery for which it was decided under such section that the cemetery will become a permanent cemetery and the American Battle Monuments Commission shall restore, operate, and maintain Clark Veterans Cemetery (to the degree the Commission considers appropriate) under such section in cooperation with the Government of the Republic of the Philippines.
 
->     “(b) __Limitation on Future Burials.—__ 
+>     “(b)  __Limitation on Future Burials__  __.—__ 
 
 >     Burials at the cemetery described in subsection (a) after the date of the agreement described in such subsection shall be limited to eligible veterans, as determined by the Commission, whose burial does not incur any cost to the Commission.
 
->     “(c) __Authorization of Appropriations.—__ 
+>     “(c)  __Authorization of Appropriations__  __.—__ 
 
 >     There are authorized to be appropriated to the Commission—
 

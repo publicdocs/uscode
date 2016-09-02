@@ -15,17 +15,17 @@
 
 ## § 40732. Sale of firearms and supplies
 
-    (a) __Affiliated Organizations.—__ 
+    (a)  __Affiliated Organizations__  __.—__ 
 
     The corporation may sell, at fair market value, caliber .22 rimfire and caliber .30 surplus rifles, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies to organizations affiliated with the corporation that provide training in the use of firearms.
 
-    (b) __Gun Club Members.—__ 
+    (b)  __Gun Club Members__  __.—__ 
 
         (1) The corporation may sell, at fair market value, caliber .22 rimfire and caliber .30 surplus rifles, ammunition, repair parts and other supplies necessary for target practice to a citizen of the United States who is over 18 years of age and who is a member of a gun club affiliated with the corporation.
 
         (2) Except as provided in [section 40733 of this title][/us/usc/t36/s40733], sales under this subsection are subject to applicable United States, State, and local law. In addition to any other requirement, the corporation shall establish procedures to obtain a criminal records check of the individual with United States Government and State law enforcement agencies.
 
-    (c) __Limitation on Sales.—__ 
+    (c)  __Limitation on Sales__  __.—__ 
 
         (1) The corporation may not sell a repair part designed to convert a firearm to fire in a fully automatic mode.
 

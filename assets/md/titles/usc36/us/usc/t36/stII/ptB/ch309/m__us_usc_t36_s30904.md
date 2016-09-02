@@ -15,7 +15,7 @@
 
 ## § 30904. Powers
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The corporation may—
 
@@ -31,7 +31,7 @@
 
         (6) do any other act necessary to carry out this chapter and promote the purpose of the corporation.
 
-    (b) __Limitations on Exercising Certain Powers.—__ 
+    (b)  __Limitations on Exercising Certain Powers__  __.—__ 
 
         (1) The corporation may execute mortgages and liens on the property of the corporation only if approved by a two-thirds vote of the entire executive board at a meeting called for that purpose.
 

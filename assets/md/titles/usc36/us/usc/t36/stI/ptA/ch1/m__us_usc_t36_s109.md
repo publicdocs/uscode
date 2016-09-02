@@ -15,11 +15,11 @@
 
 ## § 109. Father’s Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The third Sunday in June is Father’s Day.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue a proclamation—
 

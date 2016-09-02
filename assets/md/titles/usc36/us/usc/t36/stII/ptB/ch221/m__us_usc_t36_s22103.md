@@ -15,13 +15,13 @@
 
 ## § 22103. Governing body
 
-    (a) __Executive Council.—__ 
+    (a)  __Executive Council__  __.—__ 
 
         (1) The executive council is the governing body of the corporation. However, the council is subject to the directions of the corporation at its annual meetings and at any other meeting called under the constitution, bylaws, or regulations of the corporation.
 
         (2) The council consists of a president, an honorary president, a number of vice presidents and honorary vice presidents as provided in the constitution, a secretary, a treasurer, and at least 24 additional individuals.
 
-    (b) __Election and Terms.—__ 
+    (b)  __Election and Terms__  __.—__ 
 
     The officers of the corporation and one-third of the other members of the council shall be elected at each annual meeting of the corporation. However, the constitution may authorize the council—
 

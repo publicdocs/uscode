@@ -15,21 +15,21 @@
 
 ## § 2105. Monuments built by the United States Government
 
-    (a) __Memorials.—__ 
+    (a)  __Memorials__  __.—__ 
 
     The American Battle Monuments Commission shall prepare plans and estimates to build suitable memorials commemorating the service of American Armed Forces, and shall build and maintain memorials in the United States and, as the Commission decides, at any place outside the United States where the Armed Forces have served since April 6, 1917.
 
-    (b) __Architecture and Art.—__ 
+    (b)  __Architecture and Art__  __.—__ 
 
     The Commission shall build and maintain works of architecture and art in United States cemeteries located outside the United States and the territories and possessions of the United States that are permanent cemeteries. The Secretary of Veterans Affairs shall maintain works of architecture and art built by the Commission in the National Cemetery Administration, as described in [section 2400(b) of title 38][/us/usc/t38/s2400/b].
 
-    (c) __Control and Supervision of Materials, Design, and Building.—__ 
+    (c)  __Control and Supervision of Materials, Design, and Building__  __.—__ 
 
         (1) The Commission shall control the materials and design and prescribe regulations for, and supervise the building of, all memorial monuments and buildings in United States cemeteries located outside the United States and the territories and possessions of the United States.
 
         (2) The Commission shall control the design and prescribe regulations for the building of all memorial monuments and buildings commemorating the service of American Armed Forces that are built in a foreign country or political division of the foreign country that authorizes the Commission to carry out those duties and powers.
 
-    (d) __Approval by National Commission of Fine Arts.—__ 
+    (d)  __Approval by National Commission of Fine Arts__  __.—__ 
 
     A design for a memorial must be approved by the National Commission of Fine Arts before the Commission can accept it.
 

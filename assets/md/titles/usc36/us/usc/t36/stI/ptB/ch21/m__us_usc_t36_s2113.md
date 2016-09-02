@@ -15,13 +15,13 @@
 
 ## § 2113. World War II memorial in the District of Columbia
 
-    (a) __Solicitation and Acceptance of Contributions.—__ 
+    (a)  __Solicitation and Acceptance of Contributions__  __.—__ 
 
         (1) Consistent with its authority under [section 2103(e) of this title][/us/usc/t36/s2103/e], the American Battle Monuments Commission shall solicit and accept contributions for the World War II memorial.
 
         (2) In this section, the term “World War II memorial” means the memorial authorized by [Public Law 103–32][/us/pl/103/32] ([40 U.S.C. 8903][/us/usc/t40/s8903] note) to be established by the Commission on Federal land in the District of Columbia or its environs to honor members of the Armed Forces who served in World War II and to commemorate the participation of the United States in that war.
 
-    (b) __Creation of Memorial Fund.—__ 
+    (b)  __Creation of Memorial Fund__  __.—__ 
 
         (1)
 
@@ -41,7 +41,7 @@
 
         (3) The Secretary of the Treasury shall invest any portion of the fund that, as determined by the Chairman, is not required to meet current expenses. Each investment shall be made in an interest-bearing obligation of the United States or an obligation guaranteed as to principal and interest by the United States that, as determined by the Chairman, has a maturity suitable for the fund.
 
-    (c) __Use of Fund.—__ 
+    (c)  __Use of Fund__  __.—__ 
 
     The fund shall be available to the Commission—
 
@@ -51,7 +51,7 @@
 
         (3) to secure, obtain, register, enforce, protect, and license any mark, copyright, or patent that is owned by, assigned to, or licensed to the Commission under [section 2114 of this title][/us/usc/t36/s2114] to aid or facilitate the construction of the World War II memorial.
 
-    (d) __Special Borrowing Authority.—__ 
+    (d)  __Special Borrowing Authority__  __.—__ 
 
         (1) To assure that groundbreaking, construction, and dedication of the World War II memorial are carried out on a timely basis, the Commission may borrow money from the Treasury of the United States in such amounts as the Commission considers necessary, but not to exceed a total of $65,000,000. Borrowed amounts shall bear interest at a rate determined by the Secretary of the Treasury, taking into consideration the average market yield on outstanding marketable obligations of the United States of comparable maturities during the month preceding the month in which the obligations of the Commission are issued. The interest payments on such obligations may be deferred with the approval of the Secretary, but any interest payment so deferred shall also bear interest.
 
@@ -61,11 +61,11 @@
 
         (4) Repayment of the interest and principal on any funds borrowed by the Commission under paragraph (1) shall be made from amounts in the fund. The Commission may not use for such purpose any funds appropriated for any other activities of the Commission.
 
-    (e) __Treatment of Borrowing Authority.—__ 
+    (e)  __Treatment of Borrowing Authority__  __.—__ 
 
     In determining whether the Commission has sufficient funds to complete construction of the World War II memorial, as required by [section 8906 of title 40][/us/usc/t40/s8906], the Secretary of the Interior shall consider the funds that the Commission may borrow from the Treasury under subsection (d) as funds available to complete construction of the memorial, whether or not the Commission has actually exercised the authority to borrow such funds.
 
-    (f) __Voluntary Services.—__ 
+    (f)  __Voluntary Services__  __.—__ 
 
         (1) Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], the Commission may accept from any person voluntary services to be provided in furtherance of the fund-raising activities of the Commission relating to the World War II memorial.
 
@@ -75,11 +75,11 @@
 
         (4) Nothing in this subsection shall be construed to require any Federal employee to work without compensation or to allow the use of volunteer services to displace or replace any Federal employee.
 
-    (g) __Treatment of Certain Contracts.—__ 
+    (g)  __Treatment of Certain Contracts__  __.—__ 
 
     A contract entered into by the Commission for the design or construction of the World War II memorial is not a funding agreement as that term is defined in [section 201 of title 35][/us/usc/t35/s201].
 
-    (h) __Extension of Authority To Establish Memorial.—__ 
+    (h)  __Extension of Authority To Establish Memorial__  __.—__ 
 
     Notwithstanding [section 8903(e) of title 40][/us/usc/t40/s8903/e], the authority for the construction of the World War II memorial provided by [Public Law 103–32][/us/pl/103/32] ([40 U.S.C. 8903][/us/usc/t40/s8903] note) expires on December 31, 2005.
 

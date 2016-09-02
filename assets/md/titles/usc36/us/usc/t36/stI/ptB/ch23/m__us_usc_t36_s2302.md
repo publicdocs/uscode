@@ -15,11 +15,11 @@
 
 ## § 2302. Functions of the Council; membership
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     The United States Holocaust Memorial Council (hereafter in this chapter referred to as the “Council”) shall be the board of trustees of the Museum and shall have overall governance responsibility for the Museum, including policy guidance and strategic direction, general oversight of Museum operations, and fiduciary responsibility. The Council shall establish an Executive Committee which shall exercise ongoing governance responsibility when the Council is not in session.
 
-    (b) __Composition of Council; Appointment; Vacancies.—__ 
+    (b)  __Composition of Council; Appointment; Vacancies__  __.—__ 
 
     The Council shall consist of 65 voting members appointed (except as otherwise provided in this section) by the President and the following ex officio nonvoting members:
 
@@ -39,23 +39,23 @@
 
         (3) Any member appointed to fill a vacancy occurring before the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term. A member, other than a Member of Congress appointed by the Speaker of the United States House of Representatives or the President pro tempore of the United States Senate, may serve after the expiration of his term until his successor has taken office.
 
-    (d) __Chairperson and Vice Chairperson; Term of Office.—__ 
+    (d)  __Chairperson and Vice Chairperson; Term of Office__  __.—__ 
 
     The Chairperson and Vice Chairperson of the Council shall be appointed by the President from among the members of the Council and such Chairperson and Vice Chairperson shall each serve for terms of 5 years.
 
-    (e) __Reappointment.—__ 
+    (e)  __Reappointment__  __.—__ 
 
     Members whose terms expire may be reappointed, and the Chairperson and Vice Chairperson may be reappointed to those offices.
 
-    (f) __Bylaws.—__ 
+    (f)  __Bylaws__  __.—__ 
 
     The Council shall adopt bylaws to carry out its functions under this chapter. The Chairperson may waive a bylaw when the Chairperson decides that waiver is in the best interest of the Council. Immediately after waiving a bylaw, the Chairperson shall send written notice of the waiver to every voting member of the Council. The waiver becomes final 30 days after the notice is sent unless a majority of Council members disagree in writing before the end of the 30-day period.
 
-    (g) __Quorum.—__ 
+    (g)  __Quorum__  __.—__ 
 
     One-third of the members of the Council shall constitute a quorum, and any vacancy in the Council shall not affect its powers to function.
 
-    (h) __Associated Committees.—__ 
+    (h)  __Associated Committees__  __.—__ 
 
     Subject to appointment by the Chairperson, an individual who is not a member of the Council may be designated as a member of a committee associated with the Council. Such an individual shall serve without cost to the Federal Government.
 

@@ -15,11 +15,11 @@
 
 ## § 111. Gold Star Mother’s Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The last Sunday in September is Gold Star Mother’s Day.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue a proclamation calling on United States Government officials to display the flag of the United States on all Government buildings, and the people of the United States to display the flag and hold appropriate meetings at homes, churches, or other suitable places, on Gold Star Mother’s Day as a public expression of the love, sorrow, and reverence of the people for Gold Star Mothers.
 

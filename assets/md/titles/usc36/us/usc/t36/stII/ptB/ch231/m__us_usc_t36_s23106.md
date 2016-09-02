@@ -15,23 +15,23 @@
 
 ## § 23106. Restrictions
 
-    (a) __Stock and Dividends.—__ 
+    (a)  __Stock and Dividends__  __.—__ 
 
     The corporation may not issue stock or declare or pay a dividend.
 
-    (b) __Political Activities.—__ 
+    (b)  __Political Activities__  __.—__ 
 
     The corporation or a trustee, officer, employee, member of the board of nominations, or member of the corporation as such may not contribute to, support, or assist a political party or candidate for public office.
 
-    (c) __Distribution of Income or Assets.—__ 
+    (c)  __Distribution of Income or Assets__  __.—__ 
 
     The income or assets of the corporation may not inure to the benefit of, or be distributed to, a trustee, officer, member of the board of nominations, or member of the corporation, as such, during the life of the corporation or on its dissolution or final liquidation. This subsection does not prevent the payment of reasonable compensation to an officer or employee in an amount approved by the board of trustees.
 
-    (d) __Loans.—__ 
+    (d)  __Loans__  __.—__ 
 
     The corporation may not make a loan or advance to a trustee, officer, employee, member of the board of nominations, or member of the corporation. Trustees who vote for or assent to making such a loan or advance, and officers who participate in making the loan or advance, are jointly and severally liable to the corporation for the amount of the loan or advance until it is repaid.
 
-    (e) __Contributions to Certain Organizations.—__ 
+    (e)  __Contributions to Certain Organizations__  __.—__ 
 
     None of the principal or interest of a fund referred to in [section 23102(1) of this title][/us/usc/t36/s23102/1] may be contributed to an organization if—
 

@@ -15,7 +15,7 @@
 
 ## § 80303. Governing body
 
-    (a) __National Council.—__ 
+    (a)  __National Council__  __.—__ 
 
         (1) There shall be a National Council of Girl Scouts. The number, qualifications, and term of office of members of the Council are as provided in the constitution of the corporation, except that members of the Council must be citizens of the United States.
 
@@ -25,13 +25,13 @@
 
         (4) Meetings of the Council shall be held as provided in the constitution to hold elections and receive reports of the officers and board of directors. Special meetings may be called as provided in the constitution.
 
-    (b) __Board of Directors.—__ 
+    (b)  __Board of Directors__  __.—__ 
 
         (1) To the extent provided in the constitution and bylaws, the board of directors shall have the powers of the Council and manage the activities of the corporation between meetings of the Council. The number, qualifications, and term of office of directors are as provided in the constitution.
 
         (2) The constitution may prescribe the number of directors necessary for a quorum. That number shall be at least 20 or two-fifths of the entire board.
 
-    (c) __Executive and Other Committees.—__ 
+    (c)  __Executive and Other Committees__  __.—__ 
 
     The bylaws may provide for—
 
@@ -39,7 +39,7 @@
 
         (2) other committees to operate under the general supervision of the board of directors.
 
-    (d) __Location of Meetings and Records.—__ 
+    (d)  __Location of Meetings and Records__  __.—__ 
 
     The Council and the board of directors may hold meetings and keep the seal and records of the corporation in or outside the District of Columbia.
 

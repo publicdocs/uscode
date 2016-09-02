@@ -15,11 +15,11 @@
 
 ## § 20103. Membership
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the bylaws.
 
-    (b) __Voting.—__ 
+    (b)  __Voting__  __.—__ 
 
     Each member given voting rights by the bylaws has one vote on each matter submitted to a vote at a meeting of the voting members. The vote may be cast in the manner provided in the bylaws.
 

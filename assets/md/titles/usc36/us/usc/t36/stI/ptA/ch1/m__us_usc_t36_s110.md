@@ -15,11 +15,11 @@
 
 ## § 110. Flag Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     June 14 is Flag Day.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue each year a proclamation—
 

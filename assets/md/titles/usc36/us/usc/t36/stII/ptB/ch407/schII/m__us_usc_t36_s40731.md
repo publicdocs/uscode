@@ -15,7 +15,7 @@
 
 ## § 40731. Issuance or loan of firearms and supplies
 
-    (a) __Issuance or Loan.—__ 
+    (a)  __Issuance or Loan__  __.—__ 
 
     For purposes of training and competition, the corporation may issue or loan, with or without charges to recover administrative costs, caliber .22 rimfire and caliber .30 surplus rifles, air rifles, caliber .22 and .30 ammunition, repair parts, and other supplies necessary for activities related to the Civilian Marksmanship Program to—
 
@@ -29,7 +29,7 @@
 
         (5) other youth oriented organizations.
 
-    (b) __Security of Firearms.—__ 
+    (b)  __Security of Firearms__  __.—__ 
 
     The corporation shall ensure adequate oversight and accountability for firearms issued or loaned under this section. The corporation shall prescribe procedures for the security of issued or loaned firearms in accordance with United States, State, and local laws.
 

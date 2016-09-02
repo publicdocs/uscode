@@ -15,11 +15,11 @@
 
 ## § 135. Parents’ Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The fourth Sunday in July is Parents’ Day.
 
-    (b) __Recognition.—__ 
+    (b)  __Recognition__  __.—__ 
 
     All private citizens, organizations, and Federal, State, and local governmental and legislative entities are encouraged to recognize Parents’ Day through proclamations, activities, and educational efforts in furtherance of recognizing, uplifting, and supporting the role of parents in bringing up their children.
 

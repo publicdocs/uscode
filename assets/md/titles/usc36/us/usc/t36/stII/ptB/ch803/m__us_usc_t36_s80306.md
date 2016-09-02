@@ -15,11 +15,11 @@
 
 ## § 80306. Restrictions
 
-    (a) __Profit.—__ 
+    (a)  __Profit__  __.—__ 
 
     The corporation may not operate for profit.
 
-    (b) __Political Activities.—__ 
+    (b)  __Political Activities__  __.—__ 
 
     The corporation shall be nonpolitical and nonsectarian.
 

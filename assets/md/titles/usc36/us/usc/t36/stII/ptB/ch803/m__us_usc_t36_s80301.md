@@ -15,15 +15,15 @@
 
 ## § 80301. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     Girl Scouts of the United States of America (in this chapter, the “corporation”) is a body corporate and politic of the District of Columbia.
 
-    (b) __Domicile.—__ 
+    (b)  __Domicile__  __.—__ 
 
     The domicile of the corporation is the District of Columbia.
 
-    (c) __Perpetual Existence.—__ 
+    (c)  __Perpetual Existence__  __.—__ 
 
     Except as otherwise provided, the corporation has perpetual existence.
 

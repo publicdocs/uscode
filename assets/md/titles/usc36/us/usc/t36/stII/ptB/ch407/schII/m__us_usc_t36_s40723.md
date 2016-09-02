@@ -15,7 +15,7 @@
 
 ## § 40723. Eligibility for participation
 
-    (a) __Certification.—__ 
+    (a)  __Certification__  __.—__ 
 
         (1)
 
@@ -29,7 +29,7 @@
 
         (2) The Director of Civilian Marksmanship may require an individual to provide certification from law enforcement agencies to verify that the individual has not been convicted of a felony or a violation of [section 922 of title 18][/us/usc/t18/s922].
 
-    (b) __Ineligibility.—__ 
+    (b)  __Ineligibility__  __.—__ 
 
     An individual may not participate in an activity sponsored or supported by the corporation if the individual—
 
@@ -37,7 +37,7 @@
 
         (2) has been convicted of a violation of [section 922 of title 18][/us/usc/t18/s922].
 
-    (c) __Limiting Participation.—__ 
+    (c)  __Limiting Participation__  __.—__ 
 
     The Director may limit participation in the program as necessary to ensure—
 

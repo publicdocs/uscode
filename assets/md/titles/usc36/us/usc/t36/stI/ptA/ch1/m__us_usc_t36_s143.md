@@ -15,15 +15,15 @@
 
 ## § 143. Wright Brothers Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     December 17 is Wright Brothers Day.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     Wright Brothers Day commemorates the first successful flights in a heavier than air, mechanically propelled airplane, that were made by Orville and Wilbur Wright on December 17, 1903, near Kitty Hawk, North Carolina.
 
-    (c) __Proclamation.—__ 
+    (c)  __Proclamation__  __.—__ 
 
     The President is requested to issue each year a proclamation inviting the people of the United States to observe Wright Brothers Day with appropriate ceremonies and activities.
 

@@ -15,11 +15,11 @@
 
 ## § 2305. Staff
 
-    (a) __Establishment of the Museum Director as Chief Executive Officer.—__ 
+    (a)  __Establishment of the Museum Director as Chief Executive Officer__  __.—__ 
 
     There shall be a director of the Museum (hereafter in this chapter referred to as the “Director”) who shall serve as chief executive officer of the Museum and exercise day-to-day authority for the Museum. The Director shall be appointed by the Chairperson of the Council, subject to confirmation of the Council. The Director may be paid with nonappropriated funds, and, if paid with appropriated funds shall be paid the rate of basic pay for positions at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315]. The Director shall report to the Council and its Executive Committee through the Chairperson. The Director shall serve at the pleasure of the Council.
 
-    (b) __Appointment of Employees.—__ 
+    (b)  __Appointment of Employees__  __.—__ 
 
     The Director shall have authority to—
 

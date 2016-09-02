@@ -15,17 +15,17 @@
 
 ## § 40728A. Recovery of excess firearms, ammunition, and parts granted to foreign countries and transfer to corporation
 
-    (a) __Authority to Recover.—__ 
+    (a)  __Authority to Recover__  __.—__ 
 
     The Secretary of the Army may recover from any country to which rifles, ammunition, repair parts, or other supplies described in [section 40731(a) of this title][/us/usc/t36/s40731/a] are furnished on a grant basis under the conditions imposed by section 505 of the Foreign Assistance Act of 1961 ([22 U.S.C. 2314][/us/usc/t22/s2314]) any such rifles, ammunition, repair parts, or supplies that become excess to the needs of such country.
 
-    (b) __Cost of Recovery.—__ 
+    (b)  __Cost of Recovery__  __.—__ 
 
         (1) Except as provided in paragraph (2), the cost of recovery of any rifles, ammunition, repair parts, or supplies under subsection (a) shall be treated as incremental direct costs incurred in providing logistical support to the corporation for which reimbursement shall be required as provided in [section 40727(a) of this title][/us/usc/t36/s40727/a].
 
         (2) The Secretary may require the corporation to pay costs of recovery described in paragraph (1) in advance of incurring such costs. Amounts so paid shall not be subject to the provisions of [section 3302 of title 31][/us/usc/t31/s3302], but shall be administered in accordance with the last sentence of [section 40727(a) of this title][/us/usc/t36/s40727/a].
 
-    (c) __Availability for Transfer to Corporation.—__ 
+    (c)  __Availability for Transfer to Corporation__  __.—__ 
 
     Any rifles, ammunition, repair parts, or supplies recovered under subsection (a) shall be available for transfer to the corporation in accordance with [section 40728 of this title][/us/usc/t36/s40728] under such additional terms and conditions as the Secretary shall prescribe for purposes of this section.
 

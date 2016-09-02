@@ -15,11 +15,11 @@
 
 ## § 132. National School Lunch Week
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The week beginning on the second Sunday in October is National School Lunch Week.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue each year a proclamation calling on the people of the United States to observe National School Lunch Week with appropriate ceremonies and activities.
 

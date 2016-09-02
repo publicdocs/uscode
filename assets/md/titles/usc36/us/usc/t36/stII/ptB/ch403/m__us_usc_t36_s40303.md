@@ -15,11 +15,11 @@
 
 ## § 40303. Membership and governing body
 
-    (a) __Membership.—__ 
+    (a)  __Membership__  __.—__ 
 
     Eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
-    (b) __Governing Body.—__ 
+    (b)  __Governing Body__  __.—__ 
 
     The Civil Air Patrol has a Board of Governors. The composition and responsibilities of the Board of Governors are set forth in [section 9447 of title 10][/us/usc/t10/s9447].
 

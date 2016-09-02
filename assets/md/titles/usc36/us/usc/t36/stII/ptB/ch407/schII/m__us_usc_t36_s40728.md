@@ -15,7 +15,7 @@
 
 ## § 40728. Transfer of firearms, ammunition, and parts
 
-    (a) __Required Transfers.—__ 
+    (a)  __Required Transfers__  __.—__ 
 
     In accordance with subsection (b) of this section, the Secretary of the Army shall transfer to the corporation all firearms and ammunition that, on February 9, 1996, were under the control of the director of civilian marksmanship (as that position existed under [section 4307 of title 10][/us/usc/t10/s4307] on February 9, 1996), including—
 
@@ -25,7 +25,7 @@
 
         (3) all M–1 Garand and caliber .22 rimfire rifles stored at Defense Distribution Depot, Anniston, Anniston, Alabama.
 
-    (b) __Time for Transfers.—__ 
+    (b)  __Time for Transfers__  __.—__ 
 
     The Secretary shall transfer firearms and ammunition under subsection (a) of this section as and when necessary to enable the corporation—
 
@@ -33,7 +33,7 @@
 
         (2) to sell firearms or ammunition under [section 40732 of this title][/us/usc/t36/s40732].
 
-    (c) __Vesting of Title in Transferred Items.—__ 
+    (c)  __Vesting of Title in Transferred Items__  __.—__ 
 
     Title to an item transferred to the corporation under this section shall vest in the corporation—
 
@@ -41,19 +41,19 @@
 
         (2) immediately before the corporation delivers the item to a purchaser in accordance with a contract for sale of the item that is authorized under [section 40732 of this title][/us/usc/t36/s40732].
 
-    (d) __Storage of Firearms.—__ 
+    (d)  __Storage of Firearms__  __.—__ 
 
     Firearms stored at Defense Distribution Depot, Anniston, Anniston, Alabama, before February 10, 1996, and used for the Civilian Marksmanship Program (as that program existed under [section 4308(e) of title 10][/us/usc/t10/s4308/e] before February 10, 1996), shall remain at that facility or another storage facility designated by the Secretary, without cost to the corporation, until the firearms are issued, loaned, or sold by the corporation, or otherwise transferred to the corporation.
 
-    (e) __Discretionary Transfer of Parts.—__ 
+    (e)  __Discretionary Transfer of Parts__  __.—__ 
 
     The Secretary may transfer from the inventory of the Department of the Army to the corporation any part from a rifle designated to be demilitarized.
 
-    (f) __Limitation on Demilitarization of M–1 Rifles.—__ 
+    (f)  __Limitation on Demilitarization of__  __M–1__  __Rifles__  __.—__ 
 
     After February 10, 1996, the Secretary may not demilitarize an M–1 Garand rifle in the inventory of the Army unless the Defense Logistics Agency decides the rifle is unserviceable.
 
-    (g) __Cost of Transfers.—__ 
+    (g)  __Cost of Transfers__  __.—__ 
 
     A transfer of firearms, ammunition, or parts to the corporation under this section shall be made without cost to the corporation, except that the corporation shall assume the cost of preparation and transportation of firearms and ammunition transferred under this section.
 

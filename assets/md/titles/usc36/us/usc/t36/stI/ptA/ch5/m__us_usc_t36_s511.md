@@ -15,7 +15,7 @@
 
 ## § 511. Authorization of appropriations
 
-    (a) __Authorization.—__ 
+    (a)  __Authorization__  __.—__ 
 
     Necessary amounts are authorized to be appropriated—
 
@@ -37,7 +37,7 @@
 
         (2) to enable the Secretary of the Interior to provide meals for the members of the United States Park Police during the inaugural period.
 
-    (b) __Payment.—__ 
+    (b)  __Payment__  __.—__ 
 
     Amounts appropriated under—
 
@@ -133,7 +133,7 @@ Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4
 
  __Effective Date of 2002 Amendment__ 
 
-    Amendment by [Pub. L. 107–155][/us/pl/107/155], effective Nov. 6, 2002, see [section 402 of Pub. L. 107–155][/us/pl/107/155/s402], set out as an Effective Date of 2002 Amendment; Regulations note under [section 431 of Title 2][/us/usc/t2/s431], The Congress.
+    Amendment by [Pub. L. 107–155][/us/pl/107/155], effective Nov. 6, 2002, see [section 402 of Pub. L. 107–155][/us/pl/107/155/s402], set out as an Effective Date of 2002 Amendment; Regulations note under [section 30101 of Title 52][/us/usc/t52/s30101], Voting and Elections.
 
 ----------
 
@@ -150,6 +150,6 @@ Aug. 6, 1956, ch. 974, § 10, as added Jan. 30, 1968, Pub. L. 90–251, § 4
 [/us/usc/t36/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft36%2Fs510
 [/us/pl/107/155]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155
 [/us/pl/107/155/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F155%2Fs402
-[/us/usc/t2/s431]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs431
+[/us/usc/t52/s30101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft52%2Fs30101
 
 

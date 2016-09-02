@@ -15,13 +15,13 @@
 
 ## § 22304. Governing body
 
-    (a) __Board of Directors.—__ 
+    (a)  __Board of Directors__  __.—__ 
 
         (1) The board of directors is the governing body of the corporation. Between meetings of the members of the corporation, the board is responsible for the general policies and program of the corporation and for the control of contributions raised by the corporation.
 
         (2) The number of directors, their manner of selection (including the filling of vacancies), and their term of office are as provided in the constitution and bylaws of the corporation.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
         (1) The officers of the corporation are a president, one or more vice presidents as provided in the constitution and bylaws, a secretary, a treasurer, and one or more assistant secretaries and assistant treasurers as provided in the constitution and bylaws.
 

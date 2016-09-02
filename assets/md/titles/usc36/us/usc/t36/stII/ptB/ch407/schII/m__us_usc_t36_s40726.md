@@ -15,7 +15,7 @@
 
 ## § 40726. Allowances for junior competitors
 
-    (a) __Definition.—__ 
+    (a)  __Definition__  __.—__ 
 
     In this section, a “junior competitor” is a competitor at the National Matches, a small-arms firing school, a competition in connection with the National Matches, or a special clinic under [section 40725 of this title][/us/usc/t36/s40725] who is—
 
@@ -23,11 +23,11 @@
 
         (2) a member of a gun club organized for the students of a college or university.
 
-    (b) __Subsistence Allowance.—__ 
+    (b)  __Subsistence Allowance__  __.—__ 
 
     A junior competitor may be paid a subsistence allowance in an amount prescribed by the Secretary of the Army.
 
-    (c) __Travel Allowance.—__ 
+    (c)  __Travel Allowance__  __.—__ 
 
     A junior competitor may be paid a travel allowance in an amount prescribed by the Secretary instead of travel expenses and subsistence while traveling. The travel allowance for the return trip may be paid in advance.
 

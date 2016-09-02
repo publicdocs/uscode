@@ -15,19 +15,19 @@
 
 ## § 40725. National Matches and small-arms firing school
 
-    (a) __Annual Competition.—__ 
+    (a)  __Annual Competition__  __.—__ 
 
     An annual competition called the “National Matches” and consisting of rifle and pistol matches for a national trophy, medals, and other prizes shall be held as prescribed by the Secretary of the Army.
 
-    (b) __Eligible Participants.—__ 
+    (b)  __Eligible Participants__  __.—__ 
 
     The National Matches are open to members of the Armed Forces, National Guard, Reserve Officers’ Training Corps, Air Force Reserve Officers’ Training Corps, Citizens’ Military Training Camps, Citizens’ Air Training Camps, and rifle clubs, and to civilians.
 
-    (c) __Small-Arms Firing School.—__ 
+    (c)  __Small-Arms Firing School__  __.—__ 
 
     A small-arms firing school shall be held in connection with the National Matches.
 
-    (d) __Other Competitions.—__ 
+    (d)  __Other Competitions__  __.—__ 
 
     Competitions for which trophies and medals are provided by the National Rifle Association of America shall be held in connection with the National Matches.
 

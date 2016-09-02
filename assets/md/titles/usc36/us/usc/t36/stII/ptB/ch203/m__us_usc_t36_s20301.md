@@ -15,11 +15,11 @@
 
 ## § 20301. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     American Academy of Arts and Letters (in this chapter, the “corporation”) is a federally chartered corporation.
 
-    (b) __Place of Incorporation.—__ 
+    (b)  __Place of Incorporation__  __.—__ 
 
     The corporation is declared to be incorporated in the District of Columbia.
 

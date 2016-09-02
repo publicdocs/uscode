@@ -15,15 +15,15 @@
 
 ## § 70105. Governing body
 
-    (a) __Board of Directors.—__ 
+    (a)  __Board of Directors__  __.—__ 
 
     The board of directors and the responsibilities of the board are as provided in the bylaws and articles of incorporation.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
     The officers and the election of officers are as provided in the bylaws and articles of incorporation.
 
-    (c) __Nondiscrimination.—__ 
+    (c)  __Nondiscrimination__  __.—__ 
 
     The requirements for serving as a director or officer may not discriminate on the basis of race, color, religion, sex, disability, age, or national origin.
 

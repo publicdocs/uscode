@@ -15,27 +15,27 @@
 
 ## § 2108. Pacific War Memorial and other historical and memorial sites on Corregidor
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     After an agreement is made between the Government of the Republic of the Philippines and the United States Government, the American Battle Monuments Commission shall restore, operate, and maintain the Pacific War Memorial and other historical and memorial sites on Corregidor.
 
-    (b) __Personnel.—__ 
+    (b)  __Personnel__  __.—__ 
 
     The Commission may employ necessary personnel to carry out this section.
 
-    (c) __Use of Other Departments, Agencies, and Instrumentalities.—__ 
+    (c)  __Use of Other Departments, Agencies, and Instrumentalities__  __.—__ 
 
     Departments, agencies, and instrumentalities of the United States Government may assist the Commission, on a reimbursable basis, in carrying out this section.
 
-    (d) __Authority To Solicit Contributions.—__ 
+    (d)  __Authority To Solicit Contributions__  __.—__ 
 
     To carry out this section, the Commission may solicit and accept private contributions and shall deposit the contributions in the fund established by subsection (f) of this section.
 
-    (e) __Use of Private Amounts.—__ 
+    (e)  __Use of Private Amounts__  __.—__ 
 
     The Commission shall carry out this section with private amounts except to the extent amounts are appropriated under subsection (g) of this section.
 
-    (f) __Fund.—__ 
+    (f)  __Fund__  __.—__ 
 
         (1)
 
@@ -51,7 +51,7 @@
 
         (4) Amounts in the fund exceeding the cost of carrying out this section, as decided by the Chairman, shall be deposited in the Treasury as miscellaneous receipts to reimburse the United States Government for amounts appropriated under subsection (g) of this section.
 
-    (g) __Authorization of Appropriations.—__ 
+    (g)  __Authorization of Appropriations__  __.—__ 
 
     There are authorized to be appropriated—
 

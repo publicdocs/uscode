@@ -15,11 +15,11 @@
 
 ## § 2106. War memorials not built by the United States Government
 
-    (a) __Cooperation With Others.—__ 
+    (a)  __Cooperation With Others__  __.—__ 
 
     The American Battle Monuments Commission may cooperate with citizens of the United States, States, municipalities, or associations desiring to build war memorials outside the continental limits of the United States in the way the Commission decides. An administrative agency of the United States Government may give assistance to build the memorial only if a plan for the memorial has been approved under this chapter.
 
-    (b) __Control, Administration, and Maintenance of War Memorials.—__ 
+    (b)  __Control, Administration, and Maintenance of War Memorials__  __.—__ 
 
         (1)
 
@@ -33,11 +33,11 @@
 
         (3) Sponsors of a war memorial for which the Commission assumes responsibility under this subsection may transfer amounts accumulated to maintain and repair the memorial to the Commission for use in carrying out this chapter. Except as provided in subsection (c) of this section, the Commission shall deposit transferred amounts as provided in [section 2103(e) of this title][/us/usc/t36/s2103/e].
 
-    (c) __Arrangements for Repair or Long-Term Maintenance of Memorials.—__ 
+    (c)  __Arrangements for Repair or Long-Term Maintenance of Memorials__  __.—__ 
 
     In assuming responsibility for a war memorial under subsection (b)(1) or (2) of this section, the Commission may arrange with the sponsors of the memorial to provide for repair or long-term maintenance of the memorial. An amount transferred to the Commission for the purpose of this subsection shall be deposited by the Commission in the fund established under subsection (d) of this section.
 
-    (d) __Fund for Arrangements for Repair or Long-Term Maintenance of Memorials.—__ 
+    (d)  __Fund for Arrangements for Repair or Long-Term Maintenance of Memorials__  __.—__ 
 
         (1)
 
@@ -53,7 +53,7 @@
 
         (4) The Commission shall separately account for all amounts deposited in and expended from the fund for each war memorial for which an arrangement for repair or long-term maintenance is made under subsection (c) of this section.
 
-    (e) __Demolition of War Memorial Built in a Foreign Country and Disposition of Site.—__ 
+    (e)  __Demolition of War Memorial Built in a Foreign Country and Disposition of Site__  __.—__ 
 
     The Commission may take necessary action to demolish any war memorial built outside the United States by a citizen of the United States, a State, a political subdivision of a State, a governmental authority (except a department, agency, or instrumentality of the United States Government), a foreign agency, or a private association and to dispose of the site of the memorial in a way the Commission decides is proper, if—
 
@@ -223,11 +223,11 @@ Mar. 4, 1923, ch. 283, § 5(b)–(d), as added Jan. 2, 1974, Pub. L. 93–244,
 
 [Pub. L. 103–160, div. A, title III, § 369][/us/pl/103/160/s369], Nov. 30, 1993, [107 Stat. 1634][/us/stat/107/1634], provided that:
 
->     “(a) __Authority.—__ 
+>     “(a)  __Authority__  __.—__ 
 
 >     The Commandant of the Marine Corps may provide necessary minor maintenance and repairs to the Pacific battle monuments until such time as the Secretary of the American Battle Monuments Commission and the Commandant of the Marine Corps agree that the repair and maintenance will be performed by the American Battle Monuments Commission.
 
->     “(b) __Funding.—__ 
+>     “(b)  __Funding__  __.—__ 
 
 >     Of the amounts authorized to be appropriated to the Marine Corps for operation and maintenance in a fiscal year, not more than $15,000 may be made available to repair and maintain Pacific battle monuments, except that of the amounts available to the Marine Corps for operation and maintenance in fiscal year 1994, $150,000 may be made available to repair and relocate a monument located on Iwo Jima commemorating the heroic efforts of United States military personnel during World War II.”
 

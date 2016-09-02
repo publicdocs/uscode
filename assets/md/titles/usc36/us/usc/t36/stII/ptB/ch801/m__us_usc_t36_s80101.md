@@ -15,11 +15,11 @@
 
 ## § 80101. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     General Federation of Women’s Clubs (in this chapter, the “corporation”) is a body corporate and politic of the District of Columbia.
 
-    (b) __Perpetual Existence.—__ 
+    (b)  __Perpetual Existence__  __.—__ 
 
     Except as otherwise provided, the corporation has perpetual existence.
 

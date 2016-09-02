@@ -15,15 +15,15 @@
 
 ## § 139. Steelmark Month
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     May is Steelmark Month.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     Steelmark Month recognizes the tremendous contribution made by the steel industry in the United States to national security and defense.
 
-    (c) __Proclamation.—__ 
+    (c)  __Proclamation__  __.—__ 
 
     The President is requested to issue a proclamation calling on the people of the United States to observe Steelmark Month with appropriate ceremonies and activities.
 

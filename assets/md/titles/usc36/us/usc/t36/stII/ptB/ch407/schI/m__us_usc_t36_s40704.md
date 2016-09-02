@@ -15,11 +15,11 @@
 
 ## § 40704. Restrictions
 
-    (a) __Profit.—__ 
+    (a)  __Profit__  __.—__ 
 
     The corporation may not operate for profit.
 
-    (b) __Use of Amounts Collected.—__ 
+    (b)  __Use of Amounts Collected__  __.—__ 
 
     Amounts collected under section 40703(3) and (5) of this title, including proceeds from the sale of firearms, ammunition, repair parts, and other supplies, may be used only to support the Civilian Marksmanship Program.
 

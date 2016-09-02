@@ -15,11 +15,11 @@
 
 ## § 2111. Presidential duties and powers
 
-    (a) __Arrangements With Foreign Countries.—__ 
+    (a)  __Arrangements With Foreign Countries__  __.—__ 
 
     The President is requested to make the necessary arrangements with the proper authorities of the appropriate foreign countries to enable the American Battle Monuments Commission to carry out this chapter.
 
-    (b) __Transfer of Administrative Duties and Powers and Supplies, Material, and Equipment to Commission.—__ 
+    (b)  __Transfer of Administrative Duties and Powers and Supplies, Material, and Equipment to Commission__  __.—__ 
 
         (1)
 

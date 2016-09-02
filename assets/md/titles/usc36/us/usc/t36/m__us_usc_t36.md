@@ -17,7 +17,7 @@
 
 This title was enacted by [Pub. L. 105–225, § 1][/us/pl/105/225/s1], Aug. 12, 1998, [112 Stat. 1253][/us/stat/112/1253]
 
-Current through 113-145not128u1
+Current through 113–163not159
 
 <table>
 
@@ -18173,55 +18173,55 @@ Rep.  </td>
 
 [Pub. L. 105–354, § 4][/us/pl/105/354/s4], Nov. 3, 1998, [112 Stat. 3245][/us/stat/112/3245], provided that:
 
->     “(a) __No Substantive Change.—__ 
+>     “(a)  __No Substantive Change__  __.—__ 
 
 >         (1) Section 1 of this Act restates, without substantive change, laws enacted before September 5, 1998, that were replaced by section 1. Section 1 may not be construed as making a substantive change in the laws replaced.
 
 >         “(2) Laws enacted after September 4, 1998, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
->     “(c) __Continuing Effect.—__ 
+>     “(c)  __Continuing Effect__  __.—__ 
 
 >     An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
->     “(d) __Actions and Offenses Under Prior Law.—__ 
+>     “(d)  __Actions and Offenses Under Prior Law__  __.—__ 
 
 >     An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
->     “(e) __Inferences.—__ 
+>     “(e)  __Inferences__  __.—__ 
 
 >     An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a heading of the provision.
 
->     “(f) __Severability.—__ 
+>     “(f)  __Severability__  __.—__ 
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 
 [Pub. L. 105–225, § 5][/us/pl/105/225/s5], Aug. 12, 1998, [112 Stat. 1499][/us/stat/112/1499], provided that:
 
->     “(a) __No Substantive Change.—__ 
+>     “(a)  __No Substantive Change__  __.—__ 
 
 >     Sections 1 and 2 of this Act restate, without substantive change, laws enacted before August 16, 1997, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after August 15, 1997, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
->     “(b) __References.—__ 
+>     “(b)  __References__  __.—__ 
 
 >     A reference to a law replaced by section 1 or 2 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
->     “(c) __Continuing Effect.—__ 
+>     “(c)  __Continuing Effect__  __.—__ 
 
 >     An order, rule, or regulation in effect under a law replaced by section 1 or 2 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
->     “(d) __Actions and Offenses Under Prior Law.—__ 
+>     “(d)  __Actions and Offenses Under Prior Law__  __.—__ 
 
 >     An action taken or an offense committed under a law replaced by section 1 or 2 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
->     “(e) __Inferences.—__ 
+>     “(e)  __Inferences__  __.—__ 
 
 >     An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a caption or catch line of the provision.
 
->     “(f) __Severability.—__ 
+>     “(f)  __Severability__  __.—__ 
 
 >     If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
 

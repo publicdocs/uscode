@@ -15,11 +15,11 @@
 
 ## § 40503. Membership
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     An individual who has been awarded the Medal of Honor as presented by Congress is eligible for membership in the corporation. An honorary membership may not be granted.
 
-    (b) __Voting.—__ 
+    (b)  __Voting__  __.—__ 
 
     Each member has one vote on each matter submitted to a vote at a meeting of the members. The vote may be cast in person or by proxy.
 

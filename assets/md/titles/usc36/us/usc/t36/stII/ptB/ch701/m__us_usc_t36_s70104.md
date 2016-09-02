@@ -15,11 +15,11 @@
 
 ## § 70104. Membership
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the articles of incorporation and bylaws.
 
-    (b) __Nondiscrimination.—__ 
+    (b)  __Nondiscrimination__  __.—__ 
 
     The terms of membership may not discriminate on the basis of race, color, religion, sex, disability, age, or national origin.
 

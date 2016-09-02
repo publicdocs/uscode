@@ -15,15 +15,15 @@
 
 ## § 115. Loyalty Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     May 1 is Loyalty Day.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     Loyalty Day is a special day for the reaffirmation of loyalty to the United States and for the recognition of the heritage of American freedom.
 
-    (c) __Proclamation.—__ 
+    (c)  __Proclamation__  __.—__ 
 
     The President is requested to issue a proclamation—
 

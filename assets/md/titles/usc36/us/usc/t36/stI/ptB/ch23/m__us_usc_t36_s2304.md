@@ -15,19 +15,19 @@
 
 ## § 2304. Administrative provisions
 
-    (a) __Experts and Consultants.—__ 
+    (a)  __Experts and Consultants__  __.—__ 
 
     The Museum may obtain the services of experts and consultants in accordance with the provisions of [section 3109 of title 5][/us/usc/t5/s3109], at rates not to exceed the daily equivalent of the annual rate of basic pay in effect for positions at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315].
 
-    (b) __Authority To Contract.—__ 
+    (b)  __Authority To Contract__  __.—__ 
 
     The Museum may, in accordance with applicable law, enter into contracts and other arrangements with public agencies and with private organizations and persons and may make such payments as may be necessary to carry out its functions under this chapter.
 
-    (c) __Assistance From Other Federal Departments and Agencies.—__ 
+    (c)  __Assistance From Other Federal Departments and Agencies__  __.—__ 
 
     The Secretary of the Smithsonian Institution, the Library of Congress, and the heads of all executive branch departments, agencies, and establishments of the United States may assist the Museum in the performance of its functions under this chapter.
 
-    (d) __Administrative Services and Support.—__ 
+    (d)  __Administrative Services and Support__  __.—__ 
 
     The Secretary of the Interior may provide administrative services and support to the Museum on a reimbursable basis.
 

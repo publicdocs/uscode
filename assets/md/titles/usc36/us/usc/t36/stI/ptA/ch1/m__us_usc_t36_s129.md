@@ -15,11 +15,11 @@
 
 ## § 129. National Pearl Harbor Remembrance Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     December 7 is National Pearl Harbor Remembrance Day.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue each year a proclamation calling on—
 

@@ -15,11 +15,11 @@
 
 ## § 2303. Compensation; travel expenses; full-time officers or employees of United States or Members of Congress
 
-    (a) __In General.—__ 
+    (a)  __In General__  __.—__ 
 
     Except as provided in subsection (b) of this section, members of the Council are each authorized to be paid the daily equivalent of the annual rate of basic pay in effect for positions at level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], for each day (including travel time) during which they are engaged in the actual performance of duties of the Council. While away from their homes or regular places of business in the performance of services for the Council, members of the Council shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in Government service are allowed expenses under [section 5703 of title 5][/us/usc/t5/s5703].
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     Members of the Council who are full-time officers or employees of the United States or Members of Congress shall receive no additional pay by reason of their service on the Council.
 

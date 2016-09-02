@@ -15,15 +15,15 @@
 
 ## § 22703. Membership
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the constitution and bylaws of the corporation.
 
-    (b) __Voting.—__ 
+    (b)  __Voting__  __.—__ 
 
     Each member has one vote in the conduct of official business at the post level.
 
-    (c) __Nondiscrimination.—__ 
+    (c)  __Nondiscrimination__  __.—__ 
 
     The terms of membership may not discriminate on the basis of race, color, religion, sex, or national origin.
 

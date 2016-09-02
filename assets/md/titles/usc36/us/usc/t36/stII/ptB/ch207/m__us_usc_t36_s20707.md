@@ -15,23 +15,23 @@
 
 ## § 20707. Restrictions
 
-    (a) __Stock and Dividends.—__ 
+    (a)  __Stock and Dividends__  __.—__ 
 
     The corporation may not issue stock or declare or pay a dividend.
 
-    (b) __Political Activities.—__ 
+    (b)  __Political Activities__  __.—__ 
 
     The corporation or a director or officer as such may not contribute to, support, or participate in any political activity or in any manner attempt to influence legislation.
 
-    (c) __Distribution of Income or Assets.—__ 
+    (c)  __Distribution of Income or Assets__  __.—__ 
 
     The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member during the life of the charter granted by this chapter. This subsection does not prevent the payment of reasonable compensation to an officer or reimbursement for actual necessary expenses in amounts approved by the board of directors.
 
-    (d) __Loans.—__ 
+    (d)  __Loans__  __.—__ 
 
     The corporation may not make a loan to a director, officer, or employee.
 
-    (e) __Claim of Governmental Approval or Authority.—__ 
+    (e)  __Claim of Governmental Approval or Authority__  __.—__ 
 
     The corporation may not claim congressional approval or the authority of the United States Government for any of its activities.
 

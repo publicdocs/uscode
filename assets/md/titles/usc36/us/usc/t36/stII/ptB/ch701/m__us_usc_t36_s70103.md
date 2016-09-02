@@ -15,7 +15,7 @@
 
 ## § 70103. Purposes
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The purposes of the corporation are as provided in its articles of incorporation and bylaws and include—
 
@@ -33,7 +33,7 @@
 
         (7) instilling love of the United States and its flag, and promoting soundness of mind and body, in the youth of the United States.
 
-    (b) __Corporate Function.—__ 
+    (b)  __Corporate Function__  __.—__ 
 
     The corporation shall function as an educational, patriotic, civic, historical, and research organization under the laws of Delaware.
 

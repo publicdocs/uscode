@@ -15,7 +15,7 @@
 
 ## § 30505. Governing body
 
-    (a) __National Convention.—__ 
+    (a)  __National Convention__  __.—__ 
 
         (1) The national convention is the supreme governing authority of the corporation.
 
@@ -23,7 +23,7 @@
 
         (3) The meetings of the national convention may be held in the District of Columbia or any State, territory, or possession of the United States.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
     The officers of the corporation and their manner of selection, term of office, and duties are as provided in the constitution and bylaws of the corporation.
 

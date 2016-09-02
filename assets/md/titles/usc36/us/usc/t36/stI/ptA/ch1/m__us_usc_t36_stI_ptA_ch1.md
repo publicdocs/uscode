@@ -389,11 +389,11 @@
 
 > “SECTION 1. __SHORT TITLE; TABLE OF CONTENTS.__ 
 
->     “(a) __Short Title.—__ 
+>     “(a)  __Short Title__  __.—__ 
 
 >     This Act may be cited as the ‘World War I Centennial Commission Act’.
 
->     “(b) __Table of Contents.—__ 
+>     “(b)  __Table of Contents__  __.—__ 
 
 >     \[Omitted.\]
 
@@ -419,27 +419,27 @@
 
 > “In this Act—
 
->     “(1) __America’s national world war i museum.—__ 
+>     “(1)  __America’s national world war i museum__  __.—__ 
 
 >     The term ‘America’s National World War I Museum’ means the Liberty Memorial Museum in Kansas City, Missouri, as recognized by Congress in section 1031(b) of the Ronald W. Reagan National Defense Authorization Act for Fiscal Year 2005 ([Public Law 108–375][/us/pl/108/375]; [118 Stat. 2045][/us/stat/118/2045]).
 
->     “(2) __Centennial commission.—__ 
+>     “(2)  __Centennial commission__  __.—__ 
 
 >     The term ‘Centennial Commission’ means the World War I Centennial Commission established by section 4(a).
 
->     “(3) __Veterans service organization.—__ 
+>     “(3)  __Veterans service organization__  __.—__ 
 
 >     The term ‘veterans service organization’ means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under [section 5902 of title 38][/us/usc/t38/s5902], United States Code.
 
 > “SEC. 4. __ESTABLISHMENT OF WORLD WAR I CENTENNIAL COMMISSION.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a commission to be known as the ‘World War I Centennial Commission’.
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Composition.—__ 
+>         “(1)  __Composition__  __.—__ 
 
 >         The Centennial Commission shall be composed of 12 members as follows:
 
@@ -459,15 +459,15 @@
 
 >             “(H) One member who shall be appointed by the president of the Liberty Memorial Association.
 
->         “(2) __Time for appointment.—__ 
+>         “(2)  __Time for appointment__  __.—__ 
 
 >         The members of the Centennial Commission shall be appointed not later than 60 days after the date of the enactment of this Act \[Jan. 14, 2013\].
 
->         “(3) __Period of appointment.—__ 
+>         “(3)  __Period of appointment__  __.—__ 
 
 >         Each member shall be appointed for the life of the Centennial Commission.
 
->         “(4) __Vacancies.—__ 
+>         “(4)  __Vacancies__  __.—__ 
 
 >         A vacancy in the Centennial Commission shall be filled in the manner in which the original appointment was made.
 
@@ -475,39 +475,39 @@
 
 >         “(1) __Initial meeting.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Not later than 30 days after the date on which all members of the Centennial Commission have been appointed, the Centennial Commission shall hold its first meeting.
 
->             “(B) __Location.—__ 
+>             “(B)  __Location__  __.—__ 
 
 >             The location for the meeting held under subparagraph (A) shall be the America’s National World War I Museum.
 
 >         “(2) __Subsequent meetings.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Centennial Commission shall meet at the call of the Chair.
 
->             “(B) __Frequency.—__ 
+>             “(B)  __Frequency__  __.—__ 
 
 >             The Chair shall call a meeting of the members of the Centennial Commission not less frequently than once each year.
 
->             “(C) __Location.—__ 
+>             “(C)  __Location__  __.—__ 
 
 >             Not less frequently than once each year, the Centennial Commission shall meet at the America’s National World War I Museum.
 
->         “(3) __Quorum.—__ 
+>         “(3)  __Quorum__  __.—__ 
 
 >         Seven members of the Centennial Commission shall constitute a quorum, but a lesser number may hold hearings.
 
->     “(d) __Chair and Vice Chair.—__ 
+>     “(d)  __Chair and Vice Chair__  __.—__ 
 
 >     The Centennial Commission shall select a Chair and Vice Chair from among its members.
 
 > “SEC. 5. __DUTIES OF CENTENNIAL COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The duties of the Centennial Commission are as follows:
 
@@ -523,35 +523,35 @@
 
 >     “(b) __Reports.—__ 
 
->         “(1) __Periodic report.—__ 
+>         “(1)  __Periodic report__  __.—__ 
 
 >         Not later than the last day of the 6-month period beginning on the date of the enactment of this Act \[Jan. 14, 2013\], and not later than the last day of each 3-month period thereafter, the Centennial Commission shall submit to Congress and the President a report on the activities and plans of the Centennial Commission.
 
->         “(2) __Recommendations.—__ 
+>         “(2)  __Recommendations__  __.—__ 
 
 >         Not later than 2 years after the date of the enactment of this Act, the Centennial Commission shall submit to Congress and the President a report containing specific recommendations for commemorating the centennial of World War I and coordinating related activities.
 
 > “SEC. 6. __POWERS OF CENTENNIAL COMMISSION.__ 
 
->     “(a) __Hearings.—__ 
+>     “(a)  __Hearings__  __.—__ 
 
 >     The Centennial Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Centennial Commission considers appropriate to carry out its duties under this Act.
 
->     “(b) __Powers of Member and Agents.—__ 
+>     “(b)  __Powers of Member and Agents__  __.—__ 
 
 >     If authorized by the Centennial Commission, any member or agent of the Centennial Commission may take any action which the Centennial Commission is authorized to take under this Act.
 
->     “(c) __Information From Federal Agencies.—__ 
+>     “(c)  __Information From Federal Agencies__  __.—__ 
 
 >     The Centennial Commission shall secure directly from any Federal department or agency such information as the Centennial Commission considers necessary to carry out the provisions of this Act. Upon the request of the Chair of the Centennial Commission, the head of such department or agency shall furnish such information to the Centennial Commission.
 
->     “(d) __Administrative Support Services.—__ 
+>     “(d)  __Administrative Support Services__  __.—__ 
 
 >     Upon the request of the Centennial Commission, the Administrator of the General Services Administration shall provide to the Centennial Commission, on a reimbursable basis, the administrative support services necessary for the Centennial Commission to carry out its responsibilities under this Act.
 
 >     “(e) __Contract Authority.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the Centennial Commission is authorized—
 
@@ -559,63 +559,63 @@
 
 >             “(B) to make or enter into contracts, leases, or other legal agreements.
 
->         “(2) __Limitation.—__ 
+>         “(2)  __Limitation__  __.—__ 
 
 >         The Centennial Commission may not enter into any contract, lease, or other legal agreement that extends beyond the date of the termination of the Centennial Commission under section 8(a).
 
->     “(f) __Postal Services.—__ 
+>     “(f)  __Postal Services__  __.—__ 
 
 >     The Centennial Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
->     “(g) __Gifts, Bequests, and Devises.—__ 
+>     “(g)  __Gifts, Bequests, and Devises__  __.—__ 
 
 >     The Centennial Commission shall accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of covering the costs incurred by the Centennial Commission to carry out its duties under this Act.
 
 > “SEC. 7. __CENTENNIAL COMMISSION PERSONNEL MATTERS.__ 
 
->     “(a) __Compensation of Members.—__ 
+>     “(a)  __Compensation of Members__  __.—__ 
 
 >     Members of the Centennial Commission shall serve without compensation for such service.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     Each member of the Centennial Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in accordance with the applicable provisions of title 5, United States Code.
 
 >     “(c) __Staff.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Chair of the Centennial Commission shall, in consultation with the members of the Centennial Commission, appoint an executive director and such other additional personnel as may be necessary to enable the Centennial Commission to perform its duties.
 
 >         “(2) __Compensation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Subject to subparagraph (B), the Chair of the Centennial Commission may fix the compensation of the executive director and any other personnel appointed under paragraph (1).
 
->             “(B) __Limitation.—__ 
+>             “(B)  __Limitation__  __.—__ 
 
->             The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
+>             The Chair of the Centennial Commission may not fix the compensation of the executive director or other personnel appointed under paragraph (1) at a rate that exceeds the rate of payable \[sic\] for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code.
 
->             “(C) __Work location.—__ 
+>             “(C)  __Work location__  __.—__ 
 
 >             If the city government for Kansas City, Missouri, and the Liberty Memorial Association make space available in the building in which the America’s National World War I Museum is located, the executive director of the Centennial Commission and other personnel appointed under paragraph (1) shall work in such building to the extent practical.
 
->     “(d) __Detail of Government Employees.—__ 
+>     “(d)  __Detail of Government Employees__  __.—__ 
 
 >     Upon request of the Centennial Commission, the head of any Federal department or agency may detail, on a reimbursable basis, any employee of that department or agency to the Centennial Commission to assist it in carrying out its duties under this Act.
 
->     “(e) __Procurement of Temporary and Intermittent Services.—__ 
+>     “(e)  __Procurement of Temporary and Intermittent Services__  __.—__ 
 
 >     The Chair of the Centennial Commission may procure temporary and intermittent services under [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code.
 
->     “(f) __Source of Funds.—__ 
+>     “(f)  __Source of Funds__  __.—__ 
 
 >     Gifts, bequests, and devises of services or property, both real and personal, received by the Centennial Commission under section 6(g) shall be the only source of funds to cover the costs incurred by the Centennial Commission under this section.
 
 > “SEC. 8. __TERMINATION OF CENTENNIAL COMMISSION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Centennial Commission shall terminate on the earlier of—
 
@@ -625,11 +625,11 @@
 
 >     “(b) __Application of Federal Advisory Committee Act.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Except as provided in paragraph (2), the provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall apply to the activities of the Centennial Commission under this Act.
 
->         “(2) __Exception.—__ 
+>         “(2)  __Exception__  __.—__ 
 
 >         Section 14(a)(2) of such Act shall not apply to the Centennial Commission.
 
@@ -663,7 +663,7 @@
 
 > “SEC. 4. __MEMBERSHIP.__ 
 
->     “(a) __Number and Appointment.—__ 
+>     “(a)  __Number and Appointment__  __.—__ 
 
 >     The Commission shall be composed of 11 members as follows:
 
@@ -679,19 +679,19 @@
 
 >         “(6) One Member of the Senate appointed by the minority leader of the Senate.
 
->     “(b) __Ex Officio Member.—__ 
+>     “(b)  __Ex Officio Member__  __.—__ 
 
 >     The Archivist of the United States shall serve in an ex officio capacity on the Commission to provide advice and information to the Commission.
 
->     “(c) __Terms.—__ 
+>     “(c)  __Terms__  __.—__ 
 
 >     Each member shall be appointed for the life of the Commission.
 
->     “(d) __Deadline for Appointment.—__ 
+>     “(d)  __Deadline for Appointment__  __.—__ 
 
 >     All members of the Commission shall be appointed not later than 90 days after the date of the enactment of this Act \[June 2, 2009\].
 
->     “(e) __Vacancies.—__ 
+>     “(e)  __Vacancies__  __.—__ 
 
 >     A vacancy on the Commission shall—
 
@@ -699,81 +699,81 @@
 
 >         “(2) be filled in the manner in which the original appointment was made.
 
->     “(f) __Rates of Pay.—__ 
+>     “(f)  __Rates of Pay__  __.—__ 
 
 >     Members shall not receive compensation for the performance of their duties on behalf of the Commission.
 
->     “(g) __Travel Expenses.—__ 
+>     “(g)  __Travel Expenses__  __.—__ 
 
 >     Each member of the Commission shall be reimbursed for travel and per diem in lieu of subsistence expenses during the performance of duties of the Commission while away from home or his or her regular place of business, in accordance with applicable provisions under subchapter I of chapter 57 of title 5, United States Code.
 
->     “(h) __Quorum.—__ 
+>     “(h)  __Quorum__  __.—__ 
 
 >     A majority of the members of the Commission shall constitute a quorum to conduct business, but two or more members may hold hearings.
 
->     “(i) __Chairperson.—__ 
+>     “(i)  __Chairperson__  __.—__ 
 
 >     The chairperson of the Commission shall be elected by a majority vote of the members of the Commission.
 
 > “SEC. 5. __DIRECTOR AND STAFF OF COMMISSION.__ 
 
->     “(a) __Director and Staff.—__ 
+>     “(a)  __Director and Staff__  __.—__ 
 
 >     The Commission shall appoint an executive director and such other additional personnel as are necessary to enable the Commission to perform its duties.
 
->     “(b) __Applicability of Certain Civil Service Laws.—__ 
+>     “(b)  __Applicability of Certain Civil Service Laws__  __.—__ 
 
 >     The executive director and staff of the Commission may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that the rate of pay for the executive director and other staff may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
 
->     “(c) __Detail of Federal Employees.—__ 
+>     “(c)  __Detail of Federal Employees__  __.—__ 
 
 >     Upon request of the Commission, the Secretary of the Interior or the Archivist of the United States may detail, on a reimbursable basis, any of the personnel of that department or agency to the Commission to assist it in carrying out its duties under this Act.
 
->     “(d) __Experts and Consultants.—__ 
+>     “(d)  __Experts and Consultants__  __.—__ 
 
 >     The Commission may procure such temporary and intermittent services as are necessary to enable the Commission to perform its duties.
 
->     “(e) __Volunteer and Uncompensated Services.—__ 
+>     “(e)  __Volunteer and Uncompensated Services__  __.—__ 
 
 >     Notwithstanding [section 1342 of title 31][/us/usc/t31/s1342], United States Code, the Commission may accept and use voluntary and uncompensated services as the Commission determines necessary.
 
 > “SEC. 6. __POWERS OF COMMISSION.__ 
 
->     “(a) __Hearings.—__ 
+>     “(a)  __Hearings__  __.—__ 
 
 >     The Commission may, for the purpose of carrying out this Act, hold hearings, sit and act at times and places, take testimony, and receive evidence as the Commission considers appropriate.
 
->     “(b) __Mails.—__ 
+>     “(b)  __Mails__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
 
->     “(c) __Obtaining Official Data.—__ 
+>     “(c)  __Obtaining Official Data__  __.—__ 
 
 >     The Commission may secure directly from any department or agency of the United States information necessary to enable it to carry out its duties under this Act. Upon request of the chairperson of the Commission, the head of that department or agency shall furnish that information to the Commission.
 
->     “(d) __Gifts, Bequests, Devises.—__ 
+>     “(d)  __Gifts, Bequests, Devises__  __.—__ 
 
 >     The Commission may solicit, accept, use, and dispose of gifts, bequests, or devises of money, services, or property, both real and personal, for the purpose of aiding or facilitating its work.
 
->     “(e) __Available Space.—__ 
+>     “(e)  __Available Space__  __.—__ 
 
 >     Upon the request of the Commission, the Administrator of General Services shall make available nationwide to the Commission, at a normal rental rate for Federal agencies, such assistance and facilities as may be necessary for the Commission to carry out its duties under this Act.
 
->     “(f) __Contract Authority.—__ 
+>     “(f)  __Contract Authority__  __.—__ 
 
 >     The Commission may enter into contracts with and compensate government and private agencies or persons to enable the Commission to discharge its duties under this Act.
 
 > “SEC. 7. __REPORTS.__ 
 
->     “(a) __Annual Reports.—__ 
+>     “(a)  __Annual Reports__  __.—__ 
 
 >     The Commission shall submit to the President and the Congress annual reports on the revenue and expenditures of the Commission, including a list of each gift, bequest, or devise to the Commission with a value of more than $250, together with the identity of the donor of each gift, bequest, or devise.
 
->     “(b) __Interim Reports.—__ 
+>     “(b)  __Interim Reports__  __.—__ 
 
 >     The Commission may submit to the President and Congress interim reports as the Commission considers appropriate.
 
->     “(c) __Final Report.—__ 
+>     “(c)  __Final Report__  __.—__ 
 
 >     Not later than November 30, 2011, the Commission shall submit a final report to the President and the Congress containing—
 
@@ -821,7 +821,7 @@
 
 >         “(6) The story and significance of the American Revolution can best engage the American people through a national program of the National Park Service that links historic structures and sites, routes, activities, community projects, exhibits, and multimedia materials, in a manner that is both unified and flexible.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of this Act \[probably should be “title”\] are as follows:
 
@@ -831,7 +831,7 @@
 
 > “SEC. 203. __225TH ANNIVERSARY OF THE AMERICAN REVOLUTION COMMEMORATION PROGRAM.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Secretary of the Interior (hereinafter in this Act \[title\] referred to as the ‘Secretary’) shall establish a program to be known as the ‘225th Anniversary of the American Revolution Commemoration’ (hereinafter in this Act \[title\] referred to as the ‘225th Anniversary’). In administering the 225th Anniversary, the Secretary shall—
 
@@ -847,7 +847,7 @@
 
 >         “(6) create and adopt an official, uniform symbol or device for the theme ‘Lighting Freedom’s Flame: American Revolution, 225th Anniversary’ and issue regulations for its use.
 
->     “(b) __Elements.—__ 
+>     “(b)  __Elements__  __.—__ 
 
 >     The 225th Anniversary shall encompass the following elements:
 
@@ -857,7 +857,7 @@
 
 >         “(3) Through the Secretary of State, the participation of the Governments of the United Kingdom, France, the Netherlands, Spain, and Canada.
 
->     “(c) __Cooperative Agreements and Memoranda of Understanding.—__ 
+>     “(c)  __Cooperative Agreements and Memoranda of Understanding__  __.—__ 
 
 >     To achieve the purposes of this Act \[title\] and to ensure effective coordination of the Federal and non-Federal elements of the 225th Anniversary with National Park Service units and programs, the Secretary may enter into cooperative agreements and memoranda of understanding with, and provide technical assistance to, the following:
 
@@ -865,7 +865,7 @@
 
 >         “(2) In cooperation with the Secretary of State, the Governments of the United Kingdom, France, the Netherlands, Spain, and Canada.
 
->     “(d) __Authorization of Appropriations.—__ 
+>     “(d)  __Authorization of Appropriations__  __.—__ 
 
 >     There is authorized to be appropriated to the Secretary to carry out this Act \[title\] $500,000 for each of fiscal years 2004 through 2009.”
 
@@ -885,15 +885,15 @@
 
     [Pub. L. 106–173][/us/pl/106/173], Feb. 25, 2000, [114 Stat. 14][/us/stat/114/14], as amended by [Pub. L. 107–20, title II, § 2804][/us/pl/107/20/s2804], July 24, 2001, [115 Stat. 185][/us/stat/115/185]; [Pub. L. 107–68, title II, § 209][/us/pl/107/68/s209], Nov. 12, 2001, [115 Stat. 588][/us/stat/115/588]; [Pub. L. 107–117, div. B, § 917(a)][/us/pl/107/117/s917/a], Jan. 10, 2002, [115 Stat. 2324][/us/stat/115/2324]; [Pub. L. 108–7, div. H, title I, § 1304][/us/pl/108/7/s1304], Feb. 20, 2003, [117 Stat. 379][/us/stat/117/379]; [Pub. L. 108–59, § 1][/us/pl/108/59/s1], July 14, 2003, [117 Stat. 860][/us/stat/117/860]; [Pub. L. 111–8, div. G, title I, § 1204][/us/pl/111/8/s1204], Mar. 11, 2009, [123 Stat. 826][/us/stat/123/826], known as the Abraham Lincoln Bicentennial Commission Act, established the Abraham Lincoln Bicentennial Commission to plan and carry out various activities to honor the bicentennial anniversary of Lincoln’s birth and provided for a final report by the Commission not later than Apr. 30, 2010, and termination of the Commission 120 days after submission of the report.
 
- __Proc. No. 8984. Armed Forces Day__ 
+ __Proc. No. 9129. Armed Forces Day__ 
 
-    Proc. No. 8984, May 17, 2013, 78 F.R. 30731, provided:
+    Proc. No. 9129, May 16, 2014, 79 F.R. 29321, provided:
 
-    Since the earliest days of our Union, America has been blessed with an unbroken chain of patriots willing to give of themselves so their fellow citizens might live free. Whenever our Nation has come under attack, courageous men and women in uniform have risen to her defense. Whenever our liberties have come under assault, our service members have responded with resolve. Time and again, these heroes have sacrificed to sustain that powerful promise that we hold so dear—life, liberty, and the pursuit of happiness. And on Armed Forces Day, we honor those who serve bravely and sacrifice selflessly in our name.
+    In every generation, there are men and women who stand apart. They put on the uniform and put their lives on the line so the rest of us might live in a safer, freer, more just world. They defend us in times of peace, times of war, and times of crisis, both natural and man-made. On Armed Forces Day, we honor the Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen who render the highest service any American can offer.
 
-    Our Soldiers, Sailors, Airmen, Marines, and Coast Guardsmen represent the best of the American character. They serve with integrity and do whatever the country they love asks of them, choosing flag over fortune and service over self-interest. Year after year, tour after tour, their dedication to protecting us at home and preserving our ideals never wavers; their commitment to each other never falters. They are the few who carry the remarkable weight of our entire Nation, and in their example we see why America is and always will be the greatest country on Earth.
+    The patriots who stand sentry for our security are a proud link in an unbroken chain that stretches through the centuries. This generation has distinguished itself on mission after mission, tour after tour. Because of their heroism, the core of al-Qaeda is severely degraded and our homeland is more secure. Thanks to their extraordinary sacrifice, we are winding down more than a decade of war and strengthening alliances that extend our values. These are the gifts they have given us, and this is why we owe them a profound debt of gratitude.
 
-    Today, we pause to express our gratitude, mindful that words and ceremonies are not enough and that our thanks extend not only to those in uniform, but also to the families who serve alongside them. We are bound by a sacred obligation to ensure our service members and their loved ones have the resources and benefits they have earned and deserve, and only when we uphold this trust do we truly show our appreciation for our Armed Forces.
+    It is our obligation to ensure our troops have all they need to complete their missions abroad, but we must also support them when they return home. We must care for the families who serve alongside them and fulfill our promises today, tomorrow, and forever. And we must demonstrate our thanks by building a Nation worthy of their sacrifices, a Nation that lives up to our founding ideals and allows every citizen to write their chapter of the American story.
 
     NOW, THEREFORE, I, BARACK OBAMA, President of the United States of America, and Commander in Chief of the Armed Forces of the United States, continuing the precedent of my predecessors in office, do hereby proclaim the third Saturday of each May as Armed Forces Day.
 
@@ -901,15 +901,17 @@
 
     I invite the Governors of the States, the Commonwealth of Puerto Rico, and other areas subject to the jurisdiction of the United States, to provide for the observance of Armed Forces Day within their jurisdiction each year in an appropriate manner designed to increase public understanding and appreciation of the Armed Forces of the United States. I also invite veterans, civic leaders, and organizations to join in the observance of Armed Forces Day.
 
-    Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops.
+    Finally, I call upon all Americans to display the flag of the United States at their homes on Armed Forces Day, and I urge citizens to learn more about military service by attending and participating in the local observances of the day. I also encourage Americans to volunteer at organizations that provide support to our troops and their families.
 
-    Proclamation 8823 of May 18, 2012, is hereby superseded.
+    Proclamation 8984 of May 17, 2013, is hereby superseded.
 
-    IN WITNESS WHEREOF, I have hereunto set my hand this seventeenth day of May, in the year of our Lord two thousand thirteen, and of the Independence of the United States of America the two hundred and thirty-seventh.
+    IN WITNESS WHEREOF, I have hereunto set my hand this sixteenth day of May, in the year of our Lord two thousand fourteen, and of the Independence of the United States of America the two hundred and thirty-eighth.
 
                               Barack Obama.
 
     Prior similar proclamations were contained in the following:
+
+    Proc. No. 8984, May 17, 2013, 78 F.R. 30731, superseded by Proc. No. 9129, May 16, 2014, 79 F.R. 29321.
 
     Proc. No. 8823, May 18, 2012, 77 F.R. 30875, superseded by Proc. No. 8984, May 17, 2013, 78 F.R. 30731.
 

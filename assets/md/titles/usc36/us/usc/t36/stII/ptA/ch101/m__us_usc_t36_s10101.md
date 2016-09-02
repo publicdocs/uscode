@@ -15,7 +15,7 @@
 
 ## § 10101. Audits
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Except as otherwise provided, the financial statements of each corporation in part B of this subtitle shall be audited annually in accordance with generally accepted auditing standards by an independent certified public accountant or independent licensed public accountant, certified or licensed by a regulatory authority of a State or other political subdivision of the United States. The audit shall be conducted where the financial statements of the corporation normally are kept. The person conducting the audit shall be given access to—
 
@@ -23,7 +23,7 @@
 
         (2) full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians.
 
-    (b) __Report.—__ 
+    (b)  __Report__  __.—__ 
 
         (1)
 

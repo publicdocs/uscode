@@ -15,7 +15,7 @@
 
 ## § 22705. Powers
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The corporation may—
 
@@ -39,7 +39,7 @@
 
         (10) do any other act necessary and proper to carry out the purposes of the corporation.
 
-    (b) __Powers Granted to Other Organizations.—__ 
+    (b)  __Powers Granted to Other Organizations__  __.—__ 
 
     The provisions, privileges, and prerogatives granted before July 24, 1947, to other national veterans’ organizations because of their incorporation by Congress are granted to the corporation.
 

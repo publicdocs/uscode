@@ -15,15 +15,15 @@
 
 ## § 30903. Governing body
 
-    (a) __Executive Board.—__ 
+    (a)  __Executive Board__  __.—__ 
 
     An executive board composed of citizens of the United States is the governing body of the corporation. The number, qualifications, and term of office of members of the board are as provided in the bylaws. A vacancy on the board shall be filled by a majority vote of the remaining members of the board.
 
-    (b) __Quorum.—__ 
+    (b)  __Quorum__  __.—__ 
 
     The bylaws may prescribe the number of members of the board necessary for a quorum. That number may be less than a majority of the entire board.
 
-    (c) __Committees.—__ 
+    (c)  __Committees__  __.—__ 
 
         (1)
 

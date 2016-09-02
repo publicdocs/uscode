@@ -15,11 +15,11 @@
 
 ## § 22506. Restrictions
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The corporation shall be nonprofit, nonpolitical, nonsectarian, and nonpartisan, and may not promote the candidacy of an individual seeking public office.
 
-    (b) __Ownership and Use of Property.—__ 
+    (b)  __Ownership and Use of Property__  __.—__ 
 
     The corporation may not accept, own, or hold, directly or indirectly, any property not reasonably necessary to carry out the purposes of the corporation.
 

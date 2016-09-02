@@ -15,7 +15,7 @@
 
 ## § 40702. Governing body
 
-    (a) __Board of Directors.—__ 
+    (a)  __Board of Directors__  __.—__ 
 
         (1) The board of directors is the governing body of the corporation. The board of directors may adopt bylaws, policies, and procedures for the corporation and may take any other action that it considers necessary for the management and operation of the corporation.
 
@@ -25,7 +25,7 @@
 
         (4) A vacancy on the board of directors shall be filled by a majority vote of the remaining directors.
 
-    (b) __Director of Civilian Marksmanship.—__ 
+    (b)  __Director of Civilian Marksmanship__  __.—__ 
 
         (1) The board of directors shall appoint the Director of Civilian Marksmanship.
 

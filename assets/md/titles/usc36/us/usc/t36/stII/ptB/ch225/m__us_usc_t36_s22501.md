@@ -15,15 +15,15 @@
 
 ## § 22501. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     American War Mothers (in this chapter, the “corporation”) is a federally chartered corporation.
 
-    (b) __Place of Incorporation.—__ 
+    (b)  __Place of Incorporation__  __.—__ 
 
     The corporation is declared to be incorporated in the District of Columbia.
 
-    (c) __Period of Existence.—__ 
+    (c)  __Period of Existence__  __.—__ 
 
     The corporation may continue to exist until there are no individuals who qualify for membership.
 

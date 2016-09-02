@@ -15,11 +15,11 @@
 
 ## § 30704. Governing body
 
-    (a) __Board of Directors.—__ 
+    (a)  __Board of Directors__  __.—__ 
 
     The board of directors is the governing body of the corporation. The board shall consist of at least 15 directors elected annually by the members.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
     The officers of the corporation are a chairman of the board, a president, one or more vice presidents, a secretary, a treasurer, and any assistant officers designated by the board. The officers have the powers and shall carry out the duties provided in the bylaws or prescribed by the board.
 

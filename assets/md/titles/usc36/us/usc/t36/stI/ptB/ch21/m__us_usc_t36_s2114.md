@@ -15,7 +15,7 @@
 
 ## § 2114. Intellectual property and related items
 
-    (a) __Authority To Use and Register Intellectual Property.—__ 
+    (a)  __Authority To Use and Register Intellectual Property__  __.—__ 
 
     The American Battle Monuments Commission may—
 
@@ -27,19 +27,19 @@
 
         (4) accept gifts of marks, copyrights, patents, and licenses for use by the Commission.
 
-    (b) __Authority To Grant Licenses.—__ 
+    (b)  __Authority To Grant Licenses__  __.—__ 
 
     The Commission may grant exclusive and nonexclusive licenses in connection with any mark, copyright, patent, or license for the use of such mark, copyright or patent, except to the extent the grant of such license by the Commission would be contrary to any contract or license by which the use of the mark, copyright, or patent was obtained.
 
-    (c) __Enforcement Authority.—__ 
+    (c)  __Enforcement Authority__  __.—__ 
 
     The Commission may enforce any mark, copyright, or patent by an action in the district courts under any law providing for the protection of such marks, copyrights, or patents.
 
-    (d) __Legal Representation.—__ 
+    (d)  __Legal Representation__  __.—__ 
 
     The Attorney General shall furnish the Commission with such legal representation as the Commission may require under subsection (c). The Secretary of Defense shall provide representation for the Commission in administrative proceedings before the Patent and Trademark Office and Copyright Office.
 
-    (e) __Irrevocability of Transfers of Copyrights to Commission.—__ 
+    (e)  __Irrevocability of Transfers of Copyrights to Commission__  __.—__ 
 
     [Section 203 of title 17][/us/usc/t17/s203] shall not apply to any copyright transferred in any manner to the Commission.
 

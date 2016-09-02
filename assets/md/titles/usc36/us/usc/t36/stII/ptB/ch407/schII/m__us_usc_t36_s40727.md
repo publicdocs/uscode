@@ -15,17 +15,17 @@
 
 ## § 40727. Army support
 
-    (a) __Logistical Support.—__ 
+    (a)  __Logistical Support__  __.—__ 
 
     The Secretary of the Army shall provide logistical support to the Civilian Marksmanship Program for competitions and other activities. The corporation shall reimburse the Secretary for incremental direct costs incurred in providing logistical support. The reimbursements shall be credited to the appropriations account of the Department of the Army that is charged to provide the logistical support.
 
-    (b) __National Matches.—__ 
+    (b)  __National Matches__  __.—__ 
 
         (1) The National Matches may be held at Department of Defense facilities where the National Matches were held before February 10, 1996.
 
         (2) The Secretary shall provide, without cost to the corporation, members of the National Guard and Army Reserve to support the National Matches as part of the annual training under title 10 and title 32.
 
-    (c) __Regulations.—__ 
+    (c)  __Regulations__  __.—__ 
 
     The Secretary shall prescribe regulations to carry out this section.
 

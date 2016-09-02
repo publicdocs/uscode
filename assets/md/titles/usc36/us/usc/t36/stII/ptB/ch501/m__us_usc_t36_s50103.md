@@ -15,11 +15,11 @@
 
 ## § 50103. Purposes
 
-    (a) __Provided in Articles of Incorporation.—__ 
+    (a)  __Provided in Articles of Incorporation__  __.—__ 
 
     The purposes of the corporation are as provided in the articles of incorporation.
 
-    (b) __Perpetuating Memories.—__ 
+    (b)  __Perpetuating Memories__  __.—__ 
 
     To perpetuate the memories of the fathers of the Daughters of Union Veterans of the Civil War 1861–1865, their loyalty to the Union, and their unselfish sacrifices for the preservation of the Union, the purposes of the corporation also include—
 
@@ -35,7 +35,7 @@
 
         (6) participating, in a spirit of cooperation and reciprocity, in programs with other societies devoted to American history, veterans’ affairs, or community interests.
 
-    (c) __Veterans’ and Patriotic Organization.—__ 
+    (c)  __Veterans’ and Patriotic Organization__  __.—__ 
 
     The corporation shall function as a veterans’ and patriotic organization as authorized by the laws of each State in which it is incorporated.
 

@@ -15,7 +15,7 @@
 
 ## § 70703. Governing body
 
-    (a) __Board of Trustees.—__ 
+    (a)  __Board of Trustees__  __.—__ 
 
         (1) The board of trustees is the governing body of the corporation. The board shall exercise the powers granted to the corporation.
 
@@ -23,7 +23,7 @@
 
         (3) The board shall adopt a seal under which all acts of the corporation shall be passed and authenticated.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
         (1) The board shall elect officers the board considers necessary, including a treasurer, for the term and at the compensation the board decides, as provided in the bylaws.
 

@@ -15,11 +15,11 @@
 
 ## § 70903. Membership
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     Except as provided in this chapter, eligibility for membership in the corporation and the rights and privileges of members are as provided in the bylaws.
 
-    (b) __Voting.—__ 
+    (b)  __Voting__  __.—__ 
 
     In matters of official business of a local chapter, each member has one vote. In matters of official business of a State association, each qualified delegate of a local chapter has one vote.
 

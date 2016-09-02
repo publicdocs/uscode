@@ -15,11 +15,11 @@
 
 ## § 301. National anthem
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The composition consisting of the words and music known as the Star-Spangled Banner is the national anthem.
 
-    (b) __Conduct During Playing.—__ 
+    (b)  __Conduct During Playing__  __.—__ 
 
     During a rendition of the national anthem—
 

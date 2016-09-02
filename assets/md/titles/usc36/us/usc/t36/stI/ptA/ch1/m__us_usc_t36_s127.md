@@ -15,11 +15,11 @@
 
 ## § 127. National Korean War Veterans Armistice Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     July 27 of each year until 2003 is National Korean War Veterans Armistice Day.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue each year a proclamation calling on—
 

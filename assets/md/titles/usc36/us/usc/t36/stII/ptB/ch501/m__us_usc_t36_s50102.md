@@ -15,11 +15,11 @@
 
 ## § 50102. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     Daughters of Union Veterans of the Civil War 1861–1865 (in this chapter, the “corporation”), a nonprofit corporation incorporated in Ohio, is a federally chartered corporation.
 
-    (b) __Expiration of Charter.—__ 
+    (b)  __Expiration of Charter__  __.—__ 
 
     If the corporation does not comply with any provision of this chapter, the charter granted by this chapter expires.
 

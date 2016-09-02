@@ -15,11 +15,11 @@
 
 ## § 123. National Forest Products Week
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The week beginning on the third Sunday in October is National Forest Products Week.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue each year a proclamation calling on the people of the United States to observe National Forest Products Week with appropriate ceremonies and activities.
 

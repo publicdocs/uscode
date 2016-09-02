@@ -15,11 +15,11 @@
 
 ## § 20909. Duty to maintain corporate and tax-exempt status
 
-    (a) __Corporate Status.—__ 
+    (a)  __Corporate Status__  __.—__ 
 
     The corporation shall maintain its status as a corporation incorporated under the laws of the State of Washington.
 
-    (b) __Tax-Exempt Status.—__ 
+    (b)  __Tax-Exempt Status__  __.—__ 
 
     The corporation shall maintain its status as an organization exempt from taxation under the Internal Revenue Code of 1986 ([26 U.S.C. 1][/us/usc/t26/s1] et seq.).
 

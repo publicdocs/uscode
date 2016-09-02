@@ -15,13 +15,13 @@
 
 ## § 31104. Governing body
 
-    (a) __Board of Directors.—__ 
+    (a)  __Board of Directors__  __.—__ 
 
         (1) The board of directors is the governing body of the corporation. The powers, duties, and responsibilities of the board are as provided in the constitution and bylaws of the corporation.
 
         (2) The number of directors is as provided in the constitution of the corporation. Their manner of selection (including the filling of vacancies) and their term of office are as provided in the constitution and bylaws.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
         (1) The officers of the corporation are a chairman of the board of directors, a president, one or more vice presidents as provided in the constitution and bylaws, a secretary, a treasurer, and one or more assistant secretaries and assistant treasurers as provided in the constitution and bylaws.
 

@@ -15,11 +15,11 @@
 
 ## § 113. Law Day, U.S.A.
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     May 1 is Law Day, U.S.A.
 
-    (b) __Purpose.—__ 
+    (b)  __Purpose__  __.—__ 
 
     Law Day, U.S.A., is a special day of celebration by the people of the United States—
 
@@ -27,7 +27,7 @@
 
         (2) for the cultivation of the respect for law that is so vital to the democratic way of life.
 
-    (c) __Proclamation.—__ 
+    (c)  __Proclamation__  __.—__ 
 
     The President is requested to issue a proclamation—
 

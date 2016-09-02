@@ -15,11 +15,11 @@
 
 ## § 112. Honor America Days
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The 21 days from Flag Day through Independence Day is a period to honor America.
 
-    (b) __Congressional Declaration.—__ 
+    (b)  __Congressional Declaration__  __.—__ 
 
     Congress declares that there be public gatherings and activities during that period at which the people of the United States can celebrate and honor their country in an appropriate way.
 

@@ -15,15 +15,15 @@
 
 ## § 70905. National officers
 
-    (a) __Composition.—__ 
+    (a)  __Composition__  __.—__ 
 
     The national officers of the corporation are a student president, four student vice presidents (one from each of four regions of the United States established in the bylaws for purposes of administration of the corporation), a student secretary, an executive secretary, a treasurer, and a national advisor.
 
-    (b) __Board of Student Officers.—__ 
+    (b)  __Board of Student Officers__  __.—__ 
 
     The national student officers of the corporation comprise a board of student officers. The board of student officers shall advise and make recommendations to the board of directors about the activities and business of the corporation.
 
-    (c) __Election.—__ 
+    (c)  __Election__  __.—__ 
 
     The national officers of the corporation shall be elected annually by a majority vote of the delegates assembled in the annual national convention from among qualified members of the corporation, except that—
 
@@ -33,7 +33,7 @@
 
         (3) the treasurer shall be an employee or member of a State agency that directs or supervises a State program of agricultural education under the provisions of the Smith-Hughes Vocational Education Act ([20 U.S.C. 11–15][/us/usc/t20/s11–15], 16–28).
 
-    (d) __Vote at National Convention.—__ 
+    (d)  __Vote at National Convention__  __.—__ 
 
     Each qualified delegate has one vote at the annual national convention.
 

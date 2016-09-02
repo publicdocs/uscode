@@ -15,11 +15,11 @@
 
 ## § 30303. Membership
 
-    (a) __General Membership.—__ 
+    (a)  __General Membership__  __.—__ 
 
     An individual who served in the Armed Forces of the United States and who, in the line of duty in that service, sustained a substantial impairment of sight or vision as defined by the bylaws of the corporation is eligible for general membership in the corporation.
 
-    (b) __Honorary and Associate Membership.—__ 
+    (b)  __Honorary and Associate Membership__  __.—__ 
 
     In addition to general membership, the corporation shall have special classes of honorary and associate membership. Eligibility for, and the rights and obligations of, those special classes are as provided in the bylaws.
 

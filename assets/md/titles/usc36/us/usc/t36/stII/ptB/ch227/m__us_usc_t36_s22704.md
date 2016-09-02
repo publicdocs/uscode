@@ -15,11 +15,11 @@
 
 ## § 22704. Governing body
 
-    (a) __Delegates to National Conventions.—__ 
+    (a)  __Delegates to National Conventions__  __.—__ 
 
     Each post may elect delegates to national conventions of the corporation. The delegates each have one vote in the conduct of business of the convention to which they are elected.
 
-    (b) __Executive Committee.—__ 
+    (b)  __Executive Committee__  __.—__ 
 
     The executive committee of the corporation consists of—
 
@@ -27,13 +27,13 @@
 
         (2) the officers of the corporation as ex officio members.
 
-    (c) __Officers.—__ 
+    (c)  __Officers__  __.—__ 
 
         (1) The officers of the corporation are a national commander, two national vice commanders, a finance officer, a judge advocate, a chaplain, six national district commanders, and a provost marshal.
 
         (2) The officers shall be elected by the delegates at the annual national convention.
 
-    (d) __Nondiscrimination.—__ 
+    (d)  __Nondiscrimination__  __.—__ 
 
     The requirements for holding office in the corporation may not discriminate on the basis of race, color, religion, sex, or national origin.
 

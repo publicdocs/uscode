@@ -15,11 +15,11 @@
 
 ## § 40701. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     Corporation for the Promotion of Rifle Practice and Firearms Safety (in this chapter, the “corporation”) is a federally chartered corporation.
 
-    (b) __Non-Governmental Status.—__ 
+    (b)  __Non-Governmental Status__  __.—__ 
 
     The corporation is a private corporation, not a department, agency, or instrumentality of the United States Government. An officer or employee of the corporation is not an officer or employee of the Government.
 
@@ -95,11 +95,11 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, § 1611(a) (less “nonprofit”)
 
 [Pub. L. 104–106, div. A, title XVI, § 1622][/us/pl/104/106/s1622], Feb. 10, 1996, [110 Stat. 521][/us/stat/110/521] \[former [36 U.S.C. 5522][/us/usc/t36/s5522]\], provided that:
 
->     “(a) __Continuation of Eligibility.—__ 
+>     “(a)  __Continuation of Eligibility__  __.—__ 
 
 >     Notwithstanding any other provision of law, a Federal employee who is employed by the Department of Defense to support the Civilian Marksmanship Program as of the day before the date of the transfer of the Program to the Corporation and is offered employment by the Corporation as part of the transition described in section 1612(d) \[former [36 U.S.C. 5502(d)][/us/usc/t36/s5502/d]\] may, if the employee becomes employed by the Corporation, continue to be eligible during continuous employment with the Corporation for the Federal health, retirement, and similar benefits (including life insurance) for which the employee would have been eligible had the employee continued to be employed by the Department of Defense. The employer’s contribution for such benefits shall be paid by the Corporation.
 
->     “(b) __Regulations.—__ 
+>     “(b)  __Regulations__  __.—__ 
 
 >     The Director of the Office of Personnel Management shall prescribe regulations to carry out subsection (a).”
 

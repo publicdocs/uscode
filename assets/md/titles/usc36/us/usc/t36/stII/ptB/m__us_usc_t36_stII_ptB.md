@@ -25,11 +25,11 @@
 
 > “SEC. 2. __ESTABLISHMENT AND PURPOSE OF FOUNDATION.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established the National Foundation on Fitness, Sports, and Nutrition (hereinafter in this Act referred to as the ‘Foundation’). The Foundation is a charitable and nonprofit corporation and is not an agency or establishment of the United States.
 
->     “(b) __Purposes.—__ 
+>     “(b)  __Purposes__  __.—__ 
 
 >     The purposes of the Foundation are—
 
@@ -39,13 +39,13 @@
 
 >         “(3) in consultation with such Office, to undertake and support activities to further the purposes and functions of such Executive Order.
 
->     “(c) __Prohibition on Federal Funding.—__ 
+>     “(c)  __Prohibition on Federal Funding__  __.—__ 
 
 >     The Foundation may not accept any Federal funds.
 
 > “SEC. 3. __BOARD OF DIRECTORS OF THE FOUNDATION.__ 
 
->     “(a) __Establishment and Membership.—__ 
+>     “(a)  __Establishment and Membership__  __.—__ 
 
 >     The Foundation shall have a governing Board of Directors (hereinafter referred to in this Act as the ‘Board’), which shall consist of 9 members each of whom shall be a United States citizen and—
 
@@ -55,7 +55,7 @@
 
 >         The membership of the Board, to the extent practicable, should represent diverse professional specialties relating to the achievement of physical fitness through regular participation in programs of exercise, sports, and similar activities, or to nutrition. The Assistant Secretary for Health, the Executive Director of the President’s Council on Fitness, Sports and Nutrition, the Director for the National Center for Chronic Disease Prevention and Health Promotion, the Director of the National Heart, Lung, and Blood Institute, and the Director for the Centers for Disease Control and Prevention shall be ex officio, nonvoting members of the Board. Appointment to the Board or its staff shall not constitute employment by, or the holding of an office of, the United States for the purposes of laws relating to Federal employment.
 
->     “(b) __Appointments.—__ 
+>     “(b)  __Appointments__  __.—__ 
 
 >     Within 90 days from the date of enactment of this Act \[Dec. 22, 2010\], the members of the Board shall be appointed by the Secretary \[probably means the Secretary of Health and Human Services\] in accordance with this subsection. In selecting individuals for appointments to the Board, the Secretary should consult with—
 
@@ -71,27 +71,27 @@
 
 >         “(6) the Minority Leader of the Senate concerning the appointment of one member.
 
->     “(c) __Terms.—__ 
+>     “(c)  __Terms__  __.—__ 
 
 >     The members of the Board shall serve for a term of 6 years, except that the original members of the Board shall be appointed for staggered terms as determined appropriate by the Secretary. A vacancy on the Board shall be filled within 60 days of the vacancy in the same manner in which the original appointment was made and shall be for the balance of the term of the individual who was replaced. No individual may serve more than 2 consecutive terms as a member.
 
->     “(d) __Chairman.—__ 
+>     “(d)  __Chairman__  __.—__ 
 
 >     The Chairman shall be elected by the Board from its members for a 2-year term and shall not be limited in terms or service, other than as provided in subsection (c).
 
->     “(e) __Quorum.—__ 
+>     “(e)  __Quorum__  __.—__ 
 
 >     A majority of the current membership of the Board shall constitute a quorum for the transaction of business.
 
->     “(f) __Meetings.—__ 
+>     “(f)  __Meetings__  __.—__ 
 
 >     The Board shall meet at the call of the Chairman at least once a year. If a member misses 3 consecutive regularly scheduled meetings, that member may be removed from the Board and the vacancy filled in accordance with subsection (c).
 
->     “(g) __Reimbursement of Expenses.—__ 
+>     “(g)  __Reimbursement of Expenses__  __.—__ 
 
 >     Members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of the duties of the Foundation, subject to the same limitations on reimbursement that are imposed upon employees of Federal agencies.
 
->     “(h) __Limitations.—__ 
+>     “(h)  __Limitations__  __.—__ 
 
 >     The following limitations apply with respect to the appointment of employees of the Foundation:
 
@@ -109,7 +109,7 @@
 
 >             “(B) any business organization, or other entity, of which the individual is an officer or employee, is negotiating for employment, or in which the individual has any other financial interest.
 
->     “(i) __General Powers.—__ 
+>     “(i)  __General Powers__  __.—__ 
 
 >     The Board may complete the organization of the Foundation by—
 
@@ -123,7 +123,7 @@
 
 > “SEC. 4. __POWERS AND DUTIES OF THE FOUNDATION.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Foundation—
 
@@ -137,11 +137,11 @@
 
 >         The serving of notice to, or service of process upon, the agent required under paragraph (4), or mailed to the business address of such agent, shall be deemed as service upon or notice to the Foundation.
 
->     “(b) __Seal.—__ 
+>     “(b)  __Seal__  __.—__ 
 
 >     The Foundation shall have an official seal selected by the Board which may be used as provided for in section 5.
 
->     “(c) __Incorporation; Nonprofit Status.—__ 
+>     “(c)  __Incorporation; Nonprofit Status__  __.—__ 
 
 >     To carry out the purposes of the Foundation under section 2, the Board shall—
 
@@ -149,21 +149,21 @@
 
 >         “(2) establish such policies and bylaws as may be necessary to ensure that the Foundation maintains status as an organization that is described in section 501(c)(3) of the Internal Revenue Code of 1986 \[[26 U.S.C. 501(c)(3)][/us/usc/t26/s501/c/3]\].
 
->     “(d) __Powers.—__ 
+>     “(d)  __Powers__  __.—__ 
 
 >     Subject to the specific provisions of section 2, the Foundation, in consultation with the Office of the President’s Council on Fitness, Sports, and Nutrition, shall have the power, directly or by the awarding of contracts or grants, to carry out or support activities for the purposes described in such section.
 
->     “(e) __Treatment of Property.—__ 
+>     “(e)  __Treatment of Property__  __.—__ 
 
 >     For purposes of this Act, an interest in real property shall be treated as including easements or other rights for preservation, conservation, protection, or enhancement by and for the public of natural, scenic, historic, scientific, educational inspirational or recreational resources. A gift, devise, or bequest may be accepted by the Foundation even though it is encumbered, restricted, or subject to beneficial interests of private persons if any current or future interest therein is for the benefit of the Foundation.
 
 > “SEC. 5. __PROTECTION AND USES OF TRADEMARKS AND TRADE NAMES.__ 
 
->     “(a) __Trademarks of the Foundation.—__ 
+>     “(a)  __Trademarks of the Foundation__  __.—__ 
 
 >     Authorization for a contributor, or a supplier of goods or services, to use, in advertising regarding the contribution, goods, or services, the trade name of the Foundation, or any trademark, seal, symbol, insignia, or emblem of the Foundation may be provided only by the Foundation with the concurrence of the Secretary or the Secretary’s designee.
 
->     “(b) __Trademarks of the Council.—__ 
+>     “(b)  __Trademarks of the Council__  __.—__ 
 
 >     Authorization for a contributor or supplier described in subsection (a) to use, in such advertising, the trade name of the President’s Council on Fitness, Sports, and Nutrition, or any trademark, seal, symbol, insignia, or emblem of such Council, may be provided—
 
@@ -173,15 +173,15 @@
 
 > “SEC. 6. __AUDIT, REPORT REQUIREMENTS, AND PETITION OF ATTORNEY GENERAL FOR EQUITABLE RELIEF.__ 
 
->     “(a) __Audits.—__ 
+>     “(a)  __Audits__  __.—__ 
 
 >     For purposes of the Act entitled ‘An Act for audit of accounts of private corporations established under Federal law’, approved August 30, 1964 ([Public Law 88–504][/us/pl/88/504], \[former\] [36 U.S.C. 1101–110][/us/usc/t36/s1101–110]3 \[see [36 U.S.C. 10101][/us/usc/t36/s10101]\]), the Foundation shall be treated as a private corporation under Federal law. The Inspector General of the Department of Health and Human Services and the Comptroller General of the United States shall have access to the financial and other records of the Foundation, upon reasonable notice.
 
->     “(b) __Report.—__ 
+>     “(b)  __Report__  __.—__ 
 
 >     The Foundation shall, not later than 60 days after the end of each fiscal year, transmit to the Secretary and to Congress a report of its proceedings and activities during such year, including a full and complete statement of its receipts, expenditures, and investments.
 
->     “(c) __Relief With Respect to Certain Foundation Acts or Failure To Act.—__ 
+>     “(c)  __Relief With Respect to Certain Foundation Acts or Failure To Act__  __.—__ 
 
 >     If the Foundation—
 

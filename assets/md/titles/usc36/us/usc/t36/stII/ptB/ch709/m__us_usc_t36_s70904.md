@@ -15,7 +15,7 @@
 
 ## § 70904. Governing body
 
-    (a) __Board of Directors.—__ 
+    (a)  __Board of Directors__  __.—__ 
 
         (1) The board of directors is the governing body of the corporation. The board shall exercise the powers granted to the corporation.
 
@@ -25,7 +25,7 @@
 
         (4) The board shall meet at least annually at the time and place provided in the bylaws. The annual report of the board shall be presented at that meeting. Special meetings of the board may be called at any time by the chairman.
 
-    (b) __Governing Committee.—__ 
+    (b)  __Governing Committee__  __.—__ 
 
     The board may designate the chairman of the board and two members of the chairman’s staff as a governing committee. When the board is not in session, the governing committee has the powers of the board subject to the board’s direction and may authorize the seal of the corporation to be affixed to all papers that require it.
 

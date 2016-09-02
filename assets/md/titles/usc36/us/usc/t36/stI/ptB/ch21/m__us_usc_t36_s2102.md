@@ -15,7 +15,7 @@
 
 ## § 2102. Employment of personnel
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     Within the limits of an appropriation made to employ personnel, the American Battle Monuments Commission may employ personnel necessary to carry out this chapter. To ensure adequate care and maintenance of cemeteries, monuments, and memorials, the Commission, subject to the availability of appropriations, shall employ—
 
@@ -23,15 +23,15 @@
 
         (2) at least 348 individuals who are citizens of the countries where the cemeteries, monuments, and memorials are located.
 
-    (b) __Detailed Personnel.—__ 
+    (b)  __Detailed Personnel__  __.—__ 
 
     On request of the Commission, the heads of departments, agencies, and instrumentalities of the United States Government may make available to the Commission their personnel and facilities to assist in carrying out this chapter, and may expend for that purpose amounts appropriated to the department, agency, and instrumentality. The Commission shall reimburse the department, agency, or instrumentality for the pay and allowances of personnel made available to the Commission.
 
-    (c) __Station Allowance for Officers Assigned to the Commission.—__ 
+    (c)  __Station Allowance for Officers Assigned to the Commission__  __.—__ 
 
     For officers of the Armed Forces assigned to the Commission, the same station allowance shall be authorized for serving at foreign stations as the Secretary of the Army has authorized for officers of the Army.
 
-    (d) __Citizenship Requirement.—__ 
+    (d)  __Citizenship Requirement__  __.—__ 
 
     An individual may be employed as the superintendent, or as an assistant superintendent, of a cemetery operated by the Commission only if the individual is a citizen of the United States.
 

@@ -15,7 +15,7 @@
 
 ## § 30709. Records and inspection
 
-    (a) __Records.—__ 
+    (a)  __Records__  __.—__ 
 
     The corporation shall keep—
 
@@ -25,7 +25,7 @@
 
         (3) a record of the names and addresses of its members entitled to vote.
 
-    (b) __Inspection.—__ 
+    (b)  __Inspection__  __.—__ 
 
     A member, or an agent or attorney of the member, may inspect the records of the corporation at any reasonable time.
 

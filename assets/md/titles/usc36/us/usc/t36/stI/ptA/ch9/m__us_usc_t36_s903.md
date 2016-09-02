@@ -15,11 +15,11 @@
 
 ## § 903. Designation of Medal of Honor Flag
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The Secretary of Defense shall design and designate a flag as the Medal of Honor Flag. In selecting the design for the flag, the Secretary shall consider designs submitted by the general public.
 
-    (b) __Presentation.—__ 
+    (b)  __Presentation__  __.—__ 
 
     The Medal of Honor Flag shall be presented as specified in sections 3755, 6257, and 8755 of title 10 and [section 505 of title 14][/us/usc/t14/s505].
 

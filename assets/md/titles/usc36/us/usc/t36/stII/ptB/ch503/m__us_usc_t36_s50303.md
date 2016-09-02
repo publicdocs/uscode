@@ -15,7 +15,7 @@
 
 ## § 50303. Membership
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     An individual is eligible for membership in the corporation if the individual—
 
@@ -33,7 +33,7 @@
 
             (C) was honorably discharged.
 
-    (b) __No Honorary Memberships.—__ 
+    (b)  __No Honorary Memberships__  __.—__ 
 
     An honorary membership may not be granted.
 

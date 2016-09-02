@@ -15,7 +15,7 @@
 
 ## § 23104. Governing body
 
-    (a) __Board of Trustees.—__ 
+    (a)  __Board of Trustees__  __.—__ 
 
         (1) The board of trustees is the governing body of the corporation. Between meetings of the members of the corporation, the board is responsible for the general policies and program of the corporation and for the control of all funds of the corporation.
 
@@ -23,7 +23,7 @@
 
         (3) The board may appoint committees. Each committee has the powers provided in the bylaws or by resolution of the board. The powers of a committee may include all the powers of the board.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
         (1) The officers of the corporation are a president, one or more vice presidents as provided in the bylaws, a secretary, a treasurer, and other officers as provided in the bylaws.
 
@@ -31,7 +31,7 @@
 
     (c)
 
-        (1) __Board of Nominations.—__ 
+        (1)  __Board of Nominations__  __.—__ 
 
         The board of trustees shall appoint a board of nominations, consisting of at least 24 members, from members of the corporation not concurrently serving as members of the board of trustees. Those individuals serve for the term provided in the bylaws.
 

@@ -15,7 +15,7 @@
 
 ## § 20203. Purposes
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
 
@@ -39,7 +39,7 @@
 
         (10) serving the United States and the United States Air Force loyally, and doing all else necessary to uphold and defend the Constitution of the United States.
 
-    (b) __Corporate Function.—__ 
+    (b)  __Corporate Function__  __.—__ 
 
     The corporation shall function as an educational, patriotic, civic, historical, and research organization under the laws of the District of Columbia.
 

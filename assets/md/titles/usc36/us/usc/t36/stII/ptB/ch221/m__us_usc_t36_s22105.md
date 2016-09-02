@@ -15,23 +15,23 @@
 
 ## § 22105. Restrictions
 
-    (a) __Profit.—__ 
+    (a)  __Profit__  __.—__ 
 
     The corporation may not operate for profit.
 
-    (b) __Stock and Dividends.—__ 
+    (b)  __Stock and Dividends__  __.—__ 
 
     The corporation may not issue stock or declare or pay a dividend.
 
-    (c) __Political Activities.—__ 
+    (c)  __Political Activities__  __.—__ 
 
     The corporation or an officer or member of the executive council as such may not contribute to, support, or assist a political party or candidate for elective public office.
 
-    (d) __Distribution of Income or Assets.—__ 
+    (d)  __Distribution of Income or Assets__  __.—__ 
 
     The income or assets of the corporation may not inure to the benefit of, or be distributed to, a member of the corporation or an officer or member of the executive council, except on the dissolution or final liquidation of the corporation.
 
-    (e) __Loans.—__ 
+    (e)  __Loans__  __.—__ 
 
     The corporation may not make a loan or advance to an officer or member of the executive council. Members of the council who vote for or assent to making a loan or advance to an officer or member of the council, and officers who participate in making the loan or advance, are jointly and severally liable to the corporation for the amount of the loan or advance until it is repaid.
 

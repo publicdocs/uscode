@@ -15,19 +15,19 @@
 
 ## § 30907. Annual and special meetings
 
-    (a) __Annual Meetings.—__ 
+    (a)  __Annual Meetings__  __.—__ 
 
     The corporation shall hold an annual meeting at a time and place as provided in the bylaws. At the meeting, the annual reports of the officers and executive board shall be presented, and members of the board shall be elected for the next year.
 
-    (b) __Special Meetings.—__ 
+    (b)  __Special Meetings__  __.—__ 
 
     Special meetings of the corporation may be called on notice as provided in the bylaws.
 
-    (c) __Quorum.—__ 
+    (c)  __Quorum__  __.—__ 
 
     The number of members necessary for a quorum at an annual or special meeting shall be prescribed in the bylaws.
 
-    (d) __Locations.—__ 
+    (d)  __Locations__  __.—__ 
 
     The members and the executive board may hold meetings and keep the seal and records of the corporation in or outside the District of Columbia.
 

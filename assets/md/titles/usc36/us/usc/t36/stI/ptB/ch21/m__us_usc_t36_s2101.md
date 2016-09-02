@@ -15,11 +15,11 @@
 
 ## § 2101. Membership
 
-    (a) __Composition and Terms.—__ 
+    (a)  __Composition and Terms__  __.—__ 
 
     The American Battle Monuments Commission has not more than 11 members appointed by the President. The President also shall appoint one officer of the Regular Army to serve as secretary of the Commission. The members and secretary serve at the pleasure of the President. The President shall fill any vacancies that occur. Notwithstanding any other law, members of the Armed Forces may be appointed members of the Commission.
 
-    (b) __Pay and Expenses.—__ 
+    (b)  __Pay and Expenses__  __.—__ 
 
     The members of the Commission serve without compensation. However, the members of the Commission may receive, from an amount appropriated to carry out this chapter or acquired by another authorized way—
 
@@ -29,7 +29,7 @@
 
         (3) when in a travel status in the continental United States, a per diem at the rate authorized to be paid under sections 5702 and 5703 of title 5 instead of subsistence.
 
-    (c) __Expenses of Officers of Armed Forces Serving on Commission.—__ 
+    (c)  __Expenses of Officers of Armed Forces Serving on Commission__  __.—__ 
 
     An officer of the Armed Forces serving as a member or as secretary of the Commission may be reimbursed for expenses when traveling on business of the Commission in the same way as civilian members of the Commission.
 

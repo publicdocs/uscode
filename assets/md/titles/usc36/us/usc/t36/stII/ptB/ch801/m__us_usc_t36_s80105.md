@@ -15,11 +15,11 @@
 
 ## § 80105. Principal office and meetings
 
-    (a) __Principal Office.—__ 
+    (a)  __Principal Office__  __.—__ 
 
     The principal office of the corporation shall be in the District of Columbia.
 
-    (b) __Meetings.—__ 
+    (b)  __Meetings__  __.—__ 
 
     The corporation may hold its meetings at places outside the District of Columbia.
 

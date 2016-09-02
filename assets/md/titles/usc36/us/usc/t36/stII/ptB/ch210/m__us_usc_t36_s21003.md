@@ -15,7 +15,7 @@
 
 ## § 21003. Purposes
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The purposes of the corporation are as provided in its bylaws and articles of incorporation and include—
 
@@ -33,7 +33,7 @@
 
         (7) fostering and promoting the broader knowledge and appreciation by all United States citizens of their cultural heritage and language.
 
-    (b) __Corporate Function.—__ 
+    (b)  __Corporate Function__  __.—__ 
 
     The corporation shall function as an educational, patriotic, civic, historical, and research organization under the laws of Texas.
 

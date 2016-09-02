@@ -15,15 +15,15 @@
 
 ## § 21905. Restrictions
 
-    (a) __Profit and Stock.—__ 
+    (a)  __Profit and Stock__  __.—__ 
 
     The corporation shall be nonprofit and may not issue stock.
 
-    (b) __Political Activities.—__ 
+    (b)  __Political Activities__  __.—__ 
 
     The corporation shall be nonpolitical and nonsectarian, and may not promote the candidacy of an individual seeking public office.
 
-    (c) __Honorary Members.—__ 
+    (c)  __Honorary Members__  __.—__ 
 
     The corporation may not have honorary members.
 

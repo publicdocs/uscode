@@ -15,23 +15,23 @@
 
 ## § 70908. Restrictions
 
-    (a) __Stock and Dividends.—__ 
+    (a)  __Stock and Dividends__  __.—__ 
 
     The corporation may not issue stock or declare or pay a dividend.
 
-    (b) __Political Activities.—__ 
+    (b)  __Political Activities__  __.—__ 
 
     The corporation or a director, officer, or member as such may not contribute to, support, or assist a political party or candidate for elective public office.
 
-    (c) __Distribution of Income or Assets.—__ 
+    (c)  __Distribution of Income or Assets__  __.—__ 
 
     The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member, except on dissolution or final liquidation of the corporation.
 
-    (d) __Loans.—__ 
+    (d)  __Loans__  __.—__ 
 
     The corporation may not make a loan to a director, officer, or employee. Directors who vote for or assent to making a loan to a director, officer, or employee, and officers who participate in making the loan, are jointly and severally liable to the corporation for the amount of the loan until it is repaid.
 
-    (e) __Prizes, Awards, Grants, or Loans to Student Officers and Members Meeting Criteria.—__ 
+    (e)  __Prizes, Awards, Grants, or Loans to Student Officers and Members Meeting Criteria__  __.—__ 
 
     This section does not preclude prizes, awards, grants, or loans to student officers and members meeting the criteria established by the board of directors for selecting recipients of those benefits.
 

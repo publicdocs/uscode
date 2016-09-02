@@ -15,7 +15,7 @@
 
 ## § 40729. Reservation of firearms, ammunition, and parts
 
-    (a) __Reservation.—__ 
+    (a)  __Reservation__  __.—__ 
 
     The Secretary of the Army shall reserve for the corporation—
 
@@ -27,7 +27,7 @@
 
         (4) parts from, and other supplies for, surplus caliber .30 and caliber .22 rimfire rifles.
 
-    (b) __Exception.—__ 
+    (b)  __Exception__  __.—__ 
 
     This section does not supersede the authority provided in section 1208 of the National Defense Authorization Act for Fiscal Years 1990 and 1991 ([Public Law 101–189][/us/pl/101/189]; [10 U.S.C. 372][/us/usc/t10/s372] note).
 

@@ -15,15 +15,15 @@
 
 ## § 40506. Restrictions
 
-    (a) __Stock and Dividends.—__ 
+    (a)  __Stock and Dividends__  __.—__ 
 
     The corporation may not issue stock or declare or pay a dividend.
 
-    (b) __Political Activities.—__ 
+    (b)  __Political Activities__  __.—__ 
 
     The corporation or a director or officer as such may not contribute to, support, or participate in any political activity or in any manner attempt to influence legislation.
 
-    (c) __Distribution of Income or Assets.—__ 
+    (c)  __Distribution of Income or Assets__  __.—__ 
 
     The income or assets of the corporation may not inure to the benefit of, or be distributed to, a director, officer, or member as such during the life of the corporation or on its dissolution or final liquidation. This subsection does not prevent the payment of—
 
@@ -31,7 +31,7 @@
 
         (2) appropriate aid to individuals to whom the Medal of Honor has been awarded, their widows, or their children, to carry out the purposes of the corporation.
 
-    (d) __Loans.—__ 
+    (d)  __Loans__  __.—__ 
 
     The corporation may not make a loan to a director, officer, or employee. Directors and officers who vote for or assent to making a loan to a director, officer, or employee, and officers who participate in making the loan, are jointly and severally liable to the corporation for the amount of the loan until it is repaid.
 

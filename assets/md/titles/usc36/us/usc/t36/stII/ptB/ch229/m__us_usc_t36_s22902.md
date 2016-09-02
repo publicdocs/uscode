@@ -15,11 +15,11 @@
 
 ## § 22902. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     Army and Navy Union of the United States of America (in this chapter, the “corporation”), incorporated in Ohio, is a federally chartered corporation.
 
-    (b) __Expiration of Charter.—__ 
+    (b)  __Expiration of Charter__  __.—__ 
 
     If the corporation does not comply with any provision of this chapter, the charter granted by this chapter expires.
 

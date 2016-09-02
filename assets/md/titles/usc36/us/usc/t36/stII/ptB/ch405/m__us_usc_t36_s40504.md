@@ -15,7 +15,7 @@
 
 ## § 40504. Governing body
 
-    (a) __Board of Directors.—__ 
+    (a)  __Board of Directors__  __.—__ 
 
         (1) The board of directors is the governing body of the corporation. The board may exercise, or provide for the exercise of, the powers of the corporation.
 
@@ -25,7 +25,7 @@
 
         (4) The president of the corporation is the chairman of the board.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
         (1) The officers of the corporation are a president, an executive vice president, a secretary, a treasurer, and 6 regional vice presidents as provided in the bylaws. The offices of secretary and treasurer may be combined and held by the same individual, but an individual holding those combined offices has only one vote as a director.
 

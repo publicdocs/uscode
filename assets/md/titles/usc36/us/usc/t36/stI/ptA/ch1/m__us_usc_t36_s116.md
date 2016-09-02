@@ -15,11 +15,11 @@
 
 ## § 116. Memorial Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The last Monday in May is Memorial Day.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue each year a proclamation—
 
@@ -113,23 +113,23 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 > “In this Act:
 
->     “(1) __Alliance.—__ 
+>     “(1)  __Alliance__  __.—__ 
 
 >     The term ‘Alliance’ means the Remembrance Alliance established by section 9(a).
 
->     “(2) __Commission.—__ 
+>     “(2)  __Commission__  __.—__ 
 
 >     The term ‘Commission’ means the White House Commission on the National Moment of Remembrance established by section 5(a).
 
->     “(3) __Executive director and white house liaison.—__ 
+>     “(3)  __Executive director and white house liaison__  __.—__ 
 
 >     The term ‘Executive Director and White House Liaison’ means the Executive Director and White House Liaison appointed under section 10(a)(1).
 
->     “(4) __Memorial day.—__ 
+>     “(4)  __Memorial day__  __.—__ 
 
 >     The term ‘Memorial Day’ means the legal public holiday designated as Memorial Day by [section 6103(a) of title 5][/us/usc/t5/s6103/a], United States Code.
 
->     “(5) __Tribal government.—__ 
+>     “(5)  __Tribal government__  __.—__ 
 
 >     The term ‘tribal government’ means the governing body of an Indian tribe (as defined in section 4 of the Indian Self-Determination and Education Assistance Act ([25 U.S.C. 450b][/us/usc/t25/s450b]).
 
@@ -139,13 +139,13 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 > “SEC. 5. __ESTABLISHMENT OF WHITE HOUSE COMMISSION ON THE NATIONAL MOMENT OF REMEMBRANCE.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established a commission to be known as the ‘White House Commission on the National Moment of Remembrance’.
 
 >     “(b) __Membership.—__ 
 
->         “(1) __Composition.—__ 
+>         “(1)  __Composition__  __.—__ 
 
 >         The Commission shall be composed of the following:
 
@@ -189,21 +189,21 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >             “(T) Any other member, the appointment of whom the Commission determines is necessary to carry out this Act.
 
->         “(2) __Nonvoting members.—__ 
+>         “(2)  __Nonvoting members__  __.—__ 
 
 >         The members appointed to the Commission under subparagraphs (K) through (T) of paragraph (1) shall be nonvoting members.
 
->         “(3) __Date of appointments.—__ 
+>         “(3)  __Date of appointments__  __.—__ 
 
 >         All appointments under paragraph (1) shall be made not later than 90 days after the date of enactment of this Act \[Dec. 28, 2000\].
 
 >     “(c) __Term; Vacancies.—__ 
 
->         “(1) __Term.—__ 
+>         “(1)  __Term__  __.—__ 
 
 >         A member shall be appointed to the Commission for the life of the Commission.
 
->         “(2) __Vacancies.—__ 
+>         “(2)  __Vacancies__  __.—__ 
 
 >         A vacancy on the Commission—
 
@@ -211,25 +211,25 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >             “(B) shall be filled in the same manner as the original appointment was made.
 
->     “(d) __Initial Meeting.—__ 
+>     “(d)  __Initial Meeting__  __.—__ 
 
 >     Not later than 30 days after the date specified in subsection (b)(3) for completion of appointments, the Commission shall hold the initial meeting of the Commission.
 
->     “(e) __Meetings.—__ 
+>     “(e)  __Meetings__  __.—__ 
 
 >     The Commission shall meet at the call of the Chairperson.
 
->     “(f) __Quorum.—__ 
+>     “(f)  __Quorum__  __.—__ 
 
 >     A majority of the voting members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings.
 
->     “(g) __Chairperson and Vice Chairperson.—__ 
+>     “(g)  __Chairperson and Vice Chairperson__  __.—__ 
 
 >     The Commission shall select a Chairperson and a Vice Chairperson from among the members of the Commission at the initial meeting of the Commission.
 
 > “SEC. 6. __DUTIES.__ 
 
->     “(a) __In General.—__ 
+>     “(a)  __In General__  __.—__ 
 
 >     The Commission shall—
 
@@ -253,11 +253,11 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >     “(b) __Reports.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         For each fiscal year in which the Commission is in existence, the Commission shall submit to the President and Congress a report describing the activities of the Commission during the fiscal year.
 
->         “(2) __Contents.—__ 
+>         “(2)  __Contents__  __.—__ 
 
 >         A report under paragraph (1) may include—
 
@@ -289,39 +289,39 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >     “(a) __Hearings.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission considers advisable to carry out this Act.
 
->         “(2) __Public participation.—__ 
+>         “(2)  __Public participation__  __.—__ 
 
 >         The Commission shall provide for reasonable public participation in matters before the Commission.
 
 >     “(b) __Information From Federal Agencies.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission may secure directly from a Federal agency such information as the Commission considers necessary to carry out this Act.
 
->         “(2) __Provision of information.—__ 
+>         “(2)  __Provision of information__  __.—__ 
 
 >         On request of the Chairperson of the Commission, the head of the agency shall provide the information to the Commission.
 
->     “(c) __Postal Services.—__ 
+>     “(c)  __Postal Services__  __.—__ 
 
 >     The Commission may use the United States mails in the same manner and under the same conditions as other agencies of the Federal Government.
 
->     “(d) __Gifts.—__ 
+>     “(d)  __Gifts__  __.—__ 
 
 >     The Commission may solicit, accept, use, and dispose of, without further Act of appropriation, gifts, bequests, devises, and donations of services or property.
 
->     “(e) __Powers of Members and Agents.—__ 
+>     “(e)  __Powers of Members and Agents__  __.—__ 
 
 >     Any member or agent of the Commission may, if authorized by the Commission, take any action that the Commission is authorized to take under this Act.
 
 >     “(f) __Authority To Procure and To Make Legal Agreements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         Subject to the availability of appropriations, to carry out this Act, the Chairperson or Vice Chairperson of the Commission or the Executive Director and White House Liaison may, on behalf of the Commission—
 
@@ -331,21 +331,21 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >         “(2) __Restrictions.—__ 
 
->             “(A) __Who may act on behalf of commission.—__ 
+>             “(A)  __Who may act on behalf of commission__  __.—__ 
 
 >             Except as provided in paragraph (1), nothing in this Act authorizes a member of the Commission to procure any item or enter into any agreement described in that paragraph.
 
->             “(B) __Duration of legal agreements.—__ 
+>             “(B)  __Duration of legal agreements__  __.—__ 
 
 >             A contract, lease, or other legal agreement entered into by the Commission may not extend beyond the date of termination of the Commission.
 
->         “(3) __Supplies and property possessed by commission at termination.—__ 
+>         “(3)  __Supplies and property possessed by commission at termination__  __.—__ 
 
 >         Any supply, property, or other asset that is acquired by, and, on the date of termination of the Commission, remains in the possession of, the Commission shall be considered property of the General Services Administration.
 
 >     “(g) __Exclusive Right to Name, Logos, Emblems, Seals, and Marks.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission may devise any logo, emblem, seal, or other designating mark that the Commission determines—
 
@@ -355,7 +355,7 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >         “(2) __Licensing.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             The Commission—
 
@@ -363,15 +363,15 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >                 “(ii) shall have the sole and exclusive right to allow or refuse the use by any other entity of the name ‘White House Commission on the National Moment of Remembrance’ on any logo, emblem, seal, or descriptive or designating mark.
 
->             “(B) __Transfer on termination.—__ 
+>             “(B)  __Transfer on termination__  __.—__ 
 
 >             Unless otherwise provided by law, all rights of the Commission under subparagraph (A) shall be transferred to the Administrator of General Services on the date of termination of the Commission.
 
->         “(3) __Effect on other rights.—__ 
+>         “(3)  __Effect on other rights__  __.—__ 
 
 >         Nothing in this subsection affects any right established or vested before the date of enactment of this Act \[Dec. 28, 2000\].
 
->         “(4) __Use of funds.—__ 
+>         “(4)  __Use of funds__  __.—__ 
 
 >         The Commission may, without further Act of appropriation, use funds received from licensing royalties under this section to carry out this Act.
 
@@ -379,37 +379,37 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >     “(a) __Compensation of Members.—__ 
 
->         “(1) __Non-federal employees.—__ 
+>         “(1)  __Non-federal employees__  __.—__ 
 
 >         A member of the Commission who is not an officer or employee of the Federal Government may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission.
 
->         “(2) __Federal employees.—__ 
+>         “(2)  __Federal employees__  __.—__ 
 
 >         A member of the Commission who is an officer or employee of the Federal Government shall serve without compensation in addition to the compensation received for the services of the member as an officer or employee of the Federal Government.
 
->     “(b) __Travel Expenses.—__ 
+>     “(b)  __Travel Expenses__  __.—__ 
 
 >     A member of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
 >     “(c) __Staff.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Chairperson of the Commission or the Executive Director and White House Liaison may, without regard to the civil service laws (including regulations), appoint and terminate such additional personnel as are necessary to enable the Commission to perform the duties of the Commission.
 
 >         “(2) __Compensation.—__ 
 
->             “(A) __In general.—__ 
+>             “(A)  __In general__  __.—__ 
 
 >             Except as provided in subparagraph (B), the Chairperson of the Commission may fix the compensation of the Executive Director and White House Liaison and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates.
 
->             “(B) __Maximum rate of pay.—__ 
+>             “(B)  __Maximum rate of pay__  __.—__ 
 
 >             The rate of pay for the Executive Director and White House Liaison and other personnel shall not exceed the rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission.
 
 >     “(d) __Detail of Federal Government Employees.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         In addition to the details under paragraph (2), on request of the Chairperson, the Vice Chairperson, or the Executive Director and White House Liaison, an employee of the Federal Government may be detailed to the Commission without reimbursement.
 
@@ -417,29 +417,29 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >             “(A) __Military details.—__ 
 
->                 “(i) __Army; air force.—__ 
+>                 “(i)  __Army; air force__  __.—__ 
 
 >                 The Secretary of the Army and the Secretary of the Air Force shall each detail a commissioned officer above the grade of captain to assist the Commission in carrying out this Act.
 
->                 “(ii) __Navy.—__ 
+>                 “(ii)  __Navy__  __.—__ 
 
 >                 The Secretary of the Navy shall detail a commissioned officer of the Navy above the grade of lieutenant and a commissioned officer of the Marine Corps above the grade of captain to assist the Commission in carrying out this Act.
 
->             “(B) __Veterans affairs; education.—__ 
+>             “(B)  __Veterans affairs; education__  __.—__ 
 
 >             The Secretary of Veterans Affairs and the Secretary of Education shall each detail an officer or employee compensated above the level of GS–12 in accordance with subchapter III of chapter 53 of title 5, United States Code to assist the Commission in carrying out this Act.
 
->         “(3) __Civil service status.—__ 
+>         “(3)  __Civil service status__  __.—__ 
 
 >         The detail of any officer or employee under this subsection shall be without interruption or loss of civil service status or privilege.
 
->     “(e) __Procurement of Temporary and Intermittent Services.—__ 
+>     “(e)  __Procurement of Temporary and Intermittent Services__  __.—__ 
 
 >     The Chairperson of the Commission may procure temporary and intermittent services in accordance with [section 3109(b) of title 5][/us/usc/t5/s3109/b], United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
 
 >     “(f) __Cooperative Agreements.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Commission may enter into a cooperative agreement with another entity, including any Federal agency, State or local government, or private entity, under which the entity may assist the Commission in—
 
@@ -447,23 +447,23 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >             “(B) contributing to public awareness of and interest in Memorial Day and the National Moment of Remembrance.
 
->         “(2) __Administrative support services.—__ 
+>         “(2)  __Administrative support services__  __.—__ 
 
 >         On the request of the Commission, the Administrator of General Services shall provide to the Commission, on a reimbursable basis, any administrative support services and any property, equipment, or office space that the Commission determines to be necessary to carry out this Act.
 
->     “(g) __Support From Nonprofit Sector.—__ 
+>     “(g)  __Support From Nonprofit Sector__  __.—__ 
 
 >     The Commission may accept program support from nonprofit organizations.
 
 > “SEC. 9. __REMEMBRANCE ALLIANCE.__ 
 
->     “(a) __Establishment.—__ 
+>     “(a)  __Establishment__  __.—__ 
 
 >     There is established the Remembrance Alliance.
 
 >     “(b) __Composition.—__ 
 
->         “(1) __Members.—__ 
+>         “(1)  __Members__  __.—__ 
 
 >         The Alliance shall be composed of individuals, appointed by the Commission, that are representatives or members of—
 
@@ -489,23 +489,23 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >             “(K) families that have lost loved ones in combat.
 
->         “(2) __Honorary members.—__ 
+>         “(2)  __Honorary members__  __.—__ 
 
 >         On recommendation of the Alliance, the Commission may appoint honorary, nonvoting members to the Alliance.
 
->         “(3) __Vacancies.—__ 
+>         “(3)  __Vacancies__  __.—__ 
 
 >         Any vacancy in the membership of the Alliance shall be filled in the same manner in which the original appointment was made.
 
->         “(4) __Meetings.—__ 
+>         “(4)  __Meetings__  __.—__ 
 
 >         The Alliance shall conduct meetings in accordance with procedures approved by the Commission.
 
->     “(c) __Term.—__ 
+>     “(c)  __Term__  __.—__ 
 
 >     The Commission may fix the term of appointment for members of the Alliance.
 
->     “(d) __Duties.—__ 
+>     “(d)  __Duties__  __.—__ 
 
 >     The Alliance shall assist the Commission in carrying out this Act by—
 
@@ -521,15 +521,15 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >     “(e) __Alliance Personnel Matters.—__ 
 
->         “(1) __Compensation of members.—__ 
+>         “(1)  __Compensation of members__  __.—__ 
 
 >         A member of the Alliance shall serve without compensation for the services of the member to the Alliance.
 
->         “(2) __Travel expenses.—__ 
+>         “(2)  __Travel expenses__  __.—__ 
 
 >         A member of the Alliance may be allowed reimbursement for travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
->     “(f) __Termination.—__ 
+>     “(f)  __Termination__  __.—__ 
 
 >     The Alliance shall terminate on the date of termination of the Commission.
 
@@ -537,15 +537,15 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >     “(a) __Appointment.—__ 
 
->         “(1) __In general.—__ 
+>         “(1)  __In general__  __.—__ 
 
 >         The Director of the Committee Management Secretariat Staff of the General Services Administration shall appoint an individual as Executive Director and White House Liaison.
 
->         “(2) __Inapplicability of certain civil service laws.—__ 
+>         “(2)  __Inapplicability of certain civil service laws__  __.—__ 
 
 >         The Executive Director and White House Liaison may be appointed without regard to the provisions of title 5, United States Code, governing appointments in the competitive service.
 
->     “(b) __Duties.—__ 
+>     “(b)  __Duties__  __.—__ 
 
 >     The Executive Director and White House Liaison shall—
 
@@ -555,7 +555,7 @@ May 11, 1950, ch. 182, 64 Stat. 158.  </td>
 
 >         “(3) coordinate the efforts of the Commission and the President on all matters relating to this Act, including matters relating to the National Moment of Remembrance.
 
->     “(c) __Compensation.—__ 
+>     “(c)  __Compensation__  __.—__ 
 
 >     The Executive Director and White House Liaison may be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under [section 5315 of title 5][/us/usc/t5/s5315], United States Code, for each day (including travel time) during which the Executive Director and White House Liaison is engaged in the performance of the duties of the Commission.
 

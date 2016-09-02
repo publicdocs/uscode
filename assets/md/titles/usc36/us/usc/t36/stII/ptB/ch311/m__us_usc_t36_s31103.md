@@ -15,15 +15,15 @@
 
 ## § 31103. Membership
 
-    (a) __Eligibility.—__ 
+    (a)  __Eligibility__  __.—__ 
 
     Except as provided in this chapter, eligibility for membership in the corporation and the rights, privileges, and designation of classes of members are as provided in the constitution and bylaws of the corporation.
 
-    (b) __Voting.—__ 
+    (b)  __Voting__  __.—__ 
 
     Each member has one vote on each matter submitted to a vote at a meeting of the members.
 
-    (c) __Benefits of Member Organizations.—__ 
+    (c)  __Benefits of Member Organizations__  __.—__ 
 
     Each organization that is a member of the corporation as provided in the constitution of the corporation is entitled to all the benefits of incorporation under this chapter. Those benefits cease immediately on termination of membership, whether by—
 

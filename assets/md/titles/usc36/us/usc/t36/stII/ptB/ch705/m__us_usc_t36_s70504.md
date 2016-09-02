@@ -15,7 +15,7 @@
 
 ## § 70504. Governing body
 
-    (a) __Board of Directors.—__ 
+    (a)  __Board of Directors__  __.—__ 
 
         (1) The board of directors is the governing body of the corporation. The board may exercise, or provide for the exercise of, the powers of the corporation.
 
@@ -25,7 +25,7 @@
 
         (4) The president of the corporation is the chairman of the board and of the prudential committee.
 
-    (b) __Officers.—__ 
+    (b)  __Officers__  __.—__ 
 
         (1) The officers of the corporation are a president, a vice president, a secretary, a treasurer, a historian, and other officers provided for in the bylaws. The powers of the officers are as provided in the bylaws.
 

@@ -15,11 +15,11 @@
 
 ## § 30906. Restrictions
 
-    (a) __Profit.—__ 
+    (a)  __Profit__  __.—__ 
 
     The corporation may not operate for pecuniary profit to its members.
 
-    (b) __Stocks and Dividends.—__ 
+    (b)  __Stocks and Dividends__  __.—__ 
 
     The corporation may not issue stock or declare or pay a dividend.
 

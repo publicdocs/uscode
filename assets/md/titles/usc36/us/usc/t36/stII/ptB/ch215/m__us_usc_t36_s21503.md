@@ -15,13 +15,13 @@
 
 ## § 21503. Governing body
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
         (1) The board of governors is the governing body of the corporation.
 
         (2) The board shall have at least 12 governors, divided into 3 classes of equal numbers. One class of governors shall be elected each year for a term of 3 years or until their successors are elected. The corporation shall elect the governors at its annual meeting.
 
-    (b) __Quorum.—__ 
+    (b)  __Quorum__  __.—__ 
 
     Five governors are a quorum for the transaction of business, except that a majority vote of the board is required for—
 
@@ -29,7 +29,7 @@
 
         (2) the leasing of real estate of the corporation for a term of more than one year.
 
-    (c) __Powers.—__ 
+    (c)  __Powers__  __.—__ 
 
     The board may—
 

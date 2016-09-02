@@ -15,11 +15,11 @@
 
 ## § 144. Patriot Day
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     September 11 is Patriot Day.
 
-    (b) __Proclamation.—__ 
+    (b)  __Proclamation__  __.—__ 
 
     The President is requested to issue each year a proclamation calling on—
 

@@ -15,15 +15,15 @@
 
 ## § 21501. Organization
 
-    (a) __Federal Charter.—__ 
+    (a)  __Federal Charter__  __.—__ 
 
     American Hospital of Paris (in this chapter, the “corporation”) is a federally chartered corporation.
 
-    (b) __Place of Incorporation.—__ 
+    (b)  __Place of Incorporation__  __.—__ 
 
     The corporation is declared to be incorporated in the District of Columbia.
 
-    (c) __Perpetual Existence.—__ 
+    (c)  __Perpetual Existence__  __.—__ 
 
     Except as otherwise provided, the corporation has perpetual existence.
 

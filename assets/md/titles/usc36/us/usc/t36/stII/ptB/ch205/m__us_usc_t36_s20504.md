@@ -15,15 +15,15 @@
 
 ## § 20504. Cooperation with the military
 
-    (a) __Investigations, Examinations, Experiments, and Reports.—__ 
+    (a)  __Investigations, Examinations, Experiments, and Reports__  __.—__ 
 
     When requested by the Secretary of the Army, Air Force, or Navy, the corporation shall investigate, examine, experiment, and report on any subject in pure or applied chemistry connected with the national defense.
 
-    (b) __Payments.—__ 
+    (b)  __Payments__  __.—__ 
 
     The actual expense of those investigations, examinations, experiments, and reports shall be paid from amounts appropriated for those purposes, but the corporation may not receive compensation for any services performed for the United States Government.
 
-    (c) __Title and License.—__ 
+    (c)  __Title and License__  __.—__ 
 
     Title to inventions and discoveries made in the course of those investigations, examinations, and experiments that the appropriate Secretary believes involve the national defense vest in the Government. The Government shall have unlimited license under other inventions and discoveries made in the course of those investigations, examinations, and experiments.
 

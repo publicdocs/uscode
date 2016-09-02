@@ -15,7 +15,7 @@
 
 ## § 2103. Administrative
 
-    (a) __General Authority.—__ 
+    (a)  __General Authority__  __.—__ 
 
     Subject to appropriations made to carry out this chapter, the American Battle Monuments Commission may—
 
@@ -29,19 +29,19 @@
 
         (5) procure printing, binding, engraving, lithographing, photographing, and typewriting, including the publication of information on United States activities, battlefields, memorials, and cemeteries with respect to which the Commission may exercise any duties and powers.
 
-    (b) __Disposition of Land.—__ 
+    (b)  __Disposition of Land__  __.—__ 
 
     Under conditions and in the manner the Commission decides is proper, the Commission may dispose of land or an interest in land in a foreign country that the Commission acquires in connection with its work.
 
-    (c) __Contracting Out.—__ 
+    (c)  __Contracting Out__  __.—__ 
 
     Notwithstanding the requirements of existing laws or regulations, the Commission, under conditions the Commission decides are necessary and proper, may contract for work, supplies, materials, and equipment outside or for use outside the United States and engage the services of architects and other technical and professional personnel.
 
-    (d) __Delegation.—__ 
+    (d)  __Delegation__  __.—__ 
 
     Under conditions the Commission may prescribe, the Commission may delegate to its Chairman, secretary, or officials in charge of any of its offices any of its authority it considers necessary and proper.
 
-    (e) __Solicitation and Receipt of Contributions.—__ 
+    (e)  __Solicitation and Receipt of Contributions__  __.—__ 
 
         (1) The Commission may solicit and receive funds and in-kind donations and gifts from any State, municipal, or private source to carry out the purposes of this chapter. The Commission shall deposit such funds in a separate account in the Treasury. Funds from that account shall be disbursed upon vouchers approved by the Chairman of the Commission.
 
@@ -53,27 +53,27 @@
 
             (B) compromise the integrity or the appearance of the integrity of the programs of the Commission or any official involved in those programs.
 
-    (f) __Limitation on Use of Contributions.—__ 
+    (f)  __Limitation on Use of Contributions__  __.—__ 
 
     The Commission may not obligate, withdraw, or expend amounts received as contributions before March 1, 1998.
 
-    (g) __Statements to President.—__ 
+    (g)  __Statements to President__  __.—__ 
 
     The Commission shall transmit to the President on October 1 of each year a statement of all its financial and other transactions during the prior fiscal year.
 
-    (h) __Financial Statements and Audits.—__ 
+    (h)  __Financial Statements and Audits__  __.—__ 
 
     The Commission shall have a system of financial controls to enable the Commission to comply with the requirements of [section 3515 of title 31][/us/usc/t31/s3515] and with [section 2106(d)(4) of this title][/us/usc/t36/s2106/d/4].
 
-    (i) __Disposition of Records and Archives.—__ 
+    (i)  __Disposition of Records and Archives__  __.—__ 
 
     When no longer required by the Commission, the records and archives of the Commission shall be deposited with the National Archives in accordance with [section 2107 of title 44][/us/usc/t44/s2107].
 
-    (j) __Seal.—__ 
+    (j)  __Seal__  __.—__ 
 
     The Commission shall have a seal that shall be judicially noticed.
 
-    (k) __Disbursements Outside Continental United States.—__ 
+    (k)  __Disbursements Outside Continental United States__  __.—__ 
 
     Disbursements for expenditures outside the continental United States may be made by a special disbursing agent designated by the Commission under regulations it prescribes.
 

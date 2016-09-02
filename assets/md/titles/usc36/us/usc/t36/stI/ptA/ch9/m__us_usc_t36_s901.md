@@ -15,19 +15,19 @@
 
 ## § 901. Service flag and service lapel button
 
-    (a) __Individuals Entitled To Display Service Flag.—__ 
+    (a)  __Individuals Entitled To Display Service Flag__  __.—__ 
 
     A service flag approved by the Secretary of Defense may be displayed in a window of the place of residence of individuals who are members of the immediate family of an individual serving in the Armed Forces of the United States during any period of war or hostilities in which the Armed Forces of the United States are engaged.
 
-    (b) __Individuals Entitled To Display Service Lapel Button.—__ 
+    (b)  __Individuals Entitled To Display Service Lapel Button__  __.—__ 
 
     A service lapel button approved by the Secretary may be worn by members of the immediate family of an individual serving in the Armed Forces of the United States during any period of war or hostilities in which the Armed Forces of the United States are engaged.
 
-    (c) __License To Manufacture and Sell Service Flags and Service Lapel Buttons.—__ 
+    (c)  __License To Manufacture and Sell Service Flags and Service Lapel Buttons__  __.—__ 
 
     Any person may apply to the Secretary for a license to manufacture and sell the approved service flag, or the approved service lapel button, or both. Any person that manufactures a service flag or service lapel button without having first obtained a license, or otherwise violates this section is liable to the United States Government for a civil penalty of not more than $1,000.
 
-    (d) __Regulations.—__ 
+    (d)  __Regulations__  __.—__ 
 
     The Secretary may prescribe regulations necessary to carry out this section.
 

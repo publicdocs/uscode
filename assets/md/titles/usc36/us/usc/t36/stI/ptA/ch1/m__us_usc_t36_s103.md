@@ -15,7 +15,7 @@
 
 ## § 103. Cancer Control Month
 
-    (a) __General.—__ 
+    (a)  __General__  __.—__ 
 
     The President is requested—
 
@@ -23,7 +23,7 @@
 
         (2) to invite each year the chief executive officers of the States, territories, and possessions of the United States to issue proclamations designating April as Cancer Control Month.
 
-    (b) __Contents of Proclamations.—__ 
+    (b)  __Contents of Proclamations__  __.—__ 
 
     As part of those proclamations, the chief executive officers and President are requested to invite the medical profession, the press, and all agencies and individuals interested in a national program for the control of cancer by education and other cooperative means to unite during Cancer Control Month in a public dedication to the program and in a concerted effort to make the people of the United States aware of the need for the program.
 

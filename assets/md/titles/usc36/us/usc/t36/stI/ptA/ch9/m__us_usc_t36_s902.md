@@ -15,11 +15,11 @@
 
 ## § 902. National League of Families POW/MIA flag
 
-    (a) __Designation.—__ 
+    (a)  __Designation__  __.—__ 
 
     The National League of Families POW/MIA flag is designated as the symbol of our Nation’s concern and commitment to resolving as fully as possible the fates of Americans still prisoner, missing, and unaccounted for in Southeast Asia, thus ending the uncertainty for their families and the Nation.
 
-    (b) __Required Display.—__ 
+    (b)  __Required Display__  __.—__ 
 
     The POW/MIA flag shall be displayed at the locations specified in subsection (d) of this section on POW/MIA flag display days. The display serves—
 
@@ -27,7 +27,7 @@
 
         (2) as the symbol of the Nation’s commitment to achieving the fullest possible accounting for Americans who in the future may become prisoners of war, missing in action, or otherwise unaccounted for as a result of hostile action.
 
-    (c) __Days for Flag Display.—__ 
+    (c)  __Days for Flag Display__  __.—__ 
 
         (1)
 
@@ -55,7 +55,7 @@
 
             (C) in the case of display at United States Postal Service post offices (required by subsection (d)(8) of this section), the last business day before a day specified in paragraph (1) that in any year is not itself a business day.
 
-    (d) __Locations for Flag Display.—__ 
+    (d)  __Locations for Flag Display__  __.—__ 
 
     The locations for the display of the POW/MIA flag under subsection (b) of this section are the following:
 
@@ -85,15 +85,15 @@
 
         (8) Each United States Postal Service post office.
 
-    (e) __Coordination With Other Display Requirement.—__ 
+    (e)  __Coordination With Other Display Requirement__  __.—__ 
 
     Display of the POW/MIA flag at the Capitol pursuant to subsection (d)(1) of this section is in addition to the display of that flag in the Rotunda of the Capitol pursuant to Senate Concurrent Resolution 5 of the 101st Congress, agreed to on February 22, 1989 ([103 Stat. 2533][/us/stat/103/2533]).
 
-    (f) __Display To Be in a Manner Visible to the Public.—__ 
+    (f)  __Display To Be in a Manner Visible to the Public__  __.—__ 
 
     Display of the POW/MIA flag pursuant to this section shall be in a manner designed to ensure visibility to the public.
 
-    (g) __Limitation.—__ 
+    (g)  __Limitation__  __.—__ 
 
     This section may not be construed or applied so as to require any employee to report to work solely for the purpose of providing for the display of the POW/MIA flag.
 
