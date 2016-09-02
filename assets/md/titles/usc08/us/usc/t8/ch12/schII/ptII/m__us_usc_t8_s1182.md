@@ -2717,6 +2717,38 @@
 
     For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under [section 1551 of this title][/us/usc/t8/s1551].
 
+ __Treatment of Kurdistan Democratic Party and Patriotic Union of Kurdistan Under the Immigration and Nationality Act__ 
+
+[Pub. L. 113–291, div. A, title XII, § 1264][/us/pl/113/291/s1264], Dec. 19, 2014, [128 Stat. 3582][/us/stat/128/3582], provided that:
+
+>     “(a) __Removal of the Kurdistan Democratic Party and the Patriotic Union of Kurdistan From Treatment as Terrorist Organizations.—__ 
+
+>         “(1)  __In general__  __.—__ 
+
+>         Except as provided in paragraph (2), the Kurdistan Democratic Party and the Patriotic Union of Kurdistan shall be excluded from the definition of terrorist organization (as defined in section 212(a)(3)(B)(vi)(III) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)(B)(vi)(III)][/us/usc/t8/s1182/a/3/B/vi/III])) for purposes of such section 212(a)(3)(B).
+
+>         “(2)  __Exception__  __.—__ 
+
+>         The Secretary of State, after consultation with the Secretary of Homeland Security and the Attorney General, or the Secretary of Homeland Security, after consultation with the Secretary of State and the Attorney General, may suspend the application of paragraph (1) for either or both of the groups referred to in paragraph (1) in such Secretary’s sole and unreviewable discretion. Prior to or contemporaneous with such suspension, the Secretary of State or the Secretary of Homeland Security shall report their reasons for suspension to the Committees on Judiciary of the House of Representatives and of the Senate, the Committees on Appropriations in the House of Representatives and of the Senate, the Committee on Foreign Affairs of the House of Representatives, the Committee on Foreign Relations of the Senate, the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs of the Senate.
+
+>     “(b) __Relief Regarding Admissibility of Nonimmigrant Aliens Associated With the Kurdistan Democratic Party and the Patriotic Union of Kurdistan.—__ 
+
+>         “(1)  __For activities opposing the ba’ath regime__  __.—__ 
+
+>         Paragraph (3)(B) of section 212(a) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)(B)][/us/usc/t8/s1182/a/3/B]) shall not apply to an alien with respect to activities undertaken in association with the Kurdistan Democratic Party or the Patriotic Union of Kurdistan in opposition to the regime of the Arab Socialist Ba’ath Party and the autocratic dictatorship of Saddam Hussein in Iraq.
+
+>         “(2)  __For membership in the kurdistan democratic party and patriotic union of kurdistan__  __.—__ 
+
+>         Paragraph (3)(B) of section 212(a) of the Immigration and Nationality Act ([8 U.S.C. 1182(a)(3)(B)][/us/usc/t8/s1182/a/3/B]) shall not apply to an alien applying for a nonimmigrant visa, who presents themselves for inspection to an immigration officer at a port of entry as a nonimmigrant, or who is applying in the United States for nonimmigrant status, and who is a member of the Kurdistan Democratic Party or the Patriotic Union of Kurdistan and currently serves or has previously served as a senior official (such as Prime Minister, Deputy Prime Minister, Minister, Deputy Minister, President, Vice-President, Member of Parliament, provincial Governor or member of the National Security Council) of the Kurdistan Regional Government or the federal government of the Republic of Iraq.
+
+>         “(3)  __Exception__  __.—__ 
+
+>         Neither paragraph (1) nor paragraph (2) shall apply if the Secretary of State or the Secretary of Homeland Security (or a designee of one of such Secretaries) determine in their sole unreviewable discretion that such alien poses a threat to the safety and security of the United States, or does not warrant a visa, admission to the United States, or a grant of an immigration benefit or protection, in the totality of the circumstances. This provision shall be implemented by the Secretary of State and the Secretary of Homeland Security in consultation with the Attorney General.
+
+>     “(c)  __Prohibition on Judicial Review__  __.—__ 
+
+>     Notwithstanding any other provision of law (whether statutory or nonstatutory), section 242 of the Immigration and Nationality Act ([8 U.S.C. 1252][/us/usc/t8/s1252]), sections 1361 and 1651 of title 28, United States Code, section 2241 of such title, and any other habeas corpus provision of law, no court shall have jurisdiction to review any determination made pursuant to this section.”
+
  __African National Congress; Waiver of Certain Inadmissibility Grounds__ 
 
 [Pub. L. 110–257][/us/pl/110/257], §§ 2, 3, July 1, 2008, [122 Stat. 2426][/us/stat/122/2426], provided that:
@@ -4269,6 +4301,12 @@ By the authority vested in me as President by the Constitution and the laws of t
 [/us/stat/110/3009-562]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F110%2F3009-562
 [/us/usc/t8/s1182/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Ff
 [/us/usc/t8/s1551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1551
+[/us/pl/113/291/s1264]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1264
+[/us/stat/128/3582]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3582
+[/us/usc/t8/s1182/a/3/B/vi/III]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB%2Fvi%2FIII
+[/us/usc/t8/s1182/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB
+[/us/usc/t8/s1182/a/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F3%2FB
+[/us/usc/t8/s1252]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1252
 [/us/pl/110/257]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F257
 [/us/stat/122/2426]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2426
 [/us/usc/t8/s1182/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa

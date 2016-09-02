@@ -2295,7 +2295,7 @@
 
  __Afghan Allies Protection__ 
 
-[Pub. L. 111–8, div. F, title VI][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 807][/us/stat/123/807], as amended by [Pub. L. 111–118, div. A, title VIII, § 8120(b)][/us/pl/111/118/s8120/b], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 113–66, div. A, title XII, § 1219][/us/pl/113/66/s1219], Dec. 26, 2013, [127 Stat. 913][/us/stat/127/913]; [Pub. L. 113–76, div. K, title VII, § 7034][/us/pl/113/76/s7034](o), Jan. 17, 2014, [128 Stat. 516][/us/stat/128/516]; [Pub. L. 113–160, § 1][/us/pl/113/160/s1], Aug. 8, 2014, [128 Stat. 1853][/us/stat/128/1853], provided that:
+[Pub. L. 111–8, div. F, title VI][/us/pl/111/8], Mar. 11, 2009, [123 Stat. 807][/us/stat/123/807], as amended by [Pub. L. 111–118, div. A, title VIII, § 8120(b)][/us/pl/111/118/s8120/b], Dec. 19, 2009, [123 Stat. 3457][/us/stat/123/3457]; [Pub. L. 113–66, div. A, title XII, § 1219][/us/pl/113/66/s1219], Dec. 26, 2013, [127 Stat. 913][/us/stat/127/913]; [Pub. L. 113–76, div. K, title VII, § 7034][/us/pl/113/76/s7034](o), Jan. 17, 2014, [128 Stat. 516][/us/stat/128/516]; [Pub. L. 113–160, § 1][/us/pl/113/160/s1], Aug. 8, 2014, [128 Stat. 1853][/us/stat/128/1853]; [Pub. L. 113–291, div. A, title XII, § 1227][/us/pl/113/291/s1227], Dec. 19, 2014, [128 Stat. 3552][/us/stat/128/3552], provided that:
 
 > “SEC. 601. __SHORT TITLE.__ 
 
@@ -2333,11 +2333,23 @@
 
 >                 “(i) is a citizen or national of Afghanistan;
 
->                 “(ii) was or is employed by or on behalf of the United States Government in Afghanistan on or after October 7, 2001, for not less than one year;
+>                 “(ii)
 
->                 “(iii) provided faithful and valuable service to the United States Government, which is documented in a positive recommendation or evaluation, subject to subparagraph (D), from the employee’s senior supervisor or the person currently occupying that position, or a more senior person, if the employee’s senior supervisor has left the employer or has left Afghanistan; and
+>                  was or is employed in Afghanistan on or after October 7, 2001, for not less than 1 year—
 
->                 “(iv) has experienced or is experiencing an ongoing serious threat as a consequence of the alien’s employment by the United States Government.
+>                          “(I) by, or on behalf of, the United States Government; or
+
+>                          “(II)
+
+>                      by the International Security Assistance Force in a capacity that required the alien—
+
+>                         “(aa) while traveling off-base with United States military personnel stationed at International Security Assistance Force, to serve as an interpreter or translator for such United States military personnel; or
+
+>                         “(bb) to perform sensitive and trusted activities for United States military personnel stationed at International Security Assistance Force;
+
+>                 “(iii) provided faithful and valuable service to an entity or organization described in clause (ii), which is documented in a positive recommendation or evaluation, subject to subparagraph (D), from the employee’s senior supervisor or the person currently occupying that position, or a more senior person, if the employee’s senior supervisor has left the employer or has left Afghanistan; and
+
+>                 “(iv) has experienced or is experiencing an ongoing serious threat as a consequence of the alien’s employment described in clause (ii).
 
 >             “(B)  __Spouse or child__  __.—__ 
 
@@ -2448,6 +2460,16 @@
 >                 “(ii)  __Construction__  __.—__ 
 
 >                 Clause (i) shall not be construed to affect the authority, numerical limitations, or terms for provision of status, under subparagraph (D).
+
+>             “(F)  __Fiscal years 2015 and 2016__  __.—__ 
+
+>             In addition to any unused balance under subparagraph (D), for the period beginning on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and ending on September 30, 2016, the total number of principal aliens who may be provided special immigrant status under this section shall not exceed 4,000. For purposes of status provided under this subparagraph—
+
+>                 “(i) the period during which an alien must have been employed in accordance with paragraph (2)(A)(ii) must terminate on or before September 30, 2015;
+
+>                 “(ii) the principal alien seeking special immigrant status under this subparagraph shall apply to the Chief of Mission in accordance with paragraph (2)(D) not later than December 31, 2015; and
+
+>                 “(iii) the authority to issue visas shall commence on the date of the enactment of this subparagraph \[Dec. 19, 2014\] and shall terminate on March 31, 2017.
 
 >         “(4) __Application process.—__ 
 
@@ -2582,6 +2604,32 @@
 >         “(13)  __Public quarterly reports__  __.—__ 
 
 >         Not later than 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2014 \[Dec. 26, 2013\], and every 3 months thereafter, the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall publish a report on the website of the Department of State that describes the efficiency improvements made in the process by which applications for special immigrant visas under this subsection are processed, including information described in clauses (iii) through (viii) of paragraph (12)(B).
+
+>         “(14)  __Report__  __.—__ 
+
+>         Not later than 60 days after the date of the enactment of this paragraph \[Dec. 19, 2014\], the Secretary of State and the Secretary of Homeland Security, in consultation with the Secretary of Defense, shall submit a report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives containing the following information:
+
+>             “(A)
+
+>              The occupations of aliens who—
+
+>                 “(i) were provided special immigrant status under this section; and
+
+>                 “(ii) were considered principal aliens for such purpose.
+
+>             “(B) The number of appeals submitted under paragraph (2)(D)(ii)(I)(bb) from application denials by the Chief of Mission and the number of those applications that were approved pursuant to the appeal.
+
+>             “(C) The number of applications denied by the Chief of Mission on the basis of derogatory information that were appealed and the number of those applications that were approved pursuant to the appeal.
+
+>             “(D) The number of applications denied by the Chief of Mission on the basis that the applicant did not establish faithful and valuable service to the United States Government that were appealed and the number of those applications that were approved pursuant to the appeal.
+
+>             “(E) The number of applications denied by the Chief of Mission for failure to establish the one-year period of employment required that were appealed and the number of those applications that were approved pursuant to the appeal.
+
+>             “(F) The number of applications denied by the Chief of Mission for failure to establish employment by or on behalf of the United States Government that were appealed and the number of those applications that were approved pursuant to the appeal.
+
+>             “(G) The number of special immigrant status approvals revoked by the Chief of Mission and the reason for each revocation.
+
+>             “(H) The number of special immigrant status approvals revoked by the Chief of Mission that were appealed and the number of those revocations that were overturned pursuant to the appeal.
 
 >     “(c) __Information Regarding Citizens or Nationals of Afghanistan Employed by the United States or Federal Contractors in Afghanistan.—__ 
 
@@ -4569,6 +4617,8 @@ This Administration has had success deterring large ship-based smuggling directl
 [/us/stat/128/516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F516
 [/us/pl/113/160/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F160%2Fs1
 [/us/stat/128/1853]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F1853
+[/us/pl/113/291/s1227]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291%2Fs1227
+[/us/stat/128/3552]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3552
 [/us/usc/t8/s1101/a/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1101%2Fa%2F27
 [/us/usc/t8/s1153/b/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1153%2Fb%2F4
 [/us/usc/t8/s1182/a/4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft8%2Fs1182%2Fa%2F4
