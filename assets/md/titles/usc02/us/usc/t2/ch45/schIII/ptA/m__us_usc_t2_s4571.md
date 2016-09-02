@@ -81,11 +81,11 @@
 
  __Order of the President Pro Tempore of the United States Senate__ 
 
- __December 23, 2014__ 
+ __January 27, 2014__ 
 
-    By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 ([2 U.S.C. 4571][/us/usc/t2/s4571]) in order—
+    By virtue of the authority vested in me by section 4 of the Federal Pay Comparability Act of 1970 ([2 U.S.C. 60a–1][/us/usc/t2/s60a–1]) \[now [2 U.S.C. 4571][/us/usc/t2/s4571]\] in order—
 
-    (1) to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 ([5 U.S.C. 5318][/us/usc/t5/s5318] note; [Public Law 101–194][/us/pl/101/194]) and the amendments made by such section \[amending [section 4501 of this title][/us/usc/t2/s4501], [section 104 of Title 3][/us/usc/t3/s104], The President, [section 5318 of Title 5][/us/usc/t5/s5318], Government Organization and Employees, and [section 461 of Title 28][/us/usc/t28/s461], Judiciary and Judicial Procedure\]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2015, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code, and
+    (1) to provide (subject to the provisions of section 704 of the Ethics Reform Act of 1989 ([5 U.S.C. 5318][/us/usc/t5/s5318] note; [Public Law 101–194][/us/pl/101/194]) and the amendments made by such section \[amending [section 4501 of this title][/us/usc/t2/s4501], [section 104 of Title 3][/us/usc/t3/s104], The President, [section 5318 of Title 5][/us/usc/t5/s5318], Government Organization and Employees, and [section 461 of Title 28][/us/usc/t28/s461], Judiciary and Judicial Procedure\]) increases in the annual rates of compensation for officers and employees of the Senate that are comparable to the increases in rates of pay under the General Schedule taking effect on January 1, 2014, pursuant to sections 5303 and 5304 or 5304a of title 5, United States Code, and
 
     (2) to provide (subject to such provisions of law) for the restoration of, and to maintain in effect, the same pay relationships that existed on December 31, 1986, between personnel and Senators and between Senate positions,
 
@@ -139,37 +139,37 @@
 
     (13) The appointing authority of any Senate entity not referred to under paragraphs (1) through (12) for any employee under its jurisdiction.
 
-    (b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)][/us/usc/t2/s4575/f]) (as such rate is adjusted in section 7(b) of this order).
+    (b) Except for those officers and employees referred to in section 2 of this Order, no officer or employee within the Office of the Secretary of the Senate and no officer or employee within the Office of the Sergeant at Arms and Doorkeeper shall, for any period of time, be paid gross compensation at an annual rate which is in excess of the maximum prescribed in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 61–1(f)][/us/usc/t2/s61–1/f]) \[now [2 U.S.C. 4575(f)][/us/usc/t2/s4575/f]\] (as such rate is adjusted in section 7(b) of this order).
 
  __committee staffs__ 
 
-    Sec. 5. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575][/us/usc/t2/s4575]) (as modified by this Order), and to the other provisions of this Order, the chairman of any standing, special, or select committee of the Senate (including the majority and minority policy committees and the conference majority and the conference minority of the Senate), and the chairman of any joint committee of the Congress whose funds are disbursed by the Secretary of the Senate, are each authorized to increase the annual rate of compensation of any employee of the committee, or any subcommittee thereof, of which he is chairman, subject to applicable limitations adjusted by this Order.
+    Sec. 5. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 61–1][/us/usc/t2/s61–1]) \[now [2 U.S.C. 4575][/us/usc/t2/s4575]\] (as modified by this Order), and to the other provisions of this Order, the chairman of any standing, special, or select committee of the Senate (including the majority and minority policy committees and the conference majority and the conference minority of the Senate), and the chairman of any joint committee of the Congress whose funds are disbursed by the Secretary of the Senate, are each authorized to increase the annual rate of compensation of any employee of the committee, or any subcommittee thereof, of which he is chairman, subject to applicable limitations adjusted by this Order.
 
-    (b) The maximum annual rate of “$171,315” referred to in section 105(e) of the Legislative Branch Appropriations Act, 1968 \[probably means the Legislative Branch Appropriation Act, 1968, [Pub. L. 90–57][/us/pl/90/57]\] ([2 U.S.C. 4575(e)][/us/usc/t2/s4575/e]) (as provided for in section 5(b) of the Order of the President pro tempore of January 27, 2014) shall remain unchanged.
+    (b) The maximum annual rate of “$171,315” referred to in section 105(e) of the Legislative Branch Appropriations Act, 1968 ([2 U.S.C. 61–1(e)][/us/usc/t2/s61–1/e]) \[now [2 U.S.C. 4575(e)][/us/usc/t2/s4575/e]\] (as provided for in section 5(b) of the Order of the President pro tempore of January 5, 2010) shall remain unchanged.
 
  __senators’ offices__ 
 
-    Sec. 6. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575][/us/usc/t2/s4575]), as modified by this Order, and to the other provisions of this Order, each Senator is authorized to increase the annual rate of compensation of any employee in his office, subject to applicable limitations adjusted by this Order.
+    Sec. 6. (a) Subject to the provisions of section 105 of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 61–1][/us/usc/t2/s61–1]) \[now [2 U.S.C. 4575][/us/usc/t2/s4575]\], as modified by this Order, and to the other provisions of this Order, each Senator is authorized to increase the annual rate of compensation of any employee in his office, subject to applicable limitations adjusted by this Order.
 
-    (b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2014, increased by an additional 1.00 percent.
+    (b) Each of the dollar amounts contained in the table under section 105(d)(1)(A) of such Act shall be deemed to be the dollar amounts in that table, as adjusted by law and in effect on December 31, 2013, increased by an additional 1.00 percent.
 
-    (c) The figures “$2,770” and “$169,459” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(d)(2)][/us/usc/t2/s4575/d/2]) (as provided in section 6(c) of the Order of the President pro tempore of January 27, 2014) shall be deemed to be the figures “$2,798” and “$169,459”, respectively.
+    (c) The figures “$2,742” and “$169,459” referred to in the second sentence of section 105(d)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 61–1(d)(2)][/us/usc/t2/s61–1/d/2]) \[now [2 U.S.C. 4575(d)(2)][/us/usc/t2/s4575/d/2]\] (as provided in section 6(c) of the Order of the President pro tempore of January 5, 2010) shall be deemed to be the figures “$2,770” and “$169,459”, respectively.
 
-    (d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 \[[Pub. L. 95–94][/us/pl/95/94]\] ([2 U.S.C. 4575][/us/usc/t2/s4575] note), as amended by section 1 of the Legislative Branch Appropriations Act, 1993 ([Public Law 102–392][/us/pl/102/392]; [106 Stat. 1706][/us/stat/106/1706]) shall be $508,377.
+    (d) The amount referred to under section 111(a) of the Legislative Branch Appropriation Act, 1978 \[[Pub. L. 95–94][/us/pl/95/94]\] ([2 U.S.C. 61–1][/us/usc/t2/s61–1] note) \[now [2 U.S.C. 4575][/us/usc/t2/s4575] note\], as amended by section 1 of the Legislative Branch Appropriations Act, 1993 ([Public Law 102–392][/us/pl/102/392]; [106 Stat. 1706][/us/stat/106/1706]) shall be $508,377.
 
  __general limitation__ 
 
-    Sec. 7. (a) The figure “$2,770” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)][/us/usc/t2/s4575/f]) (as provided in section 7(a) of the Order of the President pro tempore of January 27, 2014) shall be deemed to be the figure “$2,798”.
+    Sec. 7. (a) The figure “$2,742” referred to in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 61–1(f)][/us/usc/t2/s61–1/f]) \[now [2 U.S.C. 4575(f)][/us/usc/t2/s4575/f]\] (as provided in section 7(a) of the Order of the President pro tempore of January 5, 2010) shall be deemed to be the figure “$2,770”.
 
-    (b) The maximum annual rate of compensation of “$169,459” appearing in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(f)][/us/usc/t2/s4575/f]) (as provided for in section 7(b) of the Order of the President pro tempore of January 27, 2014) shall remain unchanged.
+    (b) The maximum annual rate of compensation of “$169,459” appearing in section 105(f) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 61–1(f)][/us/usc/t2/s61–1/f]) \[now [2 U.S.C. 4575(f)][/us/usc/t2/s4575/f]\] (as provided for in section 7(b) of the Order of the President pro tempore of January 5, 2010) shall remain unchanged.
 
  __notifying disbursing office of increases__ 
 
-    Sec. 8. In order for an employee to receive the increase in his annual rate of compensation pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that he authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)][/us/usc/t2/s4575/a/2])) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 4575(a)(2)][/us/usc/t2/s4575/a/2]), except that if the notice required by the preceding sentence is given within five days (not counting Saturdays, Sundays, or holidays) after the date on which this Order is issued, such increase may become effective on January 1, 2015.
+    Sec. 8. In order for an employee to receive the increase in his annual rate of compensation pursuant to section 4, 5, or 6, the individual designated to authorize such increases for that employee shall notify the Disbursing Office of the Senate in writing that he authorizes such increase for that employee and the date (prescribed in accordance with section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 61–1(a)(2)][/us/usc/t2/s61–1/a/2]) \[now [2 U.S.C. 4575(a)(2)][/us/usc/t2/s4575/a/2]\]) on which such increase is to be effective. Such increase shall become effective as provided in section 105(a)(2) of the Legislative Branch Appropriation Act, 1968 ([2 U.S.C. 61–1(a)(2)][/us/usc/t2/s61–1/a/2]) \[now [2 U.S.C. 4575(a)(2)][/us/usc/t2/s4575/a/2]\], except that if the notice required by the preceding sentence is given within five days (not counting Saturdays, Sundays, or holidays) after the date on which this Order is issued, such increase may become effective on January 1, 2014.
 
  __dual compensation__ 
 
-    Sec. 9. The figure “$33,334” referred to in [section 5533(c)(1) of title 5][/us/usc/t5/s5533/c/1], United States Code (as provided in section 9 of the Order of the President pro tempore of January 27, 2014) shall be deemed to be the figure “$33,668”.
+    Sec. 9. The figure “$33,003” referred to in [section 5533(c)(1) of title 5][/us/usc/t5/s5533/c/1], United States Code (as provided in section 9 of the Order of the President pro tempore of January 5, 2010) shall be deemed to be the figure “$33,334”.
 
  __office of the senate legal counsel__ 
 
@@ -181,15 +181,13 @@
 
  __effective date__ 
 
-    Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2015.
+    Sec. 11. Sections 1 through 10 of this Order are effective on and after January 1, 2014.
 
                               Patrick J. Leahy  
 
 President pro tempore
 
     Prior Orders of the President pro tempore of the Senate were issued on the following dates:
-
-    Jan. 27, 2014, eff. Jan. 1, 2014.
 
     Jan. 5, 2010, eff. Jan. 1, 2010.
 
@@ -397,6 +395,7 @@ President pro tempore
 [/us/pl/92/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392
 [/us/pl/92/392/s15/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F392%2Fs15%2Fa
 [/us/usc/t5/s5341]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5341
+[/us/usc/t2/s60a–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs60a%E2%80%931
 [/us/usc/t2/s4571]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4571
 [/us/usc/t5/s5318]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5318
 [/us/pl/101/194]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F194
@@ -406,19 +405,28 @@ President pro tempore
 [/us/usc/t28/s461]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft28%2Fs461
 [/us/usc/t5/s5315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5315
 [/us/usc/t2/s288/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs288%2Fb
+[/us/usc/t2/s61–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Ff
 [/us/usc/t2/s4575/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Ff
+[/us/usc/t2/s61–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931
 [/us/usc/t2/s4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575
-[/us/pl/90/57]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F90%2F57
+[/us/usc/t2/s61–1/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Fe
 [/us/usc/t2/s4575/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fe
+[/us/usc/t2/s61–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931
 [/us/usc/t2/s4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575
+[/us/usc/t2/s61–1/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Fd%2F2
 [/us/usc/t2/s4575/d/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fd%2F2
 [/us/pl/95/94]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F94
+[/us/usc/t2/s61–1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931
 [/us/usc/t2/s4575]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575
 [/us/pl/102/392]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F392
 [/us/stat/106/1706]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1706
+[/us/usc/t2/s61–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Ff
 [/us/usc/t2/s4575/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Ff
+[/us/usc/t2/s61–1/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Ff
 [/us/usc/t2/s4575/f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Ff
+[/us/usc/t2/s61–1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Fa%2F2
 [/us/usc/t2/s4575/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fa%2F2
+[/us/usc/t2/s61–1/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs61%E2%80%931%2Fa%2F2
 [/us/usc/t2/s4575/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs4575%2Fa%2F2
 [/us/usc/t5/s5533/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs5533%2Fc%2F1
 [/us/pl/89/504/s302/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F504%2Fs302%2Fg

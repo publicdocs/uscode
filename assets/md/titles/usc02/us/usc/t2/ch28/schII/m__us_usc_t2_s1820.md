@@ -13,7 +13,7 @@
 
 [Previous](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1819.md) | [Next](./../../../../..//us/usc/t2/ch28/schII/m__us_usc_t2_s1821.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1820)
 
-## § 1820. Acquisition of real property for Capitol Police
+##  § 1820. Acquisition of real property for Capitol Police
 
     (a) __Authority for acquisition__ 
 

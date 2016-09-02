@@ -115,12 +115,6 @@
 
     Amendment by [Pub. L. 110–279][/us/pl/110/279] effective July 17, 2008, and applicable to remainder of fiscal year in which enacted and each fiscal year thereafter, see [section 2051(i) of this title][/us/usc/t2/s2051/i].
 
- __Short Title of 2015 Amendment__ 
-
-[Pub. L. 114–6, § 1][/us/pl/114/6/s1], Mar. 20, 2015, [129 Stat. 81][/us/stat/129/81], provided that: 
-
-> “This Act \[amending sections 1403, 1404, and 1416 of this title and enacting provisions set out as notes under sections 1381 and 1403 of this title\] may be cited as the ‘Office of Compliance Administrative and Technical Corrections Act of 2015’.”
-
  __Short Title__ 
 
 [Pub. L. 104–1, § 1(a)][/us/pl/104/1/s1/a], Jan. 23, 1995, [109 Stat. 3][/us/stat/109/3], provided that: 
@@ -162,8 +156,6 @@
 [/us/usc/t2/s2261]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2261
 [/us/pl/110/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F279
 [/us/usc/t2/s2051/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs2051%2Fi
-[/us/pl/114/6/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs1
-[/us/stat/129/81]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F81
 [/us/pl/104/1/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs1%2Fa
 [/us/stat/109/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F109%2F3
 [/us/usc/t5/s6381]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs6381

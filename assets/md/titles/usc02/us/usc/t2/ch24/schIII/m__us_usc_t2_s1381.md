@@ -163,10 +163,6 @@
 
  __Additional Term for Members of Board of Directors of Office of Compliance__ 
 
-[Pub. L. 114–6, § 3][/us/pl/114/6/s3], Mar. 20, 2015, [129 Stat. 82][/us/stat/129/82], provided that: 
-
-> “Notwithstanding section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)][/us/usc/t2/s1381/e/1]), any individual serving as a member of the Board of Directors of the Office of Compliance as of February 28, 2015, may be appointed to serve for one additional term of 2 years.”
-
 [Pub. L. 111–114, § 1][/us/pl/111/114/s1], Dec. 14, 2009, [123 Stat. 3028][/us/stat/123/3028], provided that: 
 
 > “Notwithstanding the second sentence of section 301(e)(1) of the Congressional Accountability Act of 1995 ([2 U.S.C. 1381(e)(1)][/us/usc/t2/s1381/e/1]), any individual serving as a member of the Board of Directors of the Office of Compliance as of September 30, 2009, may serve for 3 terms.”
@@ -209,9 +205,6 @@
 [/us/usc/t31/s702]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft31%2Fs702
 [/us/pl/108/349/s1/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F349%2Fs1%2Fb
 [/us/stat/118/1389]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F1389
-[/us/pl/114/6/s3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F6%2Fs3
-[/us/stat/129/82]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F82
-[/us/usc/t2/s1381/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1381%2Fe%2F1
 [/us/pl/111/114/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F114%2Fs1
 [/us/stat/123/3028]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F3028
 [/us/usc/t2/s1381/e/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1381%2Fe%2F1
