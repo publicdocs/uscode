@@ -159,10 +159,6 @@
 
 ([Pub. L. 107–296, title II, § 226][/us/pl/107/296/s226], as added [Pub. L. 113–277, § 3(a)][/us/pl/113/277/s3/a], Dec. 18, 2014, [128 Stat. 3005][/us/stat/128/3005].)
 
- __Codification__ 
-
-    Another [section 226 of Pub. L. 107–296][/us/pl/107/296/s226] is classified to [section 148 of this title][/us/usc/t6/s148].
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s146.md) | [Next](./../../../../../..//us/usc/t6/ch1/schII/ptC/m__us_usc_t6_s148.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs147)
@@ -181,7 +177,5 @@
 [/us/pl/107/296/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs226
 [/us/pl/113/277/s3/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F277%2Fs3%2Fa
 [/us/stat/128/3005]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3005
-[/us/pl/107/296/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs226
-[/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
 
 

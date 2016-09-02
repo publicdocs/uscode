@@ -43,11 +43,11 @@
 
     The term “Information Sharing and Analysis Organization” means any formal or informal entity or collaboration created or employed by public or private sector organizations, for purposes of—
 
-        (A) gathering and analyzing critical infrastructure information in order to better understand security problems and interdependencies related to critical infrastructure and protected systems, so as to ensure the availability, integrity, and reliability thereof;
+        (A) gathering and analyzing critical infrastructure information, including information related to cybersecurity risks and incidents, in order to better understand security problems and interdependencies related to critical infrastructure, including cybersecurity risks and incidents, and protected systems, so as to ensure the availability, integrity, and reliability thereof;
 
-        (B) communicating or disclosing critical infrastructure information to help prevent, detect, mitigate, or recover from the effects of a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “an”. </sup></sup>  interference, compromise, or a  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “a” probably should not appear. </sup></sup>  incapacitation problem related to critical infrastructure or protected systems; and
+        (B) communicating or disclosing critical infrastructure information, including cybersecurity risks and incidents, to help prevent, detect, mitigate, or recover from the effects of a  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Probably should be “an”. </sup></sup>  interference, compromise, or a  <sup>\[2\]</sup>  <sup><sup> 2 So in original. The word “a” probably should not appear. </sup></sup>  incapacitation problem related to critical infrastructure, including cybersecurity risks and incidents, or protected systems; and
 
-        (C) voluntarily disseminating critical infrastructure information to its members, State, local, and Federal Governments, or any other entities that may be of assistance in carrying out the purposes specified in subparagraphs (A) and (B).
+        (C) voluntarily disseminating critical infrastructure information, including cybersecurity risks and incidents, to its members, State, local, and Federal Governments, or any other entities that may be of assistance in carrying out the purposes specified in subparagraphs (A) and (B).
 
     (6) __Protected system__ 
 
@@ -77,11 +77,61 @@
 
             (ii) does not include information or statements submitted or relied upon as a basis for making licensing or permitting determinations, or during regulatory proceedings.
 
-([Pub. L. 107–296, title II, § 212][/us/pl/107/296/s212], Nov. 25, 2002, [116 Stat. 2150][/us/stat/116/2150].)
+    (8) __Cybersecurity risk; incident__ 
+
+        The terms “cybersecurity risk” and “incident” have the meanings given those terms in [section 148 of this title][/us/usc/t6/s148].
+
+([Pub. L. 107–296, title II, § 212][/us/pl/107/296/s212], Nov. 25, 2002, [116 Stat. 2150][/us/stat/116/2150]; [Pub. L. 114–113, div. N, title II, § 204][/us/pl/114/113/s204], Dec. 18, 2015, [129 Stat. 2961][/us/stat/129/2961].)
+
+ __Amendments__ 
+
+    2015—Par. (5)(A). [Pub. L. 114–113, § 204(1)(A)][/us/pl/114/113/s204/1/A], inserted “, including information related to cybersecurity risks and incidents,” after “critical infrastructure information” and “, including cybersecurity risks and incidents,” after “related to critical infrastructure”.
+
+    Par. (5)(B). [Pub. L. 114–113, § 204(1)(B)][/us/pl/114/113/s204/1/B], inserted “, including cybersecurity risks and incidents,” after “critical infrastructure information” and “, including cybersecurity risks and incidents,” after “related to critical infrastructure”.
+
+    Par. (5)(C). [Pub. L. 114–113, § 204(1)(C)][/us/pl/114/113/s204/1/C], inserted “, including cybersecurity risks and incidents,” after “critical infrastructure information”.
+
+    Par. (8). [Pub. L. 114–113, § 204(2)][/us/pl/114/113/s204/2], added par. (8).
 
  __Short Title__ 
 
     For short title of this part as the “Critical Infrastructure Information Act of 2002”, see [section 211 of Pub. L. 107–296][/us/pl/107/296/s211], set out as a note under [section 101 of this title][/us/usc/t6/s101].
+
+ __Prohibition on New Regulatory Authority__ 
+
+[Pub. L. 114–113, div. N, title II, § 210][/us/pl/114/113/s210], Dec. 18, 2015, [129 Stat. 2962][/us/stat/129/2962], provided that: 
+
+> “Nothing in this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see [section 201 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/s201], set out as a Short Title of 2015 Amendment note under [section 101 of this title][/us/usc/t6/s101]\] or the amendments made by this subtitle may be construed to grant the Secretary any authority to promulgate regulations or set standards relating to the cybersecurity of non-Federal entities, not including State, local, and tribal governments, that was not in effect on the day before the date of enactment of this Act \[Dec. 18, 2015\].”
+
+ __Definitions__ 
+
+[Pub. L. 114–113, div. N, title II, § 202][/us/pl/114/113/s202], Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956], provided that: 
+
+> “In this subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], see [section 201 of title II of div. N of Pub. L. 114–113][/us/pl/114/113/s201], set out as a Short Title of 2015 Amendment note under [section 101 of this title][/us/usc/t6/s101]\]:
+
+>     “(1)  __Appropriate congressional committees__  __.—__ 
+
+>     The term ‘appropriate congressional committees’ means—
+
+>         “(A) the Committee on Homeland Security and Governmental Affairs of the Senate; and
+
+>         “(B) the Committee on Homeland Security of the House of Representatives.
+
+>     “(2)  __Cybersecurity risk; incident__  __.—__ 
+
+>     The terms ‘cybersecurity risk’ and ‘incident’ have the meanings given those terms in section 227 of the Homeland Security Act of 2002 \[[6 U.S.C. 148][/us/usc/t6/s148]\], as so redesignated by section 223(a)(3) of this division.
+
+>     “(3)  __Cyber threat indicator; defensive measure__  __.—__ 
+
+>     The terms ‘cyber threat indicator’ and ‘defensive measure’ have the meanings given those terms in section 102 \[[6 U.S.C. 1501][/us/usc/t6/s1501]\].
+
+>     “(4)  __Department__  __.—__ 
+
+>     The term ‘Department’ means the Department of Homeland Security.
+
+>     “(5)  __Secretary__  __.—__ 
+
+>     The term ‘Secretary’ means the Secretary of Homeland Security.”
 
 ----------
 
@@ -92,9 +142,28 @@
 
 [/us/usc/t5/s551]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs551
 [/us/usc/t15/s78c/a/47]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs78c%2Fa%2F47
+[/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
 [/us/pl/107/296/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs212
 [/us/stat/116/2150]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2150
+[/us/pl/114/113/s204]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204
+[/us/stat/129/2961]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2961
+[/us/pl/114/113/s204/1/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2F1%2FA
+[/us/pl/114/113/s204/1/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2F1%2FB
+[/us/pl/114/113/s204/1/C]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2F1%2FC
+[/us/pl/114/113/s204/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs204%2F2
 [/us/pl/107/296/s211]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs211
 [/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
+[/us/pl/114/113/s210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs210
+[/us/stat/129/2962]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2962
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
+[/us/pl/114/113/s202]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs202
+[/us/stat/129/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2956
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/usc/t6/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs101
+[/us/usc/t6/s148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs148
+[/us/usc/t6/s1501]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1501
 
 

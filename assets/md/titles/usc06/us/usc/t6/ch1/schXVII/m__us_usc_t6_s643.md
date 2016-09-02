@@ -27,7 +27,7 @@
 
  __References in Text__ 
 
-    Section 402(a), referred to in subsec. (a), probably should be a reference to section 902(a), meaning [section 902(a) of Pub. L. 114–22][/us/pl/114/22/s902/a], which is classified to [section 642(a) of this title][/us/usc/t6/s642/a]. [Section 402 of Pub. L. 114–22][/us/pl/114/22/s402], which is classified to [section 14043h of this title][/us/usc/t6/s14043h], does not contain a subsec. (a) and does not relate to the training of personnel.
+    Section 402(a), referred to in subsec. (a), probably should be a reference to section 902(a), meaning [section 902(a) of Pub. L. 114–22][/us/pl/114/22/s902/a], which is classified to [section 642(a) of this title][/us/usc/t6/s642/a]. [Section 402 of Pub. L. 114–22][/us/pl/114/22/s402], which is classified to [section 14043h of Title 42][/us/usc/t42/s14043h], The Public Health and Welfare, does not contain a subsec. (a) and does not relate to the training of personnel.
 
     This subchapter, referred to in subsec. (b), was in the original “this title”, meaning title IX of [Pub. L. 114–22][/us/pl/114/22], which is classified principally to this subchapter. For complete classification of title IX to the Code, see Tables.
 
@@ -47,7 +47,7 @@
 [/us/pl/114/22/s902/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs902%2Fa
 [/us/usc/t6/s642/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs642%2Fa
 [/us/pl/114/22/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22%2Fs402
-[/us/usc/t6/s14043h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs14043h
+[/us/usc/t42/s14043h]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs14043h
 [/us/pl/114/22]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F22
 
 

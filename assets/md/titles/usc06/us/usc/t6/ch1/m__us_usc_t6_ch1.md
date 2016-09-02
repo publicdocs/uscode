@@ -379,7 +379,7 @@ Part C—Information Security  </td>
 
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs149" data-uslm-ref="/us/usc/t6/s149">149.</a>  </td>
 
-    <td> Cyber incident response plan.  </td>
+    <td> Cybersecurity plans.  </td>
 
   </tr>
 
@@ -388,6 +388,14 @@ Part C—Information Security  </td>
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs150" data-uslm-ref="/us/usc/t6/s150">150.</a>  </td>
 
     <td> Clearances.  </td>
+
+  </tr>
+
+  <tr>
+
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft6%2Fs151" data-uslm-ref="/us/usc/t6/s151">151.</a>  </td>
+
+    <td> Federal intrusion detection and prevention system.  </td>
 
   </tr>
 

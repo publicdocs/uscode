@@ -27,6 +27,12 @@
 
     Section was enacted as part of the Department of Homeland Security Appropriations Act, 2006, and not as part of the Homeland Security Act of 2002 which comprises this chapter.
 
+ __Applicability of Third Proviso__ 
+
+[Pub. L. 114–113, div. F, title V, § 510(b)][/us/pl/114/113/s510/b], Dec. 18, 2015, [129 Stat. 2514][/us/stat/129/2514], provided that: 
+
+> “The third proviso of section 537 of the Department of Homeland Security Appropriations Act, 2006 ([6 U.S.C. 114][/us/usc/t6/s114]), shall hereafter not apply with respect to funds made available in this \[Act\] \[div. F of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\] or any other Act.”
+
 ----------
 
 [Previous](./../../../../..//us/usc/t6/ch1/schI/m__us_usc_t6_s113.md) | [Next](./../../../../..//us/usc/t6/ch1/schI/m__us_usc_t6_s115.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs114)
@@ -38,5 +44,9 @@
 [/us/stat/119/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2088
 [/us/pl/109/90]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F90
 [/us/stat/119/2064]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F119%2F2064
+[/us/pl/114/113/s510/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs510%2Fb
+[/us/stat/129/2514]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2514
+[/us/usc/t6/s114]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs114
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 

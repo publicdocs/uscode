@@ -117,6 +117,10 @@
 
  __Short Title of 2015 Amendment__ 
 
+[Pub. L. 114–113, div. N, title II, § 201][/us/pl/114/113/s201], Dec. 18, 2015, [129 Stat. 2956][/us/stat/129/2956], provided that: 
+
+> “This subtitle \[subtitle A (§§ 201–211) of title II of div. N of [Pub. L. 114–113][/us/pl/114/113], amending sections 131, 148, and 149 of this title and enacting provisions set out as notes under [section 131 of this title][/us/usc/t6/s131]\] may be cited as the ‘National Cybersecurity Protection Advancement Act of 2015’.”
+
 [Pub. L. 114–80, § 1][/us/pl/114/80/s1], Nov. 5, 2015, [129 Stat. 646][/us/stat/129/646], provided that: 
 
 > “This Act \[enacting [section 195d of this title][/us/usc/t6/s195d]\] may be cited as the ‘DHS Social Media Improvement Act of 2015’.”
@@ -561,6 +565,10 @@
 [/us/pl/109/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F109%2F295
 [/us/pl/107/296/s4]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296%2Fs4
 [/us/stat/116/2142]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2142
+[/us/pl/114/113/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs201
+[/us/stat/129/2956]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2956
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
+[/us/usc/t6/s131]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs131
 [/us/pl/114/80/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F80%2Fs1
 [/us/stat/129/646]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F646
 [/us/usc/t6/s195d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs195d

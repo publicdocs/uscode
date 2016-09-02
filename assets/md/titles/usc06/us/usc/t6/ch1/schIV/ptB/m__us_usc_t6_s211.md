@@ -129,7 +129,7 @@
 
  __Port of Entry Partnership Pilot Program__ 
 
-[Pub. L. 113–76, div. F, title V, § 559][/us/pl/113/76/s559], Jan. 17, 2014, [128 Stat. 279][/us/stat/128/279], as amended by [Pub. L. 114–4, title V, § 552(a)][/us/pl/114/4/s552/a], Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71], provided that:
+[Pub. L. 113–76, div. F, title V, § 559][/us/pl/113/76/s559], Jan. 17, 2014, [128 Stat. 279][/us/stat/128/279], as amended by [Pub. L. 114–4, title V, § 552(a)][/us/pl/114/4/s552/a], Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71]; [Pub. L. 114–113, div. F, title V, § 550][/us/pl/114/113/s550], Dec. 18, 2015, [129 Stat. 2519][/us/stat/129/2519], provided that:
 
 >     “(a)  __In General__  __.—__ 
 
@@ -213,7 +213,7 @@
 
 >             “(C) The authority found in this subsection may not be used to enter into new preclearance agreements or begin to provide U.S. Customs and Border Protection services outside of the United States.
 
->             “(D) The authority found in this subsection shall be limited with respect to U.S. Customs and Border Protection-serviced air ports of entry to five pilots per year.
+>             “(D) The authority found in this subsection shall be limited with respect to U.S. Customs and Border Protection-serviced air ports of entry to 10 pilots per year.
 
 >         “(4) __Fee.—__ 
 
@@ -357,6 +357,8 @@
 
 >     Under this section, collaboration with the Administrator of General Services is required only with respect to partnerships at land ports of entry.”
 
+    \[[Pub. L. 114–113, div. F, title V, § 550][/us/pl/114/113/s550], Dec. 18, 2015, [129 Stat. 2519][/us/stat/129/2519], which directed amendment of [section 559(e)(3)(D) of Pub. L. 113–76][/us/pl/113/76/s559/e/3/D] by striking “five pilots per year” and inserting “10 pilots per year”, was executed by making the substitution in section 559(e)(3)(D) of division F of [Pub. L. 113–76][/us/pl/113/76], to reflect the probable intent of Congress.\]
+
     \[[Pub. L. 114–4, title V, § 552(a)(2)][/us/pl/114/4/s552/a/2], Mar. 4, 2015, [129 Stat. 71][/us/stat/129/71], which directed amendment of subsection “(e)(3)(b)” of section 559 of division F of [Public Law 113–76][/us/pl/113/76], set out above, by inserting “and the salaries, training and benefits of individuals employed by U.S. Customs and Border Protection to support U.S. Customs and Border Protection officers in performing law enforcement functions at ports of entry, including primary and secondary processing of passengers” after “payment of overtime”, was executed by making the insertion in subsection (e)(3)(B) of section 559 of division F of [Public Law 113–76][/us/pl/113/76], to reflect the probable intent of Congress.\]
 
  __Reducing Passenger Processing Times__ 
@@ -391,8 +393,14 @@
 [/us/stat/128/279]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F279
 [/us/pl/114/4/s552/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs552%2Fa
 [/us/stat/129/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F71
+[/us/pl/114/113/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs550
+[/us/stat/129/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2519
 [/us/usc/t19/s58c/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs58c%2Fe
 [/us/usc/t19/s1451]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft19%2Fs1451
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/114/113/s550]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs550
+[/us/stat/129/2519]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2519
+[/us/pl/113/76/s559/e/3/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs559%2Fe%2F3%2FD
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/pl/114/4/s552/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs552%2Fa%2F2
 [/us/stat/129/71]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F71

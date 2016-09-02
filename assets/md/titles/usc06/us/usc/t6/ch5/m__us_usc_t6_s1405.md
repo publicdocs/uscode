@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../..//us/usc/t6/ch5/m__us_usc_t6_s1404.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1405)
+[Previous](./../../../..//us/usc/t6/ch5/m__us_usc_t6_s1404.md) | [Next](./../../../..//us/usc/t6/ch6/m__us_usc_t6_ch6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1405)
 
 ## § 1405. Authorization of appropriations
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../..//us/usc/t6/ch5/m__us_usc_t6_s1404.md) | ~~Next~~ | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1405)
+[Previous](./../../../..//us/usc/t6/ch5/m__us_usc_t6_s1404.md) | [Next](./../../../..//us/usc/t6/ch6/m__us_usc_t6_ch6.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs1405)
 
 ----------
 ----------

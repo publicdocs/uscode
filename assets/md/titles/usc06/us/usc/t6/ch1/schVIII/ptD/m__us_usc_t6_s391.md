@@ -17,7 +17,7 @@
 
     (a) __Authority__ 
 
-    Until September 30, 2015, and subject to subsection (d), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
+    Until September 30, 2016, and subject to subsection (d), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  the Secretary may carry out a pilot program under which the Secretary may exercise the following authorities:
 
         (1) __In general__ 
 
@@ -39,7 +39,7 @@
 
         (1) __In general__ 
 
-        The authority of the Secretary under this section shall terminate September 30, 2015, unless before that date the Secretary—
+        The authority of the Secretary under this section shall terminate September 30, 2016, unless before that date the Secretary—
 
             (A) issues policy guidance detailing the appropriate use of that authority; and
 
@@ -53,7 +53,7 @@
 
         In this section, the term “nontraditional Government contractor” has the same meaning as the term “nontraditional defense contractor” as defined in section 845(e) of the National Defense Authorization Act for Fiscal Year 1994 ([Public Law 103–160][/us/pl/103/160]; [10 U.S.C. 2371][/us/usc/t10/s2371] note).
 
-([Pub. L. 107–296, title VIII, § 831][/us/pl/107/296/s831], Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224]; [Pub. L. 110–161, div. E, title V, § 572][/us/pl/110/161/s572], Dec. 26, 2007, [121 Stat. 2093][/us/stat/121/2093]; [Pub. L. 110–329, div. D, title V, § 537][/us/pl/110/329/s537], Sept. 30, 2008, [122 Stat. 3687][/us/stat/122/3687]; [Pub. L. 111–83, title V, § 531][/us/pl/111/83/s531], Oct. 28, 2009, [123 Stat. 2174][/us/stat/123/2174]; [Pub. L. 112–10, div. B, title VI, § 1651][/us/pl/112/10/s1651], Apr. 15, 2011, [125 Stat. 146][/us/stat/125/146]; [Pub. L. 112–74, div. D, title V, § 527][/us/pl/112/74/s527], Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974]; [Pub. L. 113–6, div. D, title V, § 525][/us/pl/113/6/s525], Mar. 26, 2013, [127 Stat. 371][/us/stat/127/371]; [Pub. L. 113–76, div. F, title V, § 525][/us/pl/113/76/s525], Jan. 17, 2014, [128 Stat. 273][/us/stat/128/273]; [Pub. L. 114–4, title V, § 523][/us/pl/114/4/s523], Mar. 4, 2015, [129 Stat. 65][/us/stat/129/65].)
+([Pub. L. 107–296, title VIII, § 831][/us/pl/107/296/s831], Nov. 25, 2002, [116 Stat. 2224][/us/stat/116/2224]; [Pub. L. 110–161, div. E, title V, § 572][/us/pl/110/161/s572], Dec. 26, 2007, [121 Stat. 2093][/us/stat/121/2093]; [Pub. L. 110–329, div. D, title V, § 537][/us/pl/110/329/s537], Sept. 30, 2008, [122 Stat. 3687][/us/stat/122/3687]; [Pub. L. 111–83, title V, § 531][/us/pl/111/83/s531], Oct. 28, 2009, [123 Stat. 2174][/us/stat/123/2174]; [Pub. L. 112–10, div. B, title VI, § 1651][/us/pl/112/10/s1651], Apr. 15, 2011, [125 Stat. 146][/us/stat/125/146]; [Pub. L. 112–74, div. D, title V, § 527][/us/pl/112/74/s527], Dec. 23, 2011, [125 Stat. 974][/us/stat/125/974]; [Pub. L. 113–6, div. D, title V, § 525][/us/pl/113/6/s525], Mar. 26, 2013, [127 Stat. 371][/us/stat/127/371]; [Pub. L. 113–76, div. F, title V, § 525][/us/pl/113/76/s525], Jan. 17, 2014, [128 Stat. 273][/us/stat/128/273]; [Pub. L. 114–4, title V, § 523][/us/pl/114/4/s523], Mar. 4, 2015, [129 Stat. 65][/us/stat/129/65]; [Pub. L. 114–113, div. F, title V, § 523][/us/pl/114/113/s523], Dec. 18, 2015, [129 Stat. 2516][/us/stat/129/2516].)
 
  __References in Text__ 
 
@@ -65,9 +65,13 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–4, § 523(1)][/us/pl/114/4/s523/1], substituted “Until September 30, 2015,” for “Until September 30, 2014,” in introductory provisions.
+    2015—Subsec. (a). [Pub. L. 114–113, § 523(1)][/us/pl/114/113/s523/1], substituted “Until September 30, 2016,” for “Until September 30, 2015,” in introductory provisions.
 
-    Subsec. (c)(1). [Pub. L. 114–4, § 523(2)][/us/pl/114/4/s523/2], substituted “September 30, 2015,” for “September 30, 2014,” in introductory provisions.
+    [Pub. L. 114–4, § 523(1)][/us/pl/114/4/s523/1], substituted “Until September 30, 2015,” for “Until September 30, 2014,” in introductory provisions.
+
+    Subsec. (c)(1). [Pub. L. 114–113, § 523(2)][/us/pl/114/113/s523/2], substituted “September 30, 2016,” for “September 30, 2015,” in introductory provisions.
+
+    [Pub. L. 114–4, § 523(2)][/us/pl/114/4/s523/2], substituted “September 30, 2015,” for “September 30, 2014,” in introductory provisions.
 
     2014—Subsec. (a). [Pub. L. 113–76, § 525(1)][/us/pl/113/76/s525/1], substituted “Until September 30, 2014,” for “Until September 30, 2013,” in introductory provisions.
 
@@ -105,6 +109,16 @@
 
     2007—Subsec. (a). [Pub. L. 110–161][/us/pl/110/161] substituted “Until September 30, 2008” for “During the 5-year period following the effective date of this chapter” in introductory provisions.
 
+ __Documentation Requirements for Major Acquisition Programs__ 
+
+[Pub. L. 114–113, div. F, title V, § 561][/us/pl/114/113/s561], Dec. 18, 2015, [129 Stat. 2521][/us/stat/129/2521], provided that:
+
+>     “(a) Each major acquisition program of the Department of Homeland Security, as defined in Department of Homeland Security Management Directive 102–2, shall meet established acquisition documentation requirements for its acquisition program baseline established in the Department of Homeland Security Instruction Manual 102–01–001 and the Department of Homeland Security Acquisition Instruction/Guidebook 102–01–001, Appendix K.
+
+>     “(b) The Department shall report to the Committees on Appropriations of the Senate and the House of Representatives in the Comprehensive Acquisition Status Report and its quarterly updates, required under the heading ‘Office of the Under Secretary for Management’ of this Act \[div. F of [Pub. L. 114–113][/us/pl/114/113], see Tables for classification\], on any major acquisition program that does not meet such documentation requirements and the schedule by which the program will come into compliance with these requirements.
+
+>     “(c) None of the funds made available by this or any other Act for any fiscal year may be used for a major acquisition program that is out of compliance with such documentation requirements for more than two years except that funds may be used solely to come into compliance with such documentation requirements or to terminate the program.”
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_ch1_schVIII_ptD.md) | [Next](./../../../../../..//us/usc/t6/ch1/schVIII/ptD/m__us_usc_t6_s392.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs391)
@@ -135,6 +149,8 @@
 [/us/stat/128/273]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F273
 [/us/pl/114/4/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs523
 [/us/stat/129/65]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F65
+[/us/pl/114/113/s523]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs523
+[/us/stat/129/2516]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2516
 [/us/pl/112/74/s527/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs527%2F3
 [/us/stat/125/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F974
 [/us/pl/112/74/s527/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs527%2F2
@@ -144,7 +160,9 @@
 [/us/pl/114/92/s815/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs815%2Fc
 [/us/stat/129/896]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F896
 [/us/usc/t10/s2371b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2371b
+[/us/pl/114/113/s523/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs523%2F1
 [/us/pl/114/4/s523/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs523%2F1
+[/us/pl/114/113/s523/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs523%2F2
 [/us/pl/114/4/s523/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F4%2Fs523%2F2
 [/us/pl/113/76/s525/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs525%2F1
 [/us/pl/113/76/s525/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs525%2F2
@@ -162,5 +180,8 @@
 [/us/pl/110/329/s537/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs537%2F1
 [/us/pl/110/329/s537/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F329%2Fs537%2F2
 [/us/pl/110/161]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161
+[/us/pl/114/113/s561]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2Fs561
+[/us/stat/129/2521]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2521
+[/us/pl/114/113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113
 
 
