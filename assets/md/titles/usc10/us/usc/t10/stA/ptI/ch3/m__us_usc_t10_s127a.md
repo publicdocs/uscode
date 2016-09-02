@@ -111,7 +111,7 @@
 
 > “The Department of Defense shall continue to report incremental contingency operations costs for Operation Inherent Resolve, Operation Freedom’s Sentinel, and any named successor operations, on a monthly basis and any other operation designated and identified by the Secretary of Defense for the purposes of [section 127a of title 10][/us/usc/t10/s127a], United States Code, on a semi-annual basis in the Cost of War Execution Report as prescribed in the Department of Defense Financial Management Regulation Department of Defense Instruction 7000.14, Volume 12, Chapter 23 ‘Contingency Operations’, Annex 1, dated September 2005.”
 
-    Similar provisions were contained in the following appropriation act:
+Similar provisions were contained in the following appropriation acts:
 
     [Pub. L. 113–235, div. C, title VIII][/us/pl/113/235/dC/tVIII], § 8097, Dec. 16, 2014, [128 Stat. 2276][/us/stat/128/2276].
 

@@ -51,7 +51,7 @@
 
 (Added [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1601(a)(1), Nov. 25, 2015, [129 Stat. 1095][/us/stat/129/1095].)
 
- __Plan to carry out unified major force program designation__ 
+ __Plan To Carry Out Unified Major Force Program Designation__ 
 
 [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1601(b), Nov. 25, 2015, [129 Stat. 1096][/us/stat/129/1096], provided that: 
 

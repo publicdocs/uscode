@@ -107,7 +107,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92][/us/pl/114/92], § 1652(a)(2), Nov. 25, 2015, [129 Stat. 1122][/us/stat/129/1122], added item 8040.
+    2015—[Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1652(a)(2), Nov. 25, 2015, [129 Stat. 1122][/us/stat/129/1122], added item 8040.
 
     2013—[Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 508(b), Jan. 2, 2013, [126 Stat. 1717][/us/stat/126/1717], added item 8039.
 
@@ -122,7 +122,7 @@
 ----------
 ----------
 
-[/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
+[/us/pl/114/92/dA/tXVI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2FdA%2FtXVI
 [/us/stat/129/1122]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1122
 [/us/pl/112/239/dA/tV]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F239%2FdA%2FtV
 [/us/stat/126/1717]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1717

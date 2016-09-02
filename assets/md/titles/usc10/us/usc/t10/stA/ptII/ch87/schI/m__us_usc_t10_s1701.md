@@ -225,9 +225,9 @@
 
 >     In this section:
 
->         “(1) The term “employee” has the meaning given that term in [section 2105 of title 5][/us/usc/t5/s2105], United States Code.
+>         “(1) The term ‘employee’ has the meaning given that term in [section 2105 of title 5][/us/usc/t5/s2105], United States Code.
 
->         “(2) The term “veteran” has the meaning given that term in [section 101 of title 38][/us/usc/t38/s101], United States Code.
+>         “(2) The term ‘veteran’ has the meaning given that term in [section 101 of title 38][/us/usc/t38/s101], United States Code.
 
 >     “(e) __Termination.—__ 
 

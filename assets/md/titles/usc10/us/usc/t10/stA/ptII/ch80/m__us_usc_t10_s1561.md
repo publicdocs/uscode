@@ -77,7 +77,7 @@
 
 > “This Act \[enacting [section 1561a of this title][/us/usc/t10/s1561a]\] may be cited as the ‘Armed Forces Domestic Security Act’.”
 
- __Retention of Case Notes in Investigations of sex-Related Offenses Involving Members of the Army, Navy, Air Force, or Marine Corps__ 
+ __Retention of Case Notes in Investigations of Sex-Related Offenses Involving Members of the Army, Navy, Air Force, or Marine Corps__ 
 
 [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 541, Nov. 25, 2015, [129 Stat. 819][/us/stat/129/819], provided that:
 

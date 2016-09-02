@@ -75,7 +75,7 @@
 
  __Effective Date of 2011 Amendment__ 
 
-    [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 926(b), Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541], as amended by [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1624, Dec. 19, 2014, [128 Stat. 3633][/us/stat/128/3633], which provided that the amendments made by section 926(b) \[amending this section\] are effective on Sept. 30, 2017, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2018, whichever is later, was repealed by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1632(b)(2), Nov. 25, 2015, [129 Stat. 1112][/us/stat/129/1112].
+    [Pub. L. 112–81, div. A, title IX][/us/pl/112/81/dA/tIX], § 926(b), Dec. 31, 2011, [125 Stat. 1541][/us/stat/125/1541], as amended by [Pub. L. 113–291, div. A, title XVI][/us/pl/113/291/dA/tXVI], § 1624, Dec. 19, 2014, [128 Stat. 3633][/us/stat/128/3633], which provided in part that the amendments made to this section by section 926(b) were to be effective on the later of Sept. 30, 2017, or the date of the enactment of an Act authorizing funds for military construction for fiscal year 2018, was repealed by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1632(b)(2), Nov. 25, 2015, [129 Stat. 1112][/us/stat/129/1112].
 
  __Effective Date of 1982 Amendment__ 
 

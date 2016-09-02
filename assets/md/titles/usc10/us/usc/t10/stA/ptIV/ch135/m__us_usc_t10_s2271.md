@@ -79,7 +79,7 @@
 
 >                 “(ii) The Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
->                 “(iii) The Chief Information Office of the Department of Defense.
+>                 “(iii) The Chief Information Office\[r\] of the Department of Defense.
 
 >                 “(iv) A commander of a combatant command.
 

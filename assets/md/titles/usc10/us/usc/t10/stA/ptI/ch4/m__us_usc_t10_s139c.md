@@ -51,7 +51,7 @@
 
         (11) Carrying out the activities of the Department of Defense relating to the Defense Production Act Committee established under section 722 of the Defense Production Act of 1950 (50 U.S.C. App. 2171).
 
-        (12) Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)),1 executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.),1 including authorities under titles I and III of such Act.
+        (12) Consistent with section 2(b) of the Defense Production Act of 1950 (50 U.S.C. App. 2062(b)), <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  executing other applicable authorities provided under the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), <sup>\[1\]</sup>  including authorities under titles I and III of such Act.
 
         (13) Establishing policies related to international technology security and export control issues.
 

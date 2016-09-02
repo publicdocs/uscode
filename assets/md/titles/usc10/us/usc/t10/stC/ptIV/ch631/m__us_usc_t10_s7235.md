@@ -109,6 +109,8 @@
 
     The Marine Mammal Protection Act of 1972, referred to in subsec. (f)(2)(B), is [Pub. L. 92–522][/us/pl/92/522], Oct. 21, 1972, [86 Stat. 1027][/us/stat/86/1027], which is classified generally to chapter 31 (§ 1361 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1361 of Title 16][/us/usc/t16/s1361] and Tables.
 
+    Section 315 of the Bob Stump National Defense Authorization Act for Fiscal Year 2003, referred to in subsec. (f)(4), is [section 315 of Pub. L. 107–314][/us/pl/107/314/s315], which is set out as a note under [section 703 of Title 16][/us/usc/t16/s703], Conservation.
+
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stC/ptIV/ch631/m__us_usc_t10_s7234.md) | [Next](./../../../../../..//us/usc/t10/stC/ptIV/ch633/m__us_usc_t10_stC_ptIV_ch633.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs7235)
@@ -132,5 +134,7 @@
 [/us/pl/92/522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F92%2F522
 [/us/stat/86/1027]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F86%2F1027
 [/us/usc/t16/s1361]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1361
+[/us/pl/107/314/s315]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F314%2Fs315
+[/us/usc/t16/s703]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs703
 
 

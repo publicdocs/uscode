@@ -111,7 +111,7 @@
 
  __Amendments__ 
 
-    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 1641 (c)(1), substituted “and [section 393 of this title][/us/usc/t10/s393]” for “and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 ([10 U.S.C. 2224][/us/usc/t10/s2224] note)”.
+    2015—Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 1641(c)(1), substituted “and [section 393 of this title][/us/usc/t10/s393]” for “and with section 941 of the National Defense Authorization Act for Fiscal Year 2013 ([10 U.S.C. 2224][/us/usc/t10/s2224] note)”.
 
     Subsecs. (d), (e). [Pub. L. 114–92][/us/pl/114/92], § 1641(b), added subsec. (d) and redesignated former subsec. (d) as (e).
 

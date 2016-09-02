@@ -71,7 +71,7 @@
 
         (2) to create, to enlarge, or to imply any duty or obligation to any victim of an offense under this chapter or other person for the breach of which the United States or any of its officers or employees could be held liable in damages.
 
-    (e) __Enforcement by Court of Criminal Appeals.—__ 
+    (e)  __Enforcement by Court of Criminal Appeals__  __.—__ 
 
         (1) If the victim of an offense under this chapter believes that a preliminary hearing ruling under [section 832 of this title][/us/usc/t10/s832] (article 32) or a court-martial ruling violates the rights of the victim afforded by a section (article) or rule specified in paragraph (4), the victim may petition the Court of Criminal Appeals for a writ of mandamus to require the preliminary hearing officer or the court-martial to comply with the section (article) or rule.
 

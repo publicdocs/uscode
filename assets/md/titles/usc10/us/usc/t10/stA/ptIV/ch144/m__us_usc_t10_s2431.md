@@ -281,7 +281,7 @@
 
 >     The Director shall include with the budget justification materials submitted to Congress in support of the budget of the Department of Defense for fiscal year 2017 (as submitted with the budget of the President under [section 1105(a) of title 31][/us/usc/t31/s1105/a], United States Code) a report on the funding profile necessary for the multiple-object kill vehicle program to meet the objectives under subsection (b).”
 
- __Requirement to Replace Capability Enhancement I Exoatmospheric Kill Vehicles__ 
+ __Requirement To Replace Capability Enhancement I Exoatmospheric Kill Vehicles__ 
 
 [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1682, Nov. 25, 2015, [129 Stat. 1139][/us/stat/129/1139], provided that:
 
@@ -347,7 +347,7 @@
 
 >             “(B) an update on the progress of the Director in implementing subsections (b) and (c).”
 
- __Development of Requirements to Support Integrated air and Missile Defense Capabilities__ 
+ __Development of Requirements To Support Integrated Air and Missile Defense Capabilities__ 
 
 [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1687, Nov. 25, 2015, [129 Stat. 1143][/us/stat/129/1143], provided that:
 

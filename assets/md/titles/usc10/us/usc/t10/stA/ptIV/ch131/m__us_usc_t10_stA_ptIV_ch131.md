@@ -299,7 +299,7 @@
 
  __Amendments__ 
 
-    2015—[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 883(a)(2), Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], which directed amendment of the analysis for “such chapter” by striking item 2222 and adding a new item 2222, was executed by striking item 2222 “Defense business systems: architecture, accountability, and modernization” and adding item 2222 in the analysis for this chapter, to reflect the probable intent of Congress.
+    2015—[Pub. L. 114–92, div. A, title VIII][/us/pl/114/92/dA/tVIII], § 883(a)(2), Nov. 25, 2015, [129 Stat. 947][/us/stat/129/947], which directed amendment of the analysis for “such chapter” by striking item 2222 and adding a new item 2222, was executed to the analysis for this chapter by adding item 2222 and striking out former item 2222 “Defense business systems: architecture, accountability, and modernization”, to reflect the probable intent of Congress.
 
     2014—[Pub. L. 113–291, div. A, title X][/us/pl/113/291/dA/tX], § 1022(a)(2), Dec. 19, 2014, [128 Stat. 3487][/us/stat/128/3487], added item 2218a.
 

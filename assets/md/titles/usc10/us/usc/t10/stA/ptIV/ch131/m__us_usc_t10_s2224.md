@@ -375,7 +375,7 @@
 
  __Reports to Department of Defense on Penetrations of Networks and Information Systems of Certain Contractors__ 
 
-    [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 941, Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors’ networks or information systems, was transferred to chapter 19 of this title and redesignated as section 393 and amended by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1641(a), Nov. 25, 2015, [129 Stat. 1114][/us/stat/129/1114].
+    [Pub. L. 112–239, div. A, title IX][/us/pl/112/239/dA/tIX], § 941, Jan. 2, 2013, [126 Stat. 1889][/us/stat/126/1889], which authorized the Secretary of Defense to establish criteria and reporting procedures applicable to penetration of cleared defense contractors’ networks or information systems, was transferred to chapter 19 of this title, redesignated as section 393, and amended by [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1641(a), Nov. 25, 2015, [129 Stat. 1114][/us/stat/129/1114].
 
  __Insider Threat Detection__ 
 

@@ -75,7 +75,7 @@
 
     (f)  __Collection of Assessments on Certain Threats__  __.—__ 
 
-    The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4]) regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
+    The Council shall collect and assess (consistent with the provision of classified information and intelligence sources and methods) all reports and assessments otherwise conducted by the intelligence community (as defined in section 3(4) of the National Security Act of 1947 ([50 U.S.C. 3003(4)][/us/usc/t50/s3003/4])  <sup>\[1\]</sup>  <sup><sup> 1 So in original. Another closing parenthesis probably should appear. </sup></sup>  regarding foreign threats, including cyber threats, to the command, control, and communications system for the national leadership of the United States and the vulnerabilities of such system to such threats.
 
     (g)  __Budget and Funding Matters__  __.—__ 
 
@@ -117,7 +117,7 @@
 
  __Amendments__ 
 
-    Subsec. (e)(5). [Pub. L. 114–92][/us/pl/114/92], § 1651(3), added par. (5).
+    2015—Subsec. (e)(5). [Pub. L. 114–92][/us/pl/114/92], § 1651(3), added par. (5).
 
     Subsecs. (f) to (i). [Pub. L. 114–92][/us/pl/114/92], § 1651(1), (2), added subsec. (f) and redesignated former subsecs. (f) to (h) as (g) to (i), respectively.
 

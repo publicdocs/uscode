@@ -69,7 +69,7 @@
 
  __Amendments__ 
 
-    2015—Subsecs. (d), (e). [Pub. L. 114–92][/us/pl/114/92], § 891(a), added subsec. (d) and redesignated former subsec. (d) as (e).
+    2015—Subsecs. (d), (e). [Pub. L. 114–92][/us/pl/114/92] added subsec. (d) and redesignated former subsec. (d) as (e).
 
     2013—Subsec. (b)(3). [Pub. L. 113–66][/us/pl/113/66] substituted “total acquisition costs” for “development costs”.
 

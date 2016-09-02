@@ -273,10 +273,6 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 
     Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officer corps of National Oceanic and Atmospheric Administration, by Secretary of Commerce or Secretary’s designee, see [section 3071 of Title 33][/us/usc/t33/s3071], Navigation and Navigable Waters.
 
- __Public Health Service__ 
-
-    Authority vested by this chapter in “military departments”, “the Secretary concerned”, or “the Secretary of Defense” to be exercised, with respect to commissioned officers of Public Health Service, by Secretary of Health and Human Services or his designee, see [section 213a of Title 42][/us/usc/t42/s213a], The Public Health and Welfare.
-
  __Accumulation of Leave After__  __September 30, 1980__  __, Pursuant to Subsection (f)__ 
 
 [Pub. L. 97–39, title VII][/us/pl/97/39/tVII], § 702, Aug. 14, 1981, [95 Stat. 943][/us/stat/95/943], provided that: 
@@ -386,7 +382,6 @@ Aug. 9, 1946, ch. 931, § 3(a) (less 4th, 5th, 6th, and 7th sentences), (b) (l
 [/us/pl/87/649/s15]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F87%2F649%2Fs15
 [/us/usc/t37/s101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft37%2Fs101
 [/us/usc/t33/s3071]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft33%2Fs3071
-[/us/usc/t42/s213a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs213a
 [/us/pl/97/39/tVII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F39%2FtVII
 [/us/stat/95/943]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F95%2F943
 [/us/pl/96/579]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F579

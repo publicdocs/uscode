@@ -167,7 +167,7 @@
 
     The Secretary of Defense and the Secretary of the Department in which the Coast Guard is operating shall prescribe regulations to carry out this section.
 
-(Added [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1716(a)(1), Dec. 26, 2013, [127 Stat. 966][/us/stat/127/966]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], §§ 531(c), 533, 534(a), Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364], 3366, 3367; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], §§ 532–534(a),  535(a), (b), Nov. 25, 2015, [129 Stat. 815][/us/stat/129/815], 816.)
+(Added [Pub. L. 113–66, div. A, title XVII][/us/pl/113/66/dA/tXVII], § 1716(a)(1), Dec. 26, 2013, [127 Stat. 966][/us/stat/127/966]; amended [Pub. L. 113–291, div. A, title V][/us/pl/113/291/dA/tV], §§ 531(c), 533, 534(a), Dec. 19, 2014, [128 Stat. 3364][/us/stat/128/3364], 3366, 3367; [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], §§ 532–534(a), 535(a), (b), Nov. 25, 2015, [129 Stat. 815][/us/stat/129/815], 816.)
 
  __Amendments__ 
 

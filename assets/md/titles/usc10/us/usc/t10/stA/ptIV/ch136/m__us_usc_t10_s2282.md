@@ -149,7 +149,7 @@
 
     A prior section 2282, added [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title I, § 131(a)(1)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–28; amended [Pub. L. 108–136, div. A, title X][/us/pl/108/136/dA/tX], § 1031(a)(14), Nov. 24, 2003, [117 Stat. 1597][/us/stat/117/1597], related to annual report on the B–2 bomber aircraft, prior to repeal by [Pub. L. 112–81, div. A, title X][/us/pl/112/81/dA/tX], § 1061(13)(A), Dec. 31, 2011, [125 Stat. 1583][/us/stat/125/1583].
 
- __Authority to Provide Support to National Military Forces of Allied Countries for Counterterrorism Operations in Africa__ 
+ __Authority To Provide Support to National Military Forces of Allied Countries for Counterterrorism Operations in Africa__ 
 
 [Pub. L. 114–92, div. A, title XII][/us/pl/114/92/dA/tXII], § 1207, Nov. 25, 2015, [129 Stat. 1040][/us/stat/129/1040], provided that:
 
@@ -303,7 +303,7 @@
 
 >         “(1) Indonesia.
 
->         “(2) Malaysia,
+>         “(2) Malaysia,\[.\]
 
 >         “(3) The Philippines.
 

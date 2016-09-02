@@ -117,7 +117,7 @@
 
  __Effective Date of 2015 Amendment__ 
 
-    [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(b), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided in part that the amendment by section 1081(b) is effective as of Dec. 19, 2014, and as if included in [Pub. L. 113–291][/us/pl/113/291] as enacted.
+    [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(b), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001], provided in part that the amendment made by section 1081(b) is effective as of Dec. 19, 2014, and as if included in [Pub. L. 113–291][/us/pl/113/291] as enacted.
 
 ----------
 

@@ -17,7 +17,7 @@
 
     (a)  __Authority__  __.—__ 
 
-    Subject to subsection (b), amounts appropriated to the Department of Defense for the operation of the overseas defense dependents’ schools may be used by the Secretary of Defense to enable an overseas meal program to provide students enrolled in such a school with meals at a price equal to the average price paid by students for equivalent meals under a comparable public school meal program in the United States.
+    Subject to subsection (b), amounts appropriated to the Department of Defense for the operation of overseas defense dependents’ schools may be used by the Secretary of Defense to enable an overseas meal program to provide students enrolled in such a school with meals at a price equal to the average price paid by students for equivalent meals under a comparable public school meal program in the United States.
 
     (b)  __Limitation__  __.—__ 
 
@@ -49,7 +49,7 @@
 
     2015—[Pub. L. 114–92][/us/pl/114/92], § 573(b)(1), substituted “Authority to use appropriated funds to support student meal programs in overseas defense dependents’ schools” for “Authority to use appropriated funds to support student meal programs in overseas dependents’ schools” in section catchline.
 
-    Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 573(a)(1), substituted “overseas defense dependents’ schools” for “defense dependents’ education system” and “students enrolled in such a school” for “students enrolled in that system”.
+    Subsec. (a). [Pub. L. 114–92][/us/pl/114/92], § 573(a)(1), substituted “overseas defense dependents’ schools” for “the defense dependents’ education system” and “students enrolled in such a school” for “students enrolled in that system”.
 
     Subsec. (d). [Pub. L. 114–92][/us/pl/114/92], § 573(a)(2), substituted “overseas defense dependents’ schools” for “Department of Defense dependents’ schools which are located outside the United States”.
 

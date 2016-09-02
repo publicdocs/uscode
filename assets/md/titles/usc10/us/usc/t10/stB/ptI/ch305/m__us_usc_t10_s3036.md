@@ -255,6 +255,34 @@ Oct. 27, 1965, Pub. L. 89–298, § 219, 79 Stat. 1089.  </td>
 
     1965—Subsec. (b). [Pub. L. 89–288][/us/pl/89/288] provided Surgeon General, while so serving, with grade of lieutenant general.
 
+ __Veterans’ Curation Program__ 
+
+[Pub. L. 114–189][/us/pl/114/189], July 6, 2016, [130 Stat. 613][/us/stat/130/613], provided that:
+
+> “SECTION 1. __FINDINGS.__ 
+
+> “Congress finds the following:
+
+>     “(1) The Corps of Engineers and other Federal agencies are required to preserve and catalogue artifacts and other items of national historical significance that are uncovered during the course of their work (notably under part 79 of title 36, Code of Federal Regulations).
+
+>     “(2) Uncatalogued artifacts within the care of Federal agencies are stored in hundreds of repositories and museums across the Nation.
+
+>     “(3) In October 2009, the Corps of Engineers, Center of Expertise for the Curation and Management of Archaeological Collections, initiated the Veterans’ Curation Program to employ and train Iraq and Afghanistan veterans in archaeological processing.
+
+>     “(4) The Veterans’ Curation Program employs veterans and members of the Armed Forces in the sorting, cleaning, and cataloguing of artifacts managed by the Corps of Engineers.
+
+>     “(5) Employees of the Veterans’ Curation Program gain valuable work skills, including computer database management, records management, photographic and scanning techniques, computer software proficiency, vocabulary and writing skills, and interpersonal communication skills, as well as knowledge and training in archaeology and history.
+
+>     “(6) Since 2009, a total of 241 veterans have participated in the Veterans’ Curation Program, including the current class of 38 participants. Of the 203 graduates of the program, 87 percent have received permanent employment in a field related to training received under the program or chosen to continue their education.
+
+>     “(7) Experience in archaeological curation gained through the Veterans’ Curation Program is valuable training and experience for the museum, forensics, administrative, records management, and other fields.
+
+>     “(8) Veterans’ Curation Program participants may assist the Corps of Engineers in developing a more efficient and comprehensive collections management program and also may provide the workforce to meet the records management needs at other agencies and departments, including the Department of Veterans Affairs.
+
+> “SEC. 2. __TRAINING AND EMPLOYMENT FOR VETERANS AND MEMBERS OF ARMED FORCES IN CURATION AND HISTORIC PRESERVATION.__ 
+
+>     “Using available funds, the Secretary of the Army, acting through the Chief of Engineers, shall carry out a Veterans’ Curation Program to hire veterans and members of the Armed Forces to assist the Secretary in carrying out curation and historic preservation activities.”
+
  __Corps of Engineers; Annual Budget Submission__ 
 
 [Pub. L. 110–161, div. C, title I][/us/pl/110/161/dC/tI], § 114, Dec. 26, 2007, [121 Stat. 1944][/us/stat/121/1944], provided that: 
@@ -438,6 +466,8 @@ The Adjutant General.
 [/us/pl/97/295]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F295
 [/us/pl/89/718]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F718
 [/us/pl/89/288]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F288
+[/us/pl/114/189]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F189
+[/us/stat/130/613]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F130%2F613
 [/us/pl/110/161/dC/tI]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F161%2FdC%2FtI
 [/us/stat/121/1944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F121%2F1944
 [/us/pl/110/114/tII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F114%2FtII

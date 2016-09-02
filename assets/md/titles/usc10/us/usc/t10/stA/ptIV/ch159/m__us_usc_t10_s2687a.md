@@ -163,7 +163,7 @@
 
     2015—Subsec. (d)(2). [Pub. L. 114–92][/us/pl/114/92], § 1081(a)(11), inserted “fair market” before “value”.
 
-    Subsec. (f)(2). [Pub. L. 114–92][/us/pl/114/92], § 1081(b)(7), amended [Pub. L. 113–291][/us/pl/113/291], § 2803(a). See 2014 Amendment note below.
+    Subsec. (f). [Pub. L. 114–92][/us/pl/114/92], § 1081(b)(7), amended [Pub. L. 113–291][/us/pl/113/291], § 2803(a). See 2014 Amendment note below.
 
     2014—Subsec. (f). [Pub. L. 113–291][/us/pl/113/291], § 2803(a), as amended by [Pub. L. 114–92][/us/pl/114/92], § 1081(b)(7), amended subsec. (f) generally. Prior to amendment, subsec. (f) related to authorized use of payments-in-kind.
 

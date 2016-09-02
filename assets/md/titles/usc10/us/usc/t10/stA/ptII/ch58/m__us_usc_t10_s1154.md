@@ -265,13 +265,13 @@
 
  __References in Text__ 
 
+    The Elementary and Secondary Education Act of 1965, referred to in subsecs. (a)(1), (3)(C), (8) and (b)(2)(A)(i), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Sections 4310, 5211(b), and 8101 of the Act are classified to sections 7221i, 7345(b), and 7801, respectively, of Title 20, Education. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
+
     The Individuals with Disabilities Education Act, referred to in subsec. (a)(2)(A)(ii), is title VI of [Pub. L. 91–230][/us/pl/91/230], Apr. 13, 1970, [84 Stat. 175][/us/stat/84/175]. Part B of the Act is classified generally to subchapter II (§ 1411 et seq.) of chapter 33 of Title 20, Education. For complete classification of this Act to the Code, see [section 1400 of Title 20][/us/usc/t20/s1400] and Tables.
 
     The Richard B. Russell National School Lunch Act, referred to in subsec. (a)(3)(A), is [act June 4, 1946, ch. 281][/us/act/1946-06-04/ch281], [60 Stat. 230][/us/stat/60/230], which is classified generally to chapter 13 (§ 1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1751 of Title 42][/us/usc/t42/s1751] and Tables.
 
     The Social Security Act, referred to in subsec. (a)(3)(A), is [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], [49 Stat. 620][/us/stat/49/620]. Part A of title IV of the Act is classified generally to part A (§ 601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see [section 1305 of Title 42][/us/usc/t42/s1305] and Tables.
-
-    The Elementary and Secondary Education Act of 1965, referred to in subsec. (b)(2)(A)(i), is [Pub. L. 89–10][/us/pl/89/10], Apr. 11, 1965, [79 Stat. 27][/us/stat/79/27]. Part A of title I of the Act is classified generally to part A (§ 6311 et seq.) of subchapter I of chapter 70 of Title 20, Education. Sections 4310, 5211(b), and 8101 of the Act are classified to sections 7221i, 7345(b), and 7801, respectively, of Title 20. For complete classification of this Act to the Code, see Short Title note set out under [section 6301 of Title 20][/us/usc/t20/s6301] and Tables.
 
     The Higher Education Act of 1965, referred to in subsec. (e)(4), is [Pub. L. 89–329][/us/pl/89/329], Nov. 8, 1965, [79 Stat. 1219][/us/stat/79/1219]. Title IV of the Act is classified generally to subchapter IV (§ 1070 et seq.) of chapter 28 of Title 20 and part C (§ 2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under [section 1001 of Title 20][/us/usc/t20/s1001] and Tables.
 
@@ -295,7 +295,7 @@
 
 >     “(1)  __Transfer__  __.—__ 
 
->     The responsibility and authority for operation and administration of the Troops-to-Teachers Program in chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6671][/us/usc/t20/s6671] et seq.) is transferred from the Secretary of Education to the Secretary of Defense.
+>     The responsibility and authority for operation and administration of the Troops-to-Teachers Program in chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (\[former\] [20 U.S.C. 6671][/us/usc/t20/s6671] et seq.) is transferred from the Secretary of Education to the Secretary of Defense.
 
 >     “(2)  __Memorandum of agreement__  __.—__ 
 
@@ -321,7 +321,7 @@
 
 [Pub. L. 112–239, div. A, title V][/us/pl/112/239/dA/tV], § 541(d)(3), Jan. 2, 2013, [126 Stat. 1735][/us/stat/126/1735], provided that: 
 
-> “The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 6671][/us/usc/t20/s6671] et seq.) by paragraph (1) shall not affect—
+> “The repeal of chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (\[former\] [20 U.S.C. 6671][/us/usc/t20/s6671] et seq.) by paragraph (1) shall not affect—
 
 >     “(A) the validity or terms of any agreement entered into under such chapter, as in effect immediately before such repeal, before the effective date of the transfer of the Troops-to-Teachers Program under subsection (a) \[set out as a note above\]; or
 
@@ -349,6 +349,9 @@
 [/us/stat/128/3510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3510
 [/us/pl/114/95/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtIX
 [/us/stat/129/2190]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2190
+[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
+[/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
+[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/91/230]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F91%2F230
 [/us/stat/84/175]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F84%2F175
 [/us/usc/t20/s1400]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1400
@@ -358,9 +361,6 @@
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/stat/49/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F49%2F620
 [/us/usc/t42/s1305]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1305
-[/us/pl/89/10]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F10
-[/us/stat/79/27]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F27
-[/us/usc/t20/s6301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs6301
 [/us/pl/89/329]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F89%2F329
 [/us/stat/79/1219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F79%2F1219
 [/us/usc/t20/s1001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs1001

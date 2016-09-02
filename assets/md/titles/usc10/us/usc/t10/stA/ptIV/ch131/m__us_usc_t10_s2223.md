@@ -49,7 +49,7 @@
 
         (2) The term “information technology” has the meaning given that term by [section 11101 of title 40][/us/usc/t40/s11101].
 
-        (3) The term “national security system” has the meaning given that term by section [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
+        (3) The term “national security system” has the meaning given that term by [section 3552(b)(6) of title 44][/us/usc/t44/s3552/b/6].
 
 (Added [Pub. L. 105–261, div. A, title III][/us/pl/105/261/dA/tIII], § 331(a)(1), Oct. 17, 1998, [112 Stat. 1967][/us/stat/112/1967]; amended [Pub. L. 106–398][/us/pl/106/398], § 1 \[\[div. A\], title VIII, § 811(a)\], Oct. 30, 2000, [114 Stat. 1654][/us/stat/114/1654], 1654A–210; [Pub. L. 107–217][/us/pl/107/217], § 3(b)(1), Aug. 21, 2002, [116 Stat. 1295][/us/stat/116/1295]; [Pub. L. 109–364, div. A, title IX][/us/pl/109/364/dA/tIX], § 906(b), Oct. 17, 2006, [120 Stat. 2354][/us/stat/120/2354]; [Pub. L. 113–283][/us/pl/113/283], § 2(e)(5)(B), Dec. 18, 2014, [128 Stat. 3087][/us/stat/128/3087]; [Pub. L. 114–92, div. A, title X][/us/pl/114/92/dA/tX], § 1081(a)(7), Nov. 25, 2015, [129 Stat. 1001][/us/stat/129/1001].)
 

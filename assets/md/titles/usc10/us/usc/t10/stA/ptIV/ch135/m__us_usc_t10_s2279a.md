@@ -13,7 +13,7 @@
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2279.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch135/m__us_usc_t10_s2279b.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2279a)
 
-## § 2279a. Principal advisor on space control
+## § 2279a. Principal Advisor on Space Control
 
     (a)  __In General__  __.—__ 
 

@@ -435,7 +435,7 @@ In subsection (a)(3), the words “excess property, as defined by [section 472 o
 
     The date of the enactment of this paragraph, referred to in subsec. (h)(4)(A)(i), is the date of enactment of [Pub. L. 113–291][/us/pl/113/291], which was approved Dec. 19, 2014.
 
-    Section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]), referred to in subsec. (k), was renumbered section 8101 of that Act by [Pub. L. 114–95, title VIII][/us/pl/114/95/tVIII], § 8001(a)(1), Dec. 10, 2015, [129 Stat. 2088][/us/stat/129/2088].
+    Section 9101 of the Elementary and Secondary Education Act of 1965 ([20 U.S.C. 7801][/us/usc/t20/s7801]), referred to in subsec. (k), was renumbered section 8101 of that Act by [Pub. L. 114–95, title VIII][/us/pl/114/95/tVIII], § 8001(a)(1), Dec. 10, 2015, [129 Stat. 2089][/us/stat/129/2089].
 
  __Amendments__ 
 
@@ -802,7 +802,7 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/usc/t20/s7801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft20%2Fs7801
 [/us/pl/114/95/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F95%2FtVIII
-[/us/stat/129/2088]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2088
+[/us/stat/129/2089]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2089
 [/us/pl/114/92]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92
 [/us/pl/113/291]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F291
 [/us/pl/113/66]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F66

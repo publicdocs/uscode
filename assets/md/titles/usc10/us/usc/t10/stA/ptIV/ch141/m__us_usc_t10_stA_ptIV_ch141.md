@@ -465,7 +465,7 @@
 
     1958—[Pub. L. 85–861][/us/pl/85/861], § 1(47), Sept. 2, 1958, [72 Stat. 1458][/us/stat/72/1458], added items 2387 and 2388.
 
- __Prohibition on Reliance on China and Russia for Space-based Weather Data__ 
+ __Prohibition on Reliance on China and Russia for Space-Based Weather Data__ 
 
 [Pub. L. 114–92, div. A, title XVI][/us/pl/114/92/dA/tXVI], § 1614, Nov. 25, 2015, [129 Stat. 1105][/us/stat/129/1105], provided that:
 

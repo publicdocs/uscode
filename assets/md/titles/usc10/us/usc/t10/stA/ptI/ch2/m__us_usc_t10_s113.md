@@ -1207,7 +1207,7 @@ Oct. 7, 1975, Pub. L. 94–106, § 812, 89 Stat. 540.  </td>
 
 >     Not later than January 30 of each year, the Secretary of Defense shall submit to Congress a report, in both classified and unclassified form, on the current and future military strategy of Iran.
 
->     “(b)  __Matters to be Included__  __.—__ 
+>     “(b)  __Matters to Be Included__  __.—__ 
 
 >     The report required under subsection (a) shall include a description of the security posture of Iran, including at least the following:
 

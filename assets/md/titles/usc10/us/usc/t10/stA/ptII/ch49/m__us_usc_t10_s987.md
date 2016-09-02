@@ -281,7 +281,7 @@
 
 [Pub. L. 114–92, div. A, title V][/us/pl/114/92/dA/tV], § 594(b)(3), Nov. 25, 2015, [129 Stat. 834][/us/stat/129/834], provided that: 
 
-> “The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with three months after the date of the enactment of this Act \[Nov. 25, 2015\].”
+> “The Director of the Defense Manpower Data Center shall meet regularly with private sector users of Defense Manpower Data Center systems used to identify covered borrowers and covered policyholders under military consumer protection laws to learn about issues facing such users and to develop ways of addressing such issues. The first meeting pursuant to this requirement shall take place with \[within\] three months after the date of the enactment of this Act \[Nov. 25, 2015\].”
 
  __Interim Regulations__ 
 

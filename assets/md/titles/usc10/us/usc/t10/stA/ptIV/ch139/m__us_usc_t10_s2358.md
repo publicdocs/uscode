@@ -209,7 +209,7 @@ July 26, 1947, ch. 343, § 203(b)(2), (3); added Aug. 6, 1958, Pub. L. 85–59
 
 >     Nothing in this section shall be construed to limit or alter any authority under which the Department of Defense supports information operations activities within the Department.”
 
- __Pilot Program on Dynamic Shaping of the Workforce to Improve the Technical Skills and Expertise at Certain Department of Defense Laboratories__ 
+ __Pilot Program on Dynamic Shaping of the Workforce To Improve the Technical Skills and Expertise at Certain Department of Defense Laboratories__ 
 
 [Pub. L. 114–92, div. A, title XI][/us/pl/114/92/dA/tXI], § 1109, Nov. 25, 2015, [129 Stat. 1028][/us/stat/129/1028], provided that:
 

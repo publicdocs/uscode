@@ -409,8 +409,6 @@ Similar provisions were contained in the following appropriation acts:
 
     [Pub. L. 101–165, title IX][/us/pl/101/165/tIX], § 9021, Nov. 21, 1989, [103 Stat. 1133][/us/stat/103/1133].
 
-    [Pub. L. 114–113, div. C, title VIII][/us/pl/114/113/dC/tVIII], § 8010, Dec. 18, 2015, [129 Stat. 2352][/us/stat/129/2352].
-
 ----------
 
 [Previous](./../../../../../..//us/usc/t10/stA/ptIV/ch137/m__us_usc_t10_s2306a.md) | [Next](./../../../../../..//us/usc/t10/stA/ptIV/ch137/m__us_usc_t10_s2306c.md) | [Root of Title](./../../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2306b)
@@ -559,7 +557,5 @@ Similar provisions were contained in the following appropriation acts:
 [/us/stat/104/1877]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F1877
 [/us/pl/101/165/tIX]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F165%2FtIX
 [/us/stat/103/1133]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F103%2F1133
-[/us/pl/114/113/dC/tVIII]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F113%2FdC%2FtVIII
-[/us/stat/129/2352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F2352
 
 
