@@ -15,7 +15,7 @@
 
 ## § 12209. Instrumentalities of Congress
 
-    The Government Accountability Office, the Government Printing Office, and the Library of Congress shall be covered as follows:
+    The Government Accountability Office, the Government Publishing Office, and the Library of Congress shall be covered as follows:
 
     (1) __In general__ 
 
@@ -31,7 +31,7 @@
 
     (4) __Definition of instrumentalities__ 
 
-        For purposes of this section, the term “instrumentality of the Congress” means the following:, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  the Government Accountability Office, the Government Printing Office, and the Library of Congress,. <sup>\[1\]</sup> 
+        For purposes of this section, the term “instrumentality of the Congress” means the following:, <sup>\[1\]</sup>  <sup><sup> 1 So in original. The comma probably should not appear. </sup></sup>  the Government Accountability Office, the Government Publishing Office, and the Library of Congress,. <sup>\[1\]</sup> 
 
     (5) __Enforcement of employment rights__ 
 
@@ -45,7 +45,7 @@
 
         Nothing in this section shall alter the enforcement procedures for individuals with disabilities provided in the General Accounting Office Personnel Act of 1980 and regulations promulgated pursuant to that Act.
 
-([Pub. L. 101–336, title V, § 510][/us/pl/101/336/s510], formerly § 509, July 26, 1990, [104 Stat. 373][/us/stat/104/373]; [Pub. L. 102–166, title III, § 315][/us/pl/102/166/s315], Nov. 21, 1991, [105 Stat. 1095][/us/stat/105/1095]; [Pub. L. 104–1, title II][/us/pl/104/1], §§ 201(c)(3), 210(g), Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8], 16; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; renumbered § 510, [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558].)
+([Pub. L. 101–336, title V, § 510][/us/pl/101/336/s510], formerly § 509, July 26, 1990, [104 Stat. 373][/us/stat/104/373]; [Pub. L. 102–166, title III, § 315][/us/pl/102/166/s315], Nov. 21, 1991, [105 Stat. 1095][/us/stat/105/1095]; [Pub. L. 104–1, title II][/us/pl/104/1], §§ 201(c)(3), 210(g), Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8], 16; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; renumbered § 510, [Pub. L. 110–325, § 6(a)(2)][/us/pl/110/325/s6/a/2], Sept. 25, 2008, [122 Stat. 3558][/us/stat/122/3558]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -93,6 +93,10 @@
 
     Subsec. (c)(2). [Pub. L. 102–166, § 315(2)][/us/pl/102/166/s315/2], inserted “, except for the employees who are defined as Senate employees, in [section 1201(c)(1) of title 2][/us/usc/t2/s1201/c/1]” after “shall apply exclusively”.
 
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in introductory provisions and par. (4) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 1995 Amendment__ 
 
     Amendment by [section 201(c)(3) of Pub. L. 104–1][/us/pl/104/1/s201/c/3] effective 1 year after Jan. 23, 1995, see [section 1311(d) of Title 2][/us/usc/t2/s1311/d], The Congress.
@@ -122,6 +126,8 @@
 [/us/stat/118/814]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F814
 [/us/pl/110/325/s6/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F325%2Fs6%2Fa%2F2
 [/us/stat/122/3558]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F3558
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/101/336]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F101%2F336
 [/us/stat/104/327]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F104%2F327
 [/us/usc/t42/s12101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12101
@@ -151,6 +157,8 @@
 [/us/pl/102/166/s315/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs315%2F1
 [/us/pl/102/166/s315/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs315%2F2
 [/us/usc/t2/s1201/c/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1201%2Fc%2F1
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/104/1/s201/c/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs201%2Fc%2F3
 [/us/usc/t2/s1311/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft2%2Fs1311%2Fd
 [/us/pl/104/1/s210/g]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F1%2Fs210%2Fg

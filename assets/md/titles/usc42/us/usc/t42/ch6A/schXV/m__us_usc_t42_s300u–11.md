@@ -59,7 +59,7 @@
 
  __Website__ 
 
-[Pub. L. 113–76, div. H, title II, § 218][/us/pl/113/76/s218], Jan. 17, 2014, [128 Stat. 385][/us/stat/128/385], provided that:
+[Pub. L. 113–235, div. G, title II, § 218][/us/pl/113/235/s218], Dec. 16, 2014, [128 Stat. 2488][/us/stat/128/2488], provided that:
 
 >     “(a) The Secretary shall establish a publicly accessible Web site to provide information regarding the uses of funds made available under section 4002 of the Patient Protection and Affordable Care Act of 2010 (‘ACA’) \[[42 U.S.C. 300u–11][/us/usc/t42/s300u–11]\].
 
@@ -75,7 +75,7 @@
 
 >         “(4) A report detailing the uses of all funds transferred under section 4002(c) during the fiscal year, to be posted not later than 90 days after the end of the fiscal year.
 
->     “(c) With respect to awards made in fiscal years 2013 and 2014, the Secretary shall also include on the Web site established under subsection (a), semi-annual reports from each entity awarded a grant, cooperative agreement, or contract from such funds with a value of $25,000 or more, summarizing the activities undertaken and identifying any sub-grants or sub-contracts awarded (including the purpose of the award and the identity of the recipient), to be posted not later than 30 days after the end of each 6-month period.
+>     “(c) With respect to awards made in fiscal years 2013 through 2015, the Secretary shall also include on the Web site established under subsection (a), semi-annual reports from each entity awarded a grant, cooperative agreement, or contract from such funds with a value of $25,000 or more, summarizing the activities undertaken and identifying any sub-grants or sub-contracts awarded (including the purpose of the award and the identity of the recipient), to be posted not later than 30 days after the end of each 6-month period.
 
 >     “(d)
 
@@ -88,6 +88,8 @@
 >         “(3) ensure that all information required in this section is able to be organized by program or State.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. H, title II, § 218][/us/pl/113/76/s218], Jan. 17, 2014, [128 Stat. 385][/us/stat/128/385].
 
     [Pub. L. 112–74, div. F, title II, § 220(a)][/us/pl/112/74/s220/a], Dec. 23, 2011, [125 Stat. 1085][/us/stat/125/1085].
 
@@ -108,9 +110,11 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s201]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs201
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/111/148/s10401/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs10401%2Fb
+[/us/pl/113/235/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs218
+[/us/stat/128/2488]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2488
+[/us/usc/t42/s300u–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%9311
 [/us/pl/113/76/s218]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs218
 [/us/stat/128/385]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F385
-[/us/usc/t42/s300u–11]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300u%E2%80%9311
 [/us/pl/112/74/s220/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs220%2Fa
 [/us/stat/125/1085]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1085
 

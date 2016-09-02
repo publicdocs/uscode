@@ -49,7 +49,7 @@
 
     (d) __Inspector General review__ 
 
-        The Inspector General of each agency shall periodically conduct a review of the agency’s implementation of this section and shall report the results of its review to the Committees on Appropriations of the House of Representatives and the Senate, the House Committee on Oversight and Government Reform, and the Senate Committee on Homeland Security and Governmental Affairs. The report required by this review may be incorporated into a related report to Congress otherwise required by law including, but not limited to, [section 3545 of title 44][/us/usc/t44/s3545], the Federal Information Security Management Act of 2002. The Inspector General may contract with an independent, third party organization to conduct the review.
+        The Inspector General of each agency shall periodically conduct a review of the agency’s implementation of this section and shall report the results of its review to the Committees on Appropriations of the House of Representatives and the Senate, the House Committee on Oversight and Government Reform, and the Senate Committee on Homeland Security and Governmental Affairs. The report required by this review may be incorporated into a related report to Congress otherwise required by law including, but not limited to, section 3545  <sup>\[4\]</sup>  <sup><sup> 4 See References in Text note below. </sup></sup>  of title 44, the Federal Information Security Management Act of 2002. The Inspector General may contract with an independent, third party organization to conduct the review.
 
     (e) __Report__ 
 
@@ -70,6 +70,8 @@
  __References in Text__ 
 
     The Privacy Act of 1974, referred to in subsecs. (a)(3) and (b)(1), is [Pub. L. 93–579][/us/pl/93/579], Dec. 31, 1974, [88 Stat. 1896][/us/stat/88/1896], which enacted [section 552a of Title 5][/us/usc/t5/s552a], Government Organization and Employees, and provisions set out as notes under [section 552a of Title 5][/us/usc/t5/s552a]. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under [section 552a of Title 5][/us/usc/t5/s552a] and Tables.
+
+    [Section 3545 of title 44][/us/usc/t44/s3545], referred to in subsec. (d), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to [section 3545 of title 44][/us/usc/t44/s3545] are now contained in [section 3555 of title 44][/us/usc/t44/s3555], as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
     The Federal Information Security Management Act of 2002, referred to in subsec. (d), is the statutory short title for title III of [Pub. L. 107–347][/us/pl/107/347], Dec. 17, 2002, [116 Stat. 2946][/us/stat/116/2946], and for title X of [Pub. L. 107–296][/us/pl/107/296], Nov. 25, [116 Stat. 2259][/us/stat/116/2259]. For complete classification of these Acts to the Code, see Short Title of 2002 Amendments note set out under [section 101 of Title 44][/us/usc/t44/s101], Public Printing and Documents, Short Title note set out under [section 101 of Title 6][/us/usc/t6/s101], Domestic Security, and Tables.
 
@@ -93,7 +95,6 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
-[/us/usc/t44/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3545
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/pl/108/447/s522]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F447%2Fs522
 [/us/stat/118/3268]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F118%2F3268
@@ -104,6 +105,12 @@
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
 [/us/usc/t5/s552a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft5%2Fs552a
+[/us/usc/t44/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3545
+[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
+[/us/usc/t44/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3545
+[/us/usc/t44/s3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3555
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/pl/107/347]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F347
 [/us/stat/116/2946]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F116%2F2946
 [/us/pl/107/296]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F296

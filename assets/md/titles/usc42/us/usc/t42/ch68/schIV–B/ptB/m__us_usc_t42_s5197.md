@@ -45,7 +45,7 @@
 
     (f) __Printing__ 
 
-        The Administrator may purchase such printing, binding, and blank-book work from public, commercial, or private printing establishments or binderies as the Administrator considers necessary upon orders placed by the Public Printer or upon waivers issued in accordance with [section 504 of title 44][/us/usc/t44/s504].
+        The Administrator may purchase such printing, binding, and blank-book work from public, commercial, or private printing establishments or binderies as the Administrator considers necessary upon orders placed by the Director of the Government Publishing Office or upon waivers issued in accordance with [section 504 of title 44][/us/usc/t44/s504].
 
     (g) __Rules and regulations__ 
 
@@ -59,7 +59,7 @@
 
         (3) As used in this subsection, the term “person” means the political subdivision of any State or combination or group thereof or any person, corporation, association, or other entity of any nature whatsoever, including instrumentalities of States and political subdivisions.
 
-([Pub. L. 93–288, title VI, § 621][/us/pl/93/288/s621], as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)][/us/pl/103/337/s3411/a/3], Oct. 5, 1994, [108 Stat. 3107][/us/stat/108/3107]; amended [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864].)
+([Pub. L. 93–288, title VI, § 621][/us/pl/93/288/s621], as added [Pub. L. 103–337, div. C, title XXXIV, § 3411(a)(3)][/us/pl/103/337/s3411/a/3], Oct. 5, 1994, [108 Stat. 3107][/us/stat/108/3107]; amended [Pub. L. 111–351, § 3(c)(2)][/us/pl/111/351/s3/c/2], Jan. 4, 2011, [124 Stat. 3864][/us/stat/124/3864]; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Prior Provisions__ 
 
@@ -68,6 +68,10 @@
  __Amendments__ 
 
     2011—[Pub. L. 111–351][/us/pl/111/351] substituted “Administrator” for “Director” wherever appearing.
+
+ __Change of Name__ 
+
+    “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (f) on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Transfer of Functions__ 
 
@@ -88,9 +92,13 @@
 [/us/stat/108/3107]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3107
 [/us/pl/111/351/s3/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351%2Fs3%2Fc%2F2
 [/us/stat/124/3864]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3864
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/usc/t50/s2253]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft50%2Fs2253
 [/us/pl/103/337/s3412/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F337%2Fs3412%2Fa
 [/us/pl/111/351]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F351
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/usc/t6/s315/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs315%2Fa%2F1
 [/us/usc/t6/s542]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft6%2Fs542
 

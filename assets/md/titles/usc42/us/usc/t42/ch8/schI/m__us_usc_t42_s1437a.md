@@ -43,13 +43,21 @@
 
                 (i)  __Flat rents__  __.—__ 
 
-                Each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which shall not be lower than 80 percent of the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c] and which shall—
+                Each public housing agency shall establish, for each dwelling unit in public housing owned or operated by the agency, a flat rental amount for the dwelling unit, which—
 
-                    (I) be based on the rental value of the unit, as determined by the public housing agency; and
+                    (I)
 
-                    (II) be designed in accordance with subparagraph (D) so that the rent structures do not create a disincentive for continued residency in public housing by families who are attempting to become economically self-sufficient through employment or who have attained a level of self-sufficiency through their own efforts.
+                     shall not be lower than 80 percent of—
 
-                    Public housing agencies must comply by June 1, 2014, with the requirement of this clause, except that if a new flat rental amount for a dwelling unit will increase a family’s existing rental payment by more than 35 percent, the new flat rental amount shall be phased in as necessary to ensure that the family’s existing rental payment does not increase by more than 35 percent annually. The preceding sentence shall not be construed to require establishment of rental amounts equal to 80 percent of the fair market rental in years when the fair market rental falls from the prior year.
+                        (aa) the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c]; or
+
+                        (bb) at the discretion of the Secretary, such other applicable fair market rental established by the Secretary that the Secretary determines more accurately reflects local market conditions and is based on an applicable market area that is geographically smaller than the applicable market area used for purposes of the applicable fair market rental under [section 1437f(c) of this title][/us/usc/t42/s1437f/c];
+
+                     except that a public housing agency may apply to the Secretary for exception allowing for a flat rental amount for a property that is lower than the amount otherwise determined pursuant to item (aa) or (bb) and the Secretary may grant such exception if the Secretary determines that the fair market rental for the applicable market area pursuant to item (aa) or (bb) does not reflect the market value of the property and the proposed lower flat rental amount is based on a market analysis of the applicable market and complies with subclause (II) and
+
+                    (II) shall be designed in accordance with subparagraph (D) so that the rent structures do not create a disincentive for continued residency in public housing by families who are attempting to become economically self-sufficient through employment or who have attained a level of self-sufficiency through their own efforts.
+
+                    If a new flat rental amount for a dwelling unit will increase a family’s existing rental payment by more than 35 percent, the new flat rental amount shall be phased in as necessary to ensure that the family’s existing rental payment does not increase by more than 35 percent annually. The preceding sentence shall not be construed to require establishment of rental amounts equal to 80 percent of the fair market rental in years when the fair market rental falls from the prior year.
 
                 (ii) __Income-based rents.—__ 
 
@@ -405,7 +413,7 @@
 
             (C) for which project-based assistance is provided under [section 1437f of this title][/us/usc/t42/s1437f], section 1437bb  <sup>\[8\]</sup>  <sup><sup> 8 See References in Text notes below. </sup></sup>  of this title, or section 811.7
 
-([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 3, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 654][/us/stat/88/654]; amended [Pub. L. 94–375, § 2(f)][/us/pl/94/375/s2/f], Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–557, title II, § 206(c)][/us/pl/95/557/s206/c], Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091]; [Pub. L. 96–153, title II, § 202(a)][/us/pl/96/153/s202/a], Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106]; [Pub. L. 97–35, title III, § 322(a)][/us/pl/97/35/s322/a], Aug. 13, 1981, [95 Stat. 400][/us/stat/95/400]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 202, 206(a)–(c)\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1179; [Pub. L. 98–479, title I, § 102(b)(1)][/us/pl/98/479/s102/b/1]–(3), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221]; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 102(a), 111, 170(c), Feb. 5, 1988, [101 Stat. 1821][/us/stat/101/1821], 1823, 1867; renumbered title I and amended [Pub. L. 100–358][/us/pl/100/358], §§ 4, 5, June 29, 1988, [102 Stat. 680][/us/stat/102/680], 681; [Pub. L. 101–235, title III, § 302][/us/pl/101/235/s302], Dec. 15, 1989, [103 Stat. 2043][/us/stat/103/2043]; [Pub. L. 101–625, title V][/us/pl/101/625], §§ 515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, [104 Stat. 4199][/us/stat/104/4199], 4236–4238; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 102–103(a)(2), 185(c)(4), title VI, §§ 621, 622(c), 625(a)(1), Oct. 28, 1992, [106 Stat. 3683][/us/stat/106/3683], 3748, 3812, 3817, 3820; [Pub. L. 103–233, title III, § 301][/us/pl/103/233/s301], Apr. 11, 1994, [108 Stat. 369][/us/stat/108/369]; [Pub. L. 104–99, title IV, § 402(b)(1)][/us/pl/104/99/s402/b/1], (c), Jan. 26, 1996, [110 Stat. 40][/us/stat/110/40], 41; [Pub. L. 104–330, title V, § 501(b)(1)][/us/pl/104/330/s501/b/1], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]; [Pub. L. 105–276, title V][/us/pl/105/276], §§ 506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, [112 Stat. 2523–2529][/us/stat/112/2523-2529], 2562, 2565–2567, 2604; [Pub. L. 106–74, title II, § 214(a)][/us/pl/106/74/s214/a], Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074]; [Pub. L. 106–402, title IV, § 401(b)(7)][/us/pl/106/402/s401/b/7], Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738]; [Pub. L. 110–289, div. B, title VI, § 2608][/us/pl/110/289/s2608], July 30, 2008, [122 Stat. 2862][/us/stat/122/2862]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76], §§ 210, 212, 238(a), Jan. 17, 2014, [128 Stat. 625][/us/stat/128/625], 626, 635.)
+([Sept. 1, 1937, ch. 896][/us/act/1937-09-01/ch896], title I, § 3, as added [Pub. L. 93–383, title II, § 201(a)][/us/pl/93/383/s201/a], Aug. 22, 1974, [88 Stat. 654][/us/stat/88/654]; amended [Pub. L. 94–375, § 2(f)][/us/pl/94/375/s2/f], Aug. 3, 1976, [90 Stat. 1068][/us/stat/90/1068]; [Pub. L. 95–557, title II, § 206(c)][/us/pl/95/557/s206/c], Oct. 31, 1978, [92 Stat. 2091][/us/stat/92/2091]; [Pub. L. 96–153, title II, § 202(a)][/us/pl/96/153/s202/a], Dec. 21, 1979, [93 Stat. 1106][/us/stat/93/1106]; [Pub. L. 97–35, title III, § 322(a)][/us/pl/97/35/s322/a], Aug. 13, 1981, [95 Stat. 400][/us/stat/95/400]; [Pub. L. 98–181, title I][/us/pl/98/181] \[title II, §§ 202, 206(a)–(c)\], Nov. 30, 1983, [97 Stat. 1178][/us/stat/97/1178], 1179; [Pub. L. 98–479, title I, § 102(b)(1)][/us/pl/98/479/s102/b/1]–(3), Oct. 17, 1984, [98 Stat. 2221][/us/stat/98/2221]; [Pub. L. 100–242, title I][/us/pl/100/242], §§ 102(a), 111, 170(c), Feb. 5, 1988, [101 Stat. 1821][/us/stat/101/1821], 1823, 1867; renumbered title I and amended [Pub. L. 100–358][/us/pl/100/358], §§ 4, 5, June 29, 1988, [102 Stat. 680][/us/stat/102/680], 681; [Pub. L. 101–235, title III, § 302][/us/pl/101/235/s302], Dec. 15, 1989, [103 Stat. 2043][/us/stat/103/2043]; [Pub. L. 101–625, title V][/us/pl/101/625], §§ 515(b), 572, 573(a)–(d), 574, Nov. 28, 1990, [104 Stat. 4199][/us/stat/104/4199], 4236–4238; [Pub. L. 102–550, title I][/us/pl/102/550], §§ 102–103(a)(2), 185(c)(4), title VI, §§ 621, 622(c), 625(a)(1), Oct. 28, 1992, [106 Stat. 3683][/us/stat/106/3683], 3748, 3812, 3817, 3820; [Pub. L. 103–233, title III, § 301][/us/pl/103/233/s301], Apr. 11, 1994, [108 Stat. 369][/us/stat/108/369]; [Pub. L. 104–99, title IV, § 402(b)(1)][/us/pl/104/99/s402/b/1], (c), Jan. 26, 1996, [110 Stat. 40][/us/stat/110/40], 41; [Pub. L. 104–330, title V, § 501(b)(1)][/us/pl/104/330/s501/b/1], Oct. 26, 1996, [110 Stat. 4041][/us/stat/110/4041]; [Pub. L. 105–276, title V][/us/pl/105/276], §§ 506, 507(a), (c), 508(a), (b)(1), (c)(1), (d)(1), 520(a), 523, 524(a), 546, Oct. 21, 1998, [112 Stat. 2523–2529][/us/stat/112/2523-2529], 2562, 2565–2567, 2604; [Pub. L. 106–74, title II, § 214(a)][/us/pl/106/74/s214/a], Oct. 20, 1999, [113 Stat. 1074][/us/stat/113/1074]; [Pub. L. 106–402, title IV, § 401(b)(7)][/us/pl/106/402/s401/b/7], Oct. 30, 2000, [114 Stat. 1738][/us/stat/114/1738]; [Pub. L. 110–289, div. B, title VI, § 2608][/us/pl/110/289/s2608], July 30, 2008, [122 Stat. 2862][/us/stat/122/2862]; [Pub. L. 113–76, div. L, title II][/us/pl/113/76], §§ 210, 212, 238(a), Jan. 17, 2014, [128 Stat. 625][/us/stat/128/625], 626, 635; [Pub. L. 113–235, div. K, title II, § 238][/us/pl/113/235/s238], Dec. 16, 2014, [128 Stat. 2758][/us/stat/128/2758].)
 
  __References in Text__ 
 
@@ -437,9 +445,15 @@
 
  __Amendments__ 
 
-    2014—Subsec. (a)(2)(B)(i). [Pub. L. 113–76, § 210(2)][/us/pl/113/76/s210/2], inserted concluding provisions and struck out former concluding provisions, which read as follows: “The rental amount for a dwelling unit shall be considered to comply with the requirements of this clause if such amount does not exceed the actual monthly costs to the public housing agency attributable to providing and operating the dwelling unit. The preceding sentence may not be construed to require establishment of rental amounts equal to or based on operating costs or to prevent public housing agencies from developing flat rents required under this clause in any other manner that may comply with this clause.”
+    2014—Subsec. (a)(2)(B)(i). [Pub. L. 113–235, § 238(3)][/us/pl/113/235/s238/3], substituted “If” for “Public housing agencies must comply by June 1, 2014, with the requirement of this clause, except that if” in concluding provisions.
+
+    [Pub. L. 113–235, § 238(1)][/us/pl/113/235/s238/1], substituted “which—” for “which shall not be lower than 80 percent of the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c] and which shall—” in introductory provisions, added subcl. (I), and struck out former subcl. (I) which read as follows: “be based on the rental value of the unit, as determined by the public housing agency; and”.
+
+    [Pub. L. 113–76, § 210(2)][/us/pl/113/76/s210/2], inserted concluding provisions and struck out former concluding provisions, which read as follows: “The rental amount for a dwelling unit shall be considered to comply with the requirements of this clause if such amount does not exceed the actual monthly costs to the public housing agency attributable to providing and operating the dwelling unit. The preceding sentence may not be construed to require establishment of rental amounts equal to or based on operating costs or to prevent public housing agencies from developing flat rents required under this clause in any other manner that may comply with this clause.”
 
     [Pub. L. 113–76, § 210(1)][/us/pl/113/76/s210/1], substtituted “Each” for “Except as otherwise provided under this clause, each” and inserted “not be lower than 80 percent of the applicable fair market rental established under [section 1437f(c) of this title][/us/usc/t42/s1437f/c] and which shall” after “which shall”.
+
+    Subsec. (a)(2)(B)(i)(II). [Pub. L. 113–235, § 238(2)][/us/pl/113/235/s238/2], inserted “shall” before “be designed”.
 
     Subsec. (b)(2). [Pub. L. 113–76, § 238(a)][/us/pl/113/76/s238/a], designated first sentence as subpar. (A), second sentence as subpar. (B), and remaining sentences as subpar. (D), and added subpar. (C).
 
@@ -897,6 +911,7 @@
 ----------
 
 [/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
+[/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
@@ -965,6 +980,8 @@
 [/us/stat/122/2862]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F2862
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/625]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F625
+[/us/pl/113/235/s238]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs238
+[/us/stat/128/2758]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2758
 [/us/usc/t42/s1437f/c/3/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc%2F3%2FB
 [/us/pl/105/276/s550/a/3/A/ii]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F276%2Fs550%2Fa%2F3%2FA%2Fii
 [/us/stat/112/2609]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F112%2F2609
@@ -993,9 +1010,13 @@
 [/us/stat/50/888]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F50%2F888
 [/us/usc/t42/s1402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1402
 [/us/pl/93/383]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F383
+[/us/pl/113/235/s238/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs238%2F3
+[/us/pl/113/235/s238/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs238%2F1
+[/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
 [/us/pl/113/76/s210/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs210%2F2
 [/us/pl/113/76/s210/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs210%2F1
 [/us/usc/t42/s1437f/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f%2Fc
+[/us/pl/113/235/s238/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs238%2F2
 [/us/pl/113/76/s238/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs238%2Fa
 [/us/pl/113/76/s212]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs212
 [/us/pl/110/289]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F289

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch157/schII/m__us_usc_t42_s18013.md) | [Next](./../../../../..//us/usc/t42/ch157/schIII/ptA/m__us_usc_t42_ch157_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch157%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch157/schII/m__us_usc_t42_s18014.md) | [Next](./../../../../..//us/usc/t42/ch157/schIII/ptA/m__us_usc_t42_ch157_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch157%2FschIII)
 
 ### SUBCHAPTER III—AVAILABLE COVERAGE CHOICES FOR ALL AMERICANS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch157/schII/m__us_usc_t42_s18013.md) | [Next](./../../../../..//us/usc/t42/ch157/schIII/ptA/m__us_usc_t42_ch157_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch157%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch157/schII/m__us_usc_t42_s18014.md) | [Next](./../../../../..//us/usc/t42/ch157/schIII/ptA/m__us_usc_t42_ch157_schIII_ptA.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch157%2FschIII)
 
 ----------
 ----------

@@ -17,7 +17,7 @@
 
     (a) __Discriminatory practices prohibited; employees or applicants for employment subject to coverage__ 
 
-        All personnel actions affecting employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) in military departments as defined in [section 102 of title 5][/us/usc/t5/s102], in executive agencies as defined in [section 105 of title 5][/us/usc/t5/s105] (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units of the Government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Printing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on race, color, religion, sex, or national origin.
+        All personnel actions affecting employees or applicants for employment (except with regard to aliens employed outside the limits of the United States) in military departments as defined in [section 102 of title 5][/us/usc/t5/s102], in executive agencies as defined in [section 105 of title 5][/us/usc/t5/s105] (including employees and applicants for employment who are paid from nonappropriated funds), in the United States Postal Service and the Postal Regulatory Commission, in those units of the Government of the District of Columbia having positions in the competitive service, and in those units of the judicial branch of the Federal Government having positions in the competitive service, in the Smithsonian Institution, and in the Government Publishing Office, the Government Accountability Office, and the Library of Congress shall be made free from any discrimination based on race, color, religion, sex, or national origin.
 
     (b) __Equal Employment Opportunity Commission; enforcement powers; issuance of rules, regulations, etc.; annual review and approval of national and regional equal employment opportunity plans; review and evaluation of equal employment opportunity programs and publication of progress reports; consultations with interested parties; compliance with rules, regulations, etc.; contents of national and regional equal employment opportunity plans; authority of Librarian of Congress__ 
 
@@ -53,7 +53,7 @@
 
         [Section 2000e–5(e)(3) of this title][/us/usc/t42/s2000e–5/e/3] shall apply to complaints of discrimination in compensation under this section.
 
-([Pub. L. 88–352, title VII, § 717][/us/pl/88/352/s717], as added [Pub. L. 92–261, § 11][/us/pl/92/261/s11], Mar. 24, 1972, [86 Stat. 111][/us/stat/86/111]; amended 1978 Reorg. Plan No. 1, § 3, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 96–191, § 8(g)][/us/pl/96/191/s8/g], Feb. 15, 1980, [94 Stat. 34][/us/stat/94/34]; [Pub. L. 102–166, title I, § 114][/us/pl/102/166/s114], Nov. 21, 1991, [105 Stat. 1079][/us/stat/105/1079]; [Pub. L. 104–1, title II, § 201(c)(1)][/us/pl/104/1/s201/c/1], Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8]; [Pub. L. 105–220, title III, § 341(a)][/us/pl/105/220/s341/a], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–2, § 5(c)(2)][/us/pl/111/2/s5/c/2], Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7].)
+([Pub. L. 88–352, title VII, § 717][/us/pl/88/352/s717], as added [Pub. L. 92–261, § 11][/us/pl/92/261/s11], Mar. 24, 1972, [86 Stat. 111][/us/stat/86/111]; amended 1978 Reorg. Plan No. 1, § 3, eff. Jan. 1, 1979, 43 F.R. 19807, [92 Stat. 3781][/us/stat/92/3781]; [Pub. L. 96–191, § 8(g)][/us/pl/96/191/s8/g], Feb. 15, 1980, [94 Stat. 34][/us/stat/94/34]; [Pub. L. 102–166, title I, § 114][/us/pl/102/166/s114], Nov. 21, 1991, [105 Stat. 1079][/us/stat/105/1079]; [Pub. L. 104–1, title II, § 201(c)(1)][/us/pl/104/1/s201/c/1], Jan. 23, 1995, [109 Stat. 8][/us/stat/109/8]; [Pub. L. 105–220, title III, § 341(a)][/us/pl/105/220/s341/a], Aug. 7, 1998, [112 Stat. 1092][/us/stat/112/1092]; [Pub. L. 108–271, § 8(b)][/us/pl/108/271/s8/b], July 7, 2004, [118 Stat. 814][/us/stat/118/814]; [Pub. L. 109–435, title VI, § 604(f)][/us/pl/109/435/s604/f], Dec. 20, 2006, [120 Stat. 3242][/us/stat/120/3242]; [Pub. L. 111–2, § 5(c)(2)][/us/pl/111/2/s5/c/2], Jan. 29, 2009, [123 Stat. 7][/us/stat/123/7]; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -78,6 +78,10 @@
     Subsec. (d). [Pub. L. 102–166, § 114(2)][/us/pl/102/166/s114/2], inserted before the period “, and the same interest to compensate for delay in payment shall be available as in cases involving nonpublic parties.”
 
     1980—Subsec. (a). [Pub. L. 96–191][/us/pl/96/191] struck out “(other than the General Accounting Office)” after “in executive agencies”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in subsec. (a) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Effective Date of 2009 Amendment__ 
 
@@ -249,6 +253,8 @@
 [/us/stat/120/3242]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F120%2F3242
 [/us/pl/111/2/s5/c/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs5%2Fc%2F2
 [/us/stat/123/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F7
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/88/352]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F88%2F352
 [/us/stat/78/241]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F78%2F241
 [/us/usc/t42/s2000a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000a
@@ -261,6 +267,8 @@
 [/us/pl/102/166/s114/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs114%2F1
 [/us/pl/102/166/s114/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F166%2Fs114%2F2
 [/us/pl/96/191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F191
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/111/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2
 [/us/pl/111/2/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F2%2Fs6
 [/us/usc/t42/s2000e–5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs2000e%E2%80%935

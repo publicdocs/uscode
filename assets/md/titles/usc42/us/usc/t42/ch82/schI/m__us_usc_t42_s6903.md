@@ -23,7 +23,7 @@
 
     (3) The term “disposal” means the discharge, deposit, injection, dumping, spilling, leaking, or placing of any solid waste or hazardous waste into or on any land or water so that such solid waste or hazardous waste or any constituent thereof may enter the environment or be emitted into the air or discharged into any waters, including ground waters.
 
-    (4) The term “Federal agency” means any department, agency, or other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation, and the Government Printing Office.
+    (4) The term “Federal agency” means any department, agency, or other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation, and the Government Publishing Office.
 
     (5)
 
@@ -121,7 +121,7 @@
 
     (41) The term “mixed waste” means waste that contains both hazardous waste and source, special nuclear, or by-product material subject to the Atomic Energy Act of 1954 ([42 U.S.C. 2011][/us/usc/t42/s2011] et seq.).
 
-([Pub. L. 89–272, title II, § 1004][/us/pl/89/272/s1004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2798][/us/stat/90/2798]; amended [Pub. L. 95–609, § 7(b)][/us/pl/95/609/s7/b], Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081]; [Pub. L. 96–463, § 3][/us/pl/96/463/s3], Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055]; [Pub. L. 96–482, § 2][/us/pl/96/482/s2], Oct. 21, 1980, [94 Stat. 2334][/us/stat/94/2334]; [Pub. L. 100–582, § 3][/us/pl/100/582/s3], Nov. 1, 1988, [102 Stat. 2958][/us/stat/102/2958]; [Pub. L. 102–386, title I][/us/pl/102/386], §§ 103, 105(b), Oct. 6, 1992, [106 Stat. 1507][/us/stat/106/1507], 1512.)
+([Pub. L. 89–272, title II, § 1004][/us/pl/89/272/s1004], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2798][/us/stat/90/2798]; amended [Pub. L. 95–609, § 7(b)][/us/pl/95/609/s7/b], Nov. 8, 1978, [92 Stat. 3081][/us/stat/92/3081]; [Pub. L. 96–463, § 3][/us/pl/96/463/s3], Oct. 15, 1980, [94 Stat. 2055][/us/stat/94/2055]; [Pub. L. 96–482, § 2][/us/pl/96/482/s2], Oct. 21, 1980, [94 Stat. 2334][/us/stat/94/2334]; [Pub. L. 100–582, § 3][/us/pl/100/582/s3], Nov. 1, 1988, [102 Stat. 2958][/us/stat/102/2958]; [Pub. L. 102–386, title I][/us/pl/102/386], §§ 103, 105(b), Oct. 6, 1992, [106 Stat. 1507][/us/stat/106/1507], 1512; [Pub. L. 113–235, div. H, title I, § 1301(b)][/us/pl/113/235/s1301/b], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __References in Text__ 
 
@@ -150,6 +150,10 @@
     Par. (10). [Pub. L. 95–609, § 7(b)(2)][/us/pl/95/609/s7/b/2], substituted “management” for “disposal”.
 
     Par. (29)(C). [Pub. L. 95–609, § 7(b)(3)][/us/pl/95/609/s7/b/3], substituted “the collection, source separation, storage, transportation, transfer, processing, treatment or disposal” for “the treatment”.
+
+ __Change of Name__ 
+
+    “Government Publishing Office” substituted for “Government Printing Office” in par. (4) on authority of [section 1301(b) of Pub. L. 113–235][/us/pl/113/235/s1301/b], set out as a note preceding [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
 
  __Transfer of Functions__ 
 
@@ -183,6 +187,8 @@
 [/us/stat/102/2958]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F102%2F2958
 [/us/pl/102/386]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F386
 [/us/stat/106/1507]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1507
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/act/1946-08-01/ch724]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1946-08-01%2Fch724
 [/us/act/1954-08-30/ch1073/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1954-08-30%2Fch1073%2Fs1
 [/us/stat/68/919]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F68%2F919
@@ -200,6 +206,8 @@
 [/us/pl/95/609/s7/b/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fb%2F1
 [/us/pl/95/609/s7/b/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fb%2F2
 [/us/pl/95/609/s7/b/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fb%2F3
+[/us/pl/113/235/s1301/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fb
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/stat/93/1373]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F93%2F1373
 [/us/pl/102/486/s3012/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F486%2Fs3012%2Fb
 [/us/usc/t15/s719e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft15%2Fs719e

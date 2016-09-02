@@ -15,9 +15,9 @@
 
 ## § 2286l. Authority of Inspector General
 
-    Notwithstanding any other provision of law, the Inspector General of the Nuclear Regulatory Commission is authorized in this and subsequent years to exercise the same authorities with respect to the Defense Nuclear Facilities Safety Board, as determined by the Inspector General of the Nuclear Regulatory Commission, as the Inspector General exercises under the Inspector General Act of 1978 (5 U.S.C. App.) with respect to the Nuclear Regulatory Commission.
+    Notwithstanding any other provision of law, in this fiscal year and each fiscal year thereafter, the Inspector General of the Nuclear Regulatory Commission is authorized to exercise the same authorities with respect to the Defense Nuclear Facilities Safety Board, as determined by the Inspector General of the Nuclear Regulatory Commission, as the Inspector General exercises under the Inspector General Act of 1978 (5 U.S.C. App.) with respect to the Nuclear Regulatory Commission.
 
-([Pub. L. 113–76, div. D, title IV, § 401][/us/pl/113/76/s401], Jan. 17, 2014, [128 Stat. 182][/us/stat/128/182].)
+([Pub. L. 113–235, div. D, title IV][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2330][/us/stat/128/2330].)
 
  __References in Text__ 
 
@@ -25,7 +25,13 @@
 
  __Codification__ 
 
-    Section was enacted as part of the Energy and Water Development and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+    Section was enacted as part of the appropriation act cited in the credit of this section, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
+
+ __Similar Provisions__ 
+
+    Provisions similar to the text of this section were contained in the following prior appropriation act:
+
+    [Pub. L. 113–76, div. D, title IV, § 401][/us/pl/113/76/s401], Jan. 17, 2014, [128 Stat. 182][/us/stat/128/182].
 
 ----------
 
@@ -34,9 +40,11 @@
 ----------
 ----------
 
-[/us/pl/113/76/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs401
-[/us/stat/128/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F182
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2330]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2330
 [/us/pl/95/452]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F452
 [/us/stat/92/1101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F92%2F1101
+[/us/pl/113/76/s401]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs401
+[/us/stat/128/182]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F182
 
 

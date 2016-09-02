@@ -199,6 +199,12 @@
 
     \[For definition of “Indian tribe” as used in [section 251(c) of Pub. L. 111–211][/us/pl/111/211/s251/c], set out above, see [section 203(a) of Pub. L. 111–211][/us/pl/111/211/s203/a], set out as a note under [section 2801 of Title 25][/us/usc/t25/s2801], Indians.\]
 
+ __Inclusion of Honor Violence in National Crime Victimization Survey__ 
+
+[Pub. L. 113–235, div. B, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2191][/us/stat/128/2191], provided in part: 
+
+> “That beginning not later than 2 years after the date of enactment of this Act \[div. B of [Pub. L. 113–235][/us/pl/113/235], Dec. 16, 2014\], as part of each National Crime Victimization Survey, the Attorney General shall include statistics relating to honor violence”.
+
  __Study of Crimes Against Seniors__ 
 
 [Pub. L. 106–534, § 5][/us/pl/106/534/s5], Nov. 22, 2000, [114 Stat. 2557][/us/stat/114/2557], provided that:
@@ -399,6 +405,9 @@
 [/us/pl/111/211/s251/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs251%2Fc
 [/us/pl/111/211/s203/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F211%2Fs203%2Fa
 [/us/usc/t25/s2801]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft25%2Fs2801
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2191]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2191
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/106/534/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534%2Fs5
 [/us/stat/114/2557]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F114%2F2557
 [/us/pl/106/534/s6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F534%2Fs6

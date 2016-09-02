@@ -65,7 +65,7 @@
 
     (e) __Guidelines__ 
 
-    The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Public Printer, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
+    The Administrator, after consultation with the Administrator of General Services, the Secretary of Commerce (acting through the National Institute of Standards and Technology), and the Director of the Government Publishing Office, shall prepare, and from time to time revise, guidelines for the use of procuring agencies in complying with the requirements of this section. Such guidelines shall—
 
         (1) designate those items which are or can be produced with recovered materials and whose procurement by procuring agencies will carry out the objectives of this section, and in the case of paper, provide for maximizing the use of post consumer recovered materials referred to in subsection (h)(1) of this section; and
 
@@ -143,7 +143,7 @@
 
             Procuring agencies shall adopt one of the options set forth in subparagraphs (A) and (B) or a substantially equivalent alternative, for inclusion in the affirmative procurement program.
 
-([Pub. L. 89–272, title II, § 6002][/us/pl/89/272/s6002], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2822][/us/stat/90/2822]; amended [Pub. L. 95–609, § 7(n)][/us/pl/95/609/s7/n], Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 96–482, § 22][/us/pl/96/482/s22], Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346]; [Pub. L. 97–375, title I, § 102][/us/pl/97/375/s102], Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819]; [Pub. L. 98–616, title V, § 501(a)][/us/pl/98/616/s501/a]–(e), Nov. 8, 1984, [98 Stat. 3274–3276][/us/stat/98/3274-3276]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–393, title VI, § 630][/us/pl/102/393/s630], Oct. 6, 1992, [106 Stat. 1773][/us/stat/106/1773]; [Pub. L. 103–355, title I, § 1554(1)][/us/pl/103/355/s1554/1], title IV, § 4104(e), Oct. 13, 1994, [108 Stat. 3300][/us/stat/108/3300], 3342.)
+([Pub. L. 89–272, title II, § 6002][/us/pl/89/272/s6002], as added [Pub. L. 94–580, § 2][/us/pl/94/580/s2], Oct. 21, 1976, [90 Stat. 2822][/us/stat/90/2822]; amended [Pub. L. 95–609, § 7(n)][/us/pl/95/609/s7/n], Nov. 8, 1978, [92 Stat. 3082][/us/stat/92/3082]; [Pub. L. 96–482, § 22][/us/pl/96/482/s22], Oct. 21, 1980, [94 Stat. 2346][/us/stat/94/2346]; [Pub. L. 97–375, title I, § 102][/us/pl/97/375/s102], Dec. 21, 1982, [96 Stat. 1819][/us/stat/96/1819]; [Pub. L. 98–616, title V, § 501(a)][/us/pl/98/616/s501/a]–(e), Nov. 8, 1984, [98 Stat. 3274–3276][/us/stat/98/3274-3276]; [Pub. L. 100–418, title V, § 5115(c)][/us/pl/100/418/s5115/c], Aug. 23, 1988, [102 Stat. 1433][/us/stat/102/1433]; [Pub. L. 102–393, title VI, § 630][/us/pl/102/393/s630], Oct. 6, 1992, [106 Stat. 1773][/us/stat/106/1773]; [Pub. L. 103–355, title I, § 1554(1)][/us/pl/103/355/s1554/1], title IV, § 4104(e), Oct. 13, 1994, [108 Stat. 3300][/us/stat/108/3300], 3342; [Pub. L. 113–235, div. H, title I, § 1301(d)][/us/pl/113/235/s1301/d], Dec. 16, 2014, [128 Stat. 2537][/us/stat/128/2537].)
 
  __Codification__ 
 
@@ -187,6 +187,10 @@
 
     Subsec. (e). [Pub. L. 95–609, § 7(n)(3)][/us/pl/95/609/s7/n/3], inserted provision dealing with certification by vendors of the materials used.
 
+ __Change of Name__ 
+
+    “Director of the Government Publishing Office” substituted for “Public Printer” in subsec. (e) on authority of [section 1301(d) of Pub. L. 113–235][/us/pl/113/235/s1301/d], set out as a note under [section 301 of Title 44][/us/usc/t44/s301], Public Printing and Documents.
+
  __Effective Date of 1994 Amendment__ 
 
     For effective date and applicability of amendment by [Pub. L. 103–355][/us/pl/103/355], see [section 10001 of Pub. L. 103–355][/us/pl/103/355/s10001], set out as a note under [section 2302 of Title 10][/us/usc/t10/s2302], Armed Forces.
@@ -220,6 +224,8 @@
 [/us/stat/106/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1773
 [/us/pl/103/355/s1554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1554%2F1
 [/us/stat/108/3300]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F108%2F3300
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/stat/128/2537]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2537
 [/us/pl/102/393/s630]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F102%2F393%2Fs630
 [/us/stat/106/1773]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F106%2F1773
 [/us/pl/103/355/s1554/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs1554%2F1
@@ -246,6 +252,8 @@
 [/us/pl/96/482/s22/6]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F96%2F482%2Fs22%2F6
 [/us/pl/95/609/s7/n/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fn%2F1
 [/us/pl/95/609/s7/n/3]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F95%2F609%2Fs7%2Fn%2F3
+[/us/pl/113/235/s1301/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1301%2Fd
+[/us/usc/t44/s301]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs301
 [/us/pl/103/355]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355
 [/us/pl/103/355/s10001]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F355%2Fs10001
 [/us/usc/t10/s2302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft10%2Fs2302

@@ -23,9 +23,11 @@
 
     Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the Department of Housing and Urban Development Act which comprises this chapter.
 
- __Prior Provisions__ 
+ __Similar Provisions__ 
 
-Provisions similar to those in this section were contained in the following prior appropriation acts:
+Provisions similar to those in this section were contained in the following appropriation acts:
+
+    [Pub. L. 113–235, div. K, title II, § 222][/us/pl/113/235/s222], Dec. 16, 2014, [128 Stat. 2754][/us/stat/128/2754].
 
     [Pub. L. 112–55, div. C, title II, § 228][/us/pl/112/55/s228], Nov. 18, 2011, [125 Stat. 701][/us/stat/125/701].
 
@@ -42,6 +44,8 @@ Provisions similar to those in this section were contained in the following prio
 
 [/us/pl/113/76/s226]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs226
 [/us/stat/128/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F632
+[/us/pl/113/235/s222]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs222
+[/us/stat/128/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2754
 [/us/pl/112/55/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs228
 [/us/stat/125/701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F701
 [/us/pl/111/117/s228]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs228

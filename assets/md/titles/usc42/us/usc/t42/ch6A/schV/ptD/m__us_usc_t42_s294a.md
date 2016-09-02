@@ -195,9 +195,13 @@
 
  __Waiver of Requirements__ 
 
-[Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 363][/us/stat/128/363], provided in part: 
+[Pub. L. 113–235, div. G, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2467][/us/stat/128/2467], provided in part: 
 
 > “That for any program operating under section 751 of the PHS \[Public Health Service\] Act \[[42 U.S.C. 294a][/us/usc/t42/s294a]\] on or before January 1, 2009, the Secretary may hereafter waive any of the requirements contained in sections 751(d)(2)(A) and 751(d)(2)(B) of such Act for the full project period of a grant under such section”.
+
+    Similar provisions were contained in the following prior appropriation act:
+
+    [Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 363][/us/stat/128/363].
 
 ----------
 
@@ -272,8 +276,10 @@
 [/us/usc/t29/s2864/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs2864%2Fc
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148
 [/us/usc/t29/s3101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft29%2Fs3101
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2467]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2467
+[/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
 [/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
 [/us/stat/128/363]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F363
-[/us/usc/t42/s294a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs294a
 
 

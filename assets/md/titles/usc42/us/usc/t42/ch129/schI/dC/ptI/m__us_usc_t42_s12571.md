@@ -201,11 +201,13 @@
 
  __Overall Minimum Share Requirement__ 
 
-[Pub. L. 113–76, div. H, title IV, § 402][/us/pl/113/76/s402], Jan. 17, 2014, [128 Stat. 402][/us/stat/128/402], provided that: 
+[Pub. L. 113–235, div. G, title IV, § 402][/us/pl/113/235/s402], Dec. 16, 2014, [128 Stat. 2508][/us/stat/128/2508], provided that: 
 
 > “AmeriCorps programs receiving grants under the National Service Trust program shall meet an overall minimum share requirement of 24 percent for the first 3 years that they receive AmeriCorps funding, and thereafter shall meet the overall minimum share requirement as provided in section 2521.60 of title 45, Code of Federal Regulations, without regard to the operating costs match requirement in section 121(e) \[[42 U.S.C. 12571(e)][/us/usc/t42/s12571/e]\] or the member support Federal share limitations in section 140 of the 1990 Act \[National and Community Service Act of 1990, [42 U.S.C. 12594][/us/usc/t42/s12594]\], and subject to partial waiver consistent with section 2521.70 of title 45, Code of Federal Regulations.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. H, title IV, § 402][/us/pl/113/76/s402], Jan. 17, 2014, [128 Stat. 402][/us/stat/128/402].
 
     [Pub. L. 112–74, div. F, title IV, § 402][/us/pl/112/74/s402], Dec. 23, 2011, [125 Stat. 1105][/us/stat/125/1105].
 
@@ -262,10 +264,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/usc/t42/s4950]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs4950
 [/us/pl/103/82/s123]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F103%2F82%2Fs123
 [/us/usc/t16/s1701]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1701
-[/us/pl/113/76/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs402
-[/us/stat/128/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F402
+[/us/pl/113/235/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs402
+[/us/stat/128/2508]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2508
 [/us/usc/t42/s12571/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12571%2Fe
 [/us/usc/t42/s12594]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs12594
+[/us/pl/113/76/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs402
+[/us/stat/128/402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F402
 [/us/pl/112/74/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs402
 [/us/stat/125/1105]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1105
 [/us/pl/111/117/s402]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs402

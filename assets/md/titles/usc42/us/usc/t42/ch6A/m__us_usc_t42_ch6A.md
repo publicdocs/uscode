@@ -4947,7 +4947,7 @@ subpart 4—office of dietary supplements  </td>
 
     <td> 
 
-subpart 5—national center for complementary and alternative medicine  </td>
+subpart 5—national center for complementary and integrative health  </td>
 
   </tr>
 

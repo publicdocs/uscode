@@ -75,11 +75,13 @@
 
  __Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees__ 
 
-[Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 378][/us/stat/128/378], provided in part: 
+[Pub. L. 113–235, div. G, title II][/us/pl/113/235], Dec. 16, 2014, [128 Stat. 2481][/us/stat/128/2481], provided in part: 
 
 > “That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, [42 U.S.C. 9921][/us/usc/t42/s9921]\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[[42 U.S.C. 9921(a)(2)(A)][/us/usc/t42/s9921/a/2/A]\]: Provided further, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: Provided further, That these procedures shall apply to such grant funds made available after November 29, 1999”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+    [Pub. L. 113–76, div. H, title II][/us/pl/113/76], Jan. 17, 2014, [128 Stat. 378][/us/stat/128/378].
 
     [Pub. L. 112–74, div. F, title II][/us/pl/112/74], Dec. 23, 2011, [125 Stat. 1078][/us/stat/125/1078].
 
@@ -117,10 +119,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/97/35/s680]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F97%2F35%2Fs680
 [/us/usc/t42/s9909]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9909
 [/us/pl/105/285]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F285
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
-[/us/stat/128/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F378
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
+[/us/stat/128/2481]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2481
 [/us/usc/t42/s9921]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9921
 [/us/usc/t42/s9921/a/2/A]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs9921%2Fa%2F2%2FA
+[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/stat/128/378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F378
 [/us/pl/112/74]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74
 [/us/stat/125/1078]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1078
 [/us/pl/111/117]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117

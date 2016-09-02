@@ -67,7 +67,7 @@
 
         (22) The John E. Fogarty International Center for Advanced Study in the Health Sciences.
 
-        (23) The National Center for Complementary and Alternative Medicine.
+        (23) The National Center for Complementary and Integrative Health.
 
         (24) The National Institute on Minority Health and Health Disparities.
 
@@ -297,9 +297,11 @@
 
         For purposes of this subchapter, a reference to the National Institutes of Health includes its agencies.
 
-([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 401, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 822][/us/stat/99/822]; amended [Pub. L. 100–553, § 2(1)][/us/pl/100/553/s2/1], Oct. 28, 1988, [102 Stat. 2769][/us/stat/102/2769]; [Pub. L. 100–607, title I, § 101(1)][/us/pl/100/607/s101/1], Nov. 4, 1988, [102 Stat. 3048][/us/stat/102/3048]; [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 102–321, title I, § 121(a)][/us/pl/102/321/s121/a], July 10, 1992, [106 Stat. 358][/us/stat/106/358]; [Pub. L. 103–43, title XV][/us/pl/103/43], §§ 1501(1), 1511(b)(1), 1521(1), June 10, 1993, [107 Stat. 172][/us/stat/107/172], 179, 180; [Pub. L. 103–417, § 13(b)][/us/pl/103/417/s13/b], Oct. 25, 1994, [108 Stat. 4335][/us/stat/108/4335]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title II, § 212, title VI, § 601(k)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–359, 2681–388; [Pub. L. 106–525, title I, § 101(b)(1)][/us/pl/106/525/s101/b/1], Nov. 22, 2000, [114 Stat. 2501][/us/stat/114/2501]; [Pub. L. 106–580, § 3(e)][/us/pl/106/580/s3/e], Dec. 29, 2000, [114 Stat. 3091][/us/stat/114/3091]; [Pub. L. 109–482, title I][/us/pl/109/482], §§ 101(a), (b), 108(a), Jan. 15, 2007, [120 Stat. 3675][/us/stat/120/3675], 3676, 3697; [Pub. L. 110–154, § 1(b)(1)][/us/pl/110/154/s1/b/1], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 111–148, title X, § 10334(c)(3)(A)][/us/pl/111/148/s10334/c/3/A], Mar. 23, 2010, [124 Stat. 974][/us/stat/124/974]; [Pub. L. 112–74, div. F, title II, § 221(a)(2)][/us/pl/112/74/s221/a/2], (c)(2)(B), Dec. 23, 2011, [125 Stat. 1087][/us/stat/125/1087], 1089.)
+([July 1, 1944, ch. 373][/us/act/1944-07-01/ch373], title IV, § 401, as added [Pub. L. 99–158, § 2][/us/pl/99/158/s2], Nov. 20, 1985, [99 Stat. 822][/us/stat/99/822]; amended [Pub. L. 100–553, § 2(1)][/us/pl/100/553/s2/1], Oct. 28, 1988, [102 Stat. 2769][/us/stat/102/2769]; [Pub. L. 100–607, title I, § 101(1)][/us/pl/100/607/s101/1], Nov. 4, 1988, [102 Stat. 3048][/us/stat/102/3048]; [Pub. L. 100–690, title II, § 2613(b)(2)][/us/pl/100/690/s2613/b/2], Nov. 18, 1988, [102 Stat. 4238][/us/stat/102/4238]; [Pub. L. 102–321, title I, § 121(a)][/us/pl/102/321/s121/a], July 10, 1992, [106 Stat. 358][/us/stat/106/358]; [Pub. L. 103–43, title XV][/us/pl/103/43], §§ 1501(1), 1511(b)(1), 1521(1), June 10, 1993, [107 Stat. 172][/us/stat/107/172], 179, 180; [Pub. L. 103–417, § 13(b)][/us/pl/103/417/s13/b], Oct. 25, 1994, [108 Stat. 4335][/us/stat/108/4335]; [Pub. L. 105–277, div. A, § 101(f)][/us/pl/105/277/s101/f] \[title II, § 212, title VI, § 601(k)\], Oct. 21, 1998, [112 Stat. 2681–337][/us/stat/112/2681-337], 2681–359, 2681–388; [Pub. L. 106–525, title I, § 101(b)(1)][/us/pl/106/525/s101/b/1], Nov. 22, 2000, [114 Stat. 2501][/us/stat/114/2501]; [Pub. L. 106–580, § 3(e)][/us/pl/106/580/s3/e], Dec. 29, 2000, [114 Stat. 3091][/us/stat/114/3091]; [Pub. L. 109–482, title I][/us/pl/109/482], §§ 101(a), (b), 108(a), Jan. 15, 2007, [120 Stat. 3675][/us/stat/120/3675], 3676, 3697; [Pub. L. 110–154, § 1(b)(1)][/us/pl/110/154/s1/b/1], Dec. 21, 2007, [121 Stat. 1827][/us/stat/121/1827]; [Pub. L. 111–148, title X, § 10334(c)(3)(A)][/us/pl/111/148/s10334/c/3/A], Mar. 23, 2010, [124 Stat. 974][/us/stat/124/974]; [Pub. L. 112–74, div. F, title II, § 221(a)(2)][/us/pl/112/74/s221/a/2], (c)(2)(B), Dec. 23, 2011, [125 Stat. 1087][/us/stat/125/1087], 1089; [Pub. L. 113–235, div. G, title II, § 224(1)][/us/pl/113/235/s224/1], Dec. 16, 2014, [128 Stat. 2490][/us/stat/128/2490].)
 
  __Amendments__ 
+
+    2014—Subsec. (b)(23). [Pub. L. 113–235][/us/pl/113/235] substituted “National Center for Complementary and Integrative Health” for “National Center for Complementary and Alternative Medicine”.
 
     2011—Subsec. (b)(21). [Pub. L. 112–74, § 221(a)(2)][/us/pl/112/74/s221/a/2], substituted “National Center for Advancing Translational Sciences” for “National Center for Research Resources”.
 
@@ -420,6 +422,9 @@
 [/us/stat/124/974]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F974
 [/us/pl/112/74/s221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fa%2F2
 [/us/stat/125/1087]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F1087
+[/us/pl/113/235/s224/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs224%2F1
+[/us/stat/128/2490]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2490
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/74/s221/a/2]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fa%2F2
 [/us/pl/112/74/s221/c/2/B]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F74%2Fs221%2Fc%2F2%2FB
 [/us/pl/111/148]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148

@@ -11,13 +11,13 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5853.md) | [Next](./../../../../..//us/usc/t42/ch73/schIII/m__us_usc_t42_s5871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch73%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5854.md) | [Next](./../../../../..//us/usc/t42/ch73/schIII/m__us_usc_t42_s5871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch73%2FschIII)
 
 ### SUBCHAPTER III—MISCELLANEOUS AND TRANSITIONAL PROVISIONS
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5853.md) | [Next](./../../../../..//us/usc/t42/ch73/schIII/m__us_usc_t42_s5871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch73%2FschIII)
+[Previous](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5854.md) | [Next](./../../../../..//us/usc/t42/ch73/schIII/m__us_usc_t42_s5871.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fch73%2FschIII)
 
 ----------
 ----------

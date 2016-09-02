@@ -137,13 +137,17 @@
 
     (e) __Authorization of appropriations__ 
 
-        There is authorized to be appropriated to carry out this section $200,000,000, to remain available until expended.
+        There is authorized to be appropriated to carry out this section $300,000,000, to remain available until expended.
 
-([Pub. L. 111–11, title IX, § 9504][/us/pl/111/11/s9504], Mar. 30, 2009, [123 Stat. 1334][/us/stat/123/1334].)
+([Pub. L. 111–11, title IX, § 9504][/us/pl/111/11/s9504], Mar. 30, 2009, [123 Stat. 1334][/us/stat/123/1334];[Pub. L. 113–235, div. D, title II, § 203][/us/pl/113/235/s203], Dec. 16, 2014, [128 Stat. 2311][/us/stat/128/2311].)
 
  __References in Text__ 
 
     The Endangered Species Act of 1973, referred to in subsec. (a)(1)(F), (G), is [Pub. L. 93–205][/us/pl/93/205], Dec. 28, 1973, [87 Stat. 884][/us/stat/87/884], which is classified principally to chapter 35 (§ 1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under [section 1531 of Title 16][/us/usc/t16/s1531] and Tables.
+
+ __Amendments__ 
+
+    2014—Subsec. (e). [Pub. L. 113–235][/us/pl/113/235] substituted “$300,000,000” for “$200,000,000”.
 
 ----------
 
@@ -157,8 +161,11 @@
 [/us/usc/t43/s391]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft43%2Fs391
 [/us/pl/111/11/s9504]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F11%2Fs9504
 [/us/stat/123/1334]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1334
+[/us/pl/113/235/s203]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs203
+[/us/stat/128/2311]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2311
 [/us/pl/93/205]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F93%2F205
 [/us/stat/87/884]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F87%2F884
 [/us/usc/t16/s1531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft16%2Fs1531
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 
 

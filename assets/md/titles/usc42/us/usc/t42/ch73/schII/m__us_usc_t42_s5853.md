@@ -11,7 +11,7 @@
 ----------
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5852.md) | [Next](./../../../../..//us/usc/t42/ch73/schIII/m__us_usc_t42_ch73_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5853)
+[Previous](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5852.md) | [Next](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5854.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5853)
 
 ## § 5853. Limitation on legal fee reimbursement
 
@@ -27,7 +27,7 @@
 
 ----------
 
-[Previous](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5852.md) | [Next](./../../../../..//us/usc/t42/ch73/schIII/m__us_usc_t42_ch73_schIII.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5853)
+[Previous](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5852.md) | [Next](./../../../../..//us/usc/t42/ch73/schII/m__us_usc_t42_s5854.md) | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs5853)
 
 ----------
 ----------

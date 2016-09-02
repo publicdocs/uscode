@@ -29,7 +29,7 @@
 
         (2) __Existing assessments__ 
 
-            The assessments required of the Inspector General under [section 3545 of title 44][/us/usc/t44/s3545] shall evaluate the effectiveness of the system described in this subsection.
+            The assessments required of the Inspector General under section 3545  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 44 shall evaluate the effectiveness of the system described in this subsection.
 
     (b) __Information security awareness and education__ 
 
@@ -53,6 +53,10 @@
 
 ([Pub. L. 111–267, title XII, § 1207][/us/pl/111/267/s1207], Oct. 11, 2010, [124 Stat. 2844][/us/stat/124/2844].)
 
+ __References in Text__ 
+
+    [Section 3545 of title 44][/us/usc/t44/s3545], referred to in subsec. (a)(2), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to [section 3545 of title 44][/us/usc/t44/s3545] are now contained in [section 3555 of title 44][/us/usc/t44/s3555], as enacted by [Pub. L. 113–283][/us/pl/113/283].
+
 ----------
 
 [Previous](./../../../../..//us/usc/t42/ch159/schXI/m__us_usc_t42_s18444.md) | ~~Next~~ | [Root of Title](./../../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18445)
@@ -60,8 +64,13 @@
 ----------
 ----------
 
-[/us/usc/t44/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3545
 [/us/pl/111/267/s1207]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F267%2Fs1207
 [/us/stat/124/2844]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F2844
+[/us/usc/t44/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3545
+[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
+[/us/usc/t44/s3545]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3545
+[/us/usc/t44/s3555]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3555
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 
 

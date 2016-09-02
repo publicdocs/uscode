@@ -89,6 +89,14 @@ SUBCHAPTER II—OTHER PROVISIONS  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs18014" data-uslm-ref="/us/usc/t42/s18014">18014.</a>  </td>
+
+    <td> Treatment of expatriate health plans under ACA.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> 
 
 SUBCHAPTER III—AVAILABLE COVERAGE CHOICES FOR ALL AMERICANS  </td>

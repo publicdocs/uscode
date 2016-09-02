@@ -111,7 +111,7 @@
 
         (1) __In general__ 
 
-        Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for fiscal year 2012 for the purpose of paying—
+        Funds made available to carry out this section for a fiscal year shall be used for the purpose of paying—
 
             (A) the cost of conducting the research described in subsection (a) of this section;
 
@@ -197,7 +197,7 @@
 
                 Not later than January 1, 2001, <sup>\[2\]</sup>  <sup><sup> 2 So in original. </sup></sup>  (or at a later date, if the Secretary informs the Committees of the Congress with jurisdiction over the subject matter of the report) the Secretary shall submit a final report on the matter described in subparagraph (A).
 
-([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 413, as added [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2153][/us/stat/110/2153]; amended [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5001(f), 5509, 5514(c), Aug. 5, 1997, [111 Stat. 592][/us/stat/111/592], 618, 620; [Pub. L. 105–200, title IV, § 410(a)][/us/pl/105/200/s410/a], July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 106–169, title IV, § 401(c)][/us/pl/106/169/s401/c], Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858]; [Pub. L. 110–234, title IV, § 4002(b)(1)(D)][/us/pl/110/234/s4002/b/1/D], (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(D), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 112–96, title IV, § 4002(e)][/us/pl/112/96/s4002/e], Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195].)
+([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 413, as added [Pub. L. 104–193, title I, § 103(a)(1)][/us/pl/104/193/s103/a/1], Aug. 22, 1996, [110 Stat. 2153][/us/stat/110/2153]; amended [Pub. L. 105–33, title V][/us/pl/105/33], §§ 5001(f), 5509, 5514(c), Aug. 5, 1997, [111 Stat. 592][/us/stat/111/592], 618, 620; [Pub. L. 105–200, title IV, § 410(a)][/us/pl/105/200/s410/a], July 16, 1998, [112 Stat. 673][/us/stat/112/673]; [Pub. L. 106–169, title IV, § 401(c)][/us/pl/106/169/s401/c], Dec. 14, 1999, [113 Stat. 1858][/us/stat/113/1858]; [Pub. L. 110–234, title IV, § 4002(b)(1)(D)][/us/pl/110/234/s4002/b/1/D], (2)(V), May 22, 2008, [122 Stat. 1096][/us/stat/122/1096], 1097; [Pub. L. 110–246, § 4(a)][/us/pl/110/246/s4/a], title IV, § 4002(b)(1)(D), (2)(V), June 18, 2008, [122 Stat. 1664][/us/stat/122/1664], 1857, 1858; [Pub. L. 112–96, title IV, § 4002(e)][/us/pl/112/96/s4002/e], Feb. 22, 2012, [126 Stat. 195][/us/stat/126/195]; [Pub. L. 113–235, div. G, title II, § 228(e)][/us/pl/113/235/s228/e], Dec. 16, 2014, [128 Stat. 2492][/us/stat/128/2492].)
 
  __References in Text__ 
 
@@ -212,6 +212,8 @@
     A prior section 613, [act Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title IV, § 413, as added June 9, 1980, [Pub. L. 96–265, title IV, § 406(c)][/us/pl/96/265/s406/c], [94 Stat. 467][/us/stat/94/467], related to technical assistance for developing management information systems, prior to repeal by [Pub. L. 104–193, § 103(a)(1)][/us/pl/104/193/s103/a/1], as amended by [Pub. L. 105–33, title V, § 5514(c)][/us/pl/105/33/s5514/c], Aug. 5, 1997, [111 Stat. 620][/us/stat/111/620].
 
  __Amendments__ 
+
+    2014—Subsec. (h)(1). [Pub. L. 113–235][/us/pl/113/235] substituted “Funds made available to carry out this section for a fiscal year shall be used” for “Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $15,000,000 for fiscal year 2012” in introductory provisions.
 
     2012—Subsec. (h)(1). [Pub. L. 112–96][/us/pl/112/96] substituted “fiscal year 2012” for “each of fiscal years 1997 through 2002” in introductory provisions.
 
@@ -265,6 +267,12 @@
 
     Section effective Aug. 22, 1996, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see [section 116 of Pub. L. 104–193][/us/pl/104/193/s116], as amended, set out as a note under [section 601 of this title][/us/usc/t42/s601].
 
+ __Funding of studies and demonstrations__ 
+
+[Pub. L. 113–235, div. G, title II, § 228(c)][/us/pl/113/235/s228/c], Dec. 16, 2014, [128 Stat. 2491][/us/stat/128/2491], provided that: 
+
+> “In the case of research, evaluations, and national studies funded under section 413(h)(1) of the Social Security Act \[[42 U.S.C. 613(h)(1)][/us/usc/t42/s613/h/1]\], no funds shall be appropriated under that section for fiscal year 2015 or any fiscal year thereafter.”
+
  __Coordination of Substance Abuse and Child Protection Services__ 
 
     [Pub. L. 105–89, title IV, § 405][/us/pl/105/89/s405], Nov. 19, 1997, [111 Stat. 2135][/us/stat/111/2135], required the Secretary of Health and Human Services, based on information from the Substance Abuse and Mental Health Services Administration and the Administration for Children and Families in the Department of Health and Human Services, to submit to the appropriate committees of Congress a report which described the extent and scope of the problem of substance abuse in the child welfare population, the types of services provided to such population, and the outcomes resulting from the provision of such services to such population, along with appropriate recommendations for legislative changes.
@@ -303,6 +311,8 @@
 [/us/stat/122/1664]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F122%2F1664
 [/us/pl/112/96/s4002/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96%2Fs4002%2Fe
 [/us/stat/126/195]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F195
+[/us/pl/113/235/s228/e]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs228%2Fe
+[/us/stat/128/2492]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2492
 [/us/pl/104/193/s103]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103
 [/us/pl/110/234]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F234
 [/us/pl/110/246]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246
@@ -314,6 +324,7 @@
 [/us/pl/104/193/s103/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs103%2Fa%2F1
 [/us/pl/105/33/s5514/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5514%2Fc
 [/us/stat/111/620]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F620
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/pl/112/96]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F96
 [/us/pl/110/246/s4002/b/1/D]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F110%2F246%2Fs4002%2Fb%2F1%2FD
 [/us/pl/106/169]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F106%2F169
@@ -349,6 +360,9 @@
 [/us/usc/t21/s862a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs862a
 [/us/pl/104/193/s116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F104%2F193%2Fs116
 [/us/usc/t42/s601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs601
+[/us/pl/113/235/s228/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs228%2Fc
+[/us/stat/128/2491]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2491
+[/us/usc/t42/s613/h/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs613%2Fh%2F1
 [/us/pl/105/89/s405]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F89%2Fs405
 [/us/stat/111/2135]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F111%2F2135
 [/us/pl/105/33/s5001/i]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F105%2F33%2Fs5001%2Fi

@@ -363,11 +363,11 @@
 
  __Limitation on Amounts Available for Obligation__ 
 
-[Pub. L. 113–76, div. B, title V, § 510][/us/pl/113/76/s510], Jan. 17, 2014, [128 Stat. 79][/us/stat/128/79], provided that: 
+[Pub. L. 113–235, div. B, title V, § 510][/us/pl/113/235/s510], Dec. 16, 2014, [128 Stat. 2210][/us/stat/128/2210], provided that: 
 
-> “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of [Public Law 98–473][/us/pl/98/473] ([42 U.S.C. 10601][/us/usc/t42/s10601]) in any fiscal year in excess of $745,000,000 shall not be available for obligation until the following fiscal year.”
+> “Notwithstanding any other provision of law, amounts deposited or available in the Fund established by section 1402 of chapter XIV of title II of [Public Law 98–473][/us/pl/98/473] ([42 U.S.C. 10601][/us/usc/t42/s10601]) in any fiscal year in excess of $2,361,000,000 shall not be available for obligation until the following fiscal year.”
 
-Similar provisions were contained in the following prior appropriation acts:
+Similar provisions were contained in the following prior appropriation acts:[Pub. L. 113–76, div. B, title V, § 510][/us/pl/113/76/s510], Jan. 17, 2014, [128 Stat. 79][/us/stat/128/79].
 
     [Pub. L. 113–6, div. B, title V, § 510][/us/pl/113/6/s510], Mar. 26, 2013, [127 Stat. 271][/us/stat/127/271].
 
@@ -598,10 +598,12 @@ Similar provisions were contained in the following prior appropriation acts:
 [/us/pl/107/77/s619]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F107%2F77%2Fs619
 [/us/stat/115/802]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F115%2F802
 [/us/usc/t42/s10601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10601
-[/us/pl/113/76/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs510
-[/us/stat/128/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F79
+[/us/pl/113/235/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs510
+[/us/stat/128/2210]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2210
 [/us/pl/98/473]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F98%2F473
 [/us/usc/t42/s10601]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs10601
+[/us/pl/113/76/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs510
+[/us/stat/128/79]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F79
 [/us/pl/113/6/s510]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F6%2Fs510
 [/us/stat/127/271]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F127%2F271
 [/us/pl/112/55/s512]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs512

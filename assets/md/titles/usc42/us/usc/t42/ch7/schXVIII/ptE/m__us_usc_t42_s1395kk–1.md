@@ -217,7 +217,7 @@
 
         (1) __Development of information security program__ 
 
-            A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of [section 3544(b) of title 44][/us/usc/t44/s3544/b] (other than the requirements under paragraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
+            A medicare administrative contractor that performs the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) shall implement a contractor-wide information security program to provide information security for the operation and assets of the contractor with respect to such functions under this subchapter. An information security program under this paragraph shall meet the requirements for information security programs imposed on Federal agencies under paragraphs (1) through (8) of section 3544(b)  <sup>\[1\]</sup>  <sup><sup> 1 See References in Text note below. </sup></sup>  of title 44 (other than the requirements under paragraphs (2)(D)(i), (5)(A), and (5)(B) of such section).
 
         (2) __Independent audits__ 
 
@@ -251,7 +251,7 @@
 
                 (iii) __Agency reporting__ 
 
-                    The Secretary shall address the results of such evaluations in reports required under [section 3544(c) of title 44][/us/usc/t44/s3544/c].
+                    The Secretary shall address the results of such evaluations in reports required under section 3544(c) 1 of title 44.
 
     (f) __Incentives to improve contractor performance in provider education and outreach__ 
 
@@ -300,6 +300,10 @@
             There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
 ([Aug. 14, 1935, ch. 531][/us/act/1935-08-14/ch531], title XVIII, § 1874A, as added and amended [Pub. L. 108–173, title IX][/us/pl/108/173], §§ 911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, [117 Stat. 2378][/us/stat/117/2378], 2387–2389, 2406, 2417; [Pub. L. 111–152, title I, § 1302][/us/pl/111/152/s1302], Mar. 30, 2010, [124 Stat. 1057][/us/stat/124/1057].)
+
+ __References in Text__ 
+
+    [Section 3544 of title 44][/us/usc/t44/s3544], referred to in subsec. (e)(1), (2)(C)(iii), was repealed by [Pub. L. 113–283, § 2(a)][/us/pl/113/283/s2/a], Dec. 18, 2014, [128 Stat. 3073][/us/stat/128/3073]. Provisions similar to [section 3544 of title 44][/us/usc/t44/s3544] are now contained in [section 3554 of title 44][/us/usc/t44/s3554], as enacted by [Pub. L. 113–283][/us/pl/113/283].
 
  __Codification__ 
 
@@ -572,15 +576,19 @@
 [/us/usc/t42/s1395ddd]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395ddd
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t42/s1395y/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1395y%2Fb
-[/us/usc/t44/s3544/b]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3544%2Fb
 [/us/usc/t44/s3502/8]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3502%2F8
 [/us/usc/t40/s11331]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft40%2Fs11331
-[/us/usc/t44/s3544/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3544%2Fc
 [/us/act/1935-08-14/ch531]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fact%2F1935-08-14%2Fch531
 [/us/pl/108/173]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F173
 [/us/stat/117/2378]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F2378
 [/us/pl/111/152/s1302]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F152%2Fs1302
 [/us/stat/124/1057]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F1057
+[/us/usc/t44/s3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3544
+[/us/pl/113/283/s2/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283%2Fs2%2Fa
+[/us/stat/128/3073]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F3073
+[/us/usc/t44/s3544]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3544
+[/us/usc/t44/s3554]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft44%2Fs3554
+[/us/pl/113/283]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F283
 [/us/usc/t41/s6101]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs6101
 [/us/usc/t41/s5]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft41%2Fs5
 [/us/pl/111/350/s6/c]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F350%2Fs6%2Fc

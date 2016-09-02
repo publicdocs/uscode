@@ -15,13 +15,19 @@
 
 ## § 1437f–1. Report on section 8 project-based housing
 
-    The Secretary of Housing and Urban Development shall report annually to the House and Senate Committees on Appropriations on the status of all section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] project-based housing, including the number of all project-based units by region as well as an analysis of all federally subsidized housing being refinanced under the Mark-to-Market program. The Secretary shall in the report identify all existing units maintained by region as section 8 project-based units and all project-based units that have opted out of section 8 or have otherwise been eliminated as section 8 project-based units. The Secretary shall identify in detail and by project all the efforts made by the Department to preserve all section 8 project-based housing units and all the reasons for any units which opted out or otherwise were lost as section 8 project-based units. Such analysis shall include a review of the impact of the loss of any subsidized units in that housing marketplace, such as the impact of cost and the loss of available subsidized, low-income housing in areas with scarce housing resources for low-income families.
+    The Secretary of Housing and Urban Development shall report annually to the House and Senate Committees on Appropriations on the status of all section 8 \[[42 U.S.C. 1437f][/us/usc/t42/s1437f]\] project-based housing, including the number of all project-based units by region as well as an analysis of all federally subsidized housing being refinanced under the Mark-to-Market program. The Secretary shall identify all existing units maintained by region as section 8 project-based units, all project-based units that have opted out or have otherwise been eliminated, and the reasons these units opted out or otherwise were lost as section 8 project-based units.
 
-([Pub. L. 113–76, div. L, title II, § 225][/us/pl/113/76/s225], Jan. 17, 2014, [128 Stat. 632][/us/stat/128/632].)
+([Pub. L. 113–235, div. K, title II, § 221][/us/pl/113/235/s221], Dec. 16, 2014, [128 Stat. 2754][/us/stat/128/2754].)
 
  __Codification__ 
 
-    Section was enacted as part of the Transportation, Housing and Urban Development, and Related Agencies Appropriations Act, 2014, and also as part of the Consolidated Appropriations Act, 2014, and not as part of the United States Housing Act of 1937 which comprises this chapter.
+    Section was enacted as part of the appropriation act cited as the credit to this section, and not as part of the United States Housing Act of 1937 which comprises this chapter.
+
+ __Prior Provisions__ 
+
+Provisions similar to those in this section were contained in the following prior acts:
+
+    [Pub. L. 113–76, div. L, title II, § 225][/us/pl/113/76/s225], Jan. 17, 2014, [128 Stat. 632][/us/stat/128/632].
 
 ----------
 
@@ -31,6 +37,8 @@
 ----------
 
 [/us/usc/t42/s1437f]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437f
+[/us/pl/113/235/s221]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs221
+[/us/stat/128/2754]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2754
 [/us/pl/113/76/s225]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs225
 [/us/stat/128/632]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F632
 

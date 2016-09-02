@@ -2233,6 +2233,14 @@ SUBCHAPTER VIII—UNITED STATES ENRICHMENT CORPORATION PRIVATIZATION  </td>
 
   <tr>
 
+    <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%9310b" data-uslm-ref="/us/usc/t42/s2297h–10b">2297h–10b.</a>  </td>
+
+    <td> Secretarial determinations; Congressional notification.  </td>
+
+  </tr>
+
+  <tr>
+
     <td> <a href="https://publicdocs.github.io/go/links?ns=uslm&amp;ref=%2Fus%2Fusc%2Ft42%2Fs2297h%E2%80%9311" data-uslm-ref="/us/usc/t42/s2297h–11">2297h–11.</a>  </td>
 
     <td> Low-level waste.  </td>

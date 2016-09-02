@@ -155,6 +155,12 @@
 
     The date on which such amendments take effect, referred to in subsec. (c)(2)(C)(i), is the date on which the amendments by [Pub. L. 111–148][/us/pl/111/148] to [section 300gg of this title][/us/usc/t42/s300gg] take effect, which is Jan. 1, 2014. See [section 1255 of Pub. L. 111–148][/us/pl/111/148/s1255], set out as an Effective Date note under [section 300gg of this title][/us/usc/t42/s300gg].
 
+ __Short Title of 2014 Amendment__ 
+
+[Pub. L. 113–235, div. M, § 1][/us/pl/113/235/s1], Dec. 16, 2014, [128 Stat. 2767][/us/stat/128/2767], provided that: 
+
+> “This division \[enacting [section 18014 of this title][/us/usc/t42/s18014]\] may be cited as the ‘Expatriate Health Coverage Clarification Act of 2014’.”
+
  __Short Title__ 
 
 [Pub. L. 111–148, § 1(a)][/us/pl/111/148/s1/a], Mar. 23, 2010, [124 Stat. 119][/us/stat/124/119], provided that: 
@@ -180,6 +186,9 @@
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
 [/us/pl/111/148/s1255]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1255
 [/us/usc/t42/s300gg]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs300gg
+[/us/pl/113/235/s1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs1
+[/us/stat/128/2767]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2767
+[/us/usc/t42/s18014]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs18014
 [/us/pl/111/148/s1/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F148%2Fs1%2Fa
 [/us/stat/124/119]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F119
 

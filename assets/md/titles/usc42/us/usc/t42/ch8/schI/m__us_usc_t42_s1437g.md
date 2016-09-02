@@ -529,11 +529,13 @@
 
  __Capital Funds for Central Office Costs__ 
 
-[Pub. L. 113–76, div. L, title II, § 223][/us/pl/113/76/s223], Jan. 17, 2014, [128 Stat. 631][/us/stat/128/631], provided that: 
+[Pub. L. 113–235, div. K, title II, § 219][/us/pl/113/235/s219], Dec. 16, 2014, [128 Stat. 2753][/us/stat/128/2753], provided that: 
 
-> “With respect to the use of amounts provided in this Act \[div. L of [Pub. L. 113–76][/us/pl/113/76], see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 ([42 U.S.C. 1437g(d)][/us/usc/t42/s1437g/d] and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 ([42 U.S.C. 1437g(g)(1)][/us/usc/t42/s1437g/g/1], (2)):  Provided, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2).”
+> “With respect to the use of amounts provided in this Act \[div. K of [Pub. L. 113–235][/us/pl/113/235], see Tables for classification\] and in future Acts for the operation, capital improvement and management of public housing as authorized by sections 9(d) and 9(e) of the United States Housing Act of 1937 ([42 U.S.C. 1437g(d)][/us/usc/t42/s1437g/d] and (e)), the Secretary shall not impose any requirement or guideline relating to asset management that restricts or limits in any way the use of capital funds for central office costs pursuant to section 9(g)(1) or 9(g)(2) of the United States Housing Act of 1937 ([42 U.S.C. 1437g(g)(1)][/us/usc/t42/s1437g/g/1], (2)):  Provided, That a public housing agency may not use capital funds authorized under section 9(d) for activities that are eligible under section 9(e) for assistance with amounts from the operating fund in excess of the amounts permitted under section 9(g)(1) or 9(g)(2).”
 
 Similar provisions were contained in the following appropriation acts:
+
+    [Pub. L. 113–76, div. L, title II, § 223][/us/pl/113/76/s223], Jan. 17, 2014, [128 Stat. 631][/us/stat/128/631].
 
     [Pub. L. 112–55, div. C, title II, § 224][/us/pl/112/55/s224], Nov. 18, 2011, [125 Stat. 700][/us/stat/125/700].
 
@@ -753,11 +755,13 @@ Similar provisions were contained in the following appropriation acts:
 [/us/pl/108/7]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F108%2F7
 [/us/stat/117/487]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F117%2F487
 [/us/usc/t42/s1437g/j]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fj
-[/us/pl/113/76/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs223
-[/us/stat/128/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F631
-[/us/pl/113/76]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76
+[/us/pl/113/235/s219]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235%2Fs219
+[/us/stat/128/2753]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F2753
+[/us/pl/113/235]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F235
 [/us/usc/t42/s1437g/d]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fd
 [/us/usc/t42/s1437g/g/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft42%2Fs1437g%2Fg%2F1
+[/us/pl/113/76/s223]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F113%2F76%2Fs223
+[/us/stat/128/631]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F128%2F631
 [/us/pl/112/55/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F55%2Fs224
 [/us/stat/125/700]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F125%2F700
 [/us/pl/111/117/s224]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F117%2Fs224
