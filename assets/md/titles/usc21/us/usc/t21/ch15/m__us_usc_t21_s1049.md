@@ -33,6 +33,8 @@
 
     The Fair Packaging and Labeling Act, referred to in subsec. (a), is [Pub. L. 89–755][/us/pl/89/755], Nov. 3, 1966, [80 Stat. 1296][/us/stat/80/1296], which is classified generally to chapter 39 (§ 1451 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under [section 1451 of Title 15][/us/usc/t15/s1451] and Tables.
 
+    The supplemental rules for certain admiralty and maritime claims, referred to in subsec. (a), were renamed the Supplemental Rules for Admiralty or Maritime Claims and Asset Forfeiture Actions and are set out as part of the Federal Rules of Civil Procedure in the Appendix to Title 28, Judiciary and Judicial Procedure.
+
 ----------
 
 [Previous](./../../../..//us/usc/t21/ch15/m__us_usc_t21_s1048.md) | [Next](./../../../..//us/usc/t21/ch15/m__us_usc_t21_s1050.md) | [Root of Title](./../../../../) | [Other Versions of this Document](https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft21%2Fs1049)

@@ -75,13 +75,13 @@
 
     (g) __Administrative restraint; detention orders__ 
 
-        (1) If during an inspection conducted under [section 374 of this title][/us/usc/t21/s374] of a facility or a vehicle, a device or tobacco product which the officer or employee making the inspection has reason to believe is adulterated or misbranded is found in such facility or vehicle, such officer or employee may order the device or tobacco product detained (in accordance with regulations prescribed by the Secretary) for a reasonable period which may not exceed twenty days unless the Secretary determines that a period of detention greater than twenty days is required to institute an action under subsection (a) of this section or [section 332 of this title][/us/usc/t21/s332], in which case he may authorize a detention period of not to exceed thirty days. Regulations of the Secretary prescribed under this paragraph shall require that before a device or tobacco product may be ordered detained under this paragraph the Secretary or an officer or employee designated by the Secretary approve such order. A detention order under this paragraph may require the labeling or marking of a device or tobacco product during the period of its detention for the purpose of identifying the device or tobacco product as detained. Any person who would be entitled to claim a device or tobacco product if it were seized under subsection (a) of this section may appeal to the Secretary a detention of such device or tobacco product under this paragraph. Within five days of the date an appeal of a detention is filed with the Secretary, the Secretary shall after affording opportunity for an informal hearing by order confirm the detention or revoke it.
+        (1) If during an inspection conducted under [section 374 of this title][/us/usc/t21/s374] of a facility or a vehicle, a device, drug, or tobacco product which the officer or employee making the inspection has reason to believe is adulterated or misbranded is found in such facility or vehicle, such officer or employee may order the device, drug, or tobacco product detained (in accordance with regulations prescribed by the Secretary) for a reasonable period which may not exceed twenty days unless the Secretary determines that a period of detention greater than twenty days is required to institute an action under subsection (a) of this section or [section 332 of this title][/us/usc/t21/s332], in which case he may authorize a detention period of not to exceed thirty days. Regulations of the Secretary prescribed under this paragraph shall require that before a device, drug, or tobacco product may be ordered detained under this paragraph the Secretary or an officer or employee designated by the Secretary approve such order. A detention order under this paragraph may require the labeling or marking of a device, drug, or tobacco product during the period of its detention for the purpose of identifying the device, drug, or tobacco product as detained. Any person who would be entitled to claim a device, drug, or tobacco product if it were seized under subsection (a) of this section may appeal to the Secretary a detention of such device, drug, or tobacco product under this paragraph. Within five days of the date an appeal of a detention is filed with the Secretary, the Secretary shall after affording opportunity for an informal hearing by order confirm the detention or revoke it.
 
         (2)
 
             (A)
 
-             Except as authorized by subparagraph (B), a device or tobacco product subject to a detention order issued under paragraph (1) shall not be moved by any person from the place at which it is ordered detained until—
+             Except as authorized by subparagraph (B), a device, drug, or tobacco product subject to a detention order issued under paragraph (1) shall not be moved by any person from the place at which it is ordered detained until—
 
                 (i) released by the Secretary, or
 
@@ -91,11 +91,11 @@
 
             (B)
 
-             A device subject to a detention order under paragraph (1) may be moved—
+             A device or drug subject to a detention order under paragraph (1) may be moved—
 
                 (i) in accordance with regulations prescribed by the Secretary, and
 
-                (ii) if not in final form for shipment, at the discretion of the manufacturer of the device for the purpose of completing the work required to put it in such form.
+                (ii) if not in final form for shipment, at the discretion of the manufacturer of the device or drug for the purpose of completing the work required to put it in such form.
 
     (h) __Administrative detention of foods__ 
 
@@ -144,18 +144,6 @@
             Notwithstanding any other provision of Federal law, in implementing this section, the Secretary shall only promulgate regulations as described in paragraph (1).
 
 ([June 25, 1938, ch. 675, § 304][/us/act/1938-06-25/ch675/s304], [52 Stat. 1044][/us/stat/52/1044]; [June 24, 1948, ch. 613, § 2][/us/act/1948-06-24/ch613/s2], [62 Stat. 582][/us/stat/62/582]; [Aug. 7, 1953, ch. 350, § 3][/us/act/1953-08-07/ch350/s3], [67 Stat. 477][/us/stat/67/477]; [Pub. L. 85–250][/us/pl/85/250], Aug. 31, 1957, [71 Stat. 567][/us/stat/71/567]; [Pub. L. 89–74, § 6][/us/pl/89/74/s6], July 15, 1965, [79 Stat. 232][/us/stat/79/232]; [Pub. L. 90–639, § 4(b)][/us/pl/90/639/s4/b], Oct. 24, 1968, [82 Stat. 1362][/us/stat/82/1362]; [Pub. L. 91–513, title II, § 701(c)][/us/pl/91/513/s701/c], (d), Oct. 27, 1970, [84 Stat. 1281][/us/stat/84/1281], 1282; [Pub. L. 94–278, title V, § 502(a)(2)(C)][/us/pl/94/278/s502/a/2/C], Apr. 22, 1976, [90 Stat. 411][/us/stat/90/411]; [Pub. L. 94–295][/us/pl/94/295], §§ 3(c), 7(a), May 28, 1976, [90 Stat. 576][/us/stat/90/576], 582; [Pub. L. 102–300, § 6(c)][/us/pl/102/300/s6/c], June 16, 1992, [106 Stat. 240][/us/stat/106/240]; [Pub. L. 103–80, § 3(f)][/us/pl/103/80/s3/f], Aug. 13, 1993, [107 Stat. 775][/us/stat/107/775]; [Pub. L. 105–115, title IV, § 418][/us/pl/105/115/s418], Nov. 21, 1997, [111 Stat. 2379][/us/stat/111/2379]; [Pub. L. 107–188, title III, § 303(a)][/us/pl/107/188/s303/a], June 12, 2002, [116 Stat. 663][/us/stat/116/663]; [Pub. L. 110–85, title IX, § 912(b)(1)][/us/pl/110/85/s912/b/1], Sept. 27, 2007, [121 Stat. 952][/us/stat/121/952]; [Pub. L. 111–31, div. A, title I, § 103(d)][/us/pl/111/31/s103/d], June 22, 2009, [123 Stat. 1836][/us/stat/123/1836]; [Pub. L. 111–353, title II, § 207(a)][/us/pl/111/353/s207/a], Jan. 4, 2011, [124 Stat. 3944][/us/stat/124/3944]; [Pub. L. 112–144, title VII, § 709(a)][/us/pl/112/144/s709/a], (b)(2), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069].)
-
- __Amendment of Subsection (g)__ 
-
-    [Pub. L. 112–144, title VII, § 709(a)][/us/pl/112/144/s709/a], (c), July 9, 2012, [126 Stat. 1069][/us/stat/126/1069], 1070, provided that, effective on the date of issuance of certain final regulations (see Regulations note below), subsection (g) of this section is amended:
-
-    (1) in paragraph (1), by inserting “, drug,” after “device” each place it appears;
-
-    (2) in paragraph (2)(A), by inserting “, drug,” after “(B), a device”; and
-
-    (3) in paragraph (2)(B), by inserting “or drug” after “device” each place it appears.
-
-    See 2012 Amendment notes below.
 
  __Amendments__ 
 
@@ -220,6 +208,8 @@
 [Pub. L. 112–144, title VII, § 709(c)][/us/pl/112/144/s709/c], July 9, 2012, [126 Stat. 1070][/us/stat/126/1070], provided that: 
 
 > “The amendments made by subsection (a) \[amending this section\] shall not take effect until the Secretary has issued a final regulation under subsection (b) \[amending this section and enacting provisions set out as a note under this section\].”
+
+    \[Final regulation issued May 29, 2014, effective June 30, 2014. See 79 F.R. 30716.\]
 
  __Effective Date of 2011 Amendment__ 
 
@@ -321,8 +311,6 @@
 [/us/stat/123/1836]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F123%2F1836
 [/us/pl/111/353/s207/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F353%2Fs207%2Fa
 [/us/stat/124/3944]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F124%2F3944
-[/us/pl/112/144/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fa
-[/us/stat/126/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1069
 [/us/pl/112/144/s709/a]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fa
 [/us/stat/126/1069]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F126%2F1069
 [/us/pl/112/144/s709/a/1]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F112%2F144%2Fs709%2Fa%2F1
