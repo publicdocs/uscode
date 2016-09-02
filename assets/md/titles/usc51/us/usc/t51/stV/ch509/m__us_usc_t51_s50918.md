@@ -135,7 +135,7 @@ Oct. 30, 1984, Pub. L. 98–575, § 5(a)(2), 98 Stat. 3057; Nov. 16, 1990, Pub
 
  __Streamline Commercial Space Launch Activities__ 
 
-[Pub. L. 114–90, title I, § 113][/us/pl/114/90/s113], Nov. 25, 2015, [129 Stat. 714][/us/stat/129/714], provided that:
+[Pub. L. 114–92, div. A, title XVI, § 1617][/us/pl/114/92/s1617], Nov. 25, 2015, [129 Stat. 1106][/us/stat/129/1106], provided that:
 
 >     “(a)  __Sense of Congress__  __.—__ 
 
@@ -147,7 +147,7 @@ Oct. 30, 1984, Pub. L. 98–575, § 5(a)(2), 98 Stat. 3057; Nov. 16, 1990, Pub
 
 >         “(1) promote commercial space launches and reentries by the private sector;
 
->         “(2) facilitate Government, State, and private sector involvement in enhancing U.S. launch sites and facilities;
+>         “(2) facilitate Government, State, and private sector involvement in enhancing United States launch sites and facilities;
 
 >         “(3) protect public health and safety, safety of property, national security interests, and foreign policy interests of the United States; and
 
@@ -171,7 +171,7 @@ Oct. 30, 1984, Pub. L. 98–575, § 5(a)(2), 98 Stat. 3057; Nov. 16, 1990, Pub
 
 >         “(2)  __Reports__  __.—__ 
 
->         Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2015\], and annually thereafter until the Secretary of Transportation determines no outmoded or duplicative requirements or approvals of the Federal Government exist, the Secretary of Transportation, in consultation with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the commercial space sector, and the heads of other executive agencies, as appropriate, shall submit to the Committee on Commerce, Science, and Transportation of the Senate, the Committee on Science, Space, and Technology of the House of Representatives, and the congressional defense committees a report that includes the following:
+>         Not later than 180 days after the date of enactment of this Act \[Nov. 25, 2015\], and annually thereafter until the Secretary of Transportation determines no outmoded or duplicative requirements or approvals of the Federal Government exist, the Secretary of Transportation, in consultation with the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, the commercial space sector, and the heads of other executive agencies, as appropriate, shall submit to the appropriate congressional committees a report that includes the following:
 
 >             “(A)
 
@@ -197,9 +197,25 @@ Oct. 30, 1984, Pub. L. 98–575, § 5(a)(2), 98 Stat. 3057; Nov. 16, 1990, Pub
 
 >             “(A) any applicable definitions set forth in [section 50902 of title 51][/us/usc/t51/s50902], United States Code, shall apply;
 
->             “(B) the terms ‘launch’, ‘reenter’, and ‘reentry’ include landing of a launch vehicle or reentry vehicle; and
+>             “(B)
 
->             “(C) the terms ‘United States Government launch site’ and ‘United States Government reentry site’ include any necessary facility, at that location, that is commercially operated on United States Government property.”
+>              the term ‘appropriate congressional committees’ means—
+
+>                 “(i) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\];
+
+>                 “(ii) the Committee on Commerce, Science, and Transportation of the Senate;
+
+>                 “(iii) the Committee on Science, Space, and Technology of the House of Representatives; and
+
+>                 “(iv) the Committee on Transportation and Infrastructure of the House of Representatives;
+
+>             “(C) the terms ‘launch’, ‘reenter’, and ‘reentry’ include landing of a launch vehicle or reentry vehicle; and
+
+>             “(D) the terms ‘United States Government launch site’ and ‘United States Government reentry site’ include any necessary facility, at that location, that is commercially operated on United States Government property.”
+
+    Substantially identical provisions were contained in the following act:
+
+    [Pub. L. 114–90, title I, § 113][/us/pl/114/90/s113], Nov. 25, 2015, [129 Stat. 714][/us/stat/129/714].
 
 ----------
 
@@ -217,9 +233,11 @@ Oct. 30, 1984, Pub. L. 98–575, § 5(a)(2), 98 Stat. 3057; Nov. 16, 1990, Pub
 [/us/pl/111/314]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F111%2F314
 [/us/usc/t49/s70116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft49%2Fs70116
 [/us/usc/t51/s70116]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs70116
-[/us/pl/114/90/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs113
-[/us/stat/129/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F714
+[/us/pl/114/92/s1617]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F92%2Fs1617
+[/us/stat/129/1106]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F1106
 [/us/usc/t51/s50918]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50918
 [/us/usc/t51/s50902]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fusc%2Ft51%2Fs50902
+[/us/pl/114/90/s113]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fpl%2F114%2F90%2Fs113
+[/us/stat/129/714]: https://publicdocs.github.io/go/links?ns=uslm&ref=%2Fus%2Fstat%2F129%2F714
 
 
